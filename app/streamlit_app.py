@@ -274,15 +274,6 @@ with tab_applicant:
                 for line in report.feedback:
                     st.write(f"- {line}")
 
-            if report.matching_jobs:
-                st.markdown("### 🎯 Recommended jobs")
-                jdf = pd.DataFrame([m.to_dict() for m in report.matching_jobs])
-                jdf["score"] = jdf["score"].round(4)
-                st.dataframe(
-                    jdf[["rank", "score", "title", "description"]],
-                    hide_index=True, width='stretch',
-                )
-
             with st.expander("Extracted resume text"):
                 st.text_area(
                     "Resume text", value=report.resume_text, height=240, disabled=True
