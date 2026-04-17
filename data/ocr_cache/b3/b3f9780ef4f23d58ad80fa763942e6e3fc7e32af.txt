@@ -1,0 +1,64 @@
+First Last
+
+Azure DevOps Engineer
+
+Milwaukee, Wisconsin + +1-234-456-789 + professionalemail@resumeworded.com »* linkedin.com/in/username
+
+Azure DevOps engineer with over 9 years of experience in developing and managing cloud-based solutions, utilizing
+Azure services, PowerShell, and Team Foundation Server (TFS). Key achievements: succeeded in managing the
+deployment of over 87 Kubernetes clusters across Azure and AWS, with a 90% uptime rate for 18 months; reduced
+bug fixing time from 10 days to 2 hours by creating and running automated nightly builds to sniff out bugs earlier.
+
+RELEVANT WORK EXPERIENCE
+
+Resume Worded, New York, NY 2015 — Present
+Azure DevOps Engineer
+
+e Introduced 17 tools that allowed 285 developers to deploy their applications on Kubernetes without prior
+knowledge of Kubernetes or containerization.
+
+e Succeeded in managing the deployment of over 87 Kubernetes clusters across Azure and AWS, with a 90%
+uptime rate for 18 months.
+
+e Reduced release time from 3 months to 7 days through improved collaboration between Dev and Ops
+teams.
+
+e Created an internal tool that made it easy to track code deployments, increasing productivity by 100% YoY.
+
+e Improved test coverage on legacy applications by 67% through automation efforts; received a
+commendation from senior management.
+
+Growthsi, San Francisco, CA 2013 - 2015
+Linux Administrator
+
+e Built 20 new Linux Physical and Virtual servers using kickstart and PXE boot, 14 weeks into employment at
+Growthsi.
+
+e Provided production support for 45 applications residing in Linux and Windows environments; selected
+among peers for early promotion.
+
+e Created 82 customized Linux operating system environments on SAS/J 4.8, Windows NT 3.51, and Solaris
+7 operating systems, an 80% improvement compared to previous administrators.
+
+Resume Worded Exciting Company, San Francisco, CA 2011 - 2013
+Build and Release Engineer
+
+e Reduced bug fixing time from 10 days to 2 hours by creating and running automated nightly builds to sniff
+out bugs earlier.
+
+e Achieved and maintained a 94.6% Service Control Manager (SCM) database integrity while managing 5.6GB
+of code, documentation, and over 3.1K software enhancement requests.
+
+e Reduced the number of bugs from 30 to 5 per 1K lines of code by increasing the number of weekly releases
+by 120% for projects.
+
+EDUCATION
+
+Resume Worded University, New York, NY 2011
+Bachelor of Science — Computer Science
+
+SKILLS
+
+Technical Skills: Microsoft Azure (Advanced), Agile Methodologies (Experienced), Software Development
+Tools & Software: Unix, Puppet, Linux, Jenkins, Ansible, Terraform, Git, Kubernetes, Microsoft Azure.
+Languages: English (Native), German (Fluent), French (Conversational).

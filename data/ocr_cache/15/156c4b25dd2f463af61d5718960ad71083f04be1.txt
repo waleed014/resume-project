@@ -1,0 +1,129 @@
+First Last
+
+Junior ETL Developer
+WORK EXPERIENCE
+
+Resume Worded, New York, NY
+
+Junior ETL Developer 01/2015 — Present
+
+e Assisted in optimizing 18 databases using Teradata and SQL in the
+first month on the job.
+
+e Monitored all data authentication processes and prepared 1.2K daily
+error reports.
+
+e Reduced bug occurrence by 70% via optimizing data warehousing
+software, improving the ability to meet deadlines 9 out of 10 times.
+
+e Migrated the existing data flows for 4K client accounts, shifting away
+from an obsolete system; decreased end-user waiting times by 90%.
+
+Growthsi, San Francisco, CA
+
+SQL Database Developer (Intern) 06/2010 — 12/2014
+
+e Collaborated with 17 developers to rewrite all stored procedures and
+triggers for an upgrade from SQL Server 7.0 to 2000.
+
+e Conceived and created a relational database that improved the
+efficiency of Growthsi customer service department by 70%.
+
+VOLUNTEERING ACTIVITIES AND EXTRACURRICULARS
+
+Resume Worded’s Business Society, New York, NY
+
+Financial Aid Representative 06/2009 - 04/2010
+
+e Visited companies to raise $200K for five special projects within one
+month.
+
+e Renovated 15 schools across the state with donations from a
+crowdfunding event.
+
+PROJECTS
+
+Virtual Repair Kit for Servers 05/2009
+
+e Created 3K lines of code to find and diagnose production server
+errors and then created a plan to prevent future failures.
+
+e Developed 25 tools that restore web servers to their original state
+after any malicious attack.
+
+Efficient SQL Tool 04/2009
+
+e Uncovered ways to increase access efficiency by creating new
+indexed views on SQL Server tables.
+
+e Designed an efficient SQL Server 2K solution that adequately secures
+90% of customer information.
+
+CONTACT
+
++ Honolulu, HI (Open to Remote)
++ +1-234-456-789
+
++ email@resumeworded.com
+
++ linkedin.com/in/username
+
++ github.com/resumeworded
+
+SKILLS
+
+Hard Skill:
+
++ Debugging (Advanced)
+
++ Data Testing (Experienced)
+
++ Web Services
+
++ Data Visualization
+
++ Data Structure and Algorithm
+Design
+
+Industry Knowledge:
+
++ Data Extraction & Storing
++ Oracle Warehouse Builder
++ Dimensional Modeling
+
+Tools and Software:
++ Python
+
++ Java
+
++ Ctt+
+
++ MongoDB
+
++ Teradata
+
++ Don't forget to use Resume
+Worded to scan your resume
+before you send it off (it's free and
+proven to get you more jobs)
+
+EDUCATION
+
+Resume Worded University
+Master of Science
+
+Electronics & Computer Technology
+Boston, MA — 05/2010
+
+Awards: Resume Worded Teaching
+Fellow (only 5 awarded to class), Dean's
+List 2012 (Top 10%)
+
+OTHER
+
++ Data Warehousing and BI
+Certified
+
++ Certified Informatica Developer.
++ Received Employee of the Year
+Twice (2016 & 2020).

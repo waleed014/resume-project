@@ -1,0 +1,60 @@
+Robert Smith Phone (23) 4867899
+
+Email Infoguvikresume,com
+
+Website wont, quikresuime, com
+Lead Java Developer LUnkedin: linkedin.com/quikresurne
+
+‘Address; 1737 Marshullle Road, Alabarna
+
+SUMMARY
+
+Lead Java developer will be working on an application that is in construction in the Java
+environment. The application is developed using Spring Framework 3.0 and Hibernate for the Data
+‘Access Layer. The application will have interfaces to other application(s) and also to external
+systems Using web services, Follows Agile development methodology, This resource will also
+perform work as needed on ather modernization projects,
+
+SKILLS
+
+Management, Java, Jee, Spring
+WORK EXPERIENCE
+
+Lead Java Developer
+Global Bank - December 2024 - 2020
++ Builds of updates existing Java applications; Java (lava 8),
++ Builds front-end web pages using HTML, CSS, Angular, AMX,
+Builds back-end application code that manipulates content, and Interacts with other systems,
+services, and APIS,
+Bullds and updates RESTIUI APs,
+Interfaces with PostaresOu,
+Implements unit testing for built components using tools such as junit;
+Helps the DevOps team set up Continuous integration and Continuous Deployment.
+
+Lead Java Developer
+Detta Corporation - 2010-2014
++ Responsibilities Developed and implemented WebServicés and used Spring Framework
++ Developed the Fresentation and Controler layers using JSP, HTML, Java Script, Business layer
+
+Using Spring (IOC, AOR), DTO, TA, and Persistent layer DAO, Hibernate for all modules,
+Developed |SP pages for presentation layer (Ui) using Struts 1.2 with cient side validations
+Using Struts Validator framew ork JavaScript
+Implemented |SF framework in the application whichis based on MVC design architectur
+Created Dialog boxes using DOJO for better look and fee
+Integrate the Ext}sSencha framework with Oracle BPM,
+Some sample tests were incorporated using Multi-Threaded Java Applets, java Scripts were
+Used for playing audio clips andto the make the price lists interactive to the User Designed
+andl developed Ul Search and results screens for SDWCS operators and other agencies Using
+JSP, Javascript, HTML and CSS.
+Designed GUI with help of Struts Tiles, CSS, using Ajax for data routipication as well as data
+Validation Created the Mock-ups using HTML and JavaScript to understand the flow of the web
+‘application Create presentation layer using Struts? tags and themes (HTMUXHTML) and
+JQuery/Prototype!DWR for AJAX functionality Hooked up the JSP plugins with spring bind and
+JSTL tags inthe HTML pages Provided weekly Content Updates for marketing web sit Using
+HTML and CSS,
+
+EDUCATION
+
+Bachelor's of Computers
+
+(0 This Era sume Tamla is the copyright of Onakesume com. Uso Guldatns

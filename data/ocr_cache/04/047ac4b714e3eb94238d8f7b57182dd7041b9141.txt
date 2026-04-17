@@ -1,0 +1,133 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+® Montgomery Street, San Francisco, CA 94105 2 (655) 432-1000 4 resumesample@example.com
+
+1am currently a StarLiMs Developer and Database Administrator. | am seeking similar opportunities. | am
+impassioned by the development, troubleshooting, investigation and implementation of solutions and process
+automation. Working in Information management and IT for over a decade has offered me a venue to
+exercise a desire to learn every aspect of Information Technology. | have a strong work ethic and a desire to
+provide solutions to users of applications and data systems in an effort to streamline workflows and promote
+efficiency and safety in the workplace.
+
++ LANGUAGES: StarLiMs Scripting Language, * Government, WebLogic
+JScript.net, T-SQL and some of the following: «© HTMLS
+C#, VB, JavaScript, Java, HTMLS, ASP.NET. * Java
+* DATABASE: SQL Server, Access, Oracle. «Linux Server Administration
+* SOFTWARE: StarLiMs, EPOCH, DotNetNuke, * System DBA and Middleware
+Visual Studio, Subversion, SSRS, Crystal «RAD Worker
+Report, SSMS. + Reporting with SSRS and Crystal Reports
++ SYSTEMS: Windows, Linux + Safety lead 3 years
++ PROJECT MANAGEMENT: Technical Lead * Windows Server
+
+* VENDOR MANAGEMENT: Direct vendor
+interaction with multiple software vendors.
+
++ ASPNET
+
++ Agile
+
++ Disaster recovery
+
+SENIOR ORACLE / MS SQL DATABASE ADMINISTRATOR 11/2016 to CURRENT
+
+Saic | Buffalo, NY
+
++ Upgraded Oracle platform from 11g to 12c, and from 12c to 19¢ including Linux server configuration
+and migration
+
++ Development of multiple StarLiMs applications including but not limited to Chain of Custody auto login,
+Electronic Data Delivery, Sample Container Management including the use of linked servers to both MS-
+SQL and Oracle databases.
+
+* Develop, Analyze, implement, and maintain custom StarLiMs applications for government clients working
+in the environmental remediation, decontamination and decommission, and waste management fields.
+
++ Training: Oracle WebLogic Server Admin Training Oracle Unix/Linux Training, Oracle DBA training.
+
++ Tested and modified databases to determine and correct issues
+
++ Assessed customer needs and goals through communication and system evaluations to modify existing
+databases for personalized customization.
+
++ Developed scripts for index and table analysis actions.
+
++ Specified user access levels for each database segment to protect database integrity and company
+information.
+
++ Developed and implemented security initiatives to protect important company data
+
++ Wrote scripts and processes for data integration, bug fixes, and data changes.
+
+AFOLICATION SUPPORT AND STARLIMS DEVELOPER 09/2011 to 11/2016
+Fluor-BWXT | City, STATE
+
++ Design and deploy StarLiMs Scripts, Data Sources, Web Forms such as Sample/Test Re-Open.
+Sample/Test Un-Reopen.
+
++ Develop StarLiMs Data Delivery, Reports By SDG, Sample Test Backlog reporting features.
+
++ Design and maintain SQL queries in MS Access and MS SQL Server for reporting back-end, including
+Crystal Report development, stored procedures, and DB views.
+
+* General code edits and troubleshooting for StarLiMs forms, data sources, scripts.
+
++ SQL Server database design and administration including the development and execution of SQL
+queries and also stored procedures using MS SQL Server.
+
++ Application Administrator for multiple applications including StarLiMs.
+
+‘+ Upgraded and updated applications and data systems working within the framework of change
+management and IT Governance policies and procedures
+
++ StarLiMs and other application data changes and change management
+
++ Safety Advocate representing the IT department
+
+* RAD WORKER II trained and certified
+
++ Designed and implemented DB backups and disaster recovery plan.
+
+* Contributed to technical support documentation by updating literature based on common support
+interactions and known issues with software
+
++ Gathered user requirements and preferences for application changes, integrating feedback into
+subsequent patching schedule.
+
++ Created and updated technical documentation for network installations and changes to existing
+installations.
+
+TEOHNICAL SUPPORT 11/2003 to 09/2011
+Outdoors Unlimited ISP | City, STATE
++ General web site maintenance, troubleshooting, and IT work.
++ Helpdesk support for 10,000 user system
++ MS-SQL queries of customer database.
++ Supported customers having data connectivity issues, assisting with troubleshooting steps and
+rebooting of hardware
++ Responded to assistance requests from users and directed individuals through basic troubleshooting
+tasks,
+
+LAO ANALYST/CHEMIST 07/1996 to 07/1999
+
+USEC | City, STATE
+
+‘+ Isotopic Analysis of UF6 by Mass Spectrometer.
++ Wet Chemical bench testing in the Uranium Laboratory.
+
++ Maintained and calibrated lab instruments and equipment to streamline use.
+
++ Cleaned and sterilized lab area, tools and equipment
+
+* Conducted quality control checks, calibration and technical troubleshooting of hematology analyzer.
+
+Bachelor of Science | Chemistry/ Geology 06/1996
+Morehead State University, Morehead, KY.
+GPA: 3.0/4.0

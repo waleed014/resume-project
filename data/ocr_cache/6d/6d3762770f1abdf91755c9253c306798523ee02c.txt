@@ -1,0 +1,74 @@
+Summary
+
+Business Analyst experienced in supporting analytical needs of organizations with prior project/product management experience. Result-
+oriented individual recognized for effectively resolving challenging issues aspiring to become an Analytics expert.
+
+Work Experience
+BUSINESS ANALYST |
+‘Extracted data from Sabre, Duetto, and Google Analytics into MS Excel, implemented advanced functionalities lke Pivot Tables,
+\VLOOKUP, and Macros to perform data analysis for business; impacting insights & making recommendations.
+Used predictive analysis to predict the number of guests for any given night to maximize occupancy and increase revenue
+Documented monthly e-commerce performance reports in MS Word and created MS PowerPoint presentations for higher
+‘management.
+‘© Defined KPI and metrics to measure business's success.
+* Partof iverse, cross-functional teams working towards fulfilment of corporate goals and productivity.
+* _ Implemented SOL queries using joins and sub queries to retrieve data from the database.
+PROJECT MANAGER-INTERN |
+“Managed project requirements using JIRA and Confluence.
+Collected, cleaned, and analyzed data using IFTTT, WeWiredWeb, and MS Excel using functions lke Pivot Tables and graphs.
+Created mockups and wireframes; documented use cases, activity diagrams, sequence diagrams, and workflow.
+‘Analyzed and reviewed developer Python and HTML codes.
+Prepared and executed test plans including documenting and resolving issues.
+
+Documented Business Requirement Documents (BRDs) and Functional Requirement Documents (FRDS).
+PRODUCT MANAGER-INTERN |
+
+Implemented advanced MS Excel functionalities like VLOOKUP, Pivot Tables to forecast revenue based on historical data.
+‘© Analyzed old detection cases using JIRA tickets and Salesforce to determine which products have maximum False/True Positives
+‘and False/True Negatives.
+Conducted market analysis and research on other threat intelligence companies to see how they differ from each other.
+Created innovation games to help engineers decide product features.
+Coordinated with Product Manager to gather requirements and make modifications and corrections to the product specific
+documents.
+
+Certifications
+
+‘Scrum Fundamentals Certified (April, 2016)
+
+Microsoft Project 2016: Essential Training (February, 2016)
+
++ Hootsuite Certificate Courseware (October, 2015)
+
++ IBM 082 Database and Application Fundamentals (October, 2013)
+Technical Skills
+
+Database: Oracle Si, MySQL.
+
++ Software/Tools: VB, MS Visio, Tableau, MS Project Professional, Salesforce, SharePoint
+Education
+
+may, 2026)
+IMS INFORMATION SYSTEMS-BUSINESS ANALYTICS
+
+RR (206057, 2015)
+
+'BE INFORMATION TECHNOLOGY
+
+Academic Projects
+[ANALYTICS PROIECT (2016)
+
++ Used regression analysis, Tableau, and forecasting to conclude which states in US should stop the production of GE crops, sit
+
+‘damage, and which crops can be excluded fom being produced genetical
+DATA WAREHOUSING FOR] (2015)
+
+* Offered a system design solution to start-up based on requirements of and data provided by the company. Proposed a data
+warehouse management plan to manage inventory, sales, and customer data inorder to help in day-to-day operations. The plan
+included gathering requirements, choosing KPI, data qualty and data sources analysis, dimensional modeling, ETL system
+requirements, and budgeting.
+
+‘SUPPLY CHAIN MANAGEMENT FOR IMI CONSTRUCTIONS PVT.LTD. (2015)
+
+‘Analyzed operations data to propose a business pan using advanced MS Excel functions like VLOOKUP, Pivot tables, and linear
+
+‘regression. Aimed at improving overhead costs and improved the profit margin of the company by 1.5% per projec.

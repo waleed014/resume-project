@@ -1,0 +1,53 @@
+DARCY GEE 99 Georgetown Cres.
+Toronto, ON
+
+(S19) 555-5555
+
+dedba@yahoo.ca
+
+Senior Database Administrator
+SQL ~ Oracle ~ Sybase
+
+HIGHLIGHTS OF QUALIFICATIONS
+
+‘© Over 7 years’ information technology experience including programming, systems development
+and programmer analyst
+
+# Excellent project management experience
+
+# Practical experience in both IT and industrial settings in the roles of unit systems, system
+commissioning processes, maintenance, and operations
+
+# ISP Designation
+
+© Demonstrated organizational, planning, and time management skills
+
+TEC! ICAL SKILLS
+
+MS VS 5.0 —7.0 (.NET) VB
+
+VISIO CH
+
+oc cH
+
+ATL Power Quest Disk Image Tools
+Active X Borland C Familiar with different
+COM, DCOM drafting and engineering tools
+Oscilloscopes XML DATA
+
+SLC500/4 & sle 500/2 processors
+
+EMPLOYMENT BACKGROUND
+
+Senior Database Administrator June 2004 — Present
+Sears Canada, Toronto, ON
+Design, install, maintain and upgrade Microsoft SQL Clusters including OS, application, SAN and
+replication tools
+© Administration and maintenance of server hardware, attached storage arrays and SAN storage
+infrasteucture
+* Oversee production database tasks such as data security, data access, data integrity and reporting
+© Track and notify management of database performance, capacity and usage
+# Perform database tuning and maintenance tasks including file reorganization, index maintenance
+and database compression
+© Work closely with other data administrators, outside vendors, and application programmers to
+identify critical database concerns

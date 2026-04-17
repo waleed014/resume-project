@@ -1,0 +1,109 @@
+YONINA BARTZEN
+
+ETL Informatica Developer
+
+PROFILE
+
+yonina.bartzen@gmail.com
+(897) 274-3366
+123 Maple Street, Indianapolis, IN 46225
+
+oun
+
+EMPLOYMENT HISTORY
+
+Ahighly skilled ETL Informatica
+
+Developer with 1 year of experience
+
+in designing, developing, and
+implementing data integration
+solutions. Proficient in utilizing
+Informatica PowerCenter to
+extract, transform, and load
+
+data from various sources
+
+while ensuring data quality and
+integrity. Demonstrates strong
+problem-solving abilities and
+collaboration skills to optimize
+workflows and contribute to the
+successful completion of projects.
+Continuously seeks opportunities
+to enhance technical expertise
+and drive efficiency in data
+management processes.
+
+LINKS
+
+linkedin.com/in/yoninabartzen
+
+Data Integration
+
+MDM (Master Data Management)
+
+IDQ (Informatica Data Quality)
+
+B2B Data Exchange
+
+ICS (Informatica Intelligent Cloud
+Services)
+
+Big Data Management
+
+@ ETL Informatica Developer at Infogix, IN
+Mar2023 - Present
+
+«+ Implemented a data migration project that resulted in a 30%
+reduction in data processing time, enabling faster and more
+accurate business decision-making for Infogix clients.
+
++ Developed and optimized complex ETL mappings, workflows, and
+transformations, leading to a 25% improvement in overall data
+quality and a 15% increase in system performance.
+
++ Successfully led a team of developers in the integration of multiple
+data sources, resulting ina unified data warehouse that streamlined
+reporting processes and reduced manual efforts by 40%.
+
+© Associate ETL Informatica Developer at Moser Consulting, IN
+Aug 2022 -Feb 2023
+
++ Successfully migrated over 500 workflows and 1000 tasks from
+PowerCenter to Informatica Cloud, resulting in a 30% reduction in
+processing time and a 20% decrease in maintenance costs.
+
++ Developed and optimized 50+ complex ETL mappings, leading to
+a 25% improvement in data quality and a 15% increase in overall
+system performance.
+
++ Streamlined the ETL process for a major client, consolidating
+multiple data sources and reducing data extraction time by 40%,
+which led to a 10% increase in overall client satisfaction.
+
+EDUCATION
+
+Bachelor of Science in Information Technology with a focus on ETL
+Informatica Development at Indiana University Bloomington, IN
+Sep 2018- May 2022
+
+Relevant Coursework: Database Management Systems, Data Warehousing
+and ETL, Informatica PowerCenter Development, Data Integration
+Techniques, Big Data Analytics, SQL and NoSQL Databases, Business
+Intelligence, and Cloud Computing.
+
+CERTIFICATES
+
+Informatica PowerCenter Data Integration Certification
+Oct 2021
+
+Informatica Big Data Management (BDM) Developer Specialist
+
+Nov 2019
+
+MEMBERSHIPS
+
+Informatica Developer Network (IDN)
+
+International Association of Engineers (IAENG)

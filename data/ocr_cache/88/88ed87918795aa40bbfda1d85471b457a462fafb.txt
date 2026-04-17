@@ -1,0 +1,109 @@
+@ shronda.gmeiner@gmail.com
+
+Xe (588) 566-4309
+
+123 Maple Street, Concord,
+NH 03301
+
+Education
+
+Bachelor of Science
+
+in Software Engineering
+
+at University of New
+Hampshire, Durham, NH
+
+Sep 2018 - May 2022
+
+Relevant Coursework: Software
+Development, Algorithms
+
+and Data Structures,
+Object-Oriented Programming,
+Computer Networks, Database
+Systems, Operating Systems,
+Web Application Development,
+Mobile App Development,
+Software Quality and Testing,
+Software Architecture and
+Design, and Artificial Intelligence.
+
+Links
+linkedin.com/in/shrondagmeiner
+
+Skills
+
+Selenium
+
+Junit
+
+TestNG
+
+‘Appium
+
+Jenkins
+
+JIRA
+
+LoadRunner
+
+Shronda Gmeiner
+
+Functional Tester
+
+Profile
+
+Dedicated Functional Tester with 1 year of experience in meticulously evaluating
+software applications to ensure optimal performance and user experience.
+Proficientin various testing methodologies, bug tracking tools, and documentation
+processes. Adept at collaborating with cross-functional teams to meet project
+deadlines and deliver high-quality results. Committed to continuous learning and
+staying current with industry trends and best practices.
+
+Employment History
+
+Functional Tester at Cognizant Technology Solutions, NH
+May 2023 - Present
+
++ Led a team of S testers in successfully completing the functional testing phase
+for a major client's software upgrade project within the stipulated time frame
+of 6 months, resulting in a 20% reduction in reported defects post-release.
+
++ Streamlined the functional testing process by implementing automation tools
+and continuous integration, resulting in a 30% increase in overall testing
+efficiency and a 15% decrease in project delivery time.
+
++ Devised and executed test plans for a critical financial application, identifying
+and resolving over 100 high-priority defects before the product launch,
+ensuring a smooth and seamless user experience for over 10,000 end users.
+
+Associate Functional Tester at Fidelity Investments, NH
+Jul 2022- Mar 2023
+
++ Successfully identified and resolved over 150 critical software defects in the
+company's flagship application, leading to a 30% improvement in overall
+system performance and reliability.
+
++ Streamlined the functional testing process by implementing automated test,
+scripts, reducing the testing cycle time by 40% and increasing test coverage by
+25%,
+
++ Actively collaborated with cross-functional teams to develop and execute
+test plans for three major product releases, resulting in a 20% reduction
+in post-release defects and contributing to a 15% increase in customer
+satisfaction ratings.
+
+Certificates
+ISTQB Certified Tester Foundation Level (CTFL)
+
+May 2022
+
+Certified Agile Tester (CAT)
+
+‘Sep 2020
+
+Memberships
+International Software Testing Qualifications Board (ISTQB)
+
+Association for Software Testing (AST)

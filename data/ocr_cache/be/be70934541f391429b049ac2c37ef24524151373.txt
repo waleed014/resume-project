@@ -1,0 +1,48 @@
+FRANCISCO SCHILLER
+
+56163 DANIAL EXTENSIONS, HOUSTON, TX
+
+PHONE
++1 (555) 864 4075
+
+EXPERIENCE FISHER, ZIEMANN AND PAUCEK 12/2018 — present
+Boston, MA // Consultant
+¢ Experience in delivering engagements under PRINCE2, PMP or TOGAF frameworks
+¢ Understanding of ITIL framework
+¢ Experience of presenting at a user group, trade show or similar is highly desirable
+¢ Have deep knowledge of VCF,vSphere, vSAN, NSX, vRNI & HCX, Carbonite, RP4VM
+¢ Experience in cloud computing (e.g., applications, infrastructure, storage, platforms, data),
+cloud market and competitive dynamics
+¢ Have experience on Design and run workload migration and DC consolidation assignments
+
+KASSULKE AND SONS 11/2011 - 06/2018
+Boston, MA // Consultant
+
+¢ Define the approach, tools, and end state architecture for workload migations
+
+¢ Participate in the pre-sales process to understand customer business and technical objectives
+
+and product requirements
+
+Have good knowledge and experience on any of the below cloud solutions
+
+¢ VMC on AWS
+
+¢ Experience with structured Enterprise Architecture practices, hybrid cloud deployments, and
+on-premise-to-cloud migration deployments and roadmaps
+
+¢ Will take the role of a lead technologist and should bring deep understanding of technology,
+industry architectures and vertical market use- cases to the table
+
+EDUCATION OTIS COLLEGE OF ART AND DESIGN
+Bachelor's in Business
+
+SKILLS ¢ VCF, vSphere, vSAN, NSX, vRNI & HCX, Carbonite, RP4VM, Linux
+¢ Experience in designing solutions using latest version of Pega
+¢ Experience in full Pega implementation cycle using agile methodology
+¢ Understanding and hands-on experience with Pega BRE (Business Rules Engine)
+¢ Tertiary Qualification in IT / Computer Science / related discipline
+¢ BY/JDA SCPO v8.1.0.0 or above
+¢ BY/JDA Platform v8.1.0.0 or above (JDA Administration)
+Oracle PL/SQL Programming
+BY/JDA Applications and Custom processes support

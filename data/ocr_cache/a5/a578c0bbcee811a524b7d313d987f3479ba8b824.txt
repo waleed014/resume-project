@@ -1,0 +1,128 @@
+Summary
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Reliable ETL Developer and Business analyst with 4 years of experience building dependable and accurate data transformation tools and
+dashboards to drive business growth. Well-versed in technologies such as Informatica power center, SQL, Microsoft BI, and Spotfire. Strong
+analytical and problem-solving skills, with a detail-oriented and systematic approach to data transformation and analytics. Value-driven and
+hardworking with excellent communication and project management skills. Experienced in collaboration with multidiscipline teams to meet
+needs, improve processes and ultimately attain company objectives.
+
+Semis
+
+* Informatica PowerCenter
+‘* Microsoft Power BI
+
+* Pivot Tables
+
+‘© Change Data Capture
+
+* Slowly Changing Dimensions
+
+* Business and Technical Analysis
+* MS SQL Server 2000
+
+SQL Application
+Data Extraction
+
+Financial and Economic Data
+
+Extraction Transformation and Loading (ETL)
+Project Management
+
+MS Project
+
+Strategic Planning
+
+* Informatica Data Quality
+
+Work History
+
+03/2021 to Current
+
+ETL Developer
+American Homes 4 Rent — Tampa, FL
+‘* Designed integration tools to combine data from multiple, varied data sources such as RDBMS, SQL and big data
+installations
+‘* Designed and created ETL code installations, aiding in transitions from one data warehouse to another.
+«Interpreted data models for conversion into ETL diagrams and code.
++ Optimized broken and inefficient assets through effectively troubleshooting technical processes and workflows.
+
+06/2017 to 08/2018 Business Planning Analyst
+
+Time Warner Cable — Sumter, SC
+
++ Performed analysis on business aspects and determined vital drivers for business performance.
+
+‘ Analyzed and resolved issues impacting business operations and goal achievement
+
+‘* Developed intelligence-sharing dashboards, made monthly updates, and shared important information with
+‘management.
+
+* Collected data from various sources for analysis, evaluation, and business intelligence purposes.
+
+‘* Developed short-term goals and long-term strategic plans to improve risk control and mitigation.
+
++ Prepared the quarterly planning updates and delivered KPIs for projects to executive management to aid in the
+Business assessment and Outlook meetings to create long-term business strategies.
+
+‘* Improved project planning processes by championing efforts in conjunction with functional teams; created
+streamlined processes that reduced project planning cycle time by 30%
+
+* Researched, recommended, tested, and implemented innovative business tools and new technology to increase the
+efficiency of the business Intelligence process.
+
+11/2012 to 04/2016 Integrated Project Manager
+
+Epucation
+
+Fleishman-Hillard Inc — Atlanta, GA
+
+‘* Responsible for the successful and timely execution of complex projects, including ensuring compliance with
+schedule, budget, scope, and quality deliverables.
+
+‘* Effectively collaborated with asset functional teams and management teams to provide monthly and quarterly
+production and capital forecast for budget, short-term and long-term plans, including resource planning,
+production’ facility capacity planning, and marketing contracts.
+
++ Prepared weekly project progress reports reflecting Plan schedule, resources, expenditure, and timeline to
+completion, ensuring on-time delivery of projects
+© Conducted schedule change impact analysis from baseline; communicated variances to senior management for
+strategic financial decision making
+
++ Provided project eamed value management (EVM) analysis, including detail planning, actual vs. plan variance
+analysis, schedule/cost impact analysis, Estimated Total Cost (ETC) analysis, and Estimate at Completion (EAC).
+
+‘* Tracked project and team member performance closely to quickly intervene in mistakes or delays.
+
+Identified plans and resources required to meet project goals and objectives
+
+* Effectively managed multiple projects simultaneously with competing priorities and coordinated efforts with teams
+ensuring on-time delivery within scope, budget, and quality expectations.
+
++ Ensured profitability of projects; performed economic analysis and evaluation for drilling and completion
+programs, new production facilities, projects, and pipeline projects exceeding $800MM.
+
+# Successfully executed all aspects of an assigned project, including managing the staff, monitoring project
+schedules, resources, and budgets, guaranteeing the project is within scope and budget, and delivering quality
+work.
+
++ Created and presented project status and variance analysis due to changes in the program schedule, cost, and scope
+to senior management.
+
++ Performed project schedule risk analysis, identified risk areas, reviewed schedule, and compared planned versus
+actual program progress.
+
+‘* Developed and implemented technical and corporate procedures and policies to ensure the successful operation of
+the program and profitability.
+
+12/2020
+
+MBA: Management
+University of Houston - Victoria - Victoria, TX
+
+‘Master of Science: Petroleum Engineering
+Texas A&M University - College Station, TX

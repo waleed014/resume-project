@@ -1,0 +1,55 @@
+ROBERT SMITH
+Associate Sap Abap Developer
+
+Phone: (0123}-486-789 | Email: infoBqwikresumescom | Website: Quikresume.com
+
+Almost 81years' experience in SAP as a Technical Consultant (ABAP) which includes all
+the RICEFW components Experience in ABAP (SAP 4.7 & ECC6.0) includes
+
+Standard Interactive /ALV Reports, Work bench TOOLS (Menu painter. Sereen painter,
+Function Library. Debugger), User exits, SAP Seripts, Smart forms. BAPL, BADI.
+ALE/IDOC. ABAP Query. BDC, LSMW, Logical database, RFC Working experience in
+‘Objeot Oriented ABAP Programming,
+
+‘SAP Technical Experience ~All aspects of ABAP (Reports.
+
+Associate Sap Abap Developer
+ABC Corporation - February 2014 - July 2018
+
+Key Deliverables:
++ Worked on implementation of ES: COA (Enterprise structure chart of accounts}
+project.
+
++ Modified interface programs relating to Accounts receivable (AR), Accounts
+Payable (API, Assets, Tax. Vending, and General Ledger (GL).
+
+Carried out changes to existing Z-reports and Enhancements in Adeounts
+
+receivable (AR). Accounts Payable (AP), Assets, Tax, Vending, and General ledger
+(GL) using various tonls like Report Painter, Report writer, and ABAP query, ABAP
+customized report using SAP tables,
+
++ Created an Asset Payment BDC program that will upload asset related purchases
+and process payments mlated to AEs or assets from an excel spreadsheet,
+
++ Created the reguired journal entry through F-90 transnetion
+
++ Developed OOALY report, 19 display the profit center and details and user click on
+‘any profit center number eall the transaction KES2 to display the profil center
+details,
+
++ Developed OOALY report, in which the baste lst displays the sales onder
+subsequently, displays the list of items for selected sales order,
+
+‘Sap Abap Developer
+Delta Corporation - 2010 - 2014
+
+Key Deliverables:
++ Environment ECC 6.0 Modules SD, PP, QM, MM. HR. F1-CO, PM, PRA (OIL &amp:
+GAS}, IS-U, FI-CA Responsibilities Developed ALV Aging reports in FI for Aecounits
+Rerelvable (AR) Customer aging and Accounts payable (AP} Vendor aging,
++ Created and validated Z- table to-store the mapping between KRONOS and SAP in
+HR,
+
+2259 Oak Street, Old Fonge, New Yorks, 13420
+Ts Vase Resume Template the copy of Qutb com, Usage Culeliane

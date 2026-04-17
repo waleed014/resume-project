@@ -1,0 +1,79 @@
+ABBY SCHMIDT
+
+38741 Kuvalis Divide, Chicago, IL + +1 (555) 753 4178
+
+‘WORK EXPERIENCE
+
+PLATFORM DEVOPS SUPPORT SPECIALIST / ENGINEER (08/2016 - PRESENT
+Philadelphia, PA
+‘+ Automate infrastructure and application deployment for Rackspace customers on AWS and Rackspace infrastructure
+
++ Architect and Develop full stack solutions, from whiteboard to green SLA's
+
+‘+ Ensure timely resolution ofall production issues, meeting or exceeding SLA’s
+
++ Provide technical support for the company’s customers
+
++ Provide hands on application support for daily operations, including data and process integrity, configuration, user administration,
+reporting (data pulls) and optimization
+
+‘+ Identification of root cause analysis and resolution of incidents reported by the monitoring systems and end users. Analyze data
+inaccuracies and work with IT team members and business stakeholders to correct the data
+
+‘+ Collaborate with IT units and business stakeholders to fully understand the business processes and requirements supported by the
+
+applications. Work with business stakeholders to determine business process improvements and optimization of the Cl and DevOps
+
+environment
+
+DEVOPS SUPPORT ENGINEER 07/2011 - 04/2016
+Houston, TX
+‘+ Maintain documentation and provide knowledge transfer for other system support analysts. Prepare and facilitate training sessions where
+required. Evaluate gaps in process and operational support documentation and implement plan to address the missing information
++ Provide application expertise to assist with identifying business and technical requirements for project activities. Identify and raise risks as
+they relate to the application or business processes around the application. Identify and communicate support requirements and lead the
+transition of support activities from project to production
+‘+ Demonstrate a strong understanding of retail applications and business processes related to Point of Sale and Payment Channels
++ Actas incident and problem coordinator where required. Facilitate regular meetings and working sessions with IT team members and
+different business units to address on-going issues that require further understanding or analysis
+‘+ Participate in an on-call rotation to provide after hours support for our key business applications
+‘+ Experience in a large software Release, QA, Continuous Integration, or DevOps environment
+‘+ Working knowledge of GIT, JIRA, Ansible, Bamboo, MySQL, MariaDB is desired
+
+DEVOPS & SUPPORT ENGINEER (09/2007 - 01/2011
+Philadelphia, PA
++ Implement best practices for C1/CD across the organization and provide feedback into their development and improvement
+
++ Creates service request tickets and change tickets to specify the build of the IaaS across all configuration management environments
+
+‘+ Contributes to the development of new engineering patterns with the DevOps architect, application development teams and systems
+engineering
+
+‘+ Helps transform internal teams through build and deployment automation
+
+‘+ Works as a member of the technical team to develop a world class Continuous Delivery Practice
+
+‘+ Works with development team, team leadership and architects; maintains and deploys internal build and releases
+
+‘+ Helps develop automation to quickly and rapidly deploy instances from hardened images
+
+‘+ Supports application deployments, building new systems and upgrading and patching existing ones
+
+EDUCATION
+
+WASHINGTON ADVENTIST UNIVERSITY 2001 - 2006
+Engineer's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Strong skills in multi-tasking day-to-day activities and effectively identifying issues in a variety of hardware and
+‘+ Proven experience in a demanding service oriented, computing environment
+
+‘+ Aperson who would like to use his/her skills to work with fast growing omni-channel e-commerce platform,
+
+‘© Ninja level Windows skills
+
+‘+ Managing and maintaining digital solutions continue to operate and deliver customer expectations
+
+‘+ Strong knowledge of operating system scripting and commands for Windows including PowerShell
+‘+ O Passionate about providing high quality customer experiences and learning new technologies

@@ -1,0 +1,55 @@
+1 i Phone: (123) 456 78 99
+Senior Network Security Engineer Ttieauiblerinecor
+
+ROBERT SMITH Meate senna ca
+
+linkedin.comjquikresurne
+‘Address: 1737 Marshville Road,
+Alabarna,
+
+Objective
+
++ years of experience in core technology, Ability to direct complex projects from concept to fully
+‘operational status, Planning, designing and deployment of Cloud data centers. Planning, designing
+of Corporate Networks and Firewalls architecture and implementing In distributed environment.
+Established and implemented 1SO standards for small ta large business networks,
+
+Skills
+
+CCSA knowledge of Checkpoint, CCNA knowledge of Cisco, Microsoft TMG security gateways,
+Network troubleshooting
+
+Work Experience
+
+Senior Network Security Engineer
+‘ABC Corporation - May 2003 September 2013
+Planning, designing of Corporate Firewalls architecture and implementing In dstibuted
+enuronment
+Designing and implementing resent, reliable and highly avaliable Netw ork topologies
+Maintaining Corporate Firewalls Garmp; Analysis of firewall logs using varlous tools Frernon
+and afin security analyzers
+Planning Garp; Implementctlon of information security guidelines as per the sectrlty
+standards
+Designing and implementing diferent connectivity solutions to various customers with S28
+VPN and Remote site VEN across the alobe
+Designing and testing Gusiness Continuity Plan (BCP) and Disaster Recovery.
+Managing Global Network Security Operations
+
+Senior Network Security Engineer
+Delta Corporation - 2005 - 2008
+* Configuration of CheckFoint firewalls Configuration of Cisco firewalls (ASA), switches, wireless
+devices Configuration of Juniper routers
++ Migrated Pix firewalls to Checkpoint Firewalls,
++ Migrated rule sets, NAT tables, and created various objects.
+Installed and configured various Cisco switches,
+Upgraded Cisco 108 for various Cisco Routers.
+Designed and implemented Nexus 7K/SK/2K and Catalyst 6500/4900/3750.X in a complex DC
+Core! Agaregation/Access layer on a 10G backbone in Production
+Conducted Cisco ASA, Checkpoint, and Palo Alto Frewalls Administration Installed and
+Configured highly available HP Virtual Connect FLEX-10
+
+Education
+B.S, In Information Technology - (Macon State College - Macon, GA)
+
+© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

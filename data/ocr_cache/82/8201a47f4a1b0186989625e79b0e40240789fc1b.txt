@@ -1,0 +1,92 @@
+Trent Johnston
+Lead Test Engineer
+
+City, State | 000-000-0000 | email@email.com,
+
+Summary
+
+Be directly responsible for strategic and operational planning for a number of programs, projects within an organization. Keen on anticipating IT needs, solutions
+of a client business. and mapping those to bottom-line business results. Network with customers, partners, stakeholders, and vendors to evangelize the overall
+business. Leverage my technical and managerial skills, to design and promote custom-made business models that will improve operational and financial
+management. Drive recruiting, talent development and retention, thus contributing to organizational and decision-making ability to successfully direct concurrent
+projects. Passionate about building a great organization, with a strong inclination to quality improvement, and the ability to develop and drive a high-level strategy,
+as well as take a hands-on approach to implement that strategy.
+
+Work Experience
+
+Cox Automotive Inc. 2014-06 - Present
+Lead Test Engineer
+
++ Mentoring, training, and managing a team of 20 engineers.
+
++ Contributing to a 50% increase of workforce from 10 to 17-member team in a Nine months timeline.
+
++ Responsible for all aspects of quality process, project management, test planning, test design, test management, test asset and lab management, staff
+management.
+
++ Mentoring and coaching the offshore team on goals and objectives, business standards, and their career development.
+
++ Actively monitoring employee performance, making recommendations for skill development, additional responsibility, promotion or dismissal in a timely
+manner.
+
++ Streamlining the test process, introducing cross-training of Quality Analyst and Development Engineer.
+
++ mapping those
+
++ Creating detailed schedules, weekly project status reports, and extensive task definition to document and effectively communicate project test scope and
+constraints to stakeholders,
+
++ Coordinating, strategizing, and managing testing and development activities within the team.
+
++ Delivering technical presentations to cross-functional teams on testing methodologies and tools.
+
++ Overseeing design and developing the automation framework, establishing and managing test automation infrastructure within the team.
+
++ Implementing new test strategies during development and testing stages of new product launches.
+
++ Developing and instituting an innovative automating test case generation tool using n-wise combinatorial technique using the advanced combinatorial testing
+software
+
++ Researching, introducing, architecting, and fully implementing an indigenous automation framework using software test automation framework.
+
+Harris Corporation 2011-08 - 2014-05
+Head of Engineering
+
++ Technology advisor and transformation leader responsible for executed technology roadmap to meet the company's long-term business strategy, roadmap
+and goals.
+
++ Responsible for technical design, user requirement specifications, and cases/stories by collaborating with product management and business on product,
+requirements.
+
++ Produced high quality, well designed, maintainable full-stack code daily
+
++ Designed and created service-oriented architecture with extensive test coverage to ensure robust, reliable, scalable architecture.
+
++ Focused heavily on aspects of performance such as query optimization and caching,
+
++ Entirely responsible for the design of platform architecture, development process, development operations, and QA process. Created and maintained test,
+staging, and production environments.
+
++ Hired and managed the offshore development team.
+
++ Mentored junior developers, held code reviews and ensured development best practices were followed.
+
++ Implemented agile development methodology based around week-long iterations.
+
+Randstad Holding 2006-04 - 2011-07
+Quality Check Engineer
+
++ Developed test plans, test cases, test scripts, and test reports on multiple projects of varying size
+
++ Performed testing on various software, telecom and reporting systems.
+
++ Validated that user expectations were achieved during the testing process
+
++ Reviewed user requirements and documents to ensure that requirements were testable,
+
++ Created full workflows of various testing modules as a means of knowledge transfer for new team members.
++ Processed paper applications through applications.
+
++ Created of complex, multi-layered testing scenarios and their test execution used the software.
+
++ Created of defect tickets and their re-testing in various environments,

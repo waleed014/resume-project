@@ -1,0 +1,60 @@
+First Last
+
+Bay Area, California * +1-234-456-789 * professionalemail@resumeworded.com * linkedin.com/in/username
+
+SUMMARY
+
+SQL Developer with 8+ years of hands-on experiencein developing database applications and
+administering database and information systems. Led teams of 5-15 people across technology and data
+science departments.
+
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY Jun 2020 — Present
+SQL Developer
+e@ Drove 97% stability, reliability, and performance by optimizing in-application SQL statements and designing
+usert-focused databases.
+e@ Developed an ETL Database Model to carry out new procedures while creating various database warehouse
+dimensions to accept ETL outputs.
+e@ Gathered all necessary departmental requirements from 40+ business analysts, subsequently developing
+physical data models using Erwin while creating DDL scripts to design database schema and database objects.
+e@ Performed database defragmentation while optimizing the entire SQL queries, improving database
+performance and loading speed by 70%.
+e Led the development of 12 database projects for oneof the company’s largest clients with on-time delivery
+and 13% under budget completion.
+
+Growthsi, New York, NY Jan 2017 — May 2020
+SQL Developer
+@ Utilized Joins and sub-queries to simplify complex queries involving multiple tables while optimizing
+procedures and triggers in production.
+e@ Performed SQL, PL/SQL, and application tuning using multiple tools, including EXPLAIN PLAN,
+SQL*TRACE, TKProf, and AutoTrace.
+e@ Designed 4+ onsite databases while maintaining a group of 25 databases, subsequently reducing production
+
+costs by 15% and boosting the overall departmental productivity using various data modelling techniques.
+e@ Wrote 10+ SQL queries to obtain data from multiple tables to spool into CSV format and provide extracts to
+all company businesses and users.
+
+Third Company, San Diego, CA May 2014 — Dec 2016
+Junior SQL Developer
+e Assisted in the development of 10 database projects for numerous customers, completing all projects on time
+and 15% under budget.
+@ Utilized dialogue-mapping procedures to gather all the necessary requirements, gaining 98% overall customer
+and client satisfaction.
+e@ Demonstrated expertise in using Oracle data modelling to boost departmental productivity and cut the overall
+production cost by 10%.
+
+EDUCATION
+
+Resume Worded University, San Francisco, CA May 2014
+Bachelor of Science in Computer Science
+
+e Awards: Resume Worded Teaching Fellow (only 5 awarded to class), Dean’s List 2012 (Top 10%)
+
+@ Completed one-year study abroad with Singapore University
+
+SKILLS & OTHER
+
+Skills: MS Access Database, PL/SQL, SQL Stored Procedures, Table Scalar Functions, Ad-hoc T-SQL Queries, SQL
+SSIS packages, SSAS Cubes, EXPLAIN PLAN, SQL*TRACE, TKProf, AutoTrace
+Certifications: SQL Developer Coursera Certificate (2020)

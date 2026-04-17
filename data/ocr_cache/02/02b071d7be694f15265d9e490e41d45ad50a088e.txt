@@ -1,0 +1,59 @@
+Robert Smith hone (123) 456 7899
+
+Email Infocauikeesume,com
+
+"i Website yauwu.qwikresume,.com
+Senior .Net Developer LUnkedin:linkedlin.corn/quikresurne
+
+‘Address; 1737 Marshuille Road, Alabarna
+
+SUMMARY
+
+Senior {Net Developer with more than 12 years of experience in windows/veb applications Design,
+evelopment and Maintenance using ASPNET, ADO.NET, C#.NET, VB.NET, Adobe FLEX(2,3,4), VB
+6 JavaScript, jQuery, jra, Tello, Zephyr, AJAX, IIS, Nginx, XML, Oracle 116, SQL Server SSIS 9.0,
+for ETL packages and Silverlight/WPF Controls. Generated Online Business intelligence reports
+Using Microsoft PowerPoint & Microsoft Excel
+
+SKILLS
+
+ASPET, Cif, VB.NET, ADO.NET, WCF, WPF 3.0, WWF, ASP, AJAX, WSDL, SharePoint 2020, XML,
+Slverlight 2, SOAP, xSD, XSL_
+
+WORK EXPERIENCE
+
+Senior .Net Developer
+End Client - December 2013 ~ Present
+
+Responsible for redesianing the pricing rmodel for small businesses, home, and auto,
++ Customized restful web service using restful API, sending JSON format data packets between
+frontend and middie-tier controller.
++ Involved In setting up and configuring Microsoft Azure cloud computing platforrn cormponents,
+* Hands-on experiences working with one jira, one confluence-praduction and other
+development tracking tools.
+Used CORS pattern for data flow between the database, services and the app:
+Created a virtual network on windows azure to connect all the servers application on the
+‘Azure API platform that requires no on-premises hardvare
+Creating databases, collections, and documents, able to write complex queries using NoSQL-
+Mongoose,
+
+Senior .Net Developer
+‘ABC Corp - 2006 - 2013
++ Participated in the conceptual design development, ensuring that the solution Is viable and
+
+designed appropriately to tackle the business case.
+Provided support forthe faciitation and review of estimates, development and deployment
+plans forall capabilities participating inthe release.
+Provided/ coordinated the estimates for the development components requlted forthe selution
+‘and handling design efforts across cep abilties/systems.
+Provided support to project managers to ensure desigrybulld actities remain within the
+project schedulerbudget.
+Acted as a technical advisor to the project manager, QA lead andor business,
+Fclitated critical issue and resolution of technica Issues during the development of the
+solutions
+Responsible for vendor work, delivery review, and acceptance.
+
+EDUCATION
+B.SC. |n Computer Sclence- May 1997(INDEPENDENT UNIVERSITY }
+
+(0 This Fra Resume Tamblat is the copyright f Qvakesume com. Usage Guldatns
