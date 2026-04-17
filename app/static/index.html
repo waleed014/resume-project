@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>HireFormer — Talent Matching</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  body { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .tab-btn[aria-selected="true"] { background:#1e293b; color:white; }
+  .pill { display:inline-block; padding:2px 10px; border-radius:9999px; font-size:.75rem; font-weight:500; }
+  .skeleton { background:linear-gradient(90deg,#e5e7eb 0%,#f3f4f6 50%,#e5e7eb 100%); background-size:200% 100%; animation:shimmer 1.4s infinite; }
+  @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+</style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+
+<header class="bg-gradient-to-r from-indigo-700 to-purple-700 text-white shadow">
+  <div class="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
+    <div>
+      <h1 class="text-2xl font-bold tracking-tight">🧠 HireFormer</h1>
+      <p class="text-indigo-100 text-sm">Transformer-based resume ranking, classification & job matching</p>
+    </div>
+    <div id="status" class="text-right text-sm">
+      <div class="skeleton h-4 w-44 rounded"></div>
+      <div class="skeleton h-3 w-32 rounded mt-1"></div>
+    </div>
+  </div>
+</header>
+
+<nav class="bg-white border-b">
+  <div class="max-w-7xl mx-auto px-6 flex gap-1" role="tablist">
+    <button class="tab-btn px-4 py-3 text-sm font-medium hover:bg-slate-100 border-b-2 border-transparent" data-tab="recruiter" aria-selected="true">👔 Recruiter</button>
+    <button class="tab-btn px-4 py-3 text-sm font-medium hover:bg-slate-100 border-b-2 border-transparent" data-tab="applicant">🎯 Applicant</button>
+    <button class="tab-btn px-4 py-3 text-sm font-medium hover:bg-slate-100 border-b-2 border-transparent" data-tab="jobs">🧭 Find Jobs</button>
+    <button class="tab-btn px-4 py-3 text-sm font-medium hover:bg-slate-100 border-b-2 border-transparent" data-tab="stats">📊 Dataset</button>
+    <button class="tab-btn px-4 py-3 text-sm font-medium hover:bg-slate-100 border-b-2 border-transparent" data-tab="about">📖 About</button>
+  </div>
+</nav>
+
+<main class="max-w-7xl mx-auto px-6 py-8">
+
+<!-- ====================== RECRUITER ====================== -->
+<section id="tab-recruiter" class="tab-panel">
+  <div class="grid lg:grid-cols-3 gap-6">
+    <div class="lg:col-span-2 bg-white rounded-xl shadow p-6">
+      <h2 class="text-lg font-semibold mb-2">Find the best candidates for a job</h2>
+      <p class="text-sm text-slate-500 mb-4">Paste a JD or upload a file. We rank your indexed resumes by semantic similarity.</p>
+      <textarea id="rec-jd" rows="9" placeholder="Looking for a Python Developer with 3+ years experience in Django, FastAPI, PostgreSQL, Docker, and AWS..." class="w-full border border-slate-300 rounded-lg p-3 focus:ring-2 focus:ring-indigo-500 outline-none text-sm"></textarea>
+      <div class="mt-3 flex flex-wrap items-center gap-3">
+        <label class="text-sm text-slate-600">Or upload:
+          <input id="rec-file" type="file" accept=".pdf,.docx,.doc,.txt,.png,.jpg,.jpeg,.webp" class="ml-2 text-sm" />
+        </label>
+        <button id="rec-go" class="ml-auto bg-indigo-600 hover:bg-indigo-700 text-white px-5 py-2 rounded-lg font-medium text-sm">🚀 Rank candidates</button>
+      </div>
+    </div>
+    <aside class="bg-white rounded-xl shadow p-6 space-y-4">
+      <div>
+        <label class="block text-sm font-medium text-slate-700 mb-1">Top K</label>
+        <input id="rec-topk" type="number" value="10" min="1" max="100" class="w-full border border-slate-300 rounded-lg p-2 text-sm" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-slate-700 mb-1">Filter by category</label>
+        <select id="rec-cat" class="w-full border border-slate-300 rounded-lg p-2 text-sm"><option value="">(any)</option></select>
+      </div>
+      <label class="flex items-center gap-2 text-sm">
+        <input id="rec-classify" type="checkbox" checked /> Predict JD category
+      </label>
+    </aside>
+  </div>
+
+  <div id="rec-results" class="mt-6"></div>
+</section>
+
+<!-- ====================== APPLICANT ====================== -->
+<section id="tab-applicant" class="tab-panel hidden">
+  <div class="grid lg:grid-cols-2 gap-6">
+    <div class="bg-white rounded-xl shadow p-6">
+      <h2 class="text-lg font-semibold mb-2">Your resume</h2>
+      <input id="app-file" type="file" accept=".pdf,.docx,.doc,.txt,.png,.jpg,.jpeg,.webp" class="text-sm mb-3 block" />
+      <textarea id="app-resume" rows="10" placeholder="...or paste resume text" class="w-full border border-slate-300 rounded-lg p-3 text-sm focus:ring-2 focus:ring-indigo-500 outline-none"></textarea>
+    </div>
+    <div class="bg-white rounded-xl shadow p-6">
+      <h2 class="text-lg font-semibold mb-2">Target job description <span class="text-xs text-slate-400 font-normal">(optional, enables gap analysis)</span></h2>
+      <textarea id="app-jd" rows="13" class="w-full border border-slate-300 rounded-lg p-3 text-sm focus:ring-2 focus:ring-indigo-500 outline-none"></textarea>
+    </div>
+  </div>
+  <div class="mt-4 flex items-center gap-4">
+    <label class="flex items-center gap-2 text-sm">
+      <input id="app-jobs" type="checkbox" /> Also suggest matching jobs from the JD dataset
+    </label>
+    <button id="app-go" class="ml-auto bg-indigo-600 hover:bg-indigo-700 text-white px-5 py-2 rounded-lg font-medium text-sm">🔎 Analyze resume</button>
+  </div>
+
+  <div id="app-results" class="mt-6"></div>
+</section>
+
+<!-- ====================== JOBS ====================== -->
+<section id="tab-jobs" class="tab-panel hidden">
+  <div class="grid lg:grid-cols-3 gap-6">
+    <div class="lg:col-span-2 bg-white rounded-xl shadow p-6">
+      <h2 class="text-lg font-semibold mb-2">Find jobs that fit your resume</h2>
+      <p class="text-sm text-slate-500 mb-4">Upload or paste your resume; we search across the real-world JD dataset.</p>
+      <input id="jobs-file" type="file" accept=".pdf,.docx,.doc,.txt,.png,.jpg,.jpeg,.webp" class="text-sm mb-3 block" />
+      <textarea id="jobs-resume" rows="9" placeholder="...or paste resume text" class="w-full border border-slate-300 rounded-lg p-3 text-sm focus:ring-2 focus:ring-indigo-500 outline-none"></textarea>
+    </div>
+    <aside class="bg-white rounded-xl shadow p-6 space-y-4">
+      <div>
+        <label class="block text-sm font-medium mb-1">Top K jobs</label>
+        <input id="jobs-topk" type="number" value="10" min="1" max="100" class="w-full border border-slate-300 rounded-lg p-2 text-sm" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium mb-1">Title contains</label>
+        <input id="jobs-title" type="text" placeholder="e.g. python" class="w-full border border-slate-300 rounded-lg p-2 text-sm" />
+      </div>
+      <button id="jobs-go" class="w-full bg-indigo-600 hover:bg-indigo-700 text-white px-5 py-2 rounded-lg font-medium text-sm">🧭 Find jobs</button>
+    </aside>
+  </div>
+
+  <div id="jobs-results" class="mt-6"></div>
+</section>
+
+<!-- ====================== STATS ====================== -->
+<section id="tab-stats" class="tab-panel hidden">
+  <div class="bg-white rounded-xl shadow p-6">
+    <h2 class="text-lg font-semibold mb-4">Resume distribution by category</h2>
+    <div class="h-96"><canvas id="stats-chart"></canvas></div>
+  </div>
+</section>
+
+<!-- ====================== ABOUT ====================== -->
+<section id="tab-about" class="tab-panel hidden">
+  <div class="bg-white rounded-xl shadow p-8 prose max-w-none">
+    <h2>About HireFormer</h2>
+    <p>HireFormer is a Transformer-based talent-matching prototype that turns resumes into 768-d semantic embeddings using
+       <code>sentence-transformers/all-mpnet-base-v2</code> and ranks candidates against any job description by cosine similarity.</p>
+    <h3>What's inside</h3>
+    <ul>
+      <li><b>Recruiter</b> — paste a JD → ranked resumes from your indexed pool</li>
+      <li><b>Applicant</b> — upload a resume → predicted domain, gap analysis vs a target JD, feedback, and matching jobs</li>
+      <li><b>Find Jobs</b> — searches the real-world JD dataset (<code>job_title_des.csv</code>)</li>
+      <li><b>Dataset</b> — visualises the indexed resume pool by category</li>
+    </ul>
+    <p class="text-sm text-slate-500">Backend: FastAPI + sentence-transformers + scikit-learn · Frontend: vanilla JS + Tailwind + Chart.js</p>
+    <p class="text-sm">API docs: <a href="/docs" class="text-indigo-600 underline">/docs</a></p>
+  </div>
+</section>
+
+</main>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const fmt = (n) => Number(n).toFixed(3);
+const esc = (s) => (s ?? "").toString().replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const baseName = (p) => (p || "").split(/[\\/]/).pop();
+
+// ---------- tabs ----------
+document.querySelectorAll(".tab-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".tab-btn").forEach(b => b.setAttribute("aria-selected", "false"));
+    btn.setAttribute("aria-selected", "true");
+    document.querySelectorAll(".tab-panel").forEach(p => p.classList.add("hidden"));
+    $("tab-" + btn.dataset.tab).classList.remove("hidden");
+    if (btn.dataset.tab === "stats") renderStats();
+  });
+});
+
+// ---------- status / categories ----------
+let INFO = null;
+async function loadInfo() {
+  try {
+    const r = await fetch("/info");
+    INFO = await r.json();
+    $("status").innerHTML = `
+      <div><span class="pill bg-emerald-500/20 text-emerald-100">${INFO.index_size.toLocaleString()} resumes</span>
+           <span class="pill bg-emerald-500/20 text-emerald-100 ml-1">${INFO.job_index_size.toLocaleString()} JDs</span></div>
+      <div class="text-indigo-200 text-xs mt-1">${esc(INFO.embedding_model)}</div>`;
+    const sel = $("rec-cat");
+    INFO.categories.forEach(c => {
+      const o = document.createElement("option"); o.value = c; o.textContent = c; sel.appendChild(o);
+    });
+    if (INFO.index_size === 0) {
+      banner("No resume index found. Run <code>python -m scripts.build_embeddings --skip-ocr</code>.", "warn");
+    }
+  } catch (e) {
+    $("status").innerHTML = `<span class="pill bg-red-500/30 text-red-100">API offline</span>`;
+  }
+}
+function banner(html, type="info") {
+  const colors = { info:"bg-blue-50 text-blue-800 border-blue-200",
+                   warn:"bg-amber-50 text-amber-800 border-amber-200",
+                   err: "bg-red-50 text-red-800 border-red-200" };
+  const div = document.createElement("div");
+  div.className = `border ${colors[type]} rounded-lg px-4 py-3 text-sm mb-4`;
+  div.innerHTML = html;
+  document.querySelector("main").prepend(div);
+}
+
+// ---------- recruiter ----------
+$("rec-go").addEventListener("click", async () => {
+  const text = $("rec-jd").value.trim();
+  const file = $("rec-file").files[0];
+  const topk = parseInt($("rec-topk").value, 10);
+  const cat = $("rec-cat").value || null;
+  const classify = $("rec-classify").checked;
+  const out = $("rec-results");
+  out.innerHTML = `<div class="bg-white rounded-xl shadow p-6"><div class="skeleton h-6 w-1/3 rounded mb-3"></div><div class="skeleton h-4 w-full rounded mb-2"></div><div class="skeleton h-4 w-5/6 rounded mb-2"></div><div class="skeleton h-4 w-4/6 rounded"></div></div>`;
+  try {
+    let data;
+    if (file && !text) {
+      const fd = new FormData();
+      fd.append("file", file); fd.append("top_k", topk);
+      if (cat) fd.append("category_filter", cat);
+      fd.append("classify", classify);
+      const r = await fetch("/rank/upload", { method: "POST", body: fd });
+      if (!r.ok) throw new Error(await r.text());
+      data = await r.json();
+    } else {
+      if (!text || text.length < 20) { out.innerHTML = `<p class="text-red-600">Please provide a JD (text or file).</p>`; return; }
+      const r = await fetch("/rank", { method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ job_description: text, top_k: topk, category_filter: cat, classify }) });
+      if (!r.ok) throw new Error(await r.text());
+      data = await r.json();
+    }
+    renderRecruiter(data);
+  } catch (e) {
+    out.innerHTML = `<p class="text-red-600 text-sm">Error: ${esc(e.message)}</p>`;
+  }
+});
+
+function renderRecruiter(data) {
+  const out = $("rec-results");
+  const cands = data.candidates || [];
+  const preds = data.predicted_categories || [];
+
+  let predsHtml = "";
+  if (preds.length) {
+    predsHtml = `<div class="bg-white rounded-xl shadow p-4 mb-4">
+      <h3 class="text-sm font-semibold text-slate-600 mb-2">Predicted JD category</h3>
+      <div class="flex flex-wrap gap-2">${preds.map(p =>
+        `<span class="pill bg-indigo-100 text-indigo-800">${esc(p.category)} · ${(p.probability*100).toFixed(1)}%</span>`).join("")}</div></div>`;
+  }
+
+  if (!cands.length) {
+    out.innerHTML = predsHtml + `<div class="bg-white rounded-xl shadow p-6 text-slate-500">No matching candidates.</div>`;
+    return;
+  }
+
+  const rows = cands.map(c => `
+    <tr class="border-b last:border-0 hover:bg-slate-50">
+      <td class="py-2 px-3 font-medium">${c.rank}</td>
+      <td class="py-2 px-3"><div class="flex items-center gap-2"><div class="w-32 bg-slate-200 rounded h-2 overflow-hidden"><div class="bg-indigo-600 h-full" style="width:${Math.max(2,c.score*100)}%"></div></div><span class="font-mono text-xs">${fmt(c.score)}</span></div></td>
+      <td class="py-2 px-3"><span class="pill bg-slate-100 text-slate-700">${esc(c.category)}</span></td>
+      <td class="py-2 px-3 text-xs text-slate-500">${esc(baseName(c.file))}</td>
+      <td class="py-2 px-3 text-xs text-slate-600 max-w-md truncate">${esc(c.snippet)}</td>
+    </tr>`).join("");
+
+  out.innerHTML = predsHtml + `
+    <div class="bg-white rounded-xl shadow overflow-hidden">
+      <div class="px-6 py-4 border-b"><h3 class="font-semibold">Top ${cands.length} candidates</h3></div>
+      <div class="overflow-x-auto"><table class="w-full text-sm">
+        <thead class="bg-slate-50 text-slate-600 text-xs uppercase tracking-wide">
+          <tr><th class="py-2 px-3 text-left">#</th><th class="py-2 px-3 text-left">Score</th><th class="py-2 px-3 text-left">Category</th><th class="py-2 px-3 text-left">File</th><th class="py-2 px-3 text-left">Snippet</th></tr>
+        </thead><tbody>${rows}</tbody></table></div>
+      <div class="p-4"><canvas id="rec-chart" height="80"></canvas></div>
+    </div>`;
+
+  const ctx = $("rec-chart").getContext("2d");
+  new Chart(ctx, {
+    type: "bar",
+    data: { labels: cands.map(c => baseName(c.file)),
+            datasets: [{ label: "Similarity", data: cands.map(c => c.score), backgroundColor: "rgba(79,70,229,.7)" }]},
+    options: { responsive: true, plugins: { legend: { display: false } },
+               scales: { y: { beginAtZero: true, max: 1 }, x: { ticks: { display: false } } } }
+  });
+}
+
+// ---------- applicant ----------
+$("app-go").addEventListener("click", async () => {
+  const text = $("app-resume").value.trim();
+  const file = $("app-file").files[0];
+  const jd = $("app-jd").value.trim();
+  const wantJobs = $("app-jobs").checked;
+  const out = $("app-results");
+  out.innerHTML = `<div class="bg-white rounded-xl shadow p-6"><div class="skeleton h-5 w-1/4 rounded mb-3"></div><div class="skeleton h-3 w-full rounded mb-2"></div><div class="skeleton h-3 w-5/6 rounded"></div></div>`;
+
+  try {
+    let data;
+    if (file && !text) {
+      const fd = new FormData();
+      fd.append("resume", file);
+      if (jd) fd.append("job_description", jd);
+      fd.append("classify", true);
+      fd.append("suggest_jobs", wantJobs);
+      fd.append("jobs_top_k", 5);
+      const r = await fetch("/applicant/upload", { method: "POST", body: fd });
+      if (!r.ok) throw new Error(await r.text());
+      data = await r.json();
+    } else {
+      if (!text || text.length < 30) { out.innerHTML = `<p class="text-red-600">Please provide a resume (file or text).</p>`; return; }
+      const r = await fetch("/applicant", { method: "POST", headers: {"Content-Type":"application/json"},
+        body: JSON.stringify({ resume_text: text, job_description: jd || null, classify: true, suggest_jobs: wantJobs, jobs_top_k: 5 }) });
+      if (!r.ok) throw new Error(await r.text());
+      data = await r.json();
+    }
+    renderApplicant(data);
+  } catch (e) {
+    out.innerHTML = `<p class="text-red-600 text-sm">Error: ${esc(e.message)}</p>`;
+  }
+});
+
+function renderApplicant(data) {
+  const out = $("app-results");
+  const preds = data.predicted_categories || [];
+  const gap = data.gap;
+  const fb = data.feedback || [];
+  const jobs = data.matching_jobs || [];
+
+  let predsHtml = "";
+  if (preds.length) {
+    predsHtml = `<div class="bg-white rounded-xl shadow p-5 mb-4">
+      <h3 class="text-sm font-semibold text-slate-600 mb-2">Predicted resume domain</h3>
+      <div class="flex flex-wrap gap-2">${preds.map(p =>
+        `<span class="pill bg-indigo-100 text-indigo-800">${esc(p.category)} · ${(p.probability*100).toFixed(1)}%</span>`).join("")}</div></div>`;
+  }
+
+  let gapHtml = "";
+  if (gap) {
+    const pct = gap.match_percentage.toFixed(1);
+    const skillCol = (title, arr, cls) => `
+      <div><h4 class="text-xs uppercase font-semibold text-slate-500 mb-2">${title}</h4>
+      <div class="flex flex-wrap gap-1">${(arr.length ? arr.map(s => `<span class="pill ${cls}">${esc(s)}</span>`).join("") : '<span class="text-slate-400 text-xs">none</span>')}</div></div>`;
+    gapHtml = `<div class="bg-white rounded-xl shadow p-6 mb-4">
+      <div class="flex items-center justify-between mb-4">
+        <h3 class="font-semibold">Gap analysis</h3>
+        <div class="flex items-center gap-3">
+          <div class="w-40 bg-slate-200 rounded-full h-3 overflow-hidden"><div class="bg-emerald-500 h-full" style="width:${pct}%"></div></div>
+          <span class="text-2xl font-bold text-emerald-600">${pct}%</span>
+        </div>
+      </div>
+      <div class="grid md:grid-cols-3 gap-6">
+        ${skillCol("✅ Matched", gap.matched_skills, "bg-emerald-100 text-emerald-800")}
+        ${skillCol("❌ Missing", gap.missing_skills, "bg-red-100 text-red-800")}
+        ${skillCol("➕ Extra",   gap.extra_skills,   "bg-slate-100 text-slate-700")}
+      </div>
+      ${fb.length ? `<div class="mt-5 border-t pt-4"><h4 class="font-semibold text-sm mb-2">Feedback</h4><ul class="list-disc list-inside text-sm text-slate-700 space-y-1">${fb.map(f => `<li>${esc(f)}</li>`).join("")}</ul></div>` : ""}
+    </div>`;
+  }
+
+  let jobsHtml = "";
+  if (jobs.length) {
+    jobsHtml = `<div class="bg-white rounded-xl shadow p-6">
+      <h3 class="font-semibold mb-3">🎯 Recommended jobs</h3>
+      <div class="space-y-2">${jobs.map(j => `
+        <div class="border border-slate-200 rounded-lg p-3 hover:bg-slate-50">
+          <div class="flex items-center justify-between"><div class="font-medium text-sm">${esc(j.title)}</div>
+            <span class="pill bg-indigo-100 text-indigo-800">${fmt(j.score)}</span></div>
+          <div class="text-xs text-slate-500 mt-1 line-clamp-2">${esc(j.description)}</div>
+        </div>`).join("")}</div></div>`;
+  }
+
+  out.innerHTML = predsHtml + gapHtml + jobsHtml || `<div class="bg-white rounded-xl shadow p-6 text-slate-500">No analysis available.</div>`;
+}
+
+// ---------- jobs ----------
+$("jobs-go").addEventListener("click", async () => {
+  const text = $("jobs-resume").value.trim();
+  const file = $("jobs-file").files[0];
+  const topk = parseInt($("jobs-topk").value, 10);
+  const title = $("jobs-title").value.trim();
+  const out = $("jobs-results");
+  out.innerHTML = `<div class="bg-white rounded-xl shadow p-6"><div class="skeleton h-5 w-1/3 rounded mb-3"></div><div class="skeleton h-3 w-full rounded mb-2"></div><div class="skeleton h-3 w-4/5 rounded"></div></div>`;
+
+  try {
+    let data;
+    if (file && !text) {
+      const fd = new FormData();
+      fd.append("resume", file); fd.append("top_k", topk);
+      if (title) fd.append("title_contains", title);
+      const r = await fetch("/jobs/search/upload", { method: "POST", body: fd });
+      if (!r.ok) throw new Error(await r.text());
+      data = await r.json();
+    } else {
+      if (!text || text.length < 30) { out.innerHTML = `<p class="text-red-600">Please provide a resume.</p>`; return; }
+      const r = await fetch("/jobs/search", { method: "POST", headers: {"Content-Type":"application/json"},
+        body: JSON.stringify({ resume_text: text, top_k: topk, title_contains: title || null }) });
+      if (!r.ok) throw new Error(await r.text());
+      data = await r.json();
+    }
+    const matches = data.matches || [];
+    if (!matches.length) { out.innerHTML = `<div class="bg-white rounded-xl shadow p-6 text-slate-500">No matching jobs.</div>`; return; }
+    out.innerHTML = `<div class="bg-white rounded-xl shadow overflow-hidden">
+      <div class="px-6 py-4 border-b"><h3 class="font-semibold">Top ${matches.length} jobs</h3></div>
+      <div class="divide-y">${matches.map(m => `
+        <details class="group p-4 hover:bg-slate-50">
+          <summary class="cursor-pointer flex items-center justify-between">
+            <div><span class="font-medium text-slate-800">#${m.rank} · ${esc(m.title)}</span></div>
+            <span class="pill bg-indigo-100 text-indigo-800 font-mono">${fmt(m.score)}</span>
+          </summary>
+          <div class="mt-3 text-sm text-slate-600 whitespace-pre-wrap">${esc(m.description)}</div>
+        </details>`).join("")}</div></div>`;
+  } catch (e) {
+    out.innerHTML = `<p class="text-red-600 text-sm">Error: ${esc(e.message)}</p>`;
+  }
+});
+
+// ---------- stats ----------
+let STATS_CHART = null;
+async function renderStats() {
+  if (STATS_CHART) return;
+  if (!INFO || !INFO.categories.length) { return; }
+  // we don't have a per-category-count endpoint, so derive by listing files via /categories
+  // Approximate: hit /info; for actual counts, walk metadata via a quick request
+  try {
+    const r = await fetch("/stats/categories");
+    let counts;
+    if (r.ok) {
+      counts = await r.json();
+    } else {
+      // fallback: just count = 1 each
+      counts = INFO.categories.map(c => ({ category: c, count: 1 }));
+    }
+    counts.sort((a,b) => b.count - a.count);
+    const ctx = $("stats-chart").getContext("2d");
+    STATS_CHART = new Chart(ctx, {
+      type: "bar",
+      data: { labels: counts.map(c => c.category),
+              datasets: [{ label: "Resumes", data: counts.map(c => c.count), backgroundColor: "rgba(79,70,229,.7)" }]},
+      options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } },
+                 scales: { y: { beginAtZero: true } } }
+    });
+  } catch (e) { /* ignore */ }
+}
+
+loadInfo();
+</script>
+</body>
+</html>

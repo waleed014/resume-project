@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+hireformer-env/
+.env
+.env.local
+
+data/
+
+# Data artifacts
+data/cache/
+data/embeddings/
+data/models/
+data/extracted/
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# Logs
+*.log
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
