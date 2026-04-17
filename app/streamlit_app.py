@@ -162,7 +162,7 @@ with tab_recruiter:
                     st.dataframe(
                         pd.DataFrame(report.predicted_categories),
                         hide_index=True,
-                        use_container_width=True,
+                        width='stretch',
                     )
 
                 if not report.candidates:
@@ -175,13 +175,13 @@ with tab_recruiter:
                     st.dataframe(
                         df[["rank", "score", "category", "file", "snippet"]],
                         hide_index=True,
-                        use_container_width=True,
+                        width='stretch',
                     )
                     fig = px.bar(
                         df, x="file", y="score", color="category",
                         title="Similarity scores",
                     )
-                    st.plotly_chart(fig, use_container_width=True)
+                    st.plotly_chart(fig, width='stretch')
 
                     with st.expander("Inspect a candidate"):
                         choice = st.selectbox(
@@ -252,7 +252,7 @@ with tab_applicant:
                 st.dataframe(
                     pd.DataFrame(report.predicted_categories),
                     hide_index=True,
-                    use_container_width=True,
+                    width='stretch',
                 )
 
             if report.gap is not None:
@@ -280,7 +280,7 @@ with tab_applicant:
                 jdf["score"] = jdf["score"].round(4)
                 st.dataframe(
                     jdf[["rank", "score", "title", "description"]],
-                    hide_index=True, use_container_width=True,
+                    hide_index=True, width='stretch',
                 )
 
             with st.expander("Extracted resume text"):
@@ -344,7 +344,7 @@ with tab_jobs:
                     st.dataframe(
                         df[["rank", "score", "title", "description"]],
                         hide_index=True,
-                        use_container_width=True,
+                        width='stretch',
                     )
                     with st.expander("Inspect a job"):
                         pick = st.selectbox("Pick a rank", [m.rank for m in matches])
@@ -374,8 +374,8 @@ with tab_explore:
             title=f"Resume distribution ({len(idx):,} resumes, {cats_df.shape[0]} categories)",
         )
         fig.update_layout(xaxis_tickangle=-45)
-        st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(cats_df, hide_index=True, use_container_width=True)
+        st.plotly_chart(fig, width='stretch')
+        st.dataframe(cats_df, hide_index=True, width='stretch')
 
     if jobs is not None:
         st.markdown("### Job descriptions")
@@ -388,7 +388,7 @@ with tab_explore:
         st.write(
             f"Loaded **{len(jobs):,}** JDs across **{jt_df.shape[0]}** distinct titles."
         )
-        st.dataframe(jt_df.head(50), hide_index=True, use_container_width=True)
+        st.dataframe(jt_df.head(50), hide_index=True, width='stretch')
 
 
 # ---------------------- About ---------------------------------------------------
