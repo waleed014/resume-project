@@ -1,0 +1,146 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Business Value Creator: Experienced, self-driven professional to provide leadership and business-technical expertise in Business Relationship
+Management, also planning, designing and implementing systems, business processes and ERP enterprise transformation projects, from
+inception to deliver and support
+
+Core Quauirications
+
+* Strategic Planning ‘+ Business-System Readiness
+
+‘+ Business Relationship Management « Training and Change Management
+
+* Strategic analysis of client's business, processes, trends and ‘+ Manage go-live and system stabilization
+requirements .
+
++ Proposing cost effective system solutions for customers’ ‘+ Application Production Support
+
+satisfaction and growth
+
+‘Managing Continuous Improvement
+
+‘ Enterprise Resource Planning,
++ SAP PTP SRM Subject Matter Expertise
+* Design - functional specifications
+
++ Global Template roll-out
+
+* Configuration
+« Testing
+
+EXPERIENCE
+
+10/2008 to 05/2015 SAP SRM Sr. Business Analyst
+
+HJ. HEINZ - City, STATE
+‘Senior member of the Supply Chain Procure-to-Pay PTP team, which was part of the most important strategic project of
+the Company - for SAP enterprise global transformation of business, systems and processes. My Supplier Relationship
+Management SRM team targeted 30%-50% short term cost saving in Indirect Purchasing implementing Zero Based
+Budget ZBB and Sourced Purchasing.
+
+Provided leadership, execution and subject matter expertise for:
+
++ Organizing the Procure to Pay team.
+
++ Defined project methodology and KPI's that were then adopted by other teams.
+
+* Conducted analysis of processes and business requirements to select the suite of SAP modules and system solutions
+that effectively targeted: data integrity, process simplification, efficiency, cost reduction and Company growth.
+
++ Defined the blue print for Supplier Relationship Management SRM.
+
+«+ Effectively implemented out of the box SAP solutions achieving rapid deployment of the standard global blue
+print
+
++ Performed and documented configurations for the SAP modules of Procure to Pay PTP, Supplier Relationship
+‘Management SRM, ESO eSourcing and Ariba Sourcing.
+
+* Designed the functional specification and validated Technical Specifications.
+
+«+ Performed functional and business acceptance tests with local and global scope.
+
+‘+ Managed the training portfolio for SAP Procurement.
+
+‘+ Conducted training in English and Spanish Implemented methodology for managing Change Orders, Production
+‘Support and Continuous improvement.
+
+05/2004 to 09/2008 SAP Consulting
+
+05/1988 to 2003
+
+Epucarion
+
+ACCENTURE
+Automobile Truck Manufacturing, Electronic Component Manufacturing, Metallurgy, Consumer Goods, Energy
+‘SAP Business Consultant: PtP Procure to Pay, SRM Supplier Relationship Management, MM.
+
+‘+ Material Management Global Metallurgy Company: - Delivered the analysis, functional design and implementation
+of SRM Sourcing, and Procurement of External Requirements, interfacing SRM and SAP with no SAP Financials,
+and No SAP Inventory Management.
+
++ Energy-Utilities: Operational Procurement - Delivered the analysis and functional design for Operational
+Procurement of indirect materials and services, using ECC - SRM Extended Classic solution for a large utility
+company. The operational procurement design included interfaces with Demand Supply Planning, Inventory and
+Plant Maintenance.
+
++ Global Telecommunications Equipment Manufacturer, Procurement - Delivered the analysis and functional design
+for the implementation of Procurement Electronic Buyer Professional EBP, for indirect materials and services
+globally. Included self-service procurement, supplier enablement and Contract Management.
+
++ Global Cosmetics Manufacturer and Distributor, Procurement Designed the SAP Procurement module for indirect
+‘materials. Defined the scope of indirect material for the client, and designed the functional specifications and test
+plans for Inventory Management, Receiving, Supplier Enablement, and Requisition to Pay in a SAP/EBP
+environment,
+
++ Truck Assembly and Engine Manufacturing. Delivered the SAP Procurement functional design for purchasing of
+‘MRO materials and services. Responsible for gap analysis, functional specifications, configuration, testing and
+change management.
+
+SAP Production Support
+EASTMAN KODAK CO - City, STATE
+
+Global Film, Paper, Chemicals, Pharmaceutics and Equipment Manufacturing
+
+‘SAP Production Support: MM Material Management, PtP Procurement, EBP Electronic Buyer Professional.
+
+* Became part of the leadership team managing and governing the single instance SAP application that was globally
+deployed by Kodak for business transformation and system integration,
+
+« In this role I gained insightful knowledge in the decision making process for Change Orders and enhancement
+request in all the interrelated SAP Business modules such as SD Sales and Distribution, OTC Order to Cash, PP
+Production Planning, PtP Procurement, LE Logistics, AP Accounts Payables, FICO Finances and Cost Control
+
+‘As part of the Procurement team, managed software incidents, enhancement request, change orders, and the
+subsequent configurations and tests in the SAP modules of Inventory Management, Procurement, and Electronic
+Buyer Professional.
+
+‘+ As part of continuous improvement efforts for reducing cost and ensure quality, designed and implemented the
+Review Process across the IT organization, including technical and functional reviews done in early stages of the
+development cycle.
+
+1988
+
+1979
+
+LANGUAGES
+
+MBA: Management Information Systems
+University of Dallas - Irving, TX
+
+BS: Industrial Engineering
+Universidad Regiomontana - Monterrey
+
+Bilingual: English/Spanish
+PROFESSIONAL AFFILIATIONS
+
+Sxmis
+
+BRM Business Relationship Management
+ERP Enterprise Resource Planning
+
+SAP PtP SRM

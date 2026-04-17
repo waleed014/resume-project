@@ -1,0 +1,52 @@
+Engineer/Administrator vo bab tite
+ROBERT SMITH Addres1737 Marl Road,
+‘Alabama
+
+Objective
+
+Network Security Engineer with 6+ Years! experience with Cisco ASA, Checkpoints, Juniper SRX,
+Fortigate, Palo Ato, Network Switches/Routers, LANWANNWLAN, TCPIIP, VPN, and
+hardware!software security applications, Skilled at end user support, network troubleshoating,
+Intrusion detection/prevention, encryption, WAF, packet filtering firewalls, malware analysis,
+‘Vulnerability scans, pen testing, and preparing Securty policies.
+
+Skills
+Network Security, C.
+
+Work Experience
+
+Network Security Engineer/Administrator
+‘ABC Corporation - October 2020 - Novernber 2011
+Protect and defend Identicaton, analysis, and mitigation of threats to Internal and external
+IT systems or networks.
+Monitored network security devices such as firewalls antivirus, and intrusion
+detection/prevention systems.
+Reviewed and implemented access controls security for networks assets and resources
+ineuding security awareness training effectiveness.
+Performed a varlety of tasks related fo network adrministratlon, performance and
+maintenance
+Including the Installaton, migration, and conf guration of network devices (router, switches,
+
+servers, desktops) and associated equipment.
+Performed traffic and malware analysis ublizing current applications (Backtrack, WireShark,
+
+Metasploit, etc)
+Installed, Configured, mitigated, troubleshoot, and migrated network security software and
+
+hardware applications,
+
+Network Security Engineer
+‘ABC Corporation - 2007 - 2010
+LANWAN Support and management of Johnson Controls global infrastructure
+Performing biackbax penetration testing and ethical hacking en our rernote sites to test for
+security vulnerabilities and security policy compliance.
++ Creating security policies for new sites.
+> Configuring switches, rauters and wireless access points with latest security standards,
+* Besignining firewall rules for new connections and VPNs.
+Collaborating with Verizon on new circuit and router Installs,
+Ordering clsca hardware and dacumenting.
+
+Education
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

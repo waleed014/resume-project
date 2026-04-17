@@ -1,0 +1,80 @@
+Henry Dorsett Case
+
+Network Engineer
+
+edin.com/in/hdcase
+
+Strategically-minded and customer-oriented network engineer with 5+ years of experience and in-depth knowledge of documenting
+
+network topologies, IP allocation, and network designs. Eager to join Wintermute Corporation to help operate the company's data
+
+communications systems, as well as design and develop new business solutions. In previous roles replaced Comware-based HPE
+
+equipment with Cisco (Cat 9000s) switches. Installed, patched, and configured 400+ switches, 1000+ APs, 10,000+ patch cords.
+
+Experience
+
+2015 - 2018
+
+2012 - 2015
+
+Education
+
+2013
+
+Associations
+
+Network Engineer
+
+NetWorkz, Los Angeles, CA
+
++ Troubleshooted, resolved, and recommended improvement for systems network and security problems at an
+advanced level across multiple/converged technology solutions services and platforms.
+
+* Designed, integrated and maintained consolidated network services e.g. switches, routers, firewalls, wireless
+networks, and network security servers (incl. data center virtualization and storage software applications)
+
++ Planned engineering architecture and the development of technical standards and interface applications.
+
++ Performed capacity and resource planning to evaluate existing network systems to recommend resources and
+maintain or expand as necessary.
+
++ Participated in researching and evaluation of new products and services. Prepared recommendations for
+implementation of new systems, procedures, and organizational changes.
+
+Key achievements:
+
++ Identified 15+ network vulnerabilities by manually and automatically testing infrastructure security and
+implemented a Cisco 2100s with FTD platform to track potential threats to the network from firewall to the final
+destination on the network.
+
+* Designed and implemented a new switch platform by replacing Comware-based HPE equipment with Cisco
+(Cat 9000s) switches to strengthen both the 802.1x-based NAC and security protocols.
+
+Network Engineer
+
+TRON Fiber Optics, San Diego, CA
+
+* Offered pre-sales and post-sales customer support for Cisco, Juniper, Checkpoint products.
+
++ Prepared relevant technical solutions according to customers’ requirements for LAN/WAN, DC, SEC, WLAN
+
++ Answered RFI/RFPIRFQ requests.
+
++ Supported and troubleshot a key client's entire network. Mainly L2, L3, wireless and firewall Cisco—7200
+routers, 2960 switches, WLCs, ASAs.
+
+Key achievements:
+
++ Installed, patched, and configured 400+ switches, 1000+ APs, 10,000+ patch cords.
+
++ Identified 2 misconfigured DNS at different remote sites: remote office not using the local DC, as well as a local
+DNS forwarded to cloud DNS, and the cloud DNS forwarded to local DNS.
+
++ Replaced 20+ Juniper SSG and ISG used for site-to-site tunnels over MPLS with Cisco 4k ISRs.
+
+University of Southern California (USC), Los Angeles
+
+Master of Science (MS), Electrical Engineering (Computer Networks)
+
+International Telecommunications And Network Engineering Association (ITNEA)—Member

@@ -1,0 +1,121 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+ACCOMPLISHMENTS
+
+CERTIFICATIONS
+
+ACTIVITIES AND
+HONORS
+
+LANGUAGES
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 2 (555) 432-1000 <4 resumesample@example.com
+
+Detailed-oriented and result-driven data analyst with vast years of hands-on experience in statistical
+programming and Knowledgeable in MS Office with an emphasis on data capture and presentation in Excel
+and Access. Confident communicator circulating information clearly, and efficiently to benefit end users
+Worked closely with business unit stakeholders to ensure alignment with business plans and strategic
+initiatives and identify insights into solving problems and making decisions with raw data. Highly skilled in
+Developing, building, and implementing scalable data models, interpreting data, and enabling advanced
+analytic capabilities through data visualizations using SQL, Python, and Power Bl. Excellent understanding of
+business operations and analytics tools for effective data analysis. Pursuing a full-time role involved in data
+analysis and research
+
+Data analysis and visualization, math, data structure
+and algorithm, relational database, EC2 AWS, ETL,
+SSRS, SSIS, ORM, Object Oriented Programming,
+Agile/Scrum Methodology, ROMS Development and
+SQL, Web Programming, Machine Learning & Al +
+Programming Languages: Python, JavaScript, Java
+MSSQL, PL/SQL , Operating system: Linux, Microsoft
+Windows, macOS, Framework: Flask, , Microsoft Office
+Suite, Microsoft word, excel, Creating reports and
+presentations, team work, detail oriented, engineering
+management, communication, critical thinking, problem
+solving, organization, Adobe professional, quality
+control, SAP, Cascading Style Sheets (CSS), textpad
+editor, active directory,
+
+SQL DEVELOPER 03/2019 to 10/2022
+Louisiana State University | Baton Rouge, LA
+Working closely with the business analysts and business users to understand the business requirements
+
+* Involved in the PL/SQL code review and modification for the development of new requirements,
+
++ Developing custom stored procedures and packages to support new enhancement needs.
+
+* Using the business object reports to generate reports using ref cursors that were passed from PL/SQL
+
+procedures.
++ Maintened and supported SQL server Mirroring, Log shipping, Clustering, and other methods of
+disaster recovery
+FRCIELANCE PYTHON DEVELOPER 04/2020 to 07/2020
+
+Aviva Dermatology | City, STATE
+Developed model solutions in mixture of languages (primarily Python or C++) to run in Transunion batch and
+online environment meeting while meeting customer deadlines.
+
+* Developed app, using HTML, bootstrap, CSS and flask framework
+
++ Built an accurate CNN model with keras, CV2, and Tensorflow
+
++ Developed and automated deployment APIs (REST, NETCONF, RESTCONF, etc.) for interfaces
+
+between network elements, EMS's, BSS, Data bus, Orchestration tools, and Customer Portals
++ Designed and configured database and backend applications and programs.
+
+FRCIELANCE DATA SCIENTIST 02/2018 to 09/2019
+CVS Healthcare | City, STATE
+
+Designed and developed small scale deliverables related to the custom study.
+Participated in the Post Project Review QIP team,
+
+Responsible for results reporting in the appropriate media and creation of supporting documentation for
+the client.
+
+Monitored products from statistical programs for accuracy. consistency, and statistical validity.
+Leveraged data to perform intensive analysis across all areas of our business to drive product
+development
+
+PYCHON DEVELOPER INTERN 03/2016 to 11/2017
+Alten Calsoft Labs | City, STATE
+Developed the API, backend, and frontend for a single-page application within the first 30+ days of joining the
+team. Created views and templates using Python and Django's view controller and templating language to
+develop 10+ user-friendly interfaces.
++ Modified functions, cursors, queries, triggers, and stored procedures for MySQL database while
+processing data, improved system performance by 84%.
++ Used python library SQLAIchemy for data manipulation and data modeling
+* Created reusable programming libraries to support multi-project integration and rapid iterative
+development
++ installed MS SQL Server, Business Intelligence Studio configuration Created and managed schema
+objects such as tables, views, clusters, indexes Created complex reports such as drill down, drill through
+reports using SQL Server Reporting Services,
+
+Bachelor of Science | Mathematics 0872015
+Marien Nguoabi University, Congo
+
++ Updating and enforcing security procedures assuring 15% less breach risk
+
++ Used Keras, CV2, and TensorFlow to build a CNN model with an accuracy rate of about 96%
+
++ Applied data mining for new and valuable business insight that helped cut expenses by up to 20% and
+increase revenue by 8.95 %.
+
++ Implemented Python scripts to automatically sync data between different storage server depending on
+current available space and remote location.
+
+* Data Analysis & Visualization, Thinktul
+
++ Sustainable Environment Awareness (SEA)
+
+French, English and Spanish: First Language
+Negotiated

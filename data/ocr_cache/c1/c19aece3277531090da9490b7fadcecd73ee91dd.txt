@@ -1,0 +1,85 @@
+HARSHIT PURI
+
+2: 9953776253 | HX: info@getsetresumes.com | _ Linkedin: linkedin.com/company/getsetresumes
+
+DEVOPS ARCHITECT - leveraging +4 years of experience
+
+DevOps Architect with 4+ years of experience in IT industry with Configuration Management, Continuous Integration, and Cloud
+Implementations analysis, design and maintenance of client/server and web applications as the primary tasks. Ability to guide teams
+with DevOps best practices, including improved scalability, performance, reliability, and speed to market; providing guidance in
+technical design, and plan team activities and providing direction to team members. Experience on using AWS Lambda, running
+scripts/code snippets in response to events occurring in AWS Cloud and maintaining it. Business Analyst expertise in creating
+requirement gathering documents and architectural roadmaps for application deployments and production releases.
+
+PROFILE SUMMARY
+
+= Highly experienced in importing and exporting data between HDFS and Relational Database Management systems using Sqoop.
+
+= Proficient in Creating Vizboards for data visualization in Plat fora for real - time dashboard on Hadoop.
+
+= Highly skilled in installation, configuration, administration, troubleshooting, tuning, security, backup, recovery and upgrades of
+Cent OS, Red Hat Enterprise Linux (RHEL) operating systems in a large environment
+
+= Hands on experience in installing, configuring, monitoring, and using Hadoop ecosystem components like Hadoop Map-Reduce,
+HDFS, HBase, Hive, Sqoop, Pig, Zookeeper, Horton works, Flume.
+
+CORE COMPETENCIES
+
+= Data and Cloud Security = AWS Cloud Infrastructure = Authentication Systems
+= Business Architecture = Account Migrations = Information Architecture
+
+PROFESSIONAL EXPERIENCE
+
+Bellurbis LLC, Greater Noida Jan. 2019 - Present
+
+DevOps Architect
+
+= Design, implement, and maintain continuous build and deployment delivery mechanisms, leveraging innovative programmatic
+solutions and automation
+
+= Consult technical personnel and management of our client including those at CEO level on the industry-best practices, discuss,
+persuade and agree on the most innovative approaches applicable in customer landscape
+
+= Reach visibility and gratitude for yourself and your project team by demonstrating thought leadership by, presentation excellence
+and negotiation skills
+
+= Proactively identify and drive automation of tasks associated with end-to-end deployment delivery
+
+«Lead initiative in discovering existing and new challenges pertaining to the build and deployment for our customers, seeking to
+improve, resolve, and streamline tools and processes to meet delivery challenges.
+
+= Function as a team member supporting the organization by driving the end-to-end stability and availability of tools and
+environments used by our customers to support the build and deployment.
+
+=" Develop and maintain documentation and diagrams outlining automated solutions and environmental architecture.
+
+Clarivate, Greater Noida Sept. 2017 - Dec 2018
+
+DevOps Architect
+
+= Managed and architected many virtual servers, monitoring of application and servers through Nagios, Web Servers Administration
+on Apache and Nginx.
+
+= Worked on AWS EC2 Instances creation, setting up VPC, launching EC2 instances and worked on Cloud Watcher for providing
+high availability of applications and EC2 instances based on the load of applications.
+
+= Installed and configured ELK (Elastic Search, Logstash & Kibana) for log management within EC2/ Elastic Load Balancer for Elastic
+Search.
+
+= Worked on inbound and outbound services with automation CHEF. Deployed multiple resources simultaneously, using Cloud
+Formation templates in AWS.
+
+= Deployed Java/J2EE applications to application servers in an agile continuous integration environment and automated the whole
+process and provided end-user training for all GitHub users to effectively use the tool.
+
+ACADEMIC CREDENTIALS
+= Bachelor's Degree in Computer Science | IP University, Lucknow | 2017
+
+= Certificates: AWS Certified Solutions Architect — Professional | Google Cloud Certified — Professional Cloud Architect
+
+PERSONAL DOSSIER
+= Languages Known : English & Hindi
+
+~References and other document's available~
+
+Harshit | Resume | Confidential | Page Number 1/1

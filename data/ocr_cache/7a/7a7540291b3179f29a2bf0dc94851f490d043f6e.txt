@@ -1,0 +1,79 @@
+KENDAL DECKOW
+
+52368 Harley Locks, Houston, TX
+
+PHONE
++1 (555) 222 6426
+
+EXPERIENCE
+
+Baumbach, Toy and Koelpin
+Dallas, TX // Senior SAP Developer // 01/2018 — present
+
+Experience in CDS Frameworks CAP (Cloud Application
+Programming Model) & RAP (RESTful ABAP Application
+Programming model) beneficial
+
+Strong fundamentals and experience in ABAP OO
+development
+
+Skilled in prototyping tools (Wireframe development)
+
+SAP s/4 HANA or ABAP certification
+
+Individual contributor and be ready to work in
+Development, Support & Maintenance projects within SAP
+PI/PO and CPI projects
+
+Expertise in various SAP XI/PI/PO Tools - ESR, ID, RWB and
+knowledge on SLD
+
+Expertise in design, build, testing and troubleshooting
+integrations built using SAP CPI
+
+Okuneva, Murphy and Hand
+Dallas, TX // Lead SAP Developer // 12/2014 — 12/2017
+
+Strong experience in ABAP on HANA, AMDP, code push
+down techniques, CDS views, Business Object Processing
+Framework(BOPF) and backend oData services
+Knowledge of front-end Fiori development
+(HTMLS/CSS/JavaScript)
+
+Experience with SOAP and REST based services, and API
+design
+
+Practical experience with programming Function Modules,
+Object-Oriented ABAP, Gateway Services, User Exits,
+Enhancements and Dialog Programming
+
+Experience with ECC upgrades processes including SPAU
+and SPDD
+
+EDUCATION
+
+Savannah College of Art and Design
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Experience in SAP Fiori (on-premise and cloud)
+configuration/administration and web user interface
+technologies like - SAPUI5, JavaScript and Web IDE
+
+¢ Experience with ABAP proxy development experience to
+accomplish interface requirements
+
+¢ BOBJ development experience
+
+¢ BOBJ Design Studio, UI5 or JavaScript experience
+
+¢ BO Webi, BOBJ, BODS, Universes in IDT/UDT, Report
+scheduling, Oracle and SQL Server
+
+¢ Technical knowledge in BW and experience in BW
+developments (both with BW On HANA and BW4HANA)
+
+¢ Experience on SAC
+
+¢ Experience on BPC projects

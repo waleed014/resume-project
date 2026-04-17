@@ -1,0 +1,70 @@
+Lennon Bonadies
+
+DevOps Engineer
+ lennon,bonadies@gmailcom Profile
+
+X (507 043-4012 Highly experienced DevOps Engineer with over two years of experience in the
+
+© Phoenix, AZ development and maintenance of cloud-natve application. Skilled in automating
+
+application deployments, improving the scalability, availabilty and performance
+‘of applications, and managing cloud infrastructure. Experienced in managing,
+
+Education and troubleshooting distributed systems, performing server and application
+Bachelor of Science in ‘monitoring, and integrating DevOps practices. Possess strong problem solving,
+Devops Engineering at ‘organizational, and communication skill, Proven ability to develop, implement
+
+artzonaState UnWerciyfAZ) {and maintain Ci/CO pipelines, containerization and micro-service architecture.
+
+‘Sep2017 -May 2021
+Relevant Coursework
+
+Linux/Unix Systems Employment History
+
+Administration, Networking, ‘Senior DevOps Engineer at Skyllz Technologies, Inc., AZ
+Cloud Computing, (ct 2022- Present
+
+‘Automation/Scripting, + Developed and implemented a new DevOps infrastructure for Skyllz
+Infrastructure as Code, Data ‘Technologies, nc. that resulted in an 18% reduction of downtime hours due to
+
+Science, Cybersecurity system failures over the first three months after go-live.
++ Established robust security protocols throughout al systems using automation
+tools such as Puppet and Chef which increased operational efficiency by 30%.
+Links + Streamlined deployment process across multiple applications through
+linkedin,com/in/lennonbonadies scripting languages like Bash resulting in 40% decrease on time spent
+‘troubleshooting issues during deployments,
+
+DevOps Engineer at Logic20/20, Inc., AZ
+
+Skills ‘Aug2024 -Sep 2022
+
+‘Automation + Developed automated deployment pipeline for a large-scale financial app,
+reducing the time needed to deploy new versions of software from 4 hours to
+
+Infrastructure as Code 10 minutes.
+
+sd + Implemented monitoring and alerting system across several cloud platforms
+
+Continuous which facilitated identifying issues before they occurred in production
+
+Integration/Continuous Delivery environment by 95%,
+
+(cyco) + Migrated legacy applications into AWS infrastructure resultingin an estimated
+
+cost savings of $100K annually
+Cloud Computing
+
+Monitoring & Logging Certificates
+
+ee Certified Kubermetes Adminstrator (CHA)
+
+Security AWS Certified DevOps Engineer - Professional
+sep20i9
+
+Languages Memberships
+
+English DevOps Institute
+
+Japanese Cloud Native Computing Foundation
+
+Hobbies

@@ -1,0 +1,73 @@
+First Last
+
+New York, NY 10001 + (212) 123-4567 - first.m.last@resumeworded.com * linkedin.com/in/username
+
+EXPERIENCE
+
+2016-Present Resume WorpeD & Co. San Francisco, CA
+Java Full Stack Developer
+
+e Developed back-end logic in Java to implement a state-wide underwriting model for San Francisco State to give
+policy quotes to over 500,000 potential customers, gaining the company an increase in revenue and sales.
+
+@ Defined proper rules to incorporate billions of data rows from 3rd-party feeds directly into the product back-end.
+
+© Proactively and strategically worked on the customer-facing insurance application to build conditional
+components in Angular based on the applicant’s various factors ranging from their location to their type of car.
+
+© Created the database structure and logic in Redshift for a new insurance product for pet owners that acquired a
+successful reach of over 2,000 customers in its first year and over 15,000 customers in the succeeding years.
+
+2014-2016 Growrust Beijing, China
+Tech Lead/Full Stack Developer (2013-2014)
+
+@ Proactively collaborated with 10+ professionals, including PhDs, postdocs, researchers, and data scientists, to
+develop minimum valuable products based on concept proofs utilizing user-centric design/agile methodologies.
+
+© Worked with a Java squad of 4-5 developers to build modern cloud-based applications with a DevOps mentality.
+
+© Delivered expertise on every part of the application, performing continuous deployment and integration pipelines
+to different environments (dev, QA, prod), with tests, static and dynamic code analysis, and security audits.
+
+@ Attentively managed the front-end and back-end for web and mobile applications, including React and node.js.
+
+© Conducted extensive data pipelines by acquiring data from streaming sources & transforming statistical models.
+
+2012-2014 Resume Worpep & Co. San Francisco, CA
+Java Developer
+
+© Developed an automated testing framework for CI/CD to improve the average time to push new builds into
+production by 45%, gaining success and continuous improvements and efficiency for company operations.
+
+© Contributed expertise on the entire software development life cycle from gathering requirements to building,
+testing, and maintaining code for an internal Java tool that improved the speed of customer data requests by 85%.
+
+@ Acted as the main point of contact (POC) for internal customers whenever there were critical errors in any
+internal tools, subsequently implementing automated alerts to proactively reduce error support tickets by 75%.
+
+© Spearheaded and initiated the migration process and activities of a web app with a reach of 25,000 monthly users
+to a Spring Boot back-end, successfully improving the application speed by 17% while diminishing server costs.
+
+EDUCATION
+2008-2012 Resume Worpep IT ScHoot New York, NY
+Bachelor of Computer Science
+@ Awards: Dean’s List
+e@ Membership: Computer Science Society
+
+2007-2011 Resume WorpeD UNIVERSITY San Francisco, CA
+DEC in Computer Science Technology
+@ Awards: Technology Award
+
+OTHER
+
+@ Languages: Spanish (native), Chinese (intermediate)
+
+@ Technical Skills: Java (Spring, Spring Boot, JavaEE), JavaScript (Angular), HTML/ CSS, AWS (Redshift, $3),
+Python (Django), SQL (PostgreSQL, Oracle), REST APIs (GraphQL), Git, C#, Entity Framework, Java, WCF,
+Phone Gap 2.0, XML, WordPress.
+
+© Certifications: Programming in HTMLS with JavaScript and CSS3
+
+@ Projects & Accomplishments: Java Project (2012-2013, Programming Project (2016)
+
+@ Volunteering: Volunteered 20 hours/month at ABC Foundation (2012-2014)

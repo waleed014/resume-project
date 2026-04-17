@@ -1,0 +1,158 @@
+Jessica CLAIRE
+
+Montgomery Stet, Sn Franciseo, CA 94105
+(555) 432-1000 -resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+‘SAP R13 Technical consultant Over 3+ Years in SAP Security & GRC, SAP spanning across implementation and support projects Ihave
+sained substantial experience in business process mapping, configuration, enhancements, and post implementation support in SAP
+
++ Strong organization and time management skills. Ability to
+
++ Operating Systems: Windows 95'98.NT/XP ‘communicate effectively (both written and oral) using clear,
++ SAPRI3, ECC, GRC ‘concise, and understandable language
++ Oracle Database, Access Database ‘+ Mult-tasking skis, detail oriented, and ability to work with
+
+Tramine
+
+‘minimal supervision.
+
++ Talent fr identifying creative solutions to customer service isues
+‘to ensure satisfaction.
+
+«+ Role Administration inchuding Rol creation modification! export
+import
+
++ Create RFC connection between two systems
+
++ Complete rework on Emergency Access Management{EAND,
+‘Access Risk Analysis (ARA), Access Request Management
+(ARM) & Business Role Management (BRM)
+
++ User and Role Administration and having good troubleshooting
+skills
+
++ Skilled at learning new concepts quickly while working well
+under pressure Highly organized and dedicated with a positive
+attinade
+
+Received Training on:
+
+«+ SAP Security & BASIS Admin
+‘+ SAP GRC Access Control (ARA, ARM, EAM, BRM)
+
+Work History
+
+1072014 te 08/2016
+
+022014 102018
+
+04/2012 1002/2014
+
+(0472007 08/2011
+
+052002 to 09/2006
+
+Epvcanion
+
+SAP Security & GRC Consultant
+‘Cognizant Technology Solutions - Tempe, AZ
+«+ Extensively used SUS3 and SUIM to asign the missing authorizations to the users. Tracing missing authorizations
+objects using SUS3 and recommended appropriate roles forthe end users
+‘+ User administration (creating, maintaining, deleting user accounts and assigning roles) Managing user login
+parameters and password parameters,
+‘+ Comprehensive use of Profile Generator to generate roles and assign roles to end uses
+‘+ Configured and Implemented GRC Access Control Suite 10°
+‘+ GRC implementation; automation; upgrade experience with GRC ARA, ARM, EAM, BRM and SAP CUA
+(Central User Administration) integration with SAP GRC.
++ Excellent knowledge of SOX, Audit issues and Segregation of Duties (SoD) issues.
+‘Under Risk Analysis and Remediation, performed User & Role analysis to identify existing SoD violations Rsk
+‘Using ARA produced Analytical Reports on User, User Groups, Role and Profiles.
++ Performed remediation and mitigation agains various risks associated with oles and wers,
+‘+ ARA has Simulation features to allow you to asess the impact of potential remediation activites on the reported
+conflicts prior to making the actual change.
+‘+ Experience in creating and assigning FF ID's and extracting Fie Fighter logs.
+‘+ A fitefihter ID isa temporary user ID that grant the user exception-based, yt regulated, access.
++ The iefighter ID is created by a system administrator and asigned to users who need to perform tasks in
+‘emergency of extraordinary situations.
++ Configured Workflow, actions and rues.
+‘+ Configured HR trigger provisioning and scheduled background jobs.
+Configured User Data source and defined authentication system for requestors using ARM
+‘Strong capability in using ARM to use the work flow functionality to ensure a comprehensive and compliant
+change management process for tsk control and maintenance
++ Experience in using ARM to configure workflow for User Access Review and User SoD Review.
+
+SAP Security Consultant
+‘Accenture Contractor Jobs - Montgomery, AL
+‘User master Record cretion! modification using SUO1, including complex design restrictions.
+‘+ Mass user creation using SULO
+Uiilzed SECATT for mass wser creation allowing automatic testing of SAP business processes.
++ Created QTP seripts for mass creation and deletion of users and roles during system clean ups, Mass role
+generation, user assignments and others as required for team,
+‘+ Role creation! modification using Profile Generator (PFC) including complex design restrictions.
+‘+ Ensured accuracy and segregation of duties trough comprehensive testing of ll profiles and authorizations.
++ Expestte in resolving Authorization issues by analyzing Authorization Checks.
++ Troubleshooting user access through authorization eror analysis (SUS3, SUS6) and System Trace (STO1).
+«+ 1fneeded, then work with Functional, BASIS, and Network teams to woubleshoot complex access problems.
+‘Monitor and maintain user ID through User Information System (SUIM)- created monthly audit report,
+‘+ Worked extensively with SEO1, SEO9 & SE10 in managing mass transport
+‘+ When in need, helped on audit logs using SMI8, SM19 and SM20.
+‘+ When needed, helped with Database and Server monitoring, sytem back up scheduling through Monitoring
+‘Transaction such as SMSO, SMS1, DB12, DB 13 ete
+«+ Proficient in working with the tables USR, AGR, and USH.
+
+‘Lead Operational Representative
+Bank Of America, N.A.~City, STATE
+
+‘+ Handling Adnsnistration Changes, requests that are entered making sure that they are knowledgeable and make
+sense logically so than the request can be approved.
+
++ Tracing missing authorizations objects using SUS3 and recommended appropriate roles for the end users,
+
+‘+ User administration (creating, maintaining, deleting user accounts and assigning roles)
+
+‘+ Managing ser login parameters and password parameters.
+
++ Reaching out to the Line of Business when logic doesnot meet requirements
+
+‘+ Analyzing authorization problems/erors and implementing appropiate solutions
+
++ Daily audits ofthe FACS tool
+
+1 New access request for news bank associates
+
++ Modify equest for existing bank associates,
+
+‘+ Help train new associates.
+
+‘+ Monitor the group Inbox
+
++ Update Policies and Procedures for FACS Admin & START process
+
+‘Lead Operational Representative
+Bank Of America, N.A.~ City, STATE
+‘= Manages customer and client relationships,
+‘+ Responsibilities included basi level reporting, customer service support, reviewing and processing transactions,
+sorting using electronic or mechanical equipment, econcilng, statement rendering and MICR/image.
+‘+ User administration (creating, maintaining, deleting user accounts and assigning roles)
++ Distribute daily work to meet deadline and goals.
+‘+ Identify and implement process improvement opportunites.
++ Provide guidance to less experience team member
++ AAddcess and escalates concerslssues with a sense of urgency.
++ Evaluates the consequences of problems and makes recommendation to suppor the generation of useful, realistic,
+and effective alternative solutions to problems,
+
+[MBBS Poo! Analyst
+LaSalle Bank - City, STATE
++ Reviewing Mortgagelloan documents
++ Data Entry Fling
++ General Clesial Work
+
+2006
+
+Associaton
+General Education
+
+Associate Degree in General Education
+College of Dupage Glen - Ellyn, IL

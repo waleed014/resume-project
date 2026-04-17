@@ -1,0 +1,75 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Expertise in Linux OS
++ Proficient in JAVA, C, C++
++ Experience with MATLAB,
+PYTHON, JS, ASP, HTML,
+VERILOG, Assembly, VHDL
+
+OBJECTIVE
+
+‘To obtain the software engineer intern position at summer 2014
+
+EDUCATION
+
+UCSD M.S. ECE GPA 3.8 Expected Graduation Dec 2014
+ECE187 Intro/Biomed Imaging & Sensing ECE111 Advanced Digital Design Proj
+‘CSE120 Operating System (In Progress) CSE101 Algorithm Design and Analysis (In Progress)
+
+BUPT B.S. CE GPA 3.7 Sep 2009 - Jun 2013
+Data Structure Linux Operating System
+Techniques of Microprocessor and Interface Principles of Communications
+
+EXPERIENCE
+
+Institute Of Automation, Chinese Academy Of Science - Machine Learning ( MATLAB, PYTHON )
+STATE + 02/2014 - 06/2014
+Designed and Developed a program to assign video tags at the shot level
+
+University Of Surrey - Image Processing ( MATLAB )
+STATE + 05/2013 - 08/2013
+Designed and developed a digital image watermarking program
+
+Sina Corporation HQ - Web Programming and Testing (HTML, CSS, JS, PYTHON )
+STATE + 10/2012 - 01/2013
+Wrote scripts to test the newly implemented function, analyzed the bugs.
+
+State Key Lab Of BUPT - Android Application Development ( JAVA Programming )
+STATE + 10/2011 - 07/2012
+
+Created and implemented an Android application, with which people can control certain electronic
+devices.
+
+Innovation Base Of BUPT - Embedded Software Development ( C Programming)
+STATE + 01/2012 - 04/2012
+Designed and Developed core functions, wrote drivers for certain chips
+
+PROJECT
+
+CSE120 Operating System ( C Prog
+Implemented the "Context Switchins
+ECE111 Advanced Digital Design Proj ( VERILOG )
+
+Implemented the Fibonacci sequence, WEP encryption algorithm and SHA-1 with low cost
+
+1100440 Advanced Labs in Network Applications ( Web Programming )
+
+Designed and developed webpages, wrote scripts
+
+1100540 Comprehensive Labs in Embedded System (C Programming )
+
+Created and implemented a intelligent fire truck, which can detect fire and put down it automatically
+1100530 Practicum in C++ Programming
+
+Designed and developed a MFC program, a software that manages students information
+
+functions ( To be continued )

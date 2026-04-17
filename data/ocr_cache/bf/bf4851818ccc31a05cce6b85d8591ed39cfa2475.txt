@@ -1,0 +1,142 @@
+Deanna Stewart
+Entry level Python developer
+
+1-346-116-4522 © deanna stewart@gmail.com
+© Boston, MA
+
+SUMMARY
+
+Entry level Python developer with a strong background of
+experience in marketing and budgeting. Aiming to develop my skills
+and become a Business Intelligence specialist. My strongest skills
+lie in database management with Python.
+
+EDUCATION
+
+B.S. Finance GPA
+Boston University
+#9 2004-2008 9 Boston, MA
+
+EXPERIENCE
+
+Junior Python Developer
+
+Grimes
+
+8 2019-Ongoing 9 Boston, MA
+
+Grimes is 2 USA based IT Services firm specializing in Enterprise Mobility,
+
+Information Management, and Cloud-based solutions.
+
++ Working in a team of 15 people
+
++ Taken active part in all development phases of 4 new products - research,
+design, development, testing, Cl/CD
+
++ Created over 30 design recommendations for developing & integrating
+programs per written specifications
+
++ Maintaining large databases and collaborating with colleagues on the
+reduction of software maintenance expenses ~ decreasing the costs by
+15% in just 1 year
+
+Python Development Internship
+
+Grimes
+
+BB 2018 - 2018 Boston, MA
+
+Grimes is a USA-based IT Services firm specializing in Enterprise Mobility,
+Information Management, and Cloud-based solutions.
+
++ Co-developed 2 new applications for finance management for a big fast-
+food franchise
+
++ Created an autocomplete where the user experience of searching products
+Increased by 30%
+
++ Completed 150 hours of training In JavaScript
+
+Budget Analyst
+
+Bouchard
+
+2 2013-2018 @ Boston, MA
+
+Bouchard is an all-in-one marketing agency with over 60 creatives and
+
+marketers working together to create award-winning marketing campaigns
+
+and ads
+
++ Forecasted the costs and budgeted over 90 projects
+
++ Managed monthly operations of up to $4.2 million for different projects
+
++ Conducted internal budget audit and discovered five key areas of
+redundant spending, saving $43,000 per year on average
+
+‘+ Monitored payroll expenditures and ensured contract and organizational
+compliance and proper allocation
+
+wwwenhanev.cam
+
+© linkedin.com/in/denna.stewart
+
+SKILLS
+
+Frontend
+
+Python JavaScript HTML CSS
+
+Databases
+
+MySQL MongoDB_ SQL
+
+DevOps
+
+Docker GIT AWS
+
+rabbitmg
+
+TRAINING / COURSES
+
+Data Wrangling
+Udemy, 2019
+
+Data Acquisition Basics
+Google Careers, 2018
+
+Data visualisation with Python
+18M, 2017
+
+CERTIFICATION
+
+PCEP
+The Python Institute, 2016
+
+STRENGTHS
+
+© Time management
+
+Completed 2 Python courses with
+excellence and started a remote
+internship while working full-time as a
+budget analyst at Bouchard,
+
+Commitment
+®
+
+| got out of my comfort zone and left my
+secure job to pursue something | am
+genuinely interested in. | am committed
+to fully change my career and become an
+experienced Python developer.
+
+<> Learning
+
+Eager to learn as much as possible about
+Python and software engineering.
+
+Powered by (CX? Enhancu

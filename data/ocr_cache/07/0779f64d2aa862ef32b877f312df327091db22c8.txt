@@ -1,0 +1,121 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor &2 (555) 432-1000 4 resumesample@example.com
+
+Dynamic professional with over 3 years of experience in Python development, adept at utilizing network
+monitoring and application monitoring tools such as AppDynamics, Extrahop, AppNeta, Gigamon, Accedian,
+and Site2487. Specialized in designing and developing web applications using Python frameworks like Django
+and Flask with MySQL database integration. Proficient in React, Angular4, chart js, Node js, and NoSQL
+databases, with hands-on experience in building Single Page Applications (SPA) using HTML5, CSS3,
+JavaScript, and Bootstrap. Skilled in writing efficient code and optimizing performance, leveraging Al tools like
+ChatGPT to enhance workflow. Well-versed in Agile, Scrum, and Waterfall methodologies in software
+development, with a strong background in the healthcare industry.
+
+«Programming Languages: Python Expert, Java, * Monitoring Tools: AppDynamics, Extranop,
+
+Go, Swift, M, SQL, Java script, Type script, C#, AppNeta, Gigamon, Site24&7, ServiceNow,
+HTML, CSS, and Shell Splunk, Accedian, Gratana, CloudWatch and
+
++ Databases: MySQL, SQLite, MongoDB, AWS Athena
+Prometheus, Cassandra, Redis, AWS + Techniques & Tools: PyCharm, Atom, Visual
+DynamoDB and Influx DB Studio Code, Hadoop, Docker, MYSQL
+
+‘+ Frameworks: Django, Flask, Angular, AngularJS, Workbench, Transmit, VirtualBox, Postman,
+React, jQuery and Chart js. Remote Desktop
+
+© Source and Version Control: Git, Github, SVN
+
+RESEARCH AND DEVELOPMENT ENGINEER 12/2021 to CURRENT
+University Of California | Santa Cruz, CA
+
+‘+ Designed and developed an innovative billing framework for automated charge drops in device-based
+monitoring, streamlining the process and ensuring accuracy.
+
+‘+ Implemented robust billing validation functions within the existing workflow, resulting in more accurate
+and reliable charges
+
++ Collaborated within a bug-fixing team to address and resolve issues across the entire application.
+
+‘+ Effectively fixed bugs in released versions through targeted updates.
+
+‘+ Enhanced performance by modifying Oracle and MySQL queries.
+
+‘+ Proactively identified and communicated potential risks and obstacles to ensure successful project
+execution
+
++ Conducted research on alternative solutions to problem areas, leading to informed decisions on the
+most effective technical approaches
+
++ Actively participated in code review meetings, providing valuable input on bugs, inefficiencies, and
+proposing solutions for emerging issues.
+
+‘+ Possess experience working with health services applications such as MyChart and Hyperspace.
+
+‘SCOTWARE PERFORMANCE ENGINEER, PYTHON DEVELOPER, TEAM LEAD 08/2019 to 11/2024
+Wipro Technologies (Client Of Apple)
+
++ Developed a full-stack Python application using Django and MySQL DB, with JavaScript, jQuery, Ajax,
+HTMLS, and CSS for the frontend
+
+‘+ Created a full-stack web application using Django, MySQL DB, and Angular4 with chart js for the user
+interface.
+
+‘+ Implemented single sign-on functionality using DAW, SAML, and LDAP for multiple applications.
+
++ Automated the setup of crontab and executed network troubleshooting commands (nc, traceroute, ping,
+nslookup) from source devices via a shell script, sending results to a target endpoint for efficient
+network issue resolution.
+
++ Developed and maintained web crawler scripts using Python (Selenium) and Mac Automator for
+dashboard display purposes
+
+‘+ Installed and configured Apache servers and implemented load testing scripts (shell and Python) to
+assess the performance of Apache load balancer.
+
+‘+ Implemented Gratana backend plugins using Golang and Node js, fetching data from various
+applications’ APIs (¢.g., AppDynamics, ServiceNow), analyzing it, and presenting it in a readable format
+on Grafana dashboards
+
+‘+ Set up and maintained different monitoring tools such as AppDynamics (onboarding, dashboard
+configuration, alerts, troubleshooting), Extrahop (JavaScript-based trigger code, dashboard
+customization, system configuration), AppNeta (network and web path monitoring, alerting, system
+configuration), Gigamon (port mapping, system configuration, troubleshooting), and Site24&7 (device
+monitoring).
+
+‘+ Developed and maintained Python scripts that pulled data from Splunk and the AppNeta API, utilizing
+caching to reduce calls to the AppNeta endpoint. Leveraged Extrahop trigger code (JavaScript) to
+analyze and display data on dashboards and write it into Influx DB.
+
+‘+ Implemented an audit logs script that collected logs from various tools and systems, analyzed them, and
+wrote the results into a MySQL DB.
+
+‘+ Deployed applications and automated scripts to different servers using Ansible
+
+‘+ Created a backup script (Python) and maintained its replication on GitHub.
+
++ Demonstrated hands-on experience with AWS services such as EC2, $3, Cloudwatch, and Athena
+Additionally, proficient in Node exporter and Prometheus, utilizing Grafana dashboards, and worked on
+a Swift project for network monitoring.
+
+PECFORMANCE MONITORING ENGINEER, PYTHON DEVELOPER 07/2018 to 08/2019
+
+‘Submitworks (Client Of Apple)
+‘+ Same position as above
+
+MS | Computer Science 09/2017
+New York Institute of Technology, Old Westbury, NY
+
+GPA: 3.86/4.0
+
+BS Information Management and Information System 06/2013
+
+Dalian Neusoft University of Information, DaLian

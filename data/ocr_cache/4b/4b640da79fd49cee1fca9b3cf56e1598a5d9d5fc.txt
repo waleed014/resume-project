@@ -1,0 +1,126 @@
+Michael Lopez
+
+GCP DevOps Engineer: Engineering and Deploying Solutions For More Reliable
+
+Environemnt
+
++1-732-141-8216 help@enhancv.com linkedin.com
+
+SUMMARY
+
+Glenwood, IA
+
+SKILLS
+
+GCP DevOps Engineer with 8+years of experience in
+engineering, deploying, and maintaining cloud-based solutions
+to optimize performance. ISO 27001 certified allowing a better
+understanding at necessary measures to create a 100% secure
+digital environment, compliant with CISA policies and
+regulations. Deploying continuous integration (Cl), continuous
+delivery (CD) to increase the collaboration between DevOps
+and Operations by 45%.
+
+EXPERIENCE
+
+GCP DevOps Engineer
+Lessard 8 2022 - Ongoing 9 Glenwood, IA
+
+Lessard is Software Development Company we provide all kind of
+Software Solution, Web Hosting Service, Cloud Service.
+
++ Configuring, developing, and monitoring GCP services and other cloud
+services (IAM, networking, etc.) to increase delivery speed by 65%
+
+« Assured the system is 100% reliable by protecting the GCP with various
+precautions - from employee security training to eminently deploy system
+vulnerabilities patches
+
++ Worked within a team of 6 DevOps engineers to ensure successful system
+implementations, automation of processes, further develop cybersecurity
+measures, and compliance with operational risk standards
+
+Senior DevOps Engineer
+Bernier 3 2018 - 2021 9 Charleston, SC
+
+Bernier is a health and fitness mobile app powered with Al to select
+training journeys and exercises that best fit your body and goals.
++ Maintained and optimized a 40-node Elasticsearch cluster that collects 1
+billion documents daily
+« Created the new PCI-DSS RHEL 6 hardening for the company
++ Implemented Dockers to enhance developer productivity by 30% and server
+consolidation and Management by 20%
++ Guided and trained a team of 20 DevOps
+
+DevOps Engineer
+Rolph €3 2014-2018 Fort Meyers, FL
+
+Rolph is a software development company, delivering products ranging
+
+from web and mobile applications to complex back-end solutions.
+
++ Ensured 100% code coverage through unit testing and integration tests for
+all critical use cases
+
++ Worked with Aws services (EC2, $3 Buckets, IAM, ELB, Route 53, VPC,
+Amazon RDS, CloudWatch, Lambda)
+
+« Managed a Chef environment with 250 roles, 400 cookbooks, and 3,000
+nodes
+
+CERTIFICATION
+
+Professional Cloud DevOps Engineer
+ISO 27001
+
+AWS Certified Solutions Architect
+
+www.enhancv.com
+
+GCP AWS CloudFormation Azure
+
+Json  Tensorflow TeamCity
+
+HashiCorp Terraform Jenkins
+
+EDUCATION
+
+Bachelor of Science in
+Software Development
+
+Hodges University
+@4 2010-2014 Q Fort Meyers, FL
+
+STRENGTHS
+
+Optimizing Service with TCO
+
+Integrated VMs and products based on
+utilization, cutting costs by $500K/year.
+
+<p>
+
+Pa CI/CD pipelines
+Improving Cl/CD processes with
+automation testing, canary releases,
+branching, SCA to make the pipeline
+55% faster.
+
+Cloud Monitoring
+
+Collected crucial data from Compute
+Engine, GKE, and Kubernetes to monitor
+SLO. Created a 100% secure
+environment by managing access
+control and integrating alert policies.
+
+INDUSTRY EXPERTISE
+
+Configuring Kubernetes-Based
+Solutions & Clusters
+
+Infrastructure as A Code Tools
+
+Implementing CI/CD
+
+Powered by (CX? Enhancy

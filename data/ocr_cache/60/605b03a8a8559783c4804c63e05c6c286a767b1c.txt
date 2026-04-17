@@ -1,0 +1,71 @@
+¢ Personal Info
+
+@ 010350 Trisha Stamm
+
+trishastamm@gmail.com Data Scientist, Microsoft Certified
+
+@® linkedin.com/in/trishastamm.
+
+° Soft Skills
+
+Problem Solving
+
+Microsoft and Google certified data scientist with 9 years of experience. Seeking to increase
+data efficiency for Contranix, Inc. Achievements include creating models to predict stock
+price with 259% more accuracy than the historical average. Achieved 20% improvement in
+investment returns.
+
+Expert e Experience
+Critical Thinking
+
+2013-10 -
+eee 2017-12
+Expert Exend Capital Inc.
++ Fulfilled all data science duties for a high-end capital management firm.
+Creative Thinking + Created and presented models for potential holdings to fund managers.
+eco Achieved 20% better returns vs historical performance.
+Expert + Created machine learning tools that computed adjusted P/E values.
+Interpersonal Skills + Predicted stock price 25% better than traditional figures.
+ecoe 2012-08 - Junior Data Scientist
+Advanced 2013-09 Supracy Real Estate Inc.
+- + Collaborated with all team members to optimize Customer Relationshi
+° Hard Skills p P
+Management database for a high-volume real estate firm.
+R Studio, Python, PERL, NoSQL, Hadoop, + Increased repeat business among real estate investors by 25%.
+VB, Cloudera + Decreased wasted phone and email time by 57%.
+e eee 2012-06 - Freelance Data Scientist
+xper
+ia 2017-12 Various
+Machine Learning + NCAAMaster: Beat 200+ statistics professors, students, and professionals
+ec3e in an NCAA pool. Didn't try to cram basketball into a framework where it
+Expert didn't fit.
+Data Visualization + FootForest: Used random forest regressor to predict fantasy football
+scores.
+eee
+Expert + Pylearn 2: Regular contributor to Machine Learning project on GitHub.
+Modeling e Education
+eee sept, A ‘
+Expert 2008 - BS in Statistics, Syracuse University
+2012 + Excelled in machine learning and data science coursework.
+Statistics + Completed a senior project to predict waitress tips in a busy Boston
+ec3e restaurant. Used decision trees, regression models, and SVM.
+Expert + President, AI club.
+Debugging Microsoft Professional Program for Data Science
+ecoe + Completed all 10 required courses in Data Science (120 hours).
+Advanced + Mastered 10 crucial data science skills.
+
+¢ Additional Activities
+
++ Article "Machine Learning in the Next 10 Years" cited in Forbes.
++ Leader of bi-monthly hiking club.
++ Volunteer monthly at the Boylston St. Soup kitchen.
+
+° Certifications
+Microsoft Professional Program Certificate in Data Science
+GCP - Google Certified Professional Data Engineer
+
+° Conferences
+
+2016 AAAI Conference on Artificial Intelligence
+
+2014 The Machine Learning Conference

@@ -1,0 +1,53 @@
+JAN GREENFELDER [mC Noduania\(@
+
+Information
+09/2019 — present DICKINSON, KUHLMAN AND CASPER
+
+Address Phoenix, AZ Senior SAP Developer
+
+123 Joye Prairie
+
+Los Angeles ¢ Significant experience with master data management
+
+CA processes and technology including developing data models
+
+and maintaining master data records within SAP MDG
+
+Phone e Hands-on configuration experience and knowledge of
+
++1 (555) 581 2830 9 P g
+
+enterprise commission systems
+e Effective issue analysis and resolution skills
+
+08/2015 — 08/2019 BATZ, WIEGAND AND GERLACH
+Phoenix, AZ Lead SAP Developer
+
+e Web Developer Tools
+
+¢ An appreciation of Software Development Lifecycles and
+knowledge of Agile and DevOps
+
+e Performance and resilience related architecture
+
+¢ Engineering of IT solutions to meet Business requirements
+
+Experience of working in multi-tier IT architectures
+
+© EDUCATION
+
+MASSACHUSETTS COLLEGE OF ART
+
+Bachelor's in Computer Science
+
+SKILLS
+
+e
+
+Require basic client-side knowledge of Web technologies, JS, HTML, CSS
+
+Exposure to building microservices is highly
+
+Exposure to debugging, troubleshooting, and performance tuning for complex SQL queries
+Knowledge of lean development infrastructure process including Git, TeamCity, Jenkins,
+etc

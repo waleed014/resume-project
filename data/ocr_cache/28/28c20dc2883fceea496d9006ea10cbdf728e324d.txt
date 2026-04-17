@@ -1,0 +1,46 @@
+ROBERT SMITH
+
+Dotnet Developer Il
+
+Info@quikresume.com | https://Qwikresume.com
+
+More than 8 years of experience in Requirement Analysis, Design, Documentation,
+Development and Implementation in Client/Server and Web Technologies for
+Various Finance and Retail domains. Extensive experience in MS NET Technologies
+sing ASPNET Web Forms, ASPNET MVC, C#.NET, ADO.NET, LINQ ta SQL, LINO to
+Objects VE
+
+JANUARY 2014-2020
+DOTNET DEVELOPER I! - MAYO CLINIC
++ Effectively used C#,NET for coding the business logic.
++ Ensured that the proposed investments are appropriate for the clients financial
+circumstances and goals.
++ Designed and developed various abstract classes, interfaces classes to
+construct the business logic using Cit.
++ Worked efficiently in all the phases of SDLC and Involved in developing 3- ter
+architecture for the web application,
++ Fixed the issues reported by client and supported them quickly.
++ Designed and developed the real time and historical market data handling by
+sing COG API
+‘+ Created Win Forms for admin application, scheduled the process for the updated
+market data,
+
+2012 - 2014
+DOTNET DEVELOPER - DELTA CORPORATION
++ Responsibilities Gathering Client requirements and converted them Into the
+technical specifications and developed Windaws forms using C#.
++ Involved in research and analysis of business problems and developing
+Technical solutions
++ Created WPF (Windows Presentation Foundation) for inputting and displaying
+data using Cz.
++ Implemented ground transportation &amp; Workflow Scheduler using Microsoft
+provider pattern, C# &amp; WPF.
++ Worked on framework elements, the layout system, Visual Tree, User Controls,
+data binding, control template, styles and dynamic resources,
+* Developed custom controls to enable reusability and user rich graphic controls,
+of WPF and WinFarms.
++ Used WPF in creating windows and different animated scenes using the
+combination of transforms, animation controls (storyboard, double animation)
+and color effects.
+
+(0 Tis Free Resume Template the copyright of Quine ane com, Usage Gublines

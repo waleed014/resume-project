@@ -1,0 +1,56 @@
+Sap Business Objects Developer Phone: (12) 456.76 99
+
+mal: Infeequleresurne.com
+ROBERT SMITH Ae ned
+linkedln.comiqwireste
+
+Address: 1727 Marshulle Road
+
+Alabatna,
+
+Objective
+
+Over 7+ Years of experience in decision support systems using Business Intelligence tools SAP
+BC) 4.0/3.1 / XI R3 XI R2. Experience in gathering requirements from the business users and
+prioritizing those requirements, which have the highest business impact in terms of analysis and
+‘decision-making. Worked with Business users to analyze the business process and made
+necessary changes ta the schema objects
+
+Skills
+
+Project Management, Business Objects 5.1, 6.5. 8OXI R2, BOX! R3, Oracle 10g, SQL Server, DB2,
+Cognos 10, Ok
+
+Work Experience
+
+Sap Business Objects Developer
+Macys - july 2024 - 2020
+Worked on several development projects that includes ertical Universes and reports for
+various user populations.
+Interacted with Business users and owners to knaw thelr day to day Business views reflecting
+ther in the Universes and Reports,
+Created the Universes for different user populations such as BARS, Business Resource Center,
+Claimracts and Consolidated Group Renewal System.
+Created canned and ad-hoc reports meeting user requirements aver the top of Universes and
+freehand sql queries.
+Made modifications to existing Universes as part of the support.
+Created, maintained and modified the business reports using the Business Objects Reporting
+Module.
+Created users, Groups, Folders and assigned privileges for various access levels i.e Viewers,
+Power Users and Desi! Users,
+
+Sap Business Objects Developer
+Delta Comoration - 2012-2014
+Kaiser CSBIO Project provides Business Intelligence solutions to Kaiser for all FOC and
+California Regions,
++ We develop solutions for BI reporting using SAP Business Objects.
+* Involved in requirement gathering &arnp; status meetings with client
+* Developed ausiness Objects (Xi R2) Universes in Sq) Server 2005/CA Service Desk
+environment Wrote SQL Queries to create SOL Views to provide
+Involved In the below activities 2) Creating a security model and proposing to the client:
+Validating three layered security architecture(Location, object, application level) 3) Editing
+Unlverse for applying class level flter, managed
+This Is Dummy Description data, Replace with job description relevant ta your current role,
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+‘Guidelines

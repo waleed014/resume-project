@@ -1,0 +1,75 @@
+CATRINA KOCH
+
+© 91545 MCCLURE PIKE, NEW YORK, NY
+
+Fp PHONE
+
++1 (555) 800 3327
+
+@ EXPERIENCE
+
+Lubowitz-McGlynn -> 08/2020 — present
+BOSTON, MA /// ELECTRICAL ENGINEERING
+
+Experience in embedded systems design, with a specialty in
+analog and RF design
+
+Experience in L-band RF circuit design
+
+Experience in design, debug, and test of Radio Frequency
+(RF) and Analog Circuits (power amplifier, low-noise
+amplifier and filter design)
+
+Familiar with common RF/EM/antenna simulation platforms
+such as ADS, Microwave Office, HFSS
+
+Proficient with major types of RF test equipment (Network
+Analyzers, Spectrum Analyzers)
+
+Experience with DO-160 environmental/EMI qualification, and
+TSO approval processes
+
+Beahan LLC -> 04/2016 — 05/2020
+BOSTON, MA /// ELECTRICAL ENGINEERING
+
+Familiarity with avionics design and certifications standards
+for commercial air transport applications
+
+Familiarity with TCAS/Transponder product design
+Experience with JAMA/JAMA/SVN
+
+Exposure working with embedded processors and FPGAs
+Familiarity with software designed radios design
+Experience with signal processing system simulation &
+analysis tools
+
+Good knowledge of Bulk Capacitor Characterization and
+Simulation (ESR, ESL, Thermal, DC offset impact, inrush
+current)
+
+© EDUCATION
+
+Fashion Institute of Technology /// Bachelor's
+in Electrical Engineering
+
+@ SKILLS
+
+e
+
+P.Eng registration with PEO will be an asset
+
+Working knowledge of North American codes and standards
+such as CSA, NEC, IEEE, Reg 22/04
+
+Experience on MathCAD, ASPEN or ETAP software, SpiderCalc,
+Cable Pull planner 3000 is an asset.
+
+Experience with distribution utilities is an asset
+
+Develop electrical substation facilities layout drawings
+including plot plans for outdoor substation equipment
+Develop Switchgear room and Control room layout drawings
+for substation projects
+
+Develop underground cable routing conduit and trench plan
+layout and sections for distribution network

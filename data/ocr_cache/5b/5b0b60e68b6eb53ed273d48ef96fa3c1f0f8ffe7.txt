@@ -1,0 +1,200 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Middleware : AnyPoint Studio,
+CloudHub, MuleESB, JMS, MQ
+Series
+
++ Integration: Mule ESB 3 and 4,
+Anypoint Studio, API
+‘Management, CloudHub, SOAP,
+Restful WS, WSDL, JAXP, JAXB,
+Dell Boorni
+
++ Tools : Jira, Jenkins, GIT, SVN,
+Clear Case, Artifactory, Ansible
+
++ OS: Windows ,Linux
+distributions
+
++ Servers : Tomcat ,WebLogic,
+Was, Mule runtime
+
++ Language : Shell script, Java,
+MEL, JavaScript, XSLT, Python,
+Dataweave
+
+EDUCATION
+Bachelor of Science
+
+CERTIFICATIONS
+
+‘MuleSoft Certified Developer 3 & 4
+
+PROFESSIONAL SUMMARY
+
++ Over 7+ years of experience in Software Development Life Cycle (SDLC) including requirements
+analysis, design specification, code development, code integration, testing and deployment using
+Object Oriented Analysis and Design (OOAD) with Java/J2EE.
+
++ 4 plus years of experience in Mule ESB, API Management, CloudHub and continuous integration.
+
++ Experience in Web Services approach for Service Oriented Architecture (SOA) and publishing Web
+Services both SOAP & REST (consume and implementations) that include several components like
+SOAP, WSDL, XSD, JAX-RPC, WS-I and Apache Axis.
+
++ Mule ESB experience in implementing service-oriented architecture (SOA) and enterprise
+application integration (EAl) using Mule 3.x.x and 4.x.x.
+
++ Good experience in application integration using; RESTful API, SOAP and Messaging.
+
++ Good experience in XML technologies like XSD, XSLT, XQuery, and xpath for data transformations in
+‘MuleSoft.
+
++ Good experience in using ActiveMQ, AWS suite for Asynchronous message queuing for guaranteed
+delivery pattern.
+
++ Experience in System Integration test to ensure quality of the system.
+
++ Production Support, receiving production calls, troubleshooting the application and resolving the
+issues.
+
++ Good experience in monitoring application and troubleshooting production issues.
+
++ Proficient in creating reusable shell scripts, Python and Ruby scripts.
+
++ Excellent communication skills and motivated organized team player with high aptitude for learning
+and implementing.
+
++ Excellent understanding of full Software Development Life Cycle.
+
++ Proficient in automated deployment using Jenkin, GIT/SVN/CVS, Artifactory.
+
++ Proficient both in Agile and Waterfall software development methodologies.
+
+WORK HISTORY
+
+AQT - MuleSoft Developer
+Paramus, NJ + 05/2018 - Current
+
++ Design various types of flows which are integrate with SJessicasforce, Database, Workday,
+‘Mainframes, FTP etc
+
++ Created API interface using RAML 0.8 and 1.0 and create synchronous and asynchronous flows.
+
++ Implement services or interfaces to connect both internal and external SOAP and REST service
+providers.
+
++ Implement error handling strategies using On€rror continue, OnError propagate and try scopes
+
++ Coordinate in all testing phases and worked closely with Performance testing team to create a
+baseline for the new application
+
++ Design and Implement RESTFUL/SOAP Web Services using various data format (JSON, XML) to
+provide an interface to the various third-party applications
+
++ Create flows/orchestrations for integrating the components like connectors, transformers and
+scopes written on top of different internal platforms using Mule ESB for XML to CSV
+
++ Done with transformers, testing and Security of Mule ESB endpoint through OAuth
+
++ Responsible in developing integration workflows using Mule ESB framework, implemented
+DataWeave and Data Mapper, and content-based routing using Mule ESB.
+
++ Extensively used Mule components such as File Transport, HTTP, SMTP Transport, FTP/SFTP
+Transport, JDBC Connector, and Transaction Manager.
+
++ Perform unit testing through MUnit test cases for mule flows and deploy to CloudHub
+
+Environment: Mule 4.3, 3.9, GitHub, Jenkins, Maven, Shell script, Linux, DataWeave, CloudHub,
+
+MSSQL, SJessicasforce, Seibel, SAP, workday.
+
+Deloitte - MuleSoft Consultant
+Tacoma, WA + 07/2017 - 04/2018
+
++ Collaborate with developers, product manager, analyst and tester for effective implementation of
+projects
+
++ Create flows/orchestrations for integrating the components like connectors, transformers
+
++ Use MuleSoft AnyPoint API platform for designing and implementing Mule APIs
+
++ Create RAML specification, building APIs using API Kit Router in Mule applications
+
++ Create transformation logic using Dataweave, MEL and XSLT
+
++ Organize flows, sub flows and global XML configuration files
+
++ Integrate various systems such as sJessicasforce, workday, ftp, soap and rest backend, web and
+mobile application
+
++ Create consumer and producer message flows that are exposed as both SOAP
+
++ Perform end-to-end testing, resolve problems and validated test results
+
++ Create reusable components such as global exception handling strategy and common logger
+
++ Work on XML technologies like XPATH, XSLT, XSD and data weave for data transformations
+
++ Deploy applications to different environments (TEST, QA, and PROD)
+
++ Implement error handling and logging in the message flows
+
++ Secure credentials using secure place holder and AEL or Blowfish encryption algorithm
+
++ Secure rest endpoint with client id/client secret and access toke (OAUTH2.0)
+
+Environment : Bitbucket, Jira, Confluence, ActiveMQ, RabbitMQ, Serviets, Nexus, JSP, Java,
+
+‘MuleSoft 3.x, MMC, AnyPoint Studio 6.x, JSON, JMS, XML, XSD, XSLT, XPATH, JAXP, JAXB, WSDL,
+
+SOAP, Spring MVC, CloudHub.
+
+Bigbear.Ai - Java Developer
+Charlottesville, VA + 06/2015 - 06/2017
+
++ Participate in the development using JAVA/J2EE Technologies, Web services, Spring,
+
++ Hibernate Framework
+
++ Implement RESTFUL based web services
+
++ Used the Hibernate for data base Connectivity
+
++ Design the user interface of the application using JSP
+
++ Participate in web UI pages using JSP, JSTL, CSS, HTML, XML, XSL, XSLT, JavaScript
+
++ Implement front-end validations with JavaScript, Angular Js, Node Js
+
++ Implement application using Spring, Web Services (SOAP and RESTFUL)
+
++ Built web-based applications using Spring MVC 3.0 Architecture
+
++ Used Spring Core for concept Inversion of control (IOC) implemented using dependency injection
+
++ Implement Controller, Model and View components on MVC 2 architecture-based application
+
++ Experience in unit testing the applications using Junit Framework and developed logging and
+standard mechanism based on Log4J
+
++ Used the Java Collections API extensively in the application
+
++ Expose Stateless session beans as Restful web services using Jersey JAX-RS.
+
++ Design, develop, implement, and maintain custom Ant tasks in Java
+
++ Execute unit test with Juint and integration with SoapUI and POSTMAN
+
+Environment: JAVA/.J2EE, JSP, Servlets, Spring, Struts, Hibernate, Web services, SOUP, REST, JAX-
+
+RS, Tomcat, Java Script, Oracle, Logaj, XML, HTML, CSS, UNIX, ANT, WSDL, SOAP, AJAX, Agile,

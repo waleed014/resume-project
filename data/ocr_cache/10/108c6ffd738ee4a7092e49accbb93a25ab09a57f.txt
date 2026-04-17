@@ -1,0 +1,66 @@
+Britzel Sporl
+DevOps Engineer
+
+Profile
+
+Employment History
+
+Education
+
+Details.
+britzelsporl@gmailcom
+(o11) 819-1280,
+
+Baton Rouge, LA
+
+11am an experienced DevOps Engineer with over two years of hands-on
+experience in developing, deploying, and maintaining large-scale
+distributed systems. | have a proven track record of success in leading
+highly functional teams and producing high-quality results. lam highly
+proficient in designing and deploying Ci/CD pipelines with various tools.
+like Jenkins, Ansible, and Terraform, | have also worked on automating,
+deployments and configuration management tasks with Chef and Puppet.
+‘My background in Linux system administration, networking, and scripting
+languages has been critical in ensuring the smooth functioning of
+production environments. lam passionate about finding solutions to
+complex problems and developing innovative ways to optimize systems.
+
+‘Senior DevOps Engineer at Hired, LA
+Now 2022 - Present
+
++ Developed and implemented a comprehensive DevOps strategy for
+Hired, LA, resulting ina 40% decrease in system outages and a 25%
+improvement in response times.
+
++ Spearheaded the successful transition of Hired, LNsinfrastructure toa
+<loud-based environment, resultingin a 70% reduction in operational
+costs
+
++ Automated the deployment process for Hired, LA's web applications,
+leading to a 50% increase in speed and efficiency.
+
+DevOps Engineer at CGI Technologies and Solutions, Inc., LA
+‘Aug 2021 -Oct 2022
+
++ ‘Successfully implemented a DevOps automation system, which
+reduced deployment time from 6 hours to 15 minutes. Ths allowed
+the development team to quickly deploy new features and updates,
+resulting in an increase of customer satisfaction by 10%.
+
++ Led the migration of all microservices toa cloud-based platform,
+resulting in a 5036 cost savings for the company. The migration also
+improved scalability and performance, resulting in a 30% increase in
+system avalabilt
+
++ Automated the CI/CD process, which led to 250% reduc
+‘manual testing time and a 2536 increase in the number of successful
+deployments each month, Ths allowed the team to focus more on
+innovation and new project.
+
+Bachelor of Science in DevOps Engineering at Louisiana State
+University, Baton Rouge, LA
+‘ug 2016- May 2021
+
+Relevant Coursework: Network Engineering, Cloud Computing,
+‘Automation and Scripting, Systems Administration and Security, Agile
+Methodologies.

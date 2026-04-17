@@ -1,0 +1,69 @@
+Elva Mills
+
+2956 Ibrahim Vista, Boston, MA @ Phone: +1 (555) 740 8393,
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+JAVA SOFTWARE DEVELOPER SENIOR
+Phoenix, AZ
+08/2016 — present
+‘* Creates and assists in development of software technical documentation
+Providing support to teams that use the developed application
+Assisting in problem solving in both development and production environments
+Assists in development of software technical documentation
+Perform code review and follow change management process
+Assisting in development of software technical documentation
+Working knowledge of JAVA/J2EE development, Struts, Spring, AJAX, JBoss
+
+SENIOR JAVA SOFTWARE DEVELOPER
+Detroit, MI
+06/2012 — 02/2016
+‘© Works with the team to develop, maintain, and communicate current development schedules, timelines
+and development status
+‘© Create Libraries and Frameworks which will be used across multiple application development projects
+‘© Manages or utilizes software that is built and implemented as a product, using best-in-class development
+processilifecycle management
+Develop new processes, perform enhancements, and support existing systems
+Provide support and resolution for performance related issues
+Developing high performance solutions for customer’s existing and future products
+Analyzes, debugs and/or assists in problem solving in both development and production environments
+
+JAVA SOFTWARE DEVELOPER
+Philadelphia, PA
+04/2009 — 05/2012
+‘* Establishes and maintains a positive work atmosphere with coworkers, managers, and clients
+‘+ Performance Management - Monitor and tune system to achieve optimum performance levels, and
+provide reports to support metrics collection
+‘+ Assumes other duties as assigned by software development manager, team lead or senior software
+developers
+‘+ Lead program/project level design, performance management, managing non-Functional commitments
+and Release Management
+‘* You will be part of a development team that is responsible for the development and the maintenance of
+‘our meter data collection and meter management systems
+‘+ Employs best practices for design, development, unit testing and test plan development
+‘© Assist in development of software technical documentation and demonstrates software
+
+UNIVERSITY OF ILLINOIS AT CHICAGO
+Bachelor’s Degree in Computer Science
+
+Knowledgeable about performance tuning, scalability and redundancy concepts
+Ability to write clean, readable, maintainable code
+
+Knowledgeable about containers, Docker, or Kubernetes is
+
+Basic knowledge of software development processes, methodologies and lifecycles
+
+Knowledge of Trademark Data, Multimedia, and Image Repositories is desirable
+
+Professional working environment in a team of highly motivated experts
+
+Good knowledge of software design and development process
+
+Strong programming knowledge of JAVA and / or JavaScript
+
+Knowledgeable about application integration technologies including messaging and web services
+Knowledgeable on Application Security concepts (e.g. OWASP Top 10, SANS/CWE Top 25)

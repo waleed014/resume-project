@@ -1,0 +1,174 @@
+SUMMARY
+
+sits
+
+EXPERIENCE
+
+EDUCATION AND.
+TRAINING
+
+Jessica Claire
+
+© Montgomery iret, San Francisco, CA 94105. t& (955) 422-1000 4 resumesample@example com
+
+Professional Summary
+
+(Over 7+ years off Experience in Database Design, Development and business ineligence of Mlcrosot
+‘SQL Server 2000/2005'2008 in Development Test and Production Environments on varous business
+domains tke Financ, Insurance and manufacturing.
+
+Hands on experience in instaling, configuring, managing, upgrading and migrating, monitoring and
+troubleshooting SAL Server 2000/2006/2008 R2.
+
+Expertise in SQL Server integration Services (SSIS) and SAL Server Reporting Services (SSRS) vith good
+knottedge on SQL Server Analysis Services (SSAS)
+
+Experience in port ring using SQL Server Reporting Serces (SSRS) and creating varus types of
+reports ike ail doun, Parameterized, Cascading, Condon, Table. Mair, Char and Sub Reports.
+
+Experience in developing, mentoring, extracting and transforming data using DTS/SSIS, Inport Export
+ard, and Bulk insert
+
+Excelent in High Level Design of ETL OTS Packages & SSIS Packages for itegratng data using OLE OB
+connect from heterogeneous sources ike (Excel, CSV, Oracle at fle, Text Fomat Data) by using mule
+transformations provided by SSIS such as Dala Conversion, Condtional Spit, Bukinsert, Merge and union
+a
+
+Developing reports on SSRS on SOL Server (2000/2005/2008). Sound Experience and understanding of
+‘SSAS, OLAP cube and Arentectre
+
+Experience in wing expressions in SSAS and Expertin fn tuning the reports. Created many Or through
+and Dril Down reports using SSRS.
+
+Excelent knowledge fn creating Databases, Tables, Stored Procedures, ODLIOML Triggers, Views, User
+etined data types, tunctons, Cursors and Indexes Using T-SOL
+
+‘Great abt to create and manage various database objects ike tables, views.
+
+Worked xtenshvely on ETL process using SSIS package.
+
+Experience in Data Conversion and Data Migration using SSIS and OTS services across ferent databases
+tke Orace, MS access and fa es,
+
+Experience in using T-SQL in SQL Server 2000/2008 and 2006 platorms.
+
+Experience in Performance Tuning and Query Optimzaton.
+
+‘Wet versed in Performance Point Server 2007, Designed Dashboards, Scorecards and reports using
+rmutipe KPs, OLAP charts and SSRS Reports with PPS,
+
+Experience in maintenance and Administration of SSIS by creating Jobs, Alerts, SOL Mall Agent, and
+schedule DTSISSIS Packages
+
+Experience in SOL Server DTS and SSIS (Integration Serie) package design, constructing, and
+‘epioyment
+
+‘Transformed data from one server o other servers sing tos tke Buk Copy Program (BCP), Oata
+‘Transformation Services (DTS) and SQL Server Integration Services (SSIS)
+
+Experience in creating packages to transfer data Detueen ORACLE, MS ACCESS and FLAT FILES to SQL
+SERVER using OTSISSIS
+
+Expert in creatng Parameterzed Reports
+
+ands on experience in Creating Star Schema and Snow Flake Schemas.
+
+Excelent analytical, communication and interpersonal skits. Proficient in technical wring and presentations
+‘and a good team payer
+
+Abaly fo work independent or as par ofa team to accomplish cial business obectves ana to make
+Gecisions under pressure
+
+“+ TECHNICAL SKILLS ‘+ Programming: SQL, T-SOL, PowerShel, and
+"+ Database: SOL Sener 2019, SaL Sener 2014, VBScript
+2012, and 2008R2/2008, ‘+ Operating System: windows Server
++ ETL Tools S818, DTS, BoP 201672010/2008R2/2008
+‘+ Reporting: SSRS (SAL. Server Reporing ‘+ Tools and sofware: MS Office, Power 6, Visual
+ServcesiServer) Basic
+SQLIBI DEVELOPER 082021 fo CURRENT
+
+Neogenomics Laboratories | Houston, TX
+
++ nvowed in planning, defining, and designing data ana provided documentation
++ Worked cosely wt ne business to analyze and consolidate request requirements to improve the
+ecision planning process
+Detined data requirements and report layouts forthe business to review
+(Created user stores an scripts based on requirements
+Generated parameterzed repr, ad-noc reports, sub reports, tabular reports using SSRS
+‘nized Datatiow th mutipe transformations for incremental oads and truncate reloads
+‘created and moaited SOL queries ike Views, Functions, and Stored procedures
+Maintained the table performance by folowing the tuning tps tke creating index and apphing best
+practices
+“+ Worked on SOL Serer Integration Serdces (SSIS) oInegrate and analyze data trom mutple
+Information sources
+‘+ Experience in configuring and creating SSIS solution for ETL and business intligence
++ Inoauced SSRS to help the exsting reporing process and designed and developed SSRS
+“+ Created parameterize reports and inked repr thorough knowledge of report server architecture
+using SSRS.
+“+ erformed minor aaministrate dues creating folders, montring obs and secur related tasks
++ Leverage enterprise business intsigence tools, SAL queries and oer tals to develop complex
+‘models and reports
+‘+ Create funcional technical specticatons to document design approach
+Environment: MS SOL Server2005/ 2008, SQL Server integration Services (SSIS), SQL Server
+Reporting Services (SSRS), SOL Server Analysis Services (SAS), MS Visual Studlo.NET# 2008, TFS
+(SharePoint), Visual BasieS.O1V8.net, VB Seript ana Windows 2008 Server.
+
+PC-VER BI DEVELOPER ‘022018 0 0772024
+
+Geico insurance | Champaign I
++ Developed Power BI model used that used in creating reporting
++ Designed and documented the entire architecture of Power bi
+‘+ Expertise in wing complex OAX functions in Power Bland Power Pwot
+‘Automated Power Query cetresh using power by using parameter
+Used varios sources to pul data info Power Bi such as SQL Server
+Instated and conigured Enterprise gateway and Personal gateway in Pover bi service
+‘created Workspace and content packs for business uses to iw the developed reports
+‘Scheduled Automatic refresh and scheduing rettes in power bi service
+\Wiorked on a knd of ports such as Year, Quarter, Monthy, and Day
+\iorked on at types of ranstormations iat are avatable in Power bi query edtor
+‘+ Created stored procedures and SAL queries to pull data into power pvat model
+Environment: MS SQL Server 2012/2008, SQL Server integration Services (SSIS), SQL Server
+Analysis Services (SSAS), SOL Server Migration Assistant (SSMA), Oracle 116, SQL Protlr, T-SQL,
+Power Bi Desktop, Power 8 pro, Visual Studlo 2010, HTML, Java Seript.
+
+‘SCIPOWER BI DEVELOPE 052016 10012018
+Citizens Bank | City, STATE
+“+import data rom atferent data sources to create Power B reports and Dashooards
++ Experience mn developing Reports, Chan, Dashboares using Poner Bl Desktop and manage secunty
+based on requtements
+“+ Transform, define, navigate the data rom data source and performed merge and append queries using
+Power Query
++ implemented complex query techniques of passing mul-valves parameters and cascading parameters
+in ox
++ Performed transformations ike Pvoting, Unpvoing and Spiting of he clunins using Power Query
+“+ Created aerent char types and ail down reports using Power Bi Desktop (SSRS)
+“+ Involed in detning report tyout in SSRS
+‘+ Created measures, calculated clurns, relabonships and performed time series analysis using DAX in
+Power 8!
+Publshed reports and visualzatons to Power Bl Service and hereby creates dashboards
+‘Created nerarchies in Power Bl reports using vsualzaons ike Bar char, Line chart, ete
+‘Worked with oth ve and inprt data into Power B for creating reports
+‘Managed relationship between tables in Power Busing str schema
+sea atterent typeof stcers avatabe In Power Bor creating reports
+‘Experienced in creating many dashboards by planing many vsualzatons in he workspace as per the
+Insights prowaea
++ Experienced in Data Modeling used to define and analyze data requirements needed to support he
+business processes wtin the scope of corresponding information systems in organzations
+“+ Used Power BI Gateways to Keep the dashboards and reports upto date
+“+ Experience in developing several Details, Summary reports including ne and ple cars, rend analysis
+‘eports and sub-reports per business requrements
+“+ Experience n generating on-demand and scheduled report for business analysts or management
+ecison
+“+ Used recent introduced Power to create set service 8 capabiies and use tabular models
++ Responsible for ceating an changing the visualzations in Power Bl eports and Dashboards on cent
+requests
+“+ Shared te creates workspace across the organzation using PowerBl App
+‘+ Responsible for creating Row-Level Seculy (RLS) based on the business requirements
+Environment: Power BI, DAX, Power Bl Gateway, Power BI Apps, MDX, MS SQL Server
+-2016/2014/2012/2008 R2, MS Excel, JSON, Windows 8/10, JIRA, SERS, SSAS
+
+Associate | Applied Sclence Database
+
+Georgia Piedmont Technieal College, Atlanta, GA
+
+Ce tieate in SOL Server Database

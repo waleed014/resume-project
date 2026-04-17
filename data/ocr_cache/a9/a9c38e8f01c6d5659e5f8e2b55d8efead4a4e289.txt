@@ -1,0 +1,56 @@
+CHARLOTTE MAY
+
+Senior DevOps Engineer | Azure Expert
+
+@ help@enhanev.com @ linkedin.com 9 Los Angeles, California
+
+SUMMARY
+
+Senior DevOps Engineer with over 7 years of experience specializing in the development and implementation of Cl/CD
+pipeline toolings, Azure DevOps and iterative improvement in fast-paced environments. Known for improving efficiency
+and productivity through innovative solutions and strong collaboration skills. Passionate about digital transformation
+and eager to utilize my experience to make a positive impact.
+
+EXPERIENCE
+2018 - 2021 * Senior DevOps Engineer
+Redmond, Washington Microsoft
+Managed and developed efficient custom delivery pipelines.
++ Contributed to technical decisions, increasing productivity by 25%.
+Implemented innovative Cl/CD pipeline toolings, reducing the release cycle time by 40%.
+Developed and maintained an automated testing framework resulting in a 35% reduction in
+bugs.
+2016 - 2018 *° DevOps Engineer
+San Francisco, California IBM
+Worked on the efficient use and integration of DevOps toolings.
++ Used Azure DevOps for seamless software development, improving team agility by 30%.
++ Worked closely with the development team to optimize scripts, reducing build times by
+20%.
++ Developed customized tools tailored to the team’s specific needs, improving workflow
+speed by 15%.
+2014 - 2016 ¢ Junior DevOps Engineer
+San Jose, California Cisco Systems
+Provided support in the software development lifecycle.
++ Gained a solid understanding of DevOps principles and iterative improvement environments.
++ Contributed to the development of a CI/CD pipeline, increasing deployment frequency by
+30%.
+- Mastered scripting, automating repetitive tasks and reducing manual intervention by 25%.
+STRENGTHS
+® Digital Transformation g Collaborative Team Environment
+Achieved a 30% increase in efficiency by successfully Recognized for fostering a productive, collaborative
+implementing a digital transformation strategy at my work environment, resulting in a 20% uplift in overall
+previous company. team performance.
+
+Q Automation and Scripting
+
+Increased development velocity by 15% through
+effective automation and scripting techniques.
+
+EDUCATION
+
+2012 - 2014 *¢ Master of Science in Computer Science
+Los Angeles, California University of California, Los Angeles
+
+2008 - 2012 * Bachelor of Science in Computer Science
+Long Beach, California California State University, Long Beach
+
+www.enhancv.com Powered by (CX? Enhancu

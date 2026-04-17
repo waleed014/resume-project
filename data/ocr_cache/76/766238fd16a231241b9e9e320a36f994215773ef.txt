@@ -1,0 +1,58 @@
+ROBERT SMITH
+Senior ETL Developer I
+
+‘E-mall infowgwikresums-com Phone: (0123)-56.709
+
+SUMMARY.
+
+Senior EL, Developer with over 11 years of total TT expericace andl Technical proficiency in the Dat
+‘Warchousing teamed with Data Analysis, #1, Data Modeling, and ETL Development amp: ETL Design
+‘vith ul lifecycle Implementation of Data Warehouse. Involved in the ect interaction with the cliems
+‘trong knowledge and experience in various sectors like hanking, finance, heahcare pharmacies, an
+Insurance, Involved in bull the logical an physical models
+
+ETL Tool Taformatica 9.48.3, 1DQ. MDM (Power Center/Power MarvPower ExchangelSSIS) Languages:
+SQL. PLISQL.. SQLPhus. Databases; Oracle SQL Server 7.0, 2000, 2008, DB2, Teradata, Tera Data
+‘Dilties,ERP System OLAP Tools SSRS SQ. Tools: SQL. Developer, TOAD, SQLPLUIS, SQLLoader
+Olfice Tools: MSOtTice, MS Project. Operating Systems: Windows, UNIX, Linux, Sun Sols:
+
+WORK EXPERIENCE
+
+Senor ETL Developer I
+(Centers For Medicare & Medicaid Services Apeil 2009 — April 2017
+
+Involved in the development of E:T. packages or newhy built data mart by using
+
+4 Auddrese the issues elated to &equvt:834 henchit enrolment camp: malntenance
+Iansactionsquo. Improvement of existing process and plementation of new ETL. design.
+
+‘+ Designed and wnplemented a data schedole and time-code daa from the efferent enites and
+processing the data to provi a unified view ofthe platform (conformed dimension).
+
+“+ Supported su implemented appropriate LIP standard compliance sonsoluate redundant
+‘operational process using EDL and up graation frm 4010 to SOLO nl muitsaance of uptront
+application for research analyses between b2b. Platform (conformed dimension)
+
+4+ Developes 1DQ standardization mappings: according to res sing HDQ transformations alates
+validators accelentors
+
+‘+ Involved in buen the logical and physical mells for dimensional modeling project.
+
+“Loaded the interacting with clients to yather requirements on cleansing rules and data remsciaton
+
+ETL Developer
+ABC Comp - 2006
+
+2009
+
+‘+ Designed and developed mapping, transformation logic anel processes in Informatica For
+implementing business rules and! standardization of source data from ulile systems in the data
+warshowse
+
+‘Tested ull TIPPA transactions for mul-version suppest 4010 nd 5010) and validated the database
+toile elements
+
+‘+ Rescarche the existing cient processes and guided the vendors in aligning the HIPAA compliance
+‘output ith th lie systems
+
+(© Thi se Resume Templates he eprgh of Opies: cm, Lag Gulins

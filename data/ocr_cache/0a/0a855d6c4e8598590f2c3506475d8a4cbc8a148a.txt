@@ -1,0 +1,89 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Wessrres, Portrouios, PROFILES
+
+« hhtips://wwwlinkedin,com/in/Jessica-Claire/
+« https://github.comvisraman30
+« https://twitter.com/Israman30
+
+PROFESSIONAL SUMMARY
+
+‘As a former logistics manager, I constantly aim to maintain an organized workflow. This experience will help me as a junior iOS developer,
+where I can focus on constantly innovating a better user experience, while maintaining a clear process for resolving issues along the way. My
+passion to create and implement new technologies is my motivation for this new adventure in programming.”
+
+Semis
+
+‘* Swift/Xcode.- Cocoa Touch, Optionals Types, Control Apple Devices, HTML, CSS, Java Script, C++, Java, Visual Studio
+Flow(Loops, conditionals and cases), (Classes, Properties and Oracle VM, and VMWare
+methods), Protocols and extensions, inheritances & initializations,
+Enror handing, Functions, Collections.
+
++ Apple Frameworks
+
+* Networking APIs, JSON, Web Services
+
+# Storage Firebase, Persistence and Core Data
+
+Work History
+
+2016 to 01/2017 Jr iOS Developer Immersive
+Sharp Electronics Corp — Houston, TX
+* General Assembly's iOS Immersive (iOS) is a 14-week long, dedicated to designing and building mobile web
+applications
+‘Wrote maintainable and extensible code in a team environment.
+
+Implemented designs, including experimentation and multiple iterations.
+
+Stored, retrieved and manipulated data for close analysis of system capabilities.
+
+Consulted with engineering staff to evaluate interface between hardware and software.
+
+‘Worked closely with other team members to plan, design and develop robust solutions in a timely manner.
+
+‘© My Chalkboard This app is easy and friendly. Allows the user to input a list of task, and each one will have a
+Chalkboard to describe the detail of duties listed. This chalkboard will remind the user of a notification message.
+
+‘+ My New News presents you with the latest news stories. Tap a story to see and read the full news article. It's an
+
+easy and convenient way to stay up to date with the latest breaking news. App store link: https://itunes.apple.com/
+
+us/app/my-new-news/id1210234219?mt=8
+
+08/2003 to 2016 Logistics Supervisor
+Century 21 Department Store — City, STATE
+
+‘+ Implemented core values for continuous improvement.
+
+‘* Ensured that the material flow through the facility was effective and efficient.
+
+* Developed, managed and stabilized production plan, to efficiently meet customer demand.
+
+‘* Assisted with product inventories.
+
+‘© Worked in conjunction with warehouse managers and corporate buyers to settle any discrepancies with the product
+line.
+
+‘* Created, verified and maintained records on incoming and outgoing shipments, utilizing accounting/inventory
+systems.
+
+2003 to 2006 Stock Logistics Clerk
+Century 21 Department Store
+
+Laneuaces
+
+Bilingual- English and Spanish
+
+Epucation
+2013, Associate of Applied Science: Computer Programming
+BramsonORT College - Forest Hills, New York
+‘+ Emphasis in C++, Java, PHP, HTML, CSS, Javascript, MySQL.
++ VMWare & VMOracle
+‘May 1999 B.B.A: Hotel Tourism
+- Guayaquil
+(CERTIFICATIONS
+
+iOS Developer Immersive at General Assembly; is a 16-week long, dedicated to designing and building mobile web applications.

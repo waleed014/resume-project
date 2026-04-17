@@ -1,0 +1,84 @@
+Euna Walsh
+
+2373 Hosea Plains, Houston, TX # Phone: +1 (555) 152 4615
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR / REGULAR JAVA DEVELOPER
+‘Los Angeles, CA
+09/2014 — present
+‘© Improvement, refactoring and performance tuning of existing components
+Provide implementation direction to the Development Team
+Performing of code reviews
+Analyze existing system code and propose improvements when necessary
+Perform unit testing of software components
+Develop business reports
+Update Oracle schema and optimize performance of SQL queries
+
+REGULAR JAVA DEVELOPER
+
+Boston, MA
+02/2012 — 08/2014
+
++ Perform product development using proven software development tools & processes
+
++ Clearly communicate task estimates, ETAs and work breakdown structure to the management on Luxoft
+and client side
+
+‘* Work on client information, portfolio management, profiling, classification, GUI design (mostly on
+business logic) with a litle bit of back office
+
+‘* Develop in-house testing automation tools and frameworks which includes Java libraries, Web UI,
+
+tegration with UML engines, etc
+
+‘+ Automate the maintenance work with the development tools
+
+distributed team based in Cracow, London with deep level of communication inside of
+
+ternational team
+
+‘© Work as part of a team to continuously innovate and evolve our systems & processes
+
+JUNIOR / REGULAR JAVA DEVELOPER
+
+Phoenix, AZ
+01/2005 — 11/2011
+
+‘+ Facilitating business/domain knowledge improvement within the team as part of strategic
+Performs unit test of software components
+
+Working as a part of the scrum team
+
+Knowledge of Hibernate/Mybatis framework
+
+Development of production-ready systems
+
+Work in distributed team based in Krakow, Kiev, London, New York with deep level of communication
+side of international team
+
+‘* Knowledge of Spring framework
+
+PORTLAND STATE UNIVERSITY
+
+JVM monitoring and profiling, including use of JConsole and JVisualVM. JProfiler a bonus
+Knowledge of the associated tools like Perl and Shell scripting (desirable)
+
+Strong Java Core knowledge
+
+Basic SQL knowledge and experience with Oracle databases
+
+Proven ability to deliver high quality code (TDD, Cl)
+
+Basic SQL knowledge
+
+Strong OOP skills and ability to propose design and implement changes in complex systems
+Strong analytical and logical reasoning capability
+
+Excellent knowledge of core Java (collections, multi-threading) - 3+ years
+
+Basic knowledge of Oracle PL/SQL.

@@ -1,0 +1,140 @@
+ISABELLE TODD
+
+Experienced SAP ABAP Developer Lead
+
+@ sapabapdev@example.com 9 London, UK
+
+SUMMARY
+
+An experienced SAP ABAP developer with strong skills in BRF+,
+ADOBE, Webdynpro, and ABAP Objects, seeking a challenging
+role in a dynamic environment that offers growth opportunities.
+
+EXPERIENCE
+
+SAP ABAP Developer Lead
+
+ABC Company
+
+2019-2022 Manchester, UK
+
+Worked on a complex SAP landscape with multi-track developments,
+
+developing, supporting, and delivering all WRICEF elements (Workflow,
+
+Reports, Interfaces, Conversions, Enhancements, and Forms) on an EnP8
+
+SAP TRM (Tax and Revenue Management) industry solution system.
+
++ Designed and developed custom reports using ABAP programming,
+resulting in increased efficiency and time savings.
+
++ Developed and maintained Adobe forms for the SAP PSCD system,
+resulting in improved user experience and system performance.
+
++ Implemented BRF+ rules engine for tax calculation, resulting in
+significant cost savings for the client.
+
++ Provided technical support for SAP HR, TRM and CRM modules,
+resulting in timely issue resolution and high customer satisfaction.
+
+Senior SAP ABAP Developer
+
+XYZ Corporation
+
+@ 2017-2018 Birmingham, UK
+
+Contributed to the development of a custom SAP solution for a public
+
+sector client, providing ABAP development expertise and supporting the
+
+team in delivering key projects.
+
++ Developed and maintained custom workflows and interfaces for the
+SAP HR module, resulting in increased productivity and improved data
+accuracy.
+
++ Implemented BRF+ rules engine for tax calculation, resulting in
+significant cost savings for the client.
+
++ Developed and maintained custom Fiori apps for the SAP CRM module,
+resulting in improved user experience and increased adoption.
+
+SAP ABAP Developer
+
+DEF Solutions
+
+% 2015-2017 Q London, UK
+
+Developed and maintained custom ABAP programs and interfaces for
+
+various SAP modules.
+
++ Developed custom reports and forms for the SAP MM module, resulting
+in improved efficiency and accuracy.
+
++ Developed and maintained interfaces between SAP and non-SAP.
+systems, resulting in seamless data integration.
+
++ Provided technical support for SAP PP and SD modules, resulting in
+timely issue resolution and high customer satisfaction.
+
+‘www.enhancv.com
+
+STRENGTHS
+
+y Problem Solving
+
+Demonstrated ability to troubleshoot
+complex technical issues, resulting in a
+25% decrease in average resolution time.
+
+Q Collaboration
+
+Proven success in working closely with
+cross-functional teams, leading to a 30%
+increase in project completion rates.
+
+y Adaptability
+Expertise in quickly adapting to new
+technologies and methodologies, resulting
+in a 40% reduction in onboarding time for
+new team members.
+
+SKILLS
+
+ECC6.0 BRF+ ADOBE
+
+Webdynpro ABAP Objects SAPHR.
+
+SAPTRM SAPCRM SAPUI_ Fiori
+
+Cloud Platform Integration
+
+Cloud Development Solutions
+
+ACHIEVEMENTS
+
+2 Successful SAP Implementation
+
+Led a team in successfully implementing
+an SAP solution for a major retail client,
+resulting in a 15% increase in sales
+revenue.
+
+& Contributions to Open Source
+Projects
+
+Contributed code to several open source
+projects, including the development of a
+popular ABAP library.
+
+AWARDS
+
+YY Innovative Thinker Award
+
+Recognized for developing a new process
+that resulted in a 20% increase in
+productivity across the team.
+
+Powered by (CX? Enhancy

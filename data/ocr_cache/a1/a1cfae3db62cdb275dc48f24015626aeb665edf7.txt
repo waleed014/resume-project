@@ -1,0 +1,91 @@
+Terrance Wunsch
+30439 Davion Wells, Phoenix, AZ # Phone: +1 (555) 794 6981
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+DATABASE MANAGEMENT LEAD
+Dallas, TX
+08/2015 — present
+‘+ Perform testing and production builds involving data changes and stored procedure building while
+following established change management procedures
+‘* Work pro-actively to gauge the performance of the application & database and provide recommendations
+to achieve the optimal architecture
+‘© Work with Technology infrastructure and ensure capacity, planning and forecast are in place and tracked
+continuously to maintain performance levels
++ Work with developers and database administrators to transform data models from logical to physical
++ Establish and maintain the User Forum to understand and prioritize processes for each LOB, correlate
+the processes to the query that gets executed
+‘+ Effectively perform root cause analysis of issues and report the outcome to business community and
+Management
+‘* Work with the Database Administration team to develop and enhance database standards
+
+MANAGER, CLINICAL DATABASE MANAGEMEN’
+
+New York, NY
+06/2012 - 07/2015
+
+‘* Prioritizes and manages database programming and management, and CRF development activities for
+staff across multiple projects
+
+‘© Works with senior management to plan resources and capacity
+
+‘* Oversees the development of programs and scripts used to monitor, manage and analyze clinical data
+across all projects
+
+‘© Manages projects according to core team timelines and provides input to those timelines
+
+‘+ Expert knowledge of database management systems and network architecture
+
+‘+ Proactively researches opportunities to utilize new technology to improve quality, productivity and
+efficiency
+
+‘+ Develops and enforces high-level SOPs for database activities
+
+DATABASE MANAGEMENT
+
+Dallas, TX
+09/2007 — 04/2012
+
+‘© Develop reports and make metadata changes
+
++ Performance tuning and maintaining your solution through all phases of the development life cycle
+
+‘* Maintain the evergreen processes and assisting developing new automated processes.
+
+‘* Manage workflow across the group ensuring timely data facilitation across all function areas (surveys,
+events and marketing)
+
+‘Help to manage the profiling of data on Salesforce to improve data manipulation and marketing
+capabilities
+
+‘+ Providing performance diagnostic expertise, best practice reviews and troubleshooting production issues,
+both at the database and operating system levels
+
+‘* Assist the development team to debug issues pertaining to migrations
+
+CENTRAL MICHIGAN UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Strong IT skills with an ability to learn new applications and skills quickly
+
+Highly proficient with Access, Excel, PowerPoint and Word
+
+Strong ability to multi-task and move between short and long term data requests/projects
+Experience using Excel pivot tables
+
+Strong communications skills
+
+Proficient with Access, Excel, PowerPoint and Word
+
+Working knowledge of HTML and SQL
+
+Collaboration with other architects, engineers and support staff on the design, development and roll out
+of tools that are secure, robust and maintainable
+
+‘© Strong experience with Eloqua or similar marketing email software
+
+‘Strong expertise using Salesforce or similar CRM/ automation system

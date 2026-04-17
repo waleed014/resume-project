@@ -1,0 +1,57 @@
+Bert Huels +1 (555) 342 6017
+10726 Greenholt Mills, San Francisco, CA
+
+Experience
+
+Dot Net Developer — Wisozk LLC, Dallas, TX 01/2018 — Present
+¢ Should be proficient with JavaScript and scripting libraries such as jQuery, require.js
+¢ Thorough understanding of development of responsive/mobile-first web pages
+¢ Understanding of graceful degradation principles for different levels of browser support
+¢ Working knowledge of best practices for web performance optimisation
+¢ Strong browser testing and debugging skills
+¢ Experience with a modern front end framework like Angular
+¢ Should have an understanding of various front end principles such as Atomic design, BEM
+¢ Understanding of basic UI principles
+¢ Experience in e-Commerce solutions, particularly in SiteCore Commerce Server
+e Experience in DAPPER, Entity Framework, Nhibernate
+¢ Experience with unit testing using tools such as MSTest, NUnit, xUnit
+
+Dot Net Developer — Beier, Abernathy and Christiansen, Dallas, TX 04/2013 - 07/2017
+© Experience using 3rd party components like Telerik\Kendo components
+¢ Knowledge on crystal reports and SSRS
+¢ Knowledge in TFS (Source Control), Visual Studio Team System
+¢ Flexible to work in shifts (Asian/European time), on-call as per business dem
+e Experience working with relational database schemas, particularly SQL Server and Oracle
+¢ Experience with developing Azure-hosted applications
+¢ Functional knowledge of CRM systems
+¢ Knowledge of project management tool, preferably JIRA
+¢ Experience working with source control tools, preferably like GIT
+© JavaScript MV-VM/MVC frameworks (AngularJS, JQuery, NodeJS, GruntJS, ReactJS)
+¢ Programming languages — C#, WCF, WPF, ASP.NET, Angular 8.0 and above
+
+Education
+
+Kent State University — Bachelor's in Computer Science
+
+Skills
+
+© JQuery-Mobile/AngularJS/HTML5
+
+¢ Knowledge on xml and xsit and VB.NET
+
+e .NET- Advanced
+
+¢ Excellent presentation skills and stakeholder management skills
+
+¢ Experience of working on or implementing Microservice Architecture
+
+© Experience of working on Docker/ Kubernetes
+
+¢ Experience of implementing Clean Architecture
+
+¢ Hands on programming experience with C#/VB.NET programming, MS SQL Server, SQL scripts, web services, Web API,
+Windows Services, XML, JSON
+
+© Knowledge in any of the banking areas is an added advantage
+
+¢ Understand and gain deep knowledge (both functional & technical) of the Treasury Applications

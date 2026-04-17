@@ -1,0 +1,100 @@
+LIAM BAKER
+
+Agriculture and
+Environmental Sciences
+PhD Student
+
+@& baker@email.com
+2 (123) 456-7890
+
+@ Ithaca, NY
+Linkedin
+
+EDUCATION
+Ph.D. in Crop and Soil
+Sciences
+Cornell University
+2019 - 2023
+Ithaca, NY
+
+Master of Professional
+Studies
+
+Agriculture and Life Sciences
+Cornell University
+
+2017 - 2019
+
+Ithaca, NY
+
+Bachelor of Science
+Agricultural Sciences
+
+WORK EXPERIENCE
+
+Crop Scout
+Wagner Farms
+
+2018 - 2020 Ithaca, NY
+Utilized ArcGIS to create maps illustrating crop health and
+environmental factors.
+
+Partnered with farmers to develop customized crop
+management plans, resulting in a 31% increase in yields.
+Implemented AQUATOX to analyze water quality impact on crop
+health, leading to optimized irrigation strategies.
+
+Leveraged GeoDa for geospatial data analysis and visualization
+to identify spatial patterns and trends.
+
+Agriculture Intern
+Dilmun Hill Student Farm
+
+2016 Ithaca, NY
++ Collaborated with the research team to design and execute field
+experiments aimed at optimizing crop yields.
+Deployed Decagon Devices to monitor soil moisture levels and
+environmental conditions, resulting in a 3.2K cubic meters
+reduction in water usage.
+Applied Climate Data API to collect and analyze historical
+weather data, enabling data-driven decisions on planting and
+irrigation schedules, leading to a 101 metric ton increase in crop
+yield.
+Managed APSIM simulations to predict crop growth and
+optimize resource allocation, resulting in a 12% improvement in
+resource efficiency.
+
+PROJECTS
+Cornell University
+2014-2017
+
+UrbanFarming Initiative
+
+Ithaca, NY Volunteer
+2018
+
+SKILLS
+
+ArcGIS; AQUATOX; GeoDa;
+Climate Data API; Decagon
+Devices; APSIM; MODFLOW
+
+CERTIFICATIONS
+
+* Certified Environmental
+Professional (CEP)
+
++ Volunteered as part of a team to convert vacant urban lots into
+sustainable farms with a focus on enhancing local food
+production and promoting sustainable agriculture.
+
+Achieved a 27% reduction in water usage compared to
+traditional farming methods, contributing to water conservation
+efforts.
+
+Analyzed resources and timeline and reduced operational costs
+of the project by 18%, making sustainable farming more
+financially viable.
+
+Improved local plant species diversity by 33% using BiodiversityR
+analysis, promoting ecosystem resilience.

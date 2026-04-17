@@ -1,0 +1,142 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com.
+
+PROFESSIONAL SUMMARY
+
+Motivated Business Analyst with the technical expertise and business acumen necessary to translate business requirements and objectives
+into highly resilient and successful system solutions.
+
+Sums
+
++ Superb Communication skills
++ Proven Problem Solving skills
++ Excellent Critical Thinking
+
+* Quick Learner
+
+Business Process Mapping
+Requirements Gathering
+Microsoft Office Suite
+
+* Process Analysis
+
+‘* Multi-tasking While Prioritizing + Documentation and Writing skills
+
+«+ Relationship-Building skills
+
+Worx History
+11/2011 to Current
+
+(06/2009 to 11/2011
+
+(03/2007 to 01/2009
+
+(06/2006 to 03/2007
+
+(05/2003 to 06/2006
+
+SAP ERP
+
+SAP Business Analyst
+
+Lockheed Martin Corporation - Elmendorf Air Force Base, AK
++ Primary liaison between the business units and technology teams for the Procure to Pay process (Sales and
+
+Distribution, Materials Management, Pricing, and Purchasing modules of SAP) for Straumann and Instradent North
+
+America
+
+Provide daily production/operational support to Customer Operations, Supply Chain, Pricing, and Procurement
+
+teams to ensure business operations are not interrupted
+
+* Collaborate with developers and subject matter experts to establish the technical vision and analyze gaps and trade
+offs between business requirements and systems capabilities
+
++ Assisted with the implementation of a pick to light system in the US headquarters distribution warehouse
+
++ Responsible for implementing Electronic Data Interchange (EDI) between Straumann and i’s customers and
+vendors
+
+‘+ Manage the lifecycle of enhancement requests related to the Procure to Pay process
+
++ Manage testing cycles, including test plan creation, development of scripts and coordination of user acceptance
+testing
+
++ Mapping of current processes and offer recommendations for improvement
+
+* Conduct interviews with key business users to collect information on business processes and user requirements
+
++ Lead the analysis, planning and implementation of projects
+
+* Guide and support business users through the appropriate change management process for process improvements
+and system implementations
+
+* Carried out quality assurance testing and provided feedback to developers
+
++ Primary support for the UPS carrier interface with SAP
+
+* Conduct end user training
+
+SAP Business Analyst
+Lockheed Martin Corporation — Flint, MI
++ Identified and reported system bugs to SAP development team
++ Gathered and documented user and system requirements as it related to requested systems or process changes
+* Carried out quality assurance testing and provided feedback to developers as needed throughout the change
+‘management process
++ Primary contact to the purchasing department providing daily support for assistance with creating purchase orders,
+‘bids/RFPs and all other SAP related tasks involved with the procurement process
+* Coordinated and assisted with user acceptance testing (UAT)
++ Provide daly tier /tier 2 level support for the SAP R/3 (ECC), SRM, and BW systems
++ Promoted the use of best practices and methods related to all SAP systems and processes
+
+SAP Business Analyst
+Lockheed Martin Corporation - Fort Carson, CO
++ Established, implemented, and documented global release process for SAP Quality and Production systems
++ Deployed and enforced standards for the release management process
+* Coordinated and conducted scheduled release meetings
++ Initiated the implementation of new fields and functionality within Remedy system to support SAP Release
+‘Management process
++ Implemented process improvement of only auditing change requests that have been approved for release by SAP
+application managers
+‘+ Automated reporting of metrics data utilizing Business Objects tool to allow for more efficient use of time for all
+team members
++ Analyzed and evaluated complex business problems associated with the SAP system
+Assisted in developing SAP system procedures that are cost effective and meet user requirements
+* Direct day-to-day liaison with business units regarding incidents and statuses
++ Established and managed oversight and reporting of SLA metrics on daily, weekly, monthly basis
++ Established and maintained relationship with all business groups regarding status of help desk tickets, resolution
+schedules, turnaround time
+* Lead cross-functional teams to address business or systems issues
++ Provided first level support for SAP production issues
+
+SAP Specialist
+Cass Clay Creamery ~ Middlebury Center, PA
++ Provided first level support for SAP production issues related to the materials management module and escalated
+issues to functional teams as necessary
++ Supported Materials Management (with Warehouse Management/Inventory Management) from both the end user
+and business process perspective
+Responsible for the integrity of Master Data in the SAP system (create, change, and maintain master data) for
+‘materials, bills of materials, and recipes relating to the manufacturing of pharmaceutical drugs
+* Conducted training on new systems functionality and processes
++ Trained end users in the use of applicable system modules including RF guns
+‘+ Monitored and resolved IDOC errors,
++ Assisted in system upgrade/validation related projects
+“Monitored and assisted in resolution of interface issues between systems
+
+SAP Help Desk Lead
+MIT Lincoln Laboratory City, STATE
++ Provided SAP support to a community of approximately 1,000 SAP users on a daily basis
+‘+ Managed reporting on support statistics and training needs for users
++ Performed quality assurance testing
+* Worked closely with training team members and provided feedback on content and structure of materials and
+classes
++ Assigned parameters and roles (authorizations) to user ID's in the SAP systems
++ Installed necessary SAP software and associated system files on end user computers
++ Troubleshoot software conflicts with SAP system
++ Assisted end users with using transactions in the SAP system
+* Effectively communicated technical information and procedures to non-technical end users via telephone, email,
+and personal contact
++ Troubleshoot system problems in a timely manner with assistance from the functional teams if necessary

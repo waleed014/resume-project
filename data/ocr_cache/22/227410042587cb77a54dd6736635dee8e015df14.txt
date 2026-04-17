@@ -1,0 +1,96 @@
+Nigel Stracke
+929 Maya Spring, Dallas, TX ¢ Phone: +1 (555) 685 6365
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+DEVOPS ENGINEER SENIOR SPECIALIST
+
+‘Houston, TX
+05/2015 - present
+
+‘Workflow design and development
+
+‘Ongoing support of developed solutions
+
+Script design and development
+
+Proficient with Unix/Linux including SSH, Telnet
+
+DevOps tool research, selection, proof of concept, installation and configuration
+Source control repository design and implementation
+
+Participate in process analysis and documentation
+
+DEVOPS ENGINEER, SENIOR
+
+Philadelphia, PA
+05/2011 - 12/2014
+
+‘Work closely and team with Developers, QA and Cloud Operations to develop and maintain the Cloud
+Supply Chain frameworks, technologies and feedback tools
+
+Ensure each phase of the Cloud Supply Chain from product management, through development, QA,
+Staging and into Production is fully automated, as frictionless as possible utilizing Cl and CD. At each
+stage metrics and monitoring will fully visualize the Supply Chain status for the entire product team.
+Automate everything possible!!
+
+Manage the costs of the development environments using labeling and automatic VM removal,
+Establish and maintain the infrastructure to support automated unit, system and load testing
+
+Model the cloud infrastructure costs of new candidate releases
+
+Take an active part in a culture that is nimble, energized, customer cent
+company
+
+Ensure information security best practices and policies are implemented in your designs
+
+as is typical in a leading SaaS
+
+DEVOPS ENGINEER SENIOR
+Chicago, IL
+09/2007 — 11/2010
+
+‘Communicates clearly and concisely, both orally and in writing
+
+‘Conducts research and make proactive decisions and recommendations on standards, products, and
+services in support of the Unified Commerce Platform
+
+Implements all technologies in accordance with Information Security's guiding principles for highly
+sensitive data
+
+Implements and maintains system configurations and baselines to support secure application development
+software control best practices and standards
+
+‘+ Provides support to team members in order to achieve partners, business, and customer results,
++ Cultivates an environment where associates respect and adhere to company standards of integrity and
+
+ethics
+Sol
+
+1g a problem with a software development mindset
+
+UNIVERSITY OF ILLINOIS AT CHICAGO
+Bachelor’s Degree in Information Technology
+
+‘+ Atleast 4+ years' experience supporting large global highly available platforms
+‘Highly self motivated and demonstrating excellent problem solving abilities
++ Strong client service focus and willingness to respond to queries and provide deliverables within prompt
+
+timeframes
+Knowledge of monitoring, logging and management tools that integrate with AW
+
++ Possesses a solid understanding of modern web application architecture, TCP/IP, HTTP, and complex
+
+cloud network and security topologies
+
+Ability to use a wide variety of open source technologies and cloud services
+
+Understand as well as ITIL support framework to ensure strong understanding of processes
+The ability to work well under pressure to provide timely and accurate solutions
+
+Experience in investigating infrastructure and application performance and stability issues
+Ability to prioritise tasks and adhere to priorities despite conflicting requests.

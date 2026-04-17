@@ -1,0 +1,49 @@
+Phone: (123) 45678 99
+Junior Oracle PL/SQL Developer Email: infotqwikrestume.com
+
+ROBERT SMITH ike seein ca) etktonre
+
+Objective
+
+\Junlor Oracle PL/SQL Developer with aver 3 years of experience in Design, Development, and
+Implementation af enterprise Oracle databases applications in bath OLTP and Declsion Support
+systems. Extensive experience using IDE Tools like Eclipse, NetBeans, and IDEA Intell for
+Java/J28E application development and web lechnolagles like HTML, and XML as required for
+alabase management. Good knowledge and understanding of Dala Modeling coneepis, UML
+diagrams using MS Visto.
+
+Skills
+
+SQL Plus, SQL Loader, WinSCP. SharePoint, MS Project, Pulty, EaltPlus, Patly, Confluence,
+‘TexiPad, Bulld (ANT, MAVEN), SVN, Lag, PAC2000, JQuery
+
+Work Experience
+
+Junior Oracle PL/SQL Developer
+Wells Fargo ~ September 2014 April 2018
+{Wrote PL/SQL progeams requlred Loretseve dala fom ihe dala repository sing cursors, UTI.
+fle 1/o.and exceplon handling ype up with casituenee for prot related information
+Use SQL Laader/Kors shell script (a foed dala (tm vartous sources inlo at Oracle database
+\Wrote complex SQL using ols, ub-queries and correlated sub-queries
+Used clear cane or maintaining the component ara for release ald version management.
+‘Maintained senipis using Kom shel eripirg estension~ Kah and Perl support
+development
+Developed Unix shell scripts to automate repetitive database prosessc,
+“Tracked al the releases and updating the infomation an toa centrlized lation (tk)
+
+Oracle PL/SQL Developer
+‘ABC Comp - 2013-2014
+‘Responsible for administration of yrs contra ods such as IBM rational clear ease
+“subversion, participated in peer cae reviews and veriying coding standards
++ Trwolved inrereating Unkx sell scripting, Defragmentation of ables, partiloning, compressing
+and dex for improved performance and eflitency
++ Developed complex database processes wih PL/SQL-coptalning baleh or ETL funcional
+Developed anxd enhanice an existing DalaMart in an OLAP schema
+Respopaibe forrequiremculs galherlt, desig, development, testing, andl docurme tation.
+Designed logeal and physical ERD dlagrams, pracess low diagrams, oF related data processing
+documentation.
+Leveraged Oracle 10/114 estas to thelr fullest an a large-scale miult-lerabyte syste.
+
+Education
+
+‘Bank - 2015 (Secondary Market System)

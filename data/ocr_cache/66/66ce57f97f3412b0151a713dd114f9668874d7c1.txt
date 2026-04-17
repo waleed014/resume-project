@@ -1,0 +1,57 @@
+ROBERT SMITH
+
+Informatica ETL Developer
+
+Info@quikresume.com | https://Qwikresume.com
+
+Over 8 years of IT experience with involvement in Analysis Design and
+Development of different ETL applications and using Business Intelligence
+Solutions in Data Warehousing and Reporting with different databases on Windows
+and UNIX working frameworks. Strong experience in providing ETL solutions using
+Informatica Powercenter 9.x/8.x/7.x Highly proficient in integrating date from
+multiple sources involving Teradata, Oracle, Microsoft SOL Server, DB2 and files
+like Delimited, Fixed width & VSAM files,
+
+JULY 2009 - AUGUST 2010
+INFORMATICA ETL DEVELOPER - ABC CORPORATION
+
+Roles and Responsibilities Monitoring activities for all the Production related
+Jobs.
+
+Resolving the issuires on adhoc basis by running the workflows through breakix
+area in case of failures,
+
+Handling the daily and weekly status calls for the project.
+
+Handling meeting related to Production Handover and intemal,
+
+Monitering by checking logs and load details,Resal ving issues related te long
+Tunning jobs Implementing the performance tuning techniques in case of long
+Funning jobs.
+
+Handling the weekly, monthly release activities
+
+Extensively work on triggers, Stored Procedures, Joins, sequences in SQLIPLSQL,
+
+2006 - 2009
+
+ETL
+
+DEVELOPER - ABC CORPORATION
+‘stevens Point, Wi March 2007- May 2009 Sentry Insurances one of the largest
+and strongest mutual insurance companies in America
+With more than §20 billion in assets and almost $3 billion of policyholder
+surpluses, Sentrys policies portfolio ranges from life, group health, auto, and
+property/casvalty insurance lines.
+Senirys companies have consistently received high ratings for financial strength
+and claims paying ability from independent rating agencies.
+The Sentry Group of Companies serves almost 1 million policyholders and is
+listed amongst the Fortune 1000 list of companies.
+The Insurance DW project was developed to streamline the entire process of
+Insurance and to keep track of various financials on a daily, weekly, and
+monthly basis, including Claims, Premium, and Loss and Contracts modules:
+Data Services teams objective is to provide information, data processing,
+communication, process enhancements and systems to support the business
+activities and management objectives of Sentry.
+
+(0 Tis Free Resume Template the copyright of Quine ane com, Usage Gublines

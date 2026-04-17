@@ -1,0 +1,57 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+
+« Proactive ETL Developer with 6+ years carefully handling in full life cycle of software project development in various areas like design,
+Applications development of Enterprise Data Warehouse on large scale development efforts using best practices with Talend Data
+Integration and ESB. Extensive knowledge of various business domains Financial and Retail sectors. Strong analytical, logical,
+
+‘Communication and problem solving skills and ability to quickly adapt to new technologies by self-learning
+
+EXPERIENCE
+
+ETL Developer, 10/2018 - Current
+Ipmorgan Chase & Co. — Heathrow, FL
+* Created many complex ETL jobs for data exchange from and to Database Server and various other systems including RDBMS, XML,
+ISON.CSV, and Flat file structures into staging.
+© Developed mappings on data mapper to parse the EBCDIC files.
+* Worked on moving data from on prem data warehouse to cloud snowflake Involved in production deployment activities, creation of the
+
+deployment guide for migration of the code to production, also prepared production run books.
+
+ETL DEVELOPER, 05/2017 - 09/2018.
+SIpmorgan Chase & Co. — Hingham, MA
+* Developed mappings to load Fact and Dimension tables, SCD Type 1 and SCD Type 2 dimensions and Incremental loading and unit tested
+the mappings.
+* Developed jobs to fetch and pull data to Rest and Soap API
++ Proficient in performance analysis, monitoring and SQL query tuning using EXPLAINPLAN, Collect Statistics, Hints and SQL Trace in
+Oracle
+« Participated in JAD sessions with business users and SME's for better understanding of the requirements.
+
+SQL Developer, 08/2012 - 05/2015
+Aeroflow Healthcare — Alexandria, VA
+
+Assisted in requirement analysis and planning of delivering projects using Waterfall model.
+* Worked on complex Source Qualifier queries, Pre-and Post SQL queries in the Target. Responsible for monitoring all the sessions that are
+running, scheduled, completed and failed. Debugged the mapping of the failed session.
+
+SKILLS
+
+Talend, Informatica, TAC
+
+Oracle, Netezza,Sql Server, Snowflake
+Python, Rabbit MQ
+
+Unix shell scripting
+
+Tidal, Autosys
+
+EDUCATION AND TRAINING
+
+BACHELORS: COMPUTER SCIENCE, 2012
+SWARNANDHRA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+
+‘Master of Science: Computer And Information Sciences, 12/2016
+Newyork Institute Of Technology - Old Westbury, NY

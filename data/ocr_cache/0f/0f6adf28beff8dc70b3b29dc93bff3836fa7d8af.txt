@@ -1,0 +1,95 @@
+Bernice Kerluke
+
+186 Lang Meadows, Phoenix, AZ_ @ Phone: +1 (555) 296 6659
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SOFTWARE DEVOPS / SCM / TOOLS ENGINEER
+New York, NY
+08/2016 — present
+
+‘* Manage VMs/Containers for key projects
+Isolate defects, help developers reproduce errors, and ensure that defects are fixed
+Participate in the constant improvement of our Continuous Integration practices and Test Automation
+Participate throughout the design and development process, characterizing features, developing tests
+Create and maintain product specific tools and scripts using Python and/or Perl
+Learn the architecture of Broadcom Wi-Fi devices and help Project Managers determine the right level of
+coverage in continuous integration, pre-build compile testing (Precommit), Coverity, post-build smoke
+testing and other code quality services
+‘* Develop automated tests/infrastructure in partnership wit
+
+of 802.11 and Bluetooth Products
+
+developers for continuous integration testing
+
+SOFTWARE AUTOMATION BUILD & DEVOPS ENGINEE]
+Chicago, IL
+08/2013 — 07/2016
+
+‘© Review build results, debugging and optimizing complex builds and discussing technical issues with
+developers, architects, and managers
+
+Investigate tools to speed up the process or make a more efficient build and release management process
+Manage and Maintain version management infrastructure
+
+Develop and maintain on-demand and nightly builds
+Develop and maintain documentation of the build/release process
+Provide continuous support on builds and making the builds and releases as fully automated as possible
+Proficient with build automation, orchestration and dependency management tools such as Maven, Ant,
+‘Nexus
+
+SOFTWARE DEVOPS ENGINEER
+
+Boston, MA
+06/2008 — 03/2013
+
++ Administration and management of configuration management tools; GIT (and GIT extensions)
+
+‘© SW Development environment applications deployment, upgrades, handling process & workflow
+customization
+
+‘© Support the development infrastructure for our engineering team - staging environments, test
+enviroments, local development environments
+
+‘+ Help define best practices for source control, continuous integration, automated testing and release
+‘management
+
++ Administration and management of Atlassian tools (JIRA, Confluence, BitBucket, Fisheye, Crucible, and
+Bamboo)
+
+‘* Bring new automation technologies to improve the velocity and quality of our engineering efforts
+
+‘* Using Systems and Networking knowledge to isolate and fix application problems
+
+CHAPMAN UNIVERSITY
+Bachelor's Degree in Computer Science
+
+Deep knowledge of software deployment, versioning and release management processes
+
+Ability to interact with external customers and staff members
+
+Excellent written and verbal communication skills
+
+Experienced in Agile software development practices and tools, such as Atlassian JIRA.
+
+Monitors and oversees the completion and implementation of technical products to ensure success and
+
+timeliness
+
+‘+ Provides complex technical consultation to other organizations; interacts with senior customer personnel
+and internal senior management
+
+‘+ Experience with full Systems Development Life Cycle
+
++ Administrative experience with Cloud server environments such as AWS, Google Cloud, Azure, and/or
+‘Openstack
+
++ Participates as integral part of design team, coordinates engineers and support staff in project efforts
+
+‘* Experience with Java application build processes and tools, especially Ant, Gradle, Jenkins, and
+
+Artifactory

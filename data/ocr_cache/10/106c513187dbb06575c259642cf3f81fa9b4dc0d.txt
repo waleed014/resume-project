@@ -1,0 +1,153 @@
+JEssica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Full Stack Python Developer with 5+ years of outstanding track record in diverse domain, developing and implementing various web-based
+solutions. Effective team player with the important ability to function well both independently and in fast based business environments aiming
+to leverage the proven and expanding knowledge to stimulate the growth of our company with upcoming challenges.
+
+Semis
+
+‘+ Django Framework ‘+ Python3, HTML, Typescript, CSS, JavaScript
++ REST APIs ‘+ PyCharm, VS Code, GitHub Desktop
+
+* Cloud — AWS EC2/ $3 / Lambda + SQL, MYSQL, MongoDB
+
++ Githiub / Agile «Jira, Gitkiub
+
+* Docker / Kubernetes
+
+EXPERIENCE
+
+06/2021 to Current Full Stack Python Developer
+Ipmorgan Chase & Co. ~ Port Saint Lucie, FL
+
+* Coordinated with the System Engineer and the Product Owner on business requirements, Involved in interaction
+‘with clients and end users for creating user specifications.
+
+« Involved in interaction with clients and end users for creating user specifications
+
++ Responsible for designing and developing REST APIs Architecture involving Python 3.0 and Django
+‘Microservices in Front End
+
+‘+ Worked on all stages of full life cycle of web development in fast-paced environment
+
+* Project includes high priority and tight deadlines
+
+* Involved in creating Tech Design for new features, wire framing and implementing it to a quality solution using
+HTML, CSS, Django Framework, SQL Server, Repository Design Pattern, Python utilizing SOLID Object-
+Oriented principles
+
+‘+ Responsible for writing Unit Test and for integration testing
+
+* Involved and participated in Tech Design, Code Reviews, Sprint Planning, Sprint Grooming and Sprint Retrospect
+‘Meeting
+
+‘+ Heavily involved in working toward clearing tech debts during sprint pause
+
++ Team Player with good communication skills
+
++ Key Projects:
+
+* Fleet Maintenance System
+
+* Technologies:
+
+‘+ Python: Django, Django Rest Framework, Batch Ingestion
+
+* Cloud: AWS- $3 Bucket, EC2, Lambda
+
+‘+ Front End: HTML, CSS
+
++ ORM/Tools: Django Framework
+
+01/2018 to 02/2020 Python Developer
+Novogradac & Co. Lip - Walnut Creek, CA
+
++ Responsible for Requirements Gathering, Conceptual Design, Analysis, and design, Development and System
+Testing using Agile Methodology
+
+* Developed entire frontend and backend modules using Python on Django Web Framework by implementing MVC
+architecture
+
+‘* Wrote Parsers in Python for extracting useful data from the design database
+
+‘+ Used Parse kit framework for writing Parsers for ETL extraction
+
++ Developed presentation layer using HTMLS, XML, CSS3, JavaScript, Angular 5, jQuery and AJAX for dynamic
+web content
+
++ Developed templets for Multiple Screens using Angular
+
++ Refactored the monolithic code in those Microservices projects
+
+* Developed Single page web application and deployed using JavaScript, ReactJS for frontend, RESTful web
+services, PostgreSQL for Backend and deployed in AWS.
+
+* Created customized AMIs based on already existing AWS EC? instances by using create image functionality, hence
+using this snapshot for disaster recovery
+
+‘+ Worked with Spark Data Frames for ingesting data from flat files into RDD's to transform unstructured data and
+structured data
+
+‘+ Worked with Amazon Web Services (AWS) using EC? for hosting and Elastic map reduce (EMR) for data
+processing with S3 as storage mechanism and supported Apache Tomcat web server on Linux/ UNIX Platform
+
++ Employed MongoDB database concepts such as locking, transactions, indexes, Sharding, replication, schema
+design
+
+« Installed and configured PyBuilder for application builds and deploying it
+
+* Created Docker containers leveraging existing Linux Containers and AMT's in addition to creating Docker
+containers from scratch
+
++ Setup Docker on Linux and configured Jenkins to run under Docker host,
+
++ Developed various APIs for Django applications using Django-tasty pie
+
+* Used Maven tool to build application and deployed on JBOSS Application Server
+
+* Used Jenkins for automatic build process and integration testing and deploying software
+
+* Wrote services to store and retrieve user data from MongoDB for the application on devices
+
+‘+ Used JIRA to build an environment for development
+
++ Developed Wrapper in Python for instantiating multi-threaded application
+
+* Key Projects:
+
++ File Upload Application: A portal that tracks customers and file processed
+
+* The system leveraged a combination of multiple technologies, AWS, Azure, GCP
+
++ Technologies:
+
++ Python: Django, Django REST Framework, Data Ingestion - Batch & Realtime
+
+* Database: SQL Server
+
+«Front End: HTML, Typescript, Bootstrap
+
+* ORM/Tools: Django Framework, Jira, GitHub
+
+12/2015 to 01/2018 Python Developer
+‘Novogradac & Co. Lip — Bethesda, MD
+* Client interfacing and requirement gathering and SDLC support
++ Worked on Django Web Forms and REST APIs MVC project to support internal application that provides general
+information regarding company compliances and SOX documents
+* Good understanding of Authentication and Authorization modules
+* Implemented roles-based authorization
++ Worked on creating different reports and various ETL projects using Python & Django
+‘+ Experience writing on stored procedure, creating tables, indexes, views, and different SQL constraints
+* Key Projects:
++ For a large Life Insurance provider: Supported their BI platform for daily/weekly and month-end reporting
++ The system leveraged a combination of legacy code and technologies.
+
+Epucation Detas
+
+12/2016 Bachelor of Science: Computer Science
+Texas A&M University - Commerce - Commerce, TX

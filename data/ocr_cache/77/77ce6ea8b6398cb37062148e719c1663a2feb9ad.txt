@@ -1,0 +1,56 @@
+ROBERT SMITH
+Security Engineer
+
+Phone: (0123) 456.785 | Ema inlo@qwkvesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+“Technology leader with extensive security experience that has built and secured platforms for
+‘processing the movements of cride ol in Amazon Web Services. Proven leador with experience
+‘managing multrmilion dolar budgets and global teams for one ofthe largest credit card
+‘ransaction processors. Proven track record of developing roadmaps and plans to improve both
+infrastructure and security. Passionate about employee development and engagement,
+
+CORE COMPETENCIES
+Windows Server 2008, CyberArk, Vmware, Cir: Xen Server.
+PROFESSIONAL EXPERIENCE
+
+Security Engineer
+‘ABC Corporation - 2007 2010
+
+Key Deliverables:
+*+ Project load for supp and hardware migration of legacy trewall inkastructure.
++ Created documentation and trained team on suppor af the legacy Concord trewall
+environment
++ Project load tor migration of two legacy firewall request systems to tho Remedy platform.
+Documented and trained team on processes utilzing the Remedy plattorm lor all trewall
+
+requests
+
++ Project lead for migration al newly acquired companys saeuriy inasticturé tothe firewall
+team,
+
++ Charged with brining the Fundkpress, an online banking provider, up to Fist Data Security
+Standards
+
+++ Deployed the frst Intrusion Prevention System (IPS) in tho US region to help mitigate SSL
+Danial af Sorvice (DoS) attacks,
+
+Security Engineer
+‘ABC Corporation - 2003 - 2007
+
+Key Deliverables:
+
+1 Rosponsbilties Nonitering ol Muto Seaurty Incidents using SIEM tol (Mtoe Nivo)
+Working 25 Meee ePO Adminisiator Creating patie, cent asks and assigning 10
+clon systoms when requled,
+
++ Intang scan on syotoms when required Fking Agent, VSE elated issues and updating
+thom whon required
+
++ Vulnorabity Assessment on Morthly and Quarory Basis using Nexpose
+
++ Support Cloris Soeur Organization and Our Global Soauy Operalons am requests
+Inioraiod Frewal, Windows Servers and End port 0 SIEM solution successful
+
+£2250 Oak Street, Old Forge, New York. 13420
+‘© Ths Exes Resume Template s the copyright of Quikresumecom. Uaags Guidelines

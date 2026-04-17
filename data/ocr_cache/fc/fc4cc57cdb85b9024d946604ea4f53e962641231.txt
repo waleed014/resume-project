@@ -1,0 +1,82 @@
+Robert Smith
+
+Java Full Stack Developer II
+
+PERSONAL STATEMENT
+REE and LI Developer with overall @ years of experience in Analysis
+‘Design, Development, Maintenance and implementing Enterprise, Web and
+lent Server applications using |AVA\J2EE technologies and Object oriented
+technology. Having Knowledge In MEAN stack developrnent which includes
+Angular |S, Express, Node |S and Mongo DE,
+
+WORK EXPERIENCE
+
+Java Full Stack Developer I!
+Caterpillar - September 2016 - 2020
+Fesponsibilties:
++ Works with a small tearn on cutting-edge research and developrnant
+projects
++ Designs and develops prototype software using the latest open-source
+technologies
++ Recelves and incorporates feedback from end users, field tests, and
+exercises
++ Explores technical possibilities collaboratively with motivated, world
+class colleagues
++ Delivers practical solutions to complex problems
++ Mentors and coaches junior engineers and seek opportunity to bring in
+continuous improvements to implement front-end best practice.
++ Works closely with project tearm members (UX designers, Product
+Management, Business Analysts, Software Developers)
+
+Java Full Stack Developer
+Delta Corporation - 2012 - 2016
+Fesponsibilties:
+‘Description The project name is Student Loan Debit Tool which is apart
+of FCAT Incubator,
+It mainly deals with the student loans and diferent repayment plan,
++ First the tool collect different loans from the client and aggregates it
+Into a single place.
++ Then directing them to the appropriate repayment plans on the base of
+their current financial status.
+Responsibilities Part of a Scrum based Agile Project working asa Java
+and Javascript Developer delivering java based REST services and Front
+End Development using a variety of javascript frameworks
++ Developed Front End UI Screens using Angular}s, Java Script and HTMLS,
++ Developed Angular |S Controllers, htril views, Services and factories for
+consuming REST APIs and Math calculations modulus.
+
+Education
+
+Bachelor's of Computers.
+
+(Ths Ema Resume Temlate the copyright ot Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+
+1737 Marstullla Road,
+Alabama
+(123)-456-7890
+Infoesquikresume.com
+wwweqwikresume.com
+
+‘SKILLS
+
+Management,
+Organizing Java.
+
+LANGUAGES
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+Climbing
+Snowboarding
+Cooking
+Reading
+
+REFERENCES:
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

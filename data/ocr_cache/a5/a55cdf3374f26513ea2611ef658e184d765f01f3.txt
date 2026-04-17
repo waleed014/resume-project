@@ -1,0 +1,41 @@
+MOSHE BAUCH
+
+49682 HEGMANN MEADOW, DALLAS, TX
+
+PHONE
++1 (555) 703 3140
+
+EXPERIENCE CONSIDINE, BRADTKE AND SIPES 02/2019 — present
+Houston, TX // Senior Security Engineer & Forensic Analyst
+¢ Industry certification highly desirable - CCSA/CCSE, CISSP or GIAC
+¢ Proven work experience as a system security engineer or information security engineer
+¢ Knowledge of Windows and virtual environments (VMware or Hyper-V)
+¢ Experience in building and maintaining security systems
+¢ Hands on experience in security systems, including but not limited to (firewalls, intrusion
+detection systems, anti-virus software, authentication systems, log management, content
+filtering)
+LIND-BOGISICH 02/2016 — 10/2018
+Houston, TX // MSS Senior Security Engineer
+¢ Thorough understanding of the latest security principles, techniques, and protocols, for
+example, (Ethical Hacking, Penetration Testing, Intrusion Prevention, Incident Response,
+Computer Forensics, Reverse Engineering)
+¢ Strong knowledge of high-level architecture and technical in-depth knowledge of Cisco ASAs,
+Firepower, Palo Alto, Cisco switches and routers, Knowledge of third-party reputational
+blocking services, Network Security, and DDOS mitigation techniques
+¢ Experience with Microsoft Security stack including but not limited to, Defender for Identity,
+AzureAD identity protection, Windows Defender ATP, Azure Sentinel, Cloud App Security,
+Conditional Access, Microsoft AIP/MIP, DLP, SSO, MFA
+EDUCATION UNIVERSITY OF CINCINNATI
+Bachelor's in Computer Science
+SKILLS ¢ Hands on experience in security systems, including but not limited to (firewalls, intrusion
+
+detection systems, anti-virus software, authentication systems, log management, content
+filtering, etc.)
+
+¢ Experience with Cisco Security stack including but not limited to AMP for Endpoints,
+Umbrella, Stealth Watch, Tetration, Threat Grid, Threat Response, SecureX
+
+¢ Familiarity or experience with ethical hacking, penetration testing, blue team, red team, or
+purple team exercises
+
+¢ Security certifications such as SANS/GIAC, CISSP, ISACA, CISM

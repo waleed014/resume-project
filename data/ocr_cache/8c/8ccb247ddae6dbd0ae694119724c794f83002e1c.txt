@@ -1,0 +1,32 @@
+& ReactJS
+y Team.com
+
+React Redux
+
+Developer CV Sample
+
+e Very proficient in the web technologies HTML/HTMLS5, CSS/CSS2/CSS3,
+SASS, LESS, Bootstrap3, JavaScript, AJAX, JQuery, JSON.
+
+e Expertise in the JavaScript libraries React JS, Redux, Angular.js, Node.js,
+Grunt, Gulp and other API s
+
+¢ Knowledge of MySQL, MongoDB, PostgreSQL and Oracle databases
+
+e Well versed in using Redux to manage the application state
+
+e 3 years experience developing the front-end and user interface of
+applications using JavaScript, ES6, React, and Redux.
+
+e 3 years experience creating reusable React components and managing
+application state with Redux.
+
+e Experience applying Redux middleware using redux-promise, redux-saga
+and redux-thunk
+
+e Developed single-page applications using React
+
+e Extensive experience coding, testing and debugging web applications in
+React and Redux environment
+
+Master's degree in Computer Science

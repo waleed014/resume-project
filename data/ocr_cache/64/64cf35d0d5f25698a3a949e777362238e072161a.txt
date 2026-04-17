@@ -1,0 +1,58 @@
+ROBERT SMITH
+
+PL SQL Developer
+info@qwikresume.com | Linkedin Profile | Quikresume.com
+
+Certified Professional with 6+ years of total IT experience in Analyzing, Designing,
+Developing, Installing, Configuring and Deploying MS SOL Server suite of products
+with Business intelligence in SOL Server Integration Services,
+
+PL SQL Developer
+‘ABC Corporation - SEPTEMBER 2014 - FEBRUARY 2015
+
+Responsibilities Developed, monitored and deployed SSIS packages
+and Responsible for Scheduling Jobs, Alerting and Maintaining SSIS
+Packages,
+
+Warked on Data migration using SSIS from Flat Files.
+
+Worked on ETL Packages Using SSIS to extract data from staging
+tables to partitioned tables with incremental load and Analyzed the
+Project requirement and preparing the documentation for the ETL
+Package Flow.
+
+Created Jobs in SSIS and was responsible for ETLJob Scheduled to run
+daily, weekly and monthly.
+
+Solved the issties associated with ETL Data Warehouse Failure.
+Designed and developed efficient SSIS packages for processing fact
+and dimension tables using transformations like lookup, merge,
+merge join, script component and slowly changing dimension.
+
+Created Stored Procedures and handling the Query Performance
+Issues,
+
+SQL Developer
+ABC Corporation - 2012 - 2014
+
+Responsibilities Design, code, test, debug, and document complex
+database programs to ensure that data processing production
+systems meet user needs
+
+Interact with intemal and extemal clients to understand
+requirements, explain Issues and prioritize work.
+
+Created Queries in Oracle SOL, Stored Procedures and Views to store
+the data of clients advisors
+
+Created User Defined Functions, Ttiggers to store data into
+appropriate tables as and when data arrives and created indexes to
+the tables that have least updating to Improve the query
+performance,
+
+Wrote complex SQL queries using Joins, sub queries and correlated
+sib queries to retrieve data from the database.
+Developed SOL scripts to Insert/Update and Delete data in MS SOL
+database tables Evaluated database performance and performed
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

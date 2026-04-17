@@ -1,0 +1,123 @@
+SOFTWARE ARCHITECT
+
+‘SEAN ERVINE
+
+‘iy, State
+smaller
+
+cexpatience. highly mothated, gal-oriented. and
+thing to excelin software tecknologies | have
+animate deste for keeping uptodate with
+technology aed building pxotetypes. A
+demenstratedhistoy of deliver oriented work
+thi or satisfed team members, leadership. and
+clorts
+
+SKILLS
+‘Team Leadership
+
+Strategic Planning
+
+‘Account Management
+
+Product Development
+
+Project Management
+
+Technology Consulting
+
+INTERESTS
++ Tenis + Snooker
++ Boxing + Table Tennis
+
+‘WORK EXPERIENCE
+
+Cisco Systems
+Chief Software Architect
+
+Responsibilities
+
++ Collaborating with roduct line management toidentily, refine, andtranslate customer needsinto concrete
+technical requirements.
+
++ Working with tratege accounts across EMEA supporting operators in dering their 25 year strategies
+covering scftware. integration and business transformation needs
+
++ Suppottingthe customers'systems consolidation and processing where operator merger andacquisiton had
+taken place.
+
++ Leading architectual tasks and decisions across the cunt and future Cisco software potfalo.
+
++ Coordinating activities including product development. prototype development, andimplemertation
+functions ll the way through from use-case creation through to customer delivery.
+
++ Bvaluatingthe canddate architectures and technologies through intemal rototyping skunkworks" activites,
+Inoeder to drive imrovemens to software architectures inorder to reduce integation costs eto support
+new system features with the goal of reducing integration cost whist adking new features.
+
+‘+ Maintaining knowledge of industry standards and trends and actas “go-to subject matter expert in key
+velopingtrends.
+
+2015-06 - Present
+
+Ogilvy
+Load Software Architect
+
+Responsibilities
+
++ Designed and developed a mobile-firstresponsive application with RESTIulweb serices andAPIs.
+
++ Aéopted mico-senices for identified we cases witha new tech stackie. Node JS. MongoDB, Mallgun APL
+
++ Conceptualized andimplemented Reds caching n the aplication
+
++ Implemented emailsolution using Madgun ESP.
+
+DDevelopedi0S app prototype for receipt processing using OCR ARL
+
++ Developeda prototype for integratingtelephony and texting API tothe product suite
+
++ Developedan email processor ETL tod using outlook VBA
+
++ Designed and implemented a data warehouse and 8
+
++ Bvaluated AWS and Azure toidentify provider and migrate infastructure from managed vitualization tothe
+coud
+
++ Worked on doveloping a go-to-market strategy by converting the product to SaaS on AWS:included defining
+the tech stack developing a prototype and later if approved, use as an acceleratorproject.
+
+2010-10 - 2015-04
+
+GE Healthcare:
+Software Architect
+
+Responsibilities
+
+«+ Worked none ofthe biggest projects f the company delivered fer ‘the largest drugretalling chain inthe
+usa,
+
++ Supervised several items who were performing their endof studies project within the company.
+
++ Developed and created a local web application: a space forthe employees where they coud find
+‘documentation, vido recordings of workshop sessions heldnteraly. andphotos ofthe events organized by
+the company.
+
++ Developeda web application used by the cents to communicate sensitveand highy secured configuration
+fies.
+
++ Developeda mobile version (anid and 105) cf one of our products, a cloud-basedweb Forecast, and
+replenishment application, communicating witha dstbuted backend system.
+
++ Developed dashboard to trackin realtime the available deployed assets nthe cloud
+
+2006-06 - 2010-09
+
+EDUCATION
+
+STANFORD UNIVERSITY 2000 - 2003
+Bachelor of Science in Computer Science
+
+Stanford University 2003 - 2005
+
+Master of Science in Computer

@@ -1,0 +1,224 @@
+JESSICA
+CLAIRE
+
+SENIOR FRONT END
+DEVELOPER
+
+© _resumesample@example.com
+& (655) 432-1000
+
+{@  100.Montgomery St. 10th
+Floor
+
+SKILLS
+
+Web Technologies:
+JavaScript, HTML/HTMLS, CSS/
+(CSS3, JQuery, JSON, AJAX, DOM,
+XTML, XHTML, DOM, Redux, Redux
+‘hunk, NGRX
+JavaScript frameworks &
+Libraries
+“IQuery Ul, Angular 2/4/10,
+“Angular JS, React JS, Backbone JS,
+and Node.s, TypeScript.
+Programming Languages:
+JavaScript, SQL
+Database:
+‘MySQL, MongoDB.
+Developer Tools:
+Eclipse, UML Modeling, MS Office
+Version Control Tools:
+Git (GitHub, GITLAB), SN, CVS,
+cigco.
+Operating System:
+
+inux, Mac OS, Windows (All
+istributions), UNIX
+Debugging Tools:
+W3c validator, IE Tester, Chrome
+Inspector
+IDE & Tools:
+Visual Studio 2010, Atom, Eclipse.
+Application/Web server:
+‘Apache Tomcat server, IS,
+WebLogic, Web Sphere.
+
+EDUCATION
+Presbyterian College
+Clinton, SC
+
+Bachelor of Science: Physics
+Georgia State University
+Atlanta, GA
+
+‘Master of Science: (Currently
+Pursuing)
+
+PROFESSIONAL SUMMARY
+
++ 6.5+ years of professional experience as a Ul Developer in various environments.
++ Strong knowledge in developing web applications using HTHLS, XHTML, DHTML, CSS3, JavaScript,
+AJAX, JSON, JQuery, Typescript, Angularu8/2/4, React JS, Nodejs with strict W3C standards.
+
++ Sound knowledge on working with MVC architecture.
+
+« Proficient in working with AngularJS/2/4/10 to create Single Page Applications (SPA).
+
+«Extensive experience with JavaScript, including Document Object Model (DOM) and DOM Functions.
+‘© Worked with different jquery plugins as per the business Requirements.
+
+« Experienced in Gtlab Cl and Jenkins Cl for End-to-End automation builds.
+
+* Experienced in working with version control systems like GIT and used Source code management
+lient tools lke GitBash, GitHub, Git Lab.
+
+‘ Developed API driven responsive Web Application by integrating Angular 4 with Bootstrap and APIS.
+«Hands-on experience with Redux and NGRX for State management by means of subscribing/
+unsubscribing to the store with state changes via dispatching of actions.
+
+‘© Worked with different Routers (React, RouterModule, ngRoute) for developing Single Page
+Applications.
+
+* Good experience with CSS animations, Backgrounds, Layouts, Positioning, Text, Border, Padding,
+CSS Box Model and CSS3 Media queries.
+
++ Good knowledge of using CSS preprocessors like SASS and LESS.
+
+«# Used AJAX to define asynchronous functions that supported UI components dependent on Backend
+data.
+
+* Experience in working in an agile Development environment.
+
+WORK HISTORY
+
+Etrade - Sr. Frontend Developer/Angular Developer
+City, STATE + 03/2021 - Current
+
+*# Created custom Angular directives for implementing accessibility features
+
+« Followed the Agile methodology to implement the application.
+
+« Developed user interfaces using HTMLS, CSS3, JavaScript, AJAX, JSON, Angular, Node.js, HTMLS,
+C353 and Bootstrap.
+
+«© Coding and testing of reusable Angular 10/11 Components.
+
+« Tested cross browser functionality and fixed major layout bugs for supporting browsers using
+Angular.
+
+‘ Implemented form validations across the site using Angular 9 Template driven forms.
+
+«# Used Angular as a framework to create a Single Page Application (SPA), which can bind data to
+specific views and synchronize data with the server.
+
+« Displayed data using Angular by applying filters on the table data.
+
+«© Used Angular 10/11 Http Request to read data from web servers and process JSON data to render in
+the Ul.
+
+‘# Debugging applications in different browsers using Augury, Jasmine, and Macha.
+
+«© Designed the front-end applications, user interactive (UI) web pages using web technologies like
+HTMLS (Local storage, Index D8)/CSS3, Angular and bootstrap.
+
+« Designed the App using technologies of HTMLS, CSS3, JS, and Angular 10/11.
+
++ Developed web service components using REST.
+
+« Responsible for designing various search forms, prototypes and also involved in creating error
+validation code using Angular 10/11.
+
+«Responsible for designing the Privacy Policy and Terms of User Pages on their public Website.
+
+Environment: HTML5, CSS3, JavaScript, Bootstrap, Angular 10/11, NodeJS, Bootstrap, Cordova,
+‘Amazon Web Services (AWS), Jasmine, Macha, Grunt Ajax, Web Sockets and Canvas, Maven, Rest
+Api, GIT, Azure, Visual Studio Code, NGRX, Redux.
+
+[MSC Industrial Supply Co. - Sr. UI Developer/Angular Developer
+City, STATE + 04/2020 - 03/2021
+«© Implemented and designed components of user interface (Ul) for the Application.
+« Built pages based on Photoshop mockups using HTMLS, Angular 9, TypeScript, CSS3 and Bootstrap.
+‘© Contributed in the build of multiple views for the Single Page Application using Angular 9 and its
+Router Module.
+‘© Designed REST API's forthe retrieval of data from schemas using Http Client Module,
+« Styled Components with the consideration of a Responsive Layout.
+« Setup input validations for client-side with angular Form’ Validator property for many Controls.
+«Used JSON for testing with firebase repositories simulating server-side architecture.
+«© Styled Components that met cross-device compatibility requirements and satisfied wire-frame
+models.
+‘Condensed styling using CSS preprocessor SASS for Components with design similarities.
+«© Routine exposure to styling with the consideration of various CSS styling properties ranging from
+positioning to box-model properties such as borders, padding, and marg
+«© Able to manipulate Oracle database Content with knowledge in ORM configurations.
+
+Designed table-less layouts using CSS3 and appropriate Bootstrap techniques.
+‘Used Docker containers to run Linux based applications.
+«© Worked with Jenkins (Cl server) to diagnose issues raised by maven's build results in
+correspondence of pushing work.
+«Used browser developer tools for traversing/manipulating DOM and stack-tracing for debugging
+«* Version control for the project was managed using GitHub and JIRA for team communication.
+«Used karma-test-runner and Jasmine for Unit test scripts.
+‘Development in Agile methodology in SCRUM,
+
+Environment: HTML5, CSS3, JavaScript, Angular 9, TypeScript, REST-API, Node.js, JSON, Bootstrap,
+XML, SASS, AWS, GitHub, Ci(Jenkins), SCRUM
+
+‘Quest Diagnostics - UI Developer/React JS Developer
+City, STATE + 01/2018 - 04/2020
+‘© Communicate with the client to understand the requirements of the project, gained experience in
+project planning, involved with writing the Project design Document and Project Ptan Document.
+« Participated as a team member in designing the user interface using HTML and CSS to make the
+interface user-friendly.
+«Implemented user interface guidelines and standards throughout the development and maintenance
+of the website using JavaScript, jQuery, React, CSS and HTML.
+‘¢ Hands on process of development, testing and maintenance.
+« Created and optimized graphic prototype of websites and applicat
+css.
+* Developed user interface by using the React JS, Flux for SPA development
+
+Implemented and designed user interface for web-based customer application.
+«© Developed customer facing software for managing advertisements to grow the business using
+JavaScript /Query, React.JS, HTML, and CSS,
+‘Developed data formatted web applications and deployed the script using server-side scripting using
+Javascript.
+‘© Worked on Cross-Browser compatibility and fixed the bugs for several browsers.
+‘© Enhanced and built reusable components across different modules and CSS classes.
+‘© Ensured Cross-browser compatibility.
+
+interfaces using HTML and
+
+Environment: HTML, CSS, JavaScript, React JS, JQUERY, AJAX, JSON, XL, ECLIPSE, SVN, Linux,
+MysQu.
+
+Havi - Ul Developer’ Angular Developer
+City, STATE + 03/2016 - 01/2018
+‘© Worked in a team environment developing the Ut, layout and front-end programming for a web
+application matching business requirements.
+‘© Designed and developed dynamic web pages using HTML, CSS, JavaScript, jQuery, Angular 4,
+node.js, for single page applications, and also with Angular 2 for other projects.
+Coded extensively using JavaScript frameworks like Angular 4, node.js within a MVC architecture.
+Used JavaScript task-runners like Gulp/Grunt for applications.
+‘© Implemented Single Page Application using Angular 4, Ul Bootstrap and UI- Router.
+‘Used angular 4 Dependency Injection pattern to increase the scope of data sharing between angular
+modules for a more comprehensive utilization of directives.
+‘© Used REST services for requesting information from endpoints.
+‘© Developed non-functional HTML, CSS pages from the mock ups designed from Ul reviews (in
+attendance).
+
+Implemented Backbone CRUD operations (Create, Read, Update and Delete) and Paginator for
+pagination for Tables
+‘# Worked with CSS pre-processor tools namely LESS, and SASS.
+‘Used Rest Angular, Promise and Services in Angular 2 for making API calls and structuring directives.
+‘# Made model representations of data within Backbone.js and composed CRUD type features for the
+application that were often debugged using Firebug.
+‘© Worked in an Agile environment and followed methodologies like Test Driven Development (TDD),
+SCRUM.
+‘© Worked with GIT for version control related concerns.
+‘¢ Handled tasks pertaining to cross browser compatibility concerns.
+‘ Managed application state for both server and client-based state using libraries such as Redux for
+the frontend and custom ORM files to communicate and modify the database on the server-side.
+
+Environment: HTML/HTMLS, JavaScript, CSS3, jQuery, Angular4, TypeScript, React.JS, REST,
+Node. js, JSON, Bootstrap, Dom, Ajax, XHTML, XIL, GULP, SASS, LESS, Restful, AWS, GitHub,
+‘SCRUM, BackboneJS, CRUD, MVC.

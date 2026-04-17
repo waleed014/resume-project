@@ -1,0 +1,137 @@
+First Last
+
+Junior Java Developer
+
+Junior java developer with 10 years of experience as a Java/J2EE Developer in the
+analysis, design, implementation, integration, testing, and maintenance of applications
+using Java/J2EE and Object-Oriented Client-Server technologies. Key achievement:
+developed 15 applications that tracked and analyzed 1TB of data for targeted marketing
+campaigns on 3K customers.
+
+WORK EXPERIENCE
+
+Junior Java Developer
+
+November 2015 — Present
+
+Resume Worded, New York, NY
+
+Front End Web Developer
+
+Created 12 new systems that tracked the status of all projects, which
+increased project efficiency by 67%.
+
+Developed 15 applications that tracked and analyzed 1TB of data for
+targeted marketing campaigns on 3K customers.
+
+Created 21 Java applications using Spring framework and RESTful
+APIs for 13 financial services companies.
+
+Designed, developed, and tested 32 web-based applications utilizing
+modern software engineering practices, including Agile
+methodologies.
+
+February 2013 — October 2015
+
+Growthsi, San Francisco, CA
+
+Graduate Java Developer (Internship)
+
+Improved search engine visibility for a Growthsi franchisee, averaging
+a 57% monthly increase within 12 consecutive weeks.
+
+Launched 14 websites that directly contributed to increases in the
+company's web traffic by 90% in Q1, 2019.
+
+Coded embedded stylesheets into existing Javascript interfaces that
+reduced load times by as much as 80%.
+
+Developed 7 application interfaces that integrated multiple third-party
+APIs to improve sales results by 78%.
+
+June 2010 — January 2013
+
+Resume Worded's Exciting Company, New York, NY
+
+Assisted 25 junior & senior employees in testing J2EE programming
+code and applications within one month on the job.
+
+Deployed Java Server Page (JSP) to help implement dynamic web
+pages for 24 different clients.
+
+Compiled 120 bi-weekly reports that the line supervisor reviewed
+during company-wide fireside chats.
+
+Collaborated with 20 team members to design creative UX solutions
+on the website of over 331 clients.
+
+CONTACT
+
++ Memphis, TN (Open to Remote)
++ +1-234-456-789
+
++ email@resumeworded.com
+
++ linkedin.com/in/username
+
++ github.com/resumeworded
+
+SKILLS
+
+Technical Skills:
+
++ Frameworks (Advanced)
+
++ Restful APIS (Experienced)
++ Full Stack JAVA
+
++ Java Spring
+
++ Web Services
+
+Industry Knowledge:
+
++ Spring Framework
+
++ Jakarta Persistence
+
++ Representational State Transfer
+(REST)
+
+Tools and Software:
++ jQuery
+
++ Bootstrap
+
++ Servlets
+
++ Tomcat
+
++ Maven
+
++ Don't forget to use Resume
+Worded to scan your resume
+before you send it off (it's free and
+proven to get you more jobs)
+
+EDUCATION
+
+Resume Worded University
+Bachelor of Science
+
+Computer Science
+
+Boston, MA — May 2010
+
+Awards: Resume Worded Teaching
+Fellow (only 5 awarded to class), Dean's
+List 2012 (Top 10%)
+
+OTHER
+
++ Oracle Certified Java SE 6
+Programmer.
+
++ Sun Certified Java Developer.
++ Oracle Certified Professional
+Java Programmers

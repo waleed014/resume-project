@@ -1,0 +1,75 @@
+BRANDIE
+CARTWRIGH
+T
+
+address
+
+5608 Malcom Falls,
+San Francisco, CA
+
+tel +1 (555) 365 3343
+
+Experience
+
+Bergstrom-Gusikowski
+Los Angeles, CA || Database Management Lead || 10/2018 — present
+
+O
+
+Knowledge of Linux/UNIX Operating Systems
+
+Understanding of Virtualization and Containerization technologies
+Understanding of SQL database (Db2, PostgreSQL, MySQL, Oracle, SQL
+Server)
+
+Software development, testing or support background
+
+Familiarity with Red Hat OpenShift
+
+Shell scripting languages Bash/Perl/Python/Ruby
+
+BS or MS
+
+Database analysis, MS Excel, SQL
+
+Database management — SQL, MS Excel, Power BI
+
+Runte and Sons
+Los Angeles, CA || Manager, Clinical Database Management || 02/2015 -
+04/2018
+
+Perform Impact analysis for proposed solutions to existing tools and
+processes and convey the same to technical and non-technical
+stakeholders under the guidance of a mentor
+
+Sets objectives for and manages multiple projects/ ongoing work activities
+of moderate complexity within DMM
+
+Leads cross-functional initiatives as needed
+
+Can manage up to five studies concurrently
+
+May help to define and/or influence applicable SOPs and work practices
+Solves complex problems, applies previous experience outside of own
+area
+
+Education
+
+Oregon State University
+Bachelor's in Computer Science
+
+Skills
+
+Knowledge of IT systems in the pharmaceutical industry with an emphasis
+on PV systems
+
+Experience in Development of pharmacovigilance software, handling
+Database structure, validation and software lifecycle management (i.e
+
+Ph
+
+Experience in cloud platforms, cloud infrastructures and cloud
+technologies
+
+Proven experience in database administration, operations and support
+Experience with relational databases design

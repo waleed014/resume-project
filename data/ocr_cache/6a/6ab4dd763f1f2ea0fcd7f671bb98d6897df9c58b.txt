@@ -1,0 +1,98 @@
+James Edward
+
+CLOUD DEVOPS ENGINEER
+
+ad
+
+CONTACT
+
+4 info@resumekraft.com
+
+0 202-555-0120
+
+9 Chicago, Illinois, US
+
+in linkedin.com/resumekraft
+
+SKILLS
+
+e AWS Cloud Services
+@ Red Hat Openshift
+e Linux
+
+e Centos
+
+@ Tomcat
+
+@ Apache
+
+¢ Terraform
+
+e Ansible
+
+e Github
+
+@ Jenkins
+
+REFERAL
+
+Available on request.
+
+ACADEMIC
+QUALIFICATIONS
+
+Bachelors of Science
+San Jose State University
+
+2008
+CERTIFICATION
+
+AWS Certification
+Amazon - 2020
+
+SUMMARY
+
+Highly skilled and experienced Cloud DevOps Engineer with a strong
+background in designing, implementing, and maintaining scalable cloud
+infrastructure. Proficient in deploying and managing cloud environments
+using AWS, Azure, and Google Cloud. Exceptional ability to automate
+infrastructure, streamline processes, and optimize system performance.
+Adept at collaborating with cross-functional teams to ensure efficient and
+secure cloud operations. Proven track record of delivering cost-effective
+solutions and improving system reliability.
+
+WORK EXPERIENCE
+
+Cloud DevOps Engineer
+Mark Barn LLC Feb 2019- Present
+e Experience in deploying and managing cloudbased solutions,
+preferably using platforms such as Amazon Web Services (AWS),
+Microsoft Azure, or Google Cloud Platform (GCP)
+© Proficiency in scripting languages such as Python, Bash, or PowerShell
+to automate infrastructure provisioning, configuration, and monitoring
+tasks
+e Strong understanding of DevOps and Agile methodologies, including
+continuous integration/continuous deployment (CI/CD) pipelines
+e Knowledge of containerization technologies such as Docker and
+container orchestration platforms like Kubernetes
+e Experience with infrastructure as code (laC) tools like Terraform or
+CloudFormation to automate infrastructure provisioning and
+configuration
+
+SOLUTION ARCHITECT (DevOps)
+Amazon Jul 2015 - Feb 2019
+e Assist with migration of virtual servers to the AWS cloud environment
+using the VM Import/Export utilities.
+e Set up NFS servers as needed for file sharing across Linux servers.
+e Experience with Network configuration/networking protocols (TCP/UDP,
+IPv4)
+© Proficient in using version control systems such as Git for managing
+infrastructure and code changes
+© Knowledge of network concepts, security best practices, and firewall
+management in cloud environments
+e Experience with troubleshooting and resolving infrastructure and
+applicationrelated issues in a cloud environment
+@ Strong communication and collaboration skills, as cloud DevOps
+engineers often work closely with developers, system administrators,
+and other team members to ensure smooth deployment and operation
+of cloudbased applications

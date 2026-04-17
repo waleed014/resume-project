@@ -1,0 +1,96 @@
+Aubrey Bonan
+
+SQL Developer
+
+Profile
+
+Detail-oriented SQL Developer with a year of experience in database
+‘management and system analysis. Proficient in designing, developing, and
+‘maintaining SQL servers and applying complex business logic, Demonstrated
+skills in data analysis, data migration, and performance tuning, coupled with
+excellent problem-solving abilities. Committed to ensuring the efficiency and.
+reliability of database systems,
+
+Employment History
+
+SQL Developer at Microsoft Corporation, WA
+
+p20
+
++ Successfully optimized SQL Server performance, resulting in a 30%
+improvement in processing times across all applications used by the
+company.
+
++ Developed and implemented a comprehensive database security
+protocol, reducing data breaches by 75% within the first year ofits
+implementation,
+
++ Leda team to design and launch a new customer relationship
+management system, improving data accuracy by 50% and increasing
+customer satisfaction scores by 2036,
+
++ ‘Streamlined data integration processes for Microsoft's main product
+line, resulting ina 4096 reduction in data errors and a 15% increase in
+‘operational efficiency.
+
+Junior SQL Developer at Amazon Web Services, WA
+r eb 2023
+
++ Successfully developed and implemented anew SQL database system for
+AWS's customer service division, resulting in a 3036 improvement in data
+retrieval times and a 20% increase in system efficiency.
+
++ Leda team in the migration of over 100,000 records from an outdated
+system to AWS's SQL Server, enhancing data consistency, integrity, and
+security.
+
++ Optimized SQL queries and procedures, which reduced server response
+times by 25%, significantly improving internal productivity and customer
+experience.
+
+Certificates
+
+Microsoft Certified: Azure Database Administrator Associate
+
+Oracle SQL Developer Certified Professional
+
+Memberships
+
+BB aubrey.bonan@gmailcom
+Xe (345) 858-2046
+9 Seattle, WA
+
+Education
+
+Bachelor of Science in Information
+Technology with a specialization
+in Database Management at
+University of Washington, WA
+‘vg 2017 - May 2022
+
+Relevant Coursework: Database
+Design and Programming, SQL
+Fundamentals, Data Warehousing,
+Database Administration, Data
+Structure, Network Security,
+Information Systems Management,
+Business intelligence, and Cloud
+Computing.
+
+Links
+
+linkedin.com/in/aubreybonan
+
+PostgreSQt
+
+Quite
+
+Oracle Database
+
+Microsoft SQL Server
+
+Languages
+
+English
+
+Hindi

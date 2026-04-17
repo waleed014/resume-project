@@ -1,0 +1,134 @@
+First Last
+
+Python Developer
+
+WORK EXPERIENCE
+
+Resume Worded, London, United Kingdom
+VR gaming startup with 50+ employees and $100m+ annual revenue
+
+01/2022 — Present
+
+e Created the back-end financial systems that made 20+ RW applications
+user-friendly and seamless to navigate.
+
+e Developed and updated productivity applications, which increased user
+downloads by 30% within 96 hours of release.
+
+e Supervised programming tasks and maintained 10+ company websites with
+a 50% success rate in product update deployment.
+
+e Designed a marketing lead MySQL database that categorized and filtered
+740+ leads from several sources.
+
+Python Developer
+
+Polyhire, London, United Kingdom
+NYSE-listed recruitment and employer branding company
+
+Technical Support Specialist 10/2019 - 12/2021
+
+e Responded to and resolved 300+ customer questions about implementing
+access software, CMS, IP Cameras, DVRs, and Access Control.
+
+e Provided technical solutions for 70+ Small and Medium-sized enterprises
+(SMEs) and 20+ micro-merchants, which accounted for 38% of Polyhire card
+payments.
+
+e Discovered a software glitch that prevented 150+ customers from accessing
+their accounts in the first week of employment.
+
+e Answered customers’ inquiries within 60+ seconds of contact via chat
+sessions and live support.
+
+Growthsi, London, United Kingdom & Barcelona, Spain
+Career training and membership SaaS with 150,000 users
+
+11/2018 — 09/2019
+
+e Created a user interface as a single-page application using React and Mobx;
+increased the productivity of 1100+ users by 64%.
+
+e Implemented functionality to support disconnected client machines, which
+enabled 420+ customers to work offline without losing data.
+
+e Designed a data dictionary generator that creates documentation for 1200+
+developers as spreadsheets and web pages.
+
+e Launched a search engine for consumers to search for ATM locations in 20+
+states, saving institutions S50K on data research.
+
+Junior Software Developer
+
+PREVIOUS EXPERIENCE
+
+Coder, ABC Company, London, UK
+Ethical Hacker, XYZ Company, New York, USA
+Application Developer, ABC, New York, USA
+
+06/2017 — 10/2018
+01/2016 - 05/2017
+07/2014 - 12/2015
+
+CONTACT
+
++ Bradford, United Kingdom
++ +44 1234567890
++ first.last@gmail.com
+
+SKILLS
+
+Hard Skills:
+
++ Deep Learning
+
++ Data Structures
+
++ Generators
+
++ Iterators
+
++ Multi-Process Architecture
++ Object Relational Mapping
+
+Scripting:
++ Python
++ Shell
++ Perl
+
+Source Code Management
+Tools:
+
++ GitLab
+
++ Mercurial
+
++ Apache Subversion (SVN)
++ CVS
+
+Languages:
+
++ English (Native)
+
++ Romanian (Native)
+
++ Spanish (Conversational)
+
+EDUCATION
+
+Associate in Applied
+Science
+
+Computer Science
+Cultural Studies
+
+New York City, New York
+10/2011 - 06/2014
+
+OTHER
+
++ Certified Entry-Level Python
+Programmer
+
++ Certified Associate in Python
+Programming

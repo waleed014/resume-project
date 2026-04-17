@@ -1,0 +1,103 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 # (555) 432-1000  resumesample@example.com
+
+Professional Summary
+
+Highly motivated with an enquiring mind and passion for excellence and innovation for business growth and success. Experience in
+delivering complex solutions based on hybrid cloud infrastructure, data center technologies and network architecture. In-depth
+knowledge of IT risk-management and cyber security and compliance. Successfully created, and managed strong system engineering
+teams with a track record of developing enterprise IT architectures, testing, implementing, and effectively worked with cross-
+functional teams to implement the design. People leader with extensive experience in setting up career and annual performance
+goals, coaching, mentoring and challenging to accomplish set goals. Ardent customer advocate.
+
+Skills
++ Program Management + Mentoring
++ Risk Management + Exchange
++ LAN/WAN + Negotiations
++ Virtual Appliance + Network Management
+* DNS, DHCP & NTP * Network Architecture
++ Azure Cloud + Networks
++ Network Management & Tools + Networking
++ Disaster Recovery + Network
++ Budget Forecast + Optimization
+« SD-WAN and Meraki * Telephony
++ Disaster Recovery, + Budget Forecasts
+Work History
+
+Director of Information Technology, 02/2018 to 11/2020
+Family Health Centers Of Southwest Florida - Fort Myers, FL
+
++ Successfully led IP and cloud architecture team.
+
++ Project including building hybrid cloud networking, implementation of virtual appliance — load balancer, firewalls and DNS.
+
+* Led software defined data center (SDDC) and data center fabric architecture and implemented three-tier and micro-
+segmentation design.
+
++ Proficient in SD-WAN and NFV network solutions.
+
++ Developed global network strategy and multi-location cloud connectivity plan and led Wide Area Network RFP, working with
+vendors, establishing requirements, evaluating terms and conditions, vendor selection, establishing service level agreements,
+conducting negotiations and legal reviews - successfully close the contract with AT&T and Verizon - resulted in yearly saving of
+$3.65M.
+
+«+ In-depth knowledge of sisk management, including risk identification, risk assessment, risk response, implementing controls and
+mitigation plan.
+
++ Proficiency in IT governance and PCLDSS and HIPPA compliance.
+
++ Participated in cross-functional implemented, created and tested disaster recovery and business continuity plans and maintained.
+appropriate back-up system.
+
++ Hands-on experience with working with customers to craft network solutions, led proof of concepts, implementation and
+develop operational strategy and training,
+
++ Stayed abreast of technology advancements, emerging standards and IS regulations through attending conferences and in
+participating in brainstorming sessions.
+
++ Directed strategic planning, budgeting and partnership development to fuel growth and optimize profits.
+« Stayed abreast of technology advancements, emerging standards and IS regulations through reading material.
+
+Director of National Engineering, 02/2014 to 10/2016
+Comcast Corporation ~ City, STATE
++ Experience in working with senior management teams to establishing IT governance and policies to ensure all objectives are
+achieved and risks are managed appropriately.
++ Interacted with cross-functional team and stakeholders to complete different initiatives.
++ Managed high-caliber engineering team, mentoring, setting annual goals, providing performance reviews, and conflict
+resolutions.
+«+ Planned and managed yearly budget of $113M.
++ Developed TCO and successfully reduced CAPEX and OPEX.
+* Developed effective process to streamline budgeting and execution of yearly plan of record.
++ Implementation of major infrastructure deployments and knowledge transfer and building training material.
+
+Director of Sales System Engineering, 09/1998 to 02/2014
+Leader Professional Services, Nokia — City, STATE
++ Proven leader in leading pre-sales engineering team — working with sales, software development and product teams to craft sales
+strategy and addressing customers’ solutions and critical issues.
++ Responsible for hiring, mentoring, and building strong engineering team.
++ Successfully, build from a six-member team to a globally diverse thirty-five-member engineering team.
++ Managed large ICT solutions and deployment programs, including architecture, design, training customer operation teams.
++ Regularly meeting customer's senior-level executives to present solutions, deployment strategies, managing expectations, project
+status and highlighting potential risks.
++ Other Networking Skills,
++ Built Large MPLS networks.
+# Network analytics & KPI.
++ Change Management Process.
++ Deployed 4G LTE Networks.
++ Routing Protocols - OSPF & BGP.
++ Network audit and analysis.
+« Infrastructure optimization.
++ LAN & WLAN Protocols & Technologies,
+
+Education
+
+Master of Science: Telecommunications -With computer Science
+DePaul University - Chicago, IL
+
+Professional Development Courses
+Harvard University - Cambridge, MA
+
+Additional Information
+
++ AWARDS , Nokia CEO award for the customer service

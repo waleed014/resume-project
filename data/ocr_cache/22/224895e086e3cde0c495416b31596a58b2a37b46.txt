@@ -1,0 +1,182 @@
+Jessica CLAIRE
+
+100 Montgomery St, 10th Floor
+(585) 432-1000 -resumesample@example com
+
+Susmary
+
+(Over 12 years of professional in IT experience inchuding 8 years in SAP with fll ife cycle implementations. Implemented SAP cloud-
+based application such as ARIBA, CONCUR, VIM. Client and Consulting facing experience with leading onshore and offshore teams.
+Participated in multiple end-to-end implementations and roll-out projects using Agile and Activate methodologies, and in various support
+‘oles. Efficient in Proposal Participation and Management with the ability for Presentation and opening consulting accounts, and expert in
+‘working along system integrators. Extensive experience in configuration, enhancements, and testing of the SAP FICO modules including
+General Ledger (GL), Account Payable (AR), Account Receivable (AP), Asset Accounting (AA), Banking, Cost Center Accounting (CO-
+(CCA), Internal Orders (U0) and Profitability Analysis (CO-PA). and Product costing (CO-PC). Experience in integration with FIM
+(@rocure to pay) and FLSD (Order to cash) Cycles. Special emphasis on Data Migration specifications using, LSMW and LTMC for data
+‘uploads for various SAP Projects, Experience in treasury module such as EBS, Lockbox processing, Cash Management, Experienced in
+‘complex Project System scenarios for Capex, Make to Order and others, Experience in cost management and bank Accounting: Inbound!
+Outbound Process, Howse Banks, Bll of Exchange, Manual and Electronic Bank Statement, Exchange Rates, Translation Ratios, Bank
+reconciliation and Cath journal. SAP ECC 6.0, SHANA Superior time management, organization, and prioritization skills. Willingness to
+leam new technologies and software
+
+Semis
++ ERP + Controlling:
++ BCC 60, SHHANA, + Cost Element\Cost Center Accounting, Profit Center Accounting,
++ SAP Modules Internal Orders, Profitable Analysis, And Product Costing.
++ Financial: + Software
++ General Ledger, Accounts Payable, Accounts Receivable, Asset + MS Word, MS Excel, MS Powerpoint, MS Access, MS
+
+Accounting, Bank Accounting. Sharepoint
+‘Expernexce
+
+122018 to Current SAP FICO Consultant (S4HANA Specialist)
+Deloitte - Atlanta, GA
+
+‘+ Analyzed the existing legacy system, gathered functional requirements through user meetings, did gap analysis,
+patticipated in process improvement and produced FSD per need
+
++ Configured General Ledger by creating master records, accounts groups, number ranges and GiL accounts foreach
+company code, account and prepared master files
+
+‘+ Migrated master and transactional data using Migration Cockpit
+
++ Customized screen layouts for document entry’ at accoun/document levels
+
++ Defined fiscal year variant, posting period variant, customized field status variant, ete
+
++ Configured and customized Asset Accounting from acquisition to retirement, (depreciation areas, assets clases,
+account determinations and srapping of an asset)
+
++ Designed LockBox for processing customer payments through check in cash application
+
++ Designed and configured Automatic Payment Program for various payment methods
+
++ Prepared master data for AR and AP along with Open Item processing settings, Incoming Invoices/Credit Memos
+(terms of payment), Outgoing Payment, Incoming Payment, Dunning, Open item Clearing, Down-payment
+received, and Down-payment made
+
++ Set up Cost Center Accounting including Enterprise organization, Master data, Cost Center, Activity types
+
+«+ Tested the solution on the QAS and migrated the solution for UAT
+
++ Led the S4 HANA migration and did the readiness checks per need
+
++ Trained End-Users and ensured documentation is done a per the company’s standard
+
+‘Worked on period-end-losing, iscal-vearend-closing, material ledger, actual costing, profitability analysis, profit
+center accounting, and reconciliation issues
+
+01/2017 0 112019 SAP FICO Functional Consultant
+Spmorgan Chase & Co.— Walnut Creek, CA
+
++ Accounts Receivable: Configuring and Customizing AR Business module, Customer master data, Debtor
+management, Customer payments, Customer invoice processing, Order to cash process, Finance documents Global
+settings (Posting Keys, payment terms), Dunning, Lockbox.
+
++ Accounts Payable: Configuring and Customizing AP Business module, Configuring and Customizing vendor
+master data, vendor account groups, define sensitive fields for dval contra, House banks, Invoice processing,
+‘Document parking, Configured Automatic Payment Program, Outgoing payment, Reporting, Check printing,
+Voiding checks, matching invoice with purchase
+
++ Asset Accounting: Configuring of Asset Accounting, Structuring Fixed aset desig, integration withthe GL,
+defining aset classes, depreciation reas, Configure (Base, Balance and Multilevel) deprecation methods
+
+«+ Sales and Distribution: Configuring sales organization, assigning sales organization to company code, assigning
+distribution channels and divisions to sales organizations, determining pricing procedure, configuring condition
+table
+
++ Configured and customized Chart of accounts, Company code Global Parameters, Fiscal year Vaiants, Posting
+Period Variants, Account Groups, Feld Status Groups, and Tolerance Groups
+
++ Implemented New GL, activated new Ledger, performed document spliting and Parallel Accounting
+
+‘+ Migrated various master and transactional data using LSMW
+
++ Designed Make-to-Order Costing and Consignment Process
+
+‘+ Reengineered Dropshipping process and Intercompany selling Billing Process
+
++ Implemented Cost based COPA and created custom reports
+
+‘+ Migrated General Ledger, Account Receivable, Account Payable, Asset Accounting from ECC6 to $4Hana
+
++ Configured Controlling Area Setings, Number ranges, and Maintained Versions
+
++ Configured and Customized CO ~ General Controlling, Cost and Revene Element Accounting, Ovethead Cost
+Controlling, Cost Center Accounting; and Internal Orders.
+
+1122015 t9 01/2017 SAP Functional Consultant
+Nextiva ~ City, STATE
+
++ Gathered and documented business requirements by conducting meetings with key users and drafted business
+blueprint documentation
+
++ Performed gap analysis, documented and prototyped between curent business practices and standard SAP
+functionality
+
++ Configured COPA characteristics & valve fields
+
++ Created reports out of profitability segments
+
++ Configured the basic settings, maintained profit center hierarchy, dummy profit center, assignments, CO-objects to
+‘Profit Centers, distribution and assessment of costs, planning and development of reports
+
++ Created profit center hierarchy and profit centers Configured Project System for Make-To- Order, and Capital
+Investment
+
++ Checked order types, defined good receipt valuation for delivery, defined result analysis keys, defined cost element
+calculation for WIP, defined, created settlement profile, and created PA transfer structure
+
++ Configured automatic payment program for vendors and trained accounts payable sers in APP, vendor check.
+printing, and creating master data
+
++ Configured FI-AP parameters forthe paying and sending company, house banks, and payment methods
+
++ Configured vendor dow payment process and trained uses in creating, posting down payment, nd posting vendor
+invoices withthe down payment request
+
++ Designed a solution for multiple valuation costing Regional, Global & Profit Center valuation
+
+‘+ Managed all Vertex Integration with FICO
+
++ Reviewed and delivered functional specifications to developers in order to meet business requirements,
+
+01/2014 10 10/2015 SAP FICO Analyst
+VICTORINOX SWISS ARMY - City, STATE
+
++ Was responsible fr collecting the data fom the core team members & interacting with them to better understand
+the business process
+
++ Configured and Customized SAP system as per Business Requirement
+
++ Configured and Customized CO ~ General Controlling, Cost and Revenve Element Accounting, Cost Center
+‘Accounting; and Internal Orders
+
++ Created primary and secondary cost elements, Cost Center Hierarchies, cost element groups, cost centers
+
++ Coordinated with other module consultants in tems of integration related configuration
+
++ Preparation of user acceptance test scripts and testing of the Integration activity
+
++ Preparing configuration documents, end wser taining documents and training the end users
+
++ Data upload through LSMW
+
++ Design of project and upload of data
+
+‘+ Handling the day-to-day issues ofthe sers and helped resolve the problems they faced in performing the
+transactions
+
+«+ Visited various branch offices and franchises to provide end user taining, post go-live and production support
+
+Epvcarton aNp TRAINING
+
+Associate degree: Business Administration and Finance
+
+Cermmicarions
+
+‘Scrum Master Certified Comptia Security+CE Certified Information System Autor
+LaxGuaces:
+
+English French:
+egotiated Negotiated:

@@ -1,0 +1,39 @@
+David Villatoro
+
+Web Designer / Developer with 5 years of experience in the design and development of innovative
+staticand dynamic websites using current W3C standards of coding. Additional experience in the use of
+content management systems toallow clients toupdate content on their websites. Very strong,
+‘organizational, presentational, and communication sill to help plan out and pitch different web user
+Interface styles that suited the cient’ needs.
+
+EDUCATION
+BA in Interactive Entertainment, Minor in 3D Animation - Unversity of Southern California, 2008
+TECHNICAL skis
+Web Programming
+XHTML, CSS, Javascrit, jQuery, XML/RSS Feed, PHP, MySQL, Actionscript 3.0 Light HFML5/CSS3
+Software
+
+‘Adobe Dreamweaver C55, Adobe Photoshop CSS, Adobe Flash CSS,
+
+‘Content Management Systems
+Wordpress, Joomla, Adobe C5, Jive
+
+Other Relevant Sills
+Leadership, Organization, Communication, Self-motivated, Team oriented, Productivity, Problem.
+solving sil, Blingual (English and Spanish)
+
+EXPERIENCE
+
+Front End Web Developer, Activision] Blizzard March 2012 ~Present
+
+> Developed websites with Adobe CO allowing the developing team to create reusable
+‘components that can be easily used to build outthe sites.
+> Used Jive to develop custom themes that would be applied to community forums and blogs
+
+‘WebDeveloper, Unbutton it ‘April 2011 ~ October 2011
+
+> Collaborated witha web designer to program the entire site using XHTML, CSS, PHP, MySQl,
+‘and jQuery from PSD files.
+
+> Developed a custom shopping cart system to receive transactions from customers which can
+be viewed from a custom made content management system made for the dient.

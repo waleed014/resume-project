@@ -1,0 +1,67 @@
+| | R HOPE RUNOLFSSON
+
+EXPERIENCE 02/2019 — present
+San Francisco, CA
+
+10/2013 - 09/2018
+San Francisco, CA
+
+EDUCATION
+
+SKILLS
+
+viable product
+
+300 Emard Branch, San Francisco, CA
++1 (555) 856 5071
+
+VON-CONROY
+Senior SQL Developer
+
+Microsoft SQL Server SSIS Package development and T-SQL for database
+development
+Experience with web application development with Spring framework
+Familiarity with Object Oriented Programming and Design Patterns
+Knowledge and applying SOLID principles in practice
+
+Designs, directs and performs data analyses to resolve complex business issues
+Uses data analysis and technical skills to help architect comprehensive models
+that integrate with other systems
+HL7/FHIR experience is strongly
+Previous experience with other languages such as Python
+Previous experience with Google Cloud Platform
+
+LANGWORTH, KOEPP AND KUVALIS
+T-SQL Developer
+
+Understanding of Design, Build & Testing approaches and strategies
+Experience in troubleshooting, performance tuning and maintenance of
+database solutions
+
+Experience of SSIS, Data Warehousing (Star / Snowflake Schema / DAX),
+automated TFS Build and Deployment, Powershell an advantage
+Knowledge of migration of database technologies to cloud (AWS, Snowflake,
+Redshift or other)
+
+Strong Analytical and Sql/Database Design and Programming skills
+Familiar with ETL strategies
+
+Experience with GMI, RPGLE, Back office Clearing of Exchange Traded
+Derivatives
+
+OREGON STATE UNIVERSITY
+
+Bachelor's in Computer Science
+
+Comfortable working in a Scrum Master and or Product Owner capacity
+Comfortable working in a fast paced and challenging delivery environment with a strong focus on minimum
+
+Experience delivering change and gaining consensus and momentum for change with multiple stakeholders
+
+from varied functions within a financial services organisation e.g
+
+Knowledge of Barclays Systems, Products and processes
+
+¢ Embraces Barclays Values & Behaviours, acting as a role model to build a culture consistent with the Values
+Experience in Software Development through Agile Methodology such as SCRUM.
+¢ Experience with database-migration tools such as Flyway

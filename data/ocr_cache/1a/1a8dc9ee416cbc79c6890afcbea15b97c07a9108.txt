@@ -1,0 +1,147 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(655) 432-1000 -resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Certified SAP S/4HANA Sourcing and Procurement consultant with 5 years of implementation and support experience in SAP MM PP and
+integration of SAP MM and PP with other modules like SAP FI, SD functional modules. Good knowledge on SAP ASAP and ACTIVATE
+methodologies from end-to-end life cycle.
+
+Organizing and leading business requirement gathering workshops, defining AS-IS and TO-BE processes and preparation of business,
+blueprint.
+
+-Y Supporting in all phases of a project life cycle including business analysis, design, configuration, testing, and deployment of solutions,
+documentation, end-user training and post production support / maintenance
+
+‘involved in end to end procure-to-pay (P2P) supply chain processes for creation of purchase requisition, purchase order, goods receipt and
+invoicing
+
+-Y Responsible for writing purchase orders for promotional needs while minimizing inventory levels. Collaborate with multiple departments
+and vendors on procurement need to successfully execute supply chain initiatives
+
+- Troubleshooting system issues, analyzing processes, recommending course of action with service tickets/issues documentation regularly
+and accurately
+
+Work History
+
+08/2018 to 11/2020 SAP S/4 HANA PP MM Consultant
+HD Supply - City, STATE
+«+ In-depth SAP S4 HANA knowledge, backed with strong understanding of procurement processes
+‘+ Configured MM Organizational Elements: Company code, purchasing organization, plant & storage location
+‘+ MMPurchasing/Procurement: Hands on experience in configuring material master, business partner, partner
+schema, purchase requisition, purchases order, scheduling agreement, inventory management, vendor evaluation,
+subcontracting process
++= Expertise in designing scenarios like outline agreements, RFQ, source list, info records, pricing, quota
+arrangement, scheduling agreement, reservation, vendor consignment, subcontracting and vendor evaluation
+‘+ Hands-on experience in configuring various end to end inter and Intra company scenarios
+‘+ Configured release strategies with classification for purchase orders & purchase requisitions
+‘+ Good understanding of integration of MM and FI with other modules like WM, SD, QM, Fl and good knowledge
+in master data upload tool LSMW.
+++ Understanding & configuring the functional requitements of various procurement & inventory processes like
+‘material type, physical inventory, reservations, auto account determination etc
+‘+ Work on data migration activities for master data using LTMLSMW & understanding of cutover process
+‘+ Provided support & solved user issues in various areas of MM,WM, PP
+
+07/2015 t0 05/2017 SAP PP/MIM Functional Consultant
+Welch Allyn - Skaneateles, NY — City, STATE
+
++ Environment- SAP HANA Implementation and support, Fll life Cycle
+
++ Participated in all phases of Implementation life cycle startin from analyzing business process, GAP analysis,
+blveprintng, design, and configuration of sap MM module
+
++ Coordinated with MDM Team for master data load from legacy systems
+
++ Gained key business insight and know-how on various operations performed source to pay management including
+‘generating purchase requisition and PO, PO approval, receiving of goods, 3d party dealership process,
+procurement of service through extemal interface, Putaway processes, blanket order processes, outbound picking
+‘processes and shipping and transportation processes
+
++ Creation of test scripts for procurement (blanket purchase order, service purchase order, and consumable purchase
+order)
+
++ Interacted with users in collecting data and involved in uploading of master data using SAP FIORI app
+
++ Configured settings related to procurement (blanket purchase order, service purchase order, non-valuated article
+assigned to cost center, allocation (purchase order allocation, sale order allocation, classification)
+
++ Configured Material master for specified material types with views required purchase groups, tax codes, plants and
+storage locations, document number range and type for PR and PO.
+
++ Configured vendor afc group, number range, assign number range to document type
+
++ Configured pricing procedure, calculation schema, access sequences and maintained condition tables
+
++ Configured output types, condition table, acess sequence, and message determination procedure
+
++ Configured goods issues, goods receipts, automatic goods movements, reservation, physical inventory, goods
+movement types and other relevant objects in inventory management
+
++ Created Purchase requisition, RFQ and purchase orders using source lists and purchase info records and using
+release procedures based on predefined release groups, codes, Indicators and strategies
+
+‘+ Handled team management and client communications for open text VIM implementation and boost productivity
+‘and revenve by automating routing, approval, and payment processes
+
+‘+ Assisted in data setup for unit testing and integration testing for MM module
+
+‘+ Worked on STO scenarios, procurement cycle, inventory management, handling unit management, and integration
+‘of WM with MM and made required configuration changes to resolve defects during testing
+
++ Tested scheduling agreements with dealers and vendors and variant configuration for material
+
++ Involved in preparing test scenarios, integration test scripts and helped power users and end users for testing
+
++ Suggested continuous improvement to existing process to add value and increase productivity and gain efficiencies
+in operation
+
++ Participated in golive activities and production support for end-users
+
+10/2014 to 04/2015 SAP Quality Analyst
+EnerSys Inc. ~ City, STATE
+
+‘+ Environment- ECC 6, ASAP
+
+‘+ Acted as validation and quality assurance professional across different stages of testing cycle
+
+‘+ Develop, designed and deployed test scripts and cases of complex FI scenarios
+
+‘+ Assisted setting up test environment and prepared required documentation and test design for different types of
+testing
+
+‘+ Analyzed workflow of AS-IS system and Identified gaps
+
+‘* Prepared documents to match functional and technical specs
+
+‘+ Developed test plans for risks, dependencies and participants required to mitigate risks to system quality and
+‘obtained stakeholder support for this plan
+
+‘+ Advocated appropriate level of quality by resolution of important defects and appropriate level of test ability
+focused on software development process
+
+‘= Reported to management about progress and effectiveness of test efforts
+
+‘+ Organized and managed all phases of software application cycles design, development of scripts, execution of tests,
+defect management process and participated in change management meetings
+
+‘+ Developed customer utilities and accelerators for test design, test data, execution, and validation activities
+
+Seats
++ Enterprise Resource Planning ‘+ Data management
++ Business Administration ‘+ User Acceptance Testing
+* Business Analysis ‘= Unit Testing
++ ERP Configuration ++ Requirements gathering
++ GAP Analysis, ‘+ MS Office
++ Project Management + Planning and Coordination
++ SAP ACTIVATE ‘+ Multitasking abilities
++ SAP ASAP
+Epucarion
+04/2013, MBA: Supply Chain Management
+GITAM School of International Business - India
+05/2011 Bachelor of Science: Information Technology
+JNTU- INDIA
+(Cernmicanions
+
++ SAP S/4 HANA Sourcing & Procurement

@@ -1,0 +1,106 @@
+Summary
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+‘Versatile, creative, and knowledgeable font engineer with a solid background in font development and typography. Passion to produce
+functionally clean and efficient fonts to meet desired results for a variety of end uses. Capable of collaborating, learning, and adapting to a
+challenging opportunity in order to ensure company success.
+
+Semis
+
+« Proficiency with OpenType (OT) development, with
+
+Knowledge of Glyphs and other font development and editing
+
+understanding of Universal Shaping Engine (USE) tools
+* Understanding of Indic, Arabic, and other non-Latin script «Excellent proofing and troubleshooting skills
+structures * Understanding of Unicode specifications
+
+# Understanding of connecting scripts « Experience with GitHub and Subversion (SVN)
+
+« Proficiency with font tables
+
+Excellent collaboration, communication, and interpersonal Skills
+
+‘ Understanding of various font formats
+
+EXPERIENCE
+
+06/1999 to 11/2020
+
+01/1994 to 06/1999
+
+06/1993 to 08/1993
+
+11/1991 to 08/1992
+
+Senior Typographic Developer
+Douglas County School System — Douglasville, GA
+
++ Contributed to all phases of font software development lifecycle with sound technical and typographic knowledge
+and project management abilities.
+
+‘© Wrote and refined OpenType code to support Latin, non-Latin, and symbol scripts, specifically complex scripts
+including by not limited to Noto Sans SignWriting, NotoNastaliqUrdu, NotoSansNewa, NotoMyanmar, and
+NotoSansJavanese.
+
+‘ Created proofing documents and tested fonts to verify functionality, legibility, and compliance (with Harfouzz, for
+example)
+
+«Interpreted Unicode specifications and Code Charts to develop functional fonts.
+
++ Partnered with designers and PM's to take custom projects to completion using standardized processes within
+timeline and specifications.
+
+‘ Refined and finalized designs by closely collaborating with other senior engineers on code implementation,
+validation, and debugging.
+
+‘© Helped with code reviews, project planning, and timeline estimations for font development.
+
+‘© Leamed new technologies (Universal Shaping Engine) and adopted new tools (Glyphs) quickly to maximize
+performance and contributions.
+
+* Collaborated with designers to produce complete and functional fonts for multiple languages.
+
++ Troubleshooted and resolved errors through close collaboration with designers and quality assurance team.
+
++ Contributed feedback and functionality requests for development and improvement of proprietary font tools
+
++ Informed decision-makers through documentation of project specifications, activities, and status.
+
++ Produced clean, error-free code to meet aggressive time lines.
+
+‘© Supported customer technology needs with font maintenance and recommendations to meet specific customer
+requirements and hardware limitations
+
+‘* Maintained font performance with necessary updates, sometimes reworking fonts to meet requirements of varying
+end products such as smartphones, ebooks, cars, or the web.
+
+* Contributed to hinted fonts for clients such as Apple (Lucida Grande), Amazon (Kindle), GE (Inspira), and Nokia
+
+‘© Taught all aspects of hinting TrueType to team members to meet production demand and increase efficiency
+
+‘Type Designer/Font Developer
+Entergy — Port Allen, LA
+
+Contributed to all phases of hinted TrueType font development with sound technical and typographic knowledge and
+project management abilities. Hinted fonts include but are not limited Apple OS 8 Charcoal, HiTech, and Sand; as well
+as some of early releases in the Font Bureau library.
+
+Summer Intern
+Microsoft — City, STATE
+Assisted the late Robert Norton with typographic research.
+
+Co-op Student
+Agfa Monotype — City, STATE,
+Hinted TrueType fonts for Microsoft Windows 3.1
+
+Epucation Np TRAINING
+
+05/1993
+
+Bachelor of Science: School of Printing Management And Sciences
+Rochester Institute of Technology - Rochester, NY

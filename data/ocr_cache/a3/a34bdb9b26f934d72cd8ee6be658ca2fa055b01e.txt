@@ -1,0 +1,97 @@
+Jermaine Jaskolski
+17870 Abshire Corner, Phoenix, AZ # Phone: +1 (555) 712 2868
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR FULL STACK .NET DEVELOPER
+Philadelphia, PA
+12/2015 — present
+‘+ Front end application development in one or more of Angular GS, Javascript, CSS, HTML,
+‘* Create database models to represent complex business entities and relationships
+* No formal supervisory responsibilities in this position. Provides informal assistance such as technical
+guidance, and/or training to coworkers. May lead project teams and/or plan, and supervise assignments of
+lower level employees
+‘+ Provides technology expertise in at least one technology area. Performs other duties as assigned
++ Involved with resolution of complex software development issues that may arise in a production
+environment. Analyzes problems, conducts root cause analysis, helps in resolution of problems using
+defined problem management procedure, and helps in application support and maintenance of customer
+applications
++ Perform root cause analysis, outline corrective action, and identify mitigation strategies for production
+issues
+‘© Offer suggestions to improve processes and evaluate alternative technologies to help meet Garmin's high
+standards of value and performance
+
+FULL STACK NET DEVELOPER, AVP
+
+Phoenix, AZ
+01/2012 - 07/2015
+
+* No line management
+
+‘* Undertake complete ownership of assigned tasks and manage own priorities and time alloc
+minimal daily supervision
+
+‘Issues resolution
+
+© UAT support
+
+‘+ Follows the policies and procedures of the bank, including but not limited to the Project Promotion
+Procedures, the System Trouble Reporting Procedures, and the Production Release Approval Procedure
+for releasing applications into a production environment
+
+‘© Systems Architecture ~ Design and Documentation
+
+‘Set up and configure system environment
+
+FULL STACK .NET DEVELOPER
+
+Houston, TX
+02/2009 - 10/2011
+
+‘© Work in a Scrum/Agile environment to plan and estimate work at different levels (story, sprint, release)
+
++ Stay current with technology trends and developments in the industry and participate in service
+development
+
+‘* Working with your development team to define tasks and test plans
+
+‘+ Develop web applications with robust front and back-ends that work together to track geohazards and
+warm clients about potential risks
+
+© Entity Framework (EF)
+
+‘+ Implement improvements in the design of existing software architecture
+
++ Full-stack software development using NET and Knockout,js
+
+ASHFORD UNIVERSITY
+Bachelor's Degree
+
+‘+ Implement complex, high-quality, scalable, and extendable end-to-end solutions, using either out-of-the-
+box or custom functionality
+
+‘© Excellent interpersonal and organizational skills, ability to handle diverse situations, multiple projects and
+
+rapidly changing priorities
+
+Ability to communicate with IT Professionals at all levels
+
+Strong attention to detail
+
+Conduct performance and scalability testing and capacity analysis/planning
+
+Excellent organization and communication skills
+
+Strong experience with WCF,
+
+Experienced in problem solving, and able to follow a methodical implementation process
+
+Architect, design, develop and deploy scalable enterprise applications for clients, from concept through
+
+deployment to production environments
+
+‘© Great perks like onsite haircuts, massages, and intramural sports,

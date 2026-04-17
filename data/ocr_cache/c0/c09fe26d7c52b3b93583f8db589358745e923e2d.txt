@@ -1,0 +1,49 @@
+JAVA DEVELOPER
+
+142 Facebook Blvd.
+Palo Alto, California, 94301 United States
+(423)135-4624
+Your Name@gmail.com
+
+[Date]
+
+[Hiring Manager's Name]
+[Company Address]
+[City, State, Zip Code]
+[Telephone No]
+
+[Hiring Manager's Email]
+
+Dear [Mr./Mrs./Ms.] [Hiring Manager's Surname],
+
+Asa long time admirer of [Company Name]'s focus on improving user experience, I'm excited
+to apply for your newly announced Java Developer position. I believe that my 7+ years of
+experience, BSc in computer science, and unwavering commitment to building user-centric
+applications make me a great addition to your team.
+
+In my current role at IT America, I've shown a knack for leveraging Java, J2EE, and Spring to
+craft user-friendly web applications. I've also demonstrated my ability to drastically improve
+existing apps by identifying bugs, streamlining code, and adding functionalities
+
+During my career, I've consistently delivered results that exceeded clients’ expectations,
+proven by the following:
+
+© Improving the runtime of an application for IT America’s top client by 65% by
+conducting comprehensive performance testing
+
+* Reducing memory consumption of multiple apps by up to 50% through code
+optimization
+
+Although I specialize in Java, I'm fluent in several programming languages, frameworks, and
+software. As part of a local initiative, I've been using this knowledge to teach coding to teens
+at a community center.
+
+look forward to meeting you to discuss the prospect of joining your software development
+team. You may contact me by phone at xxx xxx-xxxx or via email — your.email@gmail.com
+to arrange an interview.
+
+Thank you for taking the time to consider my application
+
+Sincerely,
+
+[Your Name]

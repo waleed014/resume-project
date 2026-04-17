@@ -1,0 +1,64 @@
+¢ Personal Info
+
+@ 334-465-2150
+
+© luis.z.wozniake@gmail.com
+
+¢ Skills
+Teamwork
+
+eco
+Analytical thinking
+
+eco
+Javascript
+Python
+cRM
+
+eco
+cH
+
+eco
+
+Operating systems software
+
+Database administration
+
+Excellent interpersonal skills
+
+¢ Languages
+German
+
+ee
+Basic (A2)
+
+Luis Wozniak
+
+Passionate IT graduate from the Illinois Institute of Technology with 5 months of experience
+In database administration. Seeking to use proven skills in JavaScript and C++ to meet
+business plans at Acme Inc.
+
+¢ Experience
+
+2019-02 - Entry-Level Database Administrator
+2019-10 JC Mortgage
++ Supported entire system administration for CRM
++ Completed over 80 internal system audits and rolled out 45+ system
+upgrades.
++ Managed three separate data feeds. Implemented quality check that
+eliminated system errors that resulted in 15% in efficiency.
++ Provided input on potential development on 12 projects.
+
+¢ Education
+
+2016 - B.Sc. in Computer Science
+2019 Illinois Institute of Technology, Chicago, IL
++ Pursued my passion for algorithms through four advanced electives in
+mathematical modelling and matrices.
++ Vice President of the Computing Society student organization.
+
+¢ Hobbies and Interests
+
+Run weekend computer classes for senior citizens.
+
+Moderator on GitHub community forum.

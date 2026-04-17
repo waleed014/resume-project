@@ -1,0 +1,91 @@
+VERLEEN INABNIT
+
+DevOps Engineer
+
+PROFILE
+
+verleen.inabnit@gmail.com FJ
+(475) 006-0549 FE
+123 Oak Street, Little Rock, AR 72201 [)
+
+EMPLOYMENT HISTORY
+
+Results-driven DevOps Engineer
+with 2 years of experience
+
+in delivering scalable and
+
+secure IT infrastructure solutions.
+Proficient in implementing
+
+CCD pipelines, cloud-based
+architecture, and containerization.
+‘Adept at identifying inefficiencies,
+collaborating with cross-functional
+teams, and providing innovative
+approaches to optimize
+
+processes. Committed to driving
+business growth through agile
+methodologies and best practices.
+
+© DevOps Engineer at Walmart Inc., AR
+
+May 2023 - Present
+
++ Implemented a new CI/CD pipeline that improved deployment
+frequency by 60% and reduced deployment failures by 45%,
+resulting in faster product releases and higher customer
+satisfaction.
+
++ Streamlined the infrastructure management process by
+automating 80% of manual tasks, leading to a 30% reduction in
+operational costs and a significant increase in team productivity.
+
++ Collaborated with cross-functional teams to successfully migrate
+50+ applications to a new cloud platform, reducing infrastructure
+costs by 40% and improving system performance by 35%.
+
++ Introduced comprehensive monitoring and logging solutions that
+led to a 25% reduction in incident response time, minimizing
+
+downtime and ensuring a seamless experience for Walmart's 300
+million weekly customers,
+© Junior DevOps Engineer at J.B. Hunt Transport Services Inc., AR
+Sep 2021 - Mar 2023
++ Implemented an automated CI/CD pipeline for 3 critical
+applications, resulting in a 40% reduction in deployment time and
+SKILLS. improving release frequency by 2x.
+TT + Optimized infrastructure costs by migrating2 legacy applications to
+
+LINKS
+
+|
+
+Kubernetes containerized solutions using Docker and Kubernetes, leading to a
+30% decrease in operational expenses.
+Jenkins + Enhanced system reliability by designing and implementing
+monitoring solutions using Prometheus and Grafana, reducing
+Terraform downtime by 25% and improving overall application performance
+by 15%.
+Docker + Collaborated with the development team to streamline 4 major
+project workflows, increasing cross-functional communication
+Ansible iency by 35% and accelerating project delivery times by 20%.
+Git
+_—_ EDUCATION
+Prometheus
+Bachelor of Science in Computer Engineering with a focus on
+DevOps at University of Arkansas, Fayetteville, AR
+LANGUAGES Sep 2016 - May 2021,
+Relevant Coursework: Software Engineering, Cloud Computing, Computer
+English Networks, Operating Systems, Database Systems, Cybersecurity, Data
+Structures and Algorithms, Web Development, System Analysis and
+Italian Design, and Agile Development Methods.
+CERTIFICATES
+HOBBIES
+
+AWS Certified DevOps Engineer - Professional
+
+Building and programming Dec 2021
+
+Raspberry Pi projects

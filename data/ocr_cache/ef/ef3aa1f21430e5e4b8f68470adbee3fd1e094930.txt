@@ -1,0 +1,50 @@
+DevOps Engineer
+
+Results-oriented DevOps Engineer with a proven track record of implementing and
+optimizing continuous integration and deployment pipelines, resulting in significant
+reductions in deployment time and increased release frequency. Skilled in automating
+infrastructure provisioning and configuration management, leading to improved
+efficiency and consistency across environments. Adept at implementing and maintaining
+monitoring and alerting systems, enhancing system availability and reducing mean time
+to resolution.
+
+WORK EXPERIENCE
+
+DevOps Engineer 01/2028 - 04/2023
+Aperture Science
+
+* Designed and implemented a continuous integration and deployment pipeline,
+resulting in a 40% reduction in deployment time and a 25% increase in release
+frequency.
+
++ Automated infrastructure provisioning and configuration management using
+Ansible, resulting in a 30% reduction in manual effort and improved consistency
+across environments.
+
++ Implemented and maintained a monitoring and alerting system, reducing mean time
+to resolution by 50% and improving system availability by 20%.
+
+Cloud Infrastructure Manager 09/2022 - 12/2022
+Cognitive Systems
++ Managed and optimized cloud infrastructure on AWS, resulting in a 30% reduction in
+infrastructure costs and improved scalability to handle a 50% increase in user traffic.
+
++ Implemented security measures, including encryption and access controls, resulting
+in zero security breaches and compliance with industry standards.
+
+* Collaborated with cross-functional teams to define and implement DevOps best
+practices, resulting in a 20% improvement in development and deployment efficiency.
+
+DevOps Engineer 07/2022 - 09/2022
+Macrohard
+
++ Implemented a scalable microservices architecture, resulting in a 50% reduction in
+system downtime and improved fault tolerance.
+
++ Implemented continuous integration and continuous delivery (CI/CD) practices,
+reducing software release times by 40% and improving overall software quality.
+
++ Conducted regular system and application performance tuning, resulting in a 30%
+improvement in application response time and user experience.
+
+‘SKILLS & COMPETENCIES

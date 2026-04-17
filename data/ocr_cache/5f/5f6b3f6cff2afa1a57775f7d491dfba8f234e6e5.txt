@@ -1,0 +1,70 @@
+Maren
+
+Arriazola
+Security Engineer
+
+Profile
+
+Employment History
+
+Education
+
+Links
+
+Details
+maren.arriazola@gmail.com
+
+(997) 288-8656
+
+123 Oak Street, Charleston, SC 29401
+
+Security Engineer with 2 years of experience in designing, implementing,
+and maintaining secure IT infrastructure. Proficient in vulnerability
+assessment, risk mitigation, and incident response. Demonstrated ability
+to identify and resolve security issues, develop robust security policies,
+and implement system-wide security improvements. Strong analytical
+and problem-solving skills, with a commitment to staying current on
+industry best practices and emerging security threats.
+
+Security Engineer at Palmetto Security Group, SC
+‘Apr 2023 - Present
+
++ Developed and implemented a comprehensive security infrastructure
+for a major client, resulting in a 45% reduction in security incidents
+and a 35% decrease in response time to potential threats.
+
++ Conducted a thorough risk assessment for over 100 clients, identifying
+critical vulnerabilities and providing actionable recommendations
+that led to a 60% improvement in overall security posture.
+
+* Designed and delivered customized security training programs for
+over 500 employees across various industries, increasing their security
+awareness and reducing the occurrence of human-related security
+breaches by 40%.
+
+Associate Security Engineer at SENTRYSIX Defense Group, SC
+Jul 2021 - Feb 2023
+
++ Successfully implemented a new security protocol for SENTRYSIX
+Defense Group, resulting in a 30% reduction in security incidents
+within the first six months of deployment.
+
++ Conducted comprehensive vulnerability assessments for over 50
+client sites, identifying and addressing critical security gaps that led
+to a 25% improvement in overall system security.
+
++ Played a key role in the development and execution of a cybersecurity
+training program for over 200 employees, significantly increasing
+the company's security posture and reducing the risk of potential
+breaches by 40%.
+
+Bachelor of Science in Cybersecurity at University of South
+Carolina, Columbia, SC
+
+Sep 2017 - May 2021
+
+Relevant Coursework: Network Security, Ethical Hacking, Cryptography,
+Digital Forensics, Cybersecurity Policies and Compliance, Secure Software
+Development, and Cyber Incident Response.
+
+linkedin.com/in/marenarriazola

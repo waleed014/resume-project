@@ -1,0 +1,56 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+SAP ERP Consultant with expertise on SAP ERP implementation, upgrading and maintenance and looking forward to enhance my skills in the
+
+field of information and implement my past gained experience in the field of information technology.
+
+SKILLS
+
+* SAPECC © CCH
++ SAPCRM + Excellent problem-solving abilities
++ SAPBI * Windows and Linux
+* Oracle
+* MSSQL Server
+« SAP System upgrades
+« SAP System backups
+
+Work History
+
+SAP Basis Consultant, 10/2010 - 06/2015,
+Accenture Contractor Jobs — Wichita, KS
+
+Implemented new server standards for core business services Implemented the SAP ECC, SAP Customer Relationship Management
+Module, SAP Business Intelligence Module on AIX operating system and Oracle Database
+
+Proposed technical feasibility solutions for new SAP functional designs and suggested options for performance improvement of SAP
+Servers
+
+Diagnosed and troubleshooting SAP, Oracle, MSSQL Server, AIX, UNIX and Windows processing problems and applied solutions to
+increase company efficiency.
+
+Performed Data replication from one SAP server to another using DB tools and SAP techniques.
+
+1. Worked on ERP landscape design, SAP application installations, performance optimization, upgrades and support. The nature of work
+
+involved client interactions and client management.
+
+Application Engineer, 2010 - 10/2010
+Cummins Bridgeway — Whitestown, IN
+
+Implemented complex Intemet URL cracking mechanism from various websites using regular expressions.
+Involved in writing Marcos in PHP for data extraction and data upload on websites using PHP language.
+Worked on Quality Analysis Tasks — Quality Control and Quality Assurance for new as well as existing clients.
+
+EDUucaTION
+
+‘Master of Science: Information Management, Current
+
+School of Information Studies - Syracuse University, NY
+
+Bachelor of Engineering: Computer Science, 2009
+
+Apeejay College of Engineering, Maharishi Dayanand University - Sohna, Gurgaon, Haryana

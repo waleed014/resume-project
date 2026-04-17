@@ -1,0 +1,80 @@
+EXPERIENCE
+09/2018 — present
+
+11/2012 — 03/2018
+
+EDUCATION
+
+SKILLS
+
+Chong Heidenreich
+
+340 Enoch Glens, Phoenix, AZ ¢ Phone: +1 (555) 112 9639
+
+HYATT-SCHOWALTER Philadelphia, PA
+Senior Devops Engineer
+
+Has a healthy risk taking appetite and shows the courage to fail early and cheap
+
+Is able to visit clinical sites to understand the clinical context in which our products are used
+Experience with FDA regulated medical devices
+
+Experience with testing frameworks like Google Test
+
+Experience with Robotics systems
+
+Experience with previous development application software
+
+Strong experience with scripting languages (Python, Ruby, bash, Powershell)
+
+Strong experience working on GCP and AWS
+
+Experience with SQL Server and NoSQL (MongoDB, HBase, Cassandra) or other similar high-read /
+high-write databases to manage big data class sets of application data preferably Cassandra
+Experience with CI/CD Pipeline tools, Jenkins and Bamboo
+
+CASSIN, HAND AND ROSENBAUM Philadelphia, PA
+Senior Devops Engineer
+
+Knowledge of open source technologies, containerization technologies such as Docker and Kubernetes
+Distributed Monitoring tools and Time Series Datastores (Grafana/InfluxDB, Sensu)
+
+Expertise setting up and supporting log aggregation using Logstash (ELK stack)
+
+Experience working with APM tools (AppDynamics, Instana, Datadog)
+
+Expertise with IaC solutions such as CloudFormation, Terraform
+
+Hands-on experience with cloud architecture and deploying infrastructure in a cloud environment
+Experience using C/C++, Python, Java, or Go
+
+Experience with Linux distributions (CentOS, Ubuntu, and Amazon Linux)
+
+Experience with configuration management (Chef, Puppet, Ansible, and/or Salt)
+
+Solid networking experience (TCP/IP, routing, load balancing, DNS)
+
+Experience with monitoring tools and CI/CD toolchain (Git, Jenkins, Spinnaker)
+
+PRATT INSTITUTE Bachelor's in Computer Science
+
+Experience with Atlassian products like JIRA and Confluence
+
+Global Cloud networking knowledge and experience
+
+Experience with Hashicorp Terraform
+
+Extensive hands-on experience on implementing DevOps at Scale in large enterprises
+Thorough end to end implementation knowledge on DevOps Strategy
+
+Thorough working knowledge on end-to-end DevOps toolchain
+
+Strong exposure to emerging DevOps tools and technologies in the open market/industry
+Extensive hands-on experience of all the phases of Software Development Lifecycle
+
+Strong working knowledge on DevOps best practices and proven patterns
+
+Strong knowledge in Cloud Technologies (mainly AWS, Azure, VMware vRealize Suite, etc)
+Extensive hands-on experience in Agile Project Management
+
+Should be able to mentor/coach teams on DevOps best practices, tools and proven patterns

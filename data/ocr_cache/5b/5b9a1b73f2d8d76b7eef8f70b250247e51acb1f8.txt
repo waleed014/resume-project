@@ -1,0 +1,167 @@
+Jessica CLAIRE
+
+100 Montgomery St 10th Floor # (555) 432-1000 ¢ resumesample@example com
+
+PROFESSIONAL SUMMARY
+
+PROFESSIONAL SUMMARY :
+
+Seven plus years of experience in designing, developing and testing applications using IBM, MuleSoft and Oracle products. 4* years of
+‘experience in application integration using Mule ESB, CloudHub, AnyPoint Studio, AnyPoint Platform.
+
+Good experience in Mavenizing, MuleSoft project and creating builds using Maven build tools for deployment to Cloudub / Mule MMC,
+
+Respond to reported problems and inquiries from retailers, distributors, and business departments
+
+Good experience developing SOAP and Rest based services
+
+Good experience using mule connectors like DB, HTTP, HTTPS, FTP, FILE, SFTP, IMS, Salesforce, SAP et... asa part of integration usage
+
+Good experience in using ActiveMQ, AWS suite for Asynchronous message queuing for guaranteed delivery pattem.
+
+‘Good experience in MuleSoft Expression Language (MEL) to access payload data, properties and variable of Mule Message Flow.
+
+Good experience in XML technologies like XSD, XSLT, XQuery, and Xpath for data transformations in MuleSof
+
+‘Strong experience with Problem determination, Route cause Analysis and Defect resolution.
+
+Good experience in Design and development of Mule ESB projects which are on-premises and hosted cloud using synchronous and
+asynchronous Mule flows.
+
+Good experience creating technical documentation including incoming and outgoing message structure, message flow diagram, provider
+service information and test cases
+
+Good experience working in Agile based team environment,
+
+Excellent communication, interpersonal and analytical skills.
+
+SKILLS
+
+Skills:- -WTX,HL7 JSON, IIB XML Spy, SAP, EDUXI2, Open _DataPower, HL7Spy, ITCAM, WMB, SWIFT , DB2, WebSphere MQ,
+pap, Oracle DB, Automation, WSRR, HIPAA, MSQL, Cryptography,
+‘WebSphere MQ, Cryptography
+
+Work History
+
+‘Mulesoft Developer, 02/2019 - Current
+Globe Life Inc. ~ Oklahoma City, OK
+Responsibilities:
+
+Participate in API Design, Implementation and Maintenance phases.
+
+Design RESTful API with Design on AnyPoint platform and AnyPoint studio.
+
+Implement flows and application with AnyPoint studio and leveraged Dataweave to do message mapping,
+
+Create rewsable component such as error handler, domain projects and library.
+
+Used different transformers, exception handling, testing & Security of Mulesoft ESB endpoint through OAuth.
+
+Integrated existing systems with external third-Party Systems.
+
+(Created MULE ESB artifacts, created flows, and configured MULE configuration files and deployed application
+
+Created and consumed SOAP and REST services using CXF,
+
+(Created Flows, Sub Flows, Exception strategy and Dataweave transformation in Mule configuration
+
+‘Used Mule Batch processing to handle large data and sed batch processing capabilities of Dataweave to transform large payloads
+
+‘Worked on Mule flow variables, record variable, various connectors like File, FILE, SFTP, IMAP, HTTP, Oracle database, Salesforce, CXF
+
+Used various Atlassian toolset ike; btbucket, JIRA and confluence.
+
+‘Used Jenkins for CUCD deployment strategy.
+Environment: XSLTXPATH, Anypoint Studio, MuleSof, MMC, XSD, Active MQ, Rabbit MQ, Servlets, JAXP JAXB WSDL Spring MVC,
+SOAP, Nexus, Java, XML.
+
+‘Mulesoft Consultant, 09/2016 - 02/2019
+Deloitte — Glen Mills, PA
+Responsibilities:
+
+Design and develop enterprise services API specification using RAML and REST schema
+
+(Create HTTP inbound & outbound flows and XSLT wansformers and Security of Mule endpoint.
+
+Build Deploy and Test applications or flows using Mule ESB and build and deployed the services,
+
+Design and develop enterprise services API specification using RAML and REST schema.
+
+(Create HTTP inbound & outbound lows and XSLT transformers and Security of Mule endpoint.
+
+Build Deploy and Test applications or flows using Mule ESB and build and deployed the services.
+
+Design and Develop Restfl APIs using API Designer and generated flows using RAML file.
+
+Participate in analysis, design, development and implementation life cycles of project.
+
+Promote code from development to testing and production environments
+
+‘Work with Business Analyst to understand integration requirements
+
+Participate in business meetings to gather requirements
+
+Participate in diferent phases of Testing with end systems.
+
+Create Test plans, Test Suit and Test Cases.
+
+CCreate complex queries with joins, sub-queries, and nested queries in SQL queries.
+
+Support development, test and the production databases
+
+(Create Flows, Sub Flows, and DataMapper transformations in Mule configuration.
+
+Implement data transformation using DataWeave and MEL.
+
+Deploy and scheduled mule project on cloud hub.
+
+Implement and consume both SOAP and Restful web services.
+
+Participate in trouble shooting and problem solving ofthe Integrations.
+
+(Create High level, detailed design, topology and testing documents,
+
+Participate in 24X7 production support.
+
+(Create Exception Handling for the ease of debugging and displaying the error messages in the application.
+Environment: MuleSoft, MMC, Anypoint Studio, Active MQ, Servets, ISON, IMS, Cloud#fub, Gittiub, XML, XSD.XSLT, XPATH, WSDL,
+SOAP, Spring MVC.
+
+ava Developer, 04/2014 - 08/2016
+‘Chenega Mios ~Lawrence, KS.
+Responsibilities
+
+‘Spring 1OC for dependency injection and Spring AOP for cross cutting concerns lke logeing, security, transaction management
+
+Designed web portals using HTML & used Java script, AJAX.
+
+Used RAD for developing and debugging the application
+
+Implemented test cases with JUnit.
+
+‘Used XML for data exchange and developed Web Services
+
+Integrated Spring JDBC for the persistence layer
+
+Developed DAO Classes and written SQL for accessing Data from the database
+
+Involved in Bug Fixing application
+
+(Coordinated with QA team and participated in testing
+
+(Created SQL scripts to load the custom data into Used
+
+Uilized Rational Clear Case asa version control system and for code management.
+
+Implemented Ant and Maven build tools to build jar and war files and deployed war files to target servers.
+
+Involved in requirements gathering and analysis from existing system. Captured requirements using Use Cases and Sequence Diagrams.
+Deployment of application into JBOSS Application Serve.
+Environment: MuleSoft, MMC, Anypoint Studio, Active MQ, Servlets, SON, JMS, CloudHub, GitHub, XML, XSD, XSLT, XPATH, WSDL,
+SOAP, Spring MVC.
+
+Epucation
+
+Bachelor's in Computer Sciences
+License:
+Centfied MuleSoft Developer

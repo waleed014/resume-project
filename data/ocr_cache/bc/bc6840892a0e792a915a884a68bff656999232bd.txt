@@ -1,0 +1,131 @@
+Peter Connolly
+
+QA Software Tester
+
+@ johndoe.qa@example.com
+
+© Oxford, UK
+
+SUMMARY
+
+Experienced QA Lead with expertise in testing web
+applications, automated testing, and building and coaching
+strong QA/testing teams. Skilled in defining and implementing
+QA and testing strategies, developing and maintaining
+automated tests in Selenium and/or Cypress, and testing
+web-based applications across the full-stack.
+
+EXPERIENCE
+QA Lead
+
+Innovative Medical Technology Firm
+
+(8 Date period Oxford, UK
+
+Built and implemented automation testing strategy for Software as
+Medical Device solution resulting in a 50% reduction in testing time.
+Defined test plans and processes for the business.
+
+swed all test scripts and architecture and led automation
+
++ Selected and implemented appropriate automation tools and
+designed and maintained automation frameworks.
+
++ Coached and managed a strong @A/testing team to support
+business growth and projects.
+
+Automated Tester
+
+Tech Company
+
+fH Date period @ London, UK
+
+Developed and maintained automated tests in Selenium resulting in
+
+60% reduction in testing time.
+
++ Created and executed automated test scripts for web applications.
+
++ Identified and reported defects and tracked them to closure.
+
++ Collaborated with cross-functional teams to ensure high-quality
+software delivery.
+
+QA Engineer
+
+Software Company
+
+8 Dote period Birmingham, UK
+
+Performed manual and automated testing for web applications resulting
+
+in a 30% reduction in testing time.
+
++ Developed and executed manual and automated test cases.
+
++ Reported defects and tracked them to closure.
+
++ Worked closely with development team to ensure high-quality
+software delivery.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+
+University of Warwick
+Date period @ Coventry, UK
+
+‘www.enhancv.com
+
+STRENGTHS
+
+"V2 Test Automation
+
+Designed and implemented automated
+test scripts resulting in 30% reduction in
+testing time
+
+® Problem Solving
+
+Identified and resolved critical issues in a
+timely manner, reducing bug count by
+50% in 3 months
+
+® Team Collaboration
+
+Collaborated with cross-functional teams
+to ensure effective communication and
+timely delivery of projects
+
+SKILLS
+
+Automated Testing
+
+Web Application Testing
+Test Planning —_Test Scripting
+Agile Methodology
+
+Cloud Computing
+
+ACHIEVEMENTS
+
+Wf Project Delivery
+
+Successfully delivered a complex project
+with zero critical defects and within the
+timeline
+
+F Process Improvement
+
+Introduced a new testing process
+resulting in a 25% reduction in defect
+leakage
+
+AWARDS
+
+fy Outstanding Performance Award
+
+Recognized for exceptional contribution
+to the testing team
+
+Poweredty XP Enhancu

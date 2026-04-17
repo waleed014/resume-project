@@ -1,0 +1,56 @@
+John Smith
+john.smith@gmail.com jonsmith.com github.com/josmth
+Skills
+
+Languages: SQL, Python, Java, PowerShell, JavaScript, Visual Basic, MATLAB
+Data: Alteryx, DBT, MySQL, MSSQL, Tableau, SSRS, Power BI
+
+Experience
+
+ETL Developer, Company A— Remote Mar 2022 — Present
+
+e@ Supported senior DBAs with on-site server migration by bulk scripting front-end reporting, back-end
+connection files, and reviewing security models
+
+e Refactored >30 SQL stored procedures by optimizing queries, adding relevant documentation, and correcting
+business logic to reflect new manufacturing processes
+
+e Consolidated data pipelines to optimize, reduce redundant server traffic, increase maintainability, and
+improve SQL Server job run-time
+
+e@ Supported internal ticketing system by committing business logic changes to existing data pipelines,
+communicating with customers, and maintaining internal configuration tables
+
+e Reduced error-prone config managing process and reduced manual attention needed by ~15 hours/week by
+automating 90% of config table alignment with external and customer data
+
+@ Maintained data pipelines that transfer >1MM records, at <10 minute cadence to support tactical and
+strategic operational and business decisions
+
+Data Analysis Engineer, Company B — City, ST June 2021 — Feb 2022
+
+e Automated 100+ hours/week of business processes using Python, Visual Basic scripts, SQL, and Alteryx
+
+e@ Implemented operations improvement tool with data mining script to generate daily KPI reports for plant
+superintendents used to debrief during shift changes
+
+e@ Produced the site’s first machine learning model in Alteryx to predict quality based on operating conditions to
+prevent a loss profit opportunity of $40M/day
+
+e Built Tableau dashboards to make advanced process control footprint, missed target KPls, and plant
+feed-stock as a data-driven basis to develop continuous organizational improvements
+
+Process Engineer, Company C — City, ST Aug 2019 — May 2021
+
+e Established a processing project that upgraded low-value plant feedstock resulting in a SSMM/Year profit
+
+e Eliminated 50+ hours/year of manual data entry and analysis by automating the long-range planning (LRP)
+process by integrating VBA into existing business processes
+
+e Investigated viability of projects by designing process studies and collecting and analyzing plant data to
+establish a strong business case for investment
+
+Education
+
+State B University — Coursework in Computer Science Feb 2022
+State A University — Bachelor of Science in Chemical Engineering May 2019

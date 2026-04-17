@@ -1,0 +1,54 @@
+Web Designer Resume
+
+Veenit Patel
+
+102, Jayvir Society -1
+PHOTO | Panchvati area,
+Mehsana , Gujarat, India
+
+Experience
+
+# 01 - Orbit Infotech as Website Designer
+
+Performed Database Design & Management on MS SQL Server, coding in T-SQL.
+Developed dynamic web application content utilizing JavaScript.
+
+Utilized JavaScript with XML (AJAX) to allow web applications to send data
+without disrupting page functionality.
+
+Utilized MS SQL Server Management Studio GUI tool to manage and
+administrate MS SQL.
+
+Utilized MS SQL Server Management Studio to analyze SQL Queries & perform
+Data Modeling within SQL Server.
+
+Developed jQ Touch for mobile applications; a mobile application version of
+jQuery.
+
+Maintained and improved performance and security of the existing applications
+utilizing JavaScript for programming.
+
+Utilized Numara Track-It! 10.5 for bug tracking within new software applications.
+Scripted in C+/C++ and JavaScript.
+
+Scripted in multiple languages due to the variety of web applications necessary;
+ASP.NET, XML, PHP and HTML.
+
+Utilized Numara Track-It! to provide mobile application help desk access.
+Developed and maintained development for Visual Basic 6 on legacy Windows
+XP, Windows Vista and Windows 2003 using Visual Studio 6.0 platforms.
+Utilized VSS 2005 for VB.NET source control.
+
+Education
+
+Attended Gujarat University, Gujarat.
+
+Attended numerous classes at Digital Equipment Corporation training facilities in the
+use, operation, administration, and programming of the VMS operating system.
+Attended advanced classes in the use of the Microsoft products Access and Word.
+
+Skill
+
+Website Designing
+Php Page Designing
+HTML5 + CSS + Java Designing

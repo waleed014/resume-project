@@ -1,0 +1,139 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+EDUCATION
+
+‘Michigan State University: Lyman
+Briggs College
+East Lansing, MI + 05/2012
+
+Bachelor of Science: Medical
+Technology
+
+‘Michigan State University:
+College of Natural Sciences
+East Lansing, MI + 05/2012
+
+Bachelor of Science: Clinical
+Laboratory Science
+
+PROFESSIONAL SUMMARY
+
+Hardworking Laboratory/Business Information Analyst with 10+ years of experience to drive team
+success through dedication, attention to detail, and excellent organizational skills. Clear
+understanding of Informatics and Clinical Laboratory Systems. Motivated to learn, grow and excel in
+Information Systems lifecycle.
+
+WORK HISTORY
+
+Yale-New Haven Health - IT Integration Testing Analyst
+East lyme, CT + 01/2019 - Current
+Avero Genetics Laboratory Build
+
++ Completed manual order choice build in multiple systems (both proprietary and 3rd party - Avero
+Copia, Progenity Copia, Orchard Harvest, Progenity Report Writer, and Cognito)
+
++ Built, reviewed, and tested Order Choices in ordering systems for Accessioning Team requirements
+for 200+ items.
+
++ Built, reviewed, and tested Order Choices in reporting systems for Director requirements 200+
+items.
+
++ Reviewed build, updated verbiage and formatting, and ran meeting sessions to approve and update
+Build Reports in proprietary report system for 200+ items.
+
++ Tested integration for new builds with Billing Teams and External/Send-Out Laboratories.
+
+Order Choice Builds
+
++ Gathered requirements from Accessioning Team, Marketing, Directors, and Billing for new Order
+Choice builds - including functionality with external performing Laboratories (Monogenetic Disease
+test offering, Riscover Hereditary Cancer test offering, Igenomix Preimplantation genetic
+diagnosis test offering, Baylor Exon test offering).
+
+Henry Ford Hospital Main Campus - Laboratory Systems Analyst
+City, STATE » 12/2016 - 01/2019
+Henry Ford Automation Line Support
+
++ Supported /added order choices to instruments on Beckman-Coulter Automation line, including
+Hematology and Chemistry-focused instruments.
+
++ Provided troubleshooting of errors through Line, including missing scans, missing testing, and
+result uploads.
+
+Satellite Medical Centers Set-up and Support
+
+Henry Ford allegiance
+
++ Supported set-up and conversion of Allegiance Hospital to Henry Ford standards, including on-site
+support during launch week,
+
++ Supported build-out of order choices and instrumentation interfaces (6 instruments in multiple
+disciplines - Blood Bank, Chemistry, Hematology) in Sunquest Information Systems.
+
++ Supported set-up and troubleshooting of on-site and remote label printers/requisitions, orders,
+and results.
+
+Henry Ford Waterford
+
++ Gathered requirements and supplies necessary for conversion to Henry Ford standards.
+
++ Set-up the interface, connection and instrument test string for site's Point-Of-Care instruments.
+
++ Trained and supported Nursing Staff on Point-Of-Care instruments operation and troubleshooting.
+
++ Provided set-up and troubleshooting of Henry Ford standard label printer installations (assigned IP
+addresses, set-up label standards on the label server, set-up and prepared Lantronix boxes for label
+communication).
+
+Henry Ford Milford
+
++ Provided set-up and trouble-shooting of Henry Ford standard label printer installations (assigned IP
+addresses, set-up label standards on the label server, set-up and prepared Lantronix boxes for label
+communication).
+
+Henry Ford Harbortown
+
++ Gathered requirements and supplies necessary for conversion to Henry Ford standards.
+
++ Set-up the interface, connection and instrument test string for site's Point-Of-Care instruments.
+
++ Trained and supported Nursing Staff on Point-Of-Care instruments for operation and
+troubleshooting
+
++ Provided set-up and troubleshooting of Henry Ford standard label printer installations (assigned IP
+addresses, set-up label standards on the label server, set-up and prepared Lantronix boxes for label
+communication).
+
+Henry Ford Hospital Main Campus - Blood Bank Technologist
+City, STATE « 01/2013 - 12/2018
+NEO Instrumentation
+
++ Performed blood type and antibody screen testing utilizing NEO solid-phase instrumentation and
+‘SunQuest system.
+
++ Performed batch antigen screening for in-house red blood cell stock utilizing NEO solid-phase
+instrumentation.
+
++ Troubleshoot NEO instrumentation for ease of sample testing, including missing orders, results,
+and general instrument errors.
+
++ Managed lower-level IT issues, including monitoring/aiding repair of Blood Bank computers.
+
++ Troubleshoot EPIC blood product and Blood Bank test ordering for nurses and doctors.
+
+Special Projects
+
++ Assisted in off-shift Blood Bank EPIC launch (2013), including monitoring issues, answering floor
+questions /training and co-worker questions.
+
++ Assisted in Blood Bank initiative (2013) to compile Operating Room blood product wastage data for
+analysis and monitoring.

@@ -1,0 +1,136 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Flor # 555) 432-1000 ¢ resumesample example com
+
+PERSONAL SUMMARY
+
+Results-driven and hardworking SAP Solution Architect bringing 16+ years of experience in Solution Design, Service Delivery and Operations
+‘Management. A keen planner, strategist, and implementer with demonstrated success in people management and ensuring effective management
+‘of various resources to meet organization objectives, Committed to managing an effective team through comprehensive monitoring, training and
+‘empowerment. Articulate, self motivated and innovative with the desire to pursue a growth-oriented postion with a progressive and growing
+
+Broad knowledge and working experience in various SAP LOB and SaaS\TaaS solutions and Technologies including S'4, ECC, Ariba
+Fieldplas, SuccessFactors, Business Technology Platform entailing various functions viz, the configuration of business functions, Data
+Creation & Migration, Application Design & Development and Systems Integration, Strong problem-solving & technical skills coupled with
+‘confident decision-making for enabling solutions to lead to high customer satisfaction & low operational costs.
+
+SKILLS
++ SAP S/4 and ECC System Configurations and Enhancements _* Systems Installation, Configuration, and Upgrading
++ Fiori Applications Design and Development + Solution design and reviews
++ SAP Business Technology Platform Administration + Scrum Agile
++ SAP Ariba Procure to Pay + Performance optimization
++ Integration tools - Cloud Integration, Cloud Integration Gateway,» Teamwork / Collaboration with Off Shore Teams
+PUPO + Project Management
++ IDoc, BAPURFC, SOAP, REST + Infrastructure solutions
++ Systems Design Documentation + SAP Systems architecture
++ Functional & Business Requirements
+‘Work History
+
+SAP Director of Development/Senior Solution Architect, 08/2007 - Current
+‘Cognizant Technology Solutions ~ Franklin Lakes, NJ
+
++ Responsible for managing the overall development of the S/4 Greenfield Implementation project including S/4 Core, Fiori, MDG et.
+
++ Working closely with the Technology Leads on the SI and SAP teams on the key design decisions, isue resolutions and ensuring the best
+practices are followed,
+
++ As pat ofthis center, hosting 167 integration services and charge back to Siemens Operating Companies across Americas and Europe.
+
++ Reviewing and mitigating Siemens Cyber Security measures for SAP PI Landscape.
+
++ Developed ingenious solution to provide 24/7 and 100% availabilty of PI platform, making use ofboth Test and Production environments,
+tohandle FedEs/UPS based shipments from warehousesdistribution centers. Resulted in savings of over $35K per year.
+
++ Developed sotution to push warehouse productivity data fiom SAP HANA to MindSphere IOT, providing savings of S24K per year for
+Partner (SI- Southaven Warehouse)
+
++ Consolidated multiple IC installations by migrating them to single PI con Plugin for Corporate EDI Services, that simplified overall
+‘management and reducing support and maintenance costs. Resulted in savings of S6OK per year.
+
++ Currently leading SAP PI Dual-stack to PI JAVA-Stack upgrade and migration project Executed multiple SAP XUPI Upgrade projects.
+
++ Find synergies and implement common process based interfaces which canbe reused by multiple Operating Companies.
+
++ Work closely with clients to establish problem specifications and system designs.
+
++ Develop technical specifications based on functional specifications or Business Cases,
+
++ Collaborate with cross-functional development team members to analyze potential system solutions based on evolving client requirements.
+
++ Lead and mentor OfF Shore team to improve quality of production support and handling of application istues and change requests.
+
++ Co-ordinate with AtoS Data Center team for SAP SP upgrades and serverleystem maintenance activities.
+
+*+ Manage integration project schedules and deliverables for Siemens Operating Companies an provide status updates to management
+
++ Carefully document ll processes involved with each project, ensuring that updates were included as necessary.
+
+‘+ Work closely with ABAP team members to design and develop robust integration solutions to meet client requirements for functionality,
+scalability and performance.
+
++ Proficient with various adapters for exposing back-end services ae SOAP/REST APL
+
++ Well versed with every aspect of development and troubleshooting techniques in SAP like IDOC, BAPI, ICO, ccBPM, et.
+
++ Currently leaming and exploring Azure Logic Apps service to migrate PI ccBPM Integrations
+
++ Experienced in developing Calculation Views in SAP HANA for ETL reporting and managing user authorizations to specific views
+
++ Working knowledge on SAP AIF Add-on
+
++ Support Siemens GP Carve-out project with shared PI Interfaces
+
++ Rapidly prtotyped new data processing capabilites to confirm integration feasibility into existing systems.
+
+SAP ABAP Technical Consultant, 032005 - 03/2008
+(General Motors Atlanta, GA
++ Project SystemONE: Implementation of Spiridon, SAP template for Siemens operating companies, for Siemens Building Technologies.
++ Received kudos for developing BAP to post data fiom BizTalk for creation of Service Maintenance plans and Extimte2Quote Solution.
++ Enhance customer-xits to make company code dependent by implementing custom BADI concept
++ Played key role in designing integration solutions, which are highly reusable, reliable ensuring optimal performance.
++ Responsible for gathering requirements, analyzing systems involved and propose appropriate architecture
++ Worked extensively in configuration of XI with SAP and non-sap systems and extraction of data from different non-sap and SAP systems.
++ Designed ccBPM (Workflow) based interfaces with data quality and control checks and triggering email notifications, in case of data
+issues, to appropriate Level | teams specific to interface and company code.
++ Dealing with IDOCs and multiple company codes, to filter and route data into multiple processes based on company codes.
++ Designing interfaces with lot of flexibility based on Company codes by storing company code specific data in customizing tables.
+(Co-ordinate unit and end-to-end testing activites between various parties involved.
++ Provide day-to-day Level 3 support activities to various XI issues.
+
+SAP Systems Analyst, 04/2001 - 02/2005
+‘Clarkston Consulting - Houston, TX
+
++ Project: Net". Scope was to automate procurement relate processes. Here, purchase orders created in SAP RI3 system are transmitted
+directly to Supplier Portal and suppliers can respond with acknowledgements, sipping notifications and Invoices back to SAP R/3 System.
+‘Complete technical work ftom R/3 side was handled and later implemented in 11 other Siemens SAP systems.
+
++ Developed prototype for SAP NET Connector web-based application using Visual Studio NET and SAP NET connector to retrieve or
+post data to SAP 3 using BAPIs. VS.NET team is developed various services, based on prototype, to post ime entries into SAP System
+directly based of Change Pointers,
+
++ Demonstrated how to use SAP Java Connector to interface with SAP System via standalone application or from web page using servlets.
+‘This was used in G3.Connect project.
+
++ Provide support and technical asistance to various location within Siemens PG, who implemented and adapted e-Net
+
++ Provide supporto all SAP interfaces to CrossWorlds Middleware platform,
+
++ Created SAP ABAP development guidelines
+
++ Delivered in-depth training junior SAP Developers, imparting knowledge of best practices for protecting data and minimizing eros.
+
++ Provided support on system operation and troubleshooting for SIDOC related topics
+
+SAP ABAP Developer, 04/1999 01/2001
+Accenture ~ City, STATE
++ Researched, designed and implemented scalable ABAP applications for PM and CS Module implementation,
++ Designed and developed ABAP UI application to consolidate multiple SAP transactions and serens into one consolidated screen for
+‘Equipment transfers using IBIP, reducing end-user input time considerably.
+
+Epucarion
+
+‘Master of Science: Engineering Management, 6/2007
+‘Missouri University of Science And Technology - Rolla, MO
+
+[Bachelor of Science: Production Engineering, 06!2004
+GBPUAT - College of Technology - India

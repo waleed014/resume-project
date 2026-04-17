@@ -1,0 +1,101 @@
+MICHELLE
+SANDERS
+
+STRENGTHS
+
+g high:
+on time and within budget.
+
+Problem-Solvir
+
+ms, resul
+t quality
+ctio
+
+SKILLS
+
+pring Framewor!
+GIT Version Contr
+CI/CD Environment «
+ment +
+t-Oriented
+
+ful Web
+
+B Le.
+
+et, resulting in increa
+nue for t
+
+loping a Complex
+ftware Solution
+
+1ed and develo}
+x software
+Jay
+efficier
+maintena
+nt
+
+ey CX) Enhancu
+
+Senior Java Developer - Al Products
+
+fakeemailaexamplecom 9 Remote
+
+SUMMARY
+
+Senior Java Developer with excellent experience in Core Java and Spring
+framework. Passionate about automation, strive for excellence, and thrive in a
+technically challenging environment.
+
+EXPERIENCE
+Senior Java Developer 2019 - 2022
+Oxford University Spin-out Oxford
+
+Design and develop software systems utilizing the latest Java technologies.
+
++ Developed scalable and high-performance Java applications resulting in
+improved efficiency.
+
++ Implemented Spring Framework resulting in reduced development time by 20%.
+
++ Worked within a CI/CD environment, automating build and deployment processes
+resulting in improved productivity.
+
+Java Engineer 2017 - 2019
+Software Development Company London
+
+Developed and maintained Java applications and services.
+
++ Reduced application downtime by 40% through implementing error logging and
+monitoring
+
++ Implemented caching techniques resulting in a 30% reduction in database
+queries and improved application performance
+
++ Developed and implemented automated testing, reducing testing time by 50%
+
+Java Developer 2015 - 2017
+Financial Services Company Manchester
+
+Developed and maintained Java applications and services.
+
++ Developed scalable applications using Core Java resulting in increased
+application performance.
+
++ Implemented version control using GIT resulting in improved code management.
+
++ Worked on Agile projects using JIRA resulting in efficient project management.
+
+EDUCATION
+
+Bachelor of Science in Computer 2011 - 2015
+Science
+
+University of Manchester Manchester
+LANGUAGES
+
+Java Native Python
+
+JavaScript Advanced eee

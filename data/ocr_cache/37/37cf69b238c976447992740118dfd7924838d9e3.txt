@@ -1,0 +1,110 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Lincs
+
+« https://wwwlinkedin.com/in/TessicaClaire/
+« hhttps://github.com/s3Claire
+« htips://JessicaClaire.com/
+
+PROFESSIONAL SUMMARY
+
+A.committed and ambitious learner, passionate about helping people through software development. Skilled problem solver with experience
+in a variety of software development technologies. Skilled data scientist capable of problem solving using various data cleaning, data
+analyzing, and data visualization methods. Strong understanding of core programming concepts and familiarity with a wide-range of
+languages and concepts. Driven software developer and data scientist dedicated to continual skillset improvement. Responsible, supportive,
+and sociable team player dedicated to quality and efficiency.
+
+Trcunicat Sxnis
+
++ Programming/Development: Python, C#, R, HTML, CSS,
+Javascript, SQL
+
+« Frameworks: Anaconda, Django, NET Framework, MVC,
+Bootstrap, React
+
+‘* Operating Systems: Windows 10, OS X
+
+* IDE: Visual Studio Code, Visual Studio, Jupyter Notebook,
+Rstudio, PyCharm
+
+Version Control: GitHub, Azure DevOps, Git
+
+Methodology: Agile, Scrum
+
+Databases: MySQL, SQL Server
+
+Business Domains: Physical Health Care, Science Laboratory
+
+PRoGRAMMING EXPERIENCE
+
+11/2020 to 02/2021 Python
+Prosper IT Consulting — City, STATE
+
+‘© Worked with a team of developers creating a website that contained various hobby applications. Utilized the
+Django Framework to connect to the hub website using URLs and admin login. Created models and forms that
+allowed for a Create-A-Player application for an NFL team. Later updated to update the database with additions,
+edits and deletions of players. Link: https://github.com/s3Claire/Python_Live Project
+
+‘© Developed a checkbook application utilizing django framework. Functionality included creating account, edit/
+remove/add transactions, view account details and history, all saved in sqlite3 database.
+
+‘* Created an application in Python and Tkinter that allowed users to update a simple phone book of contacts.
+Functionality included adding, editing, and deleting records
+
+‘ Created an application in Python, using Python Tools for Visual Studio, that copied all files at a given path that had
+been created or modified in the past 24 hours to a remote location. Later modified program to include a GUI that
+allowed users to select source and destination locations and to copy all files created or modified since last copy
+activity.
+
+11/2020 to 02/2021 C#
+Prosper IT Consulting — City, STATE
+
+‘* Member of team of developers creating a website for Theatre Vertigo in Portland, USA. We utilized the NET
+Framework with MVC to create a functioning website for customers to view current shows/events and cast
+members. We created a various levels of logins (Admin, Cast Member, Customer) and provided different levels of
+functionality for each. Link: https://github.com/r3Claire/CSharp_Live Project
+
+* Developed a car insurance software utilizing the NET Framework in C#. The software is set up with pricing values
+for different criteria set up by the potential car insurance company. The software then asks the user questions about
+the person and driving history. A quote is given for the total price for that unique user.
+
+‘* Created a terminal blackjack program using namespaces and classes. The user can face off against the program in a
+game of 21. Later updated to keep track of players pot and bets.
+
+11/2020 to 02/2021 Python Data Science
+Prosper IT Consulting — City, STATE
+‘© Using Python and Jupyter Notebook I utilized the CSV from the Google Play Store to solve questions from
+potential app developer clients. Potential requests were submitted on how one variable affect another. I cleaned,
+manipulated, and analyzed the data based of the users requests. I presented data visualization and submitted reports
+on my findings using the python libraries: Pandas, Numpy, Seaborn, Matplotlib and scipy stats. Link: https://
+github.com/r3Claire/DataScience-Live-Project/tree/main/GooglePlayStore
+
+Epucation
+
+02/2021 Bootcamp: Computer Programming And Data Science
+Tech Academy - Salt Lake City
+The Tech Academy is an immersive Full Stack Software Developer boot camp with more than 1000 hours of instruction
+and hands-on coding. Predominantly the program is based on C# and Python, along with the fundamentals of Computer
+Science, Django, NET Framework, MVC, HTML, CSS, JavaScript, PHP, and T-SQL/SQL, Agile / SCRUM and web
+
+, LINQ to SQL, EF, JavaScript and
+
+application development. Completed numerous practical projects including MV‘
+Python.
+
+‘Also completed the Tech Academy Data Science boot camp which focuses on Python and R. This boot camp covers the
+fundamentals of data science. Data science embraces a wide range of scientific methods, systems and processes to
+extract knowledge and insights from data. Data science includes such topics as: Data cleaning, data analyzing, data
+visualization, statistical analysis, artificial intelligence, machine learning as well as utilized the various libraries
+involved such as: Pandas, Numpy, Seaborn, Jupyter Notebook, Rstudio
+
+12/2019 Bachelor of Science: Biology
+Utah Valley University - Orem, UT
+
+Orser Notasies
+
+# Eagle Scout - Children’s Hospital Blankets
+* Served Mission - Rome, Italy

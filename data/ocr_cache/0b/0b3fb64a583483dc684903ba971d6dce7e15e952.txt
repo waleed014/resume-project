@@ -1,0 +1,47 @@
+Andres Keen
+
+Network Engineer
+akeen@email.com (123) 456-7890 Brooklyn, NY
+
+WORK EXPERIENCE
+
+NewOak - Senior Network Engineer
+
+January 2015 - current Brooklyn, NY
+Streamlined the process of troubleshooting and monitoring LAN/WAN activities, leading to an
+improvement in up-time of 21%
+Charged with building, configuring, installing, managing, and monitoring networking and IP telephony
+infrastructure related hardware and software
+Improved the response time to incoming incident response tickets by 16% through an automated process
+that assigns a ticket to the most qualified network engineer
+Wrote technical documentation for processes and infrastructure, leading to a reduction in on-boarding of
+3 days for newnetwork engineer hires
+Led weekly “Lunch and Learn” sessions to mentor 7 engineers on best practices around switching, routing,
+DNS, and IP addressing
+
+Libro.fm - Network Engineer
+
+April 2012 - January 2015 Miami, FL
+Drove operational efficiency improvements, increasing network efficiency by 13%
+Collaborated with leadership to improve wired and wireless networks to have an uptime of 99.99%
+Reviewed, audited, and on-boarded external vendors into network to manage billions of concurrent
+network requests
+Implemented regular alerting and monitoring of network performance, which reduced network down-time
+by 9% through quicker response times
+Worked with clients to build robust firewalls using FortiManager and FortiGate to enable employees to
+seamlessly work from anywhere while accessing critical resources
+
+EDUCATION
+
+Boston College - Bachelor of Science, Information Science
+September 2008 - April 2012 Boston, MA
+
+SKILLS
+
+TCP/IP Networking; Cisco NEXUS / ISE / Prime (WiFi); FortiManager & FortiGate; Amazon EC2 & Direct
+Connect; Routing protocols - BGP, OSPF, ECMP, MPLS.
+
+CERTIFICATIONS
+
+* Cisco-CCNA
+* Microsoft - MCITP.

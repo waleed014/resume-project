@@ -1,0 +1,88 @@
+EXPERIENCE
+05/2018 — present
+
+07/2011 — 04/2018
+
+EDUCATION
+
+SKILLS
+
+Tawny Kuphal
+
+70464 Dante Branch, Houston, TX ¢ Phone: +1 (555) 711 3745
+
+HETTINGER, LANGOSH AND MARQUARDT Houston, TX
+Senior ETL Developer | Admin
+
+BS/MS in Computer Science or related fields
+
+Strong problem solving, troubleshooting and analytical skills
+
+Strong knowledge of Data Warehousing and Big Data concepts
+
+Good organization, communication and interpersonal skills
+
+Prior experience with Agile process
+
+Good knowledge of Office tools
+
+System analyst with experience in Data Migration or Data Integration - advantage
+
+Experience with information systems (such as ERP) at a super user level - advantage
+
+Experience in analyzing and implementing interfaces between system - advantage
+
+Experience with developing data interchange interfaces for real time, event-driven, and batch mode
+operations (Preferred)
+
+Experience with Oracle, Redshift, and Aurora for design, build, and performance tuning in Data
+Warehouse environments (Preferred)
+
+COLLIER-GLEICHNER Houston, TX
+Mid-senior ETL Developer
+
+.
+
+Previous experience in managing competitive delivery pipeline for development projects
+Experience in working with extraction from Web APIs / Web scrapping / Json
+Experience with continuous integration/delivery for Talend jobs
+
+Presentation skills to describe data flows to senior stakeholders with or without technical background
+SSIS experience
+
+DevOps experience moving Solutions from one environment to the other
+
+Experience with design patterns
+
+SQL (Either SQL SERVER T-SQL or Oracle PL/SQL)
+
+A Sense of Ownership and Pride in work
+
+Dynamics 365
+
+-NET Core, C#
+
+Angular, Microservices
+
+SAVANNAH COLLEGE OF ART AND DESIGN Bachelor's in Computer Science
+
+Asp
+
+Good understanding of software performance optimization and metrics
+Visual Studio TFS / GIT / Code Branching
+
+Exposure to AWS
+
+Exposure to KAFKA, MARIA DB
+
+Data modelling & implementation Experience
+
+Inquisitive and able to assist in problem-solving and/or root cause identification
+Familiar with complex system integration in an enterprise architecture
+Exposure to Finance Reporting hierarchies and accounting principles
+Extremely strong numeric and analytical skills
+
+Experience of Barclays systems, data, products and processes
+Experience in BI tools , data modelling
+
+Expertise in Reporting tools like Qlikview, Actuate

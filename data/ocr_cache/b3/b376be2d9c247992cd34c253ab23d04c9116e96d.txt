@@ -1,0 +1,124 @@
+Dd
+info@resumekraft.com
+
+Skills
+
+SAP Fiori/UIS
+
+Sap Portal Services
+
+OData
+
+JavaScript
+
+|
+
+IAT
+
+XSODATA
+
+HTML
+
+SAP Fiori Theme Designer
+
+Native 1OS/Android Sapui5
+Apps
+
+m
+Qa
+¢
+a
+o
+=
+fe}
+|
+
+Bachelor's degree in
+Computer Science
+Engineering,
+University of Illinois at
+Chicago
+
+May 2012 - May 2016
+
+Senior Secondary
+Red Rose Model High
+School
+
+Mar 2011 - Mar 2012
+
+Languages
+
+English eee0e0
+French eeeeo
+German @eeeecd
+
+Lisa Jennifer
+
+SAP FIORI/UIS CONSULTANT
+
+Oo 9 in
+
++1-202-555-0114 Charlotte, North Carolina —_https://www.linkedin.com/in/lisa
+
+Summary
+
+To work in globally competitive environment on challenging assignments
+that shall yield the twin benefits of job satisfaction and a steady-pace
+professional growth.
+
+Experience
+
+SAP Fiori Consultant
+More & Win Infotech PVT Ju/ 2076 - Jan 2019
+
+SAP Fiori Consultant
+Amco Infotech Jan 2019 - Present
+
+Projects
+
+Project : Custom Fiori Client
+
+Deputy Manager(Front-End Developer) Oct 2019- Nov 2019
+Fiori client is an SAP provided client that is used to show our FIORI
+Launchpad on mobile. The client wanted a custom client for Vodafone
+which will be authenticated using SMP and ADFS.
+
+* To create a custom fiori client.
+© To be able to login using ADFS credentials.
+© To be able to save credentials in the app as all android app does.
+
+Notable Achievements
+
+*® Created custom fiori client with the help of the client code provided by
+SAP.
+
+© | have solved one of the biggest issue to save the credential on the 1 st
+time some one logs into the app securely.
+
+Extension Project : MY INBOX
+
+Deputy Manger(Front-End Developer). Mar 2019 - Apr 2019
+
+Project Thesis: Description Client wanted My Inbox to be extended as per
+their requirement.
+
+© Asa front-end developer, perform requirement analysis and designed
+the
+
+© application mobile-friendly.
+
+e SAP cloud platform was used to extend the standard Fiori My Inbox
+app.
+
+Notable Achievements
+
+@ Extended My Inbox as per the requirement.
+
+® Created S4 view in order to show details as navigated from the S3 view.
+
+© Dynamically created the S3 view as per the Data coming from oData
+from BE.
+
+Project: Shopping Cart Application for Purchase Requisition
+SAPUI5 Developer Jun 2017- Sep 2018

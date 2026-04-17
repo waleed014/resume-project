@@ -1,0 +1,164 @@
+PROFESSIONAL
+‘SUMMARY
+
+TECHNICAL SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 2 (685) 432-1000 4 resumesample@example.com
+
+Resourceful Front-End Web Developer bringing in-depth knowledge of latest technology trends to produce
+clean website design. Experience handling complex HTML and CSS coding, design and extensions to meet
+organization's front-facing internet needs. Hands-on testing and debugging to address inconsistencies and
+
+maintain performance thresholds
+
++ Web Frameworks: HTML5,CSS3, Angular 8+, + Database/ORM: MySQL
+Angular JS, Express JS ‘+ Web Debug Tools: Mozilla Firebug (Debugger),
++ Scripts/ UI Libraries: TypeScript, JavaScript, Chrome developer tools.
+‘OONS, jQuery, AJAX, Bootstrap, Node JS,
+Underscore JS
+
+SENIOR UI DEVELOPER 06/2022 to CURRENT
+Digital Turbine | Remote, OR
+
++ Leveraging technology expertise to bring ideas to life by creating experiences for digital devices
+
++ leading technology-specific work streams or tasks, including presenting and collaborating within client
+or internal projects.
+
+* Conducting technology assessments and provide recommendations to client project teams. Work with
+‘an engagement team to manage client and project expectations and schedules.
+
+‘+ Partnering with muttidisciptinary teams to define business strategies, user needs and optimal solutions.
+Building and testing user interfaces to specifications along with implementing designs with other
+developers and technology organizations
+
+FRONTEND WEB DEVELOPER 01/2018 to 06/2022
+Packaging Corporation Of America | Pacific, WA
+
+Fi
+
++ Developed and maintained front-end code for various capability landing and detail pages of Insight
+Platform application using technologies such as HTML, CSS/Sass, JavaScript, TypeScript, Angular JS
+and Angular 8+,
+
+‘+ Integrated and leveraged Equipment information using UI grid and developed various modules of
+Equipment selection using Angularis.
+
+‘+ Implemented Virtual scroliing using ngx-virtual-scrolier to optimize performance when scrolling over
+infinite equipment lists.
+
+‘+ Created various lazy-loaded feature modules in Notification Settings page to load modules on-demand
+‘and deter initialization until needed.
+
+‘+ Used HttpClient with Angular interceptors to ensure requests are valid and used router for nested
+views.
+
++ Implemented RXJS observables in accessing RESTful web services in JSON and used NgRx Store for
+tracking application state,
+
++ Used Apache Velocity template engine to develop dynamic templates that function accurately across
+various email clients to alert Insight users on engine status/shutdown and alarms,
+
+‘+ Used HighchartsJs library as an interactive visualization of turbine information on Front end.
+
++ Developed various angular Ul components and Data visualization as a part of our internal pattern
+library (Involve), which is used across multiple teams to achieve standardized code throughout the
+application.
+
+‘+ Worked on creating mono-repo pattern project containing multiple apps and tbs with NX tooling
+framework to improve code reusabilly, visibility and ensure consistent version of dependencies.
+
+‘+ Wrote unit test cases for components, directives, pipes and services using Jasmine and Karma. Used
+in-built unit testing framework JEST to write test cases in mono-repo applications,
+
+‘+ Used Webpack as build tool and enabled AOT compilation for production builds and also worked on
+Uglfcation, Dead code elimination, Vendor fle chunk size reduction,
+
+‘+ Used Node JS tools such as Grunt for Minification and NPM for dependency and version Management,
+
++ Worked in Agile-driven environment to effectively maintain project timelines and utilize available
+resources using Azure DevOps.
+
+‘+ Worked with QA team on daily basis in fixing the reported bugs/defects and supporting bi-monthly
+releases.
+
+ORESOURCE DEVELOPER 08/2017 to 01/2018
+
+Arena Stage | Washington, DC
+
+‘+ Developed front end for Cart and checkout, Product certificates Microservices in FisherSci and
+‘Thermofisher application using HTML, CSS, JavaScript, AngularJS, Node JS and Express.
+
+‘+ Used Handlebar JS templating engine for rendering Views on Client side for FisherSci Web Application
+along with Express JS for development of RESTful web services and middleware configurations
+(handling request-response cycle).
+
++ Used AngularJs framework to bind views to models and Designed classes in ECMA Script 6 and
+explored on the gulp build process for Thermofisher application.
+
+‘+ Involved in developing front end for Cart and checkout feature and built a basic cart Microservice and
+leveraged the angular framework with cart Ul
+
+‘+ Involved in deploying the UI Application on Kubernetes cloud cluster along with Jenkins for Continuous
+Integration (Cl) of the project.
+
+‘= Involved in writing the unit test cases for angular components using Karma and Protractor.
+
+‘+ Used GIT as version control system for code check-in, check-out merging and branching from STASH
+repository.
+
++ Involved in using Npm (Node Package Manager) for dependency and version management of NodeJS
+packages for the application,
+
+‘+ Involved in solving Cross Browser Compatibilty issues. Developed the Application in an Agile
+Environment which involved daily scrums, sprints, monitoring user stories using JIRA.
+
+‘+ Involved in delivering ditferent versions of e-commerce application on monthly basis.
+
+PROGRAMMER ANALYST 04/2017 to 08/2017
+
+cl
+
+leveland State University | City, STATE
+
+‘+ Implemented front-end of the application using HTML, XHTML, CSS, JavaScript, AngularJS, AJAX,
+JSON
+
+‘+ Developed Single Page Application using AngularJS framework and produced client-side validation,
+
++ Developed a comprehensive search tool that allows us to quickly search for items such as database
+‘objects or strings across all team code sets
+
+‘+ Assisted the QA team with system/regression testing efforts as needed.
+
+‘+ Work with other developers to maintain consistency and continuously improve development processes
+and standards
+
+‘+ Identified causes of issues within applications and determined which modifications needed to be made.
+
++ Authored code fixes and enhancements for inclusion in future code releases and patches.
+
+TEM ADMINISTRATOR 06/2015 to 12/2016
+
+‘Company Name | City, State
+
+‘+ Assist students regarding software applications, installing required software, re-imaging the systems if
+required, dealing with Linux systems,
+
++ InCharge of monitoring system performance and network communication, Password and identity
+management, creating file systems
+
+Master of Science | Electrical & Computer Engineering 2016
+
+a
+
+leveland State University, Cleveland, OH
+
+Electronics & Communication Engineering 2014
+NTU, India

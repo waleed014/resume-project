@@ -1,0 +1,51 @@
+Ethan Martinez
+
+ethan@martinez.com - (233) 656-4158 - linkedin.com/in/ethan-martinez -
+@ethan.martinez - github.com/ethanmartinez
+
+Full Stack Developer
+
+Aseasoned Full Stack Developer with 6 years of experience driving performance, reliability
+and scalability of customer-facing web applications. Effectively led full stack development
+resulting in 25% faster loading times and improved user experience. Deployed applications
+to multiple cloud-based production environments, set up and maintained a relational
+database system, integrated third-party services and created web-based CMSs resulting in
+quicker information and feature updates.
+
+WORK EXPERIENCE
+
+Full Stack Developer 07/2021 - Present
+Jupiter Enterprises
+
++ Led full stack development for a customer-facing web application, resulting in 25% faster
+loading times and an improved user experience
+
++ Optimized application performance by identifying and refactoring inefficient code,
+resulting in a 20% increase in speed
+
+* Deployed applications on multiple cloud-based production environments and
+maintained staging environments for testing, leading to smoother releases
+
+Web Applications Developer 03/2019 - 07/2021
+Lunar Labs
+
+* Integrated a wide range of third-party services and components like payment gateways,
+geo-location services, and social media logins
+
+* Created web-based CMSs to enable simplified content management, resulting in quicker
+updates to site information and features
+
++ Monitored system health, debugged performance issues, and optimized applications using
+both server-side and client-side techniques
+
+Junior Fullstack Developer 02/2017 - 03/2019
+Phoenix Venture Partners
+
+* Integrated a wide range of third-party services and components like payment gateways,
+geo-location services, and social media logins
+
+* Created web-based CMSs to enable simplified content management, resulting in quicker
+updates to site information and features
+
++ Monitored system health, debugged performance issues, and optimized applications using
+both server-side and client-side techniques

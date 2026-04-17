@@ -1,0 +1,138 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (355) 432-1000 © resumesamplesexample.com
+
+Summary
+MALLIKARJUN REDDY Overall 7+ years of experience in the IT industry as a Developer with Hands-on Desktop automation tools.
+in Robotic Process Automation UI Path. Experience in a fast-paced Agile/Safe Development Environment including Test Driven
+Development (TDD) and Scrum. Strong knowledge and experience in Net, SQL Server, Jessica, and Design patterns with proven
+abilities in the Software Development Life Cycle (SDLC). Worked closely with the solution architect to prepare Process Design
+Document (PDD) and Solution Design Document (SDD) and educated SMEs to work with BOTS in production. Experience in
+analyzing business needs, gathering requirements, planning, organizing, documenting, and testing software applications. Determine
+operational objectives by studying business functions that are gathered from various cross-functional teams, gathering background,
+{information from the domain level, identifying the stakeholders such as owners, suppliers, and regulators, and evaluating the output
+requirements and formats. Involved in Feasibility Analysis for gathering resources from SMEs and business users/owners, checking
+out for elements that can create Automation, understanding the logic, and verifying the elements that might need further testing.
+Assist business team and Project Manager in the construction of business cases and opportunity identi cation efforts to support the
+further adoption of Jessica solutions throughout Verizon supply chain operations, Performed the Functional Unit Testing (FUT) using
+UI Path development environment, based on Process Design Document (PDD) & Solution Design Document (SDD) before the code
+moved to User Acceptance Testing (UAT). Experienced with various MS Of ce suites like MS Word, MS Excel, MS PowerPoint, and
+MS Visio. Pro cient in developing Use Case Diagrams, Flowcharts Behavior Diagrams (sequence diagrams and activity diagrams)
+based on MS Visio. Experienced in using Claire Studio, Orchestrator, Screen, Data & Web scraping techniques. Good communication,
+interpersonal, and quick learning skills with a proven ability to adapt to different project environments.
+
+Skills
++ Claire, Net, SQL Server, JIRA, GIT, Agile scrum, HTML, CSS, + Core Java, SQL,SOSL/SOQL, Data Driven, GIT, Selenium, GIT,
+
+jQuery, Visual Studio. Rest Assured, Salesforce.com, Cucumber, Gherkin.
++ SKILLS:
+
+Experience
+
+Jessica Claire Developer, 12/2018 to Current
+
+Applylogic Consulting Group, Lle— Arlington, VA
+‘+ Worked with Business Team to create PDD (Process De nition Document) and developed separate SDD (Solution Design
+
+Documents)
+
+Implemented End to End Robotic Process Automation (Jessica) using UIPath
+
++ Designed, Developed, and Tested BOT tasks using Jessica Claire
+
++ Implemented Claire automation elements such as Mouse, Keyboard, and Attribute to automate the desktop sequence activities
+
++ Developed Screen Scraping method to extract text from running window applications by appropriate output methods such as
+native, Full text, and OCR
+
++ Jenkins
+
++A
+
++ Project Management
+
++ Created Process model for windows based applications using Claire and tested it in the inbuilt controller provided by Claire
+Studio
+
++ SQL Databases Net
+
++ Implemented Web Recorder for automating logging and inserting data actions into browser applications using different Input
+
+‘methods such as Send window messages and Simulate
+
+‘+ Con guring new processes and activities using core work ow principles that are ef cient, well-structured, and manageable
+
+‘+ Implemented Data Scraping method for extracting structured data from browser applications or documents into a CSV le or
+Excel Spreadsheet
+
+«+ Interacted with different mail services such as OUTLOOK and Exchange Activity to get the mail messages into a folder
+
+« Interacted with the different send services of mail to send automatic emails and audit logs regarding task completion
+
+Participated with test teams during the Product test and UAT phases to x assigned bugs
+
+‘+ Design and leverage continuous integration / continuous delivery (CD/CD) pipelines for a build, testing, and deployment
+
+automation.
+
+Jessica Claire Developer, 02/2019 to 07/2020
+Applylogic Consulting Group, Lle- Columbia, SC
+
++ Worked with SMEs to create PDD (Process De nition Document) and developed separate SDD (Solution Design Documents)
+
++ Implemented End to End Robotic Process Automation (Jessica) using Claire
+
++ Used Claire automation elements such as Mouse, Keyboard and Attribute to automate the desktop sequence activities
+
++ Implemented selectors for interacting with Windows and web browsers for continuous navigation of applications
+
++ Developed Screen Scraping method to extract text from running window applications by appropriate output methods such as
+native, Full text, and OCR
+
++ Implemented Web Recorder for automating logging and inserting data actions into browser applications
+
++ Developed Data Scraping method for extracting structured data from browser applications or documents into a CSV le or Excel
+Spreadsheet
+
++ Implemented image activities with wait conditions to ensure the proper website or application loading, to perform certain
+actions in a loop
+
++ Interacted with different mail services such as POPS, OUTLOOK, and IMAP to get mail messages into a folder
+
++ Interacted with the different send services of mail to send automatic emails and audit logs regarding task completion
+
++ Handled exceptions using the Try-Catch activity
+
++ Image-based and Text automation are used in Virtual Environments, for interacting with the application.
+
++ Handled the Execution of projects in Claire Robot
+
++ Deployed the process in Claire Orchestrator and scheduled their execution
+
++ Used Queues to collect information from the orchestrator to perform additional tasks
+
++ Con gured the Bots and deploying processes and scheduled the jobs in Claire Orchestrator
+
++ Participated with test teams during the Production test and UAT phases tox assigned bugs
+
++ ULPath 2018.40), VB.Net, SQL Server
+
+QA Tester/ SalesForce QA, 07/2015 to 06/2018
+IBM - City, STATE
+‘+ Asa Automation QA, Iwas involved in developing test methodologies, test strategy, test plans, design and developed the
+manual tests for multiple modules
+‘+ Developed and maintained automated regression test cases in Selenium Webdriver using core JAVA
++ Developed scripts queries on Salesforce CRM tools work ow to test the repeatable process to eliminate inef ciencies and enhance
+productivity
+«* Responsible for all the activities related to system con guring Data loader, uploading data in les into salesforce.com and
+monitoring correctness of data and worked with exact target automation
+‘+ Entire application was developed in Agile /Scrum Methodology using TDD and DDT
+‘+ Developed Backend Automation using POSTMAN and Rest Assured.
+
+Education and Training
+
+Master's: Computer Science, 05/2015
+Texas A&M University - Kingsville Kingsville, TX
+
+Bachelor of Technology: Computer science, 04/2012
+JNTU- Hyderabad

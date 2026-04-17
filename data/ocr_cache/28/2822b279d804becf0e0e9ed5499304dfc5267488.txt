@@ -1,0 +1,96 @@
+darcey.woosley@gmail.com
+
+% (821) 772-1081
+
+9 123 Desert Sun Rd,
+‘Albuquerque, NM 87123
+
+Education
+
+Bachelor of Science in
+Software Engineering at New
+Mexico State University, Las
+Cruces, NM
+
+Sep 2018 - May 2022
+
+Relevant Coursework: Software
+Development, Data Structures,
+Algorithms, Computer
+Networks, Operating Systems,
+Database Management, Web
+Technologies, Mobile Application
+Development, Artificial
+Intelligence, Cybersecurity, and
+Software Project Management.
+
+Links
+linkedin.com/in/darceywoosley
+
+LoadRunner
+
+IRA,
+
+‘Appium
+
+Jenkins
+
+Profile
+
+Software Tester with 1 year of experience in efficiently identifying, documenting,
+and resolving software defects through the application of meticulous testing
+methodologies. Proficient in various testing approaches, including functional,
+regression, and compatibility testing, with expertise in both manual and automated
+testing tools. Strong analytical and problem-solving skills, coupled with excellent
+communication abilities, make for effective collaboration with cross-functional
+teams in ensuring high-quality product delivery.
+
+Employment History
+
+Senior Software Tester at Descartes Labs, NM
+Mar 2023 - Present
+
++ Successfully identified and resolved over 500 critical software defects within
+the first year, leading to a 40% reduction in customer-reported issues and a 30%
+increase in overall product stability.
+
++ Streamlined the testing process by implementing automated testing tools and
+frameworks, resulting in a 35% decrease in testing time and a 25% increase in
+test coverage.
+
++ Led a team of 5 junior testers, providing mentorship and guidance, which
+contributed to an overall 20% improvement in team efficiency and a 15%
+reduction in software release delays.
+
+* Collaborated with cross-functional teams to successfully launch three major
+product updates, resulting in a 50% increase in customer satisfaction ratings
+and a 30% increase in new client acquisitions.
+
+Junior Software Tester at Rural Sourcing, NM
+Sep 2022 - Jan 2023
+
++ Successfully executed over 500 test cases in a six-month period, resulting in a
+195% defect detection rate and contributing to the successful launch of three
+major software projects for clients.
+
++ Streamlined the testing process by creating and implementing an automated
+testing framework, reducing manual testing efforts by 40% and increasing
+overall team efficiency.
+
++ Identified and reported over 300 critical bugs and issues, leading to a
+30% improvement in software quality and significantly reducing post-release
+maintenance costs for clients.
+
++ Collaborated with cross-functional teams to develop comprehensive test plans
+and strategies, ensuring thorough coverage of all product requirements and
+leading to a 20% decrease in product release delays.
+
+Certificates
+
+ISTQB Certified Tester
+Sep 2021
+
+Certified Agile Tester (CAT)
+Jul 2020
+
+Memberships

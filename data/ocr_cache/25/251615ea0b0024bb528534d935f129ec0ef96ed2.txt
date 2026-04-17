@@ -1,0 +1,141 @@
+Helen Mackay
+
+Junior Python Developer {
+\ +-271-199-3643 © helen.mackay@gmall,com.
+® Chicago, iL
+
+L |
+
+SUMMARY
+
+Junior database developer with Python Associate in Programming
+certification. Knowledgeable in data fetching and organization,
+data visualisation, MySQL, MongoDB and AWS. Some knowledge
+ML algorithms.
+
+EDUCATION
+
+B.S. in Computer Systems and
+Technologies
+
+University of Chicago 3.9/4.0
+2 2014-2018 9 chicago; IL
+
+GPA
+
+EXPERIENCE
+
+Junior Python Developer
+
+Hudson Cloud Computing
+
+8 2018- Ongoing 9 Chicago, IL
+
+Hudson is a USA-based IT Services firm specializing in Enterprise Mobility,
+
+Information Management, and Cloud-based solutions.
+
++ Working in a team of 15 people
+
++ Taken active part in all development phases of 4 new products - research,
+design, development, testing, Cl/CD
+
++ Maintaining large databases and collaborating with colleagues on the
+reduction of software maintenance expenses - decreasing the costs by
+15% in just 1 year
+
++ Visualised over 20 datasets with MatPiotib
+
+Python Database Developer Intern
+
+Wolt
+
+2 2017-2018 9 Chicago, tL
+
+Wolf is @ website with 500K unique clicks/month and with more than 8 milion
+
+products in the database where customers can check the price of any product
+
+in the most famous US electronics stores.
+
++ Designed and implemented web application for new requirements in just 3-
+4 weeks which Is production ready
+
++ Integrated 8 APIS for fetching prices, product information and photos from
+3rd party sources
+
++ Completed 150 hours of Data fetching and organization training
+
+PROJECTS
+
+Convolutional Neural Network Based Emotions
+Recognition System
+8 2017- Ongoing _ University of Chicago
+© github.com/vnihit/CNN-Emotions-Recognition
+A.CNN based emotions recognition system, built with Scikt-Learn, Tensorflow
+‘and Opencv -
++ 86% degree of accuracy and confidence for real-time emotions
+recognition
++ Potential applications In - Behavioural analysis, real time analysis of
+customer satisfaction in retail settings, automatic photography
+
+wwwenhanev.cam
+
+|
+|
+hse
+
+| P Githubsio/helen.pyttion SH
+
+SKILLS
+
+Programming
+
+Python SQL JavaScript
+
+Data Skills
+
+MongoDB MySQL AWS NumPy
+
+MatPlotlib ML Algorithms
+
+Scikit learn
+
+TRAINING / COURSES
+
+Python for Data Science & Al
+IBM, 75% of course completed
+
+Complete Data Science Bootcamp with
+Python, 2019
+
+By 365 Career Team, 100% of course
+completed, Grade A
+
+Ethical Hacking and Network Security
+
+By Zaid Sabih, 100% of course completed,
+Grade B+
+
+CERTIFICATION
+
+PCAP
+The Python Institute, 2019
+
+STRENGTHS
+S Mick Learner
+
+Learning new skills, technologies, and
+roles comes naturally to me.
+
+2g Effective Communicator
+
+Communication has played an essential
+part in working on a variety of projects.
+
+@ Accountability
+
+| take ownership of my mistakes so that |
+learn what | did wrong
+
+Powered by (CX? Enhancu

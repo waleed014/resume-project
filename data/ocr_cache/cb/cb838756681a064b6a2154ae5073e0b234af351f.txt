@@ -1,0 +1,62 @@
+555-644-2189
+
+Gordon, P.Eng. ryan.gordon@gmail.com
+
+LEAD MECHANICAL ENGINEER, DESIGN AUTOMATION TEAM (2009 — Present)
+
+Develop and drive in-house mechanical design programs for rotating and stationary components of electric machines,
+from 1,000 HP to 60,000 HP. Partner across multiple internal teams and external suppliers. Play pivotal role in
+designing new product offerings and enhancing existing products. Guide _ ad
+
+team in key projects and initiatives. Oversee and mentor engineering ¢
+interns, leading to many hired at GE and 1 receiving corporate award. Removed 230 hours from
+¢ Accelerated project delivery by heading development and desian time per project.
+
+release of a suite of engineering and CAD tools aligned with parallel
+
+flow ventilation design methodology.
+- Automated models, drawings, and BOMs by including 40+ subroutines, fully- integrated with CAD
+tools, as well as procedures to test software across all product .
+
+lines. r
+¢  Catapulted efficiency by spearheading generation of automated ‘ Propelled quality and
+drawing packages; yielded release of 6 engineering design standards streamlined engineer-
+with updated stator flange design calculations and parametric design to-order design cycle.
+
+package for engineering, CAD, and BOM.
+¢ Diagnosed and rectified 19,000 HP GE motor failure at customer gas plant in 1 month with safe,
+temporary solution. Steered project to assess feasibility and implement 25,000 HP spare motor from
+customer's alternate site while coordinating engineering functions among 5 companies.
+— Directed review of test validations and machining modifications, definition of functional specification
+for coupling adapter, and evaluation of train torsional analysis; composed customer technical report.
+
+MECHANICAL ENGINEER, REQUISITION DESIGN TEAM (2004 — 2009)
+Designed a variety of machines from order to remittance, including reciprocating compressors, low-speed grinding
+mills, and waterwheel generator, from 1,150 HP to 30,000 HP. Sized shaft-bearing systems, performed rotor dynamic
+analysis, and conducted 3D modeling and finite element analysis of structural 2
+
+components. Participated in growth initiatives and special projects.
+
+¢ Paved the way for designs incorporated into Stator Frame Slashed cost per
+Engineering Design Standards. Managed conversion of reciprocating hi 35K
+compressor motor product line from pedestal to bracket bearing. machine by $ .
+- Leveraged ANSYS for modal analysis; guided creation of 24
+bracket bearing designs for 3 motor frame sizes, including lifting analysis on motor static structures
+via finite element analysis and hand calculations.
+¢ Delivered low-speed generator barring torques, overcoming fluid film in design, which prevented
+low-speed barring without jacking oil system. Modified bearing liners to accept injected high-pressure oil.
+- Calculated lift-off pressure and steady state pressure; sized pump motor; supplied jacking oil unit
+functional specification; included interfaces between jacking oil unit and bearing in design.
+¢ Engineered rotor design for single-bearing, direct-coupled, 300 RPM, 11,000 HP reciprocating
+compressor motor requiring avoidance of torsional resonance conditions and system inertia maintenance to
+limit motor current pulsations to customer specification. Pioneered torsional solution.
+¢ Brought machine balance grade in line with ISO 1940-1-2003 standards, resulting in project’s
+methodology and design principles adopted for future orders. Determined acceptable residual unbalance and
+designed custom balance weights to mount to rotor spider for validating balance grade during testing.
+
+Licensure & Education
+
+Licensed Professional Engineer (P.Eng.) ¢ Professional Engineers Ontario (PEO) 2007
+Bachelor of Science (Honours), Mechanical Engineering ¢ Queen's University — Kingston, ON 2004
+
+competitive products # quality design

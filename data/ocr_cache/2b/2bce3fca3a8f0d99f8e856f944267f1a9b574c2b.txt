@@ -1,0 +1,148 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA94105. &8 (555) 432-1000 <4 resumesample@example.com
+
+I have19+ years of experience in IT business including 12+ years in SAP Basis Administration working for IBM
+de Mexico and Nestle USA among others. | have strong background of SAP Basis with Oracle databases on
+Unix Operating Systems (AIX, HP-UX, and zLinux),
+
++ Project Domain: SAP Basis Sys Admin.
+‘+ Operating Systems: Unix AIX, zLinux, and HP-UX
++ RDBMS: Oracle and DB2
+
++ Other Utilities: | have experience with IBM
+software such as Tivoli Workload Scheduler.
+
+‘+ Applications: | have experience with IBM software
+such as WebSphere Message Broker and
+MaSeries
+
++ Industries: Cregit Card processing, Nuclear
+Medicine Imaging, Vegetables Seeds
+Corporation, Food and Beverage (Nestle USA)
+and IT Technologies (IBM Mexico)
+
+SAP BASIS ADMINISTRATORIANALY ST & IBM WMB L2 SUPPORT 07/2007 to 01/2014
+Albany International Corporation
+
+‘+ Worked for the IBM Blue Harmony Project, which was a mayor IBM SAP implementation with muttiple
+environments on a SAP Complex Landscape with SAP ECC 6.0 , CRM 7.0 and BI 7.0.
+
+‘+ IInad experience in DB2 database software and IBM Middleware such as WebSphere Message Broker,
+MaSeries, and Tivoli Workload Scheduler.
+
++ Ihave solid knowledge of Unix AIX and 21 inux platforms.
+
+‘+ Iwas also worked as SAP Basis Team for the IBM RTP and Lenovo Accounts until the end of the project
+and then | was transferred to the Blue Harmony Project.
+
+‘+ My job responsibilities included Interfaces on SAP/AIX platforms, SAP System Monitoring, SAP TMS and
+SAP Security and Administration among other SAP Basis functions
+
++ |also worked for the IBM HRMS project doing SAP Security and Administration, documents and
+updates,
+
+SAO BASIS ADMINISTRATOR 03/2000 to 04/2003
+Albany International Corporation
+
+‘+ SAP Basis Admin for the BEST Project which was a big SAP implementation including SAP R/S 4.08, BW
+2.08, and APO 3.0.
+
++ During the development of this project we worked on over 40 servers including many database servers.
+
++ The production servers were on HP Super Dome hardware.
+
+‘+ The rest of the servers were HP 9000 class V and N:; all running HP-UX 111 Operating System.
+
+‘+ Asa SAP Basis Team Member, Iwas in charge of coordinating all the backups for the SAP/Oracle
+systems,
+
++ I coordinated the upgrade for the Oracle 8.0.6 to 8.1.7 databases for the QA SAP/Oracle System.
+
+‘+ Iperformed SAP Basis regular functions such as System Monitoring, Database administration using
+sapdba, Homogeneous System Copies using Nestle/SAP's procedures, Client Copies, OSS notes,
+System installation
+
++ performing task as Unix (HP-UX) Sys Admin level
+
+SAO BASIS ADMINISTRATOR 09/1997 to 03/2000
+Albany International Corporation
+
+‘+ SAP Basis Admin for a SAP 3.0F implementation system with Oracle 8.0.5 Database on a AIX 4.3.2 UNX
+platform
+
++ The beginning of the project was developed on a IBM AS400 System and later migrated to a Unix
+system (AIX).
+
+‘+ Our implementation was a three-System Landscape using one database server, one Quality Assurance
+Server, one Development Server, and two Application Servers.
+
++ became more familiar with most BASIS function such as security authorization using the profile
+
+generator, system monitoring, client copy, client exporvimport, printers, sapdba, SAP Transport System,
+
+OSS notes, and sapgul front-end support
+
+| also got familiar with the Oracle Enterprise Manager software.
+
++ I got experience on Unix AIK.
+
+SAO BASIS ADMINISTRATOR 04/1994 to 09/1997
+Db Schenker
+
+‘+ SAP Basis for a fast (four-month) SAP 3.0E implementation system with Oracle 7.0 Database on a HP-
+UX UNIX platform.
+
+‘+ Itwas a two-system Landscape: Production was one server as a Central instance and one server with
+one Dialog instance and one server for Development System.
+
++ wrote the procedure for installing the SAP GUI front-end.
+
++ Iwas responsible for System Security and Authorization and was a member of the team that re-wrote
+the security profiles using the newly developed SAP Profile Generator tool.
+
+‘+ Iwas also responsible for the Omni Back backup system for some time.
+
++ [work with sapdba tool, OSS, Client Copy, Transport System, and other SAP Basis functions.
+
++ Before the SAP Project, | was working on a HP3000 hardware/software using MPE Operating System
+and IMAGE databases
+
+‘+ Iwrote small jobs to stream line our weekly and monthly processing using MPEX and Reflexion software.
+
++ Idid small program maintenance in COBOL language.
+
+DACA CENTER SUPERVISOR 07/1990 to 04/1994
+Electronic Clearing House
+
+‘+ Hired as an entry level System Operator, | worked my way up to become a Data Center Supervisor.
+
+‘+ I coordinated and scheduled daily operations within the MIS department, supervised daily operations,
+Performed month-end run, report printing and distribution
+
++ Our hardware was P3000 series minicomputers.
+
++ The software tools were Qedit, MPE, MPEX, Reflexion, and Supertool
+
+‘+ Maintained a small database for re-programming Point Of Sales terminals using IBM PC compatible
+computers
+
+‘+ Iwrote some DOS 5.0 batch jobs to perform daily operations and | became familiar with the PC software
+such as Procom Plus, Lotus 123, Word Perfect, and MS Works.
+
+Los Angeles Valley Collage * Van Nuys California. USA. Jan 1997, AS Computer Science Information
+Technology Los Angeles Pierce Collage * Woodland Hills California. USA. Jun 1991 Computer
+Programming Certificate Key Courses and Training SAP BC360 TECHNICAL COMPETENCE - UNIX!
+ORACLE SAP BC305 ADVANCE R/3 SYSTEM MANAGEMENT SAP BC325 WORKBENCH ORGANISER,
+TRANSPORT SYTEM, AND UPGRADE AIX Ver.4 System Administration ORACLE 8: DATABASE
+ADMINISTRATOR FOR SAP R/S ORACLE 8 DATABASE ADMINISTRATOR HP-UX 10.0 SYSTEM ADMIN
+FOR HP9000 HP-UX 10.0 SYSTEM SECURITY Languages Fluent in English and Spanish

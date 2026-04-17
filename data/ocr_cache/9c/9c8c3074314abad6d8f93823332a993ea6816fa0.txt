@@ -1,0 +1,63 @@
+Robert Smith hone (123) 456 7899
+
+Email Infoguwikresume,com
+Website : wont quikr2stime, com
+
+Dotnet Developer Unkedln: tinkedin.com/qwikresume
+‘Address; 1737 Marshuille Road, Alabarna
+
+SUMMARY
+
+8+ years of extensive experience In designing and developing web applications, web services,
+llent/server applications by Using Microsoft NET technologies, Having strong knowledge Sofware
+Development Life Cycle (SOLC) including requirements definition, design, programming / testing
+and implementation of major systems,
+
+SKILLS
+
+Microsoft NET , Prograrmrning / testing.
+WORK EXPERIENCE
+
+Dotnet Developer
+AC Corporation November 20.0~-August 2011
+‘Analyzed requirements in order to determine and provide realstc estimates and Solutions
+Designed dynamic web pages with C# using RAZCR in ASP NET,
+Developed Presentation layer using ASPNET, HTML, JavaScript
+Implemented M/C design pattern to develop the application and to reduce the complexity
+‘and to get full control over the behavior of the applicetion,
+Worked with Telerik Controls to dsplay huge amount of data,
+Used Ajax Controls for client side validations with asynchronous data execution using threads
+when needed to Increase the performance
+Developed Cascading style sheets (C55) for consistent look and fee! of the website,
+
+Dotnet Developer
+Detta Corporation - 2006-2010
+
++ Created ASP.NET pages with web server controls for the presentation layerimplemented
+Validation using validation controls, ]Query and JavaScript cient side validations.
+
++ Developed web applications using ASP.NET and AJAX Extensions under MVC architecture,
+
++ Created Web Forms for developing the applications using webserver controls and HTML
+Controls Using Entity Framework, connected to relational data by writing LINO ta SOL queries,
+Involved in all the phases of the Software Development Life Cyde including System Analysis,
+Design and Developrent.implemented Rage level security and permissions based on the
+authentication details,
+
+Developed administrative functions such as assigning property viewing permissions and
+addingsystem users. Using Windows Forms for GUIs vith some test work with Crystal Reports
+tm! for reporting Written Web Service for Messaging module passing user data from Manager
+to Soles Team andvice versa using C#.Net Send ADONET datasets through XML Web
+service Presenting the data from the XML file by using XSUrDesigned reports and waitten
+some dynamic calculations for reports using SQL Server ReportingServices,
+
+Provided technical support and updates to customers and partners in atirnely manner and
+documented technical and programming speciications.Data Formatting was done using
+HTML CSS and clent side scripting using Angular)s and jQueryinvolved In the development
+of business oaic in C
+
+NET Created web custorn controls and web user Controls where necessary.
+
+EDUCATION
+
+(0 This Fra Resume Tamblat is the copyright f Qvakesume com. Usage Guldatns

@@ -1,0 +1,97 @@
+Harrison Sanford
+
+58744 Mazie Springs, Philadelphia, PA @ Phone: +1 (555) 154 3342
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+DEVOPS LEAD-STARBUCKS TECHNOLOGY
+Houston, TX
+09/2014 — present
+‘© Support the platform development team and perform activities to resolve developer issues in a timely and
+accurate fashion
+‘+ Implements deep telemetry capabilities to provide ongoing success and performance metrics
+* Knowledge in application development and supporting a development environment
+‘* Conducts research and makes recommendations on standards, products, and services in support of the
+Unified Commerce Platform
+‘© 34 years utilizing configuration management solutions as a system administrator
+‘+ Implements and maintains system configurations and baselines to support secure application development
+software control best practices and standards
+‘* Communicates clearly and concisely, both orally and in writing
+
+DEVOPS LEAD ENGINEER
+
+New York, NY
+11/2008 — 08/2014
+
+‘© Set and manage standards for successful development processes for automation and tools
+
+Proven track record in software development, including lead engineer or software architect
+
+Setting and ensuring the highest development standards are followed
+
+Engaging with the Technical Leads to establish technical direction & approach
+
+Mentor team members on software development best practices, including automated build and test,
+
+CI/CD for programs
+
+‘* Lead implementation of cloud automation, management, and monitoring systems
+
++ Assist in software architecture design and deployment methodologies within the Credit- S
+landscape
+
+DEVOPS LEAD
+
+Phoenix, AZ
+03/2004 05/2008
+
+‘* Develop policies, standards, guidelines, governance and related guidance for both CCD operations and
+for work of developers
+
+‘+ To develop and support selected tools with the DevOps Team, while managing suppliers working on other
+tool development
+
++ Provide leadership and work collaboratively with the DevOps Group including defining policies,
+proactively looking to solve operational issues
+
++ Toactively work on continuous improvement with respect to quality, risk, compliance, and costs
+
+‘© Manage project timelines and workload for the DevOps team
+
++ Collaborate with the architecture, application development, infrastructure & operations teams to
+contribute to development of the ecommerce eco-system roadmap
+
+‘* Coordinate with Development and Quality Assurance teams to ensure timely delivery of features, bug
+fixes, and improvements into multiple environments
+
+THE UNIVERSITY OF ALABAMA
+Bachelor’s Degree in Computer Science
+
+‘+ 154 years in an Architect, IT management, Engineering Leadership, Product Development Management
+
+or Software Design Management role
+
+An understanding of key DevOps related IT industry standards and trends
+
+Product / Service Development Strategy experience
+
+Strong public speaking abilities
+
+Writing and Publishing Technical / Business White Papers
+
+Deep understanding of a variety of software products and how they work and affect the broader technical
+
+environment of an enterprise-class infrastructure
+
+‘© Experience working in an Agile SDLC model
+
+‘+ Experience implementing continuous integration, continuous delivery and DevOps related models
+
+‘© 10+ years in an Architect, IT management, Engineering Leadership, Product Development Management
+or Software Design Management role
+
+‘* Coaching and mentoring experience; management experience

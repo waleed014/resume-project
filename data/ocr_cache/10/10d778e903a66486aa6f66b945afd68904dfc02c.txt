@@ -1,0 +1,58 @@
+Laurie Q. Analyst
+333 Analysis Road
+New York, NY 10003
+555-555-5555
+LaurieQAnalyst@analyst.com
+
+PRIMARY SKILLS:
+
+e Business process analysis and improvement
+Solid understanding of automated human resource processes
+
+e Requirement specifications gathering and documentation
+e Familiarity with Oracle-based PeopleSoft enterprise applications
+e Extensive experience with planning documents and report writing
+e Usability-focused functional design and testing
+
+BUSINESS EXPERIENCE
+
+Blanchard University, Information Technology (2011-Present) Senior Business Analyst
+
+e Managed redesign of onboarding processes for Oracle-based PeopleSoft Human Resources system.
+e Oversaw requirements gathering and focus groups for workflow upgrade to PeopleSoft HR system.
+e Developed user documentation as well as scripts for functional usability testing and system training.
+
+City of New York, Controller’s Division (2009-2011) Senior Business Analyst
+
+e Documented business processes related to external partners, including banks and clearing houses.
+e Researched and documented existing business processes for legacy PeopleSoft financial system.
+
+e Led process-improvement focus groups as part of functional redesign for PeopleSoft financial system.
+
+Wall Street Bank, eServices Division (eSDIV) (2006-2009) Independent Consultant
+
+e Created plan for implementing new web-based technology start-up for existing enterprise HR system.
+
+e Managed functional portion of eSDIV’s HR system implementation, including requirement
+specification gathering, process-flow documentation, testing, and training for new HR application.
+
+e Worked with eSDIV technical staff (DBAs and Java programmers) to design new user interfaces for
+HR system with emphasis on usability and human factors.
+
+Dr. Oz School of Medicine (2000) Independent Consultant
+
+Led business process redesign for system migration as part of merger with Judge Judy School of Medicine:
+e Managed 4-person team of business process consultants.
+
+e Directed school-wide user communications and training for the migration.
+
+e Synthesized and edited all process flow documentation and scripts for training modules.
+
+e Conducted individualized user testing for each department affected by the migration.
+
+EDUCATION
+Shark Tank School of Business (1999) MBA in Organizational Development; minor in Finance
+
+City University of New York (1995) BA in Psychology; minor in Accounting
+
+COMPUTER SKILLS: MS Office (Word, Access, Excel, PowerPoint), MS Project, MS Visio, HTML

@@ -1,0 +1,114 @@
+Jessica CLAIRE
+
+‘Montgomery Stet, San Francisco, CA 94105 ¢ (555) 432-1000 # resumesample@example com
+
+‘PROFESSIONAL SUMMARY
+
+‘Complex problem-solver with analytical and driven mindset, Dedicated to achieving demanding development objectives according to tight
+schedules while producing impeccable code,
+
+SKILLS
+
++ Programming Languages : Python, C, SQL ‘+ Machine Learning: Clustering(K- Means Hierarchical) Regres
+
++ Parallel & Computing : AWS,IBM Watson Studio sion Analysis Text Mining & Unstructured-Data Analytics.
+
++ Data Visualization : Python (Matplotlb, Seabor), R(ggplot) __ + Applications / Tools Git, MS Office, Jopyter Notebook,
+PyChamm, Visual Studio,
+
++ Data Science Libraries: PySpark, Scikt-Leam, NumPy, Pandas,
+‘SciPy, NLTK, PyTorch, Keras,Tensorflow, Gensim, spaCy
+Amazon Web Services : EC2, $3, IAM, VPC, RDS, DynamoDB,,
+‘SNS, SQS, Elastic Load Balancer, Lambda, SageMaker AWS
+RDS,Glue,Athena,Lambda Amazon Comprehend
+
+Work History
+
+Software Python Developer as Freelancer, 01/2019 - 03/2021
+Grow Therapy ~ City, STATE
++ Determined, using Python clustering methods, groups of states where underwriting models were underperforming, nd owned
+‘improvements to increase profit by 4%
++ Identified procedural areas of improvement through customer data to help improve the profitability of nationwide retention program by
+5%
++ Developed and owned the reporting fora nationwide retention program using Python, SQL, and Excel, saving an average of 60 hours of
+labor each month
++ Led data extraction and evaluation
+Partnered with product team to build a production recommendation engine in Python that improved the average length on page for users
+and resulted in incremental annual revenue
+
+Software Engineer, 01/2018 - 07/2018
+Grow Therapy ~City, State
++ Responsible for architecting, designing, implementing and supporting of cloud based infrastructure and its solutions.
+‘+ Managing Amazon Web Services (AWS) infrastructure Proficient in AWS services like VPC, EC2, $3, ELB, AutoScalingGroups(ASG),
+EBS, RDS, IAM, CloudFormation, Route 53, CloudWatch, ClovdFront,ClovdTral
++ Experienced in creating multiple VPC's and public, private subnets as per requirement and distribute them as groups into various
+availabilty zones ofthe VPC. Created NAT gateways and instances to allow communication from the private instances to the internet
++ Involved in writing API for Amazon Lambda to manage some of the AWS services.
++ Used security groups, network ACL's, internet gateways and route tables to ensue a secure zone for organization in AWS public cloud,
++ Created and configured elastic load balancers and auto scaling groups to distribute the traffic and to have a cost efficient, faut tolerant and
+highly available environment,
++ Created S3 buckets inthe AWS environment to store files, sometimes which are required to serve static content fora web application.
+‘+ Used AWS Beanstalk for deploying and scaling web applications and services
++ Configured $3 buckets with various lifecycle policies to archive the infrequently accessed data to storage classes based on requirement.
++ Possess good knowledge in creating and launching EC? instances using AMT of Linux, and wrote shell crpts to bootstrap instance.
++ Used IAM for creating roles, users, groups and also implemented MFA to provide additional security to AWS account and its
+resources, Written cloud formation templates in eon to create custom VPC, subnets, NAT to ensure successful deployment of web
+applications.
+Implemented domain name service (DNS) through route 53 to have highly available and scalable applications. Maintained the monitoring
+and alerting of production and corporate servers using Cloud Watch service
++ Created EBS volumes for storing application files for use with EC? instances whenever they are mounted to them. Experienced in creating
+RDS instances to serve data through servers for responding to requests Created snapshots to take backups of the volumes and also images
+to store launch configurations of the EC? instances.
+‘+ Writen Templates for AWS infrastructure as a code to build staging and production environment.
++ Responsible for Continuous Integration and Continuous Delivery process implementation with Python and Shell scripts to automate routine
+jobs,
+‘+ Responsible for performing tasks like Branching, Tagging, and Release Activites on Version Contol Tools lke GIT.
+
+Software Engineer, 03/2012 - 11/2014
+Dell Wyse — City, State
+
++ Coordinated statistical data analysis, design and information flow.
+
+‘+ Designed and developed schema data models.
+
++ Produced monthly reports that made understanding of insights easier through the use of visualizations
+
+‘Transformed the data to prepare it for modeling
+
+‘+ Analyzed the member data to find tends that showed what typeof institutions want what kind of product
+
++ Developed database objects such as tables
+
++ Collaborated with Web Application Engineers, used Python scripts to load the data into AWS Cloud Cassandra database Visualised over 40
+
+datasets with Matplothb.
+
++ Involved in processing the steaming data as wel as batch data
+
+‘+ Developed internal tools for text mining (sentimental analysis), and web crawler fr collecting data by Python and SQL.
+
++ Used AWS Elastic Beanstalk service for deploying and scaling web applications and services developed with Python.
+
++ Developed shell scripting and Python programs to automate the dataflow on day-to-day tasks.
+
++ Analyzed the SQL scripts and designed the solution to Developed a custom ETL pipeline by using Python
+
+Epucarion
+
+Certifications:
+‘+ IBM Data Science Professional Certificate
++ Semantic Segmentation with Amazon SageMaker
++ Mastering Data Analysis with Pandas
+‘+ Introduction to Statistics from Stanford
+
+Bachelors of Computer Science: Computer Science And Information Technology, 05/2011
+G PullaReddy Engineering College - Kumool, Andhra Pradesh
+Certifications:
+
++ IBM Data Science Professional Cerificate
+
++ Semantic Segmentation with Amazon SageMaker
+
+‘+ Mastering Data Analysis with Pandas
+
++ Introduction to Statistics from Stanford

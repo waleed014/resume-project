@@ -1,0 +1,55 @@
+JIMMIE
+D'AMORE
+
+address
+1794 Wolff Trail,
+Phoenix, AZ
+
+tel +1 (555) 903 4948
+
+Experience
+
+Funk Group
+Houston, TX || Dot Net Developer || 11/2018 - present
+¢ Working with the QA bunch in the game plan and execution of analysis for
+the already made applications
+© Solid in spry/scrum organizing and go about as a scrum pro for the
+gathering
+e Performing peer code reviews to execute coding standards, code
+consistency, utilization of setup cases and adherence to application design
+¢ Conveying status and issues in an unmistakable, favourable and capable
+way
+¢ In charge of suggesting changes for execution, openness and relentless
+quality
+
+Nienow Inc
+
+Houston, TX || Dot Net Developer || 07/2013 - 05/2018
+e Unravel application storyboards and use cases into helpful applications
+¢ Design, build and keep up capable, reusable, and strong C# code
+¢ Certification the best execution, quality, and responsiveness of uses
+¢ Recognize bottlenecks and bugs, and devise answers for these issues
+e Help keep up code quality, affiliation, and automatization
+e Enterprise Architecture frameworks TOGAF, Zachman
+e ITIL V3 to Intermediate level
+
+Education
+
+Fashion Institute of Design & Merchandising
+Bachelor's in Computer Science
+
+Skills
+
+¢ Liaise and follow up with vendor on issues pertaining to performance,
+defects or upgrade for either core software or modular components
+
+¢ Build and automate deployment of system configuration and application
+changes through Jenkins & Powershell scripting
+
+¢ Design, configure and implement ELK stack namely, LogStash, FileBeat &
+Kibana visualizations
+
+e Provide L2/L3 technical support for SIT, UAT and PROD for Treasury
+System
+
+¢ Includes configuring and setting up the environment

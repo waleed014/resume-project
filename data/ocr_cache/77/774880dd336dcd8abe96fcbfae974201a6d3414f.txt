@@ -1,0 +1,62 @@
+ROBERT SMITH
+SQL Server Developer I
+
+Phone: (0123}-456-789 | Emall: twotqutlresumne.com | Webstte: Qvekresume.com
+
+PSU |
+SQL Server Developer Ewith 11 years of experience in the Healtheare domain. Strong
+experience in Design, Development and business intelligence of Microsoft SQL Server
+‘with varfous business domains. Experience in creating the database, tables, indexes
+Stored procedures. views. triggers, T-SQL, SSIS using MS SQL Server Exceptional hands-
+on working knowledge with SQL Server Integration Services (SSIS) and SQL Server,
+Reporting Services (SSRS)
+
+[CORE COMPETENCIES
+
+SSRS, Data Warchouse. Microsoft SQL Server. SSIS, Database, T-SQL. Procedures,
+Reporting, Business Requirements, Transformation, Data Flow. SQL, Microsoft Access,
+Microsoft Excel. ETL. Plat File, Oracle, Strategy Development. F1/SQL
+
+ROFESSIONAL EXPERIENCE.
+
+SQL Server Developer 1
+Inovaion Health Care - April 2014 ~ Present
+
+Key Deliverables:
+‘+ Creating the SSIS packages to load the data into ‘SOL table using leokup
+transformation. conditional split, data conversion. derived column. join. merge
+
+join, slowly changing dimension.
+
++ Extensively working on data flow tasks like for each loop container. execute
+process task. transfer SQL server objects task, transfer jabs task. transfer logins
+task,
+
++ Working with SSIS packages Involved FTP tasks, fuzay grouping, menge and merge
+join,
+
++ ising SQL Server package configuration technique ta make dynamic
+configurations.
+
++ Generating the periodic reports based on the statistical analysis of the data using
+SQL server reporting services [SSRS)
+
++ Invalving in creating calculated members: named set, advanced IPs for the SSAS
+cubes,
+
++ Designing cubes with star schema using SQL server analysis services
+
+008
+
+AS)
+
+SQL Server Developer
+ABC Corp - 2007 - 2014
+
+Key Deliverables:
++ Created on demand (pull) and event-based delivery (push) of reports according to
+the requirement.
++ Developed and revised prigram code based on clearly delined requirements:
+
+2259 Oak Street, Old Forge, New York. 19420
+this Ere mente Template copyright of irene, Wage Guldeines

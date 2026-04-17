@@ -1,0 +1,226 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+HIGHLIGHTS
+
++ Languages: JAVA, SQL, PL/
+SQL, C, CH, XML
+
++ Web Technologies: JavaScript,
+JSP, SERVLETS, HTML, JSF,
+ANAK
+
++ Frameworks: Oracle ADF 11g,
+Spring 3.0
+
++ Design tools & IDEs: JDeveloper
+11g/10g, Eclipse, ADF skin
+editor
+
++ Servers: Weblogic, Tomcat 7.0
+
++ Code Management System:
+ADE, SVN
+
++ Testing & logging: JUnit, Log4J
+
++ Development Methodologies:
+Agile, Waterfall.
+
++ Other: R, SAS, Tableau
+
+EDUCATION
+
+University of Cincinnati, Carl H.
+Lindner College of Business
+Cincinnati, Ohio + Dec 2014
+
+‘Master of Science: information
+Systems GPA: GPA: 3.88/4.0
+*GPA: 3.8/4.0, Scholarship 4000
+USD, OBAIS Department
+*Coursework: Data Modeling, Data
+Analysis, Database Design, ERP,
+Financial Accounting, Business
+Intelligence,
+
+Statistical Computing, Data
+Analysis Method, Data
+Visualization
+
+*Graduate Teaching Assistant of
+Digital Technology in Business for
+undergraduate class of 60 students
+{aug 2013 - Dec 2013) and (Jan
+2014 - Apr 2014)
+
+Visvesvaraya National Institute of
+Technology
+Nagpur, Maharashtra + 2010
+
+Bachelor of Science: Computer
+Science and Engineering
+
+*GPA: 3.93/4.0
+
+*Coursework: Database
+‘Management Systems, Operating
+systems, Object Oriented
+Programming,
+
+Analysis of Algorithms, Computer
+Networks, Data Structures,
+‘Computer Graphics, Compilers
+
+PROFESSIONAL SUMMARY
+
+Applications Engineer offering over 4 years of extensive experience in designing web applications with
+expertise in JAVA using MVC architecture in Spring framework and Oracle ADF components following
+Agile development approach.
+
+Expert in core JAVA/J2EE technologies like JSP, Hibernate 3.0, SOAP web services, logaJ as well as in
+Oracle ADF components like Business Components (Entity Objects, View Objects and Application
+‘Module) and Ul (JSF, Task Flows, Page Fragments).
+
+ACCOMPLISHMENTS
+
++ Implemented [Feature] that increased user adoption by [Number].
++ Designed and developed , which was successfully implemented by [Company Name].
++ Promoted to Applications Engineer after 1 year of employment.
+
+EXPERIENCE
+
+General Dynamics - Application Developer
+Cherry Hill, NJ + 04/2014 - Current
+
+Project : My Account
+
+Team Size: 7
+
+Tools : Spring Tool Suite, Hibernate, SQL Developer, Oracle Database, Tomcat 7
+
+Descriptior
+
+‘My Account is a web application which acts a support site for e-commerce application. My Account is,
+used both by customer support team as well as external customers who place orders on e-commerce
+site,
+
+Responsibilities
+Implemented all the layers in the MVC architecture of spring framework.
+
+*Designed backend web services to fetch data from Oracle database and to invoke SAP Pls.
+implemented views and controllers for frontend design and efficient navigation between frontend
+and backend.
+
+*Created technical design document.
+
++ Involved in unit testing to ensure that the product assures to have good quality.
+
+*Deployed and maintained the application in Tomcat application server.
+
++ Involved in requirements discussion and UI design
+
++Responsible for Technical Design Document and Functional Design Document.
+
++Responsible for enhancements, routine maintenance and bug fixes
+
+Control Tec - Application Engineer
+Auburn Hills, MI + 08/2012 - 05/2013
+
+Project : Oracle Fusion -Real Estate Applications
+
+Team Size: 15
+
+Tools : Oracle ADF, Oracle JDeveloper 11g, Oracle Database.
+
+Description:
+
+Oracle Real Estate Applications caters to the need of managing lease, contracts and properties within
+the organization.
+
+Responsibilities
+Implemented ADF backend Entity Objects, View Objects and Application Module, which is the model
+layer of the framework.
+
+Implemented ADF Front-end using the ADF Ul Components (Components extended from JSF
+components), Task Flows, Page Fragments, Page Template and Navigation in the UI.
+
+Implemented all the layers in the MVC architecture of the ADF framework.
+
++ Involved in unit testing to ensure that the product assures to have good quality.
+
+*Deployed and maintained the application in Weblogic application server.
+
++ Involved in requirements discussion and UI design
+
++Responsible for Technical Design Document and Functional Design Document.
+
++Responsible for enhancements, routine maintenance and bug fixes
+
+Control Tec - Application Engineer
+Brookhaven, MS + 04/2010 - 08/2012
+
++ Implemented ADF Front-end using the ADF Ul Components - Task Flows, Page Fragments, Page
+‘Template and Navigation in the Ul.
+
++ Analyzed and optimized the SQL queries to improve data retrieval time from oracle database.
+
++ Wrote all client level validations and handlers using JavaScript.
+
++ Developed Import/Export services to migrate data across database tables based on Agile
+‘Methodology.
+
++ Implemented all the layers in the MVC architecture of the ADF framework.
+
++ Involved in unit testing to ensure that the product assures to have good quality.
+
++ Implemented security for all the task flows, pages and pagedefs as per the fusion standards.
+
++ Deployed and maintained the application in Weblogic application server.
+
++ Worked on bug fixes.
+
++ Worked in Sprint model of development Guided a team of 3 and involved in effort estimates, task
+scheduling and planning Implemented Descriptive Flexfields for JavaServer Faces Fragments
+pages.
+
++ Under taken trainings for new joiners/Freshers in the team.
+
++ Involved in requirements discussion and UI design Responsible for Functional and Technical Design
+Document Environnent: Oracle ADF, Oracle JDeveloper 11g, SOA, BPEL, Web Services, Weblogic
+Application Server, ADF Faces, Java, Groovy, Linux, SOAP, WSDL.
+
++ Project : Oracle Fusion -Real Estate Applications Team Size: 15 Tools : Oracle ADF, Oracle
+JDeveloper 11g, Oracle Database.
+
++ Description: Oracle Real Estate Applications caters to the need of managing lease, contracts and
+properties within the organization.
+
++ Responsibilities Implemented ADF backend Entity Objects, View Objects and Application Module,
+which is the model layer of the framework.
+
++ Implemented ADF Front-end using the ADF Ul Components (Components extended from JSF
+components), Task Flows, Page Fragments, Page Template and Navigation in the UI.
+
++ Implemented all the layers in the MVC architecture of the ADF framework.
+
++ Involved in unit testing to ensure that the product assures to have good quality.
+
++ Deployed and maintained the application in Weblogic application server.
+
++ Involved in requirements discussion and UI design Responsible for Technical Design Document and
+Functional Design Document.
+
++ Responsible for enhancements, routine maintenance and bug fixes.
+
+SKILLS
+
+Agile, C, C++, Client/Server, Eclipse, ERP, HTML, J2EE, Java, JSP, JavaScript, Languages, LINUX,
+MVC, Object Oriented Programming, Oracle Fusion, Oracle ADF, Oracle Database, PL/SQL, R, SAS,
+Servers, SERVLETS, SOAP, Spring, SQL, Tomcat 7.0, UI design, Weblogic, XML

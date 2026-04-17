@@ -1,0 +1,79 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Professional Summary
+
+Software performance Engineer well-versed in creating test cases, as well as covering all test conditions and eliminating redundancy
+and duplications with expertise in all aspects of the software development life cycle, Ihave now specialized in JMeter and
+particularly those engagement requiring the construction of performance testing tools and infrastructure requirements analysis,
+
+design, development and production support.
+
+Skills
+* Experience using performance test tools (HP Load Runner,
+* Advanced problem solving skills Jmeter)
+* Data management * Ability to use load tools to monitor, gather, and report
+* Troubleshooting and debugging application performance
++ Exceptional time management + APlLoader a very high throughput, cloud capable, JMeter-
+* Loadrunner, Jmeter 2.2 and 2.3, selenium, CRM, based load testing tool
+EPIC specialist + protocol implementations for JMetermini-applications within
+* Operational analysis JMeter samplers
+« Routing/Telephony QA - Cisco, Genesys experience. * 25,000 TPS JMeter-based test harnessan automated large-scale
+* Manual testing. DB2 database generator
+* Quality Center * High-capacity data analysis tools
++ An automated performance test script writer
+* performance testing harnessesan automated capacity
+modelling tool
+Work History
+
+Performance Testing, 03/2012 to Current
+Tewa Global - City, STATE
+
+* Work closely with architects and tech leads to define term strategy for repeatable performance testing within the organization.
+
+* Responsible for implementing LoadRunner, Performance center, JMeter based infrastructure including: Architecting the load
+testing infrastructure, hardware & software integration with LoadRunner and Jmeter.
+
+« Prepared Test Cases, Vugen scripts, Load Test, Test Data, Execute test, validate results, Manage defects and report results.
+
+« Expert in creating Next Generation Usage Pattern Analysis from the Production Logs to generate Performance Load,
+
+* Design, orchestrate and analyze load tests using a variety of load testing tools JMeter, LoadRunner, statistics and analysis
+techniques.
+
+* Gathering and finalizing of specs / defining business and functional requirements for BI reporting by conducting workshops,
+completing BI Report Specifications; guiding disposition of reports between ECC and BI.
+
+« Identified Real World Scenarios and Day in Life Performance TestsComplex Usage Pattern Analysis Used Performance Center to
+define performance requirement like SLA in test.
+
+« Interface with developers, project managers, and management in the development, execution and reporting of test automation
+results Identify and eliminate performance bottlenecks during the development lifecycle Accurately produce regular project
+status reports to senior management to ensure on-time project launch.
+
+* Performed Black Box, White Box, Performance testing , Regression , and Validation testing during the testing life cycle of the
+product release.
+
+* Verify that new or upgraded applications meet specified performance requirements.Used to identify the queries which taking
+too long and optimize those queries to improve performance for degrading the performance by looking at the resources such as
+
+Available Bytes and Private Bytes.
+
+performance testing, 06/2007 to 2012
+Metrozone Communications — City, STATE
+* Tool Used: JMeter, Manual Testing
+* Description: This was a centralized application on Windows xp for loan department of bank, which caters to all type of loan
+requests, and after processing stores complete information. In first phase enter loan application and applicant detail except
+contract creation. After approval a contract is created with applicant and guarantor. Manual Testing of this application involved
+functional testing, UI testing, regression testing as a Black Box tester. Performance testing was done using JMeter.
+# Responsibilities :
+‘* Requirement AnalysisTest condition and test case preparation
+« Tested all modules for negative testing as well
+* Test case execution ManuallyTested the application for 1000 users using JMeter.
+
+* Defect and Issue reporting
+Education
+
+Bachelor of Science: 2002
+AU university

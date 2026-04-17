@@ -1,0 +1,205 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+HIGHLIGHTS.
+
++ SAP Security and SAP GRC 10.1
+
++ Clients:
+
++ Gulfmark
+
++ Atwood Oceanics
+
++ Nobel Bio Care(NBC)
+
++ Capgemini- Philadelphia Energy
+Solutions(PES)
+
++ Infosys Technologies Limited, India
+GRC 10.1, SAP security
+
++ Atwood Oceanics, Houston, TX Jan,
+2015 - September.2015
+
++ Atwood Oceanics, Inc. is an offshore
+oil and gas drilling company. It
+participates in drilling in exploratory
+regions around the world.
+
++ Project Description
+
++ SAP Security and Authorizations
+Team
+
++ SAP Security Consultant
+
++ Working as a single point of contact
+between the client and the offshore
+Security team.
+
++ Solely responsible for all the
+headups/meetings with the client on
+aweekly basis.
+
++ Used to analyze and maintain
+passwords in SAP notes
+recommendations in Early Watch
+Analysis(EWA).
+
++ Familiar with SUO1, PFCG,
+'$U24,STO1,SU53,SU10 etc.
+
++ Extensive experience in Segregation
+of duties(SOD) and implement
+mitigation controls using GRC AC
+10.0
+
++ Mitigation and remediation of users
+and roles for SOX using User/Role
+Analysis in ARA.
+
++ Determining and report if any risks
+will be introduced by simulating the
+addition of transactions, Roles, or
+Profiles to a User ID
+
++ Maintained the Firefighter IDs.
+
++ Monthly users & roles analysis report
+using AIS & SUIM reporting
+
++ Managing user login and password
+resetting
+
++ Have done Analysis Authorization in
+‘SAP BI to migrate the roles from 3x
+tom
+
++ Good working knowledge of AGR™
+,USR’ tables
+
++ Worked on HR Security like linking
+the UseriD with the PERNR,
+terminating the users based on their
+status. Also has experience in
+dealing with HR tables like
+PAO105,PA0001,PAQ002,PAO000, PA3O
+etc
+
++ Worked on ticketing tool to resolve
+the issues & problems in different
+kinds of Sap Security modules
+
++ User Access Provisioning
+‘Management
+
++ Skills
+
++ GRC 10.1, SAP security
+
++ Nobel Bio Care(NBC), Yorba Linda,
+CANoy, 2013 - Dec, 2014
+
++ Nobel Biocare is a company that
+manufactures dental implants and
+‘CAD/CAM-based individualized
+prosthetics
+
++ SAP Security Consultant
+
++ User Access Provisioning
+‘Management
+
++ Modified existing parent and
+derived roles based on new business
+requirements
+
++ SAP HR user data maintenance &
+structural authorization
+maintenance/T&E access. SAP
+security, SUIM
+
++ Infosys Technologies Ltd,
+Hyderabad, India Dec, 2008 - Aug,
+2012
+
++ Infosys Ltd (formerly Infosys
+‘Technologies Limited) is an indian
+multinational corporation that
+provides business consulting,
+information technology, software
+engineering and outsourcing
+services. SAP security, GRC 10.0
+
+EDUCATION
+
+B-Tech - JNT University
+Hyderabad
+
+JNTU University
+2008
+
+Bachelor of Engineering (B.E
+
+SUMMARY
+
+‘An SAP Security and GRC consultant with 7+ yrs experience of proven expertise in SAP Security & SAP
+Business Objects GRC Access control (10.0) along with SoX/SoD audit experience. Currently working
+as a Technical Lead. Have experience in GRC - Internal Auditing Have supported a variety of user base
+ranging from 8k-25k. Had experience in Handling/Supporting Multiple Clients at a time. Worked on
+SAP modules like ECC,BI,HR,GRC 10.08S0X/SoD procedures Hands on experience in Support and
+Maintenance activities of SAP IDM Integrated with GRC and SUIM tool in one project. Good analytical
+and problem solving skils for resolving Security issues. Excellent Interpersonal skills to interact with
+customers, team members and the other higher Personnel Experience in managing team if required
+with full responsibility of maintaining high level of Response & Resolution SLA for the client. Excellent
+communication, interpersonal, leadership, Documentation, troubleshooting skills and flexible and
+ability to work in a team environment. Worked in 4 L2/L3 support projects in which one includes HR
+Security as well. Have knowledge on Basis Support Projects.
+
+ACCOMPLISHMENTS
+
+EXPERIENCE
+
+GulfMark - SAP Security & GRC Consultant
+City, STATE + 03/2015 - Present
+
++ Gulftark provides marine transportation services through a fleet of offshore support vessels
+serving every major offshore energy market in the world.
+
++ Working as a Technical lead for this project with a small team members of 5 SAP authorization
+troubleshooting (SU53 & STO1) User administration A single point of contact between the client and
+the offshore Security team.
+
++ Solely responsible for all the headups/meetings with the client on a day to day basis.
+
++ Assigned super user roles to the users for emergency access & monitored & audited their
+activities.
+
++ CUA administration and configuration Extensively involved in role design/implementing/testing for
+‘Admin, Support and Business Roles Extraction of data (AGR_1251, AGR_USERS, AGR_1016 and
+joining of two or more tables) from SAP production systems for audit reporting Ensuring that
+business roles does not have access to following basis critical authorization objects, S_TABU_DIS,
+'S_PROGRAM, S_DEVELOP, S_USER’, S_CTS_ADMI, S_ADMI_FCD, $_BTCH_ADM, $_BTCH_JOB,
+S_BTCH_NAM, and many others.
+
+ADDITIONAL INFORMATION
+
++ SAP Security Administrator Creating Users based on request. Assigning additional roles to the
+existing users. Locking and changing the validity date for the expired users Performed User
+comparison in PFCG Resetting Passwords for users and intimating password policy. Addition,
+Removal of Transaction Codes, authorization objects by modifying existing roles based upon
+change request Created Composite roles based upon request Performed Transportation of newly
+created roles/ modified roles Analyse missing authorizations based on screen shot sent by the user.
+
+SKILLS
+audit reporting, business consulting, BI, CAD/CAM, CA, Consultant, Client, Clients, Dec, functional,
+
+HR, IDs, information technology, notes, Management Skills, Managing, market, meetings, Access, oil,
+reporting, SAP, SAP HR, software engineering, tables, transportation, troubleshooting

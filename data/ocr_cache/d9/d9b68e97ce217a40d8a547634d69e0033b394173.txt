@@ -1,0 +1,98 @@
+Robert Smith
+
+Senior Network Security Engineer II
+
+PERSONAL STATEMENT
+Applying for position to utilize advanced Network Defense, Inforrnation
+
+‘assurance and Security, workstation knowledge, strong personnel skills,
+‘organizational ablities and business experience,
+
+WORK EXPERIENCE
+
+Senior Network Security Engineer I
+‘ABC Corporation - December 2010 - June 2011.
+responsibilties:
+
++ Supporting all aspects of DoDs largest Implementation of ArcSight,
+Security Information and Event Management,
+
++ Supporting the establishment, enhancement, and continual
+Improvement of an integrated set of correlation rules, alerts, searches,
+reports, and responses,
+
++ Supporting a timely review of reports from ArcSight products,
+
++ Working corrective action of deficiencies or vulnerabilties, and ensure
+the effectiveness of these measures,
+
+* Coordinating and conducting event collection, log management, event
+management, compliance automation, and identity monitoring activities
+for customer systems under the teamns purview,
+
++ Analyzing data collected by the ArcSight and related systems,
+Identifying results that dictate Irmediate corrective action, trends that
+drive prompt action, and areas that require continued monitoring andlor
+further analysis
+
++ Responding to day-to-day security requests relating to ArcSight
+operations.
+
+Senior Network Security Engineer
+Delta Corporation - 2005 - 2010
+Responsibifties:
+
+‘Responsible for designing, engineering, and deploying e-mail and
+messaging systems,
+
++ Included transitioning Miltary customers existing messaging platforms
+to Exchange 2000,
+
++ Also develop and conduct site surveys and develop, test, and train
+migration plans.
+
++ Testing/troubleshooting of firebox software according to test
+specifications including updating results, adding new test cases which
+are aut oftest
+
++ Designed and implemented policies to protect Security breaches so as
+to ull proof the network Providing technical support assistance to the
+customer:
+
++ OAssigned to a $4M Oifice of the Secretary of Defense (OSD) project on
+the oint Cyber Operations-loint Test (JCO.JT) tearn chartered to develop,
+
++ TheTTP provides a strategy and general guidance to defend critical
+
+(2 Ths Ema Resume Temlate the copyright ot Qukresurne cor. Usage Gustine
+
+CONTACT DETAILS
+
+1737 Marstullla Road,
+Alabama
+(123)-456-7890
+Infoesquikresume.com
+wwweqwikresume.com
+
+‘SKILLS
+
+Management,
+Organizing.
+
+LANGUAGES
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+Climbing
+Snowboarding
+Cacking
+Reading
+
+REFERENCES:
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

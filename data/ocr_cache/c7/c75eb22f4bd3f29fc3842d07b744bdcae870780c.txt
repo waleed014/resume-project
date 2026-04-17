@@ -1,0 +1,60 @@
+HOMER HARBER
+
+Information
+
+Address
+
+67609 Nicolas Square
+New York
+
+NY
+
+Phone
++1 (555) 507 6292
+
+@® EXPERIENCE
+
+05/2020 — present
+Chicago, IL
+
+11/2016 — 02/2020
+Chicago, IL
+
+HESSEL AND SONS
+
+Senior Teradata Database Administrator
+
+¢ Experience with relational databases, particularly MySQL
+e Experience with configuration and administration of Atlassian
+applications — Jira, Confluence, Bamboo, Bitbucket
+
+HACKETT, ABBOTT AND MURAZIK
+
+IT Database Administrator
+
+e Experience working with Cloud Database technologies
+
+e Database Performance analysis and tuning
+
+e Knowledge Patching and upgrading databases
+
+Strong UNIX scripting for DB administration
+
+Knowledge in 12c/13c Grid Control administration and usage
+
+© EDUCATION
+
+SKILLS
+
+PARSONS THE NEW SCHOOL FOR DESIGN
+
+Bachelor's in Computer Science
+
+¢ Knowledge of Ed-Fi or other educational data standard including the supporting
+definitions and structures
+
+e Understanding of iPaaS models and data warehouse theory
+
+¢ Demonstrated knowledge of Python - knowledge of luigi, pandas, sqlalchemy/pyodbc,
+
+selenium helpful

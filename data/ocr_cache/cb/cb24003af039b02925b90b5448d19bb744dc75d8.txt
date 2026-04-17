@@ -1,0 +1,59 @@
+MY NAME (EIT)
+
+1234 E. 123th Ave, State, 12345 | 1234@1234mail.com
+www.linkedin.com/mylinkedin | (123)-123-1234 | www.1234personalwebsitel234.com
+
+EDUCATION
+
+BSS. in Electrical Engineering Current GPA: 3.52 (Cum Laude)
+University of Small State Schoo! Graduation: Spring 2020
+B.A. in Counseling Graduating GPA: 3.65 (Cum Laude)
+Small Private School University Graduation: Spring 2014
+EXPERIENCE
+
+Electrical Engineering Intern at Small DOD Contractor. 05/2019 - 08/2019
+
+© Generated electrical design documents for a Department of Defense contract on the C-130 gunship.
+
+‘* Executed engineering design and development activities while consistently meeting or exceeding
+goals in cost, schedule, and design quality.
+
+¢ Validated proper implementation of engineering changes in an aerospace manufacturing setting.
+
+Engineering Designer Drafter at Fortune 500 Company. 05/2018 - 08/2018
+© Developed end user graphics for a building automation system per the project scope
+
+Managed system database for $1.5 Million government contract.
+
+Oversaw final controls logic checkout in a high efficiency hanger facility for an international airline.
+
+Performed engineering tasks and updated submittals using Siemens’ proprietary software.
+
+Electrical Engineering Designer at tiny natural resource company. 04/2017 - 07/2017
+Developed strategies to efficiently construct and run a state of the art resource extraction facility.
+* Designed electronic, control, and power systems to provide maximum efficiency and usability.
+‘© Operated engineering and design software to perform engineering tasks, including Autocad and
+Excel,
+
+LEADERSHIP ROLES
+Vice President University of a State Roboties Team for well known robotics Challenge 2017-2020
+
+‘* Managed a 5 person team as electronics team lead for prototyping of a S0kg robot.
+‘* Achieved entrance to a multinational competition; oversaw travel planning and finances for trip.
+‘© Drafted and submitted proposal for $46,000 grant to outfit robotics prototyping lab.
+‘* Designed PCB layouts for motor systems, performed 3d printing using additive manufacturing
+methods
+President & Vice President Humanitarian Engineering Society 2018-2019
+
+© Organized and managed our biannual fundraisers with gross profit of $9000.
+‘* Performed project management to support a project in “somewhere” Africa.
+
+President & Vice President JEEE Student Chapter 2016-2018
+Increased membership in the club by 50% during my time as President.
+‘© Created prototyping workshops to encourage innovation and entrepreneurship in the student body.
+
+SKILLSET
+AutoCAD sestsreeer MATLAB eect Python aeitirs
+SolidWorks srs Eagle/Altium PCB Design ¢rsvsrsx CICH serie
+
+System Verilog wirereese FPGA dete Office Suite seeedestree

@@ -1,0 +1,90 @@
+GISELA ZIMMERMANN
+
+CONTACT
+
+gisela.zim.3@email.com
+(123) 456-7890
+
+San Francisco, CA
+Linkedin
+
+EDUCATION
+
+BS.
+Computer Science
+Emory University
+August 2008 - May 2012
+Atlanta, GA
+
+SKILLS
+
+JavaScript (React, Node)
+
+Agile Development
+
+sQt
+
+AJB Testing & Experimentation
+Google Suite
+
+Microsoft Office
+
+SaaS Applications
+Organization
+
+Agile
+
+Problem-solving
+
+CERTIFICATIONS
+Salesforce Developer
+PMP Certified
+
+BEPC Certified
+
+Project Manager
+
+CAREER SUMMARY
+
+Project manager with 10 years of experience developing software
+and building relationships within technical teams. Eager to apply my
+software development background and practical communication
+skills at Salesforce to streamline projects and build faster, more
+reliable software.
+
+WORK EXPERIENCE
+
+Project Manager
+Udemy
+June 2017 - current / San Francisco, CA
++ Supervised a team of 8 developers
+* Partnered with 80+ instructors to overhaul software courses
+* Developed 15+ signups that performed 37% more efficiently,
+increasing customer satisfaction by 28%
++ Partnered with 14 instructors to build an interactive coding
+environment, increasing engagement by 61%
+
+Software Developer
+
+Udemy
+
+July 2015 - May 2017 / San Francisco, CA
+
+* Partnered with product managers to re-architect a multi-page
+
+web app in React, boosting yearly revenue by $3.2M
+Designed algorithms for all business application projects
+Built a streamlined ad-serving platform that scaled to over 2.5M
+users, improving page speed by 16%
+Collaborated with 7 developers to increase the number of yearly
+software releases by 52%
+
+Software Developer
+Metromile
+May 2012 - May 2015 / San Francisco
+* Collaborated with 3 developers to implement APIs
+* Built tool using NodeJS and Pupetter.js to automate QA,
+improving conversion rate by 4%
+Built RESTful APIs to serve data to the Javascript front-end
+Led a web app migration to a Node back-end, improving the
+application speed by 8% and increasing viewers by 12%

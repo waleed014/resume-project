@@ -1,0 +1,46 @@
+QIANA GUTKOWSKI
+
+880 Freida Tunnel, Chicago, IL
+
+PHONE
++1 (555) 826 7270
+
+EXPERIENCE
+
+Corwin, Prohaska and Bartoletti
+Boston, MA // Senior SQL Developer // 12/2019 — present
+
+¢ Translate business requirements and use cases into functional applications
+
+¢ Together with team design, build, and maintain efficient, reusable, and reliable code
+Ensure the best possible performance and quality of reporting solutions
+
+¢ Identify bottlenecks and bugs, and prepare solutions to mitigate and address these issues
+¢ Help maintain code quality, organization, and test automation
+
+Jast, Barrows and Nolan
+Boston, MA // T-SQL Developer // 04/2015 — 07/2019
+¢ Hands-on experience with C#
+e .NET Core, ASP.NET
+¢ JavaScript, HTML5, JQuery, CSS3
+¢ Proven work experience as a SQL Developer
+¢ Strong understanding of the SQL Server Optimizer
+e In-depth understanding of using SQL Execution Plans to troubleshoot SQL
+
+EDUCATION
+
+Academy of Art University
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Demonstrated experience with systems and applications development projects supported by the team including system
+components, functionality, interfaces, data flows, and business rules
+
+¢ Experience working with data modeling and design tools (ERwin)
+
+¢ Experience in SSIS and creating master and child packages, package configurations, logging and in using variables and
+
+expressions in packages
+
+Knowledge of CDC culture, mission, and IT environment

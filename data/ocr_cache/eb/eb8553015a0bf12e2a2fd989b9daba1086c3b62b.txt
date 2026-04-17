@@ -1,0 +1,71 @@
+Stanford Buckridge +1 (555) 599 9966
+757 Malia Junctions, Chicago, IL
+
+Experience
+
+Database Consultant — Konopelski, Fadel and O'Hara, Boston, MA 02/2018 — Present
+
+Excellent program management, organizational design, execution planning and control competency
+Embrace and demonstrate leadership beyond ownership
+
+Experience designing, coding and supporting distributed, data intensive systems at scale
+Experience with relational database delivery
+
+Hands-on experience with ETL tools (SSIS, Informatica, Datastage, etc)
+
+Experience with relational databases (Oracle, SQL Server, mysql, etc)
+
+Experience with programming languages (Pythong, Java, Go, scala, etc)
+
+Experience with Business Analysis, Data Analysis, and process automation
+
+Development experience with BIG Data technology stack
+
+Experience in DevOps Automation tools (Oozie, Python, etc)
+
+Experience in delivering Data Platforms
+
+Database Consultant — Greenfelder Group, Boston, MA 04/2011 - 09/2017
+
+Maintain, improve, clean, and manipulate data in the business's operational and analytics databases
+Transform data for meaningful analyses
+
+Create data enrichment
+
+Build high performance
+
+Create and manage data stores at scale
+
+Ensure data governance - security, quality, access and compliance
+
+Cloud Experience, Azure
+
+DB Migration experience
+
+Have knowledge of database administration activities
+
+Interact with and coach developers in developing SQL scripts, schema changes, data updates and database performance
+considerations
+
+Education
+
+Parsons The New School for Design — Bachelor's in Computer Science
+
+Skills
+
+Data ingestion solutions
+
+Integration to AlOps tool, Moogsoft
+
+Enterprise data lake including Hive data warehouse
+
+Good in process improvement through automation
+
+Expert knowledge in setting up Oracle RAC, ASM
+
+Experience in writing SQL, PLSQL, PL/pgSQL codes
+
+Experience with database upgrades, cross-platform migration, troubleshooting, backup & recovery, monitoring etc
+Strong scripting knowledge for automation such as shell, ansible, jenkins etc
+
+DR setup, FSFO for automatic failover

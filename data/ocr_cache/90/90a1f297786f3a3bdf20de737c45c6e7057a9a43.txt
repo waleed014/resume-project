@@ -1,0 +1,166 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS.
+
+Jessica Claire
+
+© 100 Montgomery St. 10tn Floor tS (585) 432-1000 <4 resumesample@example.com
+
+Enthusiastic SAP Basis Administrator eager to contribute to team success through hard work, attention to
+detail and excellent organizational skils. Clear understanding of SAP ERP systems and various databases
+{and trained in cetiied SAP labs. Organized and dependable candidate successful at managing multiple
+Portes wth a posite atttude. Wilingness to take on added responsible to meet team goals.
+‘Outstanding abitty to problem-solve and collaborate wth clents and company personnel. Adept at setting
+tong-term goals and folowing through with high-quality customer service and long-term relationships. Offering
+extensive knowledge of various SAP products including cloud solutions.
+
++ SAP S/4 HANA with RISE + SAP FIORI 1.08.20
+‘+ SAPHANA 1.0 & 20, Oracle 19, SOL Server& + RHEL Linux, AIK and Windows
+
+82 + Advanco OpenPGP Key management Too!
++ AWS, AZURE & GCP + SABRUX Tax Systems 5.1.0 & cloud eattion
+
++ SAPECC 6.0 EHP 5,687
+
+ERP SPECIALIST 04/2022 to CURRENT
+‘Amazon.Com, Ine. | Orlando, FL.
+
++ Working at Seaworld as a Secunty and ERP Administrator Maintain task-based role design including
+both functional and sensitive data restrictions, Also, user creation, deletion, and mass user
+‘administration in SAP ECC6.0
+
+‘+ Work closely with SAP functional teams to create or update roles that meet audit requirements as well
+‘as meet functional requirements for end users.
+
+‘+ Work with Business Process Ouners for Role creations, changes, and user administration and work with
+‘development team on authorization objects for custom transactions,
+
++ Support system and secunty aut and compliance activities. Process SAP user access requests and
+‘support everyday troubleshooting of access problems.
+
+‘+ Effectively analyze trace fles and track missing authorizations for user access problems. Support Basis,
+team in monitoring the system,
+
+‘+ Segregation of duties (SoD) concepts, able to drive secunty role remediation plans for audit and
+‘compliance related findings.
+
+‘+ SAP authorization concept, roles, diferent user and role types, and user administration on different
+
+SAP platforms.
+
++ Implementation and troubleshooting experience involving SAP Access securty and also upgraded GRC
+5310120,
+
+SAD BASIS ADMINISTRATOR 08/2021 to 03/2022
+
+Cognizant Technology Solutions | Denver, CO
+
+‘+ Implemented HANA DB, which included connection to SAP CRM, and cloud connections to various third-
+party Integrators and J2EE platform in GCP. Participated in designing, scaling, and implementing SAP
+‘application server and HANA database servers to customer specifications, Configured ASCS, SCS &
+AAS as required.
+
+‘+ Participated in designing, scaling, and implementing SAP PO to customer specications. Performed
+Upgrades and worked on SLTOOLSET for new systems and upgrades. Also, set up HANA replication for
+high avaitabitty.
+
+‘+ SAP BASIS Project Support for CRM, BW, BOBJ & PO functonaites, monitor Oracle;HANA databases
+‘or flea backups and archiving issues, and created scripts to maintain adequate space on server.
+
+‘+ SAP Performance Analysis and Tuning with ECC systems, memory/butfer management in OS, Solution
+Manager monitoring, and handled Business Process Change Analyzer
+
+‘+ SAP management at Linux & Unix OS level, SAP kernel and SP upgrades and new system installations,
+‘and relevant basis administration tasks as require.
+
+SAO PRODUCT LINE EXPERT. 07/2018 to 09/2021
+Amazon.Com, Inc. |Las Vegas, NV
+
+‘+ AS SAP PLE, was responsible for leading technical scoping for each new Rimin Stret client in order to
+provide comprenensive content repository (archive) that is used by both cient and Rimini Street Global
+‘Application Support team
+
+‘+ Extensive Experience in SAP HANA Database Administration and suppor using Studio and Cockpit 2.0,
+‘Working knowledge on SAP HANA Database, Native HANA, and apps running Ike SAP BW, ECC, and
+‘Success factors
+
+‘+ SAP HANA administration, sofware patching, upgrade, migration, and general maintenance. New HANA.
+implementations vith high-avatlabilty by ading standby hosts. Perform SAP HANA System Replication,
+disaster Recovery drills, and bounce systems,
+
+‘+ Acquited in-depth technical knowledge and expertise across SAP Business Suite including ECC and S/
+4 HANA), SAP BOBJ, SAP HANA and SAP Sybase Applications including mechanics of software
+patching, maintenance, upgrading, and installation methodologies by vendor.
+
+‘Interpret customer roadmap (both business and IT) to determine likely future product direction for
+releases, platforms and languages.
+
+‘Identity dependencies, connections and usage between different SAP Technology, developer tools and
+third-party product.
+
++ 08S note and software scope archived based upon clent-spectic licensed products and future plans.
+Assisted clients vith XML stack generation within Maintenance Planner.
+
+‘+ Review commercial agreements and present archive documentation as well as provide coaching to
+‘sales, on-boarding, and other teams on archive related requirements, and work alongside with other
+Senior SAP Basis Engineers to develop application break fues for ciical product defects.
+
+SAO BASIS CONSULTANT. 08/2017 to 12/2018
+IT Reddy LLC | Chicago, IL
+
+‘+ Worked with developers in HANA studio with packages. Created new users, schemas, and provided
+privieges based on their roles. Handled HANA ALM to create delivery units, CTS management, and
+vendor creation. Configured RFC's between HANA, sidecar replication server, and ECC systems
+
++ Managed Technology Competency Center team with basis administrators and led in various.
+implementation ike HANA insilations, Qik Sense, Flexera, and other business vendors,
+
++ Installed kernel upgrades per technical documentation guidelines, adhering to SAP's best practices,
+‘and maintained support guidelines forall products,
+
+‘+ Supported Mi & FICO functional teams and HANA application teams during development cycle and
+provided technical support during HANA deployments of projects and software releases within the global
+landscape.
+
+‘+ Provided administration support and system monitoring for operating systems (AIX 7.1, Linux X86,
+databases (DB6, HANA 1.0), SAP ECC systems, and third-party applications lke Nagios monitoring too,
+Sabri tax systems, Advanco PGP key management tool, and managed SAP security with GRC.
+
++ Built adational DB (SAP HANA) and performed system as well as client copies. Provided support for
+Solution Manager and ChaRM functionalties. Also monitored early watch alerts for production systems,
+
+‘+ POC migration to cloud platforms such as AWS/AZUTe/GCP from on-premise systems with functional
+testing. Bull infrastructure and was technical aison for Flat Chrysler Automobiles fo various cloud
+vendors.
+
+SAD BASIS ADMINISTRATOR 01/2017 to 08/2017
+‘Company Name | Orlando, FL
+‘+ Successfully instaled and configured ECC 6.0, BW 7.0 and Solution Manager 7.0 on Sandbox and
+Development systems,
+‘+ Performed daily checks for all SAP systems and SQL. database servers, Monitored daly backups, work
+Process, updates, check system logs, and reviewed canceled jobs.
++ Monitored alerts using CCMS alert monitor, actve users on system, spool problems, and job logs and
+‘database grown, capaciy,Input/outpu statistics and alerts,
+‘+ Applied support packages as required, system corrections via SNOTE transaction, kemel upgrades,
+‘spool administration and monitoring.
+‘+ Setup SAP GUI upgrades and troubleshooting, EWA on Soiman 7.0, and performed Basic Secunty
+‘Administration
++ Handled transport system management. Took ounership of and drove resolutions for various issues,
+‘and attended escalation meetings and provided technical support for area of expertise with on-call
+‘support as needed
+
+Bachelor of Sclence
+Ashworth College, Noreross, GA
+
+2017-08 SAP Certified Technology Associate - System Administration
+2018.08 SAP Certiied Technology Associate ~ SAP HANA
+
+2019-09 SAP Certified Technology Specialist ~ SAP S/4HANA Conversion and SAP System Upgrade
+2021-07 TADMTO SAP System: OS and DB Migration

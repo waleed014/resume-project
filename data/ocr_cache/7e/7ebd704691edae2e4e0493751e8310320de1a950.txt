@@ -1,0 +1,63 @@
+ROBERT SMITH
+
+Associate Data Scientist
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+To further my career in mathematics by obtaining an analytic position in data,
+software development, and/or strategy.
+
+EXPERIENCE
+
+Associate Data Scientist
+ABC Corporation - MARCH 2012 - JUNE 2015
+
+Searched, organized, and analyzed clinical data regarding in vitro
+fertilization
+
+Used statistical analysis to determine data behavior
+
+Used machine learning on the data to create predictive models
+regarding IVF autcames such as live birth, pregnancy, and multiple
+birth
+
+Discussed data and models with research and development team to
+make the best possible products for consumers.
+
+Designed and revised forms, manuals, and other company
+documents,
+
+This Includes product input forms test results forms, and other files
+that are for internal and external use.
+
+Managed coworkers on certain projects regarding QA testing and
+product development.
+
+Data Scientist
+ABC Corporation - 2011 - 2012
+
+Conceptualized and built a model which implements predictive filling
+of clinical fields within an EMR using historical data ta making it
+sasier for Physicians ta document and alsa in aiding physicians make
+better clinical decisions
+
+Built a Model to data mine clinical data from both payers and
+providers ta derive patterns and Insights,
+
+Developed a prototype ta Investigate occurrences of medication
+prescription leading to unexpected diagnosis with a view to prevent
+‘and monitor undesirable impact of medication on patients.
+Conceptualized and implemented 3 monitoring algorithm which
+enables early detection of adverse events to medical practices.
+
+The adverse event detection Is a vast improvement on existing
+methods to flag adverse events
+
+Prototyped a model to predict diagnosis risks for individual patients
+Using existing EMR data with the application of machine leaming
+algorithms.
+
+The model developed was proven to help assist doctors make better
+clinical decisions.
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

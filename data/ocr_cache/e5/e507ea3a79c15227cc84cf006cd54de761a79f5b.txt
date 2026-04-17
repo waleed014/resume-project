@@ -1,0 +1,75 @@
+Leanna Lindgren
+65407 John Cape, Philadelphia, PA @ Phone:
+
+1 (555) 760 0934
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+BUSINESS INTELLIGENCE ETL LE:
+Chicago, IL
+07/2015 — present
+‘© Create architecture and technical design documents to communicate solutions that will be implemented by
+the development team
+‘© Work closely with other IT development groups to deliver coordinated software solutions
+‘+ Perform code reviews and other quality assurance steps as requested
+‘* Design, build and implement controls and monitoring mechanisms to ensure accuracy and data integrity.
+Identify areas of improvement and communicate to management
+‘* Responsible for design, development and implementation various tasks in building BI platform
+‘* Manage ETL specifications and supporting documentation
+‘© Design and develop database objects using mysql or any other RDBMS
+
+ETL LEAD ENGINEER
+Detroit, MI
+03/2010 — 03/2015
+‘Extensive client interface. This position will be a back-up position for the Assistant Project Manager and
+Project Manager
++ Coordinates the work of others to develop, test, install, and modify programs and establish physical
+database parameters
+‘+ Job also includes working with the Health Care Quality Assurance specialist in evaluating data quality
+and making recommendations to improve data quality
+‘* Identify methods of improving performance in ETL design and development
+‘© Writes the design and mapping specifications for ETL development
++ Analyze, identify, and recommend ways to improve the quality of data from the sources using IBM
+InfoSphere ProfileStage
++ This position will manage staff in the future, but is a hands-on position
+
+ETLLEAD
+Los Angeles, CA
+08/2006 — 10/2009
+‘* Redesign current ETL / DW processes for best performance and proper dependency
+‘* Understand the project scope, identify activities/ tasks, task level estimates, schedule, dependencies, risks
+and provide inputs to Module Lead for review
+‘+ Create regression tests architecture and process
+‘* Design and develop test plans for ETL unit testing and integration testing
+‘* Conduct testing to ensure successful deployment/ implementation of all developments or new applications
+key accountabilities
++ Identify opportunities in business processes, system capabilities and delivery methodologies for
+continuous improvement
+‘+ Provide ETL / DW design and enhancements as part of technology migration for various ETL / DW / BI
+components currently using T-SQL & SSIS
+
+DREXEL UNIVERSITY
+Bachelor’s Degree in Computer Science
+
++ Strong technology skill background with good working knowledge of Informatica, Teradata, DB2, Sybase
+OR Oracle, XML
+
+Strong data analysis and data quality assessment skills
+
+Ability to develop and follow change management processes for consistent and maintainable versions
+Strong understanding of SDLC and proven track record of operational efficiency
+
+Strong SQL skills and a thorough understanding of database constructs
+
+Excellent communication and written skills and prepared to work across time zones
+
+Ensure that the ETL design includes restart-ability, error handling and audit throughout ETL processes
+5+ years experience in BI design and management in a production environment
+
+Performance trouble shooting and remediation
+
+Experience with data model designing and modeling tools

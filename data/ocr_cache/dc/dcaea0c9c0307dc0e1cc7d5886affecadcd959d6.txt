@@ -1,0 +1,96 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+Motivated and versatile SAP HCM Consultant having 8 yrs of extensive experience in designing and implementing HCM submodules like Personnel
+Administration, Organizational Management, Payroll, Time, LSO and ESS/MSS as well a supporting systems. Apart from that also experienced in:
+Project Leading role for SAP HCM support team
+
+AS-IS and Blueprinting phase owner
+
+RFP and Estimation
+
+Part of ERP Solutioning Consultancy team
+
+Experience as Change Management team member and running all the processes on uPerform and post go-live training to end user (both
+classroom and webinar)
+
+SKILLS
+SAP Personnel Administration and Organization Management * Good diagnostic skills
+SAP Payroll and Time Management « Excellent communication skills
+SAP ESS/MSS * Working independently
+SAPLSO * Leadership
+As-Is Study and Blueprinting
+Functional Design
+Full lifecycle implementation
+Business Analysis
+Requirement Gathering
+Elicitation
+Business artifacts documentation
+Business process mapping
+Test cases and script creation
+Configuration management tools
+
+‘Work History
+
+Senior SAP HCM Consultant, 11/2015 - Current
+Marsh & Mclennan Companies, Inc.
+* Coordinated design meetings and decisions within internal team.
+* Defined clear targets and objectives and communicated them to other team members.
++ Recommended process and systems improvements such as improved process workflow and suggestion on new process inclusion.
+* Took part in RFP and estimation
+Senior Consultant, 06/2013 - 04/2015
+Capgemini
+* Module lead for ESS/MSS
+Build ESS/MSS process documents based on discussion with stakeholders and developers
+In-charge for end to end payroll configuration
+In charge of change requests. Prepare change request documents, get client sign off and delegate to the right functional/technical member.
+Perform function, system, regression and end-to-end testing of custom reports and processes.
+Handle incidents for sub modules like Performance management, personnel administration, organization management etc
+Assisted project manager in creating project plan, resource estimate and business continuity plan
+Facilitated project meetings including providing agendas and meeting minutes Identified and documented project team roles and responsibilities
+
+* Consistently met deadlines and requirements for all new enhancements.
+Project Management/SAP HCM Payroll Consultant, 07/2011 - 06/2013
+Tata Consultancy Services
+« As-Is study: Thorough study of the current business processes and scenarios in the organization. This is done by repeated meeting and
+discussion with the stakeholders from the client side. Created elicitation documents.
++ Requirement Gathering: Apart from studying the current scenarios, it was also important to understand the requirements i.e. what all changes
+required for betterment of the processes fitting in the SAP system
+Blue Printing: Based on the above two points, blueprint is prepared to provide the best possible way to run the business with improvisation.
+Conducted stakeholder analysis
+Configured SAP HCM sub modules like PA, OM, PY. TEM , ESS/MSS etc.
+Month end time evalvation and payroll activity like simulation run and detection of probable errors Supported post payroll run issues
+Worked on integration with other SAP modules like FICO and BI
+Designed functional specifications based on business requirements.
+Created test cases and performed functional testing.
+Handled complicated issues for PA, OM, TM and PY within SLAs
+* Validate quality deliverable and maintain deadlines and execute work as planned and balanced delegation of work among team members
+
++ Accountable for conducting regular one on one meetings, assessing individual's ongoing skills and performance, determining areas of
+
+improvement and professional development needs.
+Documented business processes and analyzed procedures to see that they would meet changing business needs
+Assessed the impact of current business processes on users and stakeholders.
+Implemented user acceptance testing with a focus on documenting defects and executing test cases.
+Managed testing cycles, including test plan creation, development of scripts and co-ordination of user acceptance testing
+Supervised the work of team members, offering constructive feedback on their work performance
+Monitored timelines and flagged potential issues to be addressed.
+Conducted interviews for external candidates on behalf of recruitment team as SME
+SAP HCM Functional Consultant/Change Management Consultant, 07/2007 - 06/2011
+Accenture
+* Configured for SAP HCM sub modules like PA, OM, PY, LSO, ESS/MSS ete
+Handled priority 1 and 2 tickets within SLA
+‘Worked on integration with other SAP systems like FICO
+Worked on data import and migration from legacy system
+Created user training materials using tools like Snagit and RwD uPerform
+Created Work Instructions using UPerform
+Created functional specifications based on business requirements
+Provide knowledge transfer to new joiners
+Involved in preparing test cases and perform functional testing
+Experience as Change Management team member and running all the processes on uPerform and post go-live training to end user (both
+classroom and webinat)
+Coordinated with systems partners to finalize designs and confirm requirements.
+* Performed end to end functional testing of the system post support pack upgrade.
+* Review of business process diagram, configuration rationales and update documents based on changes in the system.

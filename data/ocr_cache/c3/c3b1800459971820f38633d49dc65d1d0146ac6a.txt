@@ -1,0 +1,59 @@
+ROBERT SMITH
+
+Assistant Senior Devops Engineer |
+
+Info@quikresume.com | https://Qwikresume.com
+
+Over 12+ years of Total IT experience, of which worked on Perl, Oracle, CG, UNIX:
+JavaScript and Shall script. involved in the analysis design, development,
+enhancement, support and unit testing. Experience to develop U's using template
+tool kit. Good experience in L4 level Support and Enhancements/Bua fixes.
+
+JANUARY 2007 -JUNE 2011
+ASSISTANT SENIOR DEVOPS ENGINEER | - ABC CORPORATION
+
+‘+ Designed to have Approver who will approve the request and interact with
+
+specific Resource to get access for the speciic user.
+
++ Involved lot of processes such as creating new resource, linking with the actual
+resource, setting attributes, approver nomination, revalidation for approver/user
+ate
+Guided team to complete their tasks on time:
+
+Planned team deliverables of one month task In advance.
+
+‘Wrote Chet Cookbooks for installing and managing Applications.
+
+Worked a5 2 DevOps Engineer for implementation of Software Configuration
+Management processes, controlling and bullding new versions for releases,
++ Analyzed and resolved conflicts related to merging of source code for SVN
+
+2003 - 2007
+SENIOR DEVOPS ENGINEER - DELTA CORPORATION
+
++ Serena Software Inc.
+
++ provides process-based solutions for managing and automating application
+development, DevOps and IT operations and management products to
+enterprises around the world.
+
++ This Project was based on managing thenew version releases of software
+applications
+
++ Responsibilities Coordinatevassist developers with establishing and applying
+appropriate branching, labeling/naming conventions using SVN source control.
+
++ Worked with development team to migrate Ant scripts to Maven.
+
++ Provided CM and Build support for more than 5 different applications, built and
+deployed to the production and lower environment.
+
++ Implement, maintain and support retiable, timely and reproducible builds for
+project teams,
+
+EDUCATION
+
+Bachelar of Engineering in Information Technology - 1999( Madurai Kamaral
+
+(8 Tis Free Resume Template the copyright of Qwikne ane com, Usage Guelines

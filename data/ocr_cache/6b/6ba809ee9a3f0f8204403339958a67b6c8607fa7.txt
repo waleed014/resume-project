@@ -1,0 +1,210 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Troubleshooting Skills,
+
++ Root Cause Analysis
+
++ Software Installation
+
++ Debugging Skills
+
++ Service Level Agreements
+
++ Technical Support
+
++ Troubleshooting Technical
+Issues
+
++ Windows Server, Linux and Unix
+flavors
+
+EDUCATION
+
+California State University -
+Sacramento
+Sacramento, CA + 05/2021
+
+‘Master of Science: Electrical And
+Electronics Engineering
+
+Karunya Institute of Technologies
+Coimbatore, Tamil Nadu, India =
+05/2004
+
+Bachelor of Engineering:
+Production Engineering
+
+CERTIFICATIONS
++ STF Certification
+
+= Comptia A+ Certification
++ GSM-GPRS Hallmark Certification
+
+PROFESSIONAL SUMMARY
+
+Deadtine-oriented Senior Test Engineer and outstanding performer with more than 10 years’ of
+experience in manual testing and recent experience in automation. Proven success in leadership,
+‘operational excellence and organizational development with keen understanding of elements of the
+current Projects. Easily collaborate with team-members, developers and project managers to
+accomplish milestones and solid history of discovering errors, resolving defects, and ensuring client
+expectations are met with high quality software quality solutions.
+
+WORK HISTORY
+
+Saic - Software Testing Lead
+
+Stafford, VA + 11/2013 - 03/2017
+
++ HP Output Server - An enterprise application product Functional Testing
+
++ Project Lead for HPOM project.
+
++ Involved in Sanity, Functional, Regression and Performance testing.
+
++ Used perl script and QTP to run the test cases.
+
++ Used perl script to run the Performance testing in Linux platforms and generated the result in excel
+sheet and used to analyze and compare the data.
+
++ Used perfmon tool to capture the performance test data in Windows servers.
+
++ Defect identification and re-testing. Ensuring that there are Zero test escapes and Defect slippages
+from the tests executed.
+
++ Worked in different releases SP14.1, SP14.2 and etc and made sure to achieve the target on time.
++ Test estimation, Test case planning and Test case designing.
+
++ Test script development using pert script.
+
++ Bug reporting using ALM Version 11.
+
++ Automated the test cases as much as possible in all parts.
+
++ Giving Presentations and OJT for new hires.
+
++ RCA for Customer Defect using 5-Why’s.
+
++ Preparation of Daily and Weekly Status Report.
+
++ Interaction with the Business in order to resolve any queries with respect to the test packs, test
+scenarios and test cases.
+
++ Managed the entire testing team and made sure to run the testing on time.
+
++ Followed Agile technology for the project. Have been scrum master for the team and guided the
+scrum activities.
+
++ Have been actively involved in R&D call and Escalation call with the customer/ctient.
+
+‘Motion Recruitment - Senior Test Engineer
+Bentonville, AR + 12/2008 - 10/2013
+
++ GERAN BSC Functional Testing
+
++ Test Lead for Functional Tearn-TT04.Responsible for A - interface and Gb interface testing for
+Telecom team TT04, Handover functionality testing (TT13) and CBC functionality testing(TT03).
+Functionality covers both circuit switch and packet switch features.
+
++ Defect identification and re-testing. Ensuring that there are Zero test escapes and Defect slippages
+from the tests executed.
+
++ Worked in releases $14, 15, EP2.1, EP1.2, MCBSC, $16, and $16.1 Stept and made sure to achieve
+the target on time.
+
++ Test estimation, Test case planning and Test case designing for new features like Precise Paging and
+‘MOCN-Multi Operator Core Network.
+
++ Test script development using TTCN-2 and Test environment setup using GPRS (SGSN, GGSN)
+simulators.
+
++ Worked in Maintenance Team and took the complete ownership of Telecom acti
++ Bug reporting using Mercury Quality Center.
+
++ Good exposure to MS-Simulator and MS-BTS message flow.
+
++ Very good understanding S57, BSSMAP and DTAP protocols and message flow.
+
++ Involved in latest paging coordination techniques and satellite A-bi
++ Involved in circuit pool configuration and Lapd configuration.
+
++ Automated the test cases as much as possible in all parts.
+
++ Giving Presentations and OJT for new hires.
+
++ RCA for Customer Pronto using 5-Why’s.
+
++ Preparation of Daily and Weekly Status Report.
+
++ Interaction with the Business in order to resolve any queries with respect to the test packs, test
+scenarios and test cases.
+
+ities.
+
+‘Amazon.Com, Inc. - Support Engineer
+
+Nashua, NH + 04/2007 - 11/2008
+
++ Maintenance and administration of EMC Clariion Cx Series storage Arrays.
+
++ Used EMC Power link knowledgebase and primus for problem resolution.
+
++ Used Navisphere manager and Navicli for administration of EMC Clarifon.
+
++ Troubleshooting LUNs and assigning them to different servers in SAN and DAS setup.
+
++ Worked on the Clariion Replication Concepts in SAN (Snap View, Mirror view, SAN Copy, Power path).
++ Technical Consultancy and support to EMC clients for SAN storage Boxes manufactured by EMC.
++ Dial in remotely to the monitoring stations for individual storage box and investigate the errors
+reported by the array. Work to solve or dispatch CE to field for the further action,
+
++ Providing technical solutions to different customer.
+
++ Stay current on technical specifications and hardware requirements of EMC software products,
+including new and soon to be released products.
+
++ Worked on HIB (High Incoming Boxes) for Clarifon
+
++ Working on customer escalated issue.
+
++ Have managed the shift as a Shift Lead.
+
++ Given On Job Training to the new joiners.
+
+Hewlett-Packard Global Soft Limited - Technical Support Engineer
+
+City, STATE » 09/2004 - 03/2007
+
++ Extend high quality 1st level support for maintenance of business critical Service.
+
++ Providing technical support for the IPG products.
+
++ Training and mentoring the new batch and the poor performers.
+
++ Assisting the Quality Analyst in giving feedback to the agents to improve quality.
+
++ Initiating quality related processes.
+
++ Monitor the Team’s internal and external quality performance and take action if necessary.
++ Client Communication - including conference calls
+
+ACCOMPLISHMENTS
+
++ Received SPOT awards for Extra mile customer service
++ Received several customer appreciation mails & raves.
+
++ Due to a good track on customer service skills - taken care of the CCHS cases.
++ Received the “Friend in Need “Award for maintaining good work environment and supporting the
+team.
+
++ Was promoted as an SME ( Subject Matter Expert)
+
++ Received “Feather in my Cap “Award for the successful testing of Satellite A-bi

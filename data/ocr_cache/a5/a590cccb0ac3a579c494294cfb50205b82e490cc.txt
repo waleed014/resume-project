@@ -1,0 +1,56 @@
+ROBERT SMITH
+Software/Network Engineer
+
+Phone: (0123}-456-789 | Email: infodquikresume.com | Website: Quikrestme.com,
+
+Software/Network Engineer with over 5 years of Experience in designing, architecting.
+‘deploying and troubleshooting Network & Security Infrastructure on routers, switches
+{L2/L3) & firewalls of various vendor equipment, Experience in handling tickets opened
+Jor network related issues and resolving as per SLA. Experience in installation,
+configuration, troubleshooting of CISCO routers 2800, 3750. 2900, 7301. 7600. 12410,
+ASRIK. Catalyst 6509, 4507 and Data center switch like 7k, 5k. and 2k of nexus,
+
+[CORE COMPETENCIES
+
+Microsoft Office Suite, Sun Solaris, Microsoft Windows OS, Apple 108, Project
+‘Management.Routers, Switches, Firewalls, Wireless, Riverbed, Security
+
+[PROFESSIONAL EXPERIENCE,
+
+Software/Network Engineer
+‘ABC Corporation - June 2015 - Present
+
+Key Deliverables:
++ Responsible for the configuration and troubleshooting of C4se0 2500, 2600, 5000,
+7500, 7200 series routers
++ Design and configuring of OSPR, BGP on Juniper routers and SRX Hrewalls,
++ Planning and configuring the routing protocols such as OSPF. RIP. and Statie
+rouling on the routers
++ Supported nationwide LAN infrastructure consisting oF Cisco 4510 and catalyst
+613,
++ Optimized performance of the wan network consisting of Cts 3550/4500 /6500
+switehes by configuring VLANS
+valuating, designing, documenting, installing. Implementing, testing, performing,
+problem isolation and resolution, monitoring, tuning and setting standards
+
++ Maintaining a complex range of computer network components and systems.
+
+Network Engineer
+ABC Corporation - January 2013 - March 2014
+
+Key Deliverables:
+
++ Responsible for daily troubleshooting, support and maintenance and management
+of network infrastructure,
+
++ Helped the lead engjneer in performing he racking, configuring the Nexus
+swllehes Like 7000, $000 and 2000 series in the data center environment,
+
++ Provided a high level of security to the network by installing ASA 5510 along with
+ACLs.
+
++ Designed and implemented! DMZ lor web servers, mall servers Samp: FTP servers
+using Cisco ASA 5500 firewalls,
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yaee Resume Template the copy of Quine com, Usage Guleinne

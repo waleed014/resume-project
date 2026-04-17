@@ -1,0 +1,55 @@
+Lindsay Beer +1 (555) 753 8128
+1735 Veta Mountains, San Francisco, CA
+
+Experience
+
+Senior Python Developer — Schamberger Group, Philadelphia, PA 07/2018 — Present
+¢ Act as key point of contact and SMEs for Python open source components and libraries
+© Detailed knowledge of several Python frameworks and technologies
+© Detailed knowledge of several Open Source Libraries
+e Strong development background in Python
+e Experience with Cl tools (Jenkins, TeamCity) and Build tools (Conda, virtualeny, pip)
+¢ Having good hands on experience creating data pipelines with Apache Kafka and NoSQL databases
+© Proficient in Shell and PowerShell scripting
+© Good hands-on knowledge of performance/memory analysis with n-tier architecture applications
+© Should have experience with software source control systems(Git)
+¢ Experience with software testing frameworks (similar to Selenium, Junit or DART)
+¢ Agile workload management and bug tracking (similar to Jira or BitBucket)
+
+Python Developer — Kris and Sons, Philadelphia, PA 05/2012 - 06/2018
+¢ Troubleshoot and support system and application problems
+¢ Exposure to tools like Informatica, Delphix
+© Solid experience with Python, Tableau, and SAS
+© SQL automation, RPA (nice to have), and VB
+¢ Python 3, pytest
+¢ RESTful web services, SQL, Docker Containers
+¢ Proficient with Git for source code management and recording design specifications
+© Serverless.com Framework
+e R experience building data pre-processing pipelines
+¢ Experience with git, npm, Angular (5.x or later)
+e Experience doing test-driven development, functional testing and continuous integration is desirable
+
+Education
+
+School of the Art Institute of Chicago — Bachelor's in Computer Science
+
+Skills
+
+¢ Extensive knowledge of building asynchronous oriented framework in Python 3
+
+© Operational experience into managing modern authentication protocols like OAuth
+
+© Operational experience with micro-services architectures and its associated design patterns
+
+¢ Knowledge modern DevOps services (Kubernetes services, Prometheus, etc.)
+
+¢ Interest is Big Data and willing to collaborate to work with Data Engineers and Data Scientist
+
+¢ Experience in silo data partitioning vs pool data partitioning models
+
+© Proven engineering skills (code design and quality, tests, reviews, logging, monitoring, continuous integration, DevOps)
+¢ Versatile architecture skills, Dev culture and eager to learn new technologies
+
+© Delivery-oriented person with a high interest in providing reliable, efficient, and user-friendly services
+
+© Work experience as Python developer providing webservices

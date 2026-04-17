@@ -1,0 +1,30 @@
+JESSE KENDALL
+423 Elm Street, Miami, FL33183,
+(305) 655-5556, E-Mail: shivaswarnykr@gmall.com
+
+CERTIFIED ORACLE DATABASE ADMINISTRATOR
+
+Accomplished Oracie-certified DBA with expertise in performance tuning, crisis
+management, andhighavallabiliy to increase reliablty, maximize productivity, and
+introduce system efficiencies.
+
+PROFESSIONAL EXPERIENCE
+
+‘ABC Health Services, Miami, FL,201%-Present
+Senior Oracle Database Administrator
+
+Supporta fveterabyte data warehouse; playa lead rolein enterprise-wide database
+optimization andinstance and resource monitoring Pertom roct cause analysis on
+failures. Resolve performance tuningrelatedissues, reports, and queries. Work
+actively onnew 10g features suchas AWR, ADDM, and ASH, performance statistics
+collection, andfine tuning database wait evens, Provide on-callsupportfor
+
+enterprise databases,
+
+‘Started and managed biweekly optimization meetings with enterprise user groups to
+address andresove perfomance-relatedissues witha high degreeofsuccess,
+‘Successfully setup a four-nade cluster andRAC data warehouse onLinux (Oracle
+UBL) using ASWOCFS2.
+
+Identined, led, and established automation ofrepettive processes to minimize errors,
+Completely eliminated space errors by implementing proactive space monitoring and

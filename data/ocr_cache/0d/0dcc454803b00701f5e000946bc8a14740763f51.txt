@@ -1,0 +1,122 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Executive Prorme
+
+3 years of experience in analysis, design, development and support of connections in a trading/financial environment. Significant experience
+in developing and supporting systems using C++, Python, BASH, XML, and other technologies. Experience with C# and C++ development
+and support. Reliable, flexible, creative and hard-working team player. Excellent communication and interpersonal skills with ability to
+achieve successes on wide variety of assignments
+
+Sem Hicuucuts
+
+# Technical Expertise
+* C++, C#, CSS, LUA (7 years)
+
+* SQL Server, MongoDB, Custom databases (2 years)
+* ZeroMQ, Google ProtoBuf, RDMA ( 3 years)
+
+« OnixS FIX Engine Expert (3 years)
+
+# Windows, Linux OS (9 years)
+
+Familiarity with Itch/Ouch Connections (3 years)
+
++ Analyst/Programmer/Support (3 years)
+
++ Computer Failure Troubleshooting (7 years)
+
+« Scripting, BASH, Perl, Python (3 years)
+
+‘* Virus removal and protection (7 years)
+
+* QA Testing/Development ( 5 years)
+
+« Android video game development (1.5 years)
+
+* XML, PHP, HTMLS, CSS (1 year)
+
++ Computer hardware installation (5 years)
+
+* UDK, Autodesk suite (4 years)
+
+* Microsoft Office suite (7 years)
+
+‘Core ACCOMPLISHMENTS
+
+PRoFEssIONAL EXPERIENCE
+
+09/2014 to Current Jr. C# Net Developer/ Q&A
+Mercola.com — City, STATE
+
++ Primary Project Description: Mercola.com is an ecommerce website that sells alternative health supplements and
+promotes an overall healthy outlook to everything that we choose in our lives. The primary project was to enhance
+various in-house c# applications and develop new responsive web pages/sites for their products
+
+‘© Enhanced in-house programs for searching through SQL databases for orders and fraud orders. Added unique
+business logic to safeguard from SQL injection and also unwanted queries.
+
+‘* Responsible for a new responsive webpage template for all products on the ecommerce shop.
+
+‘* Developed stored procedures and databases to contain customer/order information.
+
+02/2011 to 01/2014 Lead Developer/Developer/Analyst/Support
+Black Phoenix — City, STATE
+
+« Primary Project Description: Black Phoenix was a research and development entity for a trading firm called
+Phoenix IBFO. Primary project was to create FIX connections with multiple liquidity providers for market taking/
+market making and to become a liquidity provider itself
+
+Created secure financial information exchange connections (FIX) to various banks globally using C+ OnixS Fix
+Engine on Linux co-located in New York.
+
++ Solely responsible for established and required connections, as well as sole technical support and tester for all
+connections implemented into production [40+ connections].
+
+‘* Responsible for support of 10+ internal customers/developers and also provided upper level management with
+status reporting and any required support.
+
+‘= Tested connections via business requirements, conformance tests and conducted test trades to ensure connections
+were flawless.
+
++ Goto” guy for all systems support issues and questions.
+
+‘* Maintained MongoDB and constructed BASH scripts to populate appropriate databases.
+
++ Aided in creation of company website built in Python and Django.
+
+‘* Created automated scripts in PERL and Python to aid in testing of code base.
+
++ Established and supported SSL certificates, OpenSSL and VPN connections to create FIX connections.
+
+‘© Built system components from scratch (and supported same), including Order Flow, Strategies, and Position
+‘Manager, among others.
+
+* Created Visual C# application to review trade data and test for discrepancies. Black Phoenix )
+
+‘* Designed and implemented new way to create FIX connections by using XML parsing technique, resulting in
+ability to create new connection via one XML file and increasing productivity/decreasing connection downtime.
+Promoted to Lead Developer after this highly successful project.
+
+« Key player in design of multi-million dollar project resulting in increased efficiency in time by 100% (10
+milliseconds to 10 microseconds) and increased return rate from 110% (1-2k) to 300% (6k).
+
+‘ Supervised 8 intems working on different projects ranging from [C#, C++, XML, SQL Server, Python, Java and
+Google Protobuf’] ensuring progress and accuracy.
+
+‘* Maintained and optimized existing programs that used SQL queries to calculate trade Pal.
+
+Epucation
+
+Bachelor of Science: Game and Simulation Programming
+DeVry University - Addison, IL
+DeVry University, Addison IL (Expected Graduation Summer 2015) Bachelor of Science in Game and Simulation Programming (GPA: 3.90)
+
+Semis
+
+C#, Databases, Sql, Bash, Business Requirements, C++, Django, Exchange, File, Java, Linux, Million, Mongodb, Ms Sql Server, Parsing,
+Perl, Progress, Python, Sql Server, Ssl, Systems Support, Technical Support, Testing, Trading, Visual C#, Visual C# net, Vpn, Xml, net,
+Ecommerce, Outlook, Stored Procedures, Android, Autodesk, Css, Game Development, Hardware Installation, Html5, Lua, Microsoft Office,
+‘Ms Office, Php, Qa, Qa Testing, Scripting, Team Player, Aerospace, Simulation

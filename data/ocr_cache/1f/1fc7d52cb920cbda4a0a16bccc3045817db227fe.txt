@@ -1,0 +1,55 @@
+56984 Schoen Stream, Boston, MA
++1 (655) 524 8056
+
+Regular Check Database performance and performance statistics using
+the profiler research and resolve issues
+
+Configure Mail server , configure jobs to check database integrity and
+fragmentations
+
+Strong familiarity with each layer in MS SQL architecture for quick RCA
+Experience SQL Server cluster environments
+
+Every month check database and maintain database growth
+
+Hands on experience on database \ Windows issues monitoring and
+troubleshooting
+
+Good exposure in Database and SQL Performance Tuning
+
+Expertise in Oracle database administration in a 24x7 mission critical
+environment
+
+Expertise in SQL Server database administration in a 24x7 mission critical
+environment
+
+Knowledge of database backup and recovery
+
+Manage and test back-up and recovery plans
+
+Knowledge of databases security principles and technics
+
+Control access permissions and privileges
+
+Monitor performance and manage parameters in order to provide fast
+responses to front-end users
+
+Carry out capacity planning
+
+Network (General TCP/IP, DNS, Firewall & Load Balancer)
+NoSQL DB?
+
+Self starter, able to work independently without supervision
+Cornerstone
+
+FiSHnet
+
+FounDRI
+
+Oracle 12.c and higher experience
+
+AWS Oracle RDS with migration experience
+
+Database hardening to DISA STIG, able to document variances
+Oracle RAC experience including OEM (EM Cloud Control)
+Oracle ASM experience

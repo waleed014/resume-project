@@ -1,0 +1,85 @@
+EXPERIENCE
+04/2018 — present
+
+02/2012 — 11/2017
+
+EDUCATION
+
+SKILLS
+
+Michel Miller
+
+28516 Leigha Trail, New York, NY @ Phone: +1 (555) 896 7059
+
+GLOVER, JOHNSON AND STROSIN Los Angeles, CA
+Database Administration
+
+¢ Solid experience with the Unix/Linux operating system and command set competence with Shell, Perl
+and/or Python scripting
+
+¢ Good knowledge of physical and logical disk systems and their impact on database performance
+
+Advanced knowledge of standard database functions and concepts for DWH applications
+
+Solid understanding of SDLC processes and the production DBA's role in configuration and change
+
+management
+
+¢ Experience supporting new project development and testing in non-production environment
+
+¢ Experience in an enterprise 24x7 environment
+
+¢ Experience providing Teradata platform support from data loads and SLA perspective
+
+¢ Support users in production and non-prod environments and address escalations as necessary
+
+JACOBSON, LINDGREN AND KOZEY Los Angeles, CA
+Database Administration
+
+¢ Experience working and supporting DevOps teams from DBA standpoint
+
+¢ Experience understanding data model and providing design and ETL code recommendations during
+development phase
+
+¢ Strong verbal and written communication skills are necessary due to the dynamic nature of
+collaborations with other teams inside and outside our branch of the organization, and possibly
+vendors to solve complex business problems together
+
+¢ Effective inter-personal relationship skills, professional character, and tact
+
+¢ The capacity to complete tasks with minimal supervision and work without significant oversight to
+follow provided requirements and develop solutions
+
+¢ Working knowledge of distributed source control
+
+¢ Familiarity with the OSI layers and their role in troubleshooting issues
+
+¢ Experience with AWS architecture
+
+¢ Understanding of Linux, Windows and Oracle Patching cycle
+
+OREGON STATE UNIVERSITY Bachelor's in Computer Science
+
+¢ Power BI data management, developing, and DAX authorizing
+
+¢ DevOps culture, processes, and tools
+
+¢ JIRA or other bug tracking/work management tool
+
+¢ Low code/no code automation, such as Automation Anywhere RPA or Microsoft PowerApps
+
+¢ Knowledge of Python Development
+
+¢ Knowledge on MySQL, MariaDB, Casandra
+
+¢ Knowledge and working experience with Microsoft Azure Cloud Infrastructure setup and
+implementation
+
+¢ SQL Managed Instance and database management and should be familiar with SQL Server tools and
+utilities like SSMS
+
+¢ RSA Software will be an advantage
+
+Oracle EBS 11i, R12.1.3+
+
+.

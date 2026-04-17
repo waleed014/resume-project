@@ -1,0 +1,72 @@
+City, Country
+00000000000
+
+JOHN DOE
+
+JAVA DEVELOPER
+
+email@gmail.com
+
+linkedin.com/in/mylinkedin
+
+®OOO
+
+Work Experience
+
+Java Developer Consultant June 2023 - Present
+Company| City, Country
+
+¢ Contributed to the development an API marketplace solution for a country federal public service, facilitating
+API publishing and consumption experiences for companies. Utilized Java, Spring Boot and Vue.js
+technologies in an Agile environment to develop the platform.
+
+¢ Designed and implemented RESTful endpoints to efficiently serve essential content to the front end,
+optimizing data retrieval processes and enhancing user experience.
+
+e Enhanced platform security by implementing Nuxt middleware for role-based route protection,
+streamlining user access while reinforcing data safety.
+
+¢ Crafted Bash scripts to automate the backup and restoration of PostgreSQL databases in an OpenShift
+environment, significantly reducing reliance on third-party solutions and enhancing operational autonomy.
+
+Full-stack Developer Java / Vue.js Sept. 2019 - June 2023
+Company | City, Country
+
+e Developed a Spring Boot microservice allowing users to import PDF invoices into the software via email,
+improving data accessibility and user efficiency.
+
+e Incorporated multiple external microservices using REST APIs : Sirene (a French public service API for
+registered companies), Digiteal and Ibanity (registration and document exchange on the PEPPOL network).
+
+e Established integration with the PEPPOL network by crafting XML documents in compliance with UBL
+requirements using JAXB for effective transmission through the network.
+
+e Enriched the available functionalities following Agile methodology: development of the CRM (notes, tasks,
+opportunities displayed on a kanban board), automation of recurring invoices, data management tools
+(GDPR), dashboard with statistics and graph visualisation using Chart.js.
+
+e Implemented updated business logic to align with French regulations, including unit tests and automated
+documentation updates. Successfully obtained NF203 and NF525 certifications for three consecutive years
+through INFOCERT audits, affirming software compliance and internal quality.
+
+¢ Contributed to the redesign of the software's front end with Vue.js, improving UX/UI and simplifying future
+development integration through a component-based system.
+
+Education
+
+Bachelor in Business Informatics June 2019
+University, City, Country
+
+Focus: IT and business development, DDB management, analysis (UML)
+
+Skills
+
+Languages Technical skills
+
+French : native Java, Spring Boot, Hibernate, Vue.js, JavaScript, HTML, CSS, XML, PostgreSQL,
+English : C1 MySQL, JUnit, Mockito, Maven, Git, Docker, Jenkins, OpenShift, Postman, Jira
+Dutch : B1 Qualities
+
+Mandarin: A1
+
+Teamwork, analytical, organised, rigorous, mediator

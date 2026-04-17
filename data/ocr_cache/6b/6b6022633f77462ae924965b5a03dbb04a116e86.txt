@@ -1,0 +1,81 @@
+AISHA REMPEL
+
+502 Cummerata Corners, Philadelphia, PA + +1 (555) 923 6347
+
+‘WORK EXPERIENCE
+
+WEB SECURITY LEAD-PEN TESTER, 12/2015 - PRESENT
+Chicago, IL
+
+‘+ Write new automated regression tests
+
++ Verify the accuracy of the API documentation
+
+‘+ Experience in working in Corporate Security, specifically in the vulnerability management field
+
++ Experience working in vulnerability management systems, including network security testing or web/mobile security testing
+
++ Experience leading complex initiatives
+
++ Pen testing experience in Web, network and mobile applications for 3-5 years
+
++ Create Test Cases based on business requirements
+
+‘+ Highlighting gaps in business requirements from a QA perspective
+
+WEB UI TESTER 11/2011 - 08/2015,
+Philadelphia, PA
+
+‘+ Defect Management within the team and across a set of countries
+
++ Test Coordination within the team and across a set of countries
+
++ Test Reporting on project level
+
++ Set up Automated Testing
+
++ Experience dealing with customers directly (good written and verbal communication)
+
++ Experience in coordination/leading a testing team (would be ideal)
+
++ Knowledge or at least willingness to learn Python
+
++ Knowledge or at least willingness to learn Selenium (Automated Testing Tool)
+
+‘+ Web Application Security testing experience
+
+WEB APPLICATION TESTER, 06/2006 - 07/2011
+Philadelphia, PA
+
++ Good understanding of web application vulnerabilities (SQL Injection, Cross-site scripting, CSRF, Privilege Escalation)
+
+‘+ Hands on experience with tools like AppScan Enterprise, AppScan Source, BurpSuite
+
+‘+ Experience with F5 Web Application Firewalls
+
+‘+ Scripting skills in Python and/or Powershell
+
+‘+ Strong Information Security experience
+
+‘+ Strong web application security & penetration testing experience on web applications and web services through manual testing
+
+Intermediate mobile security penetration testing experience
+
+EDUCATION
+
+WHITWORTH UNIVERSITY 2001-2005
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Strong Windows and Unix skills
+
+‘+ Avery keen eye for documentation and good analytical skills,
+
+‘+ Working in an international, flexible environment with a team of experienced professionals
+‘+ Experience with phishing and other social engineering tactics,
+
++ Strong desire for product quality and understanding of testing strategies and methodologies
++ Atleast two years’ experience testing software systems,
+
+‘+ Experience in Software Quality Assurance — both manual and automated testing

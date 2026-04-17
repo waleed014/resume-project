@@ -1,0 +1,131 @@
+CHARLOTTE MAY
+
+Junior Web Developer
+
+@ john.smith@email.com 9 London
+
+SUMMARY
+
+Highly motivated Junior Web Developer with experience in
+building and maintaining web applications. Proficient in HTML,
+CSS, JavaScript, and PHP with expertise in MVC frameworks like
+Laravel and Symfony. Seeking to join a dynamic team where |
+can utilize my skills to help drive the success of the organization.
+
+EXPERIENCE
+
+Web Developer
+
+ABC Company
+
+& @ London
+
+Developed and maintained web applications, resulting in increased user
+
+engagement and improved user experience.
+
++ Implemented new features using PHP and Laravel, resulting in a 30%
+increase in user retention.
+
+* Optimized website performance by using caching techniques, resulting
+in a 20% decrease in page load time.
+
++ Improved website accessibility by implementing responsive design,
+resulting in a 15% increase in mobile traffic.
+
+Junior Web Developer
+
+DEF Company
+
+& @ Manchester
+
+Assisted in the development and maintenance of web applications,
+
+resulting in improved functionality and increased user satisfaction.
+
+* Worked collaboratively with the team to develop new features using
+JavaScript and React, resulting in a 25% increase in user engagement.
+
+* Identified and resolved software issues using debugging techniques,
+resulting in a 10% decrease in website downtime.
+
+* Assisted in the development of REST APIs, resulting in improved
+functionality and increased user satisfaction.
+
+Web Development Intern
+
+GHI Company
+
+& 9 Birmingham
+
+Assisted in the development and maintenance of web applications, gaining
+
+valuable experience in web development.
+
+* Assisted in the development of PHP and MySQL web applications,
+gaining valuable experience in web development.
+
+* Collaborated with the team to identify and resolve software issues,
+gaining valuable experience in debugging techniques.
+
+* Learned and applied new technologies and techniques, including Git
+version control and REST API development.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+
+University of Manchester
+& 9 Manchester
+
+www.enhancv.com
+
+STRENGTHS
+
+yy Project Management
+
+Managed 3 projects simultaneously,
+delivered on time and within budget.
+
+* Team Collaboration
+Collaborated with cross-functional teams
+
+to develop and launch new features.
+|) Problem Solving
+
+Identified and resolved complex technical
+issues for clients.
+
+SKILLS
+
+PHP MySQL Mvc AJAX
+
+REST APIs JavaScript React
+
+Vue Git
+
+ACHIEVEMENTS
+
+5o3 Launching E-commerce website
+
+Developed and launched an e-commerce
+website with a 30% increase in sales.
+
+® Creating CMS for client
+
+Designed and developed a custom CMS
+that improved client workflow by 50%.
+
+AWARDS
+
+Ww Best Hackathon Project
+
+Developed a mobile app that won first
+place at a local hackathon.
+
+@ Team Mvp
+
+Recognized for outstanding performance
+and teamwork by senior management.
+
+Powered by (CX? Enhnancu

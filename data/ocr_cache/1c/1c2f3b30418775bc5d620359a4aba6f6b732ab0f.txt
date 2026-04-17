@@ -1,0 +1,100 @@
+SUMMARY
+
+EDUCATION
+
+RELATED EXPERIENCE
+
+LANGUAGE
+COMPETENCIES AND
+SKILLS
+
+ACCOMPLISHMENTS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 82 (555) 432-1000 4 resumesample@example.com
+
+[Area of study] student with background in [Area of expertise]. Strong technical proficiency with work history in
+[Area of expertise]. In-depth knowledge of [Software] coupled with [Task] and [Task] abilities. Proven history of
+[Skill] and (Skil)
+
+High School Diploma 06/2022
+Westview High School, San Diego, CA
++ 4.46/4.0 GPA
+‘+ AP Coursework in Chemistry, Biology, Computer Science, Calculus AB/BC, Physics C Mechanics /
+Electricity & Magnetism, and Psychology
+
+ROBOTICS TEAM #3341, TEAM LEADER 11/2020 to CURRENT
+Super Soccer Stars, Amazing Athletes, Jumpbunch & Tga
++ Formulated robot building strategy for the hardware and software team members while launching
+outreach plans to accomplish a set of challenges per the FRC requirements
+‘+ Develop a business model using Al technology to promote physical fitness and mental health for the
+FIRST Global Innovation Challenge project
+‘+ Facilitated STEAM workshops, developed robotics curriculum, and mentored students from 27 schools,
+and 35 Girl Scout troops
+
+c@cH 11/2020 to CURRENT
+Eclinicalworks
+
+‘+ Creating weekly lesson plans on molecular and cell biology topics
+
+‘+ Orchestrated team to win fourth place at Regional Science Olympiad in 2021
+DICECTOR OF TECHNOLOGY 06/2020 to CURRENT
+Catalyst For Success
+
++ Established online learning platform with live videos and graphical explanations to provide free,
+interactive, and easily accessible resource for STEM learning during COVID-19
+
++ Organized and demonstrated dozens of hands-on science experiments for hundreds of students in
+elementary schools, local libraries, science expos, and museums to inspire interest in STEM
+
++ Collaborated with low-income elementary schools to provide free science enrichment programs
+
+LUELESS TEAM #11212, CAPTAIN 08/2018 to 05/2020
+FIRST Tech Challenge
+
+‘+ Developed software, managed outreach, and raised funds for competitions
+
+‘+ Led software team to automate robots using machine learning algorithms. Designed and developed
+algorithms to control the robot; utilized GitHub to manage software
+
+‘+ Organized “Shields Against COVID-19" and raised $11,000 from Mar 2020 to May 2020: delivered 3000
+face shields for essential workers to 70+ hospitals and clinics in the U.S. and Mexico
+
+SKODOW STUDENT 06/2019 to 08/2019
+Queen Mary Hospital | City, STATE
+
+‘+ Shadowed pathologists for 80+ hours in performing surgical cut-up, diagnosing patient abnormalities,
+performing H&E, immunofluorescence, and immunohistochemistry staining
+
+‘+ Analyzed specimens to determine cancer type and staging; targeted therapy potentiality: ran
+fluorescence in situ hybridization, PCR, gel electrophoresis, and DNA sequencing
+
++ Cytologically prepared and screened Gynae, non-Gynae, and FNA specimens; conducted scanning
+and transmission microscopy to detect abnormalities in renal tissues, muscles and nerve bundles
+
++ Chinese (Mandarin and Cantonese) + CShell
++ Java + Vutoria
+
+* Python + Opencv
+
++ MATLAB + Tensorflow
+
+‘+ Android Studio + WiFi
+
++ Firebase Server + Bluetooth loT
++ GitHub
+
+WanderGuardian 2020 - 21
+‘+ Finalist of National Junior Science and Humanities Symposia
++ Congressional App Challenge Winner
+‘+ Microsoft Imagine Cup Junior Al for Good Challenge Winner
+First Tech Challenge
++ FIRST World Championship at Houston
+‘+ Winning Alliance Captain Award at the FTC Arizona State Championship
+‘+ Inspire Award and Winning Alliance Captain Award at FTC Regional Competition
+Academic Competitions
++ 1st place in Protein Modeling
++ 2nd place in Circuit Lab
+‘+ 3rd place in Disease Detectives at Regional Science Olympiad Competition
+‘+ Semifinalist (top 10% nationwide) USA Biolympiad

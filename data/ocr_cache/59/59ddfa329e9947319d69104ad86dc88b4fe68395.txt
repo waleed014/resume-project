@@ -1,0 +1,84 @@
+‘Susan Satterfield
+507 Nicole Plain, Chicago, IL # Phone: +1 (555) 635 1734
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR ETL ENGINEER
+Phoenix, AZ
+04/2014 — present
+‘© Work independently in the development, testing, implementation and maintenance of data processes of
+moderate-to-large size and complexity
+To provide technical input to MIS incident and problem management
+Document the data mapping, transformation logic and process flow for each development project,
+Work with software administrators to install, configure and troubleshoot ETL platforms
+Design, develop, test, debug and deploy code, primarily consisting of data warehouse & data mart
+contents
+‘© Design, implement, and execute test plans to ensure highest level of quality is achieved
+‘© Work closely with Quality Assurance, Operations and Production support group to devise the test plans,
+answer questions and solve any data or processing issues
+
+SSIS & ETL ENGINEER
+
+Detroit, MI
+06/2011 — 02/2014
+‘© Design and develop extract, transform, and load (ETL) mappings, procedures, and schedules, following
+the standard development lifecycle
++ Perform installation, administration, and configuration of SSIS servers in production, pre-production,
+and development environments
+‘+ Provide Level 2 support and fulfillment of service requests for ETL packages, acting as the primary
+escalation point for the Service Desk and NOC
++ Perform testing and QA to ensure the accuracy of data
+‘* Develop and maintain operating procedures and support documentation for ETL packages and the SSIS
+infrastructure
+‘* Design and develop data warehouse database schemas
+
+‘© Write queries to pull data from WMP systems and analyze it to better understand data quality
+ETL ENGINEER
+Detroit, MI
+
+12/2007 — 03/2011
+
+‘Assistance with effort planning and on-time delivery of development requests
+
++ Establishes relationships and effectively responds to competing priorities with key customers, account
+‘management and other stakeholders
+
+Continuous analysis of existing solution to provide insight into possible improvements
+
+Prepares program specifications and diagrams and develops coding logic flowcharts
+
+Help define workflows that will include Informatica
+
+Performance tune existing solutions as well as solutions in which you will be creating
+
+Create mappings to match data to a source system and confirm correctness of data
+
+NORTHWESTERN UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+‘Strong working knowledge of data-modeling skills, with a solid understanding of entities and
+relationships
+
+‘+ Excellent troubleshooting skills with demonstrable experience identifying bottlenecks in existing
+database/ETL processes
+
+‘Strong understanding of UNIX platforms, and Java programming with shell scripts
+
++ Ability to write complex SQL and create DB objects like stored procedures, functions, Materialized views,
+ete
+
+Ability to work in a live environment on Oracle, SQL Server and UNIX
+
+Extremely strong communication skills -both written and spoken English
+
+Strong written and verbal communication skills
+
+Excellent analytical and problem solving skills
+
+Expert level knowledge and hands on experience in SQL
+
+Knowledge on big data is a big

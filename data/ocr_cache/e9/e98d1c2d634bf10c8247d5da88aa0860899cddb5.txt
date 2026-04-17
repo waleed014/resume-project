@@ -1,0 +1,83 @@
+Taurean Gislason
+
+52406 Mara Lodge, Phoenix, AZ. # Phone: +1 (555) 485 5129
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+COMPLIANCE TESTING SPECIALIST SENIOR
+‘San Francisco, CA
+10/2016 — present
+‘+ Advising on and recommending improvements on business process, policy and procedure, self-testing, or
+other controls based on observations during testing
+‘* Execute testing and reviews according to a test plan including procedures and selection of samples, sample
+size, and rationale
+‘* Executing assigned scheduled compliance testing engagements timely with high level of quality
+documentation and reports
+‘+ Identifying issues, deficiencies, inconsistencies, or opportunities for improvement in business process
+based on detailed testing
+‘+ Review testing results with ETS Management to determine if issues have been identified
+‘* Communicate testing findings to the business, makes recommendations to improve policies and
+procedures
+‘* Provide consulting services for clients on risk and control issues. May assist clients in implementation of
+new / improved systems, products / services, and controls
+
+SENIOR TESTING SPECIALIST
+Chicago, IL
+01/2010 — 07/2016
+‘© Work with delivery leaders, project managers, resource managers, business analysts, designers, developers
+and business partners to ensure expectations are met
+Design, develop and execute automated tests utilizing a testing framework
+Analyze, create workflows, documentation and perform peer reviews
+Providing weekly status reports to Management
+Assist with developing meeting agendas, meeting materials, meeting minutes, capturing Action Items and
+Risks
+‘+ Develop and execute ongoing test to evaluate security control implementation
+‘© Work with develop and test team member closely
+
+TESTING SPECIALIST
+‘Los Angeles, CA
+09/2003 — 12/2009
+‘+ Acts as an expert providing direction and guidance to process improvements and establishing policies
++ Resolves test yield problems by performing analysis of root causes, developing and coordinating
+corrective action measure and monitoring improvements
+‘* Develop and execute performance, load, and stress scenarios and test cases
+‘* Develop and execute automated and manual test cases
++ Partner with Test Development Manager and Test Owners to interact with Line of Business partners to
+facilitate test design
+‘© Assess & understand the work performed in their assigned area of EIT
+
+‘+ Proactively anticipate issues and develop solutions, provide active support and solutions in trouble-
+shooting effort
+
+UNIVERSITY OF SOUTHERN CALIFORNIA
+Bachelor’s Degree in Ingenuity
+
++ Ability to deliver high-quality results in a fast paced environment and comfortable managing,
+manipulating and summarizing large quantities of data
+
++ Ability to deliver high-quality results in a stressful environment and comfortable managing, manipulating
+and summarizing large quantities of data
+
+‘+ Strong knowledge in XML, DTDs and Schema based processing to include the ability to validate and
+correct XML content
+
+‘+ Excellent Excel skills including pivot tables, importing and exporting data, charts, linking of data to
+sources, Excel automation experience
+
+Basic knowledge of the electrical and technical properties of power transformers and reactors
+
+Professional knowledge of measurement systems
+
+Strong data quality mindset
+
+Strong business partnering experience / skills including the ability to interact, communicate, and influence
+
+equally well within all levels of an organization
+
++ Basic knowledge of IT, SAP, communication skill
+
+‘Strong project management skills, including the ability to prioritize work and meet deadlines

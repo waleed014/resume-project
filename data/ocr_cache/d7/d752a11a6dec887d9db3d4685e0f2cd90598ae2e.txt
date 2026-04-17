@@ -1,0 +1,221 @@
+JESSICA
+CLAIRE
+
+© _resumesample@example.com
+%& (655) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
+‘SAP Business Objects 4.0,4.1,
+BOXIR3, Web Intelligence, Tableau,
+Crystal Reports 2011/2008,
+Xcelsius, Design Studio, Bex
+‘Analyzer, BO Explorer 4.0/3.1
+
+MS SQL Server 2008, 2012, Oracle
+12G/ 11G/10G/9i,8i. BI 7.0, 7.03
+AND 7.3. SAP BO 4.0, 4.1.
+
+EDUCATION
+Oakton Community College
+Plaines, IL + August 2011
+
+Associates Degree: Applied
+Sciences
+
+PROFESSIONAL SUMMARY
+
++ Overall 6 years of experience as a Business Objects Developer, Sap BO XI 4.0 and 4.1.
+
++ In debt understanding of Universe Design, Development, Alteration, Maintenance, using
+Information Design Tool and Universe Design Tool (IDT and UDT).
+
++ Experienced in developing complex reports using Webi Rich Client, Crystal Reports, Dashboard
+designer and Design Studi
+
++ Excellent understanding of Data Warehouse concepts, OLAP, Star Schema, Snowflake Schema,
+Extended Star Schema, Data Modeling using Normalization, Business Process Analysis, Dimensional
+Data Modeling, Physical & Logical Data Modeling.
+
++ Strong understanding of OLTP/ERP and BI/OLAP Systems.
+
++ Competent in handling all levels of data warehouse life cycle, including requirements gathering,
+analysis, preparing business specifications, designing technical specifications, and system
+requirement specifications.
+
++ Performance tuning, testing, migrating to production and post-production support. 1, 80 Data
+Services XI 3.2, BODI 11.5.
+
++ Expertise in working on SQL with Databases such as Oracle 11g/10g/9i, MS SQL Server 2005, 2012
+1BM DB2 VB and Tera data V12.
+
++ Proven ability to work in cross-functional teams with high sense of ownership and strong customer
+focus.
+
++ Experienced using BEx Query Designer.
+
++ Worked extensively with Web Intelligence functions, formulas, and variables.
+
++ Applied/Used functions, such as filters, conditions, breaks, sorting, drill down, slice and dice,
+Input Controls, Master/Detail, Cross Tab, Charts and alerts to name a few in Web Intelligence.
+
++ Excellent ability designing, developing and troubleshooting simple to complex reports in SAP
+BusinessObjects.
+
+WORK HISTORY
+
+‘American Society Of Quality - SAP Business Objects Developer
+City, STATE + 01/2017 - 05/2017
+
++ Analyze, design, development and configuration of Web intelligence and Crystal reports for high
+profile business users.
+
++ Activities also included working with business users to establish requirement gathering for new
+reports and modify existing reports.
+
++ Created various simple and complex reports , mainly using business objects universes as data
+providers.
+
++ Created and defined the Hierarchies for various reports based on user requirement.
+
++ Utilized Web Intelligence reporting tool to create graphical representation of reports such as Bar
+charts, Pie Charts as per requirement.
+
+Raytheon CO - SAP Business Objects Developer
+City, STATE » 08/2015 - 07/2016
+
++ Created Web intelligence reports utilizing SQL Queries, as per the Functional Specifications.
+
++ Reading, writing, executing and maintaining Microsoft Access queries, logic, macros, reports, and
+forms.
+
++ Used formatting options such as Cross Tab Representation, Section Breaks, Data Sort Options,
+Calculations, Fonts, Colors, And Conditional Formatting “IF”, “Then” and "Else" in Web intelligence.
+
++ Developed various Charts, Graphs, drill down reports, Vertical and Horizontal Tables using Web
+Intelligence.
+
++ Exported reports as Power Point, PDF, Excel or CSV.
+
++ Involved in creating Conditions, Operators, Formulas, Filters, Ranking, Sorting, SubQu
+Combined queries, Prompt, Section, and Scope of Analysis (Input Controls) in Web intelligence.
+
++ Utilized Merged Dimensions feature to allow linking of two or more data provider (queries).
+
++ Converted Deski reports to Webi using Report Conversion tools.
+
++ Created various dashboards using Crystal Dashboards and Xcelsius.
+
++ Assisted with developing Crystal Reports in team environment - Creating, formatting, applying
+templates, linking to proper data source, sorting, grouping, summarizing, and aggregating data.
+
++ Involved in effort estimations for development of the reports and Universes.
+
++ Requirement gathering from Business Analyst and create the specs for development of Universe
+using Universe Designer - IDT.
+
++ Modified and maintained Universes using Designer module to include objects such as Dimensions,
+Details and Measures according to the functional specifications.
+
++ IDT - Worked with Connection Layer, Data Foundation Layer, Business Layer, aliases, Contexts,
+Aggregate Awareness, Index Awareness, Navigation Paths and Predefined Conditions.
+
++ Created Aliases and Contexts for resolving Loops, checked the cardinality and integrity.
+
+Developed Universes using OLAP data sources.
+
+Assisted in Database Design Star and Extended Star Schemas.
+
+Assisted transfer of data from SAP/R3 to BI.
+
+Created Multiproviders on infocubes and DSOs.
+
+Assisted generating reports using BEx Analyze and Query Designer.
+
+Testing and Validating data values.
+
+Walgreens CO - SAP Business Objects Developer
+City, STATE + 03/2013 - 08/2015
+
++ Performed complex Web intelligence report conversions from Excel workbook to Webi.
+
++ Performed unit and integration testing and participated in report validation and Qa efforts as they
+pertain to reporting and data analytics.
+
++ Written simple and complex SQL queries.
+
++ Excessively worked with internal teams to analyze and recommend reporting solutions to meet
+business requirements.
+
++ Developing highly visual reports using Xcelcius Dashboard.
+
++ Designed, programmed, and implemented new reporting documents and processes, modified
+existing reports and produced ad-hoc reports as needed utilizing Webi.
+
++ Maintained and adhered to standard report writing practices to ensure consistency of data and
+
+format between various reports.
+
+Validated report data values.
+
+Scheduling reports utilizing CMC.
+
+Coordinate security requirements and administration.
+
+Design/Deletion and management of groups, users, and objects.
+
+Fifth Third Bank - SAP Business Objects Developer
+City, STATE + 08/2011 - 02/2013
+
++ Develop and Support Data warehousing reporting and maintenance requirements.
+
++ Responsible for technical design and requirement Analysis.
+
++ Responsible for effort estimations for Business Objects Universe and reports requirement.
+
++ Created the new Universes as well as customizing the old Universes (using aliases, contexts,
+aggregate awareness, aggregate navigation and hierarchies) as per the requirements.
+
++ Creating Deski Reports, Webi reports (used alters, merge dimension, filters, prompts, user
+response, multiple data providers) as per the request.
+
++ Involved in dashboard maintenance including updating existing dashboards as per user needs,
+‘which involved updating the underlying Webi Reports and Queries and displaying the updated data
+jn dashboard.
+
++ Creating Unit test cases and conducting unit testing of individual reports.
+
++ Participated in reviews of the reports and Universes and creating the review logs and review
+checklists.
+
++ Responsible for migration of reports and Universes from BO XI R3 to SAP BO 4.0.
+
++ and fixes after migration issues in Webi Reports.
+
++ Worked on SAP BO 4.0 Webi rich client, Universe Design Tool and LCM tool.
+
++ Interacting with customers to fix the issues found in UAT.
+
+‘Sprint/Nextel Corporation - SAP Business Objects Developer
+City, STATE « 01/2011 - 07/2011
+
++ Recreated the existing reports from Excel format to Webi (.Wid) format.
+
++ Interacting with the client for understanding the project requirements and planning the project and
+resource accordingly.
+
++ Creating low level design documents.
+
++ Customizing the Universes as per the requirements.
+
++ Recreating Webi reports as per the requirement specs.
+
++ Designed reports that include formatting options such as Grouping, Sorting, Drill down, Parameter
+prompts.
+
++ Creating Unit test cases and conducting testing of individual reports.
+
++ Interacting with customers to fix the issues found in UAT.

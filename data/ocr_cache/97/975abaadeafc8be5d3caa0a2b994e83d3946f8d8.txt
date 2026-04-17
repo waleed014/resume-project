@@ -1,0 +1,92 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 # (555) 432-1000 # resumesamplesexample.com
+
+Career Overview
+
+‘Over 20 years of administrative and organizational experience utilizing Microsoft Office and Microsoft SharePoint. Goal oriented and.
+team player. Expertise in solving complex, technical, personal and logistical problems, while increasing production goals, on or
+ahead of schedule.
+
+Qualifications
+‘+ Technical help desk experience ‘+ Document management
++ Strong analytical skills + Excellent problem solving skills
+‘+ Web content management + Programming and design skills
++ Strong collaborative skills + Information security
+Technical Skills
+SharePoint Development Intermediate 4 September 2014
+Accomplishments
+
+Operational Management
+++ Identified, recommended and prioritized new portal features and applications in conjunction with business leaders and
+department managers.
+
+Work Experience
+
+SAP Administrator, 03/2015 to Present
+Canon Business Process Services ~ Schenectady, NY
+‘+ Maintained HIRES Log to verify components being processed.
++ For components that were deficient, ran Bill of Material comparison to have components updated.
++ Performed part number verification on a daily basis utilizing WindChill.
++ Downloaded component structures as required to create Bill of Materials in SAP.
+
+SharePoint Developer/Site Data Analyst/Internal Auditor, 09/2011 to 09/2014
+Eli Lilly And Company - Newark, NJ
+++ Processed computers for Navy and Marines Corps activities utilizing Microsoft SharePoint 2010.
++ Updated and distributed process documents to leadership within the organization.
++ Continuously provided training on processes and procedures.
+‘+ Tracked computer delivery on a daily basis utilizing a Milestone Tracker within Microsoft SharePoint.
+++ Processed 1,103 staging requests, totaling 97,894 computers.
+++ Extracted data files through Microsoft Excel and analyzed data using pivot tables, enabling the removal of duplicate serial
+numbers from the SharePoint database.
+‘+ Developed an Internal Account Tracker utilizing Microsoft SharePoint that enabled leadership to track training requirements for
+all personnel within the organization,
+‘+ Developed a Master Document Index utilizing Microsoft SharePoint that enabled the organization to track the processes and
+procedures for computer delivery.
+‘+ Administered site lists, and personal permissions to personnel within the organization.
+‘+ Conducted internal audits to monitor the organization's processes and procedures,
+
+Data Analyst/Portal Content Manager, 08/2010 to 06/2011
+UNITED STATES JOINT FORCES COMMAND - City, STATE
++ Developed online portal sites utilizing Microsoft SharePoint 2007, enabling the organization to collaborate more effectively with
+external customers.
+‘+ Administered site, lists, and personal permissions to personnel within the organization.
++ Constructed/developed portal site content for 20 Project Teams.
++ Conducted audits that identified areas of responsibility that needed to be marked as Deleted, Archived, and Retained.
+‘+ This verification process enabled C5G Operations to obtain 100% verification of all portals, providing a smooth transition to a
+Joint Staff records system.
++ Utilized remote interfaces (SharePoint Designer 2007) to develop on-line portal sites, enabling Project Teams to have a repository
+for increased information/data exchange.
++ Briefly worked with creating workflows within Microsoft SharePoint.
+‘+ Add, changed, or deleted HTML pages or Web Part pages, and edited Web sites by using a Windows SharePoint Services-
+compatible editor.
+
+Functional Data Analyst, 10/2008 to 08/2010
+‘SPAWAR - City, STATE
+‘+ Constructed maintenance databases for Navy and Marines Corps aviation commands.
+++ Databases were constructed to allow archiving, retrieving operational and supporting records for each specific aircraft platform.
++ Constructed maintenance databases for Naval Aircraft and Aviation Life Survival Equipment to enable Navy and Marines Corps
+aviation commands to track their components more effectively and efficiently.
+‘+ Coordinated the construction and development of personnel training records.
+
+Maintenance Chief Petty Officer, 1987 to 2009
+UNITED STATES NAVY — City, STATE
+‘+ Managed and supervised multiple personnel.
+‘+ Technical knowledge and expertise ensured the day-to-day upkeep and maintenance of the command's LAN Area Network for
+‘maintenance users.
+‘+ Awarded Navy and Marines Corps Commendation Medal for meticulously collecting, screening and submitting numerous
+aviation source documents in a timely manners.
+‘+ Trained aviation personnel in proper documentation and analytical processes in maintenance management.
+‘+ Administered and tracked personnel’s Special Maintenance Qualifications (SMQ's) which gave them the required access to
+
+complete each assigned maintenance task.
+Skills
+
+HTML, Internal Audits, Microsoft Excel, Microsoft SharePoint, Personnel Training, Pivot Tables, SAP
+Education and Training
+
+Bachelor of Science: Web Design, 2012
+Strayer University - Chesapeake, VA.
+
+BS: Web Design, 2012
+Web Design

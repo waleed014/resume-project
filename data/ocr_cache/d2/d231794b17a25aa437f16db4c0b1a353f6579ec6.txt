@@ -1,0 +1,55 @@
+Robert Smith hone (128) 456 7899
+
+Email Infocawikeesume,com
+Website wont, quikresuime, com
+Linkedin: linkedin.com/quikresume.
+‘Address; 1737 Marshullle Road, Alabarna
+
+Data Scientist Intern
+
+SUMMARY
+
+‘Asa Data Scientist Inter, responsible for executing data driven solutions to increase
+efficiency, accuracy and utility of internal data processing. and also creating data regression
+‘models.implement action oriented solutions to complex business problems,
+
+SKILLS
+
+Data Mining, Handling Pressure, Collaboration, Problem Solving Skills
+WORK EXPERIENCE
+
+Data Scientist Intern
+‘ABC Corporation - June 2015 - August 2015,
+* Conducted data regression analyses of rélationship between compary prices and industry
+
+trends, achieving a more accurate prediction of perforrnance than previous years.
+Utllized web scraping techniques to extract and organize competitor data,
+Updated company data warehousing techniques as data recall and segmentation, resulting in
+Increase usability for non-technical staff,
+Modernized data streamlining process, resuting in redundancy reduction
+Improved mining process, resulting in a 15 % decrease in a time needed to infer Inslahts fram
+Customer data used to develop marketing strategies.
+Worked with research tearn to develop complex views and stored procedures that extract
+pertinent information fromm database for thelr research.
+Performed data manipulation, analysis, modeling and visualization on massive transaction
+data with Impala, Python and & Collaborated with Business,
+
+Data Scientist Intern
+‘ABC Corporation - 2011 - 2015
+* Visualization offinal Maps in Are-GIS anc Tableau.
++ Main role in this internship Isto evaluate the usage of diferent machine learning techniques
+for the dernand forecast of diferent products and adjust the production,
+Multivariate Linear and nonlinear regression techniques and classification techniques are
+Implemented and their performance is evaluated in different contexts and scenarios.
+Implernentations are tested on data on Hadoop cluster using R, Spark MLID, Matlab and
+Mahout.
+Sharding technique |s used forthe MySQL hackend instances;
+EMR Hadoop cluster is used for HBase,
+Fine performance tuning was performance on both databases and frontend Recommendation
+Systern for Netilix Movies (Python, sckit-leam)
+
+EDUCATION
+
+Masters Degree
+
+(0 This Era sume Tamla is the copyright of Onakesume com. Uso Guldatns

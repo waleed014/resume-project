@@ -1,0 +1,54 @@
+ROBERT SMITH Linkedin
+
+Objective
+
+Dok Net Developer with Seven years of experience in design and development of web-based and
+windaws based applications using .net technologies. Hands on experience In all phases of
+oftware development life cycle (SDLC) like Requirement Gathering, analysis, architectural and
+detail design, documentation, development, testing and implernentation using AGILE
+Tethodologies like Scrum, XP and test driven environment.
+
+Ss
+
+Programing Languages And .NET Technologies C#, SOL, PL/SOL, Web Forms, Win Forms, Web
+Technologies And Scripting HTML, DHTML, CSS, XML.ANGULAR JS BOOTSTRAP, AJAX Toolkit,
+JQuery And Javascript, TELERIKikendo Ul) Database MS SOL Server Operating Systems Windows 8
+Packages Ms Office Gamp; Visio, MS FrontPage, IIs Version Control Tools GIT HUB, VSS, TFS
+Methodologies Agile, OOPS, SCRUM, SOA Reporting Crystal Reports .NET, MS SOL Server
+Reporting Services (SSRS)
+
+Work Experience
+
+Dot Net Developer
+
+Charter Communications - june 2015 - present
+‘Assisting in developing architectural design and functional specifications,
+Involving in analysis, designing, coding and implementation of the application,
+Developing dynamic web page and Implemented and creatively implemented design
+Fequirerents using client side scripting language and technologies.
+Assisting in agile software development management activities to respond to the
+Unpredictabilty through iterative sprints,
+Designing and developing web application while migrating the project inte MVC architecture
+Using MVC 3 so as to Separate the intemal representations of information.
+Involved in developing telerik Kenda UI cantrols for building the application enabling to focus
+fn value generating development tasks.
+Involving in the development of presentation logic for GUI of ASPINEt pages,
+
+Dot Net Developer
+ABC Corp - 2011-2015
++ Coded, updated, and fnaintained the computer programs,
+Assisted the develapers to prepare high level technical design documents, performed cole
+enhancements and assist with performance analysis,
+
+Provided technical guidance and programrning standards-to the tear, trained users and the
+team
+
+Coordinated with client Gamp; offshore teern to mest project objectives,
+
+Participated in backlog grooming meeting anid work wth client to remove any barriers forthe
+tear,
+
+Worked as an individual developer and also manage the offshore team,
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+‘Guidelines

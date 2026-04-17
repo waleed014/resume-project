@@ -1,0 +1,65 @@
+First Last
+
+Blockchain Developer
+
+Burlington, Vermont + +1-234-456-789 + professionalemail@resumeworded.com »* linkedin.com/in/username
+
+WORK EXPERIENCE
+
+Resume Worded, New York, NY 09/2015 — Present
+Education technology startup with 50+ employees and $100m+ annual revenue
+
+Blockchain Developer
+
+e Developed 16 decentralized social media web applications using React, CSS, Bootstrap, and web3.js/Ethers
+for integrating Ethereum.
+
+e Reduced costs by 40% using an Ethereum smart contract to automate supply chain management
+processes.
+
+e Built a private blockchain using Hyperledger Fabric 1.0 that enhanced data security and reduced risk
+exposure by 93%.
+
+e Created and launched 12 decentralized applications based on RW's $150M daily transaction using
+Ethereum’s smart contracts.
+
+Polyhire, London, United Kingdom 10/2012 — 08/2015
+NYSE-listed recruitment and employer branding company
+
+Java Developer
+
+e Eliminated duplicate strings via garbage collection logs analysis and refactoring of codes; achieved a 30%
+reduction in the app's memory consumption.
+
+e Identified and enhanced code inefficiencies that led to a 33% increase in app stability within one month on
+the job.
+
+e Created reusable component libraries using J2EE technologies and application servers to increase
+productivity by 80%.
+
+Growthsi, London, United Kingdom 01/2010 — 09/2012
+Career training and membership SaaS with 150,000 paying users
+
+Software Developer and Data Science Intern
+
+e Enhanced a customer's website content ranking algorithm and front-end features, which increased user
+base and retention by 79%.
+
+e Collaborated with 12 development teams to refractor an open source Python Script and web scrape
+Growthsi Images.
+
+e Improved the UI/UX of 23 clients’ websites via responsive front-end using JavaScript, HTML, and CSS.
+
+Systems Engineer, ABC Company, London, United Kingdom 11/2008 — 12/2009
+Cryptography Tutor, XYZ Company, London, United Kingdom 09/2005 - 10/2008
+EDUCATION
+
+Resume Worded University, New York, NY 06/2005
+
+Bachelor of Technology — Computer Science
+
+SKILLS
+
+Web Development: Truffle Framework (Advanced), Geth (Experienced), Embark, Remix IDE, Solium.
+Programming Languages: C, Javascript, Java, Shell Scripting, Solidity, Golang, Python, C++, Vyper, Simplicity.
+Hyperledger Development Tools: Avalon, Caliper, Cello, Explorer, Cactus, Aries, Quilt, Ursa, Grid.

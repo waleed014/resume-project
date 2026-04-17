@@ -1,0 +1,127 @@
+JrEssica CLAIRE
+
+100 Montgomery St. 10th Floor ¢ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Have 9+ years of experience in SDLC STLC processes.
+Extensively worked on Agile— SCRUM
+
+Extensive knowledge in preparing test plans by analyzing the business requirement documents, functional specifications.
+
+Active participation in JAD session, Scrum meetings and heat map discussions.
+
+Expertise of Software Quality Assurance and Testing (SQAT) including requirements analysis, design, development, testing, and deployment
+with developing Test Plans, Test Cases,
+
+Strong experience in planning and executing various test cycles effectively within the deadlines.
+
+Proficient in Manual Testing, Integration, Functional, Regression, User Acceptance Testing, Performance/Strese/Load testing and End-To-End
+‘Testing Experience in automation tools QTP, Test Director.
+
+Experience in testing ERPs (SAP and Oracle CC&B),
+
+Strong problem solving and analytical skills, with profound ability to prioritize and mult task goals in order to meet the time requirements.
+Gallup Strengths Finder top 3 Strengths: Strategy, Leaming, Ideation
+
+SKILLS
+
++ ERP Systems(Oracle/SAP) « Staff training and development
+
+© Zephys/ALMUTIRA Systems Analysis
+
+‘+ Knowledge of quality systems(SDLC/STLC) Data analysis
+
++ Quality contro! tests ‘+ Employee supervision
+Worx History
+
+‘SAP QA Program Manager , 03/2019 - Current
+Hp Inc- Harrisburg, PA
+
++ SAP HANA/Ariba/Zephyr/Tosca/JIRA/Fiori
+
++ Involved in Complete Software Development Lifecycle Experience (SDLC) from Business Analysis to Development, Testing, Deployment
+and Documentation,
+
++ Developed test plans, generated test cases, scheduled resources, and maintained bug tracking for TMNA SAP CORE ERP implementation
+project.
+
++ Responsible for functional and Integration testing of the PTP NGS/DP/OTC-AP modules.
+
++ Created and maintained project schedules, prepared milestone reviews, organized design reviews
+
+‘+ Mitigated QA risks including escalation to senior management, and collaborated with cross-functional teams to ensure testing quality.
+
++ Tracked Defects , reviewed, analyzed, compared and prepared reports comparing JIRA and Zephyr
+
+‘+ Worked cross-functionally with other managers to streamline operations (Agile Integration Team)
+
++ Analyzed User Requirement Document and developed test plan, which includes test objectives, tet strategies, test environment, test
+priorities, test cases etc
+
++ Created and documented test scripts and test data in Ariba and SAP, for functional and regression testing, Unit testing & UAT.
+
++ Analyzed the test coverage across modules/platforms, review existing test cases & test plans, for various TMINA plants nation wide,
+
++ Collaborated proactively with cross functional QA teams, development and SCRUM teams to design and develop effective testing plans
+and cover various scenarios for each plant release
+
++ Actively participated in troubleshoot issues and resolve bugs.
+
++ Played a key sole in improving the performance of QA team by training, coaching and mentoring the team.
+
+‘+ Managed all Smoke/Regression/SIT/UAT testing
+
++ Organized the daily status meetings with POs and the team to review the progress during each cycle.
+
+ERP Ananlyst/ Project Coordinator, 05/2016 - 02/2019
+‘Oncor Electric Delivery — City, STATE
++ Oracle CC&BHP ALMJIRA,
+‘+ As an analyst, defined the scope for System Testing by interacting with development team, functional and business analysts to develop test
+scenarios at various levels of implementation.
++ Interacting with development team, functional and business analysts to develop test scenarios at different levels of implementation.
+‘+ Worked on application security testing on migration of LCIS to CIS project, primarily worked on creating Test Cases/Test Scripts for
+CC&B in HP ALM.
++ Was involved in analyzing the existing functional specifications and identified the testcase scenarios.
++ Delivered thorough QA testing reports that determined product quality and release readiness.
++ Responsible for reporting daily status and progress of testing to the project team.
++ Documented software defects using bug tracking system and reported defects involving program functionality, output, online screen and
+content to software developers.
+‘+ Managed testing tasks concurrently on multiple releases for multiple plants.
++ Created Master Test Plans and Back End Test cases for CIS implementation project.
+
+SAP Project Coordinator, 11/2013 - 10/2015
+Infosmart Systems ~ City, STATE
+= SAP/MMISD/ SECATT
+‘Created Test plans, test cases and testing scenarios for testing custom reports and processes in SAP SD/OTC.
+'* Coordinated with the testers and the team in during Regression/SIT/ UAT cycles.
+‘* Documented support processes to deliver best results training to end users.
++ Used JIRA to successfully create, maintain and close defects.
+‘+ Successfully organized various user training workshops and prepared handouts and material for end users, as apart of Infosmart Team
+Development programs,
++ Coordinated and scheduled meetings between the Test team, senior managers and the scrum team for reporting the daily status during
+different cycles.
+
+SAP QA Analyst, 03/2010 - 04/2013
+Raaga ValueAdd Technologies — City, STATE
+
++ Environment: SAP ECC 6.0, SD, MM.
+
+‘Assist Functional Team leads, Technical Team leads in coordination of test activities.
+
++ Conducted Regression testing and Interface testing,
+
+‘+ GUI interface testing performed on the front end.
+
++ Analyzed Product Requirements, Business and System Requirements and also Pasticipated in the inspection (walk through).
+
++ Performed Integration and System Testing and edited the test scripts and play back to reflect application code and specification changes.
+
+‘+ As part of transaction testing, wrote and executed SQL queries created views extensively, verified data and tables residing inthe database.
+
+«+ Review test Cases, End to End test Scenarios and completeness of test results, performance tuning for Z Programs.
+
+EDUCATION
+
+‘Master of Computer Applications (MCA): Computer And Information Sciences, 12/2003
+IGNOU- India

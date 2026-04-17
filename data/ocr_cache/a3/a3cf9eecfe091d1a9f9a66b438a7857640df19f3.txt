@@ -1,0 +1,75 @@
+Jill Van Beest
+
+SQL Developer, OCA
+
+Phone 505-918-0381 Linkedin linkedin.comv/in/jillvanbeest
+
+E-mail jillvanbeest@gmail.com Twitter twitter.com/jllvanbeest
+
+OCA certified SQL developer with 3 years of experience, seeking to use proven Oracle and PLISQL skills to improve data management at CyrusOne.
+Delivered 10 DB projects at GNG on time and 15% under budget. Freed up 50 hrs/mo at PinkSky Tech through back-end automation.
+
+& EXPERIENCE
+°
+
+2016-07- SQL Developer
+2018-08 Gamma Nexus Group
++ Led development of 10 database projects for customers. Completed projects on time and an average of 15% under budget, with
+high customer reviews.
++ Used dialogue-mapping to gather requirements to 98% customer satisfaction,
+
+ 2015-05- | SQL Developer
+2016-06 —PinkSky Tech Worldwide
++ Designed and created 3 onsite databases. Maintained a group of 25 databases. Through automation, improved efficiency 15%,
+freeing up 50 labor hrs/mo.
++ Wrote scripts to automate software updates, saving 3 programmer hours/mo.
+
+= 2014-06- SQL Developer Experience
+2015-05 Various
++ Created a restaurant management database. Included functionality to handle all food and beverage inventory. Saved manager an
+estimated $400 per month
++ Integrated database functionality into a sales website for tee shirts and hats.
+
+© EDUCATION
+@ = 2010- BS in Computer Science, Mohave Community College
++ president, ighom Decoders Computer Cu
+
+© SOFT SKILLS
+
+© coloration oooee
+expen
+
+© communication oooee
+expen
+
+© Problem Sobing ooo
+
+‘advanced
+
+© HARD SKILLS
+
+© oacte ooeee
+expen
+
+© PusL oooee
+expen
+
+© sis Developmen oooee
+expen
+
+© database Architecture oooee
+expen
+
+Cad CERTIFICATES
+
+eo OCA - Oracle Database SQL Certified Associate
+
+PUBLICATIONS
+
+‘Article on SQL injection published in Oracle Blogs
+
+Article on Common Table Expressions published in WebAppers
+
+AWARDS
+
+Recipient, Most Valuable Tech Employee 2016, Gamma Nexus Group

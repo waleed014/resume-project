@@ -1,0 +1,49 @@
+Senior React
+Developer Resume
+
+SKILLS
+
+e Excellent proficiency in JavaScript, HTML, CSS and front-end languages
+e Exceptional understanding of Reactjs and its essential principles
+
+e Understanding of popular React.js workflows, including Redux and Flux
+° Proficiency in React tools, including React.js and Webpack
+
+¢ Proficiency with agile development methodologies
+
+e Exceptional troubleshooting skills
+
+° Knowledge of SEO best practices
+
+¢ Excellent written and verbal communication skills
+
+e Problem-solving skills
+
+EXPERIENCE
+
+° Creating application interfaces using JavaScript following React.js or
+another front-end framework
+
+¢ Developing and implementing responsive user interface components by
+using React concepts
+
+e Experience working with Git, Jenkins and TestNG
+
+e Experience with front-end development tools such as Babel or Webpack
+
+° Experience with data structure libraries
+
+e Experience with debugging and performance-testing software
+
+¢ Collaborating with back-end developers to improve usability
+
+¢ Documenting changes and developing updates
+
+¢ Leading the full software development lifecycle
+
+EDUCATION
+
+¢ Master's degree in Software Engineering and React with Redux and
+Native certification
+
+© ReactResumes.com

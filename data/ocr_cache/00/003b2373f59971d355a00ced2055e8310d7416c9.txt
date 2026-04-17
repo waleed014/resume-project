@@ -1,0 +1,132 @@
+Jessica CLAIRE
+
+‘Montgomery Steet, an Francisco, CA 94105
+(535) 432-1000 resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+7 Years of experience in software development industry using Software Development Life Cycle (SDLC), Object oriented analysis, design,
+evelopment, testing, debugging and deployment of web, java, and mobile applications.
+4 Yeass' experience in android mobile development
+2 Yeats’ experience in Java application development.
+= 1 year’ experience in database development
+- Strong knowledge of Software Development Life Cycle (SDLC) with stratepcally designing and implementing design, development,
+‘debugging, and deployment phases ofthe requisite software
+Experience in object oriented analysis and design.
+Experience working withthe Unit Testing methodology
+Experience in creating custom Views
+Experience working with Google Maps APIs, In-App purchases, In-App Advertising
+Enperience implementing ActionBar and SQLite
+Knowledge of using Content Resolvers, Content Providers, and sticky Broadcast Receivers.
+Experience implementing camera intents and utilizing device's camera fr various purposes.
+~ Experience utilizing various layouts, including custom layouts, and views.
+Experience in creating Activities and Fragments.
+Experience with multi-threaded development
+Knowledge of implementing search features using Search Dialogs.
+Knowledge of using common Social APIs such as Twitter, Facebook.
+Kaovwledge of using version control systems such as GitHub, SVN.
+Thorough knowledge of using of databases and web development.
+‘trong experience with PHP / MySQL as a web develope,
+Strong Software optimization and debugging skills
+~ Extensive knowledge in Java Database Connectivity (JDBC).
+Excellent analytical, interpersonal, and communication skill
+- Result oriented, committed, and hard working with a quest to learn new technologies and undertake challenging tasks. Highly motivate,
+self starter able to work independently and collaboratively within a diverse technical team.
+
+Sens
+[Languages : JAVA KOTLIN, SQL, PLISQL, XMLHTML,C, Databases: SQLite, MySQL, Oracle MS SQL Server2016
+cH. Web Services :REST, SOAP, XML, JSON.
+
+IDE : Eclipse, Andcoid Stadio, Visual studio, NetBeans, Notepad++. Version Control: SVN, GIT, VSS
+Content Management System : CPanel, WordPress. Deployment: Git-hub, Jenkins
+‘Operating Systems : Windows, Linux, Android,
+
+Worx History
+
+(08/2018 to Curent Androtd Application Developer
+Amentum ~ Suitland, MD
+Deseription: Bank Of America ~ Mobile Banking by Bank Of America isa finance ap that enables users to log in
+securely and access their bank accounts. Users ofthis app will need to have already registered for Online Banking and
+will gain access to features such as Email & Mobile Transfers, Mobile Check Deposit, and miscellaneous banking
+activities such as checking account balances, paying bills, and locating ATMs and local Bank Of America branches.
+‘Bofa App: htpe/ply google comstore‘pps/details?id=com infonow-bofa
+Responsibilities:
+«= Worked on enhancing user interface by implementing custom list layouts and themes.
+= Worked with data parsers to get secure user data from server in XML.
+«= Worked on remote check deposit feature that allows a user to take pictures of check for deposit purposes
++= Worked with Google APIs to locate the nearest bank branch and ATMS
+= Worked on search feature that allows you to search for nearest ATMbranch via zip-code or addres.
++ Worked on implementing multiple tabs in ActionBar, ike Accounts, Deals, Alerts and Locations
+«= Worked on saving user preferences locally using shared preferences
+«Helped implement feature that allows to send and receive money using email address or phone number.
+«= Worked on Activity styles and implemented custom styles.
+Tested the application for any bugs and fixed them.
+«Worked on making the app suppor different screen sizes and configuration,
+= Worked on updating and distributing the app via Google Play.
+
+(09/2016 10 08/2018 Android Developer
+ixoul -Dallas, TX
+Description: MGM Resorts Internationa sa global entertainment company with national and intenational locations.
+featuring bestin-lass hotels and casinos. The MGM Resorts applets you search and book the lowest hotel aes, dining
+reservations and show tickets for events within all of MGM properties.
+App: https:/play google com strelappsdetals7id=com memresors memresorts
+Responsibilities:
+Highly involved inthe planning, designing, development, testing and deployment
+Used Android SDK and Eclipse IDE for development
+- Used Gitas version contol system, Gerrit as code review system
+- Ensured applications are properly integrated with Android APIs
+= Created different UI seeens forthe applications
++ Worked on diferent status bar notifications
++ Worked on setting the network acess
+= Designed the features forthe database interface relevant for the mobile aplication from the existing system
+Defined and implemented robust ap architectures and complex user interfaces
+= Worked on custom dialogs to make the app easier to understand
++ Implemented XML parser and JSON forthe purpose of retrieving data
+Used custom lst views to view information on every screen thereby maintaining the uniformity
+«Used Android JUnit extension to prepare test cates
++ Tested and debugged the application on android devices
+Participated in fast-paced development cycles; have completed 100% of deadlines ahead of schedule
+= Successfully deployed the app onthe Android Marketplace and supported the app for different releases of Android OS
+-Collaborated with desiners, engineers, and product managers to build great experiences.
+
+(0922014 1908/2016 Java Developer
+Amentum ~ Texarkana, TX
+Deseription: Ths aplication was built to email a PDF format receipt othe customer after the purchase ofan item
+‘fom the online store It contains, principally, information about the creditcard used; the amount of money paid; and
+estimated time of delivery.
+Responsibilities:
+«Analyzed the requirement and designed the Functional Specifications
++ Used JDBC for loading bu data into the database
+«Used Java Message Services IMI) API to create, send, receive, and read messages between application components
+- Uiilized the UML Class Diagrams and Sequence Diagrams
+- Implemented various design patterns
++ Incorporated the presentation layer with JSP and javascript
+- Used desi patterns like Singleton, DAO and MVC
+- Implemented Data Modeling and writing SQL queries
+- Participated on the deployment of the application on the Web sphere application server
+‘Maintained and supported the Web application
+- Participated inthe development of various test cases
+
+(07/2013 1906/2014 ava Developer
+“Amentum — Wakiaw, HI
+Description: Girikon is an T consulting company committed to intenaizing more ality and efficiency into business
+processes In addition to helping clients with mobile app development and Microsoft Cloud, the company specializes in
+Salesforce services ineluding integration, quote-to-cash, marketing and suppor.
+Responsibilities:
+- Involved in the analysis, desin, implementation, and testing ofthe projects.
+- Used Hibernate, Spring MVC, and Spring Beans to creat servlets for user interaction with databases.
+Developed Rest API to processes the data fiom DB to another Rest Service.
+“Involved in fixing bugs and unit testing with test cases using JUnit
+«Develop, Test and Design software sing Agile Scrum methodologies.
+- Adapt existing legacy systems to conform with cursent programming methodologies resulting in increased profits and
+
+better system integration.
+«Used Spring Boot which is radically faster in building services and develop Spring based application with minimal
+configuration.
+- Developed SQL stored procedures and prepared statements for updating and accessing data from database.
+Epvcanion
+05/2013 Bachelor of Science: Computer Science
+Addis Ababa University - Ethiopia
+Cermmcarions
+
+‘Microsoft Certified Technology Specialist

@@ -1,0 +1,84 @@
+@ zena.lefaive@gmail.com
+Xe (438) 902-7821
+9 123 Main St, Fargo, ND 58102
+
+Education
+
+Bachelor of Science in
+Software Quality Assurance
+at North Dakota State
+University, Fargo, ND
+
+Sep 2017 - May 2022
+
+Relevant Coursework: Software
+Engineering, Programming
+Languages, Data Structures,
+Algorithms, Operating Systems,
+Database Management,
+Computer Networks, Web
+Development, System Design,
+Quality Assurance and Testing,
+Project Management, and Agile
+Methodologies
+
+Links
+inkedin.com/in/zenalefaive
+
+Zena Lefaive
+
+QA Tester
+
+Profile
+
+Diligent QA Tester with 1 year of experience in ensuring software quality through
+meticulous testing and analysis. Proficient in creating detailed test plans, executing
+test cases, and documenting results to optimize product performance. Adept at
+collaborating with cross-functional teams and utilizing excellent communication
+skills to identify and resolve issues. Committed to enhancing user experiences and
+consistently meeting project deadlines.
+
+Employment History
+
+QA Tester at QA Technologies Inc., ND
+Apr 2023 - Present
++ Identified and reported over 500 software defects within a year, resulting in a
+25% reduction in post-release issues for clients of QA Technologies Inc., ND.
++ Streamlined testing processes by implementing automated testing tools,
+leading to a 40% decrease in manual testing efforts and a 15% increase in
+overall testing efficiency.
+* Collaborated with cross-functional teams to improve product quality, which
+led to a 30% reduction in customer complaints and increased customer
+satisfaction ratings by 20%.
+
+Associate QA Tester at Onsharp Inc., ND
+Sep 2022 Mar 2023
+
++ Successfully identified and reported over 150 critical software bugs within
+the first six months of employment, resulting in a 25% reduction in
+customer-reported issues and a 20% increase in overall product stability.
+
++ Streamlined the QA testing process by creating and implementing a
+comprehensive test plan template, reducing the average time spent on test
+plan creation by 40% and increasing test coverage by 30%.
+
++ Collaborated with a team of developers and QA testers to reduce the average
+bug-fix turnaround time from 72 hours to 48 hours, improving the overall
+efficiency of the development cycle by 33%.
+
++ Played a key role in the successful launch of three major software releases
+by rigorously testing all features, ensuring a 99% defect-free product and
+contributing to a 15% increase in company revenue
+
+Certificates
+
+ISTQB Certified Tester
+Feb 2022
+
+Certified Agile Tester (CAT)
+Mar2020
+
+Memberships
+International Software Testing Qualifications Board (ISTQB)
+
+Association for Software Testing (AST)

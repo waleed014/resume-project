@@ -1,0 +1,155 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Over 3+ years of experience in IT Industry, experienced in designing, development and implementation of ITSM. Experience on various IT
+Services of Service-Now tool like Incident and Problem Management, Service Catalog Requests, Service-Now Administration, Configuration
+‘Management, Knowledge Management, Reporting, Asset Management, Integration with Web Services.
+
+Semis
+
+Excellent open and proactive written communication skills with
+focus on grammatical and usability skills
+
+Strong javascript and SQL programming skills and experience
+Excellent verbal and written communication skills, with the
+ability to effectively interact with all coworkers and stakeholders,
+including senior leadership
+
+Strong written and oral communication and facilitation skills to
+effectively work in a global environment
+
+Excellent interpersonal skills and ability to work effectively with
+staff at all levels
+
+Excellent written, verbal, listening, communication &
+interpersonal skills
+
+Strong documentation & record keeping skills, with attention to
+the SDLC
+
+EXPERIENCE
+
+01/2019 to 02/2021
+
+Solid experience in Tableau reports performance tuning and
+dashboards optimization
+
+Involved in publishing of various kinds of interactive data
+visualizations, dashboards, and workbooks from Tableau Desktop
+to Tableau Servers.
+
+Experience in reports validation and modeling data with the
+purpose of understanding or making conclusions from the data for
+evidence-based decision-making.
+
+Involved in Trouble Shooting, Performance tuning of reports and
+resolving issues within Tableau Server and reports.
+
+‘Worked on data blending and increased dashboard performance
+by extracting data and working with published data sources.
+Published Workbooks by creating user filters so that only
+appropriate teams can view it.
+
+Developed Doughnut charts for analyzing sales planning data
+
+ServiceNow Developer
+
+Caci International Inc. — Norfolk, VA
+
+‘© Working knowledge of the Reporting and BI industries landscape, including vendors and tools
+‘© Working with end user groups to evaluate and solve technical problems
+
+© Willing to learn/adopt
+‘© Taking ownership for technical solutions
+
+‘* Developing system integrations and process automation within the ServiceNow instance and other Information
+
+Services applications
+
+‘© Creating ServiceNow reports and dashboards
+
+‘+ Promoted positive customer support training experience after application completion.
+‘* Used variety of technologies, including ASP.NET, MVC, HTMLS, JavaScript and SQL Server to create new
+
+applications
+
+* Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-
+
+quality testing and final implementation
+
+‘© Wrote user manuals and other documentation for roll-out in customer training sessions.
+
+04/2018 to 11/2019 ServiceNow Developer
+
+Caci International Inc. — Charlottesville, VA
+
+‘* Developed of Service catalog which includes creating new catalog items, designing workflows and execution
+
+plans
+
+« Interacted with Stakeholders, Users, Customers for gathering requirements to arrive at design solution.
+‘* Worked on Modules of ServiceNow like Incident Management, Change Management, Service Catalog, and
+
+Reporting and few other custom applications.
+
+‘+ Provided design, technical solutions for the user requirements at ClientName and made recommendations to
+
+improve their current processes.
+
+‘+ Wrote Client Scripts, UI policies, Business Rules, Security Rules and UI Actions, UI Pages/Macros
+‘+ Worked on JDBC Extracts, SQL queries, Data sources, external connectivity using SN data source, Web services,
+
+Email integrations, LDAP etc.
+
+‘© Designed many catalog items out of which few catalog items involves integration using SOAP Web services,
+
+Restful API.
+
+08/2017 to 03/2018 Tableau Developer
+
+Amsted Industries Incorporated — Canton, NC
+
+‘= Involved in generating Daily/Weekly Sales & Finance trending reports using Tableau by identifying the
+dimensions, measures, measure values & level of details for Business Analytics & Top Executives to give an
+
+overview of current Trends.
+
+‘* Served as a liaison between the business and the IT department by conducting weekly calls/meetings with
+stakeholders, developers, QA Team, UAT Team to document any changes and apply them to Tableau reports as
+
+needed.
+
+‘* Developed Tableau workbooks to perform year over year, quarter over quarter, YTD, QTD and MTD type of
+
+analysis.
+
+‘© Developed interactive dashboards using advanced tableau features like action filters and dynamic parameters
+actions to track every claim open,follow up with customers and close claims in a much timelier manner.
+
+‘* Created Data Connections, Published on Tableau Server for usage with Operational or Monitoring Dashboards.
+
++ Assisted users to publish and collaborate reports via a web browser & embed Tableau views in other web
+
+applications like SharePoint.
+
+‘* Worked with REST APIS and Tableau Client Server which has greatly reduce the burden on Asurion's analyst team
+allowing them to focus on more business-critical activities.
+
+‘© Designed, developed, and maintained Tableau self-service reports and dashboards with different drill-down
+capabilities that were inclined to identifying out of pattern behavior.
+
+Epucation Np TRAINING
+
+2015
+
+Bachelor of Science: Computer Science
+University of Lagos
+
+Activiries AnD Honors
+
+Member, Nigerian Association of Computer Science Society
+‘Mentored grade schoo! children in Houston in reading comprehension

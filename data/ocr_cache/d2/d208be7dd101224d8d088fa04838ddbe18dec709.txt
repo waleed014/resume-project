@@ -1,0 +1,54 @@
+MILDRED ZEMLAK
+
+236 OBERBRUNNER RIDGES, NEW YORK, NY
+
+PHONE
++1 (555) 850 0153
+
+EXPERIENCE
+
+Daniel, Lubowitz and Wisozk
+Houston, TX // Director of Data Science // 09/2019 — present
+
+¢ Apply the use of machine learning to improve customer/consumer experience
+
+Retain and recruit a large and growing data science, analytics and engineering team
+
+Create a virtuous cycle of platform adoption with improved data insights and streamlined publishing/access
+
+¢ Drive revenue and cost optimization decisions and experiment ideas with business leaders based on data insights
+Focus on delivering solutions to improve decision-making, optimize research processes, increase operational efficiency,
+and ultimately, transform data into actionable insights
+
+Goyette Inc
+Houston, TX // Data Science // 02/2014 — 07/2019
+
+¢ Experience building & managing a large analytics team, working cross-functionally, and managing vendor relationships
+and contracts
+Hands on experience in advanced analytics, Machine Learning and data science open-source platforms such as R and
+Python along with DW platforms such as Hana, Hadoop
+Strong experience in managing strategic projects/programs and experience in engaging with senior management
+Experience in leading data-driven transformations and/or advanced analytics projects
+Masters/ PhD in any quantitative field such as Statistics, Mathematics, Engineering, Economics
+
+EDUCATION
+
+Lim College
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Demonstrates excellent attention to detail, teamwork and initiative
+
+¢ Working knowledge of Python, R, scikit-learn, Tensorflow, kera, and cloud computing (Azure)
+¢ Bl reporting and analysis
+
+Data Warehousing concepts, SDLC, testing, and implementation
+
+Familiarity with Cloud tools, such as Snowflake, Air9, etc
+
+¢ Experience with Visual Basic for Applications and Java is highly desirable
+
+SparkML
+
+¢ Using ML libraries, such as scikit-learn, caret, mlr, mllib

@@ -1,0 +1,53 @@
+JANA OKUNEVA
+
+4680 ROSENBAUM WALKS, HOUSTON, TX
+
+PHONE
++1 (555) 725 4323
+
+EXPERIENCE GLOVER-KOSS 12/2019 — present
+Boston, MA // Senior Database Engineer
+¢ Forward thinking infrastructure automation and scripting skills
+¢ Requires little supervision while identifying tasks associated with responsibilities
+¢ Collaborates with other DBAs, participates in internal projects and leads some initiatives
+¢ Provide DBA suggestions and input on direction for database domain strategy
+¢ Reviews new tools and products that assist in providing database support and services
+
+BOGAN-CUMMINGS 05/2013 - 06/2019
+Boston, MA // Database Engineer
+
+¢ Work experience in MS SQL Server, SQL queries, scripting, and automation
+
+¢ Experience in Extraction Transfer Load (ETL) and data migration
+
+¢ Working knowledge in programming languages such as Python, R, and Java
+
+¢ Comprehensive understanding of Global Supply Chain planning, requirements and
+procurement processes
+
+¢ Working knowledge statistical modeling, data mining and machine learning
+
+¢ Familiarity with Oracle database design, coding, and documentation
+
+¢ Knowledge of database backup procedures, recovery systems, and SQL
+
+¢ Excellent communication and problem-solving skills
+
+¢ Altering storage structures to meet the evolving needs of the company
+
+EDUCATION LIM COLLEGE
+Bachelor's in Computer Science
+
+.
+
+In-depth knowledge of database management (Installation, creation of new instances, space
+management, database reorganization and internals, backup and recovery, replication,
+performance monitoring and troubleshooting, identification of bottlenecks in locks, waits)
+
+¢ Strong working knowledge of RDBMS and NoSQL databases with relevant certifications
+
+¢ Good understanding of security standards and best practices around database platforms
+
+¢ Intermediate knowledge of Oracle replication implementation (Golden Gate/DataGuard)
+
+SKILLS

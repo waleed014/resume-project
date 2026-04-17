@@ -1,0 +1,128 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 1otn Floor XS (855) 492-1000 4 resumesample@example.com
+
+> Attentive Senior Systems Analyst with 11 years helping companies design and build technical systems
+
+customized perfectly for unique needs. Masterful at uncovering economical solutions to system design tasks
+of any scale. Keen to help cients design and acquire systems that overperform on business needs while
+coming in under budget
+
++ PeopleSoft 9.2 © Oracle, IBM 082
++ PeopleTools 8.55 + ROBMS
+
++ Application Designer ‘+ SQL Programming, PUSAL
+
++ Application Engine ‘+ Pentano, Informatica, Datastage
+
++ File Layout ‘+ Data Warehousing Management
+
+‘+ XMLIBI Publisher, Crystal Reports + Agile
+
+SENIOR ETL DEVELOPER 07/2019 to CURRENT
+
+Epam Systems Inc | Phoenix, AZ
+‘+ Identined areas of possible system improvement to enhance overall business performance, accounting
+for budgetary concerns and business goals,
+‘+ Interpreted data models for conversion into ETL diagrams and code.
+‘+ Designed integration tools to combine data from multiple, varied data sources such as RDBMS, SQL
+and big data installations
++ Designed and created ETL code installations, aiding in transitions from one data warehouse to another.
+‘+ Verified performance and reliability of development database transformation solutions via extensive
+simulation testing
+‘+ Wrote and optimized in-application SQL statements,
+‘+ Collaborated with business inteligence staff at customer facies to produce customized ETL solutions
+for spectic goals.
+‘Optimized broken and inefficient assets through effectively troubleshooting technical processes and
+worktows
+‘+ Developed database architectural strategies at modeling, design and implementation stages to address
+business or industry requirements,
+‘© Designed data models for complex analysis needs,
+‘+ Tested software applications and system to identity enhancement opportunities,
+‘+ Developed and modified programs to meet customer requirements,
+‘+ Prepared functional and technical documentation data for warehouses.
+‘SECHOR SYSTEMS ANALYST 06/2018 to 06/2019
+City Of Hollywood, FI | Hollywood, FL.
+‘+ Authored code fixes and enhancements for inclusion in future code releases and patches
+‘+ Considered and evaluated potential software products based on new and existing system development
+‘and migration requirements.
++ Worked closely with clients to establish specifications and system designs
+‘+ Evaluated muttiple software solutions during early software architecture plotting and system migration
+planning stage.
+‘+ Built, tested and deployed scalable, highly available and modular software products.
+‘+ Researched, designed and implemented scalable applications for data extraction, analysis, retrieval
+and indexing,
+‘Built databases and table structures folowing multtier architecture methodology for web applications.
+‘+ Delivered and maintained scalable system architecture to support high-availabliy Internet site with
+various internal applications.
+‘+ Modified existing software to correct errors, adapt to new hardware and improve performance.
+‘+ Maintained existing applications and designed and delivered new applications
++ Collaborated with product management to design, build and test systems.
+‘+ Revised, modularized and updated old code bases to modern development standards, reducing
+‘operating costs and improving functionality
++ Performed regression and system-level testing to verity software quality and function prior to release
++ Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release
+software project development.
++ Introduced agile methodologies and effective development best practices to division to enhance product
+development
+
+PEOPLESOFT TECHNICAL CONSULTANT. 01/2014 to. 052018
+Cognizant Technology Solutions | Windsor, CT
+
+‘+ Collaborated with cross-functional development team members to analyze potential system solutions
+based on evolving cient requirements.
+‘+ Worked closely with other business analysts, development teams and infrastructure specialists to
+deliver high availablity solutions for mission-critical applications using PeopleTools 8.55.
+‘+ Researched, designed and implemented scalable applications for data extraction, analysis, retrieval
+and indexing,
+‘+ Collaborated with financials business unit team members for data conversion actives during
+PeopleSoft upgrade 9.2.
+‘+ Tested troubleshooting methods, devised innovative solutions, and documented resolutions for
+Inclusion in knowledge base for support team use
+‘+ Performed Fit-Gap analysis and retrofit activites for new PUM images
+‘© Investigated new and emerging software applications within ERP to design, select, implement and use
+‘administrative information systems effectively.
+‘+ Consulted regularly with internal customers on application development project status, new project
+proposals and software-related technical issues.
+‘= Consulted with network engineering staf to evaluate hardware and software requirements for new
+system development
+‘+ Led PeopleTools 8.55 upgrade initiative as Subject Matter Expert and primary point-of-contact for
+project management staf.
++ Prepared detailed reports on updates to project specifications, progress, identified conficts and team
+activities,
++ Worked closely with software development and testing team members to design and develop robust
+Solutions to meet client requirements for functionally, scalabilty and performance.
+‘+ Modified existing billing process to correct coding errors, upgrade intertaces and improve overall
+performance.
+PEOPLESOFT TECHNICAL CONSULTANT 0972009 t0 12/2013
+Cognizant Technology Solutions | Beaverton, OR
++ Fulllife cycle software development for major and minor projects using PeopleSoft FSCM 9.1 and
+PeopleSoft EPM 9.1
+‘+ Application engine, application package, SQR development using PeopleTools 8.5x
+‘+ Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release
+software project development
+‘+ Performed regression and system-level testing to verity software quality and function prior to release
+‘+ Revised, modularized and updated old code bases to modern development standards, reducing
+‘operating costs and improving functionality.
+‘© Authored code fixes and enhancements for inclusion in future code releases and patches
+‘Developed application engine programs to load external system data into warehouse using fle layouts.
+‘+ Development of ETL jobs using DataStage 8.5 to load source system data into EPM warehouse. Data
+load from extemal system tables into warehouse,
+‘+ Performed 082 upgrade from 9.7 to 10.5 and 0B2 to Oracle migration
+‘+ Developed Unix scripts to transfer fles across multiple environments,
+‘+ Planned and developed interfaces using application engine program that simplified overall management
+and offered ease-of-use.
++ Documented all software development methodologies in technical manuals to be used by teams in
+future projects.
+
+Bachelor of Engineering | Computer Science
+‘Shivaji University, Maharashtra, India

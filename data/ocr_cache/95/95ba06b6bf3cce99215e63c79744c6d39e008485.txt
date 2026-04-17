@@ -1,0 +1,163 @@
+JrEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(655) 432-1000 -resumesample@example.com
+
+‘EXecurive Susm1ary
+
+Python Application Developer with 7+ years providing strategic thinking to solve challenging business solutions, Strong technical & data
+detailed oriented personality committed to identifying and leveraging Machine Learning and AI opportunites for professional growth. Critical
+‘emphasis on achieving rapid business application development. Motivated leader possessing excellent listening, verbal and written
+professional communications skills to meet objectives. Outstanding inter-personalized skill set demonstrated in both team development
+collaboration and in autonomous environments in a fast-evolving technological workspace.
+
+PROFESSIONAL SKILL Ser
+
++ Python , Java, C#.Net, SAS, R + GiviGittiub
++ Django, Flask, Tableau, Streamlit UJUX ‘+ System Development Life Cycle SDLC
+
+* Dashboard creation Machine Learning ML: Scikit-Leam, Tensorflow
+
++ Proficient in HTMLS, JavaScript, CSS ‘+ ML Models: Linear, Logical Regression, Decision Trees, Random
++ VS Code, Visual Studio, PyCharm Forrest, Naive-Bayes, Kn Clustering , Neural Networks, Deep
+
++ AWS Cloud EC2, Azure, Docker Containers Learning Networks, GANS, Support Vector Machines, NLP,
+
++ SQL, Oracle, MongoDb, PostgreSQL, NoSQL, JSON,NET/ADO —_ChatBot AL
+
++ Linux, Unix, GitBASH, MS DOS, MacOS + Excellent Professional Communications Listening, Verbal and
+
+‘+ Microsoft Suite: Excel, Word PowerPoint Sharepoint ‘Written sill set.
+
++ Agile development methodologies ++ Expert Negotiating Skills
+
+Scrum, Kanban ‘+ Exceptional conceptual and analytical problem solving skills,
+
++ Tira Software ‘+ GANS, Support Vector Machines, NLP, ChatBot
+
++ Project documentation
+‘= Design and development testing and debugging phases
+
++ Data warehousing and analytics
+
+‘+ Experience with Multi-Threaded objects and concurrency.
+
+PROFESSIONAL EXPERIENCE
+
+(04/2021 to Current Python Developer (CONTRACTOR)
+Federal Reserve Bank Of Philadelphia ~ City, STATE
+
++ Designed Full Stack Django ML/AI Applications for Advanced Engineering Team,
+
++ Conducted
+
++ Developed HR Resume Screening ML/AI Application to identify internal Talent on demand,
+
++ Performed Data Migrations on MongeDb, NoSQL, SQL.
+
++ Created and designed APIs for AUML data models and repositories.
+
++ Responsible for unit/functional testing, code patching with CCD methodologies.
+
+«+ Repurposed exiting libraries to reduce time and cost.
+
++ Translated requested projects into scalable python designs for Machine Learning AT Bank initiatives confirming
+alignment with related business goals.
+
+‘+ Managed project parameters, scheduled development milestones and set engineering goals with NLP Machine
+Learning AI, Data Scientists, and Financial Engineering and quants teams
+
++ Reviewed project requirements with business customers to both meet and exceed expectations.
+
+‘+ Mentored entry-level Python development personnel with technical guidance and education.
+
+* Introduced AWS / Azute cloud-based EC2 and Docker containerization technologies into Python development to
+‘expand on-premise deployment options,
+
++ Code completion progress given in daily standup meetings with Jira boards.
+
++ Worked closely with QA systems analyst, software engineers and Front End / Backend developers to understand
+limitations, develop capabilities and resolve software problems and deployment
+
+* Conferred with project managers and other upper management stakeholders to fully understand software design,
+specifications and plan optimal development approaches.
+
+* Collaborated and encouraged team members to openly and discuss new Machine Leaming Al opportunities to
+leverage for the Enterprise Federal Reserve System,
+
+03/2007 to 04/2022 Python Developer Independent (CONTRACTOR)
+BI-Credit-Suisse (USIS Contractor) ~ City, STATE
++ Developed server-side and front-end technologies to create user-friendly systems
++ Devised rapid code for add-hoc business requirements
++ Experienced practitioner in debugging large code bases with problematic assemblies andthe ability to crete
+‘improved solutions to minimize adverse impact to production region
++ Knowledge of AWS / Azure lovd configuration, setup and teardown.
++ Code Refactoring and reconciliation and remediation
++ Leveraged modem frameworks using ML/AI libraries to catalyze code development
++ Developed APTS for Web-bated tool.
++ Analyzed system requirements and used documented approaches to implement and document development tasks
++ Hamessed version contol tools to coordinate project development and individual code submissions.
++ Kept project management teams informed of milestone updates and provided a weekly detailed project report.
++ Explained highly technical concepts using easily understood terminology to business stakeholders
++ Developed script to communicate with back-end API applications to provide updated information programatically.
++ Designed software configuration to meet website system hosting requirements
++ Tested Database for bugs and to determine weaknesses
++ Documented all echnical specifications and testing methods for for future reference and use in other assignments
++ Translated and coded business lopic and technical requirements
++ Introduced Machine Leaming modelling tots to improve automated audit process to realize over $700,000 in
+annually savings.
++ Modified existing software to comrecterors adapt to newly implemented hardware or upgrade interfaces.
++ Wrote developers guide and user manuals and other documentation for roll-out.
++ Managing Security Risk by understanding teat vectors and to mitigate risk to the enterprise network
+
+(06/2002 to 03/2007 Trading Technology Market Data Engineer
+Credit-Suisse ~ City, STATE
+
++ Responsible forall carrier-based project implementations, coordination, and operational oversight.
+
++ Expert practitioner in resolving Day Two Events in Highly problematic Layerl areas and the ability to create new
+improved solutions
+
++ Wide Area and Metro Area Network Datacentre Supports Mission Critical Market Data and Exchange services.
+
++ Low-Latency and Hi-Frequency Trading Platforms Global Dealing and External Messaging Systems High Speed
+Digital Transport Carrier Platforms Voice PBX and BT Trading Turret Dealing Systems, Carrier Inventory Audit
+and Billing Mediations Achievements Design and Rollout of PrimeTrade Global Dealing Equity Trading Platform.
+
++ Designed and Implemented Hi Speed DWDM Ultra-Low Latency Trading Platforms.
+
++ Level 3 support of Mission Critical Market Data and Exchange platforms.
+
++ Procurement and support of Turret Trader Voice.
+
++ Tracking incidents to Provide Day? operational guidance with a reduction of 20% less incidents.
+
++ Project Managed Business Power Maintenance and Contingency planning events,
+
++ Market Data & Exchanges - Managed roll-out $100 Million Global dealing trading platforms and Derivative
+Exchanges for Equity Sales, FI, FX commodity trading desks.
+
++ Low Latency Trading - Managed the deployment of with Hi-Speed platforms for market arbitrage strategies.
+
+‘+ LAN/MAN - Managed and deployed Local Area Networks including Hi Speed fiber MAN backbones and
+augments for datacenters.
+
++ Datacenter Projects - Managed with hands-on implementation with scheduled checkout UAT client testing of new
+network infrastructure,
+
++ Trader Voice - Trading floor turet networks and Market Data applications.
+
+Epucarion axp TRAINING
+
+Bachelor of Science: Major: Computer Science, Minor: Mathematics
+CITY UNIVERSITY oF NEW YORK SCHOOL of ENGINEERING
+
+‘Masters Certificate Program Software Developer
+SetFocus
+
+‘Quantitative Mathematics Primer
+‘NEW YORK INSTITUTE OF FINANCE
+
+Acrivintes anp Honors
+
+Professional Society and Affiliations ACM- Association of Computing Machinery ~ Professional Member

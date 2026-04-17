@@ -1,0 +1,172 @@
+Jessica CLAIRE
+
+10 Meso) S18 Flee #555) 431100 emmenpleeae ce,
+
+Staotary
+
+Over 2+ years of experience in Software Developme Lifeyele(SDLC) icing aes sch sRequiteneet Aca, Design,
+Deselopeat td lnplemeatatn, Testing and Deployment of Object Oriented lent Serve, Web-Based, Distributed and Estee
+Aplications
+
+- Strong woking experienced inal phases of Sftnaze Development Life Cycle (SDLC) inching Anas, Desig and Development,
+ebugeng Integration, Maintenance 2 Enhancements
+
+Good vesting of Agile Software Develops etbosopes hike Serum and Test Driven Development (TDD.
+Experienced with JIRA softwar and Confluence wich is wed for pod design, managing tans and bo and issue tacking
+Over 2» experienced with Coe java and Java 8 cones kes OOPS, Data structures & algorithms, Colleton, Mubidhreadlag.
+Exceptional handing, 10, Lambda, Stream, Synchronization and Seriliation.
+
+Bland on experience in developing business cemponents sng Spring Bost, Spring Annotations, 3PA Repository, Spring cloud, Spring
+“Experience i inplemewtng Ul wing Serlts, JSP, ISTL, HIMLS, CSS3, JavaScript, ISON, Bootstrap and Angular
+-Esteasve experienc in implementation ofthe version conto software suchas GIT and Bitbucet, iif, Giub desktop
+Experience in SQL besieswiting DDL an DNA on MySQL and Oracle
+
+Experience sing RDBMS lke MySQL. and Oracle in developing several packages, wing SQL queries, stored procedures,
+“Experience in producing an consuming the Web Senices- REST wing aa rogran nd Postman UL
+
+‘Knowledges Linas command
+
+Extensively wed development ol ike Ecipe,neli, pring Tol Sis, VS-code
+
+“Experience in sit testing be applications wing Mock,
+
+-Strongwoubesbooing & wer itrice capabilites with good Anaya and communication ula god eam play
+
+-Abiy workin compen, deadline etd exicamet.
+
+“Have good communication sill, tons ana and olen sling sil, ait toque mater new concepts an aplication,
+
+ft Framework
+
+Programming Language! ‘Version Cone
+sa, JScript, SQL, C++ it, itu, Biboker
+DEE Technolgy: ‘Bail Depley ment Tok:
+15, STL, Serves, DBC Maven
+‘Web Technolo: “esting Frameworks:
+-HIMLS, C583, JSON, Angular, JSP Joni, Meco
+wes uc
+alipeS.0.70 ttl, ping Tol Sie-ode Jeakios
+Design Patterns: Platform:
+wwe Micron Windows, 305, Line
+Web Series Servers
+REST, Micoservie Apache Toma 60,70
+Frameworks and Tools Methodologies
+‘Spring MVC, Ss MVE Agile (Serum, Wate erative development
+Database Toot: (Cloud Technologies =
+MySQL Weckbench Pr
+ler Servicer
+‘Spring Micro Services, Spring boot, Postman Spring Cloud
+
+Databases Conte:
+‘MySQL. ORACLE, Decker
+
+EXPERUENCE
+
+Java Developer 01/2022 Cet
+‘Cac Ifenatnnl Ie. Hoel HI
+Respombit:
+
++ Coase Stet MVC to Spring MVC
+
+ned of Splunk tani of ear nto understand the ow af the cde
+
+Conversion of SP sotto Spring JSP UL
+Conenion of Sets Action o Spring Acton by ting sting sotto snd imglementing the several method reuied
+‘sed f eis to bid he projet nd del to server.
+oad pit eson cone! wih Bit bck,
+Extensively worked with CORE JAVA wit pring Boot Framework,
+‘ed Spring Data PA to connect with MySQL Dataate
+‘sed Gia veto centl oles a ph the pet
+Followed Agile metology ke Sram
++ Used Maven 25 wo bd the poet
+
+Java Developer 01/2020 122022
+(Cac International Ine, Haske, NE
+
+Developed micosersices sing Spring Boot.
+
++ Used HTTP handlers t develop web service replication interice osting pda fens fr octet razioration in XML and ISON
+fomats
+
++ Use of SCRUM fr diy mestigs, grooming sessions, it meetings,
+
++ Managed connectivity tsing DBC for SQL quenyinginsning, tered procedues to rete and manage dt fiom databases,
+
++ Dect te exertion of the projet houth Spring Dats PA and ibemte penitence API interact withthe ahve
+
++ Used GIT a source onto management foo fr continous tacking ofthe ouce ad version ofthe appiatina
+
++ Pepated test cates and sates fr ui esting and nteraton esting wing Jot and Moco
+
++ Used Maen build and dependency managenet ol fer eating WAR snd JAR feo deploy in application server,
+
++ Used ata fees sucha Lambda exessions and Sueam APL
+
++ Used Lap athe lossing tame to pit infomation warming. and exception data tothe as
+
+ull stack Developer, 082021 -122021
+Arrow Electonics Raleigh, NC
+Description:
+usar nal projet fom my Sftnare Engineer Clas where Ihave team of Thee classmate crete Reservation Table wh User
+‘cutomer Cstomer old opin reper, payment, see the men and reserve the ible User canst umber of blab Restasrant The
+system should geoerate th table acoding tothe gus fot it should combine te able asthe need fe gest.
+Responses:
+
++ Involved in Sonar Development Life Cycle process sing Ale Methodology and participated sprit planing an daly san-op
+
+etn wing cord
++ Used TALS, C889, JavaScript, Botstrap nd patie in development of well sponse single pag pplication with oct cot
+Ulteam,
+
++ Handed al be cies aaions sing JQuery and JavaSeipt
+
++ Used pring amenod fr Model View Controller (MVC) and achieved data persistence dough Hibernate ORM framework,
+
++ Used Spring MVC masel iteration often request ation contol
+
++ Used Spring TOC for dependency inition.
+
++ Mock esting sing SUNT
+
++ Used Guta Repost for code ietepraion and version cont.
+
++ Used Spring Tol Suite (S15) IDE for aplcato development an Maven s build atomsin tok
+Envronme
+‘wa, DEE, HTML, CSS, JavaScript jQuery, Spring Bot Micoserie, Spring MVC, Spring 1OC, REST, Api, Hibeate, MySQL,
+‘ome Jt, Gita
+
+Java Developer, 012021 052021
+alot Rossy, PR
+Description:
+‘This projects bout a web plication hat allow Users to creat quizzes ad tke quizzes. Tate willbe two wer: Admin who can ceate
+zz: an qusion in adn aoa wile nomal une can ake quad ce th ace ui and elt afer they take iin tee
+eben,
+Responses:
+
++ Used MIMILS, C883, TypeSerpt, Bootstrap Grid.
+
++ Develo of wel responsive mali age ppiaon in Angle,
+
++ Handled alte cide aidions sing Type.
+
++ Ute Spring menor fr Model View Controller (MVC) od sthieved data perstence dough Hibernate ORM frame,
+
++ Used Spring TOC fr dependeey injection.
+
++ Used Spring Boot Framework
+
++ rene Rest APT in Cotlle Entities and Used Spring IPA Repository fer CRUD Operation n My SQL Database.
+
++ Nok singing JUNI
+
++ Used Postman fr backend API esting
+
++ Used Vs Code for Foot Ed pplication Development
+
++ Used at for tckend application development
+Jal REE, HTLS, C553, ANGULAR, Typescript, Spring Boo, ping MVC, REST, Agile, Spring Boot JPA MySQL, emt, it
+
+EDUCATION AND TRAINING
+
+‘Bachelor of Since Computer Science And Programing. 12/2021,
+Univer of Houston - Houston, TX

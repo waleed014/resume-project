@@ -1,0 +1,71 @@
+ETL Developer
+
+Job summary:
+This position wil eportto the ETL Manager
+‘The chosen candidate willbe responsible or performing all aspects of the ETL process, to include:
+
++ Development of new ETL processes to factate data movement within the organization.
+
++ Development af QA processes to monitor and evaluate the result of ETLinpute and outputs
+
++) Maintenance and modifications of existing ETL processes.
+
++ Documentation of ETL processes, including flow, function and dependences.
+
++ Documentation regarding impact to busines or IT elated afeasas they relate tothe ETL process.
+
++ Collaborate onenterpnse data governance projects to provide data architecture, master data management, data
+‘alt and business intelligence salutons.
+
+esponsbiltes
+
+4LAssist thedata team in developing solutions for data validation, accuracy and defects. Ths inches correction of sting
+‘roblems aswell a developing new processes to proactwaly prevent probleme a they relate to the ETL proces.
+
+[Apply business rules and data processes to ETL solutions using bth standard andclent-<pectic lagi
+
+Develop mapping, transformations and lad procedures to process incom ng/outgoing fies.
+
+Develop QA processes o further assist inevaluating process outcomes for data accuracy and completion.
+
+Develop documentation, where necessary, to substantiate claims of meonsistent or inaccurate data
+
+Fupcton asan integral art of the cross-functional implementation team, asssting as assgnedon allimplementation
+projects dependent on the ETL processes
+
+7. Build data governance and data quality processes to further advance quay accessbilty and usabilty of alldat,
+Work apart ofa team to ensure aconeistent flow of information technology products and services.
+
+9. Thoroughly document all processes encountered or bull as par of these tasks, where they are not aleady documented,
+10, Performs adatonal related tasks ae assigned
+
+‘ualfieations
+
+1, Bachelors Degree in Computer Science or relate field ors yeas equivalent wark experience required
+2. Expert level experience required in these areas of Microsoft SAL Serve 2008 1 Stak:
+
+© TSQL development, to include creation and maintenance of sored procedure, tigger views, indaving, andother
+
+SAL objects, minimum of 5 yeas.
+SAL Server integration Series ($88), minimum of3 yeas.
+‘Adtonal areas preferred but not require:
+
+© SQLServer Reporting Seizes (SRS).
+
+© SAL Server Analysis Services [S5AS)
+3. Demonstrate familar with both medicaland pharmacy claims data, as wel a health plan eigiy dat. Candidate
+
+should have atleast 3 yeas’ experience developing within these datasets.
+Have a basic understanding of data governance and master data management principles.
+Implementation experience with new products andfor cents preferred
+Excellent written andoral communiation skis required to communicate effectively and professionally
+IMustbe sell-dwected and able to function both independently and 35 part of ateam.
+Demonstrate advanced catia thinking and trouble-shooting capabilities to asess, prorte plan, and implement tasks
+andsolution effectwely, including the ability t0 manage multiple project at atime
+9. Mustbeable to workin a high-growth, fast paced environment, requiring occasionalovertime.
+10, Addtional valid sil, preferred butnot cequred:
+Development and/or administration of Postgres.
+
+Development and/or administration of SharePoint
+Experience in a"bi data” environment
+‘Koowledge of heathare data interchange standards X12 andfor HLT isa plus

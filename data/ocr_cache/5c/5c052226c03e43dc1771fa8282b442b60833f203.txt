@@ -1,0 +1,58 @@
+OLLIE SCHROEDER
+
+37857 BREKKE MILLS, HOUSTON, TX
+
+PHONE
++1 (555) 566 8091
+
+EXPERIENCE BAUCH-HILPERT 07/2018 — present
+Detroit, MI // Database Manager
+¢ Knowledge of CDISC, CDASH and SDTM models
+¢ Proven strong troubleshooting and problem-solving skills
+¢ Excellent prioritization, planning, communication, documentation skills are all essential
+qualities
+¢ Thorough knowledge of core components of the public cloud infrastructure (AWS preferred)
+¢ Deep understanding of cloud native database services (AWS preferred)
+¢ Experience migrating databases from data centers to cloud platforms
+¢ Billing and/or ERP domain experience is highly desirable
+
+SPINKA INC 11/2011 — 05/2018
+Detroit, MI // Database Manager
+
+¢ Experience with email tools
+
+¢ Good understanding of database concepts and segmentation
+
+e Experience debugging HTML rendering issues and working with Responsive Design
+
+¢ Experience with SAS campaign is an advantage
+
+¢ Advanced knowledge of Microsoft Excel, Power Point
+
+¢ Attention to details and strong organisational skills
+
+¢ Product Marketing experience serving and IT buyer
+
+¢ Experience marketing & selling technical products to IT professionals in various market
+
+segments, including mid-market to enterprise
+
+EDUCATION FASHION INSTITUTE OF TECHNOLOGY
+Bachelor's in Computer Science
+
+SKILLS e Accomplishes information systems and organization mission by completing related results as
+
+needed
+
+Oracle database administration 12c and 19c, including in-depth knowledge of Oracle based
+
+SAP file system
+
+¢ Sybase ASE 16.0 administration and Snowflake administration
+
+¢ Experience architecting/operating solutions built on AWS (using EC2, S3, Glacier, EBS,
+Elastic Search, etc.)
+
+¢ AWS RDS such as PostgreSQL, MS SQL, and MySQL
+
+¢ Engaged in Data Migration from one database to another e.g

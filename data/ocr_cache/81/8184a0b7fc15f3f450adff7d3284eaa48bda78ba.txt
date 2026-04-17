@@ -1,0 +1,56 @@
+ROBERT SMITH
+
+ETL Developer/Database
+
+info@qwikresume.com | LinkedIn Profile | Qwikresume.com
+
+Around 8+ years of extensive experience in ETL (Extract Transform Load), Data
+Integration, Data Profiting, Data Mapping, Data Warehousing using Informatica,
+Teradata and Oracle technologies. Expetience in Data Modeling involving both
+Logical and Physical modeling using DM tools Erwin and ER Participated in full
+Software Development Life Cycle (SOLC) of the data warehousing project: project
+planning, business requirement analysis, data analysis, logical and physical database
+design, setting up the warehouse physical schema and architecture, developing
+reports security and deploying to end Users Extensive experience in Design, develop
+and test processes for loading initial data inta.a data warehouse Strong knowledge in
+Data Warehousing concepts, hands on experience using Teradata utilities (BTEO,
+FASTLOAD, FASTEXPORT, MULTILOAD, Teradata Administrator, SOL Assistant, Pmon,
+Data mover), UNIX Very goad understanding of Teradata UPI and NUPI, secondary
+indexes and Join indexes
+
+ETL Developer/Database
+ABC Corporation - MARCH 2009 - JUNE 2012
+
++ Responsibilities involved in the Data warehouse Data modeling based
+on the client requirements.
+
++ Created Data Warehouse Data Modeling used by Erwin.
+
++ Involved In Preparing Detalled design and technical dacuments from
+the functional specifications Prepared low level design documentation
+for implementing new data elements to EDW.
+
++ Provided Knowledge Transfer to the end users and created extensive
+documentation on the design, development, implementation, daily
+Joads and process flow of the mappings.
+
++ Managed and administered a Teradata Production and Development
+‘Systems Worked on loading of data from several fat files sources
+using Teradata MLOAD Samp; FLOAD Updated numerous BTEQ/SOL
+scripts, making appropriate DDL changes and completed unit test
+
++ Involved in writing views based on user and/or reporting requirements
+Involved in Design, develop and Test process for validation and
+Conditioning data prior to loading into the EDW Created a generic
+email notification program in UNIX that sends the emails to the
+production support team if there are any duplicate records or error in
+Joad process,
+
++ Extensively worked on Mapplets, Reusable Tansfarmations, and
+Worklets there by providing the flexibility to developers in next
+Increments.
+
+ETL Developer
+‘ABC Corporation - 2004 - 2009
+
+‘© THs me Resume Template Isthe copy ‘ight of Qwikrasume.com, Usa Gude lines

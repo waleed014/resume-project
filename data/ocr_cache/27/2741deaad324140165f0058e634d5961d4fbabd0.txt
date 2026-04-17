@@ -1,0 +1,57 @@
+JOHN SMITH
+
+johnsmith@ gmail.com | LinkedIn: johnsmith21 | (xxx) xxx-xxxx | Austin, TX
+
+CORE COMPETENCIES
+
+Project Dev Life Cycle Excel Advanced Reporting SQL and Databases
+
+Agile and Scrum Data Visualization Business Analysis
+
+Sprint Planning and Review Use Case Diagrams Project Management
+WORK EXPERIENCE
+Company 1 February 2017 — Present
+Business Analyst II St. Louis, MO
+
+= Generated $75 million in revenue by leading large-scale projects as both Scrum lead and cross-department
+liaison.
+
+= Eliminated 30% of developer rework by effectively overseeing requirements gathering, meetings with
+stakeholders, and scope definition.
+
+= Reduced average project completion time by 20% via detailed sprint planning, story mapping, swim lane
+development, backlog management, and UAT.
+
+= Recovered $9.6 million of risk by completing 33 automation projects and utilizing both Agile and waterfall
+project management methodologies.
+
+= Tripled speed of SQL queries used for data extraction by implementing efficiencies such as indexes,
+temporary tables, and normalization.
+
+= Boosted revenue by 25% via actionable Excel reporting including pivot tables, data visualization, advanced
+formulas and data modeling.
+
+Company 2 June 2016 — January 2017
+Management Trainee & Business Associate St. Louis, MO
+= Facilitated management of three $1,000,000 dental practices and their respective support staffs, including
+19 team members in total.
+
+= Produced 15% higher revenue via implementing a restructured set of procedures for payment collection.
+
+= Decreased insurance verification turnaround time by 60% through creating and executing a new web-based
+process.
+
+= Increased office production by 10% via efficiently scheduling high production patients.
+
+EDUCATION
+University of Missouri - Columbia December 2015
+BS, Business Administration Columbia, MO
+
+= Founder and President of Mizzou Student United Way
+= Founding Father of the Alpha Tau Omega Fraternity
+
+INTERESTS
+
+= Custom Computer Builds
+= Fantasy Football Analytics
+= Self-Taught Computer Coding

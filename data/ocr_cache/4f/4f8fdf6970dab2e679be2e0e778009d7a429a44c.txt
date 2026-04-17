@@ -1,0 +1,63 @@
+First Last
+
+Junior Python Developer
+
+Tallahassee, Florida + +1-234-456-789 + professionalemail@resumeworded.com * linkedin.com/in/username
+
+WORK EXPERIENCE
+
+Resume Worded, New York, NY 09/2015 — Present
+Augmented reality startup with 50+ employees and $100m+ annual revenue
+
+Junior Python Developer
+
+e Collaborated with a 10-member team to design a content aggregator and expense tracker that provided
+solutions with 71% code churn.
+e Developed the API, backend, and frontend for a single-page application within the first 30+ days of joining
+
+the team.
+e Created views and templates using Python and Django's view controller and templating language to develop
+10+ user-friendly interfaces.
+e Modified functions, cursors, queries, triggers, and stored procedures for MySQL database while processing
+data; improved system performance by 84%.
+
+Polyhire, London, United Kingdom 10/2012 — 08/2015
+Provides quality assurance and control testing for global markets
+
+Software Tester
+
+e Created a testing framework that boosted efficiency in detecting errors before release, improving the
+company's software production schedule by 58%.
+
+e Uncovered security vulnerabilities in 10+ applications via manual review and automated tools; escalated
+findings to RW's software security unit.
+
+e Detected a critical defect in some production codes that saved the company from a $200K flawed
+investment.
+
+Growthsi, London, United Kingdom 07/2010 — 09/2012
+Career training and membership SaaS with 150,000 paying users
+
+SQL DBA
+
+e Consolidated 30+ SQL Server databases into 20 and merged all company hardware, reducing 33% of the
+original hardware acquisition cost.
+
+e Explained backup policies of data to senior management during a 15-day seminar that non-technical
+attendees attended.
+
+e Controlled access to applications and data by 2100+ users, saving $30K in quarterly licensing fees in the
+first year of employment.
+
+Disaster Recovery Specialist, ABC Company, London, United Kingdom 11/2008 — 12/2009
+Coder, XYZ Company, London, United Kingdom 07/2005 — 10/2008
+EDUCATION
+
+Resume Worded University, New York, NY 06/2005
+
+Associate of Applied Science — Computer Programming
+
+SKILLS
+
+Web Technologies: HTML (Advanced), CSS (Experienced), Angular JS, Jira, Django 3.0, GIT Hub, MySQL, Javascript
+Techniques: Software Development, Amazon Web Services (AWS), ORM Libraries, Agile frameworks, OOPS

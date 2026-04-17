@@ -1,0 +1,165 @@
+JEssica CLAIRE
+
+Montgmery Steet, San Francisco, CA 94105 #555) 32-100 #resmesmple@example com
+
+[PROFESSIONAL PROFILE
+
+Former US. Navy veteran with 4 years of experience in software engineering who Seeks employment as part ofa dynamic software
+evelopment team. Have 2 yer of experienc developing web applications using web technologies such as AngulaJS, HTML, JQuery, and
+(CSS and about 2 yeas of experience in developing mobile applications forthe iOS platform using swift and iOS SDK.
+
+[RELEVANT PROFESSIONAL EXPERIENCE
+
+10S Developer, 04/2021 - Creat
+‘wo International Tne. Roseville, CA
+
++ Developed native iOS product compatible with iPhone and iPad devices.
+
++ Collaborate with development team in achtetual design and decisions
+
+‘+ Worked with tassian products such sa for tracking and updating usr stoves and spin progres.
+
++ Uilzed Confluence a5 too for documenting and referencing technical project work
+
++ Used Carthage package manase ia importing and manasing projet’ tied party bras and dependencies.
+
++ Used Git aa versioning contol tool to manage projects source code history
+
+‘+ Used ARC to handle memory management efficiently
+
++ Developed iOS native application to support various sree sizes and oventatios for Phone and iPad using Siz Clas
+
++ Uilzed the Combine framework in building a eatve application
+
+108 Developer React Native Developer, 032021 - Cutest
+Polatlickeare— Houston, TX
++ Collaborate in inplemening responsive 10S native aplication using Swift andthe latest technologies to provide wes with a smooth
+ad intiive user experince
++ Followed Apple's Human Interface guidelines to creat products aligned with OS Ul noms.
++ Crested reusable components that can be applied 1:08 aplication developed throughout the organization
+‘+ Managed and implemented data state across aplication using Redux and Redux-thunk (as middleware to manage Asynchronous dt)
++ Conducted interviews to evaluate posible future iOS developer candidates to meet the development team's tafing capacity.
++ Provided contiuous maintenance ad bus fits for the existing aplication to inpoce usability and wer experience
++ Wrote unit tests onthe existing React Native and 10S codebase to meet a minimum of 80% code coverage using avaecrpt and iOS testing
+Seamewoks such tJeslS and XCTests, respect
+
+Junior 105 Developer, 01/2019 - 0912020
+Anthem, Ine. ~ City, STATE
+
+«+ Have about 2 years OS development experience in Swift
+
++ Proficient in 10S aplication development sing native famewors like Core Graphics, PushKit, AVFoundation, nd UIKit
+
++ Improved product quality through code reviews, writing efetve unittest and collaborating with QA on implementing atomation
+
+‘esting
+
+‘+ Work along wit ther enpiners and developers i formulating and deciding on solutions to technical problems.
+
++ Reviewed client requirement, wieames, and design for tecnica feast.
+
++ Experience writing code fllowing MVC architect
+
+«+ iterated ForeSee SDK to enable customer feedback on application wage.
+
++ Collaborate with the serum team to ransate cient requiements nto implementable wer stories,
+
++ Developed reusable custom component for OS applications.
+
++ Experience in concurrent programming working with operation quevs and dispatch queues.
+
++ Worked with source control tools sch a Bithucke.
+
++ Experience with agile scrum toot.
+
++ Experience with REST, ISON, XML, and SOAP Web Service,
+
++ Used Tia to maintain project and sprit level progress an development
+
+‘+ Implemented remote feature fag capability using LaunchDarkly SDK for continue integration (CD suppor.
+
+Angular3S/Mobile Developer, 09/2016 - 012019
+Anthem Inc. City, STATE
+
++ 2+ experience in developing web application in AnguatS, HTML, and CSS.
+
+‘+ Worked with prodoct designers and product mangers to design user interactions in applications.
+
+Tested features across various browsers,
+
++ Implemented push notifications fanctionlty into Andeoid nd iOS mobile platform,
+
++ Fixed bogs as were encountered
+
++ Conducted desion and code reviews to share knowledge with development eam.
+
++ Designed and maintained Web and Mobile applications,
+
++ Collaborate with designer to create clean interes and simple itive interactions and experiences.
+
++ Assisted Anthem in ost savings of up to 150,000'ear though migration of cross platform Mobile Application famework fom IBM
+
+orkligh to Apache Cordova
+
++ Implemented build tools including Gulps into motile applications.
+
++ Performed ad implemented unit ets on several sections of Anthen's Mobile Application wing Jasmine famesoek,
+
++ Modularized front nd CSS and JS code with as
+
++ Develop rch SPA using Angular javascript famework
+
+Work EXPERIENCE
+
+Ausilary Machinery Operator and Supervisor, 05/2007 - 1/2012
+US. Navy—Newport News, VA
+
++ Supersised operation and organizational maintenance of auary machinery systems.
+
++ Succesflly tained and led a eam responsible for maintenance, operation and supervision of essential power plant unas,
+
++ Repaired and restored lrg emergency powerplant diesel engine worth over2 millon lla during overseas deployment
+
+«+ Dismartled and inspected components and adjusted and repute them x necesay
+
++ Trane, dete and instrcted ove 6 apprentices and helpers.
+
++ Maintained logs list and files and promptly completed al necessary paperwork.
+
+(Cashier, 052005 0672007
+“Taco Bell-Kissinmee, FL
+
++ Accepted payment by fom customers and made changes as necessary.
+
++ Assessed customer needs and responded to questions
+
++ Worked with custome service to resolve isses
+
++ Operated cash register wit proiieney
+
++ Responsible for ining up customers ina timely manner and guarastecng high level of customer service.
+
+Food Service, 032008 04/2005,
+Disney World — Orlando, FL
++ Assessed customer needs and responded to questions
++ Cleaned and straightened work are.
++ Responsible for diy setup of mutiplsGreeted quests and sat them at ables or in wating ares stations.
++ Worked overtime shifts during busy periods,
+
+Epvcarion
+“Master of Science: Compute Science, 2024
+Johns Hopkins University -Balmoe, MD
+Bachelor of Selene: Computer Science, 2020
+Oregon State University - Corals, OR
+PA 325
+‘BBA: Information Systems and Techaology, 2016
+University - Norfolk, VA
+semis
+
++ Swit sess
+
++ Motile App Development oan
+
++ REST + React Native
+
++ Saari + 10s

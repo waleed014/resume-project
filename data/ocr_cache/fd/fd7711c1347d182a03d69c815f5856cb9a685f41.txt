@@ -1,0 +1,171 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 -resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+‘Asa frontend developer with 4 yeas of experience, [am skilled in both Angular and React and have a passion for creating visually appealing
+and intuitive usr interfaces. My expertise lies in designing, developing and implementing end-to-end web applications that meet both
+‘business and user requirements, Thave a strong understanding of web technologies such as HTML, CSS, JavaScript and JQuery, and Yam
+{familiar with Agile development methodologies. Lam confident that my technical skills, attention to detail and ability to work as pat ofa
+team will make me a valuable asset to any organization,
+
+Worx History
+
+(07/2021 to Curent. FRONT END/ANGULAR DEVELOPER
+Cognizant Technology Solutions ~ DALLAS, TX
+Description: Sam's Club is a membership only retail warehouse clubs owned and operated by walmart. am working as
+Front End /Ul developer responsible for developing and maintaining Sams club's membership systems Membership
+system is used by Walmart associates for onboarding new members and renewable of membership of existing members,
+Responsibilities:
+
++ Thave participated and aware of ll sorts of agile ceremonies (user story grooming, sprint planning, sprint
+retrospective)
+
++ Worked in team and involved in developing layout and front-end programming from wireframes,
+
++ Involved in design & implement of the client web application including several modules using HTMLS, CSS3,
+Bootstrap, JavaScript, Angular 5, TypeScript and Visual Studio Code.
+
+‘+ Worked on creating reusable components, custom directives services and pipes in Angular and used Angular CLI
+for creating components, Services, pipes, Directives.
+
++ Developed highly modular and advanced object-oriented code using State management technologies like RXJS in
+‘Typescript to ensue reusability, extensibility, and ease of maintenance
+
++ Create components with Angular 5 and use RXIS to operate on Observabls that pass data fom API endpoints
+
++ Developed component interaction between parent-child components and sibling components using Input, Output
+decorators and shared services.
+
++ Design and implement RESTful microservces that interact with other services, such as databases, caches, and
+message queves.
+
++ Developed CSS3 to style page layouts, navigation, and page-loading spinner
+
+‘+ Used TS Lint tool that checks typescript code for readability, functional errors, maintainability
+
++ Using Figma for referring to mockups for development
+
++ Worked on Cross-Browser compatibility and fied bugs for several browsers.
+
+‘+ Used POSTMAN to check the response of various API's asa visual documentation for back-end
+
++ Worked in test driven development environment, leveraging Jest to write unit tests and integration tests fr all new
+and existing functionality.
+
++ Promoting completed work to repositories using Git by creating Pll Requests (PR) which is reviewed and
+approved by peers and making sure code complies with recommended coding standards, ining standards and
+passing all Jest test cates.
+
++ Worked with JIRA, which is managing project requirements and tasks, Used Gitffub as version contol,
+
+(05/2020 to 0612021 FRONT END/ANGULAR DEVELOPER
+‘Accom Phoenix, AZ
+
+«Involved in interacting with business analysts to understand business flow and gathered business requirements
+
++ Participated in discussions with team and Followed Agile'Scrum methodology with 2week sprint involved in daily
+‘Standup Meetings, Sprint Refinements, Backlog Meetings and Code Review Meetings.
+
++ Highly used Angular9 Router to build single page application (PWA) for navigate through the different status and
+multiple modals,
+
++ Worked on Reactive forms to provide a model-driven approach to handling form inputs whose values change over
+time
+
++ Optimizing the code of reusability using the Decorators and injecting the service to access those in any
+components by using the property called providers in Angular9 Components.
+
++ Implemented NGRX store to maintain the state of the application. NGRX store was used to store results after an
+angular injector observable retrieved the data from the backend. Added logic to digpatch the ation tothe NGRX
+store, this was done to update the store and to update components subscribed to that store,
+
++ Used the Node Package Manager (NPM) to instal libraries like angular-cli, typescript ete, which are required for
+developing an angular application in Node. Used Chrome Developer tol for testing and debugging.
+
++ Used kendo UI to create widgets like date picker, calendar, buttons, grid, file upload ete.
+
++ Used JIRA for bug tracking. Git is used as a version control tool and Jenkins is used for continuous integration of|
+boils
+
+(06/2018 to 01/2020 FRONT END/REACT DEVELOPER
+Cognizant Technology Solutions ~ Pittsburgh, PA
+
++ Involved to implement various screens for front end using React JS and used various predefined components fom
+‘NPM (Node Package Manager) and REDUX library. Maintained states in stores and dispatched actions using
+REDUX
+
+«+ Experience in working with REDUX architecture, Added functionality to web application using
+ECMASCRIPTOS. Used eact-souter module to develop Single Page Applications using React
+
++ Extensively used React Hooks to handle application life-cycle processes.
+
++ Performed Middleware development with Redux- Promise in application to retrieve data from Backend and
+consumed RESTIul services
+
++ Used Ag-Grid for gridview, UL Select for custom drop downs and controls ete,
+
++ Used Jest for mocking functions and writing nit tests along wit testing component coverage reports
+
++ Worked closely with UX team and QA team in rapid Development mode
+
+‘+ Worked on technical design documents in confluence pages.
+
++ Used Version control system bit bucket as code repository.
+
++ Excellent experience in sing various project management tools like Version One mainly for Agile project
+‘management.
+
+01/2014 t0 0772015 JavaScript Developer
+‘Company Name ~ India
+
++ Created paper prototypes, intial wireframes and designed a strategy by collaborating withthe instructional
+esigners
+
++ Designed web UI pages using HTML, CSS, and JavaScript for web application Layout
+
++ Utilized JavaScript and XML to update a portion of a web page thus reducing bandwidth usage and load time and
+add modal dialog in web pages to get user input and requests.
+
++ Used AJAX to reduce the network load and update only the certain components ofthe website and Wrote
+application-level code to interact with backend and consume the JSON by making AJAX calls and updating the
+Dom,
+
+«+ Strong knowledge of Responsive Web Design, responsible for checking CROSS BROWSER COMPATIBILITY on
+Aiferent browsers,
+
++ Followed Rally and JIRA for tracking processes and streamlining agile planning.
+
++ Develop web pages with functionalities like login, register, forget password, Email Filters using JavaScript,
+jQuery
+
++ Wrote SQL queries to fetch data from the backend.
+
++ Coded JavaScript for page functionality and Pop-up Screens and used DHTML to make dropdown menus on web
+pages and display pat of a web page upon user request,
+
++ Documented the entre project, which contains a detailed description of al the functionalities.
+
+Epucantox
+082019 ‘Master's: Information Technology Project Management
+Campbellsille University - Campbellsille, KY
+122016 ‘Master's: Computer Science
+Silicon Valley University - San Jose, CA
+owno14 ‘Bachelor's: Information Technology
+‘QIS College of Engineering And Technology - Vegamukkapalem, India
+Semis
++ Software Development Standards ‘+ Team Support
++ Bog Fixes ‘+ Improvement Plans
++ Timeline Estimates Code Fixes
++ Strong Communication and Interpersonal Skills ‘+ Team Meetings
++ Software Testing and Validation ‘+ Agile and Serum Environments
++ Code and Quality Standards ‘Requirements Gathering and Analysis
+
++ Production Work
+
+Lancuaces:
+
+English: Telugu
+‘Negotiated: Negotiated:

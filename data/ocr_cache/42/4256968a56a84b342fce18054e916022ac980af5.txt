@@ -1,0 +1,163 @@
+RON PHOENIX
+
+Blockchain Developer,
+\ #1-5491-205-157
+@ Dallas, Tx
+
+SUMMARY
+
+Resourceful Blockchain Developer with 10 years of experience in
+software engineering. Co-founded ConanSwap, a DEX with 20,000
+active supporters. Mastered JavaScript, Golang, and Python.
+Extensive knowledge in smart contracts, consensus algorithms, and
+data structures. Looking for a job as a Blockchain Developer that will
+allow me to build the financial system of tomorrow.
+
+EXPERIENCE
+
+Blockchain Developer
+
+BitowFi
+
+% 01/2018 - 07/2022 Dallas, Tx
+
+BitowFi is one of the leading regulated institutions of digital assets in the USA.
+
++ Closely collaborated with the product and dev teams to improve the
+efficiency of the platform by 25%
+
++ Built 5 reusable cross-chain libraries
+
++ Participated in the development of 3 new tools and integrated them into the
+platform
+
++ Assisted in developing the backend that became the foundation for the
+intersection between Web3 and FinTech
+
++ Participated in 5+ open source community projects, met with stakeholders,
+and mentored and tutored 3 junior developers
+
+@ ronnyphoenix@gmail.com
+
+Javascript Developer
+
+FroanX
+
+09/2014 - 11/2017 Q New York, NY
+
+FroanX combines credit cards, payments, and expenses into one experience.
+
++ Participated in the development and maintenance of the application
+
++ Led the team of 2 developers to develop a front-end reporting system for
+FroanX's internal clients
+
++ Developed software that helped customers to simulate loans which
+increased the loans by 10%
+
++ Designed and developed 2 micro-services
+
+Junior Developer
+
+Deex Finance
+
+(% 12/2012 - 02/2014 New York, NY
+
+Deex Finance offers online payment processing and commerce solutions for
+
+Internet businesses.
+
++ Competed 10+ projects
+
++ Improved user interfaces by updating menus to be more intuitive, attracting
+5% more clients than the previous quarter
+
++ Participated in developing a complex bookkeeping system that handled
+financial transactions 60% more efficiently than the previous one
+
++ Improved database performance by 12% by using materialized views and
+stored procedures
+
+PROJECTS
+
+ConanSwap
+
+( 02/2021- 04/2022 Dallas, TX
+
+ConanSwap is a decentralized exchange (DEX) that allows trading
+
+cryptocurrencies and tokens on the Ethereum network,
+
++ Co-founded the DEX and served as senior blockchain developer
+
++ Participated in building a community of 20,000 people who bought the
+ConanSwap crypto token
+
++ Built the smart contract code and increased its efficiency by 25% more than
+the prime competitors
+
+@ httpsi//www.linkedin.com/in/ron-phoenix/
+
+SKILLS
+
+Blockchain Technology
+
+Web3
+
+JavaScript Python Golang
+
+Cryptography — Consenus Algorithms
+Smart Contracts _Distributed Systems
+
+Data Structures  OOPs
+
+EDUCATION
+
+High School Diploma
+
+Xavier High School
+8 09/2002 - 06/2007 @ New York, NY
+
+Bachelor of Computer Science
+
+New York University
+{8 10/2007 - 06/2011 @ New York, NY
+
+STRENGTHS
+
+§S collaboration
+
+Working in a team motivates me to give 100%
+every day. Collective intelligence is the most,
+powerful tool for companies.
+
+Q. Attention to Detail
+
+Always pay strict attention to details because
+even an unimportant error could ruin the
+code.
+
+Prioritizing is why | use 100% of my energy
+and mental capacity for the most complex and
+thought-provoking tasks.
+
+INDUSTRY EXPERTISE
+
+DeFi Protocols
+
+SL
+
+Solidity
+—_———==©@
+
+Web Development
+
+Li
+REFERENCES
+
+Josh Daniels, CTO of FroanX
+++1-1964-467-295
+
+Samantha Stoser, Senior Software
+Developer at Deex Finance
+4+1-5721-257-187

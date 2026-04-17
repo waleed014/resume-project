@@ -1,0 +1,85 @@
+Katelyn Heidenreich
+
+64660 Strosin Spring, Detroit, MI ¢ Phone: +1 (SSS) 707 3603
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+‘SENIOR ENGINEER SOFTWARE TESTING
+
+Phoenix, AZ
+
+1272016-~ present
+
+‘+ Establishing and enforcing QA practices for software development and release processes
+Monitoring service performance KPIs
+
+Monitoring application performance KPIs.
+
+Providing guidance on testing techniques and best practices to other team members
+
+‘Analyzing performance tests results and presenting test reports to project stakehokiers
+
+Practical knowledge of performance testing tools (Meter, gatling.io or similar)
+
+Designing and executing performance tess of multiple traffic services
+
+‘SOFTWARE TESTING / QA ANALYST WITH PCI AND
+Chicago, IL
+IaRott 1172016
+‘Create and execute manual test casesscenarios, performs tests inching functional, integration, and
+regression performance
+Designs, builds, develops and executes manualfautomated test scripts
+Maintains, enhances and expands the automation framework and associated tools
+Research and resolve issues or provide possible solutions
+‘Analyze test results and create test reports subsequently communicating reports to stakeholders
+‘Create test strategies for manual execution and automation scope in collaboration with team members
+and business partners to ensure test coverage
++ Collaborate wth the research of techniques and tools elated to software testing
+
+SOFTWARE TESTING
+
+Los Angeles,
+
+ere
+
+‘+ Develop test & automation frameworks to help sale and manage testing scope and envi
+
++ Application Management und further development ofthe automatisatzion framework
+Improve the quality of developer output via training, coaching and process changes
+
+Develop, Execute and Maintain Test Scripts to
+
+May make hardware or software purchasing recommendations regarding web development
+
+Using current programming languages and technologies, writes code, completes programming, and
+
+performs testing and debugging of applications
+
+‘+ Develops and installs programs to support general business applications running on PCs
+
+‘SYRACUSE UNIVERSITY
+Bachelor's Degree in Computer Science
+
+‘+ Knowledge of overall Quality Systems
+
+‘+ Knowledge in Database (Oracle, MS SQL)
+
++ Proficiency in any scripting Java seripting/Python
+
+«+ Strong written and verbal communication skills
+
++ Knowledge of test automatization solutions
+
++ Extensive knowledge of software build cycles & deployment
+
+‘+ Experience in HP Quality Centre /ALM
+
+‘+ 2104 years of Experience in various Web application, Client/Server, windows based application
+development & testing
+
+Experience in the complete Software Testing Life Cycle (STLC)
+‘+ Experience in test data preparation for test execution

@@ -1,0 +1,89 @@
+Robert Smith
+
+Sr. AWS Devops Engineer
+
+PERSONAL STATEMENT
+(ver Eight years of professional experience In Build and Release
+Management, DevOps, Experience in installation, configuration and
+troubleshooting of Ubuntu, Redhat Linux, AIX and Windows 2012 on various
+hardware platforms and AWS cloud. Invalved in migrating physical
+LUnux/Windows servers to cloud (AWS)
+
+WORK EXPERIENCE
+
+Sr AWS Devops Engineer
+United Nations - March 2015 - 2020
+Fesponsibilties:
++ Developed and supported the Software Release Management and
+procedures.
++ Performed all necessary day-to-day GIT/Bitbucket/TFS support for
+alfferent projects.
++ Responsible for design and maintenance of the Gir/Bitbucket/TFS
+Repositories and the access control strategies
+‘+ Created the branches in TFS and GIT to Implement the parallel
+development process.
++ Merged release branches to the trunk after the production release and
+resolved the conflicts arose during the merge in both Subversion and
+Gr,
++ Worked with the Architects on SOLC process being the owner of post
+development environments
++ Good knowledge on .Net frameworks (C#, ASPINet)
+
+AWS Devops Engineer
+Delta Corporation - 2011-2015
+Fesponsibilties:
+
++ Bulld servers using AWS Importing volumes, launching EC2, RDS, $3,
+1AM, Routes3, VPC, CodeDeploy, creating security groups, auto-scaling,
+Lambda, load balancers (ELBs) In the defined virtual private connection.
+
++ Implemented, deployed and maintained cloud Infrastructure using AWS,
+
++ Automating backups by shell for Linux to transfer data in $3 bucket.
+
++ Maintaining the user accounts (IAM), RDS, Route 53, SES and SNS
+services In AWS cloud,
+
++ Designed an Architectural Diagrarn for ulfferent applicetions before
+‘migrating into Amazon cloud for flexible, costeffective, reliable,
+scalable, high-performance and secured,
+
+Used GITHUB and Bitbucket as source code repositories.
+
++ Managed GIT repositories far branching, reraing, and tagging,
+
+Education
+
+(Ths Ema Resume Temlate the copyright ot Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+
+1737 Marstullla Road,
+Alabama
+(123)-456-7890
+Infoesquikresume.com
+wwweqwikresume.com
+
+‘SKILLS
+
+Knowledge on Cloud
+computing, Knowledge
+‘on Networking,
+
+LANGUAGES:
+
+English (Netive)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+climbing
+Snowboarding
+Cooking
+Reading
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

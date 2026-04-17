@@ -1,0 +1,51 @@
+Aaliyah Ziemann
+4122 Pagac Flats, Boston, MA # Phone: +1 (555) 993 7522
+
+EXPERIENCE SENIOR ANALYST, WEB SECURITY TESTER
+Phoenix, AZ
+07/2016 — present
++ Participate in new cutting edge technologies for continuing enhancing services provided by this team
+‘+ Assist the App Scan team with reviewing false positive requests,
+‘* Responsible to identify process improvements in the App Scan and Penetration Testing team
+‘© Engage with development teams to ensure that vulnerabilities from the penetration test are completed
+within the timeframes documented in the Mastercard Information Security standards
+‘* Responsible to lead the annual network penetration testing
+‘* Complete penetration tests on Mastercard developed applications (including web services & mobile apps)
+ithin the deadlines given
+‘© Complete documentation of penetration test reports per the methodology defined
+
+‘WEB APPLICATION TESTER
+New York, NY
+08/2011 — 05/2016
+‘© Devising improvements to current procedures and developing models of possible future configurations
+* Documenting and working to resolve complex problems
+‘* Reporting progress on problem resolution to management
++ Performing and leading tests of software and/or IT systems to ensure proper operation and freedom from
+defects
+‘* Developing test plans, test schedules and approaches
+‘Creating test metrics and reporting
+* Documenting and communicating test results
+
+WEB TESTER
+Chicago, IL
+03/2008 — 02/2011
+‘* Assist with the development and execution of performance testing
+Work with the development team to identify, document, and resolve software issues
+Review tests created by others on the team
+Extend an existing automated test framework to cover new functionality
+Work in a cross-platform test environment (Windows/Linux)
+Work with a cross-functional agile team that is responsible for multiple projects
+Design and implement test cases and plans following industry standards
+
+EDUCATION DUKE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+SKILLS ‘Strong attention to detail and follow-through skills
+‘© Excellent written and verbal communication skills
+‘+ Solid understanding of test methodologies, test automation design, and iterative development Experience
+documenting test plans and test cases
+Experience working in a team-oriented, collaborative environment
+Experience with QA tools and techniques, and bug tracking systems (e.g. JIRA, ALM)
+Experience with test automation software, such as Selenium
+Familiarity with formal System Development Methodologies and Project Management process
+Experience using Agile development methodologies

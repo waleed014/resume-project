@@ -1,0 +1,64 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+(CAREER OVERVIEW
+
+Experienced Android application developer with 3-year working experience.
+‘Worked in the Tencent company, the largest Intemet company in the field of SNS, IM and Entertainment in China
+Have a wide knowledge of network, client application development and Linux programming.
+
+Trcunicat Sxnis
+
+* Platform: Android, Linux, IOS
+« Programming Language: Java, C/C++, Objective C, Javascript
+* Tools and Knowledge: SQL, HTML, HTTP, Socket
+
+‘Work ExPeriENcE
+
+07/2013 to 07/2014
+
+07/2012 to 04/2013
+
+06/2011 to 06/2012
+
+Epucation
+
+Android application developer
+Amentum — Waipahu, HI
+
+Prototype and implement new features (including but not limited to Chatting UL, Voice Message, VOIP, Message
+management) to QQ for Android.
+
+Collaborate cross functionally with product managers, UI designers, and testing engineers to optimize the user
+experience of Android QQ with high quality and good performance.
+
+Focus on UI design and interaction optimization, be proficient in using Android components and customizing new UI
+components;
+
+Optimize application performance by preventing memory leaks, thread control and network management.
+
+Android application developer
+Amentum — West Chicago, IL
+
+Design and implement key parts of the Thunder for Android
+
+Experience in developing or integrating with web based application.
+
+Identify and resolve incompatibility issues between the wide range of Android versions and devices
+
+Linux developerr
+Sangfor Technologies — City, STATE
+
+Responsible for developing system software running on Linux based network devices.
+Developing daemons and CGis for functions of network flow controlling and stream caching.
+
+2011
+
+Bachelor of Engineering: Network engineering
+Sun Yat-sen University - Guangdong
+
+Award of Excellence in Collegiate Programming Contest of SYSU in 2010.
+
+Award of Excellence in Tencent Collegiate Star Internet Programming Contest in 2010.

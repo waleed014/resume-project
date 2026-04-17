@@ -1,0 +1,81 @@
+Anika Robel
+
+5330 Hoeger Manor, Dallas, TX @ Phone: +1 (555) 132 8231
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR DATA & ETL TESTER
+Phoenix, AZ
+06/2016 — present
+‘© Work closely with software developers/project owners and BAS to develop and execute thorough test
+suites in all phases of the software development cycle
+‘+ Develop Test strategy, test plan/design , execute test cases and defect management for the ETL & BI
+systems
+‘* Develop and execute detailed ETL related functional, performance, integration and regression test cases,
+and documentation
+Analyze and understand the ETL work flows developed
+Quality Management - Knowledge of quality management methods, tools and techniques
+Create UNIX shell scripts to access and move data from production to development environment
+‘Communicate- and manage expectations of the senior management team and affected stakeholders during
+the planning and roll out of project releases
+
+QAETL TESTER
+
+Boston, MA
+10/2012 — 02/2016
+
+‘+ Perform data analytical testing for the BI systems
+
+‘© Validation of data transformations and perform End-to-End data validation for ETL & BI systems
+‘Strong in ETL data validation developed using Informatica /Abinitio /Datastage/SSIS ETL environments
+‘Strong in BI report validation developed using Cognos/Business Objects/Microstrategy/SSRS BI
+‘© Exposure to DB tools : Toad/PL SQL developer/SQL Plus
+© Strong in SQL preparation in Oracle/SQL Server/DB2/Teradata RDBMS
++ Strong knowledge on ETL and BI processes
+
+ETL TESTER
+
+Dallas, TX
+
+04/2009 — 09/2012
+‘© Work in support of the development of company products, tools, platforms and services
+‘+ Should have worked in Offshore / Onsite model managing offshore resources
++ Providing status metrics on testing
+‘Strong in ETL data validation developed using Informatica/Abinitio/Datastage/SSIS ETL environments
++ Provide demos/walk through regarding testing results.
+
+‘© Work on existing, in-flight and future projects
+‘* Develop and Design ETL test cases, scenarios, and scripts to ensure quality Data warehouse / BI
+
+applications
+
+CLARK ATLANTA UNIVERSITY
+Bachelor’s Degree
+
+‘+ Accomplished and result-driven Technical Quality Assurance professional with experience in quality
+assurance and test automation
+
++ Proficiency with HP (mercury) tools - ALM/Quality Center, QTP
+
+‘Should have progressing skills on Business Analysis, Business Knowledge, Software Engineering
+Leadership, Architecture Knowledge and Technical Solution Design
+
+Highly motivated, able to work independently
+
+Expertise with QA Deliverable tool set - (Quality Center, SharePoint, Microsoft Project/Excel)
+
+ETL & SQL Scripting Experience - Basic Knowledge
+
+Strong background in both Agile/Waterfall Methodologies
+
+Strong SQL scripting / ETL testing skills, Web application testing experience
+
+Working Knowledge of Defect management process, Risk Framework and mitigation, and Enterprise
+
+Testing standards
+
++ Ability to write and understand complex SQL queries

@@ -1,0 +1,57 @@
+Robert Smith Soe SRE
+
+email infooquikresume.com
+Wiedsite : iv qkresume, com
+
+SQL Server BI Developer II Linkedin: linkedin.com/quikresurne
+‘Adress: 1737 Marshvile Road, Alabama
+
+SUMMARY
+
+SQL Server Bl Developer Il with 16 years of experience in the Finance domain with experience in
+MS SQL Server SOL Server 2012 parallel data warehouse and worked extensively on Integration
+Services (SSIS), Reporting Services (SSRS) and Analysis Services (SSAS),
+
+SKILLS
+
+BI, BUSINESS INTELLIGENCE, DATABASE, MS SOL SERVER, SOL.
+WORK EXPERIENCE
+
+SQL Server BI Developer Il
+First Notional Bank . September 2011 - February 2018
+Involved in planning, defining and designing data, based on business requirements and
+provided documentation,
+Designed data mapping documents, ODL scripts, data dictionary and metadata of the models,
+and maintained them,
+Developed SOL scripts, Indexes, cornplex queries for data analysis and extraction,
+‘waiting "-SOL script, dynarnic SQL, complex store procurers, function, triggers.
+Created functions, stored procedures, database triggers, user-defined function,
+Used SSIs and t-S0L stored procedures to transfer data from source to staging area and
+finally load into the data warehouse
+Created SSIS packages ta extract data frarn OLTP and transformed into OLAP systems and
+scheduled jobs to call the packages and stored procedures,
+
+SQL Server BI Developer
+ABC Corp - 2002 - 2011
++ Used various SSIs tasks such as conditional split, derived colurmn, which was used for data
+
+scrubbing, data validation checks during staging, before loading the data Into the data
+warehouse.
+Experience in creating jobs, alerts, Sol server mail agent, and schedule SSIS packages.
+‘Worked with quest SOL compare fable and the data compare between dev to test and test to
+prod environment
+Ereated cubes to support specific analysis conducted by upper management, the cube
+Included few materialized views as well s fact arranged by topic.
+Worked in optimiaing the performance of queries with modification in TSOL queries, stored
+procedures, functions removed unnecessary columns, eliminated redundane and inconsistent
+fata, normalized tables, established joins and created indexes,
+Extensively performed data processes, data mappings, data dictionaries, data pulls and
+reporting solutions.
+“This is Durniny Description data, Replace with job description relevant to your current role, In
+case if you dont need it you can delete it
+
+EDUCATION
+
+B.SC. in Computer Sclence - 2002 (Addis Ababa University ),
+
+(© This Fete Resins Template the copilgh of Qwikenume ccm, Uaage Gildines

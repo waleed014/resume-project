@@ -1,0 +1,60 @@
+ROBERT SMITH
+SQL Server BI Developer
+
+Phone: (0123}-456-789 | Emall: twotqutlresumne.com | Webstte: Qvekresume.com
+
+PSU |
+SQL Server Bl Developer with over 7+ years of experience in the Healthcare domain, with
+experience in Database Design, Development and Implementation of SQLSERVER and
+providing ETL/Business Intelligence applications using Microsoft components.
+
+Effectively involved in all the phases of Software Development Life Cycle such as
+Analysis, Design, Development. Testing, Implementation, and Maintenance of projects.
+
+[CORE COMPETENCIES
+
+SQL Server Tools: BIDS, Enterprise Manager, DTS, Profiler, UTA. Upgrade Advisor, TL
+& Reporting Tools: SSIS, SSRS, SSAS. Crystal Reports, Business Objects. ProClarity,
+Databases: MS-SQL Server MS Access.
+
+ROFESSIONAL EXPERIENCE
+
+SQL Server BI Developer
+front Healthcare Of Atlanta - February 2013 - Present
+
+Key Deliverables:
+
++ Experience in working with business analyst in order to gather requirements for
+design and Implementtion of the database.
+
++ Optimizing the periormance of queries with modifications in TSQL queries,
+removing unnecessary columns, and eliminating the redundant and inconsistent
+data,
+
++ Creating the data model enhancements and design fora different location,
+supplier. and HR systems to consolidate and provide a single interface to any
+downstream consuming systern,
+
++ Designing and developing SSIS [ETL packages to validate. extract, transform and
+Joad data from OLTP systems to the data warehouse,
+
++ Integrating the ETL (baich processing) as well as real time processes using web
+services that were hoth subscribed and fed as information into the database.
+
++ Experience in ereating tables, views, complex stored procedures to Facilitate
+elficient data manipulation, data integrity, and other TSQL (DDL, DML}
+statements for varinus applications,
+
++ Experience in creating packages. jobs and experience in migration af data from
+excel, fat file, Oracle to MS SQL server.
+
+SQL Server BI Developer
+ABC Corp - 2011 - 2013
+
+Key Deliverables:
++ Created SSIS pockages for dynamic E71, low to validate, extract, transform and
+Jad data into the data warehouse using aggregate, sort, multicasting, lookup,
+fuzzy looleup, derived colums, conditional split to perfarm data scrubbing,
+
+2259 Oak Street, Old Forge, New York. 19420
+this Ere mente Template copyright of irene, Wage Guldeines

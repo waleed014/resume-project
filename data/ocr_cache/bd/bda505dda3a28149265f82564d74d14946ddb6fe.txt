@@ -1,0 +1,289 @@
+JESSICA
+CLAIRE
+
+‘© resumesample@example.com
+(655) 432-1000
+
+1g 120Montgomery St. 10th
+Floor
+
+SKILLS
+
+ETL: Ab initio GDE
+3.04,3.15,3.1.7, Informatica 10.1,
+Informatica MDM
+
+Data Analysis: MS Excel, SQL
+querying.
+
+Modeling, Flowcharts: MS Visio,
+raw.
+
+Wire framing, Mockups: Pencil,
+MS Visio.
+
+Dimensional Data Modeling: Star
+Schema Modeling, Snowflake
+Schema Modeling, FACT and.
+Dimensions Tables, Physical and
+Logical Data Modeling, ER
+Diagrams, ERWIN, UML
+
+‘Analysis: Waterfall, agile (Scrum),
+Agile (XP), RAD, RUP
+
+Scheduling: Autosys, Control-M-v9
+Communication, Collaboration:
+Good understanding of how to
+“effectively” use email, chat,
+phone, audio and video
+Conferencing, web meeting, shared
+network/cloud storage systems,
+svn.
+
+Project Management,
+Requirement & Defect Tracking:
+IMS Project, HP Project & Portfolio,
+LIRA, HP Quality Center, MS Visio.
+Database Tools: Oracle 11g/103/
+i, IBM D82 8.0/7.0, MS SQL
+Server
+2014/2012/2008/2005/2000, Aqua
+Data Studio, Hive, Oracle, Toad.
+IDEs and Languages: SQL, PL/
+SQL, JAVA, UNIX Shell Scripting,
+
+EDUCATION AND
+TRAINING
+
+Wilmington University
+
+New Castle, DE - 01/2016
+Master of Science: Information
+Assurance
+
+Campbelisville University
+Campbellsville, KY + 08/2020
+‘Master of Science: Management
+Information systems
+
+SUMMARY
+
++ Around 5 years of IT experience in Management, Analysis, Design, Development, implementation
+and Testing of Client/Server Applications across Banking (Capital Markets), Healthcare and
+Government Clients.
+
++ Extensive experience in organizing and facilitating Project Kick-Offs, Requirement Sessions, Daily
+Scrum meetings.
+
++ Experience in writing Software Requirement Specifications, Business Requirements and Rules,
+eating Designs and Prototypes.
+
++ Proficient in business modeling and UML. - Use case Diagrams, Activity Diagrams, Sequence
+
+grams, Class Diagrams, Mock-ups, Process workflow and Data flow diagrams using Microsoft
+
+Visio.
+
++ Experience in using the informatica Utilities lke Pushdown optimization and Session Partitioning to
+improve the performance of Informatica mappings.
+
++ Good experience with Software Quality Assurance Testing on GUI based Client-Server & Web Based
+applications, ETL, Web Services, Data Driven Applications, Data Warehousing projects using
+Manual and Automated testing procedures.
+
++ Good understanding of agile Scrum model that allows us to focus on delivering the highest business
+value in the shortest time. | was responsible for creating business case document, business
+proposals, BRD, functional specs, use case, process flows and information flows.
+
++ Proficient in UNIX Shel scripting and troubleshooting the issues.
+
++ Involved in developing UNIX Korn Shell wrappers to run various Ab Initio Scripts.
+
++ Developed and supported the extraction, transformation and load process (ETL) for a Data
+Warehouse from their OLTP systems using Ab Initio and provide technical support and hands-on
+mentoring in the use of Ab Initio.
+
++ Knowdedge in reading the source data from HOFS and loading it into HIVE tables.
+
++ Good knowledge of Data warehousing concept, Data mart, Star Schema and Snow Flake Schema
+‘modeling, Fact tables, Dimensional tables and Surrogate Keys.
+
++ Experience in performance tuning, identifying and resolving performance bottlenecks and
+{improving session performance at various levels lke sources, targets, mappings and sessions.
+
++ Knowdedge in using SSIS API programming module which allows to code SSIS packages using any
+number of programming languages.
+
++ Experience in implementing the complex business rules by creating transformations, re-usable
+transformations and developing complex Mappings, and SQL Stored Procedure, and Triggers.
+
++ Expertise in organizing JAD sessions, user group meetings, walkthrough sessions and change
+request analysis throughout the application development process.
+
+EXPERIENCE
+
+Wells Fargo - ETL Developer/Tester
+
+City, STATE + 08/2018 - Current
+
++ Understanding the Business Requirement document.
+
++ Generated data for execution of Test cases.
+
+‘Involved in daily meeting with Team members to keep track of defects and provided update on
+testing progress.
+
++ Developed Ab initio test environment for UAT testing and used all Ab initio components while
+testing the graphs and ran the jobs on back ground.
+
++ Created ETL test data forall ETL mapping rues to test the functionality of the Ab Initio graphs.
+
+‘Tested the ETL Ab initio graphs and other ETL Processes Data Warehouse Testing.
+
++ Involved in developing detailed test plan, test cases and test scripts using Quality Center for
+Functional and Regression Testing.
+
++The reports that were created in Business Objects were testing by running the SQL statements.
+
++ Setting up Test Environment, Creating specifications for Test Data Requirements and Test
+Condition Matrix, Software Test execution Defect management.
+
++ Generated the test scripts for Functional, Data driven and Regression testing using the automated
+testing tools QTP/UFT.
+
++ Using HP Quality Center/ALM for storing, maintaining the test repository, bug tracking and
+reporting,
+
++ Performed integration Testing, Regression Testing, Black Box Testing and Functional Testing.
+
++ knovdedge in importing requirements, create test cases, validate requirements with test cases and
+generate reports using Quality Center.
+
++ Updated the impacted Ms Access tables.
+
++ Worked extensively with MS Excel and MS access.
+
++ Analysis of business requirements and system requirements of the client and also for Property and
+casualty modules.
+
++ Participate in the preparation of UAT [User Acceptance Test] plans and their execution, and
+conduct meeting with the software testing team to assist in devising test plans, to test the
+robustness of the application at various stages of software development life cycle (SDLC) process.
+
++ Experienced in problem solving ability and analytical skills including Root cause analysis to solve
+real time problem efficient.
+
++ Involved in identifying Manual test cases for automation.
+
++ Finding and reporting defect in defect tracking tool Quality Center.
+
+DXC Technology, HPE - ETL Developer! Data Modeler
+City, STATE » 01/2016 - 08/2018:
+
++ Worked with project sponsors, product owner and application team to develop and implement
+project requirements, and develop ETL procedures that are consistent across all applications and
+system.
+
++ Elicit detated requirements, analyze business needs, and document business and technical
+requirements for development and testing teams.
+
+‘Wrote ETL design documents, establish ETL coding standards and perform mapping reviews.
+
+Participate and lead requirement sign-off sessions wth business and other stakeholders.
+
+Participate and tead priority planning sessions to meet overall project goals and deliverables.
+
+Participate in design sessions withthe development team and remove requirement blockers.
+
+Responsible for generating and circulating dally weekly and monthly status reporting to
+
+stakeholders as appropriate.
+
++ Create and update JIRA stores with requirements, acceptance criteria, activity diagrams, and
+‘wireframes for pointing exercises and sprint release planning as part of SCRUM activities.
+
++ Document flowchart forthe ETL (Extract Transform and Load) flow of data using Microsoft Visio
+and create metadata documents for the Reports.
+
++ Conducted meetings with Subject Matter Experts and document the necessary business rules for
+the project.
+
+Attending reviews and ick off meetings.
+
+Performed requirement analysis, went through all the use cases and isue logs.
+
+Updated the impacted ns access tables.
+
+Worked extensively with MS Excel and MS access.
+
+Analysis of business requirements and system requirements of te client and als for Property and
+
+casualty modules.
+
++ Participate in the preparation of UAT [User Acceptance Test] plans and ther execution, and
+conduct meeting with the software testing team to assist in devising test plans, to test the
+robustness ofthe application at various stages of software development lifecycle (SDLC) process.
+
++ Define, coordinate refine, and enforce the release process and related tasks.
+
++ Collaborate with cross-functional teams on issues related to release details to ensure a smooth
+release.
+
++ Conducted User Acceptance Testing (UAT) and documentation of Test Cases.
+
+Worked in creating deliverables forthe Projects such as Transition Strategy, Knowiedge Transfer
+Pian, Transition Support Plan, and Transition Acceptance Agreement.
+
++ Analyze the source data coming from different sources (Oracle, DB2, XML, Flat files) and worked
+on developing ETL mappings.
+
++ Develop complex Mappings and Transformation for diferent types of tests in research studies on
+daily and monthly bass.
+
++ Worked with the business and the technology areas to gather requirements for development and
+management.
+
++ Created sessions, command tasks, reusable worklets and workflows in Workflow Manager
+
+imensional Star schema, generated the database script, E-R diagrams using
+
++ Implement mapping level optimization with best route possible without compromising with
+business requirements.
+
++ Greate Sessions, reusable worklets and workflows in Workflow Manager and Scheduled workflows
+and sessions at specified frequency.
+
+LJENPRO - INTERN: Data Analyst/Business Analyst
+City, STATE « 01/2013 - 12/2013
+
++ Hands-on experience working as a liaison between the client and technical team, managing
+resources, prioritizing team-based activities and establishing schedules while adhering to the
+objectives.
+
++ Worked closely with the IT and Sales team functional leads to formulate hypothetical insights and
+‘worked through the project of delivering these insights to production.
+
++ Gathered data requirements around new data sources and new uses for existing data sources.
+
++ Participated on cross-functional project teams to identify critical requirements from a reporting
+perspective.
+
++ Acquired data from multiple sources and prepared data for further analysis.
+
++ Worked on customer data related issues and worked on project resolution in collaboration with
+development teams.
+
++ Involved in discussions with business partners to identify questions for data analysis and
+experiments.
+
++ Met with SME to gather information, designed/created process maps; process flows, swim lanes
+using Visio.
+
+Worked with business managers/leaders; reviewed business and system requirements.
+
+‘Acquire data from primary or secondary data sources and maintain databases/data systems.
+
+Identify, analyze, and interpret trends or patterns in large data sets.
+
+Utilization of Power BI functions and Pivot Tables to further analyze in given complex data.

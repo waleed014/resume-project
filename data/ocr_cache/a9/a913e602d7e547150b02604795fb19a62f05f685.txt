@@ -1,0 +1,54 @@
+Phone: (123) 456 78 99
+Database Administrator inal edegeinieauisetors
+
+ROBERT SMITH ee tne
+
+Objective
+
+Over 9+ years of experience as @ SOL DBA. Strive to bring creativity to problern-solving and have
+strong time management and organizational sklls. Communicate wth diplomacy and tact, and
+‘work to provide strong customer service facused attitude Responsible for Interviewing, evaluating,
+training, and developing junior SOL DBA tearm members,
+
+Skills
+
+Microsoft SOL Server, SSIS, SSRS, SSAS, SQL, Database Management, Microsoft Administration,
+Linux Systerns Administration, and Linux Systems Adrninistration.
+
+Work Experience
+
+Database Administrator
+
+‘ABC Corporation - October 2010 - Present
+Supporting the data center mave from the childrens mernarlal haspltal ta the newly built Lurie
+childrens hospital
+Defining and Implementing SQL enboarding pracess including a residency pelley
+Defining and documenting standards for Installations, drive layouts, performance
+benchmarks, file configurations, shared environments,
+Implementing 9 production and 2 test always-on high avallablity groups in SQL 2012/2014
+which, were mix of physical end VE servers
+Archtecting the SQL listener on named instances requiring addltlonal configuration,
+Designing and implementing the SQL data layer Tor a network resource allocation and asset
+tracking application from scratch to handling the hospital network infrastructure of 30,000,
+hetw otk runs and 45,000 devices at the start of the new hospital
+Bullding shared SQL environments in SQL 2008, 2012, 201.4 moving away from to
+applicatioryinstance ratio, providing data resources instead of a database server for every
+need
+
+Database Administrator
+AARC Corporation jine 2010 - October 2010
+Implernented a structured code promotion schedule to manage dally production code rollouts.
+Starting to put a process in place like change control and beginning to standardize the rights
+of everyone including the data tearn
++ Developed both SSIS and DTS development and maintenance for intemal and third-party
+‘applications.
++ Identifying locks, detecting locked and blocked objects session, and releasing the same for
+maintaining the database performance,
++ Supported SSIS packages for ETL projects as well as supporting vendor SSIS packages.
+* Moving the archived logs to the backup destination and regularly clearing the archived log
+files,
+Virtial edge source systern has over 100gb of data on ms SQL server database for nearly 300,
+clients,
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+‘Guidelines

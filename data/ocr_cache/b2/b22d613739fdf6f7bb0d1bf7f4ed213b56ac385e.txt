@@ -1,0 +1,85 @@
+Cristobal Hirthe
+
+52184 Selena Square, New York, NY @ Phone: +1 (555) 355 4367
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR SECURITY SYSTEMS ENGINEER
+Phoenix, AZ
+02/2014 — present
+‘© Provides security engineering analysis on a variety of information systems, analyzing and resolving
+INFOSEC technical problems
+‘* Supports development of security accreditation/certfication documentation, and creating and
+‘maintaining security policy and procedures
++ Participates in software system testing and validation procedures, programming and documentation
+‘© Researches and evaluates current and emerging security technologies to support organizational security
+objectives
+© Conducts market research for hardware and software COTS/GOTS network products for network
+intrusion detection, Customer Usage, Audit trails, Denial of Services, Attack Alert, and other applications
+for administration of electronics ISS (Internet Security Systems) functions
+‘© Configures testbeds and conducts verification testing, records and analyzes results, and provides
+recommendations for improvements for the products/systems under test
+* 10%- Planning & Analysis
+
+COMPUTER SECURITY SYSTEMS ENGINEER
+Chicago, IL
+01/2011 — 09/2013
+‘* Working knowledge of a Linux based IT Enterprise infrastructure and associated network hardware and
+software
+‘* Working knowledge of a Windows based IT Enterp1
+and software
+Knowledge of DoDI 8510.01, Risk Management Framework (RMF)
+Providing user support and guidance
+Perform system audits to assess security related factors within the IT infrastructure
+‘Assess the performance of IA security controls within the IT infrastructure
+Knowledge of Intelligence Community Information Technology Systems Security Risk Management
+Certification and Accreditation
+
+infrastructure and associated network hardware
+
+SECURITY SYSTEMS ENGINEER
+
+Dallas, TX
+05/2007 - 12/2010
+
+‘© Working with Identity and Access Management using Oracle or similiar Access Management suite
+
+‘© Designs, develops and manages security management procedures, policies, standards, design, and support
+guidelines
+
+‘* Responsible for infrastructure system performance and resolving performance issues
+
++ Provide technical guidance in a broad range of topics for computer network defense (CND)
+
+‘+ Provides accurate and timely support of security tools, network-based security configurations, and
+appliances
+
++ Assists Crawford project managers in completing projects on time, within scope, and within budget
+
++ Project management of security system installation vendors in support of datacentre expansion projects
+
+KEAN UNIVERSITY
+Bachelor’s Degree in Computer Engineering
+
+‘+ In-depth Security knowledge and good understanding of Cyber Security trends and challenges
+to write coherent and succinct status/progress reports. Ability to write database queries, reports
+
+Capability to coordinate between engineering, operations, procurement , quality, supply chai
+Good knowledge in both Network Security and Content Security solution
+
+Able to quickly develop successful client relationships
+
+Advanced working knowledge of the configuration and administration of Ping One Ping Federate or
+similar federation products
+
+Ability to work under pressure and meet strict deadlines is essential
+
+Excellent communications skills in English (both written and verbal)
+
+Knowledge of PCI-DSS is desired
+
+Knowledge of Federal-level Security Authorization or Certification & Accreditation methodologies

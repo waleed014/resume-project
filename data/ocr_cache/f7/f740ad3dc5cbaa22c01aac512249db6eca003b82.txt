@@ -1,0 +1,56 @@
+ROBERT SMITH
+Jr. DevOps Engineer
+
+Phone: (0123}-486-789 | Email: infoBqwikresumescom | Website: Quikresume.com
+
+Around 6+ years of IT experience as a DewOps Engineer with expertise in areas of
+Software Configuration Management, Version Control, Build and Release management,
+Linux System Administration. Expertenced in branching, tagging and maintaining the
+version aeross the environments using SCM tools like GIT, Subversion (SVN) and TRS on
+Linus and Windows platforms, Implemented TortoiseSVN and webSWN for Subversion
+‘and integrated Jira (change management tool), Excellent interpersonal skills, ability to
+interact with people at all levels,
+
+[CORE COMPETENCIES
+
+‘DevOps Tuols SCM, Git, GRUNT, SonalQube. Bitbucket, Maven, Chef, Puppet, SaltStack,
+Hudson, Jenkins, Docker, Agile. Jira, Nagios. Operating Systems Red Hat Linux 3.x, 4.x.
+5.x, 6.x. Ubuntu, CentOS, Windows, Hardware IBM P-series, Fujitsu Printe-powers,
+
+ROFESSIONAL EXPERIENCE
+
+de. DevOps Engineer
+ABC Corporation - January 2018 - Present
+
+Key Deliverables:
++ Working as a DevOps Engineer for a teain that involv
+development teams and multiple simultaneous software releases,
+rellent Inlerpersonal skills, ability to Interact with people at all levels,
++ Good experience in working with a leam together to deliver the best outputs in,
+given time frames,
++ Supporting the application in production and worked closely with off-shore teams,
++ Developing and implementing sollware release management strategies for various
+
+s three different
+
+applications aecordiny to the auile peocess.
+
++ Deploying Java applications 1o application seivers in an agile continuous
+Integration environment and also automated the whole process,
+
+Performing integration of code quality analysis techniques - check style, find bugs
+with el tools,
+
+DevOps Engineer
+ABC Corporation - January 2013 - December 2014
+
+Key Deliverables:
+Supporting - patching, rollbacks into sit, UAT, production environments Setting
+up SCM/build tools far developers
++ Helping to resolve all SCM /builds issues like merye conflicts, compilation errors,
+missing dependencies, hranching/mering/tasuing,
++ Assist in the Incident management process by reviewing production data and
+providing analysis of eustomer-lmpacting incidents,
+
+2259 Oak Street, Old Fonge, New Yorks, 13420
+Ts Vase Resume Template the copy of Qutb com, Usage Culeliane

@@ -1,0 +1,127 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 © resumesamplesexample.com
+
+Professional Summary
+
+Experienced Java Developer offering 6 years of professional experience at designing, developing, and maintaining wide range of new
+and existing software applications. Clear communicator and effective team member. Forward-thinking development professional
+bringing expertise in Java, SQL, HTML, CSS, JavaScript and other technologies.
+
+Accomplishments
+
++ Awarded by completing Infrastructure Management System in Department of Technical Education by Government of Andhra
+
+Pradesh, India with accuracy and efficiency in 2012.
+
+Skills
+* Java/[2EE Servlets Core Java, Multithreading, Spring,
+Hibernate, Java Beans, Struts, Spring /Hibemate, JPA, XML.
++ Ul Technologies - HTML, XSLT, JavaScript, CSS, XML, XSD,
+AJAX, jQuery, JSON, Angular JS. Knowledge on - Node
+J5React J.
+« Frameworks - Struts, Spring Core (IOC), Hibernate, JPA,
+
+Messaging Systems - JMS, RabbitMQ
+Testing Tools/ Frameworks - SoapUI, Rest Client, JUnit,
+Selenium, TestNG.
+
+Continuous Integration System Tools- Jenkins, Maven,
+Gradle, Apache ANT, JIRA.
+
+Tools - Eclipse, Netbeans , STS(Spring Tool Suite), Toad for
+
+Spring MVC, Spring AOP, Spring Data (Spring JDBC, Spring DB2
+JPA), Spring Boot, Spring Batch.
+
++ Web Services - SOA Architecture, SOAP, RESTful, JAX-RS
+yaxws
+
+Work History
+
+Java Developer, 07/2019 to 01/2022
+(Cvs Health — Fort Wayne, IN
+* Designed, developed and implemented software applications for website based on analyzed requirements and understanding of
+industry technical standards.
++ Participated in performance analysis, design, development and testing.
++ Used Spring MVC, Ajax and Dependency Injection for handling presentation and business logic . Integrated Spring DAO for
+data access using Hibernate.
++ Provided high-level customer support to remote clients using support e-tcketing system, successfully resolving the tickets daily.
++ Developed web services for produce and consumed the services by making Web Service calls to remote services in different
+applications.
++ Used Spring Security for Authentication and Authorization of the application.
+
+Java Software Developer, 05/2018 to 06/2019
+Rtx-Marblehead, MA
+
++ Participated in performance analysis, design, development and testing.
+
++ Involved in Daily Scrum (Agile) meetings, Sprint planning and estimation of the tasks for the user stories and retrospective
+meetings.
+
++ Implemented Java 1.8 new features like Lambda Expressions, Method references and Functional Interfaces.
+
++ Implemented RESTful Web services to retrieve data from client side, made REST API calls.
+
++ Designed and developed business components using Spring Boot, Spring Dependency Injection (Core), Spring AOP and Spring
+Annotations.
+
++ Used SOAP Ul for testing web services request and response.
+
++ Developed Tracker Reports using Spring MVC, JSP, HTML, CSS, JavaScript, AJAX and jQuery.
+
+* Developed Micro Service APIs for Merchant Service, Remittance Address Service, Credit Card Balance Transfer Services using
+Spring Boot.
+
+Associate Java Developer, 11/2016 to 04/2018
+Delta Air Lines, Inc. - New York, NY
+
++ Developed UI pages with JSP,Spring MVC, HTML5, C553, JavaScript, jQuery.
+
++ Involved in Requirement, Initial Review meetings with Business Analysts.
+
++ Developed few Web Service Clients using Spring-WS templates for Third-party WebServices consumption.
+
++ Used Spring Data JPA as ORM to connect to database to perform CRUD operations.
+
++ Performed application coding and programming. Conduct design and code review.
+
++ Performed code build and deployment using Maven and Jenkins.
+
++ Used logs] for application logging and notification tracing mechanisms,
+
+Java Web Developer, 07/2013 to 06/2014
+Nic Inc. - Santa Fe, NM
+
++ Used Struts 2 MVC architecture, with JSP’s in front-end, and integrated it with Spring and Hibernate layers.
+
++ Researched JMS solutions as an option to provide high availability messaging backend for the system. Good understanding of
+
+messaging APIs, publish/subscribe model, queue management, etc.
+
++ Implemented a Java client to create JMS message queues & publish/consume JMS messages.
+
++ Involved in coding, debugging, unit testing of the various modules of the system.
+
++ Designed and developed a regression test suite to automate testing using JUNIT Test cases,
+
+Education
+
+Associate of Science: Computer Science
+University of Cumberland’s - Kentucky
++ Continuing education in Research
+
+Associate of Science: Computer And Information Systems Security, 05/2018
+University of Cumberland's - Kentucky
+
+Associate of Science: Computer Science, 04/2016
+Northwestern Polytechnic University - Fremont, CA
+
+Certifications
+
++ Project completion certificate by Protola IT Solutions on a Java based project" Learn to Personalized Image Search from Photo
+Sharing Websites”.
+
++ Certificate of Merit by CMC Academy in Java Course Training
+
++ Projact completion cestficate by CMC Academy on a Java based project "Automotive Price Aggregator".

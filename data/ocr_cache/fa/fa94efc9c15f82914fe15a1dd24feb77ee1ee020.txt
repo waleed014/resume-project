@@ -1,0 +1,53 @@
+Robert Smith hone (123) 456 7899
+
+Email Infocauikeesume,com
+
+"i Website yauwu.qwikresume,.com
+Senior Sql Developer LUnkedin:linkedlin.corn/quikresurne
+
+‘Address; 1737 Marshuille Road, Alabarna
+
+SUMMARY
+
++ years of experience SQL Server Administration, Development Database Design in Production
+evelopment Test environments with Microsoft SCL SERVER [] & 2014. Experience working with,
+32bit, 64-bit MS SQL Server Clustered and Standalone Server Environment. Handful experience
+outstanding knowledge on High
+
+SKILLS
+
+“Tansact SQL, Microsoft SSIS, Microsoft SSAS, Microsoft SSMS, Microsoft SSRS, Microsoft SQL
+Server, Oracle, .NET, Data Warehousing Tools, Stored Procedures And Triggers,
+
+WORK EXPERIENCE
+
+Senior Sql Developer
+Capital One - june 2014 - 2020
+Responsibilities Created Stored Procedures, THagers, Views Functions for application,
+* Migrated the legacy Databases in SQL Server 2000 to SOL Server 2005 using SSIS
+Wrote T-SQL statements for retrieval of data Involved In performance tuning of TSQL queries
+and Stored Procedures,
+Trouble shooting of Reports by cross checking Report Layouts, Stored Procedures and SSIS
+Packages.
+Developed several Camplex Reports using SQL Server Reporting Services (SSRS),
+Created Ad-hoc Reports, Drill Down Reports, Pivot and Tabular Reports
+Upgraded SOL Server 2000 DTS Packages to SSIS for uploading various formats of les
+databases MS SOL Server 2005 using SOL Server Integration Services (SSIS).
+
+Senior Sql Developer
+Delta Corporation - 2013-2014
++ Responsibllties Installed and configured SQL Server 2005/2008 on the server and cllent
+machines, provide connections and manage databases.
++ Created and maintained various databases for Production, Develeprnent Servers using MS
+SQL Server 2005/2008.
++ Planning the location of data, Indexes, and Transaction logfiles oh the disk,
+* Use of DBC Uilities to maintain the consistency and inteurity of each database inthe
+production server.
+Resolved locking and blocking issues,
+Tuning the Production server to get the performance impravernent;
+Running index tuning wizard for optimal query performance.
+
+EDUCATION
+BS in Computer Sclence- 2005(saker - Flint, Mi)
+
+(0 This Fra Resume Tamblat is the copyright f Qvakesume com. Usage Guldatns

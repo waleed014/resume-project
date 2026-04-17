@@ -1,0 +1,48 @@
+I ° yt Developer
+| Tel | Address: i Email:
+Linkedin: linke | Github:git
+
+Over two years of focused experience in the blockchain industry managing security
+operations for cryptocurrency custody systems on an institutional level. Adept at
+implementing innovative solutions in order to streamline & automate operations. Well-versed
+in cryptographic concepts such as ECDSA/MPC, distributed ledger technology, and areas of
+Web3 such as staking, DeFi and smart contracts.
+
+Core Skills
+e Attention to detail & problem solving.
+e Excellent communication skills & team-building.
+e Working Python proficiency. Experience with libraries such as Pandas & Numpy.
+e Proficiency with REST APIs, including crypto-specifics such as Binance & CCXT.
+e Working experience and proficiency with cloud platforms, mainly in Azure.
+e Experience with JavaScript, SQL, and CI/CD platforms (Docker & Jenkins).
+
+Work Experience
+Blockchain Security (April 2021 - Present)
+e Worked on various high profile projects involving the migration and management of
+crypto assets by actively managing systems & users, being in active contact with
+vendors, and ensuring overall upkeep of system security.
+e Actively collaborated with various internal teams on a regular basis to ensure crypto
+custody operations keep running smoothly & securely.
+e Saved hours of manual work throughout major custody operations by designing &
+implementing new scripting solutions using Python & various API's.
+e he staking implementation of the CEO's personal crypto-charity project
+ae closely with the developer team and the project smart contract.
+Technical Suppo! epresentative I (Nov 2017 - Nov 2019)
+e Helped solve technical proble clients with TV, Internet, and telephone.
+e Handled complaints and problems in a friendly and professional manner.
+e Collaborated with various internal departments & on-site repairmen to provide the
+best service possible.
+
+Education
+Ethical Hacking & Cyber security (Nov 2019 - Sep 2020)
+
+e 540 hour course covering the fundamental aspects of networking, cyber security, and
+ethical hacking.
+
+e Course modules: penetration testing, networking fundamentals, privilege escalation,
+cyber attacks & vectors, scripting languages, malware analysis & reverse engineering.
+
+Certifications: EC-Council Certified Ethical Hacker (CEH v10) (September 2020)
+Languages: Native English. Fluent Hebrew & Russian. Proficient Spanish. Intermediate German.
+
+Hobbies & Interests: Musician, playing guitar & piano for over 15 years. Language learning.

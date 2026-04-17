@@ -1,0 +1,82 @@
+Kelley Weber
+35107 Wilfred Mission, Detroit, MI # Phone: +1 (555) 605 7973
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+MANAGER, DATABASE ADMINISTRATION
+Dallas, TX
+06/2015 — present
++ Performs hiring, firing, objective setting, performance appraisals, coaching and reviews of subordinates
+‘Recruit, develop and retain staff, partnering with Sr. Management, Recruiting and Human Resources.
+This includes on-boarding and orientation for new hires
+‘© Work closely with all IT teams and business groups to manage customer satisfaction and
+investigation and remediation of service level breakdowns
+‘© Supervise and manage the performance of Database Administrators
+‘+ Establish and enforce standards, best practices and escalations policies to meet operational/performance
+goals as well as SLAs
++ Investigates industry trends and implement new technologies to improve the level of service and
+technology provided to the business
+‘+ Ensures compliance and uniform, transparent systems across the division and enterprise by working
+closely with other area managers and directors
+
+DATABASE ADMINISTRATION MANAGER
+New York, NY
+12/2012 - 01/2015
+‘Reviews database design and integration of systems, provides backup recovery and makes
+recommendations regarding enhancements and/or improvements
+‘* Development of talent management roadmap for team
+‘© Keep abreast of IT industry trends and developments to help identify potential new technologies for the
+improvement of Academy's systems infrastructure
+‘© Creates the Data Governance framework that meets data objectives for the organization
+‘© Develop talent management roadmaps that attract and retain top talent and are aligned with the team’s
+strategic priorities
+‘* Develops and executes data quality strategies in line with the organization's business strategy and goals
+‘© Keeps senior technical management informed by preparing reports on system performance and problems
+
+MANAGER DATABASE ADMINISTRATION
+Boston, MA
+02/2009 — 06/2012
+‘© Contribute to the development and management of annual capital and expense budgets
+‘© Manage team's work to implement and install production changes on a 24x7x365 basis
++ Collaborate with peers and customer groups to develop business cases, policies and procedures
+‘* Develops strategy for provisioning, maintaining and securing corporate-wide deployments of database
+infrastructure
+‘+ Formulates and monitors policies, procedures and standards relating to database management
+‘* Manage assigned resources to ensure work activities are completed and staffing level/load is completed to
+‘maintain end to end continuity of services, system documentation, and resource balance
+‘* Manage planning, scheduling, and delivery of global database production operations
+
+LOYOLA UNIVERSITY CHICAGO
+Bachelor’s Degree in Computer Science
+
++ Ability to respond to unpredictable work patterns/interruptions
+
+* Good Knowledge of RMAN, Active Data guard, Oracle Data Pump, SQL statement tuning,
+
+backup/recovery, define data dictionaries and Dataguard
+
+Strong knowledge in RAC, Exadata, GoldenGate & Oracle Database Appliance (ODA)
+
+Strong knowledge of Oracle database versions 11g, 12c on UNIX platform
+
+Demonstrated ability to successfully manage, lead, and inspire a team of technical professionals
+
+Ability to remain organized, pay strict attention to detail, and meet critical deadlines within a dynamic
+
+high volume, fast-paced environment
+
++ Ability to lead, motivate and work as part of a team as well as ability to be a single contributor
+
+‘+ Excellent time management skills, ability to support multiple projects, and effectively manage a large
+volume of work
+
++ Ability to operate professionally, effectively and ethically as an indi
+team
+
++ Ability to meet aggressive deadlines and juggle multiple, changing priorities
+
+jual contributor and member of a

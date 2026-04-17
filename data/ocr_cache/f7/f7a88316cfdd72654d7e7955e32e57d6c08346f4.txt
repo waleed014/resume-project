@@ -1,0 +1,61 @@
+ROBERT SMITH
+SQL Server BI Developer (SQL/SSIS/SSRS)
+
+‘E-mall infowgwikresums-com Phone: (0123)-56.709
+SUMMARY.
+
+[SQL Server BI Developer with 6 years of experience in the Healthcare domain, Experience in Database
+Design, Programming, Development, and Implementation of Client-Server Applications & Dathase
+systems using MSSQL_. Experienced in Installing Upgrading ancl Configuring of Microsolt SQL Server and
+Databases. Proficient in SQL Server and T-SQL (DDI-and DML.) constructing Tables, Normalization
+techniques on database Tables
+
+ries (SSRS
+
+‘lu Warehouse Tools, SQL. Server Integration Services (SSIS), SQL- Reposting | SSMS,
+
+‘HusinessInelligence Developmen! Studio, DTS, Lnkerprise Manager, SQL Profile.
+
+‘ORK EXPERIENCE
+
+SQL Server BI Developer (SQLISSIS/SSRS)
+Inventive Health ~Fanuary 2013 ~ Present
+
++ Involving in requirement gathering, analis, implementation, development and prediction
+
+4 Creating dynamic quetis toperioa E:T. operations by looping through multiple database vrvers
+sn tables.
+
+‘+ Importing and extracting data trom various sources such as Hat ile, acess, SQL server and loaded
+those data into SQL server to bull various repans
+
+Designing and developing the various analytical reports Irom muliple data Yources by blending data
+‘om asingle worksheet in tableau deskaop.
+
+‘+ Troubleshooting SSIS packages and migration procedures and documenting the complex SSIS
+packages and migration procedures
+
+‘SQL server datahate modeling, design andl development with complex sq scripts tors procedure,
+‘views, defined functions, wiggers
+
+“Designing and developing the mappings to lad the data frm flat ie to SQL. server ables for
+epomin purposes
+
+SQL Server BI Developer
+ARC Comp - 2012-2013,
+
++ Involved in creating reports, creating stored procscures and improving quer’ perfomance
+
+4 Developed stored procedures and views for data import and manipulation,
+
+4+ Exper in extracting and transforming data using DTS in SQL. server, SSIS in SQL
+
+4+ Restricted data for particular users using row level secufly and used ker.
+
+4 Invobed in the migration of databases rom SQL. Server 2008 o SQL. Server 2012 using SSIS aml
+third-party tools of pragmatic work Dishane.
+
+‘+ Involved in designing, developing and testing ofthe ETT (extract, transformation, and load) strateyy
+to populate the data from various source systems feeds using SSIS,
+
+(© Thi se Resume Templates he eprgh of Opies: cm, Lag Gulins

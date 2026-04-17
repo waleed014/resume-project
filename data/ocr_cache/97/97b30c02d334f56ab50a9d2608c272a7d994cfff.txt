@@ -1,0 +1,73 @@
+Robert Smith SQUTACT DETAILS
+
+ypanernite non
+
+Junior SQL Server Developer eal
+ceceneey
+Se
+
+PERSONAL STATEMENT
+
+Junior SQL Server Developer with over 3 plus years of IT Experience in ‘SKULLS
+Database Design, Development and business intelligence of Microsof: SOL SL Server/Oracle Tools
+Server in Developrnent, est and Production Environments, Expertise in Sai Server Manegernent
+
+lwriing 50 Queries using joins, Sub queries and Cursors in MS SQL
+
+Server strong hands-on experience with M5 SOL server with Business ushers
+
+: usiness intelligence
+intelligence in SOL server Reporting services, SOL server Analysis Services &
+Of and SOL Server integration services Development studio,
+SOL Developer, SOL
+Pus. Bl bols SOL server
+hhaniaeecatinan integration Services
+Junior SQL Server Developer (SiS), SOL Server
+Citibank March 2016 - Present Analysis Services (SSAS),
+
+SQL Server Reporting
+Services (SSR5), Data
+‘Transformation Services
+
+Responsibilities:
+* Working on various possible perforrance-related issues induding
+
+database tuning with the sole intention of achieving faster response (075), Business objects
+times and better throughput. XI /XL-R2 Visio, MS SOL.
+
++ Involving in the analysis of report design requirements and actively Server, Ms Access,
+participating and interacting with team lead, technical manager and Grade, TSOL
+
+lead business analyst to understand the business requirements,
++ Migrated DTS packages from SOL Server 2000 to SOL server 2012 a5
+
+SSIs packages. LANGUAGES:
+
+Experience in working on cube structure optimization for MDX query English (Native)
+perfornance in analysis services 2008, French (Professional)
+
++ excellent report creation skils using Microsoft SOL server 2012/2082 Parish (Professional)
+
+reporting services (SSRS) with proficiency in using report designer as
+well as report builder,
+
+Created SQL server reports based on the requirements using SSRS- UNTERESTS:
+* Worked on the reports module of the project as a developer on ms SQL a
+SQL Server Developer
+
+[Design Specifications description ofthe frarnework, interfaces, services,
+reports, business components, and interaction between the components
+
+Created complex reports which involve a number of groupings and
+multi-value parameters,
+
++ Developed reports like claim statements, fee bills transactions and
+Some end request user reports on a periodic basis.
+
++ Sound experience and understanding of SSAS, OLAP and OLTP cube,
+data mining, and architecture,
+
+‘Created multiple reports with drop down menu option having cornplex
+‘groupings within the report
+
+(© The Etze Restime Template le the copyriht of Qwikrestme.com, Usage Gulsains

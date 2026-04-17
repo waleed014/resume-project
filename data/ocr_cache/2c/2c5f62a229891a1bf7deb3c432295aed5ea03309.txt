@@ -1,0 +1,55 @@
+First Last
+
+Java Backend Developer
+
+Seattle, Washington + +1-234-456-789 + professionalemail@resumeworded.com * linkedin.com/in/username
+
+WORK EXPERIENCE
+
+Resume Worded, New York, NY 09/2015 — Present
+Education technology startup with 50+ employees and $100m+ annual revenue
+Java Backend Developer
+e Developed an algorithm that reduced API response times by 87% while increasing server efficiency by 80%.
+e Designed RESTful APIs using Java, Thymeleaf, and Spring Boot, for a web application with 10M monthly
+
+users.
+e Improved customer experience by 80% via developing a RESTful API for 17 mobile apps using AngularJS
+and NodeJS.
+e Increased code coverage from 25% to 89% by creating an automated testing framework in Java using JUnit
+and TestNG.
+Polyhire, London, United Kingdom 11/2012 — 08/2015
+
+NYSE-listed recruitment and employer branding company
+Junior Software Developer
+e Launched a search engine for 5.5K customers to search for the location of 500 ATMs in the country, saving
+Polyhire $500K in data research.
+e Designed a user interface as a single-page application using React and MobX, which increased the
+productivity of 10K users by 90%.
+e Improved the coding process, scheduling, quality assurance, and ticketing system, increasing the
+productivity of the IT department by 80%
+
+Growthsi, London, United Kingdom 07/2009 - 10/2012
+Career training and membership SaaS with 150,000 paying users
+
+Programmer
+
+e Created a web application that manages 2TB of data for 10K clients using C#, SQL Server, ASRNET MVC,
+JavaScript/jQuery, HTMLS, and CSS3.
+
+e Designed anew system to manage the data of 4K clients by creating database tables and designing
+screens using Visual Studio 2017.
+
+e Launched an algorithm that reduced API response times by 70% while increasing server efficiency by 91%.
+
+Java Web Developer, ABC Company, London, United Kingdom 12/2008 — 06/2009
+Junior Programmer, XYZ Company, London, United Kingdom 09/2005 - 11/2008
+EDUCATION
+
+Resume Worded University, New York, NY 08/2005
+
+Bachelor of Science — Computer Science
+
+SKILLS
+
+Technical Skills: Jenkins (Advanced), Web Services (Experienced), Agile Methodologies, Software Development.
+Industry Knowledge: Spring MVC, Spring Security, Spring Boot (Advanced), JavaServer Pages (JSP).

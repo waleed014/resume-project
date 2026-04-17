@@ -1,0 +1,185 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Infrastructure development
++ Security planning
+
++ Budget administration
+
++ Excellent communication skills
++ Customer Focused
+
+EDUCATION
+
+Santo Tomas
+Philippines
+
+Associate of Arts: Industrial
+Design
+
+Northern Virginia Community
+College
+
+Annandale, VA
+
+Associate of Science: Information
+Technology
+
+PROFESSIONAL SUMMARY
+
+Strategic Information Technology Manager skilled in guiding the organization’s navigation of modern
+technology. Accustomed to driving efficiency and effectiveness by developing, delivering and
+supporting strategic plans. Passionate about creating and delivering the vision for the organization's
+technology needs and goals. Demonstrated ability to translate technical requirements to business
+solutions. Excellent interpersonal skills-building positive relationships with internal and external
+stakeholders.
+
+LINKS
+
++ https://polishedpetalsflorist.com/
++ https://rojahnmalaney.com/
++ https: //espireservices.com/
+
+WORK HISTORY
+
+‘Community College Of Aurora - Information Technology Manager
+Denver, CO + 10/2016 - Current
+
++ Led and assisted Customer Database, Company website and Financial software migration for the
+organization by working and coordinating with consultants and developers for integrations.
+
++ Guide implementation of company-wide enterprise security strategy for network and hardware,
+disaster recovery, data protection, and endpoint protection.
+
++ Maintain control of project budgets and timelines to keep teams on-task and achieve schedule
+targets.
+
++ Facilitate the best user experience through continuous support, training classes, webinars,
+improvements and communication of the organization's policies and changes.
+
++ Coordinate projects in Marketing, SEO, HR, Developers, and Publishing including defi
+managing milestones and maintaining strong relationships with all department heads.
+
++ Work closely with the executive team and Board members to plan, develop, coordinate and execute
+technology strategies aligned to the organization's vision, mission, and purpose.
+
+ing scope,
+
+Asml - IT Administrator
+Fort Collins, CO + 07/2000 - Current
+
++ Demonstrates a high-level working knowledge of Windows-based programs such as Windows
+Server, Windows 10, Linux and macOs.
+
++ Install and configured Office productivity software.
+
++ Secure laptops and desktop software to conform to IT security best practices.
+
++ Perform network maintenance on office Local Area Network (LAN).
+
++ Diagnose and repair hardware problems with laptops, desktop, and iOS devices.
+
++ Maintain existing IT systems and framework, and identify areas for needed upgrades.
+
++ Conduct scheduled Operating system maintenance and installed recommended updates to comply
+with the latest software release requirements.
+
++ Provide office employees with technical support services.
+
++ Resolve issues and escalate problems with vendor support.
+
++ Implement, develop and test installation and update of file servers, print servers and application
+servers in all departments.
+
++ Improve overall security with proactive user security awareness training.
+
++ Maintain a flexible schedule to respond to after-hours and weekend emergencies.
+
++ Maintain existing company Information website and E-commerce store.
+
+Wipfli Lip - IT Consultant
+Lincolnshire, IL + 01/2016 - Current
+
++ Delivered quality commercial websites that meet and exceed customer requirements
+
++ Provide reliable and secure hosting of customer's websites.
+
++ Installed required plugins and additional coding to fit final design and functionality requirements.
+
++ Worked closely with software development and testing team members to design and develop robust
+solutions to meet client requirements for functionality, scalability, and performance.
+
++ Consulted regularly with customers on application development project status, new project
+proposals and software-related technical issues.
+
++ Collaborated with the customer on project specifications, strategy and execution to build new
+WordPress pages and update existing ones.
+
++ Autornated and implemented backup and recovery procedures for Wordpress files and databases.
+
++ Securing Wordpress sites from all forms of online attacks.
+
+ACCOMPLISHMENTS
+
++ Promoted to IT Director.
+
++ System Upgrade - Created and drove infrastructure migration strategy to begin the transformation
+of legacy on-premises technologies to a modern cloud solution built upon enterprise-grade
+architecture.
+
++ Received the highest accolades from department leaders for delivering outstanding support to
+users in the organization and customers.
+
++ I took over a high-level database migration project after the database manager who had all of the
+institutional knowledge unexpectedly passed away. | had to come up with the resource and plan
+within a short time to meet the launch date.
+
++ Implement an effective proactive user security awareness training program which resulted in no
+compromised accounts during my tenure at the organization.
+
++ Problem Resolution - Handled all internal technical support instead of relying on external 3rd party
+IT consulting companies to reduce the organization's expenditures.
+
++ Speatheaded five successful website migrations.
+
++ Setup and implement a secure Firewall using PfSense which provides web filtering, NAT, and WAN
+Failover.
+
++ Created a Group Calendar using an iCalserver which makes it easier for users to check co-worker’s
+availability.
+
++ Virtualized all of the organization's Windows and Linux physical servers to use Linux KVM on
+Proxmox Hypervisors.
+
++ Managed and maintained a Debian Linux IMAP server for 15 years before migrating user mailboxes
+to Exchange Online.
+
++ Managed and maintained company Linux Apache MySQL and PHP webservers on AWS Lightsail.
+
++ Written articles published in the organization's magazine publication.
+
++ Planned and implemented the successful migration of two organization’s legacy on-premises
+Windows infrastructure to Office 365 Enterprise.
+
++ Delivered an effective integration of Single Sign-On between AMS and company website to
+facilitate member sign-ins to manage their account or access member-only content using one-
+logit
+
++ Played a key role in transitioning user’s Windows workstations to all macOS.
+
++ Developed and implemented a floral eCommerce website on a Wordpress / Woocomerce platform
+to work with a POS system.
+
++ Develop and implemented a cost-effective VOIP solution by utilizing Microsoft Cloud-PBX integrated
+with Microsoft Teams.
+
++ Created an internal Knowledge library to serve as the repository where internal users can share
+how-tos covering processes of each department's operations for business continuity purposes.

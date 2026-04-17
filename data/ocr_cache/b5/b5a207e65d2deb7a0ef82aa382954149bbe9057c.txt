@@ -1,0 +1,115 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Performance and data-driven Magento/Magento 2 Lead Developer with a
+passion for Magento, optimization, innovation, complexity in function with simplicity in design, and developer growth. Willing and eager to
+direct lean and hungry teams to achieve the highest evel of excellence and provide a world-class architecture to better serve the business's
+needs.
+
+Sears
+‘+ Back-End and Database Skills * Decision Making
+‘+ User Experience Design + Web Architecture
+‘+ Complex Problem Solving + DevOps Engineering
+‘+ Front-End Skills: HTML, CSS + Ecommerce Integration
++ Avid Leamer + Developer Elevation through Education
+‘+ Analytical Thinking
+Work History
+
+01/2021 to Current Senior Magento Developer
+Amuse - City, STATE
++ Collaborated on all stages of systems development lifecycle from requirement gathering to production releases.
++ Planned and developed interfaces that simplified overall management and offered ease of vse.
+* Gathered and defined customer requirements to develop clear specifications for project plans.
++ Provided dramatic increases in overall site stability and provided solutions for long-term problems affecting D2C
+transactions.
+
++ Integrated with a large number of third-party vendors through bespoke API interfaces.
+
+05/2017 to 12/2020 Lead/Senior Magento Developer
+(Cricut - City, STATE
+* Optimized and developed the existing storefront to a very high level
+of performance. Decreased individual page loads by as high as six
+seconds, down to roughly 1 second, and overall site performance by
+three seconds on all pages. Drove development towards best
+practices and pushing the limits of our technology stack,
+‘Worked with numerous teams, each specializing in different
+technologies, to bring a coherent cross-platform experience to our
+customers. Optimized the integration of our home-made platform
+with the Magento platform.
+Provided stability and 100% uptime during high-volume periods.
+Lead a team of developers and oversaw the weekly release cycle of
+a Scrum/Agile development process. Communicated with all
+departments in the organization to make our shopping experience as,
+effective and painless as possible
++ Architected the migration and lead the implementation of the
+migration process from Magento 1 to the Magento 2 platform.
+‘Trained experienced PHP developers in the specifics of the Magento
+platform and its optimization
+
+09/2016 to 05/2017 Magento/Web Developer
+Eystudios — City, STATE
+
+* Developed exceptional websites suited to individual customer needs.
+Created, troubleshot, and maintained custom extensions and
+‘modules to increase the out-of the-box functionality of the Magento
+1 and Magento 2 platform.
+
++ Leamed the entirety of the Magento 2 platform on the job and have
+reached a level of extreme qualification and competence with the
+platform.
+
++ Migrated several websites from other platforms to Magento 2
+including Magento 1, BigCommerce, WooCommerce, and custom-
+created PHP platforms. The process included conversion of data
+and functionality into Magento data as well as extensions.
+
++ Created and maintained new websites to client speciOcations,
+working in close order with other developers as well as designers
+and client relations specialists to provide the optimal website for
+client needs
+‘Spoke with clients during kick-off calls and made data-driven
+recommendations to them based on their sales goals, time frame,
+and budget. Conveyed high-level technical concepts into digestible
+language for non-technical persons. Often served as preferred point
+of contact for new technical requests and questions.
+
+05/2014 to 03/2016 Magento/Web Developer
+‘Vaperite ~ City, STATE
++ Troubleshot and resolved web application issues escalated from
+customer support and other departments with 2 100% success rate.
+Assisted in the monitoring and reporting on website tra3c and
+performance, Improved reliability of supply chain software, systems,
+database and order processing.
+Developed and managed project plans while providing status,
+updates to management. Served as operating system expert,
+providing technical support for entre organization.
++ Redesigned the retail website to CEO's specifications. Used CSS,
+HTML, and PHP 5 to customize the website.
++ Updated and maintained 3écart wholesale website
+Performed daily updates and changes to the retail website including
+the addition of new products and management of extensions.
++ Customized a lightweight PHP-based application for label indexing
+‘and management.
++ Coordinated technical efforts between IT, POS, and Product
+managers to achieve improved e3ciency.
++ Modified third-party extensions to improve their functionality with the
+existing Magento framework.
+
+Epucation
+
+Bachelor of Arts: English Education
+Middle Tennessee State University - Murfreesboro, TN
+
+05/2019 High School Diploma
+‘Milton High School - Alpharetta, GA
+
+Lanauaces
+Dutch: French:
+Negotiated ‘Negotiated
+Japanese:
+
+Negotiated:

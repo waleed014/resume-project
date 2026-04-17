@@ -1,0 +1,80 @@
+Ehab Abdelwhab Abdelfattah Atallah
+
+‘Address: Riyadh - Saudi Arabia Gender: Male.
+Mobile: +966532712258 - +201000544361 Marital status: Married.
+Email: Abdelwhab.chab@ yahoo.com Nationality: Egyptian.
+
+Birthdate: 1 Aug. 1987
+Linkedin: httos://www.linkedin,com/in/ehababdelwhab
+
+SUMMARY - SUBJEC"
+94 years of experience as Java Developer Including 1.5 year with team leader roles. Working in IT Departments
+for diversified industries using diversified skills and variant wide range of tools and technologies.
+
+Looking for an opportunity as Java Developer/Team Leader to enhance my proven professional, managerial and
+interpersonal skills
+
+ROLES AND RESPONSIBILITIES.
+
+‘+ Execute Full Cycle for software development using different methodologies
+
+‘+ Write well-designed, well-Maintained and testable code
+
+* Translate Business needs into technical design and determine applicability
+
++ Integrate software components into a fully functional software system
+
+* Troubleshoot, debug, enhance (Performance, Functionality, Security, Business view, Technology...)
+* Do UAT process, Deploy. support UAT/production and do communication with concemed teams
+
++ Develop related technical/analysis/design/quality assurance documentation
+
++ Comply with Company/Department goals, project plans and industry standards
+
+EXPERIENCE
+
+Senior Java Developer From: December 2016, To: “Current”
+Banque Saudi Fransi - Riyadh - http:/www.alfransi.com.sa - Information Systems Group (ISG)
++ GPS (Global provisioning System)
+‘A web based application used for writing off detaulter loans trom balance sheet. Whenever required system batch
+process is run to complete the task. Used by CAG-Collection “Consumer Assets Group" to compute and monitor the
+
+loans and credit card provisions. It contains 4 modules provisioning, Write-Ott, Recovery and Remedial. Also designed
+to generate and post financial entries based on product DPD “Days Passed Due!
+
+Responsibilities: Development, Supparting Production, UAT, Solving Securily breaches
+Technologies: Spring (MVC-Security), JPA, Oracle DB, JQuery, Rest webServices
++ TMR Application (Transaction Master Repository)
+
+‘An integrated inquiry portal. It's main business {unclions to inquire Customer, Account, GL Transaction Transaction
+Master, Account Statement Reprint, Risk Related Inquiries, Link to other applications like GETMIS, MISC Tran and
+ICAMIM, Account Types, Online Balance, Overall Posilion and Online Authorization Inquities.
+
+Responsibilities: Development, Supporting UAT/Praduction, Solving Security breaches, Upgrade project to latest
+Technologies: Spring Security, JSF (RichFaces), Hibernate, Oracle DB, MSSQL Server, Web Services
+
++ IPP & Clearing (Integrated Payments Platform)
+‘A comprehensive solution far electronic payments, being bull 1o handle the electronic payment transactions for BSF.
+it is an integrated, real-time, muli-currency payments gateway enabling straight through processing and reducing
+
+‘operational costs. alse provides common repository and standard interfaces for the external payment channels 10
+process their payments,
+
+Responsibilities: Development, Supparting Production, UAT
+Technologies: Spring Security, JSF (RichFaces), Hibernate, JMS.JBPM, Orace DB, MSSQL Server, Web Services
+
+Senior Java Developer From: December 2015, To: November 2016
+‘SAMBA Financial Group ~ Riyadh - http://www.samba.comi - Enterprise Content Management Unit (ECMU)
++ CADDICTP Application (Customer Acquisition Due Diligence/Customer Transaction Profile)
+
+‘A systom for automate the creation and approval process of CADD and CTP documents. This system replaces the MS
+Word/Exce! based CADD/CTP documents with electronic form based documents and replaces the manual approval
+process.
+
+Responsibilities: Development, support production, UAT
+Technologies: Spring Security, JSF (RichFaces), Hibernate, Oracle DB, Web Services, FileNet (CM,Worktlow)
+
+Senior Java Developer (as Team Leader) Froi
+
+Jul 2014 , To: Nov 2015
+ITS “International Turnkey Systems" www.its.ws ~ Cairo - Integration Unit

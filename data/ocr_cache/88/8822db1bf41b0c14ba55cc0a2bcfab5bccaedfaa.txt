@@ -1,0 +1,93 @@
+Michele Lakin
+
+88168 Roosevelt Mountains, Los Angeles, CA # Phone: +1 (555) 949 1389
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR DATABASE SPECIALIST
+Philadelphia, PA
+10/2015 — present
+‘© Develop and maintain SQL programs, provide advice and assistance to application team for best practices
+in database implementation and SQL coding
+‘© Works with manager(s) to project plan, establish timelines, and map out associated tasks
+‘© Identify data quality and integrity issues. Provide resolution recommendations after performing in depth
+analysis of issues
+‘+ Incorporates robust data validation, cleansing, and management methodologies into SSIS packages as
+well as day to day data work
++ Participate in full life-cycle development activities
+‘© Support data and database related work, process and tools eg. reporting, data extraction, data
+integration, web servers, application servers
+‘* Good foundation knowledge in IT systems development life cycle, Database, Operating Systems, SQL,
+scripts, program languages etc
+
+MARKETING DATABASE SPECIALIST
+
+Dallas, TX
+09/2011 - 07/2015
+
+‘© Conducting bi annual cleansing of the Salesforce database
+Conducting regular audits of the database to insure the integrity of the data
+Assisting the web team with the creation of asset URLs for the resource center
+Managing pre and post event lists for our regional teams globally
+
+Assisting with database build outs for regional teams
+
+Providing support to internal sales and partner teams
+
+Supporting day-to-day marketing operations tasks
+
+DATABASE SPECIALIST
+
+Philadelphia, PA
+04/2008 - 03/2011
+
+* Provide Network Services Diagrams to show network service changes and input to monthly status and
+performance reports
+
+‘+ Provides technical support and training to the group and assists in technical reviews of work performed by
+‘group members
+
+‘+ Performs database analysis, development, security support, and performance monitoring and tuning
+
+‘* Work with cross functional teams including the ATS team, PDS, Services, and Product Development to
+improve tools and processes
+
+‘* Support Energy Management Systems project management program using internal and external resources
+Coordinating/tracking device installs
+
++ Perform technology evaluations and provide recommendations for key infrastructure components
+
++ Provide monthly activity report to the program manager
+
+UNIVERSITY OF FLORIDA.
+Bachelor’s Degree in Computer Science
+
+‘+ Detailed working knowledge of Excel functions such as the creation of pivot tables and other more
+advanced data sorting functions
+
++ Ability to interact professionally with a diverse groups, executives, managers, and subject matter experts
+
++ Possess knowledge of VMware, SQL Server and its tools including the facets of successfully administering
+
+a wide range of simple to highly complex environments
+
+Technical proficiency and knowledge in MS Office (Word, Excel & Outlook)
+
+Excellent knowledge of WebLogic server and SOA fusion middleware products
+
+Good knowledge of UNIX/LINUX environment
+
+Excellent knowledge of networking under Linux environment
+
+Ability to learn and adapt quickly in a dynamic environment
+
+Enterprise database management systems: experience with largescale data systems with an ability to "ramp
+
+up" quickly with new sets of data
+
+‘* Maintains a working knowledge of the complete software development Lifecycle (SDLC) and related
+quality gates

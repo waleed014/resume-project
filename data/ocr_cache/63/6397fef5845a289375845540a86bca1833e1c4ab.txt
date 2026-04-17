@@ -1,0 +1,50 @@
+NAME Email Id: venkat.reddy@livetechcoin
+Mobile : +91 - 9440786013
+
+Career Objective:
+
+Looking for Software Functional Testing Engineer position in 2 well-known
+‘organization which gives me an opportunity to exhibit my technical skills and giving
+scope for career and financial growth,
+
+‘Summary:
+
+© B.Tech from Jawaharlal Nehru Technological University, Hyderabad passed in
+2011 with 70%,
+
+*  Undergone 4 months training on Testing Tools - Real time Project from LiveTech,
+Hyderabad.
+
+‘As part of Training, | underwent intensive Training on Manual and Automation Testing
+as detailed belo
+
+Manual Testing
+
+"Understanding Software Requirement Specification and identifying the required
+Test Scenarios,
+
+‘= Well versed with SDLC, STLCand Defect Life Cycle.
+
+Professional Software Experience in which includes Effective identify Test
+Scenarios, Test Case Designing and Test Case Preparing,
+
+‘Extensive exposure in Black Box Testing using BVA and ECP.
+
+‘Experience in executing Test Cases to test the application functionality against
+the requirements manually.
+
+‘Experience in testing the Functionality, Compatibility, Database and Regression
+testing.
+
+"Defect Reporting and Tracking using Automation Tools Bugzilla 3.3, Track+ 37
+and HP QC 10.0,
+
+Functional Test Automation using HP QTP 11.0
+Good Knowledge on automation tool HP QTP 100.
+‘= VBScript and Descriptive programming.
+= Data Driven Testing.
+‘= Implementing of Frameworks.
+
+‘Test Management using HP QC 10.0
+Designing Test Casesin Test Plan.
+‘Execution of Test Cases in Test Lab,

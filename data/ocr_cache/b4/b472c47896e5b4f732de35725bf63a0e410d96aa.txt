@@ -1,0 +1,90 @@
+Robert Smith
+
+Asst. Dotnet Developer
+
+PERSONAL STATEMENT
+‘otal experience of 10+ years on Datnet, worked as senlotlead Experience
+In developing applications using MVC 4.0 and MVC 5.0. Experience in
+Creating and Consuming RESTYul web services using WebApl2.0 Experience
+In Windows Cofnmunication Foundation (WCF) Experience In Web Forms
+programming Experience in Windows Forms programming Experience in
+Windows Presentation Foundation (WEF) Experience in using Structure map
+for Dependency injection
+
+WORK EXPERIENCE
+
+Asst. Dotnet Developer
+‘Wayne County Treasurer's Office - july 2015-2020
+Responsibiities:
++ Followed the NTler Pattern, separating the business, presentation and
+data models,
++ Implemented Single Sign-On (SSO) Solutions to provide cornrnon
+gateway for login
++ Developed the project in agile methodology.
+* Involved in design the application by using various design patterns,
++ Worked with ETL (Extract, Tansform, Load) with the SOL database,
+*+ Worked on designing and developing rary excel based applications
+called Macros inVB.net,
++ Made changes to existing user controls to add new fields (text boxes
+‘and drop down controls) in UL
+
+Dotnet Developer
+Delta Corporation - 2014-2015
+Responsibifties:
+
+‘Project Bank of America (Remediation) Description Client is one of the
+worlds largest Financial Service Provider.
+
++ Remediation project includes developrnant of Ul based application and
+{workflow to translate the Instructions into actionable data/schedule
+for BAL teams to capture additional information needed for
+Remediation
+
++ Project used the latest Microsoft .Net technologies as much as possible
+to engineer sophisticated system needs of the client,
+
+' Project was developed on the .Net 4.0 framework using web services,
+
++ $5IS was used for moving the data between the end user and the client
+databases,
+
++ Responsibilities Involved in the development and implementation cycles
+ofthe project in Ci, NET.
+
++ Consumed WCF services ta validate the logged in users Effectively
+created easy to use, reusable controls and Integrated thern Into ASPNET
+‘web pages using C#. NET.
+
+(Ths Ema Resume Temlate the copyright ot Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+
+1737 Marstullla Road,
+Alabama
+(123)-456-7890
+Infoesquikresume.com
+wwweqwikresume.com
+
+‘SKILLS
+Presentation Foundation
+(WPF) Experience in
+Using Structure map for
+Dependency injection
+
+LANGUAGES
+
+English (Native)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+Climbing
+Snowboarding
+Cocking
+Reading
+REFERENCES
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

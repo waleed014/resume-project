@@ -1,0 +1,124 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+SUMMARY
+
+EDUCATION
+
+ACTIVITIES AND
+HONORS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 (655) 432-1000 <4 resumesample@example.com
+
+Dynamic ETL Developer/Data Engineer/Data Analyst with 9 years of experience in helping companies with
+diverse transitioning, including sensitive financial data and massive big data installations. Having good
+Knowledge of Big Data Analytics, promotes extensive simulation and testing to provide smooth ETL execution
+Known for providing quick, effective solutions to automate and optimize data management tasks. Talented BI
+professional bringing advanced understanding successful strategies for identifying, protecting and capitalizing
+on data assets. Able to construct new systems to answer complex business needs.
+
+‘+ Data Warehousing Concepts ‘+ Unit/System/UAT/Post Production testing - ETL
+‘+ DataStage/informatica/Teradata - ETL ‘+ ETL Automation (Control M/AutoSys/Tivoli)
+‘+ UNIX Shell Scripting * Big Data Analysis (pyspark/pandas/numpy)
++ SQL and PL/SQL (Oracle/SQL Server/DB2/ ‘+ Hadoop - HDFS, Spark, Hive, Sqoop, Python
+Teradata) and Katka (real time read)
+ETL DEVELOPER - DATA ENGINEER - DATA ANALYST 08/2016 to 09/2019
+
+UnitedHealth Group |
+
+ity, STATE
+GALAXY is the primary data warehouse of UHG and is also one of the most comprehensive in the entire
+health care industry. It follows a dimensional schema and has the data/tables divided among different subject
+areas. The primary objective of this application is to provide a single, consolidated environment for
+processing claims and health service data sourced both internally and externally and make it available at a
+central location accessible by any entity within UnitedHealth Group with the appropriate authority.
+Responsibilities:
+
++ Extraction of data from different data sources using different ETL tools.
+
++ Involved in design of ETL jobs to apply transformation logic.
+
++ Worked on complex mappings in DataStage.
+
++ Used FastLoad and MultiLoad utilties for loading data to staging and target Teradata tables respectively
+
++ Developed an automated script as part of innovation to pick the suitable utility based on volume of data
+dynamically.
+
++ Worked on TPT LOAD & TPT STREAM utes.
+
++ Used Teradata Export utities for reporting purpose.
+
++ Developed TWS Jobs to schedule the process based on frequency of sources.
+
++ Created dependencies on the source system by using hard dependency concept rather file watchers.
+
++ Involved in purging data based on retention period and developed automated process for the data purge
+and archival
+
++ Recent Integration with Hadoop Data Lake and using Hive as a structured data Layer on top HDFS.
+
++ Had been successful in implementing Spark as a process back bone for Hive Queries and involved in writing
+python functions to refine the unstructured and poor data to make it understand to ETL Layer.
+
+SECIOR SOFTWARE ENGINEER - ETL DEVELOPER 07/2010 to 06/2013
+UnitedHealth Group | City, STATE
+UGAP is a national consolidated data warehouse for UnitedHealth Group. Contains data from multiple claim
+processing systems such as UNET, COSMOS, MAMSI and GALAXY data sources categorized into flat files
+and DB2 database. Data extracted is transformed by applying business logics and loaded into UGAP data
+mart which is on Teradata. Final warehouse describes the complete details about an individual claim with
+provider details, member details and pharmacy details
+Responsibilities:
++ Worked as an onsite/oftshore coordinator and lead developer.
+‘+ Involved in BRD gathering and translation of BRD into functional specification, so that developer can
+understand and design the ETL components,
+‘+ Involved in data modeling from simple data marts to complex data warehouse.
+‘+ Involved in migration of legacy OW applications to Spark environment.
+‘+ AS an SME proposed best solution to complex business logics to technical translations.
++ Designed Teradata Bteq, MultiLoad, FastLoad and TPT scripts according to volume of data.
+‘+ Design and development of ETL components using IBM DataStage
+‘+ Involved in the capacity planning, data profiling and data quality check design.
+‘+ Involved in the performance tuning of ETL (IBM DataStage all versions) components and Teradata
+components
+‘+ Understand the technical differences between the Teradata/Traditional ETL technologies and Spark
+technologies.
+‘+ Demonstrations to customers and convinces them to migrate to advanced open technologies like
+PySpark ETL pipelines and trained them according to technical differences.
+SCOTWARE ENGINEER - ETL DEVELOPER 07/2007 to 06/2010
+HSBC Software Development Private Limited | City, STATE, India
+Worked for the Group Economic Capital project with Basel Accords (calculating the risk capital required for
+the HSBC group) and Global Business Market (creating a simple data mart for the global group decision
+making reports) project.
+Responsibilities:
+‘+ Responsible for requirement analysis and creating low level design specifications for ETL jobs and
+developing the jobs.
++ Extraction of monthly financial data feeds and applying required defaulting before processing the data
+with required aggregations and business rules.
++ Validation of data after applying required business transformations.
+‘+ Validation of extracted and staging area data before loading to the data mart for RiskFrontier
+application
+‘+ Masking of production data when dealing with third party vendors by following the firm guidelines for the
+privacy of customers.
+‘+ Automation of the production run with Contro-M scheduler.
++ Allthe ETL jobs are run through Shell Scripting
+‘+ Generating the required QA jobs within ETL workflows and sending the validated values to the business
+for immediate confirmation within the required SLA.
+‘+ Unit testing to post production testing responsibilities with documenting test cases and managing testing
+and defect contro! with HP Quality Center.
+‘+ Maintenance of version control of the code in all the environments
+‘+ Lead all the project related SCM activities.
+
+Master of Computer Applications
+Andhra university
+
++ Best Performance Award
+© Best Team Award
+
++ Spot Award
+
++ Appreciations for CSR activities

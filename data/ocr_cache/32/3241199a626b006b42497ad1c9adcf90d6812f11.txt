@@ -1,0 +1,96 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(855) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+‘Am a skilled Mobile Developer who has around 10 years of experience with Android Mobile App development and 4 years of experience with
+Flutter Hybrid Mobile App development. If looking for a highly skilled and rich experienced mobile expert with a deep knowledge, a
+professional attitude, excellent communication skills and the highest code quality, then I'm the person looking for. Over the last 10 years I've
+built many apps of several fields for Android and Flutter apps. Principles As a freelancer, take great pride in making sure all of projects are
+up to client's satisfaction, all deadlines are met and quality assurance is carefully considered. Place customer satisfaction above all, and will
+bend over backwards to ensure customer satisfaction. In addition, promise to always deliver honest and speedy services. Self-motivated
+Developer adds high level of experience over more than 6 years collaborating and working on multiple web-based projects. Passionate
+hardworking coder with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and
+security. Organized approach to meeting multiple, concurrent deadlines. Pulls from active knowledge of current technology landscape to
+promote best practices in web design. DetaiLoriented, organized and meticulous employee. Works at fast pace to meet tight deadlines.
+Enthusiastic team player ready to contribute to company success
+
+SkiLLs
+‘+ Amazon Web Services, Firebase, Parse, QuickBlox ‘+ Facebook, Twitter, Linkedin, Instagram, Youtube, Pinterest,
++ Java, Kotlin, ReJava Vimeo
+* Flutter, Dart, Bloc + Google Map, Foursquare, Geolocation, GPS, Open Street View
+‘+ Mobile App Development, SDK + Paypal, Stripe, Venmo, ApplePay, Google Wallet
++ MySQL, SQLite, Oracle, SQL Server, MongoDB, ODBC + G-Suite
+
+Work History
+
+10/2020 to Flutter Developer
+01/2023 Hobby Lobby — Louisville, KY
+Sunapsis is the leading case management software utilized by universities and colleges used to manage international
+student information
++ Designed, implemented, and tested Flutter and Dart code using BLOC pattern for IOS, Android and Web.
++ Designed and created custom e-form features including scrolling selectors and data entries.
+* Utlized and designed custom Sunapsis APIs.
++ Developed code using Native programming or XP paired programming practices.
+
+03/2018 to Senior Flutter Developer
+10/2020 Never Settle — City, STATE
+Android Lead for the MobileConnect suite of apps. The MobileConnect platform utilizes flavors to create individually
+branded apps for partner firms. Responsible for all phases of the Android product lifecycle including architecture.
+coding, unit testing, interfacing with QA and delivery of final products for each of the partner firms. Major
+accomplishments include:
++ Completely re-architected baseline to utilize modern Android features including reworking UI to utilize material
+design concepts.
+‘+ Modified entire code baseline to eliminate inefficiencies and reduce app size and eliminate bugs. - Defined and
+implemented build process using Jenkins
++ Supported other team members’ initiatives by developing solutions to common problems and sharing those
+solutions
++ Responsible for supporting Agile process by managing Android stories and tasks for all sprints and ensuring that
+status was reported accurately and in timely fashion.
+‘+ Developed common modules to encapsulate core functionality for use across multiple Schwab product lines. This
+included modules for Fingerprint Login and JS2N interfacing.
+
+09/2015 to React/React Native Developer
+
+02/2018 sthwonder — City, STATE
+Product owner for the LifePics suite of Android Mobile Apps and the LifePics Android SDK. The LifePics apps allow users
+to select photos from their mobile device and have them sent to a photo finisher for printing or shipped to their home.
+Photos can be printed from either their device gallery or from other sources such as Facebook, Google, Instagram or
+Flickr. The LifePics Android SDK allows third parties to easily develop white label apps that utilize the LifePics API. It
+provides a standard UI that can be customized as well as an interface for direct access to the LifePics API. The SDK is
+available on GitHub. Primary developer for third party white label apps utilizing the LifePics Android SDK. These apps
+currently include Mike's Camera, MallPix and Go Photo Prints. Responsible for management of the public and private
+versions of the SDK to ensure that third party adopters can easily utiize the software. Key features of the LifePics SDK
+and apps include:
+
+‘Utilization of APIs to access photo sources such as Facebook, Google+, Instagram and Flickr.
+
+REST web service integration using Google Volley.
+
+Location management services using Google Maps V2.
+
+Open architecture to allow complete customization of SDK including image assets, colors and photo sources
+
+Utilization of latest version of support libraries to ensure backwards compatibility to Android 2.3 (Gingerbread).
+
+Ability to easily build custom build flavors utilizing Gradle
+
+05/2012 to JQuery/Ajax/Senior PHP Developer
+08/2015 Aten Design Group - City, STATE
++ Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX, and
+JSON coding.
+
++ Provided front-end website development using WordPress, Hubspot, and other editing software.
+Adhered to SEO best practices while designing sites
+
+Oversaw back-end development using PHP to maintain website integrity
+
+Implemented changes and integrated requested elements to streamline business operations
+Coded websites using HTML, CSS, JavaScript, and jQuery languages
+
+Epucation
+
+06/2012 Bachelor of Science: Computer Science
+University of Colorado Denver - Aurora, CO

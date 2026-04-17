@@ -1,0 +1,102 @@
+& laityn.westercamp@gmail.com
+% (628) 235-5763
+9 1234 Maple Street,
+
+Richmond, VA 23220
+
+Education
+
+Bachelor of Science in
+Software Engineering with a
+focus on Java Development
+at Virginia Tech, Blacksburg,
+VA
+
+Sep 2017 - May 2022
+
+Relevant Coursework: Java
+Programming, Object-Oriented
+Design, Data Structures,
+Algorithms, Web Development,
+Database Systems, Software
+Engineering Principles, and
+Java-based frameworks (Spring
+and Hibernate).
+
+Links
+linkedin.com/in/laitynwestercamp
+
+Skills
+
+Spring Framework
+Hibernate ORM
+
+JUnit Testing
+
+Maven Build
+JavaServer Faces (JSF)
+Apache Struts
+
+JavaFX
+
+Languages
+English
+
+Bengali
+
+Profile
+
+Results-driven Java Software Developer with 1 year of experience in designing,
+developing, and maintaining high-quality software solutions. Proficient in Java,
+object-oriented programming, and agile methodologies, with a strong foundation
+in problem-solving, collaboration, and adaptability. Demonstrated success in
+contributing to diverse projects, showcasing adaptability, and eagerness to learn
+and grow in the fast-paced tech industry.
+
+Employment History
+Java Software Developer at Cognizant Technology Solutions, VA
+Feb 2023 - Present
+
++ Developed a high-performance Java application for a major client, resulting
+in a 25% increase in processing speed and a 15% reduction in memory usage,
+leading to significant cost savings and improved efficiency.
+
++ Successfully led a team of five software developers in the design and
+implementation of a complex Java-based web application for a large
+healthcare organization, which increased patient data accuracy by 30% and
+reduced manual data entry workload by 50%.
+
++ Implemented a comprehensive code review and optimization process that
+improved overall code quality by 20% and reduced bug rates by 35%, leading
+toa more stable and efficient software product for clients.
+
+Associate Java Software Developer at Leidos, VA
+‘Sep 2022 - Jan 2023
+
++ Implemented a new feature in the company's flagship application, resulting
+in a 25% reduction in processing time and increasing customer satisfaction by
+15%.
+
++ Developed and optimized a Java-based data processing algorithm, leading toa
+30% improvement in overall system performance and enabling the processing
+of an additional 500,000 records per day.
+
++ Collaborated with a team of 5 developers to successfully complete a critical
+software project 2 weeks ahead of schedule, contributing to a 10% increase in
+annual revenue for the company.
+
++ Identified and resolved over 100 software defects and performance issues
+within a 6-month period, leading to a 40% reduction in reported customer
+issues and a 20% increase in overall application stability.
+
+Certificates
+
+Oracle Certified Professional: Java SE Programmer
+Sep 2021
+
+Spring Professional Certification
+Feb 2020
+
+Memberships
+Oracle Academy
+Java User Groups (JUG)

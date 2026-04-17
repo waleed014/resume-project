@@ -1,0 +1,65 @@
+ROBERT SMITH
+
+Sr. SQL Server Developer
+
+(0123)-458-780 | Emal:nfo@quikresume.com | Website: Gwkcosumacom
+
+‘Sr, SOL Server Daveloper with 6 plus of experiance in tha Finance domain. Experionce in
+Database Design, Development, and maintenance of database applications on SQL Servar in
+OLTPIOLAP{E! environment. Installation and configuration of SQL Server Management Studio
+2008 R2, Experionce in wilting complex SQL quaries involving mutipl tables inner and outer
+joins, Extensive experiance in wring Transact-SQL (DDLIDML) queries
+
+CORE COMPETENCIES
+
+MS-DOS, Unix, And Solaris Back-end Language T- SQL, PL-SQL, XML. Front-end Language O#
+Wab Appications ASP.NET 2.0, SOAP, HTTP, Intemet Information Services (IIS 6.0), FTP,
+TOPIIP, LAN, MS-Outlook Express Scripts T SQL, VB, JavaScript, PHP
+
+PROFESSIONAL EXPERIENCE
+
+Sr. SQL Server Developer
+State Farm Insurance - March 2015 — Present
+
+Koy Doliverablos:
+
+‘Working on full fe cycle development (SDLC) Involving in al stagas of devatopmart
+
++ Creating tha database abjacts- echamnas, tables, indexes, viaws, user-datined functions,
+cursors, tigg2rs, stored procedure, constraints, and roles,
+
++ Witing tha stored procedures and user-defined scalar tunctions (LIDFS) ta be used in the
+SSIS packages and SOL scripts,
+
++ Extensively utiizing the jolns and sub-queries to streamline complex quastions including
+differant tabla,
+
++ Bullcing, publishing customized Interactive raporis and dashboards, report schedullag
+ising tableau sorvar
+
++ Developing the tabula quarias for eticiant analysis of report using pivoUunplvat in T-SOL,
+
++ Creating and managing the clustared indexes and nan clustered Indexes and optimized
+quarias using execution plan
+
+SQL Server Developer
+ABC Corp - 2012-2015,
+
+Key Deliverables:
+
++ Expartise in enhancing and deploying the SSIS packages trom the devalopmant seiver to
+production server
+
++ Designed and developad data load jobs using SSIS package and scheduled in SOL agent
+
++ Migeated old data from MS Accass and Excel nto SOL server 2008 using SSIS packages
+In the business inteligence development studio,
+
++ Assistod with DBA (database administration) duties o support davelapmant tasks,
+
++ Collaborate with other davelopars ta create and implamert Bl bast approach solution(s)
+
++ Troubleshoot the B! tools; systems, and software,
+
+2259 Oalk Stree, Old Forge, New York. 12420
+\© Thlc Free Resume Template ts the copyright of Qwikresume.com. Usage Guidelines

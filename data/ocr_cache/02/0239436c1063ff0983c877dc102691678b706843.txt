@@ -1,0 +1,89 @@
+Jaleel Hermiston
+
+4138 Hayes Port, San Francisco, CA @ Phone: +1 (555) 534 0743
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR PYTHON SOFTWARE ENGINEER
+Detroit, MI
+06/2015 — present
+‘© Be part of a software development team working in collaboration with management, quality assurance
+and technical publications teams
+* You will perform code reviews to the rest of the team members and will receive code reviews of your code
+as well
+‘* Design and implement the next generation architecture of VMware's virtualization products includi
+cloud computing and data centre automation
+Python engineer with in depth knowledge of Python and its related technologies
+Willingness to innovate, learn and share knowledge
+Developing common-services to allow other developer to focus on product specific feature
+Provide estimates and plan deliveries in conjunction with the R&D manager
+
+JAVA/ PYTHON SOFTWARE ENGINEER, ASSOCIATE
+
+Detroit, MI
+05/2010 - 05/2015
+
+‘+ Track record of working on distributed systems and service-oriented architecture with complex system
+interactions
+
+Develop new applications for the eTrading desk and to support the day-to-day activities
+
+Enterprise systems development/engineering solutions
+
+Liaise with our technology partners across the bank to ensure successful end-to-end delivery
+
+Proven track record of delivering quality software with small teams
+
+Take ownership for resolution of any production issues post implementation
+
+Ensure compliance with the SDLC process
+
+PYTHON SOFTWARE ENGINEER
+
+‘Los Angeles, CA
+10/2007 — 02/2010
+
+‘© Develop big data workflows (discovery, access, process, maintain)
+
+‘* Serve as the technical subject matter expert on designing and developing high performance analytical
+
+‘models for balance sheet and P&L forecasting using Python
+
+Manage and perform software releases and infrastructure changes
+
+Is passionate about the success of others and actively provides support for their development
+
+Be part of a small, high-performing development team
+
+Active part in all development phases, including research, design, development, testing, CI/CD using best
+
+of breed technology
+
+‘© Create technical design recommendations for developing and integrating programs per written
+specifications
+
+ASHFORD UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Strong knowledge of data structures and algorithms
+
+Knowledge of basic testing processes or platforms
+
+Strong ability to implement solutions for one-off projects
+
+Strong attention to detail, always looking for ways of tightening up code and maintaining standards
+Ability to work in a fast paced, detail-oriented environment
+
+The ability to learn new technologies quickly
+
+Focus on testing through the entire development cycle to produce reliable and maintainable software
+Ability to develop a good understanding of end to end business processes
+
+Knowledge in basic data analysis skills
+
+Strong knowledge of programming concepts, object-oriented programming and data structures and
+algorithms

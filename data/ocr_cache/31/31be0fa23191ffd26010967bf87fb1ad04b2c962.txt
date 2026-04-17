@@ -1,0 +1,203 @@
+Jessica CLAIRE
+
+Morgana Steet Sn Fans CA S08 # (85) 820% # reumesanplesecanpecoet
+
+Professional Summary
+
++ 7eyeas of experience alte phases of Software Developnent Life Ce that inches understanding egucement tech
+analysis design, development Integration masntenance gstallaion smplementation and testing of various web appaions
+
++ Maile experienc in Development on Anypoit Stati, Dust, Transormers, AP Route, RAML, Aaypein Pationn,
+APtManagement et.
+
+«+ Responsible to devslop RESTS and SOAP wb servicer in Male ESBbaced on SOA architec
+
++ Good experience using Ma ESB with Connectors transformations, Routing ActiveMQ JMS and Data Tranfomations wing
+Mate ES.
+
++ Good Experience in crening API specication, implement REST and SOAP series
+
++ Experience in Automation build and deployment als ach as CCD proces with Jonny, CIT, Bamboo and Bitbckat
+
++ Good implementation experince of WS security digital signatures, mesageenayption & decryption SSL concepts and is
+implementation in Male ESB and DtaPowet
+
+«+ Experience with D8 and Oracle Databases, Stoned Proce creation and DB integration with Mule ESB,
+
++ Good experienc in designing Flows, Sub lows and Exception handling strategies, Data Weave transformation and Mule
+Expression Language MEL,
+
++ Good experienc in negating aplication wing MO, JMS, Web Services HITE, SMTP and FTP protcals
+
++ Expesence in mulple projec ie cycles desig implementation, testing and nunching af the OA ales
+
++ Expenence in pplication development methodologies such as Wateal.Aie and we fia and serio for Tash Prec and
+oeerrapert,
+
++ aco communication and interpersonal sills, bly o work na tamvindependenly and adap quickly tne and
+emaying teculgin
+
++ Fastlame, ible, ble and abet adap qui
+
+Skills
+Integration Mule 37 Mle 39 and 43 runtime, CloudHab Wel Service XML JSON, XSLT ASD, SOAP, REST
+‘Languages XSLT, DtaWenve, JavaScript Java. ‘ersion Carel Stems Apache Subversion SVN, CVS, Gi
+stakes Oral DBD and MS SOK Server stb, and Biuckst
+
+Servers: Websphere Appleton Serer, Apache Tome Apache CICD Tools: ferns, Maver, Nexis it SVN
+
+ITP server 2 JBoss 5x ladon: Windows, Lin, MacOS
+
+‘ee Technolgies ava E, JSP Sere EJB, DBC JNDI JST,
+a
+
+Work History
+
+MuleSoft Developer 092021 Case
+Neen lcs ne ~ Boston MA
+
+«+ Designing and implementing WMC and WMBin fue and complex enviconments wing high avait cheng
+
++ Deploy applications to dferent environments (Tet. QA. and FROD)
+
+«Implement ero handling and logging nthe message owe
+
++ Crest lwslorchestrations for integrating the components ike connectors transformers and ope weiter on topo dilferent
+
+internal plains sing Mule ESB or XML to CSV conversion
+
++ Use Malt Anypoint APT pion fr designing ad implementing Mae AP
+
++ Work on XML tichaolgies ike XPATH, XSLT, NSD and data wea fo dat transformations
+
++ Organize ows sub ows and global XML configuration Bes
+
++ Use partner WSDL fr ESB to Slesfore negations
+
++ trate slesorce with the MaleSoft for connecting applications, datasources and API th oud
+
++ Develop estan consume mesage lows that are exposed as both SOAP and Rest services consumer applications
+
++ CreateRAML spatication bung APS using APL Kit Router in Mae appicaons
+
++ Crate tranafomation gic using Dataeave, MEL and XSLT
+
++ Crate resale components uch as gob exception nding strategy aed common logger
+
++ Design. develo and migrate flows (Mule ESB and WB bas on euirerents
+
++ Migaing eising apptions ws rm Websphere Mesage Boker 6t0 Mule ESB
+
++ Provide supporto esting applications in ll evionments
+
++ Parspated in tam desig and ere meting
+
+“Insole with am member to develop application in parle
+
++ Prepare teal documents and tun over documents
+
++ Collaborate with developers within my team ad rom othe team members for eve implementation of projets
+
++ Peviorm end-to-end testing resolve problems an validated the test sus
+Environment Mule ESB 43x, AnyPoint Studio 7x, APIManager Alt, XMLSpy, API Gateway Salesfone Cloud,
+Rabbit MO, Oracle 1g/ 2 Java7/8
+
+MaleSoft Developer 0320191072021,
++ Maso. Paripate Create Ma ESB helper cst cll the Mule flow, conmacon endpoint and connectors
++ Bald and Deployment of servis in Mal ESB server
++ Crate Male application hat wes connectors FDC Message easton, Choice Exception Stetegies Bath procesing
++ Manage pesormance of the services by using “Scatter and gather” and “choice outer”
++ Code walk tought Mae Debugging and Exo ing
++ Paricpatein daily scrum meetings to discus the progres of the pret and any lockag ofthe work andthe solution of the
+oc
++ Bae JAXRS services and exposed them using REST component
++ Implement Exception Handling Logging and Eror Handling
++ Crete HTTP inbound & outbound ws, castny java and XSLT taulormer and Secu of Mule endpoint
++ Aen
++ Design and develop enteric services APT speciation wing RAML and REST shes
+1 Implement Sect mechaioms ike Sect Crates, ay Exchange, and Encryption Decryption and OAuth Authentication
++ Authorization wing Aces Token and SM session cookie
++ Bail Deploy and Tet applications o oss sing Male ESB and bd and deployed the services
++ Developed the fontorchstations for integrating the components rite on op of dlleet internal plaorms using Mule ESB
+an Implement Mul ows foreach ent with ty mechanisms With private secured fos
+Environment ActiveMQ, RabbitM, Servlets, News, JSP Java, MaleSoft 3.03873, MMC, Anypoit Studio 50165, JSON, IMS,
+XML, XSD, XSLT XPATH, JAXF,JAXB, WSDL, SOAP, Spring MVC, Cloud, Gitta, WebLogic Applicaton Server,
+
+Java Developer 077201610 042019
+
+‘Canc ndastes- Nappanee, IN
+
++ Applicaton super for Sst Integration esting and User Acceptance Testing,
+
++ Involved in ceating test ses
+
++ Responsible in understanding the cient equcement and coordi with theodore tem in suceaflnpementation of
+the project
+
++ Developed Heute mapping le forthe Object Relational Mapping whe configuring Hibernate
+
++ Coordinating wth esting team in cesalang sos ane rally moving o production
+
++ Developed Spring Aspect Onented Programing (AOF) for Exception handing lie
+
++ timplementing Spring IOC, Spring Controllers methodologies
+
++ Involve in fetching and storing the objets foe DB sing Hibernate
+
++ Implemented the persistence ayer using Hibernate and configured Hikenate with ping o interac with the Database fom the
++ Ceemuricatng with sions Analyst stone the equcements sats othe tt
+
+«Implemented the dat persistence functonalty ofthe application by using Hikeate fo persist Java data ject tothe resins
+1 Taskinclades-confgusing and maintaining the Hisemate configuration le
+
++ art ssue Management Team iavolved in development ad ng issues which ate raised by Cent
+
+Environment Spring Hibernate, Stats 3, HTML, CS, selector, peudo cases, XML, XSLT, SOAP, Hibernate 3.0 Sesion
+
+Bean (JB), Oral 10g, Oracle ADF, ava, REE, WebLogic 1.11, ]SP12, JavaSeript IMS
+
+Message Broker Developer 1220149050016
+Cstomers Bank City STATE
+
++ Cust SOAP based and REST based Ne Services y wing Message rok Toot
+
++ Peviormed intetace sing sing SOAP Ur and RFHUTILn diferent enizonnents
+
++ Created customized X80’ fr Message Flow using Alora XMLSpy
+
++ Created and seviewed unt negation and system test plas
+
++ Parsicpatedin oer ESOL development code eviews
+
++ Conducted ot cae analy ae advanced performance tring for complex busines process and functionality
+
++ Ipod secu for Web Services using SL prota a transport ayer and wed plc alte fr implerenting acuity
+
+stmesage eel
+
++ Designed WSDL and Developed Wid Servis wing BW Service alte, SOAP over HTTP warspet an JMS Listener
+
++ Bellet hands on expeince ia XML related technologies that ince XML NSD, DID, XSLT and XPath
+
++ enc in sing SOAP Urto create est data nd an the eto etree the data fom dierent evionaents
+
++ Created a prot concept project wing TIBCO BW 6
+
++ Involve defect meting achely rested the code defects and optimized esting dat fs according tthe project
+
+development worlow
+
++ Callborated ith extemal system onnesto develop interlace and amin east deploy developed Message Flow slutions
+
++ Parspatein guheing the egurement and evaluating busines funcional and tcc egurements
+
++ Designed complex Wb Sec appition stems using WebSphere Message Broker negation lator
+Environment SOAP UI521, Web Services, WebSphere Mestage Broker, WebSphere MO, Dataower, EDI SSUSS/SS99, Clear
+casesn0.
+
+Education
+
+Bachelor of Science: Compute Science
+Sample University
+
+‘Year MulesoftCeitid Developer

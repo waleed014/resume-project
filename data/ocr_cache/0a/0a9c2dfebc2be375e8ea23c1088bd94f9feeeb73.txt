@@ -1,0 +1,50 @@
+VALLIE DICKI
+
+726 KASSULKE TURNPIKE, NEW YORK, NY
+
+PHONE
++1 (555) 486 6001
+
+EXPERIENCE O'CONNER-ROLFSON 09/2019 — present
+San Francisco, CA // Lead Etl Developer
+¢ Willingness to work with customers, managers and executives of varying levels of technical
+expertise while always maintaining a professional attitude
+¢ Excellent oral and written communication and problem-solving skills
+¢ Advanced ETL experience extracting data from databases, flat files, Excel, web applications
+¢ Significant database tuning experience
+¢ Complex problem solving and critical thinking skills
+¢ Experience in supporting multiple products/projects simultaneously
+¢ Working knowledge of Linux Shell programming
+¢ Experience with version control systems such as Subversion and Git
+
+ZIEME, ROBERTS AND BRUEN 03/2014 — 07/2019
+San Francisco, CA // Database / ETL Developer
+¢ Experience working as part of an operations team to support complex applications for global
+environments
+¢ Proven experience with Data Management & Integration
+¢ Recent experience developing integrations using Informatica/Snaplogic/Mulesoft Middleware
+¢ Experience in integrating multiple sources into a centralized data platform or Enterprise Data
+Warehouse
+¢ Experience in integrating data into, Star Schemas, Normalized Data Models
+¢ Sales Compensation experience with Hi Tech Firms
+¢ Experience with BI tools and their data needs
+
+EDUCATION SAVANNAH COLLEGE OF ART AND DESIGN
+Bachelor's in Computer Science
+
+SKILLS ¢ Powercenter
+
+¢ Informatica
+
+¢ Experience in Hadoop ecosystem - Spark, Scala, Kafka Streaming
+
+¢ Knowledge of Data integration implementations
+
+¢ Experience with using Power Exchange tools
+
+¢ Knowledgeable in data quality approaches and techniques
+
+¢ Experience with end to end design and build process of Real time and Near real time batch
+processing
+
+¢ Experience in working with larger projects involving multiple groups and offshore teams

@@ -1,0 +1,43 @@
+REYES VONRUEDEN
+
+4474 GREGORY ISLE, LOS ANGELES, CA
+
+PHONE
++1 (555) 302 8233
+
+EXPERIENCE KUHIC-SKILES 06/2020 — present
+San Francisco, CA // Web Development Intern
+¢ Familiar with HTMLS, and JavaScript/ Typescript
+¢ Familiar with OOP, design patterns
+¢ Current enrollment in a Master's or Bachelor's program in a related major
+¢ MS PowerApps, PowerAutomate, PowerBI
+¢ Agile/Sprint Development Practices
+e Academic and/or project experience in web development
+¢ Knowledge of hackathons
+¢ Academic and/or project experience in building Sharepoint websites
+¢ Knowledge of HTML/CSS, Python, Php
+¢ In study towards a bachelors in computer science, engineering, or a related field
+
+WILLMS-KULAS 09/2016 — 12/2019
+San Francisco, CA // Web Development Intern
+¢ Server-side programming environments, particularly Java or Node.js and frameworks like
+Express
+¢ Frontend frameworks like Angular, React, or in some cases none at all
+¢ SVG, Canvas, WebGL or other web-based graphics programming environments
+¢ Automated testing tools like Mocha, Ava, JUnit, Selenium, or others
+¢ Databases like PostgreSQL, MySQL, MariaDB, etc
+¢ SCM and issue tracking tools like Git, GitLab, Jira, etc
+¢ Able to work in an office environment, including using computers for long periods of time and
+communicating with others face-to-face, by telephone, email, or instant messaging
+
+EDUCATION OREGON STATE UNIVERSITY
+Bachelor's in Computer Science
+
+SKILLS ¢ Hands on experience in software development with TypeScript, Angular and SCSS
+¢ Curiosity to experiment with new technologies, to solve current problems
+¢ Prefer code simplicity and performance in implementations
+¢ Knowledge of AWS tool set and AWS Amplify
+¢ Knowledge of Serverless architecture
+Basic background in database development
+Excellent written and verbal communication, problem solving, interpersonal, and time
+management

@@ -1,0 +1,61 @@
+ROBERT SMITH
+Senior SQL BI Developer
+
+Phone: (0123) 456.785 | Ema inlo@qwkvesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+‘Sanior SQL BI Developer with 7 years of experionce in the IT Industy, having the primary focus
+‘on Database Design, Application, Development, Implementation, Testing and Deployment in the
+MS SOL Sener Environment and MSBI Tools (BIDSISSDT), Strong understanding of
+"Nommatzation/De-nomaiization, Normal Form and database design methodology. Well-versed in
+SOL Sorvor 2012, 20082, 2005, 2000
+
+CORE COMPETENCIES
+
+[MSBI, Data Flow Task, Buk Insort Task, Execute SOL Task and Execute Package Task, Data
+Profile Task
+
+PROFESSIONAL EXPERIENCE
+
+‘Senior SQL BI Developer
+Neogen Corporation - 2013-2019
+
+Koy Deverabies:
+Creaiad database objects lke Tables, Indexes, Stored Procedures, Views, User Defined.
+Functions, Cursors, and Triggers
+
++ Created desired stored procedures for loadi
+the mapping rules and design specications:
+
++ Designed SSIS Packages drawing data from various data sources such as Flat/Raw File,
+Exool, CSV, Access, OLEDB, XML, CDC, ADO.NET, etc, and shown Tamiiaiy in using
+transformations ike Aggregate, Conditional Splt, Derived Column, Merge, Merge Join,
+Union ai, Muticast, Row Count, Lookup, Sort, Audit, Fuzzy Look Up, atc
+
++ Expasionced in SSIS error handing using event handlers, breakpoints, SSIS loggings,
+package caniguations.
+
+Responsibly managed data and metadata in Business Intoligence (Bl) solutions latest
+upgradas of Merosolt SQL Server 2012, 2014 and SSUT 2013.
+
+Actively involved in query optimization using SOL Profiler by modilying the slow running
+{quories from the SOL Profiler Trace.
+
++ Involved in optimizing the stored procedures fora faster population ofthe reports in the
+Roport Server
+
+the data from giflerent sources according to
+
+‘SQL BI Developer
+ABC Corporation - 2012-2013,
+
+Key Deliverables:
+Databases Up 1o a torabyta/$00,000,000 rows.
++ Users intemal 500+ External 50,000+ Apri 2008 io February 2009,
+' Engaged in multiple projects to enhance the functionality and perlormance ofthe Accounts
+Rocoivable system.
++ Provided work es
+
+nates and pitiized a user wish Is
+£2250 Oak Street, Old Forge, New York. 13420
+‘© Ths Exes Resume Template s the copyright of Quikresumecom. Uaags Guidelines

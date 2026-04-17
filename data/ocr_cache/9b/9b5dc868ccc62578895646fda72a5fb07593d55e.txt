@@ -1,0 +1,112 @@
+TAYLOR FOSTER
+
+Jr. Cybersecurity Analyst | Network Protocol Analysis
+
+help@enhancv.com linkedin.com Houston, Texas
+
+SUMMARY
+
+Highly motivated junior cybersecurity analyst with 1 year of professional
+experience and comprehensive skills in cyber defense activities. Excels in
+creating analytics to detect cyber threats. Handled a critical security project,
+showcasing leadership abilities and technical expertise. Always eager to
+apply my skills to help defend our nation's critical infrastructure.
+
+EXPERIENCE
+Cybersecurity Intern 2020 - 2021
+KBR Houston, Texas
+
+Intern in an operational technology-focused internship.
+
+* Analyzed SCADA network design and perimeter hardening, ensuring data
+integrity and network safety.
+
+* Used Wireshark and Splunk to analyze network traffic and identify potential
+risks.
+
+* Handled incident response situations, effectively isolating and fixing network
+issues.
+
+Junior Cybersecurity Analyst 2021 - Ongoing
+
+Accenture Houston, Texas
+
+Worked as a Junior Cybersecurity analyst focusing on large scale network
+environments.
+
+* Created several |OCs for multiple tools, improving threat detection by 40%.
+
+* Conducted deep packet inspections of suspicious traffic, identifying and
+isolating 150 potential threats.
+
+* Worked as part of a team on national level cyber defense exercises.
+
+EDUCATION
+
+B.Sc in Computer Science 2017 - 2021
+
+Rice University Houston, Texas
+
+LANGUAGES
+
+English Native eeeee Spanish Advanced eee
+
+Powered by (CX? Enhancyu www.enhancv.com
+
+STRENGTHS
+yy Analytical Thinking
+
+Developed an improved
+method for anomaly detection
+resulting in 20% more
+accuracy.
+
+Leadership and
+Teamwork
+
+Led a team of four in a critical
+infrastructure security project,
+completed on time.
+
+Vulnerability
+Assessment
+
+Identified over 30 system
+vulnerabilities during a large-
+scale network topology
+analysis.
+
+SKILLS
+
+WireShark - Zeek - Corelight -
+Elastic Search - Protocol Analysis -
+Network Topology Analysis -
+TCP/UDP -
+
+Microsoft Windows Active
+Directory
+
+YARA - Snort/Suricata
+
+CERTIFICATION
+
+Network Protocol Analysis
+
+Completed a course from Cybrary
+in 2020 focusing on common IT
+protocols.
+
+Elasticsearch for
+Cybersecurity
+
+Acquired certification from Udacity
+in 2021 focusing on the use of
+Elasticsearch for Data Analysis.
+
+PASSIONS
+
+@ Cybersecurity Trends
+
+Passionate about staying
+updated with latest trends in
+cybersecurity.

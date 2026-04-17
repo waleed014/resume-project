@@ -1,0 +1,57 @@
+ROBERT SMITH
+Full Stack Python Developer
+
+on dio gvtcmnccco hs i dai
+
+all stack developer over 34 yeas of indosil experience in Designing, Developmen, Deployment and
+maintenance of weh apps based on and Django-Python Professional Weh Apps development experience
+ssing Django and Flisk inlusiveof experience in UI using Javascript, Jquery. Developed Views and
+‘Templates with Django view contmller ane template language to create an easily accessible website
+
+=
+
+Python, Java, HTMUHTMILS, CSSICSS3, XML, DOM, AIAX, 1Query, ISON And CSS Bootstrap.
+Frameworks Django, Flask:
+
+WORKENPERVENCE
+
+Full Stack Python Developer
+‘Maxims - January 2015 Present
+
+‘Designed the front end ofthe application using Pyibon, Java, Html, CSS, Ajax, San ane JQuery.
+
++ Analyzed system requirements specifications and alsoin cent nteration doring requirements
+specifications
+
+Used JavaScript and XML to update apertion of a webpage and node. JS for server-side inteiction.
+
+* Paz ofthe team implementing rest APIS in Python sing microramework lke Flask with
+SQLALCHEMY inthe hickend for management of data center resources on which OpenStck
+‘would te deployed.
+
+Worked on Python OpenStack APIS and wed Nempy far numerical analysis
+
++ Inplemented rally OpenStack benchmarking too! onthe entire Cloud environment
+
++ Unlerstunding Python files in OpenStack environment and make necessary changes ifeeded,
+
+Python Developer
+‘ABC Corporation -Janwary 2011 January 2015
+
++ Application was based on Service Oriented Architecture and wsed Python 2.7.25, Dlango LS
+ISF2, Spring2, Ajax, Html, CSS tor the frontend
+
+‘Used python pandas library ta create datfames,
+
+‘Wrote python scripts tsing pandas damirame to get dita fom two diferent datahases amd applied
+ioins
+
+Designed emul marketing campaigns and also crested responsive web forms that sive dat into
+dlatahuse usingpython/ django framework
+
++ Developed views and templates with python and djangas view controller and templating Language to
+create user-friendly wehsite terface.
+
+Used ajax and jquery for transiting json data objects tetween frontend and contol,
+
+ac His Rims the copys of Qvikewme om sas alsin

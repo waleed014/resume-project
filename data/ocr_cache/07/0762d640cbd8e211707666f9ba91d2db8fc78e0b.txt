@@ -1,0 +1,147 @@
+MARSHALL
+ERICKSON
+
+Sr. Database Administrator
+
++1 (777) 999 888
+
+Q
+&% = marshall@hiration.com
+@
+
+SF, US
+
+MMA
+
+16+ years experienced Senior Database
+Administrator with a track record of
+spearheading diverse teams to
+effectively execute key project
+deliverables. Proficient in providing and
+supervising end-to-end Database
+Solutions. Adept at deploying complex
+database administration solutions and
+automation initiatives across database
+environments in different domains.
+
+KEY SKILLS
+
+Database Solutions & Administration |
+Security Management & Auditing |
+Capacity Planning & Implementation |
+Automation & Centralization | Backup
+Methods & Recovery Solutions |
+Performance Tuning & Troubleshooting
+| High Avail ity Solutions | Data
+Modeling | PL Management
+
+TECHNICAL SKILLS
+
+Database: Oracle (8i, 9i, 10g, 11g,
+12c), SAP Sybase ASE (15.0/16),
+MSSQL ('00, '05, ‘08, ‘O8R2, 12, 14)
+Cloud: Amazon Web Service (AWS) -
+EC2, $3, RDS, Cloud Watch, Data
+Migration Manager, Other tools
+Operating System: Linux, IBM AIX, HP
+UNIX, UNIX Ware, Windows
+(‘NT,'00,'03,'08,'12,'14,'16)
+
+DB Utilities: SAP Brtools, ISQL,
+ControlCentre, OEM, Toad, PL/SQL
+Dev, SSMS, SSIS, SSRS
+
+Job Schedulers: AUTOSYS, CRONTAB,
+TASK SCHEDULER
+
+TRAININGS AND
+CERTIFICATIONS
+e Foundation Certificate | ITIL | ‘17
+
+e Oracle 11g RAC | Oracle 10g RAC |
+Oracle Institute | ‘10
+
+PROFESSIONAL EXPERIENCE
+
+Associate Consultant SF, US
+
+@] Aug '10 - Present
+
+A multinational IT service & business solutions company with operations spanning 46 countries
+
+DBA | PL-TL | Jan ‘13 - Present
+
+DBA | TM | Aug ‘10 - Dec ‘12
+
+P&L Management
+
+e Directing and scheduling Asset Management and Appraisal Management
+
+e Overseeing Incident/Problem Management by means of peer review reports and
+BCIM
+
+e Regulating and monitoring Daily Health Management and Defect Prevention and
+Casual Analysis tracker
+
+e Enlisting Timesheet approvals and preparing monthly/weekly TCS internal/client
+reports
+
+e Effectively conducting regular internal/client audits
+
+e Overseeing on boarding and off boarding associates and motivating them through
+performance awards
+
+Client: Bose Corporation
+e Spearheading a team of ~10 members after rising through the ranks from a member
+to a Project Lead
+
+Primary Competency: Oracle
+
+Database Operations
+
+e Installing, upgrading and patching different versions of Oracle in both SAP & Non-
+SAP environments
+
+e Configuring and providing support for DG environments
+
+e Creating DBs and maintaining DB instances by managing logical and physical DB
+structures
+
+e Ensuring frequent refreshes from production to QA & DEV environments
+
+e Providing DB support for failovers, OS patching & CPU replacement activities &
+reacting to sudden DB issues
+
+Cloud Migration - AWS
+
+e Overseeing migration of critical Oracle SAP databases to Sybase instances hosted on
+AWS Cloud
+
+e Providing support for RDS Migration activities, Sybase patching, Oracle up gradation
+& quarterly patching of PCI servers
+
+e Analyzing and setting up AWS CloudWatch metrics for different database/OS related
+resources
+
+Secondary Competency: Sybase
+
+Database Operations
+
+e Spearheading work as Sybase DB Administrator by supporting production servers
+
+e Planning, configuring and managing activities pertaining to the data servers involved
+
+e Formulating backup & disaster recovery procedures and implementing security
+features
+
+Tertiary Competency: MSSQL
+
+Database Operations
+
+e Installing and configuring SQL Server 2000/2005/2008/2008 R2/2012/2014 as per
+requirement
+
+e Applying latest Service packs and patches on SQL Server 2000/2005/2008/2008
+R2/2012/2014
+
+e Formulating backup and recovery policy based on the requirement of the business

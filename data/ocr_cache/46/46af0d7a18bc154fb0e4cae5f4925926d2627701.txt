@@ -1,0 +1,113 @@
+Name
+
+city, Ukraine | x«@gmail.com | Linkedin | GitHub
+Java Back-end Developer with two years of experience
+
+Work experience:
+
+Middle Java Developer. Company name.
+Project: project name. Project summary: Subscription service
+
+06/2022-present.
+
++ Investigated memory leak that consumes approximately 20-30%
+application resources. Performance improvement from 200ms to 1-10ms.
+
+‘+ Saved the company $3000.a month by researching and adjusting AWS
+DynamoDs table settings
+
++ Worked on JSMPP session down alerts to AWS CloudWatch,
+
++ Worked on Redls Cache API and Spring Cache configuration. Saved 15
+minutes of time for managers when they updating content.
+
+Technologies: Java 8, Python, Spring (Core, Web, Data, Rest, Cache), Hibernate, Tomcat, AWS,
+‘Maven, Git, Redis cache, Redshift, DynamoDB, MySQL, Mockito, Juni, Html.
+
+Junior Java Developer. Company name.
+Project summary: Automatization payment banking system.
+
+14/2021-06/2022.
+
+‘© Increased performance of the flow client from ~1 min to 10 seconds.
+
+'* Provided stand-up meeting and took part in onboarding for 2 new
+employees.
+
+‘© Parsing data from webpages.
+
+Technologies: Java 8, Spring (Core, Web), Selenium API, 1S, Git, Maven.
+
+C# Developer. Freelance.
+Project summary: Website for exclusive tours.
+
+(06/2021-11/2021.
+
+‘+ Created a holiday catalog in CRM to automate relevant offers for
+‘customers on the home page.
+
+‘+ Worked on a desktop application for managers to get detailed tour
+information.
+
+Technologies: Asp.net MVC, ORM framework (EF), Ms SQL Server, Winforms, Js, JQuery,
+Bootstrap, Html, CSS.
+
+Pet Projects:
+
+Subscriptions Management System. Application gives the opportunity to
+manage user's subscriptions for sport clubs.
+
+‘Technologies: Java 17, Spring (Core, Boot, Data, Web, Test), Thymeleaf, Bootstrap,
+Validation, Liquibase, Testcontainers, PostgreSQL, Gradle, Juni.
+
+Order Management System. Basic order management system. Manager
+‘can create/edit order with list of goods.
+
+‘Technologies: Java 16, ava Web (Servlet, ISP, STL), JDBC, PostgreSQL.
+
+Skills:
+Languages: Java, C#
+
+Frameworks and libraries: Spring (Core,
+Boot, Data, Web, Rest, Security, AOP,
+Cache), Hibernate, Thymeleaf, Liquibase,
+‘Asp.net MVC, EF
+
+Java EE: Serviet, JSP, JSTL, JDBC, Tomcat
+Build Tools: Maven, Gradle
+
+Databases: PostgresAl, MySQL, Redis,
+Dynamob8, Redshift
+
+Testing: Spring Test, Junit 5, Mockito,
+Selenium API, Testcontainers
+
+Cloud: Aws
+
+Front-end: CSS, HTML
+
+Education:
+
+Kyiv National University of Trade and
+Economics. Bachelor's degree Software
+engineering. 2020-present.
+University courses: programming basics
+‘on C#, OOP on Ci, Java, Economic English
+2, data structures & algorithms (python),
+database (Microsoft SAL)
+
+Course:
+
+Udemy: Spring (Core, Boot, Data, Web,
+Security, AOP), Hibernate, Maven,
+Groovy, Gradle, Junit & Mackito, Bash,
+
+HTTP Servlets, JDBC, PostgreSQL, AWS
+DynamoDB
+
+Languages:
+
+English (Upper-Intermes
+Russian
+
+fe), Ukrainian,

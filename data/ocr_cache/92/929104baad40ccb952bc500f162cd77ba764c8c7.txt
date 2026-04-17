@@ -1,0 +1,62 @@
+Arvind Yadav
+
+Java Developer
+
+PROFILE * ABOUT ME
+
++ Extensive experience of XX years in designing and implementing Java-based applications: analyzing user requirements to inform
+application design: defining application objectives and functionality: aligning application design with business goals
+
++ Skilled in developing and testing software: debugging and resolving technical problems that arise: producing detailed design
+documentation: recommending changes to existing Java infrastructure; developing multimedia applications: developing documentation to
+assist users
+
++ Adept in driving best practice, quality and consistency within design and development phases: identifying opportunities to fine-tune and
+optimize applications of java developed projects: developing technical designs for application development; developing application code
+for java programs
+
++ Experience with user interface design, database structures and statistical analyses: analytical mindset and good problem-solving skills;
+excellent written and verbal communication: good organizational skills
+
+EDUCATION
+management, Bachelor of Business Administration Completed, February 2001
+‘ABC School Marks 70%, Division |
+
+CBSE — noida, Uttar Pradesh
+
+WORK EXPERIENCE
+
+Developer - Java ‘Apr 2005 - Feb 2008
+abe prt Itd noida, Uttar Pradesh
+
+Key Result Areas:
++ Deliver tactical and strategic improvements to large scale Java/J2EE/Mobile based product
++ Formulates and defines system scope and objectives through research and fact-finding to develop or modify moderately complex
+information systems
+‘+ Maintain and update all existing J2EE applications as needed
++ Translate software requirements into working and maintainable solutions within the existing application frameworks
++ Implement the product's lifecycle: Design, development, quality, deployment and maintenance
++ Develop and adhere to best-practices for developing applications,
++ Continuously contribute to team performance improvement and collaboration
++ Collaborate effectively across teams
+Key Highlights:
++ Any existing systems/ processes streamlined???? Results obtained???? Major assignments handled????
++ Any unique initiative taken to improve customer satisfaction level??? Any major accounts/clients handled???
++ Awards/appreciation letters received??7? Other relevant achievements???
+
+Developer - Java May 2009 - Mar 2041
+XYZ pit Itd noida, Uttar Pradesh
+Key Result Areas:
+
++ Designed and developed high-volume, low-latency applications for mission-critical systems and delivering high-availability and
+
+performance
+
++ Contributed in all phases of the development lifecycle; wrote well designed, testable, efficient code
+
++ Ensured designs are in compliance with specifications; prepared and produce releases of software components,
+
++ Supported continuous improvement by investigating altematives and technologies and presenting these for architectural review
+Key Highlights:
+
++ Any existing systems/ processes streamlined???? Results obtained???? Major assignments handled????

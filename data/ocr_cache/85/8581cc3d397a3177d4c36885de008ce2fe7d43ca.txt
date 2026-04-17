@@ -1,0 +1,128 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 ¢ resumesample@example.com
+
+‘SUMMARY
+
+‘Skilled Developer with strong analytics skill and strong knowledge in machine learning, data mining with large dataset of both structured
+and unstructured data
+
+knowledge of AWS technologies, such as VPC, EC2, RDS Experience in writing and debugging bash scripts.
+
+Comfortable reading and understanding code written in Python, VBA, and JavaScript Well verse with design and development of
+presentation layer for web applications using technologies like HTML, CSS and JavaScript.
+
+Comfortable with Flask web development and dashboarding for visualization Well familiar with CNN model for image recognition and
+‘Comfortable with Spark and Scala programming language for big data.
+
+Proficient on developing and implementing predictive models using natural languages processing Techniques and machine learning
+algorithms such as Linear Regression, Multivariable regression, K-mean clustering, Naive Bayes, Random Forest and Decision Tree, KNN,
+
+PCA and regularization for data Analysis,
+Expertise scripting and automating repetitive tasks with Python.
+
+Excellent communication and interpersonal skills, self-motivated, quick learner, determined to learn Technical Skills and new technologies,
+
+strong troubleshooting skills with excellent interpersonal and teamwork skills
+
+SKILLS
+
+Data analysis & visualization, Math, Data structure & Algorithms, ,
+Relational Database, AWS, ETL, SSRS, SSIS, Agile, Azure,
+Automation, Object-Oriented Programming
+
+Languages: Python | SQL. | HTML |CSS | JavaScript | Java
+Libraries: Pandas| Numpy | Spark | SQL Alchemy| Pymongo| OS|
+Beautiful Soup
+
+RDBMS: Mysql [Mssq| Oracle| Mongo db
+
+JavaScript Libraries: jQuery| D3 js|Plotly [Leaflet
+
+Frameworks: Flask
+
+Operating system: Linux Microsoft Windows macOS
+
++ Data Storage and Retrieval
++ Complex Problem Solving
+
++ Error Identification and Correction
+
++ Teamwork and Collaboration
+
++ Analytical Thinking and Problem Solving
++ Agile Methodology
+
+* Code Analysis and Development
+
++ Regression Testing
+
++ Time Management and Organization
+Application Development with Flask
+
+* Scrum Master
+* Code Review
++ Continuous Integration Systems
+
+EXPERIENCE
+
+Programmer Analyst, 03/2017 - 04/2022
+Ppd - Morrisville, NC
+* SSMS, T-SQL, Python, JIRA, REST, JavaScript
+* Developing and deploying quality T-SQL codes, stored procedures, views, functions, triggers and jobs
++ Updating and troubleshooting existing procedures and queries
++ Maintenance and support of SQL server Mirroring, Log shipping, Clustering, and other methods of disaster recovery
++ Working with business stakeholders, application developers, and production teams and across functional units to identify business needs
+and discuss solution options
+Designing, developing and maintaining relational databases,
++ Used python to preprocess Data and try to find insights
+Designed and developed user interface using front-end technology like HTML, CSS, JavaScript and Bootstrap
++ Implemented unit testing, regression testing on the developed reports
++ Create databases and online reports to support project measurement and data analytics
+Uncovered system issues by troubleshooting hardware and testing code at project intervals
++ Coordinated installation of software systems and collaborated with user experience team on design and implementation of new features.
+
+Reviewed project documentation and made important changes to match updates to project scope.
+Updating status on work through JIRA.
+
+Instructor / Tutor, 02/2018 - 03/2022
+‘Varsity Tutors — City, STATE
++ Subjects: Math, Physics, Python, Data Analysis, SQL, Visualization
+© Prepare assigned topic material and syllabus
++ Conducted online lectures to instruct students about high-level concepts
+‘Tracked student progress by assigning and grading homework, essays and exams
++ Researched or recommend textbooks, software, equipment, or other learning materials to complement tutoring,
+Assisted students in finding useful study methods to enhance academic performance,
++ Provided private instruction to individual or small groups of students to improve academic performance and prepare for academic or
+occupational tests,
+
++ Conducted study exercises to help student pass class exam or improve scores on standardized tests,
+
+Python Developer Intern, 02/2013 - 08/2013
+Alten Calsoft Labs — City, STATE
+
+* Collaborated with design, product and engineering teams to enhance core applications,
+
++ Participated in team-based project work, demonstrating ability to fill multiple roles.
+
++ Worked in fast-paced development environment with complex project attributes.
+Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes,
+Integrated object-oriented design and development techniques into projects to support usability goals.
+Coordinated testing and validation procedures through software development lifecycle.
++ Analyzed code and corrected errors to optimize output.
+Assessed code during testing stage to determine potential glitches and bugs.
+
+Worked closely with systems analysts, engineers and programmers to understand limitations, develop capabilities and resolve software
+problems
+Combined root-level authentication and authorization technologies with ongoing system design to harden finished solutions,
+
+EDUCATION AND TRAINING
+Certificate: Data Analysis And Visualization, 10/2020
+
+Rice University - Houston, TX.
+
+Bachelor of Science: Mathematics, 08/2012
+‘Marien Ngouabi University
+
+Bachelor of Applied Science: Mechanical Engineering
+UT Tyler - Houston, TX

@@ -1,0 +1,153 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105,
+(555) 432-1000 -resumesample@example.com
+
+PROFESSIONAL PROFILE
+
+Former U.S. Navy veteran with 4 years of experience in software engineering who seeks employment as part of a dynamic software
+evelopment team. Have 2 years of experience developing web applications using web technologies such as AngularJS, HTML, JQuery, and
+(CSS and about 2 years of experience in developing mobile applications forthe iOS platform using swift and iOS SDK.
+
+Rezevant PROFESSIONAL EXPERIENCE
+
+04/2021 to Cussent
+
+03/2021 to 04/2023
+
+(01/2019 t0 09/2020
+
+09/2016 t0 01/2019
+
+TOS Developer
+Bank Of America Corporation ~ Bainbridge Island, WA.
+
++ Developed native iOS product compatible with iPhone and iPad devices.
+
++ Collaborated with development team in architectural design and decisions.
+
+‘+ Worked with Atlassian products such a Jra for tracking and updating user stories and sprint progress.
+
++ Utilized Confluence asa tool for documenting and referencing technical project work
+
++ Used Carthage package manager in importing and managing projects third-party libraries and dependencies,
+
++ Used Github as a versioning control tool to manage project's source code history.
+
++ Used ARC to handle memory management efficiently.
+
++ Developed iOS native application to support various screen sizes and orientations for iPhone and iPad using Size
+
+Class
++ Usilized the Combine framework in building a reactive application.
+
+108 Developer/React Native Developer
+Pointelickeare - Montgomery, AL
++ Collaborated in implementing responsive iOS native applications using Swift and the atest technologies to provide
+‘ser with a smooth and intuitive user experience
++ Followed Apple's Human Interface guidlines to create products aligned with 10S UT norms.
++ Created reusable components that can be applied to 10S applications developed throughout the orsanizaton.
++ Managed and implemented data state across aplication using Redux and Redux thunk (ae middleware to manage
+Asynchronous dat).
++ Conducted interviews to evauate possible ftue iOS developer candidates to meet the development tans staffing
+capacity
++ Provided continvous maintenance and bug fixes forthe existing application to improve usability and user
+experience
++ Wrote nit tests onthe existing React Native and iOS codebase to meet a minimum of 80% code coverage using
+Javascript and 10S testing frameworks such as JesUS and XCTests, espectly.
+
+Junior TOS Developer
+Anthem, Ine. ~ City, STATE,
+‘+ Have about 2 years iOS development experience in Swift
+‘+ Proficient in iOS application development using native frameworks like Core Graphics, PushKit, AVFoundation,
+and UIKt
+‘+ Improved product quality through code reviews, writing effective unit tests and collaborating with QA on
+implementing automation testing
+‘Work along with other engineers and developers in formulating and deciding on solutions to technical problems.
++ Reviewed cent requirements, wizelrames, and designs for technical feasibility
++ Experience writing code following MVC architecture,
++ Integrated ForeSee SDK to enable customer feedback on aplication usage.
++ Collaborated with the serum team to translate client requirements into implementable user stores.
++ Developed reusable custom components for iOS applications,
+‘+ Experience in concustent programming working with operation queues and dispatch queves.
+‘Worked with source contol tools such as Bitbucket,
++ Experience with agilelscrum tools
++ Experience with RESTful, JSON, XML, and SOAP Web Services.
++ Used Jira to maintain project and sprint level progress and development,
+‘+ Implemented remote feature flag capability using LaunchDarkly SDK for continue integration (C1) support.
+
+AngularJS/Mobile Developer
+‘Anthem Ine. ~ City, STATE
++ 2+ experience in developing web application in Angula8, HTML, and CSS.
+‘Worked with product designers and product managers to design user interactions in applications
+‘+ Tested features across various browsers
++ Implemented push notifications functionality into Android and iOS mobile platform.
++ Fixed bugs as were encountered.
++ Conducted design and code reviews to share knowledge with development team.
++ Designed and maintained Web and Mobile applications.
++ Collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences
+‘+ Assisted Anthem in cost savings of up to 150,000/year through migration of cross.platform Mobile Application
+framework ffom IBM Worklight to Apache Cordova.
++ Implemented build tools including Gulpjs into mobile applications.
++ Pecformed and implemented unit tests on several sections of Anthems Mobile Applicaton using Jasmine
+framework.
++ Modularized front-end CSS and JS code with Sass.
++ Develop rich SPA using AngularJS javascript framework,
+
+Worx Exrerience.
+
+05/2007 to 11/2012
+
+(05/2005 to 06:2007
+
+03/2004 to 04/2005
+
+‘Auxiliary Machinery Operator
+US. Navy - Newport News, VA.
+«+ Supervised operation and organizational maintenance of auxiliary machinery systems.
+‘+ Successfully trained and le a team responsible for maintenance, operation, and supervision of essential power
+plant auxiliaries
++ Repaired and restored large emergency powerplant diesel engine worth over 2 million dollars during overseas
+deployment
+‘+ Dismantled and inspected components and adjusted and repaired them as necessary
++ Trained, directed and instructed over 6 apprentices and helpers.
++ Maintained logs, lists and files and promptly completed all necessary paperwork,
+
+snd Supervisor
+
+Cashier
+‘Taco Bell - Kissimmee, FL.
+
++ Accepted payment by fiom customers and made changes as necessary
+
++ Assessed customer needs and responded to questions.
+
+‘+ Worked with customer service to resolve issues.
+
++ Operated cash register with proficiency.
+
+‘Responsible for ringing up customers in a timely manner and guaranteeing high level of customer service.
+
+Food Service
+Disney World - Orlando, FL
++ Assessed customer needs and responded to questions.
++ Cleaned and straightened work area.
++ Responsible for daily set up of multipleGreeted guests and sat them at tables or in waiting areas stations
+‘+ Worked overtime shifts during busy periods
+
+Epucarion
+2024 ‘Master of Science: Computer Science
+Johns Hopkins University - Baltimore, MD
+2020 Bachelor of Science: Computer Science
+‘Oregon State University - Corvallis, OR
+GPA325
+2016 ‘BBA: Information Systems and Technology
+‘Old Dominion University - Norfolk, VA
+@PA34
+2016 BBA: Economics
+(Old Dominion University - Norfolk, VA
+Sxurs
++ swift + css
+‘+ Mobile App Development + HTML
+© REST + React Native
++ JavaScript + 10s

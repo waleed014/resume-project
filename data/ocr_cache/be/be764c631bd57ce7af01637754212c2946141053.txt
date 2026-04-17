@@ -1,0 +1,69 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+(CAREER OVERVIEW
+
+Customer-centric and results-driven Business Consultant adept at process improvement & data analysis. 2 years’ experience working in
+procurement, operations and marketing projects.
+
+PRoFEssIONAL EXPERIENCE
+
+07/2014 to 11/2016 SAP SCM Functional Consultant
+NTT Data Global Delivery Services — City, STATE
+
+* Successfully completed 10 Critical & High deadline Projects for an Oil & Gas client on multiple SAP modules
+such as purchasing, inventory management, FICO, warehouse management, production planning, logistics
+execution and sales & distribution
+
+‘* Documented process flows and developed requirements for functional improvements and enhancements for
+‘Materials Management (MM), Procure to Pay (P2P), Order to Cash (OTC) processes.
+
++ Performed functional testing and validation of more than 400 test automation scripts and assisted team of at least
+10 test analysts for automation of manual scripts pertaining to functionality business processes
+
+‘© Drafted action plans and led meetings with client managers to review project status and proposed changes.
+
++ Provided user acceptance training and helped client understand tool & process functionality by creating mock ups
+& process flow diagrams
+
+04/2014 to 07/2014 SAP SCM Functional Support Consultant
+NTT Data Global Delivery Services — City, STATE
+‘* Worked with cross-functional team of consultants from Finance, Procurement, Quality, Supplier Relationships and
+Sales for resolving issues and provided support to clients in manufacturing, pharmaceuticals domain
+‘* Created Functional Specification Documents (FSD) for new requirements based on client interaction.
++ Configured master data including material master, vendor master,source list, info records, and pricing.
++ Configured purchasing documents like purchase requisitions (PR), purchase orders (PO) and RFQ's.
+
+InTERNsHIP EXPERIENCE
+
+04/2013 to 05/2013 Marketing Management Intern
+Ranbaxy Laboratories — Mumbai, India
+Tracked, analyzed, interpreted & reported trends in Antibiotics Effectiveness data by conducting a market research.
+‘ Performed analyses using tools like SPSS, Excel to identify the potential market for a particular antibiotics.
+
+04/2011 to 05/2013 Project Trainee
+Biocon — Bangalore, India
+‘* Worked on a production project “Inoculation train process and bioreactor design parameters”
+* Performed Batch management for mammalian cell culture.
+
+Semis
+
+‘* Domain Knowledge: Procure to Pay, Materials Management, Inventory Management, Order to Cash
+* Soft Skills: Requirements Gathering, Data Analysis, Reporting, Project Management
+* Technical Skills: SAP ERP, Functional Testing, Excel, SPSS, SQL
+
+(CERTIFICATIONS
+
++ SAP SCM Materials Management Basic Certification from NITDATA Leaming and Certification Institute
+* Preparing for APICS CSCP
+
+Epucation
+
+2014 MBA: Specialization in Supply Chain Management & Marketing
+GITAM School of International Business - Visakhapatnam
+
+2012 Bachelor of Technology: Biotechnology
+
+GITAM University - Visakhapatnam

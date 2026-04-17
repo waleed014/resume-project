@@ -1,0 +1,167 @@
+JEssica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(655) 432-1000 -resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+«+ Ten years of experience in Software Industry
++ With a Master's degree in Computer Science, Thave a complete understanding of the fl life cycle of a software development projec.
++ During my full-time experience at Oracle,USA, Ihave gained hands on experience with ‘Application Servers’ and Fusion Middleware’
+
+components
+
++ Worked extensively in "Selenium Automation’ as well as developed web applications using J2EE, WebServices. Iam very good at
+leaming new technologies as and when needed
++ Expertise in developing test cases for Unit Testing, Integration Testing and System Testing.
+
+Suns
+
++ Programming Languages: Java 32EE, SQL, PLISQL
+
++ Software Testing Automation: Selenium, TestNG,
+Cucumber(BDD), Page Object Model(POM), Logs, SON,
+AJAX, REST API, Postman, Extent Report, Maven, Jenkin, QTP,
+
+Web Server: Apache Server
+Application Servers: WebSphere, Weblogic, Tomcat/Apache
+Web Tools and Languages: JSP, XML, HTML
+
+GUE AWT, Swing, Visual Basic
+
+SoapU, Jira ‘+ REE Patterns: Service Locator, Singleton, Proxy, Front
++ Version Control System: Git, Gitkiub, Bitbucket Controller, DAO, Session Facade, Transfer Object, View Helper
++ Scripting Languages: JavaScript, Python ‘+ Oracle Fusion Middleware components: Oracle SOA Suite,
++ Database Tools: Oracle, MS Access, Oracle WebCenter, Business activity monitoring, Webtier, BPEL,
+
+‘MySQL,ORM Hibernate JPA. Process Manager, Oracle Universal Content Management, Oracle
+
++ SRE: Java, Servlets, EIB,JNDIJDBC Enterprise Manager
++ IDE: Eclipse, Jdeveloper
+
+‘Wor History
+
+(09/2007 to 09/2015 Software Developer
+
+(08/2006 to 12/2006
+
+(01/2005 to 07/2005
+
+(08/2003 to 12/2003
+
+Epvcarton
+
+‘Smart Software Solutions, Inc— Lat Vegas, NV
+Project: Oracle Fusion Middleware (FMW)
+
+Oracle Fusion Middleware is designed to support development, deployment, and management of Service-Oriented
+Architecture(SOA), It includes what Oracle calls "Hot Pluggable” architecture, which allows users to leverage existing
+jnvestments in applications and systems from other software vendors such 2s IBM, Microsoft, and SAP AG.
+
+My responsibilities at Oracle American.
+Design, develop, troubleshoot and test softwares.
+
+Write test plan, test cases, and perform manual and avtomated testing
+
+Fixes bugs on hardware platforms, including Linux and Windows.
+
+Performs install testing for Fusion Middleware products
+
+Performs configuration testing for Oracle application server releases.
+
+Interacts with development, release, and Product Management to obtain functional requirements and code fixes.
+Perform functional testing on SOA and Webcenter components.
+
+Perform automation using python javascript
+
+Develops projects using Jdeveloper.
+
+Recommend future directions of software product releases and help establish product policy.
+
+‘Scenarios executed by me at Oracle America,Inc. :
+
+CreatelExtend domains using FMW components like SOA, BAM,Webcenter (servers used are Weblogic/Websphere)
+Instal/Configure Oracle database and load/manage schemas for each component using Repository Creation Utility
+(cu)
+
+Configure unicastmulticast CLUSTERS by distributing servers across remote machines or in localhost
+
+Associate domains with extemal LDAP by migrating reassociating policy & credential stores. And manage user roles.
+Wite all the components to WEBTIER and use OHS port to access my component's home page.
+
+Develop/deploy applications to servers/clusters using WLST, EM & JDeveloper
+
+‘Monitor/Manage the entire domain (servers/applications) using Enterprise Manager (EM),
+
+Perform automation using DTE Distributed Topology Environment) by constructing topologies and executing ADE
+commands.
+
+Environment: Java (12EE), XML, Linux, Java Script, Python, Oracle.
+
+Semester Long Master's Degree Project
+‘Smart Software Solutions, Ine Pierre, SD
+
+Project : Banking application
+
+Developed Banking application using MVC architecture.
+
+This application was developed using Java/J2ee based on the MVC architecture.
+
+Ithas several modules such as Login, Registration, Money Transfer and Mini statement
+
+‘The data in database is managed effectively using RDBMS, J2EE and JDBC.
+
+‘The Servlet (controller) manages the flow of application. Some custom Exceptions also handled.
+
+Servet filters are used here to filter the URL requests inthe application
+
+Environment: Java, J2EE (Servlet, JSP), Tomeat, XML, HTML, Java Script,#MVC, Mysql, SQL, PL/SQL, AWT GUI
+and Swing GUL
+
+Software Developer
+Anna Silicon Technology, India ~ City, STATE
+
+Project: Sales and Service Management
+
+Itwas designed and developed the using J2SE, J2EE, Struts and Oracle technologies. It has couple of modules such as
+Sales Management, Customer Management, Inventory, Service Management, and Administration
+
+Responsibilitie
+Involved in Analysis, design, development and testing ofthe database.
+
+Implemented design pattems ~DTO, DAO, and Singleton
+
+Patterns,
+
+JavaScript implemented using validation field Implemented MVC architecture using Struts framework.
+
+DTO, DAO implemented as data services for the application and implemented exception handling for the application,
+Implemented Data Source to connect the data base as connection pooling and implemented stored procedures for the
+data base operations.
+
+Environment
+Java (SE, J2EE), Struts, ISP, Servlets, EJB, HTML, DHTML, JavaScript, SQL, PL/SQL, Oracle.
+
+Internship Student
+Larsen And Toubro (L&T), India ~ City, STATE
+
+Project: Construction Enterprise Management (CeMa)
+
+‘CeMa was designed and developed the using VB and Oracle technologies. CeMa has modules such as Construction
+‘Management, Sales Management, Inventory Management, Salary Management, Service Management, and
+Administration.
+
+Responsibility
+Developed GUI (Graphical User Interface) and technical specification of Construction Enterprise Management, 2
+business management system, for third-party vendors,
+
+Environment: Visual Basi, Oracle.
+
+‘Master of Science: Computer Science
+‘Minois Institute of Technology - Chicago, IL
+
+Bachelor of Technology in Information Technology : Computer Science
+University of Madras - Chennai, India
+
+IBM Mainframe Training Programme
+‘Maxsoft Technologies Pvt. Ltd. ~ Chennai, India

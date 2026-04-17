@@ -1,0 +1,67 @@
+Melesia Molles
+
+DevOps Enginé
+
+Profile ® melesia.molles@gmail.com
+% (324) 588-9081
+‘sa DevOps Engineer with over 1 year of experience Ihave a proven 9 Phoenix, AZ
+
+track record of building and deploying cloud infrastructure, automating
+development processes, and providing support for production systems. |
+
+have strong technical sis in DevOps automation tools suchas Jenkins, Education
+
+Chel and Ansible. My ablit to coordinate and collaborate wth software
+
+engineers and other stakeholders is also a key strength. IRave experience Bachelor of Science in Devops
+working witha varetyof operating systems, such as Linux and Windows, Engineering at Arizona State
+‘and development languages, such as Ruby, Python, and JavaScript. |have a University, AZ
+ComprehensiveundertandingofcloudcomputingtecnologiessuchasAWS, ——Aug2017- May 222
+
+GcP,and Azure. am alsowellvereedincontaineriztiontechnologlessuch 2s __—Relevant Coursework: Systems
+Docker and Kubermetes. am canidentin my ably tocrive DevOps success Administrtion, Networks and
+and contribute to business growth. Saar iam oral
+
+Orchestration, Cloud Computing,
+Software Development, and Data
+
+Employment History harem
+Senior DevOps Engineer at Amazon Web Services, AZ
+ec 2022- Present Links
++ Improved AWS infrastructure scalability and availability by 85%, reducing
+downtime and increasing customer satisfaction. linkedin.com/in/melesiamalles
++ Automated the deployment process of new applications to AWS, reducing
+deployment time from 1 week to 2 days.
++ Developed an automated platform for monitoring and alerting on Skills
+application performance, resulting in a 50% decrease in esponse time.
++ Implemented a custom logging system with AWS CloudWatch, enabling Automation
+realtime monitoring and debugging of applications with improved
+accuracy Cloud Computing
+DevOps Ent Infrastructure as Code
+
+sul2022
++ Developed and implemented an automated deployment pipeline for
+
+Continuous integration/Delives
+‘Azure Kubernetes Service, resulting in a 20% decrease in deployment pahleacdie J aciaty
+
+time, Monitoring & Logging
+
++ Improved system reliability by designing and deploying a monitoring
+and alerting system using Azure Application Insights, resulting in a 25% Scripting (eg, Bash, Python)
+reduction in downtime.
+
++ Streamlined the application development process by developing a Configuration Management (e.g, Chef,
+Continuous integration and continuous deployment (C1/CD) pipeline on Puppet)
+
+‘aure DevOps, which resulted in 24096 reduction in development time.
++ Optimized infrastructure cost by leveraging Azure Cost Management
+
+tools, resultingin a 30% savings in monthly operational costs.
+e i Languages
+
+Certificates English
+
+Certified Kubernetes Administrator (CKA) Mandarin
+
+AWS Certified DevOps Engineer - Professional

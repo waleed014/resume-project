@@ -1,0 +1,131 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+To obtain a Python programmer position that will utilize strong technical and analytical skills. Certified Software Developer Professional with
+‘more than 10 years of experience in building software applications and programming. Solid experience in software design, development,
+testing, deployment, and customer support. Strong expertise in database usage. Skilled in object oriented programming techniques. Excellent
+‘team player, able to work under pressure, eager to work in challenging environment, capable of meeting deadlines.
+
+Hicuucats
++ Python Numpy Pandas PostereSQL. Fast Leamer
+‘+ JavaScript PHP HTMLS CSS WordPress WAMP IS7 + Dependable
++ SAS/Base SAS/Stat SAS/Macro SAS SQL + Detail oriented
+
++ Delphi VS/ 7/5/3/2 PowerBuilder4/3 Clipper + Business-users-friendly developer
+‘+ MySQL MS SQL Server 2005 DB2 Oracle 8 Advantage 8.1
++ Linux Windows 7/VistaXP Windows 2008 R2 server Windows
+
+2000/9895
+
+ACCOMPLISHMENTS
+
+Developed software applications in diverse set of IT environments. Moved from established to new programming tools to meet management
+requirements. Successfully communicated to the team members and business users.
+
+EXPERIENCE
+
+01/2014 to 01/2015 Python Programmer
+Icf International, Inc ~ Minneapolis, MN
+‘+ Performed ETL operations over business data including data extraction from source files in different formats, its
+transformation and loading to PostgreSQL database.
+‘+ Generated charts and reports using Pandas modules to analyze data stored in database and in files.
+
+01/2011 to 01/2014 SAS Programmer
+BOS Computer Software, Inc — City, STATE
+
+‘+ Developed SAS software that loads information from vendors files in csv, txt, and excel formats into SAS data sets.
+
++» Performed descriptive statistical analysis using PROC MEANS, FREQ, SUMMARY, PIVOT TABLE for group of
+items.
+
+‘+ Reports provided assistance in building store marketing strategies for price optimization, size optimization,
+assortment planning, loss prevention and forecast customer demand.
+
+‘+ Generated various standard reports using SAS SQL and SAS procedure.
+
+01/2005 to 01/2010 Senior Delphi Programmer
+City, STATE
++ All Projects cover business activities of a Supermarket Chain.
+
++ Project: Implementation of IBM Point-of-Sale (POS) software Took part in mapping and creating a bridge between
+the store database and IBM POS software.
+
+‘+ Created the database stored procedure for initial data loading from the store tables to the IBM site
+
+‘+ Project: Software for Perishable Items Designed and developed Purchase Orders Software for Perishable Items.
+
++ Software lets users quickly make orders from any vendors for any store and department,
+
+‘+ Designed Purchase Orders templates which were easy to fill-in, print, and email to vendors.
+
+‘© Created summary and detailed reports for Purchase order.
+
+'* Project: Loading Data from Register to Store Created Server application which performs data transfer from each
+Register DBF Database to the Store Advantage Database.
+
+‘* Created the Register report which is using multiple criteria
+
++ Project: Point of Sale Software.
+
++ Rewrote Point-of-Sale application from the version developed in Clipper and using DBF database to Delphi
+language and Advantage Database.
+
+(01/2003 to 01/2005 Senior Delphi Programmer
+NA-City, STATE
+
+++ Executive Information System.
+
+‘+ This application was built for top-level managers of the company using Delphi 7 as a front-end and Oracle 8 as a
+back-end,
+The application allows retrieving company and its subsidiaries sales data on monthly basis.
+Sales data includes actual, forecast and budget numbers.
+Screens were designed to drill-down from the company level to the level of products and cost centers.
+Created screens for business users - accounting personnel to maintain master data
+
+01/1996 to 01/2002 Senior Delphi Programmer
+BOS Computer Software, Inc — City, STATE
+
++ Project: Health and Disease Tracking system.
+
+‘+ Designed, developed a huge collection of forms, reports, components (more than a hundred in number) for a
+significant Client/Server project (more than 1000 authorized users in all 5 boroughs of NYC are supposed to have
+access to the application),
+
+‘+ The project allows the Department of Health to gain control over the spread of communicable diseases and provide
+a proper guidance to the public like Maternity Health Services,
+
+‘+ The system was designed to communicate to both DB2 and Interbase Databases.
+
+‘+ Built templates to facilitate implementation of inheritance.
+
+‘+ Made a main screen that provides users with the ability of finding a patient in the databases according to
+dynamically chosen criteria.
+
+‘+ Designed and developed the user tools to maintain application data
+
+‘+ On the database level those tools generate dynamically built SQL statements and execute them against up to 25
+tables within one database transaction.
+
+01/1984 to 01/1994 Senior Programmer/Analyst, Scientist
+Department Of Health — City, Russia
++ Project: Natural Gas Extraction and Distributing System.
+‘+ Created a mathematical model and developed algorithms for distribution natural gas.
+‘+ Developed programs to input and store data and perform calculations of aggregated parameters, describing natural
+gas extraction, transportation, and distribution,
+
+Epucarion
+
+MS: Applied Mathematics
+‘Moscow State University
+
+Certificate of Achievement for: Python Programming, The University of Texas System through edX, SQL Server 2005, HTMLS, Online
+Expert SAS Certified Programmer, Chiron Training Center PowerBuilder Certified Programmer
+
+Sxmis
+
+Python, PostgreSQL, ETL, statistical analysis, PHP, MySQL, IIS7, JavaScript, CSS, HTMLS, Windows, Linux, SAS, SQL, Delphi, Interbase,
+‘MS SQL Server, POS, Department of Health, Client/Server, PowerBuilder, IBM, Oracle, DB2, Clipper

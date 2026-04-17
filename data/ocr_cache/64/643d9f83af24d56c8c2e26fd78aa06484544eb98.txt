@@ -1,0 +1,59 @@
+Joseph Tanner
+
+128 Mein Street, San Francisco, CA 94122
+Home: 000-000-0000 | Cell: 000-000-0000
+email@example.com
+Professional Summary
+
+Exceptionally focused and reliable Entry Level Java Developer with an outstanding work ethic and
+computer language knowledge base. Adept at explaining complex computer develapment concepts and
+processes to a variety of professional and lay audiences in a clear and accessible manner. Able ta work
+‘well independently or as part of a professional computer pragram development tearn.
+
+Core Qualifications
+
+© Extensive familiarity with PLSOL Oracle and MySQL database management
+
+© Strong expertise in JBuilder XML Flash PHP Apache Java Servlet JavaScript Swing ASP CSS and
+HTML
+
+Excellent proficiency in Tomcat Apache and lIS web servers
+
+Outstanding knowledge of SOAP TCPAP HTTP UDP and FTP protocols
+
+High skills in Ajax VB and Shell scripting languages
+
+Exceptional abilities in using source code analysis tools automated build process and unit testing
+Good oral and written communication abilities
+
+Experience
+
+Java Developer
+6/1/2013- Present
+
+AbleTech Solutions Inc.
+Minneapolis, MN
+
+Contributed to servlet based application development
+Assisted in maintaining and updating existing applications and modules.
+
+Helped design form validation pragrams using HTML and JavaScript
+
+Contributed to development of client side and server side codes for external and internal web
+applications
+
+© Provided assistance and support to programming team members as required
+
+Education
+
+Bachelor's Degree - Computer Science Engineering
+2013
+
+University of Minnesota,
+Minneapolis, MN
+
+GPA 3.71 ona 4.0 scale
+Awards Honors and Certifications
+
+2018 Sun Certified Developer for Java Web Services (SCDJWS) 2013 Sun Certified Java Developer
+(SCJD) 2009-13 Dean's List

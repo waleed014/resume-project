@@ -1,0 +1,50 @@
+John Smith
+
+‘Addease phone number{ email
+
+Objective
+‘Seeking a summer Electrical Engineering internship at your company, where I can ute kills teamed
+‘rom insttution and build experience & hard working and a good team payer always ready to lear,
+
+Education
+
+‘STATE UNIVERSITY
+‘Expected to graduate May 2020
+Major: Electrical Engineering
+Minor: Applied Mathematics
+Related coursework: Electron Creuit Analysis Semiconductor Devices, Microprocessors
+lecromagnetic Feld, Signals and Systems, Random Signals and Noise, Energy Conversion.
+
+Skills & Abilities
+‘Computer Skills:
++ Embedded ARM + Multisim
+oe MATLAB
+
++ Micrasoft office, Exe! + Arduino
+
+‘TeAMWORK|
+‘A great team player able to efficiently communicate with others always ready to ask or respond tohelp
+to complete goals with postive attinade
+
+HARD WORKING
+‘Amotivatd learuer slay willing to lear new technologies and work very hand to achieve given tek,
+
+Projects
+‘Multisim Simulations
++ Builtand simulated Thevenin and Norton equivalent circuits, diode circuit,and PMOS transistor
+tectonic circuits on Multisim. For Thavenin and Norton equivalent cists and diode cieuts,
+analytic solution was compared to simulation, For PMOS electronic isis, parsineters ware
+‘modified ro make change in V curve.
+Band Stop Filter
++ Asa group project for Hlectonic Circuit Ii was responsible for demonstrating band rejection
+‘Alter to ter out specific equency range to show how the filter ean be used to getrid of
+‘unwanted frequencies. low pas filter and hgh pass filter were connected in parallel causing
+attenuation at unwanted fequency range
+
+Experience
+‘MATH TUTOR | COMMUNITY COLLEGE | JAN 2018 - SEPT 2017
+Assisted students to solve problems themselves, prepare forthe tests, and comprehend cass materials,
+
+EXAM PROCTOR | COMMUNITY COLLEGE | SEPT 2017 - CURRENT
+‘Worked with professors to eneate appropriate environment fr testing center, ncressing efficiency of
+‘esting process and encourage students to sueceed in the cass.

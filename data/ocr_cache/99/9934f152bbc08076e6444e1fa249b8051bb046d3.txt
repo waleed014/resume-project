@@ -1,0 +1,144 @@
+PROFILE / SAP
+OVERVIEW
+
+EDUCATION
+
+PROFESSIONAL
+EXPERIENCE
+
+KEY TECHNICAL
+SKILLS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor *2 (555) 432-1000 <4 resumesample@example.com
+
+6+ years' experience as SAP R/3 FVCO Functional Consultant
+Expertise in configuration / customization of Fl (GL, AJP, AJR, AA, SPL), CO (CCA, QM, PCA, PC) and B/
+W modules
+
+Excellent verbal and written communication skill, strong interpersonal skills; proven ability to work
+independently as well as a collaborative team player
+
+Appreciation of cross-functional and integration perspectives: knowledge of overall business process
+flows in Telecoms / Communications, Pharmaceutical and Automotive industries
+
+Three full life-cycle implementations using ASAP principles; sound understanding of "As Is" business
+processes, Blue Print, Ul & UA Testing modules, End Users User Training, Pre- and Post-Go Live
+Support
+
+Thorough understanding of, with extensive experience in, FSCM Modules: Credit Management, Biller
+Direct, Dispute / Collection Management and In-House Cash
+
+Excellent in working with substitution rules, forms, ALE / IDDC / EDI interfaces; sound knowledge of
+ABAP debugging methodologies to work with user exits and cross applications
+
+Design and documentation of RICEF objects, scripts and test-models
+
+Knowledge in identifying, testing and documenting SAP Application Protocols in compliance with SOX
+
+Bachelor of Arts | Commerce
+Punjab University, Lahore
+
+SENIOR SAP FICO CONSULTANT 04/2010 to CURRENT
+AT&T | City, STATE
+
+‘An American multinational telecommunications corporation headquartered in Dallas, Texas. The largest
+provider both of mobile telephony and of fixed telephony in the United States, with over 107.9 million
+mobile customers
+
+Senior member of the Implementation team for AP, AR, GL and CO modules in the CFM (Customer
+Financial Management) Business Process
+
+‘Support of financial and operational processes for the recording of all customer transactions (revenue,
+tax and accounts receivable)
+
+Data migration from Classic GL to New GL
+
+Configuration of G/L area settings (concerning G/L master data, cross-company code transactions,
+open item clearing)
+
+Maintenance of House banks with multiple bank accounts and alternate bank selections for payments
+Defining and implementing void reason codes
+
+Configuration of the automatic payment program
+
+Integration of FCO with MM and SD for Inventory valuation, Movement types, damaged stocks and
+functions (GR / Invoice verification, order management, pricing, delivery, billing)
+
+‘SAO FIICO CONSULTANT 05/2008 to 03/2010
+HBO | City, STATE
+
+‘An American premium cable and satelite television network, an operating subsidiary of Time Warner,
+predominantly comprised of theatrically released motion pictures and original television series
+
+GL configuration (company hierarchy, account groups, accounts for company codes, fiscal year variant
+field status variant and posting period variant)
+
+ARIAP configuration for consumers based upon interest calculation on items, account balance
+Configuration / validation of substitution rules for documents, recurring entries, taxes, currencies and
+correspondence
+
+Customization of payment terms for dunning and downpayments, lockbox application in compliance with
+the BAl2 Format
+
+Utilization of LSMW to transfer master data
+
+Report creation via Report Painter and Report Writer
+
+Implementation of tolerances for budget cost and settlement rules in the Internal Order
+
+Creation of the cost center with maintenance of standard hierarchy; assignment to cost elements
+
+‘SAO FSCM CASH MANAGEMENT / IN-HOUSE CASH CONSULTANT 10/2006 to 04/2008
+Bayer HealthCare Pharmaceuticals | City, STATE
+
+Formerly Berlex, a research-based pharmaceutical company with gross sales exceeding $ 1.3 billion
+Customization of inter-company payment processes for worldwide payment / research payment using
+the In-House Cash Functionality
+
+Identification and preparation of integration test scenarios, test data sets and advanced integration
+testing cycles for current and upcoming configurations
+
+Defining and implementing functional specs for new and improved RICEF objects
+
+Assignment of planning types in General Ledger
+
+Analysis of cash position, liquidity forecasting based on panning levels
+
+‘Streamlining cash-pooling in local accounts functioning under In-House Cash Centers
+
+Design and implementation of the lockbox process (origin-destination, lockbox number, house bank,
+partner profile, message types and logical message types for lockbox based with EDI)
+
+Configuration and utiization of the Electronic Bank Statement (EBS) for cash management (cash
+position and liquidity forecasting)
+
+JUCIOR SAP FICO CONSULTANT 01/2006 to 09/2006
+General Motors | City, STATE
+
+‘An American multinational holding corporation that designs, manufactures, markets and distributes
+vehicles and vehicle parts in 37 countries under eleven brands, including Chevrolet
+
+Optimized integration of business processes within FCO and SD modules
+
+Customization of screen layouts for document entry at account / document levels
+
+Configuration and customized validations for documents, recurring entries, correspondence, taxes, and
+currencies
+
+Interest calculation on account balances and line items
+
+Configuration and customization of Cash Management process (bank statements, payment
+programming, liquidity forecasts, bills of exchanges)
+
+Configuration and customization of Cash Budget Management, including commitment management
+Configuration of integration links between FU/CO/SD/MMIPP to optimize transaction processing
+
+ERP: SAP R’3 (v. 3.0-4.7), FCO, ECC 6.0, BW3.1
+Tools/Utilities: Developer, ASP, VBScript, MS Project,
+MS Office (all versions)
+
+Integration: FVCO with MM, SD
+
+RDMS: Oracle, MS Access

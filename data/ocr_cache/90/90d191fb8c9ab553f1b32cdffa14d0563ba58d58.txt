@@ -1,0 +1,54 @@
+Robert Smith hone (128) 456 7899
+
+Email Infoguvikresume,com
+
+Website wont, quikresuime, com
+Performance Tester Linkedin: linkedin.com/quikresume.
+
+‘Address; 1737 Marshullle Road, Alabarna
+
+SUMMARY
+
+Overs years of dversified experiance in Software Quality Assurance with skis in Manual,
+Autornated testing of clentserver, distributed web-based system. Experienced on Mercury Test
+Suit (Test Director/ Quality Center, LoadRunner and Quick Test Professional). Extensive experience
+In Manual Automated testing of Web based and Client/Server applications with proficiency in Load
+{and Performance Testing
+
+SKILLS
+
+Leadership, Tester
+WORK EXPERIENCE
+
+Performance Tester
+Deloitte & Touche - February 2015 2020
+* Defined Rendezvous point to create intense load on the server to measure the server
+performance under load,
++ Analyzed results of Transactions Response time, Transaction Summary by Vusers, Hit per
+Second, Throughput and merged grephs using LR Analysis tool
++ Performance Tested Mast of the Madules of HCM and FSCM,
++ Monitored the Web, App, Process Server and DB Servers while the System Is under testing
+Closely,
+Monitored SQL Traces using People Tools SOL Trace, Application Server Logs, Batch Timings
+Repotts, Webserver Access Logs and process Monitors, etc
+Inserted Transactions, Checkpoints into VuGen Scripts as wll as parameterize Garnp;
+Correlate the seri,
+Cartied out multiple phases of load tests and schedule them as per requirements,
+
+Performance Tester
+Delta Corporation - 2011 - 2015
+Working with Rational Performance Tester, recorded test scripts for testing.
+Ran multiple large tests with the team to see where performance was lacking Inthe system,
++ Wrote reports to give to lead about different scenarios.
+* Analyzed server resources such as Total Processing Times, Available Bytes, Process Bytes and
+Heap Usages to look for performance bottlenecks Analyzed
+Location Chennai, Tail Nadu, India Technologies Used Siebel CRM, Orecle Fusion Midcleware,
+Clanguage, SOL and Oracle database Tools Used HP
+Perfarmance tasting using Laadrunner products VuGen, Controller, and Report Analysis,
+Created aver 100 VuGen scripts for TUXEDO, WEB, Java, java RMI, TIECD, and telnet protocols
+Created and executed over 40 controller scenarios Use
+
+EDUCATION
+ceo
+
+(0 This Era sume Tamla is the copyright of Onakesume com. Uso Guldatns

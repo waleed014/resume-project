@@ -1,0 +1,153 @@
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105. '2 (655) 432-1000 4 resumesample@example.com
+
+PROFESSIONAL © Effective at supporting team needs with high-quality code, subject matter expertise and collaboration skills.
+
+SUMMARY | Skilled programmer and complex problem-solver experienced in data analytics and report writing,
+SKILLS © Python ‘© Administrative support
+
+‘+ Django © Conflict management
+
++ Django Rest API + HR policies
+
++ Flask ‘© Effective Planning
+
++ REST programming
+
+WORK HISTORY © HUMAN RESOURCE ASSISTANT 03/2020 to CURRENT
+Kroger | Jackson, TN
+
+‘+ Process transactions for multiple compliance programs for |-9/E-Verify/work authorization file data
+integrity
+
+‘+ Assist with new HR work authorization or compliance-related projects
+
++ Verify data and perform data entry. Identity and correct variances and discrepancies in data
+
+‘+ Communicate with partners and employees on data findings and information
+
+‘+ Demonstrate highest degree of discretion and confidentiality.
+
+PYCHON DEVELOPER, 11/2017 to 09/2019
+Cognizant Technology Solutions | Princeton, NJ
+
+‘+ Wrote Python routines to log into the websites and fetch data for selected options.
+
+‘+ Designed email marketing campaigns and created interactive forms that saved data into database using
+DJANGO framework. Wrote python scripts to parse xml documents and load the data in the database.
+
+‘+ Used pandas api to put the data as time series and tabular format for east timestamp data manipulation
+and retrieval
+
+‘+ Was involved in the environment, code installation as well as the svn implementation
+
+‘+ Cleaned data and processed third-party spending data into maneuverable deliverables within specific
+‘formats with excel macros and python libraries.
+
+‘+ Ensured high quality data collection and maintaining the integrity of the data
+
+‘+ Collaborated with internal teams to convert end user feedback into meaningful and improved solutions,
+
+‘+ This project also used other technologies like jquery for javascript manipulations, bootstrap for the
+front-end htm! layout. Designed and implemented server build automation &amp; server
+decommissioning automation,
+
+‘+ Worked on unit testing, integration testing and web application testing,
+
+‘+ Unit test python library was used for testing many programs on python and other codes,
+
++ Ensured high-quality data collection and maintaining the integrity of the data,
+
+‘+ Cleaned data and processed third-party spending data into maneuverable deliverables within specific
+formats with excel macros and python libraries.
+
+‘+ Responsible for creating the companys internal platform called DCAE by using Python to develop and
+test the components,
+
++ Used Python IDE PYCharm for developing the code and performing the unit test.
+
+‘+ Wrote python scripts to parse xml documents and load the data in the database.
+
+‘+ Used pandas api to put the data as time series and tabular format for east timestamp data manipulation
+and retrieval,
+
+‘+ Was involved in the environment, code installation as well as the svn implementation
+
+‘+ Cleaned data and processed third-party spending data into maneuverable deliverables within specific
+formats with excel macros and python libraries.
+
+‘+ Ensured high quailty data collection and maintaining the integrity of the data,
+
+‘+ Collaborated with internal teams to convert end user feedback into meaningful and improved solutions.
+
+‘+ This project also used other technologies like jquery for javascript manipulations, bootstrap for the
+front-end htm! fayout,
+
+‘+ Developed views and templates with django view controller and template language to create a user-
+friendly website interface.
+
+‘+ Implemented user interface guidelines and standards throughout the development and maintenance of
+the website using the HTML, CSS, JavaScript and JQuery.
+
+‘+ Created APIS, database model and views utilization python in order to build responsive web page
+application.
+
+‘+ Implemented user interface guidelines and standards throughout the development and maintenance of
+the website using the HTMLS, CSS3, JavaScript, JQuery and Angular JS
+
+'* Developed views and templates with Python and DJangos view controller and templating language to
+create a user-friendly website interface.
+
+‘+ Worked on rest API calls and integration with Ul. Used Angular JS to develop the component to the
+application team, Spring MVC to consume rest APIS and used JavaScript, CSS3 and JQuery to display
+the data in front end,
+
+‘+ Developed views and templates in Dango to create a user-friendly website interface.
+
+HFCANALY ST OPERATION 11/2016 to 09/2017
+Kroger | Juneau, AK
+
+‘+ Data Management: Liaison with Asia Pacific HR Data Management Team to maintain employee life
+cycle changes in HR Database (PeopleSoftWorkday)
+
+‘+ HR Operations: Onboarding & exit formalities, reference checks
+
+‘+ HR Policies and SOP formulation: Formulated all HR policies and SOP’s for smooth functioning and
+to ensure policies and procedures are strictly followed
+
+‘+ Recruitment and Manpower planning: Planned recruitments in consultation with heads of functional
+‘and operational areas for timely hiring. Sourced and screened applicants for both technical/non-
+technical
+
++ Training and Development: Created training calendars, analyzed training gaps, developed content
+{or training programs, prepared new hire presentations
+
+‘+ Performance Management: Understood JDs/made KRAs & Goal setting for various hierarchical levels
+
+‘+ Employee Relations: Formulated and implemented engagement activities. Organized formavinformal
+meetings/get togethers/celebrations
+
+‘+ Payroll Management and HR Audits: Managed entire payroll processing, prepared dash boards
+Using MS-Excel functionalities and checking salary inputs, incentive calculation, and attendance
+
+‘+ Exit/Transitions: Conducted ext interviews, handled resignations; prepared Attrition Analysis reports
+
+‘+ Documentation: Appointment letters, certification of employment, profivdividend/salary; Analyzed and
+presented HR Analytics reports
+
++ Accomplishment: Awarded Bravo award for taking numerous initiatives and ownerships of tasks
+
+HUMAN RESOURCE ASSISTANT 05/2016 to 06/2015
+HCL Infosystems Ltd | City, STATE
+
+‘+ Sourced resumes through job portals, databanks, personal reference
+
+‘+ Identified prospective candidates through phone screening/ personal interview to check technical skills,
+interest level, availabilty, salary expectations; scheduled interviews; negotiated salaries, job
+descriptions with candidates.
+
+EDUCATION © MBA|Human Resources 06/2016
+Amity Business School , Gurgaon
+Bachelor of Science | Computer Science 062014
+Human Resources, Gurgaon

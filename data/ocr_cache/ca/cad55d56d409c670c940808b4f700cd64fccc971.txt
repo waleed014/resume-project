@@ -1,0 +1,64 @@
+JAQUELYN ARMSTRONG
+
+503 TORY DRIVE, SAN FRANCISCO, CA
+
+PHONE
++1 (555) 816 1717
+
+EXPERIENCE
+
+Hagenes, Renner and Adams
+Philadelphia, PA // Lead Etl Developer // 11/2019 — present
+
+¢ Strong in writing Hadoop HQU's and deep understanding of Hadoop architecture to tune hql's
+
+¢ To improve functionality of existing systems
+
+¢ Experience on Informatica, Teradata, Unix and Hive
+
+¢ Basic understanding of Sales Force
+
+¢ Experience with providing and presenting reports to management and directors
+
+¢ Experience with database design, data engineering, data modeling, database normalization, database management
+technologies, and optimization and performance tuning using SQL column store indexes and table partitions
+
+Torp-Nienow
+Philadelphia, PA // Database / ETL Developer // 07/2016 — 09/2019
+
+¢ Operationalizing tracking of tangible assets, service metrics, managing budgets, and KPI leading information to ensure
+provisioning and distribution to stakeholders
+
+¢ Acumen across technology including application development, systems architecture, infrastructure
+
+¢ Able to communicate effectively in writing and verbally to all levels of the organization, including technical and non-
+technical
+
+¢ Able to work independently and in collaboration
+
+¢ Requires in depth knowledge of database management systems, preferably SQL Server
+
+* OSQL Server Integration Services (SSIS)
+
+EDUCATION
+
+Savannah College of Art and Design
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Experience with Python (e.g Pandas, Data Frames) and use in data processing solutions
+
+¢ Experience with Java and use in implementing web services
+
+¢ Experience with Kafka, Sqoop, Spark, nifi
+
+¢ Experience with Data Wrangling tools such as Alteryx and/or Trifacta
+
+¢ Experience with Data Visualization tools such as Tableau and/or Microstrategy
+
+Financial / Capital Markets / Accounting domain knowledge
+
+¢ Exposure in Performance Tuning/ Investigations
+
+Aware of Real time- continuous flow Abinitio graphs and previous experience in developing the same

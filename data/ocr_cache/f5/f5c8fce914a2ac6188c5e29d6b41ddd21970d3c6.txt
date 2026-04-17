@@ -1,0 +1,147 @@
+Jessica CLAIRE
+
+Montgomery Steet, San Francisco, CA 94105 # (555) 4
+
+32-1000 # resumesample example com
+
+‘SUMMARY
+
+A motivated, hardworking, and dexterous DevOps/Systems Engineer holding 6 years of experience on the bet, comprising of operational
+‘experience, and troubleshooting abilities. Expertise in installation, configuration, maintaining Linux-based servers. Vision to automate processes
+by using LAC tools and achieve high availability and performance in a physical and virtual environment. Recognized ability to create and
+deliver solutions based ypon infrastructure support, and troubleshooting in Cloud environment. Looking fora role where I can grow by
+deploying new ideas and getting more exposure to cutting-edge technologies,
+
+SKILLS
++» PROFESSIONAL SKILLS + Lab, BitBucket Cloud (AWS): IAM, EC2, EFS, $3, Glacier,
++ Operating System: ‘+ CUCD Pipeline: Jenkins, GitLab, GitRunner, ELB, Cloud Watch,
+‘+ RHEL 6,7,8 CentOS, Containerization & Orchestration Tools: Batch, HPC
+++ SUSE, Debian, Windows, Docker, Docker compose, OpenShift, _* Rundeck Networking! Protocol: DNS, DHCP, Cisco
+‘+ Configuration & Management Tools: Kubemetes, MiniKube + Storage & Disk Management: SAN, NAS, Routers‘Switches, NIS,
+‘+ Ansible, Ansible Tower, Terraform, Cloud User Authentication: ‘NFS, SSH, UDP, FTP,
+
+Active Directory, ‘+ LUN, NFS, LVM, Ext4, XFS TFTP, TCP/IP, HTTP
++ Formation, Crontab LDAP, Okta + Monitoring and Logging Tools: Nagios, Network Scanning and
++ Scripting: Python, Bash Servers: PXE, DHCP, Apache, DNS, NFS, Packet
+
+FIP, * Splunk, Cloud Watch, Grafana, Prometheus Inspection: nmap,
+++ Documentation: Confluence, OneNote, TFTP, EC2 netstat, nslookup, tcpdump, route, ping, traceroute
+++ Google Docs Virtualization Technologies: VMware, ESXI
+++ Version Control Tools: GIT, GitHub, Git host, Virtual Box,
+
+‘wCenter, wSpere
+
+EXPERIENCE
+
+Ansible/Python Developer, 01/2022 - Current
+22Nd Century Technologies ~ New York, NY
+
+‘+ Recommended automation improvements to facilitate team and project workflow
+
++ Integrated object-oriented design and development techniques into projects to support usability goals
+
+‘+ Assessed code during testing stage to determine potential glitches and bugs
+
+‘+ Designed and migrated puppet middleware, scomdb, oracle, CCUUDSUI and ecom configurations to Ansible
+
+‘+ Hamessed version control tool - GitLab to coordinate project development and individual code submissions
+
+++ Deployed Ansible Automation Platform Hub and collaborated with System Engineers on integration with applications
+
+‘+ Automated high priority VMware/VSphere operational tasks for Hypervisor team in linux/windows environment
+
+‘+ Developed Agile methodology through staging and production phases.
+
+System Engineer, 02/2019 - 01/2022
+Bae Systems ~ Endicott, NY
+
+++ Provided direct application and user support for any technical issues triggered on RHEL 6, 7 servers
+
++ Proficiently managed documentation on Confluence while implementing patching and upgrading with RedHat Support
+
+‘+ Tuned, analyzed and monitored the performances of ESXi hosts for virtual machines
+
+‘+ Engineered Infrastructure automation that eliminated time consuming manval process deployment and configurations using Ansible
+
++ Install, configure, and manage Ansible Galaxy for automation
+
+‘+ Experience in integrating version control systems like Git Lab with Ansible Tower for continuous delivery of playbooks
+
+‘+ Managed and inspected docker repositories, images, repstries, and docker files
+
++ Improved developer workflow by Dockerizing monolithic apps into micro services with Dockercompose
+
+‘+ Used Terraform to build and launch AWS resources EC2, 83 storages, Routes3
+
++ Integrated and Configured Terraform Atlantis with Github Enterprise
+
++ Collaborated with teams on Cloud migration project with the goal to minimize the cost of bare metal resources,
+
+‘+ Worked with Cloud Watch for monitoring AWS resources including EC? instances by setting metrics and alerts
+
+‘+ Experienced in Python scrips to read and write from CSV files, make API calls to retrieve data ftom servers like AD, SQL and generate
+
+reports
+
+‘+ Used protocols like SCP, SFTP and FTP for transferring files over the network
+
+«+ Installed and configured Nagios to constantly monitor network bandwidth, memory usage, and hard drive status
+
+‘+ Deploying, configuring, and troubleshooting DHCP, FTP, TFTP, Apache, SSH, and NFS
+
+‘+ Handled full ledge lifecycles of sever deployment, provisioning, troubleshooting, and decommissioning
+
+‘+ Managed file systems and SAN by creating Logical Volumes, resizing logical volumes and volume groups
+
+‘+ Extensive performance analysis of the system using top, sar, vmstat, netstat and iostat to check the CPU utilization, bottlenecks of 10
+
+devices, memory usage and network traffic.
+
+Je. Linux Admin, 10/2017 - 01/2019
+‘Xandr— City, STATE
+
+‘+ Oversaw and maintained 1000+ servers including bare metal and VMWare ESXT
+
+‘+ Offered support and reduced service backlog by resolving daily tickets on ServiceNow
+
+++ Extensively worked on user management and resolved access issues
+
+‘+ Utilized RedHat Support and managed packages with YUM and RPM
+
+‘Optimized systems through performance and kernel tuning steps and troubleshoot panic issues
+
+‘+ Developed and scheduled python/bash scripts to automate everyday development as well as operational tasks with crontab
+
+‘+ Implemented Linux hardening using iptables, ficewall-cmd, TCP wrappers, ACLs on RedHat Linux servers
+
+‘+ Hands-on experience on multi-platform servers using Nagios tool, utilized ths tool to configure and monitor
+
+‘+ Monitored logs, including processes, crash and swap management, with password recovery and performance tuning
+
+‘+ Configure and troubleshoot SAN storage, LUN and LVM,
+
+Developer Intern, 09/2016 - 07/2017
+John Jay College Of Criminal Justice - City, STATE.
+
+‘+ Managed Dell PowerEdge 140 Tower servers and Cisco catalyst switches
+
+‘Set up Ubuntu 20.0 PXE boot server
+Configured and deployed on-premises Ubuntu OpenStack Micro-Cloud for users
+Provided Network configurations and troubleshooting
+Set up VPN for students to access cloud remotely
+Created and manged instances, users, policies and storages for student's coursework
+CCreate Python Flask inventory application to keep track of compute nodes and hardware
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Computer Science And Information Security
+(CUNY - John Jay College of Criminal Justice - New York, NY.
+‘Cum laude
+
+graduate
+
+AWS Certified Cloud Practitioner Google - IT Automation with Python
+
+ADDITIONAL INFORMATION
+
+‘+ PORTFOLIOS, PROFILES wwwlinkedin comin/Jessicabin

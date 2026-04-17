@@ -1,0 +1,144 @@
+Jessica CLAIRE
+
+“Montgomery Street, San Francisco, CA 94105 (555) 432-1000 « resumesamplesexample.com
+
+Professional Summary
+
+Enthusiastic Technician eager to contribute to team success through hard work, attention to detail and excellent organizational skills.
+
+Skills
++ Active Dizectory, Printer + Data recovery
++ Microsoft Exchange Server + Software diagnosis
++ Inventory control + Problem resolution
++ Desktop support «+ Hardware and software installation
++ Network printers/copiess «Technical Support
+
+Work History
+
+Information Technology Support Specialist, 01/2014 to Current
+Hersha Hospitality Management, Lp - Groton, CT
++ Proficient in Microsoft Administrative Tools such as Active Directory and DHCP
++ Administrated remote login and remote update systems
++ In charge of inventory for over Cellular Phones and MiFis. Ordered, setup and repaired as needed. Kept inventory and every 6
+months verified user assigned to it
++ Added new users coming in as new users by first setting them up in Exchange and putting them in correct location according to
+where users will be working. Next going in to Active Directory and first assigning them personal drive for their own use then
+assigning them to groups in location as assigned..
++ Added their account to ticketing system by importing them program. When employees were let go, I would remove them from
+this program
++ Removed users access to these groups when an employee left the agency
++ Added users to groups for remote access and set them up on how to use at home,
++ Enabled and Disabled sites as needed through Barracuda as needed
++ Restored lost or deleted data from Barracuda
++ Gave users access to Folders, Created Network Folders and Created Network Shared Calendars
+
+Network Support Administrator, 04/2013 to 07/2014
+Liberty Communications Of Puerto Rico Lle~ Luquillo, PR
+
++ Work closely with users training them on various software
+
++ Troubleshoot hardware, software, printer and copier issues
+
++ Replace hardware as needed as well as building new machines
+
+« Install, troubleshoot and fix software issues
+
++ Setup and maintain network printers and copiers
+
+‘+ Manage and serve as point of contact for various projects and technologies, including:
+
++ Microsoft's Active Directory, including multiple forests and child domains
+
+‘+ Microsoft Windows Server 2003/2008
+
+* Inventory control
+
++ FaxPress server setup, workstation installs and troubleshooting problems
+
++ Phone administrator, created extensions, voicemail resets, programming phones and setup
+
++ Administer VMWare environment
+
++ Administer Microsoft Exchange Server 2010,
+
+«Install and support various applications, such as Microsoft Office Q97/2000/XP/2003/2007/2010, Microsoft Exchange/Outlook,
+‘Trend Micro anti-virus, Cisco SSL VPN, PcAnywhere, Microsoft Windows XP/7, Rockwell, AutoCad, Teamviewer, Cisco
+Firewall, Barracuda Web Filter and Cisco Spam and Virus Blocker
+
+*# Keep track of software licensing
+
++ Create software install documentation for end users
+
++ Manage meetings, setup, video conference via Tandberg, WebEx
+
++ Implemented, developed and tested installation and update of file servers, print servers and application servers in all,
+departments
+
++ Resolved contlicts and negotiated mutually beneficial agreements between pasties
+
++ Made recommendations regarding information technology infrastructure overhauls
+
+Network Administrator, 02/2012 to 11/2012
+Agendia ~ Houston, TX
+
++ Administered Microsoft N/2000/2003 environment
+
++ Resolved helpdesk calls as that came into personal cellular phone
+
++ Used remote desktop to troubleshoot problems in remote locations around the East Coast
+
++ Repaired hardware, software and virus problems onsite and at other locations
+
++ Maintained computer inventory as well as print cartridge inventory
+
++ Troubleshot and repaired copiers and printers
+
++ Installed and supported Microsoft Windows 9x/ME/NT/2000/P/7
+
++ Installed and supported various applications, such as Microsoft fice 9x/ME/NT2000/XP/7, Microsoft Exchange/Outlook, Trend
+
+“Micro anti-virus, Cisco SSL VPN, PcAnywhere, Lotus Notes, AS400 and Microsoft Forefront
++ Trained users on all software used by the company
++ Assisted in configuring wireless network access point and maintaining wireless network
+
+Technology Technician, 09/2000 to 02/2012
+Maricopa Unified School District ~ Maricopa, AZ
+
++ Administered Microsoft NT/2000/2003 environment
+
++ Resolved helpdesk calls
+
++ Used remote desktop and remote administrator to troubleshoot problems at other schools
+
++ Repaired hardware, software and virus problems onsite supporting over 4000 computers
+
++ Maintained computer inventory as well as print cartridge inventory
+
++ Only printer/copier repair person for school system, troubleshot, repaired and replaced printers and copiers as needed
+
++ Installed and supported Microsoft Windows 9x/ME/NT/2000/XP
+
++ Installed and supported various applications, such as Microsoft Office 97/2000/XP 2003/2007, Microsoft Exchange/Outlook,
+
+‘Symantec Antivirus, AS400, Integrade Pro, Microsoft Front
+
++ Page, Adobe PageMaker, and many other software products used in over 40 labs throughout school district
+
++ Trained users on al software supported
+
++ Implementation of technology into educational setting to best meet state mandates for curriculum and network compatibility
+
++ Sole support person for all laptop repairs
+
++ Approve, review, research and test any new software products prior to being introduced into work environment for schools
+
++ Assisted in configuring wireless network access point and maintaining wireless network
+
++ Create and maintain desktop images via Ghost software
+
++ Coordinated and scheduled Information Technology training room
+
+Education
+
+High School Diploma: Computer Science, 1994
+Central Virginia Community College - Lynchburg, VA.

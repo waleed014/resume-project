@@ -1,0 +1,242 @@
+PROFESSIONAL
+
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© MontgomerCiae Steet, San Franclsco, CAS4105 XS (655) 492-1000
+4 resumesample@example com
+
+Knowedgeable SAP Consuttant with experience taking ounership of SAP solutions and elated sofware and
+services, Talented at managing legacClae statatons as well as spearheading new deplociaements. Keen
+to drve postive movements in revenue and business performance through direct oversight of al branded
+and related products
+
++ Performance Tuning “+ Databases: Oracle, D2, SAP HANA,
++ Servers expertise SClarebase, SAP Max0B, MSSQL
+
++ Sclavestem upgrages + ntastructure planning
+
++08: AX. Windows, Rea Hat Lnur, HP-UX ‘+ SAP HAWA, SAP Net weaver, SAP 12EE
+
+Solans, SLES + AWS, VL Ware
++ Reporting Tools: Tableau, Business Objects,
+
+Analiaretes Cloud, AnalCiaress for Ott,
+
+‘Business Explorer, Bex AnaCiarezer, HANA
+
+CCoekpt, Remedciatre, Service now
+
+SAP BASIS AND HANA ADMINISTRATOR 0720120 CURRENT
+‘ata Consultancy Services| Glen Mil, PA
+
+“+ SAP Ceres Consutant with 12+ Clarecars of ndustrClae Experience
+
+‘+ Achtected SAP soto ble prioming senplctClae, appropriate scale, esilencciare and
+‘mabnanabatcare.
+
+‘Traveled fo clent location to implement SAP solitons, and offered post-instataton suppor senices.
+
+‘Operated within several environments such as IBM AK, Linux AfntCare and others
+
+HANA SPS and evsion upgrades.
+
+gh AvaiabiCiare and Disaster recoverCate setup for HANA database
+
+AWA DLM acts for data archiving
+
+Integrated manctare sClarestems wth HANA using SOASOISLT technologies
+
+‘SAP BW NLS design and implementation for data archiving
+
+‘+ Designed and implemented SAP AnalCiaretis Clu solston
+
++ Integraton of AnaClaietic cloud tenant wth on premise dala sources (SAP BPC, SAP BW,SAP HANA..)
+through Le(OIRECT/PATHITUNNEL) connection and impor datarAcqure connections.
+
+Instataton of SAP AnalClaretics Cloud agent and cloud connector
+
+‘SAM SSO integration bw SAP ABAPISAP HANA and OKTA
+
+‘SAM SSO integration bw SAC and OKTA
+
+!Wigratn of on-premise SAP appicatons to vitual oud environment
+
+RR Server instalation ana configuration
+
+Info Burst toot instalation, upgrade and administration actviies
+
+‘BORBODS intaatons and upgrades
+
+‘Admnsrate one cloud witual machines via portal
+
+‘Experience in SAP istalatons, SAP Upgrades, SAP SClalrestem retreshes, Cloning, Enhancement
+
+‘ack upgrades, SClarestem CopCiaie of Homogenous sClarestems and Kernel upgrades on SAP
+
+‘SClavestems,
+
+Enhancement Pack Upgrades
+
+‘Oracle Database upgrades
+
+Database Aamiistration Actives
+
+‘Cognes istataton and post actives
+
+Design of Vertex -Seres component
+
+\erte-c-senesIstlaton and Patching
+
+‘SLT server instalation and upgrades
+
+Implementation and Administation of Net Weaver 2004, 2004/7 0/7 01/72/7374 5
+
+Implementea 8 fulife cClareces
+
+Performance turing on SAP ABAP. SAP JAVA, SAP RANA sCiarestems
+
+Experts in User Administration, Background Jobs Management nd Transport Management
+
+‘SClaestem
+
+“+ EvlenswvelClake worked on Clent Administration Actes
+
+“+ Proicent in J2EE Adminstration, sClarestem retteshes, 1Co connections and troubleshooting,
+
+“+ Profound knowledge and nands on Experience in al areas of user management ike creating pros,
+{ales and aunorzations
+
+“+ Extensive experience in al administration acts including BR Tools and SAPDBA
+
+‘+ Experienced in table pariioning and index Rebuicing
+
+“+ Understanaing customer engagement model. experienced in performing the role of an onsite
+coordinator vith support rom offshore team & abutClare to manage customer interaction a areas of
+elverables and user acceptance tests
+
+“+ Work ettectveiclae in team envionment, providing knowledge transter as needed,
+
+“+ Excelent communication and interpersonal tas
+
+“+ Worked on 24x7 projects in Production Support Envronment
+
+“+ Extensive experience in Change Control Management and Documentation for validated SAP
+sCiaestem,
+
+‘+ Excelent team member with good communication, anaiCaretcal,and problem-solving skits
+
+‘SAO BASIS CONSULTANT 062011 19 0772012
+Accenture Contractor Jobs | Colchester, VT
+
+‘Recommended nardvare sing, instalation and configuration plans.
+
+Performed root cause anaClavest on technical sues and developed effective resolution,
+
+Reviewed ternal specications of delverables and ceconmended provements
+
+‘Operated within several envionments such as IBM AK, Linux AftCare and others.
+
+‘Sa technical eam member handled implementations, Upgrades, Perfomance Troubleshooting,
+
+‘SClaestem Copies, Sluton Manager Aer and Montening, CTS+ and regular Basis support actviles
+
+“+ Support HP Service Guard trom Basis end and provided KeClae pons in designing High
+‘Avalabl{Clare of entre production and pre-production landscape.
+
+‘+ Implemented CTS¢ fr SAP components Pi, EP, CE, Bl, MOM and Data Services,
+
+‘+ Prepared and successtulCiare tested Operational Readiness Technical Testing before Go-Lve
+
+“+ Implementea Go- Le Checks and TIC Recommendations
+
+“+ ntated ana supported SAP Data Services 40 version. Has verClare good experience in administering
+‘eal time jobs and scheduler jobs, integration wth CE
+
+‘+ Sclarestem CopCiaire of ERP and Net weaver sCiarestems
+Providing Root Cause AnalClaitess fr cra ssues to cent
+
+‘xtenswveliae worked on integration and administration aches
+
+‘Experienced in MOM administration and upgrade aces
+
+Instalea SAP proauctivtclae pack on ECC sClarestems
+
+\Wiorking with SAP Development team for ssues in SAP sClaestems
+
+Uaie wth KeClave stakeholders and internal Controls tough proect and business to obtain
+
+‘equrements and transate these nt technical components to be dlvered
+
+‘Wrong with ra patie vendors and managing tasks fr smooth ow
+
+“+ Represented in cent meetings for Change aces, infrastructure Outage & Maintenance planing
+calendar
+
++ Kooieage Transfer to ofshore team which includes documentation for nedent logging, montoring and
+cial issues
+
+“+ acpate in various assessments, revews on SAP production readiness actives ike Instation!
+‘Configuration and Landscape documentation
+
+‘SELIOR SCLAIRESTEMS ENGINEER 0112009 10 0572011
+(Cox Automotive | Trenton, OH
+
+‘SAP SClakestem Retresnes
+
+‘SAP Suppor pack upgrades
+
+‘rouble shooting nstaation related problems
+
+‘Adminstration of Background Jobs and Spool maintenance
+“Tuning of ZEE Engine
+
+Performing postinstaaton activites
+
+Process integration administration actvibes
+
+Activating Required BC sets
+
+‘Configuring SLO and Maintaining Sclaestems
+
+‘Backup planing and contguratons
+
+User and role Administration activites
+
+Configuration of Sage Sign on betveen portland ABAP sCiarestems
+Performance mentoring ans tuning
+
+Providing Root Cause AnaiClairess fr crical ssues to cent
+‘Adminstration of JAVA using Teint
+
+‘AppCiareing JAVA teense using NWA
+
+eme! Upgrades
+
+‘Trouble shooting backup related issues
+
+Problem anaClaes's and voubleshootng
+
+‘Configured Transport Management SClarestem
+‘Adminstration of SAP database using SAPOBA
+
+Proving ena to end Suppor for end user
+
++ Contguring SAP Router
+
+‘Bachelor of Technologciaie | Electrons And Communication Engineering 0372008
+AcharClairea Nagarjuna Universitaire , Guntur
+
+“+ Microsoft Centned: AZURE for SAP Workioads Speciatciare
+“+ lerosof Certied: AZURE Fundamentats
+“+ SAP Certied TechnologClare Associate
+“+ IBM Certified Database Associate:0B2 9 Fundamentals

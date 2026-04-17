@@ -1,0 +1,113 @@
+Jasmine Bell
+Sql Developer
+
+(363) jasmine.bell@hotmail.com false-reputation.net
+Huelsview, Aruba
+
+SUMMARY
+
+Experienced SQL Developer with a passion for problem-solving and attention
+to detail. With a Bachelor of Science degree in Computer Science and a strong
+background in Microsoft SQL, ETL, and data migration, | have successfully
+delivered optimized data solutions resulting in improved efficiency and
+seamless transitions. | am excited about the opportunity to contribute my
+skills and collaborate with your team to drive data-driven insights and ensure
+data integrity. My proudest achievements include implementing an automated
+reporting system and leading a successful cross-functional data migration
+project. Let's leverage technology to fuel success together.
+
+EXPERIENCE
+SQL Developer 2022 - Ongoing
+ABC Financial Services North
+
+Developed and maintained SQL queries and stored procedures for data extraction
+
+and analysis, resulting in improved reporting capabilities.
+
+* Optimized database performance by identifying and resolving performance
+bottlenecks, resulting in a 30% reduction in query execution time.
+
+* Collaborated with cross-functional teams to design, develop, and deploy ETL
+processes, enabling efficient data integration.
+
+* Implemented automated data quality checks, reducing data discrepancies by
+20% and improving data accuracy.
+
+SQL Developer 2017 - 2022
+
+XYZ Investments North
+
+Managed large-scale data migration projects, ensuring seamless transition and
+
+minimal impact on business operations.
+
+* Analyzed and cleansed data from various sources, resulting in a successful
+migration of 1TB of data.
+
+* Developed data migration scripts and validation procedures, ensuring data
+integrity and consistency.
+
+* Collaborated with stakeholders to define data mapping requirements and
+resolved data discrepancies, resulting in accurate data migration.
+
+Technical Analyst 2015 - 2017
+
+DEF Consulting North
+
+Provided technical expertise and support for SQL database systems, ensuring
+
+optimal performance and availability.
+
+* Implemented database security measures, including authentication and
+authorization mechanisms, ensuring data confidentiality.
+
+* Performed regular database maintenance tasks, such as backups, index
+optimizations, and performance tuning, improving system stability.
+
+* Troubleshot and resolved database-related issues, resulting in a 20% reduction in
+system downtime.
+
+Powered by (CX? Enhancu
+
+www.enhancv.com
+
+MY LIFE PHILOSOPHY
+
+Success is not the key to
+happiness. Happine: he key
+to success. If you love what you
+do, you will be successful.
+
+STRENGTHS
+
+% Problem Solving
+
+| excel in analyzing complex
+issues and devising innovative
+solutions resulting in increased
+efficiency and productivity.
+
+Attention to Detail
+
+With a keen eye for detail, |
+ensure accuracy and precision
+in all my work, minimizing errors
+and improving data quality.
+
+Collaboration
+
+| thrive in collaborative
+environments, fostering
+teamwork and effective
+communication to achieve
+shared goals.
+
+SKILLS
+
+Microsoft SQL- ETL -
+
+Datawarehouse -
+Database Administration -
+Data Migration - Data Analysis -
+
+Query Optimization - Data Modeling

@@ -1,0 +1,78 @@
+MELVIN HETTINGER
+
+276 Stiedemann Club, Chicago, IL + +1 (555) 449 1216,
+
+‘WORK EXPERIENCE
+
+SENIOR FUNCTIONAL CONSULTANT (04/2016 - PRESENT
+Boston, MA
+‘+ Creating precise documentation of prioritized functional requirements that can be signed off by the client and directly be converted to test
+
+plans. Liaise with FICO’s technical resource to assist them in delivery of the technical specification
+‘+ Configuration of the FICO products using the appropriate application or 3rd party tooling as required.
++ Ensuring completion of high-quality deliverables within time-constraints
++ Career Gap Analysis
+‘+ Assist the business users defining the business requirements and prepare Functional Design Documents (FDD's)
+‘+ Work with AX Technical team members and assist them with Technical Design Document (TDD’s)
+‘+ Experience with NetSuite Implementation projects ~ as part of project team
+
+FUNCTIONAL CONSULTANT 04/2012 - 02/2016
+Phoenix, AZ
+
++ Knowledge of NetSuite Implementation Methodology, Deliverables
+
++ Act asa user advocate to ensure overall system usability and adoption
+
++ Assist with the integration activities for M&A
+
+‘+ Support Purchasing and Receiving modules
+
++ Need to have 5+ years of Oracle Mfg experience
+
++ Functional Consultant for Core Banking Implementation or Managed Service projects
+
+‘+ Excellent communication skills, client handling skills,
+
+‘+ Relevant fraud experience in the detection, identification, investigation or management of fraud related events
+
+‘+ Customer service or client facing roles within financial services, automotive lending, telecommunications, insurance and/or
+
+government/public sector
+
+WORKDAY FUNCTIONAL CONSULTANT, 09/2009 - 10/2011
+Dallas, TX
+
+‘+ Demonstrates critical/analytical thinking and demonstrates attention to detail
+
++ Intermediate/expert knowledge of eredit adjudication processing, policies and best practices
+
++ Intermediate knowledge of AML and FINTRAC
+
++ Knowledge of fraud case management systems
+
++ Knowledge of industry fraud specific identification platforms
+
+‘+ Travel flexibility required (US & Canada)
+
++ Project delivery methodology skills
+
+EDUCATION
+
+EVEREST UNIVERSITY - ORLANDO CAMPUS 2005 - 2009,
+Bachelor's Degree in Business
+
+PROFESSIONAL SKILLS.
+
+‘+ Project management experience and analytical skills and specifically issue triage and management skills
++ Strong communication, leadership, interpersonal, influencing and cross-functional teamwork skills
+
+‘+ Optional notable skills would include experience in integrating 3rd party control suites with Dynamics - AX
+
+‘+ Experience in EBS R12 and 11i technical configurations, patching, and upgrade, and possesses Apps DBA skills
+‘+ Strong functional skills in CRM and CS with at least 2 end to end implementations
+
+‘+ Strong analytical and issue resolution skills
+
+‘+ Advanced SQL experience combined with good E
+
+‘and UAT skills

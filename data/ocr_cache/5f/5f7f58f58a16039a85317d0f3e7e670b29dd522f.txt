@@ -1,0 +1,107 @@
+© Personal Info
+@ 410-279-0218
+
+© jesszackowitz@gmaitcom
+© vevujesszackowit.com
+
+© Soft Skills
+
+Interpersonal Skills
+
+Collaboration
+
+Critical Thinking
+
+© Hard Skills
+
+Programming,
+
+Server Management
+
+Security
+
+Continuous Deployment
+
+Unix/Linux.
+
+Puppet, Jenkins, Zabbix
+
+AWS, Cisco
+
+Python, GIT
+
+Expert
+
+‘Advanced
+
+Exper
+
+Advances
+
+‘Advanced
+
+Jessica Zackowitz
+
+DevOps Engineer
+
+‘Versatile DevOps manager with 6 years’ experience. Seeking to leverage proven continuous
+deployment skills to raise quality at Google. Cut customer complaints by 50% for an SaaS
+application. At Selinac Inc, used Jenkins and AWS tools to cut release times by 20%. Boosted
+customer satisfaction by 258
+
+* Experience
+
+201507-  DevOps Manager
+2018-08 ——_Frostacre Global
++ Led Agile eam of 5 developers, 2 SysAdmins to continuous deployment of S3a5
+eal estate solution with 1 millons users. Collaborated with C-Suite and sales
+teams.
++ Maintained network of 30+ Unix servers with 98.3 uptime.
++ Transitioned to GIT version control and pair programming to raise speed 30%.
++ Wrote scripts to automate security upgrades. Cut vulnerabilities by 20%.
+Used Puppet and Zabbix to boost quality, cutting customer complaints by 50%.
+
+2013:05-  DevOps Engineer
+2015-06 Shelinac Systems, Inc
++ Set up and managed 40 Linux servers with 9.95% uptime.
++ Managed continuous deployment ofa popular Saas stock tracking too
++ Deployed 2 software iterations per month for 2 years, Increased customer
+satisfaction with software by 25%. Presided over a period of 30% revenue
+growth,
+Used Jenkins and AWS tools to cut release times by 20%.
+
+201206- System Administrator
+2013-05 Litman Analytics
++ SeLup and managed 18 Windows 2008 servers.
++ Wrote seripts to automatically update sjstem components
++ cut company costs 20% through aggressive vendor management
++ Assisted with refining the Software Development Life Cycle to itsystem needs.
+
+* Education
+2008- BS in Computer Science, University of Michigan
+2012 + Pursued a passion for programming and network management.
+
++ 8celled in security classes.
++ President, 314 Action STEM Organization
+
+* Additional Activities
+
++ Member, DevOps Agile Sls Association.
+
++ Volunteer as DevOps for Berth County Animal Shetter.
+
++ Manage continuous deployment of fundraising app for Maple Street Soup
+Kitchen
+
++ Run half marathons to stay in shape,
+
+© Certifications
+‘AWS Certified DevOps Engineer
+‘AWS Certified SysOps Administrator
+© Conferences
+2017 DevOps Days, Spoke on a panel about serverless networks
+2015, Chefconf
+© Publications
+2017 ‘Article on containers appeared in “The Agile Admin”
+
+2016 Article on monitoring best practices appeared in "DevOpsGuys"

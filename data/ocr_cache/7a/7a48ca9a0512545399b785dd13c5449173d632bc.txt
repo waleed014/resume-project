@@ -1,0 +1,59 @@
+Robert Smith Soe SRE
+
+Email: inin@qiekresune.com
+Website : yvay.ayikresume, com,
+
+SQL Server Developer Linkedin: linkedin.corn/qwikresurne
+‘Address: 1737 Marshville Road, Alabarna
+
+SUMMARY
+
+SQL Server Developer with over 4 plus years of experience in Design, Development & Analysis of
+SOL Server and SOL server Business inteligence ‘Tools (BIDS) - SSIs, SSRS, and SSA. Experience
+with Installing, Configuring, Managing, Upgrading, Migrating, Monitoring and Troubleshooting SQL.
+Server Developrnent and Administration experience in Database Design and Implementation oF
+LTP and OLAP environment using SOL server.
+
+SKILLS
+
+Relational Databases SOL Server Oracle Ms Access, MS Excel, DB2, Sybase. Tools And Packages
+SQL Server Management Studio, Enterprise Manager, Profler, SSIS, SSRS, SSAS, Erwin, DTS,
+
+WORK EXPERIENCE
+
+SQL Server Developer
+ABC Corp - January 2016 - Present
+Designing and implementing the snapshots report report subscription, data-driven
+subscription and report caching using report manager.
+Generating SSRS reports Which included various fepotting features such as groups, sub-
+groups, adjacent-qroups, group by total, group by sub-total, grand.totals,dri- downs, dll
+through, sub-reports, navigation reports
+Creating parameterized reports lke standard parameter reports, cascading parameter reports
+which consist of report criteria in various reports to make minimize the report execution time
+and to limit the no of records required
+Creating the linked reports, ad-hoc reports based on the requitement, Linked reports are
+Created in the report server to reduce the repetition in the reports
+Creating the subscriptions to provide reports on a dolly/weekiyimonthly/quarterty and annual
+basis
+Creating stored procedures to validate the data coming with different data discrepancies
+using data conversions
+Creating sub-reports, bar chart; mattx reports, parameterized reports, cross-tab report, dil
+down reports &amp; summary reports for newly created markets
+
+SQL Server Developer
+ABC Corp - 2014 - 2016
+Successfully deployed reports in various Sources like XML. web browser and pelt
+Designed and developed the micro-strategy schema abjects like attributes, facts, and
+hierarchies using micra strategy architect
+Extensively worked in developing metrics, derived metrics, compound metrics and fiters for
+complex reports
+Created logical views in micro-strategy for complex report creation scenarios
+Designed and coded the database tables to store application data,
+Worked with application developers to create optimized stored procedures
+Identified and created the indexes to improve database performance
+
+EDUCATION
+
+Bachelor oF Technology in Computer Science &amp; Engineering - 2013 (University OF Kerala )
+
+(© This Fete Resins Template the copilgh of Qwikenume ccm, Uaage Gildines

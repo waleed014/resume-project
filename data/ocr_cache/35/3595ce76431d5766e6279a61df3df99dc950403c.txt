@@ -1,0 +1,58 @@
+FIRST LAST
+
+Bay Area, California - +1-234-456-789 - professionalemail@resumeworded.com : linkedin.com/in/username
+
+Business analyst with five years of experience designing and optimizing [e.g. business processes].
+Led teams of 5-15 people across technology, data science, business and design departments.
+
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY 2017 — Present
+Business Analyst
+e Managed user engagement analytics strategy, providing first insight into how users interact
+with our apps on their tablets and mobile devices
+e Analyzed company's 24-month sales results to develop five-year monthly projections by
+revenue and customer type
+e Reduced development costs by 25 percent by creating a plan to merge related products into
+one, more streamlined product.
+e Oversaw integration of an external technology solution by leading 5 developers and 9 testers
+from two companies, resulting in an additional $1MM of sales.
+e Developed an Excel macro and standardized reporting templates, resulting in efficient data
+collection and a 35% reduction in turnaround time.
+
+Growthsi, San Diego, CA 2015 - 2017
+Business Analyst (2016 - 2017)
+e Promoted within 18 months due to strong performance and organizational impact (one year
+ahead of schedule)
+e Facilitated three design thinking workshops for end users to identify use cases and develop
+business requirements
+
+Junior Business Analyst (2015 - 2016)
+
+e Authored business requirements document for proprietary software application: led
+requirements elicitation sessions (including requirements analysis), solution assessment and
+validation, use cases and interface/functionality mock-ups
+
+e Interviewed business clients to analyze their business requirements and recommend and
+design technological improvements to their business processes and operational procedures.
+
+Rofocus, New York, NY 2012 - 2014
+Marketing Business Analyst
+e Managed redevelopment of internal tracking system in use by 125 employees, resulting in 20+
+new features, reduction of 20% in save/load time and 15% operation time.
+e Designed and optimized digital marketing campaign on Google AdWords; led to 20%
+increase in ROI
+e Tip to jobseeker: Bullet points should be in format [Action Verb] [Accomplishment] [Metric];
+e.g. Developed x that led to y% improvement
+
+EDUCATION
+
+Resume Worded University, San Francisco, CA 2015
+Master of Engineering; Major in Business Analytics
+
+SKILLS
+e SQL « Scrum « Software e Tableau
+e Microsoft Access « Agile Project Development Life e Business
+e User Acceptance Management Cycle (SDLC) Intelligence (BI)
+
+Testing « Business Analysis e PRINCE2 e Python

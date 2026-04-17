@@ -1,0 +1,53 @@
+NETWORK ENGINEER RESUME
+
+189 Main Street, Pampa, TX 79065 | (806) 625-9669 | your.name@gmail.com
+
+‘Network Engineer with 6+ years of experience in network design, escalation support, network administration, and systems
+administration. Skilled in delivering technical support, managing network operations, and maintaining enterprise-wide
+area networks across multi-platform and high-uptime Data Center environments.
+
+PROFESSIONAL EXPERIENCE
+
+Network Engineer Pampa, TX
+Pampa Regional Medical Center September 2020-Present
+‘+ Oversaw the design, installation, and management of organization-wide local area network, wide area
+network, network segment, and internet system
+‘+ Optimize network performance and reliability by maintaining hardware and software, analyzing
+technical issues, and ensuring availability to system users
+‘+ Implement effective security measures to protect data, software, and hardware
+‘+ Deliver Tier 1 network ticketing support to resolve all issues for 500+ users
+
+‘+ Execute the maintenance window changes for multiple locations, performing troubleshor
+routing and switching issues
+
+g of
+
+Network Engineer Pampa, TX
+Sharp Solutions Inc. June 2017-August 2020
+‘+ Applied routing changes including BGP, OSPF, RIP, PIM, and EIGRP, which improved
+network/system performance by 40%
+‘+ Maintained seamless end-to-end communication by delivering support for Video Conferencing
+Systems (Cisco VCS/TMS)
+‘+ Designed, configured, and installed all Data Center Network Devices to support 1000+ users,
+including ran cables, ports, routers, switches, load balancers, and VPNs
+‘+ Effectively resolved routing issues within multiple contexts of the Cisco ASA firewall
+‘+ Detected 20+ network vulnerabilities by testing infrastructure security and tracking potential threats
+
+to the network
+EDUCATION
+
+Bachelor of Science in Computer Engineering Canyon, TX
+West Texas A&M University May 2017
+CERTIFICATION
+
+Cisco Certified Network Professional (CCNP), Cisco (2022
+Cisco Certified Design Professional (CCDP), Cisco (2021
+Cisco Certified Network Associate (CCNA), Cisco (2023
+
+ADDITIONAL SKILLS
+
+* Network Hardware: Inside Wiring, Cat53 cables, Wireless Devices, ABS, CBS
+
+* Network Technologies: Cisco Routers, Switches, Ethernet, Fast Ethernet, WAN, LAN, TCP/IP, CDP, RIP,
+RIPv2, Access Control List (ACL), Network Address Translation (NAT), Port Address Translation (PAT), ATM,
+CPON, MPLS, Multicast, GRE, VPN, Wireshark

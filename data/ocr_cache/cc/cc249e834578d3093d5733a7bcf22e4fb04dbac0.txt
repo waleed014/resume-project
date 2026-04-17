@@ -1,0 +1,34 @@
+fetchr
+
+DevOps Engineer
+Roles in Delhi of Coimbatore or Amman/Jordan, Dubs, Nigeria
+
+Job Description
+
+‘Are you someone who automates everthing in le Feet, looking for DevOps Engine to
+‘esi, develop andautomate ou inrastrotre. You wil be responsible for bul,
+‘eployieg, and supporting our enters application sences and systems ars various
+‘machine ifastutures (ke Bare metal, Amazon AWS, GCE, Rackspace ee).
+
+Aesponsibtes:
+‘Architect and implement the inastcture for bling, esting deploying ung, and
+troubleshooting production, staging and development systems
+‘Abily tous the best tol or he best ned nthe etal ofan application
+architecture, awareness wth tools and always looking for new and compare between
+‘ferent sence rslatons
+‘Advise the development team on best practices throughout the design process of ther
+pplication, to ensure that they canbe delivered to manageable ae hgh avaliable
+production environments.
+1 Designandimanage ur monitong/perfomance analyss/leting systems
+Required Skis (Must to have)
+
+1 5+ yearof elevant work experince: evOps/infaxtuctre, Test Automaton, Systems
+Administration, andor Development
+1 Experience woking with any of moder intastuture operations and automation tot
+Cloud nrastrctre (e.g: AWS(EC2, 53, et. , Google Cloud, Rackspace, Openstaek,
+nape )
+Cluster Contguaion and Automating tol eg: Arse, Salistack, Chet, Puppet)
+Continuous iteration and esting (eek, Tras), Continous Deployment.
+Strong Knowtedge of UN operating Stems:
+Process limits
+Netrking / HTTP

@@ -1,0 +1,121 @@
+info@resumekraft.com
+
+Skills
+
+© Operating System : Linux,
+Windows 7/10
+
+© Languages Known : TCL,
+Python, Basics of C
+
+© Protocols Known : RIP, OSPF,
+STP, DHCP
+
+* Tools : Jenkins, Jira, Seibel,
+Usage of GIT-GERRIT
+
+© Traffic Generator : IX Network
+
+Experience
+
+Senior Test Engineer
+
+Tata Technologies
+
+Sep 2016 - Mar 2020
+
+Worked with two major telecom
+Clients earning accolades for
+providing best test results
+
+Languages
+
+English eoecoce0o
+French e@eeeod
+Arabic eeeood
+
+Education
+
+B.E - Electronics &
+Communication Engineering
+NewYork.Engineering College
+Sep 2012 - May 2016
+Graduated in 2016 in First
+
+class with Destinction : 8.5 CGPA
+
+Certification
+
+Principles of Modern CDMA/
+MIMO/ OFDM Wireless
+Communications
+
+NPTEL 2075-09-06
+
+Cameron Bond
+
+SENIOR TEST ENGINEER
+
+Q 9 in
+
++1-202-555-0114 — Chicago, Illinois, US linkedin.com/in/cameron
+
+Professional Summary
+
+Self-driven software test engineer with 3.5 years of experience in an agile
+development environment in Manual, Automation and Regression testing
+
+of networking devices; switches & routers.
+
+Possess good knowledge in Protocols like STP, RIP, OSPF, MPLS, DHCP, VLAN, TCP
+& 4G LTE architecture
+
+Automated testcases in TCL and Python
+
+Projects
+
+Accenture
+Senior Test Engineer Mar 2078 - Mar 2020
+® Ericsson is a multinational networking and telecommunications company
+which offers services, software and infrastructure in information and
+communications technology for telecommunications operators, traditional
+telecommunications and Internet Protocol (IP) networking equipment, mobile
+and fixed broadband, cable television, IPTV, and an extensive services
+operation.
+© Worked on testing the software for the Ericsson Router used in the 4G LTE
+Environment.
+® Testing the Fabric Access Processor Alarm for excess traffic and migration of
+static to dynamic context id in Inter-chassis Redundancy scenario.
+
+® Configuration of ACLs and BFD for the device under test which is simulated
+with SGW and PGW functionality of 4 LTE environment.
+
+© Simulating traffic end-to-end using IX network (which has OSPF and BGP for
+routing and GTP for encapsulation) and testing device under test for proper
+communication with no loss of data.
+
+© Modification of Perl/Python scripts according to requirement in ARTS
+framework and Committing the script using Git-Gerrit review process
+
+© Involved in testing for System Integration and System Verification cycles and
+Performing Regression for many releases to the different customers.
+
+© Reporting Critical release blocker bugs, extending support for the fix and
+closure of the same
+
+Alcatel Lucent OS
+Project Engineer Dec 2076 - Feb 2018
+© Alcatel-Lucent Enterprise offers communications, networking, and cloud
+solutions; and applications and unified communications, campus access
+switches, campus LAN core switches, data center switches, phones and
+software clients, routers, security and BYOD network services, wireless
+products for small and medium businesses.
+© Worked on testing the software developed on the core and edge switches.
+© Bringing up test environment on L2/L3 switches with initial configuration
+& performing sanity checks.
+
+® Automation of Customer TCs in TCL scipting language on MATI tool and
+performing Regression.
+
+© Manual testing of Delayed bootup feature in Power over Ethernet in CLI,
+Webview and SNMP

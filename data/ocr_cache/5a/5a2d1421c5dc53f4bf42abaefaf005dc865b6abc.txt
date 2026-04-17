@@ -1,0 +1,103 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PRoFmE
+
+Innovative engineer with over 29 years at Alcatel-Lucent Inc. (formerly Lucent Technologies and AT&T Bell Labs) in software development,
+quality assurance, project management, network integration & deployment support, professional services, and technical lead / management
+experience for new software / hardware telecommunications products. Strong strategic thinker and team leader. Ability to adapt quickly and
+effectively to new situations and challenges. The expertise needed and the desire wanted.
+
+Core Quatiricattons
+
+«© SDLC Engineer with over 26 years of expertise in software # Technical Lead with over 8 years of leading software
+design, programming, and verification development teams for medium to large scaled
+© Software Quality Assurance Engineer with over 15 years of telecommunication switching projects.
+software / hardware verification / validation expertise under ISO» Web Designer with over 10 years of web design services
+9001, Bellcore, and ANSI standards and quality management expertise for small businesses and non-profits
+systems, « Professional Services Engineer with over 3 years of method and
+
+« Project Manager with over three years of expertise of large scale procedures expertise for wireless products.
+telecommunication projects
+
+PRoFEssIONAL EXPERIENCE
+
+09/1985 to Current Software Design Life Cycle Engineer / Developer (Lead)
+Ecs Federal — Washington, DC
+
++ C, C++, UNIX Shell, Perl, CSS, and PHP software design and development for real time, embedded
+telecommunication systems and support processes
+
+‘* Designed and documented software requirements based on customer product teams and Bellcore and ISO standard
+documents.
+
+‘* Designed ISO 9001 qualified process called Apt for the department's quality management system.
+
+‘+ Enhanced the ISO 9001 compliant Quick Document Interface (QDI) document control that included the conversion
+ofa perl based QDI's web interface to PHP 5.
+
+‘+ Technical lead for software / hardware design teams of 5 to 50 software / hardware developers for the introduction
+of 15 new features for 7 customers.
+
+09/1985 to Current Software / Hardware Quality Assurance Engineer (Lead)
+Alcatell-Lucent — City, STATE.
+
++ Executed developer testing, integration testing, system testing, performance testing, stress testing, regression
+testing, and conformance / compliance testing of large (750,000 NCL) software and hardware electronic
+telecommunication switching systems
+
+‘* Designed and implemented a propriety testing system that encompassed 10,000 test cases in the quality assurance
+of software / hardware telecommunication switching systems that improved quality by 31% over 3 years and
+reduced release cycles by 13%.
+
+‘* Member of the quality assurance team that first met the 99.9999% call throughput for any electronic switching
+system in the North America region.
+
+‘* Release engineer responsible for customer software / hardware quality gate acceptance.
+
+‘* Technical Lead for a quality assurance team responsible for 27 concurrent releases of software to both wireless and
+wirelined customers.
+
+09/1985 to Current Project Manager
+Alcatel-Lucent — City, STATE
+‘* Managed multiple location product and development team for an IP based connection gateway product.
++ Interfaced with customer, product team, development team, and the management teams to develop, maintain, and
+convey a release schedule to meet market needs.
+‘© Technically managed all aspects of development life cycle of product from requirements to verification,
+«Single point of contact for management team and development team to coordinate completion of project.
+‘* Developed project plan and coordinated with team members (25 - 30 personnel) to execute it
+
+2004 to Current Owner - Web Design Services
+INTER-connected Web Designs, Ltd — City, STATE.
++ Provide web site design solutions to the small business market.
++ Provide web design services targeted at the small business / start-up business market.
+‘* End to end responsibility of company including, marketing, sales, accounting, customer relations, and customer
+web site services development and maintenance.
+
+Epucation
+
+‘Master of Science: Computer Science
+Case Western Reserve University - Cleveland, OH
+3.6/4.0 GPA.
+
+Bachelor of Science: Computer Information System
+DeVry University - Columbus, OH
+
+3.96 / 4.00 GPA
+
+Trcunicat Sxnis
+
+C&CH Expert 26 2013,
+‘UNIX / Linux Shell Programming Advanced 15 Current
+‘Web Design - HMTL, CSS, Javascript, Java, & Intermediate 10 Current
+PHP
+
+Sms
+
+Breadth and depth knowledge of all aspects of the software development life cycle through direct involvement of all stages, software
+hardware quality assurance of medium / large telecommunications switching systems that were first to achieve the 99.9999% call throughput
+rating in North America, adaptive to new roles with a very short leaming curve - quick productivity, Technical Lead and Project Manager for
+large scaled project, ISO 9000 & 9001 quality management system developer, C, C+, Perl, UNIX, Linux, Shell Programming, PHP,
+Javascript, JAVA, CSS, HTML, Photoshop, Solaris, SS7, Wireless, Professional Services,

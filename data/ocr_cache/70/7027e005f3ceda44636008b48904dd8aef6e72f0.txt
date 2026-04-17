@@ -1,0 +1,110 @@
+TAYLOR FOSTER
+Senior Azure DevOps Engineer
+
+johndoe@email.com San Francisco, CA
+
+SUMMARY
+
+Passionate and experienced Senior Azure DevOps Engineer with a strong
+background in cloud native technologies and infrastructure automation. Skilled
+in coaching, guiding, and leading change to remove impediments and enable
+business objectives. Proven ability to solve complex problems and mentor
+team members to promote growth and minimize technical debt.
+
+EXPERIENCE
+Senior Azure DevOps Engineer 2019 - 2022
+ABC Consulting San Francisco, CA
+
+Delivered cloud-based solutions for multiple clients, resulting in an average 30%
+
+reduction in deployment time and cost. Led the adoption of DevOps best practices,
+
+resulting in improved collaboration and faster time to market. Developed and
+
+implemented Infrastructure as Code using Terraform and Ansible to improve
+
+scalability and reliability.
+
+* Implemented Kubernetes clusters on Azure and AWS, resulting in improved
+scalability and reduced infrastructure costs.
+
+* Developed and maintained CI/CD pipelines using Azure DevOps and GitLab,
+resulting in faster and more reliable deployments.
+
+* Designed and implemented monitoring and alerting solutions using Prometheus,
+Elasticsearch, and Grafana, resulting in improved observability and reduced
+downtime.
+
+DevOps Engineer 2017 - 2018
+XYZ Healthcare New York, NY
+
+Improved infrastructure automation using Chef and Puppet, resulting in a 40%
+
+reduction in deployment time and increased reliability. Led the adoption of
+
+containerization using Docker and Kubernetes, resulting in improved scalability and
+
+reduced infrastructure costs. Mentored team members on CI/CD best practices and
+
+Git workflows.
+
+* Designed and implemented a Disaster Recovery plan using Azure Site Recovery,
+resulting in improved business continuity.
+
+* Developed and maintained Infrastructure as Code using Terraform, Ansible, Chef,
+and Puppet, resulting in improved reliability and scalability.
+
+* Implemented Git workflows and trained team members on CI/CD best practices,
+resulting in faster and more reliable deployments.
+
+Powered by (CX? Enhancu www.enhancv.com
+
+STRENGTHS
+
+@ Process Optimization
+
+Reduced build times by 30% by
+optimizing Cl/CD pipelines
+
+@ Team Collaboration
+
+Improved team communication
+and collaboration resulting in
+successful project delivery
+
+Problem Solving
+
+Identified and resolved complex
+infrastructure issues for critical
+applications
+
+SKILLS
+
+Jenkins - Azure DevOps - GitLab -
+Terraform - Ansible - Kubernetes -
+Prometheus - Elasticsearch - Grafana -
+
+Java: Pyth
+
+ACHIEVEMENTS
+
+@ Successful Cloud
+Migration
+Managed successful migration
+of critical application to cloud
+infrastructure, resulting in
+significant cost savings
+
+¥ Team Mentoring
+
+Mentored junior team members
+resulting in improved skills and
+career growth opportunities
+
+AWARDS
+
+v Employee of the Month
+
+Recognized for outstanding
+contributions to project success
+and team collaboration

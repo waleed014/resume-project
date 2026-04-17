@@ -1,0 +1,74 @@
+KS
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+KAROLYN SCHMELER
+
+07/2019 — present
+
+Detroit, MI
+
+08/2013 - 04/2019
+Detroit, MI
+
+146 Mueller Spur, Los Angeles, CA
++1 (555) 470 6339
+
+BEATTY, WIZA AND CASPER
+Senior Teradata Database Administrator
+¢ Good knowledge in T-SQL scripting, table insert and update join statements
+¢ Hands on experience ITIL process , experience in at least one ticketing tool
+handling service, incident , problem or change tickets
+Possess excellent English communication skills, both verbal and writing skills
+Manage a global environment of SQL Server databases through multiple
+product lifecycle environments, from development to mission-critical
+production systems
+Refine and automate regular processes, track issues, and document changes
+¢ Manages and ensures compliance with database backup strategies
+
+KUVALIS-FUNK
+IT Database Administrator
+
+¢ Install and test new versions of the database management system (DBMS)
+¢ Write database documentation
+
+¢ Strong communication skills and customer-support focused attitude
+Intermediate-advanced English
+
+Knowledge as DBA on MSSQL Server, PostgreSQL and/or MYSQL
+Skills that involves reviewing of Application, system & SQL Server Logs
+Previous experience solving incidents and tickets
+
+* Contribute to development of platform services including architecture,
+configuration, deployment, and support
+
+Participate in prototyping new customer facing platform services
+
+¢ Able to accurately estimate efforts and deliver on time
+
+UNIVERSITY OF MISSOURI-COLUMBIA
+
+Bachelor's in Computer Science
+
+¢ Experience working with VLDB databases including partitioning
+
+¢ Patching experience (Patch set updates and release updates)
+
+¢ Oracle Enterprise Manager installation, configuration and reporting experience
+¢ PL/SQL programming experience/knowledge
+
+¢ 12c and higher OCP DBA certification
+
+¢ Experience with Oracle and DB2 environments
+
+¢ Prefer knowledge of DOD Anti-terrorism/Force Protection requirements
+
+¢ Efficient in operation and understanding of AFMIS database
+
+¢ Highly efficient in Microsoft Office software
+
+¢ Strong prioritization skills requiring little supervision for multiple tasks assigned

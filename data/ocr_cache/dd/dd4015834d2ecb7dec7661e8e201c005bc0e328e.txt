@@ -1,0 +1,88 @@
+Ansel Waelchi
+
+651 Pink Ford, Dallas, TX @ Phone: +1 (555) 600 4940
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR ETL DEVELOPER / ADMIN
+
+Phoenix, AZ,
+12/2013 — present
+
+‘Work with the Project Leader to define tasks and create team work plans with moderate supervision
+Work closely with internal customers, IT staff, vendors and consultants to plan and execute development,
+projects
+
+Working knowledge of and business intelligence tools such as Cognos or Business Objects and data
+
+quality and cleansing tools associated with Informatica
+
+Attend on-going training on the job, through courses, self-study, and certifications to maintain and
+enhance technical and business capabilities
+
++ Follow technical service level and security standards for data warehousing and decision support systems
+‘+ Self-motivated with critical attention to detail, deadlines and reporting
+* 24X 7 on call responsibilities for one week at a time (every 10th week of the year)
+
+MID-SENIOR ETL DEVELOPER
+
+Detroit, MI
+06/2009 — 08/2013
+
+Support other ETL developers; providing mentoring, technical assistance, troubleshooting and alternative
+development solutions
+Develop key integrations with both internal and external systems
+
++ Collaborate with team members to prototype, test, and debug code which will provide data for use in
+
+business reports
+
+ETL development, testing, implementation, and support of integration solutions
+Support ETL and Data Warehouse production, development & test environments
+Conversion/Migration of data into new systems
+
+Data analysis, data mapping, data loading, and data validation
+
+SENIOR ETL DEVELOPER
+Houston, TX
+09/2003 ~ 12/2008
+
+Work on CPB global applications related ETL and data integration developments
+
+Work with global and regional development teams in support of strategic efforts for systems expansion
+and improvement
+
+Leading a team of more Senior Analyst Programmers, managing work allocation, providing process and
+technical coaching, and managing their delivery
+
+inputs into risk analyses and development plans to take account of design decisions
+
+‘© Organisational Improvement
+‘* Creating and amending programmes in accordance with the design following relevant code management
+
+procedures and applying agreed coding standards
+Providing technical support to project managers and both Expert/Lead Analyst Programmers
+
+TEXAS A&M UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Strong understanding of basic Database Administration. Able to define quality and security standards
+Excellent writing skills, oral communication skills, strong process skills, and leadership ability
+Knowledge of Broadridge BPS platform is highly desirable
+
+Exceptional attention to detail. Excellent organization, planning and project management skills
+
+Should have good knowledge of Core JAVA language and understanding of J2EE framework
+
+Should have very good knowledge of any one of Abinitio/Informatica Products
+
+Ability to implement re-usable data-integration/ETL code in an enterprise data-warehouse environment
+Ability to efficiently QA your own work to ensure that processes you built generate high quality output
+A willingness to develop additional skills in order to enable more flexible working within the organisation.
+Learnability
+
+Excellent knowledge of SQL

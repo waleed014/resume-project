@@ -1,0 +1,122 @@
+TAYLOR FOSTER
+
+ETL Developer
+
++1-510-190-7130 susanwood@gmail.com
+
+SUMMARY
+
+ETL Developer with 10 years of experience in the e-commerce and
+telecommunication domain. Skilled in data migration, data integration and
+data warehousing projects. Capable of unit and system testing,
+optimization and performance analysis and quality assurance.
+
+EXPERIENCE
+
+ETL Developer
+Buytep @ 2018-2021 9 Seattle, WA
+
+Buytep is Seattle's most popular e-commerce site, generating a daily
+GMV of over $25M.
+Involved in the migration of Informatica objects in all phases of 10+
+projects
+Automated amalgamation of data from 500 spreadsheet revenue
+calculation solution, reducing month end processing time from 2 days
+to 40 minutes
+Developed 50+ stored procedures, functions, packages and triggers
+Partnered with 3 cross-functional teams to implement analytics on
+10+ products
+Designed and developed 15+ complex informatica mappings
+
+ETL Developer and BI Analyst
+Hereto @ 2014-2018 9 Seattle, WA
+
+Hereto is an e-commerce company focused on B2B and SaaS
+technologies, located in Seattle, WA.
+Increased monthly sales by over $100,000 through secondary market
+research
+Researched companies’ data on 6 domains (environment, community
+involvement, business behavior, human rights, governance and human
+resources)
+Created 100+ functional, technical design and data mapping
+documents by interacting with customers subject-matter experts
+Developed 500+ hive queries to process data and generate cubes for
+visualizing
+Successfully delivered 7+ enhancements and 6 major projects
+
+Junior ETL Developer
+Padben #§ 2012-2014 9 Newark, NJ
+Padben is an innovation leader in the technologies that connect people
+and things with its network, products & services.
+Designed slowly changing dimensions type’ and type2 data loads,
+increasing speed by 20%
+Participated in creating a standardized data structure now used by
+over 50 telecommunication companies
+Successfully realized 2 projects
+
+INDUSTRY EXPERTISE
+
+Data Flow Validation
+
+EE
+
+Data Model Testing
+ee |
+
+www.enhancv.com
+
+https://www.linkedin.com/in/susan-wood/
+
+Seattle, WA
+
+SKILLS
+
+SQL Data Analysis Procedures
+
+Data Quality Test Scripts Java
+
+Toad Data Warehouse Unix
+
+EDUCATION
+
+Bachelor Computer Science
+New Jersey Institute of Technology
+& 10/2007 - 07/2011 9 Newark, NJ
+
+Master of Information Technology
+New Jersey Institute of Technology
+@ 10/2011 - 07/2012 9 Newark, NJ
+
+STRENGTHS
+
+Detail-Oriented
+
+Extremely mindful and observant of all
+details. This skill helped me excel in
+every task.
+
+Q
+
+Troubleshooting
+
+Good at analyzing, evaluating and
+solving all types of problems-personal,
+technical and strategical.
+
+Analytical Skills
+
+is Skilled in gathering information and
+interpreting data to reach a logical
+conclusion.
+LANGUAGES
+English Native e@eeee
+Spanish Proficient @@@@
+REFERENCES
+
+Juan Alejandro, CTO of Buytep
++1-340-144-9671
+
+Steven Boldberg, CEO of Hereto
++1-765-212-9478
+
+Powered by (CX? Enhancu

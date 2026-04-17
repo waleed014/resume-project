@@ -1,0 +1,165 @@
+Jessica CLAIRE
+
+‘Montgomery Steet, San Francisco, CA 94105 « (555) 432-1000 « resumesampledexample com
+
+Summary
+
++ 5+ years of experience in Software development ifecyle- Software Analysis, Desig, Development Testing, Deployment and
+Maintenance.
+
++ Very good exposure towards Agile, Scum, Waterfall methodologies, Good exposure towards Azure resources, Azure App
+services and Dev ops. Hands on experience in design using Object Oriented Programming Principles,
+
++ Quality Assurance and Software Tet professional with extensive experience using objec oriented design techniques and
+programming languages, including Microsoft NET Technologies. Demonstrated leadership abilities and team work sill a5 well
+as ability to accomplish tasks under minimal direction and supervision, Profesional Quality Assurance and Software Test
+Engineer with eighteen years of experience in Quality Assurance and Software Testing including team lead and management
+experience
+
++ Strong Analytical and problem solving skills at ay tence and deadline situations.
+
+«+ Being a team player and self-motivated, Confident at understanding the situation to get the best out ofthe situation.
+
+Skills
++ Ce, Java, SOL, + Data Modeling, Test Automation, ETL Testing, Data Analysis
+‘+ Net Core 1.12.2/3, Classic ASP, ASP.NET 4.0/4.5, ADO.NET, + Windows 7/8/10, Server 2008/2012/2014, UNIX, Macintosh
+LING Entity Net Technologies Framework, Win forms, + Visual Studio 10/12/15/17/19, Microsoft Teams, Microsoft
+Webforms, WPE, WCF, MVC 40, Net Framework 40/85. Office.
+++ SQL Server 2008/2012/2014/2016, My SQL, PostgreSQL, PL) + TS 10/12, VS$6. Git Git Lab
+SQL, Oracle 1g.
+
+++ KendoUl, Bootstrap, XML, C383, HTML 4.0/5.0, Swagger,
+SOAP UL POSTMAN, Fiddler
+
+Work History
+
+Data Analyst BUETL Developer, 122018 to Current
+Sequoia Benefits - Tempe, AZ
+
+‘+ Experience in Installation, Upgrade and Configuration of Informatica PowerCenter 89x Grid/HA production and non-
+production Environments
+
+«+ Analyzed the Business Requirement Documents (BRD) & Source to Target Mapping Document (STM) for better ETL Process
+before the development.
+
+++ Extensive experience in BI Solutions (ETL & Reporting) using SSIS, SSAS, SSRS and T-SQL Programming using DDL, DML, DCL
+commands for various business applications
+
+++ Export at developing ETL interfaces using SSIS, Data marts/cubes using SSAS and enterprise reports using SSRS utilizing the
+latest versions and features
+
+‘+ Worked on Informatica: Source Analyzer, Warehouse Designes, Mapping Designer & Mapplet, and Transformation Developer.
+
++ Created Reusable transformations, Mapplets, Worklets using Transformation Developer, Mapplet Designer and Worklet
+Designer.
+
+“+ Experience in developing and designing reports through SSRS and Excel
+
+«+ Extensively used Pre-SQL and Post SQL scripts for loading the data into the targets according tothe requirement.
+
+‘+ Developed mappings for SCD Type 1 and SCD Type 2 dimensions.
+
+++ Created a process to handle Change Data Capture (CDQ),
+
++ Involved in source data Profiling and Tuning of queries for Source Data Extraction
+
++ Worked extensi different Caches such as Index cache, Data cache and Lookup cache (Static, Dynamic and Persistence)
+while developing the Mappings.
+
++ Involved in the analysis for future migration of Informatica to SSIS and knowledge on SSIS tool,
+
+«+ Responsible for Unit Testing, Integration Testing and helped with User Acceptance Testing.
+
++ Involved in doing DWH data Analysis for reporting & also written SQL. for ADHOC reporting purpose.
+
+‘+ Written Unix Wrappers for different purposes - PMCMD in Built, Archiving Logs, purging data, FTP the Files.
+
++ Co-ordinate with the reporting team fora better understanding of DWH data.
+
+Business Intelligence Developer, 01/2018 to 11/2018
+Fujitsu - Global ~ Manila, AR
+
++ Creating primary objects (tables, views, indexes, et) once application developers have designed an application
+
+«+ Implementing migrations of databases from SQL Server 2008-R2 to SQL Server 2012 and 2014 using Backup-Restore, Attach and
+detach methods
+
+«+ Implementing installation and configuration of always-on Availability group on Windows Server 012
+
++ Configured temp DB to increase the performance of SQL Server
+
++ Using the SOL Server configuration manager to configure services, network protocols and network connectivity for SQL Server
+instance
+
++ Engolling users and maintaining system security
+
++ Installing and configuring the Oracle Database and Application patches regularly
+
+«+ Implementing change management processes and user requests on databases
+
+«+ Incident and error handling for databases and application errors
+
+«+ Enhanced the functionality of S15 package calls in SQL stored procedures by using SQL tables to dynamically create XML
+configuration files onthe fly.
+
++ Used SOL extensively in command objects of Crystal reports
+
+‘+ Monitoring SOL Server error log and space usage tuning and optimizing databases, assisting Database Developers to optimize
+SQL queries
+
++ Backup and recovery of the database (RMAN, Data Pump, Cold Backup)
+
+“+ Manage and maintain student records up to date
+
+«+ Active interaction with University Associates and its clients
+
++ Cognizant to use the office equipment such asthe printer, fax, and scanner for document management
+
++ Documented the user manual for the whole process for future use
+
+Assistant Software Developer, 06/2014 to 05/2016
+Allscripts ~ City, STATE
+
+‘+ Co-ordinate with the reporting team fora better understanding of DWH data.
+
+‘Involved in writing technical design documentation along with deployment activities.
+
++ Scheduling Informatica jobs
+
+++ Developed ASP.NET pages using C*.NET for middle tier processing of client requests with ADO.NET interfaces for database
+
+and implemented stored procedures,
+
++ Used Bootstrap to help the responsiveness of webpage and design with custom C553 style sheet on elements,
+
+‘+ Worked in Cé, ASP.Net, VB.Net for GUI design and business logic implementation,
+
+‘+ Developed a web server application for remote client computers to sync and download images and content in realtime.
+
+‘+ Designed JSON objects for data transfer between UI and controllers.
+
+«+ Implemented Unit Testing, Integration Testing and System Testing using NUNIT.
+
+‘+ Used ADONET for database connectivity and populated back-end data using SQL Server 2012.
+
+‘+ Used LINQ Expressions to query the data from different object collections using C#.
+
+‘+ Used LING to retrieve information from the XML data files and various data sources.
+
+«= Used XSLT and XML Gen for iterating through the XML object and for generating XML,
+
++ To build, deploy and configure existing code on Team Foundation Server (TFS) to non - Production and Production
+
+‘+ Experience in writing Stored Procedures, Triggers, Views on MS SQL Server 2014.
+
+‘+ Developed application using Web API, ADO.NET, OAuth /OWIN Middleware with SQL Server as backend.
+
+++ Used Multithreading, coded Interface, Abstract classes and used Nunit for Unit testing,
+
+Education
+
+‘Master of Science: Computer Science
+Governors State University - Park Forest, IL
+
+Bachelor of Science: Electrical, Flectronics And Communications Engineering,
+CVR College of Engineering - Hyderabad, India

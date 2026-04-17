@@ -1,0 +1,64 @@
+ROBERT SMITH
+Senior Devops Engineer Ill
+
+Phone: (0123) 456.785 | Ema inlo@qwkvesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+Vorsatlla and tenacious problem solver with broad, holistic experiance managing servers, security,
+‘loud infrastructure, applications, firewalls, networks, and personal devices. Security and Unix
+{focused with excellent troubleshooting skils. Proactive facilitator and excellant communicator with
+‘over live years of remote project management and team effort coordination connecting resources
+across the world.
+
+CORE COMPETENCIES
+Uni Administration, IF Security, DevOps.
+
+PROFESSIONAL EXPERIENCE
+
+‘Senior Devops Engineer it
+TI International - January 2014 ~ 2020
+
+Key Dtveraies:
+Used MAVEN as build toals on Java projects lor tha development f build artifacts on the
+source code,
+
+Developed Scrips for AWS Orchestration Davelopad Scripts for AWS Ofchestration
+Designing and developing now back-ond services, maintaining and expanding our AWS
+infrastaucture, and providing mentorship to others on my team.
+
++ Developedicapturedidacumanted architectural best practices tor bullding systems on AWS,
+
++ Worked wih technical and non-technical teams across Amazon (AWS).
+
+Automated the build and release management process including man toring changes
+bbetwoon releases,
+
+Worked wih Docker lor convenient envicenment sotup for development and testing
+
++ Wrote Dockar images for Bamboo, Nexus and various.
+
+‘Senior Devops Engineer
+Delia Corporation -2011 ~ 2014
+
+Key Delverabes:
+
+Support and maintenance for premium (Several-milfion dollars) accounts:
+
++ New area in the company, managing applications in the customers own premises, or their
+awn cloud accounts.
+
++ Blastcsparch, Kibana, lings, Ansible, AWS suppor, using GIT, APIs; Python and Bash
+to serpt things around,
+
++ Secondary suppor forthe application stack.
+
++ Developed Powershell programs to automate configuration and deployment of testing
+environments using Windows Server 2012 R2, SOL Server 2012 2,
+
++ Applications inckided contiguration and mainionance ol A10 Load Balancers,
+implemoniation of SOL Server transactional replication, configuration of
+
++ This is Dummy Description data, Flepiace with job description relevant to your current role,
+
+2959 Oak Sireet, Old Forge, New York, 13420
+(© This Exes Resume Template isthe copyright of Quilrestume.com. Usage Guidelines

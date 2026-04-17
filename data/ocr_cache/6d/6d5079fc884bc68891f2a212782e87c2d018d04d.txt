@@ -1,0 +1,108 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Tm a full stack developer with more than ten years of front-end, back-end, and mobile development experience. Also have experience as a
+project manager, leading small teams of developers and as a liaison between the team and the final customer.
+
+As a generalist T'm not affaid to tackle new technologies, And get things done. I'm currently enjoying working with a full Javascript stack using
+Reacts And React Native, And currently getting up-to-date on Javascript (ES6) on the backend using Node js, And Express. Love Typescript
+as well.
+
+Tm definitely a product person and am able to take a project from conception all the way to a complete solution. My interests include startups
+and entrepreneurship, technology and innovation, and design and marketing.
+
+SKILLS
++ Front End: JavaScript (ESS and ES6)|HTMLS|CSS3|React| _» Testing/Deployment: Mocha | Chai | Jest | Amazon AWS | Firebase
+React Native | Redux | React Hooks | jQuery | Axios | Ajax | | Docker Developer
+Nextjs + Tools: Git | npm | Webpack | Babel | Agile Methodology | TDD |
+* Back End: Node,js | Express | MongoDB | Mongoose | MySQL | Neinx
+
+PostgreSQL | Sequelize | RESTful API Development | GraphQL |
+Firebase | NestIS | Hapi
+
+‘Work History
+
+Freelancer, 02/2022 - Current
+Alllogene Therapeutics, Inc. ~ Bradyville, TN
+
+* Worked as Freelancer
+
+‘© Main working parts are React and React Native.
+
+Head of Development, 09/2017 - 01/2022
+Cognizant Technology Sotutions
++ Contributed extensively to complete rewrite of businesses core front-end application from Angular to React by participating in architectural
+decisions, writing custom React components, and working closely with product team on design implementation; enabling team to more
+‘quickly respond to feature requests and business logic changes.
++ Participated in two reworkings of React Native mobile app in support of offline functionality and overall usability by researching similar
+solutions, mocking scenarios, and writing code; leading to measurable increases in speed of end users process completion.
++ Worked extensively on ongoing maintenance and feature requests of React’NodelS/Postgresql core application as well as React Native
+mobile app.
+* Lead projects to identify, research, and suggest new technologies now in use by company such as css frameworks, ESLint and Prettier
+standardization, PDF and email templating, and IOT integrations.
++ Identified and implemented AppCenter to add crash reporting, more streamlined test and app store deployments, and usage reports to
+mobile app; giving business much more insight into actual app usage and ability to react quickly to potential problems.
+
+React Native Developer, 12/2015 - 08/2017
+Horizontal
+
+* Initiated development of MindHome Mobile App, company’s first smart home application. Primary technologies include: JavaScript, React
+Native, Redux, GraphQL-Apollo, Firebase.
+
+* Integrated Home Assistant API into app to take advantage of backend AI solutions like HomeKit for iOS and Google Assistant for
+Android.
+
++ Developed UI components using React js for UI, Node js for backend and GraphQL orchestration layer using Apollo Client. Utilized
+Google Firebase Auth for user authentication and integrated 3rd party APIs with React Lifecycle Methods to render data upon load and
+query.
+
++ Implemented Redux as altemative to Context API for global state management as application grew in complexity. Migrated to Redux-
+Toolkit to reduce boilerplate code and speed up development.
+
++ Responsible for design, development and customization of various components such as tab bars, map view, image picker, date picker, push
+notifications, sign-in/out features, profile management and navigation using react-native libraries.
+
+‘+ Enhancement of mobile app in collaboration with application architecture and infrastructure team to achieve business objectives.
+
++ Led team of 4, maintained regular communication on slack and used Jira, project management tool to track any project-related
+requirements or developments
+
+« Translated mockup designs on Figma into React code
+
+Front End Developer, 04/2012 - 11/2015
+Altitude Marketing
+* Build new custom pages using HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP
+* Work closely with project manager and other senior developers to improve website performance and layout for customers
++ Build Front end components with React js and Redux for state management.
++ Worked solo on multiple client websites, as they required new features and custom front end design/styling
+Translated UVUX prototypes to front end components using React and Bootstrap
++ Use redux to manage application state data
+* Used various libraries such as material UI for react
+
+* Used various react dependencies in project
++ Custom CSS for styled components
+
++ Write Pure JavaScript functions
+
+* Create high order components
+
+* Used Adobe products for prototyping and managing digital assets
+
++ Followed strict agile workflow within company, working with sprints and storyboards
++ Did SEO for various pages and blogs in relation to google search engine policies.
+‘Worked with back-end services like node,js and mongo dB
+
+Fetch data from backend services for based on customer requirements
+
+Searched stack overflow for JavaScript error bugs and run time errors
+
+Create custom function in relation to business logic and product,
+* Collaborate with project managers and senior web developers.
+
+EDUCATION
+
+Bachelor of Science: Computer Science, 2011
+University of North Texas - Denton, TX

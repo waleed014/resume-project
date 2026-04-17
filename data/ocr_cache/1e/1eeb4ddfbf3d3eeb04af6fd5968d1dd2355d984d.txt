@@ -1,0 +1,45 @@
+Lonny Heaney
+DevOps Engineer
+
+Determined DevOps Engineer with + years’ experience in developing deploying and
+managing large-scale clous Infrastructure Expartse n automation and orchestration (ook
+Such as Kubernetes, Docker, Teraform: Arsble & Jenkins to manage microseries-based
+applications. At YZ Ine, implemented CUCD pipelines resulting na 16% decrease of server
+‘downtime caused by manual errors. Aming € leverage my silt st ABC Corp fr the
+
+successful development af cloud projects.
+
+‘DevOps Engineer - Employer A Cary, january 2018 to Present
+
++ Coordinated muliple evelopment teams and system administrators to bill, deploy and
+‘maintain over 200 coud-based web applications, esting in 320% increase in overall
+ficiency
+‘ested the performance of various software components such as databases, networks &
+servers; identied area fr optimization to improve application speed by 30%
+Resourcefully automated complex deployment processes with Bath scripting and Python
+coding: eliminated manual erors during deployments while reducing time spent on
+‘deployment tasks by 40
+Improved configuration management tools ke Puppet, Chef & Ansible; streamlined
+Infrastructure setupfmaintenance process acrass 10+ production enviroments saving
+$1Okyeary in labor cost.
+
+Streamlined collaboration between DevOps engineers trough it version contral
+‘systems; reduces debugging times from 2 hours per incident down to 15 minutes on
+erage
+
+‘Devops Engineer - Employer 8 San Bernardino, March 2012 to December 2017
+
+* Developed and implemented automated deployment processes, esting ina 30%
+‘eduction ofrelaase te sn errors
+‘Automated configuration management with Chef, Puppet & Ansible ta ensure al servers
+there consistent configured to the sams standards
+Optimized performance across cloud Infrastructure by 20%, reducing latency issues for
+Customers and increasing scalability during peak umes
+Secured network enviconrient trough firewall configurations, patching systems
+‘regulary, monitoring user access ang implementing intrusion detection protocols;
+Siteessfilly prevented d major data breaches over 2 years period af employment
+Diligent mantored ystam heath metrics uch a= CPU utizaton levels ad memory
+sage: idntied potential ssues before they became critical problems requiring manual
+Intervention or teubleshooting worilows created by tam members
+
+‘Bachelor of Science in Computer Science - Educational Institution XYZ

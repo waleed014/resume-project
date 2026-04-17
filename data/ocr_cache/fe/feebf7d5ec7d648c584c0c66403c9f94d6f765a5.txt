@@ -1,0 +1,43 @@
+PROJECT EXPERIENCE
+
+Integrated Digital Agricultural Platform of XXX City, China 2021-2022
+Business Project at A Digital Agriculture Company
+
+Oriented by the needs of farming and animal husbandry activities, the platform comprehensively con-
+solidates and exploits the existing farming and animal husbandry-related data resources, and provides
+valuable data services for the governments, industrial stakeholders, and farmers through the use of tech-
+nologies such as remote sensing, cloud computing, artificial intelligence, and other IoT technologies. The
+project is fully funded by XXX municipal government.
+
+Characterizing extensive green roofs using airborne remote sensing technology 2019
+Master Dissertation at KU Leuven
+
+The main objectives were to (1) detect the extensive green roofs from other land cover types based
+on image classification techniques; and (2) examine the possibility of monitoring plant species diversity
+and functional diversity using empirical regression techniques and physical modeling. First, Multiple
+Endmember Spectral Mixture Analysis(MESMA) approach was used for land cover classification. Two
+endmember optimization methods were compared for accuracy. Second, the predictive performance of
+Vegetation Indices (VIs) and Partial Least Regression (PLSR) analysis was compared to monitor the
+plant abundance. Spectral Variance Hypothesis (SVH) was tested to estimate plant diversity.
+
+A Cost and benefit analysis of bauxite mining in Atewa forest, Ghana 2020
+Individual Research Project
+
+The objective is to evaluate the opportunity costs of bauxite mining in Atewa forest, Ghana. The
+framework is constituted of two parts: (1) the environmental impact assessment (EIA) which used as
+a baseline; (2) an optimal choice of environmental valuation method for estimation of environmental
+goods. Following issues would be addressed: (1) Which ecological functioning would be hampered and
+what would be the consequent environmental impact? (2)Who will be the recipients of the impacts and
+to what extent? (3) How to estimate the value of the change? Contingent Valuation Method (CVM)
+will be applied to elicit the estimation of willingness to accept (WTA) for the lost. A questionnaire has
+been designed.
+
+Spatial and temporal dynamics of global drought vulnerability 2019
+Internship Project at UN
+
+The objective was to reveal global drought vulnerability dynamics in both spatial and temporal axes.
+The Drought Vulnerability Index (DVI) is a composite index that consists of 21 indicators. The raw
+data were collected from open source databases and expert weights for each indicator were derived after
+by survey. Multiple Imputation by Chained Equations(MICE) method was used to replace missing data
+values in the datasets. The DVI global maps were thus visualized at a time interval of 5 years spanning
+15 years since 2000.

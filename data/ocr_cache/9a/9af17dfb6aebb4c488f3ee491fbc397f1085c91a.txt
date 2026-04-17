@@ -1,0 +1,110 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+QUALIFICATIONS
+
+Python; Javas Spring; Hibernate
+SQL; JavaScript; NodeJS;
+AngularJS; HTML; CSS; jQuery
+Tools used: - Eclipse; PyCharm;
+Tomcat; SVN; Maven; Postgresql;
+‘MYSQL Workbench; MongoDB;
+Microsoft Visio, PowerPoint, Excel,
+Word, Project Resume
+
+EDUCATION AND
+TRAINING
+
+California State University
+Los Angeles, California
+‘Master of Science: Computer
+Science
+
+‘Computer Science
+
+Graduate Coursework Data
+Structures and Algorithms, Web
+and internet programming, Node
+JS; Angular JS, Advance Software
+Engineering, Advanced Topics in
+Operating System
+
+Visvesvaraya University
+Bangalore
+Bachelor of Technology
+
+CAREER OVERVIEW
+
+Worked on ecommerce website and finished it in one-month tight deadline. Adapt to any working
+environment while maintaining professionalism and high quality performance. Outstanding drive and
+focus on organizational objectives and customer need. Adept and experienced in problem solving and
+providing solutions. Excellent qualifications in leadership and interpersonal communications.
+Passionate and enthusiastic about learning new technology and applying technology to solve problems.
+‘trong analytical and problem-solving skills; fast and continuous learner, constant researcher. Strong
+determination to achieve an excellent outcome.
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+
+Alexandria Real Estate - Python Developer Intern
+Gaithersburg, MD + 07/2015 - 03/2016
+
++ Implemented Python scripts to autornatically sync data between different storage server depending
+‘on current available space and remote location.
+
++ Tested compatibility and functionality of a web application using Selenium in Python.
+
++ Generated graphs for business decision-making using Python matplotlib library.
+
++ Used Python library Beautiful Soup for web scrapping to extract data for building graphs.
+
++ Wrote python scripts to parse XML documents and load the data in database.
+
+Crystal Exports - Business Applications Analyst
+City, STATE « 07/2013 - 05/2014
+
++ Drafted and managed business requirement documents through weekly meetings for new, existing
+and ongoing projects for external and internal customers.
+
++ Interacted personally with clients and cross-functional team members by drafting Customer
+Requirement Specifications.
+
++ Updated and tested requirements through the application lifecycle management software within
+the hybrid of the Agile and Waterfall methodologies.
+
++ Recorded all technical, functional, defects, implementations and status updates within JIRA.
+
++ Tested software releases prior to and after deployment to the production environment for quality
+assurance.
+
+PROFESSIONAL AFFILIATIONS
+
+Successfully designed, created, and implemented a new database for storing documents originally in
+word format to SQL. Enhanced user experience by creating a responsive single page application using
+AngularJS for an e-commerce site which optimized traffic, page views, and site "stickiness".
+Conducted extensive analysis on their current inventory content management system, proposing a
+new system to allow for better timing on re-orders/re-stocking saving sunk inventory cost. Wrote 35-
+page analysis documentation. Modeled requirements in use cases and held combined walk through
+meetings which improved communication between product managers and software development team.
+Designed and developed web MVC based application for college which can be used to manage and keep
+track of student applications for different departments of the college. Utilized TV Maze API application
+NodeuS, AngularJS, REST-Json. Developed a TV show-search web application using TV MAZE API which
+lets the user search for TV shows from the data pulled into the application along with details about the
+cast and crew. Used Big Data Analytic Python, Selenium, MongoDB, GitHub, Matplotlib. Developed data
+analytic tool to predict how the amount of rainfall affects the water consumption per year on the basis
+of analysis done over the data collected for last 10 years
+
+SKILLS
+
+Agile, CSS, clients, databases, database, decision-making, drafting, Eclipse, XML, functional, graphs,
+HTML, Java, JavaScript, jQuery, meetings, Excel, PowerPoint, Microsoft Visio, Word, MongoDB,
+
+MYSQL, Operating System, Postgresql, programming, Python, quality assurance, Requirement, Scrum,
+scripts, software development, Software Engineering, Microsoft SQL Server, SQL, Tomcat, Workbench

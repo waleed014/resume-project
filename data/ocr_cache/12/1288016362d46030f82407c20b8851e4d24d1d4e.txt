@@ -1,0 +1,59 @@
+Application Programmer /ETL Phone: (120) 456 7899
+
+Ina, dotwieesumeorn
+Developer Wetec semenwemeeara
+Lise linkedin com/ gwen
+
+ROBERT SMITH ‘Address: 1737 Marshvile Road,
+
+Alabama
+
+Objective
+
+7 years of IBM Inosphere DataStage experience ranging Fam Design, Development, Test Support
+Implementation and Production Support, Worked extensively on designing and developing parallel
+DalaStage jobs nV || Good experience in Data ware house designs, and dala modeling, Slar abel
+snowflake schemas. Worked in detail with diferent stages in DalaStage like Dalabase connectors,
+‘Transformer, Lookup, Join, change caplure and Aguvegalor and successfully ran jobs fram medium
+taliigh complestty levels,
+
+Skills
+
+Work Experience
+
+Application Programmer/ETL Developer
+‘ABC Comporation - November 2010 ~ March 2012
++ Responstiliies Design, Develop and Implementation of ET. jobs to load intemal and extemal
+data Into data matt,
++ Worked closely with business team to gather requirements
+Developed the Source-Tange! Mapping for each Dimension and Fact tables.
+Develop and modify ETL jobs to meet monthly and quarterly report needs.
+* Developed ETL processes to laad dala into fact tables from mulliple sources ike Files, Oracle,
+Teradala and SQL Server dalabases,
++ Extracted data from Oracle database transformed apd loaded inlo Teradata database acconting
+to the specifications
++ Used Teradata ulliies ike Mull! Lad, T Pump, and Fast Load to load data into Teradata data
+warchouse from Oracle and DB2 databases.
+
+ETL Developer
+‘ABC Corporation - 2009-2010
+Developed Mappings and transformation rules tomap business rules, requirements and
+policies, using Oracle Warchouse Bullder (OWE) 9:2.
+
++ Developed PL/SQL scripts and processes to conver! legacy codes and data to standardized and
+‘normalized format for OWB Transformation,
+
++ Defined and worked with ellen! to formalize OWB architecture and archiving processes
+
+© Created dally mapping functionalities a move data (rom Oracle 111 Applications environment
+to warehouse,
+Delined, designed and created PL/SQL scripis to ellect sales dala recasting and reeast dala
+extracts for use by Sales reps,
+Fine-(tined scripts for performance and enhancements using PL/SQL.
+
+* Generated sehema comparison serfpts fo enable cle to maintain schemas in syie-with OWE
+Fepasitory
+
+Education
+
+(Tas Pree Resume Template bse copyright of atkretmesom. Ukage Gudaines

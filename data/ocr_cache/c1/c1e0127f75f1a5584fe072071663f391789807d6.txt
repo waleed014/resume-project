@@ -1,0 +1,39 @@
+Database Administrator Resume Sample
+
+ANN SIMPSON
+14 Rosebud St.
+Sometown, NY 10000
+H: 718-555-5555
+C: 917-555-5555
+annsimpson@somedamain.com
+
+DATABASE ADMINISTRATOR
+
+Database administrator (DBA) with extensive experience designing, coding, testing
+and supporting next-generation database solutions in Oracle enterprise and SQL
+Server environments. Proficient in an assortment of technologies, including Oracle
+Gi/10g, DB2, Access, Sybase, MS SQL Server, JDBC, Visio, Apache Web Server,
+Java, C++, XML, Windows and Linux (complete list on request). DBA skills include
+
+Oracle 10g Database Administration
+Performance Tuning & Capacity Monitoring
+Data Security, Backup & Recovery
+Standby/F ailover Administration
+
+Oracle RAC & ASM Administration/Installation
+Oracle Forms and Reports Development
+Database-Backed Web Solutions
+
+SQL Tuning in an Oracle Environment
+
+EXPERIENCE
+
+ABC COMPANY, Sometown, NY -- 9/2004-Present
+Database Administrator
+
+Manage Oracle database administration assignments for diverse industry clients.
+Enhance database performance, perform restores, implement recovery procedures,
+handle performance tuning and conduct regular system backups. Ensure technical
+and functional designs meet business requirements.
+
+Key Projects:

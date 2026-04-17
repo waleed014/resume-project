@@ -1,0 +1,72 @@
+MICHAEL WOODROW
+SENIOR JAVA DEVELOPER
+
+‘ADRESS:
+‘SOME STREET NO.240.NY BUILDING NUMBER
+
+‘CONTACT
+00122 4555 666
+
+WEBSITE
+WWW.RESUMESBOT.COM
+
+PROFESSIONAL PROFILE
+
+‘An accomplished software engineer specializing in Java and Java EE software design and development, with
+extensive experience in the full life cycle of the software design process - including requirements definition,
+prototyping, proot of concept, design, interface implementation, testing, and maintenance,
+
+SKILLS WORK EXPERIENCE
+LANGUAGES: SENIOR JAVA DEVELOPER
+Java © 00 O@ | Data 07/2015 - Present
+JavaScript © @ J} EDesignea, developed, documented, debugged, tested and supported the
+Java Swing @ ~@ @ @ @ |) OataOne Java EE Web application.
+SQt 1 Created custom modules, services and algorithms within the solutions
+cic © © © © @ J architecture. Monitored, ensured resolutions of app performance issues.
+XMUXSUHTML @ @ @ @ @ |) WProvided technical expertise for a team of engineers researching a radio
+frequency identification (RFID) solution for tracking commodities being
+DATABASE: Joaded and unloaded on railcars.
+{EBuilt scalable solutions for Java, WebLogic, Hibemate, MS SQL & Oracle
+Hibemate eco technologies.
+JDBC eoo
+Oracle eee SOFTWARE ENGINEER
+Microsoft SQL HGV Solaris, Ine. 02/2011 - 06/20
+Server eco 2/200 - 06/2015,
+"Designed, developed, and tested Java GUI applications for the HGV
+SOFTWARE: Solaris project.
+[Designed and developed a system for automatic jumpstart installation of
+Eclipse ESSE J tne Solaris operating system and custom software onto a network of Sun
+ClearCase a Jan,
+ClearQuest = JESSE | Maintained online AFD! and JED! sofware, and tested software for
+
+Mictosof VisUd
+
+JBoss KKK
+WebLogic KK eK
+Tomcat WO tek
+
+security standards.
+Solved help desk problems and communicated solutions to customers.
+Participated in code reviews and process improvement.
+
+EDUCATION
+
+‘The George Washington University
+
+MS., Computer Science
+
+Activities and Societies:
+
+(GW Graduate Computing Club (GCC)
+
+(Golden Key International Honour Society
+
+institute of Electrical and Electronics Engineers (IEEE)
+
+CERTIFICATIONS
+Oracle
+
+Oracle Certification Java Professional Java SE 6 Programmer 2017
+Oracle Certified Expert, Java EE 6 Web Component Developer 2016
+
+2008 - 2012

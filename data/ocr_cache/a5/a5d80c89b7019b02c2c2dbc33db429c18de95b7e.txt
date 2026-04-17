@@ -1,0 +1,105 @@
+Trish Mathers
+
+Entry-Level Data Scientist
+
+Innovative and scientifically rigorous graduate with significant data science
+internship experience to bring to the table. With a team-oriented attitude,
+1'm eager to contribute my abilities in quantitative modeling and
+experimentation to enhance the experience of global Pinterest users.
+
+WORK EXPERIENCE
+
+Niantic
+
+Data Scientist Intern
+
+Seattle, WA | April 2022 - December 2022
+
+* Developed a program in SAS that automated refinement of linear
+
+regression models for specific segments of a customer base that
+saved 22 hours of labor per month.
+Received, cleaned, and prepped data from client using SAS, SQL, and
+Excel to help data scientists build marketing mix models that resulted
+in a lift in ROI of 10 basis points.
+
+Seattle University Tutor Center
+
+Statistics and Mathematics Tutor
+
+Seattle, WA | April 2020 - April 2022
+
+«Assessed students’ learning to determine learning weaknesses and
+
+needs, successfully helping students perform 13% better in algebra,
+pre-calculus, calculus, and statistics undergraduate courses.
+Met with 30+ students per week through online learning platforms or
+in a 1:1 setting at the tutor center.
+Scheduled weekly appointments for students, and set schedules for
+student statistics and math tutors.
+Communicated with professors about curriculum, and submitted
+reports 2 times per week to maintain up-to-date learning plans for
+students.
+
+PROJECTS
+
+Fantasy Football Models
++ Aggregated and prepped 3 years of fantasy football projection data
+from 3 independent sources into a MySQL database.
+* Created a random forest model in SAS, combining disparate sources
+into one projection that outperformed the mean absolute error of
+the next best projection by 15%.
+
+Entertainment Engine
+* Aggregated data from IMDB and Rotten Tomatoes, and used k-
+nearest-neighbors in SAS, constructing an enhanced entertainment
+selection targeted to reach 15- to 25-year-olds.
++ Improved methodologies to save an average of 12 minutes per
+movie selection and 3 minutes per song selection.
+
+tmathers@email.com
+(123) 456-7890
+Bellevue, WA
+Linkedin
+
+SKILLS
+
+* Programming: SAS (base
+SAS and Macros), SQL
+Supervised Learning:
+linear and logistic
+regressions, decision
+trees, support vector
+machines (SVM)
+Unsupervised Learning: k-
+means clustering,
+principal component
+analysis (PCA)
+Data Visualization: Excel,
+Google Sheets
+
+EDUCATION
+
+B.S.
+
+Mathematics and
+
+Economics
+
+Seattle University
+
+September 2019 - April 2023
+
+Seattle, WA
+
+GPA: 3.7
+
+Relevant courses
+
+‘+ Intermediate
+programming
+Probability & Statistics
+Linear Algebra
+Applied Econometrics
+Game Theory
+Calculus 1-3

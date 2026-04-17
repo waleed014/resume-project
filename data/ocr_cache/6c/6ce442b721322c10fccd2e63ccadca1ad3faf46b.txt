@@ -1,0 +1,128 @@
+First Last
+
+UAT Tester
+
+WORK EXPERIENCE
+
+Resume Worded, London, United Kingdom
+Tech startup producing computer software and other consumer electronics
+
+UAT Tester 01/2022 — Present
+
+e Documented precise bug reports with reproduction steps to 20+ developers
+for fixing problems reported by customers.
+
+e Conducted a manual and automated test of 40+ new features,
+enhancements, and fixes for the websites of HNIs.
+
+e Partnered with a 7-member development team to develop test plans for a
+vital element of 50+ applications.
+
+e Developed 10+ validation steps and procedures for complex test case
+scenarios during regression testing.
+
+Polyhire, London, United Kingdom
+Helps clients create, deliver, and optimize content and applications
+
+Software Support Analyst 10/2019 - 12/2021
+
+e Contributed helpful tips during user group meetings based on experiences
+working with 130+ customers and software development teams.
+
+e Identified 40+ system improvements that Polyhire rolled out company-wide in
+the first 11 weeks of employment.
+
+e Provided support for requirements gathering, design, and quality assurance
+to 70+ developers through all phases of software development.
+
+e Documented error reports detailing step-by-step procedures necessary for
+reproducing errors; resolved 84% of reported software defects.
+
+Growthsi, London, United Kingdom & Barcelona, Spain
+Provides programmable communication tools using its web service APIs
+
+Software Tester 11/2018 — 09/2019
+
+e — Utilized Web Services Description Language (WSDL) tool to monitor data
+integrity between 20+ systems.
+
+e Discovered and notified management about defects in a high-level
+application valued at $1700K, leading to a project turnaround.
+
+e Recommended bug-fixing efforts during off hours, helping management save
+$3500+ in quarterly labor costs.
+
+e Developed a testing framework that improved efficiency in identifying errors
+and defects before release, boosting RW's production schedule by 93%.
+
+PREVIOUS EXPERIENCE
+Helpdesk Engineer, ABC Company, London, UK
+
+System Admin, XYZ Company, New York, USA
+QA Tester (Internship), ABC, New York, USA
+
+06/2017 — 10/2018
+01/2016 — 05/2017
+07/2014 - 12/2015
+
+CONTACT
+
++ Cardiff, United Kingdom
++ +44 1234567890
++ first.last@gmail.com
+
+SKILLS
+
+Databases:
+
++ MS-Access
+
++ M2
+
++ DBQ
+
++ OBIEE
+
++ Oracle 8i
+
++ SQL Server 2000
+
+Script Languages:
++ ASPNET
+
++ XML
+
++ HTML
+
+Testing Tools
+
++ Load Runner 6.5/5.6
++ SOAP UI
+
++ Selenium
+
++ Requisite Pro
+
+Languages:
+
++ English (Native)
+
++ Romanian (Native)
+
++ Spanish (Conversational)
+
+EDUCATION
+
+University of New York
+Bachelor of Art
+
+Cultural Studies
+
+New York City, New York
+10/2011 - 06/2014.
+
+OTHER
+
++ Certified Software Tester
++ ISTQB Foundation Level
+Certification

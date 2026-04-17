@@ -1,0 +1,313 @@
+JESSICA
+CLAIRE
+
+(© resmesamplederample.com
+& (659) 402.1000
+
+°
+
+a0 montgomery st. 0th
+For
+
+SKILLS
+
+Development too/Languages:
+$04, PLSQL, Bist 8QL, she
+Script, C5, SENET, Wed
+Seve, svasrpt, HL, C,
+ex yan, ale, Spark
+NidatowaeiDstabsses/e1:
+(rade 7108/1197 2, MS SOL
+Sve 208/201, informatica
+ower Contr,
+
+Stare Product Platforms
+rade SQPUS,SQU'Loade,
+rade enterprise anager,
+TOA0, win Oat adler,
+(rade S04 ata modeler,
+‘bla, Tableau Desktop,
+‘blow Server, ist Business
+Inetigene for, coset
+sual tuo, estes Objects,
+
+Procses age terol
+Spain Speeds,
+
+EDUCATION
+
+anTua
+ina » 06/2008
+
+bachelor of Sclence: Eecwones
+
+PROFESSIONAL SUMMARY
+
+Senor IT Oevlope with xpertevel acu in appiation development and delivery of ew
+‘apabtes around Data ad naitics space by tantring data ft sight and ting
+
+‘hose nights eta sats. nmovaiv ad creative problem saver wih proven Wack record
+
+Improving operational excelenc ad enalng business apaiities or ofganzatinalsategy ard
+
+cempattive pestering. Excelent nepesonal dexterity with proven aly ts conese, ase,
+
+tego andra wth ay Stakeholders and en's tl poe
+
+rea of Expertise
+
+(Over 15 yeas of experience in arcltecting designing, Ipementng compe, high perfomance,
+
+Scala solos with speci terestnceating data systems" operon ta tres,
+
+{stomaton data warehouses ad busines intetigens spats.
+
+fata Mading: t= years experience n E78 madlng for LTP chr moti fo enerese
+ata wareteuse (DW) and Dimensional modeling fr OL data mats sing SaSnowfake
+Schemas. ervey worked on verse Forward Engineering to generate Conceptual, Logie and
+Bhyscal modes using Erwin aed Grace Dele too Exes worked on estalshig
+Enters Data Stands, Flees, Glee, Ota angerer practi, Osta Seu,
+Developing and hanaging ta Ned, tact management an Master Data sangre.
+
++ Databuse ata warebase Development 12+ ers o song experienc in Data warcouse FAL
+Software Devecpment fete (S01c), Extent worked inthe psa f Osta warehouse
+‘evelopment nung Business Rquerent Gathering, Converting fuses requemens Ito
+Fintona! and Toca specications, Osta Anais, Osta seek, Design, Deveapne,
+“estng@impamentation of ET ea 8 ppt.
+
++ Barat Transact Load (ETUELT}: 10> years of extensive experince wth ETL @ 8 architecture,
+Deron, Development Testing spd nplamertaton sing Ode PLISGL Extensively developed ad
+Inplementad ETL proces floving Ragh Kina’ imerseal Hodng concepts.
+
++ Doses Intelligence and Data Visualzaton: 6 ears of experince In bulig rich and yale
+<ashoards and repets sing Talent, busess Objects and ctl reports to ler
+Sctionabl sights Extensive experience sing Python and its ares fo ata processing and
+sta viento.
+
++ Brean tnovedge of ape fundamentts,eensive experince of working in ad managing ae
+[poet task plang, wedi sceding, and custome loc deepen
+
++ Cemmuniatsefectvly with excatves, management, pets, sbornates, and stoners
+abl and fostering professional relationships.
+
+Work HIsToRY
+
+‘Ady Arte Solutions Senor Oatowarhouse/ ETB Developer
+
++ Lead design and development of he Enerpise Data warehouse (EDW) an Operational Data store
+(608) gi eovirnmant we werking wth program sea sro the erantation to Bs
+somite it satan or nae snd reporting,
+
++ vided cnstaton en complex projects and was considered top level contributor fr mest
+tases of stems ars wh osiering the business Ipatins of the application of
+{ectelogy to the caret and tre busines nvronment.
+
++ Devise and mote procedures to slve cole robles considering computing capacity
+limitation and epeaton ine Suppeted processing provement hat saved ver 3 ous fo
+ach automated daly night oe
+
++ Geated dita odes or elatonal schemas (OLT) and dimensional sera (LAP) wth poper
+emaization and de-rermalzatonteceiqes sing Evin and Ora designe.
+
++ Gated the (es ey Ralatonhp grams and maltalned covesponaing documentation er
+erprat data leony with al atte, tate rames ad constants.
+
++ Designed ita modes elovng Ralph Kibals lesional malig concepts Star and
+Soflake Schema, sony changing Dimensions (TNpe Type, and Type).
+
++ Implemented ETLLT processes by extracting data re Grace OLT, SQL Serve, CSY 0, ISOM
+Ung At, sel srt, rae $0 ade, Developed Complex ditatase abject ike Stored
+rocaares,Fucins, hages a eggs sing SOL and SQL for transforming an aig
+{he dita te denial dta mart nd OLA abe,
+
++ Werke on $0 onder to od data en flat es bald from varius flies evry dy Used
+‘andra packages ke UTL-FLE, OHS. SQ, and PL/SQL Calectons and wed BULK Big
+Invelved In writing database procedures, functions ad packages
+
++ Developed saps ia Ft to prse ION decent aad he data in rear database
+
+{implemented advanced concepts the Coletion, Gu Clet, Dame PLS, Exception
+aning, loa Te Tate, std Tables, Etral Tales, adronced Queuing, Aba
+functions and REF Cursors to perform ETL
+
++ Effectively mae we of ne Functions, Indexes, Table Fron, Caletons, Asti
+functions Haterisind Views, 8 Gry oie.
+
++ Ferformed rot cause aaj on fares. Rested performance tuning rated issues and ques
+{ing His, SOLAN PLAN, TPROF, SOL Tac, Indexing, and Porting.
+
++ Berarmed ata migration nto data warehousing Shel srg, Grace Era Tab, SOX”
+{er impert/Expert, tuk ad batch processing
+
++ Aitomatd ifort wore using Ue suomi.
+
+{Responsible fr antag the quay of Source ata a designing ad inplementation of data
+galt conte.
+
++ Designed and developed efit err Handing metheds and implemented troughou the
+‘maples.
+
++ But ih and dynam dashboards and eps wing Ten and Bist to deliver actionable
+insights.
+
++ Generated 200+ canned repr, sub reports, di down reps, rt Mough repets and
+araeterzd vapors to provide ble la or at at ed bss sig Buns
+Dbjets nd rata Reports
+
++ lgated ove 00> reports om Cesta repos to Sst and Tabla,
+
+{Developed and maraged over 6 Sshboards contting 40+ Wie/chats on Bist and Taba Bt
+{itfom ta are wed by management nd erasers mati eprint
+
++ Trained ovr 80 end users cross muti patents n how tous dashboards and intra with
+
++ Werk on Tata ein nd Tabla Server POC
+
+5 lated chang management system fom PS to Miro TF,
+
+5 Were with Business jt and team to Ingle gle developmen practices ncding
+oft ies es, evecare fT ar
+
+«Sereda chp for race atabase administrator for ana of Grace serine, tablespace
+(age and ines.
+
++ ovide spp, rot cue dentition foray rodution ese dri the waranty period after
+st inpementtion conducted wa hugh meeting and gudng 1/7 Soppor
+
++ Scecestly competed FOC fo sing informatie for ETL
+
++ maintained Defect tracks, Bugfix, adhoc eps, projects and assigned works sing JRA ts.
+
+‘Slachwell Consulting LD - Senor Ontawareouse/ ETB Developer
+(iy, STATE = 05/2010: 05/201"
+
++ Lead projects various stages fom requirements gathering and bins nes ana to
+‘eating psi dtatase model, ETL development 0 Unvers Actecre and Report
+
++ Lead and improiad exiting Emergis Data Wares
+
+5 insert in ceating proces, procedures, paces and standards for data warehouse
+Implementation.
+
++ Degned conceptual ata mode based onthe equement, tracted with nontecaelend users
+‘o understand te busines ope
+
++ Modeled te telat and pysieallaram ofthe awe stat, Delivered ERD andthe tow ve
+(eign done
+
++ Seecessfly eth Abs team, plemented varius repetng and anaes projects sig
+Eel ashtere, brat and real Report
+
++ Suporte thausadsof ses and hundreds of eports across al eganiatioa nts and business
+{actin by mailing an active apd tested bse eligenc environ?
+
++ Creates ISG stored roca, fonetions and phages or moving the ta om sapng aes
+tordata mart.
+
++ Condcted and inproved databace pevornnce tuning by SQL statements, index tuning, resting
+‘materalized views, ana data warehousing
+
++ Extensively invtved in wsng hints to drt the optimizer to choose an optimum query exeaton
+sia,
+
++ ie ek cotections fr batter performance and easy reer of data, y reducing content
+sptching between SQL and PLL egies
+
++ Generated server ie PLSQL serps for eta manipulation nd vation and materia ews
+
++ Greate shal Srp for invoking SOL sp and sched tha sig eon tab
+
+5 ote Unix she Scripts to proces the les n ly bass the renaming the fle extracting date
+fom the fe, upping the fe and remove the junk characters fam the fle before ding tern
+{nt he vette.
+
++ Inte inthe continous enhancements a xing of production poten
+
+Det Cansutng LP - Senor Web and Database Developer
+(iy, stare = 1780070472010
+
++ vided constaton on complex projects and was considered top evel contributor frst
+Bae of ystems ara, wh oiering the bniess nations of te ppeston of
+{ecielogy to the caret and future buses nner.
+
++ Lead meatngs with the snes users to capture, cote and document bsiness requirements for
+projet inplamentation.
+
++ sponsible for development of techni programs and component fr he system using Most
+ASPNET, Ce, ting poceaurs In rade database, creating reports using Crystal per
+
++ ofisenty worked with Loge, conceptual and psa dta mode alsa ested ares
+<nensins fr warcowsing data process.
+
++ nla In ta prfiing and corp process after requirement nas forthe Gata Mat.
+
+{Generating sept and schenas by wing reverse englnering hough Erin Ota de
+
+1 Responsible fo developing, support and maltenance for the EL (xtra, Taster and Land)
+processes sing rade PL/SQL.
+
++ Bitentely usd Et rancor and extract dt rm source les (Fat fies, SON anh.) and
+lend the ata to th age databace
+
++ Responible to tne ET procedures and STAR Schemas to optnze od and query performance
+
+1 Gested cmplex sl, PL/SQL Funclons and Procedures, Packages, CUSrS, Tages
+
+{Snel tecnica design documents and developer of vara ata fw Gaga, ta
+‘os, PUSGL packages and aatabase jets to pode supp deve.
+
++ Devoe Sc prcndees packages to ick tthe SOL Lander on es procadres ood
+
++ Werke on IS, HASH Tbe Partioing, STATS Catering, Table Ana and various Ora
+Indes.
+
++ ote PS procedures for econcition of nancial data between ure and are
+automate testing pases and hp busines for pretimiay vation.
+
++ inated procaares/SQ queries for mas efisery in varou databases wing Orie
+Hin, for Rl based optinzation.
+
++ ested GLOGAL TEMPORARY TALES to handing mtlevl data staging operation.
+
++ Extensively worked on Oracle Query Optimization, performances tuning sing EXPLAIN PLAN, DBAS
+PROFILER and reengnering the existing process wth igh efficent and eb
+
++ Monitored and maitaned heath ofthe asiged meles and ovral pit.
+
+{Deval and dosent Ota Mappings Tantoatins a er the business equeret.
+
+5 aricpating inser aceptance testing and hand ing the bsiness users 5 neces.
+
+‘il lnfoSytoms Private Lite - Software Developer
+(iy, stare = 02005 12/2006
+
++ Designed and developed mutter ata riven web applets in suppor of inter and extemal
+‘rantantanl neds
+
++ Understand data ar busines intlignce requirements to nse syst compatty and
+‘ansfrm complex customer business eqlerents no efetve, efficent, and maltalnale
+reps eve seater.
+
++ Developed psi data mel and created ODL Srp to creat database schema and database
+
+object
+
++ Designed data models sing Erin,
+
+1 Wot wer requeeat documents based on fuctinaspecfatin.
+
+{eat nw aes, wtten stored procedres, gr or application Developers and some user
+eindfencins. Crested SOL serps fer ung ad sche.
+
++ tuted In performing data conversions at Yes ito a armaiaed database strc
+
+1 Developed fection, es ad pss fer automation
+
++ Extensively used Joos and sub Queries to simpy complex queries Ivevng mil tables and
+‘is optimind the proceaies an rigs to be edn production,
+
++ vided dase recovery procedures ples fr Sachap a recovery of Databases
+
+5 perermance Ting In QL Server wing 3 Pfr and Dat Loading
+
+1 Sopparted the testing team in intepation and User ecaptance Testing,

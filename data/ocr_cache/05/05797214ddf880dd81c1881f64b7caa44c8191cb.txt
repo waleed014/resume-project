@@ -1,0 +1,107 @@
+ITRESUME (©
+
+EXAMPLE
+
+@ (123) 456-7895
+
+From Resume Genius
+
+forensics. Expert with a wide variety of securit
+
+IT Specialist with over 9+ years of experience in information security and digital
+
+engineering, networking, and
+
+operating system software. Possesses an Associate Degree in Information Security
+and Digital Forensics.
+
+© cotumbia, SC 60622 © thomasbeastey@gmailcom @ linkedin.com/thomasbeasley
+
+Professional Experience
+
+)
+
+2020 Current
+
+C
+
+< 2018 -2020 >)
+
+2014-2018
+
+Security Operations Security Analyst
+Security Professionals Inc., Columbia, SC
+
+‘* Monitor multiple security systems for a Fortune 500
+company
+
++ Investigate incidents caused by malicious activities, and
+identify false positives
+
+© Document security events daily to create a baseline of
+activity for the client network
+
+Network Operations Monitoring Technician
+Technology Smarts, Charleston, SC
+
+* Refined and improved the existing documentation system,
+
+resulting in reduced labor costs totaling $15,000 annually
+via increased workplace efficiency
+
+* Consolidated multiple ticketing systems, improving
+communication and ticket turnover rate by 7%
+
+* Investigated alerts created by IDS/IPS, including malicious
+file uploads, compromised servers, SQL injections, and port
+
+scanning
+
+Information Security Consultant
+Suntrust Financial, Charleston, SC
+
+* Conducted risk assessments and security audits for various
+
+clients,
+
+* Developed and implemented security policies and
+procedures
+
+‘* Conducted penetration testing and vulnerabi
+assessments
+
+* Provided training and awareness programs for employees
+on information security best practices
+
+Education
+
+2013
+B.S. Information Technology
+jent Community College
+
+2011
+‘AA. Information Security and Digital
+Forensics
+Trident Community College
+
+Key Technical Skills
+
+McAfee SIEM/EPO/NSM
+Eye CMS/ETP
+OllyDbg/WinDbg/GBD
+Wireshark/TCPView
+DNS Servers, Mail Server
+Windows 10, 11, Linux, Mac OS
+Google Workspace
+
+Certifications
+
+2014
+Certified Information Systems
+Security Professional (CISSP)
+2013
+Microsoft Certified Systems Engineer
+(MCSE)
+2012
+‘Computer Security & Forensics
+Certificate

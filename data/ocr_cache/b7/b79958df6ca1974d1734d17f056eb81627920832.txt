@@ -1,0 +1,50 @@
+LIZETH CASSIN
+
+75271 Feil Path, Dallas, TX
+
+PHONE
++1 (555) 949 6780
+
+EXPERIENCE
+
+Frami Inc
+
+Dallas, TX // Security Testing & Assessment Production Program Manager // 08/2019 — present
+¢ To Perform the activities of the Static Testing Electrical & Mechanical Tests
+
+Read & Understand the Schematics.
+
+Scheduling and coordinating work to tight deadlines
+
+Creating and carrying out test procedures
+
+Investigating problems and diagnosing and repairing faults
+
+Supervising engineering and technical staff
+
+Dietrich-Prosacco
+Dallas, TX // Mobile Application Testing // 09/2013 — 03/2019
+¢ Writing reports and documentation
+¢ Providing technical support
+¢ Ensuring safe working conditions
+¢ Training maintenance and operative staff where appropriate
+e Relevant technical expertise (for example in static tests, sub system testing and operations)
+¢ Good IT and analytical skills
+
+EDUCATION
+
+Otis College of Art and Design
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Experience in designing and executing test cases within a C# .NET environment
+
+¢ Experience in using an automated testing system such as Coded UI, Selenium, NUnit, TestStudio , etc
+¢ Experience in testing Web applications (developed using ASP .NET)
+
+¢ Deep knowledge of Mechanical Fatigue, System Dynamics, Combustion concepts
+
+¢ Deep knowledge of signal acquisition and analysis
+
+¢ Basic acoustic knowledge

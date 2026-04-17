@@ -1,0 +1,58 @@
+ODIS HILLS
+
+3339 PROHASKA SKYWAY, NEW YORK, NY
+
+PHONE
++1 (555) 569 4549
+
+EXPERIENCE
+
+Purdy LLC
+Chicago, IL // Senior SAP Abap Developer // 12/2017 — present
+
+¢ Expert in SAP Enhancements technologies including Classical Enhancements BADI, User Exits, BTE, and new
+Enhancement framework
+
+¢ Hands on experience with ODATA
+
+¢ SAP EHS project delivery process and methodology expertise — ASAP and Activate
+
+¢ Provide technical leadership to teams and integrate technical expertise and business understanding to develop superior
+product compliance solutions for customers
+
+Lynch, Rogahn and Kiehn
+Chicago, IL // SAP Abap Developer With Finance // 01/2011 - 07/2017
+
+¢ Software development and testing methodologies
+
+¢ ABAP programming language for Reports, Interfaces, Enhancements and Forms, or any comparable programming
+language
+
+¢ BADIs, User Exits, Data Dictionary, RFCs, BAPIs, ALE, IDOCs, BDCs, Screen Painter, Menu Painter, SAPScripts,
+SmartForms, Queries, BSP
+
+¢ HR ABAP Programming
+
+« ABAP Web-Dynpro
+
+¢ Java Web-Dynpro (would be beneficial for future SAP Development)
+
+EDUCATION
+
+Rhode Island School of Design
+Bachelor's in Computer Science
+
+SKILLS
+
+React and respond to critical production problems for Financially Significant Enterprise Accounting and Treasury
+applications
+
+Strong technical, analytical, critical thinking and problem-solving skills
+
+Highly organized and collaborative
+
+Excellent Object Orientated Programming Skills
+
+Knowledge of SDLC methodologies
+
+Knowledge of QA methodologies

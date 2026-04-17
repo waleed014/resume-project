@@ -1,0 +1,59 @@
+ROBERT SMITH
+Senior Sql Server Developer/Coordinator
+
+Phone: (0123}-456-789 | Email: infodquikresume.com | Website: Quikrestme.com,
+
+FSuUMMARY
+
+‘Over 12 years of experience of Database Design and Development in MS SQL Server
+Extensive experience in Database activitles like Data Modeling, Database design,
+database creation and maintenanee, performance monitoring and wning,
+troubleshooting, enterprise level replication. Involved in total Software Development
+Liegycle (SDLC) by identifying the business requirements, documenting technical design
+documents, developing components to implement business requirements and creating
+land executing unit test plans Experience converting OLTP database to OLAP database
+lor fast reporting,
+
+ORE COMPETENCIES,
+
+ROFESSIONAL EXPERIENCE,
+
+Senior Sql Server Developer/Coordinator
+Providence Health & Services - September 2014 - 2020
+
+Key Deliverables:
+
++ Uulized event handling efféetively to generate audits andl logs for the generated
+SSIS packages,
++ Performed archiving and achieved automated processing of the raw data through
+1L process in SSIS,
+
++ Managed and administered SQL server servers.
+
++ Configured ALWAYS ON setup between different DATA Centres and on Multi
+Subnet Cluster
+
+* Configured Windows FailOver Chistering and SQL Clustering on Multf Subnet
+Cluster.
+
+the
+
++ Deployed SSRS Reports seross multiple environments Indudini Test, Production
+and supporting environments,
+
++ Involved in database development by creating oracle PL/SQFunetions,
+Procedures, Triggers, and Packages.
+
+Senior Sql Server Developer
+Delta Corporation - 2009 - 2014
+
+Key Deliverables:
++ Extensively worked on Report coding to behave according to the front end CRM
+Application.
+
+* Configured Subseriptions and Seeurity for all eritioal reports
++ Hundled the database components (Code migration, Change control) for
+application releases,
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yaee Resume Template the copy of Quine com, Usage Guleinne

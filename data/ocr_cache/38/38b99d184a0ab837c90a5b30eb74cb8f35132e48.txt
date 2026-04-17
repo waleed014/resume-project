@@ -1,0 +1,86 @@
+Loren Brekke
+
+9873 Ignacio Corners, Boston, MA # Phone: +1 (555) 570 0033
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+PYTHON APPLICATIONS DEVELOPER
+Houston, TX
+10/2015 — present
+‘+ Help set development standards in areas of best practices, code quality, test coverage, monitoring,
+logging, exception management, and others
+‘* Become proficient in Python, and the Athena platform’s NoSql OO database, graph-oriented
+development model and developer toolset
+‘+ Perform unit testing and system integration testing of the newly developed functionality
+‘© Create technical design recommendations for developing and integrating programs per written
+specifications
+‘* Conduct code reviews on components and applications to ensure adherence to the development standards
+and best practices
+‘* Improve SDLC
++ Integrate various systems to improve efficiency
+
+PYTHON APPLICATION DEVELOPER
+
+‘Los Angeles, CA
+02/2013 — 08/2015
+
+‘© Execute change management activities supporting production deployment to Developers, Quality Control
+Analysts, and Environment Management personnel
+
+Knowledge of software development life cycle and agile development practices
+
+Strong knowledge of Spring frameworks and leveraging distributed data caching frameworks
+
+Provide guidance and oversight to development teams across Capital technology
+
+Working with production support teams to ensure smooth transition of software developed
+
+Develop code for intermediate to complex modules, following documentation and development standards
+Work with the development team to facilitate the Build effort and to ensure successful end-to-End
+integration / testing
+
+PYTHON
+Chicago, IL
+12/2005 — 09/2012
+‘* Work with production support teams to ensure smooth transition of software developed
+Work in an environment which encourages and promotes personal development
+Provide design recommendations, developing and integrating programs per high level specifications
+Liaise with other teams and providers
+Be an active part of a larger internal open source community of developers at Hearst
+Developing a world-class, machine learning-driven recommendation and personalization system to match
+‘our users with jobs
+‘* Understand the project scope, identify activities/ tasks, task level estimates, schedule, dependencies, risks
+and provide inputs to Module Lead for review
+
+KENT STATE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+‘+ Front-office/risk management business knowledge as well as Knowledge of financial instrument features
+
+and trade processing would be a definite
+
+Strong analytical ability
+
+Able to react quickly and perform well under stress and high demand
+
+Working Excel knowledge including VBA, pivot tables, formulas
+
+Proven strong experience with databases ( columnar, nosql and RDMS ) and good SQL skills
+
+Willingness to take ownership of tasks and the ability to work on their own initiative while being a strong
+
+team player
+
+‘© Excellent verbal and written communication skills, able to communicate accurately, concisely and with
+tact and diplomacy when appropriate
+
+‘* Develop a good understanding of End to End business processes and the associated technical blocks
+
++ Equities business knowledge is an advantage but other relevant experience in other business areas is
+welcomed
+
+‘+ The ability to work under pressure within agreed timelines and to support multiple tasks in parallel

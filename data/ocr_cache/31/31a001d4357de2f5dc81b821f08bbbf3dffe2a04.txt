@@ -1,0 +1,110 @@
+ABDIRAHMAN DICKINSON
+
+DevOps Engineer
+
+\ 854-831-1367 © john.hempstead@example.com “> www.example.com
+
+EDUCATION
+
+HSC
+
+University of Richmond
+9 Richmond, VA
+
+GPA
+
+&3 2006 - 2010 3.85 / 4.0
+
+*
+“a
+
+EXPERIENCE
+
+Documentation
+
+Working at the office
+Badminton
+
+Engineering team support
+
+Cooking
+
+Family and friends time
+Sport
+
+Automation
+
+Sr. DevOps Engineer
+
+Digium Inc 3 2015 - Ongoing Richmond, VA
+
+* Managed a Chef environment with 250 roles, 400 cookbooks, and 3,000 nodes
+Created the new PCI-DSS RHEL 6 hardening for the company
+
+Completed data automation project 3 months ahead of schedule and $80k under
+budget for our manufacturing sites in China
+
+DevOps Engineer
+
+Accenture
+
+* On call 24/7 as a L3 engineer.
+Have experience working on Microsoft Office 365 system.
+
+Maintained and optimized a 40-node ElasticSearch cluster that collects 1 billion
+documents daily
+
+63 .2013-2015 9 Irving, TX
+
+DevOps Engineer
+
+Igate 4 2011-2013 9 Richmond, VA
+Worked with a team of developers to develop Human Manager using Spring and
+Angular
+
+Junior DevOps Engineer
+
+Accenture @3 2010-2011 9 Richmond, VA
+
+wwwenhancv.com
+
+9 Richmond, VA
+
+LANGUAGES
+
+English Natives@
+Spanish Proficient. © @.@
+Korean Beginner @
+
+FIND ME ONLINE
+
+in /abdirahmandickinson
+
+W @abdirahmandickinson
+
+SKILLS
+
+| ansible | linux | git | aws | devops
+
+| python | docker | | puppet | | apache
+
+MY LIFE PHILOSOPHY
+
+Human resources are like natural
+resources; they're often buried deep. You
+have to go looking for them, they're not
+just lying around on the surface. You
+have to create the circumstances where
+
+they show themselves.
+Ken Robinson
+
+PASSIONS
+
+® Coding
+
+¢ Algorithms
+
+‘Healthy Lifestyle
+
+Powered by (CX Enhancu

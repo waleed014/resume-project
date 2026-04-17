@@ -1,0 +1,53 @@
+ROBERT SMITH
+Lead SQL Developer
+
+Phone: (0123}-456-789 | Email: infodquikresume.com | Website: Quikrestme.com,
+
+‘Over 8 years of IT experience in software development, designing and implementing Web
+based and stand alone software applications with major focus on Data Warehousing and
+Database Applications. Over 6 years of cumulative experience with Business Intelligence
+tools like MicroStrategy, and Business Objects and also possess knowledge of SOL
+Server Reporting Services (SSRS) and worked In several business areas such as Telecom,
+‘Retail, Banking, Health Care and Pharmaceuticals and Government contracts,
+
+MS SQL. Server 2000/2005 /2008/2008R2/2012, BCP SOL Server.
+
+Lead SQU. Developer
+ABC Corporation - February 2007 - August 2007
+
+Key Deliverables:
++ Responsibilities Worked in a team with DBAS ia Installation, backups, and
++ Involved in table partitioning and Index partitioning,
+
++ Enhaneed existing customized reporting utility Lo meet evolving client needs and
+me constraints,
+
++ Involved in setting up development standards for the Bi project
+Experience with performance tuning new and existing stored procedures
+
++ Developed and modified SQL queries and stored procedures to meet business
+requirements,
+
++ Performed tests and produced results to énsure accturate compliance with project
+request requirements.
+
+SQL Developer
+Electronic Commerce Inc - 2004 - 2007
+
+Key Deliverables:
+
++ Excellent record as a (eam player'with effective communleation skills Experienced
+In database Installation. configuration, maintenance, monitoring, SQL jobs
+Worked in the agile methodology using Serum which has its primary focus on the
+management part,
+
++ Further, these stored procedures are used for generating reports using SQL Server
+Reporting Services (SSRS).
+
++ Created database objects like Procedures, Functions, Packages, Tiagers, Indexes
+and Views using T-SQL in Development and Production environment for SQL
+Server 2008/2008 Developed Complex Stored Procedures. Views and Temporary
+Tables as per the requirement
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yaee Resume Template the copy of Quine com, Usage Guleinne

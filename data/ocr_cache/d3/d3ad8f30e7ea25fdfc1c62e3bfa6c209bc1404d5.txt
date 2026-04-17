@@ -1,0 +1,52 @@
+John William
+Business Analyst eee i taaalcons Likely
+
+Oo
+
+Highly analytical and results-driven professional with substantial experience leading several facets of business
+analysis, IT project management, and digital strategy development and execution. Demonstrated history of preparing
+and performing user training and testing. Skilled at ensuring product backlog is refined and well-documented by
+collaborating with product owner and development team. Adept at gathering functional specifications and
+requirements to deliver project in line with specified needs. Possess expertise of agile methodologies, including
+‘Scrum.Kanban, Scrumban, extreme programming, V model, and design thinking,
+
+Areas of Expertise
++ Business Process Analysis + Training & User Testing 4+ Digital Transformation
+
+« Requirements Gathering  — Cross-functional Collaboration ¢ Scrum Framework
+
++ Project Management + Glient & Stakeholder Engagement + Continuous Process Improvement
+
+Professional Experience
+
+Teal (OCP & IBM JV), Location 2018 - Present
+Business Analyst
+
+Serve as Business Analyst to gather data from clients and deliver functional product in line with set requirements.
+Develop product backlog and perform testing of functional requirements with end users. Collaborate with cross-
+functional teams to achieve shared goal.
+
+Key Projects:
+Documentation AID: Functional Documentation of OCP Applications in Production
+
+* Created functional and technical specification documents by utilising retro engineering, analysis, and
+functional enhancement for applications.
+
+Procurement SAP FG: Full Digitalization of Procurement Process with SAP Field Glass
++ Performed end-to-end functional testing of developed SAP FG solution with end users.
++ Gathered new functional requirements for development on new SAP FG configuration whilst training end
+users on usage of new platform.
+‘Act 4 Community: Web and Mobile Application Designed to Connect OCP Collaborators and NGO to Perform
+Charitable Actions
++ Established "To-be Journey” by organising and conducting design thinking workshops with UX designer.
++ Collaborated with client to create product backlog and tested functional requirements with end users.
++ Achieved high retention rate for end users by providing training on usage of new platform.
+
+‘Smart Lock: Web Based Application to Digitize Security Process HSE and Consignment on OCP Sites
+
++ Gathered requirements and transformed into product backlog by collaborating with product owner.
+
+‘+ Utilised JIRA by using scrum framework to accomplish successful delivery, ensuring satisfied end users and
+stakeholders.
+
+Paget |2

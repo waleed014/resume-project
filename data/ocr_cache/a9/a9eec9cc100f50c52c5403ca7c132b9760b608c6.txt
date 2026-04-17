@@ -1,0 +1,114 @@
+Senior DevOps Engineer
+
+Phone:
+
+Professional Summary
+
+8 years of experience orchestrating DevOps practices, security measures and application architecture. Worked on 18
+projects focusing on automation, quality development, collaboration and innovation. Proven track record in reducing
+deployment time by 70%, removing security vulnerabilities by 95% and automating operational tasks to improve team
+productivity by 60%. | am a US Green Card Holder and authorized to work in USA without any visa requirement.
+
+Experience
+
+Senior DevOps Engineer | DEC 01, 2021 - PRESENT
+
+« Implemented 46 CI/CD pipelines to automate build, test, and
+deployment processes for diverse applications and services.
+
+«Fixed 6000+ security vulnerabilities as well as conducted regular
+security assessments and vulnerability scanning while focusing on
+TDD, SAST, DAST approach.
+
+* Programmed custom Continuous Integration (Cl) templates reducing
+duplication of pipeline code by 85%.
+
+* Executed Azure Kubernetes Service (AKS) clusters for container
+orchestration, streamlining deployments and increasing application
+scalability by 3 folds.
+
+Integrated Flux CD to keep Kubernetes clusters in sync with Git
+repositories and automate configuration updates when available.
+
+* Established infrastructure as code (laC) structure for automated
+infrastructure management of 46 different Azure resources using
+Terraform.
+
+«Enhanced monitoring and alerting systems by 70% for real-time
+
+analysis and swift actions using Azure Monitor, Prometheus and
+
+AppDynamics.
+
+Conducted 20+ training sessions and mentor junior developers to
+
+enhance their understanding of Azure DevOps best practices.
+
+Documented more than 100 services and tools as well as guides and
+
+playbooks.
+
+DevOps Engineer | MAY 06, 2016 — NOV 28, 2021
+- Gurgaon, India 122002
+
+* Worked on creating PaaS and SaaS applications, architecture designs,
+managing infrastructure and automatic deployments.
+
+* Contributed to 15 technical projects (7 major and 8 minor) individually,
+team lead and as a team member.
+
+* Set up latest DevOps practices and standards like CI-CD pipelines,
+security checks and cloud management.
+
+* Coded and guided applications that analyzed 10,000+ properties,
+availabilities, leases and other real estate information.
+
+* Streamlined development and release cycles through Agile frameworks
+like Kanban and Scrum.
+
+* Created a React Composite-Component library for the JLL developer
+community with more than 24 different reusable components.
+
+«Lead multiple teams as a Team Lead and Scrum Master ranging from
+2 to 7 developers.
+
+Education
+
+BACHELOR OF TECHNOLOGY
+(B.TECH) | APR 1, 2011 — MAY 1, 2015
+Noida, India
+
+Major : Computer Science
+
+Skills
+
+DEVOPS: Azure DevOps, Azure Cloud,
+CI/CD, Terraform, Docker, Kubernetes,
+Splunk, FluxCD, Opsgenie, Prometheus,
+ELK, Ansible
+
+SECURITY: Snyk, Wiz, AppSec, TDD, Code
+Climate
+
+DEVELOPMENT: Python, Javascript, Bash,
+ReactJS, REST
+
+GENERAL: Github, JIRA, SQL, MSSQL,
+Scrum, Agile, Automation, Leadership,
+Communication, Documentation
+
+Certifications
+
+Azure DevOps Engineer Expert (AZ-
+400) — Dec 15, 2020
+
+Issuing Org - Microsoft
+
+Terraform Associate (003) — Aug 08,
+2023
+
+Issuing Org - Hashicorp
+
+Azure Developer Associate (AZ-204)
+— May 16, 2020
+Issuing Org - Microsoft

@@ -1,0 +1,70 @@
+Malika Klein
+952 Jaquan Corner, Los Angeles, CA # Phone: +1 (555) 196 2759
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR DEVOPS ENGINEER
+New York, NY
+02/2015 — present
+‘+ Continuous Performance Management. Measuring performance and working with developers and QAs to
+improve it (Metrics, Gatling, Scala, JVM)
+‘* Working closely with Internal/External Stakeholders, Development Architects/Managers & developers,
+across locations, to ensure timely delivery
+‘* Build quality frameworks to provide feedback loop to developers to easy and improved contribution
+‘© Collaborating with and providing assistance to engineering teams as we work together to create new and
+enhance existing solutions
+‘+ Provide ongoing technical assistance in areas including model database management, configuration
+‘management, and simulation runs
+‘* Work with Release Manager and development teams to deploy software releases
+‘* Manage your own workflow and priorities based on departmental and organizational priorities. Complete
+work with minimal supervis
+
+SENIOR DEVOPS ENGINEER
+
+Phoenix, AZ
+12/2008 — 09/2014
+‘© Work with development teams to assist with various automation and configuration tasks
++ Develop, support, and improve tools for continuous integration, automated testing and release
+‘management
+‘+ Strong knowledge of networks, compute, cloud, virtualization, network infrastructure, telecom networks,
+circuits, datacenter technologies and best practices
+‘* Provide expertise developing code that provides predictive results from analytical trending and modeling
+‘+ Provide support and training for developers, quality engineers, system engineers, and project/product
+managers
+‘* Create, develop & manage the deployment architecture for the application
+‘* Design, develop, improve operational processes including automated backup and recovery procedures,
+security and patch management
+
+THE UNIVERSITY OF TEXAS AT AUSTIN
+Bachelor’s Degree in Computer Science
+
++ Excellent communication skills, both verbal and written, Display strong customer service focus and the
+ability to deliver quality support
+
+‘© Excellent verbal and written communication skills including the ability to produce usable and
+maintainable documentation
+
+‘* Good product knowledge and strong knowledge of software architecture in one or multiple focus areas
+
+and / or Software Lifecycle Tools
+
+Demonstrate strong project leadership and ability to develop strong working relationships
+
+Expand and evolve Production R&D Infrastructure in a scalable, highly available, and distributed fashion
+
+Ability and desire to find and resolve outages, scalability, performance and reliability problems
+
+Strong knowledge of application and system software monitoring principles and practice. Some
+
+knowledge of infrastructure monitoring principles and practice
+
++ Attention to detail and the ability to take ownership & accountability for driving issue resolution
+
++ Ability to work in a highly adaptive and highly visible environment that is fueled by continuous change
+
++ Excellent problem solving skills - ability to quickly understand complex business rules and trace issues,
+across integrated systems

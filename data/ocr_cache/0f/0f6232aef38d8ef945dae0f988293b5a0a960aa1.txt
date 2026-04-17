@@ -1,0 +1,121 @@
+DWIGHT TATE
+
+& +1-156-540-5817
+& Dublin, tretand
+
+@ dwighttate@gmall.com
+
+EXPERIENCE
+
+Data Science Intern
+
+Borer Ltd
+
+8 2015- Ongoing Dublin, Ireland
+
+Borer Ltd is a company that offers B2B Sales Prospecting Solution for
+
+Scaling Startups and Fast Growth Companies.
+
++ Extracted data (2500 customer reviews). Converted it into a readable
+form and recorded it in a text file
+
++ Managed team of 12 people .
+
++ Built web app that used advanced statistical models to predict user
+behavior, used by 300+ city teams
+
+* Provided frequency and empirical data analysis using Python
+(pymorphy2, re, numpy, matplotlib)
+
+Data Science Intern
+
+Heller
+
+4 2013-2015 9 Dublin, Ireland
+
+Heller is a software platform that provides video analysis and coaching
+
+tools for sports teams
+
++ Completing an immersive 10-week program called Node that is
+centered on Data Science.
+
++ Successfully completed the POC which helped my institute to gain 2
+more projects.
+
+Data Science Intern
+
+Hudson PLC
+
+3 2010-2013 9 Dublin, Ireland
+
+Hudson PLC is a hub for educational material and question papers of
+
+Guru Gobind Singh Indraprastha University (GGSIPU) Delhi
+
+* Build a real-time analytics dashboard using Tableau and D3,js that
+portrays the processed output.
+
++ Analyzed massive social networks (350+ million vertices) using a
+variety of tools (Hive, Pig, Python).
+
++ Analyzed massive social networks (350+ million vertices) using a
+variety of tools (Hive, Pig, Python).
+
+Business Development/Data Science Intern
+Rolfson
+64 2006 - 2010
+Rolfson is a digital media start up which creates polls for news sites: ‘our
+technology gives users orientation by intuitively visualising opinions’.
++ Reduced time spent by user per session by an average of 12 secs.
+
++ Performed ad-hoc data visualizations using ggplot2 in R for
+measuring current model metrics.
+
+9 Dublin, ireland
+
+‘wwew.enhanev.com
+
+EDUCATION
+
+Computer Science
+Engineering(B.E.)
+Chitkara University
+
+8 2001- Ongoing @ Dublin, Ireland
+
+Bachelor of Science,
+Mathematics
+
+Middle East Technical University
+@ 2000-2001 Dubin, ireland
+
+VOLUNTEERING
+
+Applied Cryptography Winter
+School
+
+Institute of Applied Mathematics
+
+€ 02/2019 - 03/2019
+9 Middle East Technical University
+
+20-hour program in 10 days with a certificate
+
+Combinatorics and Geometry-
+Fernando Rodriguez Villegas
+
+Department of Mathematics
+£2 11/2018 Middle East Technical University
+at Cahit Arf Lecture
+
+Semesterbreak
+Undergraduate-Graduate
+Algebra Program
+
+Nesin Mathematics Village
+(2 01/2018 9 Sirince, izmir
+‘About 60-hour program in 2 weeks
+
+Poweredby (CX) Enhancu

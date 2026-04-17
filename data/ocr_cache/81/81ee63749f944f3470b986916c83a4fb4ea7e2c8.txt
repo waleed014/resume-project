@@ -1,0 +1,72 @@
+Osmara Neste
+
+DevOps Engineer
+
+& Profile Det
+
+Results-driven DevOps Engineer with 2 years of experience in designing, ‘osmara.neste@gmailcom
+implementing, and optimizing scalable and reliable infrastructure (908) 585-4081,
+
+solutions. Proficient in continuous integration and deployment 123 Elm Street, Oklahoma City, OK
+strategies, leveraging automation tools and cloud technologies. Adept Tie
+
+at collaborating with cross-functional teams to enhance software
+development and operational effciency. Dedicated to continuously
+improving processes and fostering a culture of innovation and
+collaboration.
+
+Links
+kedin.comfin/osmaraneste
+
+iu Employment History skills
+DevOps Engineer at DevOpsGroup, OK Kubernetes
+Feb2023- Present
++ Reduced deployment time by 50%: Implemented anew i/CO pipeline Jenkins
+sing Jenkins and Docker, which streamlined the deployment press
+and significantly reduced deployment time from 2 hours to 1 hour. Terraform
++ Increased sytem uptime to 99.95: Collaborated withthe Goce
+development and operations teams to identity and resolve
+bottlenecks nthe infrastructure, ultimatelyimprovingsystemuptime a.
+by 0.5% over a 6-month period
++ Optimized cloud infrastructure costs by 30%: Conducted thorough Gp
+analysis of loud esource usage and suggested severaloptimizations, © GX
+such as using auto-scaling groups and reserved instances, resulting prometheus
+30% cost reduction forthe company.
++ Enhanced code quality and reduced eror rates by 4%: Introduced
+automated testing and monitoring tots, such as Selenium and ELK Languages
+stack, which led to better code quality and a significant reduction in
+‘the number of production errors. English
+Junior DevOps Engineer at Paycom, OK spanese
+
+‘hvg2021 -Dec 2022
+
+Implemented a new C1/CD pipeline, reducing deployment times by
+35% and increasing development team effciency by 20%.
+
+Hobbies
+
++ Optimized cloud infrastructure, resulting in a 25% reduction in
+monthly costs and improving system performance by 15%. Building and programming
+
++ Automated manual processes for system monitoring and Raspberry Pi projects
+maintenance, leading toa 50% reduction in downtime and a 30% Exploring new containerzation
+increase in overall system celiabilty technologies tke Docker and
+
++ Collaborated on a team project to migrate legacy applications toa Kubernetes
+
+containerized environment, reducing deployment complexity by 40%
+
+Participatingin open-source
+‘and improving scalability by 50%.
+
+software development and
+communities
+= Education
+
+Bachelor of Science in Computer Engineering with a focus on
+DevOps at Oklahoma State University, Stillwater, OK
+
+Relevant Coursework: Software Engineering, Computer Networks,
+Operating Systems, Cloud Computing, Distributed Systems, Web
+Development, Cybersecurity, Data Structures, Algorithms, Database
+Management, and Agile Methodologies.

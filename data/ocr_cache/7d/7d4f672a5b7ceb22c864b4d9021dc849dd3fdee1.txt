@@ -1,0 +1,93 @@
+GORDON JENKINS
+
+31495 Harris Forks, San Francisco, CA
+
++1 (555) 280 5983
+
+EXPERIENCE
+
+LEGROS-MORAR
+
+Houston, TX | Senior Python Developer 06/2019 — present
+
+In-depth experience with unit testing, integration testing and load
+testing
+
+Proven success in a distributed, team-based environment
+Knowledge of both SQL (Stored procedures) and NoSQL databases
+such as MySQL, PostgreSQL, MongoDB
+
+Drive adoption of Cloud technology for data processing and
+warehousing
+Take strong initiatives and highly result oriented
+
+Strong Co-ordination with partners, focused
+
+Developing and deploying web applications on the cloud Technologies
+Knowledge of Python language
+
+Knowledge of software analysis and design
+
+Multitasking / multiprocessing
+
+Work with business team members, project managers/analysts, other
+software engineers to review business requirements, functional
+specifications, use-cases, and test plans
+
+HAGENES LLC
+
+Houston, TX | Python Developer 03/2013 - 12/2018
+
+Understand requirement from Product Owners/Architects in areas of
+Optical Transport Technologies (DWDM concepts, OTN, SONET/SDH
+Protocols, optical networks) and break them into end to end use cases
+Design and Implement use cases in MCP using Java, Scala, Python
+Quick Prototyping using newer technologies and open source platforms
+in Web and NMS domains
+
+Deep understanding of multithreading concepts with experience of
+developing robust and scalable distributed server side applications and
+algorithms
+
+Knowledge/ experience in Distributed NoSQL databases(Couchbase,
+Redis)
+
+Implementation or working experience of Continuous Integration and
+Continues Delivery using tools and automation capabilities such as
+Pytest, Jenkins, Git, and Jira
+
+EDUCATION
+
+FASHION INSTITUTE OF TECHNOLOGY
+Bachelor's in Computer Science
+
+SKILLS
+
+Universal version control repositories such as Artifactory,
+BitBucket, and Git
+
+Scan objects for malware, bugs, vulnerabilities, and
+apply fixes
+
+Understanding of network data protocols
+
+Experience with monitoring/diagnosing activity at the
+host, application, network, internet protocol, database,
+source code, and LAN layers
+
+Experience working with Bro/Zeek data sets
+
+Experience using or scripting cybersecurity intrusion
+detection tools and analysis
+
+Experience with machine learning/data science stack
+(e.g
+
+Familiar with interactive data-driven analytical notebooks
+like Zepplin Notebook
+
+Experience with deploying images using Ansible,
+Terraform
+
+Experience with open-source enterprise network
+monitoring tools like Kafka and Nagios Core

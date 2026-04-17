@@ -1,0 +1,93 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 ¢ resumesampleGexample.com
+
+Summary
+SAP BW/BI Consultant PE RSONAL SUMMARY SAP BI7.0 Certified Application Associate having 3 years of experience in
+development and support with 1 complete development life cycle
+
+SAP Certified Application Associate-Business Intelligence with SAP NetWeaver 7.0
+
+AREAS OF EXPERTISE Business Intelligence BW,
+
+Business Objects 4.0/4.01,BEx Suite Deploying SAP BW Business content. Creating data sources for non-SAP systems and SAP
+systems.
+
+Data modeling with DSO and CUBES using enterprise data warehouse concepts Query writing using new query designer and report
+designer.
+
+Highlights
+
+SAP Certified Application Associate-Business Intelligence with
+SAP NetWeaver 7.0
+
+Experience
+Chronology
+Education
+
+Diploma: Computer Engineering Computer Science, 2004
+London City Institute - London
+
+Master of Science: Computer Science, 2000
+Int'l Islamic University - London
+
+Bachelor of Science: Maths Physics
+University of Azad Kashmir - London
+
+Technical Skills
+
+SAP BBW Expert level 3 October 2013,
+Accomplishments
+
+* Involved in components" development like Standard and custom R/3 (ECC) datasource InfoCubes, DataSources, MultiProviders,
+extractor development DSOs etc.
+Datasource development using FlatFile, UD Query writing using query designer Connect, DB Connect Data loading using Process
+Chains.
++ Customizations of web templates using Transport Objects and go live using Web Application Designer.
+
+Work Experience
+
+SAP SAP BI Developer , 02/2010 to 09/2013
+Fidelity National Financial
+
++ Transformation development between BI datasource.
+
+* Bl data source and DSOs and Info Cubes.
+
++ Analysis of business requirement Data modelling and report design Support for daily data load process chain Support from data
+reconciliation for BW Project documentation ( documentation of reports from R/3 (ECC) data customised object) Standard objects
+activation Project Synopsis: This project was to develop an application for monthly sales data reporting from IMS (data providers
+for pharmaceuticals).
+
++ The requirement was to automate the data loading process with flat files as source and development of the cube that will cater
+for the monthly sales performance reporting of sales representatives.
+
+Assistant Support Manger, 01/2009 to 2010
+Lakeshirts, Inc - Detroit Lakes
++ Assist and support the Facilities Manager in the effective running of the properties.
+* Maintain accurate financial controls at a local level to assist including build-up of the service charge budget and expenditure
+higher management.
++ Maintain relationships with tenants through regular contact and visits.
+
+System Analyst, 2008 to 11/2009
+Mastercard — Miami
++ Conducting a feasibility study to evaluate the business needs of the clients and document their actual procedures for various
+purposes.
++ Analysing clients’ existing systems.
+* Study and gather end-users’ requirements, business specifications and processes to compile system requirements and
+specification (SRS) document.
++ Digital Processing System Inc.
+
+Software Developer, 01/2005 to 2008,
+DPS - City
+* Being a software developer involved in System Study and Development.
+* Also, part of a team performed requirements analysis, data modelling of conceptual, logical and physical models,
+* Assisted in writing specification and compiling the related documents for various business processes.
++ Naval Headquarters (NHQ) (Islamabad Pakistan.
+
+Software Engineer, 2003 to 08/2003
+Pakistan Navy - City
++ Asa Software Engineer, worked in a team to develop Medical Information System for Pakistan Navy's Hospitals in different
+cities.
+* Did System SRS data modelling (Conceptual, Logical and Physical including DFD’s and ERD's) using CASE Tools like ER Win
+and MS Visio.

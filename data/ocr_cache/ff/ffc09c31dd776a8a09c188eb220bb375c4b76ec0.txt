@@ -1,0 +1,71 @@
+Abhishek
+Sharma
+
+Entry-level Data Scientist
+
+Phone:987-234-321
+Email: abhisharma@gmail.com
+
+Goal-oriented, innovative and a
+recent data science graduate with
+
+notable internship experience as well.
+
+Looking forward to opportunities to
+contribute my skills and abilities to
+the data science industry
+
+Technical Skills (IT)
+
+* Computer Science MySQL,
+Python, System Administration,
+Java
+
+¢ Supervised Learning: linear and
+logistic regressions
+
+« Machine Learning
+
+* Research Data Mining, Survey
+Creation,Focus Groups, Data
+Science Research Methods
+
+* Data Management and
+Data Visualization
+
+* Database and Design Management,
+Identification of Data Patterns
+and Trends
+
+Work Experience
+
+Data Scientist Intern
+Flipkart
+March 2019-March 2020
+
+«Collected, cleaned, and organized
+data for clients with SAS
+
+¢ Utilized data warehousing programs
+and MS SQL, and Tableau
+
+* Helped senior data scientists to
+build marketing models
+
+Education
+
+Bachelor's in Data Science
+
+Fergusson College, Pune.
+
+2015-18
+
+Professional Certificate
+
+* Certificate in Data Science
+
+¢ Scalar Data Science Course (Online)
+
+SCALER
+
+Topees

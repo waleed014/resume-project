@@ -1,0 +1,62 @@
+Arvind Yadav
+
+Software Tester
+
+PROFILE * ABOUT ME
+
+Extensive experience of XX years in analyzing users stories and/use cases/requirements for validity and feasibility: executing all levels of
+testing (System, Integration, and Regression): adept in designing and developing automation scripts when needed
+
+Understanding test requirements: adept in contributing in test plan preparation: deriving test scenarios: documenting test cases; updating
+traceability matrix document; collecting test data: creating test batches: executing test cases; reporting defects and tracking defects;
+collecting test metrics
+
+Skilled in enhancing test cases using programming features: grouping test cases, prioritizing test cases, executing test batches and
+generating test reports: carrying out data driven testing, cross browser testing, and database testing: analyzing the test results and
+reporting defects
+
+Team based management style and excellent interpersonal / communication skills. An effective leader with proven abilities in leading
+‘teams during the project phase, guiding members and enabling knowledge sharing among the team
+
+EDUCATION
+management, Master of Business Administration Completed, March 2003
+‘ABC School Marks 70%, Division |
+
+CBSE — noida, Uttar Pradesh
+
+WORK EXPERIENCE
+
+Feb 2002 - Feb 2004
+noida, Uttar Pradesh
+
+Software Tester
+abe pt Itd
+Key Result Areas:
++ Understand the requirements of the software and clarify doubts regarding the same
++ Learn about the software that is being tested and all the other software that are associated with it
++ Understanding the entire plan of the master project: create required test data for the procedure of testing
++ Maintain test logs; design specific cases of testing according to the requirements
++ Create testing plans; organize the necessary test beds of hardware, software and network
++ Report the bugs to the stakeholders; inform the stakeholders of the test results
++ Attend to bug reports that have been returned: update the cases of testing as defects are discovered
++ Conduct a re-test of the resolved bug issues: report the progress in work to the project manager or team lead
++ Update the automation of tests depending on the updated cases of testing
+‘+ Help the team out through providing them with inputs
+Key Highlights:
++ Any existing systems/ processes streamlined???? Results obtained???? Major assignments handled????
++ Any unique initiative taken to improve customer satisfaction level??? Any major accounts/clients handled???
++ Awards/appreciation letters received??7? Other relevant achievements???
+
+Software Tester Mar 2005 - May 2007
+XYZ pit Itd noida, Uttar Pradesh
+Key Result Areas:
+
++ Worked with software developers and project support teams
+
++ Met with system users to understand the scope of projects
+
++ Monitored applications and software systems; worked on multiple projects at one time
+
++ Carried out stress testing, performance testing, functional testing and scalability testing
+
++ Wrote and execute test scripts: ran manual and automated tests,

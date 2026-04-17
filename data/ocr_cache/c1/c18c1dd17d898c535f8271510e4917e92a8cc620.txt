@@ -1,0 +1,121 @@
+TIMOTHY DUNCAN
+
+Python Developer
+
+229-828-1284 © lily.williams@gmail.com © github.io/lly.williams 9 San Francisco, CA /
+SUMMARY SKILLS
+Python developer with 8 years of experience in finance and fintech. Well- Programming
+
+acquainted with database engineering, data warehouses, and data processing
+Knowledgeable in Python frameworks related to data such as SciPy, NumPy,
+Matplotlib. Cloudera certified Data analyst, PCPP-1 certification and Spark/Hadoop
+developer certification,
+
+EDUCATION
+
+B.S. Software Engineering goa
+University of California, San Fransisco 38/40
+@ 2008-2012 San Francisco, CA
+
+EXPERIENCE
+
+Python Developer
+Revolut @ 2015-2018 @ San Francisco, CA
+Revolut isa financial technology company that offers banking services. We offer
+accounts featuring currency exchange, debit cards, vitual cards, and vaults
+Collaborated with Web Application Engineers, used Python scripts to load the
+data into AWS Cloud Cassandra database
+Visualised over 40 datasets with Matpiotlib
+Involved in processing the streaming data as well as batch data using Apache
+
+Spark
+Delivering projects with 1-2 days turn around time or even within hours
+
+Python Developer
+Bank of America @ 2012-2015 @ San Francisco, CA
+Lauzon isa finance firm based out of San Fransisco, CA. They cater to over 30 local
+businesses and startups by providing custom finance software.
+Developed internal tools fo text mining (sentimental analysis), and web crawler
+for collecting data by Python and SQL
+Used AWS Elastic Beanstalk service for deploying and scaling web applications
+and services developed with Java, Python
+Developed shel scripting and Python programs to automate the dataflow on
+dayto-day tasks
+Analyzed the SQL scripts and designed the solution to Developed a custom ETL
+pipeline by using Python
+
+Junior Python Developer
+Streich @ 2018-Present @ San Francisco, CA
+Lauzon isa finance firm based out of San Fransisco, CA. They cater to many local
+businesses and startups by providing custom finance software.
+
+Made over 800 insertions and 150 deletions to 4 central Fitmware repositories
+
+inless than 3 months
+
+Participated in more than 4 projects per year from intial research and
+
+conceptual design through testing and implementation phases
+
+Developed data quality portal using Python scripting, increasing data quality by
+
+20%
+
+‘Communicated and coordinated with the project manager and coworkers
+
+to resolve 30+ build breaks a month
+
+www.enhanev.com
+
+Python SciPy — NumPy —Matplottlib
+
+Django Flask = SQL_ Java
+
+Databases & Servers
+
+AWS — DjangoORM = MySQL_—ETL
+
+Cassandra MongoDB_—_Hadoop
+
+Spark
+
+Development
+
+GIT SVN
+
+PyCharm
+
+CERTIFICATION
+
+CCA Data Analyst
+‘Cloudera, 2017
+
+CCA Spark and Hadoop Developer
+‘Cloudera, 2015
+
+PCPP1
+‘The Python Institute, 2014
+
+STRENGTHS
+
+Time management
+
+Prioritizes essential tasks so they are not
+rushed. Sets deadlines that ensure reaching
+milestones on time.
+
+[C}
+
+Adaptability
+| remember that change isnot personal and is
+inevitable. | break my projects into multiple
+parts s0 that if something goes wrong, can
+‘Quickly fet
+
+Accountability
+
+| take ownership of my mistakes. By doing
+that | learn what | did wrong so that it does
+not happen again.
+
+Powered by CX) Enhancu

@@ -1,0 +1,78 @@
+Karina Blick
+
+6464 Titus Loop, New York, NY @ Phone: +1 (555) 334 2620
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+DATA SCIENTIST, ANALYTICS OFFICE
+Detroit, MI
+09/2015 — present
+‘© Build and develop trust-based relationships with operator customer's middle and senior management in
+relation to product attached consulting engagements
+‘* Develop tools and templates to assist in operationalizing analytics insights
+‘+ Provide opportunity leads to sales in order to maximize business value of Nokia solutions to the customer
++ Applying advance analytics and data science methods to generate business insights, predict customer
+satisfaction and other business performance indices
+‘+ Support product attached consulting deliveries by carrying out data analytics and data science driven
+tasks on Nokia and operator data sources
+‘© Design advanced analytics models including predictive modeling and machine learning to answer the
+business and operational question at hand
+‘© Use fact based problem solving methods
+
+DATA SCIENTIST, ANALYTICS
+
+Los Angeles, CA
+02/2013 — 06/2015
+
++ Building and analyzing dashboards and reports,
+Spreading best practices to analytics and product teams
+
+Evaluating and defining metrics
+
+‘Communicating of state of business, experiment results, ete to product teams
+Building models of user behaviors for analysis or to power production systems
+Authoring pipelines via SQL and python based ETL framework
+
+Building key data sets to empower operational and exploratory analysis
+
+DATA SCIENTIST ANALYTICS:
+New York, NY
+04/2009 — 01/2013
+‘© Work alongside ETL engineers to establish an analytics platform to be used across the business
+Work alongside engineers to establish an analytics platform to be used across the business
+Creating automated anomaly detection systems and constant tracking of its performance
+Selecting features, building and optimizing classifiers using machine learning techniques
+Perform machine learning, natural language, and statistical analysis methods, such as classification,
+collaborative filtering, association rules, sentiment analysis, topic modeling, time-series analysis,
+regression, statistical inference, and validation methods
+* Doing ad-hoc analysis and presenting results in a clear manner
++ Enhancing data collection procedures to include information that is relevant for building analytic systems
+
+INDIANA UNIVERSITY
+Bachelor's Degree in Computer Science
+
+‘+ Experience with common data science toolkits and modeling tools (such as R, Python, Knime, MatLab.
+Excellence in at least one of these is highly desirable)
+
+Curious, proactive, fast learner able to quickly picking up new areas
+
+Capable to develop and proficiently query SQL and non-SQL databases
+
+‘Team worker in multidisciplinary and international settings, able to adapt quickly
+
+The candidate should have strong knowledge of database concepts and SQL
+
+Strong work ethic and personal integrity; self-directed and self-motivated with a highly developed
+curiosity and willingness to learn and to teach
+
+Good data modelling intuition
+
+Good applied statistics skills (such as distributions, statistical testing, regression, etc)
+
+Being able to work autonomously
+
+Good understanding of data manipulation/wrangling techniques

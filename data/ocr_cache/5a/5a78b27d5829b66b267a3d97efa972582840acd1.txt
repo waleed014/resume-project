@@ -1,0 +1,131 @@
+Jessica CLAIRE
+
+100 Montgomery’St. 10th Floor # (555) 432-1000 ¢ resumesamplesexample.com,
+
+Professional Summary
+
+SAP FICO S4HANA professional. Two years of SAP Experience, successfully helped Terumo bring positive change through SAP
+technology solutions. Led and contributed to implementation, support, roll out projects across Finance. Experience in Treasury,
+Banking, General Ledger, Accounts Receivable, Accounts Payable, Credit Management, Lockbox Accounting, Dispute Management,
+copa.
+
+Skills
+
+Strong knowledge of ERP Finance and Controlling Process Analytical Skills
+Experience with Financial Supply Chain Management (FSCM)
+
+Work History
+
+SAP Treasury & Banking Applications Specialist, 07/2019 to Current
+‘Terumo Americas Holdings, Inc —City, STATE
+
+‘+ Under the leadership and tactical guidance of Sr. Manager, SAP Record to Report, the SAP Specialist - Finance Treasury &
+Banking Application specialist successfully collaborating with business stakeholders, consultants to help design, develop, and
+deploy and support solutions in SAP S/MHANA.
+
++ Played a critical role in supporting the developing the architecture and implementation of SAP SHANA within the operating
+subsidiaries and the holding company Terumo in North and South America.
+
+‘+ Member of the Center of Excellence team for SAP, Report to Record.
+
+‘+ Develop and maintain roadmap for the Finance and controlling solution, ensuring it reflects the current and future business
+needs, aligns with industry, SAP best practices and solution roadmap.
+
++ Proactively and effectively communicate and collaborates with the SAP COE Leadership team to address the need for bolt-on
+and other integrated applications which have relevance across Terumo operations.
+
+‘+ Enhanced Incoming and Outgoing Payments, AP/AR matching, General Ledger, Cost Center, Accounting processes through the
+development of regionally relevant solutions to meet business needs,
+
+++ Worked successfully with other Process Team(s) in resolving key integration points between and across processes to ensure they
+are properly accounted for.
+
+‘+ Worked with other Process Team(s) on cross-functional processes (SAP Hierarchy).
+
+‘+ Worked with other Process Team(s) in development and execution of the test script in the integration testing cycles, as well as
+develop and execution of the cutover activities.
+
+‘+ Built on basic knowledge in areas such as IDOCs, batch job processing to troubleshoot and suggest improvements.
+
+++ Performed Fit/Gap assessment and finalize functional requirements.
+
+‘+ Work with Consultants and developers to clarify any requirements as needed.
+
+«+ Successfully performed unit testing and ensure satisfaction of the documented requirements
+
++ Timely development and communication of weekly/monthly/quarterly status reports to Record to Report Solution Architect.
+
+Group Treasury Analyst, 03/2018 to 07/2019
+‘Terumo Americas Holding, Inc City, STATE
+
+‘+ Manage daily cash management activities for cash reporting to senior management.
+
+++ Provide daily cash reconciliation for Terumo Americas Holding, Terumo Medical Corporation, and Terumo Latin America,
+
+‘+ Established the banking structure and manage the daily bank relationships for entire company.
+
+‘+ Implementation and maintenance of the Treasury Management System - Kyriba,
+
+‘+ Maintain ERC technology application to optimize productivity and increase hit rates.
+
+++ Process ACH positive pay request forall subsidiaries,
+
+‘+ Analyze and negotiate bank fees to insure consistent treasury management service pricing across the company.
+
+‘+ Create automation of AP files approval, reporting, and processing,
+
+«+ Analysis of AP payments and savings.
+
+‘+ Administrator of companywide card programs.
+
+‘+ Full implementation of the companywide Corporate Purchase Card Program as well as Travel and Expense Program,
+
+‘+ Administrator for all banking platform applications.
+
+‘= Support and Lead Cash collection improvement process projects
+
+‘+ Maintains and monitors banking activity in Treasury Management's system’s modular database.
+
+‘+ Ensure cash is properly balance, codified and reconciled for accounting’s review and recording,
+
++ Provide on-going Treasury support to subsidiaries on banking issues.
+
+«+ File yearly Foreign Bank Account (FBAR) filing for Terumo Americas Holding and subsidiaries.
+
+Group Treasury Specialist, 12/2015 to 03/2018
+‘Terumo Americas Holding, Inc ~ City, STATE
+«+ Perform all daily cash management activities including cash positioning,
+‘+ Report daily, weekly, monthly cash reporting for TAH to the senior management.
+‘+ Execute cash transactions for account transfers, intercompany loans, investment transactions for TAH subsidiaries.
+‘+ Assist Senior Treasury Analyst with preparation of cash forecast for all TAH subsidiaries.
+‘+ Monthly cash reconciliation for Terumo Medical Corporation cash bank accounts.
+‘= Prepare and post TAH miscellaneous deposits and monthly journal entries for all cash activity.
+‘+ Submit positive pay file for weekly checks for TAH and TMC.
+‘+ Responsible for accurately tracking check disbursements and check clearing on a daily basis across all TAH subsidiaries.
+«+ Prepare monthly credit card receipt reports for TAH.
+++ Perform monthly analysis for making sure Merchant Transactions are achieving qualified savings.
+‘+ Prepare monthly product cash reports.
++ Distribute and file daily, weekly, monthly Bank Statements,
+++ Analyze bank fees to insure consistent treasury management service pricing across the company.
+++ Load and Execute Federal Fund Wires and ACH payments on a daily basis.
++= Process lockbox cash receipts and intercompany netting and settlement schedules in support for Terumo Medical Corporation.
+
+Cash Application, Accounts Receivable, 02/2015 to 12/2015
+Accutest Laboratories ~ City, STATE
+‘+ Process payments received (wires, checks, credit cards) in, accounts against open invoice to U.S.
++ Customers.
+‘+ Remotely deposit checks received at New Jersey corporate headquarters.
+‘+ Reconcile cash received daily against cash applications.
+‘+ Manage unapplied cash reporting and reconciliation.
+‘= Process daily cash collections reports to senior management.
+‘+ Manage credit card processing through First Data application.
++ Collect and resolve credit card declines with accounts receivable team.
++= Properly code invoices for payment, enter cash receipts, and update accounts receivable ledger by customer.
+‘+ Daily use of MAS 500 accounting program and LIMS (Laboratory Information Management System).
+‘+ Assist staff members as necessary (Le.
++ Pulling invoice copies, back-up, ete).
+
+Education
+
+Graduate, Bachelor of Science: Healthcare Administration, 2012
+University of Phoenix

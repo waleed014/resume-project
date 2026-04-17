@@ -1,0 +1,86 @@
+% edgarnarayan@gmailcom
+% (064) 095.5167
+Sacramento, A
+
+Education
+Bachelor of Science in
+
+Information Technology at
+University of Southern
+
+Relevant Coursework: Database
+Management, Networking,
+Data Analytics, Cybersecurity,
+Software Development, Web
+Design, Information Systems,
+Programming Languages, Cloud
+Computing, and IT Project
+Management.
+
+Links
+
+linkedin.com/in/edgarnarayan
+
+Languages
+English
+
+Edgar Narayan
+
+DevOps Engineer
+
+Profile
+
+Detal-oriented DevOps Engineer with a year of experience in designing and.
+implementing operational solutions. Proficient in continuous improvement and
+agile methodologies with a proven track recordin integrating project management
+and software development. Demonstrated expertise in cloud technologies,
+scripting languages, and automation tools. Proactive in identifying and addressing
+challenges, optimizing processes, and achieving team objectives. Committed to
+enhancing system efficiency and performance.
+
+Employment History
+
+‘Senior DevOps Engineer at Google Inc., CA
+
++ Successfully implemented a new Continuous Integration/Continuous
+Deployment (Ci/CD) pipeline thatincreased deployment frequency by 40%and
+reduced deployment failures by 30%.
+
++ Leda team in migrating Google's servers toa cloud-based infrastructure,
+reducing operational costs by 258 and improving system scalability and
+reliability
+
++ Optimized Google's existing DevOps processes and tooling, resultingina
+3506 increase in development team efficiency and a 505 reduction in system
+downtime.
+
++ Designed and implemented a robust security protocol for the DevOps process
+‘which resulted in a 60% decrease in security breaches and improved overall
+system integrity,
+
+Junior DevOps Engineer at Apple Inc., CA
+
++ Successfully automated 20+ daily tasks, improving effciency by 30% and
+allowing more focus on strategic projects.
+
++ Played a pivotal role in the development and deployment of anew application
+that increased system productivity by 40%,
+
++ Leda team to troubleshoot and resolve over 1000 system issues within a year,
+reducing downtime by 25%.
+
++ Implemented a continuous integration and continuous delivery (CCD)
+pipeline that improved the software release process by 35%.
+
+Certificates
+
+Docker Certified Associate (DCA)
+Mar
+
+AWS Certified Devops Engineer
+
+Memberships
+DevOps institute
+The
+
+1ux Foundation

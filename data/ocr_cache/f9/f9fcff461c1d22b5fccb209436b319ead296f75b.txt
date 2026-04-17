@@ -1,0 +1,68 @@
+FIRST LAST
+
+Freelance Web Developer
+New York City, NY 10000 ¢ first.last@resumeworded.com * + | (212) 123-4567
+
+PROFESSIONAL EXPERIENCE
+
+RESUME WORDED San Francisco, CA and New York, NY
+Web Developer 2017-Present
+Web Designer 2013-2017
+
+e Developed dynamic and interactive websites that ensured high traffic, page views, and user experience which
+resulted in a 45% increase in sales revenue
+
+e Earned commendation and appreciation from the client by implementing a server that expedited document
+generation and searches functionality by 30%
+
+e Developed a new administration panel for a purchasing agent business, which improved the efficiency of
+operating by over 35%
+
+Selected Project Experience
+e@ Developed new web applications as identified by management using ASP.NET, WCF, web services, and MVC
+architecture.
+- Maintained and enhanced existing web applications and all integrated systems by utilizing C#, ASP.NET
+MVC4 Razor View Engine, XML, Javascript, and jQuery
+- Incorporated FedEx and UPS tracking info to the company's customer-facing website using web services
+and WCF which saved 10% of customer time
+- Managed all stages of Web site creations for clientele, from initial design and architecture to development,
+deployment, and management of Web sites and completed a total of 10 projects for 4 clients, representing
+over 250 employees
+e@ Developed, maintained, and promoted websites for 7 domains using various customized WordPress templates.
+- Implemented web software such as traffic analyzers, banner programs, and onsite SEO which improved
+the website traffic by 15%
+- Implemented designs that included custom post-types & taxonomies as well as social media integration
+- Exceeded client's technical needs by providing efficient and cost-effective web hosting which reduced the
+
+cost by 20%
+GROWTHSI New York, NY
+Junior Web Developer 2012-2013
+
+e Increased traffic and enhanced page ranking by improving website structure, performing Search Engine
+Optimization (SEO) and Search Engine Marketing (SEM) for local improvements
+
+e Oversaw full lifecycle of software development for 8 projects with 100% on-time delivery while staying 6%
+under budget
+
+e Designed processes for cleanup and performance improvement that minimized downtime by 15%
+
+EDUCATION
+
+GROWTHSI San Francisco, CA
+
+Master of Science in Management with Honors; Major in Management 2011-2012
+e Awards: Bill & Melinda Gates Fellow (only 5 awarded to class), Director’s List 2017 (top 10%)
+
+RESUME WORDED UNIVERSITY New York, NY
+
+Bachelor of Engineering, Major in Computer Science; Minor in Mathematics 2007-2011
+
+e Completed one-year study abroad with Singapore University
+ADDITIONAL INFORMATION
+
+e Technical Skills: JavaScript, HTML, .NET, Microsoft SQL Server, Amazon Web Services (AWS), J2EE,
+WordPress, Dreamweaver
+
+e Certifications: Java Programming (August 2016)
+
+e Awards: RW’s Top 30 Under 30 (2011); Won nationwide case competition out of 500+ participants (2013)

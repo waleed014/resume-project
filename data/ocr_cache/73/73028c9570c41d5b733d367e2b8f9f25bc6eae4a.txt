@@ -1,0 +1,70 @@
+MARLIN
+LARKIN
+
+address
+82466 Glynis Roads,
+Philadelphia, PA
+
+tel +1 (555) 919 0846
+
+Experience
+
+Romaguera LLC
+Boston, MA || Senior SAP Developer || 08/2020 — present
+
+e
+
+Completed 1 or more full lifecycle implementations of SAP Systems
+utilizing standard SDLC methodologies such as ASAP or Waterfall Model
+Hands-on development experience of RICEF objects in both ABAP on
+HANA and Core ABAP
+
+Expertise in OO ABAP
+
+Experience in design, developing OData Services using SAP NetWeaver
+Gateway
+
+Experience is Adobe Interactive Forms Adobe Fragments based forms
+using Adobe Lifecycle designer
+
+Extensive experience in Smart forms and SAP Script
+
+Kassulke-Nicolas
+Boston, MA || Lead SAP Developer || 03/2014 - 07/2020
+
+e
+
+Experienced utilizing OData services for ABAP on HANA development
+Experience in developing applications in various modules including
+FI/CO/SD/MM
+
+Expertise in enhancing standard SAP functionality leveraging standard
+enhancements framework — User exists, Business Transaction Events
+(BTE), Business Add Ins (BADI), Enhancement Spots (Implicit & Explicit)
+Form Development experience in SAP-Script, Smart-forms and Adobe
+Forms
+
+RF programming expertise using RF framework
+
+Education
+
+Rhode Island School of Design
+Bachelor's in Computer Science
+
+Skills
+
+Experience with visualization tools such as Tableau, Qlik View, Power BI,
+SAP Analytics Cloud, etc
+
+Prior Experience in CPG
+
+Critical Thinking - Question conventional wisdom by identifying and
+challenging assumptions made that cause actions or inaction
+
+Provide organizational support for relationship development to foster
+teamwork, build relationships, and promote collaboration to cultivate and
+strengthen a network for the exchange of ideas
+
+Problem-solving (analytical)
+
+Learn and train other team members

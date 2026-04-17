@@ -1,0 +1,136 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Enthusiastic, motivated, goal oriented professional seeking a new career utilizing organizational leadership, time management and attention to
+
+detail to foster a team building environment. With a passion for developing leaders, coaching, and mentoring a cohesive team to maintain a
+
+positive productive work environment with open communication and creative ideas to benefit the organization.
+
+Sens
+‘© Command Post of the Future (CPOF) * Operations
+# ICR Log and Blue Force Tracking (BFT) * Common Remote Operated Weapon (CROW) T3 certified
+* Microsoft Windows Operating Systems (Server and Client) * Cisco Router and switches
+« Satellite Transportable Trailer (STT) * Telecommunications
+‘ Secure Internet Protocol Router/Non-Secure Internet Protocol _* ‘Technical support and assistance
+Router (SIPR/NIPR) Access Point (SNAP) « Excellent writing skills and ability to communicate effectively.
+# Very Small Aperture Terminal (VSAT) «Strong team work skills and ability to also work alone.
+© SharePoint Administration «Strong communications skills ability to communicate at multiple
+«© Warfighter Information Network — Tactical (WIN-T) levels with multiple audiences
+* Knowledge Management * Ability to develop briefing materials, administrative, and logistics
+support.
+Worx History
+
+03/2019 to Current
+
+Information Technology Instructor
+Keiser University — Philadelphia, PA
+
+‘* Teaching basic level computer troubleshooting and maintenance procedures
+
+‘* Also instruction simple network concepts and the OSI model
+
+* Ethemet CATS cable construction, Subnet and VLSM are also covered in the curriculum
+
+‘© We push the students with their new knowledge by building and programming an entire network with Cisco
+routers, switches, and end user devices.
+
+‘* Meticulously update student grades and performance through Intel-Link Fort Gordon SCDC SharePoint site, Black
+Board and DTMS. While maintaining local records with Excel scattergrams in accordance with TRADOC 350-5
+
+‘* Responsible for ensuring that all students fully comprehended the taught curriculum and provided support to
+students who required help to boost confidence and competencies
+
+‘© Worked closely with the other instructors to ensure all avenues of the curriculum are met and delivered.
+
+‘+ Adopted distinctive teaching methodologies, documented all lessons, organized healthy group discussions.
+
+‘* Delivered 6 hours per day of instruction in theory and hands on programming labs
+
+‘* Conduct classroom instruction, prepared daily lesson plans, administered tests, provided feedback on learning
+achievements
+
+01/2011 to 10/2017 Forward Signal Support Noncommissioned Officer
+
+Leidos — Shaw Air Force Base, SC
+
+‘© Supported NATO operations working with 11 different countries and keeping clear communication despite harsh
+climate and abstract tactical components
+
++ Actively engage senior staff through coordination of meetings and generate continuity through Communication of
+policy changes, operations, addressing issues and problem solving.
+
+‘ Create weekly agendas, and conduct scheduled meetings through conference calls and video teleconferencing.
+
+‘© Supervised staff of 15 Information Technology and Communications personnel and three team leaders.
+
++ Provide end user support receiving work order tickets through Remedy ticketing system.
+
+‘ System administration, imaging, active directory support, SharePoint, outlook email, file share permissions, cabling
+and network’system troubleshooting.
+
+‘© Hardware installation, routers, switches, Voice-Over Intemet Protocol (VOIP) phones.
+
+10/2005 to 03/2010 Information Technology support
+
+Epucation
+
+US Army — City, STATE
+
+‘* Ensure security of data stored on the company shared driveifile server.
+* Conduct Bi-weekly assent inventory for all computer, radio, telecommunications and peripheral.
+
+* Remote system administration, active directory and exchange account support.
+
++ Troubleshoot network connectivity issues for all mobile devices and computers.
+
+* Actively verify security clearances, submit and review background checks
+
+‘* Enforce proper handling of information based on classification and proper storage measures
+
+« Identify and disseminate potential security risks and update security policies., Provide full support to the tactical
+
+operations center for all radio and data communications.
+
+‘+ Implement and troubleshoot all devices and recommend lifecycle upgrades.
+
+* Coordinated the daily functions of facility management, training updated Defense Training Management System
+(DTMS) and current operations
+
++ Interpret policy; implement guidance, review unit readiness reports, and plan future operations.
+
+‘* Developing a PACE plan to ensure communication redundancy.
+
+* Conduct annual inspections on subordinate units and assess their readiness through Unit Status Reporting and
+recommend corrective action plans.
+
++ Prepare briefings, Yearly Training Briefs (YTB), and facilitate collective training through Unit Training System
+(uTs),
+
+‘* Responsible for supporting Mission Command to Six subordinate units with the following logistical capabilities;
+Ammunition Supply, Field Maintenance, Water Purification and Communication Management.
+
+* Complete training guidance for the Battalion Commander and develop training plans for the future.
+
+« Insialled, configured and validated SharePoint 2010 for upgrade and migration from SP-2007
+
+‘© Administered SharePoint 2010 Enterprise environments with over 1,000 Intranet and Extranet for NATO users.
+
+‘* Created new Sites with Unique Permissions, List and Libraries, and included workflows and user groups
+
+‘* Analyzed and monitored services and performance, and have governed access permission for NATO Intranet and
+Extranet SharePoint sites.
+
+2004
+
+(CERTIFICATIONS
+
+High School Diploma
+Cross Creek High School - Augusta, GA
+
++ CompTIA Security+
++ CompTIA Network+

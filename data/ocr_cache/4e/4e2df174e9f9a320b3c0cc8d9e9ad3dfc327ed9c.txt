@@ -1,0 +1,69 @@
+Kala Rolfson
+
+79557 Royce Fall, New York, NY
+
+PHONE
++1 (555) 173 9299
+
+EXPERIENCE
+
+Brown, Schmitt and Murphy
+Phoenix, AZ // Senior ETL Developer / Admin // 09/2018 —
+present
+¢ Strong customer focus, adaptable, flexible and willing to
+learn
+¢ Communicate technical information in a concise,
+understandable and accurate fashion to non-technical
+personnel
+¢ Development experience in SQL Server related
+technologies including SQL, SSIS,SSRS and SSAS
+¢ Working Experience with different sources and
+Destinations
+¢ Experience in writing complex stored procedures,
+Integration packages
+¢ Experience in tuning and improving DB performance of
+complex enterprise class applications
+¢ Thorough understanding of ELT process
+
+Wisoky and Sons
+Phoenix, AZ // Mid-senior ETL Developer // 12/2011 — 05/2018
+¢ Demonstrated strength in written, verbal, and executive
+presentation communication skills
+¢ Exposure to Different Schemas like Snowflake, Star and
+SSAS
+¢ Exposure in reporting tools like Tableau, Power BI,
+MicroStrategy
+¢ Good knowledge of Data warehouse concepts
+¢ Technical coding (Informatica/Oracle/Unix) of new
+requirements
+¢ Analysis of existing code to fix the defects raised by
+Maintenance team
+¢ Collection all statistics of environmental setup which
+would help to get infrastructure support
+
+EDUCATION
+
+Baylor University
+
+Bachelor's in Computer Science
+
+SKILLS
+
+Design and develop business data models required by
+analytics applications such as interactive dashboards and
+ad-hoc reports
+
+Bachelor's degree in Systems Engineering or related
+technical field with 5+ years of experience with business
+intelligence products or a Master's and 3 years of similar
+experience, 4 additional years of related experience will
+also be considered in lieu of a degree
+
+Must be able to read and write complex SQL (subqueries,
+unions, inline views, functions)
+
+Experience using IBM WebSphere Data Stage to develop
+and implement ETL solutions
+
+CompTIA Security+ certification is required prior to start
+date

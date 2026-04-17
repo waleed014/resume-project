@@ -1,0 +1,64 @@
+ROBERT SMITH
+
+ETL Consultant I
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+A senior ETL Consultant Architect and senior administrator with very strong
+professional background in Data warehouse domain and over 12 years of industry
+experience in the software engineering, processes and methodologies, and
+management specializing in: Expertise and working experience in establishing the
+process methodology standards at all phases of an Enterprise Data warehouse.
+
+EXPERIENCE
+
+ETL Consultant I
+‘ABC Corporation - SEPTEMBER 2003 - FEBRUARY 2004
+
++ Deliver business intelligence and data warehouse solutions for a
+diverse set of intemal customers.
+
+‘+ Assist with reviewing and confirming the technical feasibility of
+Integration development objects based on integration principals and
+best practices,
+
++ Recommend solutions to address solution gaps and assist with
+estimate development.
+
++ Develop of overall solution approach: design, develop, maintain and
+support ETLIETL integrations; create technical documentation and
+bulld instructions to onsite and offsite global teams and assist with
+deploying and validating the technical solutions
+
++ Design and develop data warehouse platforms that conform to
+consistent methodologies, standards and industry best practices:
+
++ Participate in designing an overall logical and physical data
+warehouse and data-mart data model and data architectures to
+support business requirements
+
++ Develop and maintain SOL, PL/SQL codes for Oracle database:
+
+ETL Consultant
+Delta Corporation - 1998 - 2003
+
+‘+ Card Acceptance and Processirig Network for Merchant Submissions
+‘will enable merchant submissions re-engineering to establish the
+technology framework
+
++ Chicago Hands on Datastage7.5.2, Gusiness Objects6.0 as ETL
+Consultant with Future View Financial Services Limited Chicago ETL
+Consultant for the
+
++ Responsible for ETL design and develapment of the above mentioned
+systems and to perform unit tests.
+
++ Liaising with the Functional Analysts for the respective source
+systems and is the single point of contact for all the ETL issues
+
++ Insurance / Reinsurance Founded in November 2001, Allied World
+originally consisted of four employees located in a small office,
+
++ Since then, the company has bullt a reputation asa strong suppller of
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

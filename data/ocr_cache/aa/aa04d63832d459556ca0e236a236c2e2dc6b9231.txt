@@ -1,0 +1,183 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Technical Support and
+Assistance
+
++ Escalation of outages to
+vendors and Management
+
++ Proven team leader in
+aftethours absence of
+management
+
++ System Performance
+Assessment
+
++ Organizational Skills
+
++ Following diagrams and written
+instructions
+
++ Auditing Service Requests
+
++ Resolving Incidents, Requests
+and Problems
+
++ Troubleshooting Network Issues
+
++ Vendor and Site Support
+Coordination
+
++ Enterprise Monitoring software
+
++ Mainframe Environments
+
++ Voice systems troubleshooting
+
++ Platform alarm troubleshooting
+and escalation
+
++ Writing and updating SOP
+documentation
+
++ Coach new hires on technical
+procedures.
+
+EDUCATION
+
+South Central Technical College
+North Mankato MN
+
+‘Computer Careers
+
+PROFESSIONAL SUMMARY
+
+Detail-oriented Senior Information Technology Specialist, with 22 years of experience offering
+outstanding support to users of various levels. Exceptional knowledge and skills in Command Center
+environments. Established reputation as sharp technology expert when working with customers to
+identify and deploy solutions. Seeking to leverage solid technical skills and abilities to advance into a
+career with more advanced technical support needs.
+
+WORK HISTORY
+
+City Of Clovis - Senior Information Technology Specialist
+Clovis, CA » 02/2015 - Current
+
++ Team Lead with little to no supervision during afterhours support needs.
+
++ Respond to mainframe, network, platform and voice related support issues affecting production
+availability and ensure they are resolved according to SLA. Teams average 99% SLA sucoess rates.
+
++ Resolve requests by contacting end users for any missing information needed to complete
+requests.
+
++ Monitor events, applications, jobs and agents using CA Workload Automation job schedulers,
+following established escalation procedures reporting any delays or problems to management and
+escalation teams.
+
++ Monitor network devices and communications with provided tools. Interpreting results of
+troubleshooting to identify, understand and resolve network performance or problems.
+
++ Work with vendor technicians and internal support teams to resolve network issues at store or
+distribution center locations.
+
++ Configure devices and software to set up workstations for employees.
+
++ Resolve Firecall requests using Active Directory and PIM.
+
++ Conduct daily system monitoring, integrity and availability of hardware and software on all
+platforms.
+
++ Write and update department SOP documentation. Voice documentation updates have resulted in
+10% increases of ticket resolution times.
+
++ Work with Leadership teams to achieve specific command center goals.
+
++ Drive complicated system related issues to resolution across multiple services and groups.
+‘Summarize key elements of technical problems and assign cases to internal and external partners.
+
++ Advise Senior Leadership of any developments and action plans, set customer expectations and
+provide updates regarding troubleshooting and resolution action plan in external communications.
+
+‘Comm-Works - Technical Lead
+Atlanta, GA + 03/2012 - 02/2015
+
++ Communicated between contracting team and client team, when issues overlapped team scopes.
+
++ Supervised Open Systems DR backup tape schedule, scheduled team members for afterhours
+coverage of preparing cases to be picked up by offsite vendor.
+
++ Investigated and addressed system issues to enhance usability and improve functionality.
+
++ Mentored junior team members, providing educational expertise on technical concepts related to
+‘Open Systems Operations functions and responsibilities.
+
++ Evaluated and adopted new team processes to address changing client needs.
+
++ Held responsibility for client reporting on team metrics, with exports of monthly ticket details.
+Reported results with spreadsheet pivot tables and pie charts. Created PowerPoint presentations
+and held weekly meetings for granting of SLA exceptions to any missed SLA's. Average Open
+Systems team SLA of 99.7%.
+
++ Organized system infrastructure documentation and operating procedures, strengthening controls
+and enhancing overall performance.
+
++ Monitoring of Open Systems application schedules.
+
++ Manage department task sheet, to ensure all items are completed.
+
++ Recovery of retail store files using telnet and remote desktop applications.
+
++ Active Directory access requests.
+
++ Oversaw project for delivery of new servers and disposal of retired servers. Project completion
+timeline was ahead of schedule,
+
+Supervalu - Senior Information Technology Technician
+City, STATE « 02/2005 - 02/2012
+
++ Monitored mainframe ZOS LPARS, Lotus Notes LPARS, AS400 systems and VM Linux LPARS.
+
++ Perform mainframe, AS400 and open system backups.
+
++ Monitor native and virtual tape systems, contacting support for any tape system repairs needed.
+
++ Monitor Sysview for mainframe conditions needing attention.
+
++ Monitor mainframe jobs using CA-7 and Enterprise Scheduler Platforms.
+
++ Call support teams for scheduling requirements or resource requirements that hold up mainframe
+jobs.
+
++ Monitor open systems agents, applications, objects and jobs using AutoSys, ESP Workstation and
+‘CA Workload Automation job schedulers.
+
++ Escalate scheduling errors, maxrun and job fail alarms to application support teams.
+
++ Attend outage notification bridge calls and page support teams as needed to resolve outages,
+create outage timelines reported to management for root cause analysis.
+
++ Perform mainframe environmental and production batch backups within change window end time.
+Application availability up times ahead of schedule quite frequently.
+
++ Work with vendors to replace or repair Data Center hardware as needed,
+
++ Monitor Xerox printers, sort output, print timecards, print payroll checks and box output for
+shipping.
+
++ Monitor Site Scan and call facilities support as needed.
+
++ Open, update, transfer and close tickets for operations related issues.
+
++ Learned new skills and applied to daily tasks to improve efficiency and productivity.

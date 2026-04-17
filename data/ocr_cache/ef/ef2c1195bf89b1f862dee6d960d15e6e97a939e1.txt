@@ -1,0 +1,92 @@
+Arnulfo Huels
+
+66119 Murphy Brook, Phoenix, AZ # Phone:
+
+1 ($55) 859 4153
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+TECHNICAL LEAD-TEST
+
+Detroit, MI
+01/2014 — present
+
+‘Assist in development of a test framework system to aid easy automation
+Work closely with development counterparts in an agile development cycle
+
+Can troubleshoot code and work with software developers to identify defects
+
+Attend design reviews with development engineers
+
+Execute functional test plan and file defects
+
+Assist with test data identification
+
+Analyzing the Test Cases prepared by other team members and provide the review feedback
+
+TECHNICAL TEST LEAD
+
+Detroit, MI
+06/2010 — 12/2013
+
+‘Act as a mentor for test practice team members and provide performance feedback
+Should understand all the levels of Software Development Life Cycle and Performance life cycle
+Assist in the creation of Test strategy, Test Plan documents
+
+Expertise in monitoring tool like Appdynamics, Dynatrace, HP diagnostics, Wily and deep analysis to
+identify the performance bottleneck
+
+‘© Manage tasks and assignments to onshore, nearshore, on-site team members
++ Perform high-level and detailed test estimates
+‘* Collaborate with client team to collect, create, present, maintain, and store knowledge assets
+
+PERFORMANCE & TECHNICAL TEST MANAGER
+
+Chicago, IL
+10/2004 - 03/2010
+
+Govern and manage all work streams & Testing Partners approaches when it comes to Test Tools,
+Integration, Automation and Performance Testing
+
+Working with Test Managers, Product Owners, Non-Functional testing teams, Delivery Managers and
+Testing partners in an Agile approach to deliver and maintain an effective Automation & Performance
+Testing strategies
+
+Facilitates collaborations between Test work streams, Test Managers and Testing partners from
+Automation & Performance Testing perspective
+
++ To develop TUI Short/Mid/Long Term Automation & Performance strategies and roadmaps
++ In depth hands on working knowledge of industry standard Automation & Performance Testing tools and
+
+solutions
+Introduce and implement early Performance Testing concept ~ Shift performance testing to the early
+stages of SDLC
+
+Performance improvement mind-set
+
+JOHNSON & WALES UNIVERSITY
+Bachelor's Degree in Computer Science
+
+‘+ Ability to build strong relationships with clients and team member
+‘* Monitor and manage completion of assigned testing scope and deliverables
+‘© Develop or assist in developing strategic/tactical testing deliverables such as Test Strategies & Plans across
+
+multiple lines of business
+
++ Perform high-level and detailed test estimates
++ Accountable for monitoring and reporting test progress & status to CGU/Client project management &
+
+executive stakeholders
+
++ Oversee the development of test conditions/scenarios and traceability matrix(ces) for multiple teams
+© Quality Centre
+‘* Work as a "hands-on" Test Lead & own all technical testing activities and services related to sizable
+
+application(s) and associated projects
+
++ Able to work effectively with minimal supervision
+© Quality Assurance/QA Strategy

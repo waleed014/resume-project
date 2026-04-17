@@ -1,0 +1,224 @@
+PROFESSIONAL ©
+‘SUMMARY
+
+SKILL
+
+WORK HISTORY ¢
+
+EDUCATION ¢
+
+‘CERTIFICATIONS
+
+AFFIUATIONS 6
+
+Jessica Claire
+
+© 00 montgomery St. 10M Floor tS (655) 432-1000 4 resumesample@example com
+
+sea machine earring to create near regresion, logit regression, custrng and cher modes
+
+Created interactve dashboars in Tableau ana shares wah oer uses
+
+‘Technical Business Analyst wih abou 4 years of experience in Heancare and Oracle applications
+
+In depth knowledge of MPAA (4010, £010), ICD (8, 10), ML, EDI le formats ke 837 UPD 835.)
+
+[Jom
+
+‘+ Extensive design experience in creating process Now lagrams using IBM Bluework Live and UML
+<agrams such as Use Cases, Act Diagrams and Sequence Diagrams using MS Vis and atonal
+ose.
+
+‘+ Adept at creating and transforming business requirements nto funcional requirements and designing
+‘business modes using UML dagrams- Use Case Sequence and Activ Dagrams Data-low Diagrams,
+{Data Mosetng
+
++ Excelin tang beeen busines and echnical area fo achieve on-me, on-budget and on spe:
+‘Project completions. Good project management sas,
+
+“+ Experence wth web-based colaboraton os such as WeDE. GoTeMeeting or Lync'Skype fr
+‘Business
+
+.Go0a knowlege of Heatcare Revenve cycle management
+
+‘Good understanding o ne Oracle fancia modules such as AP GL FA and AR
+
+‘tensive knowledge of Oracle pis. Oracle reports and Oracle fom,
+
+‘Comprenensie knoweage of SOLC wth expenence in black box, regression, tegration, UAT, 03d
+
+‘and performance testing
+
+‘+ Experience with racking and reporting status to supersor per estabishea wee status reporting
+process
+
+‘+ Hentty isues and risks and bing them to supersorsatenton wth suticent eam to avert
+cnses
+
+Partpate actively in week team status meetings and Program Management Ofc (PMO) meetings.
+
+‘Good experience in Release planing and management
+
+‘paris n mplementng systems Development in Agie (Scrum), RUP & Vatertal Methodologies.
+
+Excelent conmunicaton and presentation sas wh expenence in development, implementation and
+
+Integration of strategies witin a team-onented envronment.
+
+‘+ Macnine leaning, stasis, data mining, people + Python, Database Management Data
+
+‘evelopment, communication. strategy ‘management Basi math, Anaiica sks
+suatzato,crss-tunctonalcolaoration,
+project management
+
+DATA SCIENCE WITH PYTHON. 10201810 CURRENT
+
+‘change Heatheare | Robesonia, PA
+‘+ Did exploration data anass (EDA) using python
+‘+ Stuaea abou statistical Analjs's and Business appcatlons tke population sample, statistical anayis
+
+consierations, data dstibulons, dispersion and ristograms
+
+Perfomed mathematical computation on datasets wh Nunpy.
+
+‘sea Spy for scenic computation
+
+‘ata manpuation wth Pandas
+
+‘Used machine Leaming and natural anguage processing wih Sct Lear,
+
+Created data vsvalzton modes using Malou,
+
+non integration wn Hadoop Map Reduce ana spark
+
+‘Leveraged mathematical techniques to develop engineering and scent sotto.
+
+‘Tested and valdated models for accuracy of predictions in outcomes of interest.
+
+implemented randonizes samping techniques for opined surveys.
+
+improved data colecton methods by designing surveys, pots and oer instruments,
+
+‘Modeled predictions wit feature seectonalgothms.
+
+‘Comptes, leaned and manipulate data or proper handing
+
+‘Apple oss tunctons ana variance explanation techniques o compare performance mets.
+
+‘ida project on Movelens Dataset Anais wth detals as folows: The Group Lens Research Project
+
+‘sa researen group n ne Department of Computer Science and Engineering in the Univers ot
+
+‘Maesota. Te researchers ofthis group ae mvoWed many research projects related to the fea of
+
+‘evomationtterng, conaboratvetenng, and feconmencersjslems So, performed the anahsis
+
+sing ne Exploratory Data Anaysstectnique. Apple he toos of machin leaming to pred the
+
+survivors of te rageay.
+
+‘+ Presented thangs oaty and in wrtng wth agvanced mathematical modes.
+
++ Ran statistical anatyses wtnin sofware to proces large datases
+
+OKA SCIENTIST 017201610 10.021
+University OF Kansas Mesleal Center| Manhattan, KS
+‘Customer Lifetime Value Model ina Non contractual etn,
+
+‘+ Estimated the value oa customer based on the purchase behaviour using log -kehood and MC-MC
+smosel
+
+‘+ Preacte chum rate, ransacton requency and expected itespan oa customer based on rm data
+
+‘+ Produced ere and accuracy lots o demonstrate he rade of between prion quaty and
+preaeon duration,
+
+1+ Visual Recommender based ona Convotional Neural Network
+
+‘+ Moated ne learing rate decay ofthe network to handle vanishing and exploding gradient problems
+eecvely
+
+‘+ Emnanced ine neural network to perform erative fogging of weights based onthe maximum vabéabon
+accuracy,
+
+‘+ improves ine perfomance of ie recommender by implementing eropout layers to avold over fting,
+Market Basket Anais to generate association rules of tem bundles
+
+‘+ Calcuiatea tne suppor, at and contience of the generated association resto generate
+recommendation
+
+‘+ Expermented on FP-gouth ator to signtcantymprove he perfomance as compared to
+apron
+
+‘+ Extended the mode to account for sequence of purchases to improve he quay of predictions.
+
+{+ Prowaea comprenensve analysand recommend stuns to adress complex business problems
+and issues using data rom internal and external sources ana applied aavanced anata metnods to
+‘assess factors impacing growth and pottablity across product and sence oferngs
+
+“+ Develops quareny roadmaps based on pact, efor and test cooranatons, wrking wih
+stakeholders to achieve shorter and longterm goals
+
+‘+ Cotaborated wth internal stakeholders, entying and gathering analytical requirements for customer,
+Product and projets needs.
+
++ Created and cutvated test an team cuture among CRM and dgtization groups, creating an
+executing structured experimentations based on data-dnven and market eas
+
+‘+ Developed data-gatnerng and reporng structures trom gound up and srategzed metnods
+captatang on system eaures.
+
+‘+ Evauated processes and data, entyng product gains and sles grown tin cgtzation
+segment
+
+‘+ Apple statistical and algebraic techniques to interpre ey points rom gathered data
+
+‘+ Leveraged anayts o ave business development. productivity and process improvement and
+marketing strategies, ncucng customer Wetme medeing,acqustion, retention win Backs and
+
+‘monetzaton
+
+lmpemented randomized samping teenniques for optimizes surveys.
+
+‘Apple oes tunctons and variance explanation techniques fo compare performance mets.
+‘Compiled, leaned and manipulated data or proper handing,
+
+Improved data collection methods by designing surveys, pols and oer instruments
+
+PHO STUDENT 062015 0 0872020
+Walden University | City, STATE
+‘+144 my assertion forte tutment of PRO study on topic of construction projet management
+‘maturty model determination and correlation to success factor
+“+The researcn groundea on theories of leadership, management, organaatonal Behavior, and project,
+‘management
+‘+ Quanttave data were collected tom 190 professional manage’ in rom government, constant. and
+contactors,
+“+ More than 90 variables, and 20000 data enty were used research
+‘Remote data colecton tools and methods erect used to complete the study.
+‘+ Isuccessuly designed, apply the methods to nd solitons forthe mast project management fares
+related to the key project management knowledge ching project succed o aed
+“+ defended wet and the study released onine since September as open source by he me os
+application $80 copies were dowloaded
+‘+ After senool Lam nere to apt he tesh energy in es of one of he cial resource
+
+Ph | Management 2020
+Walden University, Minneapolis, MN
+
+[Mscter of arts [Economics 122019
+Indra Gandhi National Open University, New, Delhi
+
+[Mscter of Philosophy | Management oxn019
+Walden University, Minneapolis, MN
+
+'ME3 | Operation Management 092019
+Indra Gandhi National Open University, New, Delhi
+
+‘Ba-nelor of Science | Ci Engineering or908
+‘Adals Ababa University Faculty of Technology, Adds, Ababa
+
+‘xecutve leadership Certied National Society OT Leadership ana Succes, Advanced leadership Cetied
+National Socety Of Leagershp and Success, Practicing Professional Constucton Management MOC 2015 -
+Present
+
+‘American National Society of Leadership ana Succes ifebme member American Project Management
+Insitute Member. Ethiopian Socey of Cl Engineers Member

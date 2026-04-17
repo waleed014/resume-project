@@ -1,0 +1,185 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SUMMARY OF TECHNICAL
+SKILLS
+
+Platform:
+
++ MS SQL Server 2016/
+2012/2008, Windows (2000, XP,
+Vista,7,8)
+
++ Experienced in MS Excel, MS
+Words, MS PowerPoint, Ms
+Outlook
+
++ Microsoft Dynamics GP
+(Financial Accounting System)
+
++ Core Banking Application (CBA)
+Finacle.
+
+ETL Tools:
+
++ SQL Server integration
+Services(SSIS), DTS, SQL
+Server Import/Export Wizard
+
+BI Tools:
+
++ SQL Server Business
+Intelligence Development
+Studio, ER Studio, Visual Studio
+2010
+
+EDUCATION AND
+TRAINING
+
+Lagos State University
+
+Bachelor of Science: Accounting
+Bachelors Credentials was
+Evaluation and Authentication By
+World Education Services (WES)
+
+Colaberry
+
+Data Analytics
+
++ Certificate in SQL ETL/EDW -
+Colaberry School of Data
+Analytics (TX, United States)
+
++ Microsoft Certified Technology
+Specialist (MCTS): SQL Server
+2008 Business Intelligence
+Implementation and
+‘Maintenance.
+
+PROFESSIONAL SUMMARY
+
+Results driven and goal oriented ETL developer using Microsoft BI suite which includes SQL Server
+‘Management Studio, SQL Server Integration Services (SSIS), SQL Server Reporting Services (SSRS) at
+‘Mortgage, Financial and Transportation organization. | am a well-organized, goal-oriented, highly
+motivated, effective individual and team player with excellent analytical, troubleshooting, and
+problem-solving skills.
+
++ Experienced in creating complex SSIS and DTS packages for ETL purposes. Data migration from
+various type of sources (Excel, Flat File, CSV, XML, OLTP DB etc.), data conversions, data
+extraction/ transformation /loading (ETL) using DTS and SQL Scripts.
+
++ Experience in configuring SSIS packages using package logging, breakpoints, checkpoints and
+event handling to fix the errors. Experience in troubleshooting SSIS packages using a variety of
+techniques /tools..
+
++ Good knowledge of data marts, operational data store (ODS), OLAP, star schema modelling, snow
+flake modeling for fact and dimension tables.
+
++ Experience in designing and developing considerable number of reports in SSRS using the data
+from ETL loads, proficient in developing drill through and drill down reports, parameterized
+reports, linked reports, sub reports, matrix reports, and chart reports using MS SQL server
+reporting services (SSRS)
+
+EXPERIENCE
+
+Experfy Inc - Data Warehouse/ETL Developer
+Quincy, MA + 10/2018 - Current
+
++ Used ETL (SSIS) to develop jobs for extracting, cleaning, transforming, and loading data into data
+warehouse.
+
++ Involved in the Migration of Data from several sources to SQL Server.
+
++ Prepared the complete data cleansing, mapping for all the migrated jobs using SSIS.
+
++ Designed SSIS Packages to transfer data from SQL server, Excel, XML, and flat files to Data
+warehouse loading Dimensional and Fact tables.
+
++ Extensively used SSIS transformations such as Derived column, Data conversion, Conditional split,
+Execute SQL task, Sort, Merge join, Send mail task, Slowly changing dimension, Lookup and Union
+all, Multicast etc.
+
++ Created databases and schema objects including tables, indexes, and applied constraints,
+connected various applications to the database and written functions, stored procedures, and
+triggers while ensuring data integrity.
+
++ Developed new and modified existing stored procedures, queries, user defined functions and
+triggers using SQL.
+
++ Involved in creating new databases, performance tuning, deploying, scheduling and creating
+reports. This included ETL of data from flat file and excel sources using SSIS.
+
+Four Seasons Hotels Inc - Junior ETL/BI Developer.
+Milan, TN + 01/2018 - 10/2018
+
++ Build SSIS Package to import data from external source like OLTP, excel, Flat files and csv files
+
++ Execute data loading techniques for all data warehouse load projects which include extracting a
+desired subset of data, transforming and converting data, creating mappings from source tables to
+destination tables, and loading the result data into a target database table.
+
++ Write SQL code to extract, transform, and load data ensuring compatibility with all tables and
+customer specifications.
+
++ Created and developed Sub-Reports, Drill down reports, Drill through reports and Parameterized
+reports using SSRS.
+
++ Created Dashboards, Tabular, Matrix reports (crosstab or pivot), Charts and graphs as per
+customer requirements Using SSRS
+
++ Trouble shoot existing failed jobs and automate new jobs to run using SQL Job Agent
+
+Care New England Health System - Staff Accountant
+Rl, State + 04/2017 - 01/2018
+
++ Assisted and performed monthly, quarterly, and yearly closing processes, which include preparation
+of journal entries including regular, accrual, re-class, reversal and adjusting journal entries.
+
++ Responsible for the preparation of, compilation, review, and audit of financial statements for a
+range of clients from small to mid-size.
+
++ Prepare the monthly financial statements and reports.
+
++ Prepare cash, investment, and other account reconciliations monthly.
+
++ Recorded the journal entries in the accounting system and monitoring cash flow needs.
+
++ Assisted with the preparation of annual budget.
+
++ Prepare closing journal entries and support month end review processes.
+
++ Contact vendors regarding invoice disputes, and track debtors for outstanding debts.
+
++ Performed a three-year reconciliation between cashed-based sales deposits to pos accrual-basis
+sales reports.
+
+Shalom Health Care Center - Accounting Assistant
+City, STATE + 04/2015 - 03/2017
+
++ Assist with preparation of invoices and data entry, preparing financial reports.
+
++ Prepare monthly bank reconciliation statement.
+
++ Assist with clinics weekly, monthly cash flows reports
+
++ Assist with reconcile of accounts payables and receivable transactions (Consolidated billings /
+Invoices and single).
+
++ Processing transactions, issuing checks, and updating ledgers, budgets.
+
++ Reconciled all expenses and accounts, including company credit cards and expense accounts.
+
++ Perform Journal entries and reconcile to General Ledger of the assigned accounts.
+
++ Review employee expense reports for accuracy and business purpose.
+
++ Logs, compiles, and files data, both electronically and manually.

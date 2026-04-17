@@ -1,0 +1,61 @@
+ROBERT SMITH
+Sr. Dotnet Developer
+
+Phone: (0123) 456.785 | Ema inlo@qwkvesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+‘Around 7+ years of experiance in software development ile cycle which includes Requirement
+‘Study, Analysis, Design, Development, Iniegration, Re-Enginoering, instalation, implementation,
+testing, configuration management, maintenance and production suppor of various client/server,
+[Neier and web applications,
+
+CORE COMPETENCIES
+‘Testing, configuration management, Maintenance,
+PROFESSIONAL EXPERIENCE
+
+Sr. Dotnet Developer
+ABC Corporation - January 2012 - February 2013
+
+Key Deliverables:
+
++ Pariipaio in System Specifeation mecings, analysed user roquremont, coordinated
+wih coders and team members
+
++ Folowod Ajo Methadoingy o produce high Quay sohwaro anc satsty the customers.
+
++ Worked wih Visual Studio 2012110 NET Framewerk 35 fer he development ol Web
+Pages
+
++ Developed Business Logic layer by implementing Object Orontod Programming Language
+(OOPS) teatues th Innonianca, Polymorphism, Abstraction and Encapsuition in Ck
+
++ Exionsively worked on User Inerace pages (.asps using HTML and Java Srp and io
+impioment complex Business Rules and Validation of rot end fom.
+
++ Invelved in designing and developing the GUI wi various controls (Data Gri, Data Us
+Textbox, Calondar, List Controls, Drepdown box, Valation Contras otc)
+
++ KPMG provided au, ax and advsory services and industry insight 1 help omarizations
+nogatai sks and pertorm inthe dynamic and ahalnging envrenmonts im which ey 80
+business
+
+Dotnet Developer
+Della Corporation - 2008 - 2012
+
+Key Deliverables:
+
+*+ Humana provides health insurance plans and products forindlvidual using the HumanOne
+application
+
++ HumanOne application is a web based application mainly deals withthe generation ofthe
+‘eporis, product sell and Data process for the end users Responsibilities Involved in
+Maintenance / Enhancements othe application which inclides developing the new
+reports,
+
++ Involved in application dovelopment using Visual Gt, ASP.NET 35 / Mecrosott Eniorprise
+Pattorns and Practices Framework’ SOL Database, LINO, WCF,
+
++ Used JSON Serialize in data contract of WCF to generate the data in JSON format
+
+2959 Oak Sireet, Old Forge, New York, 13420
+(© This Exes Resume Template isthe copyright of Quilrestume.com. Usage Guidelines

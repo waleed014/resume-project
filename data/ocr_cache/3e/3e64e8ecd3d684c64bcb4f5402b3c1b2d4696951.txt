@@ -1,0 +1,54 @@
+ENTRY LEVEL CYBER SECURITY RESUME
+
+Gyber Security Engineering university graduate from Iowa State University with hundreds of classroom hours in
+IT management, cloud infrastructure, and vulnerability management. Seeking a position in [Company Name] to
+develop security architectural techniques and mitigate company cyber risks.
+
+| PROFESSIONAL EXPERIENCE
+
+August 2021-May 2022
+
+IT Solution Center, Ames, IA
+IT Intern
+
+Ensure compliance with cyber security policies and procedures regarding documentation, labeling,
+asset tracking, and quality assurance
+
+Conduct Network Security Monitoring on services including SIEM, IDS/IPS, Firewall, Web Application
+Firewalls, and Data Loss Prevention (DLP)
+
+Assist in 50+ cybersecurity sustainment activities, including hardware and software change
+administration, account supervision, media protection, and user interface inspection
+
+Discuss roadblocks and challenges that affect the company’s ability to support clients effectively
+both in the short-term and long-term by participating in department meetings and taking notes for
+the IT Team Lead
+
+July 2020-August 2021
+
+Iowa State University Technology Services, Ames, IA
+Cybersecurity Intern
+
+‘Administered daily security of company databases and performed other duties as assigned by
+internship manager
+
+Conducted 15+ incident response investigations monthly for Classified Incidents, and ensured all
+classified systems complied with cybersecurity regulations
+
+Analyzed Security Technical Implementation Guides (STIGs), Security Content Automation Protocol
+(SCAP), and assured Compliance Assessment Solution of scanning results
+
+Defined, developed, and operationalized 7 security metrics while employing classified systems to
+help protect data on running devices
+
+| EDUCATION | ADDITIONAL SKILLS
+May 2017 * Security transformation
+IOWA STATE UNIVERSITY, Ames, IA + Splunk
+Bachelor of Science in Computer and Cybersecurity * Ivanti Device Control
+Engineering * Encryption and key management
+
+Relevant coursework: Software Development
+Practices, Embedded Systems, Digital Logic,
+Theoretical Foundations of Computer Engineering
+
+2143 Gloria Drive, Waterloo, IA 50851 + youremail@gmail.com * (XXX) XXXX-XXK

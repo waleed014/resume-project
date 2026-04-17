@@ -1,0 +1,69 @@
+Clayton Fay +1 (555) 920 3229
+80421 Sal Rest, Phoenix, AZ
+
+Experience
+
+Systems Security Engineer — Mitchell-Welch, Chicago, IL 09/2020 — Present
+
+Fluency in Python or other programming or scripting languages
+
+Experience with a variety of open source technologies and tools in support of cross-team collaboration
+Bachelor of Science or comparable experience
+
+Knowledge of the InfoSec/DevOps tools chain focused on the AWS Linux platform
+
+Experience deploying automation solutions in a public cloud environment such as AWS
+
+Knowledge of PCI/HIPPA and other security related standards and requirements
+
+Experience supporting security audits
+
+Operationally savvy, experience with monitoring, alerting, and analyzing system metrics to identify problems and
+understanding system behavior specific to security concerns
+
+A passion for security and innovation
+
+Collaboration, drive open communication and reach across functional borders
+
+Systems Security Engineer — McCullough, Senger and Conroy, Chicago, IL 11/2017 — 03/2020
+
+BS / MS / PhD in engineering, computer science, mathematics, physics or chemistry
+
+Perform IA and compliance support services to maintain production system security posture, which includes engineering,
+implementing, operating, and monitoring
+
+Engineer and implement security practices into current and future systems and processes
+
+Support the Assessment & Authorization (A&A) process
+
+Support Plan of Action and Milestone (POA&M) findings develop/implement remediation, as assigned by the customer
+POA&M status reporting
+
+Support the identification, remediation, tracking, management, and/or validation of findings from other sources outside
+of the A&A process
+
+Use Windows and/or Linux System Administrator skills to validate remediation of POA&Mss or reflect successful
+deployment of patches
+
+Education
+
+Otis College of Art and Design — Bachelor's in Computer Science
+
+Skills
+
+nowledge of systems administration concepts
+
+nowledge of Virtual Private Network (VPN) security
+
+Knowledge of file system implementations (e.g., New Technology File System [NTFS], File Allocation Table [FAT], File
+Extension [EXT])
+
+nowledge of virtualization technologies and virtual machine development and maintenance
+
+nowledge of organizational IT user security policies (e.g., account creation, password rules, access control)
+Knowledge of Payment Card Industry (PCI) data security standards
+
+nowledge of Personal Health Information (PHI) data security standards
+
+nowledge of transmission records (e.g., Bluetooth, Radio Frequency Identification (RFID), Infrared Networking (IR),
+Wireless Fidelity (Wi-Fi)

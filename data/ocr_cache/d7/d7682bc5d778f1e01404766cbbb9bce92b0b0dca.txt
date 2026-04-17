@@ -1,0 +1,85 @@
+Wenzhe(Evelyn) Xu
+
+217417270 wn.2Sailiminedy| Adds 1024 Ave San Mateo, CA S48
+‘CORE QUALIFICATIONS
+‘Overall Highlight; Sold data sence background wih a coger Slses appid indy
+Statistical Skil
+«Dau manipulation: ETL exratransfor-loading) data eshigue with ane dase (inal Lx)
+
+© Modeling: machine learning (regression, classification, clustering
+
+categorical data analysis, time series analysis,
+sampling, ANOVA analysis, A/B testing, dimension reduction, model selection
+
+‘Computer Skill:
+Programming: expertise in R (4+yr.dplyrggplot2 shiny) ,Python(I+yr, Scipy, numpy, pandas, sciki-learn), SQL(3+y)
+‘© Data engincering: Apache Impala I.x, Apache Hadoop 2.x, Cloudera CDH S.x, Apache Spark Lx
+Software and system: SAS (Advanced Centfed), SPSS, Looker, Linux (CentOS6.5), Micrasof Office, Map Reduce
+‘Communication and Presentation:
+
+‘© Mecting with business colleagues and transfer the commercial goal into data-driven objective
+# Quick response tothe lateradded requirement from business side
+
+Presentation ofthe modeling result and data insight by PPT and building interactive dashboard through Shiny
+
+Project Management: Able to trick cach stage according to scheduled timeline Foran independent project
+EDUCATION BACKGROUND
+
+University of Iinois at Urbana-Champaign 2013-52015
+Master of Science in Statistis-Analytics | Major GPA3.96'4.0
+
+‘Tianjin University of Finance and Economics, Tianjin, China
+
+92009-62013
+
+Bachelor of Science in Statistics | Overall GPA: 3.75/40 | Major GPA4.0:4.0
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist Intern, MasterCard Ine. San Carlos, CA 62015- 12/2015 (expected)
+Independently designed the automatic anomalies detection system for business metrics time series data
+
+‘© Researched on anomaly detection algorithm and finally choose the S-H-ESD test from Twitter as basic logie
+
+© Read package source code of Rand re-organized the log
+swith integ
+
+Used Impala/SQL for ETL the data fom praduction, complied the R code into mapper and reducer fiction in Python
+‘with each group id as mapper key, and setup the map-reduce data pipeline job on Oozie
+
+and input to fit the business metrics data application scenario,
+
+tng special requirement from business and engincer staffs execution
+
+‘© Build PPT for presentation and interactive dashboard from Shiny for collecting feedback of the algorithm ta team and
+quick response to additional ned from business and engineer calleagues
+
+Collaborative tasks from other projects
+
+‘© Helped to write mapper and reducer fumetion on word count for merchant classification based on transection resorts
+
+© Build Hadoop cluster of 12 nodes including tuning critical parameters, and was responsible for the maintenance on
+‘memory usage nd related pac
+
+ge installation under CentOS6.5 Linux environment
+Participated in the Clowera training on Apache Spark
+
+‘Tech-Sale Analytics Intern, Anheuser-Busch Inbev, Champaign, IL 52014-52015,
+Customer profiling with social media data source and internal wholesaler database
+
+Learned the original alg
+‘© Improved the whole workflow by adding latlon information as well as innovative filters to increase mapping
+
+ithm and created advanced string cleaning tep for FoursquareYelp ditabase
+
+seuracy
+© Wrote and integrate all steps in pipelined R code for future usage and cooperated with 3™ party to build dashboard
+
+# Overcame the challenges of handling Asian languages and popularized the customer profiling project to global market
+Mentored new interns for taking aver the customer profiling work flow
+
+‘Quantitative exploration experiment projects (Ad Hoc)
+
+Predicted volume foreach POC through logistic models and learning algorithms, identified the influencing POC
+Used regression tee to predict the number of pipe necded by the tagst volume for Belgium on-premise market
+Transfer the data analysis result to commercial insight and presented to business managers on a regular basis

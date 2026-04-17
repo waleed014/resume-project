@@ -1,0 +1,57 @@
+Brian Yoshida
+
+New York City, NY, 00000 | 555.555.5555 | brian.yoshida@email.com | Linkedin.com/brian.yoshida
+
+DevOps Enaineer | AWS cerTIFIED
+Full-stack developer with a track record of increasing productivity of IT and business teams by unifying software development,
+operations, and testing teams into a holistic environment for superior quality product development. Five-years experience
+owning full-lifecycle building and supporting the infrastructure and processes that enable secure, fast, scalable, and error-free
+data processing. Combines hands-on experience programming in Python, Ruby, Go, Swift, Java, and .Net with in-depth
+knowledge in Agile software development and core business analytics expertise to offer innovative business solutions.
+
+Core Competencies: Agile Methodologies | Project Deployment | Code Testing | Source-Code Management | Build Releases
+Infrastructure-as-a-Service (laaS) | Developer Collaboration | Effective Communication | Software Applications
+
+Certifications & Technical Skills
+
+‘AWS Certifications: Solutions Architect Pro, DevOps Engineer Pro, SysOps Admin, Developer Associate.
+Google Certified Professional Data Engineer
+
+DevOps Tools: Chef, Puppet, Ansible, and SaltStack
+Programming Languages: Python, Ruby, Go, Swift, Java, .Net, C++
+
+Cloud Native Ci/CD Workflows and Tools: Jenkins, Bamboo, TeamCity, Code Deploy (AWS), GitLab.
+AWS Cloud Services: EC2, EMR, RDS, Redshift
+
+Database Technologies: Redshift (PostgreSQL), MySQL, Mongo DB, Oracle, SQL, NoSQL
+
+Profes:
+
+nal Experience
+
+DevOps Engineer | Company One | New York City, NY 20XX — Present
+Lead and coordinate deliverables from a technology perspective, following SDLC activities and standards consistent with best
+practices. Drive the architecture build to achieve business objectives, including automating cloud-native technologies, deploying
+applications, and provisioning infrastructure,
+‘* Instrumental in slashing time to get features in production by 36% by spearheading development of automation
+processes that enabled teams to deploy, manage, configure, scale and monitor applications through tooling or scripting,
+* Secured buy-in for switching from GCP to AWS cloud servers and led project team of 6 Junior DevOps Engineers saving
+the company $3M annually while increasing performance by 10%.
+Implemented a CI/CD process that cut time to deploy from & hours to 5 minutes.
+© Championed regular alerting and monitoring of network performance, which reduced down time by 24% through
+quicker response times.
+‘* Led the organization shift to Puppet environment to drive business velocity and consistency under severe time
+constraints; completed the project on time and under budget.
+
+Data Analyst | Company Two | New York City, NY 20XX ~ 20%x
+Led the design and analysis of data architecture and warehousing approaches to support analytics and reporting company data
+from various sources, focusing on generating actionable insights.
+* Elevated business intelligence function by leading team to engineer key performance indicators (KPIs) that provided an
+early indication of risks based on activity patterns for each business unit.
+* Built’ forecasting model to calculate the probability of students’ graduation with Python and R to create a prediction
+model that reached 80% accuracy.
+‘* Stepped in to complete ETL process and update the data warehouse for data optimization and visualization reports.
+
+Education
+
+Bachelor of Science, Computer Science | University One | New York City, NY

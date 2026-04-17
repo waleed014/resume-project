@@ -1,0 +1,54 @@
+First Last
+
+Bay Area, California * +1-234-456-789 * professionalemail@resumeworded.com * linkedin.com/in/username
+
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY Jun 2018 — Present
+PL/SQL Developer
+
+@ Created and maintained 100+ PL/SQL scripts and stored procedures to maintain operations continuity.
+
+e@ Designed, developed, and maintained the data extraction and transformation processes, ensuring that all data
+is loaded correctly and extracted in and out of company systems and gaining a 100% success rate for the task.
+Investigated data quality issues, implementing appropriate solutions that increased overall efficiency by 27%.
+Utilized expertise to help improve the performance, scalability, and stability of database systems by 45%.
+Identified and implemented programming enhancements that increased the rate of daily operations by 29%.
+
+Growthsi, New York, NY Jan 2012 — May 2018
+PL/SQL Developer (February 2015 — May 2018)
+
+@ Developed, tested, debugged, and documented Oracle PL/SQL packages and types in accordance with
+company policies, company standards, and industry best practices, ensuring 97% satisfaction in performance.
+Assisted in converting an existing PowerBuilder code to PL/SQL and Java to support a new Flex application.
+Tested coding modifications and assisted with application and system testing to minimize errors and
+downtime, successfully gaining a 35% reduction in general and specific errors and downtime problems.
+
+e@ Translated business requirements into technical requirements, delivering an application code that is fully
+tested, meets the business requirements, and 100% compliance with all company/organizational standards.
+
+@ Maintained versioned code in Subversion following company policies, standards, and industry best practices.
+
+Junior PL/SQL Developer (January 2012 — February 2015)
+
+© Utilized Perl programming and Microsoft SQL/T-SQL to accomplish numerous projects within 3 years.
+e@ Received data from 100+ various sources using varied file record layouts, ensuring their security and privacy.
+e@ Performed a wide variety of edits and validations to ensure >80% functionality of all developed systems.
+e@ Maintained flexibility to adapt to changes in organization and accounting, acquiring a 95% performance rate.
+e@ Retained a good understanding of Oracle Exadata platformand DBMS concepts to boost company success.
+@ Obtained experience as a Data Modeler/Sr. Oracle database developer role in 2 different company projects.
+Resume Worded, San Francisco, CA June 2011 — Dec 2012
+Associate Consultant
+e@ Completed 10+ financial business object reports of varying complexities to SQL Server Reporting Services,
+replicating functionality and formatting to ensure the on-time delivery of company projects within set targets.
+e@ Involved in the application architecture, design, and development for Resume Worded Investors Cash
+Distribution/Contributions and Projection/ Valuation process, providing inputs to aid decision-making.
+e@ Utilized SharePoint for document management, status report, and technical information distribution.
+EDUCATION
+Resume Worded University, San Francisco, CA May 2011
+Bachelor of Science in Computer Engineering
+SKILLS
+Business Requirements e¢ Process Efficiency ¢ PL/SQL scripts e =T-SQL
+Project Management e = Testing e Oracle Exadata e Oracle PL/SQL
+Procedures e = Java e DBMS concepts e =Unix
+Collaboration e =PowerBuilder e = Microsoft SQL e = Shell

@@ -1,0 +1,64 @@
+Alex Ershov, Phone: 0424713857, Email: alex@gmail.com
+
+ALEX ERSHOV
+
+Creative .NET Developer with 13+ years of strong Phone: 0424713857
+experience in Front-end Development, Back-end Email: alex@email.com
+Development areas with willingness to learn and master Linkedin: aershov24
+
+GitHul
+
+Single Page Apps and NoSQL. GOF Design Patterns & OOP actshov
+
+practitioner.
+
+KEY SKILLS
+Front End Databases
+© Angular 2+, Angularls, Babel, Bootstrap © CRUD, EF, MS SQL Server, MongoDB
+© CSS3, ES6/ES2015, Firebase, GraphQL © NoSQL, ORM, SSIS, SSRS
+‘© HTMLS, JSON, Pug/Jade, RESTful API © TSQL
+© ReactiS, Stencil js, TypeScript, Underscore.js
+© XML, jQuery DevOps
+Back End © Ansible, Circlecl, Git
+© Jenkins
+‘© .NET Core, .NET Framework 4.x, ADO.NET
+‘© ASP.NET MVC, ASP.NET Web API 2 SDLC
+© CH, Express.js, Linq2SQL
+© Node,js, NuGet © 12 Factor App, Agile, BRD, Jira
+
+© OOP, SOLID principles, UML
+
+‘WORK HISTORY
+
+Senior .NET Developer 01/2019 — Present
+Modis Perth, WA
+
+© Design and configuration of the fully automated CI/CD lifecycle for the high-volume online
+service decreasing time-to-market cycle and improving deployments confidentiality.
+
+© Developing new product features for the high-volume single page application applying
+knowledge of .NET Framework 4.x, ADO.NET and .NET Core. Asa result 9 bugs-free releases
+have been deployed just-in-time.
+
+© Developing, design and implementation of the new API endpoints as a part of high-volume
+single page application, that provided critical connectivity channel for distributed
+functionality and increase system cohesion keeping manageable code complexity.
+
+© Improving product aesthetic and UX of the business-critical progressive web application,
+resulting in 73% CHI (Customers Happiness Index) increase.
+
+© Performing unit & load testing for the critical online service utilizing Nunit eliminating
+system’s failure rate by 79%
+
+© Resolved technical problems relating to the business-critical customers-facing portal
+resulting in system performance and scalability improvements
+
+Full Stack Developer 04/2018 — 12/2018
+Novata Solutions Perth, WA
+
+© Developing new and customization of the existing features for the high-profile progressive
+
+web application using .NET Core, Angular 2+ and AngularJS. As a result 7 bugs-free releases
+have been deployed just-in-time.
+
+Alex Ershov, Phone: 0424713857, Email: alex@gmail.com

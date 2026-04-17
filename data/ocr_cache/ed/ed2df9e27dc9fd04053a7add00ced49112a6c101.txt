@@ -1,0 +1,93 @@
+VICKKI HASBROUCK
+
+Database Developer
+
+PROFILE
+
+vickki,hasbrouck@gmail.com fq
+(294) 441-6312 EJ
+123 Elm Street, Buffalo, NY 14201 [\)
+
+EMPLOYMENT HISTORY
+
+Database Developer with 1
+year of experience in
+
+designing, implementing, and
+maintaining database systems.
+Proficient in SQL, data
+
+modeling, and performance
+optimization. Demonstrated ability
+to work collaboratively with
+cross-functional teams to deliver
+successful projects. Strong
+analytical and problem-solving
+skills, with a commitment
+
+to continuous learning and
+professional growth.
+
+LINKS
+
+Exploring new programming
+languages
+
+© Database Developer at MongoDB, Inc., NY
+May 2023 - Present
+
++ Developed and implemented a new database indexing system,
+resulting in a 35% reduction in query response times and improving
+overall application performance for over 100 clients.
+
++ Successfully migrated 50+ legacy databases to MongoDB,
+streamlining data management processes and reducing
+maintenance costs by 25%.
+
++ Leda team of 5 developers in the design and deployment of a
+scalable data warehousing solution, which increased data storage
+capacity by 200% and facilitated the growth of the company's
+product offerings.
+
++ Optimized database performance through comprehensive
+performance tuning, resulting in a 40% increase in transaction
+processing speed and enhancing user experience for thousands of
+end-users.
+
+© Associate Database Developer at Oracle Corporation, NY
+‘Aug 2022 Apr 2023
+
++ Successfully designed and implemented a database optimization
+plan for a major client, resulting in a 35% improvement in query
+performance and reducing report generation time by 20%.
+
++ Developed and deployed a data migration strategy for a large-scale
+database consolidation project, which involved migrating over 10
+million records across 3 different systems, ensuring seamless data
+integration with minimal downtime,
+
++ Led a team of junior developers to create a custom data analysis
+tool that increased the efficiency of internal reporting processes
+by 40%, enabling faster decision-making and improved business
+insights.
+
++ Collaborated with cross-functional teams to resolve over 100
+critical database performance issues within a year, maintaining a
+99.5% uptime for all client databases and contributing to a 15%
+increase in overall customer satisfaction.
+
+EDUCATION
+
+Bachelor of Science in Database Development at Columbia
+University, New York, NY
+
+‘Aug 2018 - May 2022
+
+Relevant Coursework: Database Design and Implementation, Data
+Structures and Algorithms, SQL and NoSQL Databases, Data Warehousing
+and Mining, Database Administration, Information Security, and Big Data
+Analytics.
+
+CERTIFICATES
+
+Microsoft Certified: Azure Database Administrator Associate

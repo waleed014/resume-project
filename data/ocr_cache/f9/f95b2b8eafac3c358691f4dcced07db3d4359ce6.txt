@@ -1,0 +1,70 @@
+Robert Smith comracr Dera
+
+177 Mars Rood
+
+Assistant AWS Devops Engineer I (123)-456-7@90
+Infowatresume com
+wwieawikresume.com
+
+PERSONAL STATEMENT
+
+Experienced DevOps Engineer dedicated to automation and optimization ‘SKILLS
+{or 7 years. Understands and manages the space between operations and Knowledge of
+development to quickly deliver code to customers, Has experience with the Retworking, Knowledge
+
+oud, as well as DevOps autornation development: Tor Linux systems,
+Brings maturity, enthusiasm, and a drive to learn new technologies along
+with real world experience.
+
+‘of cloud computing,
+
+LANGUAGES
+WORK EXPERIENCE
+English (tive)
+Assistant AWS Devops Engineer! french (rofessional
+University OF MN - January 2014 - 2020 Spanish (professional)
+esponsiiives:
+* Creatingthe automated bulld and deployment processor application TERE STS
+reengineering senip for bettr user experience, and leading upto
+bulldng @ continuous integration system fora our products EO.)
++ Implemented AWS solitions using E@, 53, RDS, EBS, elastic Load eee
+Balancer, Auto scaling groups. Reedng
++ Responsible for Design of diferent Release Environments for new
+projects and monitoring
++ Responsible for Design of diferent Release Environments for new Serer ae
+projects and monitoring
++ Installed Chet Server Enterprise On-FremiseWrkStation/ Bootstrapped Reference 2 (Company
+the Nodes using Knife Neel cs earn
++ Designed and implernented Chef, including the internal best practices, Name)
+
+cookbooks, automated cookbook Cl and CD system,
++ Migrated VMWARE VMs ta AWS and Managed Services like EC2, $3
+Bucket, Routes3, ELB, EBS Etc with Opscode Chef Cookbooks/Recipes.
+
+AWS Devops Engineer
+Delta Corporation - 2012 - 2014
+Responsibitties:
+
++ Key Deliverables Technical leader to align processes and tools, such as
+branching, source control structure, dependency management,
+LUnuxwindows hybrid build infrastructure, code review, and check-in
+policies, that are developed and! instrumented by DevOps teams across
+projects globally
+
+‘+ Managed Ubuntu Linux and Windows virtual servers on AWS EC? using
+Puppet.
+
+‘Experienced with working on Puppet Master and Puppet Agents
+
+* Defined Puppet Master and Puppet Agents to manage and configure
+nodes,
+
++ Deployed Puppet, Puppet dashboard for configuration management to
+existing infrastructure,
+
++ Designed and deployed AWS solutions using E2C, S2, ROS, EBS, Elastic
+Load Balancer, Auto scaling groups, Opsworks Performed Server
+configuration managernent via Puppet.
+
++ Tensparent Data Encryption (7DE} implementation Database
+(Ths Ema Resume Temnlate ithe conynght of Qukesurne cor. Usage Gustine

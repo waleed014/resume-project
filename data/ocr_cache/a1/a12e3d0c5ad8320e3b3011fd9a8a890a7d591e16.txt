@@ -1,0 +1,33 @@
+Junior React
+Developer Resume
+
+SKILLS
+
+¢ Excellent proficiency in JavaScript
+
+¢ Good understanding of React.js and its major principles
+
+¢ Good understanding of front-end optimization techniques
+° Excellent written and verbal communication skills
+
+e Problem-solving skills
+
+EXPERIENCE
+
+¢ Working as part of a team to write application interfaces using
+Javascript
+
+¢ Developing with the React framework
+
+e Experience writing well-structured code
+
+¢ Working with modern front-end build pipelines and tools
+
+e Experience with data structure libraries Experience testing applications
+and identifying bugs
+
+EDUCATION
+
+¢ Bachelor's degree in Computer Science
+
+© ReactResumes.com

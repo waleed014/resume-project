@@ -1,0 +1,99 @@
+AREAS OF EXPERTISE
+
+AMerosoft SOL Server 2000 —
+2005 - 2008
+
+Disaster reconery
+SOL shally
+Syhase
+
+Oracte DBA
+
+asa cleansing
+
+ata Warehouse rots
+
+PROFESSIONAL,
+
+MerosoftCernied
+Database Administrator
+
+{ISEB Certificate Data
+Protection
+
+PERSONAL SKILLS
+Atenton to deta
+Good analytical sls
+
+Goals oriented
+
+PERSONAL DETAILS
+
+‘Susan Greene
+
+“34 Anywhere Road
+Coventry
+V6 7RF
+
+Database administrator
+
+PERSONAL SUMMARY
+
+[An experienced IT professional wath database & Unix administration sills across
+both Oracle and MS SQL. Having the ability to take the technical lead in projects
+and supporting technical implementation whist working on multiple poducts.
+‘Currently working in a demanding production support envionment managing
+large volumes of business critical data. A committed tam player, self motivated
+withthe ability to communicate at all evels.
+
+Presently looking fora suitable database administrator postion with a responsible
+‘company.
+
+WORK EXPERIENCE
+
+17 Constancy Flem ~ Coventry
+DATABASE ADMINISTRATOR June 2008 - Present,
+
+Responsible forthe technical and administration aspects of the companies Oracle
+and SQL Database infrastructure. Also the first pont of cal for providing
+‘echnical support as wel as specialist technical input
+
+Duties:
+‘ Installing and maintaining databases.
+
+‘+ Administration ofthe database inluding performance monterng and tuning
+
+‘+ Taking prt inthe preparation and exceutn of ehnical tet
+
+‘Populating «database with new information or transfer existing data into it.
+‘Creating hack up copies of data,
+
+‘Daily maintenance of fuewall protection and file security
+
+* Development of web based interfaces for Oracle databases and web applications
+‘+ Responsible for database security and also preventing data los.
+
+‘ ldenuisying and escalating mediately any rks to the database service.
+
+‘+ Involved inthe design of physical database schema, data modeling, and
+performance tuning
+
+KEY SKILLS AND COMPETENCIES.
+
+‘Able to effectively communicate technical data to non technical colleagues
+‘Experience of Oracle Application Servers, SAN, NAS, XMLDB,
+
+‘Able o pln the structure ofa database
+
+{Experience with RAC, ASM, instance tuning and SQL tuning
+
+‘+ Have an excellent knowledge of PHP, SQL, XHTML, CSS and JavaScript
+
+‘ Ability to mult task & prioetiseunder ever changing & challenging workloads,
+‘Abily to quikly understand complex problems and devise effective solutions
+‘+ Experience of working on Oracle 9/lO/g/11g server infrastructures.
+
+‘+ Knowledge of OEM, Disgostc, Tuning, Configuration and Change
+“Management Packs.
+
+ACADEMIC QUALIFICATIONS

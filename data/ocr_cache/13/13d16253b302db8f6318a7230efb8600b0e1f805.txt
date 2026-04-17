@@ -1,0 +1,97 @@
+RICHARD LEFFLER
+
+39797 DuBuque Junctions, Detroit, MI + +1(555) 614 9016
+
+‘WORK EXPERIENCE
+
+SENIOR INFORMATICA ETL DEVELOPER 04/2018 - PRESENT
+Houston, TX
+
+‘+ Background in investment banking
+
+‘+ Sub Ledger Systems experience
+
++ A good understanding of MS SQL Server 2012/2014 or 2016 and intermediate skills in T-SQL.
+
++ Informatica development, Informatica repository, and Informatica Job scheduling
+
+‘+ Experience of performance monitoring and tuning end to end Informatica ETL workflows
+
+‘+ Awareness of production environment criticality and business impact
+
+‘+ Manage day to day development activities on the ETL platform
+
+‘+ Apply best practices and experience to build ETL informatica applications
+
++ Research ETL capabilities as needed to suit business requirements, and provide gap analysis
+
+INFORMATICA ETL DEVELOPER 07/2015 - 12/2017
+Boston, MA
+‘© Ensures data quality
+
++ Codes, tests, implements, and automates complex processes
+
++ Plans and conducts Informatica ETL unit and development tests; monitors results and takes corrective action
+
+‘+ Oversees basic and advanced transformation activities such as normalization, cleansing, aggregation, summarization, and integration
+
+‘+ Translates data access, transformation, and movement requirements into functional requirements and mapping designs
+
+‘+ Designs automation processes to control data access, transformation, and movement
+
+‘+ Ensures source system data availability and update accessibility, data integrity, restart ability, and error handling
+
+‘+ Leads technical staff and clients to investigate, analyze and resolve complex technical problems related to system functions, environment,
+and procedures
+
++ Understands exi
+
+1g Informatica ETL environment, translates into new environment requirements and plans tasks to meet those
+
+requirements
+
+INFORMATICA / ETL DEVELOPER 11/2008 - 03/2015
+Chicago, IL
+
++ Plans, installs and configures upgrades of Informatica releases and hot fixes among various
+
++ Provide solutions for data warehousing and Informatica ETL Processes to support Data Integration and Reporting requirements,
+
+‘+ Recommends changes to increase scalability and robustness of ETL platforms and solutions
+
+‘+ Monitors and maintains compliance with Enterprise Architecture, Technology Standards, and Disaster Recovery/Business Continuity
+
+Planning
+
+‘+ Excellent in Data Warehouse Concepts and work experience
+
++ Excellent ETL Development skills with Oracle PL/SQL
+
+‘+ Strong requirements development (facilitation) and design skills in BI solutions
+
+‘+ Experienced working in a deadline-driven environment, handling and pr ing multiple tasks
+
+‘+ Work independently or as a member of a team on complex tasks
+
+EDUCATION
+
+AMERICAN SENTINEL UNIVERSITY 2004-2008
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Excellent interpersonal, oral and written communication skills are required. Strong communication skills to work with business users
+and team members
+
+‘+ Strong database experience, data analysis and analytical skills
+
++ Excellent technical, logical, analytical and problem-solving skills to provide insight on development and application support
+
++ Possesses advanced technical knowledge and skills developed through implementation and service experience with PowerCenter and
+Linux shell scripting
+
+‘+ Strong written and verbal communications skills to work with your team and with our
+
+‘+ Strong development leadership skills
+
+Excellent organizational, interpersonal, verbal and written communication skills,

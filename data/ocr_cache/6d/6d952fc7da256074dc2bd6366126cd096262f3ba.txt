@@ -1,0 +1,58 @@
+ROBERT SMITH
+
+Network Security Engineer II
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+Cisco Certified Network Engineer with around 8 years of experience in testing,
+troubleshooting, implementing, optimizing, migrating and maintaining enterprise
+data network and service provider systems,
+
+EXPERIENCE
+
+Network Security Engineer It
+‘ABC Corporation - JULY 2013 - OCTOBER 2014
++ Maintained a Network with more than 600 Network devices, 20,000-
+end hosts and the other Network devices like DHCP, ONS Servers,
+and Firewall Servers Performed IOS upgrades on Catalyst 3750, 2950,
+1900 switches, and 3600, 2600 and 2500 routers,
++ Installed and configured DHCP, DNS Server.
++ Troubleshooting and installing of SR, ASRS000 and Nexus devices.
++ Worked on Cisco Routers. Active Passive Hubs Switches Nortel VPN
+Concentrators TCP/IP, NAT and Checkpoint ESK/GSX firewall
++ Experience working with Nexus 7010, 5020, 5548, 2148, 2248
+devices Used KiniCat tools to manage configurations from desktop
+for network devices including routers, switches and firewalls.
+‘+ Worked with application developers and systems engineer to migrate
+applications and systems to a new Border Gateway network.
++ Responsible for Cisco ASA 5540 administration and checkpoint
+firewall provider-1 across our global networks Good experience with
+like checkpoint VSX, IDS, 1P5 as well as encryption techniques.
+
+Network Security Engineer
+‘Web.com - 2010 - 2013
+
++ Palo Alto design and installation (Application and URL filtering, Threat
+Prevention, Data Filtering) Configuring rules and Maintaining Palo Alto
+Firewalls & Analysis of firewall logs using various tools Successfully
+installed Palo Alto PA 3060 firewalls,
+
++ Managing the entire Network Security Products deployed in the
+network such as Checkpoint (GAIA R75.40/77.20) Deployed Site to
+
+Site and Client to Site VPNs utilizing Checkpoint Firewall-1/VPN-1.
+
+Built and support VARP / Cluster based HA of Checkpoint firewalls
+
+Bluecoat Administration - Blocking/Unblacking URLs.
+
+Third Party VEN migration from old data center to new data center:
+
+Creating object, groups updating accesslists on Check Point Firewall,
+
+apply static, hide NAT using smart dashboard
+
++ Troubleshooting connectivity issues on the firewall using smart view
+tracker, monitor health of the appliance using smartview monitor etc,
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

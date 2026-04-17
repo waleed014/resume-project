@@ -1,0 +1,53 @@
+First Last
+
+New York, NY 10001 + (212) 123-4567 - first.m.last@resumeworded.com * linkedin.com/in/username
+
+EXPERIENCE
+
+2016-Present REsuME Worpep & Co. San Francisco, CA
+Technical Operations Manager
+e Directed and coordinated a staff of 80 employees.
+© Spearheaded an employee engagement program, resulting in a 10% decrease in annual employee turnover.
+e Increased productivity by 20% through becoming a subject matter expert of a new automated tracking tool and
+sharing it with the team.
+¢ Monitored internal statistics monthly which improved team performance by 10% and revenue growth by 15%.
+Cut operating expenses by 12% through intense GPS monitoring and employee engagement.
+
+2012-2014 Growrusi Beijing, China
+Technical Operations Supervisor (2013-2014)
+
+© Supervised and directed 30+ field service representatives in the completion of field activities and customer
+service tasks.
+
+e Assigned and organized 15 field activities to optimize resources efficiently through strong written and oral
+communication.
+
+e Fostered a culture of open communication and higher employee fulfillment resulting in 100% customer
+satisfaction and increased business performance by 18%.
+
+Technical Architect (2012)
+© Integrated 3 regional applications into one web-based application that allowed 30+ field service representatives
+to work with diverse data through one interface.
+@ Designed and built software to assist in writing orders which improved efficiency and quality by 20%.
+e Created and coded automated service order generators, saving over 100,000 man-hours..
+
+2012-2014 Resume Worpep & Co. San Francisco, CA
+Technical Analyst
+@ Managed over 300 Army Corps of Engineers connectivity sites.
+e Provided help desk training to 6 new employees on hardware, connectivity, and software applications.
+e Documented all issues within JIRA with 100% accuracy.
+
+EDUCATION
+2017-Present REsuME WorDED ENGINEERING SCHOOL New York, NY
+Master of Data Science; Minor in Business Analytics
+@ Awards: Bill & Melinda Gates Fellow (only 3 awarded to class)
+
+2007-2011 Resume Worpep UNIVERSITY San Francisco, CA
+Bachelor of Science, Major in Information Technology; Minors in Management and Computer Science
+
+OTHER
+@ Languages: Spanish (native), French (intermediate)
+@ Technical Skills: Microsoft Office Suite, Amazon Web Services (AWS), Cisco, Internet Protocol (IP), JIRA
+© Certifications: Project Management Professional (PMP) (August 2016), ABC Certification, Information
+Technology Infrastructure Library (ITIL) Certification (August 2012), Six Sigma Certified (January 2016)
+@ Volunteering: Volunteered 15 hours/month at ABC Foundation (2012-2014)

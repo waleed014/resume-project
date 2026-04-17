@@ -1,0 +1,52 @@
+ROBERT SMITH
+Senior Sql Developer II
+
+Phone: (0123}-456-789 | Email: infodquikresume.com | Website: Quikrestme.com,
+
+8 years of experience Administration, Data Architect and Development using SQL []
+systems in OLTP and OLAP environment. Expertise Interest include Administration,
+Database Design, Performance Analysis, Production Support for Large (VLDB) Complex
+Databases. Implemented side place Migration MS SQL server 2000 to [] and applied
+Patches Service packs update different versions MS SOL server,
+
+[CORE COMPETENCIES
+
+‘Transact-SQL. Microsoft SSIS, Microsoft SSAS, Microsoft SSMS, Microsoft SRS,
+Microsoft SQL Server, Oracle, PL/SQL, Data Warehousing Tools, Stored Procedures And
+‘Triggers, MS Access,
+
+[PROFESSIONAL EXPERIENCE,
+
+‘Senor Sql Developer IL
+Abbvie Inc - June 2014 - 2020
+
+Key Deliverables:
++ Responsibilities Worked extensively on installation configuration of MS SQL.
+Server 2005/2008/2008 R2 standalone clustered Environments Invalved in
+mulgratlon of MS SQL Server 2005/2008 to MS SQL Server 2008 R2.
++ Handled clustering between two Production Servers performed dally backups,
+developed recovery procedures.
+perience fleld Unit Testing, have tested codes of TSQL and §
+the testing environment.
++ Configured DB mall for sending automatic malls t respective people when SSIS
+process fails
++ Migrated DTS packages to SSIS 2005 packages
++ Administered MS SQL Sener crating User Logins with appropriate Roles,
+dropping and locking logins, monitoring User Accounts, granting privileges to
+1+ Scheduled Backups for Databases performed Restoration operations.
+
+SIS packages in
+
+‘Senior Sql Developer I
+Delta Corporation - 2013 - 2014
+
+Key Deliverables:
++ Responsibilities Installation of MSSQL Server 2012 /2008R2 on Production, and
+Development environment,
++ Assigned for Database Optimization that involved re-engineering the databases,
+data and index organizing, performance tuning and query tuning,
++ Asa part of the team, configured Transactional Replication with multiple
+publishers and centralized subscriber for real thme reporting,
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yaee Resume Template the copy of Quine com, Usage Guleinne

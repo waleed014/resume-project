@@ -1,0 +1,154 @@
+Jessica CLAIRE
+
+100 Mectgomery St. Oth Flor # 555) 432-1000 resumesample example com
+
+PROFESSIONAL SUAOMARY
+
+Expetienced FllStck Developer with a demonstrated history of working in the Information technology and services Indust Song
+‘npinering professional, curently seeking Full-time Jb Opportunies. Skilled in JavaScript, TypeScript, React, Nodejs, HTML, CSSICSS3,
+snd Python Progamming Language, My gol ist expand my knowledge to an extent whee am able to povie architectural sluions in
+Software Development.
+
+Semis
++ ReacS/Redu Flue MobX, React Routt, React-bootstap + CUCD, Pipeline, Gah, Jenkins
+
+Semante-U, Matei- UT ‘+ NPM, WebPack, Babe, Yar, Gulp/Gnun, Docker
++ Python Django(Django REST Framevork/Fask + MongoDB, PostaeSQL. MySQL
+
++ E567, TypeSeript JavaScript, HTMLS, CSS3, Bouap, SASS! + AWS(EC2, Lambda, DynamaDB, S3, et), Heke, Firebase
+Less
+
+1+ NoderExpressKoaHapi
+
+Freelancer, 0672022 - Curent
+Spmorgan Chase & Co, —Helena, MT
+
+Full Stack Engineer, 03/2022 05/2022
+‘Cognizant Technology Solutions ~ San Francisco, CA
+
++ Developed complex sofware and systems deploying one or more programming languages.
+
++ Followed and supported change management practices and internal conto standards
+
++ Designed and implemented sealable application programming interfaces.
+
++ Understood il technology stack and underlying applications, services and databases, esting in optimal progam performance
+
+Freelancer, 012021 -02/2022
+‘Two International Ine. ~ Milpitas, CA
+
+Fall Stack Developer, 10/2018 - 012021,
+‘Two International Inc. Moatale, NI
+
++ Responsible fr SDLC proces in gathering requiement, system analysis, design, development, testing and deployment
+
++ Developed single page aplication for web pages and motile application using HTMLS, CSS3
+
+‘+ Used GIT and Gitb for continoous intepraton.
+
++ Extensive experience in web based and clienterver application wing Python and Django,
+
++ Excellent experience and Knowledge in CSS preprocessor like SASS
+
++ Designed font-end applications, wer interactive (UD webpages using web technologies ike CSS, JavaScript,
+
++ Iteration of Amazon Web Services (AWS) with othe applications nfartctue
+
++ Handled al client-side validation ving JavaScript.
+
++ Followed Asile Methodology to meet customer expectation, timelines with quality deliverables
+
++ Used basi incorporate React J to build lien side applications for building server side API
+
++ Creston and maintenance of website using HTML, CSS & JavaScript
+
++ Used ReactS as famework to creat Single Page Application (SPA) which can bind data to specific views and synelnize data with
+
+‘+ Used JavaScript to make frontend component interactive to add dynamin to we pages at clint side.
+
++ Integrated Frontend jQuery UI with backend REST APL
+
++ Responsible forall backup, covery, nd upgrading of databases,
+
+Eaviconment HTML, CSS, JavaScript, REST API, React 8, AWS, jQuery, SASS, SDLC, Agile, Django, Python, Git, Gib
+
+‘React Developer, 04/2016 - 082018
+Company Name City, State
++ Create, developed, and helped to build sumerovs adaptable web and mobile softwar applications developed by company cleats using
+avaScipt, React, Nodes
+«+ Developed, introduce, and helped to build next version of product line using Reacts with Reds
++ Create and helped to bld applications layout bass on reaet-outer dom technology using functional methods as createContet,
+seReducer,styed-components in React Hooks envionment
++ Creating azchitectng schemas bass on GraphQl for MongoDB database in business ets existed projects and logic of new web projects
++ Built AP requests with diffrent HTTP methods, used dffeent ypes of variables (local, collection environment, glob) and display on
+web page components data though geting data in Javascript and Reacts
++ Developed, and helped to build multipage projects in Nodejs bated on Handlebars engine.
++ Applied practice to use TypeScript catching bugs, increasing productivity and avoiding mistakes working on apart elements in JavaScript
+rojets
++ Developed, created and helped to build multpages responsive HTML sites and components to them using Hock model, semantic gs,
+Flexbox / Gr SASS methods
++ Developed and maintained wit tests using Jest, Mocha js
+
+Python Developer, 01/2013 -03/2016
+Company Name ~ City, State
++ Developed views and templates with Python and Django view controllers and templating language to create weeny website interface
+Created Handler fonction in Python using AWS Lambda that can invoke when service is executed
++ Integrated services like Giub, AWS CodePipeline, Jenkin and AWS Elastic Beanstalk to crate deployment pipeline, Developed and
+Jimplemented UL controls and APIs with JavaScript, Bootstrap, Emberjs, Backbonejs, Anguarjs and Nodes
++ Managed AWS EC? instances wilizing Auto Scaling, Elastic Load Balancing and Glacier for our QA and UAT envionment at well
+ingrastrocture serves for GIT and Chef Designed python script to load transformed data into cloud services (AWS, Azure and GCP).
++ Implemented Docker to provision slaves dynamically as needed, Had to Create and Maintain Docker les in Source Code Repository, build
+mages and run containers for aplication and testing purposes
++ Used Node J for asynchronous data communication betwen server and clit. Developed Reel Miro services wing Flask and Django
+nd deployed on AWS servers sing EBS and EC2
+«+ Designed developed, implemented, nd maintained solutions for using Git and Gitiub or micro service and coninnou deployment
+Crested custom CMS bit wing Dango, AWS (Amazon web service), REST, Jon with JavaScript, Query, AJAX components
++ Used Elsi search for powering not only Search but using ELK stack fr loging and monitoring our systems end to end Using Beats
+‘Used elastic search fr name pattern matching customizing to requirement. Worked high-end on collections and mulitreadng.
+‘+ Worked as part of Agile Scrum based development tam and exposed to TDD approach in developing applications. Worked on deployment
+of project on Amazon $3 and used GIT version contol and deployed project to Herok,
+
+Python Developer, 05201
+Company Name ~City, State
+
++ Involved in development of Python based Web Services using REST for sending and geting data from extemal interface in JSON format
+and performing analysis using Django, PstereSQL.
+
++ Developed Spark/Scala, Python fr regular expression (regex) projects in Hadoop Hive enviroment with Lino Windows fr big data
+
++ Experience working wih R, Python, SAS and Weka, MATLAB, Relational databases. Deep understanding & exposure of Big Data
+Ecosystem,
+
++ Developed backend web services wing Node nd stored dependences using Node Package Manager (NPMO,
+
++ Build data pipelines to create dependencies Between asks and itis easy to write modular code
+
++ Setup and build AWS cloud infeastactue various resources like EC2, EBS, $3, DyzamoDB, lambda, VPC, RDS, ELB, Aut Scaling,
+‘CloudFormation, Elastic Cache, CloudWatch, SNS, AWS ImporvExport
+
+«+ Design Data Pipeline which can capture data from steaming web data a wellas RDBMS source data
+
++ Created and pblished multple dashboard and reports sing Tableau seve.
+
++ Importing and sending out information into HDF and Hive utlzing Sqoop and Kafka,
+
++ Usiized Apache Spark with Python o develop and execute Big Data Analytic and Machine leaing applications exccuted machine
+“Leaming usecase under Spark ML and Nib
+
++ Design & develop common platform famewotks on NodeIS, Ex: - loging, rest client, exception handling, Developed Entire server-side
+pplication using Noders.
+
++ Build ETL pipeline using Pentaho Spoon, Spark, Hadoop, HDFS fer customers with lage data volume.
+
+‘+ Worked on DesOps methodologies and cloud infrastructure automation tools like AWS, Chef by using Tesraform,
+
++ Read Parquet and CSV files fom S3 afer applying business logic and upload output back to S3 using Pandas and Py Spark
+
++ Used Apache spark on Databscks for big data tansfomatio and validation
+
+na
+
+EDUCATION
+
+Bachelor of Science: Computer Science, 2011
+“The University of Georgia - Athens, GA

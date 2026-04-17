@@ -1,0 +1,55 @@
+LISBETH WEHNER
+
+74773 CARLOS RAPID, NEW YORK, NY
+
+PHONE
++1 (555) 143 4646
+
+EXPERIENCE
+
+Schaden-Greenholt
+Chicago, IL // Principal Cyber Security Engineer // 07/2019 — present
+
+¢ Opportunities to progress to Engineering Management or engineering strategy roles within other areas of the company
+
+¢ Domain experience in Cyber Security to include an understanding of Cryptography, IP Networking and High assurance
+development (CAPS)
+
+¢ Experience of taking a leading role in engineering development projects through most parts of the systems lifecycle from
+concept definition through to handover to the customer
+
+¢ Experience working with small teams
+
+¢ Hands on experience with system attack and penetration testing tools, such as metasploit and others
+
+Schoen, Nolan and Haley
+Chicago, IL // Senior Cyber Security Engineer // 12/2013 — 03/2019
+¢ Experience implementing product and subscription services security
+¢ Experience with Amazon Web Services and related technologies ( EC2, IAM, KMS, EMR, S3, VPC, Lambda, etc)
+¢ Deep knowledge of OSI Layer 7 Model, Network Architecture and Network Topology
+¢ Experience with both virtual and containerized computing environments
+e Experience designing, developing and implementing resilient cyber security systems
+¢ Experience with cybersecurity assessments
+Familiarity with compliance assessments
+
+EDUCATION
+
+Fashion Institute of Design & Merchandising
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Skilled at influencing and motivating individuals and teams
+
+e Active CompTIA CASP, CompTIA Security+ CE, CCNA-Security, or GSEC in good standing (IAT-II)
+¢ Active Secret Clearance (can start with Interim)
+
+¢ Experience developing and documenting SOP guides, configuration runbooks, installation guides
+
+¢ Minimum ITIL v3 experience
+
+Understanding of Enterprise DevSecOps and DevOps Reference Design and Operations
+
+¢ Configuration experience with Nutanix Hyper-converged environments
+
+e JAMF Pro experience managing Apple MAC systems

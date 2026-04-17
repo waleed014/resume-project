@@ -1,0 +1,54 @@
+ROBERT SMITH
+
+Dot Net Developer III
+
+Info@quikresume.com | https://Qwikresume.com
+
+Dot Net Developer with over 15+ Years of experience in architecture, analyzing,
+design, development, research, implementation, and deployment af several
+Client/Server, distributed GUI, enterprise-level Web-based Application Systems,
+Experience in deployment using IIS Application Servers 6.0/7.0, Excellent
+Interpersonal and Communication skills coupled with strong technical and problem
+solving capabilities. Experience in Tortoise SVN for source code, task and defect
+maintenance.
+
+FEBRUARY 2006 - PRESENT
+DOT NET DEVELOPER Ill - ATOS
+
++ Designed truckload quoting pricing tool for sales staff to quote and price carier
+and customer clients using MVC4 Asp.Net, C#, Javascript and jQuery.
+
++ Creating technical planning process, architecture and ER diagram for the
+development life cycle before starting the project to have a clear vision and
+understanding of the full SDLC life cycle of the project.
+
++ Implementing the custom validation code to test the Ul controls as per the
+business requirements.
+
++ Wrote optimized stored procedure to load Geo lookup data and auto-complete
+the search contral
+
++ Designed controls to dynamically add intermediate stop and update miles using
+‘ax controls using {Query and Javascript.
+
++ Implementing and using web services with the help of WSDL, SOAP to get
+updates from the third parties
+
++ Using xm! web services using soap to transfer the amount to transfer
+application that is remote and global to different financial institutions,
+
+2003 - 2006
+DOT NET DEVELOPER - ABC CORP
++ Worked closely with existing team to review requirements and feasibility from
+the technical perspective and to finalize requirement.
+Developed and maintained database scripts and Stored Procedures,
+Developed applications in C#, Win Forms, Power Shell, ASP, .NET ASP etc,
+Performed code review written by other developers on team.
+Performed unit testing,
+Worked with other team members to cooperatively design, develop and deploy
+quality solutions in order to satisfy aggressive project objectives and client
+requirements.
++ This Is Dummy Description data, Replace with job description relevant to your
+current role. In case if you donk need it you can delete It.
+
+(© Tis Free Resume Templates the copyright of Qmikrestme.com. Usage Gulelines

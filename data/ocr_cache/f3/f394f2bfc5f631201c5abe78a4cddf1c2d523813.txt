@@ -1,0 +1,208 @@
+JESSICA
+CLAIRE
+
+© _resumesample@example.com
+%& (555) 432-1000
+
+9 100 Montgomery St. 10th
+Floor
+
+SKILLS
+
+‘Work Planning and Prioritization
++ Project Management
+
++ Testing and Troubleshooting
++ systems Analysis
+
++ Staff Training
+
++ Team Leadership
+
++ Coaching and Mentoring
+
++ Network Security Software
++ Customer Service
+
+EDUCATION
+
+Roy C. Ketcham Senior
+Highschool
+‘Wappingers Falls, NY + 05/2009
+
+High School Diploma
+
+CERTIFICATIONS
+
+Certified Cisco Meraki Network:
+Operator
+
+PROFESSIONAL SUMMARY
+
+Knowdedgeable IT Manager oversees technology deployment and maintenance. Instructs and leads IT
+staff members in support of hardware, software and networking infrastructure. Actively works with
+executives to determine and implement tech needs. Manages technology strategy training and
+documentation.
+
+WORK HISTORY
+
+Community College Of Aurora - Information Technology Manager’
+‘Aurora, CO + 07/2021 - Current
+
+Reviewed and assessed architecture design, implementation, testing and deployment needs to
+identify project requirements and costs.
+
+Guided implementation of company-wide enterprise security strategy for network and hardware,
+disaster recovery, data protection and endpoint protection.
+
+Created storage allocation for new build and existing Windows servers and clusters.
+
+Supported budget process and TCO modeling to manage and reduce spending.
+
+‘Managed teams of contractors and full time staff by coaching, mentoring and driving efficiency.
+‘Managed and reduced IT spending to support budgeting processes and TCO modeling procedures.
+‘Maintained camera and physical security systems.
+
+Supported phone, photocopier, fax machine and other physical equipment.
+
+‘Wrote policy procedure and manuals governing internal IT use.
+
+‘Oversaw IT department operations and training.
+
+Raytheon Technologies Corp - Systems Administrator
+Otis, MA + 03/2018 - 07/2021
+
+VMWare Management.
+Nutanix AHV Management
+
+Implemented Active Directory Automation.
+
+Implemented Access Control.
+
+Implemented Secure E-Faxing (Right-Solution).
+
+Ensure Patch Management Automation and implementation.
+
+Implemented Remote Managed POU with LDAP Control.
+
+Implemented AD Audit / File Share Audit to meet HIPAA E-File Retention Policy.
+
+Implemented Server Alerts.
+
+Ensure Local and Remote Backup and Restore systems are working as implemented.
+
+Ensure Email Encryption for HIPAA compliance and spoof protection.
+
+‘Migrated Financial software from external to on-prem.
+
+Implemented SSO for multiple internal sites.
+
+Created patches and solutions to fix bugs in existing applications.
+
+Provided comprehensive training to internal and off-site users to optimize systems maintenance
+and resolve recurring issues.
+
+Kept software licenses current for computers and mobile devices.
+
+COversaw IT activities to maintain operations by maintaining laptops, tablets and PDAS for 750
+Orchestrated integration and communication of software upgrades.
+‘Automated nightly batch using Active Batch scheduler and created nightly jobs for database
+backups.
+
+Coached and mentored employees and offered constructive feedback for performance
+improvement.
+
+Planned and implemented complex internet and intranet applications on multiple platforms.
+Designed and evaluated WAN and LAN connectivity technologies.
+
+Diagnosed and executed resolution for network and server issues.
+
+Standardized job tasks and trained junior team members on industry best practices and standards.
+‘Analyzed complex project server issues and worked on large enterprise and business-critical
+applications.
+
+‘Managed development of system protocols to detiver complete and persistent data set.
+
+‘Arranged staff-development programs such as training and workshops for staff at every level
+Deployed antivirus and security solutions throughout entire system network.
+
+‘Monitored safety compliance to maintain strict standards and protect team members from harm.
+Created, updated and maintained Azure security standards and best practices across Azure
+domain.
+
+Alorica Inc. - Computer Repair Technician
+Sarasota, FL » 06/2006 - 04/2021
+
+Access - Help Desk Tech
+
+Resolved both software and hardware related issues.
+‘Trained Technicians on iPad repairs and micro-soldering
+
+Researched and identified problems with computers and advised staff and clients on plans of
+action.
+
+Disassembled computers to perform diagnostics and check for repair needs.
+
+Responded to support requests from end users and patiently walked individuals through basic
+troubleshooting tasks.
+
+Updated and installed new software on desktop and laptop computers to maintain latest technology.
+Refurbished used computers and technological equipment, saving companies money.
+
+‘Oversaw equipment inventory to maintain on-hand availability of necessary replacement parts and
+consumable goods.
+
+Hamtramck, MI » 03/2015 - 03/2018
+
+Implemented a mesh network, Secure VPN and VLANS.
+Group Policy Management.
+
+‘Company Wide Active Directory and Email implementation.
+
+Patched software and installed new versions to eliminate security problems and protect data.
+Broke down and evaluated user problems, using test scripts, personal expertise and probing
+questions.
+
+Loaded software, granted permissions and configured hardware for new employees as part of
+conboarding process.
+
+‘Managed customers’ expectations of support and technology functionality in order to provide
+positive user experience.
+
+‘Trained and supported end-users with software, hardware and network standards and use
+processes.
+
+Maintained servers and systems to keep networks fully operational during peak periods.
+Provided on-call support 24/7
+
+Documented transactions and support interactions in system for future reference and addition to
+knowledge base.
+
+Provided Tier 1 and Tier 2 IT support to non-technical internal users through desk side support
+Explained technical information in clear terms to non-technical individuals to promote better
+understanding.
+
+Helped streamline repair processes and update procedures for support action consistency.
+Configured hardware, devices and software to set up work stations for employees.
+
+Created support documentation that enabled user community to extend skills, leverage system
+features and find resolutions to questions without intervention from support team.
+
+Created patches and solutions to fix bugs in existing applications.
+
+Provided comprehensive training to internal and off-site users to optimize systems maintenance
+and resolve recurring issues.
+
+‘Managed practical action plans to respond to audit discoveries and compliance violations.
+Performed day-to-day LAN and WAN administration, maintenance and support.
+
+Configured networks for smooth, reliable operation to meet business processes and objectives.
+‘Took over responsibilities of administrator during absence and filled in gaps around office.
+‘Maintained network hardware and software and monitored network to support network availability
+to end users.
+
+LANGUAGES
+
+Spanish:
+
+Negotiated

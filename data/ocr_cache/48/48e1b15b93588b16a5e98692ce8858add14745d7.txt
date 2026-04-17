@@ -1,0 +1,76 @@
+MARGOT JENKINS
+
+960 Lela Shore, Detroit, MI + +1 (555) 299 5989
+
+‘WORK EXPERIENCE
+
+SENIOR CORE JAVA DEVELOPER 05/2018 - PRESENT
+Los Angeles, CA
+
++ Intraday (near-realtime) risk reporting and monitoring
+
+‘+ Distribution of CVA results to the Firm’s Risk and Finance Systems
+‘+ Design, development and maintenance of suite of Risk Management Applications
+
+‘+ Work with business analysts and users in driving system requirements, integration requirements and provide technical recommendation
+‘+ Unit testing, Integration testing, and Deployment of Components/Applications to Production
+
++ Collaborate with other developers and offshore teams in completing project deliverables
+
++ Ensure overall quality of deliverables is consistent with high quality standards
+
+‘+ Developing software that brings millions of people to events they love and want to experience-they just have to be quick to the draw!
+
+CORE JAVA DEVELOPER 10/2012 - 02/2018
+Boston, MA
++ Building and deploying your own code- yours employs best practices, design patterns, and frameworks
++ Working with Java 8
+‘+ Java Concurrency and multithreading
+‘+ Working with a small team of engineers and collaborating with our product teams
+‘Significant hands-on experience in solution design, architectural analysis and development of financial system (trading/tisk/compliance
+system or related) leveraging advanced Java 1.7 or above features like Multi-Threading, Serialization, RMI, Sockets, JDBC, NIO, Cloning,
+Annotations
+‘+ Proficient in OOPS, Design Patterns and Data Structures
+‘+ Experience in using TDD for development and writes units tests leveraging frameworks such as JUnit, Mockito, JMock etc. for extensive
+unit-testing
+
+‘+ Experience developing applications using Spring, ORM frameworks like Hibernate, iBatis, JDO, JPA
+
+CIB-ETT F&O CORE JAVA DEVELOPER 06/2009 - 08/2012
+Phoenix, AZ
+
++ Experience developing messaging applications using framework like JMS, MQ, ESM/ESB
+
++ Experience with build & release tools like Ant, Maven and Continuous Integration like Hudson, Jenkins
+
+‘+ Experience developing front-end using one or more frameworks like SWING, Spring MVC, AJAX, Angular, Node.JS, JavaScript, GWT
+
++ Experience developing Web-services
+
+‘+ Strong experience in one or more Relational Databases like Oracle, Sybase, SQLServer designing normalized or de-normalized database,
+
+writing complex SQL queries & stored procedures and analyzing & fixing performance issues
++ Experience working with one or more Web and/or Application Server like Tomeat, Websphere, Weblogic
+‘+ Experience working with XML and JSON
+
+EDUCATION
+FAIRLEIGH DICKINSON UNIVERSITY - METROPOLITAN CAMPUS 2004-2009
+Bachelor's Degree in Computer Science
+PROFESSIONAL SKILLS.
+
++ Good communication skill, Self-starter, Strong interpersonal and follow through skills
+
+‘+ Strong Java programming skills with experience in developing multi-threaded modules
+
+‘+ 3) Database and Implementation skills with ORM frameworks Implementation skills with ORM frameworks like Hibernate/JPA or
+‘MyBatis
+
+‘+ Strong design skills with deep understanding of object oriented programming
+
+‘+ Experience developing applications with demonstrated experience with full software lifecycle
+
+‘+ Strong testing and design skills
+
+‘+ Proactive Mindset & Excellent Communication S}
+
+for dealing with business partners

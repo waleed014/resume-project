@@ -1,0 +1,56 @@
+Tony Evans | Information Management Analyst
+
+Lawrenceville, Georgia
+
+s.com
+
+Professional Profile
+
+Skilled information Management Analyst with 4 years’ experience analyzing complex data warehouses to
+provide detailed technical reports. Skilled at identifying key trends and areas for improvement to support
+wider business deliverables and performance. Proficient at automating and improving records
+management processes and information management compliance. Passionate about managing and
+maintaining the IM environment, ensuring it incorporates IM regulatory and compliance requirements, and
+delivers records management functionality in a user friendly and efficient way.
+
+Core Skills
+
++ Data analysis and exploration + Database management systems
++ Data cleaning + Data visualisation
+
++ Risk analysis and mitigation + Power BI, Tableau, Qik, Looker
++ Statistical programming + Python, R, C, C+, Java
+
++ Selfservice data integration tools + BrainStation Data Analytics Cert
+
+Career Summary
+
+‘Aug 2020 - Present FinSery, Lawrenceville, GA
+Information Management Analyst
+
+Outline
+
+Working for a global financial services leader providing wholesale, rural and retail banking services in more
+than 40 countries worldwide. Responsible for analyzing and administering the US data repositories
+including gathering business requirements, documenting technical requirements, providing support and
+training for business users, and communicating needs to technical staff.
+
+Key Responsibilities
++ Define business reporting and analysis requirements.
++ Execute research and analysis on business processes, business opportunities, and business
+needs, developing technical requirements based on findings
++ Liaise with business stakeholders including software developers, data engineers, and business
+unit managers to produce improved business outcomes
++ Analyze impacts and changes to data and communicate to appropriate stakeholders
+
+‘+ Implement optimal reporting solutions including managing data dictionaries and improving data
+quality where possible
+‘© Identify information management incidents and report to the Information Manager
+
+Key Achievements
++ Leda project that resulted in the streamlined performance of information requests, resulting in
+anestimated saving of $350,000 annually
++ Identified risks and mitigated changes which improved IM security by over 20%.
++ Implemented automations which reduced records processing time by over 45%,
+
+Page

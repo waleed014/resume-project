@@ -1,0 +1,145 @@
+Jasmine Bell
+
+Blockchain Developer
+& +#1-5491-295-157
+
+@ https://www.linkedin.com/in/ron-phoenix/ 9 Dallas, TX
+
+SUMMARY
+
+Resourceful Blockchain Developer with 10 years of experience in
+software engineering. Co-founded ConanSwap, a DEX with
+20,000 active supporters. Mastered JavaScript, Golang, and
+Python. Extensive knowledge in smart contracts, consensus
+algorithms, and data structures. Looking for a job as a Blockchain
+Developer that will allow me to build the financial system of
+tomorrow.
+
+EXPERIENCE
+
+Blockchain Developer
+
+BitowFi
+
+68 01/2018 - 07/2022 Dallas, TX
+
+BitowFi is one of the leading regulated institutions of digital assets in the
+
+USA.
+
+* Closely collaborated with the product and dev teams to improve the
+efficiency of the platform by 25%
+
+* Built 5 reusable cross-chain libraries
+
+* Participated in the development of 3 new tools and integrated them into
+the platform
+
+* Assisted in developing the backend that became the foundation for the
+intersection between Web3 and FinTech
+
+* Participated in 5+ open source community projects, met with
+stakeholders, and mentored and tutored 3 junior developers
+
+Javascript Developer
+
+FroanX
+
+@8 09/2014 - 11/2017 9 New York, NY
+
+FroanX combines credit cards, payments, and expenses into one
+
+experience.
+
+* Participated in the development and maintenance of the application
+
+* Led the team of 2 developers to develop a front-end reporting system for
+Froanx's internal clients
+
+* Developed software that helped customers to simulate loans which
+increased the loans by 10%
+
+* Designed and developed 2 micro-services
+
+Junior Developer
+
+Deex Finance
+
+€8 12/2012 - 02/2014 9 New York, NY
+
+Deex Finance offers online payment processing and commerce solutions for
+
+Internet businesses.
+
+* Competed 10+ projects
+
+* Improved user interfaces by updating menus to be more intuitive,
+attracting 5% more clients than the previous quarter
+
+* Participated in developing a complex bookkeeping system that handled
+financial transactions 60% more efficiently than the previous one
+
+* Improved database performance by 12% by using materialized views and
+stored procedures
+
+@ ronnyphoenix@gmail.com
+
+SKILLS
+
+Blockchain Technology
+
+Web3
+
+JavaScript Python Golang
+
+Cryptography = Consenus Algorithms
+
+Smart Contracts Distributed Systems
+
+Data Structures
+
+EDUCATION
+
+High School Diploma
+
+Xavier High School
+
+8 09/2002 - 06/2007 9 New York, NY
+Bachelor of Computer Science
+
+New York University
+8 10/2007 - 06/2011 9 New York, NY
+
+STRENGTHS
+
+‘es Collaboration
+
+Working in a team motivates me to give
+100% every day. Collective intelligence is
+the most powerful tool for companies.
+
+OOPs
+
+Q Attention to Detail
+
+Always pay strict attention to details
+because even an unimportant error could
+ruin the code.
+
+IZ Prioritizing
+Prioritizing is why | use 100% of my energy
+and mental capacity for the most complex
+and thought-provoking tasks.
+
+INDUSTRY EXPERTISE
+
+DeFi Protocols
+
+Solidity
+
+Web Development
+
+REFERENCES
+
+Josh Daniels, CTO of FroanX
++1-1964-467-295

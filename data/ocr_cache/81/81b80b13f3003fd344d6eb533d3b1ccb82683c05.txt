@@ -1,0 +1,58 @@
+ROBERT SMITH
+
+Junior DOT Net Developer
+
+(0123) 458-780 | Emal: nfo@quikresume.com | Website: Gwikrosuma.com
+
+Junior .NET Developer having over 3 years of axtensive experonce in complete softwar
+‘development ife cycle (SDLC) involving Requlremants Gathering, Analysis, Design, Devalogrnant,
+‘Testing, Packaging, Deploying and Supporting af Windows Appications, Web Applications and
+Mobile Applications on Microsot platform. Exparience in Agila Methodology for full i's-cycle ofthe
+Project
+
+CORE COMPETENCIES
+
+Cf, VB.NET, Java .Not Technologiss -Not Framework .Nt Core, ADO.NET, ASP.NET, .Not
+Slack, ASP.NET MVC, SharaPoint, Web Services, Web Technologies XML, HTML, XHTML,
+WSDL, CSS, JavaScript, JQuary, JSON, AJAX, Bootstrap, Angular JS. Databases MS-SQL
+‘Sarver Oracle, MS Accass, T-SQL, PUSQL Design And Davalopmant Tools MS Visual Studio,
+Microsoft Visio, MS Office, SQL Sarver Management Studio, Wob Servers &amp; Protocols
+‘Tomcat 7.0, Apacha, TCP, HTTP, UDP, SOAP Operating Sysioms Windows Linux Reporting
+‘amp: Integr
+
+PROFESSIONAL EXPERIENCE
+
+Junior DOT Net Developer
+XL Soft Tech - August 2013 - August 2015
+
+Key Deliverables:
+
++ Involved in various phases of the development life cycle by gathoring requirements,
+analysing, design and develapment.
+
++ Followed Agile methodology with daly sorum moetings and provided user story updates,
+
++ Wotked an routing fo load contalar type using Asp.Net MVC for reaching appropriate
+action inthe wab application.
+
++ Used MVC razor-view engine for re-using the individual user controls by nat coupling them
+with underlying data elements,
+
++ Used Asp.Net MVC tramawork ta support tha use of dependency Inaction to ject ablacts
+Into a class; Instead of relying on the class to craate the objact sell,
+
++ Created application using HTMLS, React.Js, AngulaiJS, and Bootstrap for responsive
+design
+
++ Heavy use of knockout, Js view madels far separation of ul, data, and logle concerns,
+
+Net Developer
+ABC Corp - 2012-2013,
+
+Koy Deliverablos:
++ Designed and coded applications based upon detail specifications of businass and/or user
+roquiremants.
++ Ensured effective infagration of software across products, platforms and environments,
+
+2259 Oak Street, Old Forge, New York. 12420
+\© This Free Resume Template 1s the copyright of Qwikresume.com. Usage Guidelines

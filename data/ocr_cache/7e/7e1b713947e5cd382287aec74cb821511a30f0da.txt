@@ -1,0 +1,158 @@
+CLAIREESSICA CLAIREESSICA
+
+100 Montgomery St. 10th Floor # (555) 432-1000  resumesample@example.com
+
+Professional Summary
+
+Consummate professional with over 20 years of progressive experience in operations, proClaireessicaect management and
+business analysis coupled with about 7 years focused on SAP relevant experience in Financial Accounting with knowledge in the
+implementation and configuration of SAP FI modules with emphasis on business process analysis including blueprinting, gap
+analysis,
+
+Functional expertise in SAP components including Organizational
+Structures- Organizational Units & Enterprise Structures General Ledger Accounting FI G/L, Accounts Payable FI-A/P, Accounts
+Receivable FI-A/R, FI integration with Sales and Distribution (SD) and Materials Management (MM) and Controlling (CO)
+modules
+
+Skills
+
++ SAP implementation techniques + System configuration
+
+‘+ Teamwork and Collaboration + Ability to handle multiple tasks under pressure and
+
+«+ SAP activities integration produce results within tight timeframe
+
++ Experience with SAP FICO Integration of SD and MM + Flexible and Adaptable
+
+* Good knowledge of Concur, VIM, Ariba and integration _* End-user Training and Post Go Live
+
+with SAP + Willingness to learn new technologies and software
+
+Work History
+
+SAP FICO Consultant, 04/2019 to Current
+Deloitte - Darien, GA
+
+* Key role was to Document “Business Decisions “and Design accordingly.
+
++ Implemented enhancements, interfaces, (EDI & ALE) and IDoc proClaireessicaects
+
++ Participated in S4HANA Finance Implementation and Support
+
++ Implemented New GL, activated new Ledger, performed document splitting and Parallel Accounting (as preparation for
+‘S4Hana proClaireessicaect)
+
++ Ensured the execution activity of SHANA migration for each module by partitioning of universal Claireessicaournal entry
+line items tables, regenerate and field mapping, analyze transactional data and display status of analysis of transaction data
+(as execution for SHHANA migration)
+
++ Implemented Configuration, Unit, Stress, Volume, Regression, User Acceptance and Integration Testing, ABAP debugging
+Training, Documentation.
+
++ Ensure all transport request are sequenced correctly
+
+‘+ Worked with the Run Team and managed Production Support Tickets & CR.
+
+‘+ Moving of production support tickets to Service Now (SNOW) and ITSM Remedy system
+
+‘+ Work with team on customization of RICEFW obClaireessicaects as per client requirements.
+
+‘+ Documented the Configurations and sent for approvals from Management team
+
+‘+ Maintained Operating Concem and Controlling Area, Characteristics, Characteristic Derivation, Value fields, and
+Profitability Segment Characteristics
+
+‘+ Design and configuration of costing-based Profitability Analysis (CO-PA).
+
++ n COPA Planning maintained Planning Versions, Quantity Fields, Planning Framework, and Receiver Plan Version. In
+Actual posting maintained Value Field Groups, Assign Quantity Fields
+
+‘+ Maintain PA Transfer Structure, Automatic Account Assignment, and Assign PA Transfer Structure to Settlement Profile.
+
++ In COPA Reporting configured Report Line Structures, Variables for Reports, Forms for Profitability Reports (KE), and
+Created Profitability Report (KE31).
+
++ Built test scripts for each test cycle, involving simple t-code testing to string testing and end to end testing.
+
++ Work with team to set up CO functions including setting up cost centers, internal orders, activity types, setting up
+settlement rules in internal orders and WBS, setting up Assessment Cycles, repost costs, manual cost allocation for posting
+secondary costs
+
+‘+ Support the teams after Go-Live, on daily activities, Month-End and Year-End Closing Activities.
+
+SAP FICO Analyst, 08/2015 to 04/2019
+Ipmorgan Chase & Co. ~ Croton On Hudson, TX
+
+* Collaborated with onshore and offshore implementation team to develop blueprint for SAP brownfield implementation.
+
+‘+ Work with development team to design and test conversion programs as required.
+
+‘+ Work with business data owners in data cleansing and construction of data sets for loading of data.
+
+‘+ Work with design teams to report and help resolve any configuration issues coming out of conversion process.
+
++ Execute conversion programs to load master and transactional data into SAP.
+
+«+ Prepare data validation scripts and/or reports as needed for data validation process.
+
++ Analyze, Research, Troubleshoot and help resolve data defects arising out of conversion process.
+
++ Testing and report status update and issues coming out of data conversion to higher management.
+
++ Post Go-live production support and end-user training,
+
+‘+ Experienced in creating solutions using various SAP functionalities.
+
++ Comfortable with gathering user requirements and engaging in Knowledge Transfer and Product Demo sessions
+
++ Clear understanding of Agile Methodology and its application in day-to-day proClaireessicaect roll out.
+
++ Clear understanding of time-critical requirements for delivery of sprints and user stories
+
++ Accounts Receivable: Building AR Business module, Configuring and Customizing Customer master data, Debtor
+‘management, Customer payments, Customer invoice processing, Order to cash process, Finance documents Global settings
+(Posting Keys, payment terms), Dunning,
+
+‘+ Accounts Payable: Configuring and Customizing vendor master data, vendor account groups, define sensitive fields for dual
+control, House banks.
+
+‘+ Hands on S4HANA Migration using Migration Cockpit for master data and transactional data,
+
+‘+ Migrated master data and transactions using Migration Cockpit in $4 HANA without impacting existing interfaces.
+
++ Efficiently used SOLMAN for proClaireessicaect implementation documentation
+
+* Create and maintain general ledger accounts, exchange rates, bank master data and define house banks.
+
+Drilling Engineer, 03/2010 to 08/2015
+Wood Ple- Tioga, GHANA
+
+‘+ Managed Drilling Operations both Onshore and Offshore.
+
++ Served as point of contact for other products and services provided by Schlumberger.
+
+* Daily liaise with Clients to plan and execute Equipment and personnel logistics and scheduling for ongoing
+
+proClaireessicaects.
+
++ Ensured that Staff and Crew comply all Safety training, reporting and conduct.
+
+‘+ Managed Drilling Operations both Onshore and Offshore.
+
++ Served as point of contact for other products and services provided by Schlumberger.
+
+Logging and Drilling Engineer, 05/2000 to 03/2010
+‘Schlumberger — City, LA
++ Provided timely and direct operational and technical support between field and other centers of expertise.
+‘+ Designed solutions for field technical needs incorporating existing documentation, company intranet, Best Practices, and
+FAQs.
++ Supervised crews on Measurement While Drilling operations for Deepwater wells drilled by BP, ENI, Chevron, Shell and.
+other clients on semi-submersible, drill ships, and Claireessicaack-up rigs in the Gulf of Mexico.
++ Collaborated with Claireessicaunior engineers and directional drillers, managing equipment utilization and employee work
+schedules
+
+Education
+Bachelor of Science: Electrical, Electronics Engineering
+Ahmadu Bello University
+Certifications
++ Scrum Master Certification -2019

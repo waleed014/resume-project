@@ -1,0 +1,177 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+ACCOMPLISHMENTS
+
+Jessica Claire
+
+® 100 Montgomery St. 10tn Floor *& (585) 432-1000 4 resumesample@example.com
+
+knowledgeable Front-End Engineer with in-deptn knowledge with of front-end application development using
+React for building vibrant UI friendly and high-performance web applications. Experienced with middle-wares
+such as Redux-Thunk and React-Redux and MongoDB and MySQL databases. Skilful in developing,
+optimizing and reworking systems to meet specific customer requirements. Expertise in wring codes in
+various languages, developing flowcharts and layouts and integrating software components.
+
+‘+ Agile development methodologies ‘+ Application development
++ Javascript framuorks + Library design
+‘+ Requirements analysis and design phases ‘+ Performance and scalabilty optimization
+REACT SOFTWARE DEVELOPER 01/2019 to 01/2022
+Withins | Pittsburgh, PA
+
+‘+ Improved and designed new layouts to achieve usabilty and performance objectives
+
++ Created and styled the front-end using React js
+
+‘+ Enveloped reusable front-end class components to navigate multiple pages (Customer lst page,
+‘customer creation page, and customer editing page) using React and React Router
+
+‘© Assigned the UI and ameliorate the style using HTMLS and CSS3
+
+‘+ Created muttiple dynamic and browser compatible pages to improve the flows via JavaScript
+
+‘+ Assigned functions for reporting detailed transaction history interface using JavaScript
+
+‘+ Stored the status of the page in Redux and connected it to React,
+
+‘+ Optimized the status storage using Redux and implemented the Thunk action creators
+
+‘+ Used nooks to conduct calculations to avoid unnecessary re-rendering and accelerate loading time
+
+‘+ Built the server using Node js and Express js and connected it to MongoDB database
+
+‘+ Assigned CRUD operations with Express js framework to NOSQL database to process the data
+
+‘+ Worked on an Agile(Scrum) Development Team to deliver regular updates to project
+
+‘© Used Ajax framework for asynchronous data transfer between the browser and the server
+
+‘+ Communicated with the database engineers and connected MongoDB Database to the back-end server
+and implemented the requests to fetch or manipulate these data
+
+‘+ Communicated with the customer management team to optimize the layout data and information to show
+in the page and the function to provide
+
+‘+ Enveloped with Rest APIs in JavaScript for displaying JSON retrieved data
+
+‘SCOTWARE ENGINEER 01/2018 10 12/2018
+‘Withins | Albany, NY
+
+‘© The intention ofthis project was and stil is to help as many new people as we can
+
+‘+ Itservers over 1.4 milion patients, including over 500000 uninsured residents in the area, with almost
+200 different languages for people who have language barrier
+
+‘+The services include finding doctors, health advice, online chat with professionals,
+
++ Responsibilties:
+
++ Developed responsive web pages using HTMLS, CSS3, lex-box
+
+‘© Built the front-end using Reacts,
+
+‘+ Displayed data using CSS3 and various frameworks ke Chart JS
+
+‘+ Worked on Redux to maintain states and dispatched the actions to trigger state changes
+
+‘+ Developed reusable front-end class components to navigate muttiple pages (Customer ist page,
+‘customer creation page, and customer editing page) using React
+
+‘+ Implemented the AJAX-based frontend to reduce the network load and improve the user experience
+
+‘+ Used JavaScript to generate HTML that depends on data and call afferent method to trigger events and
+handle data
+
+‘+ Implemented JavaScript to set up the tables shown in the web page and fetch the table data from Redux
+store
+
+‘+ Used React-Router to manage different paths of React components
+
+‘+ Middleware for logging, crash reporting, and communicate with Async API
+
+‘+ Worked on RESTful web services to interact between server side and client side using Express js
+
+‘+ Used Axios to fetch Web APIs to transfer data from backend and update states in Redux store
+
+‘+ Jest to conduct unit testing
+
+‘+ Workedwitn MySQL database for backend development to store and fetch user data
+
++ Collaborated with team to optimize and develop project using Jira to manage tasks
+
+‘+ Worked under a Scrum development team for daily updates.
+
+‘SCOTWARE ENGINEER 06/2016 10 12/2017
+‘Sephora | City, STATE
+‘+ Worked on the system with front-end team to display data, such as products, shipment info, user info,
+user forms.
+‘+ Communicated with back-end team to work on API interface
+‘+ Responsible for info updates of products on daily basis
++ Responsibilities:
+‘+ Involved in requirements analysis, understand the requirement of technical parts, designing,
+development, UI reviews, and maintenance
+‘© Developed and implemented the UI layout using CSS3.
+‘© Achieved multiple management functions like sorting and searching keywords
+‘+ Used HTML, CSS, and JavaScript to create client side validation in registration, Log-in and Log-out form
+‘+ Worked on fetching and displaying data using JavaScript Async function
+‘+ Extensively used HTMLS, CSS3 to create interactive web applications and basic functions
+‘+ Inked external CSS files vith HTML fle to increase traffic and performance
+‘+ Worked with tne design of the templates in CSS
+‘+ Connected to MySQL database to store data
++ Used JavaScript and CSS to manipulate images, for example, clicking and hovering to Zoom-in and out
+
+Bachelor of Science | Computer Science 0672016
+City College of New York NYC, NY
+GPA: 3.6/4.0, GPA: 3.4/4.0
+
+‘+ Over 4 years experience in web Development as a React JavaScript developer
+
+‘+ Developed and designed pages using HTML5, CSS3, JavaScript and UI libraries like Boostrap4 and
+Material UI
+
+‘+ Responsible for style of web pages with SASS that extends CSS3 with dynamic behavior such as
+variable, mixing, operations, and functions
+
+‘+ Experience on customizing CSS frameworks such as, Bootstrap, Ant Design, Semantic Ul
+
+‘+ Hands-on Experience in front-end application development using React for building vibrant Ul frenaly
+‘and high-performance web application
+
+‘+ Experience in Redux for state management and life-cycle for component's internalize state management
+
+‘© Experience with popular front-end tools such as Babel, Webpack, NPM
+
+‘+ Worked in using React components, forms, Events, keys, and animations, and Flux concept as a core
+‘dependency
+
+‘+ Developed applications in different operation systems, such as Windows, MacOS, Linux
+
+‘+ Handled cross browser compatibility ssue across diferent broviser, such as IE, Firefox, Brave, Safar
+and Chrome
+
++ Experience with middle-wares such as Redux-Thunk and React-Redux
+
+‘+ Experience with MongoDB and MySQL as database
+
+‘© Developed applications with team using Scrum for project management
+
+‘+ Hands on experience with popular official Hooks and customized Hooks for logic improvement and better
+user experience
+
++ Used AWS to manage storage database, app development, analytic and security
+
+‘+ Designed and developed backend using Express as server
+
+‘+ Experience in building RESTful API with NodeJS and Express, and testing APIS using Postman
+
+‘+ Experience in ensuring code quality using ESLint
+
+‘+ Optimized and troubleshooted applications with unit test using Jest
+
++ Utiized Node js, socket io for scalable website architecture and real-ime technology

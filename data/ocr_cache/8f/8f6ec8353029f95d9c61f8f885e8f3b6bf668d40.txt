@@ -1,0 +1,61 @@
+Kenyon Stracke
+143 Frank Plaza, Boston, MA @ Phone: +1 (555) 688 8472
+
+EXPERIENCE — JUNIOR.NET DEVELOPER
+
+Phoenix, AZ
+10/2014 — present
+‘© Willingness of working in high-performing teams through the entire development lifecycle
++ Participate to the entire development cycle (analysis, design, estimation, development, testing and
+deployment)
+Assist in promoting a positive engineering and team culture
+Creates technical documentation
+‘Communicate ideas, issues, status, and outcomes with the team and managers
+Knowledge on client side technologies: HTML, CSS, JavaScript (jQuery)
+Good knowledge of OOP and OOD, n-tier applications, distributed applications, SOA
+
+JUNIOR .NET DEVELOPER
+
+Philadelphia, PA
+04/2011 — 07/2014
+
+‘© Create, execute and document necessary tests to ensure application / environment performance
+
+‘+ Remain abreast of technology developments within fields relevant to current and future initiatives and
+development work
+Assist in continually improving our software development process and the development environment
+Develop Capabilities and Improvements for Automation Infra
+Assist other developers in coding and debugging issues
+Develop and execute user stories adhering to the acceptance criteria as written and committed to
+Follow defined methodology and standards including preparation and maintenance of documentation for
+all stages of development work
+
+JUNIOR NET DEVELOPER / QA ANALYST INTERNSHIP
+New York, NY
+
+11/2008 - 01/2011
+
+‘© Work side by side with developers to modify code and create new reports
+
+Assist with testing and development for ERP application and sales reports
+
+Assist in streamlining processes
+Assist with user acceptance testing and implementation of software modifications and updates
+Work with third party vendor to resolve issues in a timely manner
+Work with business community to identify, research and resolve issues
+Create test scenarios and test scripts for current projects
+
+EDUCATION ROWAN UNIVERSITY
+
+Bachelor’s Degree in Computer Science
+SKILLS Good knowledge in Power-shell
+Proficient knowledge of Agile Scrum
+Basic knowledge of TFS (Team Foundation Server) 2012
+Strong communication and writing skills; one should be able to easily communicate the technical
+solutions put forth to a non-technical audience
+Results-oriented, goal-driven self-starters, highly analytical, pro-active and detail oriented
+Ability to work on multiple projects at once - Demonstrates professional development
+Demonstrated ability to learn and quickly comprehend new concepts and technologies
+Good knowledge of C# and ASP.NET MVC
+Strong knowledge of SQL Server and T-SQL
+Proficient in both spoken and written English

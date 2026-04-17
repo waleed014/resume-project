@@ -1,0 +1,60 @@
+Truc Viet Le’s Curriculum Vitae
+
+Truc Viet Le
+
+Truc Viet Le Links | htt://vietletruc.com/
+2200 Wightman St. github.com/vietexob
+
+Pittsburgh Email | vietexob@gmail.com
+Papel Mobile| +1412 482 0635
+
+Address
+
+Research Interests
+
+1am currently interested in developing predictive models for mobility data (e.g., spatiotemporal or activity patterns
+of humans in a spatial area during a certain time period), where | propose models to learn and predict a mobile
+agent's sequential actions over time and under uncertainty using data mining and machine learning methods. | am
+also interested in visualizing large and complex mobility data.
+
+Education
+
+Heinz College, Carnegie Mellon University, Pittsburgh, P.A. heinz.cmu.edu
+
+Visiting Ph.D. Student in Information Systems: Aug 2014 - May 2015
+Advisors: Siyuan Liu, Ramayya Krishnan
+Coursework: Machine Learning, Dynamic Optimization, Mobile Intelligence & Business
+
+Singapore Management University, Singapore larc.smu.edu.sg
+
+Ph.D. in Information Systems: Jan 2013 - Present
+Advisors: Hoong Chuin Lau, Robert J. Kauffrnan
+
+Nanyang Technological University, Singapore ntu.edu.sg
+
+M.Sc. in Mathematics (by Research): Jan 2011 - Jul 2012
+B.Eng. in Computer Engineering: Aug 2005 - Jul 2009
+
+Selected Publications
+
+Predicting Bundles of Spatial Locations from Learning Revealed Preference Data
+
+Truc Viet Le, Siyuan Liu, Hoong Chuin Lau, & Ramayya Krishnan
+14"* International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2015).
+
+A Quantitative Analysis of Decision Process in Social Groups Using Human Trajectories
+
+Truc Viet Le, Siyuan Liu, Hoong Chuin Lau, & Ramayya Krishnan
+13" International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2014)
+
+An Empirical Analysis of a Network of Expertise
+
+Truc Viet Le & Minh Thap Nguyen
+2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM).
+
+Trend Analysis of Length of Stay Data via Phase-Type Models
+
+Truc Viet Le, Chee Keong Kwoh, Kheng Hock Lee, & Eng Soon Teo (2011)
+International Journal of Knowledge Discovery in Bioinformatics (\JKDB), 2(3), 37-51.
+
+file://Users/larcuser/Documents/workspace/eviey html

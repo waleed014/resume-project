@@ -1,0 +1,47 @@
+982 Turcotte Cliff, Dallas, TX
++1 (655) 679 0632
+
+.
+
+Knowledge of Upgrade projects/Support Pack applications and should
+have done SPAU resolution/OSS note applications
+
+Good knowledge of ABAP 7.x coding standards and using ABAP
+Development Tools
+
+Solid experience in Debugging, Analysing, and enhancing standard objects
+Solid experience in Code optimization, Performance tuning, and Runtime
+Analysis
+
+Good Knowledge of Business processes and knowledge of SD, MM, PP,
+EWM, and APO
+
+Module pool programming experience using custom controls
+(ALV/Tree/Image), OLE embedding
+
+Experience in developing data migration programs, LSMW scripts (BDC,
+BAPI, IDOC, Direct/Batch Input) and GUIXT scripts, LTMC tool
+
+Configure & Development Business workflows & process driven workflows
+(BRF)
+
+BRF+ rules configuration
+
+Experience in ALE/IDOC developments, Distribution model configuration,
+change pointers activation, ABAP proxies
+
+ABAP Restful programming
+
+Experience in data modelling, HANA performance analysis and
+performance optimization
+
+Proficient Know-How in HANA database development and technologies
+such as Procedures, AMDPs, ADBC, HANA SQL, ABAP & HANA CDS and
+Calculation Views
+
+Experience with S/4 HANA Data Load Technologies via BAPIs, Functional
+Modules and/or encapsulation of these via OData Services
+
+Experience in S/4 HANA and ABAP development (ABAP-OO)
+
+Very good general know-how of SAP technology components

@@ -1,0 +1,104 @@
+Electrical Engineer
+
+ email@email.com
+
+James Taylor
+
+Experienc
+a Work Experience
+* Possessing a deep understanding of
+circuit analysis, programming Electrical Engineer (Hardware and Software 2015-05 - Present
+experience in several computer l
+languages, hands-on hardware Development)
+proficiency of implementation, E.ON.
+knowledge of communication .
+RTT Sra DCISEITRA SRT * Developing diagnostic software and testing procedures For Laser Doppler Velocimetry.
+
+«+ Proficientin architecting software for *-Petforming debugging and failure analysis of fiber optical products from multiple
+embedded systems using LabVIEW. manufacturers, no Mi
+
+0 RHR an Hee NEI tanto + Prototyping instruments used in experiments containing Micro Electro Mechanical
+ecesconndarcammeclicrer Systems (MEMS) Matrix Optical Switches, Erbium-doped Fiber Amplifiers (EDFA), Dense
+Pcs and SCADA systems. Wavelength Division Multiplexing (DWDM), Optical Switch Circulators, Beam Splitters,
+
+—— Optical Attenuators, Nanosecond Pulsed Laser Diodes, and Tunable Lasers.
+SR er aha Sirsa * Facilitating research for alternative software architecture used in embedded systems.
+eaten ae) * Utilizing LabVIEW and other programming languages to develop complete solutions For
+ee the automation of diagnostic software for optical and electrical components.
+
+* Collaborating with a National Laboratory to review and suggest best practices For
+
+control system software development used for Broadland Laser Ranging Systems.
+
+* Creating HMIs and automating procedures with Programmable Logic Controllers (PLC)
+
+and Supervisory Control and Data Acquisition (SCADA) systems For Shock Physics
+
+Experiments that require highly accurate timing and firing.
+© C, C+: Knowledge of basic p quire nighly 9 9
+
+programming language C, C+.
++ MATLAB 2013: Knowledge of A . zi
+circuit a Assistant Electrical Engineer 2010-05 - 2015-04
+rosoft Office: Have a grip on Iberdrola
+Microsoft Word, Excel, PowerPoint.
+* Proteus 8.0: Complete
+implementation and execution of an
+electrical circuit.
+
+* Worked on electrical equipment (temperature and pressure sensors, valves, the
+actuator (ASAC 70), etc) on these engines.
+
+* Worked on relays, contactors, MCCB breakers, performed tests for motor proper
+working.
+
+* Completely familiar with the governor mechanism in controlling the output power of
+
+Sore Skill generator, voltage maintaining, generator synchronization with National Grid,
+or tware SKINS generated different working modes, and loaded management according to the
+
+situation.
+* Linux © RSLogix — * Monitored operated parameters and recorded operated data including electrical
+
+* OrCAD * GEMstudio generation, pressures, temperatures, vibration indications, alarms, and other
+
+* Altium * VirtualBox information related to the safe operation of the powerhouse equipment.
+
++ PSpice «Unity Pro XL * Responsible for startup, normal operation, load management and handling of various
+* Electric» Visual Studio emergencies during the operation of the Unit.
+
++ LTSpice —«_ Windows OS * Maintained daily logs of operation, maintenance and safety activities.
+
+* Hyper-V» Wonderware _ * Investigated and reported accidents.
+
+* VMware Microsoft Office
+
+* Quartus « ISEDesign Suite
+
+Maintenance Engineer 2006-03 - 2010-04
+
+. Avo Electrical Engineering Services
+Programming Languages * Installed cameras security.
+
+* Fixed problems of laptops, tablet, office PC.
+
+Hl 8 y eae * Fixed problems of imprimantes (Canon , Epson, Brother, Kyocera).
+° cH * Arduino
+
+© CH * MATLAB
+
+*° SQL © LabVIEW
+
+Julia * Ladder Logic
+
+© VHDL
+
+| interests Master of Sciences in Engineering, Electrical Engineering 2004-2006
+Massachusetts Institute of Technology
+
+* Movies
+
+* Badminton
+
+* Reading Articles Bachelor of Sciences in Engineering, Electrical Engineering 2000 - 2004
+Massachusetts Institute of Technology

@@ -1,0 +1,87 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Systems architect with expertise in requirement gathering and analysis, architectural, component and interface design and development for
+web-based applications in multiple domains. Professional, detail-oriented Network Administrator motivated to drive projects from start to
+finish as part of a dynamic team.
+
+Sens
+* Database design * Coding and modularization
+‘* Website and portal monitoring * Website maintenance
+* Technical specifications creation «System upgrades
+* QA tools * Excellent diagnostic skills
+# IavalCiC++ * System backups
+« Enterprise technologies * ‘Network maintenance
+Worx History
+
+03/2015 to 07/2015 Automated Python Software Developer
+Apex Systems — Cupertino
+‘© Lead the development and Designs for PDF Field Layouts
+Created Python layouts
+Reviewed and Translated Excel Documents
+Coordinated with systems partners to finalize designs and confirm requirements.
+
+Consistently met deadlines and requirements for all production work orders.
+
+10/2014 to 2015 Android Developer
+Outsource Consulting Services, Inc — Tempe
+* Worked with Android Studio to create applications.
+‘+ Used Genymotion to emulate Android devices on Windows.
+‘© Wrote code in Java and C++.
+
+09/2014 to 11/2014 UniFocus - QA Engineer
+‘© Worked with automated systems to deploy application.
+* Provided Manual and Automated testing case scripts for system configuration and administration
+* Used SQL Management Studio extensively in day-to-day operations to update and insert new data
+‘* Recognized as hard worker that "enjoys a challenge"
+* Recorded testing results through Selenium, and Excel.
+‘© Used Ruby to manage and run automated code for Selenium test suites.
+«Sat and worked side by side the developers to maintain the SQL Queries and automation scripts.
+‘* Read and translated code for IIS Servers
+Daily use of PowerShell Scripts to automate tasks and test functions.
+‘© Worked in a small group environment alongside Project Managers.
+* Front-End as well as Back-End troubleshooting by reading code and finding the source of problems
+‘+ Manually tested parts of Point of Sale Systems to specified guidelines.
+
+11/2013 to 02/2014 Web Developer Support Engineer
+Bdo - City
+‘* Diagnosed and troubleshooted Windows processing problems and applied solutions for corporations.
++ Proposed technical feasibility solutions for new functional designs and suggested options for performance
+improvement of technical objects
++ Provided methodologies for object-oriented software development and efficient database design.
++ Consistently met deadlines and requirements for all production work cases.
+‘* Recommended code implementation and system configuration to enterprise level teams.
+ Ensured network, system and data availability and integrity through preventative maintenance and upgrades.
+‘= Provided continued maintenance and development of bug fixes and patch sets for existing web applications.
+‘© Managed firewall, network monitoring and server monitoring both on- and off-site.
+‘* Recommended architectural improvements, design solutions and integration solutions.
+
+07/2013 to 11/2013 Desktop Technician
+Microsoft
+‘* At Microsoft - Operator.
++ Follow specific operating procedures.
+‘# Report status and project progress.
++ Escalate issue and implement issue resolution Upgrade PCs at various locations.
++ Provide workstation administration.
+© Make network and security configurations.
+© Backup and Restore PC Data.
+‘* Ensure PCs functioned as specified.
+
+06/2013 to 06/2013 Desktop Support Technician
+‘Set up new PC hardware.
+* Configure installations.
+‘© Test for installation accuracy.
+
+Epucation
+‘May 2012 High School Diploma
+
+Colleyville Heritage High School - Colleyville
+‘May 2013, *Security + Certification, CompTIA
+
+Colleyville Heritage High School - Colleyville, TX
+
+‘May 2013, *Net + Certification, CompTIA -

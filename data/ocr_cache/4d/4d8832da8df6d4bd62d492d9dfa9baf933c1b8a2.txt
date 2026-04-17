@@ -1,0 +1,52 @@
+Ep:
+
+Python Developer ="
+
+——
+| ama Back-End developer who looks forward to creating solutions
+
+and implementing ideas through web development. | have a primary sithub.com
+
+focus on working with Python and the Django framework, but look
+
+forward to working with and learning new technologies.
+
+Projects
+Space Launch Information Hub August 2022 - current
+
+* Deployed with Linode VPS and viewable at (www.
+* Developed a Web application to provide the public with data on rocket launches, astronauts, space-agency
+data, and more.
+
+Integrated current data from external API on rocket launches, astronaut information, space agency details,
+and ISS location
+
+Automated daily data updates through API integration to ensure information is current and accurate.
+* Designed user-friendly interface for viewing and searching through all fields of data provided.
+
+« Implemented geographic mapping library, leaflets to allow for tracking of the International Space Station
+via longitude and latitude.
+
+Real-Time communication Application February 2022 - current
+
+* Deployed with Linode VPS and viewable at (https:/
+* Developed a real-time communication web application using Python and Django.
+
+* Utilized Django Channels for implementing real-time text communication via Web-Sockets.
+* Integrated Agora.io for real-time video and audio communication capabilities.
+
++ Implemented user authentication and authorization using Django's built-in modules
+
+* Designed and implemented database models for storing user friends and chat data.
+
+Utilized django-notifications-hq to provide updates and notifications for new messages and chat updates.
+
+Skills
+
+* Python
+
+* Django
+
+* Git/Github
+* HTMLS5/CSS
+* Bootstrap

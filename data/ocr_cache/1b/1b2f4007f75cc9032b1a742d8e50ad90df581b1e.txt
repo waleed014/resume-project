@@ -1,0 +1,78 @@
+Joseph Russell
+
+Full Stack Python Developer
+
+© Seattle, WA
+SUMMARY
+
+555-555-5555
+FullstackPython Developer with 7+ years of experience in designing, developing, and deploying
+‘scalable and responsive web applications. Proficient in both front-end and backend development, B emaiigemaiicom
+working with frameworks such as Django, Flask, React, and Vueje. Sklledin database management,
+server administration, and API integration.
+
+‘SKILLS:
+
+WORK EXPERIENCE
+
+Full Stack Python Developer
+Company name, City State
+
++ Designed and developed web appcations using Django, Flask, React, and Vues,
+implementing responsive design and UX principles.
+
++ Worked on projects ranging from small business websites to large-scale enterprise
+applications, colaborating with cross-functional teams to delverhigh-quabty
+‘software on time and within budget.
+
++ Bult and maintained RESTful APIs using Django Rest Framework and Flask Restful,
+integrating with extemal services such as payment gateways and social media
+platforms,
+
++ Developed and maintained databases using PostgreSQL, MySQL, and MongoDB,
+‘writing optimized queries and ensuring dataintegrity and security.
+
++ Implemented caching strategies using Reds and Memcached to improve
+application performance and reduce server load.
+
+* Configured and managed web servers using Nginx and Apache, ensuring high
+‘avaibilty and seaabilty.
+
++ Implemented testing strategies using tools suchas Pytest and Unittest, ensuring
+that code i ree of bugs andeerors.
+
++ Conducted code reviews and mentored junior developers, improving code qualty
+‘andteamperformance.
+
+Company Name City, State
+
+Fullstack Python Developer, Employment Dates
+
+* Developed and maintained e-commerce appcations using Django integrating with
+payment gateways suchas PayPal and Stipe
+
++ Worked with front-end frameworks such as React and Vuejs, creating responsive
+‘and modern user interfaces.
+
++ Designed and implemented message queves using Celery and RabbIMQ, allowing
+{or asynchronous task processing and sally.
+
++ Worked with NoSQL databases such as MongoDB and Cassandrato store and
+rmanage large volumes of data,
+
++ Implemented securty measures suchas CSRF protection, SSL, anduser
+‘authentication and authorization,
+
++ Built and deployed appications to coud platforms such as AWS and Heroku,
+‘ensuring high avaabity and scalabity
+
++ Colaborated with product managers and designers to translate business
+requicements into technical spectiations
+
+“Techeical hil:
+
++ Python, Django, Flask
+
++ React, Wuejs
+
+© PostereSOL, MySOL, MongoDB

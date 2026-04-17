@@ -1,0 +1,161 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Guest services
++ Inventory control procedures
++ Merchandising expertise
+
++ Loss prevention
+
++ Cash register operations
+
++ Product promotions
+
+EDUCATION
+
+Kakatiya University
+12002
+
+Bachelor of Engineering
+
+Lamar University
+Texas + 12004
+
+‘Master of Engineering
+
+PROFESSIONAL SUMMARY
+
+‘SAP ABAP/4 Consultant with nearly 10 years of experience specializing in ABAP. Further SAP exposure
+includes Sales and Distribution (SD), Finance (Fl), Controlling (CO), FSCM, Travel management (TVM)
+‘Material Management (MM), Inventory Management (IM) and Production Planning (PP) Over 4 year of
+experience in SAP IS-AFS module In-depth Experience of ABAP/4 Reporting (Basic, Interactive and
+AL). Strong working knowledge in EDI/IDOC's, ALE and BAPI's. Experienced in Dialog Programming
+using Screen Painter and Menu Painter. Developed and modified various SAP Forms/Scripts and Smart
+Forms, Print Programs for printing of SAP script documents including language related features.
+Experienced in using Legacy System Migration Work Bench (LSMW) for uploading data. Experienced in
+Enhancements and modifications using User Exits. Expertise in development of data maps for the
+business dataflow. Experience with Performance Analysis, Debugging and applying OSS notes.
+Experience in working up gradation projects Good Understanding of both business processes and
+technical development. Experience collaborating with GXS/INOVIS /PI/MERCATOR/GENTRAN for
+preparing mapping document specification for SAP inbound and outbound transaction. Sound
+knowledge with ANSI X12 /EDIFACT standards Working experience with GXS /INVOVIZ Biz Manager
+teams Extensive experience in Offshore-Onsite Coordination leading.
+
+WORK HISTORY
+
+Carhartt INC - SAP - ABAP & EDI Consultant
+City, STATE + 06/2010 - Current
+
++ Responsibilities: Meeting the end user and gather requirements Development of Functional design
+Develop object and Coordinate with off shore team for development Coordinate with business user
+for testing and bug fixing Preparation EDI/IDOC mapping specifications and Co-ordinate with
+GXS,XI/PI for translation mapping.
+
+TCL@ Thomson (TTE) Technology INC - ABAP & EDI Developer
+City, STATE « 02/2007 - 05/2010
+
++ Responsibilities: Meeting the end user and gather requirements Development of Functional design
+Develop object and Coordinate with off shore team for development Coordinate with business user
+for testing and bug fixing Preparation EDI/IDOC mapping specifications and Co-ordinate with
+GXS,XI/PI for translation mappin
+
+Eli Lilly And Company - Sr System Analysts- ABAP
+City, STATE » 04/2005 - 2007
+
+Responsibilities: Meeting the end user and gather requirements Development of Functional design
+Develop object and Coordinate with off shore team for development Coordinate with business user for
+testing and bug fixing Preparation EDI/IDOC mapping specifications and Co-ordinate with GXS,XI/PI
+for translation mappin
+
+Greenlee/Textron - SAP ABAP/4 Consultant
+City, STATE +» 07/2004 - 03/2005
+
+Responsibilities: Meeting the end user and gather requirements Development of Functional design
+Develop object and Coordinate with off shore team for development Coordinate with business user for
+testing and bug fixing Preparation EDI/IDOC mapping specifications and Co-ordinate with GXS,XI/PI
+for translation mappin
+
+‘Adams - SAP ABAP/4 Consultant
+City, STATE « 03/2004 - 07/2004
+
++ Responsibilities: Meeting the end user and gather requirements Development of Functional design
+Develop object and Coordinate with off shore team for development Coordinate with business user
+for testing and bug fixing Preparation EDI/IDOC mapping specifications and Co-ordinate with
+GXS,XI/PI for translation mappin
+
+‘AQUA REGIA - ABAP CONSULTANT
+City, STATE, INDIA « 04/2002 - 11/2002
+
+Responsibilities: Meeting the end user and gather requirements Development of Functional design
+Develop object and Coordinate with off shore team for development Coordinate with business user for
+testing and bug fixing Preparation EDI/IDOC mapping specifications and Co-ordinate with GXS,XI/PI
+for translation mappin
+
+ACCOMPLISHMENTS
+
++ SAP ABAP/4 Consultant Business Type: Pharmaceuticals Environment: SAP 4.6C and ECC 6.0 Eli Lilly
+and Company is one of the largest Pharmaceutical Company in the world .It has over 13
+‘Manufacturing plants located in the world.
+
++ GBIP (Global business Integration Project) is the SAP implementation at various sites around the
+world,
+
++ Responsibilities: Reviewing functional specs and raising issues Writing Technical ,component specs
+and Unit test plan Assisting Off-shore team in development Testing and reviewing test result
+Fixing bugs during Formal and Informal testing Co-ordaining with Production support team to Fix
+the issues in production Development of data mapping documents for Mercator and Gentran
+mapping tools.
+
++ Configuration of interface infrastructure for the business data flow Coordinating with Production
+support team to Fix the Remedy trouble tickets Release 14: SAP version ECC 6.0 Upgrade: AS a
+part the Release 14 SAP version is being upgraded to ECC 6.0 from 4.6C Researching and fixing
+‘Migration errors Testing system and raising issues Involved in SPAU/SPDD activity Applied OSS
+NOTES and COREMODS Developed a unique extract program to provide the reference data
+maintained in SAP to Mercator for mapping Release 11 to Release 13: SAP version 4.6C Inbound
+Sales Order processing: Configured partner profile and added custom code in the user-exit of
+IDOC_input_orders FM.
+
++ This interface reads the PO details and creates the sales order in the system EDI-Inbound orders
+Configured EDI partner profiles and customized the Inbound Function module ( IDOC_input_orders)
+to convert the EDI customer number(Cross-reference number ) in to SAP customer number.
+
++ EDI-Order confirmation: This Interface is developed for Lilly Belgium Hospital Orders.
+
++ As part of development Configured outbound partner profile and added custom code (UE:
+EXIT_SAPLYEDC_001 and EXIT_SAPLVEDC_002) to populate change flags in the header and Items
+level if any changes from Original Order is identified.
+
++ Sample sales Order interface: Developed Inbound Interface to create sample and promotional
+Pharma sales orders.
+
++ Outbound Delivery Note interface: Configured partner profile, and extended DELVRY03 IDOC to
+populate the shipping instructions and IDOC ship- to customer segment is modified by replacing
+the reference number of the customer from master data.
+
++ Extended the IDOC.
+
++ EDI- Outbound invoice: Configured partner profile for EDI Outbound Invoices, invoice is generated
+from output condition records established for the customer.
+
++ Added custom code in the User exit to append material CIP code in E1EDP19 segment and customer
+reference number in E1EDPA1 segment.
+
+SKILLS
+
+ABAP/4, A/P, AR, Balance, Billing, C, C++, Cash flow, Conversion, Credit, client, Database, data
+warehousing, Debit, Delivery, Documentum, edit, editor, EDI, Electronics, ERP, Forms, Functional,
+Gentran, Human Resource, Inventory, Invoicing, Languages, Layout, logo, marketing, materials,
+‘Materials Management, Mercator, exchange, MS office, Windows, MS Windows 9, 2000, Windows NT,
+NT 4.0, migration, enterprise, Operating Systems, Oracle 9, Oracle, PL/SQL, Oracle, Organizational,
+Page, PASCAL, payroll, pricing, procurement, Coding, programming, proposal, Purchasing, quality,
+read, receiving, requirement, Sales, sales order processing, SAP, SAP 3.0, SAP 4.6, SAP 4.7, SAP R/3,
+SD, Scripts, Script, shipping, MS SQL Server, SQL, supply chain, tables, tax, taxes, TCL, television,
+Test Director, TRACK-IT, translation, type, unique, UNIX, vendor management, VERTEX, View, wise

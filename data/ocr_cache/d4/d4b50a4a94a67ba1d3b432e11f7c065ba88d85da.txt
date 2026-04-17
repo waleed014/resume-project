@@ -1,0 +1,107 @@
+Rossie Metz
+
+775 Dickens Forges, Dallas, TX @ Phone: +1 (555) 520 2515
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+LEAD JAVA DEVELOPER / ARCHITECT
+
+Dallas, TX
+
+03/2014 — present
+
+‘© Lead and provide technical leadership to architects, leads and developers in geographically dispersed
+
+location
+
+Establish and implement best practices for complete mobile development life-cycle in iOS and Android
+
+Demonstrated expertise in Java architecture, development and management,
+
+Establish and maintain development standards and prescriptions
+
+Effectively liaison between Managers, Solution/Architecture Engineering, Development and Operations
+
+teams to implement large and complex engineering solutions
+
+‘* Develop long term technical roadmap and continual revenue/cost optimization
+
+* General knowledge developing mobile applications that interface with RESTful services including Web
+services
+
+TEAM LEAD JAVA DEVELOPER
+
+‘Los Angeles, CA
+09/2011 — 01/2014
+
+‘* Create Libraries and Frameworks which will be used across multiple application development projects
+Provide support and resolution for performance related issues
+
+Maintain system in production, perform application and system level monitoring
+
+Provide support and feedback for application system level testing
+
+Participate in Kick-off meetings for new Epics and work together with the Product Owner on planning the
+important milestones for technical debts items
+
+‘+ Provide design solutions for complex business and technical problems
+
+‘+ Perform code reviews and pair-programming when necessary
+
+LEAD JAVA DEVELOPER
+
+Philadelphia, PA
+06/2006 - 07/2011
+
+‘© Manages and executes small projects; process redesign and improvement
+
+‘* Develop or review development of test protocols for testing application before user acceptance. Review
+test results and direct further development
+
+* Work with a global BAU PM in Sydney, and have technical ownership for a set of applications working
+with 3 other developers
+
+‘© Work closely with users, program managers, and developers to bring the team’s ideas to life
+
++ Perform general Java application development activities, including unit testing, code deployment to
+development environment and technical documentation
+
+‘* Provide technical mentoring to developers, senior developers, and software architects within a domain or
+project, or as assigned
+
+‘+ Provide guidance to internal and external stakeholders in the development of solutions that create
+innovation
+
+BAYLOR UNIVERSITY
+Bachelor’s Degree in Computer Science
+
++ Ability to create user interface components that are modular, scalable, and maintainable
+
++ Excellent communication skills with the ability to develop strong working relationships with system users
+and senior members of the business
+
+‘+ Excellent organization skills, attention to detail, and ability to multi-task
+
++ Excellent communication skills, verbal and written, and able to share knowledge with and provide
+direction to a development team and to senior management
+
+‘+ Excellent communication skills with a proven ability to develop strong working relationships with system
+
+users and senior stakeholders
+
+Proven ability to deliver high-quality software
+
+Prior experience with building distributed, multi-tier applications is highly desirable
+
+Strong proficiency in Core Java in a Linux server-side environment
+
+Strong communication skills (written, interpersonal, presentation), with the ability to easily and effectively
+
+interact and negotiate with business stakeholders
+
+‘* Good problem-solving, result-focused, can-do attitude, and strong focus to keep the business running and
+competitive

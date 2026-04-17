@@ -1,0 +1,113 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+‘Versatile Software Development Engineer committed to consistently finding dynamic solutions for software issues. Polished in finding
+innovative ways to efficiently build scalable, high-availability online systems. Excels in fast -paced, high-energy and deadline driven
+environment with willingness to take on additional tasks. Knowledgeable Software Developer with in-depth knowledge of C#, ASP.NET,
+JavaScript, and Python. Expertise in writing codes in various languages, developing layouts and integrating software components
+
+Sms
+* HTML.CSS, Javascript + Agile development methodologies
+‘* Python/Django * Interface design and implementation
+* SQL Server Management Studio (1 year) * Application development
+* Visual Basic * Library design
+© GitHub © WordPress
+* Microsoft C#/ASPNET + Amazon Web Services
+EXPERIENCE
+
+10/2020 to 11/2020 C#/ASP.NET Developer
+Medical Science — Bowie, MD
+* Create page layouts for different site functions.
+‘# Reconfigure website links to proper navigation throughout the application.
+‘* Debug any known features and test new code to ensure proper functionality.
+‘+ Implement new concepts to enhance the user experience.
+‘© Work with the development team to ensure a deliverable product in a timely manner.
+‘* Programmed applications and tools using object-oriented languages with goals of code abstraction, stability and
+reuse.
+‘* Assessed code during testing stage to determine potential glitches and bugs
++ Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
++ Troubleshot, tested and remedied issues before software deployment.
++ Participated in team meetings and provided input on deadlines, designs and enhancements.
+
+04/2020 to 05/2020 Python/Django Developer
+Hom Furniture Corporate Office — Oakdale, MN.
+
+‘* Created a web application that tracks something in the user's daily life from scratch that the user would input into
+daily, and be able to view the results of those entries utilizing the Django framework.
+
+‘© Build and style a table structure from the data collected and relate the application to a similar established app
+performing a web scraping utilizing the Beautiful Soup Python library
+
+‘* Gained exposure to Azure and version control software, GIT.
+
+‘© Ultimately experienced how to work with a team on a project, how to lean a new software quickly and efficiently
+enough to have a quality deliverable product to show to a customer due to proper research and project planning
+
+‘© Worked closely with development team members to identify and remove software bugs.
+
++ Tested all software prior to going live to alleviate bugs and troubleshoot issues.
+
+* Designed user-friendly software interfaces to simplify overall management.
+
+« Participated in team meetings and provided input on deadlines, designs and enhancements.
+
+06/2014 to 06/2016 Visual Merchandiser
+H&M - City, STATE
+‘© Executed store's visual aspects according to company expectations such as marketing and campaign material,
+indoor mannequins, window updates, placement of new products
++ Provide excellent customer service by staying informed about the garments, current trends, and store campaign and
+sales activities.
+‘© Maintain a positive, friendly attitude with an interest in fashion.
+‘© Handle incoming garments and make sure the store maintains its great presentation.
+‘© Enhanced store and display appearance utilizing seasonal promotions and trends to drive strategy.
+«* Restructured merchandising strategy to promote high value and products.
++ Presented updated floor plans and design strategy to store management,
++ Taught sales staff to properly coordinate clothing racks and counter displays to maximize promotional
+effectiveness.
++ Organized engaging front-facing displays to capture customer interest and drive revenue growth.
++ Prioritized and organized tasks to efficiently accomplish service goals.
+
+Epucation Np TRAINING
+
+12/2020 Full Stack Software Development
+The Tech Academy - Salt Lake City, UT
+Completed professional development in Front-End and Back-End Computer Programming
+
+Communications
+
+Ohio University - Athens, Oh
+# Minor in Video Production/Media Management
++ Kings/Chavez/Parks Scholarship Recipient
+© Ohio Men's Crew Team Member
+
+Courses
+
++ Computer and Technology Basics
+«Software Development Overview
+
+* Version Control Course (Git and GitHub)
+«© HTML 5 & CSS3 Course
+
+« Javascript Course
+
+© Database and SQL Course
+
+Visual Studio Course -Python Course
+
+* C# and ASP.NET Course
+
+« LiveProject-Python/Django
+
+«# LiveProject- C#/.NET
+
+© Project Management Course
+
+Willing to relocate: Anywhere
+
+ADDITIONAL INFORMATION
+
+# Willing to relocate: Anywhere, Authorized to work in the US for any employer

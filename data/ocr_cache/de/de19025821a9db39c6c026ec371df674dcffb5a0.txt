@@ -1,0 +1,57 @@
+Dale Kshle
+
+Manual Tester
+
+Contact Details
+
+(=) dalekshle@gmail.com
+
+@ 362) 646 1107
+
+(9) East Herminiahaven, 84445,
+South Dakota
+
+Education
+
+@ Bachelor of Science in
+Software Engineering
+University of California,
+Berkeley
+2017 - 2021
+
+Skills
+
+Test Planning - Expert
+Test Design - Expert
+Test Execution - Expert
+Defect Tracking - Expert
+Documentation - Expert
+
+Regression Testing - Expert
+
+Summary
+
+Experienced Manual Tester with 5+ years of experience in developing
+and executing test plans, debugging software and analyzing test results.
+Skilled in writing, executing and maintaining automated tests.
+
+Work Experience
+
+Manual Tester, Turner - Altenwerth
+March 2023 - Present
+
+¢ Developed test plans and test cases for manual testing.
+¢ Executed manual tests to identify software defects and report
+them to the development team.
+¢ Automated test cases using Selenium WebDriver.
+Manual Tester, Stokes - Hessel
+May 2021 - February 2023
+© Developed and maintained test data for manual and automated
+testing.
+¢ Performed functional, system, regression, and UI testing.
+¢ Utilized various software tools such as JIRA, Microsoft Test
+Manager, and SQL Developer.
+
+References
+
+References available upon request

@@ -1,0 +1,95 @@
+Kenton Donnelly
+6386 Hermann Shoals, San Francisco, CA @ Phone: +1 (555) 521 6165
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+LEAD ETL DEVELOPER
+Detroit, MI
+
+10/2016 — present
+
+‘© Lead overall data management solutions and design, change the status quo and create world class
+information management solutions
+Provides updates to the management and the business to keep them informed of any system issues
+Provides input to development project plans
+Manage the successful delivery of development projects across the full application lifecycle
+Mentor junior developers on the best practices for developing ETL jobs utilizing Informatica
+Ensure all metrics data is collected for all critical processes during the Design and the Development Phases
+of the SDLC lifecycle
++ Provide governance to the review processes and effectively communicate out project status
+
+DATABASE / ETL DEVELOPER
+
+New York, NY
+02/2012 - 06/2016
+
+‘Provide process improvement analysis using process modeling and simulation techniques to understand
+the impact of process changes
+
+‘+ Provide operational analytics to support better management of MIS
+
++ Attend technology design meetings and recommend security and data improvements ~ and will be
+
+empowered to work on those prioritized changes
+
+Develop scripts to automate the execution of ETL using shell scripts under Unix environment,
+
+Providing routine process/operational control reports and/or Controls Dashboard support
+
+Help develop test cases and plans to complete the unit testing and support System testing
+
+Assist in software and hardware setup
+
+ETL DEVELOPER
+
+Philadelphia, PA
+03/2009 — 01/2012
+
+‘© Works within IT team to follow the full lifecycle development process working with development and
+technical operations
+
+‘* Support other ETL developers; providing mentoring, technical assistance, troubleshooting and alternative
+development solutions
+
+‘* Manage, mentor and develop onshore development resources and provide project related directions to
+offshore team
+
+‘© Assist Ser
+monthly basis
+
+‘+ Assist business and technology stakeholders in establishing data management framework with necessary
+data quality controls and governance
+
+‘+ Communicate effectively with the other external IT development teams and the local development
+manager
+
+‘* Work with other team members in establishing and sharing design and development techniques of the
+ETL process
+
+Manager and Service Director in providing management status reports on daily, weekly and
+
+OHIO UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Strong Oracle PL/SQL knowledge and ability to code complex queries against a marketing database
+Excellent writing skills, oral communication skills, strong process skills, and leadership ability
+Detail-oriented drive to investigate and dissect information with a strong focus on quality
+‘Commitment to quality highlighted by strong auditing capability
+
+Solid knowledge of the UNIX/Linux environment
+
+Demonstrated ability to translate functional/high level design in detailed technical design
+
+Strong technical aptitude and ability to logically analyze and creatively solve complex issues
+independently
+
+‘Strong interpersonal skills and ability to work effectively with all levels throughout the enterprise
+
++ Basic knowledge of Business Objects reporting tools like Web Intelligence, Lumira etc
+
+‘* Extensive experience in data analysis and/or reporting along with strong knowledge of database and
+related technologies (SQL, OLAP, etc.)

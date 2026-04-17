@@ -1,0 +1,86 @@
+Dr. Loretta Jones | Data Scientist
+
+Location: Leeds
+Telephone: 07899988876
+Email: LJones@theemailaccount.co.uk
+
+Professional Profile
+
+‘An analytical and detai-orientated Data Scientist, with four years of driving quantifiable business growth and
+Profit for reputable companies in the retail and e-Commerce sectors.”
+
+APhDEng and MEng qualified professional with extensive experience in Python, R, C++, MATLAB and SQL.
+Theoretical and applied knowledge of cloud infrastructure and ETL processes. Able to execute outstanding
+data extraction and analysis through using algorithmic and data mining techniques to inform and advise on
+business development and workflow improvement. Committed to using Machine Learning and Al to
+streamline systems. Adept at synthesising complex data into actionable reporting, proposals and
+specification writing. Well-versed in refining and creating data models, improving QMS and data validation.
+
+Core Skills
+
+PhDEng and MEng Data Science Creating, Testing, Using Maths/ Data Models.
+Python, R, C++, MATLAB, SQL ‘QMS & Data Validation
+
+Algorithmic & Data Mining Techniques Machine Learning and Artificial Intelligence
+Reporting, Proposals, Specification Writing Cloud Infrastructure & ETL Processes.
+
+Career Summary
+
+‘Jan 2019 - Present The Big Retailer
+Data Scientist
+
+Outline
+‘As Data Scientist for the Big Retailer | gather research on consumer purchasing trends and combine it with
+‘company sales, stock management and revenue data to inform company strategy and decision making.
+
+Key Responsibilities
+Extracting, synthesising and interpreting large volumes of data from a variety of company sources
+
+Utilising algorithmic, data mining, atitcialinteligence, machine learning and statistical tools
+
+‘Manipulating Python, R, C++ and different coding functions to improve mathematical analysis,
+
+Reporting results of data in a transparent, informative and results-oriented way for stakeholders,
+
+Consulting with key internal and external stakeholders on business issues identified by data
+
+Creating data-informed solutions to present to Senior Management for effective resolutions.
+
+Build and test algorithms and mathematical models to improve data extraction and synthesis,
+
+‘Managing tailored reporting for different business areas and wider company reporting
+
+Understanding and informing key stakeholders on client and consumer interaction with the company
+
+Reviewing data extraction, collection and sources, and assessing their usefulness
+
+‘Staying informed of the latest retail industry trends and using this to inform data output
+
+Researching new data-collection techniques to update models and data gathering techniques
+
+‘Scanning business departments like Human Resources to see whether data models can assist
+
+Explaining complex functions in understandable language to different areas of the business,
+
+Helping to streamline the data science strategy by updating inline with new sources of information
+
+Key Achievement
+‘* Identifying repeatedly ordered unsuccessful stock that was costing the company £350,000 each year
+‘© Spotting a consumer trend that was turned into a promotional campaign with £1 million revenue
+‘+ Implementing a data model for the HR department which improved retention by 45%
+‘+ Refining existing data extraction process, saving 4 hours of work each week for Data Scientists
+
+Jan 2018 ~ Dec 2018 ‘The e-Commerce Consultants
+Data Scientist
+
+Outline
+
+‘Asa Data Scientist for the e-Commerce Consultants, | worked on the Quality Management System for all
+
+new products, collating customer interaction with interfaces and feeding back to key stakeholders.
+
+Key Responsibiltios
+‘+ Manipulating data models using R, Python, C++ and MATLAB to extract and synthesise data
+‘* Creating clear reports, specifications and proposals and communicating ideas clearly to stakeholders
+
+Paget

@@ -1,0 +1,23 @@
+React JS Developer
+
++ Developed and implemented Web protocols and standards (CSS3, Web Forms, XML) for a better
+browsing experience for users.
+Conducted frequent reviews of applications’ integration and interface designs to ensure their
+compatibility with existing web features and applications. Monitored front-end performance and
+reported application errors if any.
+
+Mar 2017 - Feb 2021
+
+React Developer
+
++ Analyzed errors in functionality and performance of web infrastructure. Debugged application codes to
+
+cut down real-time bounce rate by 35%
++ Created high-quality mock-ups for interface features and on-web designs with different prototypes and
+graphics, ensuring the compatibility of visual elements with websites’ architecture.
+
+Dec 2016 - Feb 2017
+
+Class of 2013
+The University of South Florida - Tampa, FL
+B.A in Computer Science

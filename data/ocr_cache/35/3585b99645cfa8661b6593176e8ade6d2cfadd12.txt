@@ -1,0 +1,65 @@
+ART JOHNSON
+
+8289 KLING MOUNTAINS, LOS ANGELES, CA
+
+PHONE
++1 (555) 185 4422
+
+EXPERIENCE ABSHIRE-GRAHAM 06/2020 — present
+New York, NY // PL SQL Developer
+¢ Any web programming development skills (Javascript/jQuery/ajax/css/html)
+¢ Business exposure to sales, manufacturing or distribution planning
+Knowledge of Blue Yonder systems, specifically Demand and ESP
+BE/BTech in Computer Science engineering or equivalent
+¢ Experienced and efficient programmer in SQL and PL/SQL
+e Experience with developing UX/UI applications
+¢ Experience in developing software projects using Agile/Scrum methodologies
+¢ Excellent communicator in both technical and non-technical aspects
+Skills to debug and understand large SQL code base
+
+.
+
+HOMENICK LLC 02/2017 — 12/2019
+New York, NY // PL SQL Developer
+
+¢ Experience in Jira, Confluence, and Git
+
+¢ In-depth background with complex PL/SQL and SQL processes
+
+¢ Working experience with Informatica
+
+¢ Expertise in the development and implementation of software solutions in highly scalable
+
+environments
+
+¢ Expertise in PL/SQL and Oracle performance tuning
+
+¢ Expertise in Oracle SQL, PL/SQL
+
+¢ Expertise in complex SQL queries
+
+¢ Expertise in Query tuning and optimizations
+
+¢ Expertise with cursors, packages, procedures, functions, triggers
+
+EDUCATION COLUMBUS COLLEGE OF ART AND DESIGN
+Bachelor's in Computer Science
+
+SKILLS ¢ Experience using Java, Spring boot, Kubernetes/containers
+
+AWS skills
+
+¢ Experience within the CICD process
+
+¢ Basic knowledge of data modeling concepts and methodologies (Kimball) used in a data
+warehousing environment
+
+¢ Good analytical, problem-identification/solving skills
+
+¢ Self-starter who enjoys working in an international team
+
+¢ Flexibility, creativity and initiative
+
+¢ Good knowledge and experience in PL/SQL, Oracle 11x (latest DB version) and/or SQL server
+
+.

@@ -1,0 +1,96 @@
+>|
+
+Nigel Webster
+
+Blockchain Developer
+
+CONTACT DETAILS
+
+PROFESSIONAL PROFILE
+
+J 07123456789
+© nigelwebster2@gmail.co.uk
+
+@ York, UK
+
+CORE SKILLS
+* Cloud Computing
+
+* Information Security
+
+* Peer-to-Peer Networks
+
+* Multithreaded Coding
+
+* Full-stack Development
+
+* GUI Wallet Applications
+
++ Agile/Scrum Methodologies
+
+* Open-source/Webs Projects
+
+Dedicated Blockchain Developer with experience in enabling secure and efficient
+transactions by creating systems and data structures that record and store cryptographic
+information in a way that prevents changes or hacking in token economies. Extensive
+knowledge of cutting-edge platforms, such as Ethereum, Hyperledger, Bitcoin Core, and R3
+Corda. Familiar with ways of deploying smart contracts, such as Remix, Truffle suite, and
+Hardhat. Focused on revealing the unlimited potential of blockchain to millennials.
+
+CAREER SUMMARY
+
+Jan 2021 - Present Binance, York, UK
+Blockchain Developer
+
+Outline
+
+Design, administer, and distribute scalable blockchain-based networks, for the world's
+leading cryptocurrency infrastructure provider with a state-of-the-art financial product suite
+that includes the largest digital asset exchange by volume.
+
+Key Responsibilities
+
++ Collaborate with managers to determine blockchain tech needs and functionalities.
+
+‘+ Support the development, delivery, and execution of DTLs across capital markets.
+
++ Perform complex analysis, testing, and debugging of computer software for distinct
+hardware or service lines of businesses.
+
++ Create client and server-side application features and interfaces by using scripting
+languages and writing multithreaded codes.
+
+‘+ Integrate new tools and apply cryptology techniques to safeguard user privacy and
+digital transaction data against cyber-attacks, fraud, and information hacks.
+
++ Correspond with and educate sales personnel on system characteristics that allow
+streamlined digital payments.
+
+‘+ Augment programmes to ensure servers in the network consistently run smoothly.
+
+‘+ Document all processes, submit reports to stakeholders, and enforce adherence to best
+data protection practices.
+
++ Stay abreast of industry trends through following social media for fast-paced
+announcements, reading publications, and participating in online forums.
+
+Key Achievements
+
+‘+ Contributed to open-source blockchain projects by that improved the codebase 20%.
+
+‘+ Boosted efficiency by 35% through incorporating different consensus algorithms, such
+as Proof-of-Work (PoW), Proof-of- Stake (PoS), and Delegated Proof-of-Stake (DPoS).
+
+‘+ Created reusable libraries and enhanced the DeFi protocol user base by 55%.
+
+Jul 2016 - Dec 2020 Syntropy, York, UK
+Associate Blockchain Developer
+
+Outline
+
+Generated cloud solutions for various industries, such as finance, healthcare, logistics, real
+
+estate, social media, and gaming, for an organisation that solves issues privacy, governance,
+reliability, and ineffective resource utilisation in the internet framework.
+
+Paget

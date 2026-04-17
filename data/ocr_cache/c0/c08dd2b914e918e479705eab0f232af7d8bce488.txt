@@ -1,0 +1,57 @@
+ELECTRICAL ENGINEER SAMPLE
+RESUME
+
+8870 Ray Street, Bloomington, Santa Monica, CA 90401
+(310) 471-3725
+polikumar@gmail.com
+
+Electrical Engineer with 7+ years of experience working with blue chip companies in the electrical industry. Primarily
+focused on implementation of digital systems. Excellent interpersonal and communication abilities, and possess a wide range
+of technical skills. Enjoys being part of a team, as well as managing, motivating and training a productive team, and thrives
+in high pressure and challenging working environments.
+
+PROFESSIONAL EXPERIENCE
+
+McHERO PLC New Orleans, LA
+Hlech ical Improver/Supervisor July 2010 — Present
+Direct and oversee vendor shop repairs on high voltage motors and equipment to ensure quality; issue repair
+reports at the conclusion of critical jobs for proper historical documentation; execute equipment maintenance
+strategies and perform other duties or projects as assigned within budgets averaging $90,000
+Responsible for all aspects of underground work including cable pulling, installing instruments & threaded
+rod; install CMS, trunking, tray, ladder rack, confine space entry, small power and lighting, terminating and
+gladding SWA
+Trained and managed five employees, ensuring adherence to safety procedures and maintenance of high
+quality service standards expected by management
+Diagnose malfunctioning systems, equipment, and electrical parts, via using test equipment to identify the
+cause of breakdown; fix the problems and connect wires to circuit breakers, transformers and other
+components within designated schedules
+
+TQL GROUP New Orleans, LA
+
+Electrical Improver/Supervisor August 2007 — July 2010
+
+* Planned, drafted, executed, maintained and improved electrical instruments, equipment, facilities, components
+and systems; controlled computer-aided engineering and designed equipment to perform engincering tasks.
+Examined installations and observed operations to ensure conformance to design and equipment
+specifications, and provided technical assistance to field personnel in the areas of high voltage distribution
+equipment and high voltage motors/generators
+Supervised a team of two electricians responsible for cable pulling, tray installation, high level wiring of
+lights, small power and lighting, making off circuits in dis boards; responded and provided technical
+assistance to electrical equipment problems within the company-owned facilities
+
+EDUCATION
+
+WESTWOOD COLLEGE Los Angeles
+Certificate in Electrical/Mechanical Estimating, June 2007
+
+* Certificate course
+
+HLM COLLEGE Los Angeles
+Electrical engineering, June 2003
+
+* Graduated
+
+ADDITIONAL SKILLS
+
+* Assembly, C/C++, MATLAB, Python, Verilog, VHDL, Modelsim/Questa, Quartus, Eclipse, IAR,
+Visual Studio, Subversion, DxDesigner, Allegro Design Entry, SPICE, Office, Unix, Oscilloscope

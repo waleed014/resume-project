@@ -1,0 +1,87 @@
+Julio Cremin
+202 McDermott Fords, Chicago, IL @ Phone: +1 (555) 848 3587
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR DATA SCIENCE CONSULTANT
+New York, NY
+05/2015 — present
+‘© Work with internal and third party information technology teams to establish and monitor service levels
+for uptime, performance, and software updates
+‘* Develop meaningful and intuitive graphical user interfaces that reflect key operational metrics and
+actual/target performance
+‘+ Partner with subject matter experts on the Conduent global operations team who
+source systems and project support
+‘* Conceptualize the end-to-end solution from data extraction from source systems to executive,
+‘management and operational reporting in a BI platform
+‘© Generate algorithms and create computer models
++ Perform data studies of new and diverse data sources
+‘* Build web prototypes and performs data visualization
+
+ill provide expertise on
+
+HR ANALYTICS DATA SCIENCE CONSULTANT
+Chicago, IL
+04/2010 — 03/2015
+‘© Research and construct problem frames in order to understand the analysis context and scope that will
+provide timely, useful results
+Develop and test heuristics
+Perform data exploration and data mining
+Create and run models
+Responsible for working with leadership in the advancement of big data and analytics projects
+Execute advanced and predictive analytics; e.g. regression analysis, multilevel analysis, factor analysis ete
+Serve as an expert in translating complex data into key strategy insights and value add actions
+
+DATA SCIENCE CONSULTANT
+
+San Francisco, CA
+07/2003 — 11/2009
+
+‘* Work independently, or as part of a team, to design and develop Advanced Analytics solutions
+
+* Data mine a variety of different data sources and types.
+
+Lead analysis, architecture, design, and development of data warehouse and business intelligence
+solutions
+
+Mentor junior team members
+
+Functional proficiency in SQL, NoSQL, and relational database design and development
+
+Passionate about learning new technologies
+
+Design and deliver innovative analytical solutions using Hadoop, Spark, Hive, and other Big Data related
+technologies
+
+UNIVERSITY OF TENNESSEE
+Bachelor’s Degree in Statistics
+
++ Act asan advisor and consultant, providing data analysis support, research design, and project
+‘management advice and leadership in small to large scale projects with social sciences, science, and
+engineering
+
+‘* Contribute to a broad range of research leadership activities including strategic planning, business
+development, proposal writing, project design, creation and formulation, applied grant finance, project
+budget development, communications and outreach
+
+‘+ Provide active technical training, including organizing and presenting data science and statistical tools
+
+symposia and training workshops, and manage graduate students providing statistical consultation
+
+Development experience (C++, Java) or complex project experience (Agile, scrum) will be
+
+‘Web development (node,js, php) and visualization framework (D3, JS) experience will be
+
+Data Warehousing/Business Intelligence experience will be
+
+Experience with Big Data solutions (Hadoop, Spark, NoSQL, AWS) will be
+
+Experience with business areas (retail, telco, banking, ecommerce) will be
+
+‘Computer science publications and proven scientific track record will be
+
+English: Intermediate and higher

@@ -1,0 +1,53 @@
+ROBERT SMITH
+Dot Net Developer (Healthcare)
+
+Phone: (0123}-456-789 | Emall: tfotquwtkresumne.com | Webstte: Qvekresume.com
+
+Dot Net Developer with around 5 years of experience in Healtheare domain. experience in
+various applications based on Object Oriented Programming (OP), Client/Server, N-tier
+architecture, Web based and Internet Technologies. Worked closely with business
+analysts and converted the requirements into Dat Net code:
+
+[CORE COMPETENCIES
+
+VB.NET, C4, 7 SQL, PL/SQL, HTML, UML, XML. RDBMS: Oracle MS Access MS SQL
+Server Methodologies Agile, Scrum, Test Driven Development (1D) And Waterfall
+Scripting Language JavaScript, JQuery. VB Script, DHTML/HTML, CSS, XML. And
+JSON Web Services XML (XSL/XSLT), SOAP, WSDL, UDDI. HTTP, WCF Networking,
+‘TCP/IP, UDP. SNMP, SMTP Testing Tools Manual Testing, NUnit Testing. Quicle Test Pro
+(GTP). Version Control: VSS. TFS, CSV. Development Tools VisualStudio NET SQL Server
+Management Studio, MS Visio, Adobe Photoshop
+
+[PROFESSIONAL EXPERIENCE
+
+Dot Net Developer {Healtheare)
+CVS Care Mark - January 2014 - Present
+
+Key Deliverables:
++ Invelving In agile methodalogy and undergone in all phases of soltware
+development life cyele and proposed solutions to the business problems
++ Using jQuery U1 API for the animation and Ul development of Asp.Net MVC 4
+application
+
++ Creating model classes, nuzor views and controller action methods to compose
+data using models,
+
++ Writing jQuery functions to manipulate and validate dom elements in views.
+Creating models using entity fraimework that is used as properties by application.
+
++ Improving logging mechanism by adding new fields to existing tables to provide
+description of error and exception messages
+
++ Creating jQuery functions te post data to controller methods using json and ajax,
+
+Analyst 1
+ABC Corp - 2013 - 2014
+
+‘Key Deliverables:
++ Participated in the research of lntest industry practices and technology trends as
+requested by senior team members
++ Assisted in the development of solutions (hardware, software, processes) that
+‘support busines requirements:
+
+2259 Oak Street, Old Forge, New York. 19420
+thls Bree neste Template copyright of eirennv, Uage Guldeines

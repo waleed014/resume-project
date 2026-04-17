@@ -1,0 +1,278 @@
+JESSICA
+CLAIRE
+
+@ resumesample@example.com
+(555) 432-1000
+
+‘@ 120Montgomery st. 10th
+Floor
+
+EDUCATION AND
+TRAINING
+
+Johns Hopkins University
+Baltimore, MD + 12/2020
+
+‘Master of Science: Geography &
+Environmental Engineering
+
+Hohai University
+Nanjing, China + 06/2019
+Bachelor of Science:
+Environmental Science &
+Engineering
+
+SKILLS
+
+Programming languages:
+avaScript, 15%, Python, C, Ry
+‘SQL, Ruby Bash, HTML, C5S,
+‘ava, MATLAB, Kottin etc.
+
+* Database and coud: MYSQL,
+‘MariadB, mongod8, AWS
+
+Project management tools:
+Scrum, Jira
+
+‘Testing tools: Jasmine
+
+‘Advanced algorithms and data
+structures,
+
+Tools & Frameworks: REACT,
+‘axios, express, redux, thunk,
+Nodejs, Pycharm, Spyder, Git,
+Vagrant, Vitual Box, MySQL,
+Django, Tableau, QGIS, Jupyter
+Notebook, Atom, PyTorch, unit
+‘test, Android Studio etc.
+= OS: Mac/ Unix/ Windows/ Linux
+
+SUMMARY
+
+Ditigent software engineer with 5-year experience in software development by using JavaScript,
+react, html5, cs53, mongoDB, expressjs, redux, thunk, AWS and REST API
+
+' designed a hight responsive users interface using JavaScript and React and Bootstrap.
+
+Developed back-end server using Nodejs, Express JS and JavaScript to sending and fetching data
+from REST API.
+
+Developed the render structure of server side using React Hook to display the contents and handle
+states efficient.
+
+Implemented redux in React part to make it easy to dispatch states and improve the connect.
+between components.
+
+‘Managed cross:page data and HTTP request with Redux and Axios.
+
+Implemented React-Router to connect different pages in React application.
+
+Implemented middleware such as thunk in React application to wraps an expression to delay its
+evaluation to handle asynchronous request and response.
+
+‘Worked on JSX to built perspicuous and user-friendly Ul.
+
+Developed complex functions on frontend based on React.Js, Material UI, and Ant Design.
+
+Created different components in REST API using JavaScript to implement sorting, searching, and
+‘CRUD functions.
+
+Created database of React application on mongoDB with mongoose which can store huge amount of
+data, ensure customers’ access speed, and make them easier to get the data.
+
+Developed React application with relational database, including MYSOL and MarlaDB.
+
+Proficient in using NOSQL database such as mongoDB in web application development.
+
+Implemented web application built with React on cloud computing services, such as AWS and Google
+Cloud and implemented data storage on AWS $3 bucket.
+
+Implemented Jasmine testing environment to ensure functionalities of complex components created
+by React.
+
+‘Developed dynamic front-end pages using JavaScript, HTMLS and CSS3 that make these pages
+appealing, perspicuous and available for various browsers.
+
+Developed client management platform in MVC pattern by using Python.
+
+Implemented CRUD functions in python based on Django, Vagrant and Virtual Box frameworks.
+
+Designed front-end structures by sing REST API and API views.
+
+lam experienced with data analysis using Python and R. Developed prediction model by using,
+‘machine learning with PyTorch, python and trialed this model with unit-test.
+
+‘ican manipulate MAC, Unix, Windows and Linux efficiently and knowing data structures and
+algorithms well.
+
+‘Tam professional with implement project management tools including Scrum and Jira to improve
+the work efficiency.
+lam a good communicator and team worker, | can Self-motivated, proactive, and has the ability to
+thrive ina fast-paced, mission-critical operations environment and communicate with others dearly
+and precisely(verbally and writen) within the Scrum framework to meet the sprint objectives.
+
+EXPERIENCE
+
+‘Two95 International Inc. - UI Developer
+arlington, VA + 01/2021 » Curent
+
+Description:
+
+‘Worked on developing and upgrading Verizon's customer management system platform to improve the
+system efficiency in both front-end and back-end to store and manage the information of plan type,
+plan features, plan perks and payment details of customers.
+
+Responsibilities:
+
+Bult webpage in JSX and HTHLS, implemented function with JavaScript based on ReactJS and
+adjusted layout with C883.
+
+Designed and developed application architecture before coding, such as defining components
+hierarchy
+
+Adopted React router to construct a single-page application, which provided users a seamless and
+User-friendly experience during switching pages.
+
+‘Worked on React hook using JavaScript to manage status of contralled components, such as
+visibility of some information and accessibility of a button
+
+Checked authentication by using React lifecycle hook and Redirect method to prevent unauthorized
+visiting.
+
+Utilized React props to transfer necessary data from parent component to child component.
+
+Implemented asynchronous actions in Redux by thunk as the middleware.
+
+-managed huge amount of users’ mobile plan data and asynchronous actions such as edit personal
+{information and switch plan(fetching or sending data from or to service) in Redux(tested in Redux
+DevTools) to improve the application's performance and separate data from UI components.
+
+Utilized Express.js router to dealing with diferent incoming http request.
+
+Implemented file read/write system in Node.js to read and save uploaded members’ avatar or photo
+in servers local folder and store the URL in database,
+
+‘Designed member schema and developed databace in NoSQl database MongoDB for fast read/write
+‘operation and utilized Mongoose to manipulate the database.
+
+Improved MongoD8 visting performance by implemented populate function to avotd repeated
+database visiting for related information.
+
+Developed Node. js middle layer to enable server-side rendering(SSR) and search engine
+coptimization(SEO).
+
+‘Designed backend REST API using Express.js to allow creat, read, update, and delete operations on
+Users” information management.
+
+Developed REST API based on predefined data structure and tested in Postman to provide access to
+front-end.
+
+Optimized and improved web application and components with HTML5, CSS3, with JavaScript.
+
+Developed some front-end functions such as sort and pagination based on UI libraries including Ant
+Design, Material U! and Bootstrap.
+
+Used Git as source code version control and deployed the API to a server on AWS to achieve auto:
+scaling.
+
+‘applied ESLint to ensure JavaScript code in maintainable and readable way.
+
+Bult unit-test forthe code developed using Jasmir
+
+Implemented Scrum and Jira in project management and improved the work efficiency
+
+Kept tracking completed components proactively to provide long-term warranty for components |
+developed.
+
+‘Maintained the company codebase by deleting deprecated code with senior programmers.
+
+‘Two95 International Inc. - UI Developer
+Los angeles, CA « 07/2020 - 12/2020
+Description:
+‘Worked on developing an online payroll management system that allows employees of ADP customer
+companies to log in/out, punch in/out, check their weekly working hours, weekiy(orbisweek, depends
+fon the employer) payments, payment rate and other information at any time and from everywhere
+both on computer and on their phone.
+Responsibilities:
+
+‘Designed log in/out function in JavaScript to protect the authorization and private information
+Using React router and authorization states.
+
+‘Designed employee punch in/out function using React Hook to calculate the working time.
+
+Developed real-time chat room application using React and socket.io for users to get help from the
+customer services team.
+
+Developed http request API based on RESTful API to provide a fast and efficient path for file upload
+and download.
+
+Developed CRUD functions using REST API to manage the employees" information for each company.
+
+Upgraded 20 REST API endpoints by adding sorting and pagination through Spring Data JPA and
+reduced latency by 13%
+
+Developed server-side structure using Node.js and Express. s to provide support for frontend.
+
+Implemented midéle-layer server side rendering function(SSR) using JavaScript and Node. js.
+
+Tested and debugged API with Postman.
+
+Developed user side web pages and with JavaScript, HTMLS and CSS3 which made the web
+pplication accessible for multiple types of browsers.
+
+Implemented user-friendly front-end pagination in JavaScript based on simple functions from Ant
+Design library.
+
+Designed users’ schema and implemented database in SQL database MYSQL.
+
+Simplified the records” structure ofthe data stored in MYSQL. database to improve the fetching
+speed.
+
+‘Adopted Node.js library mysql to manipulate database and store features of each record in
+database,
+
+Deployed database on AWS $3 for accessible management and fast storage.
+
+Implemented unit-test by building jasmine environment to ensure the functionalities ofthe
+components.
+
+‘Adopted ESLint to unify the style of coding, increase readability and maintainability of code base,
+and decrease the possiblity of bugs appearance.
+
+Used Git as source code version control and deployed the API to a server on AWS to achieve auto-
+scaling.
+
+‘Communicated with others clearly and precsely(verbally and written) within the Scrum framework to
+meet the sprint objectives,
+
+‘Managed the project development using Agile
+
+Avanade - Front End Developer
+Stamford, CT + 02/2017 - 01/2019
+Description:
+‘Worked on developing an online cient management system for the company that allowed the clients to
+signin, input information and also allowed the client managers (as the administrator) to modify and
+‘manage the client information.
+Responsibilities:
+
+‘Designed and developed a client management application for client profile management using
+Python, Vagrant, Virtual Box, Django, and Django REST Framework.
+
+Effectively implemented server-side REST APIs, including user profile service, administrator service,
+login service, and profile feed service using Python, django, django REST framework
+
+Bult user-side interface by using APIVIews, HTTPS, and CSS3.
+
+Developed and implemented front-end structure using Bootstrap to improve the development
+efficiency and make the functions easy to maintained.
+
+‘ult administrator interface by using ViewSets to implement CRUD function to the database.
+
+Used Git as source code version contralto make it accessible for other people to use.
+
+Deployed the API to a server on AWS $3 to store online and achieve auto-scaling.
+
+Implemented relational database on MYSQL with open sources and easy to access for various
+operate systems.

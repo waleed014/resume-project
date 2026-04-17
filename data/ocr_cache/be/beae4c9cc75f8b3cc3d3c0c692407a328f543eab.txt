@@ -1,0 +1,178 @@
+JESSICA
+CLAIRE
+
+© resumesampleexample.com
+& (655) 432-1000
+
+9 Montgomery street, San
+Francisco, CA 94105
+
+HIGHLIGHTS.
+
++ PLATFORM
++ LANGUAGE
+
++ DATABASE
+
++ OPERATING SYSTEM
+
++ Tools
+
+IBM Mainframe
+
+COBOL, SQL, Stored Procedures,
+put
+
+82, IMS
+
+(MyS, 05/290, 2/08
+
+ICL, RUMBA, TSO, ISPF, ROZ/
+Xpediter, File Manager, SPUFI,
+‘Autoflow, MS Office Outlook, Lotus
+Notes, SharePoint
+
+EDUCATION
+
+Polytechnic University of the
+Philippines
+
+Bachelor: Computer Data
+Processing Management
+Computer Data Processing
+Management
+
+SUMMARY
+
+Extensive mainframe experience using COBOL, PL/1, SQL, 082 Stored Procedures, JCL under MVS
+and/or 05/390 operating system. Solid demonstrated experience in System Maintenance and Full
+Project Life Cycle (Systems Analysis & Design, Program Specifications, Development, Testing, and
+Implementation). Strong leadership qualities with excellent communication skils.
+
+ACCOMPLISHMENTS.
+
++ Promoted to assume the Lead Developer role after completing my first project in a year on the
+Client sit.
+
++ Led a very huge and complex migration project to a rare defect-free production implementation,
+
++ Earned a lot of great commendations from client and business partners through unsolicited
+performance feedback.
+
+EXPERIENCE
+
+Visiting Nurse Service Of New York - Technical Consultant - Mainframe Developer
+Bronx, NY + 03/2002
+
++ Assigned to work in Client site, Statefarm Insurance's corporate office in Bloomington, ilinois
+performing the role of Lead Developer for various projects and service applications within
+Statefarmis Customer and Associate Data Management area in the systems department.
+
++ AS Lead Developer... Involved inthe review of the business and system requirements, perform
+detailed analysis and high-level system design, prepare program specifications, do onsite-offsite
+‘coordination with the development team in Troy (Mi), modify existing and develop new
+‘components, facilitate quality reviews of component codes, unit & integration test cases/results,
+provide technical assistance to other project developers, oversee the overall progress of
+development phase, closely work with business partners on any issues/risks/concerns during
+project development stage, assist in all levels of formal validation (System testing, Regression
+testing, User/Acceptance testing, Performance testing & Implementation testing), lead the project
+team in performing detailed post implementation checkout activities.
+
++ Service and Maintenance work from November 2012 to present - Maintains production stability of
+Corpcorr/Cock Tool and Client inquiry, work on problem and incident tickets, responds to user and
+business partner requests and inquiries, perform technical design specifications, coding, testing
+and implementation as part of modifications and enhancements to the applications, maintains
+proper documentation of the applications, performs ITIL and service management activities
+
+Projects worked on while in Statefarm account:
+AGT-ID to ASSOC-ID Conversion (December 2014 to present)
+
+Remove from MPD Host applications any use and reference to an Agent’s SSN/TIN due to its
+sensitivity being a Non-Public Information (NPI) data.
+
+‘canada Migration Program (CMP) Day 1 (August 2014 to December 2014)
+Separate Canadian customers from U.S. customers in preparation for State Farm tran
+Desjardin of Canada business.
+
+SFOP/AIMS Migration to Associate Register (April 2013 to August 2014)
+Changed all MPD Host applications to retrieve agent information from Associate Register (AR)
+database instead of from SFOP and AIMS.
+
+‘Accelerated Client 2.0 Project (December 2011 to October 2012)
+‘Migrated 27 regional Client Register (CR) databases into one central Master Party Detail (MPD) data
+store in HAPlex.
+
+‘Migrate FDW Publish Process to MPD (March 2011 to May 2012)
+‘Move the source of Client-to-FOW Publish process from regional Client Register to Enterprise MPD
+database.
+
+FOW Impacts of Enterprise Matching (January 2010 to April 2011)
+Enhancement of FDW's (Federated Data Warehouse) Client Integration System to accommodate
+process changes introduced by Enterprise Client Matching.
+
+Enterprise Client Matching Project (October 2009 to September 2010)
+‘Migration of regional Client Matching application to Enterprise level so the same client from ilinois
+region and from Missouri Region can be identified as one and the same customer.
+
+‘Migrate Client Register to WCC (January 2008 to September 2009)
+Developed a brand new tool that will validate the accuracy of the data in WCC after the migration
+from Client Register database.
+
+Financial Vendor Data Store (May 2006 to December 2007)
+Enhancement of the application that maintains the financial information of all Statefarm Vendors
+
+Vendor DBval Project (January 2008 to June 2006)
+Created new batch application that performs a monthly Database Validation between Statefarm’s
+Client Register and three of its vendors (Bank, Mutual Funds, and Humana)
+
+Regional Client Matching Project (August 2004 to March 2006)
+Enhanced both batch and on-line processes that determine if a newly created customer in the regional
+Client Register is already an existing client in the database.
+
+‘Auto MLO Discount Project (September 2003 to August 2004)
+Introduced a batch application that provides Auto Affiliate client details of customers having policies
+other than Auto.
+
++ Deployed in Client's (18M) Remote Development Center in St. Louis, Missouri (from April 2002 to
+‘August 2003) as Mainframe developer to join IBM's additional capacity team in developing a Claims
+Domain System for State Farm Insurance.
+
++ While with IBM.. prepared program specifications during design phase, developed new programs,
+performed unit testing, integration testing, and system testing during the Build Test Deploy (8TO)
+phase of the project.
+
+NIIT Asia Pacific Pte. Ltd - Technical Consultiant
+City « 05/2001 - 03/2002
+
++ Deployed in Client's (Singapore Airlines, Inc.) corporate office performing the role of Mainframe
+Programmer/Analyst while working on Singapore Air's Maintenance and Engineering Management
+Information System.
+
++ AS Mainframe Programmer/Analyst... analyzed required system enhancements and come up with
+solution proposals, prepared functional and program specifications for approved solution proposals,
+rogram coding in response to user requirements, resolved program abends/dumps and system
+discrepancies, provided technical support to team members in coding/debugging/'testing and
+implementation of proposed system enhancements, reviewed codes/test cases & test results for
+system enhancements and prepare QA documents.
+
+Philippine Airlines, Inc - Senior Applications Programmer
+City, Philippines « 10/1995 - 05/2001
+
++ Part of a team in-charge of maintaining the airlines’ Maintenance and Engineering Management
+Information System, an inventory material management application used by Philippine Airlines for
+all aircraft parts and non-aircraft materials.
+
++ Design and code programs in response to user requirements and special requests such as reports
+and/or dovinloadable output files, resolved program abends/dumps and system discrepancies,
+provided technical support to junior programmers during coding/debugging/testing and
+‘implementation of proposed system enhancements, coordinated with the Project Manager and
+Systems Analyst in the analysis and design of special projects and perform the coding/testing up to
+its implementation, documentation of enhancements and special projects.
+
+SKILLS
+
+‘COBOL, Communication, Conversion, Data Validation, Debugging, Documentation, IBM Mainframe,
+Bz, MVS, IMS, IMS DB, IMS DC, Insurance, Inventory, ISPF, ITIL, JCL, Leadership, Lotus Notes,
+Migration, MS Office, office, Outlook, SharePoint, 05/390, PL/, Project development, QA,
+Requirement, RUMBA, SPUFI, SQL, System design, System documentation, Systems Analyst, Technical
+support, Technical assistance, TSO, Validation, Xpediter

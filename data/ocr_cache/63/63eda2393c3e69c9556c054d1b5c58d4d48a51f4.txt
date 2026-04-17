@@ -1,0 +1,54 @@
+FIRST LAST
+
+Junior Python Developer
+New York City, NY 10000 - first.last@resumeworded.com - + 1 (212) 123-4567
+
+PROFESSIONAL EXPERIENCE
+
+RESUME WORDED — New York, NY 2020 - Present
+Junior Python Developer
+
+Developed 30 views/templates with Django language to create a user-friendly website interface.
+Built, developed, and implemented effective user interface guidelines and standards throughout
+the development and maintenance of the website using HTML, CSS, JavaScript and JQuery.
+Designed and created APIS, database model, and views utilization python to build responsive
+web page applications, acquiring a 90% responsiveness rate upon completion.
+
+Utilized AngularJS to develop the component to the application team, Spring MVC to consume
+REST APIs, and JavaScript, CSS3, and JQuery to display the data in the front end.
+
+GROWTHSI — New York, NY 2017 - 2020
+Junior Python Developer (2018 - 2020)
+
+Managed, developed, designed, and instituted a dashboard control panel for more than 100
+customers and administrators using Django, Oracle DB, PostgreSQL, and VMware API calls.
+Queried MySQL database queries from Python using Python-MySQL Connector and MySQL DB
+package to retrieve necessary information for the company, resulting in a 75% retrieval rate.
+Created and developed a wrapper in Python for instantiating a multi-threaded application.
+Implemented a login module for users, registration of the products, placing the order and
+tracking the order, resulting in a 14% increase in the overall departmental process efficiency.
+Regularly wrote Python routines to log into the websites and fetch data for selected options.
+
+Python Developer Intern (2017 - 2078)
+
+Demonstrated the capacity to design and improve robust, scalable, secure, and globalized
+web-based applications to ensure the continuity of all business processes and client satisfaction.
+Obtained adequate experience in using Python to develop 3 web-based data retrieval systems.
+Performed data entry and clerical work to complete a project, delivering it 6 days before due.
+Efficiently performed and conducted a descriptive and multivariate statistical analysis of data
+using Matlab, gaining a 95% accuracy rate in terms of statistical data interpretation and analysis.
+
+EDUCATION
+RESUME WORDED UNIVERSITY New York, NY
+Bachelor of Science in Computer Science 2013-2017
+
+ADDITIONAL INFORMATION
+
+Certifications: Resume Worded Python Certification (2012); Growthsi Python Developer
+Certification (2016)
+
+Awards & Recognition: Growthshi Employee of the Month (2018)
+
+Technical Skills / Software: Database, Python, HTML, JavaScript, JQuery, Python, CSS
+Volunteer & Community Involvement: Growthshi Volunteer Activity and Outreach Program
+(2017-2020); Resume Worded Summer Camp Fundraising (2020)

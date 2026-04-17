@@ -1,0 +1,74 @@
+PROFESSIONAL
+
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 2 (555) 432-1000 4 resumesample@example.com
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales
+professional with track record of driving increased sales, improving buying experience and elevating company
+profile with target market,
+
++ Guest services + Loss prevention
+‘+ Inventory control procedures + Cash register operations
+‘+ Merchandising expertise + Product promotions
+
+ETLIODI DEVELOPER 06/2016 to 11/2016
+
+HEALTH FITNESS(TRUST MARK) | City, STATE
+Worked with business analysts, developers, and Architects from various locations to gather requirements
+Involved in Architecture Design, Requirement Gathering, Coding and Migration processes.
+
+Installation and configuration of ODI 11.1.1.7.
+
+Installed and configured Master and Work Repositories
+
+Responsible for setting up OD! in all the environments (DEV, TST and PROD) and Maintained
+
+Maintained Topology connections in all 3 environments
+
+Configured data servers for oracle database and Sql Server and setup physical and logical models in
+topology navigator.
+
+Extracted data from different sources like SQL server, Oracle, Fox Pro to load the data in to flat files and
+oracle data ware house
+
+Reverse Engineered Source and Target Data Stores using Reverse Engineering Knowledge Modules
+Responsible for designing, developing, and testing of the ETL strategy to populate the data from various
+source systems (SQL Server & Oracle) feeds using ODI and Change Data Capture.
+
+Working on ODI Designer for designing the interfaces, defining the data stores, interfaces and packages,
+used variable and modified the ODI Knowledge Modules (RKM, LKM, IKM, CKM, JKM ) to create interfaces to
+cleanse, Load and transform the Data from Sources to Target databases, created mappings
+
+Knowledge in performing the customizations to the ODI Knowledge Modules as part of tuning the Knowledge
+Module Code based on the requirements.
+
+Used OSCommand, OdiFileAppend, OdiFileCopy, OdiDileMove, OdiFileCopy, OdiFileDelete
+
+Exportimport interfaces, packages and it's scenarios across different environments
+
+Responsible for Data Modeling and Created Logical and Physical models for staging, transition and
+Production Warehouses.
+
+Encrypted the files using PGP encryption.
+
+Configured ODI Agents on Windows server and tested them to execute and schedule ODI Scenarios
+Created load plans to run the scenarios in a hierarchy of sequential and parallel steps and Created test
+cases for end to end and rated testing of ELT Packages and Performed unit and system testing of ELT
+Packages.
+
+Good working knowledge with ODI Operator for debugging and viewing the execution details of interface and
+packages
+
+Depending on the requirements created and modified SQL and SQL Server
+
+Bachelor of Arts | Business Administration 2013
+San Francisco State University, San Francisco, CA

@@ -1,0 +1,63 @@
+ROBERT SMITH
+ETL Developer/Analyst
+
+Phone: (0123) 456.785 | Emai: inlo@quksesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+Experionced in cluster configuration sat up for Hadoop, Spark Standalone, Cassandra database.
+Experienced in processing the large volume of data using the Hadoop MapReduce, Spark
+frameworks.
+
+CORE COMPETENCIES
+
+‘Spark, Scala, SparkSql, HDFS, Sqoop, MapReduce, Hive, Pig, Cassandra, DB2, ETL
+Datawarehouse, SOL.
+
+PROFESSIONAL EXPERIENCE
+
+ETL DeveloperiAnalyst
+‘ABC Corporation - April 2010 - December 2013,
+
+Key Deliverables:
+
+* Project Finance Transiormation Program Financial Processing
+
++ Rlespansbilties Design, Develop and execute test cases fr unit and integration testing,
+
++ Hands an expariance in ETL tool Scalable Architecture Financial ReportingiSAFR) an IBM
+toa
+
+Worked on creating Extract Views, Summary Views, Copy Input Viows in SAFF ETL too
+
++ Created motadata tke Logical Records, Physical files, Logical les which are required for
+Views.
+
++ Worked on mapping the lies ofthe Views from the Source LA ol the View as per the
+‘business requirements,
+
+* Created dynamic Holds and static fields while creating a View
+
+ETL Developer
+‘ABC Corporation - April 2008 - April 2010
+
+Key Deliverables:
+
+* Noida, India Project Johinson and Johnson Respanstiliies Warking with business users
+and business analyst for requirements gathering and business analysis
+
+* Designing and customizing data models for Data warehouse supparting data trom multiple
+sources on real time;
+
++ Extacted data trom diferent lat files, MS Excel, MS Azcoss and transtormed ihe data
+‘based on user requirement using Infomatica Power Centor and loaded data into target, by
+scheduling he sessions,
+
++ Worked on Inlormatica Power Center 9.118.618, Informatica Power Exchange Cantor BS
+tool» Source Analyzer, Data Warehousing designer, Mapping, Translomation Designer
+‘and tuning of mappings tor battor portormance,
+
+‘Created reusable mappieis and Translormations staring conourrent balch procass in
+server and did backup, recovery and tuning of sessions,
+
+2959 Oak Sireet, Old Forge, New York, 13420
+(© This Exes Resume Template isthe copyright of Qwilrestume.com. Usage Guidelines

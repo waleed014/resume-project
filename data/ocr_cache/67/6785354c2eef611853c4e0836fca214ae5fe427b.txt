@@ -1,0 +1,74 @@
+Kaylin Quigley
+
+566 Leuschke Terrace, Detroit, MI # Phone: +1 (555) 354 9388
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+PRINCIPAL SOFTWARE ENGINEER DATA SCIENCE & SECURITY SECURE WORKS
+Phoenix, AZ
+05/2016 — present
+‘© Works with the team to develop, maintain, and communicate current development schedules, timelines
+and development status
+‘© Manages or utilizes software that is built and implemented as a product, using best-in-class development
+process/lifecycle management
+‘Drives innovation of new features and performance improvements
++ Participate in product development in all stages including planning, design, development, testing,
+implementation and post deployment support
++ Highly motivated and willing to work in a team environment
+‘© Lead technical direction and make technical decisions for the team
+* Good working knowledge of data modeling, SQL and PLISQL
+
+SENIOR ENGINEER, DATA SCIENCE & ANALYTICS
+‘San Francisco, CA
+07/2012 — 11/2015
+‘© Understands key business drivers and applies the knowledge of internal/external business issues to
+improve products and services
+‘+ Participates in the review of failures and provides feedback to prevent future occurrences
+‘+ Solves complex problems. Takes a broad perspective to identify innovative solutions
+‘+ Interprets internalexternal business issues and recommends complete solutions based on best practices
+and proven technologies
+‘+ Ensures that projects are properly accepted into the engineering team, worked on in a timely and efficient
+manner and smoothly transitioned into Quality Assurance and Operations teams
++ Engineering, Computer Science
+© Consistent exercise of independent judgment and discretion in matters of significance
+
+SENIOR DATA ENGINEER, DATA SCIENCE
+Houston, TX
+
+10/2009 — 01/2012
+
+‘© Define and implement best practices and development processes
+Bea key partner to data scientists on solving technical challenges
+Participate in training and mentoring of data engineers
+Design and implement systems for large-scale data analysis and machine learning
+Partner with engineering teams on deployments of data science driven solutions
+Be responsible for architecting, planning, and delivery of engineering components
+Standardize and build tools for use across the data science team
+
+‘COLUMBIA UNIVERSITY
+Bachelor's Degree in Computer Science
+
++ Flexible, adaptable, and able to autonomously manage multiple tasks in a dynamic, fast-paced
+environment
+
+Strong track record of excellence, and of delivering high quality innovative software!
+
+Strong skills for verbal & written communication targeting technical and non-technical audiences
+
+Self-motivated, passionate for technology, and strong driver for results and continual improvement
+
+Strong understanding & usage of algorithms and data structures in your designs
+
+Experience in noSQL technologies (MongoDB, CouchDB, Redis) is
+
+Expertise in SQL technologies and RDBMS (Oracle, MySQL)
+
+Exposure to "big data analysis and prediction modeling
+
+Building distributed back-end systems and/or web-development using Java and related technologies
+
+Team player - work well independently and in multi-group cross-discipline environments

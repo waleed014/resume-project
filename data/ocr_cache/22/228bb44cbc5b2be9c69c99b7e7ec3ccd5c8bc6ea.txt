@@ -1,0 +1,98 @@
+& latoria.crimaldi@gmail.com
+
+Xe (302) 289-6129
+
+9 123 Magnolia St, Jackson, MS
+39201
+
+Education
+
+Bachelor of Science in
+Database Management at
+Mississippi State University,
+MS:
+
+Sep 2017 - May 2021
+
+Relevant Coursework: Database
+Systems, Data Structures,
+
+SQL, Data Analytics, Data
+Warehousing, Data Modeling, Big
+Data Technologies, Information
+Security, Cloud Computing, and
+Web Development.
+
+Links
+
+linkedin.com/in/latoriacrimaldi
+
+Skills
+
+PostgreSQL
+
+MongoDB
+
+Microsoft SQL Server
+
+MySQL
+
+Latoria Crimaldi
+
+Database Specialist
+
+Profile
+
+Database Specialist with 2 years of experience in designing, implementing, and
+maintaining database systems. Proficient in SQL, data analysis, and optimization,
+with a strong background in data integrity and security. Adept at collaborating
+with cross-functional teams and effectively communicating technical concepts
+to non-technical stakeholders. Demonstrated ability to troubleshoot and resolve
+complex issues to ensure optimal system performance.
+
+Employment History
+Database Specialist at C Spire, MS
+
+Apr 2023 - Present
++ Successfully migrated 50+ databases to a new data center, ensuring seamless
+transition with zero downtime and reducing overall maintenance costs by 15%.
+
++ Optimized database performance by implementing advanced indexing
+strategies, resulting in a 25% improvement in query response times and
+increased productivity for end-users.
+
++ Developed and implemented a comprehensive backup and disaster recovery
+plan, which reduced the average recovery time from 8 hours to 2 hours,
+ensuring business continuity and minimal impact on operations.
+
++ Trained and mentored a team of S junior database administrators, leading
+to a 30% increase in team efficiency and streamlined database management
+processes.
+
+Junior Database Specialist at KeyStaff, MS
+Sep 2021 - Feb 2023
+
++ Implemented a new database management system across the company,
+resulting in a 20% increase in data processing efficiency and a reduction in data
+errors by 15%.
+
++ Successfully migrated and consolidated multiple legacy databases into a
+single, unified system, reducing data storage costs by 30% and improving data
+retrieval times by 25%.
+
++ Developed and delivered training programs for over 50 employees on effective
+database usage, leading to a 10% improvement in overall productivity and a
+5% reduction in data-related issues.
+
+Certificates
+
+Microsoft Certified: Azure Database Administrator Associate
+Aug 2021
+
+Oracle Database Administration 2019 Certified Professional
+Mar 2020
+
+Memberships
+International Association for Information and Data Quality (IAIDQ)
+
+Association for Computing Machinery (ACM)

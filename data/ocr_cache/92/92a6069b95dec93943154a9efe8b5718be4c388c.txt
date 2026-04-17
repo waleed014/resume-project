@@ -1,0 +1,147 @@
+PROFESSIONAL SUMMARY
+
+Well-qualified Full Stack Developer familiar with wide range of programming utilities and
+languages. Knowledgeable of backend and frontend development requirements. Handles
+any part of process with ease. Collaborative team player with excellent technical abilities
+offering 5+ years of related experience. Innovative Web Developer with 3+ years of
+experience in website design and webpage with frontend requirement. Demonstrated
+talent for front and back-end web development to optimize online presence. Seasoned
+expert in languages such as HTML, CSS as well as scripting languages Angularé and
+JavaScript. Organized and dependable candidate successful at managing multiple
+priorities with a positive attitude. Willingness to take on added responsibilities to meet
+
+team goals.
+SKILLS. WORK HISTORY
++ JavaScript programming Zoom - Java Full Stack Developer
++ Application development Pittsburgh, PA + 02/2021 - Current
+
++ HTMLS expertise
++ Agile Workflow
+
++ Flexible & Adaptable
+
++ Microsoft Office
+
++ Web development projects
++ Technical Analysis
+
++ Participated in the daily stand-up Scrums as part of Agile process for reporting day to
+day developments of the project.
+
++ Working within an agile development environment with other developers and product
+‘owners to scope, develop and deliver world-class software solutions.
+
++ Building easy to use, good-looking web UI or the corresponding REST API backend.
+
++ Implementing automated tests to support Continuous Integration and Continuous
+
++ JDBC/MySQL Delivery to production.
+. ue sServlets + Extensive programming experience in Java and REST APIs.
+
++ Working knowledge of SQL DB technologies.
+
++ Developed automation, build/deploy software.
+
++ Delivered performance-driven and user-centric websites that met all business
+requirements.
+
++ Conceived and built optimized landing pages in HTML and CSS for integration and
+cross-browser compatibility.
+
++ Completed full redesigns of existing websites to improve navigation, enhance visuals
+and strengthen search engine rankings.
+
++ Reviewed code, debugged problems and corrected issues.
+
++ Jenkins Cl/CD
+
+EDUCATION
+
+Regis University
+
+Denver
+
+No Degree: Management
+
+Information Systems
+Zoom - Java Full Stack Developer
+
+(Meena) Becie  GIES Atlanta, GA + 03/2019 - 02/2021
+
+Sunawal + 06/2011
+
+BBA + Involved in all phases of Software Development Life Cycle (SDLC) including requirement
+
+analysis, development, and testing of the project.
+
++ Participated in the daily stand-up Scrums as part of Agile process for reporting day to
+day developments of the project.
+
++ Involved in writing Controller Classes, Manager Classes and DAO Classes using Spring
+MVC Framework.
+
++ Responsible for creating efficient design and developing User Interaction screens using
+HTMLS, CSS3, JavaScript, Angular and Bootstrap.
+
++ Implemented spring configuration files for the beans defined and properties to be
+injected into them using Spring Dependency Injection.
+
++ Implemented the application using Spring IOC, Spring MVC Framework, Spring Batch
+and Spring Boot and handled the security using Spring Security and Involved in writing
+Thread Safe blocks for multithread transactions.
+
++ Developed the RESTful web services using Spring IOC to provide user a way to run the
+job and generate daily status report.
+
++ Wrote Stored Procedures in MySQL for backend to update business logic over a set of
+scheduled timers.
+
++ Used Views and Functions at the Oracle database end.
+
++ Setup the CI/CD in Jenkins BrewMaster instance that reduces the time for the
+deployment of Microservices.
+
++ Used JIRA to add tasks to the given user stories and adds defects during Iteration.
+
++ Used Eclipse/Intelij IDE to write the code and debug application using separate log
+files.
+
++ Handled final builds, deployments and management using Maven to customize EAR,
+WAR and JAR files and the application is deployed on WebLogic server.
+
++ Developed JUnit test cases for testing the application.
+
++ Managed development milestones from initial steps through final detivery.
+
++ Consulted with engineering team members to determine system loads and develop
+improvement plans.
+
+Zoom - Java Full Stack Developer
+Overland Park, KS + 06/2016 - 02/2019
+
++ Developed UI using Angular 6, HTMLS, JavaScript and developed Business Logic and
+Interfacing components using Business Objects, XML.
+
++ Implemented nested views and routing using Angular UI Router as per the
+requirement.
+
++ GUI was developed using JSP, HTML, and AngularJS and created reusable components
+in AngularJS using Custom Directives Filters, Services and Partials and Built responsive
+site using Bootstrap that fits devices of different visual sizes.
+
++ Developed the application using Spring (MVC) Framework that helps in separating the
+business logic, presentation logic and navigation logic.
+
++ Developed the persistence layer by using Hibernate ORM frame work, defining entities
+through annotations.
+
++ Used JSON as response type in REST services.
+
++ Used JDBC to interact with DB and perform DB operations and involved in writing SQL
+queries to be executed in SQL Server database.
+
++ Create single page project using Angular framework to achieve MVC pattern with
+routing pages, custom directives and angular API.
+
++ Used JIRA tracking tool to manage and track the issues reported by QA and prioritize
+and act based on the severity.

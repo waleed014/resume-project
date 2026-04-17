@@ -1,0 +1,63 @@
+ROBERT SMITH
+
+Python Developer/Tester
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+Technology and business visionary with 3+ years of Software Engineering Experience
+In Analysis, Designing, Developing, Testing, Automation, Customization, Bug fixes,
+Enhancement and Implementing of various stand-alone and client-server architecture
+based enterprise applications. Experience in Object Oriented Analysis in developing
+Server side and front-end framework using various design patterns
+
+EXPERIENCE
+
+Python Developer/Tester
+‘Solar Turbines Inc - FEBRUARY 2015 - PRESENT
+
+Automated moving the tests from production to staging and staging
+to production by reading the keywords from NVbugs
+
+Consumed APIS and used Python requests to read json reports and
+file automatic bugs in the NVbugs (nvidias internal bug filing/tracking
+system) for intermittent tests,
+
+Designed and configured database and backend applications and
+programs
+
+Developed, tested and debugged software tools utilized by clients
+and intemal customers,
+
+Experienced in designing test plans and test cases, verifying and
+validating web based applications.
+
+Used test driven approach for developing the application and
+Implemented the unit tests using Python unit test framework.
+Experience in reviewing Python code for running the troubleshooting
+test-cases and bug issues,
+
+Python Developer
+ABC Corporation - APR 2010 - FEB 2015
+
+Used ajax and jquery for transmitting son data objects between
+frontend and controllers.
+
+Djange framework that was used in developing web applications to
+Implement the model view control architecture.
+
+Having experienced in agile methodologies, scrum stories and sprints
+experience in a pythan based environment.
+
+Utilized standard python modules auch as csv, robotparser, itertoals
+‘and pickle for development.
+
+Developed and tested many features for dashboard, created using
+bootstrap, css, and javascript
+
+Worked on front end frame works like css bootstrap for responsive
+webpages.
+
+Collaborated with internal teams to convert end user feedback into
+meaningful and improved solutions.
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

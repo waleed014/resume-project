@@ -1,0 +1,61 @@
+CHARLEY FEENEY
+
+4607 ROBERTS ALLEY, DETROIT, MI
+
+PHONE
++1 (555) 218 1191
+
+EXPERIENCE TILLMAN AND SONS 07/2020 — present
+Dallas, TX // Senior Informatica ETL Developer
+
+¢ Developing and designing the ETL process for the program
+
+¢ Designing and developing the ETL mappings based on existing database logic
+
+¢ Monitor System performance, data integrity, and design and enhance data quality
+improvement process
+
+¢ Ensuring the integrity of project data, including data extraction, storage, manipulation,
+processing and analysis
+
+¢ Attending and speaking in Scrum meetings
+
+¢ Experience producing data mappings documentation and technical specifications
+
+¢ Hands on experience with Data Warehouses, ETL, Informatica, PL/SQL, SQL data load scripts
+and SQL data loader
+
+MOEN, BOYLE AND ROOB 01/2017 — 01/2020
+Dallas, TX // Informatica / ETL Developer
+
+¢ Experience developing within an agile
+
+¢ Strong soft skills
+
+¢ Experience working in a matrixed environment on a fast-paced project
+
+¢ Healthcare domain knowledge, particularly with clinical data structures and Medicaid,
+
+Medicare, and commercial payer data
+
+¢ Knowledge in SNP plans/ business
+
+¢ Data modeling experience with ERWin
+
+¢ Coordinating with offshore team
+
+¢ Architecture tasks including data models, reverse engineering, and performance optimization
+
+EDUCATION PRATT INSTITUTE
+Bachelor's in Computer Science
+
+SKILLS ¢ Current code repositories utilized by organization
+¢ Applying software development knowledge to the current IT environment
+¢ Support Technical Lead and Offshore team with the Informatica 10.2 to 10.4.1 initiative for 63
+mnemonics
+¢ Advise on the application of standards/methodology practices to the project
+Collaborate with the Data Architect to understand, interpret, and implement complex data
+integration requirements
+¢ Experience in KORN shell scripting
+¢ Strong skills in Identifying and analysing business requirements, translating requirements to
+technical specifications

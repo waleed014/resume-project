@@ -1,0 +1,128 @@
+First Last
+
+Cloud DevOps Engineer
+
+DevOps Engineer with 9+ years of experience building, testing, and maintaining
+infrastructures and tools to allow for the speedy development and release of the software.
+Key accomplishments include:
+
+- Reduced power and rack utilization by spearheading a software upgrade that improved IT
+processes.
+
+- Implemented a virtualization technique using OpenVZ/KVM, reducing Physical Nodes
+from 60 to 6.
+
+- Led a significant migration project of the company’s key data science pipelines to the
+cloud (AWS), saving $50,000 in yearly infrastructure costs.
+
+WORK EXPERIENCE
+
+Resume Worded, New York, NY
+
+Cloud DevOps Engineer 07/2019 — Present
+e Delivered resiliency as a comprehensive product within 5 Cloud
+Infrastructures.
+
+e Gained deeper insight into 17 applications and infrastructure behavior
+with monitoring and observability.
+
+e Participated in RW Admin duties for the RW main workspace with
+76K users.
+
+e Implemented build and deployment scripts using Maven as build
+tools in Jenkins to move from one environment to 25 other
+environments.
+
+Growthsi, San Francisco, CA
+Systems Administrator and Software Engineer 05/2017 - 10/2019
+
+e Increased IT support from 35 workstations and servers to over 115
+devices.
+
+e Built 2 internal billing and rating software in ASP.NET and Oracle.
+
+e Managed the integration of 20 IT infrastructures through company
+acquisition.
+
+e Worked with 20 carriers and resolved DTMF truncation problems.
+
+Resume Worded’s Exciting Company, New York, NY
+IT Consultant 08/2012 - 01/2015
+
+e Developed 10 virtual appliances for 5 developers to use locally which
+decreased iteration times.
+
+e Converted 98 ExpressionEngine websites to WordPress, drastically
+reducing maintenance costs.
+
+e Reduced infrastructure costs by optimizing 74 websites and servers
+to contain increased loads by setting up load balancing with Apache.
+
+e Built 36 WordPress-based websites.
+
+CONTACT
+
++ Denver, OH (Open to Remote)
++ +1-234-456-789
+
++ email@resumeworded.com
+
++ linkedin.com/in/username
+
++ github.com/resumeworded
+
+SKILLS
+
+Data Visualization/Engineering:
+
++ Weblogic Middleware (Advanced)
++ Jenkins CICD (Experienced)
+
++ Splunk automation
+
++ Shell/Bash/Python Scripting
+
++ Ansible automation
+
+Techniques:
+
++ Automated Weblogic Monitoring
++ Monitoring Shell/Bash/Python
+Scripting.
+
+Tools and Frameworks:
++ Java Script
+
++ CloudFormation
+
++ Windows PowerShell
++ Terraform
+
++ Git
+
++ Don't forget to use Resume
+Worded to scan your resume
+before you send it off (it's free and
+proven to get you more jobs)
+
+EDUCATION
+
+Resume Worded University
+Bachelor of Engineering
+
+Major in Computer Science
+
+Minors in Mathematics and Statistics
+Boston, MA — 05/2017
+
+Awards: Resume Worded Teaching
+Fellow (only 5 awarded to class), Dean's
+List 2012 (Top 10%)
+
+OTHER
+
++ ITIL in IT Service Management
++ Elastix Certified Engineer.
+
++ Microsoft Certified Solutions
+Associate.

@@ -1,0 +1,76 @@
+Daniela Cummerata
+71161 Daugherty Court, Philadelphia, PA @ Phone: +1 (555) 681 1137
+
+EXPERIENCE SENIOR C++ / JAVA ALGO DEVELOPER
+
+Houston, TX
+
+03/2016 — present
+
+‘* Technically Specify, Develop, Test and Maintain front office trading and order management systems for
+
+Equity desk
+Development enhancement of algorithms (C++) : specs, coding, testing and enhancement
+Status tracking and reporting on development progress
+Development of OMS GUI (Java) : specs, coding, testing and enhancement
+‘Work closely with internal IT staff for support and enhancing the systems
+Development of new features for Equity trading (C++, Java and SQL)
+First level developments (PERL, SQL and VBA): Customer report, feeds to other systems, internal
+reporting
+
+SENIOR KANA/ JAVA DEVELOPER
+‘Chicago, IL
+04/2011 — 09/2015
+‘+ Troubleshoot and resolve technical problems in timely and accurate manner to improve application
+performance and functionality
+Codes, tests, and debugs new software or makes enhancements to existing software
+Develop and implement strategies for migration, consolidation and upgrade of system components
+Develops technical documentation such as design documents
+‘Work with business application owners to resolve problems and suggest enhancements
+Influences and sometimes leads system design
+Analyze, debug and fix reported issues
+
+SENIOR FULLSTACK JAVA DEVELOPER
+
+‘New York, NY
+07/2008 — 02/2011
+
+‘© Execute in a multi-disciplined environment in tight collaboration with other engineering teams, QA,
+product management, and technical writers
+
+‘© Execute in a multi-disciplined environment in tight collaboration with other engineering teams, QA, OPS,
+
+product management, and technical writers
+
+Software design and development of both front-end and back-end modules
+
+Perform peer code review
+
+Providing intuitive, self-service interface for managing configuration details
+
+Design and develop web based applications which will be utilized by Akamai’s customers
+
+Follow and improve coding standards
+
+EDUCATION — DUKE UNIVERSITY
+Bachelor's Degree in Computer Science
+
+SKILLS + Partnering with product owners, project architect and other team members to drive high-quality, on-time
+deliverables
+
+Ability to work in a team-environment
+
+Ability to work under pressure and take ownership of issues
+
+Excellent analytical and problem-solving skills
+
+Knowledge of JUnit, Spring Unit (or similar) is a big
+
+Design and implement AngularIS based Web Applications
+
+Follow and improve coding standards
+
+Perform peer code review
+
+5+ years of extensive experience with Java/Spring architecture design and development
+Experience with multi-tier application architecture and design

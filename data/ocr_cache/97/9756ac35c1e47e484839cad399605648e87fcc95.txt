@@ -1,0 +1,68 @@
+Your Company Name
+ETL Developer
+
+About us :
+
+write a short paragraph about your company, Make sure to provide details about the company culture,
+perks, benefits and everything else that makes y npany interesting.
+
+ETL Developer Job Brief:
+
+We are seeking an experienced ETL Developer to join our team. The ideal candidate will have a strong
+background in data warehousing and ETL development using Informatica PowerCenter. In this role, you
+will be responsible for working with business and technical teams to understand data requirements,
+designing and developing high-performance ETL solutions to load data into our data warehouse, and
+supporting the ongoing maintenance and improvement of our ETL processes.
+
+The successful candidate will be a self-starter with a passion for data and for delivering quality
+solutions that meet the needs of our business.
+
+ETL Developer Job Responsibilities :
+
+Mentioned below are the major roles and responsibilities of an ETL Developer:
+
+Designing and developing ETL solutions
+
+Identifying data sources and setting up extraction processes
+
+Transforming and cleaning data according to the business needs
+
+Loading data into the data warehouse
+
+Updating existing ETL jobs as per changing requirements
+
+Monitoring ETL jobs and troubleshooting issues
+
+Optimizing ETL processes for improved performance
+
+Working closely with other teams such as Data Warehouse, BI, and Development team
+Provide maintenance and support for the existing ETL jobs
+
+ETL Developer Job Requirements :
+
+The most crucial requirements of an ETL Developer are as follows:
+
+Bachelor's degree in information technology, computer science, or related field;
+3+ years of experience in ETL development and data warehousing;
+
+Strong experience with SQL and relational databases (e.g., Oracle, Teradata, DB2);
+Experience with ETL tools such as Informatica, DataStage, or SSIS;
+
+Experience with Big Data platforms such as Hadoop, Hive, or Spark;
+
+Excellent problem solving and troubleshooting skills;
+
+Excellent project management abilities;
+
+Capability to assess a firm's big-picture data requirements;
+
+Ability to communicate clearly and effectively.
+
+An experienced ETL Developer will have a strong understanding of data modeling, data cleansing and
+data transformation techniques. They will be able to design and develop ETL processes to load data
+into a target database while maintaining the integrity of the data. In addition, they will be responsible
+for developing and supporting documentation for all ETL processes.
+
+Moreover, the most successful ETL Developers will possess strong technical skills, as well as excellent
+communication and interpersonal skills. They are detail-oriented and have the ability to think critically
+in order to solve complex problems.

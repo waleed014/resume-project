@@ -1,0 +1,62 @@
+Robert Smith hone (128) 456 7899
+
+Email Infocawikeesume,com
+Website wont, quikresuime, com
+
+dr. Java Developer Unkedln: tinkedin.com/qwikresume
+‘Address; 1737 Marshullle Road, Alabarna
+
+SUMMARY
+
+Jt Java Developer 3+ years of experience in developing web-based enterprise applications using
+{BEE technologies such as Hibernate, Spring, Struts, Multithreading, EIB, JDBC, |SP, TAGLIB,
+Servlets, JMS, JPA, TA, Ajax, Maven, Ant, Web Services, REST (JAX-RS), SOAP (JAX-WS) and WSDL,
+Experience in development and technical support of Javall2EE applications for Financlal Services,
+Insurance, Banking, E-Commerce, Telecom, and Health Care Domains,
+
+SKILLS
+
+Spring (MVC, Context, ORM, JOBC, JMS, Webservices, Transactions), Hibernate, Struts, JDBC,
+Servlets, /SP, JSF, EJB, |STL, JNDI, SOAP, REST JAXP, JAX-WS, JAX-RS, XML, XSD. XSLT, JSON, DOM
+Parser, SAX, SOAPUI
+
+WORK EXPERIENCE
+
+Jn. Java Developer
+
+‘ABC Corporation -June 2016 - Present
+Working with a small team In enhancing the Jbehave framework using Java for the adoptabilty
+tothe current project for creating the test ervironment.
+Implemented java and 2EE desian patterns tke singleton, business delegate and data
+tronsfer abject and data access object.
+
++ Wrote SPA (Single Page Web Applications) using restful web services plus Ajax and Angulais
+Developed web services component using SOAP and restful API for inter-application
+Cornnuiication,
+
+Designed and developed business and persistence layer components using Spring {OC and
+hibernate
+
+Extensively worked on Venter with virtualization exposure in developing the functionalities
+felated to the application through CLI and API
+
+Developed a private assembly forthe component promotion withthe Kubernetes setup.
+
+Back-End Java Developer
+
+‘ABC Corporation - December 2015 - june 2016
+‘Analyzed the requirements and designed class diagrams; sequence diagrams using UML and
+prepared high-level technical docurnents
+Besigned and developed to upload gigabyte files to product licensing and delivery system,
+Designed and developed muiiple files concurrently using muiththreaded executor service
+framework.
+Developed web applications using restful web services plus Ajax and Angulars,
+Developed web services component using soap and restful API for Inter-application
+cornmunication.
+Established connections with other applications by using ActiveMQ with JMS.
+Designed and developed business and persistence layer components using Spring {OC and
+hibernate
+
+EDUCATION
+
+(0 Ths Fre Resume Templat the copy of Qiks cor. sgn Guba

@@ -1,0 +1,140 @@
+Travis Hernandez
+Junior DevOps Engineer
+9 San Fransisco, CA
+
+@ travis.hernandez@gmail.com
+
+SUMMARY
+
+Junior DevOps Engineer with strong knowledge in Java, JS and
+Python. Well-acquainted with databases and cloud services as well
+as Docket and Kubernetes. Currently maintaining a 40-node
+Elasti¢Search cluster that collects 1 billion documents daily.
+
+EDUCATION
+
+B.S. Computer Science GPA
+
+UC Berkeley
+ff 2012-2018 9 Berkeley, CA
+
+38/40
+
+EXPERIENCE
+
+Junior DevOps Engineer
+
+Dufour
+
+8 2019 -ongcing San Fransisco, CA
+
+Dufour is an American software company that develops financial and tax
+
+preparation software dnd related services for small businesses, accountants
+
+and individuals.
+
++ Maintaining a 40-node ElasticSearch cluster that collects 1 billion
+documents dally
+
+* Contributed in setting up monitoring and reports for all of our clients - 40,
+servers
+
++ Launched a company-wide digitized fling system that ted to an inerease in
+efficieney for all departments by 20% on average
+
++ Setting up the Gi/CD pipeline using Jenkins and GitHub
+
+Middleware Administrator
+
+Heller
+
+4 2018-2019 San Fransiéco, CA
+
+Heller is the personal, small business and commercial banking operation af the
+
+Toronto-Dominion Bank in Canada
+
++ Performance tuning of Java Virtual Machine (JVM), Application Server
+Tuning, Monitoring
+
++ Administer Java based external facing websites and ensure availabilty and
+stability of online web applications
+
++ Configured web server definitions in Admin Console for remote
+management
+
++ Created and managed aver 200+ CI/CD pipelines for deployments on
+Apache servers
+
+TRAINING / COURSES
+
+AWS Cloud Practitioner
+Essentials
+AWS, 50% complete
+
+Introduction to Information
+Security
+NYU via edX, 2020
+
+DevOps Culture and Mindset
+UC Davis via Coursera, 2018
+
+Scientific Computing with
+Python
+freeCodeCamp, 2016
+
+wwwenhancy.com
+
+& github.o/travis hernandez
+
+SKILLS
+
+Programming
+
+Python | | JavaScript | | Java |
+
+Databases & Cloud Services
+Mysat | | Postgresai | | MongoDB
+
+Frade | [apace |
+
+Tools
+“Docker | | Kubernetes | | Ansible |
+
+Puppet |
+
+Development
+
+top | | eveo | | cir | | Jenkins |
+
+CERTIFICATION
+
+MySQL Certified Implementation
+Specialist
+Orale University, 2020
+
+Certified Associate in Python
+Programming
+Python Institute, 2017
+
+STRENGTHS
+
+@ FagertoLearn
+
+As someone who is just starting out, |am
+really enthusiastic about learning
+anything that would benefit both me and
+the company | am working for.
+
+@ Communication skills
+
+Open-minded, outgoing and patient in
+conversations with others.
+
+© Flexability/Organisational skills
+
+Able to work overtime and take extra
+shifts
+
+Powered by CX? Enhoncu

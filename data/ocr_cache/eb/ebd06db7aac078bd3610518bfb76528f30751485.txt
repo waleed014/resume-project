@@ -1,0 +1,98 @@
+Robert Smith
+
+Data Scientist Trainee
+
+PERSONAL STATEMENT
+“o obtain a position as a Data Architect ina collaborative environment
+ttiizing my creativity and technical skill. The position must demand a high
+degree of self-motivation and the abilty to dtive data- centric solutions for
+complex business problems. | most enjoy solving problems that require my
+data modeling, analytics, and solution archkecture expertise,
+
+WORK EXPERIENCE
+
+Data Scientist Trainee
+ABC Corporation - March 2014 - April 2016
+Fesponsibilties:
+
++ Business Opportunity Network Kinetix provides Business Assurance and
+Revenue solutions ta mobile carriers, enabling namintrusive access to
+live network trafic for immediate analysis, decisions, and action on
+revenve-impacting events,
+
+‘Examples include Fraud Detection (International Revenue Shering
+Fraud, Identity Fraud, SIM Bax By-Pass Fraud), 911 Outage, Network
+Operations, and Customer Experience.
+
++ My Contributions Model complex mobile carrier problems through using
+statistical, algorithmic, mining, and visualization techniques.
+
++ Produce operable insights using supervised and unsupervised machine
+learning
+
+Integrate live data from multiple network protocol,
+
++ Create live data analytics applications that make data-driven decisions
+fon each event as it enters the data pipeline based on rules discovered
+through machine learning
+
++ Deployed on the HP Helion Public Cloud demonstrating a scalable cloud
+version of network data analytics application,
+
+Data Scientist
+‘ABC Corporation - 2012 - 2014
+Fe sponsibisties:
+
++ Worked on, multiple projects to leverage statistical learning/machine
+learning algorithms to automate Alternate Asset Servicing
+
++ The automation helped NT to reduce errors and improve operational
+efficiency.
+
++ Further, developed al reports that provided predictive analytics &
+Reporting with dashboards on analyst perforrnance, client activity,
+future workload & anomalies based on data collected from discrete
+‘applications.
+
+* Defined Project Scope, project Charter & Business Case Prototype
+machine learning algorithm for POC (Proof Of Concept) Performed Data
+Cleaning, features scaling, features engineering, Developed predictive
+models for use In machine learning platform using the scikitlearn
+python framework Improved statistical models using learning curves,
+parameter curves, feature selection, and regularization,
+
+‘+ Perforrned ad-hoc data analysis for customer insights using hlve on
+(© Ths Ema Resuine Tamla i the copynght of Qukesure cor. Usage Gulden
+
+CONTACT DETAILS
+
+1737 Marstullla Road,
+Alabama
+(123)-456-7890
+Infoesquikresume.com
+wwweqwikresume.com
+
+‘SKILLS
+
+Data Architecture, Data
+Modeling, Big Data, SQL.
+
+LANGUAGES
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Cacking
+Reading
+
+REFERENCES:
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

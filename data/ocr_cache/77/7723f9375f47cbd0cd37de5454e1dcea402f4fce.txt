@@ -1,0 +1,186 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+LANGUAGES:
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor (555) 432-1000 4 resumesample@example.com
+
+> Organized and motivated employee eager to apply time management and organizational skils in various.
+
+‘environments. Seeking opportunities to expand skis while faciitating company growth,
+
+“+ Best Practices and Standards + Good Work Ete
+‘+ Collaborative Team Player + Relable & Trustworthy
+‘SAP CONSULTANT 10/2022 to CURRENT
+
+‘Scadea Solutions inc | Waltham, MA
+
+‘+ Participated in discovery, design and deliver phases of a projec implementation
+
+‘+ Involved in an ECC implementation and mainly supporting the Project system and SD module.
+
+‘+ Created PPT document with screenshots/screens to assist the Business users vith PS scenarios such
+2 Single company code, Cros company and Change order scenarios from how to master data,
+transactional data and month end activites
+
+‘+ Experience with creating a project wth upload project structure template, creating Project order and UC
+Corder, upload Cost plan and Timesheet, run RA and settlement
+
+‘+ Provided 1:1 traning sessions with the PS Business users to make sure they are comfortable executing
+allthe steps in SAP ECC
+
+‘+ Organizes training sessions wth PS Stakeholders to go over various scenarios in ECC
+
+‘+ Participated in SIT, taking screenshots as test evidences and while implementation team ran the
+scenarios n the system. Documented the test results, detects, RICEF and expected resus.
+
+‘+ Altended workshops and several meetings withthe Stakeholders to understand their AS IS and all
+business requirements gathering
+
+‘+ Created PR, PO, GR, IR In ARIBA and displayed the replication in ECC and CFIN,
+
+‘+ Tested scenarios based on tne provided test script for PS and SO
+
+‘+ Experience in Vendor data cleansing from GP toa format accepted in ECC
+
+‘+ Also have some experience with SAP S4HANA CLOUD
+
+‘S40 FICO CONSULTANT 05/2024 to 10/2022
+‘Nimbl Worldwide Ine | Denver, CO
+
+Responsibilities
+
+‘+ “Extensive experience in enhancements, configuration and testing of FUCO modules General Ledger
+(GL), Account Payable (AP), Account Receivable (AR), Asset Accounting (AA) Cost Center Accounting
+(CO-CCA), Proft Center Accounting, internal Orders (VO), Product costing and Proftabiity Analysis
+(COPA),
+
+‘+ Configuring areas of AP ( Account Payable) - house banks, automatic payment program, etc, and
+areas of AR ( Account Receivable) — dunning, Interest Calculation, and Creatt Management (FAR)
+
+‘+ Design APP program with various payment methods and bank fles. Configuration of Bank accounting
+Responsible for creation of house banks and configuring Payment Program withthe related bank
+‘accounting sub module transaction
+
+‘+ Design EBS and improve EBS operation wth Search Strings,
+
+‘+ Configure Lockbox fie for US Cash Applications and enhance automation withthe bank.
+
+‘+ Design Asset Accounting and configured Chart of Depreciation, ledgers asset class, and met all
+Integration with mn
+
+‘+ Design Standard Costing, cost component structure, costing variant and sheet
+
+‘+ Integration of F with MM ang SO with Procure to Pay and Order to cash Cycles. Testing of ful OTC and
+2P process.
+
+‘+ Implement Concur and Arita using PUPO interface with SAP.
+
+‘+ Set up global template and designed Chart of accounts, Profit Center and Cost Center Hierarchy,
+Foreign Currency Valuations, Document spilting and financial statements
+
+‘+ Experience witn Tax configuration in sap and integration with Vertex
+
+‘© Involvement in Montn end closing activities
+
+‘+ Gather user's business requirements, identited and defined areas for improvements, prepared
+spectications for development, and configuration for systems users.
+
+‘+ Organize workshops with Business Process Owners and Key users to understand the current business
+process and design the future business process.
+
+‘+ Assist in Blueprints (Requirement Analysis and Process, Realzation (configuration, testing, and
+Production support handover), Goulve, production system bull, and final QA testing), and Post Go-
+Live Support
+
+‘+ Preparation of BRD, and FSD. Have good experience in writing FSD to generate new reports and
+Provide tables or data for ABAP programmers as per Clients request
+
+‘+ Experience in GAP Analysis. and identiying what RICEFW objects tof the gap.
+
+‘© Knowledge transfer to the Business and internal
+
+‘+ Experience in leading offshore and onshore team
+SAO FICO CONSULTANT 06/2018 to 03/2024
+NimbI Worldwide Ine | Granada, MN
+Responsibilities,
+
+‘+ Configured and customized FI submodules (AP, AR. AA, BA). Also have hands on experience with
+
+creating Material master, Cost and Proft Center Accounting, Product Costing and cost bsed COPA
+
+‘Configured Automatic Account Determination, an integration points between Fl, Ml, and SD. Worked
+‘on business processes like Order to cash, Procute o pay, Plan to produce, Record2Report in S/
+AHANA.
+
+‘+ Worked with 3rd party applications tke Ariba, Concur, open text VIM and Vertex(tax Integration wth
+‘SAP. Also experienced with interfaces ike IDOC, ED! and RFC.
+
+‘+ Worked on automatic clearing and setting up payment methods ike ACH, EBS and Lockbox.
+
+‘+ Familiar with the varius migration tools LSMW and Migration Cockpit and also with Winshuttle for
+‘automation of sales orders.
+
+‘+1 fullife cycle implementation using Activate methodology/Agile from the business requirement
+gathering to testing, hypercare and end user training, Provided knowledge transfer to team personne!
+‘while assisting wth daily production support
+
+‘+ Prepared Business Blueprint delveries, BRO, and FSD. Have good experience in wring FSO to
+generate new reports to ABAP programmers. Hands on experience vith RICEFW objects for
+Ennancements
+
++ Collaborative work wth other Key consultants using Agile and Activate Methodology for Project
+Implementation in S/4HANA
+
+“+ Worked with onshore team and led offshore team on clear project deliverables and timelines,
+
+‘+ Good knowledge in GAAP/IFRS Compliance and Reporting, statement analysis and accounting.
+\JRCICO CONSULTANT 04/2017 to 0472018
+‘JePenney | City, STATE
+Responsibilities
+
+‘+ Designed FICO components: GL. AP, AR AA, CCA, PCA, 10, PC.
+
+‘+ Configured chart of accounts, account groups, fleld status groups, and posting keys, assigned these
+variants to company codes, created GL Master records, reconcilation accounts for sub-ledgers,
+document types, number ranges, voices and payment, tolerance groups, automatic account
+assignments, GL display (ine item layouts, special elds, sort variants, totals variants) and financial
+statement version
+
+‘+ Supported the FI module
+
+‘+ Experienced with worktlow from the creation of sales order to delivery and biling in the SD module that
+involves the OTC cycle, and PTP process. Also worked on account determinations in FSD, FMM
+transactions
+
+‘CLCENT SUPPORT SPECIALISTIEND USER 06/2014 to 04/2017
+JoPenney| City, STATE
+Responsibilities
+
+‘+ Processed Customer payments, post invoices, collections
+
+‘+ Created purchase orders, good receipt, sales order etc
+
+‘+ Incharge of processing refunds
+
+‘+ Generated routine reports like monthly reportstweekty reports
+
+‘+ Supported employees with advanced troubleshooting on helpdesk tickets
+
+‘+ Supported customers with ontine biing, access and account issues,
+
+‘+ Delivered nigh evel of service to cients in effort to build upon relationships for future.
+
+Bachelor of arts 127013
+University of Buea, Cameroon,
+
+English French
+Negotiated Negotiated

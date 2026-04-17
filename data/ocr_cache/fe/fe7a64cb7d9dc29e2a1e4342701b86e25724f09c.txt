@@ -1,0 +1,68 @@
+ea
+=
+
+Hugh Newman
+
+NET DEVELOPER
+
+[1 email@email.com Q 1515 Pacific Ave, Los Angeles, CA 90291, United States & (641) 754-3010
+
+Details
+Driving license Nationality
+Full American
+
+Place of birth
+San Antonio
+
+Profile
+
+An experienced .NET Developer with a solid work tenure in a wide range of .NET development aspects
+for business applications. Highly adept in all development stages, from initial analysis through design,
+prototyping, implementation, and execution. Extensive coding experience using ASP.NET 2.0, VB.NET, HTML,
+and XML. Currently completing a Master’s Degree in Software Development and Machine Learning.
+
+Employment History
+
+-NET Developer, SGA Courier Services, Devonport
+
+January 2019 — Present
+
+Implemented a smoothing functionality into a client CAD tool improving UX (User Experience) scores by
+38%
+
++ Extracting core use cases from requirement specifications
+
+* Building end to end applications by using entity framework coding workflow to build models
++ Use ASP.NET Web API to build RESTful API's
+
+* Creating visually appealing user interfaces with CSS
+
+* Improve application usability and tweak security features on vulnerable software
+
+* Create robust, clean, and maintainable code
+
++ Refracting and use TFS to create code versions
+
+* Implementing decoupled and clean architecture for applications
+
++ Writing unit and integration tests and automate them
+
++ Assisting in developing software solutions for mobile customers
+
+* Developing, designing, testing, maintaining, and supporting web applications for clients
+
+-NET Developer, PNG Financial Services Group, Jackson
+
+January 2016 — December 2018
+
+Achieved a 99% client satisfaction score for 20 maintenance projects completed on various .NET websites
+by utilizing ASP.NET MVC, jQuery, HTML, and CSS.
+
++ Analyzing customer requirements and create applications accordingly
+
++ Evaluating and researching technologies and products related to software development
+
++ Developing the activities and procedures required to create system architecture and user-end
+applications
+
++ Use .Net web frameworks coupled with C# during development activities

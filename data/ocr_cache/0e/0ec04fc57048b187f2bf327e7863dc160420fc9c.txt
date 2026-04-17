@@ -1,0 +1,72 @@
+Jennifer Davis
+
+557 Margot Lock, Los Angeles, CA # Phone: +1 (555) 556 4110
+
+EXPERIENCE SOFTWARE QA TEST ENGINEER
+
+Phoenix, AZ
+
+07/2014 — present
+
+‘© Working knowledge of WiFi and networking technologies
+
+Manage towards results, by process, with facts and with continuous process improvement in mind
+Work with the development team to troubleshoot and resolve issues
+Solid knowledge of Operating Systems and networking
+Assist business users in defining User Acceptance Testing, test cases and plans
+Develop detailed test plans
+Provide detailed test reports
+
+QA/ TEST ENGINEER
+Dallas, TX
+07/2008 — 05/2014
+‘© Design, develop, execute and maintain automated test scripts
+Log defects into bug tracking system and provide necessary defect reports,
+Behaviour Driven Development (Cucumber)
+Automated test frameworks (Selenium, Appium)
+Use of test management and automated test tools
+2+ years of commercial Java software development
+Provide reports on test progress, test results, and other relevant information
+
+QA TEST ENGINEER
+‘San Francisco, CA
+05/2004 — 03/2008
+
+‘© Work with QA/Testing staff, project managers, technical leads, and subject matter experts to plan and
+
+execute automated and performance tests
+
+‘* Review the work of other team members and provide assistance as directed
+
++ Research and identify root causes of performance issues in partnership with architects, developers, and
+network and system a
+Focus on writing automation scripts on Big Data platform using Hortonworks framework
+Help develop tools and methodologies to improve the effectiveness of our testingactivities
+Collaborate with development and cross functional teams to troubleshoot and perform root cause analysis
+Interface with the internal development teams and 3rd party development teams for design, testing, and
+deployment of new features
+
+EDUCATION —_ LOYOLA UNIVERSITY CHICAGO
+Bachelor's Degree in Computer Science
+
+SKILLS * Working knowledge of AWS. Ability to create and tear down test instances, etc Search Jobs US
+
+‘* Demonstrated ability to build and maintain strong business relationships with internal and external
+stakeholders
+
+‘* Demonstrated, detailed knowledge of the full breadth of systems, products and services offered by Visa
++ Excellent time management skills, with the ability to prioritize and multi-task, and work under shifting
+
+deadlines in a fast-paced environment
+
+Strong organizational skills and attention to details
+
+Ability to project professionalism over the phone and in person
+
+Able to work in a detail-oriented, analytical manner
+
+Good knowledge of networks, physical and wireless
+
+Good knowledge of satellite TV technology (RF, MPEG video compression, etc)
+
+Ability to quickly learn and troubleshoot technical environments Education and Experience

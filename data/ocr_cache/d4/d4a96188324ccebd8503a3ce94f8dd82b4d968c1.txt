@@ -1,0 +1,99 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor (555) 432-1000 ¢ resumesample@example.com
+
+Professional Summary
+
+Creative SAP Analyst of 7+ years adept at analyzing and improving SAP policies and procedures. Utilize technical expertise and
+business acumen to proficiently translate business requirements into successful solutions.
+
+Skills
+* Advanced SAP Analyst + QA Testing
+* SCM, WM, FICO, MM, LO, SD * Requirement Gathering
+* System Administration + SAP Implementation
++ SAP Configuration and Security * Microsoft Office Specialist Certified
++ SAP Finance and Controlling + Written Communication
++ End-User Support and Training * Interpersonal Communication
+«* Project Management * Critical thinking
+* Database Management * Java, SQL, ABAP programming experience
+
+« Test Management Process
+
+Work History
+
+SAP Business Systems Analyst, 03/2020 to 10/2021
+Honeywell ~ Phoenix, AZ
+* Performed day-to-day customization of all SAP functional enhancements in areas of WM, SD, LE, FICO, MM, PP modules
+* Partner and liaison between business users and development team to resolve functional and technical issues related to business
+applications, troubleshoot data or transaction issues and review opportunities to leverage new functionality
+* Drove efficiency and improvement through business process definition, system alignment, and optimization of business
+application functionality
+« Identified gaps between deployment of applications and future requirements that have evolved due to organizational growth,
+changes, or strategy
+* Acted as SME for SAP including configuration, security, administration, maintenance, and business processes
+« Translated business requirements into system definitions and solutions
++ Analyzed requests or requirements for application upgrades to determine impact to business and integrated systems
+* Led cross-functional efforts to address business process or systems issues
+* Comprehensive project management of business initiatives, development effort estimates, resource management, gap analysis,
+implementation configuration, scope control, testing, training, and end-user support
++ Worked with business community to document functional test scenarios, test plans, and end-user acceptance testing criteria
++ Worked with technical resources to provide insight during solution development
+* Provided support during period close and other major financial milestones of the company
+
+Business Systems Analyst, 01/2020 to 04/2020
+
+Motion Recruitment — Remote, GA
+* Created analytical queries and tools for operational management
+« Test software upgrades and update software validation documentation
++ Conduct periodic inventory slotting and zoning analysis in warehouse
+
+‘+ Train employees on system processes and related device usage
+
+Support off-site networking team by replacing hardware such as switches
+
+Develop test cases and plans to complete unit testing to ensure success of changes
+
+Provide on-call support for production applications, hardware, and network
+
+Maintain appropriate disaster recovery protocols and periodically audit protocols
+
+Monitor and configure application performance and improve response times
+
+Analyze software and hardware needs, recommend changes and upgrades
+Troubleshoot and repair Warehouse Handheld Scanners / Devices, and hardware
+
+SAP WMS Analyst, 09/2016 to 01/2020
+Textron Specialized Vehicles ~ City, STATE
+* Reduced financial impacts of E&O inventory through cost analysis performance and developing outlets for resources
++ Configuration and maintenance of cross-functional SAP processes and variants
+
+‘+ Translated business requirements into effective SOPs for training purposes
+
+Analyzed business and systematic processes to develop solutions and implement change
+
+Completed multiple implementations of SAP Warehouse Management
+
+Led WM configuration including establishment of new locations, zones, search paths, reason codes
+Applied Agile and Lean methodologies throughout SDLC to meet or exceed expected deliverables during projects,
+
+Evaluated consumption and true demand preventing new errors and maintaining system integrity
+
+Created physical and systematic Kanban improving visibility of material movements and inventory accuracy
+
+Organized and led training sessions on new process or changes to end-users ensuring knowledge transfer
+
+Systems Test Analyst, 08/2015 to 09/2016
+General Motors ~ City, STATE
++ Analyzed client requirements through workshops, process maps, and work-flow analysis for accuracy
+« Tested software upgrades and updated software validation documentation with development team
+«Liaison between client and project team to identify and align business requirements
+
+Applied Agile and Lean methodologies to improve communication and development during SDLC
+
+Evaluated implementation risks associated with project requirements to prevent new errors and maintain system integrity
+
+Developed testing scenarios, user cases, process maps, data-flow diagrams, functional requirements
+Education
+
+BBA: Information Systems, Emphasis in SAP, 05/2015
+Georgia Southern University - Statesboro, GA

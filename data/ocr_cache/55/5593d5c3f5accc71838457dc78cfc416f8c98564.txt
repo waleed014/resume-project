@@ -1,0 +1,66 @@
+SONDRA
+ROBERTS
+
+address
+991 Carrol Ports,
+Chicago, IL
+
+tel +1 (555) 425 1961
+
+Experience
+
+Wilkinson-Ankunding
+Dallas, TX || Devops Engineer || 10/2020 - present
+¢ Experience in ensuring high-security integration for governance and
+compliance
+¢ Operational experience with code repositories and versioning (Git, TFS,
+GitHub, SVN)
+¢ System administration skills with non-relational and relational databases
+(DynamoDB, Redis, MSSQL, PostgreSQL, MySQL)
+¢ Solid understanding of cloud principals, architecture, deployment, and
+administration
+¢ Solid understanding of different cloud resources such as computing,
+storage, serverless, and networking systems (AWS, EC2, VPC, S3,
+Lambda)
+
+Von, Weber and Metz
+Dallas, TX || Devops Engineer || 07/2013 - 06/2020
+¢ Understanding of different deployment strategies (Blue/Green, Canary,
+Feature flags)
+e Understanding software and cloud development kit
+¢ Daily responsibilities will include ensuring that our solutions are resilient,
+available, healthy, and performing well
+¢ Contribute to the development and achievement of Organizational goals
+and Objectives
+¢ Offer out of hours support, via on-call rota
+e¢ AWS\Azure cloud accreditation
+¢ Security based approach
+Automation scripting Ansible\Bash
+
+Education
+
+Pratt Institute
+Bachelor's in Computer Science
+
+Skills
+
+¢ Continuous Integration setup and administration
+
+e Experience working in and advocating for agile environments
+
+¢ Experience working on high-traffic, international systems
+
+¢ Excellent team skills, can-do attitude, focus on quality
+
+¢ Implementing and managing highly available systems
+
+e Version control (Git, SVN, Mercurial, etc)
+
+e Experience with containerization in a production environment (preferably
+Docker)
+
+¢ Linux scripting languages (Bash, Python, Perl, etc)
+
+¢ Configuration management tools (Ansible, Chef, Puppet, etc)
+
+e Using and managing CI/CD tools (Jenkins, GitLab, etc)

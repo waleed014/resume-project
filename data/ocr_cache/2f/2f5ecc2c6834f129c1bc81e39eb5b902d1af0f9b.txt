@@ -1,0 +1,74 @@
+PHONE
+(o99)-272.9918
+
+ADDRESS
+4983 Juniper Orive
+Mount Pleasant, Mi
+
+CONTACT INFO
+
+EMAIL
+
+maria@ghimailcom
+
+WEBSITE
+
+EDUCATION
+
+Bachelor's Degree in
+‘Computer Sci
+
+WORK EXPERIENCE
+
+‘SAP BI Developer, 2016 - Present
+Visual BI Solutions Ine
+
+Created info packages and performed data loading aswell
+as monitoring and tning of data toads
+
+Coordinated and implemented the ETL processes to
+‘extract SAP ECC data as well as legacy applications using
+DB connect, XML. and other tools asnecessary
+
+Gathered and analyzed the reporting needs of the
+organization. identifying effective reporting techniques,
+‘using multiple data sources, and designing reporting data
+
+structures
+Provided unit testing, integration testing, and participated
+inthe Qaand QC process
+
+‘SAP BI Developer, 2014 - 2016
+Axius Technologies
+
+Gathered and assessed business int
+
+ton needs by
+‘working closely withthe business to prepare reporting
+‘requirements, functional designs and deliver reporting
+solutions
+
+Provided on-call and after-hours support as requited
+Managed multiste assignments, aggressive targets. and
+citical deadtines
+
+tnvolved formal testing and confirmed that reports mat
+‘documented requirements
+
+Worked withthe technology tear to communicate
+
+‘SAP Bl Developer, 2012 - 2014
+Avani Tech Solutions
+
+Configured the SAP Bi modules to enable the required
+eporting eapabiltes,
+
+Supported and adaressed user questions ang issues,
+Coordinated the development of SAP R/S ABAP
+‘programming to write custom extactors and other BI
+
+Prepared development hours and cost estimates,
+
+implemented standard content as well as custom BI
+
+solutions to support business requirements

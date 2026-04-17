@@ -1,0 +1,62 @@
+Diann Kupha
+
+Python Developer
+
+Contact Details
+
+(=) diannkupha@gmail.com
+
+@ 038) 032 7933
+
+© North arjun, 36142-1983, New
+
+Jersey
+
+Education
+
+@ Bachelor of Science in
+Computer Science with a
+Concentration in Python
+Programming
+University of California,
+Berkeley
+2017 - 2021
+
+Skills
+
+Object-Oriented - Expert
+Data Structures - Expert
+Web Development - Expert
+Machine Learning - Expert
+Automation - Expert
+
+Algorithms - Expert
+
+Summary
+
+Experienced Python Developer with 5+ years of developing high-
+performance applications. Expertise in web frameworks, databases, and
+system integration.
+
+Work Experience
+
+Python Developer, Marks, Miller and Runte
+March 2023 - Present
+
+¢ Developed and maintained various Python applications using
+Flask, Django, and PostgreSQL.
+¢ Implemented a suite of automated tests for a Python-based web
+application using Pytest.
+¢ Developed a RESTful API using Python and the Flask
+microframework.
+Python Developer, Fritsch, Bashirian and Steuber
+May 2021 - February 2023
+¢ Used Python to develop and optimize data pipelines for ETL
+processes.
+© Utilized object-oriented programming and design patterns in
+Python to create efficient and maintainable solutions.
+¢ Developed a GUI application using Python and Tkinter.
+
+References
+
+References available upon request

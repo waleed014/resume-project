@@ -1,0 +1,131 @@
+JESSICA CLAIRE
+
+100 Montgomery St 10th Floor # (S55) 432-1000 # resumesample@example.com
+
+‘PROFESSIONAL SUMMARY
+
+Tm seasoned IT leader with experience in building highly technical and effective teams. Ihave experience with modemizing architectures and
+‘transforming workflows to best suit the business — operationally and fiscally. My technical background isin infrastructure architecture and
+‘management of highly scalable solutions. My leadership experience extends to those same mission-critical teams, where I aspire to be a
+‘transformational leader practicing a servant-leadership management style
+
+SKILLS
+
++ Project lifecycle management + Teamwork and Collaboration
+« Infrastructure development + Analytical and Critical Thinking
++ Agile framework + TT solution development
+« Requirements analysis + Performance Management
+= Budget administration * Virtualization technologies
++ Product development + Operational analysis
+‘* Written Communication * Solutions deployment
+‘+ Organization and Time Management * Technical Analysis
+‘ Customer Service
+
+‘Work History
+
+Director of Information Technology, 06/2012 - 12/2021
+‘Midland Care Connection - Kansas City, KS
+
++ Oversaw delivery of portfolio services to 100k users regionally and globally
+
++ Strategically led multiple and diverse engineering teams of experienced professionals to design, support, and build cost-effective and
+
+scalable technical platforms that can be leveraged by internal and external users/customers
+
++ Responsible for budgeting, forecasting, project management, and road-mapping for technical project development and implementation
+
+‘+ Created operational policies, procedures, standards, guidelines and best practices across a global organization
+communications for business transformation opportunities and
+
+«+ Assessed new innovative technologies, mission critical systems, secu
+business continuity
+
+‘+ Built and maintained collaborative relationships with internal and external stakeholders to drive accurate and timely resolutions to complex.
+
+* Prioritized work efforts and allocated resources to meet internal and external customer demands, aggressive deadlines, and competing
+priorities
+
++ Ensuted appropriate balance between short-term impact and long-term vision related to all proposed technical solutions Served on
+enterprise advisory and architectural committes
+
++ Led by example, establishing credibility through technical execution
+
++ Negotiated several multimillion dollar enterprise license agreements 2s wel as on-going vendor contract management
+
++ Succesflly led teams responsible for enterprise work-fom-home strategy during COVIDI9 pandemic
+
+'* Developed and implemented technical application support and information technology policies and procedures that advanced investment
+needs, outcomes and performance measurements to balance continuous innovation with responsible risk-taking
+
+'* Developed and maintained service level agreements for strategic applications and measured performance against objectives.
+
+'* Developed, tracked and controlled information technology operating budgets and cost and benefit analyses for IT spending initiatives.
+
++ Deployed, monitored and maintained system installation, upgrades and network integration.
+
++ Monitored automated build and continuous software integration process to drive buildelease failure resolution.
+
+‘© Managed testing cycles, script development and coordination of user acceptance testing for software and applications within healthcare
+industry.
+
++ Wrote code and developed tots and integrations to meet cross-platform user needs
+
+'* Worked with cross-functional design teams to create software solutions that elevated client side experience and significantly improved
+overall functionality and performance.
+
++ Designed and built infrastructure automation tools and applications to deploy next generation platform.
+
+‘+ Versed in complete software life cycle from preliminary needs analysis to enterprise-wide deployment and support,
+
++ Incorporated cloud architecture into new facility planning, reducing need for on-site equipment and echnical suppor personnel.
+
++ Developed network and system architecture according to business needs.
+
+© Provided high availability features and technologies.
+
+‘© Migrated numerous legacy systems to newer technologies, reducing costs and enhancing efficiency of computing tasks.
+
+Senior Systems Engineer, 03/2009 - 04/2012
+‘Northwest Bancorp, Inc. — Valencia, PA
++ Implement and support a varity of Tier 1 services and technologies
+‘+ Analyze, log, and track complex software and hardware matters of significance pertaining to servers and applications to meet business
+needs
+* Coordinate hardware and software installations and upgrades to ensure work is performed in accordance with company policy
+‘+ Coordinate and monitor troubleshooting to isolate and diagnose common system problems Architect, Implement, and Support wide range
+of Windows and Linux based Tier 1 server solutions
+‘+ Team Lead responsible for long term architecture planning and development of junior admins on focus team.
+‘ Architected, Implemented and Managed the Microsoft Dynamics CRM infrastructure
+‘+ Responsible for performance resolution and entity customization imports, integration, and updates
++ Worked closely with software engineering groups for implementation of custom built, scaled, solutions.
++ Design, install, configure VMware ESX, ESXi, within vSphere environments
+
+Senior Technology Specialist, 1/2006 - 02/2009
+Ricoh Americas Corporation — Arden Hills, MN
+
+‘Train staff and users to work with computer systems and programs
+
+* Prepare cost-benefit and return-on- investment analyses to aid in decisions on system implementation
+
++ Implement and support a variety of cross-platform technologies including Windows Server platforms, Microsoft Exchange, EMC storage
+
+networks, VMware Virtual Infrastructure, Citrix Presentation Server, and Citrix Access Gateway
+
+* Proven experience in the design, implementation, and maintenance of multi-site and multi-tiered infrastructures
+
++ Provide direct customer support and training
+
+‘+ Managed incident resolution from initial occurrence to successful outcome
+
++ Negotiated with other LOB managers to establish priorities,
+
++ Influenced product and project delivery through the incident management process.
+
+EDUCATION
+
+ITIL v3 Foundation Certified
+
+‘Master of Business Administration: 2013
+ARGOSY UNIVERSITY
+
+B.S: Management Information Systems, 2007
+INDIANA UNIVERSITY OF PA

@@ -1,0 +1,95 @@
+CHRISTOPHER KANE
+Entry-level Data Scientist
+
+christopher.kane@gmail.com
+Lancaster, PA, USA
++717 749 305
+
+Linkedin: /christopher-kane
+
+Profile
+
+Motivated graduate with excellent computer and
+communication skills looking for an entry level position as a
+Data Scientist. Experienced in using Microsoft and Google
+certified data, as well as Online Social Networks including
+Facebook, Instagram, and Twitter. Skilled in identifying,
+synthesizing, and analyzing relevant data. Proven record of
+generating reports and providing recommendations using
+predictive data tool sets.
+
+Education
+BACOMPUTER SCIENCE
+
+University of Pennsylvania
+
+© Honors Student (GPA - 3.85)
+
+* Excellent record with data science coursework
+
+* Designed a complex final year project that used
+regression models, SVM, and decision trees to
+predict the profits and expenses of a busy
+restaurant in Pennsylvania
+
+* Vice President of the Data Science Society
+
+Work Experience
+ENTRY-LEVEL DATA SCIENTIST
+
+Eurofins
+
+* Determining if data is compliant and defendable
+based on industry regulations and methodology
+
+* Verifying scientific data following all client
+requirements
+
+* Reviewing various data set and ensuring accuracy,
+clarity, and adherence to GLP and GMP
+
+* Diagnosing problems and fixing small issues using
+Python
+
+* Liaising with senior data scientists to resolve
+complex issues and learn new skills
+
+FREELANCE DATA SCIENTIST
+Various
+
+Analyzing complex data sets using VB and Cloudera
+
+Providing feedback and guidance to customers
+
+Supporting technology decision making
+
+Processing data sets using advanced visualization,
+
+analytics tools, and querying
+
+* Communicating with various customers and
+keeping a 93% customer satisfaction rate
+
+* Using statistical analysis to increase longevity of
+current software data sets
+
+* Personalizing interactions with customers by using
+
+predictive data modelling tools
+
+Languages
+ENGLISH ITALIAN
+GERMAN SPANISH
+
+Skills & Expertise
+
+PROBLEM-SOLVING PYTHON
+a
+MODELLING VB and CLOUDERA
+SS
+STATISTICS CREATIVITY
+a ; a
+
+Hobbies & Interests
+
+Swimming, writing, cooking, walking

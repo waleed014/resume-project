@@ -1,0 +1,66 @@
+Westley Mertz
+1461 Al Forest, Houston, TX # Phone: +1 (555) 307 0590,
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+‘SENIOR MANUAL TESTER
+Philadelphia, PA
+(03/2016 ~ present
+
++ Provide recommendations to improve the development process
+
++ Provide exploratory testing for the systems
+
+Write and execute test cases
+
+Provide guidance and Supervision to more junior testers
+Knowledge of Jira - defect tracking tool and testcase management tool
+Provide consistent and clear status in verbal and written communications
+‘Write clear and concise defect reports
+
+QA MANUAL TESTER
+Los Angeles, CA.
+11/2010 — 10/2015
++ Assists and cooperates with co-workers, supervisor and management
++ Partner with Development Manager in collaborating between engineers and QA
+‘+ Performs all duties in accordance with established Company goals
++ Performs technical analysis to identify the scope and schedule for upcoming projects and individual work
+items
++ Participating in all aspects of product testing, including test plan development, execution and delivery of
+‘well-tested solutions with short time to release
++ Independently analyzes issues, recommends software changes and writes detailed bug reports. Creates and
+‘maintains ownership of test cases and test results throughout SDLC
++ Provides the highest level of customer service to customers, whether these are current or prospective
+clients of the Company, vendors, staff, business partners or visitors,
+
+MANUAL TESTER
+Dallas, TX
+(08/2006 - 06/2010
++ Work with development team to create test plans for enhancements and fixes on applications
+‘+ Mitigate risks to Business through timely and precise execution of manual/automated test scripts under
+‘moderate supervision
+Responsible for specific testing phase (Performance / Automation)
+Produce test results/screenshots & upload to Test Director/Quality Centre
+Develop and execute formal test plans within budget and schedule constraints
+Perform functional and technical test execution activities as per BTS engagement level in the project
+Document software product defects and track it to closure
+
+UNIVERSITY OF GEORGIA
+Bachelor’s Degree in Computer Science
+
++ 3+ years software testing experience
+Experience working in an Agile (SCRUM, XP, Kanban) environment/team focusing on sprint by sprint
+deliveries
+Experience with relational databases, Oracle and Microsoft SQL Server
+SQL data manipulation experience
+Experience with JIRA Software for Test Planning
+Active interest in web application development
+Interest in product testing
+Ability to derive tet scenarios from user stories and use cases,
+Ability work closely with Developers and Product Owners to ensure features/bug fixes are ‘shippable’ by
+sprint end
++ Contribute to sprint planning, sprint review/retrospectives and daily stand-ups meetings

@@ -1,0 +1,104 @@
+Letitia Taman
+Oracle PL SQL Developer
+
+© lctitia.taman@gmail.com
+
+Xe (671) 856-4434
+
+1234 Evergreen Lane, Seattle, WA
+98101
+
+EDUCATION
+
+Bachelor of Science in Information
+Technology with a specialization
+
+in Oracle PL/SQL Development at
+University of Washington, Seattle,
+WA
+
+‘Aug 2017 - May 2022
+
+Relevant Coursework: Database
+Management Systems, SQL and
+PL/SQL Programming, Oracle Database
+Administration, Data Warehousing,
+Database Design and Modeling,
+Performance Tuning, Advanced PL/SQL
+Techniques, and Oracle Ap
+Express.
+
+SQL*Loader
+
+Oracle APEX
+
+Data Modeling
+
+Performance Tuning
+
+Oracle Forms
+
+Database Triggers
+
+LANGUAGES
+
+PROFILE
+
+Oracle PL/SQL Developer with 1 year of experience in analyzing, designing,
+and implementing database solutions. Proficient in developing optimized
+and efficient PL/SQL code for diverse business requirements. Collaborative
+team player with strong analytical and problem-solving skills, committed
+to delivering high-quality results and contributing to project success.
+Demonstrated experience in tuning SQL queries, creating database objects,
+and working with Oracle tools. Eager to contribute to a dynamic and
+innovative work environment, further develop technical skills, and create
+value for the organization.
+
+EMPLOYMENT HISTORY
+
+@ Oracle PL SQL Developer at Microsoft Corporation, WA
+May 2023 - Present
+
++ Developed and optimized a critical database system that increased
+query performance by 45%, resulting in a 30% reduction in server load
+and improved user experience for over 10,000 Microsoft employees.
+
++ Successfully migrated legacy Oracle databases to the latest Oracle 19¢
+version, ensuring seamless integration and reducing maintenance
+costs by 25%,
+
++ Spearheaded a team of 5 developers in the design and
+implementation of a complex PL/SQL-based reporting system, which
+streamlined data analysis and reporting for Microsoft's global sales
+team, increasing efficiency by 35%.
+
+© Junior Oracle PL SQL Developer at Amazon Web Services, WA
+Aug 2022 - Mar 2023
+
++ Developed and optimized a critical database system that improved
+query performance by 40%, resulting in increased efficiency for over
+500 end-users across various departments within the company.
+
++ Successfully migrated legacy Oracle PL/SQL applications to AWS,
+reducing infrastructure costs by 30% and decreasing response times
+by 25% for key business processes.
+
++ Led a team of junior developers in the design and implementation of
+anew inventory management system, which increased data accuracy
+by 20% and streamlined warehouse operations.
+
+CERTIFICATES
+
+Oracle Database SQL Certified Associate
+
+Aug 2021
+
+Oracle PL/SQL Developer Certified Professional
+
+Apr 20;
+
+MEMBERSHIPS
+
+Oracle Academy
+
+International Oracle Users Group (IOUG)

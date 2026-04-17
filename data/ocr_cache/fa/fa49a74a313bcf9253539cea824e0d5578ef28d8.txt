@@ -1,0 +1,48 @@
+Curriculum Vitae
+
+Personal
+
+Name Alex Frankle
+
+Address 2693 Wentworth Street, 29403 Charleston, NC
+Phone number (843) 456-7000
+
+Email example.resumes@cvmaker.com
+
+Resume objective
+
+Inspired and results-driven business intelligence analyst with 8+ years experience in finance and banking sectors. hold a Bachelor's
+degree in Computer Science. Focusing on business needs and process improvements | manage the full life cycle of each project
+‘engaging end-users and stakeholders. Most notable achievement: redesigned online system allowing clients to contact account
+managers directly. Results: 120% increase in query resolution within 72 hours and 95% customer satisfaction on survey results.
+
+Work experience
+
+Sep 2015-Present Business Intelligence Analyst
+Wells Fargo Bank, Charleston
+
+‘© Managing full life cycle of projects from discovery to planning, implementation and delivery
+‘© Maximizing business intelligence tools to detect source of challenges faced by end-users
+
+* Data collection and analysis to identify process improvement opportunities
+
+‘© Recognizing and recommending requested improvements to stakeholders
+
+‘Identifying suitable data sources, extracting data and developing integrated solutions
+
+* Constructing business intelligence solutions around business needs and goals
+‘Developing and maintaining enterprise data architecture roadmap
+
+‘© Compiling and presenting findings to senior management and business stakeholders
+‘Maintaining long-term relationships with business partners to develop business interests
+
+* Creating data visualizations to involve and educate business partners
+
+‘* Collaborating with cross-functional teams to ensure even workflow and relational outcomes
+‘© Ongoing training of business users in data modeling tools to create ad-hoc reports
+
+Feb 2014-Aug2015 Junior Business Intelligence Analyst
+Bank of America, Charleston
+‘© Assisting ad-hoc in all phases of business intelligence projects as needed
+* Cleansing, de-duplication and harmonization of data across systems
+‘Supporting team members with work processes to meet business goals

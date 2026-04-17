@@ -1,0 +1,86 @@
+JAYDA KLEIN
+
+‘713 Larry Orchard, Philadelphia, PA + +1 (555) 189 3191
+
+‘WORK EXPERIENCE
+
+SENIOR MANAGER, ETL DEVELOPER 02/2016 - PRESENT
+San Francisco, CA
+
+‘+ Experience with UNIX shell scripting
+
++ Experience with Data warehousing techniques (Star Schema, snow flaking, denormalization, Normalization, Aggregations)
+
+‘+ Oversees the data load production process and the implementation of new data load files in accordance with the department's change
+
+‘management process
+
++ Create, execute, and document unit test plans for ETL and data integration processes and programs
+
++ Perform tasks required to conform to the company’s configuration management and software release processes,
+
+‘+ Monitor and administer automated and manual data integration and ETL jobs to verify execution and measure performance
+
++ Dedicated to excellence in one’s work; detail-oriented and thorough
+
+ETL DEVELOPER, 04/2012 - 01/2016
+Boston, MA
+
+‘+ Review proposed mappings with relevant personnel, e.g. Business Analyst, Data Stewards, Business System and Data Analyst
+
+© Generate detailed dé
+
+sn documentation for the source-to-target transform:
+
++ Create test scenarios and be responsible for their execution
+
++ Support the efforts of the Data Staging Developer(s)
+
+‘+ Work with enterprise application integration personnel to anticipate and resolve data integration issues across applications and technical
+infrastructures
+
++ Applies i
+
+<depth o broad technical knowledge to maintain one or more technology areas (e.g. Database Administration, ETL Design)
+‘+ Applies technologies to software solutions of high complexity
+‘+ Strong database (Oracle) skills including database design, development (packages, functions, procedures)
+
+JUNIOR ETL DEVELOPER (06/2006 - 11/2011
+‘New York, NY
+
+‘+ Solid hands-on experience in using IBM DataStage / Information Server
+
++ Performs tasks required to conform to the company’s configuration management and software release processes
+
+‘+ Business Analyst(s) to understand informational requirements
+
+‘+ Data Administrator and Data Stewards to understand information quality definitions and expectations of end users
+
+‘+ Data Modeler and Database Designer in the design of target environment data structures
+
+‘+ Business System and Data Analyst to understand source system data and structures
+
+‘+ Detail design of source to target data mappings
+
+EDUCATION
+
+LAWRENCE UNIVERSITY 2002 - 2006
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+Excellent functional, analytical, interpersonal and communication skills, including strong listening skills
+
+‘+ Strong written communication skills; outstanding interpersonal and oral communication skills
+
++ Exceptional verbal and written communication skills desired along with strong interpersonal skills to interact with internal customers
+and third party vendors
+
+‘+ Strong experience on RDBMS (preferably DB2) with good PL/SQL. concepts & strong SQL skills
+
+‘+ ETL Development experience with strong ETL and SQL programming skills (required); MySQL experience (desired)
+
+‘+ Strong ETL testing experience and verification utilizing SQL. querying skills (PL/SQL, Toad or other tool) and formal testing
+methodologies
+
+‘+ Demonstrated strong coding skills in one or more high-level languages such as Python, R, Java, Smalltalk or Perl

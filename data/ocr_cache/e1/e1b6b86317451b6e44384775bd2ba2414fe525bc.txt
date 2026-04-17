@@ -1,0 +1,170 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Workflow Analysis
+
++ Web-based reporting tools
+
++ Business planning
+
++ Data Mapping
+
++ Relationship development
+
++ Team management
+
++ Project organization
+
++ Problem resolution
+
++ Process improvernent
+
++ Business Intelligence Tools
+
++ SQL Server Integration Services
+(ssis)
+
++ Dashboard Development
+
++ Model Data
+
++ Data and Analytics
+
++ Design Development
+
++ Conceptual Design
+
+EDUCATION
+
+The University of Texas At
+Arlington
+Arlington, TX + 06/2004
+
+‘Master of Engineering
+
+Darward University
+Karnataka, India + 06/2000
+Bachelor of Engineering:
+Engineering
+
+CERTIFICATIONS
+
++ PowerBi Certified
+
++ Digital Marketing strategy
+
++ Digital Transformation
+
++ SQL Certified
+
++ UCLA Accelerated Management
+Program(in progress)
+
+PROFESSIONAL SUMMARY
+
+‘Motivated and detail-oriented financial management professional with 14+ years of experience
+managing and overseeing a vast array of duties in healthcare administration. Demonstrated
+experience in providing oversight of financial management, business intelligence, data visualization,
+stellar customer service and problem resolution in healthcare settings, while utilizing creative and
+strategic approaches to reduce financial errors and strengthen revenue. Proven to set priorities,
+execute direction, and apply vast knowledge of data analytics, project management systems, and
+software to collaborate with clients, providers, administration, and other stakeholders. Demonstrated
+success in identifying problematic areas and designing and executing research-driven action plans to
+meet and/or exceed goals and objectives. CORE STRENGTHS Reporting & Data Analytics | Financial
+Assessment & Management | Communication | Healthcare Intelligence | Leadership Data
+Visualization | Detail-Oriented | Clinicals Reporting | Interpersonal Skills | Project Management &
+Administration Revenue Enhancement | Organization | Documentation | Process Improvements |
+Efficiency & Accuracy | Data Visualization
+
+WORK HISTORY
+
+Fiserv - Sr.Manager of Business Intelligence
+Greenwood Village, CO + 05/2022 - Current
+
++ Develop and execute multifaceted Business intelligence strategies, while building integration to/
+from foreign systems through the expansion of an enterprise data warehouse; develop and
+disseminate reports to stakeholders.
+
++ Assess and analyze data analytics, in addition to ining data and utilizing meaningful use indicator
+mapping and integration to accurately and efficiently manage financial systems.
+
++ Responded to specific BI requests from Marketpipetine Tracker department, creating data packets
+with requested information in easily understandable formats.
+
++ Drafted strategic business intelligence roadmap, complete with data governance policies and
+tactical information safeguards.
+
++ Integrated BI assets into customer relationship management tasks, improving service personnels
+available intelligence.
+
++ Serve as a consultant to C2C Hypertargeter Marketing team to identify and resolve gaps in
+campaigning ; made recommendations, resulting in 10% increase in productivity and performance.
+
+PrimeLending - IT Manager
+City, STATE « 06/2018 - 05/2022
+
++ Led efforts to improve business applications and business technology processes through rigorous
+data collection and analysi
+
++ Worked closely with the business to understand problems and proactively implement solutions to
+solve those problems. Reduce ticket to 40%
+
++ Rigorously maintained and forecasted financial budgets to ensure all technical projects were
+delivered on-time and on-budget. Worked on Hyperion project which finished saving 3M by
+completing before deadline.
+
++ Supervised a team of 4 IT analysts and managed relationships with external vendors and advisers
+
++ Fostered a culture of robust documentation of business applications and Data warehouse which
+improves the on boarding process 50%
+
++ Involved in the customer facing project called Borrower Servicing project where more than 2 M
+customers could login and do payments before the loan is sold in secondary market
+
+Hilltop Holdings - Business Intelligence Developer .Sr / ETL Develope
+City, STATE « 08/2015 - 05/2018
+
++ Aresults driven software professional with 10+ years of progressively responsible experience in
+Data Analysis, Design, Implementation,
+
++ Administration and Support of Business Intelligence, OLTP (Batch Processing, Online Processing),
+OLAP, ETL, Data warehousing, and Data Modeling .
+
++ Documented and analyzed current state business processes and underlying systems to identify and
+measure potential areas of improvement.
+
++ Worked closely with the business to understand problems and proactively implement solutions to
+solve those problems
+
++ Designed customized data collection models for specific visualization tasks.
+
++ Liaised with Devops team to integrate business intelligence assets into future development
+lifecydles.
+
++ Created product backlogs consisting of Epics, Features, User Stories and Tasks.
+
+Blue Cross Blue Shield, Richardson, Texas - Business Intelligence Developer / Report Developer
+City, STATE » 05/2014 - 08/2015
+
++ Monitored and optimized SQL server performance.
+
++ Integrated BI assets into customer relationship management tasks, improving service personnels
+available intelligence.
+
++ Improved data gathering, analysis and visualization procedures with strategic optimizations.
+
++ Developed and managed dashboards using PowerBi,Data Studio and SSRS.
+
++ Collected data from wide-ranging sources.
+
++ Planned, designed and implemented diverse business intelligence solutions.

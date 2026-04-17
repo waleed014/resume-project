@@ -1,0 +1,130 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesamplegexample.com
+
+Professional Summary
+
+‘+ Summary Around 4+ years of strong software experience in design, development, and deployment of web-based Client/Server
+‘business applications using UI authoring and web technologies involving Angular 4/6/8, JavaScript (E56), TypeScript, HTML5,
+DOM, C553, SCSS, Bootstrap, JSON, NgRx, Angular Material, Node, Webpack, Ajax, and Babel.
+
++ Profound understanding of CSS framework customization using Bootstrap, ng Bootstrap, Angular Material UI in conjunction
+with SASS and SCSS,
+
+«+ Fluency using Unit testing frameworks and tools like Jasmine and Karma, and other test runners.
+
+‘+ Experienced develop custom services with RxJS by Observable and Subjects.
+
+‘+ Managed states across applications using NgRx library.
+
+++ Broad working experience in various version control systems such as SVN and GIT,
+
+++ Familiarity with working on NoSQL databases such as MongoDB with Mongoose.
+
++ Strong expertise with full software development life-cycle, architecting scalable platforms, development, testing, and agile
+methodologies.
+
+‘+ Hands-on experience developing back-end components, connecting the application to other third-party web services using,
+Nodej.
+
+++ Proficiency in consuming RESTful Web Services with Ajax call and updating dynamic functionality of HTML in JavaScript,
+jQuery, and Angular
+
+‘+ Hands-on experience developing applications in every stage of the Software Development Life Cycle (SDLC)
+
+‘+ Dedicated team player is eager to analyze and share new knowledge with peer workers aiming for overall progress and.
+
+improvement.
+Skills
+
+# Coding Languages: JavaScript, TypeScript, SQL, NoSQL ‘* Development Methodologies: Agile/Scrum
+
+‘© UDevelopment: HTML/HTML5, CS5/CSS3, SCSS, JSON « Testing & Debugging Tools: Jasmine, Karma
+
+‘© Web Tech Stack: Angular, Express, MongoDB, Nodejs ‘¢ Version Control & Project Management: Git, Jira
+
+Work History
+
+Front End Developer, 04/2020 to Current
+Verizon Communications ~ Bolingbrook, TL
+The DataGenix Complete Benefit System was developed to fulfill the need for being the one stop solution for HR, management, and
+employees’ benefit administration and viewing needs. Providing a real time web access portal for the insured, providers and groups,
+it can handle claims, preauthorization and customer service queues with support for non standard provider codes. The provider can
+‘mass email and track correspondence as well as automated notification and emailing of any reports, all while capable of scaling to
+millions of insured members. The insured has a web dashboard as well as mobile apps for android and iOS, all with ease of use for
+minimal training time.
+++ Developed a Single Page Application (SPA) by using Covalent open-source framework, which is built on Angular 8, Angular
+CLL, TypeScript, RxJS, NgRx, Bootstrap design, Karma, Jasmine, SCSS
+‘+ Implemented global store with actions and reducers
+‘+ Read/write global store via subscribe and dispatch methods
+«+ Involved in reviewing business requirements and functional designs for an application and participated in creating Wireframe
+‘+ Worked on customizing the Bootstrap classes using CSS preprocessors like SCSS and made use of NPM task runner to compile
+SCSS files to CSS, Linting, compress files, and images
+++ Created shared modules and components that could be shared across the component's application
+«+ Participated in designing the style guide and branding for the entire project,
+‘+ Developed test cases and implemented unit tests using testing tools such as Jasmine and Karma,
+«+ Extensively worked with Node Package Manager (NPM) to manage the modules such as Gulp js, Expressjs, Underscores,
+Require js, Passports, Mongoose, and Body-Parser
+++ Used Git for coordinating work among developers collaboratively developing source code with speed and efficiency
+++ Involved in Agile process, bi-weekly Sprints, and daily Scrums to discuss the development and achieve TDD (Test-driven
+development approach).
+
+Front End Developer, 12/2018 to 03/2020
+‘Verizon Communications ~ Boynton Beach, FL
+LTMon software isa 2/05 started task which enables your mainframe operations staff to monitor and display messages and initiate
+commands to Luminex Channel Gateways (virtual tape control units) and storage systems directly from the mainframe's master
+console. LTMon provides integrated and centralized management for the complete virtual tape solution with a native mainframe
+console, including such items as alerts for hard disk errors, capacity reporting, and scratch tape management
+
+‘+ Used HTMLS, CSS3, and Bootstrap to construct the dynamic and interactive web pages for the application
+
+++ Used various features in Angular 6 framework like data binding, routing, custom filters, custom directives to meet various
+
+customized requirements
+
+‘+ Used the HittpClient services in Angular 6 to make REST API calls and exchange data in JSON
+
+‘+ Worked with C583 and bootstrap to create Responsive web designs for multiple departments/pages
+
+++ Developed Web services to allow communication between applications through REST over HTTP using Spring Framework
+
+‘+ Implemented PL/SQL queries and used Oracle stored procedures
+
+‘+ Using Grunt for automated building of applications including unit testing (Jasmine /Karma)
+
+++ Involved in Agile process, monthly Sprints, and daily Scrums A/B testing to discuss the development of the application
+
+++ Implementing Continuous Delivery framework using Jenkins, Maven in multiple environments.
+
+Junior Full Stack Developer, 09/2017 to 11/2018
+Revature — Bellingham, WA.
+
+The, enterprise content management (ECM) system is a proven solution adopted in nearly every industry and currently used by
+‘more than 40,000 organizations worldwide
+
+Laserfiche’s unique advantage in the document management industry is its flexibility which allows it to adapt to changing business
+processes while serving as a comprehensive ECM solution that meets the needs of both system administrators and general users
+
++= Developed various Uls for the front-end side using Angular 4 and used various components from the Angular Material for the
+application development
+
++ Worked with Angular 4 controllers, custom pipes, Services, and Custom directives
+
+++ Worked on Angular 4 to develop Templates and Used custom pipes for filtering functionality inthe search box and integrator
+functionalities
+
++ Involved in writing application level code to interact with APIs, RESTful Web Services using Angular HTTP modules
+
++ Involved in Agile methodology, weekly Sprints, and daily Scrums to discuss the development of the application with peer
+developers
+
++ Contributed to fast and efficient development collaboration using Git, the version control system
+
+++ Worked with Postman to conduct Web API tests and used Jasmine and Karma for Angular Unit Testing
+
++ Engaged in daily stand-up meetings, seasonal sprint reports, and other Agile/Scrum work events
+
+Education
+
+Bachelor of Science: Computer Science, 03/2021
+University of California, Riverside

@@ -1,0 +1,56 @@
+ROBERT SMITH
+Volunteer Data Scientist
+
+on dio gvtcmnccco hs i dai
+
+Have hinds on experience in writing MapRedce jobs using lv, Managing Single node and Malti node
+(Cluster Configurations. Writing Pig Latin srips and pig commands, Configuring Zoo Keeper, Cassandra &
+Plume tothe existing hudoop cluster. Experience in building predictive models using machine leaming
+techniques. Performed importing and exporting data into HDPS and Hive using Sqoop, Hive queties.
+
+Python, Matlab, Gi, Data Analysis, Dat Mining, Machine Leaming, C44, Latex, Java Scala, HTML,
+Hiadoop, SQL.
+
+WORK EXTERIENCE
+
+‘Volunteer Data Seientist
+[ABC Comporation -Janwary 2015 — May 2015
+
+Analyzed MTA suhway data and Now York City census data to determine traffic lays and
+demographic patterns of New York City.
+
+Use Bewutiiel Soup to scrape publicly available movie datuty better understand the relationship
+between box office perfonnance and distribution company.
+
+Using se-kit lear, ran linear regression and built a madel of box ofice performance.
+
+Based on model identified two distribution companies whose revenue otperfonmed peers
+
+Used mutplotib and reveals to communicate results of esearch,
+
+Project McNulty Setup SQL dauhase an dol server, storing clients data far query analysis
+
+Used Pythons seikit lear library to understand details of client telemrketing campaign
+
+Data Scientist
+"ABC Comporation - 2010-205
+
++ Cosmin pan lading 1
+
++ PLANT LEAP SPECIES CLASSIFICATION Bait! new ctworks to caret casi
+pont lf pio tig Hay ouge and’ prune oeweekof magi pe eat eine
+fetes.
+
++ Technologies sed Python, Nanny, Pas, Skit Lar, Sg, Kers 2.
+
++ CUSTOMER POTENTIAL PREDICTION Crate clasifiation model tt Weditiescstomers
+svt th highest potential bosiness vale had on tiechartersics nd activites
+
++ Technlogies ed Python, Nunpy, Pa, Ssikit-Learn, XGhoost 3
+
++ MOBILE USER DEMOGRAPHICS CLASSIFICATION fut malt red wes
+dmogrphic charade hased on thir pp ase, goleston and mci device proper.
+
++ Techologies sed Python, Nonny, Pa, Sekit-Lear, Seip, Ker,
+
+ac His Rims the copys of Qvikewme om sas alsin

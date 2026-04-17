@@ -1,0 +1,126 @@
+Is
+
+© SAP Script
+© Smart Forms
+
+‘* Adobe Forms
+
+© ALV Report
+
+© Dialog Programming
+
+* BOC
+
+* LSMW
+
+© BARI
+
+© BADI
+
+© Enhancement
+
+‘© User/Customer Exits
+
+© Object Oriented Programing
+© Application Note
+
+© Performance Tuning
+
+© Workflow
+
+© WebService
+
+‘© WebDynpro
+
+© Abap 7.4 and 7.5 syntaxes
+© Enhanced Open SQL
+
+* Hana / CDS Views
+
+© CDS Association
+
+© CDS Table Function
+
+* AMP
+
+© Code Remediation for Suite
+on HANA
+
+© Code Remediation for
+S/4HANA
+
+© ODATA
+© SAPUIS
+© Fiori
+
+Languages
+
+English eocooe
+French @eee0
+Arabic @e@ee00o
+German @@ee0o
+
+Jessica Nathan
+
+SAP ABAP S/4HANA CONSULTANT
+
+QO 9 in
+
+fo@resumekraft.com 202-555-0120 Chicago, Illinois, US _linkedin.com/resumekraft
+
+About me
+
+Highly skilled SAP ABAP S/4HANA Consultant with 20 years of experience in
+implementing, customizing, and optimizing SAP systems. Proficient in
+ABAP programming, data migration, and performance tuning. Strong
+expertise in integrating and configuring various modules. Proven track
+record of successfully delivering complex projects on time and within
+budget. Excellent communication and problem-solving skills.
+
+Work Experience
+
+SAP ABAP CONSULTANT
+ROFF Jan 2019 - Dec 2019
+
+Client Name: Navigator
+
+Industry: Paper
+
+Key Activities:
+
+‘* Responsible for providing technical support with the ABAP team
+
+‘* Working closely with functional team of Fl, MM and SD
+
+‘* Working on new requirements like user exits, reports,forms and other
+enhancements
+
+‘* Corrections/additions in existing reports, forms and other
+
+enhancements
+
+Implementation of SAP notes
+
+Maintenance of Workflow, Adobe Forms and Query
+
+Effort estimation
+
+Creation of Technical specification
+
+Client Name: Central de Cervejas(SCC)
+Industry: Beverages
+Key Activities:
+
+‘© Responsible for automating some CRM transactions with the functional
+consultant
+
+© Performing unit tests
+
+‘© Workflow Creation
+
+SAP ABAP CONSULTANT
+Olisipo / Accenture Aug 2018 - Dec 2018
+
+Client Name: Eden
+Industry: WaterSolution
+Key Activities:

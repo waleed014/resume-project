@@ -1,0 +1,161 @@
+Personal Info
+@ 410-279-0218
+
+© iesszackowitz@gmail.com
+
+@ wowjesszackowitz.com
+© Soft Skills
+
+Interpersonal Skills
+
+Collaboration
+
+Critical Thinking
+
+¢ Hard Skills
+
+Programming
+
+Server Management
+
+Security
+
+Continuous Deployment
+
+Unix/Linux
+
+Puppet, Jenkins, Zabbix
+
+AWS, Cisco
+
+Python, GIT
+
+Expert
+
+Expert
+
+Advanced
+
+Expert
+
+Expert
+
+Expert
+
+Expert
+
+Expert
+
+Expert
+
+Advanced
+
+Advanced
+
+Jessica Zackowitz
+
+DevOps Engineer
+
+Versatile DevOps manager with 6 years’ experience. Seeking to leverage proven continuous
+deployment skills to raise quality at Google. Cut customer complaints by 50% for an SaaS
+application. At Shellnac Inc,, used Jenkins and AWS tools to cut release times by 20% . Boosted
+customer satisfaction by 25%.
+
+¢ Experience
+
+2015-07 -
+2018-08
+
+2013-05 -
+2015-06
+
+2012-06 -
+2013-05
+
+DevOps Manager
+
+Frostacre Global
+
++ Led Agile team of 5 developers, 2 SysAdmins to continuous deployment of SaaS
+real estate solution with 1 million+ users. Collaborated with C-Suite and sales
+teams.
+
++ Maintained network of 30+ Unix servers with 99.9% up-time.
+
++ Transitioned to GIT version control and pair programming to raise speed 30%.
+
++ Wrote scripts to automate security upgrades. Cut vulnerabilities by 20%.
+
++ Used Puppet and Zabbix to boost quality, cutting customer complaints by 50%.
+
+DevOps Engineer
+
+Shelinac Systems, Inc.
+
++ Set up and managed 40 Linux servers with 99.95% up-time,
+
++ Managed continuous deployment of a popular SaaS stock-tracking tool.
+
++ Deployed 2 software iterations per month for 2 years. Increased customer
+satisfaction with software by 25%. Presided over a period of 30% revenue
+growth.
+
++ Used Jenkins and AWS tools to cut release times by 20%.
+
+System Administrator
+
+Litman Analytics
+
++ Set up and managed 15 Windows 2008 servers.
+
++ Wrote scripts to automatically update system components.
+
++ Cut company costs 20% through aggressive vendor management.
+
++ Assisted with refining the Software Development Life Cycle to fit system needs.
+
+¢ Education
+
+2008 -
+2012
+
+BS in Computer Science, University of Michigan
++ Pursued a passion for programming and network management.
+
++ Excelled in security classes.
+
++ President, 314 Action STEM Organization.
+
+Additional Activities
+
++ Member, DevOps Agile Skills Association,
+
++ Volunteer as DevOps for Berth County Animal Shelter.
+
++ Manage continuous deployment of fundraising app for Maple Street Soup
+kitchen.
+
++ Run half marathons to stay in shape.
+
+° Certifications
+
+AWS Certified DevOps Engineer
+AWS Certified SysOps Administrator
+
+° Conferences
+
+2017
+2015
+
+DevOps Days, Spoke on a panel about serverless networks
+
+ChefConf
+
+¢ Publications
+
+2017
+2016
+
+Article on containers appeared in “The Agile Admin"
+
+Article on monitoring best practices appeared in "DevOpsGuys”

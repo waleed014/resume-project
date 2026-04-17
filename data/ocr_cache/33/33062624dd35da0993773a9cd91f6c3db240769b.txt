@@ -1,0 +1,168 @@
+SUMMARY
+
+SKILLS.
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 XS (555) 432-1000 4 resumesample@example.com
+
+Deadine-oriented Senior Test Engineer and outstanding performer with more than 10 years’ of experience in
+‘manval testing and recent experience in automation. Proven success in leadership, operational excellence
+‘and organizational development with keen understanding of elements of the current Projects. Easily
+collaborate with team-members, developers and project managers to accomplish milestones and solid history
+of discovering errors, resolving defects, and ensuring cient expectations are met wth high quality software
+solutions,
+
+© GUITooIs: TTCN-2, GSM-Analyzer, HIT, IDA,» Operating Systems : UnbgPA & 1A 11.31], Linux
+Challenger, Quality Center 10, ALM 11, Putty 58 &62, Ax6.1, Solaris 10, Win 2k3, Win 2k8
+Languages :C.c++ ‘+ Troubleshooting Skils, Root Cause Analysis,
+Debugging Skis
+SOFTWARE TESTING LEAD 112013 to 09/2017
+
+Northwestern Mutual | Chicago, IL
+
+‘+ Anenterprise application product Functional Testing
+
+‘+ Project Lead for HPOM project.
+
+‘+ Involved in Sanity, Functional, Regression and Performance testing,
+
+‘+ Used per script and QTP to run the test cases
+
+‘© Used per script to run the Performance testing in Linux platforms and generated the result in excel
+sheet and used to analyze and compare the data.
+
+‘+ Used pertmon tool to capture the performance test data in Windows servers.
+
+‘+ Detect identiication and re-testing
+
+‘+ Ensuring that there are Zero test escapes and Defect slippages from the tests executed
+
++ Worked in releases SP14.1, SP14.2, elc and made sure to achieve the target on time,
+
+‘+ Test estimation, Test case planning and Test case designing.
+
+‘+ Test script development using pent script
+
+‘Bug reporting using ALM Version 11
+
+‘+ Automated the test cases as much as possible in all parts.
+
+‘+ Giving Presentations and OJT for new hires
+
++ RCA for Customer Detect using 5-Why's.
+
+‘+ Preparation of Daily and Week Status Report
+
+‘+ Interaction with the Business in order to resolve any queries with respect to the test packs, test
+‘scenarios and test cases.
+
+‘+ Managed the entire testing team and made sure to run the testing on time.
+
++ Followed Agile technology forthe project.
+
+‘+ Have been scrum master for the team and guided the scrum activites,
+
+‘+ Have been actively involved in R&D call and Escalation call with the customericlient
+
+SECIOR TESTENGINEER 12/2008 to 10/2013
+Amazon.Com, Ine, |White Marsh, MD
+
++ GERAN BSC Functional Testing
++ Test Lead for Functional Team-TT04 Responsible for A interface and Gb interface testing for Telecom
+team TT04, Handover functionaity testing (1713) and CBC functionally testing(TT03). Functionalty covers
+booth circu switch and packet switch features,
++ Defect identification and re-testing. Ensuring that there are Zero test escapes and Defect slippages from the
+tests executed
++ Worked in releases S14, $15, EP2.1, EP1.2, McBSC, $16, and S16.1 Stept and made sure to achieve the
+target on time.
++ Test estimation, Test case planning and Test case designing for new features ike Precise Paging and
+MOCN-Multl Operator Core Network
++ Test script development using TTCN-2 and Test environment setup using GPRS (SGSN, GGSN) simulators.
++ Worked in Maintenance Team and took the complete ownership of Telecom actives.
++ Bug reporting using Mercury Quality Center
++ Good exposure to MS-Simulator and MS-BTS message flow.
++ Very good understanding SS7, BSSMAP and DTAP protocols and message flow,
++ Involved in latest paging coordination techniques and satelite A.bis,
++ Involved in circutt poot configuration and Lapd configuration.
++ Automated the test cases as much as possible inal parts,
++ Giving Presentations and OJT for new hires,
+“RCA for Customer Pronto using 5-Wny’s.
++ Preparation of Dally and Weekly Status Report
++ Interaction with the Business in order to resolve any queries with respect tothe test packs, test scenarios
+and test cases,
+sl
+Pega | Dulles, VA
+‘+ Maintenance and administration of EMC Clarion CX Series storage Arrays.
+‘+ Used EMC Power link knowledgebase and primus for problem resolution,
+‘+ Used Navisphere manager and Navicl for administration of EMC Clanton,
+‘+ Troubleshooting LUNs and assigning them to different servers in SAN and DAS setup
+‘+ Worked on the Clarion Replication Concepts in SAN (Snap View, Mirror view, SAN Copy, Power path),
+‘+ Tectinical Consultancy and support to EMC clients for SAN storage Boxes manufactured by EMC,
+‘+ Dial in remotely to the monitoring stations for individual storage box and investigate the errors reported
+by the array,
+‘+ Work to solve or aispatch CE to field for the further action,
+‘+ Providing technical solutions to different customer.
+‘+ Stay current on technical specications and hardware requirements of EMC software products,
+including new and soon to be released products,
+‘© Worked on HIB (High incoming Boxes) for Clarion.
+‘© Working on customer escalated issue.
+‘+ Have managed the shit as a Shit Lead
+‘+ Given On Job Training to the new joiners.
+
+ORT ENGINEER 0372007 to 10/2008
+
+INICAL SUPPORT ENGINEER 0872004 to 02/2007
+Hewlett-Packard Global Soft Limited | City, STATE
+
+‘+ Extend high quaity ‘st level support for maintenance of business ertical Service.
+
+‘+ Providing technical support for the IPG products.
+
+‘© Training and mentoring the new batch and the poor performers.
+
+‘+ Assisting the Quaity Analyst in giving feedback to the agents to improve quality.
+
+‘+ Intiating quality related processes.
+
+‘+ Monitor the Team's internal and external quality performance and take action it necessary
+
+‘+ Client Communication - including conference calls, Received SPOT awards for Extra mile customer
+
+‘+ Received several customer appreciation malls & raves.
+
+‘+ Due to a good track on customer service kil - taken care of the CCHS cases,
+
+‘+ Received the “Friend in Need “Award for maintaining good work environment and supporting the team,
+
+‘+ Was promoted as an SME ( Subject Matter Expert)
+
+‘+ Received "Feather in my Cap “Avard forthe successful testing of Satelite A-bis
+
++ Training:
+
+‘© Wipro - SAN Fundamentals,
+
++ Clarion Foundations.
+
++ GSM-GPRS Fundamentals.
+
+Master of Science Electrical And Electronics Engineering 08/2021
+California State University - Sacramento, Sacramento, CA
+
+‘+ 9.074 GPA and Academic standing is Good Standing
+Bschelor of Engineering | Production Engg 05/2004
+
+Karunya Institute of Technology, Coimbatore, Tamil Nadu, India
+Percentage - 72.8 %
+
++ STF Certiteation
+‘+ Comptia A+ Certification
+++ GSM-GPRS Hallmark Certification

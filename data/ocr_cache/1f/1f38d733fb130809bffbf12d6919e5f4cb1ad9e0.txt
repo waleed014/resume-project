@@ -1,0 +1,47 @@
+Robert Smith Phone (1234567868
+
+Email Infoguvikresume,com
+Website wont, quikresuime, com
+Junior Sql Server Developer LUnkedin: linkedin.com/quikresurne
+
+‘Address; 1737 Marshullle Road, Alabarna
+
+SUMMARY
+Responsible for supporting the lead develaper with maintenance of our software, management of
+fur setver infrastructure, backups, data migrations for client enboarding. diagnose systern Issues,
+with our technical support team and other technical projects
+
+SKILLS
+
+Management, organizing
+WORK EXPERIENCE
+
+Junior Sql Server Developer
+‘ABC Corporation - January 2022- December 2012
++ Identifies and understands business needs during requirements gathering to effectively
+design, develop, test, and deploy reports or applications.
+Stress test and optimizes the system for efficiency in a estibuted database.
+Analyzes internal processes ond make recommendations for automated workllow processes
+with eventual implementation,
+Proposes technical solutions, new application design, process lows.
+Builds custom data imports as required.
+‘Troubleshoot and problem solve SQL database Issues.
+Implements and tests softwarelserver upgrades as needed to gain better functionally
+
+Junior Sql Server Developer
+Detta Corporation - 2008 - 2012
+Create stored procedures, views, functions, tables, and ensure their stability, reliability, and
+performance.
+Design, develop, and maintain SSRS reports based on user requirements,
+Write and optimize SOL statements for data access and retention.
+Test databases for performance, fine-tune when necessary.
+Collaborate with developers on database design, query tuning. and schema refinement
+Respond to feedback from users regarding performance and work with developers to improve
+the performance of queries and indexes,
+Tune FSOL queries and stored procedures to improve performance and sustainabilty
+
+EDUCATION
+
+Bachelor's of Engineering
+
+(0 This Era sume Tamla is the copyright of Onakesume com. Uso Guldatns

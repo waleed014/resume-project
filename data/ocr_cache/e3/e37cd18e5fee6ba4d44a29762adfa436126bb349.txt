@@ -1,0 +1,90 @@
+DARYL JACOBI
+
+119 Skylar Landing, Phoenix, AZ + +1 (555) 426 5261
+
+‘WORK EXPERIENCE
+
+SENIOR PYTHON DEVELOPER 10/2017 - PRESENT
+Phoenix, AZ
+‘+ Creation of python backend and javascript frontend components integrating with the firm’s enterprise management systems
+‘+ Hands-on experience developing and maintaining innovative test automation frameworks
+‘+ Build and automate deployment APIs (REST, NETCONF, RESTCONF, ete.) for interfaces between network elements, EMS's, BSS, Data
+bus, Orchestration tools, and Customer Portals
+
++ Automation/Orchestration/Development, Java development/scripting, JavaScript, development/scripting, Python
+development/seripting, Agile principles and practices, Web Framework (preferably Flask), Database, Linux, Excellent communication
+skills
+
+‘+ Experience in C/C++, Python and/or Java
+
++ Understanding of regulatory rules and applications
+
+‘+ Python development experience
+
+PYTHON DEVELOPER 12/2014 - 04/2017
+San Francisco, CA
+‘+ Analysis: Analyze/ereate business requirements and translate into low level design and/or custom program
++ Coding: Develop model solutions in mixture of languages (primarily Python or C++) to run in Transunion batch and online environment
+‘meeting while meeting customer deadlines. Learns internal systems and uses available tools to support code development. Understands
+the process behind code walkthroughs and challenges peers when necessary
+‘+ Testing: Performs unit testing on developed code and volume testing. Executes functional test cases received from Quality Assurance team.
+Understands and ean perform Quality Assurance tasks as needed. Creates necessary materials for turnover to Quality Assurance team.
+Assist with the analy
+
+is of test results to ensure that programs are meeting the technical and customer requirements
+
+‘+ Code Deployments: Performs model code verification and deployments into target production applications while communicating status to
+internal stakeholders
+
+‘+ Technical Support: Performs ad-hoc research and model debugging with assistance of senior team members and/or leadership to identify
+issues and provide solutions
+
+‘+ Communication: Conveys problems, solutions, updates and project status to peers and management. Develops and maintains program
+and user documentation. Collaborates within own team and cross functionally on model program solutions
+
++ Innovation: Identifies and implements quality and process improvements. Be able to take on challenges to implement new ideas
+
+‘+ Experience with Python (object oriented)
+
+JUNIOR PYTHON DEVELOPER 04/2009 - 07/2014
+Houston, TX
+
++ Fullstack experience (front, back, UI, and webservices)
+
++ Good coding and seripting in python
+
++ Experience with Python
+
++ Experience developing under Linux
+
+‘+ Good experience in core python object oriented programming
+
+‘+ Python Text parsing/analysis and familiarity with ORM (Object Relational Mapper) libraries
+
+‘+ Good experience with communication with devices using python such as Ports, Sockets etc.)
+
+= Bi
+
+ic understanding of front-end technologies, such as JavaScript, HTML5, CSS3 and good UI development experience. (Angular, high
+charts, ete.)
+‘+ Database knowledge and python interaction with databases
+
+EDUCATION
+
+GRAND VALLEY STATE UNIVERSITY 2005 - 2009
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Strong software development skills and demonstrated experience in languages such as Python, Perl, C/C++, PowerShell, ete
+‘+ Strong object oriented design skills and experience in identifying and applying design patterns
+
++ Strong Java programming skills and experience maintaining complex applications
+
+‘+ Data Science skills - Python, R and Data Analytics/Machine Learning skills
+
+‘+ Verbal and written communication skills, problem solving skills
+
+‘+ Excellent communication (written & spoken) with strong analytical and problem-solving skills
+
+‘+ Extensive software engineering experience. Strong analytical and problem solving skills

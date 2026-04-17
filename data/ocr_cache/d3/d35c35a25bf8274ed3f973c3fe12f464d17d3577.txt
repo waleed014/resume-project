@@ -1,0 +1,111 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+
+Talented Software Developer equipped with great coding, debugging and project management abilities. Accomplishes project goals consistently
+
+with elegant, scalable code. Works great with team members under Agile and Scrum frameworks.
+
+* Coding and Debugging
+* Microsoft Windows and Office
+
+* Multitasking and Prioritization
+
+* Tracking and Documentation
+
+© Customer Service Support
+
+« Issue and Resolution Tracking
+
+* Service Schedule Coordination
+
+* Resolving Problems and Incidents
+Analytical and Methodical
+
+* Software Evaluation
+
+* Teamwork and Collaboration
+
+* Troubleshooting Network Issues
+
+Automated Processes
+
+Root Cause Identification
+Application Process Improvement
+Kayako Support Ticketing System
+Remote Technical Support
+Database Management
+
+Hardware and Software Configuration
+Security+ Certification
+
+Linux+ Certification
+
+UNIX Shell Scripting
+
+MySQL
+
+Service Desk Team Management
+
+Application Support Engineer, 01/2021 - Current
+
+Cox Enterprises — Fort Myers, FL
+
+EXPERIENCE
+
+* Conducted root cause analysis to identify basis of application problem.
+* Collaborated with internal teams to resolve customer issues and support customer service goals.
+
+* Delivered technical support to clients by offering solutions based on specific problems and concems
+* Debugged and repaired application issues
+
+« Performed troubleshooting and resolution for company-wide technical issues
+
+* Updated and maintained knowledge base information for documentation and future reference
+
++ Assisted in development and implementation of quality assurance initiatives.
+
+* Optimized application process flow to improve performance.
+
++ Installed modules for databases to meet client specifications.
+
++ Administered on-site support and application engineering for custom products with unique interfaces.
+# Suggested changes to support practices to drive improvements.
+
++ Restored applications using programming languages such as pyton and Ruby.
+
++ Applied innovative approaches to application design through creative inception and planning.
+
+* Contributed to requirements gathering and design development meetings.
+
+« Increased efficiency through task automation
+
++ Identified, debugged and fixed system bottlenecks and problems.
+
++ Promoted positive customer support training experience after application completion.
+
+Software Engineer, 11/2019 - 01/2021
+Executech — Spokane, WA
++ Recommended enhancements and updates to system software based on performance data and user feedback.
++ Engaged with user experience designers crafting clean interfaces with simple, intuitive interactions and functions for software package.
+« Engineered cross-platform software and exported system performance data.
+« Integrated scanning component to work with server system.
+* Contributed to sales presentations to translate technical information into easy-to-understand software solutions.
+« Introduced automation tools to enhance workflow.
++ Tackled development tasks based on system requirements and documented approaches.
+* Coordinated with project managers to meet development timelines and plan testing.
+« Liaised with QA testers to perform testing meeting various parameters.
+* Developed mitigation strategies and prepared standard operating procedures
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Bussiness Information Technology MANAGEMENT, 04/2021
+
+‘Western Governors University - Austin, TX
+
+AWS Certified Developer
+AWS Solutions Architect PROFESSIONAL,
+
+CERTIFICATIONS

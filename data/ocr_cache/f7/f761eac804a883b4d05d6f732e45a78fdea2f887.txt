@@ -1,0 +1,54 @@
+ROBERT SMITH
+
+Senior ETL Developer III
+
+Info@quikresume.com | https://Qwikresume.com
+
+Senlor ETL Developer with 18+ years of experience in develaping and designing
+ETL methodology for supporting data transformations using Informatica
+PowerCenter and SQL Server Integration Services (8515) in Banking, Healthcare,
+Manufacturing, and Telecom industries, Experience in creating Ad Hoc,
+parameterized reports, inked reports, Snapshots, Drilldown and Drill through
+reports using SQL Server Reporting Services (SSRS) and Crystal Reports
+
+OCTOBER 2002 - PRESENT
+SENIOR ETL DEVELOPER II! - VISIANT HEALTH (BCBS Ml), Nj
+
++ Analyzing, extracting and documenting the functional requirements of the
+existing legacy system,
+
++ Deducing the business rules and process rules from the stored procedures that
+were an active part of the file loading process and validating with CMS
+compliance guidelines,
+
++ Creating module architectural design, Interface design, and detalled level
+design documents,
+
++ Creating requirements traceability matrix for the development team to monitor
+deliverables.
+
++ Exporting ID mappings as applets In PowerCenter for validation and audit of
+source data prior to loading
+
++ Creating views, Indexes, sequences, synonyms, materialized Views for ETL
+development,
+
++ Developing mappings to perform consolidation pracess, identifying the potential
+discrepancies of data and calculating payment reconciliation for various
+healthcare clients ta maximize the accuracy of payments to CMS,
+
+2000 - 2002
+ETL DEVELOPER - ABC CORP
++ Participated in analyzing business requirements associated with the design and
+Implementation of highly efficient, highly scalable enterprise data processes.
++ Designed and developed the robust and efficient ETL processes,
++ Participated in the analysis, design, development, troubleshooting, debugging
+and maintenance of the enterprise data warehause system.
++ Identified, investigated, tracked, and resolved the critical technical errors
+ensuring the solution is timely and of acceptable quality
++ Established and enforced ETL (extract, transfer, and load) standards, guidelines,
+procedures and quality assurance for database deliverables such as data
+Joading, data maintenance plan, and security.
++ Reviewed and analyzed data objects and models to improve data management
+
+(© Ts Free Resume Template isthe copytight of Owikrestne sot. Usau Gulden

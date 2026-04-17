@@ -1,0 +1,57 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Professional Summary
+
+Responsible Network Technician with comprehensive experience scheduling conversions and cutover. Extensive experience
+
+monitoring, tracking, and evaluating global IT infrastructure incidents.
+
+Skills
+
+Database design
+Expert in Java, PHP and Perl
+Python and Ruby proficient
+
+* Microsoft MSCA/MCSE Certified
+* Java/Cjce
+
+* QA tools
+
+Work History
+
+Software testing, 2012 to Current
+ABC - City, STATE
+
+* Designed and implemented new server standards for core business services.
+
+* Utilized a pipe and filter model to find bottlenecks and enable measurement of system resource usage and process behavior at
+boundary limits of all operations.
+
+* Developed data architecture design to enable analysts to perform targeted customer analysis.
+
+* Recommended architectural improvements, design solutions and integration solutions.
+
+* Provided methodologies for object-oriented software development and efficient database design.
+
+* Managed creative projects from concept to completion while managing outside vendors.
+
+* Consistently met deadlines and requirements for all production work orders.
+
+* Designed Sharepoint masterpage and page layouts, serving as company’s main Sharepoint support for all technical
+
+complications.
+Education
+
+Master of Science: Computer technology, 2004
+govt school - chennai
+
+Accomplishments
+
+BPT Implementations
+
+Worked closely with BA
+Certifications
+
+ISTQB Certification

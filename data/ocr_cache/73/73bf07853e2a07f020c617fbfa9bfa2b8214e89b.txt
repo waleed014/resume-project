@@ -1,0 +1,134 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Experienced professional with deeper knowledge in software domain, quality assurance, application suite and practical knowledge with
+industry experience in designing and handling projects. Recognized consistently for driving overall operational improvements, performance
+excellence and contributions to success of projects in different stages.
+
+Sxnis
+
+‘© Quality Assurance - Test Automation using Selenium, C#.Net _* CA Plex—Rapid Application Development Tool.
+
+framework, FitNesse (Test Automation Tool) with DB-FIT + Hands on Experience on PYTHON, HTML.
+Framework, Test Complete & Load Complete and manual testing Experienced in performing Manual/ Automation Testing in both
+using HP - ALM (HP Quality Centre), Water fall and Agile methodologies.
+
+‘+ Database Design- SQL Server Management Studio, MySQL, * Working knowledge in different Operating Systems and using
+SQL. various Microsoft Office Applications.
+
+‘« Experience in Testing of pipelines in Azure Data Factory & * Good Team Player with Multi-Tasking, Analytical & Problem
+Performing backend testing. Solving Skills.
+
+‘+ Experience in using Project management tools like Azure, TFS
+and Jira Environment.
+
+‘+ Data Analytics - Generating reports Using Tableau and Performed
+Manual testing on PowerBI Reports
+
+Worx History
+
+06/2019 to Current Software Development Engineer in Testing
+Lithic — Austin, TX
+
+‘+ Well versed with Software Development Life Cycle(SDLC), Defect Lice Cycle Methodologies, Test Process and
+Software Testing Life Cycle(STLC) aspects such as developing Test Scenarios, Test Plans, Test Cases, Test
+Coverage and Test Summary Reports.
+
+« Experience in Designing, Developing and maintaining Test A utomation Frameworks like Data Driven and BDD.
+
+‘* Developed BDD Frame work, added global and application level libraries
+
+‘* Designed, Developed and executed automated tests using Selenium WebDriver.
+
+‘Verified integration of various components in the application and executed End-To-End Testing.
+
++ Performed backend testing to ensure that user data was updated in database using SQL.
+
+* Worked as one of the crucial members of the team for the development of the front-end application in C# from
+prototyping to full scale implementation.
+
++ Provided Production Support for applications and fix production problems.
+
++ Performed automation testing on the Stored Procedures using C# with NUnit Frame work in Visual Studio.
+
+‘+ Performed Automation Testing on SQL Data Transformation and Consumption using Fitnesse with DB-FIT
+framework to achieve Acceptance Testing
+
+‘+ For Component and integration Testing, the unit test cases are written in Azure Test Plan.
+
++ Performed testing on Azure Data Factory by understanding its IsonScript using C# to track the flow of the data,
+source and Destination connectors, Tables Mapping and also helped the front-end people in fixing cosmetic issues.
+
+‘+ Performed manual testing on all the PowerBI generated Reports for Data validation, Format and Performance of
+the reports and Row level security aspects as well.
+
+* Took overall responsibility for sprint execution: helped team with sprint planning, Team members issues during
+retrospective and daily scrum meetings.
+
+05/2016 to 07/2017 Junior QA Tester
+
+Solarsoft Group Limited — City, STATE.
+‘+ Developed a hybrid of waterfall and incremental model as the SDLC
++ Executed test cases for functional, validation, end-to-end, and regression testing for application.
++ Performed SQL statements for set up data and retrieved data for tests.
++ Analyses applications and errors, escalated issues to developers, and verified fixes.
+‘+ Helped front-end teams in modifying their HTML templates.
+‘© Experience in version controlled tool GIT
+© Excellent skills in Documentation of work, test automation and pioneered team to drive towards test automation.
+«Performed testing on the back data using C# with NUnit Frame work and Created Tables, Schemas and Stored
+
+Procedures in SQL Server using SQL.
+
+* Used HP-Quality Centre for requirement analysis, scheduling and generating test cases
+* Supported development of HSBC invoice finance application using CA Plex.
+
+05/2015 to 12/2015 Junior Quality Assurance Analyst
+Bharat Sanchar Nigam Limited — City, STATE
+
+‘+ Communicated with customers to meet design requirements for OEM products.
+
+* Interacted with Project manager, Project team members and Customers in analysing the User stories and acceptance
+criteria.
+
++ Built functional prototypes of products, components and mechanisms.
+
+‘+ Wrote protocols, qualification documents, test plans and test reports for quality assurance purposes.
+
++ Performed Data Driven testing by getting the data from Excel and used SQL Queries to fetch data in MySQL
+DataBase
+
+© Developed BDD Automation Framework using Selenium and developed features and Scenarios
+
+‘« Performed in-depth compatibility testing on Windows, Android and iOS mobile devices.
+
+Epucarion
+
+05/2019 ‘Master's: Computer And Information Sciences
+Southern Arkansas University - Magnolia, AR
++ Received appreciation for our Robotic Motion process project done using Machine learning at Souther Arkansas
+University.
+* Received Graduate Assistance Scholarship.
+
+04/2016 Bachelor's: Electronics And Communications Engineering
+Jawaharlal Nehru Technological University - Andhra Pradesh, India
+
+‘+ Achieved best project award for the project ‘Robo Farming’ at Andhra University, India in 2015. And gave various
+presentations on various technical topics in different Universities
+
+* Selected for intemship for a challenging project at BSNL (Federal Project)
+
++ Elected as Secretory for Eco Friendly Association Club in 2013,
+
+«Elected as head member of Institution of electronics and Telecommunication engineers(IETE) for my university
+which is India's leading recognized professional society devoted to the advancement of Science and Technology of
+Electronics, Telecommunication & IT of India in 2014.
+
+04/2012 High School Diploma
+‘Sri Gowthami Smart School - Andhra Pradesh, India
+* Received Scholarship for outstanding performance in Public Exams
+« Selected as outstanding student for Quantitative Reasoning in Math’s & Science Olympiads 2011.
++ Participated in various different Schools technical project exhibition and received prizes.

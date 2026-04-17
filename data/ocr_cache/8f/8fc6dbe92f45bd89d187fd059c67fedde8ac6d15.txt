@@ -1,0 +1,88 @@
+Lela Streich
+26859 Schneider Trace, Boston, MA Phone: +1 (555) 298 0581
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+CIB BACC-EQ DERIVATIVES STRATEGIC MARKET DATA PLATFORM ASSOCIATE JAVA
+DEVELOPER
+Dallas, TX
+06/2014 — present
+‘© Quality/process improvement - Participate in group improvement activities and initiatives to improve
+process and product quality in pursuit of excellence
+‘* Working with developers in other component teams to ensure consistent integration of services across
+teams
+‘© Design and develop high-performance Java Components
+‘* Core Java developer works independently and part of a team to support/enhance Securities Lending
+Application
+‘© Design and develop code artifacts, create release notes and support documentation
++ 1) Core Java developer works independently and part of a team to supportienhance
++ Interest in the latest web technologies and techniques. Willing to take initiative to suggest or make
+improvements
+
+ASSOCIATE, JAVA DEVELOPER
+Chicago, IL
+10/2009 — 02/2014
+‘© Assist Quality Assurance engineers in issue identification, isolation and remediation issues during formal
+QA cycles
+2) Provide post production support of software deployed and support Operate team with any queries
+Provides level three support during zonal business hours (24 X 5) when on call
+4) Provide supported documentation for the software build
+Worked with communication platforms
+Develop tools and applications to automate and support applications
+Performs other duties as assigned
+
+ASSOCIATE JAVA DEVELOPER
+
+Dallas, TX
+12/2005 - 07/2009
+
++ Proactively identify issues and escalate to pertinent team members; update project team lead on work
+status
+
++ 7) Worked with communication platforms
+
+‘+ Participate in the resolution of challenging and demanding problems across multiple technical
+topographies
+
+‘* Translate functional specifications into logical, component-based technical designs, and estimate the level
+of effort to implement your design
+
+‘* Represents Information Technology in cross-functional meetings and projects. Prepares for, implements
+and communicates new corporate initiatives and processes within assigned team
+
+‘+ Ensures defects are quickly assessed and/or mitigated and resolved, whether in non-production or
+production
+
+‘* Trusted advisor to Operations and cross-functional team members, providing data and technical insight
+from the application metrics, pertaining to business impact
+
+UNIVERSITY OF CALIFORNIA, IRVINE
+Bachelor’s Degree in Computer Science
+
+‘+ Experience and good knowledge with financial applications
+
+‘+ Proven ability to quickly learn new processes and tools, business domains and technical applications
+
+‘Strong knowledge of common J2EE technologies and MVC frameworks (e.g. Spring) or data engineering
+frameworks such as Spark
+
+‘* Team player with good communication skills, able to work effectively with people across different teams
+and regions
+
++ Strong knowledge of the post trade derivatives chain (trade flow, allocations, reconciliations, trade and
+
+position management)
+
+Good knowledge of FIX message
+
+4) Very good coding, testing and debugging skills
+
+Good experience with various Java Web development tools, AngularJs and HTMLS
+
+Good experience with JPA and relational databases including Oracle PLISQL
+
+Ability and willingness to work in fast paced and dynamic environment

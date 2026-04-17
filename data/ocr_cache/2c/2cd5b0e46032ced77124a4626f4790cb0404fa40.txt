@@ -1,0 +1,157 @@
+Jessica CLame
+
+100 Montgomery St 0H Floor (555) 42-000 # esumesanpleswamplecon
+
+Professional Summary
+
++ Good experience in implementing Service Oriented Architectures (SOA) with XMLJSON based Web Services (SOAP and REST)
+‘with technologies like WSDL, SOAP,
+
++ Experts in developing the integration worflows using an ESB framework.
+
++ Participate in deployment of Male ESB application using loud Hub and Strong experience in Integration using Mule ESB in
+Integrating various hid party solutions.
+
++ Expertise in using Mule Dataweave i Data wansformations fo ia Male Flow.
+
++ Expertise in working with Male API manager and RAML over AnyPoist Studi, Cloud Hub, API Gateway and Management
+
++ Good Experience with Dango, a high: level Python Web framework. Experience object-oriented programing (OOP) concepts
+swing Python Django and Li
+
++ Experienced in developing web-based aplication using Python Dango, Cv XML, CSS, HTMEL, JavaScript Angular JS, and
+iver
+
++ Good experience i core ava progeanurung concept ike dat abszactonpolvmorphsm concurrency ynehvorszation,
+
++ Experience ia methodologies ike Herative, Agile, Serum and water approaches.
+
++ Bxperence inal the phases of Software evelopment Life Cycle that inches understanding equiement, techrical analysis,
+<esign, development Integration maintenance installation, implementation and testing of various cietserver web
+applications
+
++ fective comnmuniciton and interpersonal sil ability to workin ateaevindependently and adapt quickly tonew and
+enerping teclogien
+
+Skills
+
+‘Technologies DHIML, RESTFUL, Applets, NetBeans, AJAX, XSLT, IMS,
+Male ESB 3x 4x APTManagement. MO Series SOAP, REST JDBC, 2EE, Servlets, STL
+services, Cloud mirosevce, WSDL JANP, Azure JAXB, Languages
+
+Bietalk. (Core Java, REE, HTML (CSS) JavaScript jQuery PHP, XML,
+‘Versioning Toots: Python
+
+(CIT HUB, STASH, IRA, Confuence RTC (Rational Team Databases
+
+Concer, SUN [MSSQL Server 200, rade SOL developer
+
+Webservice
+
+Work History
+
+Malesof API Developer, 1272019 to Current
+Globe Life Ine - Omaha, NE
+Responsibilities:
++ Partipte in architectural meeting, conduc cent meetings, prepare techni and design document
++ Coordinate with prograc nage to explain what aks were possible forthe system to achieve thes desired output.
++ Design and implement exception handling logging JSON Schema Validation s commen reusable components across maple
+message lows
++ Create an integration Component with extemal hed pasty apliation
++ Crete Maven Archetypes for generating fll functional REST web service supporting both XML and JSON Message
+seanformation,
++ Worked on creating SOAP and REST web services in Mul, Consumption of REST and SOAP we serves for downsteeam
++ Used Mule ESB connector: SFDC, Message Transformer, Choice Exception Strate, Batch proesting et.
++ Implement wansormes, exception handling, esting fe Secuntyof Mule ESB endpoint through OAuth.
++ Create MUnit est cases to validate, assert and spy event processors of components.
+‘+ plement interfaces between SAP Salesforce, and REST webservices,
++ Configure Mule ESB projects forthe services with ynchronous and asynchronous Mule flows
++ Configure Mile service lows with various exception handling strategies uch x Global Exeption Custom Exception and
+‘Choice Exception Strategies that notes the user With custom and simple ror descriptions.
++ Coordinate with tasting and back end teams, int during the smoke tests and aggression tess a Sprint
++ Rarcipate in 2007 production support effort after application go-live.
+"Evironment: ActiveMQ, RabbitMO, MuleSofy Spring MVC, SOAP, MMC, XSD, XSLT, XPATH, AnyPoint Studi, Sevets News,
+[R, JSON, IMS, Java CloudHb, Gitta, XML, JAXP,JAXB, WSDL.
+
+Malesoft Developer, 1/2017 112018
+‘Amazon.Com, Inc. - Bensalem, PA,
+Responsibilities:
+1+ Participate in business meetings to gather requirements.
++ Design and Develop Restful API's using API Designer and generated flows using RAML fle
++ Parcipate in analysis, design development and znplemntaton ie ces ofthe pecect,
++ Implement and consume both SOAP and Restful web services
++ Promote code from development to testing and production environmen
++ Create Flows Sub lows, and DataMapper transformations in Male configuration,
++ Implement data transformation using Dataweave and MEL
++ Participate in trouble shooting and problem solving ofthe Integrations
++ Deploy and scheduled mule project on dowd ub,
++ Create High level detailed design. topology, and testing documents,
++ Work with Business Analyst to understand the integration requirements
++ Ratcipatein diferent phases of Testing with end systems,
++ Crete Test plans, Test Suit and Test Cases
++ Crete complex queries with ois, sub-queis and nested queries in SOL queries
++ Support development tet andthe production databases.
++ Create Exception Handling forthe ease of debugging and displaying the eror messages inthe application.
++ Patcipate in 2007 production support.
+Environment: Mule E5839, Java 7, Dataweave, Cloud Hub, MS SOL Salesforce, Sibel, SAP, workday, RESTful APE
+
+‘Web Application Python Developer 08720150 102017,
+[BOK Financial Corporation City, STATE
+
+Responsibilities:
+
++ Feicipte in sequisenant gathering and mass phase ofthe project documnng the business requismnent by conducting
+‘workshopsimeetings with vaious business uses,
+
++ Used the Django Framework to develo the application.
+
++ Implement web applications i Flask and spring frameworks following MVC architecture.
+
++ Use Python to place data nto JSON ils fr testing Django Websites,
+
++ Update and manipulated conten and files by using python script.
+
++ Organize Python code using PEPS oni tool including documentation of scripts
+
++ Implement web aplicaions in Flak and pring famewerks following MVC archtecse.
+
++ Installing configuring, and upgrading EMC Power path for AX servers.
+
++ Used Django configuration to manage URLs and application parameters.
+
++ Wrote Automation tet caves using Selenium WebDriver using Python API
+
++ Analyoe peformance tet requirements snd veloped tet plas el ave doe dabgingto uct ts objective
+sequement
+
++ Perform troubleshooting fixed, and deployed many Python bug fs of the two main applications that were a main source of
+data for both customers ad internal customer sevice team.
+
+Envizonment: Python. Amazon AWS 53, MiySOL, HTML, Python 27, Dango L4, HTMLS, C35, XML, MySQL, MS SOL Server,
+JavaSript AIS Lis Shall Scripting, AJAX.
+
+Security Engineer, 042015 10072015
+Fest Citizens Bancshares ~ City, STATE
+Responsibilities:
++ Monitor and analyze network lfc and secu alerts,
++ Inventigate intrusion attempts and perform in-depth analysis of exploits.
++ Provide network intrusion detection expertise to support timely and effective decision making of when to declare incident
++ Conduct proactive threat unking elated thet esac
+«Review security events that are populated in Secu Information and Event Management (SIEM systern
++ Analyze vai of network and host-based secusty appliance logs (Fsewalls, IDS, HIDS, Sys Logs, tc) to determine coeect
+semedation actions an escalation paths for each incident
++ Independently folow procedures o contain analyze and eradicate malicious activity
++ Documental activities during incident and provide leadership with status updates during lie cycle of incident.
++ Provide information garding intrsion event, security incidents, and oer tet indications and warning information 2
+let
++ Track secuty trend, statistics, and key gure for each client
++ Assis with development of processes and procedures to improve incident response tines analysis of incident an overall SOC
+fancone.
+
+Education
+
+Associate of Science
+Asher College -USA
+
+MuleSot Certified Developer
+Integration And API Associatea

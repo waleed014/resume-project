@@ -1,0 +1,79 @@
+LEATRICE FRIESEN
+
+14357 Wiegand Drive, Los Angeles, CA
+
+PHONE
++1(555) 809 7046
+
+EXPERIENCE
+
+Dare Inc
+Dallas, TX // Director of Data Science // 07/2019 — present
+
+Experience implementing scalable, distributed, and highly
+available systems using Google Could Platform
+Experience with Google Al Platform/Vertex Al, Kubeflow
+and Airflow
+
+Experience in data processing using SQL and PySpark
+Good understanding of algorithmic complexity of model
+training and testing, particularly for real-time and near
+real-time models
+
+Understanding of ad technologies and how they are
+evolving in the new media landscape and the roles of
+different addressable tactics - TV, CRM, mobile, search,
+display
+
+Boehm, Borer and Effertz
+
+Dallas,
+
+.
+
+X // Data Science // 12/2013 - 02/2019
+
+Cyber analysis or SEIM systems
+
+Pharmaceutical product use, managed care,
+medical/hospital claims and structure/business needs of
+pharmaceutical customers
+
+Analytical experience with longitudinal consumer data
+Use of high volume healthcare data, particularly
+prescription or claims data
+
+Hands-on data science director who can lead and conduct
+deep-dive analyses to identify the needs and priorities of
+the business
+
+Manage, develop, and motivate a group of data scientists
+Work in an agile format to deliver products to customers
+
+EDUCATION
+
+Fashion Institute of Design & Merchandising
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Experience with statistical and modeling techniques such
+as analysis of variance, sampling plans, regression
+modeling, and classification modeling
+
+¢ Insight/analytical work experience
+
+¢ Experience with at least one of Python/R
+
+¢ Database/SQL experience
+
+¢ Knowledge of Machine Learning
+
+¢ Knowledge of other operating systems other than
+Windows OS
+
+¢ Excellent knowledge of data structures and algorithms
+
+¢ Data Munging Skills
+
+¢ Comfort working remotely and experience with Github

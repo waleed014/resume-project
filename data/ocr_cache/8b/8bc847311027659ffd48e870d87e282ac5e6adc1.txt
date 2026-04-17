@@ -1,0 +1,117 @@
+WILLIAM GREEN
+
+DEVOPS MANAGER 9 LOSANGELES, CA 90291, UNITED STATES % 3868683442
+
+° DETAILS °
+
+1515 Pacific Ave
+Los Angeles, CA 90291
+United States
+3868683442
+email@email.com
+Place of birth
+San Antonio
+
+Driving license
+Full
+
+© SKILLS °
+Information Security (WAF, Bot)
+
+ci/cD
+
+Microsoft Azure
+
+Agile Project Management
+
+Amazon AWS
+
+Automation
+
+Compliance (PCI, ADA AAA)
+
+Certified Scrum Master (CSM)
+
+© LANGUAGES °
+
+French
+Dutch
+English
+
+° HOBBIES °
+
+Triathlons, Adventure Racing
+
+2
+
+2
+
+PROFILE
+
+Skillful DevOps engineer with networking and programming experience. As Systems
+Administrator at (Insert Company Name), implemented and maintained 19 Windows
+servers. Developed scripts to program system updates. Worked closely with vendors to
+reduce company costs by 15%.
+
+EMPLOYMENT HISTORY
+
+DevOps Manager at Landrover, Knoxville
+January 2021 — January 2021
+
+Responsible for designing and developing computerized deployment and scaling methods
+
+based on Vagrant and Chef for a broad range of server types and application tiers. This
+includes Zend PHP, Elasticsearch, IIS Clusters
+
++ Leading Agile team of 6 developers and 1 SysAdmins to constant deployment of
+SaaS real estate solutions with three million+ users.
+
++ Maintaining a network of 40+ Unix servers with 99.2% up-time.
+
+« Changed to GIT version control and pair programming to improve speed by 38%.
+
+Utilized Puppet and Zabbix to improve quality, which drastically reduced customer
+
+complaints by 78%.
+
+DevOps Manager at Jeep, Manggar
+
+January 2019 — December 2020
+
+Tasked with the primary purpose of maintaining SVN repositories for DevOps
+environment: automation code and configuration.
+
+« Setting up and managing 12 Windows 2010 servers.
+
+« Writing automated Ansible scripts to update system constituents, saving 15% time
+on admin.
+
+« Cutting company costs by 29% using assertive vendor management.
+
++ Assisting with refinement of the Software Development Life Cycle to fit system
+requirements.
+
+DevOps Manager at Fila, San Felipe
+
+January 2017 — October 2019
+
+Responsible for a team of 10 developers designing automation and deployment utilities
+utilizing Bash, Ruby, Python, Powershell, and Rundeck.
+
+« Designing and developing computerized deployment and scaling methods based
+on Vagrant and Chef for a broad range of server types and application tiers. This
+includes Zend PHP, Elasticsearch, IIS Clusters.
+
++ Writing customized monitoring and integrated monitoring processes into
+deployment methods, developing self-healing solutions.
+
+* Creating automation and deployment guides for relational and NoSQL databases
+(standalone and RDS). This includes Mysql, MSSQL, Redis, MongoDB, and Neo4j.
+
+EDUCATION
+MS in Computer Science, University of Michigan,, Millau
+January 2021 — Present
+
++ Followed a passion for programming and network management.
+« Surpassed expectations in security classes.
++ President of the 317 Action STEM Organization.

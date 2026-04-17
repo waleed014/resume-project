@@ -1,0 +1,216 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
+Mule
+‘Mule 3.x, Mule 4.x AnyPoint Studio
+6.5/7.5 and MMC
+
+Language
+
+Java, Dataweave, Python, Shell
+Script
+
+Web Technologies
+
+HTML, DHTML, JAVASCRIPT,
+jQuery, XML, AJAX, XSLT.
+Databases
+
+Oracle 9i, 10g, PL/SQL, HAL,
+‘MySQL
+
+IDES
+
+Eclipse, NetBeans, IntelliJ,
+AnyPoint St
+Tools & Utilities
+
+SVN, CVS, GIT, Jenkins, JMeter
+Operating Systems
+
+Windows, Linux, AIX
+
+EDUCATION
+
+Bachelors
+
+CERTIFICATIONS
+
+‘MuleSoft Certified Developer -
+Integration and API Professional
+
+PROFESSIONAL SUMMARY
+
++ 8+ years of professional experience in SDLC including Requirements gathering, Analysis, Design,
+Development, integration and testing of applications.
+
++ 4+ years of experience in Mule ESB, API Management, CloudHub and continuous integration.
+
++ Design and develop enterprise services using RAML and REST based APIs.
+
++ Good experience of fully applying API authentication methods: Basic Authentication, applying API
+key, and Oauth 2.0.
+
++ Good experience in designing RESTful APIs making use of C4E API LED connectivity approach:
+‘System API, Process API, Experience API.
+
++ Good experience in SOA and experience in developing Web services, WSDL, SOAP and JAXB/JAX.
+
++ Experience using mule connectors like DB, HTTP, HTTPS, FTP, FILE, SFTP, JMS, SF etc as a part of
+integration usage.
+
++ Experience on creating Flows, Exception handling strategy, Dataweave transformation, and other
+activities.
+
++ Strong development experience with producing and consuming Java Web Services using WSDL,
+SOAP, JAX-WS, JAX-RS, CXF, AXIS, JERSEY, XML, WS-Security.
+
++ Strong experience in integration Technologies like Mule ESB integrating various third-party
+financial solutions with the custom-made web application.
+
++ Experience with Agile - Sprint methodologies to do requirements gathering, analysis and planning,
+development & testing and documenting them.
+
++ Good hands on experience using mule connectors like Salesforce, File, Database, JMS, SMTP other
+connectors as a part of integration usage.
+
++ Experience with different version control/tracking systems like: GIT, GitHub, bitbucket, Jenkins,
+JMeter, CVS, Harvest, Clear Case & SVN.
+
++ Excellent communication skill and able to work as an individual and as a team as well.
+
+WORK HISTORY
+
+Datto - Mulesoft developer
+
+albany, NY + 07/2020 - Current
+
+Responsibilities:
+
++ Participate in agile - Scrum methodologies to do requirements gathering, analysis and sprint
+planning
+
++ Diligently work with client to perform requirement analysis, design, and the implementation
+
++ Design and develop enterprise services using RAML and REST based APIs and used various
+transformers in Mule ESB based on use case and had implemented the custom transformations
+
++ Create Mule projects for the services with synchronous and asynchronous Mule flows
+
++ Create MULE ESB artifact and configured the MULE configurations files and deployed
+
++ Implement Restful/SOAP Web Services in Mule ESB based on SOA Architecture
+
++ Use Mule components such as: File, SMTP, FTP, SFTP, JDBC Connector and Transaction Manager
+
++ Migrate Mule ESB 3.9 apps to Mule ESB 4.2
+
++ Create several flows for new requirements and variety use cases using the MuleSoft AnyPoint
+Studio of Mule ESB
+
++ Transform messages using XSLT, Dataweave, and Custom Java Transformers to transform data
+from one format to another format using Mule ESB
+
++ Used GIT as version controlling tool and Maven for building and deployed application to CloudHub
+
++ Used MUnit for Mocking and Unit testing Mule flows
+
++ Used Logaj to capture the log that includes runtime exception and for logging info and are helpful
+in debugging the issues
+
+Environment:
+
+‘Mule ESB server Runtime 3.9.3/4.1.0/4.2.0, ActiveMQ, AnyPoint Studio 6.5/7.4, AnyPoint
+
+Platform, Postman, SoapUI.
+
+Datto - Mulesoft Developer
+
+Portland, OR + 08/2018 - 06/2020
+
+Responsibilities:
+
++ Collaborate with client and designed Business Requirements document for the development team
+
++ Create REST contract document using RAML both on Design Center and AnyPoint studio
+
++ Create new and updated existing APIs using RAML and API KIT for defining integration schematics
+
++ Provide and consume of SOAP and REST services using CXF for SOA architecture
+
++ Transform message using XSLT, Dataweave, and Custom Java Transformers to transform data from
+‘one format to another format
+
++ Leverage various connectors such as Sales force, FTP, HTTP, VM, File, SMTP, SFTP, Servlet, and
+Database
+
++ Secure and RESTful API using Oauth 2.0 framework using external identity provider
+
++ Deploy applications into MuleSoft CloudHub using CICD pipeline tool set such as Jenkins Maven, Git
+and Nexus
+
++ Create batch jobs to run at schedule times between Oracle database and salesforce
+
++ Configuring the Mule process for fetching the data from topic and makes web service calls to the
+middle tier Mule ESB for processing
+
++ Contribute to unit testing and writing the MUnit Test cases for the flows and made use of Git hub
+for version and source control
+
++ Analyze Mule administration, configuration and tuning and integrated the workflow rule engine for
+performing the validation process with MuleESB
+
++ Contribute to fixing issues and triaging in PROD environment
+
+Environment:
+
+SVN, Java, Jenkins, Spring Core 3.0.7, MVC, Oracle11g, JPA, Mule ESB 3.8.x, GIT, AnyPoint
+
+Studio 5.0, Hibernate3.0, SOAP, REST, SOA, JUnit4.9, IBM WebSphere, log4j, SOL, PL/SQL,
+
+‘Maven, Junit, TestNG, Unix/Linux JDBC, XML, UML, Eclipse.
+
+‘Cambium Learning Group - Software Engineer
+
+Washington, DC + 05/2015 - 07/2018
+
+Responsibilities:
+
++ Design and develop the application using agile methodology
+
++ Used the iterative incremental framework Scrum with Agile Software Development
+
++ Create Ul using JSP, dynamic JSP and page validations using JavaScript
+
++ Participate in database schema design and review meetings
+
++ Configure application flow, controlling logic and navigation
+
++ Create base classes, framework classes and common re-usable components
+
++ Done code re-factoring the existing components to meet the current application requirements
+
++ Create APIS including JDBC, XML, Servlets, JSP, and JavaBeans, Spring Framework
+
++ Participate in Performance tuning, debugging issues in testing and deployment phases
+
++ Implement RDBMS to add the additional condition for the system to support a tabular structure for
+the data with enforced relationships between the tables
+
++ Connected with data using PL/SQL for querying the data
+
++ Done production support and triaging issues.
+
+Environment:
+
+Java, J2EE, JSP, Servlets, EJB, XML, HTML, Java Script, JDBC, Oracle, PL/SQL, Eclipse, spring,
+
+Hibernate, RDBMS, Tomcat

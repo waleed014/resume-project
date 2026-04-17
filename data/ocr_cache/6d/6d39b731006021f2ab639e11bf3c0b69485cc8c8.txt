@@ -1,0 +1,60 @@
+y
+Curriculum Vitae
+
+Personal Information
+
+Postal Address: (available ypon request)
+Denver, CO 80205
+
+Office: 303-275-3713
+
+Cell: 720-394-9347
+gruchalla@gmail.com
+http:/kenny.gruchalla.org/tesearch. htm!
+
+Education
+
+2009 Ph.D. Computer Science, University of Colorado at Boulder, Boulder, CO.
+‘Thesis: Progressive Visualization-Driven Muttvarate Feature Definition and Analysis,
+‘Advisor: Professor Elizabeth Bradley
+GPA:3.9140
+MS. Computer Science, University of Colorado at Boulder, Boulder, CO.
+Thesis: Immersive Well-Path Planning: Investigating the added value of immersive visualization
+‘Advisor: Professor Clayton Lewis
+GPA:3.914.0
+B.S. Computer Science, New Mexico Institute of Mining and Technology, Socorro, NM.
+GPA:3.5/4.0
+
+Experience
+
+National Renewable Energy Laboratory (NREL), Golden, CO (June 2009 - present)
+Jun 2009 - present Senior Scientist.
+I lead NREL scientific data visualization efforts in support of renewable energy research,
+collabore ‘with NREL domain scientists in the visualization of complex, large, multivar
+data.
+
+University of Colorado at Boulder, Boulder, CO (April 2001 - present)
+
+May 2011 - present Assistant Professor Adjunct,
+Department of Computer Science.
+conduct research and oversee student research in scientific data visualization.
+
+‘Apr 2001-Mer 2006 ——_—Professional Research Assistant,
+CADSWES (Center for Advanced Decision Support for Water and Environmental Systems).
+| worked in an interdisciplinary research center on the design and the development of a com-
+
+cial graphically-based decision support software system implementing object-oriented
+
+simulation, rule-based simulation, and linear optimization to model watershed physical pro-
+‘cases, water ownership, and policy.
+
+lan 2008-Aug 200s Professional Research Assistant,
+Department of Molecular, Cellular, and Developmental Biology.
+| collaborated on the design and development of a pilot study to investigate the added value
+of using immersive visualization as a molecular research tool.
+
+Ju! 2002- Aug 2008 Graduate Research Assistant,
+BP Center for Visualization.
+| designed and developed an interactive 3D immersive application capable of integrating ge-
+‘ological, geophysical, reservoir and well data with driling and platform planning in an immer-
+sive virtual environment.

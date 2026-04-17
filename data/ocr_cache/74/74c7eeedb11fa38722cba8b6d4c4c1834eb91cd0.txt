@@ -1,0 +1,104 @@
+James Taylor
+
+Electrical Engineer
+
+© email@email.com
+
+rk Experienc Educati
+
+* Possessing a deep understanding of
+
+Se ees oe Electrical Engineer (Hardware and Software 2015-05 - Present
+languages, hands-on hardware Development)
+
+proficiency of implementation, E.ON.
+
+knowledge of communication . -
+protocols, such as I2C, SPI, and UART. * Developing diagnostic software and testing procedures for Laser Doppler Velocimetry.
+
+« Proficient in architecting software for * Performing debugging and failure analysis of fiber optical products from multiple
+embedded systems using LabVIEW. manufacturers. oo :
+
+« Highly knowledgeable in the physical * Prototyping instruments used in experiments containing Micro Electro Mechanical
+accrsconiandarcarammeclicied ‘Systems (MEMS) Matrix Optical Switches, Erbium-doped Fiber Amplifiers (EDFA), Dense
+PLCs and SCADA systems. Wavelength Division Multiplexing (DWDM), Optical Switch Circulators, Beam Splitters,
+
+o fieinacrnaneaidiad ama, Optical Attenuators, Nanosecond Pulsed Laser Diodes, and Tunable Lasers.
+
+Greta adeneeecil © Facilitating research for alternative software architecture used in embedded systems.
+eatlecrostincieneried * Utilizing LabVIEW and other programming languages to develop complete solutions for
+technologies. the automation of diagnostic software for optical and electrical components.
+
+* Collaborating with a National Laboratory to review and suggest best practices for
+control system software development used for Broadland Laser Ranging Systems.
+Creating HMIs and automating procedures with Programmable Logic Controllers (PLC)
+and Supervisory Control and Data Acquisition (SCADA) systems For Shock Physics
+Experiments that require highly accurate timing and firing.
+
+Software Skills
+
+* Linux * RSLogix
+
+© OrCAD —* GEMstudio
+
++ Altium * VirtualBox A : zi
+
+* PSpice © Unity Pro XL Assistant Electrical Engineer 2010-05 - 2015-04
+* Electric» Visual Studio Iberdrola
+
+* LTSpice —* Windows OS 7
+
+OTe OCI * Worked on electrical equipment (temperature and pressure sensors, valves, the
+
+< VMware © Microsoft Office actuator (ASAC 70), etc) on these engines.
+
+© Quartus # ISE Design Suite * Worked on relays, contactors, MCCB breakers, performed tests for motor proper
+
+working.
+
+* Completely familiar with the governor mechanism in controlling the output power of
+generator, voltage maintaining, generator synchronization with National Grid,
+generated different working modes, and loaded management according to the
+situation.
+
+* Monitored operated parameters and recorded operated data including electrical
+
+Programming Languages
+
+oR * Python generation, pressures, temperatures, vibration indications, alarms, and other
+
+oc * Verilog information related to the safe operation of the powerhouse equipment.
+
++ CH * Arduino * Responsible for startup, normal operation, load management and handling of various
+Sal * MATLAB emergencies during the operation of the Unit.
+
+s SQL ¢ LabVIEW * Maintained daily logs of operation, maintenance and safety activities.
+
+: pulad * Ladder Logic * Investigated and reported accidents.
+
+Maintenance Engineer 2006-03 - 2010-04
+Avo Electrical Engineering Services
+
+* Installed cameras security.
+* Fixed problems of laptops, tablet, office PC.
+* Fixed problems of imprimantes (Canon , Epson, Brother, Kyocera).
+
+* Movies
+* Badminton
+* Reading Articles
+
+# C, C#: Knowledge of basic
+programming language C, C+.
+
++ MATLAB 2013: Knowledge of a
+
+saan ae es Master of Sciences in Engineering, Electrical Engineering 2004 - 2006
+Microsoft Word, Excel, PowerPoint. Massachusetts Institute of Technology
+
+* Proteus 8.0: Complete
+
+implementation and execution of an
+electrical circuit.
+
+Bachelor of Sciences in Engineering, Electrical Engineering 2000 - 2004
+Massachusetts Institute of Technology

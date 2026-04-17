@@ -1,0 +1,158 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILL
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100Montgomery St 1otn Floor ‘E (S55) 492-1000 4 resumesample@example.com
+
+Direct Salesforce Developer with anin-deptn understanding of Salesforce and its opportunites. Exceptional
+coding talents wth proficiency in various coding languages, including Apex Javascript and java. Adept at
+creating cloud-based appications and analyzing company processes. System coding Web services,
+
++ Teamwork and Colaboration + Ughining Development Salesforce Lighting
+
++ Programming Languages: Java, CH, Net Python Design System, Ligtring Components, Aura
+
++ Projet Management Framework, Javascript Controls, Server-Side
+
++ Software Documentation Control Controters
+
++ Clous Computing Salestorce.com CRM, Sales + Salesforce Tools Ecpse, Force com IDE, Apex
+Cova, Service Clous, visuatorce Apex, Data Loader
+Salesforce configuration and customization + _‘Sofvare Testing and Validation
+
++ SFOC Technologies Apex Language, Apex» -_~Performance Evaluation ana Optimization
+Classes, Apex Triggers, SOL, SOL, + Code and Quay Standards
+
+Visuaforce (Pages, Components, Controls),
+Apex Web Services, WorkNlow & Approvals,
+Dashboards, Reports, Analyte Snapshots,
+Custom Objects, Lighning
+
+“SALESFORCE DEVELOPER 0972017 10 CURRENT
+
+Wells Fargo Bank | Boise, 1D
++ Over 5 years of experience in Salesforce.com CRM platform, functioning as a Salesforce
+Developer, and Adminstrator, with hands on experience in SFDC implementations using Sales Cloud
+and Service Clu.
++ Experienced in ll phases of Sofware Development Lite Cycle (SOLC), qualty management systems
+and project ite cycle processes.
++ Strong experience in administration, configuration, implementation, igtning, and support experience
+wath Salesforce pattorm
++ Expertin SFOC Administrative sil ike creating Profies, Roles, Users, Reatlonships, Page Layouts,
+Email Services. Approvals, Workflows, Reports, Dashboards, Tasks and Events,
++ Expertise in SEDC Development using Lightning Appication, Apex Language, Vsuaforce Pages,
+Classes, Controsers, Taggers, indexes, Locks Web Services, Components, Tabs, Apex We services,
+Custom Objects, Reports, Anaytic Snapshots and Dashboards, Profiles, Creating Roles, Page Layouts,
+(rg - Wide default, Sharing rues, Worktows.
++ Excelled in working with various Salesforce com standard ebjecs ike Accounts, Contacts,
+COpportunties, Products ana Price books, Cases, Leads, Campaigns, Forecasting, Reports and
+Dashboards
++ Good experience in creating many Lightning Components and server-side controllers to meet the
+business requirements.
++ Experienced in migrating the standara and custom objects in standard experience to Wanting
+experience
++ Extensive experience in buling reusable Ul components and pages wih Lightning component
+framevork
++ Experience working on Salesforce1 Platform to bul Mable App by enabing Lightning Components
+for use i Salestorcet mobile platform to make Lightning Application moble
++ Experience in retrieving Some data and ts tuncionalty from Thire-Party APTS and dsplayed win the
+lightning component
++ Experienced on Lightning whic includes the Lightning Component Framework and also involved in
+lang Lightring component using the aura framework
++ Strong experience in Salesforce Lightning components, Governor limits design and designing compact
+layouts using Apex Tiggers, Page layouts, Visuaforce pages, Worktows for mobile platform,
++ Good experience in analyzing organization processes, converting business worfiows into exact SFOC.
+‘wortiows and configuring $FOC to meet business requirements
++ Expertise in Visualforce Pages development, Apex Controters development, Apex Schedulers
+<evetopment, Batch Apex development, Ajax Took implementation, Test Methods development,
+‘Tigger's development, SFOC complex reporting using Google Visualzation/Apex Charts
++ Experience in integrating external web systems with salestorce using REST and SOAP web services,
++ Experience wtn data migration and updates tnrough the tol Apex Data Loader in Salesforce.com.
++ Deployment experience using Force com IDE and change ses as well as hands on Sandbox
+‘management experience.
+«Abily to perform tasks related to day-to-day operations including managing users, creating and
+‘maintaining custom objects and elds, nanding data migration and appiation maintenance
+‘Excellent communication and inter-personal skits, technical documentation and reporting skis,
+‘accustomed to working in both lage and smal team environments
++ An insightful decision maker who makes the ight judgements and changes the consensus to get high-
+quatty resus.
++ Focus on methodologies to enhance Salesforce administration performance
+
+‘SHOEFORCE ADMINSTRAOTRIDEVELOPER PROGRAMMER 060001 to 097001
+‘Medical Soulution | city, STATE
+
++ Cotaboratea with project managers to select ambitious, but realise coding milestones on pre-release
+software project development
+
++ Revised, modulared and updated old code bases to modern development standards, reducing
+‘operating costs and improving funciona
+
++ Followed standard precautions using personal protective equipment
+
++ Paricipated in eam development of aisional standards for technology use.
+
+‘++ Used Agile Scrum methodology to reach our business team goal by gathering day-to-day
+Fequirements and bulding them using Force com platform,
++ Involved in analyzing the requirements, preparing the design documents based on the specications
+and contiguing and maintaining the apptcation
++ Worked on various standard objects including Accounts, Contact, Cases, Reports and Dashboards.
++ Managed Salestorce appication user profes, roles, permissions, generating secumty tokens,
+vabdation rules.
++ Designed, implemented and deployed tne Cuslom objects, Page layouts, Custom tabs, Components
+to sutto tne needs ofthe appicaton,
++ Detined Lookups and Master-Oetal relationships onthe objects. And also created junction object to
+estabish many-to-many relationships among objects.
++ Created Works low rules and defined related tasks, tme-tnggered tasks, emai alerts and fed updates
+to implement business log
++ Wrote various queries in generating repots using combination of custom objects and standard
+objects.
++ Integrate Salesforce.com vith extemal systems using Salesforce Partner Web Sences for approval
+{and custom worktow solution,
++ Worked with Force com developer took incuaingVisuaforce pages, Apex classes, Apex controllers
+and Apex tigers to develop custom business loge
++ Used Data Loader fr insert. update, and buk import or expor of data from Salesforce.com Opjects
+{and to read, extract, and load data trom comma separated vale tes.
++ Used the Sandbox for development and testing and migrated the code to the deployment
+ater unt testing
++ Performed administration tasks as needed, managing custom felts, Integraton and data clean-up
++ Developed enrolment console and integrated it with Salesforce.com with using the Force com, REST
+based web services APL
++ Worked wn SQL 8 SOSL queres with Governor Limitations to store and download he data from
+Salesforce com platform database.
+Envronment: Salesforce.com. Apex Language, Visuaforce, Apex Casses, Thggers, Controle, SOQL,
+'SOSL, REST, Force.com Developer Tookt, Data Loader, Accounts, Contacts, Cases, Reports and
+Dashboards
+
+stance
+
+SHCES ADMINISTRATIVE 047201310 0172015
+‘Bob Discount Furniture | City, STATE
+
++ Improved office operations by automating clent correspondence, record tracking and data
+communications,
+‘+ Managed superisritnerary and appointments and streamlined scheduing procedures.
++ Directed [area of expertise] across [Number] departments.
++ Meeting or exceeaing sales goas.
++ Negotiating a contracts wit prospective cents,
++ Helping determine pricing schedules for quotes, promotions, and negotiations.
++ Preparing weelty and monthly reports
++ Giving sales presentations to a range of prospective cents.
++ Cooranatng sales efforts wth marketing programs.
++ Understanding and promoting company programs.
++ Oblaining deposts and balance of payment from cents,
++ Preparing and submitting sales contracts for orders.
++ Vstng cents ana potential cents to evaluate needs or promote products and services,
++ Maintaining cent records
++ Anwering cent questions about credit terms, products, prices and avataby,
++ ldented sales opportunites and acted on leads
++ Made outbound cas to prospective customers see less
+
+Bachelor of Science | Digital Media 0672008
+University of Mayland, College Park, MD

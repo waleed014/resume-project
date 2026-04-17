@@ -1,0 +1,78 @@
+CLEMENTINA
+HILPERT
+
+address
+56389 Roob Alley,
+Philadelphia, PA
+
+tel +1 (555) 680 3077
+
+Experience
+
+Hermann and Sons
+San Francisco, CA || Senior ETL Developer / Admin || 03/2018 - present
+
+e
+
+O
+
+Monitor the performance of SSIS packages and data marts
+
+Conduct code reviews and participate in technical design of
+projects/solutions
+
+Willing to learn continuously and engage in adopting new technologies
+Actively pursue areas of improvement for data loading techniques
+Work with internal business clients to problem solve data loading or
+integrity issues
+
+Follow organization’s change management procedures
+
+Extensive experience in SSIS connecting to different data sources,
+extracting large volumes of data and populating data marts
+
+Stark, Renner and Kulas
+San Francisco, CA || Mid-senior ETL Developer || 02/2011 - 01/2018
+
+e
+
+Recent experience developing Power BI and SSRS reports
+Extensive experience in performance tuning, query optimization using SQL
+Server utilities, scripting, or other related tools
+
+Experience in designing data models and using modeling tools like
+Embarcadero or ERwin
+
+Knowledge of design patterns and their implementation
+
+Experience using source control systems
+
+Knowledge of security methodologies, policies, standards and best
+practices
+
+Exposure to OBIEE platform is highly
+
+Exposure to RedGate tool belt
+
+Education
+
+Otis College of Art and Design
+Bachelor's in Computer Science
+
+Skills
+
+Exposure to Informatica and Spark (Python or Scala) or other industry
+leading tools would be added advantage
+
+Experience in BODS Designer Components- Projects, Jobs, Workflow,
+Data Flow, Scripts, Data Stores and Formats
+
+Data Conversions and Data Quality Management experience
+
+Experience in Data Services Management Console for Monitoring,
+Execution and Scheduling BODS jobs
+
+Experience in SLT - connection, configuration, table & application-based
+replication, performance optimization
+
+Strategic Thinking - Think big picture

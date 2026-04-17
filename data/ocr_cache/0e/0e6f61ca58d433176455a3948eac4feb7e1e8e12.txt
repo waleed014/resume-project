@@ -1,0 +1,244 @@
+JESSICA
+CLAIRE
+
+© _resumesample@example.com
+& (655) 432-1000
+
+4100 Montgomery St. 10th
+9% Foor
+
+SKILLS
+
++ Analytical and Critical Thinking,
+
++ Teamwork and Collaboration
+
++ Project Management
+
++ Change Management
+
++ Relationship Management
+
++ Budget and Cost Analysis
+
++ Process Improvement.
+
++ Cloud architecture
+
++ Azure AD
+
++ Microsoft Endpoint Manager
+(Intune)
+
++ Microsoft 365
+
++ Universal Print
+
++ Staff and User Training
+
++ Enterprise Management
+
++ MCA, MCSE, MCDBA, MCP
+Credential 1D#5444712
+
++ ICSA (iManage), AA
+(Interaction), ITIL 4
+
+EDUCATION
+
+Kaplan University
+2005
+
+Bachelor of Science: Business
+‘Management Information
+Technology Focus
+
+Graduated Summa Cum Laude
+
+Loma Vista
+Concord, CA + 1997
+Certificate(s): Computer Repair,
+Operating Systems, And
+Networking.
+
+Chabot College
+
+Hayward, CA + 1990
+
+Associate of Science: Dental
+Hygiene
+
+Graduated with Highest Honors
+Brigham Young University
+Provo, UT = 1985
+
+Business Management
+
+PROFESSIONAL SUMMARY
+
+Insightful Senior Information Technology Manager with 20 years of IT leadership experience including
+oversight of infrastructure, application support and security services. A visionary, result-oriented
+Technology leader with a track record of collaborating with ownership to commit to innovative
+technology implementations. Dedicated to customer satisfaction with focused delivery of technical
+solutions. Proven leader in directing operations, maintenance and support of complex systems
+including extensive expertise with cloud architecture and migration from on premises systems to
+hosted services including Azure AD, Microsoft Endpoint Manager (Intune), Universal Print, MS365,
+iManage and more. Known for excelling at strategic business planning, team building and leadership,
+relationship management, financial negotiations, and change management expertise. Deadline
+sensitive and cost-conscious project management style with a focus on innovation. Develops creative
+business solutions, leveraging diverse methodologies and delivering engineering solutions for leading
+organizations. Highly adept in request for proposal development, technology needs assessments, and
+staff training.
+
+WORK HISTORY
+
+Fenwick & West - Senior Information Technology Service Manager
+City, STATE +» 09/2007 - Current
+
++ Reports directly to CIO. Manager of department comprising of twenty- four full time IT
+professionals supporting 12 offices. Responsible for managing, training, mentoring, and
+continuous development of 24 employees including Desktop Engineering, Audio Visual, Deskside
+‘Support, and Service Desk Call Center.
+
++ Chief Technology Buyer for entire Firm. Developed and maintained $20 Million Budget for IT Service
+department and developed IP application and support systems, integration procedures, and
+projects. Responsible for, asset management and life cycle management.
+
++ Managed and reduced IT spending to support budgeting processes and TCO modeting procedures.
+
++ Designed and led implementation of company-wide enterprise security strategy for network and
+hardware security, disaster recovery, data protection and information access across all major
+systems.
+
++ Successfully helped Firm personnel transition from in-office to all remote in March 2020 while
+‘onboarding over 600 new employees. Successfully kept computers on shelves during pandemic
+despite shortages while systematically overcoming logistic hurdles and improving imaging,
+packaging, and shipping processes.
+
++ Designated point person for for all Firm construction projects. Complex IT installations from
+ground up in New York City, Santa Monica, San Jose, Foster City and Washington DC. Oversaw
+major remodels in San Francisco and Mountain View offices. Managed teams of contractors and full
+time staff by coaching, mentoring and driving efficiency.
+
++ Guided implementation of company-wide enterprise security strategy for network and hardware,
+disaster recovery, data protection and endpoint protection.
+
++ Negotiated software support contracts to drive cost savings. Supported budget process and Total
+Cost of Ownership modeling to manage and reduce Firm spending.
+
++ Analyzed network security and current infrastructure to assess areas in need of improvement and
+develop solutions while establishing cost-saving measures to alleviate compliance risk through
+software license audits.
+
++ Reviewed and assessed architecture design, implementation, testing and deployment needs to
+identify project requirements and costs.
+
++ Migrated Firm from on premises Microsoft Active Directory to Azure AD. Implemented Identity
+‘Management, Conditional Access, and Device Management including Windows 10/11, 10S, Android
+and MacOS. Experienced with both on premises and Cloud Architecture systems. Expert with Active
+Directory, Azure AD, SCCM, Intune, Microsoft 365, Cisco IP Telephony, and many other enterprise
+systems.
+
++ Interviewed, hired, trained and mentored staff from small team of six to current team of twenty-
+four by coaching daily, leading performance reviews and offering constructive feedback.
+Researched and recommended innovative and automated approaches to routine tasks. Authored
+service level agreements for Service Desk/Help Desk operations. Fostered loyalty and low turn-
+over for IT staff.
+
++ Created storage allocation for new build and existing Windows servers and clusters.
+
++ Winner of three Fenwick Finest awards for Outstanding Service, Mentoring, and Teamwork.
+
++ ILTA Member Liaison Silicon Valley (International Legal Technology Association)
+
+Morgan Miller Blair - Information Technnology Director
+City, STATE + 12/2000 - 09/2007
+
++ Management of all aspects of Firms technology.
+
++ Analyzed department and job-related functionality requirements to align technology priorities with
+business needs.
+
++ Interviewed, hired, trained and mentored staff by coaching daily, leading performance reviews and
+offering constructive feedback.
+
++ Fostered positive working environment that encouraged innovation, collaboration and
+accountability and managed end-user needs with functional and security responsibilities.
+
++ Developed and maintained service level agreements for strategic applications and measured
+performance against objectives.
+
++ Developed, tracked and controlled information technology operating budgets and cost and benefit
+analyses for IT spending initiatives. Worked with leasing companies and vendors to obtain and
+maintain Firm IT assets.
+
++ Implemented, created and tested disaster recovery and business continuity plans and maintained
+appropriate back-up system of all Firm data to collocation utilizing server virtualization technology.
+Expertise with VMware and Microsoft Virtual Server.
+
++ Performed regular audits and tests of infrastructure and applications.
+
++ Stayed abreast of current technology advancements, emerging standards and IS regulations to
+meet strategic technology goals. Actively identified opportunities for application optimization,
+redesign, and development to troubleshot and resolve user and application issues.
+
++ Led and assisted technical upgrade projects for Firm by working and coordinating with consultants
+and developers for integrations to support and improve network operations.
+
++ Played key role in on-going network design, reevaluation and optimization to keep pace with
+‘company growth. Supervised Firm move to upgraded facility in 2006. Designed and built state-of-
+the-art conference rooms, wired and wireless network, and server room.
+
++ Extensive experience and expertise with litigation support needs and trial presentation using
+‘Summation, Trial Director, Legal Access Ware, CaseMap, TimelineXpress. Frequent guest speaker
+‘and Contra Costa Bar Association events on subject of litigation support application use. Project
+manager for ruttiple Firm wide migrations rollouts.
+
++ Chairman of Firm Technology Committee; only non-attorney to chair committee at Firm.
+
++ Five years of experience with Voice over IP and Unified Messaging. Recognized BlackBerry expert
+and frequent guest speaker regarding applications beyond email to BlackBerry at Wireless
+Enterprise Symposium, ILTA, and other industry venues.
+
++ Webmaster for Firm’s Web site, Intranet, and Extranet.
+
++ Engineer for Intel based server farm of 30+, 75 desktops, Cisco network, Cisco wireless, NetApp
+NAS/SAN, and Avaya IP phone system.
+
++ Application expertise includes: Windows 2003 Active Directory, Symantec Ghost, Citrix, Exchange
+2007, 2003, 2000 and 5.5, BlackBerry, SQL Server, Elite, OTE, Prolaw, iManage, Interaction,
+‘microsoft Office, iCreate, Macromedia Design Suite, Photoshop, DeltaView, Hot Docs, RightFax,
+EAS, eCopy, Dictaphone.
+
+Computer House Calls - Technology Company Owner
+City, STATE +» 09/1997 - 12/2000
+
++ Founded and expanded Technology Service company to 20 employees servicing desktops and
+networks to businesses and at-home clients throughout East Bay region of San Francisco.
+
++ Cross platform specialist with expertise in Windows, Novell, Linux, and Macintosh.
+
++ Website Developer for over 30 companies.
+
++ Generated and developed leads using networking to acquire new clients. implemented business
+strategies to increase revenue and effectively target new markets including law firms and
+‘technology companies.
+
++ Interacted well with customers to build connections and nurture enduring relations!
+purchasing, sales, marketing and customer account operations efficient.
+
++ Supported company goals through careful reinvestment of profits and automated manual workflows
+to improve audit controls.
+
++ Spearheaded revenue growth through sales, new and enhanced product development and new
+market penetration.
+
++ Reduced operational risks while organizing data to forecast performance trends.
+
++ Handled problematic customers and clients to assist lower-level employees and maintain excellent
+customer service.
+
++ Trained and guided team members to maintain high productivity, performance metrics, proper
+protocols and customer service standards.
+
+. Managed

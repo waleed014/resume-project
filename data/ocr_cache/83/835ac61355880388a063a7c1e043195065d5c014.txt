@@ -1,0 +1,71 @@
+Technical Business Analyst Resume
+% 1125 US Hwy 22 STE 1 + Bridgewater, NJ 08807-9837,
+cyberThink Phone (908) 429-8008, Fax (908) 429-8005
+‘www. cyberthinke com
+
+Resume of S M
+
+SUMMARY OF QUALIFICATIONS:
+
+* Over SIX years of experience in the areas of Core Banking, Intemet Banking, Mobile Banking, Cash
+Supply Management & Cash Inventory products and Payments. Presently working with Fiserv Inc.
+as Business Analyst.
+
+* Sound knowledge of Banking practices, Cash inventory products and operational controls and risks
+Strong experience in all phases of Software Development Lifecycle (SPLC) using Waterfall,
+Agile/Scrum and Software Testing Life Cycle (STLC)
+
+* Strong experience with Scrum methodology and well versed in writing user stories. Excellent
+understanding of Business Requirements Gathering, Translating Requirements into Specifications
+and Application Design.
+
+* Proficient in Technical and Business writing, Business Process Flow, Business Process Modeling and
+Testing Highly proficient in writing User stories, creating Use Cases, Use case diagrams, Workflow
+Diagrams, Sequence Diagrams etc. Extensively used MS Visio for UML.
+
+© Well versed with agile ceremonies and able to manage all Work with stake holders, Product Owner,
+Product owner delegates for effectively scoping/user stories.
+
+© Focused troubleshooter and a team player with excellent interpersonal and communication skills
+Ability to work cohesively with developers, other team members, and testers.
+
+* Analytical, methodical and resourcefil approach to Problem Solving, Root-Cause Analysis, Conflict
+Resolution, Negotiation Strategies and providing corrective actions to meet business requirements
+Excellent Presentation skills in regards to communicating with both business and technical teams
+
+* Processes comprehensive knowledge of multiple industry-specific software applications to support all
+financial business functions. Well-equipped in understanding US regulations in legal framework and
+converting those to business acceptable functionalities
+
+© Well versed with vatious financial software such as Cash Management and Currency Management
+(such as ATM Cash Forecasting, Retail Cash Management) Mobile Banking, Online Banking,
+Customer Service Management, and Core banking
+
+Analysis and evaluation of customer business problems and the development of solutions to meet
+business requirements. Over THREE years working experience in agile projects as Business Analyst
+
+© Act as the primary interface between business unit end users and systems developmentéapplications
+and programmingareas
+
++ Analyze business systems and / or business processes to identify user needs, document requirements,
+and address operationsiprocess issues/improvements to accomplish business. Requirements
+gathering and JAD analysis. Functional testing of the product and POC.
+
++ Reviewing business processes to assess adherence to Internal and Global requirements. Assessing &
+supervising hanking transactions and client behavior, to assess unusual transactions and behavioral
+pattems. Conducting analysis to identify and report suspicious transactions and client behavior,
+
+© Patticipation in UAT for final delivery and sign off. Responding to RFP and RFI in an integration
+product environment for end-to-end solution offering. Product Analysis for capturing features and
+functionalities, parameterization needed for productimplementation.
+
+* Certified Associate of Indian Institute of Bankers (CUES).
+
+TECHNICALSKILLS:
+Tools: MS Project, SAS, SPSS, MS Office.
+
+Datahase: MS SQL 2014 Oracle 12.1, MySQL, MS Access.
+Testing Compuware Track Record.
+
+Requirements Gathering & Management: Rational Requisite Pro, Jama Contour, Rational Rose.
+Pages | of 6

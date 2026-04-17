@@ -1,0 +1,87 @@
+§) (555) 555 5555
+
+Randy Butternubs ames
+
+Graduated
+Dec 2014
+
+Fall 2013-
+Spring 2014
+
+Fall 2014
+
+Winter 2014—
+Present
+
+Computer
+
+Laboratory/
+Workshop
+
+Fall 2012-
+Present
+
+Education
+
+B.S. Mechanical Engineering, University of Colorado Denver.
+
+© GPA: 3.43
+© Unique courses: Plasticity & Metal Forming, GD&T, Lean Manufacturing, Biomechanics
+
+Projects
+
+Project Leader, Rehabilitative Exoskeleton, UC Denver.
+
+Led senior design team of 7 to successfully design and manufacture rehabilitative pneumatic
+
+leg exoskeleton. Project won Senior Design Competition of Spring 2014
+
+© Organized team, defined/achieved tasks and deadlines, created BOM, managed budget
+
+© Defined customer requirements such as device weight of no more than 60 Ib, cost of no
+more than $3000, and joint ranges of motion
+
+o Programmed in MATLAB with motion capture data to determine dynamic joint data
+
+Utilized SolidWorks with FEA to design over 15 parts with target safety factor of 2.5
+
+Designed ankle joint that mimicked human ankle torque and range of motion to within 5%
+
+and 7% respectively
+
+oo
+
+Manufacturing Specialist, Pure Bending Moment Device, UC Denver.
+
+Manufacturing specialist on team of 4 working closely with professor that successfully designed
+
+and manufactured pure bending moment device to measure strain and torque on sheet metal
+
+© Programmed CAM files from solid models which were then used with CNC mills and lathe
+to machine over 20 different parts. Drawings detailed with GD&T
+
+© Measured small strains with strain gauge and large final strain with interferometry
+
+© Used LabVIEW and torque transducer with 0.28 sensitivity to calculate bending moment
+
+© Experimental moment values from device were predicted by plasticity theory within 10%
+
+Personal Robotics Project, Interactive Table-top Map.
+
+Programming with Arduino/Python to develop an interactive, projected-image table-top map
+
+Technical Skills
+Proficient With: SolidWorks, MATLAB, MathCAD, Arduino.
+Familiar With: LabVIEW, LaTeX, Python, Abaqus.
+
+Material Testing: Experienced testing material mechanical and thermal properties
+with techniques such as tensile testing and dynamic mechanical analysis.
+
+Machining: Comfortable with a variety of fabrication equipment including hand tools,
+band saws, and HAAS CNC milling, drilling, and turning tools.
+
+Work Experience
+
+Barista, Starbucks, Average 35 hours/week.
+© Increasing sales by analyzing customer preference and suggesting merchandise
+© Improving interpersonal skills by providing excellent customer service on a fast-paced team

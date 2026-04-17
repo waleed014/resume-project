@@ -1,0 +1,61 @@
+Robert Smith hone (128) 456 7899
+
+mall Infocuvikresume,com
+Website: vauu.qwikresume.com
+Linkedin: linkedin.com/quikresume.
+‘Address; 1737 Marshullle Road, Alabarna
+
+DevOps Engineer Il
+
+SUMMARY
+
+Overall 8+ yrs of IT experience as a DevOps Engineer, which Includes detailed technical
+knowledge and experience of Bulld Engineering and Configuration Management processes, tools
+‘and best practices. Extensive hands-on experience in the creation of robust, flexible, automated
+
+Solutions for Build and Deployment processes and Enylronmert Management across the Financial,
+Broadcast and Media Sectors
+
+SKILLS
+
+Programming Language & Framework C, JAVIZEE, Perl, Bourne & C Shell, Art, SQL, Oracle
+PYSOL, Python, Ruby Tools Subversion, Perforce GIT, ClearCase, TFS ClearQuest, jra, Remedy
+‘Bamboo Ansible Makelmake, Ant, Maven, vy, Jenkins Quality Center, WinRunner, Loadaunner,
+“est Director Requisite Pro, Doors, MS Visio, MS Office Suite, SharePoint, Micro Strategy (MS)
+Rational System Architect OS Windows, Unix, Linux, and Solaris,
+
+WORK EXPERIENCE
+
+DevOps Engineer It
+‘ABC Corporation - October 2015 Present
+Involve'in implementing change management process while fixing the existing code'to
+enhance the code or bug fixing
+Managing web apps (FEIMEIBE) by istallngupgrading, deploying war Mes,
+Configuring/updating data source connections and config property files on all nor-prod
+Providing automated mentoring, reporting &amp: analyses forall aspects of the DevOps
+environments configured tomcat, apache, JVM parameters and property files.
+Working with VI editors to create and modify the UNIX scripts and text Mes.
+Working with webyM@ teams to troubleshootiresolve the fast apps/MO queues connection
+issues,
+Using Ansible for coud provisioning, configuration managernent, and application deployment
+Creating post-commit and pre-push hooks using python in syn and ait REPOS
+
+Release/Build Eni
+[ABC Corporation - Novernber 2011 - September 2015
+Environment java j2ee, Websphere, svn, ansible, integrated ant raven and bull forge,
+maven, Jenkins, chef, Linux, XML, Perl scripts, dacker, shell scripts
+Description collateral central is jp morgans ambitious and ingrown web application which
+provides avery complex banking solution to prestigious banks worldwide, which get into
+Collateral agreements with each ather and where | p morgan acts as a mediator,
+Collateral Central is a one-stop solution for all collateral based deals betw een banks.
+Clients can mobilize collateral inventories across multiple geographies and trading activities ~
+Fegardiess of the underlying obligation - ta effectively manage tsk
+Responsibilities performed daily night bulld Gemp; weekly build &amp; release forthe product
+Using ant, maven build scripts wrote Fer! Gimp; shell script for automation of build &emnp;
+release of product responsible for deployment of the bulld to production environment,
+Coordinating bulld activities with QA, LAT tears deployed and released multiple builds on
+ffierent environments and products
+Ensured processes are deployed successfully to production erwironment responsible for the
+plugin management, user managernent, and end-end bulld and deploy setup using Jenkins.
+
+(0 Ths Fre Resume Templat the copy of Qiks cor. sgn Guba

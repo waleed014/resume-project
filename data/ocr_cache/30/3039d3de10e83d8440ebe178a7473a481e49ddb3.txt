@@ -1,0 +1,85 @@
+ELDRIDGE BEDNAR
+
+50609 Marquis Circle, San Franciseo, CA + +1 (555) 157 5544
+
+‘WORK EXPERIENCE
+
+SENIOR SYSTEM TESTER & DBA M-COMMERCE 12/2017- PRESENT
+Philadelphia, PA
+
+‘+ Excellent communication skills, able to work independently
+
++ Read and understand prints and order prints
+
+‘+ Make decision related to quality and operation of the product
+
+‘+ Select and use the proper test equipment for testing the product
+
+‘+ Assure that the electrical operation of the product complies with the diagram and industry standards
+
+‘+ Perform Customer Inspections and Witness Test
+
++ Configuration experience of fieldbuses such as CAN Open, EtherCAT, PROFIBUS, PROFINET, ModBus, DeviceNet, Ethernet/IP, Ethernet
+
+Powerlink, SERCOS, etc,(at least with CAN Open and EtherCAT)
+‘+ Component Link testing
+
+SYSTEM TESTER 09/2015 - 10/2017
+New York, NY
+‘+ Executing of System Tests,
+
+several stages of product development with different focus
+‘+ Test support for development-driven focus test
+
+‘+ Definition of test cases based on given functional requirements
+
+‘+ Writing of test plans
+
++ Responsibility for complete Test Environment
+
++ Gathering and communication of test results
+
++ Current Security+ Certification or required within 6 months of hire
+
+‘+ Satellite operations or related support experience
+
+‘+ Knowledge of Command and Control Consolidated (CCS-C) system
+
+INTERN NISSAN INFOTAINMENT SYSTEM TESTER, (06/2009 - 05/2015
+Phoenix, AZ
+
++ Stress & performance testing,
+
++ Electrical engineer, Computer engineer or comparable
+
++ Knowledge in System Test of electronic control units or knowledge in UI Testing
+
+‘+ Experience with trouble ticket tracking
+
+‘+ Experience with automatic generated test results and reports
+
++ Experience with test automation, Scripting, Software ete.
+
+‘© Certified Tester education is an advantage
+
+EDUCATION
+
+CLARK UNIVERSITY 2005 - 2009,
+Bachelor's Degree in Engineering
+
+PROFESSIONAL SKILLS.
+
+Excellent logic and analytical skills as wel as strong communication and interpersonal skills
+
++ Experience in working with customers on requirements, testing, and system documentation, with demonstrated skills in customer
+interaction
+
+‘+ Strong written and verbal communication skills, with ability to generate complex technical documents
+
+‘+ Strong communication and collaboration skills in global setup
+
+‘+ Strong XML generation and manipulation skills, and webservices
+
+‘+ Programing skills, Python / CAPL / PERL
+
+‘+ Programing skills, Python / CAPL

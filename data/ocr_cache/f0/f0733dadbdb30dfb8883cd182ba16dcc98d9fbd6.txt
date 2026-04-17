@@ -1,0 +1,50 @@
+Clark Watcon
+
+9 Main Street 234354, New York
+
+a
+& 4123235245 %
+# hello@watson.org r
+PROFILE
+—
+
+Driven and enthusiastic Web Developer with a strong passion for creating exceptional web
+experiences. Experienced in manual testing, test automation, tracking tools, and A/B testing. Quick
+learner, team player, and effective communicator. Proficient in Continuous Delivery tools. Familiar
+with Java and JSP.
+
+PROFESSIONAL EXPERIENCE
+
+—
+
+May 2018-present Google Inc., Web Developer
+
+Mountain View, Developed responsive and user-friendly websites utilizing HTML, CSS,
+
+California and JavaScript resulting in improved user engagement and a 30%
+increase in site traffic. Collaborated with design and marketing teams to
+implement visual and interactive elements, resulting in visually stunning
+and highly functional websites.
+
+September 2016 - Wing Aviation LLC, Junior Developer
+
+April 2018 Assisted in the development of front-end and back-end components for
+Mountain View, corporate websites, contributing to a 15% improvement in site usability.
+California Collaborated with the development team to troubleshoot and resolve
+
+coding issues, resulting in a 10% reduction in application errors.
+
+EDUCATION
+
+September 2014 — San Francisco Bay University, Bachelor of Science in Computer Science
+June 2018
+
+LANGUAGES
+
+SKILLS
+
+JavaScript (ECMAScript) * TypeScript * HTML5 and CSS3  Reactjs * Nextjs * Storybook
+
+INTERESTS
+
+Travelling * Playing Guitar

@@ -1,0 +1,136 @@
+WAYNE REYNOLDS
+
+© +1-469-731-9524 @ wayneraynolds@gmall.com % github.com/_WayneReynolds_ 9 San Francisco, CA
+
+EXPERIENCE
+
+Network Security Engineer
+
+Network Bulls Pvt Ltd 2015- Ongoing San Francisco, CA
+Network Bulls Pvt Ltd is a startup providing training, consulting &
+
+Implementation of networks.
++ Installed Cisco TX 9000 in Landlease
+
++ Acting as hero and light to other engineers, making scripts to minimize
+
+errors and speed up delivery by 70%
+
++ Maintained a 1400+ multi-vendor core and edge backbone for
+
+enterprise and consumer traffic
+
++ Upgraded 20+ Cisco ISR G2 VGW/CUBE/SRST routers
++ Invoiced $225K worth of managed services for clients
+
+Network Security Engineer
+WeWork 2013-2015 San Francisco, CA
+
+‘+ Maintained and managed over $15M of equipment inventory
+
++ Provided guidance to team of 9 Engineers
+
+‘+ Maintained compliance with HIPPA, COSSO, and SOX 404 through
+
+security audits and reviews
++ Provided 247 Level 1 support
+
+Junior Network Security Engineer
+
+PrePay 2012-2013 San Francisco, CA
+
+PrePay offers a full marketplace to consumers on its mobile apps and
+
+website.
+
++ Developed IPv6 functionalities for the consumer and enterprise clients
++ Worked on firewalls: Cisco ASA 500, Juniper SRX 550, Juniper ISG.
+
+Associate Engineer
+Optus 2010-2012 San Francisco, CA
+
+Optus provides telecommunication services such as telephony, mobile
+
+and internet.
+
++ Introduced Cloud Computing using, Peert, Rakspace and moved IT
+
+infrastructure to on demand cloud
+
++ Developed an automatic log diagnostic program, saving the company
+
+$80,000 annually
+
+Entry-Level Network Engineer
+Varnion Technology 2009-2010 San Francisco, CA
+
+Varnion Technology is Company focused on Internet Service provider,
+that provide fast connection with mostly wireless network and Fiber
+optic network for Company/hotel/building scale client
+
++ Implemented the Global IT Help desk system using SharePoint 2003
++ Detailed planning and implementing AD infrastructure on Windows
+
+Server 2012 R2.
+
++ Provided Level-2/3 support and troubleshooting to resolve issues.
+
+‘wwew.enhanev.com
+
+EDUCATION
+
+B.S ELECTRONICS
+
+University of San Francisco
+2006-2011 | GPA 35/400
+
+ACHIEVEMENTS
+
+© Conceived and designed new services
+Designed and implemented bandwidth
+classification and monitoring system for a
+strong UX. Thanks my effort sales forces cross-
+sold new services & increased CR by 5%.
+
+Designed and engineered a large scale
+migration
+
+For a big Firm in Oil&Gas industry | have
+
+designed a migration plan from legacy Data
+
+Center to newer ones overseeing people
+
+involved the whole process that lasted about 18
+
+months
+
+SKILLS
+Switching
+Catalyst 3700,3960 , 2960 , 4500
+Nexus 7000 and 1000v
+
+10S, NX-OS, CAT-OS upgradation MPLS
+
+T1/T3/0C 3 Frame-Relay
+
+vPC, VDC, STP
+
+Wireless
+
+Cisco Aironet APs AIR-CAP2602I-N-K9
+
+AIR-AP1142N-N-K9_—_Cisco Wireless
+
+CERTIFICATION
+
+Milcom IT school
+Certificate of professional qualification
+
+Kanoos Group Of Companies
+Certificate of Appreciation
+
+Cisco Networking Academy
+ceNA
+
+Poweredty XP Enhancu

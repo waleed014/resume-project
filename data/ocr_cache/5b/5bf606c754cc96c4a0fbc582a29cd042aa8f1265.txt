@@ -1,0 +1,199 @@
+Jessica Claire
+
+© 100 Montctareomery St fot Floor \S (655) 432-1000 a resumesample@example com
+
+PROFESSIONAL © 9+ years of professional experience In Anat, DsiCiaren & Development in implementinClare SOA and
+SUMMARY | EAlbased solitons usinCiare Mule ESB, MA Sens, Salesforce, Retatonal Database. Careood experience
+In Web sences Development (SOAP & Rest) Web services Secuty, cretion of WSDL (Contracts) xS0s
+and various canonical Data Formats. 4+ years of experience in Mule ESB, API ManaCiaeement, CloudHu
+and continuous iteClareraton. Mule ESB experience in mplementinclae service-onented architecture
+(SOA) and business appiaton inteCiareraon (EA) usinae Mule 3x and 4x Expertise in developinciare
+ew APIs usinCiare REST and SOAP webservices. Clareood experience in XML technoloClarees tke XML.
+‘XS0, XSLT Xpat and Web Services - RESTIul and SOAP Ciaecod appcation nteCiaeration experience
+Uusinctare ule ES8 wth Connectors, transformations, RoutnClae. Experience in System nteCtareration
+testto ensure quaty ofthe system. Claveood transformation experience with XML, sSON, ED, Tex,
+‘Copybook Data Fomats.Caeood in setinClare up and maintain he poles and confClareurnCiare res
+and actions win DalaPover services of MPClaeW, Wed Server Proxy, XML eval, and Web Appcaton
+Prony. Experience n desiiareninClare,mplementinciate, supportnclare & deployinClare IBM DataPover,
+1B, vii and WHa Clareood experience in inlementinclare MessaClairee Level, Protocol level secuty
+AAA. Key centcates (Crypto Too & Key lores/Trust stores), one-way, wo-vay SSL and OAuth
+Implementation. Excelent communication sh, technical wrinClae sls, creation of system desictaren
+documents, proven preblem-sohinclare techniques, abity to set-manaCiaree and mentor other na team
+‘xpenence wth Waterfal, RUP and AClarete MethodoleClarees,
+
+SKILLS + Sofware Testinciare and Vatdation + Developer cotaberation
+‘+ Sofware Components and Libraries + Developer Traninciare Oversiciareht
++38 Framenoris: React, AnClareuiar, We + Mantenance & Repair
++ Databases: Oral, MonCiareed8 + Cotaborated wt project manaClareement and
++ Developer Onboarainciare Desictaren developer to coordinate testinciare ates at
+austacarees.
+WORK HISTORY SR, MULESOFTDEVELOPER 1072019. CURRENT
+
+‘Wipro Ltd | Washington, De
+
+“+ Environment Mule €S8 3.9.1, 422, Java 7,Clous-Hu, MS-SQL, Salesforce, Sebel, SAP works,
+REST MUL APS
+
++ Pariopate in arcrtectural meetinctawe, conduct cent meetinciaes, prepare technical and desicaven
+‘document
+
+‘+ Coordinate with proclareram manaCiaeers to explain what tasks were possible forthe sytem to
+achieve inet desired output DesCaren and implement exception handinciave, oClareClaxeinclare,
+SON Schema Valdaton as common eusable components across mutple messaClaee ows.
+
++ rete an inteciareraton Component wt he party application usiniare Mule ESB,
+
+‘+ create Maven Arcetypes for Ciaieeneratnciatre fly funcional REST web service supportnciare
+both AML and JSON MessaClaee transformation
+
+‘+ Worked on creatinclare SOAP and REST web services in Mule, Consumption of REST and SOAP web
+services for dounstream systems.
+
+‘+ Used Mule ESB connectors- SFDC, MessaCiaree Transformer, Choice Exception Strateciareles, Batch
+processinciare, et:
+
+‘+ Indesictareninciae the application as a midcleware between the thr pary system and the customer
+side ystem,
+
+‘+ implement transformers, exception handinciae, estnClare & Secunty of Mule ESB endpoint
+throuctaren OAuth,
+
+‘+ create Mun test cases to vaidate the Mule fous,
+
++ Create Mule fons to iteClaerate Dal rom various sources into MonCiaeo Database trom
+‘Actvel topes and queves, some transtomations were also done atte inteCiareraton ayer
+
+‘+ Ceate Mule ESB neper cass to alle Mule flow, connection endpoint and connectors ect trom
+ava component stead of creatnClave anoter Mule Flow
+
+‘+ implement interfaces between SAP, Sales Force and REST web-senvices.
+
++ Confclareure Mule E58 projecs forthe services wth synchronous and asynchronous Mule fos,
+
++ Conficiareure Mule sence ows with various exception handinclare stateClarees suchas
+Clatretbal Exception, Custom Exception and Choice Exception SrateCavreles that notifies the user wh
+custom and spl eror descriptions
+
+‘+ Co-orinate win testnclare and back-end teams, cent cunnctae he smoke tests ana
+aciareciareression tess at Spit
+
+‘+ Partcipatein24x7 production suppor eo ater appicatonClareove
+
+MCLESOFTENCLAIREINEER 0272017 0 0972019
+xe Technology | Houston, 7X
+
+‘+ Envronment Java JSP, Hibernate, Sprnciare, MuleSof ESB 3.7, APiManaClaieer, Anypont Studio,
+‘Active, Salesforce, JMS, EJ8, HTML, XL, OesiCiaren patterns, Web servces, UML, unt, JQuery,
+Moncareo 08,
+
+“+ PartopateinAClaete ~ Sprint metnodoloClarees todo requements ClaeathernClae, anata
+and planinciae.
+
+‘+ Performed Low & Hiclare.Level application desicaren documents by Sequence OlaCiarerams, Class
+DiaClarerams usinciare Merson Visio too
+
+‘+ Used Mule ESB connectors. SFDC, MessaCiaree Transformer, Choice Exception SrateCiareles, Batch
+processinciare et
+
+‘+ Ingesiciareninciae the application as a midaleware between te ths pary system ana the customer
+‘oe system Used MEL (Mule Expression LanCiaevaClavee), an expression lanClakeuaCiave that
+Provides a consistent, standarded way to work wh aMule messaClaree's payload, properties and
+‘arabes.
+
+‘+ Used Database Connector to connect with MySQL and Oracle usinciare Mule ESB,
+
+‘+ Intectareraton of nue ESB system whe uttznClare Ma Seres, MTTP Fle system and SFTP
+transports
+
+‘+ Usea Actvetc for messaclaieinciare serie inthe appications.
+
+‘+ implement sata transformation usinCiave XPATH, XSLT, Data Weave, custom ava asses.
+
++ Use Mule components that include Fle, SMTP. FTP, SFTP, JOBC Connector ana Transaction
+Manaciareet
+
+‘+ Created MULE E58 arfact and confciareured the MULE confClareurations fles and deployed
+
+‘+ Usea Sprinciaetramewrk or 10c, AOP and DAO layer destcaren patterns,
+
+‘+ Worked on berate objecrelatonal mappinciare accoranclare to MonClaireo database schema
+
+‘+ Used nibemate annotations to avoid wtincare a mappinciare le
+
+‘+ Coded Sat. PLISAL for backend processinClaire ad retneval occ
+
+‘+ Resotinciare sprnciate framework artfacts and code buld& deployment va Maven,
+
+‘+ Worked on buciare tanciare and Production Suppor
+
+‘+ Responsible for CoainClae, Unt TestinCiare and Functional TestnClare and ReCiareression
+Testnciare ofthe systems,
+
+INCECLAIRERATION ENCLAIREINEER 077201510 0172017,
+Ccaterpliar| Tucson, AZ
+
+‘+ Environment: MessaCiare Broker 7,189, DataPower M60, WT, XML, SOAP Ul, COBOL, EDL SAP.
+182, Oral, Linux Partipated in meetinClares wth stake holers and Businesspeople fo understand
+the new requirements for mplementinctae the new Provider platform
+
+‘+ eate Technical desiciaren documents and mappinCiare documents for SOA services.
+
++ Create WSOLs, XSOs, WTX type trees and MessaCiavee Models usinciare OFOL
+
+‘+ Create RESTFUL and SOAP Webservices in WMB (Provider, Consumer.
+
+‘implemented Ciaretoval cachinCiare and loCiaresjn WM,
+
+‘+ Desiclaren and developed messaClaee Nows to handle AClaeCiarereCiareation and Cotection of
+messaciarees
+
+‘+ Worked on performance improvements and tuninciaite of enstnclaire messaClairee Rows
+
++ Desiclarened and developed Conimon components for eusabity and Error handinciare.
+
+‘Worked on MonornCiae, Record and Repay Capabities of WM,
+‘Worked closely wh he QA fo ensure qualty detverables
+‘Worked on ACiaelle metnodolociarey and Particpated in mutiplescrums.
+Involved in rouble shootnciare usinciare laClares, aces and also by desiCiaenincae
+Clakeenere erorhanainClave sub fv.
+Created he Sandbox envronment for WM and ai uni testnClae of enstinClae intrtaces.
+‘+ voted in ne Production Suppor. used Dynatrace or montonclae production issues, War Room
+‘Support and Defect reslwons.
+
+PYCHON DEVELOPER. 04201210 082015
+‘Wwo86 International Ine, Denver, CO
+‘+ Environment Python, Orop ward, Sprinclare Boot, Kaka, JSON, Claetub, LNUK, Ojanciareo,
+Flask. Vamish, NClaenx SOA, REST Participate in requrementClareatnennciae and anaisis phase
+
+one project in ocumentnciare the business requrements by conductniare workshops!
+
+mmeetinClaces wih various business users
+
+sea me Ojanctareo Framework to develop the appcation
+
+Implement web applcatons in Flask and spanClae rameworks fowinclae MVC architecture
+
+Use Pyinon to pace data ito JSON es for testaClave Ojanciareo Webstes
+
+Update ana manipulated content ana fle by usinciake python sents.
+
+Crclareantze Pynon code usnclare PES oni tol IncuainCtave documentation of srs.
+
+‘+ implement web appcations in Flask ana spinciare frameworks folonnClare MVC areitectre
+
+‘+ nstannciace, coniciareurinciare ana ypClareradnClare EMC Power-path for AX servers.
+
++ Used Djanciakeo coniclareuration to manaClaee URLS and appcaon parameters,
+
+‘+ Wrote Automaton test cases usinClaire Selenium WebOmver usinclae Python APL
+
+‘+ Anayze perfomance test equremens and develope test plans and nave done
+‘debuCiareClaremCtave to understand test objective requrements
+
+‘+ Perform roubleshootnclare, ed and deployed many Python buClae fies of he two main
+applications tnt were a main source of data for both customers and infernal customer service team,
+
+EDUCATION © Bachelors DeCisreree |Hawassa
+
+CERTIFICATIONS ¢) MuleSoft Cert Developer 4
+i

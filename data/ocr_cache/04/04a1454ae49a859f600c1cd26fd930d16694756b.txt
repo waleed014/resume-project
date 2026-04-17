@@ -1,0 +1,57 @@
+SAP &zrtifie Certified SAP ABAP Consultant
+Associate
+
+case Study:
+(Case study accompanies fundamental for Solutions Consultant. The case study implementation is part
+‘of Fulltime Training in ABAP with SAP Net Weaver 7.31’ with Global Certification from SAP AG,
+Germany.
+
+PROJECT EXPERINCE
+
+2).Client Fedral Mogul
+Role Developer.
+Duration Oct 2036 atill now
+Environment :SAP ECC7.3,
+
+‘Clent Description : Federal Mogul Powertrain sa leading global supplier of technologies
+‘and components inthe passengercar, ight and heavy-duty commercial and
+off-highway vehicle markets, and also operates in the power generation,
+aerospace, marine, ral and industrial sectors
+
+Responsibiitis:-
+
++ ABAP/A Reporting: Classical and interactive reports with ALV.
+‘* Working in Support Areas in SD, MM modules of SAP R/3.
+
+* Working as Data Dictionary objects tke Tables, Views, Structures, Table maintenance
+* Working Experience in generation of Reports (Classical, interactive, ALY).
+
+* Good Working Experience in Enhancements User exits, BADI'.
+
+"+ Developed Various Layouts: SMARTFORMS,
+
+Interfaces: BAPY’s, RFC’ for interface between SAP and other systems
+
+* Debugging techniques ~ Break Points
+
+2} Client carditt
+Role Developer.
+Duration jan 2016 tooct 2016
+Environment :SAP ECC6.0,
+
+CClent Description : The County Council af the Cty and County of Cardiff isthe governing body for
+Canlif, one af the Principal Areas of Wales. The council consists of 75 councilors,
+representing 29 electoral wards. The authority is properly styled asThe County
+‘Council of the City and County af Cardif or in common use Cardiff Council.
+
+Responsibilities:
+
+* Creation of custom Infotypes and Enhancements to standard Infotypes.
+‘© Good knowledge in working wih INFOTYPES
+
+* Uploading of data using HR function modules
+Analyzing the functional inputs
+
+* Master Data uploading Background Jobs scheduling
+
+‘+ Customize Infotypes andCreated Function modules

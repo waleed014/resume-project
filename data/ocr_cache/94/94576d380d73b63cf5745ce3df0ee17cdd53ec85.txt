@@ -1,0 +1,101 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+EDUCATION
+
+‘Missouri University of Science
+‘And Technology
+Rolla + 12/2022
+
+‘Master of Science: information
+Technology
+
+Jawaharlal Nehru Technological
+Univeristy
+Hyderabad + 05/2019
+
+B.Tech: Information Technology
+
+Sri Gayatri Junior College
+Hyderabad + 04/2015
+
+High School: Maths
+
+SKILLS
+
++ Python, C and Ds.
+
++ Machine learning algorithms:
+Naive Bayes, Neural Network,
+‘SVM and KNN.
+
++ Database: SQL.
+
++ Operating System: Linux,
+Windows and 10S.
+
++ Tools: PyCharm, Jupyter, QPST,
+‘QXDM, QFIL, PCAT, Axiom, R.s
+
++ HTMLS
+
++ Collaborative Team Player
+
++ Test Plans and Test
+‘Methodologies
+
+PROFESSIONAL SUMMARY
+
+Logical Software Test Engineer gifted with talents in load testing, performance testing, stress testing
+and functional testing. Skilled in writing scripts and configuring test environments. Over two years of
+experience performed functional testing on enterprise level products. Hands on experience in C
+programming and Python programming languages. Experience in Machine learning algorithms good
+knowledge on machine learning algorithms like Naive Bayes, Neural Network, SVM and KNN. Worked
+with various features in the mobile handset like BT/Wi-Fi/ Browser/ Gallery/SMS /Multimedi
+
+ACCOMPLISHMENTS
+
++ Collaborated with team of 5 in the development of snapdragon chipsets like SM8350.
++ Maintained a 97% satisfaction rating over a 24-month period as a software engineer.
++ Won many awards in school for best sports person.
+
+WORK HISTORY
+
+General Dynamics - Software Testing Engineer
+Chesapeake, VA + 06/2019 - 07/2021
+
++ Participated in peer code reviews to provide suggestions for improvement in processes and design.
+
++ Coordinated with software developers to evaluate new technological tools, alternate processes and
+new designs to improve functionality and quality.
+
++ Created test cases and test scripts to maintain cohesive team approach to product development.
+
++ Applied software configuration management systems for software development for Snapdragon
+products.
+
++ Realized 95% improvernent in reliability of Software through rigorous efforts to improve quality
+through integration testing and modifications
+
+Intermountain Healthcare - Intern Student
+Saint George, UT » 09/2018 - 10/2018
+
++ Prototyped machine learning applications and quickly determined application viability
++ Created customized applications to make critical predictions, automate reasoning and decisions,
+and calculate optimization algorithms.
+
+Goofer Technologies - Internship Student
+
+City, STATE « 05/2018 - 07/2018
+
++ Worked with cloud architect to generate assessments and develop and implement actionable
+recommendations based on results and reviews.
+
++ Utilized code and modern cloud-native deployment techniques to design, plan and integrate cloud
+‘computing and virtualization systems.

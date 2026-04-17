@@ -1,0 +1,55 @@
+Robert Smith Soe SRE
+
+Email: inin@qiekresune.com
+Website : yvay.ayikresume, com,
+
+Software QA Tester Linkedin: linkedin,corn/quikresumne
+‘Address: 1737 Marshville Road, Alabarna
+
+SUMMARY
+
+Software QA Tester with aver 3 years of experience in perforrning Functionality Testing, Integration
+‘Testing, Systern Testing, and Regression Testing rarually. strong knowledge of the SLC. QA
+‘Testing Process. Experienced in testing Client/Server Web-based and rnobile ap plications.
+Experienced in participating in Entire QA Life Cycle - Designing, Developing and Execution of the
+entire QA Process, Efficient i writing Test Plans and Test Cases based on business requirements
+
+SKILLS
+
+Android, Bugailla, Web, Mobile, QUI, Functionality, Smoke Acceptance, Regression Testing
+WORK EXPERIENCE
+
+Software QA Tester
+
+Infornatrix Global - Septernber 2014 - April 2018
+“ested the leading independent alrport parking directory and reservation network on the
+Inernet.
+Prepared the test traceability matrix to confirm the test coverage and mapped it with the test
+Interacting with the developers and business users to communicate the defects and actively
+Participated in replicating the bugs and performed regression testing using jira
+CCooralinating the acceptance test pracesses and documenting and addressing all the issues
+during the process,
+Interacting with the development configuration and operations tearm to ensure the quality of
+‘sofware to user expectations.
+Verifying the integration of various components inthe application and executed encl-to-end
+testing
+Participating in release review/requirernent analysis and design review meetings,
+
+Sr QA Tester
+ABC Corp - 2012 - 2014
++ Created and maintained automation suites using testcomplete scripts to increase efficiency,
+
+and allow for more tine spent on manual exploratory testing.
+Found, researched and reported the bugs in jra/Hansott,
+Wrote, maintained and executed the Test cases as necessary,
+Priortized, assigned and delegated the tasks to QA testers on 3 dally basis,
+“Tacked the daily/weekly progress of projects to ensure releases are on schedule,
+Gathered and reported the test metrics.
+Clearly cornmunicated the overall health of the product to key stakeholders via status
+updates,
+
+EDUCATION
+
+MA In Financial Management -(Mascow University For Industry And Finance - Moscow, RU)
+
+(© This Fete Resins Template the copilgh of Qwikenume ccm, Uaage Gildines

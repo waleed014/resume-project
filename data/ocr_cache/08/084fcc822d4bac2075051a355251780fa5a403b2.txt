@@ -1,0 +1,125 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor
+(855) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Ss. ETL Informatica Developer with over 10+ years of successful professional experience in Data warehousing development with different
+domains. Excellent Knowledge of Data Warehousing concepts. Expertise and experience in the following areas - Analysis, ETL design, ETL
+Testing, ETL Performance tuning, DB Sql. Extensive experience in developing strategies for Extraction, Transformation and Loading
+mechanism using Informatica Power Center in Windows environment.
+
+Sxmis
+‘Informatica PowerCenter + MySQL
+‘Informatica Power Exchange + EC2
+* Oracle +33
+Worx History
+
+06/2019 to Current ETL Informatica Developer
+Cognizant Technology Solutions - Los Angeles, CA
+Title : LMS SaaS Data Migration
+Role : ETL Developer
+Client : Google Inc.
+Roles and Responsibilities:
+« Participate in business and functional requirements gathering, which involves a review of existing systems
+configurations and operating methodologies as well as understanding evolving business needs.
+‘* Data Modelling, Design and build the data warehouse components in multi-tier architecture which comprises of
+stage operational data store and analytical data mart for each application.
+‘+ Design and develop end to end application for data warehousing projects by applying data transformations logics
+vsing industry's standard coding practices in Informatica Power Center
+‘* Technical support during acceptance testing, responsible for all the quality checks in the projects and other
+technical document preparation
+‘+ Have worked in PL/SQL programs like stored procedures, functions, packages etc.
+‘* Worked with production team to resolve data issues in Production database of Cloud LMS systems.
+* Coordinate with various infrastructure, downstream - upstream teams for resolving the issues during major
+incidents and certify operations are running successfully with no business impact.
+© Coordinate with client in resolving the queries/issues faced and keeping the client project manager updated on the
+project status on periodic basis
++ Provide value additions to application through continuous improvement initiatives such as perfective, preventive
+and adaptive activities
+‘+ Mapped data between source systems and warehouses.
+‘© Managed team of 4 employees, overseeing hiring, training, and professional growth of employees.
+
+04/2017 to 06/2019 ETL Informatica Developer
+Cognizant Technology Solutions — Richmond, VA.
+Title : LMS SaaS Implementation
+Role : ETL Developer & LMS Data Migration Specialist
+Client : Toyota North America Motors
+
+Roles and Responsibilities:
+
+‘© Design, Develop and Test ETL Mappings, Mapplets, Workflows, Worklets using Informatica Powercenter 9.x
+
+‘© Work in a fast paced environment, under minimal supervision providing technical guidance to the team members
+
++ Responsible for database schema design, extensive T-SQL development, integration testing and other projects that
+‘may be necessary to help the team achieve their goals
+
+‘+ Working closely with Onshore and offshore application development leads
+
++ ETL Mappings, Mapplets, Workflows, Worklets using Informatica Powercenter 9.
+
+« Identify efficiencies and ways to improve design and development processes
+
++ Identify ways to increase efficiency of production support - Find solutions that allow operations to better do their
+{job without involving development resource time
+
++ Developed mappings/reusable objects/transformation/mapplets by using mapping designer, transformation
+developer and mapplet designer in Informatica Power Center.
+
+‘* Wrote Oracle packages and functions to implement business rules and transformations after staging is done.
+
+‘* Worked with pre and post sessions, and extracted data from transaction system into staging area.
+
++ Used Informatica Power Center 9.x for extraction, loading and transformation (ETL) of data in the data warehouse.
+
++ Implemented populate slowly changing dimension to maintain current information and history information in
+warehouse tables.
+
+‘* Used SSIS packages to load date from spreadsheet into the database and also used packages to move data between
+databases (Oracle, flat-files) on different servers.
+
++ Created SSIS packages to extract data from oltp to olap systems and scheduled jobs to call the packages and stored
+procedures
+
+‘+ Worked on different data sources such as Oracle, SQL, flat files etc.
+
+05/2011 to 04/2017 ETL Developer
+Salient Crgt - Huntsville, AL
+Title : LMS SaaS Implementation
+Role : ETL Developer - LMS Data Migration
+Client : Zimmer, Biogen
+
+Roles and Responsibilities:
+
+‘© Designed integration tools to combine data from multiple, varied data sources such as RDBMS, SQL and big data
+installations.
+
+‘* Managed data quality issues during ETL processes, directing qualitative failures to team lead for amelioration.
+
+‘+ Analyzing the business requirements with Business Analyst to develop ETL procedures that are consistent across
+all systems.
+
+Involving in data modeling for SQL server databases to store data retrieved from flat files.
+
+‘© Normalizing and de-normalizing the flat files and loading them in SQL server.
+
+* Creating mappings/sessions and workflows for using Informatica version 9.
+
+Installing, configuring and upgrading the Informatica powercenter TDM/ILM to 10.1 with all EBFS.
+
+‘Installing and re-configuring and upgrading Informatica Powercenter Suite
+
+«+ Using different types of tasks like decision, timer and event initial/bulk load process wait and command to maintain
+the dependencies between the sessions and load balancing within informatica workflow.
+
+‘© Working with various transformations like router, expression, SQL, lookup, normalizer, and aggregator in building
+complex mapping.
+
+‘Involving in designing the procedures for getting the data from all the source systems to data warehousing system.
+
+Epucation
+
+2010 Bachelor of Engineering Technology: Electrical And Electronics Engineering
+‘Veltech Engineering College - India

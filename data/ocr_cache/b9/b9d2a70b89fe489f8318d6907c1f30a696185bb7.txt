@@ -1,0 +1,86 @@
+Kevon Heidenreich
+5207 Grant Mount, Dallas, TX # Phone: +1 (555) 922 2191
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SAP BI REPORT DEVELOPER / ANALYST
+Phoenix, AZ
+10/2014 — present
+‘* Contributing to the Avigilon Business Intelligence platform through the design and development of
+reports, dashboards, scorecards and analytical tools to support corporate BI initiatives
+Development of SAP BW models, data flows and queries
+Development of SAP HANA calculation views and stored procedures.
+Troubleshooting of reports using HANA Studio, Query Designer and Business Warehouse
+Providing technical support for existing reports, and developing new reports in SAP Business Objects
+(Webi, Design Studio)
+‘+ Investigating and resolving any identified data anomalies
+‘* Developing automation or scripts to check the integrity and consistency of data
+
+SAP BI/ BW DEVELOPER
+
+Dallas, TX
+03/2012 - 09/2014
+
++ Perform routine program modifications, performance tuning, problem solving, debugging, and unit
+testing
+
++ Build and Enhance BU/BW objects such as InfoObjects, Transformations, DTPs, InfoProviders (DSOs,
+InfoCubes, and MultiProviders), and Process Chains
+
+‘© Support the training of BI Power Users. This includes Webl, Analysis/OLAP, Analysis/MS and
+dashboards developed with Design Studio
+
+Knowledge of SAP query development
+
+Demonstrated capacity to effectively manage multiple and frequently changing priorities
+
+Additional responsibilities per management,
+
+Design processes to minimize data quality risks and proactively identify potential data issues
+
+SAP BI-BW DEVELOPER
+
+‘Houston, TX
+07/2005 — 11/2011
+
+‘* Knowledge of configuration of BW data objects including InfoObjects, Infosources, Transformations,
+ODS, Cubes, Info Providers, and multi providers
+
++ A proven track record for developing complex BI data warehouse architecture within the Business Objects
+environment
+
+‘* Develop, enhance, and maintain custom and standard extractors (ECC, CRM, SRM and SUS),
+transformations, and application of business rules
+
+© Work in ETL processes by extracting data from multiple source systems (ECC, CRM, SRM and Supplier
+Self Service) to and from BW System
+
+‘* Designs, develops and enhances BI Reports using BeX Query Designer and BeX Report Designer tools
+
+‘* Participate in Production Operations and Release Management support
+
+‘* Developing and maintaining SAP design and technical specification documents
+
+LOYOLA UNIVERSITY CHICAGO
+Bachelor’s Degree in Computer Science
+
+Strong analytical, attention to detail, organizational and core project management skills
+Ability to knowledge transfer the development to operations team
+
+Ensure the solutions developed will meet quality Mylan standards
+
+Ability to share technical and business guidance with all levels of business users
+
+Strong experience in SAP and B/BW implementations, upgrades, and support activities
+Strong interpersonal and communication skills across all levels of an organization
+
+Big Data knowledge is
+
+Involve in Solution design discussions and provide cross functional knowledge
+
+Ability to guide and mentor experienced teammates and to facilitate collaboration
+Ability to provide general expertise within the functional areas of SAP

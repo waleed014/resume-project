@@ -1,0 +1,60 @@
+Python Developer / QA Phone: (173) 456 78 99
+
+Email: Info@quikresurme.com
+
+Automation Tester Website: wuncawtresunecom
+ROBERT SMITH Addres1787 Marl Road,
+‘Alabama
+
+Objective
+
+‘Around 5 years total IT experience as a software engineer and Python Developer and Salesforce
+Platform. Extensive experience in Python Django web frame works in Implementing MVC
+architecture
+
+Skills
+
+DJANGO, JAVASCRIPT, MYSQL, PYTHON, CSS.
+Work Experience
+
+Python Developer / QA Automation Tester
+‘Accala Inc.— March 2014 ~ Present
+
+Involved In requirement gathering, analysis, design, estimation and testing of the assigned
+tasks in openstack
+
+Implernented rally openstack benchmarking tool on the entire cloud environment,
+
+Experience in reviewing python code for running the troubleshooting test cases and bug
+Issues,
+
+Configuring and managing openstack components such as Keystone, Nova, Neutron, Glance,
+Swift, Heat
+
+Written Nova, Glance, Neutron, Cinder, Keystone, Hashboard, Swift, Python cent api to
+Integrate with existing application.
+
+Create a strategic architectural design of the platforrn with networking (VLANS, Frewalls, Load
+Balancers), Hypervisors (KVM and VMWare), workflow and orchestration (Openstack APIS,
+Smart Cloud Grchestrator), Security (Keystone, IDAP], Inventory and monitoring, licensing,
+backup/restore,
+
+Understanding Python files in openstack environment and make necessary changes If needed.
+
+Python Developer
+‘ABC Corp -March 2011 - March 2014
+Conducted scrum meetings and generated custom dashboards, Knowledge testing tools like
+bugeilla and jira.
+Experience in using various version control systems like git cvs, github, heroku and amazon
+eed.
++ Having knowledge on aus lambda, auta scaling, cloud front, rds, routes3, aw sns, 59s, es.
+* Extensively used python modules such as requests, urls, urlib 2 for web craving.
++ Developed a fully automated continuous Integration system using alt, gerrt,jenkins, mysql
+{and custom tools developed in python and bash.
+‘The vanguard group is an american registered investment advisor based in minneapolis, mn
+with over $5. Ftillon in assets under management.
+Create on-demand dally and weekly reports by Invoking scripts with custorn arguments and
+parameters to provide actionable data to the test owners.
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

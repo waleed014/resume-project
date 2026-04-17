@@ -1,0 +1,141 @@
+WEBSITES,
+PORTFOLIOS,
+PROFILES
+
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+ACCOMPLISHMENTS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA94105 2 (555) 432-1000 4 resumesample@example.com
+
+‘+ https://wwwlinkedin. comiiniJessicaClaire
+
+‘Technical Test Lead with 6+ years of experience in Manual and Automation Testing for Back-End Systems in
+Retail Domain. Proven track record of successfully leading Automation QA effort for migration of Back-End
+Systems. Expertise in Automation Framework Design, Implementation, Coding and Maintenance. Selt-driven
+and self-motivated person with great communication and presentation skills
+
++ Test Automation + Web-service creation
+«JAVA + ASPNET
+
++ Back-End Testing + Maven
+
++ SOA Testing + JIRA
+
++ JAVA Spring MVC + Excellent problem-solving abilities
+
++ JSON + Excellent communication and presentation skills
+
+‘+ MySQL, Mongo DB, IBM DB2
+
++ Successfully lead the Automation Effort during Back-End System Migration.
+
++ Designed and implemented OVS (Order Validation Service), an Automated Back-End Regression Test
+Suite which saved up to 70% in testing time when compared to manual labor. OVS is created to aid with
+the aforementioned Migration Effort and also with daily Regression Tests.
+
++ Designed and implemented COMETS (COMprehensive End-to-end Testing Service), a helper tool for
+Manual Testing. Resulted in savings of up to 90% in testing time for Individual Test Case Execution
+during Manual Testing.
+
+TECHNICAL TESTING LEAD 04/2015 to CURRENT
+Infinite Campus | Blaine, MN
+
++ Coordinate with product development engineers and business to design test plans and analyse
+functional and non-functional requirements for automation tests
+
+‘+ Identifying projects/ components of projects that can be validated using automation
+
+‘+ Requirement gathering and analysis of modules identified for automation.
+
+‘+ Design and implement automated test suites and also tools that help in manual execution
+
+‘+ Scaling up of existing automation test suite by incremental additions.
+
++ Code development, review and maintenance
+
++ Developing services for running automation test scripts.
+
+‘+ Documentation of code changes and versions
+
++ Regression and Functional Testing
+
+‘+ Documentation of test results and status reporting
+
+‘+ Leading an offshore team for automation
+
+‘ANALYST 2013 to 04/2015
+Charter Spectrum | Albany, NY
+
++ Delivered automated modules for back end testing for a retail client.
+
+‘+ Developed automated scripts in JAVA Spring framework
+
+‘+ Tested end to end flows for fulfilment of goods through various channels via automation and manual
+effort
+
+‘+ Being trained in both JAVA and ASP.NET, helped in creating and mentoring multiple tools to help with
+manual testing
+
++ Lead a 4 member team at offshore.
+
+TEOT ENGINEER 07/2009 to 12/2012
+Infosys Limited | City, STATE
+
++ Trained in ASPNET during internship at infosys Limited
+
+‘+ Trained in JAVA after joining a business unit.
+
+‘+ Started with basic regression testing for a U.S based retail client.
+
+‘+ Performed production support tasks for 9 months which included daily monitoring of Production and
+Pilot sites.
+
+‘+ Moved to back-end system testing due to interest in databases
+
+‘+ Worked on both DB2 and MySQL databases during this time.
+
+‘+ Chosen as one of the initial two to handle migration of the project from WCS to an in-house framework
+called OMS (Order Management System),
+
+‘+ Came up with the idea of a Post-Order/ Back-End Testing Automation suite which kick-started
+automation career.
+
+Bachelor of Science | Information Technology 2009
+Amrita School Of Engineering, Amritapuri, Kollam, India
+
++ CGPAOT7.1
+
+‘+ Advisory Board member for Students Association of Information Technology.
+
+‘+ Class Representative for second semester.
+
+‘+ Hosted multiple events as an MC.
+
+‘+ Second prize for Western Music Solo at Amritolsavam 2008.
+
++ 2008 ICPC organizing committee member.
+
++ Basics of CPG Retailing, Infosys, 2010.
+
++ Technology 101 - JEE Elective, Infosys Limited, 2011
+
+‘+ Introduction to Retailing, Infosys Limited, 2011
+
+‘+ Basics of Transportation and Logistics, Infosys Limited, 2012
+
++ Technology 201 - JEE Elective, Infosys Limited, 2012.
+
+‘+ Testing Foundation Certification, Infosys Limited, 2013 (Equivalent to ISTQB foundation level
+certification).

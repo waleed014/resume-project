@@ -1,0 +1,81 @@
+EXPERIENCE
+11/2019 — present
+
+06/2017 — 08/2019
+
+EDUCATION
+
+SKILLS
+
+Noah Ferry
+
+89383 Olen Crossroad, Phoenix, AZ # Phone: +1 (555) 731 8870
+
+EBERT, STAMM AND TURCOTTE Detroit, MI
+Senior SAP Developer
+
+¢ Excellent development skills in SAP ABAP 4 language (Data Dictionary, IDOC message processing,
+ABAP Object programming, SAP ERP modules (SD, MM, LO, FI, CO, WM), Smartforms,
+Reporting using ALV, Web dynpro etc)
+
+¢ Knowledge of SAP architecture and basic configuration of SAP main modules (MM, SD, FI, LO)
+
+¢ Knowledge of EWM architecture and basic processes
+
+¢ Knowledge to one of the below will be considered as advanced
+
+¢ Deep functional expertise in programming, technology and interfaces
+
+¢ Proven experience in of the development areas described above
+
+¢ Strong knowledge of system and software quality assurance best practices and methodologies
+
+¢ Experience with ABAP programming, develop BADI’s, ABAP interfaces/proxies, RFC’s, Workflow,
+Smart Forms /Adobe Forms
+
+BLICK, KOSS AND BOGISICH Detroit, MI
+Lead SAP Developer
+
+¢ Strong experience with Custom ABAP development skills & custom modules
+
+¢ Working knowledge of SAP structures, object dependencies and tables
+
+¢ Strong expertise in BEX Query tools — BEx Query Designer, Analyzer & WAD
+¢ Experience in BW system upgrades
+
+¢ Experience with HANA Optimizations / Simplifications for converted custom solutions
+¢ Expertise in problem analysis and performance tuning
+
+¢ Gather business requirements
+
+¢ Technical requirements
+
+¢ Ibm cognos
+
+¢ Strong Java knowledge and experience, both frontend and backend
+
+¢ Experience with SAP Commerce accelerators
+
+e Experience writing unit tests using Junit, Mockito and hybris integration testing
+
+LIM COLLEGE Bachelor's in Computer Science
+
+¢ Hands-on experience in setup, integration, development of SAP Cloud Portal Applications
+
+¢ Hands-on experience in creating and consuming OData & web services between various SAP cloud
+and on-premise solutions
+
+¢ Should have prior technical expertise in design and development of SAP Fiori Apps using SCP
+
+¢ Experience in rich UI/UX building, HTMLS, CSS3, JavaScript, jQuery, JSON, XML
+
+¢ Experience in SAPUIS Development (MVC Architecture) with OData implementation
+
+¢ Understanding of API technologies, REST, SOAP etc
+
+¢ O Design and build data models in SAP BW4HANA
+
+¢ SAP BW HANA Certification
+
+¢ Minimum 2+ end-to-end SAP BW HANA(Cloud) project development implementation experience
+including LSA++ Architecture

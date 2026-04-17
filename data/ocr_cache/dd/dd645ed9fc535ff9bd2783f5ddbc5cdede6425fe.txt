@@ -1,0 +1,54 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Professional Summary
+
+Self-directed and motivated Software Engineer who works effectively in a dynamic environment, Fluent in Java and MySql.
+Java Developer with expertise in all aspects of the software development life cycle, including requirements analysis, design,
+development and production support.
+
+Dynamic developer skilled at developing complex solutions possessing strong creative thinking skills, high energy and integrity.
+
+Skills
+
+* HTML and XML * Cold Fusion
+* Javascrip
+
+© MS Access
+
+© DBC
+
+*1SP
+
+* Servlet
+
+* MS SQL Server 2000
+
+Websites, Portfolios, Profiles
+
+Work History
+
+Java Developer Trainee, 2013 to 05/2013
+DATASOFT IT SOLUTION - City, STATE
+* Wrote maintainable and extensible code in a team environment.
+
++ Worked closely with other team members to plan, design and develop robust solutions in a timely manner.
+
+Education
+
+Bachelors of Engineering : Computer Engineering, 2013
+Gujarat Technological University - Ahmedabad, India
+(With 7.69 CGPA)
+
+Master of Science: Computer Science, Current
+California State University, Los Angeles - Los Angeles, CA
+
+* Emphasis in Software Development.
+
++ working on live Project Under Prof. J Jiang Guo, on Cold fusion
+
+Here is the Link
+hittp://ceas.calstatela.edu/pbkec/index.cim
+* Did a Networking Project on VOIP(Voice Over IP)
+* (Current GPA 3.35/4.0)

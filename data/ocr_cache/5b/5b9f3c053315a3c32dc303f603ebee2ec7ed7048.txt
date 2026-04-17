@@ -1,0 +1,193 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS.
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10tn Floor \S (555) 432-1000 4 resumesample@example.com
+
+Master's candidate wth close to 4 years of experience as an ETL Developer and shell scripting and result
+‘oriented approach in agile environment, Articulate communicator & team bullder possessing strong technical
+‘skis in analytes and automation
+‘+ Hands on experience in development of Data Warenouses/Data Marts using Ab Inlo Co OP, GDE,
+‘Component Library, Oracle and UNIX for mainly Banking/Financialinsurance industries,
+‘+ Solid experience in Extraction, Transformation and Loading (ETL) mechanism using Ab Into.
+knowledge of fulite cycle development for building a data warehouse
+‘+ Proficient with various Ab into Paraleism and Mutt File System (MFS) technique
+‘+ Knowledge in translating business requirements into workable funcional and non-functional
+requirements at detailed production level using Workflow Diagrams, Sequence Diagrams, Activity
+Diagrams and Use Case Modeling
+‘+ Proficient in Softyare Design and Development with a solid background in Developing and Experience
+‘developing applications in Unix Environment.
+‘+ Highly motivated, dedicated, quick earner and Abilty to co-ordinate etfecvely wth development team,
+business partners, end users and management
+‘+ Excellent writen and oral communication skis to work in a globally aistributed team and vith resuts-
+‘oriented atttuae,
+
+ETL Tools Scheduling Tools
+‘Absintio GDE 9.1.5, Co >Opsys (8.0 102.15), Talend, AutoSys, AroW and ControkM
+
+Data Base Version Control Too!
+
+rade, Microsoft SQL Server, I6M 082. EME, GIT
+
+‘Operating System Detect Tracking Too!
+
+LUNox, Windows 7, Windows XP, Pac 2000 HP-Mercury Quality Center
+
+Languages Data Modeling
+
+SQL, PLISAL, Unix shell scripting ‘Star Schema and Snowiake schema, Erin tool
+
+ETL DEVELOPER (01/2021 to CURRENT
+
+Salient Crgt| Fort Bragg, NC
+
+‘+ Extracted data from various sources tke databases, detinited fates
+
+‘+ Extensively Used Ab Into components tke Reformat, Scan, Rolup, Join, Sort, Pattion By key,
+Normalze, Input Table, Output Table, Update Table, Gather Logs and Run SOL for developing graphs.
+
+‘+ Implementea procedures for management of Ab into applications and Citx servers,
+
+‘+ Developed and enhancement of Ab Into Graphs and business rues using Ab Into Functions.
+
++ Performed validations, data quality checks and Data protling on incoming data,
+
++ Generated Configuration fes, DML files, xr fle for specie Record format, which are used in
+‘components for building graphs in Ab into
+
+‘+ Developed various BTEQ scrips to create business logic and process the data using Teradata
+vatabase
+
+‘+ Involved in design of database and creation schemes and tables in normalized form.
+
+‘+ Extensively used Mult-toad and Fastioad utes to populate the fat fles data into Teradata database.
+Pertormed evaluations and made recommendations in improving the performance of graphs by
+minimizing the number of components in a graph, tuning the Max Core value, sing Lookup components
+instead of joins for small tables and fat fles, iter the data atthe beginning ofthe graph etc.
+
+‘+ Responsible for deploying Ab Into graphs and running them through the Co-operating systems mp
+‘shell command language and responsible for automating the ETL process through scheduling.
+
+‘+ Generate SL queries for data verification and backend testing. Detect and Correct Data Qualty
+issues.
+
+‘+ Whiten stored procedures and packages on server side and developed iorares,
+
+‘+ Witten UNIX scripts to perform certain tasks and assisting developers with problems and SQL
+‘optimization,
+
+‘+ Implemented phasing and checkpoint approach in ETL process to prevent data loss and to maintain
+uninterrupted data flow against process failures.
+
+‘+ Automate the complete daly, weekty and monthly refresh using custom build UN SHELL SCRIPTS,
+ETODEVELOPER 01/2020 0 01/2021
+Salient Crgt| Fort Eustis, VA
+
+‘+ Developed Ab into Graphs in order to pull data from the mainftames systems and load them into Data
+Warenouse.
+
+‘+ Responsibie for reading the Maintrame data by creating the OM and applying various business
+transformations and loading them into EFS Datawarenouse.
+
+‘+ Eqtensively used Redefine, Reformat, Muli Reformat, Input table, Output table and Parton By
+Expression etc components in order to apply the business logic
+
+‘+ Worked wth production support team to debug issues in production and for migrations from pre prod to
+Production
+
+‘+ Generated Conriguraton fs, DML files, xr fles for specie Record format, which are used in
+‘components for bulding graphs in Ab nto
+
+‘+ Provided support in Migration of Ab into Jobs from RHEL 6 server to RHEL 7 server.
+
+‘+ Developed JIL les for automating the Abinto graphs through AutoSys.
+
+‘+ Actively involved in writing the code in MySQL and in developing ETL Transformations using ETL tool
+
+‘+ Developed alerts emails by using stored procedures to notty the users when a certain table is loaded,
+
++ Created SQL Agent Jobs n order to perform various user tasks such as scheduling some T-SQL
+‘commands or command line statements
+
+‘© Generated SaL queries for data verification and backend testing, Detect and Correct Data Quality
+issues.
+
+‘+ Used inquiry and error functions ike is_valid s_defined, is_error,Is_defined and string functions tke
+string_substring, string_concat and other string_ functions in developing Ab iit graphs to perform
+‘data vaidation and data cleansing
+
+‘+ Responsible for designing and developing ofthe Ab into Graphs based upon the cient requirement
+
+‘+ Implemented phasing and checkpoint approach in ETL process to prevent data loss and to maintain
+Uninterrupted data flow against process failures.
+
+‘+ Knowledge of checking tne dataflow through the font end to back end and used the SQL queries to
+‘extract the data trom the database to validate i tthe back end
+
+‘+ Participating in the agile trainings and meetings as a part of the agile team.
+
+‘+ Created Functional Specie Documents (FSD), Business Requitement Documents.
+
+ETODEVELOPER (08/2017 to 0172020
+Salient Crgt| Fort Lee, VA
+
+‘+ Developed and ennancement of Ab Into Graphs and business rues in Ab into Functions.
+
++ Proving Suppor in migration of Abinto Business logic in coud by using SPAR.
+
+‘+ Performed Data Profiing to assess the risk involved in integrating data for new applications, including
+‘the chatlenges of joins and to track data quay.
+
+‘+ Performing Data Validations between On Prem and Cloud.
+
+‘+ Write and modity several application specic scripts in UNK in order to pass the Environment variables,
+
+‘+ Worked with data mapping from source to target and data profing to maintain the consistency ofthe
+ata
+
+‘+ Involved in monitoring the Ab Into jobs in and schedules through control M and Arrow
+
+‘+ Worked wth production support team to debug issues in production and for migrations from pre prod to
+Production
+
+‘+ Developed Ab into graphs for Data validation using validate components ike compare records,
+‘compute checksum etc
+
+‘+ Worked with Wrapper scripting with UNOX Shell programming, Scheduing of Ab Into jobs wth Arow.
+
+‘+ Worked on testing AB INITIO jobs in DDE as well as in AIC (AD into in cloud), whic was a part of the
+migration to cou,
+
+‘+ Knowledge of checking the data fow through the font end to back end and used the SL. queries to
+‘extract the data trom the database to validate it tthe back end
+
+‘+ Generated Quick Reports for users for data analysis on numerous occasions
+
+‘+ Involved in setting up the routes in EFG (EXTERNAL FILE GATEWAY) tool for diferent vendors.
+
+‘+ Worked in various services in AWS tke Step functions, lambda, EC2, $3, AM, SNS.
+
+‘+ Created high level and low level technical design documents
+
+‘+ Worked wth production support team to debug issues in production and for migrations from pre-prod to
+production
+
+‘+ Extensively used File management commands tke m_Is, m_wc, m_dump, m_copy. m_mkfs etc
+
+‘+ _ Responsitie for cleansing the data trom source systems using Ab into components such as reformat
+‘and fiter by expression.
+
+‘+ Developed psets to impose reusable business restrictions and to improve the performance of the
+‘graph,
+
+‘+ Extensively used m_db commands to query the oracle databases for reporting purposes.
+
+Master of Science | Computer Science osre017
+University Of Central Missouri, Warrensburg, MO.

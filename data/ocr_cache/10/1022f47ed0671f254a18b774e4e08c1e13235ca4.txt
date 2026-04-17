@@ -1,0 +1,127 @@
+TONY ALMEIDA
+
+DevOps Engineer
+
++1) (833) 555.7777
+
+0
+™&% = tony@hiration.com
+a
+
+MMARY
+
+7+ years experienced DevOps Engineer
+possessing in-depth experience of
+managing cloud based technology &
+effectively handling configuration &
+deployment of infrastructure & services.
+Gained hands-on experience in
+implementing core DevOps concepts
+such as containerization, virtualization,
+version control, cloud computing,
+database management &
+administration, load balancing, etc. by
+using a wide variety of technologies
+while working with multiple DBMS,
+Operating Systems & programming
+languages. Adept at learning and
+implementing new technologies very
+swiftly as demonstrated by the
+transition from an Android Developer to
+a DevOps professional. Drives
+excellence in every project to deliver
+outstanding results.
+
+KEY SKILLS
+
++ Containerization + Version Control +
+Database Management + Database
+Adi ration * Load Balancing *
+Virtualization
++ Cloud Technology Management +
+Cloud Computing * Server Maintenance
+* Infrastructure Monitoring
+
+TECHNICAL SKILLS
+
+DBMS: MySQL, Couch DB
+
+OS: Linux, Windows
+
+Languages: JAVA ,Shell Script, Python
+Technologies: Linux Server
+Administration, SSH, Docker, GIT,
+CHEF, Jenkins, Apache Web Server,
+AWS, JAVA, HAProxy, Nagios, VB.net,
+Virtualbox, Cloud, Networking
+
+CERTIFICATIONS
+
+e AWS Solution Architect | ‘17
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Engineer Jersey City, US
+
+4 Mar '15 - Present
+
+AJersey based start-up offering VoIP services.
+
+Technologies: Docker, GIT, Nagios, Linux, Apache, couchDB, load balancing, AWS,
+
+Android Java, Python
+
+e Managing 30+ Linux servers & component provisioning & handling configuration &
+deployment of infrastructure & services
+
+Cloud Technology Management
+e Managed the infrastructure, avoided single point of failure, monitored RAM CPU
+space
+
+Virtualization
+e Created server & components by application of Virtualization Concept using Docker
+
+Load Balancing
+e Employed haproxy to steer load balancing for handling a constantly increasing user
+base & ensuring scalability & reliability
+
+Cloud Based Distributed Computing
+e Played key role in establishing the entire cloud based distributed computing
+infrastructure for the VoIP application
+© Employed complex concepts & technologies including git, Docker, apache, nodes,
+networking, etc.
+
+Server Maintenance & Infrastructure Monitoring
+
+e Setup Nagios server & installed Nagios Plugin on each running host machine as a
+client
+
+e Constantly monitored the up-time of the infrastructure using status of all
+components sent by the Nagios client
+
+Android Developer
+Feb '14 - Feb'15
+
+SF, US
+
+A product design house with focus on consumer electronics, infotainment, surveillance, mobility
+solutions, wireless networking & semiconductors
+
+Technologies: Android Java, SIP Protocol, Linux
+
+e Created an Android App using SIP protocol & integrated call management services
+for outgoing & incoming voice calls
+
+e Developed an Android App for Android TV service which pairs with a complementary
+call alerting service for Android phones
+
+e Developed an efficacy dashboard for comparing product releases
+
+Android Developer SF, US
+68 Mar '10 - Jan'14
+
+loT & Wearable Computing focused company which helps large companies to design wearable &
+payment terminal devices for emerging markets.
+
+Technologies: Linux, Board support Package, VB.net, Android Java
+Board Supporting Package: Device Drivers for Tablet PC

@@ -1,0 +1,148 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS.
+
+WORK HISTORY
+
+CERTIFICATIONS
+
+EDUCATION
+
+ACCOMPLISHMENTS
+
+Jessica Claire
+
+@
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 4 resumesample@example.com
+
+Experienced Project Manager - Testing with experience in managing and leading QA teams in Banking
+domain. Designed, developed and implemented number of pointed automation solutions to save manual effort
+and increase test coverage. Utilized perl, SQL, XML, QTP and excel macros in different automation solutions.
+Experienced in dimensional modelling and ETL test projects
+
+Tools and Technologies + Working knowledge of XML, VB Script.
+Tools > TOAD, Putt, HP Quality Center, ALM, + Working knowledge of Quick Test Pro.
+JIRA, + Cognos BI and advanced workspace
+
+Oracle 129.
+
+SQL, Perl, Bash Script
+‘TM1 perspective, TM1 architect
+Informatica ETL tool
+
+Excel macro
+
+PROJECT MANAGER - TESTING 09/2004 to CURRENT
+Infosys Ltd
+
+SFC
+
+Responsible for software testing projects starting from requirement analysis, design, estimation,
+creating strategy, planning, execution and test closure. Responsible to execute testing projects deliver
+all agreed upon service level agreements and adherence to all processes defined
+
+Designed Key Performance Indicator (KPI) dashboard which implemented standardized RAG status of
+projects based on weighted average of key parameters and tolerance level. This is implemented across
+all QA projects in the department.
+
+Designed, developed and implemented automation solution for DW QA project using perl and complex
+SQL queries. Saved ~90 person days manual effort and increasing test coverage to 100% on pre-prod
+data
+
+Developed and implemented automation solution for performance reporting project which implemented
+new methodologies to calculate daily performance from month end only and time weighted returns.
+Saved ~250 person days of manual effort. Increased test coverage from 50 accounts to 2500 accounts.
+Used SQL queries, VB script and XML to automate.
+
+Participated and reviewed data ware house design using dimensional modelling techniques.
+Recruitment activities - interview panelist for hiring experienced IT professionals and college graduates
+for infosys.
+
+Experienced in presales activities by creating financial and staffing models
+
+‘Account Management activities - involved in Project billing and invoicing, talent (resource) management
+activities,
+
+Lead the team to standardize QA processes and artifacts which were implemented across all
+
+projects. Experienced in projects executed in Agile, Waterfall and iterative models where teams are
+spread across different geographic locations.
+
+TEST ENGINEER 08/2002 to 09/2004
+
+Rte
+
+on
+
+Modem testing
+
+SHORE TEST ANALY ST/CONSULTANT
+
+Statement Redesign
+
+In an effort to remain competitive with statement reporting and enhance the client experience, the
+‘Summary of Accounts and Premier Statement are being redesigned
+
+This redesign project will bring the statement in line with the UBS brand and enhanced to help client's
+answer the question "How am | doing?" Post completion UBS client statements were awarded top 4
+statements on the street.
+
+Responsibilities: Consultant to group of SME performing testing of statements to implement and follow
+testing standards and process.
+
+Co-ordinate testing by different groups of users and analyze and track the issues found to closure.
+Estimation, Scoping, project planning & Test Strategy documentation.
+
+Involved in Business requirement review meetings
+
+Provided training on Quality assurance best practices and processes to different user acceptance team
+members.
+
+Involved in Test Planning, Test Execution & Defect Reporting,
+
+Providing Daily, Weekly Status reports to all stakeholders
+
+Conducting defect review meetings with the stakeholders Client and Account information (CAl)
+
+3HORE TEST ANALYST
+
+CAIs used for creating and maintaining client and account information,
+‘Supports various types of accounts such as RMA, BSA, Retirement, Trust, Loan and Managed
+Accounts,
+
+CAI undergoes Quarterly releases with new enhancements,
+
+Responsibilities: Involved in Business requirement review meetings Test Planning, Test Execution &
+Defect Reporting Co-ordination with offshore testing team and work assignment.
+
+Clarify offshore queries from business users.
+
+Discuss with business users and provide training to offshore team members.
+
+Developed and maintained Automation scripts using QTP and descriptive programming
+
+Providing Daily, Weekly & Monthly Status reports DHLShip Role, Location: Offshore test engineer, Pune
+Description: DHLShip is an online application which will provide the DHL customers to prepare online
+shipments, track shipments, get rate estimate, approximate time required, print labels, documents
+required for international shipments.
+
+Responsibilities: Involved in Business requirement review meetings with onsite coordinator.
+
+Involved in Test Planning, Test Execution & Defect Reporting Developed excel based tool to compare
+data on various reports for multiple client reducing the manual effort.
+
+Provide daily status reports to onsite coordinator.
+
+The project was executed in waterfall model
+
+ISTQB Certified Tester Foundation Level
+
+Bachelor of Engineering | Electronics and Communication, 2002
+PDA College of Engineeting, Karnataka India
+Electronics and Communication
+
+ce
+
+‘tificate in Banking by ‘The chartered institute of bankers in Scotland’.

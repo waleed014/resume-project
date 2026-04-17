@@ -1,0 +1,132 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (855) 452-1000 ¢
+
+plesexample.com
+
+Summary
+Senior Data Architect and BY Engineer with 11 plus years of profesional experience in data wrangling techniques and supporting
+
+complex business intelligence projects. Team lead with 4 plus years of managerial experience providing end-end solutions for several
+Business Intelligence and Data Analytic initiatives.
+
+Top Skills
+
++ Database Design + VBNet
+
++ Extract, Transform, Load (ETL) + xML
+
++ SQL Server Integration Services (S55) + Data Architecture
+
++ SQL Server Report Services (SERS) + Date Modeling
+
++ Dashboard + Marketing Cloud
+
++ TsQt + Customer Experience and Success
+Experience
+
+Senior ETL Developer, 07/2018 to Current
+Forward Air~Sandy Springs, GA
+
++ Lead Engineer for multiple projects; worked with senior executive directors to provide BI and DW solutions.
+
++ Provided roadmap for the BI & DW team to achieve project goals in a timely manner.
+
++ Guided the enterprise Data Warehouse team on how to achieve their project goals
+
++ Serving as a primarily SSIS ETL and SQL Development lead for all nitiatives within the MGPO Physician Analytics & Business
+Intelligence team.
+
++ ‘Lead developer providing end to end data warehouse solutions including data ingestion, creation of Databases for reporting
+and staging environments, ETL design & development, building complex Agg and Fact tables for highly successful projects such
+as Telehealth, RCO POS, SAM CODING, RCO HB Denials, PB Denials, Patient Referrals
+
+«+ Created best practices for ETL design and development, responsible for reducing the processing time by more than 70% on,
+complex ETL jobs.
+
++ Responsible for mentoring and training new hires on the team,
+
++ Shown an ability to work with many disparate data sources crossing multiple hospital-based initiatives.
+
++ Developed best practices for solutions that help end users’ access and analyze data in data warehouse, data masts and
+operational systems.
+
++ Developed data extracts and dashboards for Revenue Cycle Operations team which included Denials Data, Claims Data, Balance
+Score Card data,
+
++ Perform regular ETL deployments (SSIS Catalogs/ PowerShell Scripts) for the IPORT team on weekly sprints
+
++ Provide Database Administration Support (such shrinking the database/ moving file groups/ Create Index views)
+
++ Loading and backfilling Big Data in efficient manner using BCP / Bulk insert PowerShell Scripts
+
++ Working on creating a dashboard using Power BI to monitor daily production jobs,
+
++ Provide timely resolution for production issues and optimize the run time of jobs which are sunning slow.
+
+‘+ Work with BI Cognos team to optimize the query performance.
+
++ Automated data extracts from Clarity to load data into IPORT.
+
+Senior Data Warehouse Developer Consultant, 04/2013 to 0772018
+Alchemy Systems ~ Austin, TX
+Client» CVS Healt
++ Lead developer for CVS Health Epic reporting, supervised a team of developers to help migrate from existing reporting database
+to.use clarity database to build a data warehouse
++ Worked with the team that was acquired by CVS Health to transition to EPIC Clarity Database
++ Design and develop solutions to map the existing EPIC data into Data Warehouse
+Client: Northestem Medicine
++ Developed extracts for Northwesten Medicine fom Clarity & IDS (inhouse Data Warehouse) for Northwestern Medicine Epic
+Gotive
++ Built eports sing SSRS & Tableas Dashboards.
+Client Partners Health
++ Lead developer for Epic Clarity reports & extracts for the Revenue Cycle and Clinical Departments,
++ Developed large complex data exacts and automate those using SSIS.
++ Developed packages for Data Warehouses across Partners entities,
+Clint» CVS Heals
++ Ceeated data models & developed databace steuchares
++ Managed and administered large scale data warehouse databases
++ Designed and developed custom ETL packages for Cogito Data Warehouse using SIS,
++ Analyzed non-Epic datasets to identify required data elements to be moved into Caboodle
++ Excelent understanding of dimensional data modelling, star schema, fact tables and dimension tables.
++ Developed extracts using SSMS and automated data extract jobs using SSIS.
++ Developed report using S5RS and Dashboards using Tablea.
+Client Providence Healt
++ Responsible for build, test and report configuration in Clarity and Reporting Workbench for the implementation ofthe Epic
+system.
++ Extensive experience creating lage daily extracts fom diferent Clarity Data Models for PHS Community Connect Clients and
+automate them using Informatica.
++ Experience in developing complex aggregated datasets to lad into Data Warchouse
++ Used Informatica to automate data extract
+
+Senior Consultant, 01/2012 to 04/2013.
+‘Aon Corporation ~ Virtual, WE
++ Lead Business Analyst for Endeca Search Implementation Project.
++ Gathered and translated requirements, through a variety of interviewing methods, analysis and facilitation techniques, created
+coherent report design documents which led to successful BI solutions,
+‘+ Acted asa liaison between company business owners and technical associates within to ensure data collected and processed,
+‘were actionable and relevant to business needs,
++ Owned and managed complete projects, which included understanding business processes thatthe application supported all the
+‘way through roll-out and support.
+
+Business Analyst, 04/2010 to 12/2011
+ManpowerGroup ~ City, STATE
++ Lead Business Analyst for ManpowerGroup iPhone application.
++ Gathered business requirements from various departments via interviews & surveys.
++ Worked directly with the IT teams from different countries to understand the integration issues & provide resolutions
++ Querying of source and target databases for unt testing
+«+ Produced ad-hoc queries and developed reports to support business needs
+
+Education
+
+MBA: Executive MBA, 2022
+Kent State University - Kent, OH
+
+Master of Science: Electrical Engineering, Telecommunication, 2008,
+University of Maine - Orono, ME
+
+Master of Science: Software Engineering, AI And Robotics, 2006
+Sharif University of Technology - Tehran, Iran
+
+Bachelor of Science: Computer Engineering, 2001
+University of Culture And Science -Tehran, Iran

@@ -1,0 +1,159 @@
+JrEssica CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 -resumesample@example.com
+
+Susmary
+
+Proactive ETL Developer with 11+ years carefully handling and transforming data loads to suit customer needs. Versed in all dominant
+information modeling designs and mapping technologies. Dedicated to flawless ETL integrity and impeccable data security during all,
+database maintenance and modification tasks
+
+Sxnis
+
++ Informatica
++ OFSAA
+
++ Oracle PLISQL
+
++ Automic Scheduling
++ Unix Scripting
+
+‘EXPERIENCE
+
+01/2021 to Current Lead ETL Developer
+‘Allegis Group - Catonsville, MD
+
++ Designing the ETL Approaches for extracting data from heterogeneous source systems.
+
+‘+ Creating the stories relate ETL work in Jira and distributing them among the team based on workload,
+
+‘+ Developing the ETL mappings, configuring sessions and workflows,
+
++ Creating the CAA7 jobs for scheduling ETL workflows in Production,
+
++ Preparing the ETL environment, Creating ODBC connections to MongoDB and Power exchange connections to
+‘Mainframe systems,
+
+* Creating Packages and snapshots to migrate the code from UAT to QA and then to PROD.
+
++ Creating CRs in ServiceNow and reviewing with RTB team, following up for approvals and implementation of
+CRs.
+
++ Preparing the Run book and supporting the Production Failures.
+
++ ENVIRONMENT: Technologies : Informatica, MongoDB Mainframe, UNIX, Hog Artifactry.
+
++ Worked with business analysts to gather and define project requirements.
+
++ Defined database design specifications bated upon project requirements,
+
+(08/2018 to 12/2020 Lead ETL & OFSAA Developer
+American Medical Association — Washington, DC
+
+* Developed various informatica Mappings & workflows to load data and implemented audit checks on the data load.
+
++ Building Table to Table (T2T) Transformations in OFSAA manval file uploads & Configuring DQ Rules in
+OFSAA through UMM.
+
++ Scheduling and Executing Jobs, creating sql and maintain OFSAA Configurations.
+
+‘+ Validating the SCD Process to handle Dimensional Hierarchies.
+
+«+ Involved in analysis of data issues from upstream and downstream applications associated with the OFSAA and its
+Datamatt’s
+
++ Created Data quality check on the key elements of OFSAA-PFS application,
+
++ Developed OFSAA T2T.F2T and PFT rules for PFS application Create multiple OFSAA components like batches,
+process, rules, Hierarchy, data transform and run,
+
++ Performed data model changes/customizations using CA Erwin tool
+
+* Cloned the environments to prepare TEST and CERT validations for each sprint code.
+
++ Provided L1 & L2 support for the OFSAA bath failures and troubleshooting them by verifying the logs in
+OFSAAL
+
++ Implemented table partitioning, creating indexes, collect stats and hints to improve the performance of OFSAA.
+batches.
+
++ Extensively worked on informatica mappings & workflows development to load the multiple SORs data into FSDF
+STG Automic database
+
++ Provided technical solutions by debugging through experience, and created SR with Oracle.
+
+* Creating Model Tables and views with partitions and indexes.
+
++ Advised/notified the mangers & other team members about the issues and impact of the new changes before
+‘moving into PROD.
+
++ Involved in unit testing of mappings and ensure delivering the flaw less code tothe SIT and UAT environments
+
+«+ Fixing the defects and implementing the Change requests during SIT and UAT phases.
+
++ Involved and developed creating scheduling jobs & workflows in Automic.
+
++ ENVIRONMENT: Technologies : OFSAA, Informatica, Automic, Oracle, UNIX, Jira Project # 7.
+
+12/2013 to 07/2014. Senior BI Developer
+Panjiva ~ Virtual, MT
++ Gathering the client requirements
++ Designed Data models in Frame work manager to meet up the Clients report requirements
+* Working in coordination with client and team,
++ Developed various kinds of List, Cross Tab, and Chart and Dashboard report using Cognos 8.4 & Cognos 10.
+‘+ Scheduling the reports based on the clients requirements using IBM Cognos Connection,
++ Developed Various Dashboards Mutual funds, Business Banking, Investments and Insurance Dashboards
++ Understanding the existing stored procedures and migrated all the existing BO reports to various Cognos List,
+‘Crosstab, and Chart reports using Cognos.
++ Handling complete Datacenter Migration
++ ENVIRONMENT: Technologies : IBM Cognos BI, SQL Server, Windows7, SAP BO.
+
+(08/2008 t0 062014 BI Developer
+SWA~ City, STATE
++ Interacting with designers for requirement and design clarification.
++ Co-coordinating with the onsite team in terms of fulfilling the requirements and moving the reports across the
+environments
++ Created Pivot Table views fr analyzing the data,
++ Implemented join relationships in Physical Layer and BMM Layer
++ Organized the tables in the presentation layer.
++ Created new Logical columns in BMIM Layer.
+‘+ Made Changes in the Presentation Layer as wel as created Hierarchies in The BMM Layer.
+
+Epvcarion ann TRAINING
+
+04/2008 BSC: Computer Science
+Sri Krishna Devaraya University - Ananthapur, India
+
+ACCOMPLISHMENTS
+
++ Created OFSAA ICC Batches and Tasks and configured different types of OFSAA OTS objects like transform data, executables in
+tasks using Operations framework.
+
++ Worked on developing GL reconciliation mappings using Run Rule Framework (RRF),
+
++ Experience in FSDF Data model customizations using Erwin tool and uploading the data model using Data Model management.
+
++ Sound knowledge on FSDF Data model and GL Reconciliation module, working with OFSAA Utilities Batch Operation, Data
+‘Management, Data Quality and RRF frameworks.
+
++ Have experience in Objects migration using Object migration XML utilities and cloned the environments,
+
+* Configured Key dimensions load using SCD and DRM loader functions in tasks.
+
+ADDITIONAL INFORMATION
+
++ Experience in troubleshooting the batch fuilures using logs, Message log tables in Automic schema & config schema tables, Song
+knowledge of data warehouse architecture, OFSAA intemal architecture and experienced in dimensional modeling on data modeling tool
+(ERWIN), Have knowledge on data processing in LRM & ALM modules. Extensively worked on Informatica created complex
+‘mappings sing diferent transformations, created sesions and build dependency between sessions, used different tasks in the workflows,
+{involved in performance tuning of jobs. Extensively used Informatica client tools ~ Source Analyzer, Target designer, Mapping desiene,
+-Mapplet Designer, Informatica Workflow Manager and Informatica Workflow Monitor Optimizing Informatica Mappings and Sessions
+to improve the performance. Extensively worked onthe Automic Scheduling tool(UC4) creating jobs and scheduling them by creating
+‘wotkflow as per their dependency. Extensively worked on Oracle 11g and Teradata, creating Teradata Stored Procedures(PL/SQL),
+tuning and building the complex SQL. Skilled in design of logical and physical data modeling using Erwin data modeling too
+Expettse in OBIEE 11g/12c and Oracle BI Publisher Technologies, Architecture Concepts, Work Process Architecture Concepts, An
+ardent analyst with a flair for adapting quickly to dynamic business environments and resolving complex business issues; deft in
+interacting with clients, understanding curent business processes, gathering new business user requirements. Developed, Modified and
+‘ested UNIX Shell scripts and necessary Test Plans to ensure the successful execution ofthe data loading process. Extensively worked in
+various domains like Banking Risk and Regulatory Sales & Supply management and Manufacturing.

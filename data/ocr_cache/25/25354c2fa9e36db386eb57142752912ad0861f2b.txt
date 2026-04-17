@@ -1,0 +1,50 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Highly skilled software development professional bringing more than 8 years in software design, development and integration. Advanced
+knowledge of C#, ASP.NET, JavaScript, and familiar with C++. Software Engineer well-versed in creating test cases, as well as covering all
+test conditions and eliminating redundancy and duplications.
+
+Semis
+
+© C++, C#, ASP.Net
+
+Web-based software engineering
+
+© SuiteTalk * Database management software
++ PHP * MS SQL Server
+
+* REST * MySQL
+
+= SOAP + PHPAdmin
+
+* Eclipse # Javascript
+
+© Web Service ° HTML and XML and CSS
+
+Work History
+
+08/2008 to 02/2017 Software Engineer / NetSuite Developer
+IntervalZero, Inc. — City, STATE
+‘* Design, develop, test, document, and deploy high quality business solutions on the NetSuite platform based on
+industry best practices
++ Customizations or alterations to the NetSuite platform
+‘* Primary point of contact for NetSuite application support
+‘© Manage configuration changes to fields, workflows, roles/permissions, page layouts, custom objects, custom record
+types, reports, and dashboards
+‘* Research and development of new NetSuite add-ons / prototypes and applications, and facilitate continuous
+improvement within the environment
+‘ Design, develop, test, document, and deploy application extensions using system API and 3rd party tools,
+‘© Manage from start to finish the overall analysis, testing, and execution process testing for ongoing NetSuite
+upgrades
+‘* Consult and advise the business on potential NetSuite integrations with intemal and external systems, and manage
+all integrations with NetSuite long term
+
+Epucation
+
+2008 Bachelor of Science: Computer Engineering
+University of Massachusetts - Lowell, MA

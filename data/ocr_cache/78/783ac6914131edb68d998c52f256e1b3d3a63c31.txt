@@ -1,0 +1,43 @@
+JERROLD JOHNSTON
+
+78789 Thomas Lake, Chicago, IL
+
+PHONE
++1 (555) 338 0835
+
+EXPERIENCE
+
+Muller Inc
+New York, NY // Director of Data Science // 02/2019 — present
+¢ Lead the ongoing growth, design, and expansion of a high-quality data platform from across a wide variety of data sources,
+and supporting an array of streaming, operational and research workflows
+Champion Al/analytics projects to all stakeholders
+¢ Properly implement AB testing and experimenting into end-consumer apps
+Implement and secure mechanisms to enforce data privacy and data protection regulations
+Product Roadmap Creation / Collaboration
+
+Hyatt, Jacobs and Lindgren
+New York, NY // Data Science // 11/2014 — 09/2018
+¢ Actively enrolled in a Bachelor's, Master's or PhD program in Computer Science, Mathematics, Statistics, or related area
+with demonstrated experience building machine learning models
+¢ Software skills in Python and a passion to develop them
+¢ Communicating our vision of Data Analytics to internal and external customers
+¢ Work as a Business Analyst to convert Subject Matter Expert and Customer concepts into concise business cases
+
+EDUCATION
+
+Rhode Island School of Design
+Bachelor's in Computer Science
+
+SKILLS
+
+Using data visualization tools
+
+¢ Programming languages such as Python and/or R
+
+Imperative programming languages such as Java or C/C++
+
+¢ AWS technologies like Redshift, $3, EC2, Data Pipeline, 5 EMR
+¢ Handling terabyte size datasets
+
+Writing and tuning SQL

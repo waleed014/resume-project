@@ -1,0 +1,99 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+EDUCATION
+
+San Jose State University
+San Jose, CA + June "17
+
+Master of Science: Software
+Engineering
+Software Engineering
+
+RELATED COURSEWORK
+Software Systems Engineering,
+Enterprise Software Platforms,
+Enterprise Distributed Systems,
+‘Smartphone Appication
+
+Development, Cloud Technologies
+
+Uttar Pradesh Technical
+University
+‘May 2010
+
+B.Tech: Computer Science
+Computer Science
+
+SKILLS
+
++ Languages: Java, C, Objective
+, Swift
+
++ Web Technologies: J2EE,
+Node.js, Express, AngularJS,
+REST Web Services, HTML,
+JavaScript, CSS, Bootstrap
+
++ Databases: MySql, MongobB,
+sat
+
++ 10S Libraries: AFNetworking,
+Google Analytics, CocoaPods,
+CorePlot, CoreGraphics,
+Coreanimation, UIKit,
+CoreLocation, Mapkit
+
++ IDE: Xcode, Eclipse, Android
+studio
+
++ Other: Jenkins, JIRA,
+TestFlight, JMeter,
+AppDynamics, Splunk, uDeploy,
+XCTest/OCMock, JUnit
+
+PROFESSIONAL SUMMARY
+
+‘To obtain an internship position that would help me to utilize my technical skills derived from
+
+previous work experience and co-curricular involvement.
+
+WORK HISTORY
+
+Ceridian Corporation - Senior iOS Developer
+Raleigh, NC, India + 2014 - 06/2015
+
++ Involved in development of iOS applications for Morningstar users.
+
++ Morningstar for iPad- https: //itunes.apple.com/us/app/morningstar-for-ipad-stock/id676373222?
+mt=8 Advisor for iPad- https:  /itunes.apple.com/us/app/morningstar-for-advisorssm/
+id9320615802mt=8 Followed Agile methodologies and collaborated with team in Chicago.
+
++ Developed chart component for the application to analyze the stock data that was appreciated by
+the users.
+
++ Integrated Google-Analytics for analyzing the traffic into the application helping business to know
+about what component are used more by the users.
+
++ Increased the application test coverage by writing unit test cases (XCTest/ OCMock).
+
++ Used Git Forking Workflow for source code management.
+
++ Analyzed overall codebase and created code refactoring stories into the Jira that helped overall
+codebase to be cleaner and modular.
+
++ Worked on Memory profiling tools for 10S, Passionate to work on memory optimization,
+performance improvernent.
+
+Us Bank - Software Engineer
+Aberdeen, SD, India + 11/2010 - 11/2013
+
++ Integrated mobile application to server side systems using REST Api.
++ Involved in development and maintenance of many in house iOS applications like GPSDashboard,
+Factsheet and TCSBoard-https

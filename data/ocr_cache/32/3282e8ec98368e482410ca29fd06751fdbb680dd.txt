@@ -1,0 +1,34 @@
+SENIOR JAVA DEVELOPER RESUME
+
+RANDY BROOKS
+Phone (830) 555-9107
+Address Newport News, VA
+Emailtrooks@example.com
+
+Experience
+
+Senior Java Developer
+2017 - Present
+Anthem
+Newport News, VA
+* Modified SQL, PL/SQL procedures and triggers to obtain optimize output.
+* Developed Java API to connect with AWS $3 Services for storing and retrieving
+data stored in the $3 buckets
+* Created and edit intranet applications using ASP, SQL Server, ADO, VBScript,
+Javascript, XML, and XSLT.
+* Developed enterprise web services using J2EE, SOA Suite, JDeveloper, Spring,
+Hibemate, JMS.
+
+Software Developer
+2015 - 2017
+Northrop Grumman.
+Newport News, VA
+* Performed load testing of the web services using SOAP Ul.
+* Worked on a development team helping to create a mobile application for the
+LAPD Worked with XML, XSLT, VB.Net.
+* Designed/developed multi-threaded control applications to interface with
+vendor s hardware devices using JVM platform and Java language.
+* Create and maintain build process for Ant, Maven, and Docker projects with
+source in Rational Team Concert and Git.
+
+Page 1012

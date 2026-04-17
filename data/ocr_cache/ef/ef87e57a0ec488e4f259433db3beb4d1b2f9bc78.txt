@@ -1,0 +1,84 @@
+BREE ANDERSON
+
+5021 Waters Fall, Philadelphia, PA
+
++1 (555) 335 7759
+
+EXPERIENCE
+
+FRANECKI, SCHROEDER AND PAUCEK
+
+Philadelphia, PA | Data Science Consultant 10/2019 — present
+Extensive experience with statistical modelling techniques
+Experience connecting Tableau or other visualization systems and
+using for dashboarding or analysis
+
+Working Knowledge or experience of using modeling tools like Knime,
+Rapidminer, H20, SAS
+
+Experience with Machine Learning algorithms using Spark ML/MLIib,
+TensorFlow, R and Notebooks like Zeppelin, Jupyter
+
+Data engineering skills in using big data processing and streaming
+platforms Apache Spark and Apache Kafka, Hadoop
+
+Prior experience with data transformations, filtering, data aggregation is
+useful
+
+In-depth understanding of SQL and Power BI
+
+Competent in machine learning principles and techniques
+
+Experience with at least one programming language (e.g., Python, R,
+C++, Java)
+
+WHITE INC
+
+Philadelphia, PA | Data Science Consultant 02/2015 - 06/2019
+
+Depth of knowledge in at least one OR/ML skill area (e.g., optimization,
+simulation, machine learning, statistics)
+
+Demonstrated aptitude for independent learning, logical analysis,
+problem identification, and problem solving
+
+Familiarity with deep learning, natural language processing, computer
+vision, recommender systems, experimentation (e.g., A/B testing)
+Practical experience designing and building machine learning,
+optimization and simulation models
+
+Experience in using cloud platforms and parallel processing to scale
+model development/ deployment
+
+Domain knowledge in the airline industry
+
+PhD in Stats, Operations Research, Applied Math, Physics,
+Engineering, Economics (applied micro, applied econometrics,
+empirical |O, labor, finance, behavioral, applied macro/time series), or
+related technical field
+
+EDUCATION
+
+SCHOOL OF THE ART INSTITUTE OF CHICAGO
+Master's in Statistics
+
+SKILLS
+
+You have developed capabilities with data modeling and
+complex big data analyses
+
+You are business facing with strong business analysis
+skills and a proven consultative approach
+
+Your future colleagues help you with questions and
+challenges. Moreover, there is a pleasant, informal
+working atmosphere
+
+With your passion, you can make a daily difference for
+our customers in the enterprise market with the help of
+the latest Microsoft technology
+
+We have a strong focus on the career and development
+opportunities. Every colleague will have a career advisor
+who works with you to create a plan and guides you
+through the many training opportunities we offer

@@ -1,0 +1,103 @@
+Lina Stark
+
+13381 Hauck Islands, Detroit, MI ¢ Phone: +1 (555) 795 5486
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+DIRECTOR OF DATA SCIENCE
+‘Los Angeles, CA
+06/2014 ~ present
+‘© Grow and manage a world-class platform and team for rapid product research, development, deployment
+and improvement
+‘© Manage data scientists to help execute on your strategic vision
+‘© Provides leadership in advanced engineering, data science and analytics in the development of current or
+future products or technologies.
+* Collaborate with investment and
+challenges
+‘* Maintain and update standards to assess and document modeling process and performance
+‘* Mentor junior team members and create training and growth opportunities
+‘© Work specifically in a variety of areas: Machine Learning, Artificial Intelligence, Large scale cookie and
+account level analysis, and more
+
+t-facing teams to develop solutions to address research and business
+
+DATA SCIENCE
+
+‘Los Angeles, CA
+11/2009 — 05/2014
+
++ Perform EDA and feature engineering to both inform the development of statistical models and generate
+improve model performance and flexibility
+
+‘* Work with Capgemini’s global data science leadership to execute identified bi
+
+‘manage project delivery / client expectations
+
+Provide analysis using mathematical modeling tools to improve business processes and decisions
+
+Leverage data to perform intensive analysis across all areas of our business to drive product development
+
+Assist with the mentorship and development of junior staff
+
+Assist with the development of standardize reporting solutions that align metrics and drivers with the
+
+associated financials
+
+‘© Create dashboards and reports to regularly communicate results and monitor key metrics
+
+sss use cases on time and
+
+INTERN, DATA SCIENCE
+
+New York, NY
+02/2004 — 07/2009
+
+‘© Designing and implementing machine learning solutions with tasks ranging from feature selection,
+classification, clustering, time series analysis and much more
+
+‘© Writing SQL or P code for cleaning the data and for developing statistical models
+
++ Analyzing data with standard statistical methods, interpreting the results, and developing
+
+recommendations that can be implemented
+
+Data Engineering — building the pipelines and tools for data transfer and share
+
+Carry out tasks encompassing data cleansing and data normalization
+
+‘Conduct research on methodology enhancements using weighting techniques
+
+‘Conduct research on methodology enhancements using non-traditional
+
+ing techniques
+
+BOWLING GREEN STATE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+* Good knowledge of shell scripting
+
+‘Highly analytical and able to extract key insights from data then communicate them clearly and effectively
+to stakeholders
+
++ Dig through our extensive datasets to find actionable insights for city teams
+
+‘Strong experience in predictive modelling using R/Python
+
+‘+ Strong programming background in at least one - Java, Scala or other object oriented programming
+languages
+
+¢ Strong command over Big Data technologies - HADOOP, HIVE, PIG, Spark-MLIib
+
+‘© Expertise in handling large data volumes MPP databases like Teradata/Greenplum and high proficiency
+in SQL
+
+‘+ Experienced professional with at least 8-10 experience working across Analytics & Machine Learning
+domain
+
+* CS Background good as well
+
+Strong Stats / Math background

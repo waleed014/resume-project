@@ -1,0 +1,148 @@
+Jessica CLAIRE
+
+Magy Suet San Fann, CA D105 # 55) #32100 enmesngleBexane cot
+
+PROFESSIONAL StAOUARY
+
++ Nowe tha Sx years of profesional experenein designing, developing and esis mildeware pplication wing WebSphere Message
+Broker, WebSphere MQ, DaPower an MaleSoR ESB
+
+‘+ tyes of experience in aplication integration ting Male ESB, Cloth, AnpintStato,Anypoint Platform.
+
++ Hope expan: in sing Mule Sof Stalio hat iterates AP, databases nd Su applications and deployed Mle Sf aplictions 0
+Cloud Hob and on premise servers
+
++ Uilize Male fetes ke Data Wee, API Ssgner and varius connector to nse obs noose copled integration Ler,
+
++ Good experience ia XML techzlopie ike XSD, XSLT, XQues and path fr data warfomaton in Mole
+
++ Good experince in soaring mionareinfasruce (SAMI, OAUTH, std LDAP).
+
++ Good experience in using AcuteMQ, AWS nite fo Asyoevonous menage qbsing fr gsraeed delinery pte
+
++ Develop message Sows and inlet ata wanton wing XSLT, ESQL an ata
+
++ Create XSD and WSDLS fr implementing eb services in Message bce
+
++ Proficient in atomsted deployment sng esin, GITSVNCVS, Afton.
+
++ Expericae in RESTFUL lt titer withthe services by the RESTFUL URL mapping
+
++ Proficient bth in Agile nd Water ilsoftatedevelopet etd
+
++ Proce in resting revsble sel scrip, Pthon and Ruby scripts,
+
++ lndepthwadestanding of Dat Stctrs and Algor
+
++ Responsible forall spect of evelopment inching Peformance Tung, Fal Tolerace, Upgrades and Deployment of Mileware
+inact
+
++ Excl usdestnding of ul Software Developmet Life Cycle
+
++ cele communictin sills nd mire cyanide player wih high aptioe fr leasing nd inplemetng
+
++ Good experience in monitoring aplication nd woublesbootng prod 05
+
++ Bello communication sills nd motivate organized eam lye wih high apt for learn nd inplementng
+
+s
+
++ Tategrtion: Mle 3.7, Male 3.9 an 43 une, Clondiisb + See & Framework: fv EE, SP Seve, ISTL, JNDIIMS,
+‘+ Languages: Ja pon, C, Cr, daneare DB Senna bens & Entity Bess), IF, Sus, Spring UOC,
+
++ Databases: Oracle 9110p, DB, MS SQL Serer MVSQL___ MVC, AOP & DAO) and berate
+
++ Servers: Bows, Apache Tomcat, Apache HTTP Server 2x, JBots + Web Serve XML ISON, XSLT, XSD, SOAR REST
+
+sx + Tools & Ui: Jenkin, Maven, Nex, Git SUN, Lop, ANT,
+
+oni, MUit and TRA,
++ Platform: Window, List, MacOS
+
+Work History
+
+APU MuleSoft Developer, 062021 - Carers,
+‘Customers Bank — Providence, RE
++ Create MULE ESB artic and conigued te MULE configuration les nt deployed
++ Automate bid ad deploymest package tol wing Maven and bul the cose in eins
++ Crete RAMI aed REST we services APT wing Mole ESB
++ Ad hemes repository details in por xo ior tbe al dependencies when Jenkins bl the application and dels the aplication
+into cloud bb
+"+ Wite Mite ae to ait the Mle Some
++ Create he iteration works sing MuleSoR ESB,
+‘Wonked wit ntepations ning connectors och as Sale face, Daabse, IMS, Active MQ, HTTR, FTP, SFTP and File Connectors
+«+ Pact in resting HTTP inbound & outbound flows and erchestaton sing XPath wing MULE ESB
++ Used Cou Hb console to monitor the request and response psa
++ Crete cluster enorme ing Mole ESB th Male Ay Pit Stadio and Creating Active MQ with feat poopie ia Enterprise
+Integration
++ Configure the Mul proces er fing the dat fom pic nd makes web service cll tthe milder Mule ES fr pacing nd
+pate dtc te Clos ab
+mplemet dra transformation using XPATH, XSLT, Data Weave, Custom jvaclases,
+sed Bthocke and GIT repository oun the Fenn jb for Contes nteraton
++ Cretan consume SOAP and REST services wing CXF ad wd Anypin Stati trot aio aiding the Fine gained ecu
+tase on he API consumer fer enratng en fr invoking services
++ Uae with ansfomer, exception handing testing & Security of Mle ESB endpoint tough OAuth
++ UseMule ES comectr- SFDC, Meuse Taafomer, Chace Exception Stein, Batch processing et
++ In dsgnng he pplication aa iddleware been the ht pany eye al he comer ie sytem,
+Follow aie metodslogy’ abd Scum and war volved aplstin design nd pariipated in tcl meetings, lft existon,
+tackdog rooming te
+Design develop test mint nd iplement plication integration sytem enhancements woking with in established processes
+Emrnments MalSef ESB 3.9/4, AVA, ActiveMQ, RAML, Nes, Apache Maven, Cloud Hub Neca 2.1.4 (Nexus Maven
+Repos), Bit Bucky, XML, XSLT, LDAP, MS SQL Log, Gt Web Series, Jenkins, Anypont Stale 67.
+
+‘MaeSof Developer, 102018 05/2021,
+[Novoprada & Co. Lip~SanFanciso, CA
++ Achtcte Intertions wing Mole ESB evienments fr bth on emise and loo enicnmente
++ Used MIC (ule managemetconsle omens the equst ad tespose payload)
++ Have writen MUnit et caer valid Mule owe
++ Used ANT srg to ul the aplication nd deployed on Oracle WebLopic Serr and implemented WebLogic cater and Node
+smamager
++ Implement te aplication using pig modules inches 10, AOP, Batch nd MVC
++ Actively insted in designing nf inpleentng Business Delegate, Data Access Object an Session aja and Dats Trans Objet
+eign pers
++ Design and develop Message diven architects tht consued the JMS messes fom the Java message que and process the database
+pang ad conversion
++ Design and implemeet th plication a Agile metholopies
++ Develop milter bsnest loi xing Spring based tantaction manages
++ Used Lops capt the log triacs rine exceptions, msitred tr lops od Fixe the pecblens
++ Used SVN the version oto too fr code commit and wpa
++ Used Aso wired POJO and DAO cass with Spring Cones ad secs
++ Uaed Male Flows wth Data Mapper to cstomize XO. 1 CSV mapping conversion
++ Developing and securing CXF webservices in Mule ESB,
++ Uae Angle IS a developent framework to bul Single Page Aplction (SPA)
++ Handle the backend operations sing SQL, PLISQL, Stored roedes, gprs and developed he persistence set tsing ORM
+tase Hibernate
++ Uaed Mul ESB for outing, iting and agree message been aplication aed on content nd rales
++ Seting up Mole ESB forte development enitoemest
++ Crene MULE ESB tit snd coniguel te MULE configuration file sn deployed
++ implemented Web Sevier sing SOAP potacl, UDDI, WSDL and SenceOrieted Architects (SOA) Concept
++ Design and developmen of wer Inte wing SP, HTML, CSS, JataSript and AIA
++ Developed SQL Queries Toa fr Once
++ Develop Mule ESB poet fr the services wih syevonou nd syachonous Mule os
+_Emironment: Male ESB 3.03/28, Ansel Stato 50, Cloud hab, Pat, Apache Maven, FZ, Neva, RAME, MU, API, AIAN,
+XML, JAXR, AXE, JSR HIM, CSS, SQL, Tn, PLSQL, JovaSerit We oie, Oracle, MDB, SOAP UL, SVN, Windows XP & Lines,
+‘eve 16, Spring, Hibernate, Web Services
+
+Python Deelper 082016 052018,
+‘Westen Aiance Bank iy, STATE
++ Design and developed Use Cae, Cats and Object Diagrams wing UML Rational Rose for Objet Oretd sin tciqus
++ Paicipe in deelp the REST Web services to expose he bsness methods to extra sess ia he eject
++ Responsible for gathering requtemens, syste analysis, sin, developmen ttn and deployment
++ Develop wseriateace sing CSS, PHE, HTML aaSeipt and Quay
++ White Pyton mane to extacoa set data fom the MySQL source daahse
++ Work on out name works ike CSS, Boot for development of Web apliion
++ Crete Git oposite and ad the poet to Gib
++ Design and implemented adeiced MYSQL. dake server div th we apps and teport on aly progress
+“+ Crete views and tempter with Python ad Django’ view cooler and templating language ces ae enly weit interface
++ Uied Poi he Python uit famewee, for al Python plications
++ ollsbrate ith itera tans and eterna teams to salt th ses and ving Fendacks
++ Document the poems and popes of project most accurately
++ Collaborate with team ding testing of dt arouses
+Emstronment Python, MySQL, REST Web Services, JavaSerp, Elie, Lines, Shell Sept, JQuery, Glas JURA, GIT, jens,
+
+EpucaTion
+
+Bachelor of Schnee: Appi Science
+ww
+
+[MCD MuleSof Cerisied Developer

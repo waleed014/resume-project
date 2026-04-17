@@ -1,0 +1,56 @@
+ROBERT SMITH
+Jr. Network Security Engineer
+
+Phone: (0123) 456.785 | Emai: inlo@quksesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+Driven and results orientated Information Technology Securly Enginear/Analyst with over 10,
+years’ experience in managing modium to large scale projects in area of Network/Systoms
+‘Administrator! Security specializing in Cisco devices, Network security, Frewalls and VPNs, Cisco
+Routers, LAN/WAN connectivity, TCPIIP, communications. Experienced in Network Securiy,
+Juniper Firewalls, SSL VPN, Checkpoint, RSA, Cisco Nexus, Cisco ACE, Cisco Wireless.
+
+CORE COMPETENCIES
+
+Very quick at adapting to new surroundings and teams;
+PROFESSIONAL EXPERIENCE
+
+Jr. Network Security Engineer
+College Board - November 2015 ~ 2019
+
+Key Deliverables:
+
++ Idonifiod vulnerable, recommended corrective measures and ensured the adequacy of
+éaising infomation secuty contro,
+
++ Asgessas and manages ihe risks of sacury threats to information systems Ensurés that
+information sysioms possess secury levels equal othe lavel ol exposure to potential
+
++ Secutly assessment of online applications to only the vuoi in lorent
+categories lke Input and daia Validation, Authentistion, Authorization, Audting Bam,
+teoging
+
++ ulnorabilty Assessment of various web applations used in he organization using Paros
+Proxy, Burp Sulla, and Web Scarab, YASCA, HP Web Inspect, SOAP Ul
+
++ Coostnaip with dev team 1o ensure clesure ol reported winerabites by explaining the
+ase of oxpaitation and the impact ofthe issue.
+
++ Schedllng and campeon the Fisk Assessment cals for ho diferent work steams ofthe
+ian baced on the Releases trations planned
+
++ Troubleshooting connectivity issues wihin the server zones af the Data conte (batwoon
+appcatin servers; daiabase and web servers) as well as user requests and user
+connecivty issues from various branch locaons, oie locators and third party sos tb
+
+‘data center
+Network Security Engineer
+‘ABC Corporation - 2011 - 2015,
+Key Deliverables:
+‘+ Responsbillies Involved in Migration of Nortel Cantivty 1800 VPN routers to Juniper SAX
+Firowalls
+
++ Involving in'VPN (IPSEC, Site to Site) migrations and new designs for State govemment
+agencies such as State Potce, Doc, HO and otc.
+2959 Oak Sireet, Old Forge, New York, 13420
+(© This Exes Resume Template isthe copyright of Qwilrestume.com. Usage Guidelines

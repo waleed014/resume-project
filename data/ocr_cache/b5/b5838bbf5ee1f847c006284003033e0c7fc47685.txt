@@ -1,0 +1,119 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Flor # (555) 432-1000 « resumesamplesexample.com,
+
+Professional Summary
+
+Self-motivated Web Developer with 6 yrs of experience working on multiple projects. Passionate and hardworking with a penchant
+for mesting deadlines, Interested in roles indulging best practices and offering diverse customer projects
+
+Skills
++ HTML/HTMLS, C85/C583, Bootstraps, SASS, LESS + Selenium, Protractor, Mocha Jest, Enzyme
++ JavaScript, Typescript + WebPack, NPM, Gulp, Grunt, Gradle, Maven
++ ReactJS, Angulas]5 12%2.0,50 + Docker, AWS
++ NodeJS, JAVA, Spring Framework, jQuery, AJAX, JSON, + Cassandra, MongoDB
++ Redux saga, React Hooks, ImmutableJS + Jenkins
++ GitHub, GitLab, Bit Bucket, Source Tree + Sitebulb
++ Google analytic, Istanbul, Mixpanel + Visual Studio, Web Storm, Eclipse
++ Agile Methodologies, JIRA, Confluence + Windows, Linux, macOS
+Work History
+
+‘Sr. React JS Developer, 02/2020 to Current
+‘Cognizant Technology Solutions ~ Moorestown, NJ
++ Develop high performance customer facing e-commerce application using ReactJS, Redux-saga, React Hooks, React Router,
+JavaScript, HTIMLS, C553, SASS, Bootstrap
++ Built custom components for UX-Library consisting Accordion, Filters, Dropdown, Carousel, Button, Checkbox, Input, Icons
++ Developed custom APLlayer to handle all CRUD transactions, JWT token management and implemented interceptors to embed
+‘custom headers
++ Maintained high-level expertise in React state management strategies, including Redux, Redux Persist and redux-saga,
++ Exclusively used React Hooks to handle application life-cycle processes
++ Project is implemented by following TDD using Jest framework for React along with Enzyme test utilities.
++ Worked closely with clients to establish specifications and system designs. Used Zeplin and Invision to collaborate with UX
++ Used Middleware, Redux-Saga with Immutable}S in application to retrieve and store data from Back-End and to also perform
+RESTFUL services.
++ Effective use of native HTML elements and custom tags to enhance SEO optimization and application ADA compliance feature
++ Implemented CSS Box Model and styled web pages using CSS preprocessor SASS and effectively used mixins, functions, custom
+‘grid systems, grid-area concepts and flexbox for fluid-responsive application
++ Expertise usage of GitLab and JIRA as version control and tracking units.
++ Worked in Agile Methodologies for incremental development to deliver better application.
+
+‘Senior Systems Engineer, 02/2019 to 02/2020
+erspecta ~ Springfield, VA
++ Design dynamic and mult-browser compatible pages using HTML5, CSS3, SASS, Angular 5
++ Worked extensively with API team to implement creative Chat Bot communication platform from UI perspective
++ Closely monitor the usage of Google Dialog Flow Technology and procure the intent based responce to perform intuitive
+‘communication feel on User Interface
++ Design animated web pages by importing the @angular/animations to enhance customer service chat experience
++ Define new validations through AngularJS for the form field validation implemented through HTMLS
++ Implemented latest Ecmascript6 (E56) features to enhance code standards and maintainability
++ Extensive usage of Gradle & webpack to build Microservices, UI components and pipeline it smoothly for CI/CD using Jenkins
++ Translate wireframes into interactive, dynamic code
++ Strong knowledge of version control tools like GIT, SVN, Bitbucket
+Build AWS servers by executing Jenkins automated jobs and involve in server maintenance
++ Project Technology Stack: HTML5, C53, JavaScript, Typescript, Bootstrap, SASS, LESS, Angular, Java, Spring Framework,
+‘WebPack, Gradle, Jenkins, Visual Studio, Git Lab
+
+‘Senior Web Developer, 05/2017 to 01/2019
+General Dynamics ~ Boyers, PA
++ Involved designing in web pages using HTML 5, CSS3, JavaScript, Bootstrap, SASS, LESS, React}S, Redux, Flex, Mongo DB
++ Extensively used React JS components, Forms, React-Bootstrap, Events, Keys, Router, Animations, Redux and Flux concept
++ Experienced in all phases of SDLC like Requirement Analysis, Implementation, and Maintenance, and extensive experience with
+Agile and SCRUM
++ Used Object Oriented Programming concepts to develop UI components and reused them across multiple Web Applications
++ Developed custom map components using Google APT's and convenience to place loT devices on it as per business needs
++ Worked on responsive design and developed a single ISOMORPHIC responsive website that could be served to desktop, Tablets
+and mobile users using ReactlS
++ Expertise in UX-Library comprised of Button, Checkbox, Input, Icons, Toggle Button, Dropdown, Multi-Level Dropdown and
++ Worked closely with the Back-End team to display data using the Custom Components, library Components, and Redux
++ Configured automation pipelines using Jenkins to monitor CI/CD process
++ Proficient in using testing frameworks like Jasmine, Karma, Protractor, Mocha test runners
++ Followed agile and used JIRA as bug tracking tool to identify and monitor progress
++ Project Technology Stack: HTMLS,CSS3 JavaScript Typescript Bootstrap, SASS, LESS, React}5, Redux, Flex, Mongo DB, Node,
+‘Gulp, Jenkins, Protractor, Selenium, Java, Visual Studio, MapQuest, Web Storm, GitHub
+
+Ul Developer, 05/2015 to 04/2017
+Abbott Laboratories - Evansville, IN
+
++ Rapidly developed prototypes from conceptual demonstrations totally based on JOT smart cities and smart agriculture
+
++ Proficiently built Website which adheres to Web 2.0 Industry Standards Using HTMLS, CSS3, SASS, JavaScript, Angular],
+
++ Performed best practices in implementing AngularJS (1.x, 2.0, 4.0) modules and creating free-standing, reusable, and testable
+‘components
+
++ Exclusively used NodeJS for building fast and scalable network applications and ExpressJS as standard server framework for
+Nodeys
+
++ Adopted NPM, Gulp & Grunt as Task Managers and performed custom tasks forthe build process to handle the desired
+outcome
+
++ Understanding the responsibilities of ThingSpace platform, database, APL caching layer, proxies, and other web services used in
+the process
+
++ Extensively used GitHiub, Source Tree forall ofthe distributed version control and source code management (SCM)
+
+‘+ Mapped user journey end-to-end from Sensor based SOAP-API to Mongo DB Covering all data phases using information
+architecture diagrams, user flows
+
++ Worked Closely with Backend team to ensure smooth deployments by configuring different builds and test scripts for CI-CD
+‘process laid
+
++ Exclusively implemented a Node]S wrapper around the SCALA microservices and also exposed a Swagger-UI for the showcase
+by stakeholders
+
++ Executed FireBase to handle incoming Dynamic Data from ThingSpace Gateway which isa past of Threeway-Data-Binding
+practice adhered
+
++ Performed extensive unit tests using Mocha and e2e test suites for all components, and running them with Protractor
+
++ Used Google Analytics to capture User metrics to improve Customer Experience with Digital Analytics
+
++ Implemented Istanbul a popular Code Coverage tool to increase Code Coverage to make code more production efficent
+
++ Project Technology Stack: HTMLS, C5S3, JavaScript, Bootstrap, SASS, NodeJS, Express)S, Gulp, Grunt, Jenkins, GitHub, Source
+‘Tree, FieBase, Swagger
+
+Education
+
+Master of Science: Engineering Management, 05/2015
+California State University, Northridge - Northridge, CA

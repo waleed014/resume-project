@@ -1,0 +1,58 @@
+ROBERT SMITH
+
+Special Network Security Engineer
+
+Info@quikresume.com | https://Qwikresume.com
+
+Over 10+ years of experience asa security specialist with expertise Includes
+design, configuration, troubleshooting and support of security Environment with
+VPN, Firewalls NAT, Proxy, IPSec, DMZ Solution, Load Balancer's Intrusion
+Detection System, Intrusion Prevention Systems, Public Key Interchange, and SSL.
+Has extensive experience in design, implementation and support of Cisco Routers,
+switches, firewalls, and VPN devices, HP ProLiant DL380, HP Blade 20p Servers,
+IBM Xserve's Servers, Windows NT Servers and Active Directory, TCP/IP, Ethemet,
+DNS, DHCP, WINS.
+
+FEBRUARY 2014 - 2019
+SPECIAL NETWORK SECURITY ENGINEER - EA SPORTS
+
+* Configuring rules and Maintaining Palo Alto Firewalls Gamp; Analysis of firewall
+ous using various tools
+
++ Work an Checkpoint Platform including Pravider Smart Domain Manager.
+
++ Worked on configuring, managing and suipporting Checkpoint Gateways.
+
++ Working on the project of FS KTM and GTM code upgrade project, doing couple
+of them every week
+
++ Successfully installed Palo Alto PA 3060 firewalls to protect Data Center and
+provided L3 support for routers/switcheyfirewalls.
+
++ Maintained, configured, and installed Cisco and Juniper routers and switches
+7500/catalyst 6500/RV320/2960/catalyst 3550/12410, 12816, 1204 series,
+Nexus 7k and 5k, WLC, and ASA 5540 Implemented Positive Enforcement Model
+with the help of Palo Alto Networks.
+
+‘+ Responsible for setting up the Infrastructure ehvironment with majority of Cisco
+Samp, Palo Alto appliances apart from various other equipment.
+
+2011 - 2014
+NETWORK SECURITY ENGINEER - ABC CORPORATION
+
++ Responsibilities Planning and designing of corporate Firewalls architecture by
+implementing itn distributed environment.
+
++ Maintaining Corporate Firewalls & Analysis of firewall logs Experience with
+working on some ecommerce technologies Experience on Check Point Next:
+Generation Firewalls R65, R70, R75.
+
++ PCL and ISO compliant security implementations on the firewalls and perimeter
+devices Verifying & configuring the rulesets on firewalls,
+
++ (Firewall Change Request processing) Experience with network based F5 Load
+balancers with software module GTM & Checkpoint Load Sharing Managing and
+Implementation of remote firewalls for State agencies using NSM, SPACE, CSM
+‘and SamrtDashboard Designed and configured the commands for QoS and
+
+(0 Tis Free Resume Template the copyright of Quine ane com, Usage Gublines

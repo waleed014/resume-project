@@ -1,0 +1,75 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000  resumesampleGexample.com
+
+Summary
+ETL Developer with over 2 years of IT experience in the Analysis, Design, Development, Testing and Implementation of business
+application system. Hands-on experience across all stages of Software Development Life Cycle (SDLC) including business
+requirement analysis, data mapping, build, unit testing, systems integration and user acceptance testing. Strong Data Warehousing
+ETL experience of using Informatica Informatica PowerCenter Client tools - Mapping Designer, Repository manager, Workflow
+‘Manager/Monitor and Server tools - Informatica Server, Repository Server manager. Experienced in using ETL tools including
+Informatica PowerCenter 10.x Workflow Manager, Repository Manager and Experience in all phases of Data warehouse
+development from requirements gathering for the data warehouse to develop the code, Unit Testing and Documenting. Vast
+experience in Designing and developing mappings from varied transformation logic like Unconnected and Connected lookups,
+Source Qualifier, Router, Filter, Expression, Aggregator, Joiner, Update Strategy etc. Strong experience in Extraction, Transformation
+and Loading (ETL) data from various sources into Data Warehouses and Data Marts using Informatica Power Center (Repository
+Manager, Designer, Workflow Manager, Workflow Monitor, Metadata Manger), Power Connect as ETL tool on Oracle, DB2 and SQL
+Server Databases. Experience in creating UNIX shell scripts to run the Informatica workflows and controlling the ETL flow. Highly
+motivated team player with analytical, organizational and technical skills, unique ability to adapt quickly to challenges and changing
+environment. Excellent communication and presentation skills, works well as an integral part of a team, as well as independently,
+intellectually flexible and adaptive to change.
+
+Skills
+« Technical Skills: + Languages SQL, UNIX Shell Scripting.
+* Packages & ETL Tools IICS,Informatica Power Centerl0.x .
+
+« Data Bases Oracle, MySQL,Snowflake
+Experience
+
+ETL Developer, 12/2021 to Current
+Children's Place - Hartford, CT
+« Enterprise Data Service is a Data warehousing Project for the banking system
+« Banking Data Warehouse is building based on the data feeds from different banking line of business such as Savings, Loans, and
+Credit Card etc
+* Data is extracted from different Banking applications and will be deansed and Transformed before loading into the Data
+Warehouse
+* Unix and mainframe platforms are used for data driven environments
+«Informatica are used for the ETL process Oracle database are used for building the data warehouse
+# Sources can be databases such as Oracle, SQL Server and files such as Flat files and XML files
+* Responsibilities:
+* Updated the status and plan the releases through the scrum meetings
+* Designed ETL jobs, assigned the work to team and guided the team to complete the work on time
+« Involved in Fine-tuning SQL overrides for performance Enhancements.
+
+ETL Developer, 09/2020 to 11/2021
+Children's Place Jackson, MS
+* Objective of this project is to provide timely, accurate and consistent information through data consolidation into an enterprise
+data store known as ODS Data is extracted from the ODS and transformed into various data marts such a workbench,
+Employees, CMC (Calendar Management)
+* Responsibilities:
+« Extensively Working on Informatica Power Center
+« Create ETL mappings with complex business logic for high volume data loads using various transformations such as
+Aggregator, Sorter, Filter, Normalizer, SQL Transformation, Lookup, Joiner, Router, Update Strategy, Union, Sequence
+Generator, transformation language likes transformation expression, constants, system variables, data format strings etc
+« Extensively worked on ETL performance tuning for tune the data load, worked with DBAs for SQL query tuning etc
+« Performed System, Integration testing and supported User Acceptance Testing
+* Managed stakeholder communication and validated the fixed issues in order to ensure support availability as per agreed SLAs.
+
+ETL Developer, 12/2018 to 08/2020
+Children's Place - Mebane, NC
+‘« Target Corporation is an e-commerce system for business seeking to power high transaction commerce websites
+* The Datawarehouse build on the products helps to manage Data, Customer and order information and helpful in creating
+Reports
+« The objective of this project is to improve product and sales reporting
+* Got an opportunity to work on different implementations
+* Responsibilities:
+« Analyzed the sources, targets, transforming the data, mapping the data and loading the data into targets using Informatica
+PowerCenter
+« Involved in extraction of data from the different flat files and data from Oracle OLTP Systems
+* Developed ETL transformations, mappings, sessions and workflows
+* Developed the ETL mapping documents based on the business data requirements.
+
+Education and Training
+
+Bachelor's of Technology: Electronics & Media Technology, 07/2013
+Karunya Institute of Science & Technology - India

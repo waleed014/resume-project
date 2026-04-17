@@ -1,0 +1,140 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Self-motivated Web Developer with 6 yrs of experience working on multiple projects. Passionate and hardworking with a penchant for
+meeting deadlines. Interested in roles indulging best practices and offering diverse customer projects.
+
+Sums
++ HTML/HTMLS, CSS/CSS3, Bootstrap4, SASS, LESS * Selenium, Protractor, Mocha Jest, Enzyme
+‘* JavaScript, Typescript * WebPack, NPM, Gulp, Grunt, Gradle, Maven
+* ReactiS, AngularIS 1.x,2.0,5.0 * Docker, AWS
+‘* NodeJS, JAVA, Spring Framework, jQuery, AIAX, JSON * Cassandra, MongoDB
+© Redux-saga, React Hooks, ImmutableJS * Jenkins
+«* Gitkiub, GitLab, Bit Bucket, Source Tree * Sitebulb
+* Google analytics, Istanbul, Mixpanel * Visual Studio, Web Storm, Eclipse
+‘* Agile Methodologies, JIRA, Confluence * Windows, Linux, macOS
+Worx History
+
+02/2020 to Current
+
+02/2019 to 02/2020
+
+05/2017 to 01/2019
+
+05/2015 to 04/2017
+
+Epucarion
+
+Sr. React JS Developer
+‘Cognizant Technology Solutions — Oceanside, CA
++ Responsible for building front-end UI design using HTMLS, CSS3, TypeScript, Java Script, Angular 10, and
+Angular material.
+‘+ Use Angular 10 controllers to control page data and Models to bind data in User Interface with controller.
+‘* Made REST API calls using http and resource services with Angular 10.
+‘* Develop code to call the web service/APIs to fetch the data and populate on the Ul using RxIS and Observables.
+‘* Work with Angular Forms, Validations, Modules, Components, directives, controllers, and HTTP Requests.
+‘+ Implement RxJS for better user experience by dynamically providing Asynchronous request and response
+communication between the client and the server.
+
+Senior Systems Engineer
+Perspecta — Aberdeen Proving Ground, MD
+
++ Involved in the development of the new application and maintenance of the existing application.
+
++ Used Bit Bucket as a Repository and Source tree.
+
++ User Interface: (Angular 6 with Redux)
+
++ Used Angular CLI to create modules, components, services, directives, pipes etc.
+
++ Used Redux store management.
+
++ Created lazy loaded modules to maintain the performance of the application.
+
++ Used can-Deactivate, can-Activate to display the warning or information message when user is moving away or
+coming to particular routes.
+
+‘+ Integrated UPS address API.
+
+«Involved in QA and prod Deployments in AWS cloud environment.
+
+* Used blue & green deployment strategy to maintain application with no downtime.
+
+«+ Actively used AWS services like ECS, EC2, load balancer, $3, configuring health checks and used for Splunk for log
+monitor.
+
+* Working to implement auto save functionality feature to the app using $3,
+
++ Implemented custom pagination and Sorting logic on the UL
+
++ Implemented and used the sorting directives with in the form arrays.
+
++ Implemented deep compare using “deep-equal” 3rd party tool to check the objects while navigating form page to page
+according to the requirement.
+
++ Extensively used Angular Reactive forms, form Arrays and implemented reactive validations and validation messages
+according to the requirement.
+
+Senior Web Developer
+General Dynamics ~ Colorado Springs, VA.
+« Plan and implement the overall analytics and business intelligence strategy.
+‘© Deploy & develop applications end to end. Identify design problems and devise elegant solutions.
+* Understanding and carrying out analysis of the business requirements of the client
++ Customize and enhance the tools and tracking the productivity across applications; and Discover new opportunities
+to optimize the business through analytics.
+
+UL Developer
+Abbott Laboratories — Lancaster, PA
+
++ Rapidly developed prototypes from conceptual demonstrations totally based on JOT smart cities and smart
+agriculture
+
++ Proficiently built Website which adheres to Web 2.0 Industry Standards Using HTMLS, CSS3, SASS, JavaScript,
+AngularIS
+
++ Performed best practices in implementing AngularJS (1.x, 2.0, 4.0) modules and creating free-standing, reusable,
+and testable components
+
++ Exclusively used NodelS for building fast and scalable network applications and ExpressIS as standard server
+framework for NodeIS
+
++ Adopted NPM, Gulp & Grunt as Task Managers and performed custom tasks for the build process to handle the
+desired outcome
+
++ Understanding the responsibilities of ThingSpace platform, database, API, caching layer, proxies, and other web
+services used in the process
+
++ Extensively used GitHub, Source Tree for all of the distributed version control and source code management
+(SCM)
+
+‘+ Mapped user journey end-to-end from Sensor-based SOAP-API to Mongo DB Covering all data phases using
+information architecture diagrams, user flows
+
+‘+ Worked Closely with Backend team to ensure smooth deployments by configuring different builds and test scripts
+for CI-CD process laid
+
++ Exclusively implemented a NodeJS wrapper around the SCALA microservices and also exposed a Swagger-UI for
+the showcase by stake-holders
+
+« Executed FireBase to handle incoming Dynamic Data from ThingSpace Gateway which is a part of Threeway-
+Data-Binding practice adhered
+
++ Performed extensive unit tests using Mocha and e2e test suites for all components, and running them with
+Protractor
+
++ Used Google Analytics to capture User metrics to improve Customer Experience with Digital Analytics
+
++ Implemented Istanbul a popular Code Coverage tool to increase Code Coverage to make code more production
+efficient
+
+* Project Technology Stack: HTMLS, CSS3, JavaScript, Bootstrap, SASS, NodeJS, ExpressJS, Gulp, Grunt, Jenkins,
+Gitkiub, Source Tree, FireBase, Swagger
+
+05/2015
+
+‘Master of Science: Engineering Management
+California State University, Northridge - Northridge, CA

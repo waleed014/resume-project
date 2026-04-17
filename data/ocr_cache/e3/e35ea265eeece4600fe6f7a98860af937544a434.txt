@@ -1,0 +1,184 @@
+Jessica CLAIRE
+
+“Montgomery Stret, San Francisco, CA 94105 « (555) 432-1000 « resumesamplesexamplecom
+
+Professional Summary
+SAP ABAP development execitive with 17 years of rich experience Visionary and results-driven with expertise envisioning and
+leading technology-based revenue and grovrt iniatives Impressive, fac track busines carer matked by demonstated sbi to
+deliver pealcpeforming solitons and scierecrose functional Tr business objectives, Expenencein both proces and technical
+‘pacts of SAP related technology. Create pragmatic strategies and implementation plane designed for maximum return atthe lowest
+cone
+
+Skills
+
+ABAP, RICEFW WEB DYNPRO
+
+‘ADOBE INTERACTIVE FORMS SD.MMFLCOPPHRISU
+‘BSP.HTMLB.HTMLS JQUERY/JUQERY MOBILE
+‘QuKViEW PHP,Cs,VISUAL BASIC
+Work History
+
+SAP ABAP Development Architect 05/2009 to Curent
+Deloite- Newson
+* Designed and Developed Casiom VWR SAP poral using BSP and JQUERY. Developed Postal Appiation using Cz.
++ Inths portal bul many eb application ike Web Quotes, Stock Checker, Contact Person Maintenance Stock oom
++ Integented JQUERY Mobile with BSP
++ Developed SAP shipping slution and integrated with SD pricing
+1 Ths shipping solution handles package shippers (UPS, Fed), Cette carer, and Loca carers
++ Developed Stock Room Management sing O3P technology and Adobe flex
+5 Created Adobe interactive forms for ales Quotes Confirmation and integrated with BSP application.
+1 Developed a Mates Flanvng QR oa based on Sales history.
++ Designed and developed BAPI Monitoring tol(6D0C) this ool canbe used to cll any BAPLin asynchronous mode,
+5 Sucesflly integrated 850 incoming Carter PO EDI and Incoming svoice(0)
++ Developed 646-Castom inbound IDOC for Vendor Stock Management Created los of BDC upload program using EZUpload
+program generator ol
+[ADAP Technical Constant, 1/2009 to 022009
+Deloitte CO
+* SAP Vistex BSP Development contactor.
++ Developed and managed MVC BSP application for Vstex Agreement request tool for cooper industries in Alana.
+1 Developed Sales Agreement requestor Cooper industries payback system.
+1 Also infegated with Coopers Fora sytem
+5 Did many project elated scien ohh includes scheduling tak assignment execution, and testing
+
+ABAP Development Manager, 08/2007 to 10/2008
+Ssi Schaefer Systems International North America - MI
+
+* Directed Accenture clients on SAP Net weaver technology and represented as SME for many’ clients
+
++ Ensured TCO reduction by adopting SAP net weaver tools.
+
++ Developed many solutions using netweaver tools.
+
+‘+ Managed onsite and offshore teams on RICEFW development objects.
+
++ Designed and developed many Net weaver solutions, and extended standaed solutions using Webdynpro and BSP solutions.
+
++ Designed Geostan Address valuator solution by using C? Web service and XI integration.
+
++ Worked on SRM 60a a Web dynpro SME and directed client on SRM solutions Created many Technical templates and
+methodology for Web dynpro and BSP objects.
+
+« Trained Accenture and cient development rezources on BSP and Webdynpro tools
+
++ Checked every day on the status of RICEFW objects fom both onsite and offshore teams Developed Work pla, Project Activity
+tacks on RICEFW objects.
+
++ Participated in Request for proposal on Netweaver solutions.
+
++ Participated in ll complex development solutions
+
+SAP Solution Architect / Senior Developer, 11/2000 to 08/2007
+‘SAP AMERICA - STATE
+
+* Developed many custom solutions and worked with exeeutive leadership on some solutions
+
++ Represented active SME on solutions for SAP-Americas day-to-day activities
+
+* Worked as. solution architect and senior developer for IT organization.
+
++ Developed many complex tools, which includes Sales commission tool, Commission web flow, and Tax information system.
+
++ Actively participated in all global projects at SAP-AG, Walldort
+
++ Handled global development team on many projects & implementation.
+
+* Designed sales commission's dashboard using SAP portals.
+
++ Designed and developed a Complex Sales commission system.
+
+SAP Technical Consultant, 072000 to 10/2000
+ALPHA SAPIENCE ~ STATE
+
++ Worked with SAP America’s Education and training department,
+
++ Developed many Reports, Conversion and Forms objects.
+
++ Converted all SAP standard reports into ALV reports.
+
++ Created many conversion programs.
+
+* Developed SD ITS web applications,
+
+SAP Technical Consultant, 11/1999 t0 05/2000
+SAP INDIA - STATE
+
+* Worked with TATA motors fr their global SAP implementation SD development team.
+
++ Developed many interactive reports for sales orders, delivery due ist, sales reports, and transfer posting for various stocks.
+
++ Developed remittance eter to bank using layout set, printing of sales documents, order confiemation, purchase order, export
+{voice and packing list, shipments available for diversion receipt printing for both cash and check types.
+
++ Developed many layouts designed on pre-stationary Printing.
+
++ Worked on outbound Sales order IDOC and output determination.
+
+ABAP Consultant and Gap analyst, 11/1998 to 10/1999
+(CitiPower - City, STATE
+
+* Developed many user-ents, events, screen, field-exts& interactive eports to cover specific IS-U/CCS functionality as well as
+interface with MM, SD and FI. Also supported heavily gaps resolution for a numberof gaps inthe core R/3 functionality as well
+as IS-U/CCS functionality. lnteracted with SAP standard development on gap resolutions
+
++ Modified the core 8/3 system as well as IS-U/CCS to accommodate specifi functionality demanded by the user community. Also
+enhanced the system to cover functionality that was mandatory to rn the business premise search, a very basic to identify
+the customer based on address, Optimized the system code to enhance the system performance for on-line processing.
+
++ Through various programming techniques enabled appropriate use and optimization of the sensitive system functionality
+including service order processing, classification of material, Development of a field-exit for connection objects validation. This
+‘made sure that the connection object properly maintained to avoid future data discrepancy.
+
++ Wrote a number of complex ceports to support business processes and to validate results of many postings and transactions.
+
+SAP Development ABAP Consultant 07/998 o 10/999
+MASTECH ASIA PACIFIC. STATE
++ Worked asa SAP RICEFW Developer for WMC Client and as a SAP Gap Analyst for Citipower client.
+[ABAP Consultant, 0771958 to 101998
+‘Western Mining Company Group —City, STATE
++ ABAP programming for various task inthe core RG system designed and developed many complex yout ets, extensive
+reporting and other developments
++ WMC- Festlizer Organization Created layout sets fr delivery not, pick ist sales eter and direct mail. In adition, modified
+invoice, created a user-enit for delivery due ist in which the eH will alo display customer order apart fom other display
+fit
++ WMC-TALC Organization: Created layout sts for invoice, pick ist, packing List, quotation, delivery note & sles letter.
++ WMC Precious Metals: Created an invoice for precious metal, delivery notice & gold swap instructions
++ WMC-- Uranium Organization: Created layout ses for invoice and delivery noice, Reporting requirements covering shipping
+schedule report uranium batch packed summary, uranium unallocated batch summary, uranium summary container pack
+report, U305 lot history extemal radiation dose rate, U30S monthly movement summary, uranium batch detail, uranum
+summary of shipment.
++ WMC-Copper Organization: Created layout set for provisional & final invoice, delivery notice analysis detail report analysis
+details certificate order confirmation, picking list. Many report similar tothe above ones.
+SAP SD ABAP Technical lead, 07/1996 006/998
+KIRLOSKAR Electsic Company ~STATE
+* Worked as aSD Technieal consultant fr Kisoskar and implemented SAP SD module.
+¢ Supportin SD customisation use taining analysis and development ofvatious reports to meet Indian standard using ABAP
+«query and standard reporting, Written a complex upload program fr FERT with clas and characteristics for material master
+Enplemented custom goods boue rpister fr taneportation department.
++ Developed cist tool on Goods Register for transportation department.
++ Developed payroll system using UNIX Oracle Pro and PLS
+Software support engineer, 995 0 061956
+-MAYUR SOFTWARE LIMITED ~ STATE
+2 Worked as a support engineer for Mayas accounting package.
+¢ Suppomed an accountng package for various customer for hex day-to-day activities.
++ Changing the software based on customer requirements using Clipper 2 and C language
++ imparted 30 fresh engineer on Micro focus COBOL
+Education
+BACHELOR OF SCIENCE WITH DISTINCTION: Information Technology, 1952
+‘Bangalore University
+Associate of Science: BUSINESS ADMINISTRATION, 1996
+‘Bangalore University - Bangalore India
+Accomplishments
+
+‘ALSAP America [awarded best IT tool for Sales commissions system. It was written completely in ABAP and replaced costly PC
+‘based sales commission too.
+
+AT VWR International I developed a custom portal using BSP and C. This tool replaced SAP Portal and developed many
+applications. This tool intalled in more than 1500 laptops and saved many 1000 of dollars.
+
+Certifications
+(Certfed Project Management Professional (PMP)
+Additional Information
++ Other Info Viea Status: US Citizen
++ Marital Status: Married
++ Ready to travel: 100%
++ Worked in Germany, USA, Singapore, India, Brazil Japan, and Australia

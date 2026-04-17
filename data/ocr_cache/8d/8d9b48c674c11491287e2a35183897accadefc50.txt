@@ -1,0 +1,53 @@
+Your Name
+gmail@address.co.uk
+07712 345678
+99 Example Street, Example Town, Example City, EX4 3PL
+Find out more about which personal details you should include
+
+PERSONAL STATEMENT
+Find out how to write the perfect personal statement
+
+As an experienced Database Administrator I'm looking to develop my career within a role
+where I can use my database security and recovery expertise
+
+I have an in-depth knowledge of various bespoke databases and have developed skills in
+performance analysis and hardware configuration
+
+EMPLOYMENT HISTORY
+Find out how to list your previous experience on your CV
+
+Database Administrator
+
+Monumental Technology Ltd | South East London | www.monster.co.uk
+MM.YY > MM.YY
+
+Key Achievements
+Installed a new DBMS and managed testing schedule before successful deployment
+into a production environment
+= Analysed data and made performance recommendations that increased storage
+efficiency by 70%
+~ Successfully managed the combination of two databases after a company merger
+
+Database Administrator
+
+Bonnytech Worldwide | Kingston | www.monster.co.uk
+MMLYY > MM.YY
+
+Key Achievements
+Managed preliminary design stages for a new database including requirement
+analysis and contingency plans which helped deliver an award winning project on
+time and on budget
+= Optimised the system layouts to provide an improved end user experience
+= Worked closely with the system administrator to perform software installations and
+hardware configuration so they improved connectivity with the DBMS
+
+IT Helpdesk Assistant
+Telecomsticate Services | Kingston | www monster.co.uk
+MMLYY > MM.YY.
+
+Key Achievements
+= Increased IT response times by 20% b y introducing new procedures
+= Created an automated data back-up system to improve data security and recovery
+processes
+
+monster’

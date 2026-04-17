@@ -1,0 +1,104 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 # (555) 432-1000 ¢ resumesample@example.com
+
+Summary
+
+Successful IT Manager versed in managing all aspects of the product life cycle from concept development to launch. Expertise in SAP and
+
+custom development projects.
+HicHuicHTs
+* Product requirements documentation + SAP Implementations
++ Budgeting and resource management + SCM Background
+* Supplier interface + Global Projects
++ End-to-end product life cycles + Project business case development
+ACCOMPLISHMENTS.
+
+Recognized as one of Ford's SAP experts
+Patent Holder for two patents for Reman System and process
+
+‘SCM Projects responsible for over 100 Million in Inventory
+Responsible for development of Global process and implementations.
+
+EXPERIENCE
+
+SAP Integration Manager, 02/2014 - Current
+Qurate Retail Group - Palm Beach Gardens, FL,
+Overall process and technical solution integration across all process areas and ties back to legacy systems.
+
++ Ensure end-to-end integration in the system
+
++ Leadership and escalation point forthe resolution of cross-functional integration issues
+
++ Facilitate integration of IS portfolio across all IS and business initiatives,
+
++ Facilitates harmonization and integration activities across projects
+
++ Responsible for overall quality of delivery of new functionality and business process including any production changes
+
++ Facilitate integration of release activities with support stream activities
+
++ Lead and provide management for systems integration across multiple projects from definition phase through to implementation
+
+* Liaises with resource managers, COE, architects and third party service providers
+
++ Provides guidance, coaching and knowledge transfer to team of technical members, Business development and service delivery teams
+
+US SAP SCM SPP Release and Project Manager, 2009 - 02/2014
+Ford Motor Company ~ City, STATE
+Management and delivery of US SCM SPP Launch.
++ Lead the design and development teams for all phases of the project
++ Responsible for integration into the existing SAP landscape of the new module
+* Drove the implementation of tools and process required to support the subsequent SAP projects (Charm, GRC etc..)
++ Lead the cut-over plan and activities
++ Lead the Master Data Strategy and deployment for the entire SAP US program
++ Lead the implementation and launch of Forecasting, Inventory Planning, DRP. and deployment for US FCSD business
++ Lead the roll-out of SAP SNC tool to 2000 US suppliers
+
+|AP SCM Project Manager, 03/2006 - 11/2008
+Ford Motor Company ~ City, STATE
+Management and delivery of EU SCM Launch.
++ Included a 20 month ISE assignment in Germany
++ Lead the design and development teams for all phases of the project
++ Responsible for building of the SAP landscape for EU
+* Lead the initial implementation for SAP program
++ First implementation of SAP SPP Module anywhere
++ Lead the cut-over plan and activities
++ Lead the Master Data Strategy and deployment for the entire SAP EU program
++ Lead the implementation and launch of Forecasting, Inventory Planning, DRP, and deployment for EU FCSD business
++ Lead the roll-out of SAP SNC tool to 2000 EU suppliers
+
+Reman SAP Project Manager, 01/2003 - 02/2006
+Ford Motor Company - City, STATE
+Implementation of SAP Reman System.
+
++ Supports Ford Re-mamufacturing Business
+
++ Standard ERP Implementation using SD, MM
+
++ APO Implementation using DP and SNP
+
+« First SAP project at Ford in North America
+
++ Handled remote devices implemented
+
+Global Parts Pricing Delivery Manager, 1999 - 01/2003
+Ford Motor Company ~ City, STATE
+
+Development and implementation of Global Parts Pricing System (GPPS) This system is used to price Ford Service Parts. System was roll-out
+to North American Region and European Regions along with Land Rover and Jaguar brands
+
+EDUCATION
+
+TD. Law
+‘Wayne State Law School - Detroit, MI
+
+Coursework in Computer and Patent Law
+
+Bachelor of Science: Computer Science
+Central Michigan University - Mt. Pleasant, MI
+Coursework in Software Engineering and Technology Management
+
+Bachelor of Science: Business Administration
+Central Michigan University - Mt, Pleasant, MI
+2nd Bachelor Degree in General Business Education

@@ -1,0 +1,39 @@
+JOHNATAN WRIGHT
+Quality Assurance Tester
+
+(773) © johnatan_wright@hotmail.com * beloved-vote.info * West Emilyboro, Bosnia and Herzegovina
+
+My Life Philosophy
+
+In the world of software testing, quality is not an act, it's a habit.
+
+Summary
+
+Passionate and dedicated QA Tester with 5 years of experience ensuring the quality and functionality of software applications.
+Strong analytical thinking and adaptability skills have consistently resulted in improved product quality and client satisfaction.
+Proficient in manual and automated testing methodologies, regression testing, and defect tracking using tools such as JIRA and
+Selenium. Bachelor of Science in Computer Science from the University of XYZ. Accomplished in identifying complex software
+issues and collaborating with cross-functional teams to implement effective solutions. ISTQB Certified Tester - Foundation
+Level and Certified ScrumMaster. Recognized for quality excellence and process improvement initiatives. Excited to contribute
+to a dynamic organization's success in delivering high-quality software solutions.
+
+Strengths
+Q Adaptability 7 Analytical Thinking WW Attention to Detail
+Successfully adapted to changing Utilized strong analytical skills to Maintained a meticulous approach
+project requirements resulting in identify and resolve complex to testing, ensuring
+improved product quality and software issues resulting in comprehensive coverage and
+client satisfaction. reduced product defects. minimal oversight of critical
+scenarios.
+Experience
+Acme Software Solutions New York, NY
+QA Tester 2022 - Ongoing
+
+Conducted rigorous testing and quality assurance activities to ensure the optimal performance and reliability of software
+applications.
+
+* Created and executed test cases, resulting in a 20% reduction in critical defects.
+
+* Collaborated with cross-functional teams to identify and resolve complex issues, improving overall product quality.
+* Developed automated test scripts using Selenium, increasing testing efficiency by 30%.
+
+www.enhancv.com Powered by (CX7 Enhancu

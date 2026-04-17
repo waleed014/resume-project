@@ -1,0 +1,82 @@
+Kennedi Koelpin
+445 Ullrich Islands, Philadelphia, PA @ Phone: +1 (555) 457 4471
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+ETL/ DATABASE DEVELOPER
+‘San Francisco, CA
+08/2014 — present
+‘© Work with a small team of ETL developers on specific projects, including working directly with senior
+‘managers and clients,
+‘* Develop mapping specifications, Source to target mappings and ETL development. Perform
+‘* Developing to estimated timelines or updating management on deviations to these estimates
+‘* Develop the workflow and dataflow of SSIS ETL processes to support many different file structures and
+business processes
+‘+ Perform tasks related to performance tuning of ETL jobs
+‘+ Data loading workflow design and custom enrichment development using leading ETL tools
+‘* Develop and manage business plans to achieve objectives
+
+DATABASE DEVELOPER
+Boston, MA
+07/2009 — 06/2014
+‘© Work as part of a development team and establish close working relationships with stake holders, quality
+assurance, architects, as well as management
+‘* Work with the database developers, software developers and Development Lead, to architect and
+implement new features and solutions for customers
++ Update/create Knowledge Base Articles and case studies as necessary. Assist in the creation and
+improvement of Knowledge Management
+‘* Work with development and IT teams to troubleshoot data or performance problems
++ Collaborate with developers, project managers and business analysts in conceptualizing and developing
+new software applications and enhancements
+‘+ Review, discuss and work within agreed timescales and feedback to project managers any variances
+arising as tasks are performed
+‘* Develops and supports database architecture and development to create and enhance the Enterprise
+Applications
+
+JUNIOR DATABASE DEVELOPER
+Detroit, MI
+03/2004 — 06/2009
+
+Effectively develop, and collaborate with others to develop, database-centric solutions within a distributed
+team of SQL/ T-SQL, Java, and.NET developers
+Perform ad-hoc analysis of production data where necessary to develop solutions to reported is
+Develops technical system documentation
+Programming — utilize programming languages to create complex functions for use in databases
+Working in an agile environment
+Adhere to all established Company and IT policies and procedures, including but not limited to
+Support and advise Operational teams; acting as third line support and responding to incidents where
+necessary
+
+jents
+
+JOHNSON & WALES UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+‘Strong time management skills with ability to participate in multiple projects/vork streams
+simultaneously as well as strong analytical/problem solving skills
+
+‘* Solid technical proficiency with SQL Server with advanced knowledge of performance tuning and
+refactoring
+
+‘* Hands-on Database Performance and Scalability experience with design knowledge of physical and logical
+database schemas and tables
+
+‘* Good presentation, interpersonal, and written skills with the ability to influence decision makers at all,
+
+levels of the organization
+
+Demonstrated ability and willingness to learn and quickly comprehend new concepts
+
+Demonstrated strong judgment and decision-making ability
+
+Strong verbal and written communications skills, with an ability to express complex tech
+
+Basic level proficiency with Microsoft Word, Excel, and Outlook
+
+Ability to maintain technical knowledge through training or other measures
+
+Excellent organizational skills and ability to handle multiple tasks

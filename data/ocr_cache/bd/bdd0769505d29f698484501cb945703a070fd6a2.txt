@@ -1,0 +1,57 @@
+Phone: (223) 456 78 99
+Email: Infow@qulkresurme.com
+
+Java Developer
+
+ROBERT SMITH “ a
+Address: 1727 Marshulle Road
+
+Objective
+
+Java Developer And Tester with 4 plus years of experience in designing, Implementing and
+‘deploying commercial Enterprise Applications for Mult-tered-distibuted software praducts and
+tistributed applications using Java/SCL technologies. Involved In various phases of Software
+Development Life Cycle (SOLC) of the application like Requirement gathering, Design, Analysis
+‘and Code development. Involved in defining and designing the layers, components of the project
+Using GOAD methadolagles and standard |2EE patterns and guidelines
+
+sI
+
+REE, EJB 3.0, JMS, SOAP, WSDL, Web Services Serverside Programming Java Servlet 2.4, /SP,/STL,
+storm Tag Libraries Scripting Languages JavaScript, AJAX, Python, HTML
+
+Work Experience
+
+Java Developer
+‘ABC Corporation February 2015 - Present
+Involved in the design and implementation of the S13€ (statewide rule 13 exception)
+application
+Perticipated In daily scrum meetings and sprint retrospective and sprint planning for on-time
+delivery of business needs.
+Extensively worked with eclipse to develop, test and deploy the complete application.
+developed UI (front end screens) using JSF prime faces,
+Developed applications in the eclipse ide and deployed Inthe Biuernix (cloud foundry) server
+environment.
+Involved in code reviews to make sure the best coding standards and java best practices are
+Used before placing the cade in version contra
+Responsible for the design, development, and engineering of software solutions using Nodejs,
+Angular, Angular2+ and other JavaScript-based frameworks for web development
+Responsible for the design, development, and engineering of REST and SOAP web services
+
+Java Developer - Intern
+‘ABC Corporation - October 2011 - May 2012
+Responsible for the analysis, documenting the requirements and architedting the application
+based on j2ee standards,
+Participated in designing of use case, class dlayrarm and sequence dlagrarn for various engine
+ormponents and used IBM rational rose for generating the UML notations, implernented
+alfferent design patterns like DAO, Singleton pattern and MVC architectural design pattern of
+springs.
+Responsible for secure batch data flow ta downstream systems using middleware java
+technologies,
+Developed an intranet web application using [2EE architecture, using JSP to design the user
+Interfaces and hibemate for database connectivity,
+Designed and developed controller servlet, which will route the request to the application
+conttaler
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

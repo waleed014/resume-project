@@ -1,0 +1,55 @@
+THRESA OKUNEVA
+
+670 CHARISE ISLAND, LOS ANGELES, CA
+
+PHONE
++1 (555) 969 0561
+
+EXPERIENCE
+
+Conroy, Langworth and Goodwin
+San Francisco, CA // Senior SAP Developer // 01/2019 — present
+
+¢ Should be flexible to work in shifts and if necessary extend support during weekends
+
+¢ Experience within an Agile scrum team in collaborative fast paced environment
+
+¢ Strong business acumen and understanding in a business process area (Finance, Supply Chain, Procurement, and
+Manufacturing) and proven track record in leading and developing complex SAP HANA BW/BI enterprise solutions for
+global organizations
+
+e Experience in development of SAP BW HANA, HANA Data Model Design, HANA Landscape Transformation
+Replication Server (SLT) Configuration, visualization tools development such as Business Object Webi, Analysis for
+Office, SAP Lumira/SAP Analytics
+
+Boyer, Heaney and Roob
+San Francisco, CA // Lead SAP Developer // 12/2014 — 08/2018
+
+¢ Experience on SAP BPC and SAP BI/BW technology hands on experience
+
+¢ Familiarity with modelling tools, reporting tools, data warehousing and big data will be an added advantage)
+¢ Proficient in MS Office applications, especially in MS Power point, Visio and MS Project
+
+¢ Good understanding on Process Mining
+
+¢ Prior working experience with BMC Remedy (Mandatory)
+
+¢ Working experience on SAP BASIS with PI/PO (Mandatory) & CPI (Optional)
+
+EDUCATION
+
+Oregon State University
+
+Bachelor's in Computer Science
+
+SKILLS
+
+Hands-on experience with Package Configuration
+
+Experience in Agile/Scrum, BDD, TDD, software refactoring, and another engineering best practices
+Knowledge of lean development infrastructure process including Git, Jenkins, etc
+
+Experience in Microservice Development
+
+Knowledge of project and collaboration tools such as JIRA, Rally, Microsoft Teams, Confluence, and SharePoint
+Core consulting skills for a client facing role including communications, professionalism and MS Office tools

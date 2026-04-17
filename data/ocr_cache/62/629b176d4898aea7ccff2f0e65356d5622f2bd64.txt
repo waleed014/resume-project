@@ -1,0 +1,54 @@
+Nathaniel Gulgowski +1 (555) 433 9660
+28340 Zachary Shoal, Boston, MA
+
+Experience
+
+Dotnet — Braun Inc, Los Angeles, CA 02/2019 — Present
+e Experience in technologies like WPF, WCF, .NET, SQL
+¢ Strong knowledge of OO Analysis & Design
+¢ Experience in technologies like .NET and C#
+e Experience in developing ASP.NET MVC and ASP.NET Core MVC applications
+e Experience working with Microsoft SQI Server
+e Experience working with Stored Procedures, Triggers, Functions and other database objects
+¢ Understanding of HTML, JS, and CSS
+¢ Familiarity with the client side framework jQuery and Angular
+¢ Experience in technologies like ASP DotNet , C# and Oracle SQL
+¢ Proficient in VB DotNet
+
+Dotnet — Vandervort LLC, Los Angeles, CA 06/2012 — 09/2018
+¢ Strong Core .NET and Object Oriented Programming knowledge, including knowledge of multiple patterns (MVC,MVVM)
+¢ Experience with WCF and Web Api
+¢ Experience with ASP.NET and Web Forms
+e Experience writing applications using AJAX
+e Experience with Ul debugging and profiling tools
+¢ Having knowledge on cross browser compatibility is good to have
+¢ Experience writing SQL Queries and stored procedures
+e Experience performance tuning web applications
+¢ Experience using source control(TFS) in a team environment
+© Good experience with DotNet ,win and web form
+
+Education
+
+University of Cincinnati — Bachelor's in Computer Science
+
+Skills
+
+¢ Strong hands on working experience in design and development of secure RESTful microservices (REST -
+REpresentational State Transfer) using C# / .NET
+
+¢ Strong hands on working experience with .NET Core and .NET Framework
+
+© Strong experience in Object Oriented Design principles and design patterns
+
+© Working experience with TCP/IP, HTTPS protocol
+
+¢ Working experience with JSON document
+
+¢ Working experience with SQL and SQL Server Compact (SQL CE)
+
+© Proficiency with Visual Studio and Microsoft Team Foundation Server (TFS)
+
+¢ Strong debugging skills with proficiency in Visual Studio debugging features such as watch, threads, modules, memory
+view, disassembly view etc
+
+e Experience in Angular, .NET(C#, Web API) frameworks

@@ -1,0 +1,107 @@
+Antonella
+Koppenhoefer
+
+Cloud Security Engineer
+
+‘@ antonella koppenhoefert@gmailcom
+XS (83) 040-0202
+Fort Collins, co
+
+EDUCATION
+
+Bachelor of Science in Cloud.
+Security Engineering at Colorado
+State University, Fort Collins, CO
+Sep2015 -May 2020
+
+Relevant Coursework: Network
+Security, Operating Systems Security,
+Cloud Security Fundamentals, Security
+‘Automation and Orchestration.
+
+LINKS
+
+linkedin.com/in/antonellakoppenhoefer
+
+SKILLS
+
+Cloud security
+
+Network Security
+
+Identity and Access Management (AM)
+
+Encryption Technologies
+
+Risk Analysis and Mitigation
+
+Compliance Requirements
+
+Auditing/Monitoring
+
+LANGUAGES
+
+English
+
+Arabic
+
+HOBBIES
+
+Programming
+
+PROFILE
+
+‘As aloud Security Engineer with over3 years of experience,
+hhave developed a strong background in designing, deploying, and
+‘maintaining secure cloud-based solutions. My technical expertise include
+designing, developing and implementing secure cloud architectures,
+developing cloud security policies and procedures, and performing security
+audits and assessments. My problem-solving and analytical killshave
+enabled me to identity analyze, and mitigate security winerabiltiesin
+cloud environments. Additionally, posses song communication and
+interpersonal sills which have proven tobe invaluablein collaborating with
+‘rossunctional teams and external stakeholders.
+
+EMPLOYMENT HISTORY
+
+© Lead Cloud Security Engineer at SecureSet Academy, CO
+(Oct 2022- Present
++ Developed and implemented a cloud-based security system that
+reduced data breaches by 35% within the first 6 months of its launch,
+This included creating secure access policies, configuring network
+firewalls, encrypting sensitive information, and conducting regular
+vulnerability scans.
+‘rained over 50 SecureSet Academy staff members on best practices
+{or protecting company assets stored inthe cloud environment
+‘and provided ongoing support to ensure compliance with industry
+standards such as NIST 800-53,
+Designed an automated web application firewall solution that
+decreased malicious traffic from outside sources by 20%, while
+simultaneously increasing website performance by 10%. The
+implementation resulted in improved customer experience without
+‘compromising safety or privacy regulations.
+© Senior Cloud Security Engineer at Galvanize Data Science &
+Engineering, CO
+4ul2020- Sep 2022
++ Developed a comprehensive cloud security strategy for Galvanize
+Data Science & Engineering, CO that reduced the potential of external
+data breaches by 50%. This included implementing multifactor
+authentication and regular penetration tests to identify weaknesses.
+inoursystems.
+Led an overhaul of all existing cloud infrastructure which enabled us
+to reduce costs related to storage and compute resources by 25%
+hile maintaining compliance with industry standards such as HIPAA.
+Created automated alerting system on AWS CloudWateh platform
+that monitored suspicious activity across multiple accounts within
+‘organization reducing response time from 24 hours down 2 minutes
+when responding critical security incidents.
+
+CERTIFICATES
+
+Certified Cloud Security Professional (CCSP)
+Jun 2021
+
+Certified Information Systems Security Professional (CISSP)
+‘apr 2020
+
+MEMBERSHIPS

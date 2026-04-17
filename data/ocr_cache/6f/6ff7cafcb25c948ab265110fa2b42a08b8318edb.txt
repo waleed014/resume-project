@@ -1,0 +1,58 @@
+Amar Singh
+
+‘recent graduate with a degree in electrical engineering, specializing in MATLAB,
+‘AutoCAD, programmable language controller (PCL), and electrical wiring. Adept at
+<riving the development of innovative technology products to solve real-world
+problems.
+
+Academic Experience
+
+Electrical Engineering Projects
+Universit of Washington, Seat, WA September 2020 ~ May 2022
+
+© Built a microcontroller and created an Android application to enable remote
+control of home appliances, which included defining the UI and enabling
+bluetooth connectivity
+
+© Developed and built LED sensors and microcontrollers to reduce unnecessary
+‘energy usage within the home by switching lights off and on based on motion
+
+© Executed a project to build a PIC microcontroller to balance and share load
+‘consumption by monitoring power usage within the home
+
+Work Experience
+
+Retail Associate
+BestBuy, Seattle, WA January 2021 ~ May 2022
+
+© Provided quality service to 20-30 customers on a daily basis, fielded questions
+
+regarding electronics, and provided product recommendations based on
+‘customer needs
+
+© Coordinated with a team of retail associates to organize inventory, manage
+product displays, and drive continuous improvement
+
+123 Windermere Rd.,
+Seattle, WA 12345
+amarsingh@example.com
+(123) 456-7890
+
+Education
+
+Bachelor of Science (B.S)
+Electrical Engineering
+University of Washington, Seattle, WA
+September 2018 - May 2022
+
+GPA: 3.85
+
+Key Skills
+
+Electrical Engineering
+Microcontrolless
+MATLAB
+
+‘AutoCAD
+
+Product Development

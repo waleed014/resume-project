@@ -1,0 +1,185 @@
+JESSICA
+CLAIRE
+
+3 resumesample@example.com
+% (555) 432-1000
+
+g 100 Montgomery st.
+10th Floor
+
+SKILLS
+
+JAVA, SWAGGER, SPRING,
+MICRO SERVICES, SPRING
+BOOT, JAVASCRIPT, GITHUB,
+MAVEN, GRADLE, NEW RELIC,
+JIRA, JSON, DOCKER, AWS,
+SPLUNK, XML, XSLT, XPATH,
+MYSQL, MONGODB,
+POSTGRESQL, CASSANDRA,
+LINUX, WINDOWS, INTELL
+IDEA, STS, ECLIPSE, STRUTS,
+HIBERNATE, AOP, JUNIT
+TESTING, SONAR, JENKINS,
+EPASS, KAFKA, AGILE,
+WATERFALL, SCRUM
+
+EDUCATION
+
+California State University -
+San Bernardino
+
+San Bernardino, CA + 07/2017
+Master of Science: Computer
+Science
+
+PROFESSIONAL SUMMARY
+
+Experienced Java Developer focused on solving customer problems, improving usability
+and maximizing efficiency. Specializing in creating web applications.
+
+WORK HISTORY
+
+Fivesky - Java Developer
+Montreal, CA + 03/2020 - Current
+
++ Working as a part of the Platform API team, migrating legacy applications into spring
+boot microservices with java 1.8.
+
++ Used Spring Boot, which is radically faster in building cloud Micro Services and develop
+spring, based application with very less configuration.
+
++ Implemented the Project structure based on Spring MVC pattern using spring boot.
+
++ Responsible to Communicate with team who manages AP! Gateway to achieve
+authentication, monitoring, load balancing, caching, request shaping and
+management, and static response handling.
+
++ REST Services are built with our continuous detivery and deploy to Kubernetes.
+
++ Used JSON for data transmission for Micro services
+
++ Used Java 8 new features such as streams and lambda expressions.
+
++ Involved in Design, Development and Support phases of Software Development Life
+Cydle (SDLC)..
+
++ Used AGILE methodology and participated in SCRUM meetings.
+
++ Responsibilities include estimation and development of new modules using the AGILE
+process and pair programming using the divide and conquer method of breaking down
+a chunk of requirements into piecemeal stories and breaking each major release into
+iteration.
+
++ Used RESTFUL client to interact with the services by providing the RESTFUL URL
+mapping.
+
++ Used JIRA tool to communicate with other team members in QA and production.
+
++ Analyzed and fixed issues related to REST Web services and Application responses.
+
++ Used Gradle as the build tool and Tortoise SVN as the Source version controller.
+
++ Used Subversion (SVN) as the configuration management tool to manage the code
+repository.
+
++ Performed unit testing using JUnit.
+
++ Reviewed code and debugged errors to improve performance.
+
++ Researched new technologies, software packages and hardware products for use in
+website projects.
+
++ Reworked applications to meet changing market trends and individual customer
+demands.
+
++ Worked with quality assurance team to set up scripts, test case and automation
+protocols.
+
++ Developed robust Java code for Web applications.
+
++ Designed, developed and implemented software applications for website based on
+analyzed requirements and understanding of industry technical standards.
+
++ Troubleshot various software issues by using debugging processes and coding
+techniques.
+
++ Participated in complete software development lifecycle, induding performance
+analysis, design, development and testing.
+
++ Collaborated in team-based, Agile environment to accomplish objectives by deadtines.
+
++ Participated in requirements gathering and design development meetings.
+
+Fivesky - Java Developer
+Houston, MN + 04/2019 - 03/2021
+
+‘© Working as a part of the Traveler profile distributor team, design and built spring boot-
+microservices which puls traveler data from the Sabre GDS and sends to the consumers.
+‘* Used Swagger to document the APIs and customized the app info by using the swagger
+2 annotations.
+
+‘* Implemented the Kafka messaging system to Publish and subscribe the streams of
+traveler profile records.
+
+‘* Used Agile Scrum methodology and Kanban for developing the application.
+
+‘¢ Used LogdJ and Sif4Jfor logging and tracing messages.
+
+‘* Used JIRA tool to communicate with other team members in QA and production.
+
+‘* Worked with the Jenkins pipeline for CICD and created Docker images for deployment.
++ Involved in Core Java coding by using Java APIs such as Collections, Multithreading, and
+Exception Handling to fulfil the implementation of business logic.
+
+‘* Worked on developing application by following pair programming and joint code
+‘ownership methodology for increasing design quality and for decreasing defects in the
+system.
+
+‘© Customized CSS files by adding new CSS3 features like media queries to ensure fluid/
+responsive design for our web pages.
+
+‘Maintained existing UI Applications and upgraded them using CSS3, jQuery, AJAX,
+JavaScript, JSON and HTMLS
+
+‘* Actively involved in production support and resolved the production issues depending
+upon priority of issues.
+
+‘¢ Used GIT for source code version control.
+
+Perspecta - Java Application Developer
+Baltimore, MD » 08/2017 - 04/2019
+
+‘* Worked as a part of the API+ team, Design and implement web services using of REST
+Web services by using Json formatting language,
+
+‘* Worked on AWS Cloud watch to monitor the logs and alerts on our services.
+
+‘* Created Splunk queries and dashboard for the NodeJS services.
+
+‘ Client-Side Validation is done by JavaScript in the JSP pages.
+
+« Involved in using Design patterns tike Singleton Pattern and MVC architectural design
+pattern for solving the architectural issues.
+
+‘* Developed Business Delegates, Value Objects, and Data Access Objects (DAO).
+
+‘* Designed and developed DAO layer using JDBC to access the database,
+
+‘* Actively involved in the integration effort for deploying the application in UAT/SIT
+environments.
+
++ Involved in code reviews and suggested required enhancements to the code to follow
+the standards.
+
+‘Involved in Core Java coding by using Java APIs such as Collections, Multithreading, and
+Exception Handting to fulfil the implementation of business logic.
+
+‘* Deployed and tested the application on Web Logic application server.
+
++ Involved in developing Test cases and executing them,
+
+‘* Used LogdJ framework for event logging.
+
+‘* Actively involved in production support and resolved the production issues depending
+upon priority of issues.

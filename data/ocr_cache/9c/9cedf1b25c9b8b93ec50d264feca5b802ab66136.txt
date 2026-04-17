@@ -1,0 +1,122 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Foor # (555) 432-1000 # resumesamplesexample.com
+
+Summary
+Self-driven and versatile Senior Software Developer with 6+ years of experience in all facets of web/mobile applications. Excellent
+
+analytical and communication skills with capability to handle new technologies.
+‘Strong problem-solving, organizing, communication and planning skills, with ability to work in team environment,
+
+Skills
++ Technologies: JavaScript, Angular, React Native, Redux, + Other Tools: GIT, Bitbucket, Splunk, phpMyAdmin, JIRA,
+React, Nodejs, TypeScript, PHPS, HTMLS, CSS3, Less, Sass, Confluence, SourceTree, Xcode, Android Studio,
+
+Bootstrap4, ES2016, jQuery, AJAX, JSON
+++ Databases: MySQL, MongoDB.
+
+Experience
+
+Engineer IIl- React Native, 08/2021 to Current
+‘TY. Lin International ~ Albuquerque, NM
+
++ Unified divergent React Native features in Sydney Health flagship consumer mobile app while laying the foundational
+‘groundwork for future development, and eliminated critical technical debt from pre-existing setup.
+
+‘+ Contributed towards critical Login Functionality by delivering key features such as 2FA, Registration and FUP, using React
+[Native in 1 month after taking over the project.
+
++ Contributed towards improving login time from 7.7 to 37 seconds.
+
+++ Delivered critical app features to support COVID-19 response, including a risk assessment survey and results based on CDC
+guidance
+
++ Created a shared/reusable component library of high-quality reusable components following the site style guide and integrated
+‘Storybook to make them explosable.
+
+“+ Worked on code base conversion to React Native with feature parity.
+
++ Integrated deep Links within the project which helped in providing a better user navigation.
+
++ Pesformed react native upgrade (RN 68) which improved app performance and witnessed significant improvement in app
+bundle size from 57.3 to 37MB.
+
+«+ Integrated Firebase Performance Metrics within the project which helps in calculating metrics like app stast and end time,
+
+‘+ Monitored App Crashes using Fitebase Crashlytis and fix them.
+
+«+ Established a developers communication group to increase cooperation, and collaboration, reduce duplicate efforts, and
+coordinate overlapping efforts for multiple teams all working on the same massive project.
+
+‘+ Mentored intems and junior software developers through training, design reviews and code reviews and also created a culture
+of designing reusable building block type components.
+
+Engineer I - Angular, 1/2017 to 07/2021
+Elevance Health ~ City, STATE
+++ Developed reusable Angular components which could be shared across modules,
+++ Worked on 2FA Authentication in Login, Registration and Account Recovery Flows.
+«= Pesformed client side validations using Angular Forms.
+++ Extensively used Oracle WebCenter Sites tag libraries and Asset APIs, HTML and CSS for webpage creation.
++ Involved in the requirements analysis, designing, development, testing and maintenance of the websites.
++ Created SPLUNK dashboards to track production issues and also monitor API's performance.
+++ Developed an integrated experience with a third party pharmacy vendor which helped users in placing orders from our site in a
+seamless way.
+«+ Developed Single Page Applications and worked with NgRx for managing Angular applications.
+‘+ Cocrdinate with QA for testing, Production releases, Application deployment and integration.
+‘+ Created portable docker images for UI based applications and deployed on different environments.
+‘+ Collaborated with the Scrum team to develop interfaces for each application,
+«+ Support design and code reviews for other developers within the team.
+«+ Followed Test Driven Development (TDD) methodology for developing test cases and unit testing using Jasmine test framework
+‘with the Karma test unner.
+
+Engineer Intern, 05/2017 to 11/2017
+Elevance Health ~ City, STATE
+‘+ Develop technical documentation to define the system components, development environment, and implementation planning/
+strategies.
+«+ Taking an active role in structuring single page applications to make them easy to maintain and to ensure they are highly
+modularized.
+‘+ Worked with UI/ UX designer to help create and then implement best design practices.
+‘+ Adhere to application development guidelines and help improve the guidelines.
++ Continues to communicate with the business to deepen knowledge ofthe internal operations ofthe firm,
+‘+ Makes design recommendations towards the development of new code or reuse of existing code,
+‘+ Worked with the back-end developer in the process of building the RESTful API.
++ Worked in dealing and collaborating using JIRA Confluence.
+‘+ Used GIT for source control and JIRA for tracking purposes.
+«+ Participated in code review meetings, providing input on bugs, inefficiencies, and potential solutions to emergent issues.
+
+Research Assistant - Web Developer , 01/2015 to 12/2016
+(Old Dominion University — City, STATE
+‘+ European Financial Management Association (EFMA) is an organization that conducts annual meetings every year related to
+European corporations and financial institutions
++ Redesigned entire website for a user-friendly responsive design with backend support.
+«+ Integrated PayPal payment gateway for the paper submission payments
+++ Proposed and integrated form submission module which allowed users to submit papers and notify administrator according to
+deadlines provided to the system.
++= Used Google Search Console to monitor and maintain site's presence in Google search results
+“+ Updated web style sheets and pages on a regular basis and as required.
++ Integrated Bootstrap 3 for a rich GUI, making sure navigation to different pages was seamless.
+“+ Worked as an Editorial Assistant for European Financial Management Journal.
+
+Education and Training
+
+Master of Science: Computer Science, 12/2016
+(Old Dominion University - Nozfolk
+GPA:3.55/40
+
+Bachelor of Technology : Electronics and Communication, 04/2012
+Jawahaslal Nehru Technological University - Hyderabad
+GPA:35/40
+
+Accomplishments
+
+++ Achieved Merit Recognition Certificate in the “National IT Aptitude Test 2012".
+
+«= Alongside my work, Itook the opportunity to develop my leadership and public speaking skills by attending Toastmaster Clb
+_mectings in our community. Participating in the meetings regularly helped me gain knowledge on the art of public speaking and
+various attributes of leadership
+
+Certifications
+‘+ “HTML, CSS and JavaScript” by the Hong Kong University of Science and Technology on Coursera
+
+‘+ “Frontend JavaScript Frameworks: Angular” by the Hong Kong University of Science and Technology on Coursera,
++ SAFed Agilist.

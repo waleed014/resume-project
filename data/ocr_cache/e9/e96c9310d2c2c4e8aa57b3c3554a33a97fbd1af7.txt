@@ -1,0 +1,203 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 9410S
+(555) 432-1000 -resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+‘+ MulesofVAPI Developer Summary
+
+‘+ Seven plus years of experience in middleware application phases of Software Development Life Cycle including Designing,
+Development, Testing and Production Suppor using MuleSoft ESB, TIBCO, IBM DataPower.
+
++ Good experience developing SOAP webservices and RESTSUl APIs
+
+‘+ Good experience creating interface using Anypoint Studio, DataWeave, Transformers, APIkt Router, RAML, Anypoint Platform, API
+
+Management
+
+‘+ Good experience with integration Patterns, tools, EAL, Transformations, XML Schemas, and XSLT
+‘+ Experience in Integration with DB (IBM AS400 DB2, Oracle and MySQL), SFTP, File, Queves, HTTP ete
+
+“+ Expertise in using MuleSoft studio in creating various lows to integrate APTs, Databases and SAAS applications,
+
++ Strong application integration experience using Mule ESB with connectors, transformations, Roving, Active MQ, JMS and RabbitMQ.
++ Good experience in various Operaing-Systems; UNIX (RedHat, Centos, Fedor) and Windows servers,
+
+‘+ Experience in Waterfall, Agile and JIRA for agile Management
+
++ Good experience in writing SQL Queries, Oracle PLISQL.
+
++ Good experience working in a technically challenging environment with Excellent communication skills
+
++ Production Suppor, receiving production calls, troubleshooting the application and resolving the issues.
+
+Sxuis
+
+AnyPoint Studio, Mule EE 3.6+, RAML, DataWeave, CloudHub, Java, C++, C, PLISQL, SQL.
+
+MMC.
+
+‘XML, DTD, XSD, XSLT, XPATH, WSDL, JAXB
+
+Work History
+(08/2019 0 11/2020
+
+022017 190772019
+
+03/2015 19022017
+
+0672013 1 03/2015
+
+Epvcarton
+
+‘MuleSof¥VAPI Developer
+Leidos Holdings Inc. ~ Providence, RI
+
+«+ Participate indesign discussions and sprint planning
+
++ (Participated in team design and review meeting).
+
++ Participate in daily scrum meetings to discuss the progress of the project and any blockage ofthe work andthe
+solution ofthe block
+
++ Coordinate with program managers to explain what tasks were posible forthe system to achieve thee desited
+‘output
+
++ Use Cloud Hub connector in the flows to tigger alerts dusing exceptions and captured the failed records for futher
+recovery
+
++ Create flowsorchestrations for inteprating the components like connectors, transformers and scopes writen on top
+‘of éifferent intemal platforms using Mule ESB for XML to CSV conversion
+
+«+ Design and Implement RESTFUL Web Services sing various data format (ISON, XML) to provide an interface to
+‘the various third-party applications
+
++ Implement logics using: components, transformers, exception handling, testing & Security of Mule ESB endpoint
+through OAuth
+
++ Test REST{WISOAP services using SoapUT and postman,
+
+«+ Design various types of flows which are integrated with Salesforce, Amazon Web Services, Mainframes,
+
++ Responsible in developing integration workflows using Mule ESB framework and implemented Data Weave and
+‘content-based routing using Mule ESB,
+
++ Implement Mule flows for each entity with retry mechanisms with private secured flows,
+
++ Coordinate in all testing phases and worked closely with Performance testing team to create a baseline forthe new
+application
+
++ Environment and tools: Java 7, Data Weave, Mule ESB 3.9.1, 41.1, loud Hub, MS-SQL, Salesforce, workday,
+[REST full API, Seibel, SAP
+
+‘MuleSof¥API Developer
+(Caterpillar — Home fn lino, IL
+
++ Actively involved in echnical meetings, requirements gathering, analysis, planning, effort estimations,
+‘evelopment and testing
+
++ Create itp inbound & outbound flows, routing, orchestration, transformations and Security of Mule ESB
+aplication using OAuth.
+
++ Create API Proxy and deploy to API Gateway.
+
++ Create flows that provide and consume services (SOAP & RESTA)
+
++ Develop the services interface to access core services & provisioning services using Mule ESB.
+
++ Create flows in design studio and transform messages wsing Dataweave and MEL,
+
++ Monitor the request and response payload used the MMIC Mule management console.
+
++ Prepare Unit Test Case documents and test the message flows using SOAPUI, RFHUtil and MQ queves.
+
++ Create MULE ESB arifct and configured the MULE configuration files and deployed.
+
++ Create RAML specification in AnyPoin platform and use fragments such as Resource type, Traits and Library to
+enable reusability,
+
++ Create flows tat pass message using VM transport
+
++ Develop Mule ESB projects forthe services with synchronous and asynchronous Mule lows,
+
++ Create MQ queues, Topics, Subscribers, Queve Managers in MQ and monitor the queues constantly for any issues
+and troubleshoot.
+
+‘+ Wite and maintain SQL quesies to retrieve logs and errors from the Oracle database using SQL Developer
+
++ Troubleshoot issues with message flow services and provide quick tumaround for fixing and testing.
+
++ Provide 24X7 production support and conduct WAR room meetings.
+
++ Environment ESQL, JAVA, SOUPUI 46, Mule ESB, Active MQ, IBMMQ Series 7.5, AnyPoint Studio, Oracle
+Mg, ADU UNDX,
+
+Web Developer
+First American Financial City, STATE
+
++ Roles and Responsibilities:
+
++ Design and developed several modules forthe front-end application using HTML, CSS.
+
++ Used JavaScript for client-side validation
+
++ Design and developed the web-tier using HTML, JSPs, servlets, struts and tile frameworks.
+
++ Implement specialized solutions for ateacive presentation layer using CSS,
+
++ Participate in requirements gathering nd collaboration with different busines teams for documenting
+specifications.
+
+‘+ Major role in developing the business module aplications using JZEE technologies lik JSP and JDBC.
+
++ Developed and implemented spring and J2EE based MVC framework forthe application.
+
++ Implemented CSS for cleaner and more readable code, ths minimizing the use of inline styling
+
+«+ Analyze requirements at various stages and asisted in delivering the change requests as per schedule,
+
++ Document application functionality and standard operating procedures for business processes.
+
++ Participate in bug fixing for cross browser testing as well as load and performance checking ofthe application
+software
+
++ Participate ina team developing the video formats and importing websites workflow videos using Adobe after
+Effects
+
++ Used CVS 28 version contol.
+
++ Environment: HTML, CSS, JavaScript, EE, Ajax, JSP, JDBC, CVS, JAVA, Stu
+
+Java Developer
+AMIN Healthcare Services ~ City, STATE
+‘+ Model View Controller (MVC) architecture has been adopted to provide ffamework
++ Actively Participated in Inception, Elaboration, Construction and Transition phases of Applicaton.
+‘+ XML Passing using SAX/DOM / Castor for various requirements.
+«+ Involved in developing 1Unit test cases for testing the code fragments during development phase.
++ Followed DAO Pattems of DAO, SERVLETS, ISP, AJAX and XML.
++ Support and work with customers during beta test period to ensue a successful product roll out and providing
+support, addressing bugs as reported tothe existing system,
++ Designed and Developed Struts Action classes, DAO, Views using trots custom taps.
++ Doing Technical Analysis ffom requirements, Developing Flow diagrams and Doing Technical Design for my
+modules
++ Developed Strus-based form validation, Applicaton eror handling, and using Struts Validator framework,
+‘+ Worked implemented Third Paty Licensed Software's (ve Forums, Sun One Calendar and Moodle) and
+integrated into Application,
++ Used LDAP server for user authentication, developed necessary interfaces and implemented programmatic security
+system,
+
+972012
+
+o7ng99
+
+(Cerrmicarions
+
+MBA: Accounting
+Maharishi University Of Management - Fairfield, 1A
+
+Bachelor of Arts: Accounting
+Addis Abeba University - Addie Abeba, Ethiopia
+
++ MBA in Finance
++ Cemtiied MuleSoft Developer +

@@ -1,0 +1,72 @@
+Mary Uchimoto
+
+QA Tester
+
+Accomplished QA tester with 4+ years of experience. Skilled in manual and automated testing and creating test plans. Seeking to exceed
+Amazon's high standard for Android-based testing. At HollyRocket, Inc., created 200+ test plans and helped increase testing efficiency by
+31%.
+
+Personal Info Experience
+
+Phone 2016-03 - QA Tester
+
+269-587-3440 2020-06 HollyRocket, Inc., Lansing, MI
+
+E-mail + Developed 200+ test plans and test cases, including performance test
+maryzuchimoto@gmail.com plans and security test plans.
+
+i + Assisted lead QA tester with creation of master test plan. Wrote 40% of
+Linkedin
+
+linkedin.com/in/maryzuchimoto final master plan.
+
++ Reviewed ~100 user interfaces for functionality and adherence to design
+
+Skills guidelines.
++ Executed test cases across 15+ functional product areas, beating team
+test plans & cases
+
+efficiency averages by 20% against work-completion deadlines.
+
+selenium Drafted testing reports, reducing data to key insights that helped increase
+
+le}
+
+team efficiency by 31%.
+
+automated &
+
+le}
+
+| + Collaborated with 6 software development engineers to build a deep
+manual testin
+$ understanding of features and architecture prior to testing
+
+interpersonal skills e -
+2015-06 - Programming Intern
+
+communication le) 2015-12 ‘AljanaTech, MI
+
+teamwork e * Created six product test plans that were put in use by the QA team.
+
+efficiency ° + Performed manual tests on 15 client software projects.
+
++ Used Java and Python to write testing automation code for 2 key projects.
+
+Education
+
+2016-06 Calvin University
+BS in Computer Science
++ Active member, Student Programming Association
++ Recipient, John. W. Dodson scholarship for excellence in coding
+
+Additional Achievements
+Active member, ASTQB
+
+Wrote article on QA testing published on TechCrunch
+
+Certificates
+
+Certified Tester Foundation level (CTFL) — ASTQB
+
+CP-SAT Certified Professional Selenium Automation Testing

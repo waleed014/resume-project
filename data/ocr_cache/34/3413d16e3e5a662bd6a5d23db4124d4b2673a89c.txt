@@ -1,0 +1,165 @@
+Jessica Claire
+
+© Morigomery Street, San Francisco, CA 84105, 1S (S85) 4821000 resumesample@erample com
+
+SUMMARY © Over years of experience in designing, developing, and maining Business inteigence (8) database
+applications using MS SQL Server 2019, 2016, 2014, and 2012 'n Development. Tet and Production
+Envronmens.Expenence in stataon and conigurato of SAL. Server Database Engine and Bt
+components wih al the necessary sect consderatons. Experience in creating and maintaning Stores
+Procedures, Functions, CTE, Indexes, Tables, Views, Tigers, and cher database obec using T-SQL
+"perience n Performing T-SaL tuning and optinzaton of queries for ETL Packages and SSRS reports that
+‘ake longer execution time using MS SOL Profier,nex Tuning Ward, and SOL Query Analyzer in MS SOL
+Server Reporting Services Power Bl /SSRS Report Gathered and ransated business requirements an bt
+‘utinsigntlreporing solitons using Power Bl. Created Power Bi Repors and Dasnboars usg aerent
+‘ypes of Sleers and Vsualzalon ike Bar Chars Line Chars, Graphs, Pie Charts, ete to make more
+trace and epote data na vaney of ays across muliple vsualzatons. Used DAK funtion o compute
+Calculates Coturins and Measures, mplementea Row Level Secuy (RLS) Role to reste user report
+datasets. Troubleshoot Poner Bl epots by Kenting poo perfoming measures, relatonsips and Visuals,
+Profeientin Mcrosof SQL Serer wih the abit to wie complex queries, and generate stored procedures to
+‘evel complex SSRS reports. Moaitedexstng reports per the requrements and as per end users!
+requess when ts needed, Designed, manlined and supported operational reports such as dashboards,
+cats, and KP+-based scorecards using Mcrosot B fol ike SSRS, and Report Builder Protcentn
+<esigning ana developing Dnidoun,Orl:though, and Subepot using arent data regions ike Tabular,
+Matra and Charts using Visual tule andor Report Bulder. Expenence in deploying reports toa Report
+‘Server using Report Manager and SQL Server Data To's (SSDT). Created and configured Standard ang
+‘Data.Orven Report Subscrptons to render repos to end users. Treubleshot and manianed SSRS repos
+oats exstng reports per the requrements and as per end users’ requests when tis needed. Oala
+Integration Senices(ETLISSIS) Protesentn SQL. Sener integration Services (SSS) fo desga ETL Packages
+that extract dala rom various datasources such as CSV, Excel ML, and databases such as SAL Server
+<atabase, transform and oad data nto a staging database and daa warehouse. Experience n creating
+Packages wih avanety of ansfomatons, such as Sow Changing Omensions, Lookup, Aggregate,
+‘erwed Column, Fuzzy Lookup, and Oata Conversion Experience n proving Legging, re handling by
+‘sng Event Hane, and Custom Logging for SSIS Packages, Created and configured SQL Agent Jobs.
+‘Aes, and Scheduled SSS Packages. Prepared Documentation fr ETL processes invoted in maining
+the database for future reerence. Experience n designing and bung Sar Schema in Enterprise Oata
+‘Warehouse and Data Mars using Kamba Data arenouse methodology Hands-on expenence m designing,
+developing, and popu mension and Fact ales inthe Data Varencuse.Oesignes ana develop SSIS
+packages by Entractng data tom dteret sources suchas CSV, Exel, TXT and oer databases,
+transterng and loading to Enterprise Data Warehouse. Experience in designing and buldng derent pes
+of mensions such as Roleplaying, soy changing, contmed, ec. Jessa Awel-organzed, highly
+rotates, oa-oentea, and create contr in a team envsonment wth excelent anata,
+troubleshooting, and problem sting sks. Delverng projects prior to due dates and talon advantage of he
+knowledge of SHES to achieve project expectations. Motivation o get a deta understanding ofthe
+corganzaton's business and where he Business nleigence Solitons Min. Worked in Age System
+Development Life Cyl (SOLC) metnogoiogy project enwronments. Good aba to que grasp and master
+new concepts and technologies, and wing to ear new tings.
+
+SKILLS + TECHNICAL SKULLS + Reporting Tels: SOL Server Reporting Serves
++ Databases: (SSRS), Power 8 Sener, and Services.
++ MS SOL Server 20r870162014/2012. + Data hodetng Tots: ER Assistant. MS SOL
++ B1Tools SOL Server integration Services Server Database Diagram
+
+(68S), SQL Sewer Reporing Services (SERS), + Project management toot ra, SeniceNow
+SQL Servermanagemen studio (SSMS), SGL_ + Version Convo SVN TFS, Gt
+Server Data Tools (SSDT), ana SQL Profier + Interpersonal Skas
+
++ Operating Systems: windows xP/2007/ Server
+20tdiserver 2012
+
++ Programming Language: T-SOL. C++
+
+EXPERIENCE © BUSINESS INTELLIGENCE SSRSIPOWER BI DEVELOPER 12201810 CURRENT
+Dentaauest | City, STATE
+
+‘Design and develop Power 8 report and dashboard to explore dala in avant of ways across mile
+vevateatons
+‘+ Insates and conigure personal ana enterprise gatenays n Power Bl sence
++ Created views by ning mute database lables and uling them to create a povert repot
++ Resotvea inconsistency, unexpected or nul valves, and dala quaty sues the power Quer ebtor
+‘+ Implemented Tie nteigencetunctons on power bi epot using DAX
++ Used vanous datasources, sucn as SOL Sener D8, Exe, etc
++ Toul cata into PonerB desttop
+‘+ Developed Power Bi report nat provide clear vsuatzatons of various marke-specile KPIS
++ Developed new reports and mainained he exsng reports
++ Mette atferent ypes of reports, such as Clam rept, Enrolment reports, and others
++ Design ana Develop Parameteraea,Cascaded, Aa ho, dll oun, Or ough, and Summary Reports
+using SSRS
++ Motes exsing stores procedures nat were embedded inthe report dataset
++ Developed Stored Procedures to generate various crt-doun and dittrough reports using aterent
+data regions, svc as Tabula, Mat, Bar graph, and echt epors using SERS
++ Worked cose wi he ofsore team in dng soktons to ating prlems
+‘+ ldenty tne associated store Procedures and parameters used or the repr n order tox bug smoke
+{created SSIs package to etrack,anstom and load data tom source systems fo staging ang ED
+‘+ Create erorhanang nine SSS package order to nandle runtime efor
++ Used vanous data ransfomations such as Condonal Spit, Data conversion, Derived Column,
+Lookup, tz lokup, Merge, OLEDB conan Muticast. and soon
++ Deplojed SSS packages fo MSDB and scheduled those SSIS packages for an nerementa load of
+Dataman,
+AOA INTEGRATION ENGINEER ETLSSIS/SSRS/POWER BI DEVELOPER 10701
+NIM ety, Sar
+‘+ Designed and developed ETL packages to extrac, transform andlad data tom vanous sources to
+‘Data warenouse using SOL Server iteration Services
++ Create complex SSIS packages sing vanous data ransforaton components, such 35 Contonal
+Spl. Derved clu, Data conversions. Lookup. Row Count, ete
++ Mairiaies log intrmaton a SOL. Server database to track Eos, ana recora package executlon
+‘+ Trouseshootwnen package fates
+‘+ Prepared Documentation for ETL Packages for beter reference and to make easy to troubleshoot
+{+ Moatea stores proceaure hat was return complete rect
+‘+ Investgated and solved ming data hat was leading the ETL process to fa
+*Invesigated and enhanced performance sues ona stored procedure tal ook several mintes to a
+couple of seconds
++ Upsatestoreaproceaure to nourish and mantain Historical Oata in the Data warehouse
+‘+ Wot complex SaL queries and stored procedures to develop SSRS reports
+‘+ Design and Develop Parametered Reports, Su>Repos,Dildoun-Repors, Ora nrough and
+‘Summary Repo in SSRS
++ Createa Dataset using complex SOL query for Tabular, Char, and Mati repots as per ser
+requirements
+‘+ Motes exsng reports as per tne requirements and end users requests when tis neede
+‘+ Created mut parameterzed and cascade reports using deren kinds of data regions suchas mati
+‘+ Create sub eports to present more detatea ntomaten abou the sunmary report
+‘+ Developed and rendered mony, weet and daty reports as per ine equrement. and make he user
+access report quick wih respect to secur in Report Manager
++ Design and develop Power report and dashboard to adaress business cbectves and meet report
+requirements
++ Design and develop various Power Bt eports using ferent pes of visualzatlons, fr instance
+Tabular, Maine, Dona chant, Bar Cars, Line Chars, Graphs, Pe Chas, ete
+‘+ Created Catcutd tates to sunmarce data using DAK
++ Apples Herarchies to report visuals based on report requrements
+‘+ Implemertes Row Level Secury ole to resin dataset, so that, users can ony see data pertaining to
+them based on report requirements
+
+to 11r018
+
+\U3IOR ETLISSIS DEVELOPER 11201610 092017
+Anmed, Elephant insurance | City, STATE
+
+‘+ Used $01 Server negraton Services (SSIS) to etract,anstorm and fad (ETL) data to data
+warehouse tom deere sources ike CSV, Excel, TX, and dalabase sources sich a8 SAL. Server
+atapase
+
++ Gatered business requrements rom Actual Clams, Accounting, and Database Marketing
+departments on new projects
+
++ Designed and develop ETUSSIS Packages and Stored Procedures to oad Ommesion and Fac tables
+
+‘+ Created Master ETL Package to callchid ETL packages and deployed tem on MSOB in integration
+Senices Sener
+
++ Worked on atures an perfomance tues wh ie Jbs that oun or assigned by the team lead
+
++ Used ETL to implement ne ity Changing Denson Transtomaton to manta Hstoncal Daan
+the Oatawarenouse
+
++ Designed new Dimensions and Facts and worked onthe redesign ofenisting gemensons nthe
+Enterprise Data Warehouse envionment
+
++ Designed and developed ETL packages to extrac, ranstorm and load data to OLAP database using
+SOL Serverintegraton Serices
+
++ Created ETL packages and used Anaysls Services processing tskto process the cube fom SOT
+
+‘Designed and develop Fact and Dimension tables in OLAP stem using T-SQL
+
+Created SSIS package for le Transtr rom one cation othe cher using FTP task
+
+4+ Created ETL Packages in SSIS wi error handing ana worked wth cere methods of going in SSIS
+
++ Used SOL Server Agent to schedule ETL Package executons and toubleshoto atures
+
+‘Prepared Documentation for al ETL. Packages for tutte reference.
+
+BA Degree {Business Management onrz007
+simea University
+
+Activmes ano 6 saLpass
+HONORS

@@ -1,0 +1,61 @@
+Concepcion Streich
+41876 Lukas Forges, Phoenix, AZ @ Phone: +1 (555) 968 6788
+
+EXPERIENCE SENIOR DEVOPS SOFTWARE ENGINEER
+Los Angeles, CA
+09/2016 — present
+‘Designing and maintaining highly distributed system in a public cloud
+Producing high quality code fast
+Having a broad awareness of related projects
+Contributing to an Agile (Scrum), or Lean (Kanban), or hybrid team to solve the engineering challenges,
+Designing and maintaining highly distributed system in a public cloud with distributed storage (hot, warm
+(SAN), cold)
+‘Impress responsibility on others by displaying ownership in tasks
++ Duties may include research, evaluation, development and application of new process and methods into
+products. Sphere of influence is likely to extend outside of work group or department
+
+DEVOPS / SOFTWARE ENGINEER
+Detroit, MI
+08/2013 — 06/2016
+‘© Work with the development teams to drive and define branch management
+Create, maintain and support build, development and test environments
+Develop tools/scripts to support and improve current build and release process
+Manage and support development tools
+Create, review, publish and manage formal release notification, instructions and deployment notes
+Manage code repositories and support software integration for our software product lines
+Develop and maintain a digital dashboard, software deployment and release delivery system
+
+DEVOPS SOFTWARE ENGINEER
+Boston, MA.
+05/2007 — 03/2013
+‘ Participate in the team workflow to drive innovation and improvements in our core automation
+framework
+‘* Improve our knowledge base and provide thought leadership in development automation and continuous
+tegration
+‘* Integrated key DevOps representative working within the Production Management team
+* Work in an Agile environment where work is delivered using Scrum
++ Continually work towards making improvements in the release process and facilitate migration to a
+Continuous Deployment/Continuous Integration approach
+‘+ Assist developers by improving productivity through integration and automation
+‘* Help define, develop, and maintain the cloud-based ecosystem underlying FICO’s Decision Management
+Platform
+
+EDUCATION — NORTH CAROLINA STATE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+SKILLS ‘+ Excellent problem solving skills and an ability to translate a business scenario into a technical solution
++ Proven organisational skills, decisive priority management, strong teamwork ethic, excellent verbal &
+written communication skills
++ Strong analytical development skills, solid understanding of computer science fundamentals and
+experience in real-time, high performance and/or eTrading areas
+‘* Demonstrated organizational and teamwork skills, strong attention to detail, and a willingness to
+participate in collaborative development projects
+‘+ Audits and monitors the health and availability of systems. Able to diagnose and troubleshoot networking
+ues
++ Strong grasp of release management and extensive experience of deployments into eTrading Production
+environments
+Knowledge of Log Collection tools (Elastic Search, Splunk)
+Planning and Organizing: ability to multitask-Sense of urgency; maintain a positive attitude
+Working knowledge of containers, docker and K8s
+Will work with external teams such as networking, database administrators, system administrators and
+follow up adequately to ensure successful completion of tasks

@@ -1,0 +1,233 @@
+JESSICA
+CLAIRE
+
+® resumesample@example.com
+
+& (655) 432-1000
+
+g  100Montgomery St. toth
+Floor
+
+SKILLS
+
++ SQL development
+
++ SQL analytics
+
++ T-SQL coding
+
++ Quality Assurance Testing
+
++ Data extracting
+
++ Virtualization technologies
+
++ Database programming
+
++ Hardware and software
+installation
+
++ Technical writing
+
++ Agile
+
++ Solutions deployment.
+
++ Virtualization
+
++ Product development
+
++ Technical Analysis
+
++ Code reviews
+
++ Database management
+software
+
+EDUCATION
+
+DeVry University
+
+Downers Grove, IL + 04/2015
+Bachelor of Science: Business
+Administration
+
+Meridian Community College
+Meridian, MS + 01/2012
+Associate of Arts: Fine Arts
+
+PROFESSIONAL SUMMARY
+
+‘Thorough SQL Developer with expert grasp of SQL code generation, analytics, reporting and business
+intelligence. Diverse knowledge of complex T-SQL coding instances. Conversant in up-to-date and
+legacy programming languages, standards and tools. Adept in leading all stages of software
+development and troubleshooting. Proficient in writing complex SQL Queries , stored procedures,
+Triggers, views, Joins and also creating clustered and non-clustered indexes for improving search
+performance to the database. Worked extensively on ETL process utilizing DTS, SSIS packages,
+handling data quality issues and generating various types of reports utilizing SSRS and OLAP
+databases. Demonstrated high level of understanding utilizing MS SQL Server and Microsoft Business
+Intelligence tools like SSIS (MS SQL Server Integration Services), SSRS (MS SQL Server Reporting
+Services), SSAS(MS SQL Server Analysis Services) and T-SQL scripts. Evaluates and refine Business
+Intelligence goals, decisions, business objectives and data and performance requirements to meet
+departmental goals.
+
+WORK HISTORY
+
+Android Industries - SQL Developer
+Bowling Green, KY + 01/2017 - 01/2021
+
++ Developed, implemented and optimized stored procedures and functions using T-SQL.
+
++ Designed and implemented TSQL queries for reporting and complex solution development.
+
++ Analyzed data warehousing framework proposals, advising clients on feasibility, scale and other
+metrics.
+
++ Extracted and transformed multi-source data, incorporating assets into unified databases while
+monitoring integration and replication performance.
+
++ Oversaw authentication and authorizations for databases.
+
++ Orchestrated optimized transformation processes for moving data sets between sources and target
+tables.
+
++ Analyzed complex SQL installations to help plan data extraction and processing tasks, aiding in
+eventual deployments.
+
++ Improved application performance by over 80% determining root cause of issues and resolving.
+
++ Developed custom database objects, stored procedures and delivered application support.
+
++ Analyzed existing SQL queries to identify opportunities for improvements.
+
++ Designed and developed customized extract, transform and load (ETL) applications per client
+specifications.
+
++ Built useful reporting deliverables to properly document analysis results and provide performance
+
+improvement feedback.
+
+Prepared memory management for database systems.
+
+Drafted data mapping documentation for relational databases to establish standardized formats.
+
+Reviewed and interpreted business report requirements to address user needs.
+
+Performed regular database backup.
+
++ Built data integration solutions to automatically introduce new sets into existing asset
+repositories.
+
+Elwyn - SQL Server Developer
+PA, State + 08/2016 - 01/2019
+
++ Managed workload independently but collaborated with colleagues to complete larger scale tasks in
+distributed team environment.
+
++ Maintained data delivery pipelines to support consistent and reliable availability.
+
++ Drove data analysis, resolving complex business issues and proposing long-term system solutions.
+
++ Followed standard practices for migrating changes to test and production environments and
+provided technology support to meet business requirements.
+
++ Generated, debugged and enhanced existing reports with introduction of new system features.
+
++ Built data integration solutions to automatically introduce new sets into existing asset
+repositories.
+
++ Supported multiple concurrent projects enabling delivery efficiencies and technical resolution.
+
++ Drafted data mapping documentation for relational databases to establish standardized formats.
+
++ Reviewed and interpreted business report requirements to address user needs.
+
++ Analyzed existing SQL queries to identify opportunities for improvements.
+
++ Designed and developed customized extract, transform and load (ETL) applications per client
+specifications.
+
++ Perform Database maintenance and optimize SQL queries, optimizing database performance and
+loading speed by 70%.
+
+Neogenomics Laboratories - SQL/BI Developer
+Plantation, FL + 07/2015 - 02/2016
+
++ Used critical thinking to break down problems, evaluate solutions and make decisions.
+
++ Completed paperwork, recognizing discrepancies and promptly addressing for resolution.
+
++ Prepared variety of different written communications, reports and documents to ensure smooth
+operations.
+
++ Quickly learned new skills and applied them to daily tasks, improving efficiency and productivity.
+
+Identified issues, analyzed information and provided solutions to problems.
+
+Identified, documented and reported on technical factors impacting interface performance.
+
+Improved operations through consistent hard work and dedication,
+
+Conducted research, gathered information from multiple sources and presented results.
+
++ Designed and created primary objects such as views, indexes based on logical design models and
+user requirements.
+
++ Create Databases and analytical dashboards for entire reporting team driving business decision by
+over 70%.
+
++ Ensured Data Recovery, Maintenance, Data Integrity with allocated space requirements for any
+physical Database.
+
++ Generated custom and parameterized reports using SSRS.
+
++ Created configuration Tables, Stored Procedure, User Defined Function in SQL Server Management
+Studio to support entire SSIS process workflow.
+
+McGee Deals - SQL Developer & Tester
+City, STATE +» 04/2008 - 06/2015
+
++ Developed custom database objects, stored procedures and delivered application support.
+
++ Followed standard practices for migrating changes to test and production environments and
+provided technology support to meet business requirements.
+
++ Generated, debugged and enhanced existing reports with introduction of new system features.
+
++ Developed, implemented and optimized stored procedures and functions using T-SQL.
+
++ Extracted and transformed multi-source data, incorporating assets into unified databases while
+monitoring integration and replication performance.
+
++ Analyzed data warehousing framework proposals, advising clients on feasibility, scale and other
+metrics.
+
++ Built useful reporting deliverables to properly document analysis results and provide performance
+improvement feedback.
+
++ Produced high-standard database solutions to meet stability, reliability and performance metrics.
+
++ Built data integration solutions to automatically introduce new sets into existing asset
+repositories.
+
++ Drove data analysis, resolving complex business issues and proposing long-term system solutions.
+
++ Designed and implemented TSQL queries for reporting and complex solution development.
+
++ Maintained complex T-SQL queries, views and stored procedures in multi-database environment
+with little supervision.
+
++ Reviewed and interpreted business report requirements to address user needs.
+
++ Documented and analyzed business reports for prompt communication, follow-up and ongoing
+support.
+
++ Managed workload independently but collaborated with colleagues to complete larger scale tasks in
+distributed team environment.
+
++ Improved application performance by determining root cause of issues and resolving.
+
++ Analyzed existing SQL queries to identify opportunities for improvements.
+
++ Lead development of data driving project for clients with on-time delivery and 15% under budget
+completion rate.

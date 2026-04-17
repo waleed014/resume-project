@@ -1,0 +1,64 @@
+ROBERT SMITH
+
+Sap Abap Developer III
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+Seeking an SAP ABAP Developer in Seaitle, WA Must be local or willing to relocate at
+own expenses, 2-5 years SAP ABAP experience developing RICEFW objects for
+assigned modules using supporting technolagies stich as: BAPI, BADI, IDac, BODS,
+AIF, and EM,
+
+EXPERIENCE
+
+Sap Abap Developer Ili
+ABC Corporation - AUGUST 2008 - MAY 2012
+
+* Developed a Smart farm for Excise, commercial Invaice, arder
+Confirmation, Post shipment Document and
+
++ Developed BDC for Master and transaction data upload for SD, HR.
+‘and MM Modules Developed LSMW to update and upload the
+transaction data for HR, SD
+
+‘+ Worked on BADI to check the Number range for Billing Number
+
++ Debugged 2 application programs in support of PVHs production
+Implementation,
+
++ Delivered reports for batch management of 1 million-+ materials in
+sap and legacy systems for materials conformity management,
+
+‘+ Enhanced sap business applications to incorporate client specific
+packaging arid shipment attributes to optimize packing process.
+
++ Collaborated with multicultural teams of up to SO members.
+Accomplishments understanding and implementing client
+requirements, testing, launch and post-launch support, interacting
+with clients and functional consultants, team coordination and
+documentation,
+
+Sap Abap Developer
+Delta Corporation - 2006 - 2008
+
++ Asa SAP technical developer, implemented SAP ERP ECC 6.0 full Life
+Cycle Implementation far company High Point facility,
+
++ Developed numerous Forms, interfaces, Reports, Enhancements, Data
+Conversions for SAP OTC, SD, QM, WM, PP, PTS, MM modules with SAP
+ABAP programs,
+
++ Developed Delivery Pick List farm, Certificate of Analysis farm (COA),
+Pallet Label form, Invoice form, etc.
+
++ with SAP Smartforms technology.
+
++ Up-loaded master/raw data into SAP system with LSMW technology.
+
++ Responsible far daily SAP technical support for plant production
+process after go-live,
+
++ Reports (ALV Object, Function Modules, Internal Table, Inner Join)
+Direct to Market (DTM) Report (SD) Report is used to review
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

@@ -1,0 +1,179 @@
+Jessica CLAIRE
+
+‘MonChizegomery SChiereChate, San Francisco, CA 94105 (555) 432-1000 esumesample@exampecom
+
+PROFESSIONAL SUMMARY
+
++ Over 7 years of experience in SofCliewase DevelopmenCaite Life Cyele(SDILC)inelodingrequremenChires analysis, desin
+specifcaClascion, code developmenClate, cod inChaireegraChiteion, CairesChacing and deploymenClaite using ObjecClaie
+(OcienChaiteed Analysis and Design (OOAD) wiChireh Java EE.
+
++ pls years of experience in Mule ESB, API ManagemenClaire,ClovdHiub and onClareinvovs inChieegraChiscon
+
++ Experience in Web Services approach for Service OrieaClieed ArchiClnreecChiteure (SOA) and publishing Web Services beClaceh
+SOAP & RESClaite (consume and implemenChaiteaaiteons) CliehaClaite include several componenClaites ike SOAP, WSDL, XSD,
+JAXGRC, WS and Apache Axis,
+
++ Mule ESB experience in implemenChairengsevie-orienClieedarchiCliecChareue (SO) and enClarerprise appicaClateion
+inhiteegrahaiteion (EAD using Mule 3x and 4x
+
++ Good experience in applicaChieion inClaireegraClaceion wsing; RESClaitefl API, SOAP and Messaging
+
++ Good experience in XML Chatechnologies like XSD, XSLClate, XQuery, and XpaChaiteh for daChairea ClaireransformaClsiteons in
+MaleSofClste
+
++ Good experience in wing AcChieiveMQ, AWS suiClaree for Asynchronous message queuing for guaranClaiteeed delivery
+aChireChaireem
+
++ Experience in SysChavem lnChiteegaClateion CaireesClaite Claeo ensure quliCazey of ChasehesysChireem.
+
++ ProducChaiteion SuppoClaire, receiving producChateion calls, CaiteoubleshooClieing ChaieheapplicaClaieion and resolving
+Claitee iesves,
+
++ Good experience in moniClaireoing 2pplicaChrcion and ClieroubeshooClaiteng producClateon issues
+
++ ProficienClie in reaClieing reusable shell scripClies, PyClaizehon and Ruby scrip,
+
++ ExcellenChirecommunicaCliteon skills and moClaitevaClated organized Clairecam player witch high apChireiClaieude for
+JeamingandimplemenClazeng
+
++ ExcellenChair undersChireanding of fill SofClareware DevelopmenClate Life Cycle
+
++ Proficient in ayClireomaClaireed deploymenChate wing Jenkin, GIChireSVNICVS, ArChairefacClaizeory
+
++ ProficienClaive boClaiteh in Agile and WaChairefil sofClarewaredevelopmenChire meClischodelosies,
+
+‘sem
+
++ Middleware: AnyPoinChare SChaiteodo,CloudHub, MuleESB, + OS: Windows, Linux disClaiteibuClieions
+
+IMS, MQ Series + Server: ChiteomesChr, WebLogic, WAS, Mole runClizeime
++ lnClieepraChiseon: Mule ESB 3 and 4, AnypoinClase ‘+ Language: Shell scripClite, Java, MEL, JavaScripChie,
+Sclareudio, API ManagemenChise,ClovdHub, SOAP, XSLClaire,PyClairehon, DaChaireaweave
+
+‘ResChireful WS, WSDL, JAXP, JAXB, Dell Boom
++ Chireoots: a, Jenkins, Clive, SVN, ClearCase,
+ArChieitieChaireory, Anible
+
+Work History
+
+‘MuleSofChaire Developer, 0972019 - CurenClaite
+Infosys Valley Springs, CA
+
++ Design various Claeypes of flows which ae inClaseepralaizee wiCaiseh Salesforce, aChairabase, Workday, Mainframes, Flac?
+Chairs.
+
++ CreaChivee API inChareerfice using RAML 0.8 and 1.0 and creaCluite synchronous and asynchronous flows,
+
++ ImplemenClaite services or inClaeefacesChiteo connecClate boClaitch inaireemal and exCleeral SOAP and RESChare service
+provides.
+
++ ImplemenClaite err handling ClaireraClaeepies using OnEtorconClareinue, nEstr propagaClaite and Clarry scopes
+
++ CoordinaClareein ll ChairesChateing phases and worked closely wilaireh Performance latesClaiteing Cateeam Claireo
+reaCieebaeline for new appleaClaiion
+
++ Design and implemenclaire RESCIaiteFULISOAP Web Services sing various daCliteaformaClaite (ISON, XML) Clieo provide
+inClaterface Claiteo various Cased palate applications
+
++ CreaChaiveflowsorchesClhizeraChteions for inChireepraClateing componenClats like connecClateors, Clareransfermers and scopes
+‘wriChaiteClieen on Cliteop of differenCliteinClaieera plaChaireforms using Mule ESB for XML Ceo CSV.
+
++ Done wiCaireh Caiteraneformers,ClaizeesChiteing and SecuriCliey of Mule ESB endpoinChire Claiebsough OAUClaieh.
+
++ Responsible in developing inClareegraClteion workflows using Mule ESB framework, implemenClaeed DaClaireaWeave and
+DaCharea Mapper and conClaireenChir based roulateing wing Mule ESB,
+
++ ExChacensvey used Mule componenClaites such as File CareransprClaite, HCIaireCliteP, SMCaireP ChireransporClte,FClaiteP/
+SFC? ChaireransporChare, DBC ConnecClaiter, nd ClieransaeChaveion Manage.
+
++ Perform unite CairesChireing Citehrough MUsiChate ClaseesClie cass for mule lows and deploy Chiro CleudHub
+
++ EnvironmenChaire: Mole 43,39, GiChitefob, Jenkins, Maven, Shell scripClate, Linux, DaClaeaWeave, CloudHivb, MSSQL,
+Salesforce, Seibel, SAP, workdsy’
+
+‘MuleSofChaire Consul
+Deloitte ~Gibert, FL
+
++ CollaboraClaee witch developers, producClare manager, analysChhite and ChairesChates for effeeCaiteive
+implemenChateaCazeion of projecChires,
+
++ CreaChareflowsorchesClazeraCiteions for inaizeegraClateng componenClaes like connecClaseots, Claseranformes
+
++ Use MoleSofClaie AnyPoinClaite API plaChaireform fr designing and immplemenClaireing Mule APIs,
+
++ CreaChizee RAM speciiaClateion, bulding APIs using APIKiChive RouClseer in Mule applicalaiseons
+
++ CreaChaire ChaireransformaClaireon logic using DaClireaweave, MEL and XSLClaite
+
++ Organize lows, sub flows and global XML configuraChaion ils.
+
++ InclaieegraCaite varius sysChareems such as salesforce, workday itep soap and resCite backend, web and mobile
+applicaChaeion,
+
++ CreaChave consumer and producer message flows CharchaClate ae exposed as boChiseh SOAP,
+
++ Perform end-Claieo-end ChiresChiring, revolve problems ad validalareed ClareeChhit eslChars
+
++ CreaChare reusable componenClises such as global excepClaireon handling sCaceraChiregy and commen logget
+
++ Work on XML Cateechnlogies like XPACIiieH, XSLChice, XSD and dalaizea weave fr daChire CliernsformaClaiteons
+
++ Deploy pplicaChiteions Chiteo differenClieenvionmenChies(ClaieESClar, QA, and PROD),
+
++ implemenCtaite error handling and logging in message flows.
+
++ Secure eredenClacials sing secure placeholder and AEL or Blowfish encrypClakeion algoriChairehm,
+
++ Secure ese endpoinChirewiChireh clenChieicienClairesecreChie and acess Clieoke (OAUCIateH2.0).
+
++ EnviroamenChit; BiChirebuckeClaite, Sir, Confluence, AcCaiseiveMQ, RabbiClireMQ, ServeClacs, Nens, SP, lava,
+‘MuleSofClaite 3x, MMC, AnyPoinClhire SChiteudi 6x, ISON, IMS, XML, XSD, XSLChar, XPAChieH, AXP, JAXB, WSDL,
+SOAP, Spring MVC, Clodttob,
+
+lnireanCnre, 05/2017 - 082019,
+
+“Java Developer, 052013 042017
+ives — Jersey City NI
+
++ PuClatecipaCite in CirchedevelopmenClie using JAVA/IDEE Chirechnolopes, Web services, Spring, HiberaClaizce
+Framework
+
++ lmplemenClare RESClaireFUL based web sevice.
+
++ Used HibernaCiree fr daChaitea base ConnecClaiceviCaize.
+
++ Design user inClaveeface of Catch application using ISP
+
++ PulaitecipaCaire in web UL pages using JSP, ISChiteL, CSS, HChiteML, XML, XSL, XSL.Claite, JavaScripChie
+
++ lmplemenClutefonClaire-endvaidaClieions wiClieh JavaScrpChaite, Angus J, Node I.
+
++ ImplemenClaireapplicaClaiteion using Spring, Web Services (SOAP and RESCInreFUL) BuilClae web-based applicaChaicions using
+Spring MVC3.0 ArchiClaeeeClaireue,
+
++ Used Spring Core for concepChire Inversion of conClateol (10C)implemenClaiseed using dependency injecClaiteion.
+
++ ImplemenClaite ConClairerller, Model and View componenClaites on MVC 2 archiCiteeeClaireur-based application.
+
++ Experience in unihaite ClaireesClaieing aplicaClateons using Junie Framewerk and developed logging and sChireandard
+‘mechanism based on Log
+
++ Used Java ColleeClaiseions API exChiteensivelyin ClairehespplicaChieion
+
++ Expose SClireaCtaireless session bean a ResChireil web services uring Jersey JAXGRS.
+
++ Design, develop, implemenChare, and mainClaireain usClateom AnCIaite Claireass in Java,
+
++ ExecuCaitee unite ChairesClatewiCharch JinChie and inClairegraChieion wiClaireh SoapUT and POSCIareMAN.
+
++ EnvironmenChair: JAVA/ROEE, JSP, ServeChairs, Spring, SClaireruaites,HibernaChiree, Web services, SOUP, RESCIaite, JAK-RS,
+(ClaitcomeaClait, Java SripClate, Oracle, Log, XML, HChireML, CSS, UND, ANChite, WSDL, SOAP, AJAX, Agile.
+
+EDUCATION
+
+Bachelor: Finance
+
+(CeRriFIcaTIons
+
+MuleSofCisite Cerhairifid Developer 3&4

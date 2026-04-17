@@ -1,0 +1,134 @@
+DAN BOWEN
+
+SKILLS
+
+Programming Langu:
+Tools
+
+Python -Java- C -GIT- Eclipse
+
+Data Tools
+Rapid Miner - Apache Mahout - Hive -
+
+MapReduce - MongoDB - Excel
+
+Analysis Tools
+
+STRENGTHS
+
+@ Not afraid of wrong ideas
+Getting it wrong is almost always
+part of getting it right. My bad
+idea can give you the spark
+needed to help us succeed, or
+vice versa. We can work better
+by helping each other spot flaws
+and suggest improvements.
+
+Keen learner
+
+Always learning in order to keep
+up-to-date with technology
+enhancements. Still in my early
+years as a Data scientist and
+therefore keen to learn as much
+as possible.
+
+Flexible
+
+Fine to work overtime or
+complete extra training if
+needed.
+
+REFERENCES
+
+Raymond D. Wilkinson - HR at
+Herman
++1-917-234-3521 /
+
+raymond.w@herman.hr
+
+Stephanie J. Duran - Statistics
+Professor at Stanford
+
++1-917-577-8394 /
+stephanie.d@stanford.edu
+
+Powered by (CX? Ennancu
+
+Entry-Level Data Scientist
+
++1-562-545-5945 dan.bowen@gmail.com linkedin.com
+Santa Ana, CA
+
+SUMMARY
+
+Entry-Level Data Scientist who is keen to contribute to a cause. | am a young,
+energetic, and geeky individual whose desire to learn is endless.
+
+EDUCATION
+BS. Data Science 2012 - 2016
+Stanford University Palo Alto, CA
+
+* Data Science Major in Foundational courses in Mathematics, Computing and
+Statistics
+
+* Part of the Maths & Statistics Society for 3 years
+
+* Took additional courses in Big Data Ecosystems and Data Visualisation
+
+GPA | 3.8 / 4.0
+
+EXPERIENCE
+
+Junior Data Scientist
+Herman LLC
+
+Herman LLC is an NGO gathering data about internal displacement
+
+* Working in a team of 6 people
+
+* Developed a company-wide digitized filing system with Python and Java that led to
+an increase in efficiency for all departments by 20% on average
+
+* Developed internal analytics and data science services to tackle rising internal
+displacement in the Middle East
+
+* Sourcing data for the UN from MongoDB with Rapid Miner and sorting it with
+Python scripts and Excel
+
+2016 - Ongoing
+Santa Ana, CA
+
+Data Scientist Internship 2014 - 2016
+
+Rolfson Geneva, Switzerland
+
+Rolfson is a Market Research Organization for enterprises.
+
+* Forecasted sales for Volkswagen using a penalty regression, with predictive
+accuracy of 0.85
+
+* Supported the fundraising (1M € fund raised)
+
+* Completed 250h of training - Text Mining, Data Munging
+
+VOLUNTEER EXPERIENCE
+
+Data Analyst 2013 - 2014
+
+CrashData
+
+CrashData is the leading company that gathers data from a vehicle's sensors before,
+
+during and after a crash. The data is then used to improve road safety.
+
+* Gathered data from 4000+ cars that were involved in road accidents using Python,
+Mahout, and Hive
+
+* Organized the data in Excel and sent it back, contributing to a 40% decrease in
+fatal road accidents in 2015
+
+Remote work
+
+www.enhancv.com

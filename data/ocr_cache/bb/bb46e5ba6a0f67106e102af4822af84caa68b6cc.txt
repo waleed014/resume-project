@@ -1,0 +1,79 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Wessrres, Portrouios, PROFILES
+
+« github.com/Tessicaemilio
+« wwwilinkedin.com/in/tsilvaebensperger
+
+PROFESSIONAL SUMMARY
+
+Full stack Python developer with experience in trading fixed income, equities and derivatives; database management, web development,
+process automation, algorithms and modeling. Possesses international experience, advanced social skills and proficiency in English, Spanish
+and French
+
+Semis
+
+Programming Finance
+
+Python, Javascript, Flask, Django, HTML, CSS, Jquery, Bootstrap, Forex, Futures, Options, Trading, Treasury, ALM, Fixed Income,
+‘Materialize, Ajax, Web Scraping, Automation, web development, Corporate Finance, Modeling, Pricing, Hedging, Bloomberg, Reuters.
+Pandas, Numpy, VBA, Microsoft Office.
+
+Work History
+
+Current to Current Full Stack Python Developer
+Ipmorgan Chase & Co. —Renton
+Completed financial technology full stack development bootcamp.
+
++ Easy Money Fast - Revolutionary betting website that introduces potential to become an addictive game that
+requires few skills and lots of fun. Technologies included Python, Flask, SQL, HTML, CSS, Ajax, Materialize.
+
+‘© Hunting Headhunters - Useful tool for finding a job through LinkedIn. Automated bot that visits headhunters
+profiles according to industry and location criteria. These profiles have Premium accounts and know when you visit
+them. It increases your awareness among potential employers and the likelihood to get a job. Technologies included
+Python, Selenium, PhanthomJS, BeautifulSoup.
+
+‘= wwwzingpython.com . Volunteer work to help people learn Python. Wrote his own tutorial and helped with the
+design and functionality of the website.
+
+Current to Current ALM Trader
+Mitsul - Bank Of Tokyo — City, STATE
+
+‘© Responsible of the ALM of Santiago Branch Through process automation, SQL manipulation and financial
+‘modeling, he was able to create and manage the balance sheet on a daily basis with one click, a process that
+required many people and hours to present it only once a month to management.
+
+‘* Created and introduced a more robust and tested model for funds transfer pricing for the commercial areas. The
+model was completely automated and backtested, avoiding human error and saving time during trading hours.
+
+Traded many treasury instruments including forex, fx swaps, treasury bonds, deposits, central bank facilities,
+repos.
+
++ Presented to ALCO monthly. The meeting included management, managing director of the commercial areas,
+compliance and ALM division from NYC.
+
+Current to Current Junior ALM Trader
+Banco Santander Chile — City, STATE
+
+‘* Junior asset and liability management trader, responsible for modeling funds transfer pricing curves for the
+commercial areas. Modeling included instruments such as IRS, CCS, bonds, deposits, lines of credit, commercial
+papers, FX swaps.
+
+‘= Process automation through Bloomberg and VBA to execute daily tasks faster and ALCO presentations to the
+CFO.
+
++ Traded directly with intemational/local counterparties to get funding and provide liquidity to the bank.
+
+Epucation
+2016 Full Stack Developer: Python, FinTech
+Byte Academy - New York, NY
+2009 - 2014 Bachelor of Arts: Business and Economics
+Pontificia Universidad Catolica - Santiago, CHILE
+2011 Bachelor of Arts: Economics
+
+University of California Santa Barbara - Santa Barbara, CA
+
+ADDITIONAL INFORMATION

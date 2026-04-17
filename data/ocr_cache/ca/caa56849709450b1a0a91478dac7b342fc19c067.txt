@@ -1,0 +1,81 @@
+Charles Bloomberg
+
+9 New York City, United States s@ charlesbloomberg@wisc.edu Q (621) 799-5548 9 in/bloomberg
+
+EXPERIENCE
+
+DevOps Automation Engineer II | Company A | New York, NY | June 2020 - Present
+
++ Consulted with our clients on DevOps culture and best practices in an effort to reduce deployment cycle time and increase productivity for
+developers and system administrators. Provide AWS Cloud Engineering expertise, particularly around automation and infrastructure-as-code, but
+also Identity and Access Management. Create bespoke software and cloud infrastructure solutions.
+
++ Developed Platform-as-a-Service on AWS Elastic Container Service for deploying containerized applications in a scalable, available manner. This
+allowed my client to migrate over 250 applications from a crowded and antiquated on-premise system to a scalable cloud solution.
+
++ Created Batch-as-a-Service products using AWS Batch for high-performance computing (HPC), cutting load time for researchers and developers to
+0 as a result of limiting the constraint on-premise resources.
+
++ Removed the bottleneck of Governance from developers by creating and implementing a framework for provisioning AWS IAM Roles and Policies in a
+self-service manner, while allowing Governance to determine the services and permissions that could be selected. This saved developers days or even
+weeks of delay for custom IAM resources while still maintaining security and blast-radius reduction.
+
++ Reduced AWS cloud costs by $20,000 a month by sizing EBS volumes for an NFS server based on the environment deployed to.
+
+- Designed EMR-as-a-Service to enable researchers the ability to launch and tear down EMR clusters with little experience in AWS.
+
+Senior Software Engineer | Company B | New York, NY | June 2019 - June 2020
+
+- Managed all dashboards and management interfaces, as well as writing and maintaining the ETL processes that fed them. Wore multiple hats,
+including DevOps, Developer, QA, and System Administrator.
+
++ Created an interactive dashboard application using Ruby on Rails and MySQL for data visualizations and business intelligence, allowing our sales
+and management teams to view business-critical data quickly and easily.
+
++ Created a scalable, available ad server on AWS using EC2, Elastic Load Balancing and Autoscaling Groups, serving over a billion requests per day.
+
++ Architected and developed an ETL pipeline for automatically ingesting partner data on a scheduled basis, using REST API's where possible, or
+automated screen scraping when necessary.
+
++ Designed and developed a real-time data pipeline processing thousands of data points per second using AWS Kinesis, Apache Zookeeper and Storm,
+and Redis to store impression and click data and display in real time using our dashboard.
+
+Web Programmer | Company C | New York, NY | June 2018 - June 2019
+
++ Collaborated with clients throughout the University to understand requirements, design, develop and maintain custom web applications, utilizing
+Linux, Apache, MySQL and PHP.
+
++ Developed the next version of the University portal system, WINGS. Used Drupal as a base to create an interactive information center with single
+sign-on access to University mail, calendar and notification services.
+
++ Created a stable, secure platform to develop applications utilizing Drupal's content management features, including Drupal's module and theme
+framework. Used this platform to rapidly build forms and applications that store and display sensitive information.
+
++ Developed a custom registration and payment system with the Science Olympiad team to for the 2013 National Science Olympiad competition.
+
+End User Support Analyst | Company D | New York, NY | June 2017 - June 2018
+
++ Supported the University Help Desk by maintaining and improving on core systems. Develop custom applications to improve support capabilities of
+the Help Desk. Assisted students, faculty, and staff with various technical issues.
+
++ Developed the university Laptop Rental Program, Laptops2Go. Created a checkout system using PHP, MySQL, HTML, CSS and JavaScript to create a
+rich, desktop-like web application with real-time AJAX data updating.
+
+- Administered multiple Linux- and Windows-based systems for the Help Desk, primarily the Support Ticket system HEAT, and our Remote Support
+application, Bomgar.
+
+CERTIFICATIONS
+AWS Certified DevOps Engineer - Professional | November 2018
+
+AWS Certified Developer - Associate Level | January 2017
+
+SKILLS
+
+AWS: EC2, Autoscaling, VPC, ECS, ECR, Lambda, $3, RDS, IAM, Elasticache, Kinesis, DynamoDB, CloudWatch,
+CloudFormation, CloudFront, API Gateway, EMR, CodePIpeline, CodeDeploy, CodeBuild
+
+Languages: Python, Django, Ruby, Ruby on Rails, Javascript, NodeJS, Java, Groovy, Bash, Go, SQL
+Databases: MySQL, PostgreSQL, MSSQL, AWS Aurora, DynamoDB, Redis
+Front End: HTMLS, CSS, ReactJS, jQuery, AngularJS
+
+Automation Tools: Jenkins, Bamboo, Docker, Ansible, Chef, Packer

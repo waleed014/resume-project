@@ -1,0 +1,130 @@
+\ Christa Nathan
+
+DATABASE SPECIALIST
+
+@ PROFILE SUMMARY
+
+Database Specialist with about 10 years of experience in Oracle
+
+Database Administration and Automation to reduce the manual efforts
+
+and errors. Experienced, self-motivated, creative, focused, time-
+
+efficient, and dedicated professional. Possess excellent interpersonal
+skills and the ability to conduct research and courage to sometimes.
+
+adopt untested outcomes of research and innovation. Strengths in
+RAC, Dataguard, Scripting and Golden Gate.
+
+(=) EXPERIENCE
+
+Database Specialist
+
+Robert Bosch Engineering and Industries Ltd Apr 2016 - Present
+
+e Service Package Lead and SME for Database Backup services
+and operations.
+
+Service package Lead for Golden gate services.
+
+Setup Golden gate replications in oracle.
+
+e Automation Expert - Shell Scripting.
+
+automated cost-saving initiatives and creating fresh new
+approaches to long-standing problems.
+
+« Working in multiple projects simultaneously and giving maximum
+efforts to reduce manual efforts and error by automation.
+
+* Clone, Restore and database migration for all versions 11g, 12c
+and 19¢ (CDB — PDB)
+
+efforts by as much as 70%
+
+Configured Data Guard for production Databases and provide
+troubleshoot.
+
+Migrated Oracle Databases from 11gR2 to 12c RAC one Nodes.
+Support over +5000 databases including Data lakes.
+
+Perform Database clone, GI upgrade, Infrastructure installation,
+Apply PSU and support all daily basis activities.
+
+© Active member of migration/Infra team. Installation and
+configuration of RAC and Gl upgrade.
+
+Monitor and maintain database backups.
+
+Part of On-Call team, Provide weekend and after office support.
+Part of MySQL database creation and migration team as well as
+backup monitoring team.
+
+¢ Train and mentor freshers and newbies.
+
+Oracle Database Adminstrator
+
+Tech Mahindra Nov 2013 - Mar 2016
+
+¢ Installed & configured 2-Node RAC as well as Non- RAC DB on
+Linux.
+
+« Configured high availability services for Transparent Application
+Failover (TAF).
+
+Saved efforts equal to 2 billing by researching and implementing
+
+Automated Database Clone, Migration and Restoration processes,
+PSU making it easier to execute, error free and reducing manual
+
+Python @@e@eoo
+Advance Shell e@eee0
+Scripting
+
+Database clone and eeee0e
+restore
+
+Oracle Database eeee08
+
+Migration
+OracleRACandASM  @@@@®@
+
+Dataguard & Golden @@eee0
+Gate
+(O) LANGUAGES
+English e@eee0e@
+French @e@eee0
+Arabic @@ee@0oo
+German @@e0oo
+AWARDS
+Silver Award
+
+RobertBosch 2019-12-17
+Improved Productivity in the project by
+automations.
+
+Bronz Award
+
+RobertBosch 2019-11-06
+
+Developed automation scripts for
+ORACLE Database duplication,
+database configuration changes. Also
+supporting on SWS project.
+
+Spot Award
+
+RobertBosch 2018-11-01
+
+Developed Database Clone script for
+12C RAC environment, which reduced
+effort spent.
+
+Expected potential saving of 0.50 PMO
+per month for the various requests that
+are handled by the team.
+
+In addition to Oracle platform, handling
+the L1 & L2 tasks for MySQL platforms.
+Also. Flexible enough to handle urgent
+project support requirements

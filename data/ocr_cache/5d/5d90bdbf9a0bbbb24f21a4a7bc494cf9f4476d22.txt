@@ -1,0 +1,54 @@
+ROBERT SMITH
+
+Senior Java Developer
+
+Info@quikresume.com | https://Qwikresume.com
+
+Senior Java Developer with 12+ years of Experience in all facets of J2EE
+Application design, development, testing, and support, Experienced in business
+analysis system design, implementation, and maintenance. Wide experience in
+design, development, and maintenance of web application across Banking &
+Finance and Manufacturing domains Experienced in using |2EE, JDBC, JSP, Apache
+Struts, Servlets Spring MVC, Spring DI, Spring Rest, JMS, XML, and JavaScript
+
+TEMBER 2007 - PRESENT
+
+NIOR JAVA DEVELOPER - WELLS FARGO
+
++ Responsible for requirement analysis of all the web applications and
+Understanding the client requirements.
+
++ Involved in estimating the tasks code reviews, defect tracking and resolving
+technical issues:
+
++ Involved in high level and low-level design of all the web applications and
+contributed towards detail design specifications for the web: applications.
+
++ Implemented rest web service using spring rest for the core pricing application,
+
+* Designed and Implemented an application using |SP, Spring MVC, Spring IOC,
+Spring Annotations. Spring AOP, Spring Transactions and Hibemate.
+
++ Created connections to a database using hibemate session factory, Using
+hibemate APIs to retrieve and stare data to the database with hibemate
+transaction control
+
++ Implemented persistence layer using various features of Hibernate 3:5
+framework like HOL queries, criteria etc.
+
+2006 - 2007
+SENIOR JAVA DEVELOPER - ABC CORP
++ Architected and designed software through all development life cycles
++ Analyzed, designed, developed, maintained, and unit tested new and existing
+software applications.
+Switched between projects to provide assistance where needed.
+Worked with company managers and executives to obtain requirements.
+Assisted the customer service representatives with escalated service calls
+Participated in dally standup meetings.
+Participated as needed In paired programming efforts
+
+EDUCATION
+
+Masters in MasterSrsquo:s Degree in Master Of Computer Applications (2005)
+
+(0 Tis Free Resume Template the copyright of Quine ane com, Usage Gublines

@@ -1,0 +1,189 @@
+skis
+
+PROFESSIONAL
+‘EXPERIENCE
+
+EDUCATION
+
+Jessica Claire
+
+© Monigomery Steet, San Francisco, CA 94105, XE (655) 4821000 4 resumesample@erarpl com
+
++ Over2 years ot experience in oftrare design and development using Gf, ASPNET 40, NET
+Framework $0, ASPNETMVC 40, HTML, CSS, Javaserpt, JQuery, AngulardS, Durandalls,
+Knockouts, AJAK, SOL SERVER 20082012, WCF Web Services 40, ASPNETWeb Services, IS
+757060.
+
+‘+ Extenswe experienc in working wth JavaSeript, JQuery, 883 and HTMLS to ensue cent side UX
+quaty
+
++ Prorclet in creabng Stored Procedures, Tggers, Views, Jobs and all possble Database Tasks
+In SOL Server 2008/2012
+
+‘+ Proeient in managing database operatons using ADO.NET LING & Lambda Expressions.
+
+‘+ Protientin implementing N-Tler and MVM bases applications.
+
+‘+ Experience in implementing cent based. supple and assel management solitons.
+
++ Experience in working on Twitter Bootstrap, Flatstrap, Less, Winkess, CSS,
+
++ Experience in using nUnit fo test and detect possible probiens for reales appcaon
+
++ Proneentin working wt ean, working as apa, proving een and professional soons
+
++ Protetentin workang on diferent environments, languages and platforms
+
+Languages: # HTILS, JavaScript, CSS, XL JSON, SOL, C/C++, AIAK
+Frameworks: ASPNET 40, ASPNET MVC 40, Emly Framework WCF. UNG, ADO.NET, We Seroes,
+“Jauen Angular, Ourandals, knockouts, Titer Bootstrap.
+
+Databases: SAL Server 201272008, SaLte, MySQL
+
+‘Tools: Visval stud 2012720102006, SAL. Server Management Stuslo, SAL Serve Data To's, ServceNow
+Source Control: TFS 20122010, S¥N
+
+Operating Systems: Windows APIVsta7/6 Ubunty
+
+Metnedologies: Agile, Scrum
+
+Web Servers: lS 6.07 57.0180. XAMPP. AMP
+
+‘SERVICENOW / JAVASCRIPT DEVELOPER toz01610 1172015,
+mio Us (Remote), AK.
+
+Deseription:ISMP is an intral we appcton whic sa ServiceNow PaaS used by Ilo ack is Assets
+_Atnough te main purpose of SericeNon sf Service Management ntl nas a custom way to use fr
+tracing a ype otharavare
+Responsibities:
+‘+ Designed ana implementes custom Ufor Lab Users using Angular, Javaserpt an HTMLS.
++ Created Business Rules fo coil database operations
++ Created ACLs to ave Acess Management
+‘+ Created Cent Senps usin Javaseript io ennance out of box SericeNow UI
+‘Designed and Crested new Oatabase Tables to enable ne teatures for various User Groups
++ Created Seneduled Jobs to etcn data rom Extemal Systems (most rom TAK)
++ Designed ang inplementes Outbound Web Services for Exemal Systems so hey can east vpaate
+records inSMP.
++ Designed ana inplementes custom classes for enabing dynamic Inbound REST calls whicn vas not
+Brovised by Seren,
+‘+ Created instant and automated mall ntitieations which wi basally generate transaction summary
+rormevsers
+‘+ Created Runnable Seripts to maintain data in Production Server in case o any data mismatch
++ Worked extensively wth various Product Groups on a daly basso gather infomation fr new
+Fequeements ana enhancements
++ Prove instant support and solitons fo Production Incients.
+Environment Servceton, Angular, JavaScrp, TMLS,
+
+FUGL STACK DEVELOPER 20140 10201
+‘vanade | Alpharetta, GA
+
+Description: These are 3 aterent applications wich are alming to enhance ints Supper Presence Ste
+‘Supper Presence Stes a eb potal unin nosts more man 50 appicabon to manage communsaton
+betieen Intel ang Suppers Appleabons are named as MC Lot Dsposton, Supple investigation Request
+and Suppler Dspostion Request. Main purpose ofa hese 3 applications ae enabing easier
+communication and keeping ack ot sue management wth diferent set of Suppers By using these
+applications, Suppers are able to create cases regarding ther request, add attachments, see the status of
+case anytime, get ve noiicatons by ema and tough webste when hee i @ response rom Intel, ake
+necessary actons and respond based on ites acbon request and generate repor ofthe ol cases.
+Responsibilities:
+
+‘+ Designed and implemented application using CH, ASPNET Web Services, JQuery, AJAX, HTML!
+savasenipt and 6889,
+
++ ADO.NET 5 sed to connect SOL Server and execute Stored Procedures
+
++ Create Stored Procedures i nanaeconenunicaten Detween Web Services and SOL Server
+
+‘+ Used Jauery to nana any type of OOM Manpulaton and aso consume Web Service by the use ot
+ANAK,
+
+‘+ Used JavaSerg braves suchas jauery.leupload, jQuery.mut select, Ling, jQvery.vaidate,
+{Query.stogextend to reduce the amount of plain JavaSept code nee and use very instead,
+
+Implemented Cx Prony to nance Web Senice Cals snce our Web Sences are not pubic and not
+consumable dec rom Javascript
+
+‘+ Used gGria win jaueryisSON o provide upto date and tenble grit experience
+
++ JSON 8 used a content ype of at Web Service menods.
+
++ Created Helper Classes to nani Atacrments and engage wih External FILE APL Succestuly
+Implemented functions to spit incoming tls (Bye Aras) nto ehunks and convert hem to
+Basesestring
+
++ Implemented Common Components fr snared functionals such as Exception Haneling and
+Cling External intel Services and used them as eterence m al’ projects.
+
++ Used HTMLS and 6$59 0 generate user tenay and responsive User Intertace
+
+‘+ Used Ling ana Lambaa Expressions ven necessary to handle data operations in backend
+
+‘+ Designed and inplemeriea Busines Layer and Data Layer to separate business and data related
+operations ad create an easy to manage Web Serce structure
+
++ Created a soluten nen works in all Envronments woul a single ne of code change. Added cial
+‘vanables ana enwronment relates keys to machine conti
+
+‘+ Prepared Unt Test cases and perormed un testing
+
++ Took responsbatyn mating SQL Server Batch Jobs for new applications.
+
+‘+ Based onthe report given by CHECKMARX Secuty Checker, moded the source coe to match
+
++ Success etnered Applications on schedule without any delay.
+
+Environment: Visual tudo 2010, ASPNET 40, SOL Serer 2012, CH, UNG, AIAX JSON, MTILS, Jaen,
+Gn, Javascnpt. 83.
+ble URL: ps supplier intel com
+
+FRONTEND DEVELOPER 772013 02016
+Wisconsin Physicians Service insurance Corporation| NJ, State
+Deseription: Sinouetie san T-developed web appcaton provides users win ine ality fo visualize and
+update Jama data in ways that are possible, or sub-optimal. Jama. Sihouet's fuse vision ito
+create a seamless UX hat es users interact wih ou Project Lifecycle Management (PLM oo chan
+Responsibilities:
+‘+ Designed and create custom luth HTMLS, C883 ana Tater Bootstrap.
+‘Implemented custom sear functonatyby using Knockouts
++ Used very to consume Sthovette Web APL
+‘+ Created custom Error Dialogs based on errr type and user oes
++ Took responsibaty on enhancing database design and modtying existing tables based on customer
+needs,
+‘+ Used avery and savasenp to migrate prof he data calculations rom backen to tontend whlch
+Improved ne performance
+‘+ Worked wth he QA tester ona daly basis fo tm exsing detects
++ Created a reprt on U aesign consspres, performed presentation o senior deveopers.
+Environment: Visual tude 2010, ASPNET 40, Cs, Ourandals, Knockouts, JQuery, Java, HTML,
+(0858, AIK JSON
+
+AFCLICATION DEVELOPER INTERN 820120 0772012
+VeriPark ine. City
+Description: Tiss a web based Expense Management System designed and implemented for VePark 0
+Improve ther eustng appicaton. Empioyees, Managers ana Accounans can use ie system smutanecusy
+to.add, delet, eto ack ner expenses. Expense requests canbe approved or can be rejected for
+reconsiseraton by Managers and Accountant, The system hasan automated reminder which sends e-mails
+to corresponding users and aso has a user management system for assigning ries to each user.
+Responsibities:
+
+‘+ Designed and implemented application using CX, ASPNET 4.0 Web Fos, ADO.NET. 88, JQuery
+
+and AJAX.
++ Designed ana mplementes erent Userintrtaces for atferent user srouns.
+
++ Created Session Management io rstict or alow acces oa specie content based onthe role ot
++ Used ASP Vatdatos fo vasa the ghven txt in the els,
+1+ Used AJAX Extenders to perorm eater and beter usr interacton.
++ Created Javaserpt tunctons to prevent any input that snot alowed by database, also created
+functions todo dynamic operations in he cient sie and improve perfomance
++ Invovea in database design
++ Created a Windows Service o check database and Send mats automata tote users ona
+pected perad of tne.
+Environment: Visual tude 2010, CH, ASPNET 40, SOL Server 2008, JQuery, AIAK, avaScrt
+
+‘Bachelor of Scenes infomation Systems Engineering 2019
+‘Binghamton University - State University of New York (SUNY), Binghamton, NY
+
+chelor of Science infomation systems Engineering 2019
+Istanbul Technical University, Istanbul
+
+[Mé3ter of Scienes | Sorare Engineering
+Internationa Technologeal University 8an Jose, CA

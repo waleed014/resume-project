@@ -1,0 +1,84 @@
+Reilly Aufderhar
+392 Marietta Mill, Los Angeles, CA @ Phone: +1 (555) 286 9859
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SAP HANA CONSULTANT
+Phoenix, AZ
+07/2015 — present
+‘* Compliance to account Service Level Agreements and IT Service Management processes
+Incident Management ticket creation, dispatch and resolution
+Takes responsibility as team/project lead and supports people development tasks
+Support in escalated projects
+Has successfully handled escalation projects
+Support for system optimization
+Detailed planning of IT- implementation
+
+SAP HANA DEVELOPER
+
+Boston, MA
+06/2009 — 01/2015
+
+‘© Business know-how, especially in the areas accounting, controlling, planning
+
+‘* May independently own a work stream, reviewing, and potentially directing the work of more junior staff
+
+‘* Responsible for supporting and independently completing project tasks
+
+‘+ SAP Native Hana Data Modeler Developer to utilize HANA Data Modeling for custom Revenue
+Accounting solution
+
++ Extensive and thorough IT know-how regarding web technologies and solutions
+
+‘* Proven success in contributing to a team-oriented environment
+
+‘© Creation and enhancement of SAP HANA Web-based applications with emphasis on data modeling
+
+SAP HANA ARCHITECT
+Houston, TX
+08/2002 — 02/2009
+‘© Providing technical expertise on SAP architecture and making recommendations to improve performance
+‘Conduct work effort estimation and develop work plans
+Create, enforce, and adhere to HANA development standards
+Working with large data volumes including structured and unstructured data
+Developing SAP HANA information models such as Procedure and Hana Views (Attribute, Analytics
+and Calculation views) with graphical and SQL Scripting, SDA (Smart Data Access)
+‘+ Provide technology and architectural leadership, strategic direction and long-term vision for the SAP
+investment; inspire creative solutions for maximizing the value contribution of that investment,
++ Providing technical leadership on upgrades and maintenance planning for SAP applications
+
+UNIVERSITY OF GEORGIA
+Bachelor’s Degree in Computer Science
+
+‘+ Demonstrated cross functional leadership ie. ability to look at the end to end process and understand
+how it fits together
+
++ Ability to lead and facilitate design workshops (Blueprint), assessments, planning sessions i.e. demonstrate
+
+leadership experience in upfront projects
+
+Excellent communication with executives and clients on both the business and IT side
+
+‘Champion continuous improvement, driving inefficiencies out of implemented processes and solutions
+
+Demonstrated thought leadership in their respective field (speak at forums; whitepapers, etc.)
+
+Demonstrated ability to maneuver through complex and political organizations with multiple
+
+stakeholders ie. what companies/clients has the candidate done this type of work for; who are all the
+
+stakeholders, how all the players together gain consensus
+
+‘* Provide technology and architectural leadership, strategic direction and long-term vision for the SAP
+investment; inspire creative solutions for maximizing the value contribution of that investment,
+
+‘+ Define and promote enterprise architecture standards and strategies
+
+‘* Making recommendations on strategic direction and roadmap for the use and implementation of SAP
+applications, as well as integrated third party systems
+
+‘Extensive experience working for a Tier | or specialist boutique consulting group

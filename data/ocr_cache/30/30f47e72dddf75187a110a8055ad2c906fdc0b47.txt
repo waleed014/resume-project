@@ -1,0 +1,230 @@
+PROFESSIONAL
+‘SUMMARY
+
+skis
+
+[WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St 1tn Floor \S (655) 432-1000 4 resumesarple@eramye com
+
+1+ 6.5+ yeas of professional experience as aU Developer in vaniousenvronments
+«strong knowledge n developing web applications using HTHLS, XHTML, HTML, CSS, JavaScript, AIAK
+480M, Query, Typescript, Anguiar/26, React I, Nodes wth stiet WSC standards
+
+‘Sound knowedge on working wth MVC architecture
+
+« Profisent in working with AnguarJS2/4/10 to create Single Page Applcaions (SPA)
+
+‘tensive experience wn avaScrp. including Document Object Mode! (OOM) and OOM Functons.
+
+‘+ Vlorked wn erent juery plugins as per he business Requirements.
+
++ xpenenced in Gilad Cl and Jenkins Cl for End-to-End automation Buds.
+
+«= Esperenced in working wit version conto systems ke GIT and used Source code management cent
+tools tke GaBasn, GAMud, Gt Lab.
+
+«+ Devetope API arwen responsive Web Application by Integrating Anguia 4 wih Boostrap and APTS
+
+“+ Hands-on experience wth Redux ana NGRX or Sate management by means of subscing' unsubscribing
+tothe store wh state changes via aspatching of actions.
+
+‘Worked wih erent Router (React, Routrodule, ngRoute) for deveoping Single Page Applications
+
+‘ Good experience wih CSS Animations. Backgrounds, Layouts, Psitoning, Test, Border, Padding, CSS Box
+Model and C883 Media queries.
+
+*+ Good knowledge of using CSS preprocessor ike SASS and LESS,
+
+1 sea AJAX 0 detne asynchronous function that Supported UI components dependent on Backena data,
+
+« Experence in working in an Age Development enironment.
+
+Web Technologte Version contro! Toots:
+JavaScript THLMTMLS, CSSICSS8, JQUen JSON, Git(Giub, GITLAB), SV, CVS, CCD
+‘AIAK. OOM XTML XHTML, DOM, Redux, Reais Operating System:
+
+Trunk, NGRX nur ac OS, windows (Al Ostbutons), UN
+Javascript frameworks & Libraries Debugging Tools
+
+‘very Ul Angular 24/10, Angular 8, React JS, Wc vat, IE Tester, Chrome inspector
+Backbone JS, ana Nodes. Typescript IDE & Toots:
+
+Programming Languages: ‘isl tude 2010, Atom, Eatpse
+
+savaScrt, SOL Application Web server:
+
+Database: ‘Apache Tomeal server, IS, WebLoge, Web Sphere.
+MySQL. Mong008,
+
+Developer Tools:
+
+Eatpse, UML Modetng, MS OMce
+
+‘SR. FRONTEND DEVELOPERIANGULAR DEVELOPER 042021 CURRENT
+trade | City, STATE
+
+«+ Created custom Angular arectves for mplementng acesstaty fates
+
+‘+ Folowed ne Age methodology to mplement the application
+
+«+ Developed user netaces using HTMLS, CSS9, JavaScript, AIAX JSON, Angular, Node|, HTML, CSS
+‘and Bootstrap
+
+* Coaig and tesing of reusable Angular 10/11 Componens
+
+1 Teste cross browser functionality an fed major layout bugs for supporting browsers using Angular.
+
+« implemented form vaidatons across the ste using Angular 9 Template ven foms.
+
+*# Usea Anguar as a framework to create a Sngle Page Appcation (SPA). which can bind data to specie
+‘ers ana synetronze data win the server,
+
+Displayed data using Angular by apphing ters on ne table data
+
+‘sea Anguar 101 Hp Request o read dala rom web servers ana process SON data to rene i the UL
++ Debugging aplication in aterent rovsers using AUgU. Jasmine, and Mocha,
+
+‘ Designed he tont-ena appicatons, user interactive (UH) web pages using web lecnnologies ike MTHLS,
+(Local storage, Index 08/883, Angiar and bootstrap.
+
++ Designed the App using technologies OFHTHLS, CSSS, 8, and Angular 10/11
+
+*# Developed web sence components using REST.
+
+‘Responsible for designing various search fom, prototypes and also involved in creating erorvabdaton
+code using Anguar 107%,
+
+‘+ Responsible for designing the Privacy Pocy and Tems o User Pages on her pubic Webste
+
+Environment HTMLS, CSS JavaScript, Boostrap, Angular 1011, Nodes, Bootstrap, Cordova, Amazon
+‘ied Serices (AWS). Jasmine, Mocha, Grunt jx Web Sockets and Camas, Maven, Rest Apt, GT, AZ,
+‘isl tudo Code, NGRX, Redux.
+
+‘SROU DEVELOPERIANGULAR DEVELOPER. 0472020 00372021
+[MSC industrial Supply Co. | iy, STATE
+
+«+ implementea and designed components of user intertace (Ufo the Applian.
+
+«Bult pages based on Photoshop mockups using HTHLS, Angular 8,TypeScip. CSS3 and Bootstrap.
+
++ Controutes inne bus of multiple wens for tne Single Page Applcation using Angular 9 and fs Rewer
++ Designed REST APIS forthe reteval of data rom schemas using Hp Cent Module
+
+«Styled Components with he consieration ofa Responsive Layout
+
++ Setup input vatoations for lent. wn Angular Forms Validator property for many Contos
+
+‘Used JSON or tesng wt tebase repostories simulating server sg architecture
+
+«Styled Components hat met cross-devce compat requrements and satsiedwir-tame models.
+
+‘ Condensed sting using CSS preprocessor SASS for Components wih design sintaies.
+
+«= Routine exposure to sying wi the consseraton of various CSS sting properies ranging tem postining
+{te box.mosel properes sucn a borers, padang, ana marge,
+
+1 Ale to manipulate Orace databace Content vith knowledge in ORM configurations.
+
+«+ Designed tabless layouts using CSS and appropiate Bootstrap techniques.
+
+‘Used Docker containers to run Linux based appcatons
+
+«Wore wn Jenkins (Cl server) to lagnose issues raised by mavens buld resus in corespondence of
+pushing work
+
+* Used browser developer tots fr traversingimanipulating DOM and sack-racng fr debugging scenarios
+«Version contro forthe project was managed using Gitub and JIRA for eam communication.
+
+‘Usa karma-testrunner and Jasmine fr Unt est sets.
+
+‘+ Development in Age methodology in SCRUM.
+
+Environment HTMLS, CSS JavaScript, Angular 3, TypeSerp, REST-API Node|s, JSON, Bootstrap, XML,
+SASS, AVS, Gifu, Cerin), SCRUM
+
+UIOEVELOPERIREACT JS DEVELOPER 1/2018 00472020
+‘Quest Diagnostics | Cty, STATE
+
+‘+ Communicate wih the cient to understand the requirements ofthe project, gained expertence In project
+Panning, involved win wing te Project design Document and Project Pan Oocument
+
+‘ Pantopated asa team menberin designing he user intertace using HTML and CSS to make the interface
+User enay,
+
++ implemented user interface quidesnes and standards throughout the development and maintenance ofthe
+website using JavaSenpt, JQuery, React CSS and HTML.
+
+‘Hands on process of development testing and maintenance.
+
+‘Created and optimizes graphic prototype o westes and appacabonntertaces using HTML and CSS.
+
+‘+ Developed userinerfae by using tne React JS, Fut for SPA development
+
++ implemented and designed user iterface for web-based customer appscaton
+
+* Developed customer facing sofware for managing asversements to gow he business using JavaScrp
+very, Reacts, MTA. and CSS.
+
+‘ Developed dala fomated web application and deployed the sep using server-side scripting using
+JavaScript.
+
+‘+ Vlorke on ross-Brovsercompatibty and fed the bugs for several browsers,
+
+‘ Ennanced and but reusable components across aierent modules and CSS cases.
+
+‘# Ensured Cross-rowsereompaboay,
+
+Environment: HTML, CSS, JavaScript React JS, QUERY, AJAX JSON, XML, ECLIPSE, SYN, Linux MySQL.
+
+IOEVELOPER! ANGULAR DEVELOPER 032016 10172018
+Hav | ity, stare
+
+‘ Viorke in a team environment developing the layout and ton-ena programming fora eb application
+matching business requirement,
+
+‘+ Designed and developed dynamic web pages using HTML, CSS, JavaScript Query, Angular 4, nodes for
+Single page applications, and als wih Angular 2 fr oer projets.
+
+«+ Coded entensvey using JavaScript ramenorks ike Angul 4, node win a MVC architecture
+
++= sea JavaScat taskeunners ike GuprGrunt for Applicaton.
+
+‘+ impemented Single Page Application using Angular 4, UI Bootstrap and U- Router,
+
+‘sea Anguar 4 Dependency inecton pattern to increase ne scope of data shanng between angular
+modules ora more comprenensive utizaton of rectves.
+
+1 Used REST services for equesing information om endpoints.
+
++ Developed non unctoal HTML, CSS pages tom the mock ups designe fom UI reviews ( attendance),
+‘ impiementes Backbone CRUD operations (Create, Read, Update and Delete) and Paginator or pagination
+for Tables
+
+‘= Wiorked win CSS pre-processor tools namely LESS, and SASS.
+
+sea Rest Anguar, Promise ana Sercesin Angular 2 for making API CaS ana Sirturing decives
+‘Mage model epresenations of data hin Backbone js and composed CRUD type features for the
+pletion that were often debugged using Frebug
+
+‘Worked nan Ate envionment and flowed methodologies ike Test Orven Development (TDD), SCRUM.
+“= Viorke wn GT tor version contro related concerns.
+
+‘= Hanes tasks pertaining to cross browser compat concerns.
+
+‘+ Managed application stale for both server and clent-based sate using bares suchas Reduxfor the
+frontend and custom OAM testo communicate and moat the database on the server-side.
+
+Environment HTMUNTHLS, savaserpt, CSS, very, Angular, TypeSetp, React, REST, Nodes
+SON, Bootstrap, Oom, Ajax XHTML, XML, GULP. SASS, LESS, Rest, AS, Guo, SCRUM, Backbone,
+‘CRUD, HVC.
+
+Bachelor of Sclence | Prysics
+Presbyterian College, clinton, SC
+
+Maiter of Setence| (Curent Pursuing)
+Georgia State University, Atlanta, A

@@ -1,0 +1,213 @@
+JESSICA
+CLAIRE
+
+‘© resumesample@example.com
+& (655) 432-1000
+
+9 Montgomery treet, San
+Francisco, CA 94105
+
+EDUCATION
+
+University of Maryland
+Baltimore, MD
+
+B.S: Information Systems Business
+‘Management and Decision &
+Information Systems
+
+Information Systems Business
+Management and Decision &
+Information Systems
+
+University of Delhi
+
+Diploma: Accounting
+Accounting,
+
+PROFILE
+
++ Ahighly motivated professional with over 15+ years of broad experience in the SAP Basis
+Administration, SAP Business Objects and Data Services spanning multiple industries
+
++ Proven leadership skills of handling multiple SAP Basis teams and providing direction to successful
+SAP installation and help resolve any issues to provide deliverable on time and within budget;
+demonstrates excellent work ethic and quantity of work; dedicated to providing the highest quality
+of work; uses time effectively and efficiently
+
++ Solid foundation of the SAP Basis concepts Experience with Installation $/4HANA and configuration
+of Fiori
+
++ Strong Analytical and Collaborative skills
+
+WORK HISTORY
+
+Accenture - Sap Basis Consultant
+Alexandria, VA» 11/2016 - Current
+
+Working as SAP Basis Consultant and providing support and administration of SAP systems for various
+‘customers systems across North America and internal D&A systems.
+Dickinson & Associates Internal SAP Landscape Support, Administration & Installs:
+
++ Installed multiple S/4HANA 1610 systems
+
++ Installed S/4HANA 1709. system & Front End Server for S/4HANA 1709 system for internal
+employee training on how to configure Fiori and to learn new features that come with S/4HANA,
+1709
+
++ Configuration of Fiori Launchpad on multiple S/4HANA 1610 system
+
++ Installed and configured Hana 1.0 system
+
++ Upgraded Hana 1.0 database to 2.0 sp2 on a Proof of Concept Hana Database Tenant system
+
++ Installed and configured the Saprouter for internal D&A SAP landscape
+
++ Installed and configured Solution Manager 7.2 (LMDB, Maintenance Planner, SLD etc.) for all the
+internal DBA systems
+
++ Participated in multiple SAP Workshops for Hana migration and installing a DEMO system for $/
+AHANA 1610 /1809 system's
+
++ Implemented a proof of concept install of multiple sap instances on the Hana Tenant Database
+system successfully Installed Hana Cockpit 2.0 as a central HUB of administration for all the Hana
+Database's in the D&A Landscape
+
++ Successfully completed upgrades of multiple SAP systems using the Maintenance Planner
+successfully
+
++ SAP support for our SAP maintenance customers,
+
++ Upgraded multiple Hana Databases from 1.0 to 2.0 sps2
+
++ Implemented and configured multiple $/4HaNA systems with Fiori with embedded / Gateway Hub
+
++ Participated in 10STEPS2S4 work shop conducted by SAP for its partners where we did a SUM/DMO_
+‘migration from ECC 6.0 EHP6 to S/4HANA 1809 FPS00 successfully
+
++ Implementing GRC 10.1 for all our internal systems
+
++ Perform yearly System Measurement Audit for our Maintenance customers using USMM & SLAW
+
+Dickinson & Associates Customer Projects:
+
++ Implemented $/4HANA 1610 FPSO1 3 system landscape with Hana Database 2.0 sp2 for a new SAP
+customer implementation
+
++ Configured Fiori (SSL enabled) with SAM authentication which requires setup of web dispatcher,
+Front-end server (NW 751 Innovation Package), ADFS / azure AD and Back-end server (S/4HANA
+
+1610 FPS01)
+
+Installed and configured Hana 2.0 cockpit
+
+Intaled and configured Solution Manager 7.2 (Maintenance Planner/LMDB/SLD) forthe customer
+
+Installed and configured the Saprouter for the customer landscape
+
+Installation of SO! (Smart Data integration for replicating tables from on-premise systems to Hana
+
+Cloud Piatform)
+
++ Installation and configuration of cloud Connector
+
+Configuring Sap Cloud Identity authentication to work with Microsoft Azure AD for ser
+authentication
+
++ Instaling and configuring a 2 system landscape for SLT (DMS 2011 SP13)
+
++ Conducted multiple sizing projects for large customers for there ERP landscape
+
+* Upgraded the whole SAP landscape for one ofthe customers from ECC 6.0 EHP4 to ECC 6.0 EHPT
+(OEV/QA/PRO) successfully
+
++ Successfully completed 0S/D8 migration for a Customer Production going from Windows 2008
+server / Windows SQl. 2008 to Windows Server 2012 / Windows SQL 2012 Enterprise
+
++ Implemented Principal Propagation setup between Cloud Platform and on-premise back-end system
+successfully
+
+Albany International Corporation - Sap Basis Administrator
+‘Albany, NY + 07/2007 - 09/2016
+
+Worked as SAP Basis Administrator with Itelligence, Inc and provided support and administration of
+‘SAP systems for various customers across North America and Germany
+
+Industry: Manufacturing/Service, Cincinnati OH
+Project Description/Scope: installing / Administration of SAP ECC, BI, CRM, SCM, Content Server,
+Data Services, Live Cache, MDM, SAP Netweaver Gateway, XI
+
+Role: SAP Basis Administrator
+
+Responsibilities/Deliverables:
+
++ Performed SAP Support pack, Kernel and EHP upgrades for the above mentioned solutions
+
++ Provided 24/7 monitoring for all the SAP solutions using our IT.admin system
+
++ Monitored progress of SAP Basis execution recording and advising team members and management
+on issues and needed adjustments
+
++ Performance tuning based on SAP Early Watch reports for e.g. Improved the query response times
+by 40 to 60% on data sets of 1000000 rows and billions of records
+
++ Management of the support team during Go-Live Successfully implemented the Data Services in
+spite of no SAP documentation and the fact that this product was very new in the SAP eco-system,
+| delivered the project within the given time and budget through numerous hours of research on
+SAP Forums and collaborating with various other team members. Recognized for my efforts and
+‘work on this project by the Team lead and the client
+
+Industry: Processing, Huron $0 Project,
+Description/Scope: Remote Administration of SAP ECC, Solution Manager 7.0
+Role: SAP Basis Administrator
+Responsibilities/Deliverables:
+
++ Performed SAP Support pack, Kernel and EHP upgrades for the above mentioned solutions
++ Provided 24/7 monitoring for all the SAP solutions
+
++ Performance tuning based on SAP Early Watch reports
+
++ Helped in successfully migrating the ERP Production to a newer hardware
+
++ Maintained SAP Saprouter certificate's for connectivity to Sap Service Market place
+
+Industry: Restaurant, Boston MA
+Project Description/Scope: Remote Administration of SAP ECC
+Role: SAP Basis Administrator
+Responsibilities/Deliverables:
+
++ Performed SAP Support pack, Kernel and EHP upgrades for the above mentioned solutions
++ Provided 24/7 monitoring for all the SAP solutions
+igrated the current SAP 3 system landscape from Windows server 2003 / Sql Server 2005 to
+Windows server 2012 / SQL Server 2012
++ After migration of the SAP landscape to the new hardware there were no Basis related issues and
+the dowmtime of the production system was reduced 80% as compared to 50%
+
+Ram Precision - Network Administrate and Application Developer
+City, STATE + 2005 07/2007
+
+Solely Managed the IT Department with the following Responsibilities
+
+‘+ Desktop Application and Network support
+
+Server Configuration and Maintenance
+
+User Account and Profile Management
+
+ERP/Manufacturing responsibilities (Global Shop ERP system for Manufacturing)
+
+‘Maintenance of LAN & WAN (Ethernet hardware and cabling)
+
+Development of Intranet applications using PHP, JScript & Dream weaver 8
+
++ Developed and implemented complex Internet and Intranet applications on multiple platforms
+
++ Provided continued maintenance and development of bug fixes and patch sets for existing servers
+and network equipment
+
++ Ensured network, system and data availability and integrity through preventative maintenance and
+upgrades.
+
++ Managed firewall, network monitoring and server monitoring both on- and off-site
+
++ Proposed options for performance improvement of existing servers and network equipment

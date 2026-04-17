@@ -1,0 +1,129 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Experienced SSIS ETL Database Developer and SSRS/Tableau Developer with over S+ years of experience in Data Warehouse/OLAP
+projects implementation. Excellent reputation for resolving problems, improving customer satisfaction, and driving overall operational
+improvements. Consistently saved costs while increasing profits.
+
+Sums
+«SSIS. SSRS + Relational Database Management Database objects creation
+‘+ Immuta-Data Governance * Data Analysis
+‘+ SQL Server Microsoft Visual Studio + UATTest
+‘* Database Design Warehouse Management Software(WMS) * TSQLPL/SQL,SQL.XML
++ Power-BI, + SSIS Agents
+‘+ SDLC-Agile, Waterfall Hybrid, Scrum * Control-M
++ Enwin ETL, Reporting, Microsoft Visual Studio * Autosys
+‘+ Performance tuning T-SQL * Cronjob
+‘+ Technical reports Database development ‘* Business and GAP Analysis
+‘+ Compiling data. Linux operating system ‘+ Microsoft Dynamics 365
+
+Work History
+
+09/2017 to Current SSIS ETL Developer/SSRS/TABLEAU Developer
+Code Analytics Resource — City, STATE
+
+* Translate business needs and requirements into data analytic and reporting solutions to deliver meaningful
+information to end users
+
++ Design, test, and implement BI solutions, including dashboards, drill down/through-paths, and reports
+
++ Develops reports, documentation, and configuration management
+
+‘© Designed, developed, tested and troubleshoot SSIS packages that implement complex ETL processes
+
+‘+ Builds relationships with inter-professional team and other stakeholders
+
+© Identifies and understands information needs
+
++ Establish effective process designs, and support models to achieve desired outcome advancing clinical and fiscal
+performance
+
+* Analyzed, developed, tested, maintained and supported complex data/process models, and processes in ETL
+environment using SSIS
+
+« Translated business requirements into technical requirements
+
+‘* Maintained existing applications and designed and delivered new applications
+
+‘© Wrote and optimized in-application SQL statements
+
+* Designed integration tools to combine data from multiple, varied data sources such as RDBMS, SQL and big data
+installations.
+
+‘« Interpreted data models for conversion into ETL diagrams and code.
+
+‘Verified performance and reliability of development database transformation solutions via extensive simulation
+testing,
+
+07/2015 to 09/2017 Business Analyst/SSIS ETL Developer
+Halliburton Energy Services — City, STATE.
+
+‘© Worked with variety of stakeholders including business users and IT partner
+
+* Defined, gathered, analyzed, and wrote business requirements
+
+ Interacted and communicated with 3rd party vendors to ensure due diligence is met
+
++ Designed, developed, tested and troubleshoot SSIS packages that implement complex ETL processes
+
++ Analyzed, developed, tested, maintained and supported complex data/process models, and processes in ETL
+environment using SSIS
+
++ Designed, developed, and supported complex integration processes using SQL Server technology, stored
+procedures and SQL program code
+
+‘+ Translated business requirements into technical designs to map and load data from source systems to data
+warehouses, downstream applications, and trading partners
+
+‘* Worked closely with operations and IT to ensure all necessary Client data feed into Landmark tools
+
+‘+ Ensured quality and accuracy of data mapped from staging environments to target reporting environments
+
+‘© Maintained data repository with data definitions, relationships, linkages and sources
+
+‘+ Communicated open items and issues to key stakeholders, including management, development teams, and
+business areas
+
++ Performed root cause analysis for issues and provide effective and timely resolution
+
+* Provided ad-hoc reports and analysis to support business needs.
+
+01/2010 to 07/2013 Health Information Technology Support
+Centura Health At Home — City, STATE
+‘+ Maintained hardware and software security
++ Ensured that adequate endpoint security protection is in place
+* Wired network drops and maintain existing network infrastructure
+‘+ Monitored servers, network, and backup systems to ensure 24/7 uptime
++ Supported data analytics and reporting
+«Set and maintained PC client configuration standards and set up new users
++ Provided troubleshooting and support for computers, printers, copiers, scanners, and projectors
++ Provided support for remote users
++ Provided maintenance on network PCs and Macs
++ Evaluated applications and software patches for desktop applications to see if they will solve desktop issues,
++ Provided support for ERP software including Crystal Reports and Microsoft SSRS Reports
+‘+ Supported mobile devices and MDM software
++ Supported VoIP phone system
++ Assisted with workflow and automation projects to improve efficiency
++ Performed quality work for assigned duties based on operating procedures and responsibilities assigned to the
+position
+‘* Wrote and maintained standard work procedures
+‘+ Documented problems, diagnostics, interactions, next steps, and solutions in an IT ticket system
+
+Epucarion
+
+2017 ‘Master of Science: Medical and Healthcare Information Technology
+University of Denver - Denver, CO
+
+2015 Bachelor of Science: Project Management
+Colorado State University - Global Campus - Greenwood Village, CO
+Licenses/Certification
+Applied Strategic Project Management For The 21st Century
+
+2006 Associate of Science: Marketing
+
+‘Ho Technical University - Ghana
+Willing to relocate

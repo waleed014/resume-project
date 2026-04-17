@@ -1,0 +1,66 @@
+SARITA KOSS 64587 Ismael Fall, Philadelphia, PA
+S K +1 (555) 375 7980
+
+EXPERIENCE 03/2020 — present REYNOLDS INC
+Los Angeles, CA Senior SAP Abap Developer
+
+¢ Excellent organizational, time management and communication skills
+
+¢ Design, Develop, Test, Debug and Implement SAP $4 applications and Support
+by working closely with functional team
+
+¢ Document the business process and writing Technical specifications
+
+¢ Integrate SAP with other SAR Non-SAP systems using Web services, EDI, file
+based transfers, and RFC's
+
+¢ Experience designing and maintaining Core Data Services (CDS) views and
+ODATA services
+
+¢ Expertise in SAP Fiori Launch pad configuration and app integration
+
+11/2014 - 02/2020 TURCOTTE-GIBSON
+Los Angeles, CA SAP Abap Developer With Finance
+
+¢ Willing to design, code and maintain the complex custom-build solutions
+
+« ABAP OO concepts
+
+¢ BAPI/BADI integrations & debugging (knowledge of multiple BAPI/BADI
+processes)
+
+Basic ABAP programming concepts and syntax
+
+Native ABAP SQL or Open SQL development & performance tuning
+
+¢ SAP Netweaver Gateway servicing architecture (OData API building)
+
+¢ Enhancement Spots
+
+¢ Custom transactions
+
+¢ ALV Reports
+
+EDUCATION MASSACHUSETTS COLLEGE OF ART
+
+Bachelor's in Computer Science
+
+SKILLS ¢ Should have good exposure to SAP R/3 system and experience in ABAP/4 Programming Techniques and
+
+object oriented programming (OO ABAP), Webdynpro ABAP ABAP on Hana programming, Business rules
+
+framework
+
+Require knowledge of SAP S/4 HANA, B4Hana, SAP UI5/FIORI
+
+¢ Hands-on SAP ABAP programming, de-bugging and testing
+
+Perform maintenance, enhancement and/or development work of SAP components and those that interface
+
+with other applications
+
+¢ Hands-on in utilizing ABAP Workbench, DDIC object, BAPI, BADI, RFC, ALE/EDI, IDOCs, ALV Grids,
+SPROXY framework, Performance Trace
+
+¢ Exposure to modules like Sales and Distribution (SD), Material Management (MM), Finance and
+Costing(FICO)

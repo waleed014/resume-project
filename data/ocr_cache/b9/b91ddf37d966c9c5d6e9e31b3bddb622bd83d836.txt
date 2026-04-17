@@ -1,0 +1,141 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Sums
++ Golang Specialist * Performance and scalability optimization
+‘+ IavaScript, C/C++, Python, and Websocket/UNIX socket + API Design Knowledge
+Programming + Product Development
+‘+ SQL, No-SQL, Kubernetes, OpenStack and AWS proficiency» Technical Analysis
+
+'* Blockchain and Smart Contract experience
+
+PROFESSIONAL SUMMARY
+
+‘Well-qualified Software Developer familiar with a wide range of programming utilities and languages. Knowledgeable of back-end and front-
+end development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities offering
+3+ years of professional related experience in a cloud environment delivering scalable and maintainable services.
+
+Complex problem-solver with an analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight
+schedules while producing impeccable code
+
+Background in desktop and cloud scale platforms developing user-friendly products and experiences. Skilled in using Golang, Node JS and
+Python.
+
+Worx History
+
+02/2020 to Current Backend Developer
+Grid Dynamics — Wayne, NI
+
++ Built new ecommerce backend from scratch to service ecommerce needs.
+
++ Built Oauth2 based integration service to handle granting partners access to customer platform data securely.
+
+«Assisted in converting monolith app to microservice architecture.
+
++ Migrated RESTful HTTP/S APIs to gRPC protocols.
+
++ Assisted in designing CU(CD pipeline for auto-deployments locally, and for both staging and production
+environments.
+
+* Collaborated with Product, Design and Frontend teams to ensure proposed Backend data structures met loosely
+defined requirements and facilitated expected behaviors
+
++ Refactored large problematic endpoints that compile numerous sources of data to ensure efficient and timely
+sesponses from backend services.
+
+06/2018 to 02/2020 Lead/Senior Full Stack Developer
+Vorbi Inc. — City, STATE
+
+«+ Lead development team in delivery of various projects requiring close cooperation among members to share
+information and develop solutions to meet broad array of deliverables
+
++ Take initial concepts to develop project plans
+
+‘+ Manage milestones from initial steps through final delivery
+
+‘+ Work on big data projects using Python, Golang and Node JS
+
++ Review code, debug problems and correct issues
+
++ Diagnose and troubleshoot UNIX/ Windows processing problems and applied solutions to increase company
+efficiency
+
+‘+ Worked with Head of Sales to build/prototype price comparison tool with python/django
+
+‘+ Developed reporting CLI tool with Golang to produce billing/usage reports from Director of Finance's
+requirements
+
++ Designed/implemented new server standards for core business services
+
+‘* Managed firewall, network monitoring and server monitoring both on- and off-site
+
+‘+ Monitored network performance and provided network performance statistical reports for both real-time and
+historical measurements
+
++ Recommended architectural improvements, design solutions and integration solutions
+
+‘+ Coordinated with systems partners to finalize designs and confirm requirements
+
++ Streamlined/enhanced corporate accounting/operations system
+
++ Provided continued maintenance/development of bug fixes and patch sets for existing web applications
+
+‘+ Established compatibility with third party software products by developing programs for modification and
+integration
+
+* Created/followed quality standards and procedures to minimize errors and maximize customer satisfaction
+
+‘* Worked with CEO/CTO to resolve problems, improve operations and provide exceptional customer experience
+
+« Inspected inbound/outbound products for compliance with established industry standards, company policies and
+procedures
+
+« Investigated/resolved customer complaints to foster satisfaction
+
++ Determined/recommended methods to address improvement opportunities
+
++ Supervised production planning while using appropriate tools and analysis for smooth production output
+
+‘+ Operated with high integrity, built trust, and earned sustained credibility with internal and external clientele
+
++ Developed standard operating procedures and document work-flows for current and future process steps
+
++ Boosted network, system and data availability and integrity through preventive maintenance and upgrades.
+
+02/2018 to 09/2018 Contractor - Development
+Border Resources LL.C. ~ City, STATE
++ Worked directly with executive management to develop geographic data system
+‘+ Researched and updated all required materials needed for firm and partners
++ Produced ad hoc reports and documents for senior team members
++ Obtained documents, clearances, certificates and approvals from local, state and federal agencies
+* Verified data integrity and accuracy in SQL-family databases
+‘+ Designed assignment portal for upper management and contractors to coordinate with in Node JS with pug/htmlS
+
+10/2017 to 02/2018 Contractor - Cryptocurrency Analyst
+Carex Blockchain Platform — City, STATE
+‘+ Deployed and maintained blog site on AWS, developed custom CSS styling
+‘+ Analyzed market movements related to medical and cryptocurrency industries to determine market interest and
+market tolerance
+‘+ Designed puzzle game using smart contracts in Solidity to increase traffic and exposure to platform
+‘Tested and evaluated Wallet and AI chat software to improve performance and usability
+
+04/2017 to 11/2017 Support Engineer - Contractor
+Poloniex — City, STATE
+* Collaborated with outside departments to implement system-wide improvements
++ Helped streamline repair processes and update procedures for support action consistency
++ Performed root cause analysis and general troubleshooting
+* Created procedural diagrams, drawings and specifications for support team to utilize
+* Created on-boarding and general guideline to bring more uniformity and improve support team collaboration
+
+Epucatton
+
+‘No Degree: Computer Science And Mathematics
+University Of Houston - Downtown - Houston, TX
+
+Apprmionat INFORMATION
+
+Built and shared custom bash scripts to make rig operation easy and user friendly, supported all popular algorithms (at the time) and algo
+switching based on profitability if desired with GPU recovery functionality for certain GPU chips.
+Extremely passionate about blockchain technologies and suitable real-world applications thereof

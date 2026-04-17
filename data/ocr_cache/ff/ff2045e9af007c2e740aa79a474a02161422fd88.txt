@@ -1,0 +1,64 @@
+NENA LEGROS
+
+1030 HAMMES FLATS, NEW YORK, NY
+
+PHONE
++1 (555) 693 7058
+
+EXPERIENCE
+
+Barrows Inc
+Boston, MA // Devops Engineer // 02/2020 — present
+
+¢ Knowledge of core Information security domains, primarily, [AM (Identity and Access Management) expertise
+
+¢ Web/app development experience
+
+¢ Security certifications such as CISSP, CEH
+
+¢ Good understanding of distributed builds and parallel deployments
+
+¢ General knowledge of monitoring tools and their purpose
+
+¢ DevOps concepts such as "Infrastructure as Code" - Use of orchestration tools such as Terraform, Ansible,
+CloudFormation
+
+Hansen-Torphy
+Boston, MA // Devops Engineer // 06/2016 — 12/2019
+
+¢ Continuous Integration such as Gitlab, Jenkins
+
+¢ Experience of containerized workloads, using tools such as Docker, Kubernetes, KOPS
+
+¢ Professional experience of working within the public cloud, specifically AWS and associated technologies — $3, EC2,
+auto-scaling, VPCs, RDS
+
+¢ Cloud Architecture and system design to solve key business problems and facilitate team goals
+
+¢ Configuration Management tools — Ansible, Puppet, Chef or equivalents
+
+¢ System and application monitoring experience — CloudWatch, Grafana, Prometheus, ELK, Nagios
+
+¢ Experience of leading projects, from design through to implementation
+
+EDUCATION
+
+Baylor University
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Team player with exceptional analytical, enterprise-minded and innovative problem-solving abilities
+
+¢ Experience with container technologies ECS, ECS Fargate, Azure AKS, EKS /PCF/Docker
+
+Should have strong knowledge in IAC concepts and experience with Terraform development and should have "automate
+everything" attitude
+
+¢ Experience with configuration management tool Chef/Ansible or equivalent
+
+Experience with Shell/PowerShell scripting in both Linux and Windows environment
+
+¢ Experience working with enterprise with multicloud strategy that includes WS/Azure/Google cloud
+
+5 yrs experience supporting Java application development including shakeout/setup of environments

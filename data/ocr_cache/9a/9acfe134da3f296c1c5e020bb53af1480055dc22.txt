@@ -1,0 +1,117 @@
+Paul Satchell
+
+Senior Python Developer
+\ 41-656-271-6980 © paul.satchell@gmail
+
+SUMMARY
+
+github io/paul.satchetl
+
+& New York City, NY
+
+SKILLS
+
+Senior Python developer with PCPP2, Cloudera and Agile certification
+Experienced with Python frameworks focused on data. Well-acquainted with
+database engineering, improving database performance, developing custom
+data & cloud solutions, and server-side technology.
+
+Programming
+
+Python | | seipy | | Numpy | | Scikit-learn
+Django | | Pandas | | Flask | | sal
+
+Matplotib | | JavaScript | | Bootstrap
+
+EDUCATION
+BS. in Software Engineering =
+New York instiute of Technology 22002-2008 4.00 400
+
+9 New York City, NY
+
+EXPERIENCE
+
+Senior Python Developer
+Grimes ff 2018- ongoing 9 New York City, NY
+Grimes is an up and coming game development studio.
+Position combines two roles ~ Senior Python developer and Scrum master
+fora team of 10 people
+Attending weekly testing Sessions to increase game appeal dramatically
+Improved database performance with 20% by using materialized views
+and stored procedures
+Delivered 40+ learning sessions and trainings on different subjects, from
+unit testing to new technologies
+
+Python Developer
+Renaud (8 2014-2018 @ New York City, NY
+Renaud Is @ technology in healthcare start up. Won first place in the Business
+Maratan at Campus Party Brazil 206.
+Designed and implemented Boot Menu for 2 Line Display in 3 weeks
+Delivered projects with 1-2 days turn around time or even as tearm and
+individual contributor
+Develop and deliver customized data solutions for the biggest pharmacy In
+more than 10 countries
+
+Mentored 5 junior Python developers and trained them to work
+Independently
+
+Python Developer
+Lessard 2011-2014 @ New York City, NY
+Lessard Is a USA-based IT Services firm specializing in Enterprise Mobility,
+Information Management, and Cloud-based solutions.
+* Worked in team of 10 members to provide end-to-end solutions for over
+30 clients
+Developed various In-house pip packages with>75% test coverage to be
+Used in in-house web applications
+Implemented new features on the main website using Python, Django,
+Bootstrap
+Optimized the back-end microservices and lowered the service request
+time from 700ms to 150ms
+
+‘wwwenhanev.com
+
+Data
+Mysal | | PostgreS@L
+
+SQL Alchemy | | Hadoop | | Spark
+
+DevOps
+Docker Docker-Compose | Agile
+
+Docker-Swarm ] | Puppet ] [ Ansible ]
+
+Django ORM
+
+Development
+
+[err | [ svw | [Jenkins | | Pycharm |
+
+CERTIFICATION
+
+Agile Certified Practitioner
+Project Management Institute, 2014
+
+CCA Spark and Hadoop Developer
+Cloudera, 2011
+
+POPP2
+The Python Institute, 2009
+
+STRENGTHS
+
+eg Adaptability
+| remember that change is not personal
+‘and is inevitable. | break my projects into
+multiple parts so that if something goes.
+wrong, | can quickly fix it.
+
+jg Teamleader
+Good at making a statement, setting clear
+goals, influencing people, and keeping
+them on the right track.
+
+@ _ Time Management
+I priortise essential asks 0 they are not
+rushed.
+
+Poweredby (CX? Enhancy

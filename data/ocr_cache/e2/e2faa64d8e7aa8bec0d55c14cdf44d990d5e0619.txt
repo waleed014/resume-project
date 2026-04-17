@@ -1,0 +1,68 @@
+Network Security Engineer IT Phone: (128) 456 78.99
+
+Email: infotqwikrestume.com
+
+ROBERT SMITH ied seein cna) eeiktonrme
+
+‘Address: 1737 Marshvile Road,
+Alabama
+
+Objective
+‘Around 8 years of experience in Networking and Secunty, including hands-on experience
+
+providing network support Installation and analysis for a broad range of LAN / WAN/MAN
+‘comumunication systems,
+
+Skills
+
+Checkpoint Certified Sccurtty Administrator, Firawall-1 4.1 , Troubleshooting with the Suafer Pro
+Network Analyzer, Troubleshooting and Matiagement with Srlfer Distributed Intemactworking wit
+‘TCP/IP Cisco Systems Catalyst 6500/3500 Series Switch Contiguration, UNIX Level
+
+Work Experience
+
+Network Security Engineer II
+‘ABC Corporation - March 2013 ~ August 2014
+
+‘Worked on 2600, 3500, 7613 Cisco Rowers and 4500 ane 6500 series Cisco Switches,
+Played responsible role for implementing, englncering, &amp; level 2 support af existing
+network technologies / services &amp; integralion of new network technologies / services,
+Conligured and managed Cisco access layer routers and switches Provided support for
+troubleshooting and resolving customer reported lseixes Worked ons 5 BIG-IP LTM 8900,
+configured profiles, provided and ensured high availabilty,
+
+Worked on F5 and CSM load bolancers deploying many load balancing techniques with
+miliple components for effet performance.
+
+‘Conligured atid managed OSPF redistribution and authenticaion with type LSA filtering and
+lo prevent LSA flooding ara! also configured OSPF over ame relay networks,
+
+Desiging, configuring implementing and troubleshooting (LAN) VLANs, VIP, Spanning Tree
+(STP), Trunking (dat1q and ISL) and Ether channel
+
+Experience with convert Checkpoint VEN rules over tothe Cisco ASA solution
+
+NETWORK SECURITY ENGINEER
+‘ABC Corporation - 2008-2013
+
+Participated in requitemcnt defluttions and Formal Technical Review (FIR) of development
+documents for all new network security features and services for the Wide Area 2-way radio
+system networks,
+
+Maintained Wide Arca 2-way radio systems sed for testing of antivirus updates, Operating
+System (OS) palching, and security scanning
+
+Monitored vulnerabilies for Windows operating systems,
+
+‘Oversaw new paiching / securly products on 5 Wide Area 2-way radio system releases on
+weekly, monthly, and quarterly basls, producing $11M armual securly services business.
+Developed lest cases, cnsuring patches lor new vulnerabilities do not adversely alfect ratio
+systems performance.
+
+Abed as escalation contact for customer sceurly Issues, driving sccurty defect
+‘chamclerization and coordination with impacted leans to resolution,
+
+Provided assistance to integration engineering with Installalion of sccurity equipment in
+customer staging area and network security related items during radio system upgrades,
+
+(Tas Pree Resume Template bse opie of Qatkretmesom. Dhage Guldaines

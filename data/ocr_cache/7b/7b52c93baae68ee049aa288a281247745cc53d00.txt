@@ -1,0 +1,52 @@
+ROSLYN SCHUPPE
+
+831 CARTWRIGHT ROADS, CHICAGO, IL
+
+PHONE
++1 (555) 744 3171
+
+EXPERIENCE LABADIE, GISLASON AND CHAMPLIN 01/2019 — present
+Dallas, TX // Information Systems Security Manager
+¢ Experience with offensive and defensive cyber operations (cloud agnostic)
+¢ Experience with NIST, FISMA, FedRAMP and relevant cloud security policies and methods
+¢ Experience with Security tools to thwart internal and external threat actors
+¢ Broad IT operations and application experience
+¢ Evolve procedures for increase effectiveness / efficiency and adapt to changing IT landscape
+e An active Secret security clearance
+¢ Assessment and Authorization experiencing using RMF
+¢ NIST/ISO standards, Department of Defense directives, and regulatory
+
+CUMMINGS INC 01/2012 - 07/2018
+Dallas, TX // Cyber Security Manager
+
+¢ CISSP, CISM,CISA, SANS GIAC, ISO27K certifications or equivalent
+
+¢ Network and end-point security
+
+¢ Identity and access Management (IAM)
+
+¢ Network Penetration Testing and Ethical Hacking
+
+¢ Security Information and Event Management (SIEM), and SOC operations
+
+¢ Security incident handing
+
+¢ A good working knowledge of information security best practices , industry standards , and
+
+other related legislation
+¢ Strong background of IT and networking architectures and technologies
+¢ Good understanding of ITIL processes
+
+EDUCATION SAVANNAH COLLEGE OF ART AND DESIGN
+Bachelor's in Criminal Justice
+
+SKILLS ¢ Fundamental knowledge of cloud (AWS, Azure, Google) security services
+¢ Familiarity with Zero Trust and other modern security models
+¢ Windows or UNIX/Linux operating system administration
+¢ TCP/IP network analysis and network/packet level examination tools such as tcpdump,
+Zenmap, or Wireshark
+¢ Network monitoring tools such as Bro, Suricata, or Snort
+¢ SEIM management or use for analysis, such as Splunk, ELK, or Alienvault
+¢ VMWare and management of Virtual Machines
+¢ Definition and interpretation of audit requirements
+¢ Test plan creation

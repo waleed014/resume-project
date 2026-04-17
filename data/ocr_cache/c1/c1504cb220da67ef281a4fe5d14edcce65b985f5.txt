@@ -1,0 +1,110 @@
+Jessica CLAIRE
+
+“Montgomery Street San Francisco, CA 94105 « (655) 432-1000 ¢ resumesamplegexample.com,
+
+Professional Summary
+
+Total of 5+ years of experience in SAP Security with GRC 5.3/GRC AC 10.0 Administration. Provided Support for 3 Full Life Cyele
+Implementation: Pre Go-Live, Go-Live, Post Go-live, Hypercare and Stablization and Production Support. Proficient at User
+administration and Provisioning (SU01, SU10 and eCATT), Role Administration and Configuration (PFCG), Users and Activity
+Groups based Customized Query Reports and Analysis with SUIM, USR* and AGR® tables. Authorization and Access related
+troubleshooting with SUSS and STO1. Central User Administration (CUA) for User and Role Administration Experience in setting up
+Single Sign-On concept.
+
+Skills
+
+ECC 5.0/6.0, SAP R/3 Enterprise 47/4.6C, BI7.0, CRM 7.0
+‘Modules: FI, CO, HR/HCM, MM, SD, BW/BI, PP, MDE, Solman
+“Security Audit Tools : SAP GRC 53 and GRC AC 10,
+
+Accomplishments
+
++ GRC5./AC 10.0 Administration: Access Request Analysis, Risk Analysis (Mitigation and Remediation), Proceess Approve/
+Reject Access Requests, Simulation of Risk for SOD Violations on User and Role based Access.
+
+«+ FFID Access: Assign FireFighter Roles/ IDs for emergency access in production,
+
++ Proficient with various ticketing tools and systems such as Remedy, HP Service Manager and HP Service Now.
+
+Work History
+
+Sap Security Administration and GRC Support, 05/2016 to Current
+Applied Medical Distribution Corporation ~ Myrtle Beach, SC.
+++ Provide User and Role level Support for Development, QA and Production environment.
+++ Provide User Account Support: Create, Modify, Update, Terminate, Lock/Unlock and Password Resets.
+‘+ Troubleshooting Authorization and Access related issues using SUS3, STO.
+‘+ Generate SUIM Reports on expired User IDs, Access to Sensitive Transactions and/or Critical Roles and Profiles
++ Worked with profile generator (PFCG) in creating roles, profiles, composite roles, composite profile, derived roles, and global
+roles.
+‘+ Created new roles as per the new business processes, in accordance with SOX compliance,
++ Provide daily SAP R/3, CRM, APO, BW, SCM, EBP and HER security production support such as ID requests, access requirements
+and troubleshooting problems.
++ Defined and maintained authorizations and roles.
+‘+ Administered Users, Authorization Data and Authorization Profiles.
++ Transported activity groups to target systems and generated.
++ Verified the profiles assignment to users.
++ Coordinated with systems partners to finalize designe and confirm requirements
++ Consistently met deadlines and requirements for all production work orders.
+
+‘Sap Security and GRC 5.5/10.0 Support, 10/2013 to 2016
+Novelis — Novi, MI
++ User Administration
+
+SAP Security Administration, 02/2013 to 08/2013
+American Waters ~ City, STATE
++ Perform user administration tasks such as Creation, Modification, and mass User administration (SU01 & SU10) Design activity
+‘groups in accordance with the requests from module experts and role metrics using Profile Genera Maintained the Authorization
+objects using SU24.
+‘+ Maintained system parameters for password rules through transaction RZ10 Generate and initiate transports of activity groups
+oles) using profile generator, and release using SEO9 from Dev to QA to Prod.
+‘+ Using SUIM, extract user based, role based information for analysis and assessment of access issues.
++ Interpret, analyze and resolve authorization issues using SUS3, SUS6, STO and STO3 Using GRC’s RAR to stimulate any possible
+SOD conilicts with Modified Users.
+«+ Extensively used tables such as USRO2, USRO3, USROd and USRw for information regarding end users and Password restrictions
+according tothe system parameters.
+«+ Familiar with SMI9 and SM20, configuration and auditing logs.
+‘+ Redefined authorization scope using SU24 with requested field values.
+«+ Performed Risk analysis and remediation and/or mitigation on conflicting functions between Roles using RAR.
++ A position hired for SAP end user and business User support for multiple SAP Environments and modules during Hyper Care
+.g0 live and for post go live long term support using ECC 60 and GRC 5.3,
+
+SAP Security Administrator, 08/2012 to 2013
+Mettler Toledo - City, STATE
+‘+ User master Record creation/ modification using SUO, including complex design restrictions.
+‘+ Mass user creation using SU10 Create Customized roles inthe development, test, and training environments using Profle
+Generator (PFC).
++ Assigning Roles (Activity Groups)/Profiles to Users using PFC.
++ Creation, Maintenance and transport of Module and Function related Activity group Transported activity groups to target
+ystems and User Provisionin Verified the profiles assignment to users
+«+ Fixing end user Roles/Profiles based on Change Requests created for breaksifixes.
++ User Administration and Password Management (Expiry of users and Profiles),
+«+ Analyze Root Cause of Authorization Problems and fix the missing authorizations with SUS3 and STO
+«+ Setting up testing environment for Unit Testing, Integration Testing, UAT and managed security authorizations test defects using
+HP Quality Center(HPQC),
+‘+ Maintained Assignment of Authorization Objects (SU24).
++ Created custom Authorization Classes and Authorization Objects (SU21).
+
+SAP Security Analyst, 02/2011 to 0772012
+PSE&G Co- City, STATE
+«+ Responsible for creating user IDs based on a standard naming convention, setting up of new users, modifying user accounts,
+resetting passwords, locking and unlocking user IDs.
++ Created and New Users, Maintained existing Users, Changed User groups and Validity dates for Terminated user ids, Lock/
+Unlock and password resets
++ Provide SAP security related fixes for System Test, Quality Assurance Test, and User Acceptance Test.
++ Develop derived roles for FI by converting certain fields to organizational level fields
+«= Trace and troubleshoot user authorization estors.
+‘+ Administered Users, Authorization Data and Authorization Profiles
++ Trouble shoot authorization problems using Repository Information System and tracing authorizations using SUS3, and STO1.
++ Ensured job role security access testing matched security architecture design Supported Live security for the entre SAP
+Landscape (DEV, QA, TEST, PRD).
++ Created new or edit existing roles as per the requirements coming through Help Desk which involves the inchasion of
+‘transactions in the mens tee or editing the activities as per SUSS results
++ Troubleshooting the authorization problems.
++ Prior to career transition into the field Information Technology, has over 12 years of Pharmaceutical experience including Quality
+Assurance and Control, Document Control and Management, Batch Record and Results review, Validation and Compression
+Control and Customer Service.
+
+Education
+
+Associate of Science: Computer Information Systems, 1998,
+Devry University - North Brunswick, NJ

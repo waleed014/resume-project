@@ -1,0 +1,57 @@
+CYBER SECURITY RESUME
+
+74 Derby Blvd., Alexandria, VA 22315
+(423) 047-1701
+aubrey jackson@gmail.com
+
+Cyber Security Engineer with 5+ years of experience in cyber security, information security, and IT operations. Skilled
+in implementing information security infrastructure and balancing security initiatives to external risks and business
+
+operations.
+
+PROFESSIONAL EXPERIENCE
+
+VALUE STREAM ENGINEERING Alexandria, VA
+Cyber Security Engineer October 2020-Present
+
+* Develop and implement effective cyber security plans to maintain the security of computer files against
+unauthorized modification, destruction, and disclosure
+
+‘+ Encrypt data transmissions and erect firewalls to conceal confidential information during transmission and
+‘keep out tainted digital transfers
+
+‘+ Recognize 250+ new viruses and malware while safeguarding and observing more than 60+ websites without
+any major attacks
+
+‘+ Slash security risks by 20% through installation of physical access controls
+
++ Employ automatic updates and mentor 375 employees on cyber security best practices, which reduced risk of
+
+attacks by 27%
+SKY FINANCIAL GROUP Chicago, IL
+Cyber Security Engineer July 2017-August 2020
+
+‘* Provided information security and threat management for $13.6 billion banking institution with 150+
+financial centers, mortgage centers, and 3000+ employees
+
+‘+ Implemented multilayer security system for the institution, including enhanced anti-virus, anti-spam, and
+anti-spyware software, which reduced malware risk by 40%
+
+‘+ Applied and managed advanced patch management system for 2500+ desktop computers/workstations and
+300+ file servers
+
+‘+ Regulated access to safeguard information in files by monitoring the use of data files
+
+* Conducted security assessments of institution’s site containing 50,000+ users
+
+EDUCATION
+RIVER BROOK UNIVERSITY Chicago, IL
+Master of Science in Cyber Security May 2017
+
+Honors: cum laude (GPA: 3.7/4.0)
+
+ADDITIONAL SKILLS
+
+‘© MS Office; MS Outlook; Symantec Backup Exec; HBSS; McAfee; BMC Remedy; DAR; Guardian Edge,
+‘Symantec Endpoint Protection, Microsoft Office 365
+‘+ MS Server (NT/2000/2003/2008, 2012/2016); MS Exchange; Net View Web Console

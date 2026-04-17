@@ -1,0 +1,223 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 2 (555) 432-1000 4 resumesample@example.com
+
+Experienced Software Developer with over 7 years of experience in Enterprise Software Architecture and
+Application Development. Excellent reputation for resolving problems, improving customer satisfaction, and
+driving overall operational improvement. Enthusiastic and eager to contribute to team success through hard
+‘work, attention to detail and excellent organizational skils,
+
+ava: -1.7,1.8,11,13
+
++ Servlets, Java Server Pages (JSP), EJB 3, Java
+Server Faces (JSF), CDI, Struts, Spring
+Framework, Hibernate
+
++ Web Services - SOAP, REST
+
++ HTML, DHTML, JavaScript, CSS, jQuery, YUI,
+Angular, Typescript
+
++ Application Servers - Apache Tomcat, JBoss,
+IBM Websphere
+
++ Version Control: GIT, TFS, CVS, GIT, SVN
+
++ Databases = Oracle 81/109/11g/12c, MySQL,
+Microsoft SQL Server
+
++ Database development: - SQL, PUSQL
+
++ XML Technologies :- XML, XSL, DOM, XSD
+
++ Message Broker/JMS :- ActiveMQ, Apache Katka
+
++ Software Development Lifecycle(Agile, Scrum,
+Iterated Waterfall
+
++ Build Tools = Maven Ant.Gradle
+
++ Jenkins
+
++ Docker;Kubemetes
+
++ Javat.6, Oracte store, Jquery, YUL, HTML, CSS,
+JSON, DHTML, JavaScript, AJAX, Oracle 109,
+Unie , Eclipse IDE
+
++ Streamline, Functional, Developer, Web Design
+
++ Database development, JSON, Struts
+
++ 00M, Exchange, Tax
+
++ E-commerce, MVC, Tomcat
+
++ £83, Oracle 9, Upgrading
+
+SENIOR SOFTWARE DEVELOPER
+‘Aecom | Bakersfield, CA
+
+Agile, Gateway, PSL, Web pages
+AJAX, HTML, Page, Web logic
+
+Ant, Http, Payment processing, IBM WebSphere
+Apache, IDE, PowerBuilder, XSL
+
+API, Indexing, Research
+
+‘Approach, insurance, Routing
+
+AR, J2EE, Scrum
+
+‘Automation, Java, Servers
+
+Benefils, Javat.6, Serviets
+
+C, JMS, Scripts
+
+CD, JSP, SOAP
+
+CSS, Java Server Pages (JSP), Software
+Development
+
+Client, JavaScript, Software documentation
+‘Version Control, Java script, Microsoft SQL.
+Server
+
+CVS, JBoss, SQL
+
+Databases, Jquery, Struts2.0
+
+Delivery, Market trends, Tables
+
+DHTML, 3x, To-C
+
+Eclipse, MySQL, Unix
+
+XML, Oracle, User interface
+
+11/2018 to CURRENT
+
++ Improved scalability by converting Legacy transactions (PowerBuilder) to new services (REST).
++ Implemented Adapter pattern for PowerBuilder applications to communicate with SOAP based Trilium
+
+Web Service using REST API
+
+‘+ Improved payment processing time by 50 percent by replacing JBPM with ActiveMQ.
++ Modernized existing VTOL IFILE application by upgrading framework (SEAM to CDI 1.2) using Factory
+
+Pattern
+
+‘+ Developed page routing mechanism to support JSF 2.2 framework with CDI 1.2
++ Created scripts for Continuous integration and Continuous Delivery pipelines(CUCD) using Jenkins
++ Enhanced Secunty for Individual application by implementing Two Factor Authentication using Twitio.
++ Improved code coverage by 70 percent over a span of 2 months at Washington Health Benefits
+
+Exchange.
+
+‘+ Reduced time taken to process scheduled payments by implementing Spring Batch Partitioning,
+‘+ Developed api's to support various internal applications running on different platforms(eg: P & I call
+
+used by CACSG, VTOL AR).
+
++ Helped customers consolidate bill payments by implementing a Web Payment Plan at Tax,
++ Designed and Developed Rest API's using Spring Boot framework to enhance and secure Online Tax
+
+Payment Portal,
+
++ Secured Rest Services using Spring Security OAuth2(Authentication, Authorization) using JWT tokens.
++ Leveraged Spring Cloud API Gateway as common entry point and routing
+
+‘+ Developed responsive,cross-browser compatible Individual Online Portal user interface using Angular 9,
+‘+ Optimized monthly password changes by integrating with Cyberark
+
++ Improved login experience for Tax internal application by integrating with Okta for Single Sign On,
+
+‘+ For assuring continuous availabilty of ActiveMQ, Implemented Master/Slave approach.
+
++ Tostreamiline the build process upgraded Ant based projects to maven,
+
+‘Optimized applications performance by monitoring logs using splunk.
+
++ Responsible for Creating/Contiguring monitoring tools and automated proactive monitoring alerts,
+
+‘+ Research, design and implementation of scalable applications for information identification, extraction,
+
+analysis, retrieval and indexing,
+
++ Collaborated with cross-functional development team members to analyze potential system solutions
+
+based on evolving client requirements,
+
+‘+ Environment: Java 11,1.8, 1.7, Spring Boot 2.1, REST, Spring Security OAuth 2, Spring MVC.,IPA,
+Hibemate 5, JWT tokens, Angular 9, JSF 2.2, CDI 1.2, Seam, XML, Java script, Oracle 12C, Maven, Ant,
+
+‘SonarQube, Veracode, Junit, Mockit.
+
+SECIOR JAVA DEVELOPER
+Epam Systems Inc | Menlo Park, CA
+
+03/2014 to 10/2015
+
++ Toallow customers to select a Health Insurance Plan, developed enroliment feature using JSP and
+
+Struts, spring and hibernate framework.
+
++ Implemented process to generate CSV file of enrolled users to be sent to Health care providers.
++ Analyzed requirements, designed and developed enrollment process for Washington Health Plan
+
+Finder.
+
+‘+ Developed responsive front-end pages using HTML, CSS, bootstrap and client-side validations using
+
+JavaScript and jquery.
+
++ To reduce build and deployment time, Wrote selenium scripts for integration testing.
+‘+ Standardize application framework by using Spring Dependency injection.
+
++ Lead code reviews and feedback on required changes
+
+‘+ Helped testing team build automation scripts for build testing and deployment,
++ Coordinate between teams and update status daily to the internal project team
+‘+ Environment: Java, J2E€, SVN, JIRA, Web logic, Spring, Struts2.0, Hibernate 3.x, Oracle 11g, SQL
+
+developer, fortify, PMD, SQL, PLISQL.
+
+‘JACA DEVELOPER
+‘Amentum | Suffolk, VA
+
+07/2013 to 02/2014
+
+‘+ Improved performance by upgraded e-commerce application from Yahoo Ul 1 to Yahoo Ul 2
++ Customized Oracle Istore product to create online applications for B-to-B and B-to-C customers,
+
++ Developed robust Java code for order processing applications.
+
++ To dynamically render client data used AJAX based http request call backs
+
+* Worked on dynamic menus, which stick to all web pages.
+
++ Enhanced applications to meet changing market trends and individual customer demands.
+
+‘+ For future references on changes modified and maintained software documentation and specifications.
+‘+ To.update the status in various tables after order confirmation, created Stored Procedures,
+
+Master of Science | Software Engineering
+University of Houston, Houston, TX
+
+Bachelor of Science | information Technology
+INTU, Hyderabad
+
+05/2013
+
+05/2011

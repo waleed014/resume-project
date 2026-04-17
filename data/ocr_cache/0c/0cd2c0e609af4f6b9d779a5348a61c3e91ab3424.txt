@@ -1,0 +1,53 @@
+NAME
+
+Address | Mail | Website
+PYTHON DEVELOPER
+
+TECHNICAL SKILLS
+
++ Programming Languages - Python, JavaScript, HTML, CSS
+‘© Web Frameworks - Django, Flask
+
+* Database Technologies - MySQL, PostgreSQL, MongoDB
+
++ RESTful APIs - Django REST Framework, Flask-RESTful
+
+* Version Control - Git, SVN
+
+‘* Deployment and Infrastructure - Docker, AWS, Heroku
+
+WORK EXPERIENCE
+
+Python Developer, XYZ Company Oct 2021
++ - Developed and maintained backend systems for web applications using Python, Django, and
+Flask, resulting in enhanced performance and scalability.
++ - Designed and implemented RESTful APIs to facilitate seamless communication between front-end
+and back-end systems, improving overall user experience,
+* -Collaborated with cross-functional teams to gather requirements, analyze user needs, and deliver
+high-quality solutions within tight deadlines.
++ - Optimized database queries and implemented caching strategies, resulting in a 40% reduction in
+response time and improved overall system efficiency.
+Python Developer, XYZ Company Oct 2019
+‘+ Assisted in the development and maintenance of a large-scale e-commerce platform using Python,
+Django, and PostgreSQL.
++ Implemented new features and resolved bugs, resulting in an enhanced user experience and
+increased customer satisfaction.
+‘+ Collaborated with the QA team to perform unit testing and resolve identified issues, ensuring the
+stability and reliability of the application.
+
+EDUCATION
+
+Computer Science AND Business | Dandilton (Online) May 2021 - Nov 2021
++ Studied Business Software planning, coordination, and efficiency
+* Worked with various industries on launching efficient IT Systems
+
+BEng Chemical Engineering | Royal Clickton Jan 2014 - Sept 2018
+
++ GPA:3.19
++ Minor in Process Management
+* Thesis in Modelling and Analysis of Process Efficiency ina Cement Plant
+
+CERTIFICATIONS:
+
+* Python Developer Certification
+* Django Web Development Certification

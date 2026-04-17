@@ -1,0 +1,57 @@
+WEB DEVELOPER RESUME
+
+4397 Aaron Smith Drive, Harrisburg, PA 17101
+(895) 555-5555
+youremail@gmail.com
+
+Web Developer with 5+ years of experience in designing and developing user interfaces, testing, debugging, and
+training staff within eCommerce technologies. Proven ability in optimizing web functionalities that improve data
+retrieval and workflow efficiencies.
+
+PROFESSIONAL EXPERIENCE
+
+Grooming Technologies Fullerton, CA
+‘Web Developer September 20XX-Present
++ Revamped web application security applications, minimizing hacker attacks from 2.3% to 0.02% and
+saving the company an estimated $150,000 in potential losses
+‘+ Designed and developed user-friendly website, including optimized check-out page that increased
+user clicks, and subsequently customer purchases by 20%
+‘+ Trained over 50 staff members in internal web functions, including steps on how to independently
+make minor updates and changes
+‘+ Fixed bugs from existing websites and implemented enhancements that significantly improved web
+
+functionality and speed
+Focus Solutions Fullerton, CA
+‘Web Developer June 20XX-August 20XX
+
+‘+ Developed dynamic and interactive website that ensured high traffic, page views, and user experience,
+resulting in 40% increase in sales revenue
+
+‘+ Oversaw full lifecycle of software development for 9 projects with 100% on-time delivery while staying
+5% under budget
+
++ Implemented server that expedited document generation and search functionality by 20%, earning
+commendation and award from upper management
+
+‘+ Designed processes for cleanup and performance improvement that minimized downtime by 13%
+
+EDUCATION
+
+California State University, Fullerton, CA.
+BS. Web Development (20XX)
+
+Fullerton College, Fullerton, CA
+A.A. Programming (20XX)
+
+ADDITIONAL SKILLS
+
+© Certified Java Programmer
+* PHP/Perl/Access
+
+© Oracle/.NET/CSS
+
+© ASP/SQL/JavaScript
+
+© Visual Basie
+
+© -XM/C#/Ajax/HTML

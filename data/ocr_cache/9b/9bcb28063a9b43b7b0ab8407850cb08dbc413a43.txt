@@ -1,0 +1,86 @@
+Ewell Tremblay
+44187 Beulah Loaf, New York, NY # Phone: +1 (555) 311 3855
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR QA TESTER
+Boston, MA
+12/2014 — present
+‘© Work closely with project managers and developers and handle multiple
+© Execute manual and automated test cases, analyze results, report and track defects, verify fixes and
+perform follow-up work to resolve issues
+‘© Lead teams to create and execute test plans and scripts that will determine optimal application
+performance according to specifications
+Work closely with project managers and developers and handle multiple priorities simultaneously
+Assists and cooperates with co-workers, supervisor and management
+Work with automation team to develop and execute automated tests
+Assist with developing test plan time line
+
+LEAD QA TESTER
+Chicago, IL
+04/2008 — 08/2014
+‘© Responsible for all aspects of the QA cycle for assigned projects
++ Developing Test Cases, Test Strategies and Test Plans that will ensure comprehensive test coverage
+‘* Conducting hands on functional, and system integration testing; report, track and follow up on issues in a
+timely manner
+‘© Working closely with technical and non-technical peers and se
+delivery of products and services
+‘* Supporting continuous improvement of the current test process
+* Knowledge in writing basic SQL queries and end to end workflow
++ Solid expertise in testing Buy/Sell Side Order Management Systems
+
+management to promote successful
+
+QA TESTER
+
+Phoenix, AZ
+02/2001 ~ 10/2007
+
+‘© Work closely with developers, business stakeholders and act as an integral part of the software
+development team using iterative development process
+
+‘* Work with development teams to create test plans for enhancements and fixes on applications
+
+‘© Work as a part of team to perform manual/automated functional, regression and performance testing on
+Data Invariant Layer project
+
+© Work as part of a team to perform manual / automated functi
+all Utility Technology systems and projects
+
+‘+ Help manage, develop, and improve processes and procedures within the department
+
+‘* Manages work to work plans for components on engagements
+
++ Provide a positive role model, in terms of both work performance and attitude
+
+al, regression and performance testing on
+
+WASHINGTON STATE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
++ Ability to focus on deadlines and deliverables — ensures the ability to find the bad defects and bugs quickly
+
++ Strong working knowledge of Quality Center software
+
+‘Solid understanding of the sofware development life cycle (SDLC) with a proven ability to deliver quality
+software to client standards and on schedule
+
+Excellent interpersonal skills with the ability to build strong working relationships with colleagues
+
+Technical Proficiency/Aptitude — able to quickly pick up and retain technical information and processes,
+
+Ability to write good quality code in java/scala
+
+Basic computer knowledge, knowledge of using python, java, etc will be
+
+HP Mercury testing tools (Quality Centre, Quality Test Professional QTP/UFT)
+
+Expert level familiarity with common tools such as Quality Center, QuickTest Professional and Beyond
+
+‘Compare
+
+‘Strong working knowledge of desktop applications

@@ -1,0 +1,35 @@
+Corey Lebsack
+
+2044 Armando Union, San Francisco, CA
+
+ay Mobile phone:
++1 (555) 839 4382
+
+(D EXPERIENCE
+
+Senior ETL Developer / Admin — Wolff and Sons, Chicago, IL 02/2018 — Present
+
+¢ To assist other areas in ensuring that the framework meets formal planning, regulatory, or other reporting requirements
+¢ To participate in Testing and automation activities
+¢ To document all data processes and ensure that all working practices have been audited and signed off
+
+Mid-senior ETL Developer — Haag Group, Chicago, IL 02/2011 — 09/2017
+
+e Hands-on experience in Ab Initio
+¢ Hands-on experience in relational databases like Teradata, Oracle, SQL Server and PL/SQL
+
+e Experience in ETL development — good knowledge in UNIX scripting
+¢ The role requires the candidate to work extensively on A>! GDE including ETL design
+
+TH EDUCATION
+
+Academy of Art University — Bachelor's in Computer Science
+
+@ SKILLS
+
+¢ The role requires the candidate to Understand concepts of Hadoop and tune A>! product accordingly
+
+e The role requires the candidate to contribute in end to end architecture and process flow and to roubleshoot any Ab Initio
+related problem/error
+
+¢ Configure and customize the chosen ETL tool for client installations

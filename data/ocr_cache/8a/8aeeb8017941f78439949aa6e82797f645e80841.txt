@@ -1,0 +1,117 @@
+Robert Smith
+
+Senior ETL Developer/Lead
+
+PERSONAL STATEMENT
+Senior ETL Developer/Lead with 12 years of experience in the Healthcare
+domain, Having IT experience in Design, Development, andl implernentation
+‘and Testing of Database/Data Warehousing ap plications using Extraction,
+‘Transformation, Loading and Data Analysis. Evtensive hands-on experience
+inusing the Data warehousing tool IBM Web sphere Datastage 7.5/7.5.
+Infosphere Datastage 11.3, 8,7, Talend ETL and also involved in Data
+Migration projects.
+
+WORK EXPERIENCE
+
+Senior ETL Developer/Lead
+United Health Care - September 2010 - Present
+Responsibilities:
+
++ Working on &quot:UHG Talend Migration Projects.quot; as an ETL
+specialist to execute CSP platforrn which includes Datastage 8.7 ETL to
+Talend studio ETL with Hadoop,
+
+Responsible for building scalable distributed data solutions using
+Hadoop.
+
+* Worked for hands-on Datastage 8.7 ETL migration to Talend studio ETL
+process,
+
+* Designing, developing, validating and deploying the Talend ETL
+processes for the DWH team using Hadoop (pig, hive) on Hadoop.
+
++ Collaborate with the data warehouse team to design and develop
+required ETL processes, performance tune ETL programs/scripts,
+
++ Handled importing of data from various data sources, performed
+transformation like ETL (extract transform and load) and ELT (extract
+load and transform) into HOS,
+
++ extracted the data from Oracle 12¢, transformed and load in HOFS
+using Talend studio ETL tool
+
+ETL Developer
+ABC Corp - 2006 - 2010
+Responsibilities:
+* Designed and Built ETL processing modules based on transformation
+rules, mapping rules, pracessing requirements and database model
+Designed and Built the ETL auditing steps to ensure data integrity and
+Completeness of the ETL process,
++ Designed and euilt the ETL process flow including module dependencies
+‘and parallel pracessing opportunities,
++ Lead the design-build of programming specifications for each ETL
+component,
++ Lead the design and execution of testing plans for each phase of the
+developrnent process.
++ Planned and ensured accuracy and quality of prograrn code as well as a
+thorough data validation procedures.
++ Developed efficient code that met the analysis and design criteria
+
+(© The Etae Resume Template le the copyriht of Qwikresume.com, Usage Glens
+
+CONTACT DETAILS
+1737 Marshville Road,
+Alabarna
+(223)-456-7899
+
+Infog quikresume.com
+wow.qwikresume.com
+
+SKILLS
+
+ETL Tools IBM Datastage
+113,87, 8.5, Blend
+Integration ETL Tool 5
+amp; 6, Ascential
+Datastage 7.5
+Databases Oracle Ms
+Access, Haase, Ag Hive,
+CASSANDRA,
+MONGO_D8 Languages
+UNIX SHELL, HSQL, COL
+(CASSANDRA QUERY),
+TERADATA, SOL,
+AT&amp:T Product.
+cymbel Query
+Language, JAVA, XML
+‘Operating Systems
+Windows XPINT/2000,
+UNIX, Linux. Scripting
+Unix Shell scripting. TWS
+Composer Files Other
+‘ols Ms office, SOLPIus,
+TOAD, SOL Developer,
+‘Teradata, Management
+studio, schedulers
+Datastage Internal
+Scheduler, Cron Tab,
+Zefa, \BM Tivoll TWS
+
+Laucuaces
+
+English (Native)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+cimbing
+Snowioerdn
+‘Cooking i
+ean
+
+REFERENCES
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company

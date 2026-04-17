@@ -1,0 +1,85 @@
+SAMUEL LOWE
+
+© 14918 GRIMES CIRCLE, DALLAS, TX
+
+Fp PHONE
+
++1 (555) 473 3352
+
+@ EXPERIENCE
+
+A
+
+bshire-Abernathy -> 01/2020 — present
+
+PHOENIX, AZ /// SECURITY ENGINEER
+
+¢ Knowledge in MVC, MySQL, Postgres, GIT, WebAPI, SQL, SOAP,
+RESTful API
+Understanding of JSON, XML, XML Schema, and related
+echnologies
+Experience with NoSQL / Graph Databases, Hadoop,
+MapReduce, Spark, HBase, Solr, ELK, ZooKeeper, Flume, Kafka
+Experience in at least one modern compiled programming
+anguage such as Java, C, C++ or C#
+Scripting — PowerShell, Python, Bash
+US Citizen with or able to obtain Security Clearance
+Knowledge of Computing Security and IT technology
+Knowledge with Excel, Nessus, FireEye, McAfee
+
+Murphy, Tillman and Fisher -> 02/2014 —
+
+0
+
+9/2019
+
+PHOENIX, AZ /// SECURITY ENGINEER
+
+¢ Excellent troubleshooting/critical thinking skills and strong
+technical learning aptitude
+
+e Experience with git, regular expressions, and scripting
+
+anguages (bash, python, JavaScript)
+
+Work with all Information Security and ClO programs and
+
+eams to ensure compliance to security policies and
+
+standards
+
+Coordinate with application, system, and cloud account
+
+owners to remediate vulnerabilities identified in the
+
+nformation Security Dashboard (ISD)
+
+Conduct daily follow-ups with asset owners as vulnerabilities
+
+age to ensure they are remediated before the go red on the
+
+SD
+
+© EDUCATION
+
+Lim College /// Bachelor's in Computer
+Science
+
+@ SKILLS
+
+e
+
+Operational experience supporting production systems
+(including on-call support)
+
+A functional understanding of network, application and
+platform security tools and concepts
+
+Experience with securing systems using the Linux 0S
+
+Proven work experience as a Security Engineer
+
+Experience building and maintaining security systems
+Hands on experience in security systems, including firewalls,
+intrusion detection systems, anti-virus, authentication
+systems, log management, content filtering, etc

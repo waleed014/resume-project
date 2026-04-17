@@ -1,0 +1,64 @@
+ROBERT SMITH
+
+AWS Devops Engineer |
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+Around 6+ years of experience, with strong expertise in the fields of DevOps Build
+and Release Engineer and System Admin, using various automation tools to aversee
+the end to end deployment process. Professional experience in Configuring and
+Deploying instances on AWS, Azure, and Rackspace cloud environments & Data
+Centers,
+
+EXPERIENCE
+
+AWS Devops Engineer Itt
+Arthrex, Florida - JULY 2015 - 2020
+
++) Migrated the current Linux environment to AWS /RHEL Linux
+environment and used auto scaling feature and Involved in
+Remediation and patching of Unixitinux Servers.
+
++ Created AWS RouteS3 to route trafic between diferent regions
+
++ Configured AWS /AM and Security Group in Public and Private Subnets
+in vec.
+
++ Used MySQL, DynamoDB and ElastiCache ta perform basic database
+administration,
+
++ Used GzIP with AWS Cloudtront to forward compressed files to
+destination nodevinstances,
+
++ Build out server automation with Continuous Integration ~ Continuous
+Deployment tools like Jenkins/Maven for deployment and build
+management system.
+
++ Creating the automated build and deployment process for application,
+reengineering setup for better user experience, and leading up to
+building
+
+AWS Devops Engineer
+Delta Corporation - 2013 - 2015
+
++ Responsibilities involved in designing and deploying multitude
+applications utilizing almost all of the AWS stack (Including EC2,
+RouteS3, 53, RDS, Dynamo DB, SNS, SOS, IAM) focusing on high
+availability, fault tolerance, and auto-scaling In AWS Cloudformation.
+
++ Configuration toal installed and configured such as chef server /
+‘workstation and nodes via CLI tools to AWS nades.
+
++ Installed VMware ESXi5.5 and 6, vSphere Server and VMware center
+Server in rack Servers.
+
++ Implemented AWS solutions using EC2, $3, RDS, EBS, Elastic Load
+Balancer, Auto scaling graups.
+
++ Installation, configuration and administration of linux (red hat,
+centog), sun solaris and hp-ux servers,
+
++ Installing and deploying apache, jboss 5. X support of applications tike
+‘apache tomcat and java based applications running on linux
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

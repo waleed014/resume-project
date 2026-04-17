@@ -1,0 +1,134 @@
+Summary
+
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor
+(655) 432-1000 - resumesample@example.com
+
+‘« About 5 years of Professional experience in front-end development using HTML/HTMLS, CSS/CSS3, JavaScript, TypeScript, React,
+React Router, Redux, Angular, jQuery, Express, Node js, ISON, and various other web development tools to build cutting-edge web
+
+applications.
+
+‘+ Extensive experience in implementing components using React life-cycle architecture, as well as using React-redux to handle real-time
+data and Redux-Thunk for API calls and async operations. Proficient with configuring Redux Toolkit and debugging with Redux
+devtools extension.
+
+« Expertise in Responsive Web Design and experience in making web pages cross browser compatible.
+
+«Prior experience in dealing with various databases like Oracle, SQL Server, MongoDB and MySQL.
+
+Experience with features of Angular Framework such as directives, dependency injection, modules, routing, data binding, page loading
+
+and HTTP server and some management tools like ngr.
+
+Experience in unit testing frameworks such as Jest and Enzyme, Jasmine and Protractor.
+
++ Experience in implementing Applications with a full life cycle of software development using Agile.
+
+Experience in UX design on web-based application using sketch and Photoshop.
+
++ Excellent goal-oriented team Player, quick learner and self-starter with effective communication, motivation and organizational skills
+combined with attention to details and business process improvements.
+
+Sums
+
+Web Technologies React, Redux, JavaScript, TypeScript, Angular2+, Version Controls GIT.
+
+HTMLS, CSS3, SCSS, Bootstrap, jQuery, IDE Tools & Web Servers Visual Studio Code, IntelliJ, Eclipse
+GraphQL, JSON, Nodejs. SDLC Methodologies Agile, Scrum.
+
+Languages JavaScript, TypeScript, Python, Testing & Others Jest, Enzyme, Jasmine, protractor, JIRA and
+Database MySQL, SQL Server, MongoDB jenkins, Sketch, Photoshop.
+
+EXPERIENCE
+
+02/2020 to Current
+
+09/2018 to 01/2020
+
+10/2017 to 08/2018
+
+Front End Developer(react)
+Discovery Inc — City, STATE
+Project: Content Language Web App
+Description: Content Language web app is a web application which could facilitate and automate Discovery's global
+content delivery workflow. It allow users to monitor system created language order and manual created language orders
+in real-time. Users can create, update, and delete orders and also monitor the whole workflow by audit log. we build up
+the Content Language web app from scratch with good performance.
+Responsibilities
+
+‘+ Developed a single page application using JavaScript, HTMLS, CSS3, React, React Router, Redux, ES6, Webpack,
+ete.
+Implemented the mock-up through working on CSS3 and CSS preprocessor like Sess.
+‘+ Created reusable components and routing to implement navigation between the components using React and React-
+
+router.
+
+‘Implemented applications with the Lazy-Loading concept to decrease the initial loading time for the application
+
+‘Managed global state by using Redux and persisted certain parts of the state to the device via Redux Persist.
+
+‘+ Implemented custom hooks to properly consume API on the front end and send back data captured in the Ul in
+ISON format to the back end.
+
+‘+ Worked with modules like MongoDB for database persistence using NodeJS mongoose to interact with MongoDB.
+
++ Developed unit tests using popular test runners such as Jest and Enzyme.
+
+* Used Agile methodology for the development life cycle and followed the Scrum framework.
+
+UIDEVELOPER(react)
+DocFinity ~ City, STATE
+Description: Dashboard Tools helps one gain visibility into business processes so one can proactively avoid bottlenecks
+and dips in productivity. Dashboards allow users to monitor DocFinity and other business systems in real-time. One will
+quickly spot where workloads are light or overloaded. Users can monitor importers, servers, and data repositories so
+they can make necessary adjustments to enhance performance, Teams can build visually-stunning dashboards without
+knowledge of SQL.
+Responsibilities
+
+‘+ Responsible for creating efficient design and developing UI for the web application using HTMLS,CSS3,
+IavaScript, Node js, React, etc.
+Successfully managed the global state using Redux for the web application.
+* Optimized applications for maximum speed and scalability
+Created reusable styled components using CSS preprocessors like SCSS.
+Retrieved data from Back-End asynchronously by using Redux-Thunk middleware.
+Used Jasmine and Enzyme in testing.
+Involved in daily SCRUM meetings to keep track of the ongoing project status and issues.
+
+WEB DEVELOPER (angular)
+KCF Technologies, Inc. ~ City, STATE
+Project: Machine Condition Monitoring Software
+Description: MCM software features a drag-and-drop interface that allows easy configuration of frequency monitoring
+bands and failure warning and alert levels. All are complemented with easy-to-read graphs, showing peak vibration
+level trends and frequency spectra, providing all the data you need to make smatt, predictive maintenance decisions.
+Responsibilities
+‘+ Designed dynamic and multi-browser compatible pages using HTMLS, CSS5, and jQuery, JavaScript, Bootstrap
+and Angular.
++ Created a custom responsive web application to replace a legacy line-of-business web application using Angular
+5s.
++ Performed unit testing using Jasmine and end to end testing using Protractor.
+‘* Worked on Front end by using Angular, JavaScript.
+‘* Used Angular for connecting the API's using Angular http service.
+* Leveraged Angular sources for data access and created custom directives, factories, and services for the reusable
+‘components.
++ Implemented Spring Boot framework to develop Spring based application radically faster with very less
+configuration.
+« Integrated RESTful services (API's). Used ISON for data transfer between front end and back end, used SQL
+Queries to interact with Oracle database.
+‘* Using version control: GIT for Team build, Project Management, Data Collection and Reporting.
+* Followed Agile Methodology to review progress of project in monthly sprints.
+
+Epucarion aNp TRAINING
+
+08/2019
+
+06/2017
+
+Master of Science: Information Science and Technology
+Pennsylvania State University
+Courses: Web Development, Human Computer Interaction, Interaction Design, Statistics.
+
+Bachelor of Engineering: Digital Media Technology
+Beijing Language And Culture University
+Courses: Windows Programming, Data Structures, Computer Networks, Computer Programming in C&C++.

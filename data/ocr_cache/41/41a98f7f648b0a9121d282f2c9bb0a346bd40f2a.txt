@@ -1,0 +1,262 @@
+JESSICA
+CLAIRE
+
+@ _resumesample@example.com
+& (555) 432-1000
+
+9 100Montgomery St. 10th
+Floor
+
+SKILLS
+
+Programming Languages: C, C++,
+00P, Java, and Visual Basic
+Scripting Languages: VBScript,
+Perl, UNIX Shell Scripting
+Testing Tools: JIRA, Quality
+Center, HP ALM
+
+Operating Systems: UNIX, Linux
+and Windows XP.
+
+RDBMS: MS SQL Server, Oracle,
+MS Access
+
+\Wieb Technologies: HTML/DHTML,
+ASP, .NET, XML, JavaScript, VB
+Script
+
+Other Experience: LAN, WAN,
+Wireless, VolP knowledge,
+Network Design and
+Implementation, Citrix, VMware,
+Cyber Security
+
+EDUCATION
+
+Management Development
+Institute of Singapore
+
+Tashkent + 04/2010
+
+Associate of Science: Banking And
+Financial Support Services
+
+PROFESSIONAL SUMMARY
+
++ Over 7 years of IT experience in testing Web application testing and understand architecture in
+terms of functionality as well as ETL /Business Intelligence solutions.
+
++ Performed Backend Qa testing in various industries such as Banking, Insurance, and Capital
+markets
+
++ Strong understanding of Equities and Fixed income products with respect to Brokerage Operations,
+Margin Trading and Securities Lending. Worked on Trade capture, Middle Office Operations, and
+Back Office Settlements.
+
++ Successfull led the design and deployment of the overnight automated batch system for various
+products.
+
++ Adept in reviewing Test Procedures, creating Test plans, Test Scenario, defining system &
+Integration Test Cases, executing Test Cases, Test
+
++ Data reviewing and maintaining and executing detailed Test scripts for User Acceptance Testing
+(UAT), analyzing bugs, interacting with team members in fing errors and UAT testing.
+
++ Good understanding of SDLC, QA concept (e.g. Functional, Integration, Systems, Regression
+testing) and agile development methodologies
+
++ Experience in working with business analysts/customers to understand customer requirement and
+Convert this into the test plan/test case development
+
+‘+ Strong KnovAedge in the ETL process, DDL and DML statements, Data Warehouse Architecture,
+Physical and Logical Data Models.
+
++ Extensively used ETL methodology for supporting data extraction, transformations and loading
+processing in a corporate-wide- ETL solution using ETL tools lke informatica, SSIS, Abinitio.
+
+“+ Experience in writing and executing complex SQL queries to validate actual vs. expected results
+nd to validate data from source to target
+Strong technical knowledge of UNIX Utilities, shell Script to automate the process
+
++ Solid knowedge of using MS Excel. Used advanced functions like Vlookup, Pivot tables, and
+analysis.
+
++ Performed backend database testing by writing SQL and PL/SQL. scripts to verify data quality and
+data integrity
+
++ Experience in writing test plans, defining test scenarios and test cases, developing and
+‘maintaining test scripts based on business and functional requirements, documented all phases of
+A process
+{Led multiple projects/releases simultaneously and coordinating across multiple project teams.
+
+‘+ Involved in functional, end-to-end and regression testing of Trade booking and settlement logic as
+well as related ETL processes developed to fetch data from front office DB systems to the target
+data warehouse using complex SQL queries.
+
++ Created ETL test data for all ETL mapping rules to test the functionality of the data flow.
+
++ Good knowledge of Informatica Designer Components -Source Analyzer, Target Designer, Mapping
+Designer, Transformation Developer, Workflow Manager, and Workflow Monitor
+
++ Strong understanding of quality control via Verification and Validation processes to comply with
+specified requirements.
+
++ Performed different types of testing such as UAT, Functional, Regression, Integration, lack Box,
+Stress, Backend, Positive, Negative, Risk-based, Volume, and Performance.
+
++ Excellent Domain knowedge in Banking and Trading.
+
++ Develop and execute detailed ETL related functional, performance, integration, and regression test
+cases, and documentation.
+
+WORK HISTORY
+
+Ockham - SQUETL Tester
+Oklahoma City, OK + 06/2047 - Current
+
++ Performed feed files validation, metadata validation, column mapping, data completeness testing,
+data quality testing, ETL performance testing,
+
++The tested ETL process for feeds received from counterparties’ back office and compared with the
+data that was received from the Front office for consistency.
+
+“+ Performed Backend testing using oracle SQLserverqueries to retrieve the data from the databases
+and validate the results ifthe process had generated expected results.
+
++ Developed and deployed quality stored procedures, views, SQL Aggregate functions join subqueries
+and triggers.
+
++ Performed Backend, Functional, Regression and Smoke tests on the new enhancements added to the
+web application in theSIT environment.
+
++ trong knowledge on validation of ETL process results such as executing Mapping, Metadata, data
+{quality Data Load tests.
+
++ Familiarity with checking the status of Autosys jobs in the ETL process.
+
++ Tested all the reports generated by validating the data in the report against the database according
+to the requirement specifications using SQL.
+
++ Tested PL/SQL procedures that were developed to load the data from temporary tables in staging
+to target tables in the data warehouse,
+
++ Extensively used SQL statements to query the MS SQL Server Database for Data Validation and
+Data integrity
+
++ Validated incremental iterative application releases using an agile process (Scrum).
+
++ Tested User Interface inconsistency and application functionality.
+
++ Provided support to the offshore QA team by giving them knowledge transfer and helping them
+with the closure of the defects,
+
+“+ Performed data validation on the flat files that were generated inthe UNIX environment using UNIX
+commands as necessary.
+
++ Created and executed test cases forall the required extracts and prepared test scripts for
+interface validation and End to End and integration Testing.
+
++ Tested source data for data completeness, data correctness, and data integrity.
+Performed End to end testing starting from the source to the report.
+
+Managed Offshore team and Organized testing schedule and resource allocation.
+
+Responsible to perform UAT and get UAT to sign off from business users.
+
+Designing the entire documentation lke Test Plan, Test Scenarios,
+
+Detailed Test Cases and Test Results in HP ALM for specific projects.
+
+Identifying the testable vs. Non-testable, compliance and regulatory requirements.
+
+Ockham - QA Analyst
+(Omaha, NE + 07/2011 - 01/2020
+
++ Created test case scenarios, executed test cases and maintained defects in internal bug tracking
+systems
+
++ Developed and executed various manual testing scenarios and exceptionally documented the
+‘process to perform functional testing of the application
+
++ Involved in preparing project Test cases for Functional Testing, Regression testing, Integration
+testing/End to End Testing.
+
++ Prepared and Maintaining Test Plans, Test Strategy, Test Procedures, Use Cases, Test cases.
+
++ Performed Functional testing, Integration testing, System testing, Regression testing, and Smoke
+Testing.
+
++ Managed muitiple OLAP and ETL projects for various testing needs.
+
++ Performed extensive Data Validation, Data Verification against Data Warehouse.
+
++ As an ETL Tester responsible for the business requirements, ETL Analysis, ETL test and design of
+the flow and the logic for the Data warehouse project using Informatica.
+
++ Written Test Cases for ETL to compare Source and Target database systems.
+
+“+ Helped the testing team documenting the system requirements and testing system development,
+Designed and implemented basic SQL queries for Qa testing and report/data validation. Set up
+definitions and process for test phases including Product, Integration, System and User Acceptance
+Testing (UAT).
+
+Prudential Financial - QA Analyst
+City, STATE » 01/2012 - 03/2014
+
++ Facilitated meetings with clients, brokers and a group of business partners to understand the
+needs and requirements of the new system, prioritized and organized these requirements in a
+systematic fashion, evaluated and compared potential solutions.
+
++ Reviewed ETL processes, functionality & identify test requirements and coverage,
+
++ Prepared Test cases and scripts based on client requirements in HP Quality Center.
+
++ Wrote very complex SQL to validate several Bi Reports.
+
+Conducted Functionality testing during various phases of the application using QTR
+
++ Used the SOL Plus tool to write SQL commands in the Oracle database
+Coordinated with source system ovners, day-to-day ETL progress monitoring, Data warehouse
+target schema design (Star Schema) and maintenance.
+
++ Tested the reports generated by OBIEE and verified and validated the reports using SQl.
+
+‘Involved invalidating the reports layouts in OBIEE based on Report Layout Document
+
++ Creation and execution of test cases on Oracle Reports and OBIEE.
+
+Tested several OBIEE reports for data quality, Report testing.
+
++ Design complex SSIS Packages using several transformations to perform Data extraction, Data
+‘Transformation and Data Loading to the target regulatory database.
+
+“+ Implemented Event Handlers and Error Handling in SSIS packages and n
+various user communities.
+
+1+ Managed and conducted System testing, Integration testing, and Functional testing.
+
++ Extracted data from various sources Ike Oradle, flat files and SQL Server.
+
+‘Worked on SQL scripts to load data in the tables in the test environment.
+Used SQL tools like TOAD to run SQL queries and validate the data loaded into the target tables
+‘racked the defects using the Quality Center tool and generated defect summary reports.
+
++ Uploaded test cases from excel documents to Quality center, and validate the same using Quality
+Center.
+
+Involved in extracting the test summary from Quality Center.
+
+1+ Mapped to-be-moved data from source to target database-using Stages to do the functionality.
+
++ Tested of Data Mapping documents between source and target databases as per the transforming
+logie.
+
++ Created various PL/SQL stored procedures for dropping and recreating indexes on target tables.
+
++ Reviewed Test cases and scripts based on client requirements
+Performed Manual Functional, User Interface test, and Regression test.
+
+Involved in the Execution of test cases to verify actual results against expected results.
+
+ied process results to

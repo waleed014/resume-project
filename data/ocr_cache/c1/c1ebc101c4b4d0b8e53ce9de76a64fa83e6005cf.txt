@@ -1,0 +1,126 @@
+Lorenzo Conrad
+
+[J 555-555-5555 ™ hello@kickresume.com
+
+Career objective
+
+Blockchain Software Engineer seeking the next
+opportunity to continue developing Decentralized
+Applications (DApps). | am particularly interested in
+exploring new approaches concerning Blockchain,
+cryptocurrency, and smart contract security. | have
+experience in several Blockchain projects.
+
+Professional Experience
+
+fF} 2018-11 - PRESENT Q PORTO, PORTUGAL
+Blockchain Software Engineer
+
+Nau21
+
+Currently, | work at Nau21 - software for the future, a
+software development company with bold ideas that
+will change the world. | am developing the SIS*1
+(Smart Insurance System with the focus on one-time
+insurance) with the aim of reducing fraud and the
+overall time and cost of insurance claims. It is built
+using modern Blockchain technologies such as
+Hyperledger Fabric and other centralized ones such
+as NodeJS/Express and MongoDB/CouchDB.
+
+Working experience:
+
+¢ Backend: development of an innovative Blockchain
+solution with Hyperledger Fabric and Convector
+Framework followed by other centralized
+technologies
+
+e Frontend: ReactJS, React Native in addition to lonic
+and Angular
+
+¢ Databases: CouchDB and MongoDB.
+
+Student Experience
+
+F} 2017-09 - 2018-11 9 PORTO, PORTUGAL
+Master's Degree in Informatics
+Engineering, Specialization in Computer
+Systems - Student
+
+Instituto Superior de Engenharia do Porto
+- 1 year with Ethereum Development and DApp -
+Truffle Framework:
+
+* 1 year with Ethereum smart contracts
+development, including Unit Testing with Mocha and
+Chai
+
++ 1 year of intense study about Ethereum Design
+Patterns, including the Oracle and the Ownable ones
++ 2 months with the various Ethereum testnets:
+
+Student Experience
+
+Ropsten and Rinkeby
+
++2 months with smart contract deployment
+- 1 year with ReactJS frontend development, including
+1 month of unit testing
+- 1 year of frontend with Bootstrap, SASS, and HTMLS
+- 2 years with Nodejs/Express.
+
+Education
+
+=} 2011-09 - 2016-06 PORTO, PORTUGAL
+Informatics Engeineering (Bacherlor's
+Degree)
+
+Instituto Superior de Engenharia do Porto
+
+The Bachelor's degree in Informatics Engineering at
+the /nstituto Superior de Engenharia do Porto was the
+first degree of its kind to be distinguished by the EUR-
+ACE quality certification.
+
+It includes a wide array of different computing areas,
+such as:
+
+¢ Object oriented programming
+
+¢ Unit testing
+
+¢ Web development (full stack)
+
+e Linux system administration
+
+¢ Video game programming
+
+¢ Artificial intelligence.
+
+The computing areas that interested me the most
+were:
+
+e Linux systems administration
+
+¢ Web development (full stack)
+
+¢ Object oriented programming.
+
+In my final semester, | chose to work on completely
+different technologies for the final internship/project,
+Projeto/Estagio (PESTI). The project aimed at
+developing and documenting a web application, from
+scratch, in order to enable chemistry students at ISEP
+to visualize a chart of their experiments’ data
+collected by multiple sensors attached to an Arduino
+board. In the course of this project, | had to learn
+more about:
+
+¢ Basic electronic circuits
+
+¢ Web development (full stack):
+- PHP (Laravel Framework)
+- JavaScript
+- Bootstrap, CSS and HTML
+
+1/2

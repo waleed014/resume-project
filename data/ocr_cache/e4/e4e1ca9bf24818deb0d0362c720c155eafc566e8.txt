@@ -1,0 +1,63 @@
+Electrical Design Engineer Mar 2012 - Apr 2015
+
+EDUCATION
+
+B.Tech in Electrical Engineering
+
+San Jose State University Ju! 2007 - Jun 2011
+© Overall Marks - 78.5%
+
+XlIth Std.
+
+Northeastern University Apr 2005 - Mar 2007
+e 12th Standard - 79.1%
+
+TECHNICAL SKILLS
+
+Electrical System Design & Power System Studies
+
+e Single Line Diagram & Interconnection Diagram
+
+e Load Flow Analysis, Short Circuit Studies using ETAP
+e Motor Acceleration Studies
+
+e Protection Settings and Relay Co-ordination
+
+Equipment Sizing and Calculation
+
+Transformer Sizing Calculation
+
+Cable Sizing Calculation & Selection
+
+Lighting Calculation using AGI-32/Dialux software
+Earthing Calculation
+
+Battery, Battery Charger & UPS Sizing Calculation
+
+Layout & Schedule Preparation
+
+e Substation Engineering: Equipment Layout, Floor Penetration Layout, Earthing Layout , Lighting Layout ,
+Cable Tray & Cable Routing layout
+
+Plant Engineering: Hazardous Area Classification Layout & Equipment Selection
+
+Earthing & Power Layouts along with MTO
+
+Lighting Layout along with MTO.
+
+Cable routing & Cable Tray layout along with MTO, Cable Schedule
+
+MR, TQ/TBE and Vendor Document Review
+
+e Datasheet Preparation of major electrical equipments like Transformer, PCC, MCC, Motor, UPS, Disribution
+Board
+
+e MR, Technical Query, Technical Offer Evaluation, Vendor Print Review of Electrical equipments
+
+e Co-ordination with Other Engineering disciplines
+
+SOFTWARE PROFICIENCY
+
+ETAP eeee0e SPEL @@eooo
+AGI32/DiaLux @e@eeoo Microstation @e@ee@eoodo
+SP3D/PDS @e@eooo SPR/NAVIS

@@ -1,0 +1,142 @@
+Jessica CLAIRE
+
+‘Montgomery Steet, San Francisco, CA 94108 # (555) 432-1000 # resumesample@example com
+
+PROFESSIONAL SUMMARY
+
++ SAP consultant with strengths in Supply Chain Management with expertise in the Material Management module and has extensive
+Inventory Management, Purchasing, Supply Chain Management, Warehouse Management, Production Planning and Sales and Distribution
+experience.
+
++ Strong understanding of end-to-end supply chain management with extensive exposure to Procure-to-Pay (P2P) and Source-to-Pay (S2P)
+activities
+
+‘+ Hands on experience with the integration points between FI, CO, PP, MM, SD and LE.
+
++ Experience of EDUALE & IDOC interfaces for various activities relevant to Purchasing and WM. Set up partner profiles, functional
+specifications for EDI interfaces and caried out smooth transition of data flow
+
++ Configured Warehouse Management (WM) Org and master data and integration of MM, PP, QM and SD (Logistics modules). Experience
+in configuring Picking & Putaway Strategies, Storage Units, Handling Units and RF Solution/SAP Console, Bar codeLabel printing,
+enhancement by linking WM/TM transactions, 2-Step Picking, Cross docking
+
+‘+ Hands on experience in RICEFW Designing, customized business process Reports and Forms for Purchase Order, Goods Receipt, Invoice
+‘and PO Condition Values. Designing Master Data Conversion objects for Material Master, Vendor Master, and Source List
+
++ Performed Unit Testing, Integration Testing and assisted end users in User Acceptance Testing to validate the business scenarios using
+quality tools such as HPALM.
+
++ Experienced in Post Implementation Production Support and training the end-users.
+
++ Excellent communication and analytical skills, and sound management experience which isa recipe for success on any mission critical
+development project.
+
+SKILLS
+
++ ERP Packages: ECC 6.0, EHP 7.0, SAPHANA, SAP S4/HANA —_» Document Management: SharePoint, SAP Solution Manager
+
++ ERP Modules: SAP MM/WMILE + MS Office Suite
++ Project Management & Process Designing: MS Project, ASAP SharePoint
+Project Methodology ‘+ SAP Netweaver BW
+
++ Test Management Tool: HPALM, HPUFT
+
+‘Work History
+
+‘SAP Supply Chain Analyst, 11/2018 - Current
+vient - Hickory, NC
++ Discount Tre is one of the largest retail Tire companies in US and I was bought into help the Supply Chain Team to help with the rollout
+of their new DCs and work improve their replenishment processes
++ Responsibilities:
++ Involved in planning meetings to understand the cuent replenishment process and identify Gaps to enhance the new process
++ Customizing ofthe Inventory Movements for receiving processes
++ Involved in improving physical inventory Documents respective to Storage Locations
++ Involved in configuring the bar coding projects for the new scanners introduced in the Shops
++ Customization of EDI Doc elements to meet the requirements
++ Involved in enhancing the Return to Vendor process
++ Configuration of new reason codes and outputs for Retum to Vendor for durable and Non-Durable Articles
++ Creating Knowledge articles to train the end users
+* Working on production incidents
+‘+ Responsible for various phases of Testing: Testing strategy, Test scripts, End user testing, Test plans and End user authorizations
+acceptance
++ Environment: SAP ECC 6.0, SVHANA, Fiori Launchpad, MM{P2P), Retail, Generic Services, MS Office Suite, HPALM, Portals, MS
+Excel, Service Now
+
+SAP MMULE Analyst, 05/2017 - 10/2018,
+ACE Technologies INC, Smithfield Foods — City, STATE,
+
++ Smithfield Foods is a $15 billion global food company and the world's largest pork processor and hog producer
+
++ This Project was a One SAP project and I was involved inthe implementation of SAP in their new acquisition which was Farmer John
+located in LA as wel as upgrade to $4 HANA for other plants
+
++ Responsibilities:
+
++ Involved in Business blueprints for Enhancements and identified gaps and suggested development work in SAP to overcome the gaps
+
++ Configured the Procureto-Pay (P2P) life cycle from purchase requisition, purchase order, Scheduling Agreements, Subcontracting orders,
+Goods Receipt
+
++ Defined and configured the Goods movement process form Plants to DCs
+
++ Designed unit testing for the entre procure to pay cycle
+
++ Responsible for performing eut-over activities in both MM and LE teams
+
+‘Responsible for designing training manuals and documents forthe key users and end users
+
+' Responsible for post implementation Go-Live production support by holding training sessions forthe users
+
++ Coordinating/Developed Test Cases for other End to End Processes such as OTC (Order to Cash), PTP (Plan to Produce)
+
++ Developed Test Cases/Scrpts to test the Interfaces between 3rd party systems with SAP such as ROC(WM) and ADC (Procuring and
+Production)
+
++ Actively participated with User groups to perform extensive User Acceptance Testing (UAT)
+
+‘+ Managing the Offshore team, guiding them to effectively to resolve Defects Tickets through Working Sessions Environment: SAP ECC 7.0
+‘Si4 HANA, MM(P2P), WM, LE, OTC'SD, Generic Services, MS Office Suite, HPALM, SharePoint, Portals, MS Excel, Service Now
+
+‘SAP SD/PP Testing Coordinator, 05/2016 - 04/2017
+Advansoft INC, Dart Containers ~ City, STATE,
+
+‘+ Dart Container Corporation, founded and headquartered in Mason, Michigan, sets the Industry Standard of Excellence inthe development,
+
+manufacture and distribution of innovative foodservice packaging solutions
+
++ Responsibilities:
+
++ Participated in Project meetings attended Inspection and Reviews meetings
+
++ Initiated conference calls to discuss issues originated while testing
+
++ Created Test scripts for various transactions under SD and PP modules
+
++ Created wide variety of test suites in Test Director and performed interface, functional, and regression testing of the UAT
+
++ Conducted testing for Sales Order functionality like number rages, Schedule lines, Incompletion logs ete
+
++ Conducted Functionality, Back-end and Regression testing during the various phases ofthe application
+
++ Coordinated with the Management and development team to understand business rules and workflow
+
+* Identified and
+
++ Performed User Acceptance test, ensuring that business processes are correctly mapped tothe system specifications
+
++ Analyzed user requirements, set up test environment, prepared test strategy and test cases.
+
++ Developed and executed Test Scripts, recorded test results and maintained errors and bug tracking using HP Quality Center (HPALM)
+
++ Used MS Excel in reporting the testing status
+
++ Environment: SAP ECC 6, SD, PP, Workflow, Adobe forms, Generic Services, MS Office Suite, HPALM
+
+EDUCATION
+
+ster of Science: Mechanical Engineering
+University of North Texas
+
+Bachelor of Science: mechanical engineering, 2014
+Jawaharlal Nehru Technological University Hyderabad (INTUH) - Hyderabad
+Resume: Jessica 4Page continued

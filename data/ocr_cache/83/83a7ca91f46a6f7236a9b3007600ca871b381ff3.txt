@@ -1,0 +1,116 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor ¢ (555) 432-1000 ¢ resumesample@example.com
+
+Summary
+2+ years experienced Salesforce Professional with hands on experience in every phase of Software Development Life cycle with Agile methodology involving
+onsite and offshore coordination. Good knowledge on the Salesforce platform Service Cloud, Sales cloud, SF Dev-Ops and Testing. Experienced in developing
+and executing custom applications using Apex, Visualforce, Lightning, Testing and and deploying using various deployment tools like Flosum. Experience in
+data migration and integration using Data Loader. Proficiency in SFDC Administrative tasks like creating Profiles, Roles, Users, Page Layouts, Record Types,
+Email Services, Approvals, Workflows, Reports, Dashboards. Good experience in designing of custom objects, custom fields, role-based page layouts, custom.
+‘Tabs, custom reports, report extractions to various formats. An effective team player who continuously seeks opportunities to master new domains and willing to
+work in a challenging and cross-platform environment.
+
+(CERTIFICATIONS
+Salesforce certified PLATFORM DEVELOPER - I
+Salesforce certified ADMINISTRATOR
+FLOSUM certified SFDC deployment professional
+EXPERIENCE
+
+Salesforce Developer, 05/2019 - 12/2019
+Deloitte & Touche L.L.P. - Salt Lake City, UT
+Salesforce Developer with the following responsibilities
++ Refactoring, Optimization and Bulkification of triggers for multiple objects
++ Developed REST APT's for Integration with Google Maps using the Google Geo Coding APT
++ Developing Batch Apex to deal operations with bulk data like 40,000 records
+* Creating and maintaining custom dashboards using Einstein Analytics
++ Designed Junction objects and implemented various advanced fields like GeoLocation, Custom Formula Fields, Field Dependencies, Workflows for
+automated alerts, Field updates and Email generation as per Business needs
++ Configuring and using Flosum for Continuous Integration and Continuous Deployments
++ Automating several regular activities using Process builder
++ Developed Apex classes with Location based SOQL queries
+Salesforce Developer Intern, 12/2018 - 05/2019
+‘Syngenta Global - Stanton, CA
+Establishing the Integration of Salesforce with AWS using Amazon connect and CTI Adapter
++ Developing several web services (REST and SOAP) for exchange of various data with AWS
++ Developing Apex classes for the custom functionalities
++ Developing Custom Lightning App for hosting the call center application
++ Creating multiple Visual Force pages and Apex controllers for their back end activity
+* Creating process builder flows and Email triggers using them
+* Creating multiple Anatytics dashboards for the entire system using Einstein Analytics
++ Integration with mule soft for the continuous polling of data between AWS and Salesforce
+« Integration with Twilio SMS for sending text messages to Mobile
++ Developed chat-bots using Einstein bots for answering the FAQ's without any human intervention
++ Develop Algorithms using Einstein prediction builder for offering products to the customer based on the recent transactions using AI
+Salesforce QA Intern, 01/2018 - 12/2018
+Sreeven Infocom Ltd City, STATE
+‘+ Understanding the requirements given by the client and clarify If there are any requirement gaps
++ Designing the test plan, test scenarios and test cases as per the IEEE standards covering all the requirements given
++ Executing the test cases designed and finding the defects and updating them in the tracking tools
+
+Sxauts
++ Apex Programming + Apex Triggers
+
+« Salesforce Lightning Web Components(LWC) + Salesforce Reporting and Analytics
++ Salesforce Lightning(Aura) Components, + Approval Process
+
++ SOQLISOSL - SFDC Security/sharing + Reports/Dashboards
+
++ Einstein Analytics + Maven build too!
+
++ Apex Web Services(REST and SOAP) + Data Loader
+
++ SFDC Data Migration + Workbench
+
++ Visualforce + VS code IDE
+
++ Validation Rules ‘+ Force.com IDE on Ectipse
+
+© Workflows
+
+Acapemic PRozects
+
++ Portfolio Website: (Web Data Management Project) September 2019
+
++ Designed and coded a website using HTML,CSS,JS,PHP and also designed a relational database system MySQL to generate dynamic content from the
+database.
+
+* Created an admin panel which contains HTML forms,which allows the admin to modify, add or delete the info and pictures through front-end dynamically.
+
++ The website was also implemented on LARAVEL framework with MVC pattem and also deployed on cloud.
+
++ End-End Development of Event Management System Applications: October 2020,
+
++ Developing Web Application using Java and JSP.
+
++ Performing Unit Testing
+
++ Performing Validation testing using JUNIT.
+
++ Performing BackEnd Testing on Web Application.
+
++ Selenium Testing on Web Application Cloud Computing coursework November 2020.
+
+‘+ Developed programs on the cloud computing platform SDSC Comet, which is part of XSEDE.
+
++ The focus of this course was on data management techniques and tools for storing and analyzing very large amounts of data.
+
++ Topics covered include: cloud computing: virtualization: distributed file systems; large data processing using Map- Reduce:
+
+EDUCATION AND TRAINING
+Master of Science: Computer Science, 12/2021
+
+The University of Texas At Arlington - Arlington, Texas,
+
+Bachelor of Science: Computer Science, 05/2019
+
+PES University
+
+Acrivimtes aNp Honors
++ Received Stellar award twice at Sreeven Infocom Ltd for professional excellence in my team.
+
+‘+ Contribute to Practice in Presales and helping other project team members as and when required.
+
++ Organized several campus recruitments for hiring fresher's in different Colleges and Universities on behalf of Sreeven Info Services Pvt Ltd.
+
++ Organized various CSR, sports and cultural activities as part of employee engagement activities both intemal and external to the organization.

@@ -1,0 +1,209 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS.
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10% Floor E (555) 432-10 4 resumesample@example com
+
+‘+ 9+ years of experience in designing, developing and testing middleware applications using WebSphere
+Message Broker, WebSphere MO, OataPower and MuleSoR ESB.
+
+‘+ 4+ years of experience in appicaton integration using Mule ESB, ClousHub, Anypoint Studo, Anypeint
+Pattorm
+
+‘+ Huge experience in using Mule Soft Studio that integrates API, databases and SaaS applications and
+‘deployed Mule Soft applications to Cloud Hub and on-premise servers.
+
+‘+ Uitie Mutesot features ke Oata Weave, AP designer and various connectors to ensure robust and
+loosely coupled integration layer everytime.
+
++ Good experience in iL. technologes tke XS, XSLT, XQuery, and Xpath for data transformations in
+Muleson
+
+*+ Good experience in securing midaleware infrastructure (SAML, OAUTH, and LDAP).
+
++ Good experience in using ActiveMO, AWS Suite for Asynchronous message queuing for guaranteed
+‘iessicavery pattem
+
+Develop message fows and inplement data transformation using XSLT, ESQL and Java,
+
+‘Create XSD and WSDLS for implementing Web services n Message broker.
+
+Profcent in automated deployment using Jenkin, GI/SVNCVS, Artfact.
+
+‘Experience in RESTFUL cent oinleract wh the services by the RESTFUL URL mapping.
+
+Proficient both n Agile and Water al software development methodologies
+
+rofcent in creating reusable shel serps, Python and Ruby septs
+
+In-depin understanding of Data Structures ana Aigorthms.
+
+Responsible for al aspects of development incuaing Performance Tuning, Fault Tolerance, Upgrades
+
+‘and Deployment of Midalevare infrastructure.
+
+‘+ Excelent understancng of ul Sofware Development Life Cycle
+
+‘+ Excelent communication sts and motated organized team player with high aptitude for learning and
+Implementing
+
+‘+ Good experience in monitoring application and troubleshooting production ives.
+
+‘+ Excetent communication stils and motvated organized team player with high aptitude for learning and
+
+Implementing
++ Software Decumentation Control ‘+ software Development Standards
+‘+ APIDesign and Development ‘+ JS Frameworks: React, Angular, Wue
+‘+ ROMS Development and SQL ‘+ Object-oriented Programming (OOP)
+‘+ Data Storage and Retrieval “+ Databases: Orace, MongoOB
+MULESOFT DEVELOPER (0872021 19 CURRENT
+
+Skil Storm | Jersey City, NJ
+
+‘+ Create MULE ESB arttact ana conigured tne MULE conriguation fles and deployed
+
+‘+ Automate bud and deployment package tol using Maven and buld the code in Jenkins
+
+‘+ Create RAML based REST web services APIS using Mule ESB
+
+‘+ Ad the nexus repostory deals n pom nto import the al dependencies when Jenkins bulla the
+application and deploy the appicaton into cloud hub
+
+“+ Wite Munt test cases to vada the Mule fs,
+
+‘+ Create tne integration worklows using MuleSoR ESB.
+
+‘+ Worked with integrations using connectors such as Sale force, Database, JMS, Actve MQ, HTTP. FTP,
+‘SFTP and File Connectors
+
+“+ Partcipate in creating HTTP inbound & outbound fos and orchestration using XPath using MULE ESB.
+
+‘+ Used Cioue Hub console to monitor the request and response payload
+
++ Create cuter envionment using Mule ESB vith Mule Any Pont Stusio and Creating Active MQ vith
+<terent topologies in Enterprise integration
+
+‘+ Contigure the Mule process for fetching the data trom topic and makes web service cls to the middle
+tier Mule ESB for processing and put the data onthe Cloud nub.
+
+‘+ Implement data transformation using XPATH, XSLT, Data Weave, Custom java classes
+
+‘+ Used Bitbucket and GIT repository to run the Jenkin job fr Continues integration
+
+‘+ Create and consume SOAP and REST services using CXF and used Anypoint Studo to route various
+valdating the Fine-grained securty based on the API consumer for generating token fo invoking
+sences.
+
++ Used wth transformers, exception handing, testing & Securty of Mule ESB endpoint through OAuth,
+
+‘+ Use Mule ESB connectors- SFOC, Message Transformer, Choice Exception Strategies, Batch
+processing etc. n designing the application as a midcleware between the tira-party system andthe
+Customer side system.
+
+“+ Fol agie metnodology and Serum ana was invtved in application design and paripated in
+technical meetings, Effort estimations, backiog grooming etc
+
+‘+ Design, develop test, maintain and implement application integration system enhancements working
+th in estabished processes.
+
+Environment: MuleSoft ESB 3.14.1, JAVA, ActiveMO, RAML, Nexus, Apache-Maven, Cloud Hub,
+Nexus 2.11.4 (Nexus Maven Repository) Bit Bucket, XML, XSLT, LDAP, MS SQL, Logéu, Git, Web
+Services, Jenkins, Anypoint Stualo 6.57.5.
+
+AFCOEVELOPER 0372078 10 08/2021
+Leidos Holdings In. |Peachtree Corners, GA
+
+‘+ Arcitected Integrations using Mule ESB environments for both on premise and ClousHuD
+‘environments.
+
+‘+ Usea MMC (mule management console to montr the request and response payload),
+
+‘+ Have writen MUnt est cases to vakdate Mule Tow,
+
++ Used ANT scrips te bud tne application and deployed on Oracle WebLogic Server and implemented
+‘WebLogic custer and Node manager
+
+‘+ Implement the application using spring modules includes 10C, AOP, Batch and MVC
+
+‘+ Actively Involved in designing and implementing Business Delegate, Data Access Object, and Session
+Facade and Oata Transter Object design patterns.
+
+‘+ Design and develop Message driven architectures that consumed the JMS messages trom the Java
+‘message queue and process tne database updating and conversion.
+
+‘+ Design and implement the application in Agile ~ methodologies
+
+“+ Develop mile ter business logic using Spring based transaction managers.
+
+‘+ Used Logéito capture the fog that includes runtime exceptions, monitored error logs and fed the
+
+problems
+
+‘Used SVN the version control too for cade commit and update
+
+‘Used Auto wired POUO and DAO classes wn Spring Controlers ana services.
+
+Used Mule Flows with Data Mapper to customize XML to CSV mapping conversion.
+
+Developing and securing CXF web services in Mule ESB.
+
+Used Angular JS as development tramework to bud Single Page Appcaion (SPA).
+
+Handled the back-end operations using SQL, PLISGL, Stored procedures, triggers and developed the
+
+persistence structure using ORM based Hibernate.
+
+‘+ Used Mule €S8 for routing tering and aggregate message between appicaton based on content and
+rues,
+
+‘+ Settng up Mule €S6 for he development envionment.
+
+‘+ Create MULE ESB arttact and configured the MULE configurations fles and deproyed.
+
+‘+ Implemented Web Series using SOAP protocol, UDDI, WSDL and Service Onented Architecture
+(SOA) Concept
+
++ Design and development of use ntertaces using JSP, HTML, CSS, JavaScript and AIAX.
+
+‘+ Developed Sal Queries using Toad for Oracle
+
++ Develop Mule ESB projects forthe services wih synchronous and asynehronous Mule flows
+
+Environment: Mule ESB 2.0.x 3.8.x, Anypoint Studio 6.0, Cloud hub, Putty, Apache-Maven, Filezila,
+Nexus, RAML, MUnit, API, AJAX, XML, JAXP, JAXB, JSP, HTML, C88, SQL, JUnit, PLISOL, JavaScript,
+Web logie, Oracle, MOB, SOAP Ul, SVN, Windows XP & Linux, Java 1.6, Spring, Hibernate, Web
+Services.
+
+PYCHON DEVELOPER 0672016 10 0972018
+Novogradae & Co. Lip| Naples, FL
+
+‘+ Design and develope Use-Cases, lasses and Object Diagrams using UML. Rational Rose for Object
+‘Oriented Design techniques,
++ Participate in develop the REST Web services o expose the business metinods to extemal services in
+the projet.
+‘+ Responsive for gathering requirements, system analysis, design, development, testing and
+‘ployment
+‘+ Develop user interface using CSS, PHP, HTML, JavaScript ana JQuery
+‘+ Wnte Pytnon modules to extractioad asset dala om the MySQL source database
+‘+ Work on frontend frame works ike CSS, Bootstrap for development of Web application
++ Create a Git repostory and added tne project to GitHub
+‘+ Design and implemented a dedicated MySQL database server to crive the web apps and report on daly
+progress.
+‘+ Create views and templates wth Python and Ojango's view controter and templating language o create
+2 usertendly webst interface.
++ Used Punt the Pyton unt test framework. for ll Python applications.
+‘+ Callaborate with internal teams and extemal teams to save the issues and gving feedbacks.
+‘+ Document te problems and progress of project most accurately
++ Colaborat wth team during testing of data warehouses.
+Environment Python, MySQL, REST Web Services, JavaScript, Eclipse, Linux, Shell Scripting,
+‘JQuery, GitHub, JIRA, GIT Django, HTMLSICSS.
+
+Bachelor of Science | Computer Science
+Sample

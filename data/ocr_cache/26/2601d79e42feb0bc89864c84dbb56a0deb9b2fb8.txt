@@ -1,0 +1,92 @@
+Robert Smith
+
+PL/SQL Developer
+
+PERSONAL STATEMENT
+Cracle PL/SOL Developer with over 8 years of experience inthe fled of
+software development. Experience in Perl, Oracle and Unix Expertise in
+financial Industries based applications including trading systems. Excellent
+database knowledge on RDBMS ike Oracle, SQL, PL'SOL Solid experience in
+Pet! programming using with JavaScript and Html. Experience in Oracle SOL
+‘queries and PL/SQL scripts, procedures, functions, triggers and packages
+‘and query optimization.
+
+WORK EXPERIENCE
+
+PL/SQL Developer
+Jpmorgan Chase - July 2013 - Present
+Responsibilities:
+
++ Involving in database developrnent by creating Oracle PL/SQL functions,
+procedures, tiggers, packages, records, and collections,
+
++ Creating database objects like SQL queries, tables, joins stored
+procedures using Oracle utlities ike PL/SQL, SQL plus, SQL server
+
++ Involving in performance tuning for complex SCL queries using explain
+plan tables, collections, and table parttions to optimize performance,
+
++ Generating SQL and PLISOL scripts ta create and drop database objects
+Including tables, views, primary keys, Indexes, constraints, packages,
+sequences, grants, and synonyms.
+
++ Involving in application enhancements according to user requirements,
+
+* Building physical data structures like tables, views, constraints &amp;
+Indexes.
+
+‘+ Working with SQL loader and control files to load the data in diferent
+schema tables,
+
+Oracle PL/SQL Developer
+‘ABC Corp - 2010 - 2013
+responsibitties:
++ Conducted database administrative work to support the production
+system
++ Provided support for Q& and Development systems.
++ Identified opportunities to fine-tune and optimize database systems.
+Designed, coded, arid tested the technical solutions.
++ Identified the system deficencies and recommending solutions
++ Met aggressive development deadlines and schedules.
++ Worked assignments to members of the team, and monitoring their
+workload.
+
+Education
+
+Master Of Computer Application - 2009 (Maharshi Dayanand
+University Bachelor Of Science - (Maharshi Dayanand University )
+
+(Ths Ema Resume Temlate the copyright ot Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+Infoequikresurne.com
+wwqwikresume.com
+
+‘SKILLS
+Microsoft Project, ms
+Excel, MS Access, TSQL,
+S515, S5RS, MS Visio,
+Unix Shellert Script
+
+LANGUAGES
+
+English (Netive)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Coking
+Reading
+
+REFERENCES
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

@@ -1,0 +1,54 @@
+First Last
+
+Bay Area, California * +1-234-456-789 * professionalemail@resumeworded.com * linkedin.com/in/username
+
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY Jun 2018 — Present
+QA Manual Tester
+e Enabled critical test case complexity metrics with support for Rapid adoption of functional automation using
+a scriptless test case adaptor by standardizing a Test Case construction method that was built
+Automation-ready & supported a test automation framework leading to a 45% increase in reusability with
+reductions in TCO approaching 25%.
+@ Optimized scripting, modularity, & maintenance which resulted in an 18% decrease in workflow friction.
+e Increased the company’s ability to take and complete projects without increasing manpower by 15% by
+reducing QA testing turnaround time by 30%.
+
+Growthsi, New York, NY Jan 2015 — May 2018
+QA Manual Tester
+e  Restructured utilities & improved the process documentation leading to a 40% reduction in client support
+tickets & an 80% increase in uptime.
+e@ Achieved department-wide improvement metrics based on QA scorecard through the 46% & 22% workload
+reduction of the customer support & IT departments respectively.
+@ Standardized Test Plan, Test Scripts/Test Cases, Daily Status Reports, etc., documents leading to a 20%
+increase in productivity.
+e Established monthly sprint backlog items as well as performed agile meetings while updating the activities in
+Microsoft TFS in an optimized manner which resulted in saving 10 hours of monthly lost time.
+
+RW Capital, San Diego, CA May 2008 — Dec 2014
+QA Manual Tester (Nov 2011 — Dec 2014)
+
+@ Optimized the build process by increasing the system’s quality level and reducing 45% of defects found.
+
+e Established proper team communication that identified, triaged, reproduced, & fixed found issues using JIRA
+
+increasing the overall workflow by 25%.
+
+Junior QA Manual Tester (May 2010 — Oct 2011)
+@ Wrote & optimized test scripts in towels which led to a 9% reduction in the overall testing hours.
+© Created traceability matrix to fill in the gap between requirements and tests covered contributing to the 10%
+increase in test case count.
+
+EDUCATION
+
+Resume Worded University, San Francisco, CA May 2010
+BSc. Computer Science
+
+SKILLS
+
+e Test Automation e Microsoft TFS e TestNG e Source Versioning
+Frameworks e  CharlesProxy e JIRA © JUnit
+
+Java ¢ =SQL/NoSQL e Jenkins e = Scrum
+
+e Javascript e = Selenium/Webdriver e Agile .

@@ -1,0 +1,171 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 @ (655) 432-1000 ¢ resumesample@example.com
+
+Accomplishments
+« Experience in SAP ECC6.0/ECC5.0 SAP Netweaver 2004 and 2004s implementations and installation of SAP Enterprise Portal 6 on Web AS
+6.40, BW 3.5/BI7.0, and R/3 systems.
++ Completed the HA100- HANA Introduction Course.
+
+Professional Summary
+
+SAP Basis professional working in highly-crtical, worldwide production environment. Strong technical and organizational skills, with an all-
+time focus on system availability and customer satisfaction. “In-depth knowledge and understanding of SAP installations and upgrades,
+configuration, administration and troubleshooting,
+
+Skills
++ SAPR34.06/7, ECC 5/6 + Solution Manager 4.-0/7.0
++ Net Weaver 04/045 (WAS6.2/6.4/7.0), EHP4/5 XUPI3/7. + Enterprise Portal 5/6/7 ESS/MSS
++ Windows and Linux + SAP HANA Introduction
++ System upgrades + Excellent communication skills
++ System backups + Enterprise technologies
+
+Work History
+
+Senior SAP Basis Administrator, Current to Current
+‘Amick Brown, Lle
+
+‘+ Manage large SAP technical teams consisting of offshore Basis professionals.
+
+++ Performed Installations of ECC, Solution Manager and CRM Systems and Prepared the Plan for implementing support pack stack in
+Production, Development & QA Systems.
+
+++ Performed ECC 6.0 Administration - Daily system checks, DB and application tuning, Monitoring SLD logs and Maintenance by updating
+Kernels, Support packs, Installation of enhancement packages and SAP notes.
+
++ Security Administration - Provided User Management support User Creation, deletion and user locks, Set-up SAP authorization profiles and
+roles, Use SUO2 to examine authorizations in existing roles to identify improper authorizations, Maintenance of User Master Record &
+Support End Users with Security issues, Restrict open authorizations to sensitive Transaction codes, Extensively used SU53 and STO1 for
+analyzing the authorization errors.
+
++ Work with the development and functional teams to promote changes through the environment,
+
+++ Performance monitoring, Report Creation, short dumps, Health checks, Root cause analysis, issue resolution and fine tuning.
+
+Senior SAP Basis Administrator, 2010 to 03/2012
+‘Amtick Brown, Llc— Norcross, GA
+
+‘* Provided SAP Basis Support for existing production ECC, Pl and SRM Landscapes.
+
++ Worked on resolving day to day Production issues.
+
++ Involved in splitting the Central Instance and the Database Instances on different hosts and configure the systems correctly.
+
++ Worked on Service tools and Kernel upgrades for SAP servers.
+
++ Worked on Installation of Solution Manager System Ehp1 and configured the system to enable Early Watch reports and Maintenance
+
+Optimizer Solutions.
++ Worked on setting up the Transport Manager tool from Realtech for Apache's landscape.
+‘+ Worked on Setting up the Monitoring tool Cisco Tidal to monitor systems in the landscape.
+
+Senior SAP Basis Consultant, 06/2009 to 11/2009
+Seal Consulting
+
+‘+ Provided SAP Basis Support remotely from Houston for client based in San Diego.
+
++ Worked on the Installation and Configuration of ECC 6.0, SAP Solution Manager, BI7.0 and Portal Systems.
+
+‘+ Configured SAP Solution Manager Early watch monitoring and connected all the systems in the environment to the SolMan for monitoring.
+
++ Configured Central User Administration on Solution
+
++ Installed the EP7.0 System and Worked on the configuration of the Business packages, creating System aliases and assigning portal roles to
+
+the users in DEV/QA and PRD environments.
+
++ Worked on the installation of BI 7.0 System and activate the content in the Workbench Administrator.
+
+‘+ Configured the connections for Portal to connect with the Backend ECC system and also the BI System.
+
++ Responsible for daily security checks, monitoring unsuccessful logons and active users.
+
+‘+ Applied the support packs and plug-ins to make the system up to date using SPAM/SAINT.
+
+Senior SAP Basis/Security Consultant, 07/2006 to 05/2009
+Hitachi Consulting - City, STATE
+« Installation and maintenance of all Hitachi Consulting internal SAP systems as well as providing SAP Consultant user access, messages to
+SAP and facilitating consultant training,
++ Installed VMWare and set up virtual environments including the installations of guest operating systems and applications.
++ Extensive work on R/3 authorization model (PFCG, SU24, SU25, SUO1, SM30, SM01, SEO1, SU21, SUIM).
++ Worked on the installation and configuration of ECC6.0/5.0, BI 7.0, Enterprise Portal 7.0/ 6.0 on Web AS 7.0 and 640 and Solution manager
+Systems.
+‘* Provided Basis Administration Support in maintaining SAP Systems for various clients.
++ Performed upgrades for SAP kemels, support packages, O55 notes application, and other system corrections.
++ Worked on Password management control through Instance Parameters via RZ10, RZ11.
+‘+ Optimized the technical performance characteristics of the SAP environment including OS, database, application servers, programs, and
+
++ Creating and maintaining user authorizations, roles, and profiles for SAP R/3, BW, APO and SEM.
+
+‘+ Created BW User IDs and Authorizations.
+
++ Worked on the installation and configuration of Enterprise Portal 6.0 on Web AS 640 and the business packages for ESS, MSS, Best Practices
+for EP.
+
+«+ Performed weekly health-check and system tuning through SAP Solution Manager Early Watch Alert reports.
+
++ Worked on creating MM/F/PM/PR/PO roles and profiles and assigning roles to users in the backend system.
+
++ Also worked on resolving several security related issues by using SUS3, SU24 and authorization traces.
+
+‘+ Created custom portal content ( iviews, pages, worksets and roles) for several portal dashboards for the client.
+
+‘+ Worked on the installation of Solution Manager system and the implementation of Solution Monitoring of the System Landscape using the
+SAP Solution Manager.
+
++ Also worked on an Upgrade project from 4.0b/MSSQL7/WINNT to ECC6.0/MSSQL2005/WIN 2003.
+
+‘SAP Basis/Security Analyst, 05/2005 to 07/2006
+Deloitte Consulting LLC - City, STATE
+
+‘+ Responsible for the installation and maintenance of pre-production R/3, CRM, BW, and Solution Manager Systems, also installed SAP
+Enterprise Portal 6.0 on Web AS 6.40 and SQL Server installation.
+
+‘+ Supported production R/3 (ECC5.0, Enterprise 4.7 Unicode, WAS 6.20), CRM (3.1), BW 3.1 Unicode and 3.5), and Solution Manager (3.1
+Unicode) systems and their associated development, QA, staging, conversion, and training systems.
+
++ Provided SAP Basis (R/3, CRM, BW, Solution Manager, ITS) support throughout all phases of SAP projects.
+
++ Was involved in setting up and maintaining R/3 Central User Administration and Single Sign-On (including LDAP connectivity).
+
++ Create and modify Single roles, Composite roles and Derived roles.
+
++ Creating roles using profile generator.
+
++ Performed analysis of SUS3 and SU56 user analysis as well as setting up and analyzing user traces.
+
++ Provided support in the area of application integration, database, network, and UNIX system administration throughout all phases of the
+
+jects
+
+« Trvolved in the planning execution, monitoring, tuning and presentation ofa Pre go-live performance/stes tet.
+
++ The effort yielded significant performance gains and facilitated a smooth go-live cutover.
+
++ Formulated the system landscape, change management and transport system strategies to meet dynamic business requirements while
+achieving stability and consistency among systems.
+
++ Configured and maintained the transport management system.
+
+‘+ Used 13 profile generator (PFCG) to create, generate, and assign authorization profiles to users.
+
++ Worked with user information systems to update and modify the profiles and assign users to the updated activity group.
+
+Education
+Master of Science: Computer Science, 2003
+University Of Tulsa
+Computer Science
+Bachelors of Science: Computer Engineering, 2001
+University Of Madras - Chennai
+Computer Engineering
+Certifications
+‘+ IBM Certified System Administrator - WebSphere Application Server V5.0
++ IBM Certified Systems Administrator Web sphere MQ V5.3
++ IBM Certified AIX p-Series System Administrator.
++ LPI Certified Linux Professional.
+
+Additional Information
+‘+ NSTISSI Certificates : National Security Telecommunications and Information Systems Security Committee No. 4011: Information Systems
+
+‘Security Professional, No. 4012: Designated Approving Authority, No. 4013: Administration in Information Systems Security, No. 4014:
+Information Systems Security Officer.

@@ -1,0 +1,61 @@
+Robert Smith prone 23) 4567090
+
+Email Infocawikeesume,com
+Website wont, quikresuime, com
+Linkedin: linkedin.com/quikresume.
+‘Address; 1737 Marshullle Road, Alabarna
+
+Java Software Developer
+
+SUMMARY
+
+‘To continue a challenging and rewarding career that offers the opportunity to utlize knowledge as
+a java Software Developer.
+
+SKILLS
+
+Javascript, HTML, CSS, Java, SQL, Angular)s, JQuery, PHE.
+WORK EXPERIENCE
+
+Java Software Developer
+Papajohn's international - December 2015 - 2020
++ Consulted with client groups to gather inforrnation about program needs, objectives,
+
+functions, features, and input/output requirements
+Developed RESTIul web Services tsing, JOK 1.7, JOK1.8, Spring Web MVC, and Spring Boot
+allowing clients CRUD operations to exposed resources,
+Designed and developed User Interfaces, using JavaEE6, HTML, and JSP frameworks,
+Converted designs and specifications Into code
+Complied code and correct errors detected in the cornpllation process
+Analyzed code to find causes of errors and revise code,
+Tested code using a structured testing methodology, corfirn programs rest specications
+
+Java Software Developer
+Delta Corporation - 2014-2015
+Work with team on designing and implementing new product functionality from software
+requirements, using java 7, Spring 4 Using Eclipse, Maven and Subversion,
+Develop servietbased web applications with MVC module using Spring 4 Framework Create
+Controller objects for processing request, validator objects for valation and command object
+for storing form data,
+Design and bulld Selenium Grid infrastructure for QA testing group, using Selenium Grid
+Jenkins plugin, Selenium 2 Webbriver, Jenkins continuous Integration platform, |SON and
+Maven
+Design virnial nodes on Selenium Grid using JSON earfiguration Format, which provide Grid
+with immediate metodata to implement direct access to nodes which allow distributed
+processing or testing on multiple 0/5 and brow sers,
+Integrate Selenium Grid ita Jenkins platform with virtual nodes used for distributed testing
+and worked with continuous integration group to Configure best practice bullds and deploys ta
+SNAP and Production servers;
+
++ Utilize Subversion, Eclipse plugin as main versioning repository for the Development aroun,
+Implemented creating branch from trunk, checked out branch, develop andjor refactored
+Code, wrote unit to test new code, committed code changes to branch, checked out copy of
+trunk, Ifnecessary modified new tag number for version, merged new code changes rom
+branch Inte trunk, committed trunk with code changes to repository.
+
+Resolve assigned software defects and pushed back through build and deploy process.
+
+EDUCATION
+BAA, in Philosophy with Computer Science Minor - (Spelman College Atlanta, GA)
+
+(0 This Era sume Tamla is the copyright of Onakesume com. Uso Guldatns

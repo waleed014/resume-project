@@ -1,0 +1,105 @@
+JEssica CLAIRE
+
+‘Montgomery Steet, San Francisco, CA 94105 ¢ (555) 432-1000 ¢ resumesample@example com
+
+SusMaRY
+
+Kristy Claie is a precise, detail oriented corporate professional with 15 years’ experience inthe P2P arena. She is experienced in Aribal
+‘SAP product implementations and upgrades, Kristy has expertise with products in the Ariba Enterprise Spend Management suite with a focus
+on products related to Sourcing and Analysis as well as the Ariba Network and, most recently, SAP Supplier Relationship Management (SRM).
+‘She is skilled in change management planning including communication, testing, and training plan development. Kristy has a proven ability to
+‘manage functional design test plan development and execution, training development and facilitation, and managing vendor relations.
+
+HIGHLIGHTS
+
++ SAP Expertie: MM, PM, PtA, SRM
+
++ Ariba Expertise: Sourcing, Contracts, Supplier Performance!
+Relationship Management, Analysis, Buyer, Ariba Network
+
++ Procurement Expertise: Materials, Services, Catalogs
+
++ Change Management: Test Plan Development / Execution,
+Communications, Training Development / Delivery
+
+EXPERIENCE
+
+Business Process Lead SAP SRM Implementation, 1/2012 - Current
+Charter Spectrum - Murfiesboro, TN
++ Defined and facilitated design of functional requirements for SAP SRM supplier collaboration and RFQ functionality (as-is vs to-be
+processes)
++ Collaborated with technical team to coordinate system changes, enhancements and issue resolution
++ Led user acceptance testing for North America region; developed user testing plans and requirements; executed user acceptance testing
++ Identified training requirements; developed training courses for intemal / external users (User Productivity Kit (UPK) software); delivered
+user training to North America region Provided post golive support to end uses; issue management & reporting
+
+‘Supplier Enablement Lead, 062012 - 102012
+Toyota ~ City, STATE,
++ Managed supplier onboarding process for business commerce utilizing Coupa software
++ Led supplier information improvement project designed to facilitate Coupa enablement
+
+Ariba Central Admin Team, 05/2012 - 08/2012
+BP - City, STATE
++ Designed and implemented a supplier relationship management (SRM) process utilizing Aiba SRM functionality
++ Gathered requirements and assisted in design testing fr tol used to track ticket requests within Procurement (Salesforce)
++ Designed a process to Clairele data gathering forthe loading of legacy contract data into Ariba Contracts module
++ Claireled change requests within Ariba Sourcing and Contracts
+
+‘Communications Lead SAP Upgrade, 09/2011 - 11/2011
+ExxonMobil Global Services Company ~ City, STATE
++ Responsible for execution of communication plans related to SAP vpgrade
++ Collaborated with communications network on the creation of upgrade communications to intemal/extemal users for the US and Canada
++ Coordinated with business lines to ensure timely release of intemal/extemal communications
+
+Upstream Functional Design Lead - Ariba 9r1 Upgrade, 09/2009 - 08/2011
+ExxonMobil Global Services Company ~ City, STATE
++ Led functional requirements gathering and documentation of design for Arba Sourcing & Analysis per busines guidelines
++ Developed gap analysis to facilitate as-is vs. to-be processes
++ Collaborated with technical team to coordinate system changes, enhancements and iesve resolution
++ Managed user acceptance testing
++ Designed and coordinated training module production
+
+‘Supplier Enablement Team Lead ~ Ariba Network , 08/2007 - 08/2009
+ExxonMobil Global Services Company ~ City, STATE,
+* Managed team responsible for targeting and onboarding suppliers for business commerce on the Ariba Network
++ Developed and stewarded communication plan for targeted suppliers
++ Coordinated and facilitated supplier forums introducing the purchase to pay process tools
++ Developed training modules for intemal/extemal users
+
+Business Venture Manager Upstream Process Change, 02/2006 - 07/2007
+ExxonMobil Global Services Company ~ City, STATE
++ Defined and facilitated design of functional requirements for Aiba Sourcing & Analysis
++ Collaborated with technical team to coordinate system changes, enhancements and iesue resolution
++ Developed and stewarded execution of communication, testing, and training plans
+
+‘Change Management Team Lead Upstream Upgrade, 06/2004 - 01/2006
+ExxonMobil Global Services Company ~ City, STATE
++ Designed and implemented global change management program including communication and traning strategies related to an upgrade of
+Ariba Sourcing & Analysis tools
++ Developed training materials and supported global end user traning
++ Managed power user network
+
+Enablement Center Team Lead, 2004 - 05/2004
+ExxonMobil Global Services Company ~ City, STATE,
++ Facilitated utilization of new systems technology within the procurement organization
++ Managed training program coordination for Ariba Sourcing & Ariba Buyer products
++ Served as procurement global operations webmaster
+
+Procurement Services Advisor / Ariba Upstream Lead, 05/2001 - 11/2003
+ExxonMobil Global Services Company ~ City, STATE
+‘+ Managed 23M contract portfolio of services such a air courier, cellular, onlin subscriptions, multimedia, and consulting
++ Worked closely with legal, audit, tax, treasurers, and risk management to ensure compliance with control requirements
++ Performed system testing / quality assurance for Ariba Sourcing product
++ Coordinated training team and facilitated instructor led training for global launch of Ariba Sourcing product,
++ Managed on-going training program for employees new to procurement and provided functionality support to end users
+
+Epucation
+Bachelor of Science: Business/Operations Management, 2001
+Indiana University - Bloomington, IN
+Minor: German
+SKILLS
+
+go live, Automotive, Business Process, Catalogs, Change Management, Consultant, Consulting, Contracts, documentation, focus, Functional,
+instructor, Team Lead, egal, multimedia, Enterprise, Network, Oil, plan development, processes, Procurement, quality assurance, Relationship
+Management, reporting, requirements gathering, risk management, SAP, tax, user training, Training Development & Delivery raining
+materials, training development, upgrades, Upgrade, Upstream, webmaster

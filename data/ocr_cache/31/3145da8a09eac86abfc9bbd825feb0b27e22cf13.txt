@@ -1,0 +1,81 @@
+Rhett Rodriguez
+360 Gino Shoal, Philadelphia, PA @ Phone: +1 (555) 160 8796
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR .NET APPLICATION DEVELOPER
+New York, NY
+07/2015 — present
+‘* Develops Self and Others: Invests time, energy and enthusiasm in developing selffothers to help improve
+performance and gain knowledge in new areas
+‘* Works with other developers and business analysts to develop and write applications systems and
+programs
+‘* Ensures development of coding guidelines and best practices & standards, ensuring compliance to the
+developed coding standards from all developers on the team
+Ensure quality by establishing and enforcing development standards
++ Provides clear, consistent, regular communication with all project stakeholders at all levels, including
+presentations to senior management, creating agendas and meeting minutes
+‘* May assist the Application Manager (or Director) in the creation of project plans
++ Collaborate with and takes direction from Technical Lead and subject matter experts in the technical
+assessment of new designs and development work
+
+SENIOR .NET APPLICATION DEVELOPER
+‘Los Angeles, CA
+09/2011 — 05/2015
+* Proficiency in Microsoft .Net 4.5 framework, ASP.Net (MVCS), C#, TSQL, Entity Framework
++ Leads and coordinates code peer reviews, code branching and merging activities, approval of Git pull
+requests from developers on the team, does continuous integration and deployment (CCD) of code,
+calibrates unit, coded UI, and performance tests of the applications, deploys and uses code quality tools to
+ensure code coverage and quality, and manages the promotion of application code fromv/to the various
+environments through collaboration with the QA and Scrum teams
+‘* Contributes to the development of application standards & procedures, coding guidelines & best practices,
+and ensures compliance to the developed standards from all developers on the team
+‘* Develop and manage business plans to achieve objectives
+‘+ Provides guidance and assistance to the applications users and support teams on all aspects of application
+deployment, training and support, including
+‘* Builds and Maintains Relationships: Maintains regular contact with key colleagues and stakeholders
+using formal and informal opportunities to expand and strengthen relationships
++ Collaborate with a cross-functional team of business analysts, architects, developers, and technical
+‘managers to create a cohesive multi-year vision across teams and business lines
+
+SENIOR NET APPLICATION DEVELOPER
+‘Chicago, IL
+04/2004 — 04/2011
+‘+ Participate in the development of business strategy
+Solve unique and complex problems with broad impact on the business
+Influence senior leadership to adopt new ideas, products, and / or approaches
+Direct cross - functional and / or cross - segment teams
+Deploy and maintain Applications / Systems
+Translate highly complex concepts in ways that can be understood by a variety of audiences
+Lead large, complex projects to achieve key business objectives
+
+UNIVERSITY OF SOUTH FLORIDA.
+Bachelor’s Degree in Computer Science
+
++ Ability to produce high quality work deliverables with high attention to detail
+
+‘* Solid understanding of object-oriented programming (OOP) and current design patterns/practices; and
+when we say solid, we mean SOLID
+
+‘+ Excellent code documentation habits and the ability to dig in and understand already established code
+
+‘* Strong knowledge and experience with Object Oriented Design and Development, and modern design
+patterns
+
+-Develops basic and detailed program specifications
+
+Ability to be self-motivated, independent, and detail-oriented
+
+Translate highly complex concepts in ways that can be understood by a variety of audiences
+
+Knowledge of sound business practices and a proven track record of anticipating and exceeding customer
+
+expectations
+
+‘+ Demonstrate excellent verbal and written communication skills
+
+‘* Deep hands-on knowledge of the .NET Framework including Visual Studio, C#, and ASP.NET MVC

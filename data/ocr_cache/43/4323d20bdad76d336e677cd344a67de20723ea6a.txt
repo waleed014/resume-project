@@ -1,0 +1,151 @@
+‘SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+LANGUAGES
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 2 (555) 432-1000 4 resumesample@example.com
+
+Hardworking and reliable SAP Basis Consultant with strong abilty in Install, configuration and mantenice of
+‘SAP System. | am organized, dedicated to working as a team member, contributing with my skills and helping
+to analyze, design, implement, guarantee the availabilty and optimal performance of SAP system.
+
++ Hardware instalation and Maintenance ‘+ Technical Support and Assistance
++ Software installation and Maintenance ‘© Application Administration
++ Data and Systems Architecture + Technology Best Practices
++ Technical Documentation and Reporting + Requirements Analysis,
++ Troubleshooting and Diagnosis + system Testing
++ Communication and Team Collaboration © Team Training
++ Roadmap Planning and Priortization ‘* Contfct Resolution
++ Design improvements © Work Ethic
+SAP BASIS CONSULTANT 01/2019 10 04/2019
+
+Cognizant Technology Solutions | Reckville, MD
+
++ Checked technical specifications for quality and integrity and recommended updates.
+
++ Troubleshot and diagnosed technical problems.
+
+‘+ Created and administered user roles and authorizations.
+
++ Troubleshot server-side application issues to reduce overall downtime,
+
++ Gathered business requirements for SAP reporting and functionality enhancements,
+
+* Conducted and documented Root Cause Analysis of production system failures to minimize future
+failures and optimize operations,
+
++ Detected critical deficiencies in SAP platform products and provided solutions for improvement via
+architectural redesigns.
+
+‘+ Provided status updates to keep upper management informed and to reach goals.
+
+‘+ Installed and maintained software and database systems.
+
++ Administered application stacks and executed performance tuning to optimize session performance by
+eliminating performance bottlenecks.
+
+SAO BASIS CONSULTANT 08/2016 10 07/2018
+Cognizant Technology Solutions | Rye Brook, NY
+
+‘+ Installed and maintained software and database systems.
+
+‘+ Troubleshot and diagnosed technical problems.
+
++ Created and administered user roles and authorizations,
+
+‘+ Checked technical specifications for quality and integrity and recommended updates
+
++ Troubleshot server-side application issues to reduce overall downtime,
+
+‘+ Gathered business requirements for SAP reporting and functionality enhancements,
+
+‘+ Conducted and documented Root Cause Analysis of production system failures to minimize future
+failures and optimize operations
+
+* Detected critical deficiencies in SAP platform products and provided solutions for improvement via
+architectural redesigns.
+
++ Provided exemplary helpdesk service and support to assist customers,
+
+‘+ Administered application stacks and executed performance tuning to optimize session performance by
+eliminating performance bottlenecks.
+
++ Provided ettective resolutions to issues and escalated problems with knowledgeable support and quailty
+service.
+
+‘+ Kept flexible schedule and resolved after-hours and weekend emergencies quickly and accurately
+
++ Consulted users to determine areas in need of improvement.
+
+‘+ Worked successfully with diverse group of coworkers to accomplish goals and address issues related to
+‘our products and services.
+
+‘+ Worked closely with team members to deliver project requirements, develop solutions and meet
+deadlines.
+
+‘+ Provided excellent service and attention to customers when face-to-face or through phone
+conversations,
+
+‘+ Improved operations by working with team members and customers to find workable solutions,
+
++ Motivated and encouraged team members to communicate more openly and constructively with each
+other.
+
++ Exceeded customer satisfaction by finding creative solutions to problems,
+
+SAO BASIS ADMINISTRATOR 11/2011 to 08/2016
+‘Amazon.Com, Inc. | Kirkland, WA
+
++ Gathered business requirements for SAP reporting and functionality enhancements,
++ Troubleshot server-side application issues to reduce overall downtime.
+‘+ Conducted and documented Root Cause Analysis of production system failures to minimize future
+failures and optimize operations
++ Detected critical deficiencies in SAP platform products and provided solutions for improvement via
+architectural redesigns.
+‘+ Oversaw associated infrastructure and related domains for full SAP application portfolio itecycle,
++ Developed and maintained integrated architecture views and designed reference architectures for IT
+products.
++ Developed and implemented standardized Disaster Recovery (OR) processes for SAP products.
+‘+ Provided effective resolutions to issues and escalated problems with knowledgeable support and quality
+service,
+‘+ Kept flexible schedule and resolved after-hours and weekend emergencies quickly and accurately.
+‘+ Performed data backups and disaster recovery operations.
+‘+ Consulted users to determine areas in need of improvement.
++ Increased system security and performance with proactive changes.
++ Planned, tested and supported high-availabilty infrastructures.
++ Promoted continuous improvement for IT processes,
++ Spearheaded server infrastructure development, quality control, staging and production operations.
+‘+ Submitted recommendations regarding infrastructure overnauls.
+SECHOR DBA (06/2009 10 11/2011
+General Motors | Arlington, TX
++ Tested and modified databases to determine and correct issues.
+‘+ Assessed customer needs and goals through communication and system evaluations to modify existing
+databases for personalized customization
++ Specified user access levels for each database segment to protect database integrity and company
+information.
++ Wrote scripts and processes for data integration and bug fixes.
+‘+ Developed scripts for index and table analysis actions,
+‘+ Analyzed and developed technical and functional specications for databases serving up to employees.
++ Collected information by meeting with database architects and administrators to determine client system
+limitations for capacity and load for data processing projects.
++ Established hardware requirements and devised storage capacity solutions for MS SQL Server
+databases
+‘+ Automated indexing to achieve successful for more efficient search management
++ Worked successfully with diverse group of coworkers to accomplish goals and address issues related to
+‘our products and services.
++ Worked closely with team members to deliver project requirements, develop solutions and meet
+deadlines.
+
+) Bachelor's Degree | System Engineering o7re007
+IUP Santiago Marino, Puerto Ordaz, BO-Venezuela
+
+Spanish: English
+Negotiated: Negotiated

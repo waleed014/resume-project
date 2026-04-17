@@ -1,0 +1,51 @@
+5 phone: (123) 456.78 98,
+Junior Java Developer email Infogquikresume.com
+
+ROBERT SMITH nrc
+
+Objective
+
+2 plus years af experience asa Javall2EE Developer in analysis, design, implementation,
+integration, testing, and maintenance of applications using Java/|2EE and Object-oriented client-
+Server technologies. Extensively worked with Retal, Healthcare, Insurance and Investment
+
+domain with good knowledge of developing complex projects and good management skis ofthe
+
+Ss
+
+AVA, C, Ct, SQL, And PLISQL, Web Technologies HTML, JavaScript, CSS, Angular Js, Angular 2,
+AJAX, XML, XSLT, java Beans, JMS.)2EE Technologies Servlets, JSP, |SF, EIB, JMS, |NDI, Web
+Services, JDBC, SOAP, RMI Spring Technologies Spring Core, Spring MVC, spring Boot, Spring
+Cloud. Methodology Agile, Scrurm, TOD, OOAD, SDLC.
+
+Work Experience
+
+Junior Java Developer
+Navistar, ine - january 2017 - Present
+Working on agile scrum methadelogy and involving in stand-up meetings to monitor the
+progress.
+Irvelvingin requirements gathering, analysis, design, and documentation ofthe application
+implementing the backend business layers using spring and web services.
+Implementing java EE components using Spring MVC, Spring IOC, Spring Wansactions, and
+spring securky Modules
+Developing microservices using Java Spring Boot, Hibemate, Restful services with good
+qualty of code
+Configuring the spring integration XML to route request to respective databases
+Building application with |S frameworks such as React, Angular|s
+
+Junior Java Developer
+‘ABC Corp -2016- 2017
++ Responsible or developing and uni testing assigned software features and functionalities,
+
+Rerformed technical rect cause analysis and autine corrective action fr given
+problemsidefects
+Provided rellable solutions to a variety of problems using sound problem-solving techniques
+Participated in dally meetings to cornmnunicate work progress ant potential roadblocks
+Worked to continucusly improve software delivery processes and practices,
+Presented, collaborated and added the value te the cornpary and team through participation
+in peer code reviews, providing comments and suggestions
+Worked collaboratively and professionally with other client employees in cross-functional
+teams to achieve goals.
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+Guidelines

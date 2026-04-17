@@ -1,0 +1,46 @@
+JOHN DOE
+
+DATABASE ADMINISTRATOR
+6+ YRS EXP
+
+New York City, US e Database_administrator@example.com e +1 5632652032
+
+In-depth understanding of security and backup procedures to ensure database integrity. Background in developing backup and
+disaster recovery plans for nationwide offices. Superior communication, presentation, analytical, and problem-solving skill.
+Work well with all levels of business.
+
+PROFESSIONAL EXPERIENCE
+
+Database Administrator
+DLF Corporation, - Los Angeles, US
+Sep 2016 - Present
+
+e Responsible for Oracle 9i logical and physical database design, implementation, and maintenance on Windows NT
+° Created new databases and users: set up backups, export, and other monitoring scripts
+
+e Implemented database refresh using full export for table level and full database defragmentation, resulting in
+improved performance and effective space management.
+
+IT Services
+Tulip IT Services - Los Aguajes, US
+Jun 2012 - Feb 2014
+
+¢ Created Oracle 8i databases for 2 large departments, from planning and testing through production.
+
+e Implemented backup and recovery procedures of databases in Sun Solaris and Red Hat Linux environment:
+implemented backup and recovery procedures and IT department manual.
+
+e Managed database remodeling and interface development during migration from MS Access to MS SQL server and
+from MS SQL to Oracle 8:
+
+-O-
+EDUCATION
+Bachelor of Science business intelligence (BI) specialist
+Bachelor of Science Oxford University
+Mar 2009 - Jun 2011 - Los Altos, US Jun 2015 - Jun 2006
+‘O-
+KEY SKILLS
+Patience Problem Solving
+
+Communication Plans Interpersonal Skills
+LL a

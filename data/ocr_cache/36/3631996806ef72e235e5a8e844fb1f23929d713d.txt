@@ -1,0 +1,82 @@
+ABEL TUSTON
+
+Product Manager
+
+& abeltuston@email.com
+J (123) 456-7890
+
+9 Newark, NJ
+Linkedin
+
+EDUCATION
+
+BS.
+
+Mathematics and Economics
+
+Rutgers University Newark
+September 2010 - April 2014
+Newark, Nj
+
+SKILLS
+
+Google Analytics
+
+Excel/ Google Sheets
+
+sql
+
+A/B Testing & Experimentation
+Tableau
+
+Agile Development
+Leadership Experience
+
+WORK EXPERIENCE
+
+Product Manager
+Learning Without Tears
+May 2018 - current Newark, NJ
++ Led the development for a new B2C SaaS product to enable
+
+students to check their writing for grammar and plagiarism,
+which grew to 125,000 daily active users in the first year
+Identified gaps in Google Analytics, and led build of features
+across engineering and design, which increased yearly revenue
+by $3.1M through increased engagement and conversion
+Performed cohort analysis that identified an opportunity to
+reduce pricing by 15% for a segment of users to boost yearly
+revenue by $620,000
+
+Led a team of 2 full-time employees and 4 contractors, and
+formed strong relationships with stakeholders
+
+Product Manager
+Aquent
+August 2016 - May 2018 Newark, NJ
++ Managed cross-functional team and stakeholder
+communication, and oversaw product development from
+inception to implementation
+Designed and implemented A/B experiments for our product to
+improve the conversion rate by 20 basis points and reduce
+churn by 10 basis points
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 32%
+Planned and executed a referral program for active customers,
+which led to a net increase in new users of 29,000 annually
+
+Product Analyst Intern
+Prudential
+August 2014 - August 2016 Newark, NJ
++ Set up Google Analytics dashboards to identify product features
+
+that correlated with customer attrition, leading to proactive
+interventions that reduced monthly churn by 4%
+
+Identified an area of the client product funnel that was
+underperforming, and recommended improvements that led to
+a 12% increase in free trial activation rate for a specific segment
+Built data visualizations using SQL and Tableau for product KPIs
+that reduced manual reporting work by 8 hours weekly
+Participated in stakeholder meetings with cross-functional team,
+and helped define go-to-market strategies

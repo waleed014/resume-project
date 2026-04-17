@@ -1,0 +1,121 @@
+ROBERT SMITH
+
+JAVA DEVELOPER
+
+DETAILS
+
+ADDRESS
+
+1515 Pacific Ave
+
+Los Angeles, CA 90291
+United States
+
+PHONE
+3868683442
+
+EMAIL
+email@email.com
+
+PLACE OF BIRTH
+San Antonio
+
+DRIVING LICENSE
+Full
+
+LINKS
+
+Instagram
+Resume Templates
+
+Resume Builder
+
+SKILLS
+
+SQL and ORM
+eooeoee
+
+J2EE framework
+eooce
+
+X query, XSL
+eooooe
+
+DevOps tools (Jenkins,
+Docker)
+eoeoeee
+
+LANGUAGES
+
+English
+e@ooeoee
+
+HOBBIES
+
+Chess, Debate, Drama
+
+PROFILE
+
+Experienced and well-organized computer science graduate with a B.S. from
+UCLA (GPA 3.8). Enthusiastic about joining (insert company name) as a junior
+Java Developer to design game-changing e-commerce solutions. Established a
+custom-made e-commerce cart module on RESTful. 6-month Java development
+internship experience at Oracle.
+
+EMPLOYMENT HISTORY
+
+Java Developer, IST Programming Oklahoma City
+Jan 2020 — Present
+
+Accomplished a 34% decrease in the app's memory consumption by removing
+duplicate strings via Garbage Collection Logs analysis and refactoring the code.
+
+Design, implement, and maintain Java applications that are typically
+high-volume and low-latency, necessary for mission-critical systems.
+Deliver excellent availability and performance.
+
+Contribute to every phase of the development lifecycle.
+
+Write code that is designed well, practical, and testable.
+
+Conduct analysis of software, debugging, testing, and programming.
+Manage Java and Java E.E. application development.
+
+Ensure designs conform with stipulations.
+
+Prepare and produce releases of software parts.
+
+Transform any requirements into stipulations.
+
+Supporting constant improvement.
+
+Investigate options and new technology.
+
+Present for architectural reviews.
+
+Designing, implementing, and maintaining phases of java application.
+Taking part in architectural development and software activities.
+
+Java Developer, YtoK Mamaroneck
+Jan 2017 — Dec 2019
+
+Discovered and enhanced code inefficiencies, leading to a 42% increase in app’s
+stability.
+
+Identify issues with production and non-production application.
+Developing, testing, implementing, and maintaining application software.
+Recommending changes to develop recognized java application processes.
+Developing technical designs for application development.
+
+Developing application codes for java programs.
+
+Performing inclusive analysis and design for program changes, gaining and
+transferring data of application changes.
+
+Reviewing and preparing documents. Writing up design documents (e.g., SRS,
+SDD).
+
+Defining development tasks and providing time estimates to assist in
+scheduling.
+
+Assigning and coordinating others’ tasks

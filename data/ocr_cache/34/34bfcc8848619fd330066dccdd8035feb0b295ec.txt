@@ -1,0 +1,168 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 © resumesamplesexample.com,
+
+Professional Summary
+
+7 years of professional IT Experience with 3+ years of hands-on experience with Mule ESB in designing and implementing core
+platform components for API/Services Gateway as well as other technological cross-cutting capabilities and a contributor to Mule
+ESB open-source. Good experience in all the phases of Software Development Life Cycle that includes understanding requirement,
+technical analysis, design, development, Integration, maintenance, installation, implementation, and testing of various client/server
+‘web applications, Strong background in Java/]2EE environments, Worked extensively on J2EE for developing Web and Distributed
+Applications by using JDBC, JSP, Servlets, Hibernate, Struts and Web Services. Well experienced in MVC architecture and Struts
+framework. Good experience both in Enterprise and Community edition of MULE ESB. Good experience in writing Munit test cases.
+Application integration experience using Mule ESB with Connectors, transformations, Routing, ActiveMQ, JMS and Data
+‘Transformations using Mule ESB. Immensely experienced in writing SQL Queries, Oracle PL/SQL, JDBA and JPA along with good
+knowledge on Mongo DB and MySQL. Experience in troubleshooting Mule ESB including working with debuggers, Flow analyzer
+and configuration tools, Good communications and inter personnel skills. Exceptional ability to learn and master new technologies
+and to deliver outputs in short deadlines,
+
+Skills
+
+«+ Technologies ‘+ IBM DB2, MS SQL-Server, Oracle, Mongo DB.
+
++ Mule ESB 3x../4.xx, Any Point Studio, API Management, + Web Technologies
+Cloud Hub, MQ Series, SOAP, Restful WS, WSDL, JAXP, + XML/XSL/XSLT, Angular.JS, jQuery, CSS, XML, DID, HTTP,
+JAXB HTTPS, JSON, AJAX.
+
++ Languages + Design Tools and IDE's
+
++ Java, SQL, PL/SQL, HTML, HTMLS and XML. ‘= RAD, Eclipse, UML, Visio
+
++ Operating Systems + 2000, Edit Plus, MS Front Page, WSAD, Net Beans
+
+‘+ Windows Server, Linux Red Hat, ADX + Other
+
+«+ JAVA/REE Technologies ‘+ Maven, CVS, TOAD, ActiveMQ
+
++ REE, Servlets, STL, JDBC, logdj, JUnit, JMS, JDBC, Applets,
+RESTUFUL, AJAX, DHTML, XSLT.
++ Databases
+
+Work History
+
+“MuleSoft Developer, 06/2021 to Current
+Thm Corporation ~ San Jose, CA
+
+«+ Participate in Agile ~ Sprint methodologies to do requirements gathering, analysis and planning
+
+++ Create LLD and HLD documents, Sequence Diagrams, Class Diagrams
+
++ Used Database Connector to connect with MySQL and Oracle using Mule ESB
+
++ Integration of Mule ESB system while utilizing MQ Series, HTTP, File system and SFTP transports
+
+«+ Used Active MQ for messaging service in applications
+
+«+ Implement message transformation and mapping using XPATH, XSLT, Data Weave, custom java classes
+
+‘+ Use Mule components that include File, SMTP, FTP, SFTP, JDBC Connector and Transaction Manager
+
+‘+ Used Spring framework for IOC, AOP and DAO layer design patterns
+
++ Coded SQL, PL/SQL for backend processing and retrieval logic
+
++ Done Unit Testing and Functional Testing and Regression Testing ofthe systems
+
++ Setup File Beat to transfer Mule Application logs onto centralized Elastic Search
+
+«Integrate mule runtime with external identity provider Okta
+
+«+ Resolving spring framework artifacts and code build & deployment via Maven
+
++ Environment: Mule ESB, Any Point Studio, JAVA, JDBC, JAXB, ActiveMQ, RAML, APM, Apache-Maven, Cloud Hub, XML,
+
+XSLT, C88, Ajax, Oracle 1ig- PL/SQL, SQL, Logs, CVS, Mongo DB, Web Services - WSDL, SOAP, Jenkins.
+
+MuleSoft Developer, 07/2018 to 05/2021
+Thm Corporation - Washington, DC
+
++ Participate in business meetings to gather requirements
+
++ Design and Develop Restful APIs using API Designer and generated flows using RAML file
+
++ Participate in analysis, design, development and implementation ie cycles ofthe project
+
++ Implement and consume both SOAP and Restful web services
+
++ Promote code from development to testing and production environments
+
++ Create Flows, Sub Flows, and Data Mapper transformations in Mule configuration
+
++ Implement data transformation using Data Wave and MEL
+
++ Participate in trouble shooting and problem solving ofthe Integrations
+
++ Deploy and scheduled male project on cloud hub
+
++ Create High level, detailed design, topology, and testing documents
+
++ Work with Business Analyst to understand the integration requirements
+
+«+ Participate in diferent phases of Testing with end systems
+
++ Create Test plans, Test Suit, and Test Cases
+
++ Create complex queries with ons, sub-querie, and nested queries in SOL queries
+
++ Support development, test, and the production databases
+
++ Ceeate Exception Handling for the ease of debugging and displaying the error messages in the application
+
++ Participate in 25X7 production support
+
++ Environment: Java, JSP, Hibernate, Spring, MuleSoft ESB 3.5, API Manages, Any Point Studio, ActiveMQ, Salesforce, IMS, EJB,
+
+HITML, XML, Design patterns, Web services, UME, Just, jQuery, Mongo DB.
+
+Java Developer, 10/2017 to 06/2018,
+Brains Workgroup, Inc. Cambridge, MA.
+
+«+ Involved in system analysis, design, management, development and also designing Framework for business components
+
++ Involved in designing Java Components with various Java core design pattems
+
+‘+ Implemented various design patterns like Business Delegate, DTO and DAO for frontend and back-end system
+
++ Developed frontend pages using JSP
+
++ Designed User Interfaces or frontend pages using JSP20, Servlets2.3, CSS, XML and HTML
+
++ Designed web screens for various modules using JSF, HTML, DHTML and CSS and used Java Script as client-side validation
+
+++ Worked on agile approaches, including Extreme Programming, Test Driven Development and Scrum,
+
++ Used agile methodologies, test driven development and automated builds
+
+‘+ Involved in development of Oracle tables, stored procedures, and functions
+
++ Environment: Eclipse, JSP, Validation Framework, Jenkins, JDBC, Restful Web Services, Logj, ANT, JUnit, Oraclel0g, XML, CVS,
+
+MVC, GIT, SQL & PL/SQL, JAXP, JAX_WS,
+
+Application developer, 06/2015 to 09/2017
+Honeywell - Dunwoody, CA.
+
++ Utilized Agile Methodologies to manage full life-cycle development ofthe project
+
+‘+ Implemented MVC design pattern using Struts Framework
+
++ Form clases of Struts Framework to write the routing logic and to call different services
+
++ Created tile definitions, Struts-config files, validation files and resource bundles for all modules using Struts framework
+
++ Developed web application using JSP custom tag libraries, Struts Action classes and Action
+
++ Designed Java Servlets and Objects using J2EE standards
+
+‘+ Used JSP for presentation layer, developed high performance object/rlational persistence and query service for entre
+
+application utilizing Hibernate
+‘+ Developed the XML Schema and Web services for the data maintenance and structures
++ Environment Java, J2EE, JSP, Struts, JNDI Eclipse, Oracle6i, XML, ANT, Rationale Rose, Unix, LOG4], CVS,
+
+Education
+
+BSc: applied science
+
+Certified MuleSoft Developer version 4

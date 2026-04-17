@@ -1,0 +1,80 @@
+Robert Smith
+
+Python Developer
+
+PERSONAL STATEMENT
+Good experience of software development in Python and IDEs - subline
+text, PyCharm. Experience in Python, Robot Framework. Technical
+experience in supporting applications which use an object-oriented
+programming language (Java). Experience in using Pandas python ibraries
+during development lifecycle. Excellent experience with Python
+development under Linux OS (Ubuntu), Experienced in weiting SQL
+(Queries, Stored procedures, functions, packages, tables, views, triggers.
+
+WORK EXPERIENCE
+
+Python Developer
+Varite Inc- April 2014 - Present
+esponsibiities:
++ Involve in the developrnentof the application using Python 3. 3, HTMLS,
+CSS3, AJAX, |Son and JQuery
++ Developed the applications using DJANGO 1, 7 MTV framework which Is
+based on model template view design pattern
++ Extensively used DJANGO technologies, which includes forms, ternplates
+‘and oft for communication with database in cfferent forms.
++ Extensively used interceptors, validators, actions using DJANGOL. 7
+‘framework,
++ Used perforce version control system and Python Tools for Visual
+Studio(PTVS) IDE.
++ Create and write result reports in different formats lke txt, csv, xls, and
+Jon.
++ Worked on CSV files while trying to get input from the MySQL database,
+
+Python Developer
+‘ABC Corporation - 2010 - 2014
+responsibilties:
++ Wrote python scripts to parse xml docurnents and load the data in the
+database,
++ Used pandas api to put the data as time series and tabular fornat for
+feast timestamp data manipulation and retrieval
++ Was involved in the environment, code installation as well as the svn
+implementation,
++ Cleaned data and processed third-party spending data into
+maneuverable deliverables within specific formats with excel macros
+‘and python libraries
++ Ensured high quality data collection and maintaining the Integrity of the
+data.
++ Collaborated with Internal teams to convert end user feedback Into
+meaningful and improved solutions
++ This project also used other technologies like jquery for javascript
+‘manipulations, bootstrap forthe front-end htm! layout,
+
+(Ths Ema Resume Temlate the copyright ot Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstullla Road,
+Alabama
+(123)-456-7890
+Infoesquikresume.com
+wwweqwikresume.com
+
+SKILLS
+DJANGO, HTML, JQuery,
+MYSOL, PYTHON,
+
+LANGUAGES
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+Climbing
+Snowboarding
+Cooking
+Reading
+
+REFERENCES:
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

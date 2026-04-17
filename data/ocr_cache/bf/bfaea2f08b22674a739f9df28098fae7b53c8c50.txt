@@ -1,0 +1,210 @@
+JESSICA
+CLAIRE
+
+& resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Highly analytical and data
+analyst with in -depth
+knowledge of My SQL; Python -
+Statistical Programming;
+
++ Research Methodologies; Data
+Visualization and Modeling,
+Cleaning
+
++ Furnish insights, soft skills of
+‘Communication and Critical
+Thinking, Problem Solving,
+Team Player
+
++ Languages: Python
+
++ Machine Learning, DS &
+Algorithm, Statistics -
+‘Mathematical
+
++ Tools: Scikit-Learn, Pandas,
+‘Open-C¥, NumPy, Tableau, MS
+Excel
+
++ Database Applications: SQL
+Server, MySQL
+
++ Data Mining, Data Modeting,
+Data Warehousing, Data
+Visualization
+
++ Soft Skills: Critical Thinking,
+Problem Solving, Adaptability,
+Product Understanding,
+Teamwork.
+
++ Code and Quality Standards
+
++ Analytical Thinking
+
++ Source and Version Contr
+GitHub
+
++ Data Storage and Retrieval
+
++ Software Design
+
++ Data Science
+
++ Object-Oriented Programming
+(o0P)
+
++ Data Extraction
+
++ Technical Writing
+
+: Git,
+
+EDUCATION
+
+The University of Texas At
+Arlington
+Arlington, TX + 05/2023,
+
+‘Master of Science: Computer
+
+Science
+
+GPA: 3.1
+
++ Relevant Coursework:
+Artificial intelligence, Data
+‘Mining, Machine Learning, Data
+Analysis & Modeling
+Techniques, Database System,
+Web Data Management, Design
+& Analysis Algorithms, Adv.
+Topics in Database System
+
+LDRP Institute of Technology And
+Research
+Gujarat, India + 07/2020
+
+Bachelor of Engineering:
+‘Computer Engineering
+GPA: 3.3,
+
++ Relevant Coursework: Data
+Structure, Python Programming,
+Java, C++, C, Operating
+system, Big Data Analytics,
+Software Engineering,
+Probability and Numerical
+‘Method, Linear Algebra and
+Vector Calculus, Theory of
+‘Computation
+
++ Thesis: [A Comprehensive
+Study on Critical Security Issues
+and Challenges of the oT.
+World] [Springer] [May 6, 2020]
+
+CERTIFICATIONS
+
++ Data Visualization for Data
+Analysis & Analytics | Linkedin
+‘May 2022
+
++ Python for Data Science and Al
+IBM | Coursera Feb 2021
+
++ SQL for Data Science | UC
+DAVIS | Coursera Jan 2021
+
++ Machine Learning | Stanford
+University | Coursera Dec 2020
+
++ Problem Solving (Basic) |
+Hacker Rank Nov 2020
+
++ Internet of Things | Uderny May
+2020
+
++ Python | Udemy Mar 2019
+
+PROFESSIONAL SUMMARY
+
+https: /www.linkedin.com/in/Jessica-p-37a194182/ Detailed Data Analyst Intern well-versed in
+various statistical methods such as descriptive and influential statistics. Independent and versatile
+individual skillful in identifying data issues and monitoring existing metrics. Offering 6 months of
+experience collecting data, establishing facts and drawing valid conclusions. Proficient in Python
+Programming paired with first-rate report writing abilities.
+
+PROFESSIONAL EXPERIENCE
+
+Innovatics Consulting LLP - Python Developer Intern
+City, STATE « 02/2021 - 06/2021
+
++ Identified, analyzed and interpreted trends or patterns in complex data sets by finding correlations
+and visualizing with charts.
+
++ Utilized various professional statistical techniques and maintained large databases to collect and
+analyze data from partners and customers.
+
++ Cleaned up and backed up data to maintain data integrity during extraction, manipulation and
+processing.
+
++ Extracted, loaded and reconciled large amounts of data across system platforms and sources to
+validate user-centric scenarios.
+
+Envelope Technologies Pvt. Ltd - Python Developer Intern
+City, STATE « 01/2021 - 05/2021
+
++ Worked on one of their platforms named XPORIUM
+
++ That Project was aimed at hosting virtual exhibitions on their 3DPlatform
+
++ AS part of the Project, | worked on developing several modules using Python as a Backend
+Programming Language.
+
++ Partnered with company mentor to learn best practices in software design.
+
++ Handled scripting tasks for debugging and automation using Python.
+
++ Coordinated build integrations tasks with multiple teams.
+
+‘Maxgen Technologies Pvt. Ltd - Jr. Python and Machine Learning Developer
+City, STATE « 07/2020 - 10/2020
+
++ Transformed raw data to conform to assumptions of machine learning algorithm.
+
++ Developed advanced graphic visualization concepts to map and simplify analysis of heavily-numeric
+data and reports.
+
++ Designed, implemented and evaluated new models and rapid software prototypes to solve problems
+in machine learning and systems engineering.
+
++ Collaborated with multi-disciptinary product development teams to identify performance
+improvement opportunities and integrate trained models.
+
+ACCOMPLISHMENTS
+
++ Optimizing Agricultural Production https: //github.com//ClaireJessica/Optimizing-Agricultural-
+Production
+
++ AReal Time Face Detection and recognition system https: //github.com/ClaireJessica/Face-
+Detection-Recognition-System
+
++ A Diabetes Prediction Project https: /github.com /ClaireJessica/A-Diabetes-Prediction-System
+
++ Stock Prediction System https: /github.com/ClaireJessica/Stock-Prediction-System
+
++ RESEARCH PAPER
+
++ Title: A Comprehensive Study on Critical Security Issues and Challenges of theloT World May 2020
+
++ Published in Journal of Data, Information and Management - Springer on 6th

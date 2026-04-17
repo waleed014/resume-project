@@ -1,0 +1,68 @@
+Sam Herschel
+Cyber Security Analyst
+
+Phone 708-261-1055 Linkedin linkedin.com/in/samzherschel
+E-mail samzherschel@gmail.com ‘Twitter twitter.com/samzherschel
+
+Instagram instagram.com/samzherschel
+
+Diligent cyber security analyst with 3+ years of experience securing systems and data. Seeking to deliver airtight information security at
+Cypherdyne Systems. Cut security risk 23% at SV Inc. through automation, training, backups, firewalls, and physical controls.
+
+Experience
+
+2016 - 2019 Cyber Security Analyst
+
+Secure & Validated Inc., Chicago, IL
+
++ Worked with development team to harden business firewall.
+
++ Planned, developed, and implemented a robust backup system for all vital company data, reducing data loss to
+zero.
+
++ Installed system of physical access controls including POLP, badges, laptop locks, password vaults, and
+biometrics to cut risk 20%.
+
+* Cut sniffing and spoofing attacks to zero by implementing scheduled updates for Wi-Fi software, firmware, and
+hardware.
+
++ Enforced regular password changes from all employees.
+
+Key Achievement:
+
+* Slashed risk of cyber attacks by 23% by using automatic updates and training all 450+ employees in information
+security best practices.
+
+2014 - 2016 Network Engineer
+
+Webnominal, Inc.
+
++ Monitored and secured 30+ websites with 0 successful attacks.
+
++ Worked with clients to find best cost-effective ways to minimize security risk. Helped slash risks by an average
+of 30%.
+
++ Lowered malware threats by 40% with use of ad blockers, switching users to Google Chrome, and
+implementing automatic updates.
+
+Education
+
+2010 - 2014 BS in Network Engineering
+
+DePaul University, Chicago, IL
+
+Relevant Coursework: Cyber Crime, Ethical Hacking, Malware Analysis, Network Forensics, Database Secutity,
+Penetration Testing
+
+Key Achievement: Completed senior project in Cyber Forensics that cut security risk of a working website by
+75%.
+
+Skills
+
+risk analysis
+malware analysis
+intrusion detection
+Python scripting
+data analytics
+
+communication

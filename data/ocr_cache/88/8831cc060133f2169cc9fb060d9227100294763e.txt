@@ -1,0 +1,118 @@
+CARLA JENSEN
+
+Senior Electrical Engineer
+
++1-209-838-9002 michaelbutler1@gmail.com
+
+EXPERIENCE
+
+Project Electrical Engineer
+Bouchard f 2015-Present 9 Seattle, WA
++ Prepared and fully implemented Building Management Systems for
+over 30 large private and industrial contractors
+Provided 80% of technical data on electrical design requirements of
+existing and new projects
+Completed / handed over of 9 commercial and residential projects
+Trained 5 electricians to join the team
+
+Electrical Engineer & Site Supervisor
+
+Ledner Group & 2014-2015 9 Seattle, WA
+
+Perfected an engine test that reduced engine pulls in final assembly
+by 50%
+
+Reduced electrical car-dumper breakdown in 27%
+
+Participated in production of 1100 Hawkei vehicles
+
+Assigned in Elektrotechnik Handling Technology department during
+a 6 months internship
+
+Electrical Engineer
+Padberg & 2010-2014 9 Seattle, WA
++ Nano satellite design, implementation, test and mission execution for
+7+ executed missions
+Implemented embedded Ubuntu on dual core ARM AQ
+Developed Linux scripts and C code (I2C for PWM motor control)
+Developed code for 16-bit RISC processor focusing on system
+reliability and low power operation
+
+Project Electrical Engineer
+
+Harvey #% 2008-2010 9 Seattle, WA
+Managed the installation of an instrumentation and automation
+system for a 2000-ton HVAC plant
+Compression and Pipeline based in Charlie Lake (2014-2015) and
+Savona
+
+Electrical Engineer
+
+Harvey & 2006-2008 9 Seattle, WA
+
++ Achieved batch control process automation with S7-300 PLC
+Commissioned more than 300MW of solar power in 3 different
+continents
+Project Manager at Petrobras unit FAFEN for expansion of the
+compressed air system (US$ 12 Million)
+
+linkedin.com/in/_michaelbutler_
+
+MOST PROUD MOMENTS _
+
+@
+
+Seattle, WA
+
+Market leader
+
+From 2010 to 2014 the hSystem has
+been the most sold control system for
+aluminum mill in China despite we were
+facing far bigger competitor.
+
+Innovation
+
+Introduced some new technology in my
+current company such as a remote
+assistance
+
+system, virtualization and a source
+code
+
+control.
+
+Fast implementation
+
+From November 2014 to April 2015 my
+team and | were able to commission
+and get the acceptance for 4 systems
+
+in less than 6 month, saving 15% of
+forecasted time.
+
+SKILLS
+Software
+
+Python C++ Visual Studio
+
+Data Acquisition PLC Ladder Logic
+
+Excel Tool Development = VMware
+Hardware
+Electrical Circuits Oscilloscope
+
+Schematic Entry Digital Multimeter
+
+Microcontrollers PCB Layout
+
+Ethernet IP
+
+EDUCATION
+
+Bachelor of Science Electrical
+Engineering
+
+University of Washington
+
+2002 - 2006

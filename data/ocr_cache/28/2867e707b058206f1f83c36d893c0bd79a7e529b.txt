@@ -1,0 +1,72 @@
+JANE DOE PHONE: fo) sce
+
+E-MAIL: janedoe@gmail.com
+12345 ABCDEFG Street, XXXX, XX 12345 LINKEDIN: www-linkedin.com/in/20000000%
+
+‘Searching for a Quality Assurance position to apply my skills of debugging, providing acute attention to detail, and
+UI/UX knowledge to produce exceptional products in the Software industry.
+
+KEY SKILLS Testing Methodologies:
+
+‘© System and Unit Testing ‘© Regression Testing © Usability Testing
+© Smoke Testing © Performance Testing © Compatibility Testing
+© User Acceptance Testing Load Testing © Stress Testing
+
+‘Test Management: Jira and Test Management for Jira
+Industry Knowledge: Agile, ITIL, ITSM, and Service Integration and Management
+Languages: Basic foundation of Java, JavaScript, HTML, and CSS
+
+‘CERTIFICATES Certified Tester, Advanced Level Test Automation Engineer ‘uly 2000
+American Software Testing Qualifications Board (ASTOB)
+Certified Tester, Foundation Level December 0XxX
+
+American Software Testing Qualifications Board (ASTQB)
+EXPERIENCE ABC COMPANY, Random City, randomTown|
+‘QA Engineer January 2019 — January 2020
+Associate QA Engineer January 2018 — January 2019
+‘+ Performed different test methodologies on multiple SaaS platforms including ServiceNow, Jira,
+Salesforce, Azure and more using both manual and automated testing
+‘+ Wrote over 50 automated test cases in Java using Eclipse and Selenium IDE
+‘+ Created and managed over 500 manual test cases in Test Management for Jira
+‘+ Identified and validated defects within the product which are then reported and documented in ira
+and Google Sheets
+‘+ Worked with developers by providing constructive feedback on UI/UX for a smoother, more intuitive
+user workflow
+
+‘+ Partnered with developers to pair test new applications and unreleased company projects
+
+‘© Utilzed Jira application to track and manage tickets for features and defects
+
+‘+ Participated in Agile Scrum to identify priorities for feature releases and bug fixes
+
+‘+ Established and improved processes for the QA team by introducing standardized methods for QA
+‘testing which include writing and implementing test cases
+
+‘© Collaborated with senior management (including QA lead, Senior Director of Development, and
+Solutions Consultants) to determine and implement best QA practices
+
+'* Set up proof-of-concept (POC) environments to be used by other teams for product demonstrations to
+customers
+
+‘¢ Trained team members through walk-through demonstrations to reduce guesswork and improve
+productivity
+
+‘+ Participated in team workshops to strengthen foundational understandings of Java and Selenium
+
+DEF COMPANY, RANDOM CITY, randomTown
+
+(QA Specialist ‘August 2017 — January 2018
+
+‘+ Manually tested web applications to troubleshoot and diagnose defects,
+
+'¢ Wrote test cases for reproducing bugs after reviewing source code and web resources
+
+‘+ Worked closely with the development team by providing feedback and recommendations on the
+UY/UX of the product
+
+‘+ Developed and implemented quality assurance and control to meet the requirements set by the client
+
+EDUCATION Bachelor of Arts in Anthropology Jum XXXX
+RANDOM_UNIVERSITY
+
+*References furnished upon request*

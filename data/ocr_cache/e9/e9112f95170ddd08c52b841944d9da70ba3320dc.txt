@@ -1,0 +1,47 @@
+For more BA Questions, Sample Resumes and Open Jobs ~ please visit:
+http://futurethoughtsllc.com/InterviewQuestionsandAnswers. aspx
+
+‘Sample Business Analyst resume for Pharmaceutical Industry.
+
+Professional Synopsis
+Nearly XX years experience as a Business Analysis, Risk Analysis and Quality Assurance.
+Expert in obtaining a grasp of the business process and acting as a bridge between the
+‘Management and the Development teams. Strong customer/user advocate, apt negotiator with
+excellent analytical, collaboration, communication decision-making, and organization skills.
+Good communication skills coupled with excellent interpersonal skills that helped in
+developing an excellent rapport with the team members and maintained an inspiring
+environment, which | strongly believe, play a key role in carrying out the given tasks within the
+time constraints,
+
+Professional Expertis
+
+© Business Analysis knowledge for business process, the need to understand all aspects of the
+‘company’s operations. Identify, analyze and design processes to improve the overall flow of
+information within the company
+
+‘© Interacting with stakeholders, gathering requirements, elicitation techniques ike
+interviewing, questionnaires, brainstorming, focus groups, cost/benefit analysis and risk
+analysis,
+
+© Excellent knowledge of Software Development Life Cycle (SDLC), Iterative Software Development
+Life Cycle Process as per Rational Unified Process (RUP) and Rational Tools used during various
+phases of RUP.
+
+‘© Proficient in Rational tools including Rational Rose, and Requisite Pro. Excellent skills in Business
+Analysis, Data Analysis, Requirement Analysis, Business Process Modeling and Use Case
+Development using UML methodology.
+
+‘© Skilled in creating logical diagrams like Use Case, Activity, Sequence, Data flow, Collaboration and
+Deployment using CASE Tools like Rational Rose and MS Visio.
+
+‘© Experience in conducting Joint Application Development (JAD) JAD sessions with management,
+SME, vendors, users and other stakeholders to gather business requirements and translating the same
+to the development teams.
+
+= Performed Functional, Integration, Data Validation, User Acceptance, and End-To-End testing and
+evaluated the test results.
+
+‘+ Expertise in automating the functional and performance test scripts using industry standard like
+Winrunner, Rational Robot and QTP.
+
+Technical Proficiency:

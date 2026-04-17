@@ -1,0 +1,73 @@
+Charles Bloomberg
+
+© New Yorkcity, United States &@ charlesbloomberg@ gmail.com 01062375053 Bin/bloomberg
+
+EXPERIENCE
+
+SAP ABAP Developer
+Company A June 2020 ~ Present, New York, NY
++ Created technical specifications based on the requirements from the functional team,
+
+‘Wrote technical design documentation based on the specifications and implemented efficient code for developing RICEF objects using,
+ABAP programming,
+
+Created unit test scripts, perform unit testing for the developed code to ensure high quality
+
++ Participated in code reviews, peer testing, and system integration testing and created training documents and assisted in user training,
+Employed best practices for design, development, testing, and release and adhered to defined methods, standards, and policies.
+-Proubleshot production issues ina timely manner and followed up with root cause investigation and analysis, design corrective actions.
++ Ensured project/task completion as per the schedule and report task status, open issues to the manager promptly.
+
+SAP Developer
+Company B June 2019 - June 2020, New York, NY
++ Worked with ERP teams on best practices in adopting and implementing SAP Data solutions, creating solutions that align with functional
+business requirements,
++ Provided expertise in data configuration decisions and participating in design decisions in regard to the current SAP S4/HANA template.
++ Reviewed and drove data configuration and tested outcomes with the SAP Implementation Team,
+Provided expertise in identifying the relevant master and transactional data required for data migration and contributing to Data
+Migration efforts.
++ Reviewed and drove data configuration and testing outcomes with the SAP Implementation Team.
++ Provided expertise in identifying the relevant transactional data required for data migration and contributing to Data Migration efforts.
+Conducted and/or participating in user requirements gathering, blueprinting & technical documentation designs.
+
+SAP'TM Developer
+Company June 2018 - June 2019, New York, NY
+Responsible for ensuring the development, implementation, and maintenance of various integrations to and from the SAP'TM system,
+«Drafted project requirements with assistance and involvement by various business teams, design & develop scalable solutions basedon
+those requirements.
+
+Participated in the maintenance and improvement of existing system components and coordinated system changes utilizing
+appropriate change control guidelines.
+
+~ Documented designs, developments, and enhancements for involved projects.
+
+= Responsible for identifying, tracking, and quickly resolving any issues relatedto the SAP'TM system, as wellasits enhancements &
+integrations.
+
++ Analyzed the root cause and produce postmortem analysis & documentation when an issue occurred.
+
+- Worked in conjunction with other Development and IT staff members, vendors, as wellas other internal departments.
+
+Assisted with various tasks related to SOX compliance and other regulatory needs
+
++ Prioritized work across multiple open projects/tasks and coordinated and support testing for enhancements & integrations
+
+- Provided training and support for others related to the SAP enhancements and integrations.
+
+EDUCATION
+
+BS. in Computer Science
+Northeastern Illinois University - 2017
+
+CERTIFICATIONS
+
+Certified Application Associate - Business Process Integration with SAP S/4HANA 2020
+SAP + 2020
+
+Certified Application Associate - SAP Transportation Management 9.5
+SAP + 2018
+
+Certified Development Associate - ABAP with SAP NetWeaver 7.50
+SAP + 2017
+SKILLS
+Industry Knowledge: SAP, HANA, Transportation Management, Leadership, Team Building, Analytics, ERP, ABAP

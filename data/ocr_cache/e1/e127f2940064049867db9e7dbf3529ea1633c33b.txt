@@ -1,0 +1,112 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 © resumesamplesexample.com
+
+Summary
+
+Senior Programmer * IBM i RPG Lead Developer Solutions focused and accomplished professional with over 15 years of expertise
+analyzing, programming, and supporting applications and support systems to enhance business operations. Expertly maintain
+software applications and systems requiring high productivity, availability, and performance as well as disaster recovery and
+solutions. Adept at analyzing, configuring, and integrating databases. Valuable leader and team player; confidently work with upper
+management and teams of developers. Natural problem-solver and consultant; able to translate complex solutions into easily
+understandable concepts. Demonstrated ability to quickly lean and assimilate new technologies and expertly support applications.
+Highlights
++ AS/400 Tools/Utilities:
++ Robot, IBM WebSphere MQ, DBU, TAATOOLS, Hawkeye,
+Tumover, File Access (PFE)
++ AS/400 Programming and Technologies:
++ RPG IIL, RPG IV/ILE (free form) programs and modules, DDS,
+CL/CLLE, UIM (Help Panel), StrSQL, FTP, System APT's, IFS,
+MQ messaging, Data Queue messaging, Journaling (local or
+remote)
++ Windows Tools/Utilties:
+Microsoft CRM Dynamics 4.0, IBM iSeries Access for
+Windows, RUMBA, Microsoft Office Suite, UltraEdit,
+UltraCompare, Java, Eclipse IDE, WebSphere Development
+Studio Client for Iseries, UC4, MySQL, jZip, WinSCP, WinZip,
+SSH Secure File Transfer Client, Microsoft Visual Studio 2005
++ Windows Programming:
++ Microsoft Access, Microsoft Cé, Java, Windows bat files,
+Windows AT scheduler
++ UNIX Software:
++ Clarify CRM, Oracle, PL/SQL
+UNDX Programming:
+‘+ Komn shell scripting, VI, Crontab
+
+Experience
+
+Senior Programmer Developer, 01/2014 to 01/2015
+Mantech International Corporation — Virginia Beach, VA
++ Individually selected to transition to Capgemini after OfficeMax merger.
++ Maintained current applications while working at OfficeMax; as well as, supported day-to-day Remedy help tickets.
+* Delivered LiveMeeting knowledge transfer sessions to team member's overseas as well as conducted group and individual one-
+on-ones knowledge transfer sessions for local team members.
+
+Lead Programmer, 01/2001 to 01/2014
+
+Ubisoft Entertainment — San Francisco, CA
++ Replaced MIMIX, by enhancing the in-house remote journaling application written in CL/RPG, saving the company
+
+approximately $100K.
+
+Developed in free form RPG IV/ILE online maintenance contract at retail card application for our contract customers with
+
+custom audit capability and the capability to upload card information from a Microsoft Access database utilizing FTP.
+
++ Streamlined daily processing of all new retail cards sent via FTP to a 3rd-party vendor that printed and mailed the cards to our
+contract customers to receive their contract pricing at our stores.
+
+* Created monthly process utilizing RPG IV/ILE and CLP that would either tag contract at retail cards for deletion or physically
+delete the cards.
+
++ Developed a 24/7 real time batch addressing scrubbing module for all orders shipped to customers utilizing free form RPG IV/
+ILE and Trillium Series Seven software, saving the company $350K,
+
++ The module would run on our AS/400 hub and await a data queue entry from any of our three regional AS/400's machines.
+
++ The module cleanses and returns the cleansed address back to requestor using a remote data queue.
+
+‘+ Developed an online application utilizing free form RPG IV/ILE for maintaining the State Tax Exempt information for OfficeMax
+
+accounts.
+
+Upon request, reports identified accounts that could have expired tax exempt information for the current or next quarter.
+
+System administrator/developer
+
+* for the Microsoft CRM 4.0 application.
+
++ Oversaw adding, updating and deleting employee records.
+
++ Worked in conjunction with vendor to create a standard file layout for importing leads into MS-CRM.
+
++ Created real time interface using Java/MQ Series/Unix scripting (Korn Shell) CBBATCH (batch language for Clarify) triggered by
+Clarify online form to load new contact information into Clarify CRM.
+
+* Developed and maintained the Clarify 24/7 batch receivers utilizing Clarify CBBATCH programming, Unix Kom shell scripting
+language, and PL/SQL procedures in the five Clarify environments (DEV, QA, STRESS, TRAINING and PRODUCTION.
+
++ Supported third party COGNITOR purge tool that purged records from the Clarify CRM tables.
+
+Senior Professional Services Consultant, 01/1997 to 01/2001
+Verizon - City, STATE
+
+«+ Researched and verified all clients’ RPG/COBOL/CL programs were Y2K compliant.
+
++ Programs not compliant were modified/tested to ensure Y2K compliancy.
+
++ Designed a Salesman maintenance online application in RPG utilizing sub-files, DDS, UIM (help panels).
+
+Education
+
+Associate of Science: Computer Science
+Triton Junior College - River Grove, IL
+Computer Science
+
+OMNI Midrange Professional User Group
+Skills
+
+API, AS/400, CLP, CL, Clarify, COBOL, CRM 4.0, CRM, Client, clients, DDS, database, Eclipse, FTP, hub, IBM, IBM WebSphere,
+‘WebSphere, IDE, Java, Korn Shell, layout, messaging, Access, Microsoft Access, Microsoft C+, Microsoft Office Suite, Windows, MQ
+Series, MySQL, next, Oracle, PL/SQL, pricing, Programming, QA, real time, retail, RPG, RPG IIL, RPG IV, RUMBA, scripting, SSH,
+tables, Tax, UNIX, Unix scripting, Utilities, VI, Microsoft Visual Studio, Windows Programming, WinZip, written, Y2K

@@ -1,0 +1,163 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor tS (555) 432-1000 4 resumesample@example.com
+
+INFORMATION TECHNOLOGY EXECUTIVE Systems Engineering Value-Adding Solutions Network Secunty ~
+Leveraging more than 20 years of IT development, entrepreneurial, and leadership experience to fully
+address the evolving needs of business through innovative technology solutions ~ Accomplished, results-
+driven IT Director with extensive experience in the competitive construction, storage, and technical services
+industy, a superb education that includes a Master's Degree in IT Security and numerous industry
+Certifications, and a history of leading teams to identity and develop high quality technical solutions that
+‘maximize the success of diverse and demanding clients. Seeking a director-levelT leadership rote that vill
+lead to new career challenges and professional development opportunities with a dynamic and growing
+Company. Top-pertorming IT executive vith almost 15 years of directorlevel leadership experience and a
+reputation for success in aligning IT strategies and engineering solutions that drive client success and
+business growth. Pragmatic and creative technical leader driven to learn and implement new concepts and
+technologies. Unparalleled analytical acumen; adept at identifying unique cient technology requirements and
+a proven track record of successfully managing large client-focused implementation, integration, and
+Inigration projects. Superb leadership and interpersonal skis that promote a successful growth-focused team
+culture and facilitate the building of strong relationships with peers, key clients, and major industry
+stakeholders. Highly proficient with all major computer and network technologies, the software development
+life cycle, and countless applications, tools, and languages.
+
++ Infrastructure development + Adaptability
+
++ Security planning + Collaboration
+
+Teambuilding ‘+ Planning and Coordination
+
+DIRECTOR OF INFORMATION TECHNOLOGY 01/2013 to CURRENT
+
+Indiana Packers Corporation | Delphi, IN.
+
+‘+ Currently serving in a high level executive leadership role focused on maximizing the success of
+software and hardware solutions for an industry-leading storage products and services company
+netting more than $550M in annual revenue.
+
+‘+ This involves intensive oversight of all sofware and hardware engineering actives for video-based
+security systems and other products, collaborating vith vendors and internal stakenolders to dive new
+Infrastructure and cost control strategies, and leading risk assessment audits and securty awareness
+training to improve team knowledge of vulnerabilties and the recovery process.
+
+‘+ Major Accomplishments.
+
+‘+ Spearheaded an innovative VoIP solution that maximized customer support, improved product
+‘marketing, and revolutionized the analysis and tracking of key data involved with team-specific call
+‘center phone call handling and online ad-source numbers.
+
+‘+ Introduced new operational procedures that improved the delivery and support of phone and network
+services to more than 40 Southern Calfornia storage racities
+
+‘+ Implemented improvements tothe capacity planning and virtualization process that secured 99.99%
+‘uptime in a 247/365 support environment,
+
++ Integrated a number of new technologies including a web portal and the Xpress Phone Pay system
+‘which slashed support call volume by over 32% while also boosting call center productivity by almost
+40%.
+
++ Created a variety of new secunty policies and PCI OSS aualting procedures that improved fong-term
+‘operational compliance and assured maximum customer protection levels.
+
+‘+ Engineered and implemented a number of innovations involving core back office applications and
+physical servers to the company's VSAN model
+
+DIFECTOR OF INFORMATION TECHNOLOGY & PROGRAM MANAGER I 01/2008 to 01/2013
+Accenture Contractor Jobs | San Francisco, CA
+
+‘+ Expenty oversaw all aspects of echnical support, project development, and IT engineering for a world
+leading provider of technical, professional, and construction services,
+
+‘+ This involved direct leadership of a diverse sales, service, and support team, planning budgets and
+resources for small to medium-sized implementations, and developing a wide range of cutting-edge
+Solutions to effectively address the needs of clients with up to 60,000 users.
+
+‘+ Also managed the entire solution Ifecycle including presales, sales, design, implementation, and
+‘monitoring,
+
++ Major Accomplishments
+
++ Commended by company leadership for securing more than $4M in retained annual revenue by
+recovering 70+ mid-tier accounts,
+
++ Led the successful integration of 4 separate M&A companies into Jacobs' extsting business model
+through analysis, identification, and resolution of issues involving existing employees, systems, and
+ents,
+
+‘+ Successfully managed a high level international project in Abu Dhabi devoted to resolving major
+‘SCADA compliance issues.
+
+‘+ This project involved leadership of a dverse securty group and utlized a dual network with single
+Integrated ICS logging to effectively track data and resolve existing compliance Issues,
+
+‘+ Revolutionized operations and maximized HIPAA compliance for Orthopedics Specialists of North
+‘County through the implementation of several major solutions over a 4-year span involving firewall,
+Client access points, and the creation of new access polices, data polices, and rights.
+
+‘+ Bult a strong long-lasting partnership with Caster Family Enterprises through close analysis of
+technology needs for 25 separate locations, implementing high speed bonded T-1 infrastructure for
+‘each, and engineering an innovative single point of access to faciltate data tracking and security
+‘monitoring.
+
+FOONDER & DIRECTOR OF INFORMATION TECHNOLOGY 01/2004 to 01/2008
+SI DATA SYSTEMS | City, STATE
+
+‘+ Built and directed a highly successful IT services company from the ground up which quickly evolved to
+‘serve more than 35 major clients and net over $2.2M in annual revenue
+
+‘+ This involved extensive outreach and marketing solutions to potential cients, designing and
+engineering new products and services, and providing best-n-class pre and post-sales support to
+every customer.
+
+‘+The company eventually became Jacobs Advanced Consuling Services after being sold to RL
+
++ Phitips in 2008,
+
++ Major Accomplishments.
+
+‘+ Quickly resolved a major crypto/ransomware virus infection for S's fst client which involved tracking
+the source ofthe original infection, executing a data restore from before the virus deploy date,
+‘upgrading all ant- malware and fimware, and implementing stat training to prevent future occurrences,
+
+‘+ Developed an innovative low-cost remote access solution for a local construction company that
+Incorporated remote access functionality on their existing firewall and the addition of a virtual server
+‘and CA cert to improve data flow and streamline usage of exsting infrastructure.
+
+INFORMATION TECHNOLOGY PROJECT MANAGER 01/1997 to 01/2004
+AXXIS COMPUTER TECHNOLOGY | City, STATE
+
+‘+ Buia reputation for excellence in the handing and management of large technology projects and the
+development of new hardware and software-based solutions for a diverse clientele.
+
++ Also handled a variety of additional key tasks including vendor negotiations, needs analysis and
+relationship building with clients, and working vith company leadership to drive new solution
+development strategies with a focus on maximizing revenue and market share
+
+‘+ Major Accomplishments
+
+‘+ Led a major intative forthe cient Gray Cary that significantly reduced the IT processing time required
+{or all major operations and streamlined server access by taking more than 200 antiquated workstation-
+based servers and migrating them to 40 Compac Prolient servers.
+
+‘+ This also greatly improved client security and increased efficiency for software patches/updates,
+
+Master of Science | IT Secunty & Assurance Computer Securty & Information Assurance 2017
+WESTERN GOVERNORS UNIVERSITY, Salt Lake City, Utah
+
+Bachelor of Science | Business Administration, Project Management & Operations 2005
+UNIVERSITY OF PHOENIX, Phoenix, Arizona
+
+Certied Hacking Forensic Investigator EC-COUNCIL Certitied SCADA Securty Architect NFOSEC
+INSTITUTE ESx 3.5 installation & Configuration VMWARE Certified Ethical Hacker EC-COUNCIL Microsoft
+Certied Systems Engineer MICROSOFT CORPORATION Leadership & Communication MICROSKILLS.
+EXCELLENT REFERENCES & RECOMMENDATIONS AVAILABLE UPON REQUEST

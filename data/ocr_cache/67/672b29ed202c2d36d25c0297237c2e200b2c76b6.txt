@@ -1,0 +1,97 @@
+Mary Uchimoto
+
+QA Tester
+
+Accomplished QA tester with 4+ years of experience. Skilled in manual and automated testing and creating test plans. Seeking to exceed
+
+Amazon's high standard for Android-based testing. At HollyRocket, Inc., created 200+ test plans and helped increase testing efficiency by
+
+31%.
+
+(2) Personal Info
+Phone
+269-587-3440
+
+E-mail
+maryzuchimoto@gmail.com
+
+Linkedin
+linkedin.com/inimaryzuchimoto
+
+@ sxills
+
+test plans & cases
+selenium
+
+automated &
+manual testing
+
+interpersonal skills
+communication
+teamwork
+
+efficiency
+
+@ Experience
+
+2016-03 -
+2020-06
+
+2015-06 -
+2015-12
+
+QA Tester
+
+HollyRocket, Inc., Lansing, MI
+
++ Developed 200+ test plans and test cases, including performance test plans
+and security test plans.
+
++ Assisted lead QA tester with creation of master test plan. Wrote 40% of final
+master plan
+
++ Reviewed ~100 user interfaces for functionality and adherence to design
+guidelines.
+
++ Executed test cases across 15+ functional product areas, beating team
+efficiency averages by 20% against work-completion deadlines.
+
+* Drafted testing reports, reducing data to key insights that helped increase
+team efficiency by 31%.
+
++ Collaborated with 6 software development engineers to build a deep
+understanding of features and architecture prior to testing.
+
+Programming Intern
+
+AljanaTech, MI
+
+* Created six product test plans that were put in use by the QA team
+
++ Performed manual tests on 15 client software projects.
+
++ Used Java and Python to write testing automation code for 2 key projects.
+
+(=) Education
+
+2016-06
+
+Calvin University
+
+BS in Computer Science
+
++ Active member, Student Programming Association
+
++ Recipient, John. W. Dodson scholarship for excellence in coding
+
+(i) Additional Achievements
+
+Active member, ASTQB
+
+Wrote article on QA testing published on TechCrunch
+
+(2) Certificates
+
+Certified Tester Foundation level (CTFL) — ASTQB
+
+CP-SAT Certified Professional Selenium Automation Testing

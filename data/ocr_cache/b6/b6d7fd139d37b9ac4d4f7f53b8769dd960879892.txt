@@ -1,0 +1,82 @@
+Heinrich Klaasen ouno00. 000
+
+; emnail@emailcom
+Senior Business Analyst
+
+‘Accomplished Business Analyst offering over 10 years of experience driving revenue by analyzing,
+documenting and helping with the implementation of holistic software solutions. Creative and dynamic
+problem solver with proven expertise in consistently delivering above expectations. Adept at working under
+stress and with short timelines to consistently achieve goals both as a cross-functional team member and
+individual contributor.
+
+Work Experience
+
+* Consulting and overseeing the delivery planning and delivery execution and customer
+
+2015-05 - Present relationship management.
+
+* Leading the required documentation and solution design.
+
+* Authoring and helping to implement more than 90 complex system requirement.
+
++ Managing system changes and new initiatives worth approx $5 million/year, for last several
+years.
+
+* Conducting system usage and functional gap analysis for London, New York, Chicago, and
+Houston stations.
+
+* Formulating profitability business cases to allow leadership to choose the right initiatives.
+
+Valdez International Senior Business Analyst
+
+Corporation * Collected and data analyzed trend about KPI (key performance indicator) from all function in
+operations such as the cost, over time, line utilization, yield, actual production,
+
+2013-03 - 2015-04 © Found relative of data and identify process bottlenecks.
+
+* Led cross-functional teams to analyze and understand the operation impacts.
+
+* Found the way to improve and set up an action plan with cross-function
+
+* Followed up the status of the action plan and tried to control them.
+
+NTT DATA, Inc. Business Analyst
+* Assisted and provided support to the stakeholders during the implementation of the product
+
+2008-08 - 2013-02 within agreed timelines.
+
+* Performed the user acceptance testing (UAT) and user training as part of implementation to
+ensure a better customer experience.
+
+* Managed a team of S technical team members in line with the company's policy and
+procedures,
+
+* Organized and supervised the team to achieve the targets.
+
+* Managed the change initiative programs with the help of the team,
+
+* Maintained all the records of the process and projects as part of the documentation.
+
+NTT DATA, Inc. SAP Consultant
+* Monitored daily BW uploads and Jobs, re-peat scheduled jobs when daily uploads were
+
+2006-06 - 2008.07 delayed, resolved several issues during uploads.
+
+* Customized and managed modeling of BW to meet the business requirements.
+
+* Designed Process Chains to run data validation before loading Excel files and to load delta load
+from legacy or R3 sources.
+
+* Efficiently used Data Services Management Console to schedule and execute jobs, controlled
+repositories and perform metadata reporting,
+
+* Created complex Jobs, Work Flows, Data Flows, and Scripts using transforms to load data from
+multiple legacy sources into the desired target.
+
+Education
+[_trivensity otters] Master of Science in Business Administration
+2003 - 2005
+[_trivensity otters] Bachelor of Science in Business Administration
+2000 - 2003
+
+Skills

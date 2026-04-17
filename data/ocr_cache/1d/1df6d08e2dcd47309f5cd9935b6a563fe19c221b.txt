@@ -1,0 +1,64 @@
+JAKE DIETRICH
+
+Information
+
+Address
+
+46268 Bahringer Dale
+Phoenix
+
+AZ
+
+Phone
++1 (555) 266 6522
+
+@® EXPERIENCE
+
+09/2018 — present
+New York, NY
+
+11/2015 — 04/2018
+New York, NY
+
+FAY-ZBONCAK
+Lead Et! Developer
+
+Experience handling bigdata (parquet, ORC formats, hive
+based metadata) and real-time data processing
+
+Exposure to Cloud RDS databases like Aurora DB
+
+Experience with AWS Cloud based ELT services such as Glue,
+Database Migration Services, and data streaming services
+such as Kafka, Kinesis
+
+Exposure to healthcare and / or insurance data
+
+FLATLEY-WATSICA
+Database / ETL Developer
+
+e Proven experience as an ETL developer
+
+e MS SQL Server experience
+
+¢ Prior experience in complex data warehouse structure
+
+¢ Intermediate experience in MS SQL, ETL data processing,
+Informatica, SSIS, , and Dashboard / reporting, Cognos, SSRS,
+Qlik
+
+© EDUCATION
+
+SKILLS
+
+SAVANNAH COLLEGE OF ART AND DESIGN
+
+Bachelor's in Computer Science
+
+e Understanding of ETL Best Practices/Methodologies, relational structures, dimensional
+data modeling, structured query language (SQL) skills, data warehouse, and reporting
+
+techniques
+
+¢ ETL/SSIS development skills
+¢ Highly organized, structured and self-directed

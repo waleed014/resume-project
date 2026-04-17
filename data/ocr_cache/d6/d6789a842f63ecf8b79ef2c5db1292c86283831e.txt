@@ -1,0 +1,204 @@
+‘SUMMARY
+
+SKILLS.
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor t2 (885) 432-1000 4 resumesample@example.com
+
+Director of IT & infrastructure with 12+ years of experience at the enterprise level with global firms serving
+Fortune 100 companies. Very comfortable with CentOS/RHEL 6-8, AWS, Azure and GCP systems design,
+
+security and project management. Currently ITIL certified,
+
+‘Security Improvements .
+Project Coordination
+Infrastructure Planning .
+
+‘Training & Development
+
+‘Team Management .
+
+‘Security Technologies: Barracuda Email Security
+
+Service, Barracuda Web Application Firewall,
+
+‘Thycotic Secret Server, Duo MFA, Azure AD
+
+Conditional Access and Access Reviews, JAMF,
+
+‘Sophos MTR, JumpCloud, ProVision SIEM, Ivanti
+
+VPM, Nessus Vulnerabilty Scanner, Sentinel +
+
+‘One NGAV
+
+Cloug/On-Prem Technologies: Apache, Nginx,
+
+‘Tomcat, Exchange 365, Office 365 Azure AD,
+MySQL, PostgreSQL, JDK 6-10, JIRA,
+Confluence, BitBucket, Git, AWS EC2, RDS, IAM
+
+(On-Prem Technologies: EqualLogic SANS,
+NetApp Storage, XenServer, VMWare
+
+Monitoring: Nagios, Jira Service Desk, New Relic,
+VietorOps, DataDog, Lacework
+
+Operating Systems: CentOs 5-8; Windows 7-11;
+‘Windows Server 2008-2019; MacOS
+
+Training and compliance solutions: KnowBed,
+Pluralsight
+
+Microsoft Technologies: Active Directory, DNS,
+‘Azure AD wiSAML 2.0 and LDAPS
+
+Scripting (order of knowledgeabilty): Bash,
+Python, Powershell
+
+Networking: AWS VPCs, AWS VPN Connectors
+and Gateways, Route 53, Ubiquiti, Cisco
+Switches and Routers, Juniper firewalls, switches
+and routers, WireGuard, Perimeter 81, General
+
+CloudWatch, CloudFormation, Barracuda Cloud-
+to-Cloud backup, Google Workspace,
+Lucidchart, NetSuite, Salesforce
+
+IPSEC and SSL VPN
+
+DIRECTOR OF INFORMATION TECHNOLOGY AND INFRASTRUCTURE 04/2021 to CURRENT
+
+Exact Sciences | Chicago, IL
+
+‘+ Analyzed financial data, developed budget and managed expenditures for technology services.
+
++ Examined metrics and prepared IT project progress reports
+
+‘+ Streamlined mobile and cloud-based computing through blend of efficient and ertective applications with
+‘ongoing reliability testing
+
++ Controlled operational IT budget and expenditures within department parameters,
+
++ Assigned and revieved work of IT project managers, systems analysts and developers.
+
++ Evaluated organization's technology to recommend upgrades for hardware and software.
+
++ Developed data secunty and disaster recovery procedures.
+
++ Designed contingency planning, formal training and employee development plan to increase staff
+uaity performance.
+
+‘Attended ongoing seminars, workshops and continuing education courses to remain current in
+emerging technology and advancements
+
++ Analyzed workilows and established priorities for daly operations
+
++ Reviewed and approved project plans prior to implementation.
+
++ Met with stakeholders to collaborate and resolve problems.
+
++ Recruited, trained and supervised IT department stat
+
+‘+ Managed customer facing team along with 24/7 SOC
+
++ Designed, implemented, and maintained mult.VPC, Mult-AZ AWS stack for internal data aggregation
+
++ Worked with the Director of Business Analytics and Data Architect to migrate on-prem systems to the
+‘AWS cloud
+
+‘+ Designed and implemented Zero Trust Architecture to provide secure access to company resources
+during pandemic
+
++ Technical lead for Salesforce and Marketing Cloud
+
+‘+ Technical lead for GOPR, FDA CFR 21 Part 11, and HIPANHITRUST compliance
+
++ Acted as HIPAA Secunty Officer for the organization
+
++ Acted as GDPR Data Protection Officer for the organization
+
+MANAGER, IT SECURITY/SENIOR ENGINEER
+Salient Crt] San Antonio, TX
+
++ Technical lead on SOC2 type 2 aut for infrastructure and Network Services teams
+
+‘+ Designed, built and managed Jira ITSM Service Desk with Insight Asset Management
+
+‘+ Led an IT team managing technical issue and customer expectations in the US, UK, EU and APAC
+regions
+
+‘+ Generated and updated internal Security Policy, Change Management Policy and additional
+documentation using NIST Cybersecurity Framework
+
++ Served as member of Security Steering Committee answerable to the Board of Directors
+
++ Technical Lead on GDPR/Privacy Shield/APPUCCPA Compliance team
+
+‘Designed and maintained Nessus Vulnerability Scanner instances in AWS
+
+‘+ Designed and implemented Change Management Workflow and ticketing in Jira Service Desk
+
+‘© Designed and implemented mult-VPC, multi-AZ, cross region AWS infrastructure siloed by environment
+(Dev, QA, CA, Prod, Ops, DevOps) in US, EU and APAC
+
++ Designed and/or implemented Duo MFA, Perimeter 81, Ivanti VPM, Provision SIEM, Sophos MTR,
+Barracuda ESS, Azure AD SSO and Thycotic Secret Server deployments in all applicable environments
+
++ Built and configured Hardened CentOs 7 and 8 images for deployment across environments
+
++ Built and administered AWS Secure Bastions, VPNs, Gateways, WireGuard Connectors, etc
+
+‘+ Administered mix of Datacenter and AWS hosted servers and instances in US, EU and APAC
+
++ Designed SharePoint Online and Files.com instances for secure sharing for internal and external users
+
+‘+ Designed and implemented externally facing Jira Service Desk with Customer Support Lead
+
++ Managed, built, maintained, and automated deployment of multiple internet-facing Apache/Nginx and
+Tomeat stacks
+
+‘+ Along with Director of IT, migrated remaining Colo Hosted Services to AWS EC2, ActiveMQ, RDS, CDN
+and $3
+
+‘+ Scripted appropriate server-side functions using Bash, Python or PowerShell where appropriate
+
+‘+ Migrated on-prem Exchange 2010 DAG to Exchange 365
+
+07/2018 to 04/2021
+
+SECIOR SYSTEMS ADMINISTRATOR.
+CO CONSULTING | City, STATE
++ Began Migrating Greenwich office from on-prem Office 2013/Exchange 2010 to Office 365 with
+Exchange Online
++ Began Migrating Greenwich office from on-prem PBX to Cloud PBX via Skype for Business Online
+‘+ Managed multiple MS SQL server instances, including database administration, backup, data import
+and query writing
++ Maintained network hardware and services including FortiGate router, Cisco switches, client VPN, site-
+to-site VPN, DHCP, ONS, WiFi
++ Developed and refined general documentation for systems, services, policies procedures and Disaster
+Recovery
+‘+ Organize collaborative Taskforce between departments to identify new technology and training for the
+company.
+
+02/2015 to 06/2018
+
+DEOKTOP SUPPORT TECHNICIAN
+CO CONSULTING | City, STATE
+
+‘+ Implemented Application Control Whitelisting Policy prior to rash of Ransomware attacks
++ Maintained workstations images via DISM, WOS, and imagex
++ Managed workstation settings and security via WSUS, McAfee, and GPOs
+
+07/2012 to 02/2015
+
+BS | Cybersecurity and Data Assurance
+WESTERN GOVERNORS UNIVERSITY, Salt Lake City, UT
+
+07/2023

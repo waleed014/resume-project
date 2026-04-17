@@ -1,0 +1,94 @@
+Warren Taylor
+
+DATA SCIENTIST
+
+2) Summary
+
+warren.taylor@gmail.com
+1-202-555-0122
+
+Ithaca, New York
+linkedin.com/iniwarren
+
+soom
+
+Skills
+
+Ahighly competent data scientist with five years of experience developing a
+wide range of innovative applications like Credit Card Fraud Detection,
+Stock Sentiment Analysis Model, and Customer support system.
+
+Ability to use (data) statistics and machine learning for finding complex data
+patterns that drive meaningful impact on the business.
+
+1 am looking for the opportunity to build a challenging career and apply my
+skills in an innovative and simplify process. | enjoy working in a team and
+communicating data-driven results.
+
+| ea Experience
+
+Oct 2018 - Present
+
+Data Scientist
+Info Tech Solutions - New York
+* To predict house prices using time series
+analysis and neural networks
+* Identify factors that predict which employees
+will have the best performance and which will
+benefit from a change in their job position
+using machine learning.
+‘* Designed the information architecture and
+model of an organization's assets
+* Coordinated with the stakeholders on project
+progress.
++ Involved in the continuous enhancements and
+finding the best solution.
+
+May 2018 - Sep 2018 Data Scientist Consultant
+JP Morgan Asset Management - Flot
+
+* Predictiing the Stock price using sentiment
+analysis model.
+
+‘* Finding the stock market daily patterns and
+creating a meaningful solution to the business.
+
+‘+ Identifing the Mulit bagger stocks using
+machine learning and Al
+
+| =| Education
+
+Sep 2017 - Sep 2018 Master of Computer Application
+
+Cornell University - Ithaca, New York
+
+Sep 2016 - Sep 2017 Bachelor of Computer Science
+
+Python &R Bane
+NLTK & OpenCV aann
+SQL & SAS SEaa
+SPSS & STATA anne
+PowerBl & Spotfire anEee
+Languages
+English aoe8
+Spanish aan8
+Catalan ann
+French Bane
+Personal Skills
+
+Communication Bane
+Motivation to learn Bene
+Result-oriented Bane
+Analytical mind aaue
+Enthusiasm & optimism anne
+Critical Thinking aaae
+Presentation Skills anna
+B Certification
+
+OpenCV, Python 2019-01-10
+Al Solution Tech - Florida
+
+Matplotlib & GCP 2019-09-17
+
+Cloud Solutions - New
+York

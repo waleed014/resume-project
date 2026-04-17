@@ -1,0 +1,147 @@
+Jessica CLAIRE
+
+‘Montgomery Stret, San Francisco, CA 94105 # (555) 432-IXXX # resumesamplesexample.com
+
+Professional Summary
+
+‘+ Over 4 years of IT experience in API and Application development and 3+ years of experience in Enterprise application
+Integrations using Mule ESB.
+
++ Expertise in working with Mule API manager and RAML over Any point Studio, Cloud - Hub, API Gateway and Management.
+
+«+ Expertise in developing the integration workflows using an ESB framework
+
+‘+ Expertise in Relational Database such as Oracle and Mysql Database.
+
+‘+ Good experience in implementing Service Oriented Architectures (SOA) with XML/ISON based Web Services (SOAP and REST)
+with technologies like WSDL, SOAP.
+
++ Good experience in using Transformers, Filters, Flow Control, Collection splitters /Aggregators/ Scattes- Gather etc.
+
+++ Expertise in using Mule Data Weave in Data transformations for in Mule Flow.
+
+«+ Extensive usage of Maven to build scripts for automated the build process
+
+++ Good experience on Mule flow variables, record variables, MEL (Mule expression language), various connectors like (File, HTTP,
+Oracle database, Salesforce, CXF), flow references and exception strategies.
+
++ Application integration experience using Mule ESB with connectors, transformations, Routing, ActiveMQ, JMS and RabbitMQ.
+
+‘+ Experience in ANT and Maven build tools for building and deploying the application in web/app servers.
+
+«+ Field experience with Munit and Logijin developing test cases and determining application functionality.
+
+++ Experience in Mule Administration, Configuration and Tuning with Mulesoft MMC and Enterprise release capabilities.
+
++ Experienced in different IDEs like Eclipse, Intelil, NetBeans, Any Point Studio and Maven for Development.
+
+++ Good experience extensively in Agile, Waterfall methodologies.
+
+Skills
+Integration: Mule3.7, Mule 39 and 4.3 runtime, CloudHub, Web Service: XML, JSON, XSLT, XSD, SOAP, REST
+Languages: Java, python, ruby, dataweave Tools & UtiitiesJenkins, Maven, Nexus, Git, SVN
+
+Databases: Mysql, Oracle, DB2, Oracle 11g/ 12candMSSQL Platform: Windows, Linux, MacOS
+Server
+Servers: JBoss, Apache Tomcat, Apache HTTP Server 2.x, JBoss 5x
+
+Work History
+
+MuleSoft Developer, 12/2020 to Current
+Solugenix—Santa Ana, CA
+
++ Design and Implement RESTFUL/SOAP Web Services using various data format (JSON, XML to provide an interface to the
+
+various third-party applications
+
++ Design vasious types of flows which are integrated with Salesforce, Workday, Oracle, Amazon Web Services, Mainframes
+
++ Create flows that provide and consume services (SOAP & RESTI4l)
+
+++ Implement complex message transformation using Dataweave and configure large file processing,
+
++ Create reusable components such as global exception handling strategy and common logger
+
++ Develop, test and consuime message flows that are exposed as both SOAP and Rest services to consumer applications
+
++ Prepare technical documents and turn over documents
+
++ Deploy applications to different environments (Test, QA, PROD)
+
+++ Implement error handling and logging in the message flows
+
++ Configure Rabbit message broker for communication between the applications
+
++ Use various connectors and even processors like File, FILE, SFTP, IMAP, HTTP, Oracle database, Salesforce, CXF
+
++ Use various Atlassian toolset like; itbucket, JIRA and confluence
+
++ Troubleshoot issues with message flow services and provide quick turnaround for fixing and testing
+
++ Provide 24X7 production support and conduct WAR room meetings
+Environment - Mule ESB 4.3.x, AnyPoint Studio 7xx, API Manager, Altova, XMLSpy, API Gateway, Salesforce, CloudHub,
+Rabbit MQ, Oracle 11g/ 12¢, Java 7/8
+
+‘MuleSoft Developer, 06/2018 to 11/2020
+Solugenix —Brea, CA
+
++ Participate Create RESTful APIs using API Designer and generated flows using RAML file
+
+++ Create design document specifications, troubleshoots and testing
+
++ Integrate various enterprise applications perdesigned architecture
+
+++ Leverage various connectors; Database, HTTP, Webservice Consumer, JMS, Objectstore, FTP and File etc
+
+++ Leverage various routers; Choice, Scatter-gather, until successful and ete
+
+‘+ Implement choice, global, custom exception handling mechanisms based on the business requirement in MULESOFT ESB
+
+«+ Used both SOAP Ul and REST POSTMAN testing tools for testing the Web services developed using SOAP and RESTful
+
+respectively
+‘+ Implement transformation logic with DataWeave with custom Java Classes and used Data weave to transform xm to custom,
+JSON files
+
+‘+ Implement exception handling, testing & Security of Mulesoft ESB endpoint through OAuth
+
+++ Created re-usable Mule flows and Exception strategies in Mule configuration for the System APIs
+
+‘+ Implement logging and exception handling mechanism
+
+«+ Implement guaranteed message delivery using AnypointMQ reliability design pattems
+
++ Plan, prepare and execute cutover activity and support hyper-care
+
++ Designed and documented and APT strategy, persistence and exception handling strategy
+
++ Performed CloudFub admin role like creating environment, Users, Business group, roles, VPC and other
+
+‘+ Leverage SOAP Ul and REST FOSTMAN tools for testing the Web services developed using SOAP and RESTful respectively
+
+‘+ Migrate flows and configurations from Mule 3 to Mule 4.3
+
+‘+ Automate application build and deployment with Jenkins, Maven, Git and Nexus
+Environment: Mule 4.3, Mule 3.8, AWS, $3, Anypoint Studio 6.5 and 7.6, Jenkins, Splunk, GIT, Java 8.1, JEE, Oracle 11g,
+Salesforce, SQL Developer, Anypoint MQ.
+
+‘Web Developer, 10/2015 to 05/2018
+‘Arthur J Gallagher & Co. ~ Cleveland, TX
+‘+ Understanding the client requirement and developing the code using Python scripting
+++ Developing the code by using Python modules
+‘+ Involved to developing in Login, Register information module
+«= Involved in design and implementation of project
+«+ Involved in creating page templates required for the project,
+«+ Interacting with team members on technical programming
++ Solving production support issues (such as bug fixes, queries etc)
+++ Prepared documentation for the generated reports
+‘+ Developed the customer complaints application using Django Framework, which includes and Python code
+«= Involved in development of main modules like CSV import, bulk content upload
+‘+ Writing unit test cases where ever required on the application
+«+ Performing code optimization
+Environment: Python, Django, Oracle 11g, HTMLS, CSS3, Windows
+
+Education
+
+BSc.: Computer Science, 2019
+Sample

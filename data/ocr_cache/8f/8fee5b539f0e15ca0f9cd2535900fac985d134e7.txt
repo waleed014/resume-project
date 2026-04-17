@@ -1,0 +1,126 @@
+ACCOMPLISHMENTS
+
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 2 (655) 432-1000 <4 resumesample@example.com
+
++ MS Degree Project: reated a web based software for online application and admission management, for.
+
+‘+ Texas Tech Computer Science Department
+
++ Used OOD approach to implemented and managed SDLC.
+
+ol
+
+‘+ Course work Projects: mplemented core data structure and algorithms to accomplish projects like
+Search Engine Used inverted index for efficient query from a large collection of text documents.
+
+‘+ NPuzzle Solving Algorithm: Designed an efficient algorithm using branch and bound technique
+
+‘+ Image Recognition: Histogram based image recognition and search system to query similar image.
+
+‘+ Network Protocol Simulation: To compare for efficient message communication in wireless sensor.
+
++ Device driver: ART driver for ARM V7A processor and implemented chmod, chown system calls.
+
+wou
+
+4+ year of agile and continuous integration development experience on Web Services Modularize code using
+Factory, Command, Builder and other industry standard design patterns. Develop robust code by using
+frameworks like Guice, junit, mock, PowerMockito, integration testing, and code coverage tools like clover
+Review user requirement, tech design and team management by breaking epic JIRA to smaller tasks Code
+release, peer code review and fixing of critical bugs/issues raised by clients
+
+Expertise Java, RDBMS, UML, SDLC, JDBC, RESTFul
+Web Service, Dependency Injection, Design Patterns
+Framework Guice, Gatling, JAXRX, Jersey, Hibernate,
+Spring, Jmeter Mac, Unix, Windows Development Tools
+
+Eclipse, SQL Developer, SVN, Crucible, Jenkins, Jira,
+Git, Maven, TomCat
+
+‘SOFTWARE ENGINEER II, BACKEND DEVELOPER 11/2015 to CURRENT
+Cerner Corporation | City, STATE
+
+‘+ Leading a team of 4 engineer with projects complying FHIR (Fast Healthcare Interoperability
+Resources),
+
++ standards, to provide web services to third party clients like: C.
+
+‘+ Scheduling Web Service for Kiosk: reated service to provide following functionality to user (Patient):
+Search for the nearest Provider and check its availability for appointment Schedule and modify
+appointment, and get reminder/notifications C.
+
+‘+ Appointment Retrieval Web Service: reated service to search appointment with following functionality
+Ability to search with time interval ranging from days to years and filter result by location or Provider
+Implemented pagination to handle wide time intervals and improve service responsiveness
+
+‘TWARE ENGINEER |, BACKEND DEVELOPER 01/2014 to 11/2015
+
++ Designed and developed several server side RESTIul services using Jersey implementation, to make
+scheduling actions scalable and stream line.
+
+‘+ Some major projects are: Web Service to Schedule Large Scale Appointment: Created services to
+perform following actions Scheduling appointment in bulk based on availability of time.
+
+‘+ Maintaining future appointments based on patient recovery process.
+
++ Tracking and Reporting Web Service for Dashboard: Created and implemented service APIs to Track
+patient recovery progress and retrieve health insurance information.
+
+‘+ Process billing based on insurance information more efficiently.
+
+‘+ Web Service to Retrieve Provider Specialty: Created services to perform the following actions Used
+google service AP! to retrieve nearby location based on valid ZIP code and treatment.
+
+‘+ Used diagnosis, treatment and insurance information to calculate approximate expense.
+
+‘+ Middleware for Foreign Interface Main role performed in this project are Performed Team Lead
+responsibility for team based in US and India in an agile environment.
+
++ Created service to translate ICD9/10 diagnosis code to calculate approximate expense
+
+‘+ Web Service to Assist Appointment Created services to assist scheduler by implementing algorithm to
+Optimize utilization of Provider time availability and accounting appointment restrictions Optimize
+Provider selection based on the user preference and location : Web Service to Manage Appointment
+Created service to assist in managing appointments by Automate follow up appointments for patients
+registered in system Canceling future appointments for discharged or deceased patients
+
+‘SCOTWARE ENGINEER |, FULLSTACK DEVELOPER 08/2012 to 12/2013
+
+‘+ Improved user experience and added new functionalities, few of them are: Manage Appointment:
+Developed services and intuitive user interface to perform major actions like: Display suggested
+appointment based on time availability with reduced mouse click and keyboard action.
+
++ Move, cancel and reschedule appointments within a calendar view of single or multiple day.
+
++ Generate and display availability report based on patient, location or doctors
+
+‘+ Elmproved Customization and Responsiveness: nhanced client side code to support: Different actions
+from same user interface using mainly Command and Listener design patterns.
+
+‘+ Improved responsiveness by adding background service calls, using multithreading.
+
+‘+ Information Access Restriction by implementing security key chain for scheduler.
+
++ Hackathon project Release plugin: Created maven plugin to automate tag creation and version update
+for project release Maven plugin: Created maven plugin to syncup code in deployment branch and
+master Jenkins Script: Created Jenkins job to scan crucible and provide notification for due code
+reviews on IRC Testing Library: Created library to test Java model objects created using builder pattern
+C Testing REST Client: reated web application to test web services similar to Postman REST Client.
+
+Master of Science | Computer Science AUG 2012
+Texas Tech University, TX
+
+GPA: GPA: 3.50
+
+Computer Science GPA: 3.50

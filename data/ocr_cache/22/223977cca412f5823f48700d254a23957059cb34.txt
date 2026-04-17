@@ -1,0 +1,162 @@
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor &2 (555) 432-1000 <4 resumesample@example.com
+
+PROFESSIONAL © Master's candidate with close to 4 years of experience as an ETL Developer and shell scripting and result
+SUMMARY | oriented approach in agile environment. Articulate communicator & team bullder possessing strong technical
+skils in analytics and automation.
+
+SKILLS © ETL Tools ‘Scheduling Tools
+
+Ab-nitio GDE 3.1.5, Co >Opsys (3.0 t02.15), Talend AutoSys, Arow and ControlM
+
+Data Base Version Control Too!
+
+Oracle, Microsoft SAL Server, IBM DB2 EME, GIT.
+
+‘Operating System Defect Tracking Too!
+
+UNKX, Windows 7, Windows XP, Pac 2000, HP-Mercury Quality Center
+
+Languages Data Modeling
+
+SQL, PLISQL, Unix shell scripting ‘Star Schema and Snowflake schema, Enwin tool.
+WORK HISTORY © ETL DEVELOPER 01/2021 to CURRENT
+
+Caci International inc. | Fort Detrick, MD
+
+Extracted data from various sources like databases, delimited fat fle.
+Extensively Used Ab Initio components lke Reformat, Scan, Rollup, Join, Sort, Partition By key,
+Normalize, input Table, Qutput Table, Update Table, Gather Logs and Run SQL for developing graphs.
+Implemented procedures for management of Ab initio applications and Citrix servers.
+
+Developed and enhancement of Ab Initio Graphs and business rules using Ab Initio Functions,
+Performed validations, data quality checks and Data profiling on incoming data
+
+Generated Configuration files, DML files, xr fles for specific Record format, which are used in
+‘components for building graphs in Ab initio
+
+Developed various BTEQ scripts to create business logic and process the data using Teradata
+database,
+
+Involved in design of database and creation schemes and tables in normalized form
+
+Extensively used Mult-oad and Fast-load ulilties to populate the flat fles data into Teradata database.
+Performed evaluations and made recommendations in improving the performance of graphs by
+‘minimizing the number of components in a graph, tuning the Max Core value, using Lookup
+‘components instead of joins for small tables and flat fles, iter the data at the beginning of the graph
+etc.
+
+Responsible for deploying Ab Initio graphs and running them through the Co-operating systems mp
+‘shell command language and responsible for automating the ETL process through scheduling
+Generate SQL queries for data verification and backend testing, Detect and Correct Data Quality
+Issues
+
+Witten stored procedures and packages on server side and developed libraries.
+
+written UNDX scripts to perform certain tasks and assisting developers with problems and SQL.
+optimization,
+
+Implemented phasing and checkpoint approach in ETL process to prevent data loss and to maintain
+uninterrupted data flow against process failures.
+
+‘Automate the complete daily, weekly and monthly refresh using custom bulld UNXX SHELL SCRIPTS.
+
+ETCDEVELOPER 01/2020 10 01/2021
+Caci International inc. | Fort Hood, TX
+
+Developed Ab initio Graphs in order to pull data from the mainframes systems and load them into Data
+Warehouse.
+
+Responsible for reading the Mainframe data by creating the DML. and applying various business
+transformations and loading them in to EFS Datawarehouse.
+
+Extensively used Redefine, Reformat, Multi Reformat, Input table, Output table and Partition By
+Expression etc components in order to apply the business logic.
+
+Worked with production support team to debug issues in production and for migrations from pre prod to
+production
+
+Generated Configuration files, DML files, xr fles for speciic Record format, which are used in
+‘components for building graphs in Ab initio
+
+Provided support in Migration of Ab initio Jobs from RHEL 6 server to RHEL 7 server.
+
+Developed JIL files for automating the Ab initio graphs through AutoSys,
+
+Actively involved in writing the code in MySQL and in developing ETL Transformations using ETL. tool
+Developed alerts emails by using stored procedures to notify the users when a certain table is loaded
+Created SQL Agent Jobs in order to perform various user tasks such as scheduling some T-SQL.
+‘commands or command line statements,
+
+Generated SQL queries for data verification and backend testing, Detect and Correct Data Quality
+Issues
+
+Used inquiry and error functions tke is_valid,is_defined, is_error, s_defined and string functions like
+string_substring, string_concat and other string_* functions in developing Ab Initio graphs to perform
+data validation and data cleansing.
+
+Responsible for designing and developing of the Ab Initio Graphs based upon the client requirement
+Implemented phasing and checkpoint approach in ETL process to prevent data loss and to maintain
+uninterrupted data flow against process failures.
+
+Knowledge of checking the data flow through the front end to back end and used the SQL queries to
+extract the data from the database to validate it at the back end,
+
+Participating in the agile trainings and meetings as a part of the agile team
+
+Created Functional Specific Documents (FSD), Business Requirement Documents,
+
+ETODEVELOPER 08/2017 10 01/2020
+Caci International Inc. | Fort Shatter, HI
+
+EDUCATION
+
+Developed and enhancement of Ab Initio Graphs and business rules in Ab Initio Functions.
+Providing Support in migration of Ab Initio Business logic in cloud by using SPARAL.
+
+Performed Data Profling to assess the risk involved in integrating data for new applications, including
+the challenges of joins and to track data quality
+
+Performing Data Validations between On Prem and Cloud.
+
+Write and modity several application specific scripts in UNIX in order to pass the Environment variables.
+Worked with data mapping from source to target and data profiing to maintain the consistency of the
+data
+
+Involved in monitoring the Ab Initio jobs in and schedules through control M and Arrow.
+
+Worked with production support team to debug issues in production and for migrations from pre prod to
+production
+
+Developed Ab initio graphs for Data validation using validate components like compare records,
+compute checksum etc.
+
+Worked with Wrapper scripting with UNXX Shell programming, Scheduling of Ab Initio jobs wath Arow.
+Worked on testing AB INITIO jobs in DDE as well as in AIC (Ab initio in cloud), which was a part of the
+migration to cloud.
+
+Knowledge of checking the data flow through the front end to back end and used the SQL queries to
+extract the data from the database to validate it at he back end,
+
+Generated Quick Reports for users for data analysis on numerous occasions.
+
+Involved in setting up the routes in EFG (EXTERNAL FILE GATEWAY) tool for different vendors,
+
+Worked in various services in AWS lke Step functions, lambda, EC2, S3, IAM, SNS.
+
+Created high level and low level technical design documents,
+
+Worked with production support team to debug issues in production and for migrations from pre-prod to
+production
+
+Extensively used File management commands like m_fs, m_wc, m_dump, m_copy, m_mkts ete.
+Responsible for cleansing the data from source systems using Ab Initio components such as reformat
+and fiter by expression.
+
+Developed psets to impose reusable business restrictions and to improve the performance of the graph
+Extensively used m_db commands to query the oracle databases for reporting purposes
+
+Master of Science | Computer Science 05/2017
+
+University Of Central Missouri

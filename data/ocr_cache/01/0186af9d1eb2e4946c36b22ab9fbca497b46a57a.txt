@@ -1,0 +1,244 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS.
+
++ Web Technologies: HTML5,
+CSS, CSS3, JavaScript, Angular
+JS, JSP, JSON, XML,REST/
+SOAP web services
+
++ Software Methodologies:
+
+AGILE, Waterfall,
+
++ Database: MySQL, ORACLE
+
++ Operating Systems: LINUX,
+UNIX, Windows
+
++ Servicetiow Versions:Hel
+
+Kingston, London,New York
+
+Build releases
+
+Testing and maintenance
+
+agile
+
+Database management
+
+software
+
+EDUCATION
+
+Indiana Tech
+Fort Wayne, IN + 09/2017
+‘Master Of Science: Engineering
+Management
+
+CERTIFICATIONS
+
++ Certfied ServiceNow
+Application Developer -
+Certification 20591440
+
++ Certified ServiceNow System
+‘Administrator - Certification
+20465158
+
+PROFESSIONAL SUMMARY
+
++ 45a ServiceNow Developer 4 years experience in the field of ITSM and ITOM in implementation of
+Service
++ Experience in Designing, Developing and Administering ITIL, ITSM and ITOM in Service Now
++ Experience in various IT Services of Service Now tool like Event Management, Service Mapping,
+Service Catalog Requests, Customer Service Management, Configuration Management Database
+(cM08), Service-Now Administration, Change, Incident and Problem Management, Knowledge
+‘Management, Service Portal, Reporting, Integration with Web Services.
++ Expertise in developing and maintaining service catalog items and experience with complex
+workflows. Inbound emails actions and update sets for service requests.
++ Experience in implementing end-to-end Incident Management, Configuration and Asset
+‘management, Service Catalog, Change Management, Release Management, Knowedge Management,
+Record Producer and order Guides.
+
+wolved in various inbound and outbound integrations using REST/SOAP Messages, Direct Web
+Services and created various workflows and customized existing workflows for catalog items and
+change approval process.
++ Responsible for the Service Now tool administration module and creation of new Users, Groups,
+Roles, IT Services, Application, Business Services, Routing rules and Blackout Freeze rules.
++ Created many scripts which includes, Business rules (server-side code) and modified 008
++ Defining the process for each service request Creating scheduled tasks, monitoring the ticket
+‘queues and generating statistics.
++ Working knowedge of Knowedge aticles,CMDB and dictionaries.
+
+ADDITIONAL INFORMATION
+
++ Involved in various inbound and outbound integrations using REST/SOAP Messages, Direct Web
+Services and created various workflows and customized existing workflows for catalog items and
+‘change approval process. Created Before and After Business Rules, also involved in debugging
+{issues with existing business rules. Created client scripts/UI policies also with a lot of high-level
+‘customizations lke attaching a custom event Responsible for the Service Now tool administration
+module and creation of new Users, Groups, Roles, IT Services, Application, Business Services,
+Routing rules and Blackout Freeze rules Created many scripts which includes, Business rules
+(server-side code) and modified 008 Defining the process for each service request. Creating
+‘scheduled tasks, monitoring the ticket queues and generating statistics. Working knowledge of
+Knowledge articles, CMDB and dictionaries. Developed UI Actions, script includes and Business rules
+for overall platform.
+
+WORK HISTORY
+
+Saic - ServiceNow Developer
+Richmond, VA « 02/2020 - Current
+
++ Created AGILE approach with 2-week sprint cycle and daily scrums
+
++ Designed Content Management System for Various system which involved layout, CSS, and service
+catalog work
+
++ Created various workflows for Incident Management, Change Management, Service Requests
+and SLA's
+
++ Designed many email templates by using html and jelly scripting and used them in notifications
+
++ Integrated Fire eye tool with Service-Now using Email integration i.e. inbound actions scripting
+
++ Worked on integration of ServiceNow with Siebel, integrated Service Catalog, and Incident
+module
+
++ Used JMS integration to fulfil this requirement, worked on Scheduled Jobs and Mid Server
+Script Includes to fulfil requirements
+
++ Worked on order guides, to arrange them in sequential order to make user comfortable while
+raising request
+
++ Worked on Servicenow to Pager Duty Integration
+
++ Implemented Azure AD to ServiceNow Integration and $50.
+
++ Worked on performance analytics
+
+Saic - ServiceNow Developer
+Vicksburg, MS + 10/2017 - 01/2020
+
+SPC: Created a custom application and a Service portal for the vendors to submit measurements in
+the form of variables and attributes with timely messages and notifications checking the accuracy of
+the measurements.
+
+Talent Management Feedback survey: Created a custom application for HR management which holds
+the results of a confidential feedback survey that helps in career growth of individuals. It is @ survey
+built wth a workflow sending reminders at regular intervals to feedback providers.
+
+‘Treasury Request (Human Resources): A custom application built for the treasury department for
+requesting payment from the portal
+
+Project: Upgrade process from London to Madrid: Clone Production instance over Sub-production
+instance to validate the features of an upgrade with accurate results. Create update sets to capture
+fixes and apply the same to Production instance post upgrade. Responsible for analyzing, designing,
+‘and developing business applications which involved customization, workflow administration, data
+imports, custom scripting using JavaScript.
+
++ Worked on Zabbix to ServiceNow Integration
+
++ Implemented ITSM Modules (Incident, change, problem, service catalog, record producer,
+‘order guides, knowledge management from scratch with large customization
+
++ Worked with SCRUM Project Management and Agile Methodologies for Software Development Life
+cycle
+
++ Worked on Service Portal to determine customization with combination of system properties and
+script include
+
+‘Workflows has been created to support Approval workflow and task assignment.
+
+Enhanced existing LDAP integration and modified business rules
+
+Created and automated Email notifications by using standard HTML templates
+
+Worked on Service Catalog, Configuration Management, Reporting, LDAP, MID Server, Inbound/
+
+Outbound emails, and Discovery.
+
+‘Worked on UI Macros to create pages as templates on requirement from stake holders
+
++ Configured multiple forms for Asset module using Configuration Management Database
+
++ Provide various administrative support in HR such as in recruiting, on boarding, invoicing,
+‘expense tracking, company announcements, and tuition reimbursement
+
++ Experience working in Service Catalogs, Service Portal and ESS Portal.
+
++ Configuring Integration Web Services with Third Party application by using REST and SOAP Web
+
+Saic - ServiceNow Developer
+Wright-Patterson Afb, OH » 06/2016 - 06/2017
+
++ Project: Equipment Engineering :Equipment engineering fs application developed for Engineering
+‘Users in certain locations to their track day to day workin Service-now. New tables for categories
+and routing are created along with separate workflow as per requirement
+
++ Project: Servicetiow Upgrade Process . Each ServiceNow release includes major additions and
+Upgrading implements enhancements to all features that are part of base system or are already
+active, unless feature is customized on instance
+
++ Responsibilities:
+
++ Developed various frontend forms, and associated Client Scripts UI polices, including advanced
+customizations that require modification of UI Pages/Macros
+
++ Communicating with end users, identifying difficulties and changing applications as per
+requirements
+
++ Bult Workflows, along with standard Workflow templates which can be reused
+
++ Analyzed on Ul customizations for forms, lists and Ul actions
+
++ Service Catalog (Request Item, Order gue and record producer) has been created based on client
+requirements
+
++ Workflow has been created to support approval workflow and task assignment
+
++ Managed system logs to view information about system activity (i.e. Workflow, Configuration,
+‘Transaction, Email, Events, System and Upgrade logs)
+
++ Educating end users on usage of service now applications like incidents, problems and service
+catalogs
+
++ Created and modified Update sets to transfer data from one service now instance to another
+instance
+
++ Implementation of ACL. Involved in creating and updating Access Control List (ACL) rules to control
+what data users can access and how can access
+
++ Created Catalog Requests and record producers
+
+{Analyzed on REST API as third-party application for Integration
+
++ Created full documentation for ServiceNow applications
+
+Northrop Grumman - Associate Software Engineer
+Baltimore, MD » 04/2014 - 12/2015
+
++ Deployed UI pages using HTMLS, CSS3, Type Script, Bootstrap, JSON, and jQuery, Ajax and REST.
+‘Operated single page Applications (SPA) and Custom pipes using Angular 2.
+
++ Developing according the business requirements AJAX and JSON to make asynchronous calls to the
+project server in order to fetch data.
+
+* Created the scripts using Angular 2 multiple in-built directives and APIs in angular 2 &, NodeJS such
+3S pipes, modal, and template.
+
+‘+ Developed the application using Angular 2 and Node JS connecting to MongoD8 database on the
+backend.
+
++ Created forms to collect and validate data from the user in HTML and TypeScript.
+
++ Managed closely with back-end developers to find ways to push the limits of existing Web technology
+in modified JQUERY to perform AJAX calls for creating interactive web pages on JSON response

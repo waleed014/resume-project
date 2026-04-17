@@ -1,0 +1,84 @@
+Vesta Davis
+4121 Johnston Traffieway, Los Angeles, CA # Phone:
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR SQL DATABASE DEVELOPER
+Dallas, TX
+05/2015 — present
+‘© Mentor and assist other SQL Developers on their technical responsit
++ Provide development effort estimations
+‘Interact with database and ETL developers to design and develop new functionality
+© Great at writing SQL. Familiarity with some of the more powerful SQL constructs and an appreciation of
+performance issues - how to write performant queries and also how to investigate and tune existing
+performance problems
+‘© Assist in the development of security features
+‘* Develop and maintain SSRS reports for the various business applications
+‘© Create database design documentation at architectural and functional level
+
+ies
+
+MS SQL DATABASE DEVELOPER / ADMINISTRATOR
+Chicago, IL
+06/2011 — 12/2014
++ Perform complex database administration assignments essential to the production and development of
+DBMS applications, including but not limited to: database analysis, design and development, security
+support, performance monitoring and tuning
+‘* Trace down and troubleshoot database problems
+‘* Work with Full-stack Developer to implement and monitor integrations between various business systems
+utilizing XML, SOAP and REST APIs
+‘* Work with DevOps Engineer and IT to set up and maintain database servers on-premise and in the cloud
+‘* Monitor performance and managing parameters to provide fast responses to front-end users considering
+back-end organization of data
+Install and test new version of DBMS
+* Maintain Company Data standards
+
+SQL DATABASE DEVELOPER
+
+Philadelphia, PA
+05/2006 - 04/2011
+
+‘© Work with other SQL developers to develop and extend data warehouse modeling to provide flexible and
+efficient access to information
+
++ Perform tests and conduct code reviews with other team members to make sure your work is resilient,
+elegantly coded, and effectively tuned for performance
+
+‘* Manage and contribute to all aspects of application development including functional and technical
+
+specifications, design, development and production support
+
+Lead project to consolidate SSRS servers, and improve report development/deployment workflow
+
+As part of an agile/Kanban team working with the develop team on release scripts and deployments
+
+‘Commit to continuous improvement in methodologies as applied to database design and development
+
+Performs a variety of tasks. May provide consultation and knowledge transfer
+
+UNIVERSITY OF SAN FRANCISCO
+Bachelor’s Degree in Computer Science
+
+Ability to work under pressure, on multiple assignments, with strong attention to detail
+
+Strong written and communication skills; ability to articulate complex ideas clearly and effectively
+Strong database design experience including detailed specifications
+
+Exhibit strong initiative, leadership, and accountability
+
+Strong attention to detail
+
+Excellent organizational skills with attention to detail
+
+Strong knowledge of network and server troubleshooting,
+
+DB2 knowledge is a great
+
+Good time-management skills and the ability to work to tight deadlines
+
+Full working knowledge of operating systems and software including but not limited to Linux, Javascript,
+Python

@@ -1,0 +1,95 @@
+THORA
+SCHUMM
+
+EXPERIENCE
+
+Stanton LLC 06/2019 - present
+San Francisco, CA Technical Lead / Senior Java Developer
+
+735 Botsford Trail,
+Detroit, MI
+
++1 (555) 844 3472
+
+EDUCATION
+
+Parsons The New School for Design
+Bachelor's in Computer Science
+
+Johnston-Okuneva
+
+Knowledge of Design patterns and Object Oriented Concepts
+and internal workings
+
+Automation in a CI/CD world familiar with Build and pipeline
+tools like Jenkins
+
+Experience with Open stack, docker and cloud systems like
+Azure, AWS or GCP
+
+Additional knowledge of working on full stack along with front
+end development using scripting languages and CSS would
+be advantageous
+
+Analyzes problems and recommends process improvements
+Prepares User documentation such as user guides, operating
+instructions, and on-line help documents
+
+Participates in effective continuity of operations planning by
+serving as a member of the Continuation Team
+
+06/2016 - 01/2019
+
+San Francisco, CA Regular / Senior Java Developer
+
+Graduation from an accredited college or university with a
+major in Information Systems, Computer Science or related
+field
+
+Oracle RDBMS is strongly
+
+Experience with Rational Application Developer, WebSphere
+Application Server, Websphere Liberty Profile and Oracle
+RDBMS are strongly
+
+Experience with Open JPA
+
+Knowledge and experience with UNIX OS, UNIX Shell
+Scripting, PL/SOL, and UML are strongly
+
+Experience creating Microservices with Spring Boot
+Experience developing applications on Cloud platforms
+Experience with messaging services
+
+SKILLS
+
+Experience with load/performance
+testing
+
+Experience developing distributed,
+High-Performance, Resilient
+Architecture
+
+Good communication skills to work
+with multiple business users across
+functionalities
+
+Strong Java experience (Java 8+)
+JUnit and automated testing
+Experience in FP concepts and design
+patterns
+
+Software delivery within an enterprise
+environment
+
+Technologies
+
+Hibernate, SQL/Postgres, Couchbase
+Spring (Security, Boot, MVC, Data, ... ),
+Maven, Web services/REST services,
+JAXB, JUnit
+
+Jenkins, Jetty, Linux, Ubuntu,
+Openstack
+
+AWS (EC2, Lambda, S3, ...)

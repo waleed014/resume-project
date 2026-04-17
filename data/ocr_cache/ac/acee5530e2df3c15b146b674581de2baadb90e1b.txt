@@ -1,0 +1,71 @@
+Jade Runolfsdottir +1 (555) 511 8467
+6644 Jeremiah Lodge, Los Angeles, CA
+
+Experience
+
+Senior Devops Engineer — O'Keefe LLC, Phoenix, AZ 04/2020 — Present
+
+Experience with Kubernetes, Linux Containers, and/or Docker
+
+Programming experience using Python and/or Golang
+
+Good networking experience
+
+Experience with Jenkins and Git
+
+Configuration management (Ansible, Chef, Puppet, and/or Salt)
+
+Experience with cloud platforms, open source databases and caching layers
+Expert automation skills with Ansible, Chef, Puppet, or similar shell scripting tools
+Expert in Terraform, with experience in ARM Templates and/or CloudFormation
+Expert knowledge of Open Cloud APIs and SDKs
+
+Strong knowledge of software development methodologies including code profiling, regression testing, and continuous
+integration
+
+Senior Devops Engineer — Ratke, Stoltenberg and Mitchell, Phoenix, AZ 08/2016 — 12/2019
+
+Strong knowledge of infrastructure concepts in order to develop high performing and effective operational tools, and to
+supervise efficient troubleshooting of infrastructure related issues
+
+Deep knowledge and experience in cloud infrastructure such as AWS, Azure or Google Cloud
+
+Experience with Containers and Orchestrators (Docker, Kubernetes, ECS)
+
+Experience with CI/CD Tools and Configuration Management Systems
+
+Experienced with building the full application release cycle (CI/CD)
+
+Experience in testing methodologies and developing tests (e.g Unit tests, integration tests, system tests)
+Experience in creation of highly automated Infrastructures
+
+Knowledge of operating system administration
+
+Creative troubleshooting skills and out-of-the-box thinking
+
+Identify opportunities to increase automation in the bank’s development and release lifecycle
+
+Education
+
+California College of the Arts — Bachelor's in Computer Science
+
+Skills
+
+End to End implementation of DevOps Telemetry
+
+Deep understanding on DevOps Metrics/KPI to measure the benefits of DevOps for an Enterprise
+
+Previous hands-on experience on designing and building solutions that lift & Shift from internal to cloud-based solutions
+Excellent verbal and written communication skills with both technical and non-technical audiences
+
+Excellent soft skills
+
+Effective at planning, prioritization, task execution and time management
+
+A track record of identifying new opportunities for automation or orchestration
+
+Able to synthesize automation and orchestration solutions for new platforms and technologies
+
+Strong working knowledge of Agile and Waterfall methodologies
+
+Comprehensive knowledge of CI/CD and implementations and can teach others

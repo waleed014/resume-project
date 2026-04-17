@@ -1,0 +1,62 @@
+Suzan Kihn
+
+Front End Web Developer
+
+Contact Details
+
+(=) suzankihn@gmail.com
+
+@ (613) 900 3481
+
+(9) Port Laury, 85387, Wisconsin
+
+Education
+
+@ Bachelor of Science in
+Computer Science
+University of California,
+Berkeley
+
+2017 - 2021
+
+Skills
+
+HTML/CSS - Expert
+avaScript - Expert
+
+jQuery - Expert
+
+React/Vue - Expert
+AJAX - Expert
+
+Bootstrap - Expert
+
+Summary
+
+Experienced Front End Web Developer specializing in HTML/CSS,
+JavaScript, and React. Skilled in creating intuitive, user-friendly websites
+and applications.
+
+Work Experience
+
+Front End Web Developer, Wilkinson and Sons
+March 2023 - Present
+
+¢ Developed front-end user interfaces for several complex web
+applications with HTML, CSS, and JavaScript.
+© Utilized React frameworks to create interactive, responsive, and
+user-friendly web designs.
+* Collaborated with web designers and back-end developers to
+ensure web applications met customer requirements.
+Front End Web Developer, Romaguera LLC
+May 2021 - February 2023
+© Optimized websites for maximum speed and scalability, while
+also ensuring compatibility with various browsers and devices.
+¢ Implemented user authentication, API integration, and third-party
+payment systems.
+¢ Developed and maintained reusable code libraries, while keeping
+track of changes and their effects on existing functionality.
+
+References
+
+References available upon request

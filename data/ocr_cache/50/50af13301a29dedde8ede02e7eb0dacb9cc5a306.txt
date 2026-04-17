@@ -1,0 +1,202 @@
+Jessica CLAIRE
+
+10 Montgomery St. 10h Floor
+(655) 432-1000 resumesample@erample com
+
+Proressiowat Stamiany
+
+(Over 7 years of Angular React, HTML, CSS, JavaScript and Coe Java echical IT experience in analysis, design, development testing. and
+implementation of large sale multe application as 2 develope in Agile Software Development nd Waterfall models, roiiency in
+implementation of webpages an functional UI development in avaScit famevsdk and ibaries like AnguaeS and ReacJS with t-deph
+knowledge of multiple Languages, Web Designing. Proficiency in design and implementation of Object Oriented concepts OOPS and 12EE
+<éesign pater. Stong Knowledge on Application Development sing Software Development Life Cycle SDLC using various methodologies
+like Waterfall, Aile/Scrum. Experience with technologies like JavaScript, AnguladJS,ReacS, HTML, CSS, Core Java, XML, RESTEl Web
+services Good knowledge in RDBMS lke Oracle, MySQL. Working experience in data modeling and implementing stored precedes wing
+PLISQL. Experience in working wih application and web serves Tomnest and Web Lope Servers, Experts in Juni 3.0 Testing Framework,
+and good at Test Driven Development( TTD) Used SVN and GIT version contol in cootl management system. Involved extensively in all
+stages of software development litteele(SDLC) sucha equtements gathering, design, developmen testing, implementation &
+deployment. Woking with Widgets and Chats which are povided by external JavaScript libraries such a Highchas and DS, Proficient
+‘writing Uni test cases using Jasmine, Karma, est, Mocha, and Chai. Experience in coding accesible webst following the WCAG 2.0 AA
+standard, 508 Compliance and ied JAWSIG Screen Reader and NVDA Screen reader for web Accessibilty Testing. Used Jenkins and
+‘Bamboo for continuous integration an Deployment. Expertise in coding optimized SQL queries on databases lite MySQL and PICK(DMS).
+“Experience with Node sin the font en to automat daily tasks such bul, runing unt tests of font nd code and with Tools like Grant,
+(lp, Bower that leverage capabilities of Node jt impose and enhance oftware developement. Good Experience wing Boot fr
+Responsive Web Design (RWD) an using media Queries in SASS, Experience in designing, developing and project implementation, support
+functions an software requirement sty. Self motivated Developer add high level of experience over more than [Number] years
+collaborating nd working on multiple web bared projects, Passionate, hardworking coder with penchast for developing customized
+merce that fico in unique demands for azcesibiiy, reachability and secs: Organize aproach to meeting multiple concuteat
+<eadlnes. Pulls fom active knowledge of eurent technology lniscape to promote best practices in we design.
+
+Sumas
+
+Technical Silly + Oracle SQL, MySQL
+1+ Web technologies + Testing Framework
++ ONTMALS, CSS3, JavaScript, XML, AJAX, ISON + Tait, Rhino Mocks
++ Frameworks & Libraries + Version Control Tools
++ React, Angulad, Node, Net + SVN, GIT, Maven
++ Programming Languages + IDE Tools
++ aa, 1 Ealgs, NetBeans, Web Stom, Visual Stsio
++ REE Technologies + Operating Systems
+1+ XML, JDBC, Servlets, Webservices 1 Mac, Windows (78,10)
++ Databases
+
+Wors History
+
+03/2021 we Cutent ReacS Developer
+Stee, Ine~New York, NY
+
+“+ Created an application using HTML 5, CSS3, JavaScript, LESS, Reac US, Redux- Thnk and PICK as Datakase
+‘Management Systems
+
+‘+ Using Bamboo as Continvaton Iteration and Deployment el which es automated bil tess, and releases
+together in single worklow
+
++ Used Swagger UT visualize and interact with the AP's
+
++ Used Redux to store state of pp ia singular source
+
++ Used React Native which makes the apps loud quickly an gives a smoother fel
+
+“+ Used Redus-Thunk to asynelzonouly Inch Redux actions in espoase to asyne code
+
++ Uilze create reactapp to lnnch producto sty update with the most current webpack and babel to build
+configurations
+
++ Used React Native which have the counterpart rights, to reuse the components for building both Android and iOS
+amp
+
++ Connected server and database to update data inormation with Nodes and MONGODB
+
+‘+ Expertise in writing Unit test cases with est for react application
+
+«+ Experience in using ReacJS code for making alls (GET, POST, PUT, DELETE, for iggering or fetching data
+from Restsl APTs provided bythe backend eam
+
++ Uilized GIT for version contol and Bitbucket for source cont! operations and made us of TRA for bug tacking
+and workflow management
+
++ Developed application using Node JavaScript litravies with NPM package management system
+
+“Worked with Passport and SON web tokens for authentication and authorization security configurations sing
+Nodejs
+
++ Thave Knowledge on how to develop Automaton stp fr Motile Native Applications using Appiv, Java and
+‘howto implement a simulator fr mobile app testing in 10S, Android wsing Appivm Tol
+
++ Used BtBocket for version control
+
+«+ Followed Agile methodology during SDLC, with regular SCRUM sessions and bi-weekly sprint esions to discs
+the project progress and assign user stories as pr the spit backlogs
+
++ Responsible to manage resources, work within ine Limit with ira and agile
+
++ Envionmeat: HTMLS, C383, JavaScript, LESS, ReacUS, JSON, PICK, NVDA Seren reader, Bootsap 4.0,
+IRA, Bitbocket, Bamboo, NPM, WCAG 20, Jest, SwaggerU
+
+01202010 05/2021 Frontend React Developer
+
+Morgan Stanley = Beavercreek, OH
+
++ Responsible fo analyzing the exiting strate and making Hight weight pages with ReacS rary’ and ateatve
+IML and CSS designe
+
++ Used React 1 and React 16 inceaing the Faetionl templates, ser templates and inverting them nt 2
+‘SharePoint server
+
+«+ Used Reds for interactions with API" and different envionment to maintain cosivtent bebavior of data
+
++ User interfaces were built with Vital DOM and nidiectional data using Reacts and Redux which als involved
+connecting the Urto Backend wing Rest APIs,
+
++ Hand on experince in wing ISX and server-side rendering for component view using Reacts
+
++ Involved in wing basic test cates forthe React pages developed using Enzyme and Jest
+
++ Responsible in maintaining quality of code by pefoning thorough and proactive wit testing with ll the possible
+scenarios along with regression testing
+
++ Using Bamboo 25 Continuation Integration and Deployment tool wich ties automated builds, tests, and releases
+together ina sngle worklow
+
++ Used Swagger Ul visualize and interact wih the AP's
+
++ Involved in coding REST APLC when required for React splicstion n.NET framework based on equrement
+
++ volved in integration of React Pages with SharePoint Famework
+
+* Connected server and databate to update data information wi Node jr and MONGODB.
+
++ Handled Git repositories withthe entize UI codcbate and managed merging code, reviewing and resolving
+confit
+
++ avolved in creating complex SQL queries to fetch data fom server database
+
++ Crested prototypes to implement various policies that were equcd fo the solution propore othe cient
+
+«Worked with Pasport and JSON web tokens fr autbenicaton and auborzation security configurations using
+Nodejs
+
++ Environment: ReacS Library, HTML, CSS, SharePoint, Net Framework, SQL, Agile Methodology, Web Services
+(es), Elie, WebLogic App sever Rhino Mocks, Entity Framework
+
+(9620159 102017 Front End Developer
+Horizontal -Las Vegas, NV
+
+‘+ Responsible for designing and developing webpages wing HTMILS, CSS3, JxaScript jQuery, Bootstrap,
+‘Angulad, and React JS
+
+‘Design and deploy a muito aplication wing Az stack
+
++ Developed dynamic esponsive web application by intepating Angular with Bootstrap whichis father
+tegrated with web services
+
+«+ Wote Angas controll, views, and services for new website features and wed wo narkup and expressions and
+experience using Angular UI components like GRID
+
++ Used C55 Media Quarto work on Responsive Web Design
+
++ Used apie development techniques in all the evelopment process and exposed to tools lik ive for tacking bugs
+and Rally to track the agile development
+
++ Created custom factory service that eles on angular tp injection to make Ajax cals back to a server and used
+est web services to update and modify data at serve side
+
++ Uilied modernize extensively to buld HTMLSICSSS based page layouts that are coss bowser compatible and
+standaré-compliant
+
++ Crete the application using ReactS and Node s bares NPM, gulp dvectries to generate deste view and
+‘cto root the URLs properly
+
++ Used interactive data binding iter, and animation evets wing AngulaeS
+
+‘Implemented few modules using famewerks lke Backbone js an Nodejs
+
++ Developed the pages that were compliant to WSC and ADA standards
+
++ Worked with ISON for data exchange beeen let and sever
+
++ Used Polymer in creating web components and developed browser API to custom HTML elements
+
+“Component level design and define the usage of Ajax to ease the network bandwidth ficiently and provided
+feo that heuer resides onthe same page of our website
+
+«Responsible for testng the application using grt,
+
++ Crete est plans and test cases based on requirements and specifications wing famenodks such as Seleiuan
+
++ Worked with SVN and Git to maintain current and historical versions of sourcecode Interact wit ara
+onl like jQuery, Aj and ISON to write read data from backend stem,
+
++ Attended standup meetings (Scrum), estimation meetings and requirement review meting to analyze requirements
+foreach ory cad in print
+
++ Envioameat: HTMLS, CSS3, JavaScript, jQuery, AngularS, Polymed, ReaclS, Boostap, Backbone js,
+Nodejs, Azure, JSON, Ajax, SQL, Gulp, Grant, Git, Age
+
+Epveaniox
+osi1s Bachelor's: Electronics And Communications Engineering
+
+“Javeaharal Nebr Technological Unversity Hyderabad
+o72020 ‘Master's: Computer Networking
+
+Latrobe University -Ausaia

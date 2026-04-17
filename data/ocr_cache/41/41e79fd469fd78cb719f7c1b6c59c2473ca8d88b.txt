@@ -1,0 +1,77 @@
+CRISTOBAL GISLASON
+
+5011 Senger Flats, Houston, TX + +1 (555) 557 8600
+
+‘WORK EXPERIENCE
+
+‘SENIOR VEHICLE ENGINEER (05/2017 - PRESENT
+Chicago, IL
++ Containment ~ Quickly identify and implement effective and robust containments
++ Feedback ~ Feedback concerns at cross functional meetings reporting out to all levels including directors
+‘+ DPV / RFT reduction — (Defects per vehicle / Right First Time) Provide engineering support to the production lines for containment and
+problem resolution of build issues caused by design, engineering, production or supplier quality issues
++ Supplier support & investigations ~ Support investigations and requests for support by suppliers, both on and off site
+‘+ Travel — Be willing to travel if required for investigation including investigation of robust process and control at Suppliers, both within the
+UK and abroad
++ Individual objectives ~ Manage their own objectives to ensure all KPIs and annual plan targets are met
+‘+ Months of experience in the job offered or 6 months of experience applying functional safety principals to artificial intelligence systems
+
+and machine learning
+
+VEHICLE ENGINEER 10/2010 - 12/2016
+Houston, TX
+‘+ Months of experience modeling and simulating autonomous vehicle features using Simulink, Matlab and Labview
+
+‘+ Months of experience performing systems engineering for new technology development
+
+‘+ Months of experience developing controls for automated or autonomous vehicles
+
+‘+ Months of experience developing Lidar, Radar, or Ultrasonic sensors and sensing systems
+
+‘+ Months of experience applying Functional Safety including ISO 26262 and STPA to analyze complex control structures in automotive
+autonomous vehicles
+
+‘+ Months of experience researching and applying Model Based System Engineering (MBSE) to model, analyze and develop a system and
+‘modeling Virtual Driver System in Complex-Autonomous vehicles using SysML
+
+‘+ Months of experience applying multi-factor authentication and cyber security specification in autonomous-automotive applications
+
++ Global Vehicle Authority - Provide functional assurance on Mobile Equipment integrity. Steward for the VEHC 10 standard and any
+
+proposed changes. This also includes the authority to approve acceptable aviation vehicle manufacturers (compliance of design to the
+VEHC 10 standard sits primarily with the Performance Unit Vehicle TA)
+
+‘+ Lead the vehicle global replacement programme globally, work with the Global Procurement Manager and support PU Vehicle TAs in the
+change out and purchase/procurement of mobile facilities and equipment
+
+FALCON STAGE VEHICLE ENGINEER 09/2007 - 08/2010
+New York, NY
+‘+ Be responsible for the upkeep and stewardship of Air BP documentation including creation and development of GEN, MECH, ITM and
+VEHC applicable vehicle standards
+‘+ Support Global Operations Specialist in EN Committee and international updates and ensure Safety Critical Equipment meets STP
+requirements
+‘+ Support Global Operations Specialist on vehicle maintenance task packs, maintenance and training (where competent)
+‘+ Ensure Air BP and NOJV of vehicle related incidents are investigated, communicated and lessons learned
++ Lead the Global Vehicle Working Group — lead the strategic agenda and OMS work plan delivery aligned to MAR and business needs
++ Participate in, contribute to, and/or ead related, PHSSERs, HAZOPs, RCAs and MOCs
++ BS Electrical, Chemical, or Mechanical Engineering,
+‘+ In.with electric propulsion systems, energy storage / battery systems, or similar technology
+
+EDUCATION
+
+WASHINGTON ADVENTIST UNIVERSITY 2002 - 2006
+Engineer's Degree in Engineering
+
+PROFESSIONAL SKILLS.
+
+‘+ Excellent communications skills, detail oriented and ability to work independently are essential
+‘+ Strong organisational, interpersonal and communication skills,
+
+‘+ Demonstrate experience in evaluating designs for compliance to technical and industry standards
+
+‘+ Proven commissioning and maintenance experience applicable to aviation vehicles
+
++ Proven experience of delivering vehicle systems from a concept level
+
+‘+ Demonstrated experience working teams of engineers delivering service within deadline and budget
+‘+ Strong team worker ~ skill to work with extensive teams

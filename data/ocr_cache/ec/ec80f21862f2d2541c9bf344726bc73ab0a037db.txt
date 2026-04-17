@@ -1,0 +1,161 @@
+JESSICA CLAIRE
+
+100 Montgomery st. 10th Floor
+(555) 432-1000 -resumesample@exomple.com
+
+PROFESSIONAL SUMMARY
+
+Selt motivated Web Developer with 6 yt of experience working on multiple projects. Passionate and hardworking with &
+penchant for meeting deadines. nferested in roles induging best practices and offering verse customer projects.
+
+Seis
++ HIVL/HTNLS, CS5/C583, Bootstrap, SASS, LESS + Selanium, Protractor, Mecha.Jet, Enzyme
++ JoveSciipt Typescript + WebPack, NPM, Gulp, Grunt, Gracie, Maven
++ RooelS, Anguionss 1.2050 + Docker. AWS
++ NodedS, JAVA, Spring Framework Query, AIAK SON Cassandra, MangoO8
++ Reduxsaga, React Hooks, ImmutabiesS + Jenkins
++ Git, GiLob, Bi Bucket, Source Tree + Stebub
++ Google anaiyics. Istanbul, Meponel + Visual Stuck, Web Storm, Ecipre
++ Agile Methodologies, JIRA. Confluence + Windows tinux. macOS
+Work History
+
+02/2020 to Sr, Reaet JS Developer
+Curent Cognizant Technology Solons Relion. NJ
+
++ Develop high performance customer facing e-commerce oppication ving Reacts. Reduxsaga, React Hooks
+React Router, JavoSerpt, ILS, C553, SASS, Bootsrapd
+
++ But custom components for UXUbxary conssing Aecorsion ites, Dropdown, Carousel, Bulflon, Checkbox.
+Input leons
+
++ Developed custom API layer to handle all CRUD transactions. token management and implemented
+Interceptors to embed custom headers
+
++ Maintained high-level experi in React state management strategies, including Redux. Redux Pens and
+reducsaga
+
++ Exclusively uted React Hoots te handle application ileccycle processes
+
++ Project isimplemented by folowing TOD using Jes framework for React olong with Enzyme test ies.
+
++ Worked closely wth clans to eslabSsh specifications and system designs. Used Zepin and invson to colabocate
+wath Ux
+
++ Used Middleware, Redux-Saga with immutableJSin application to retrieve ond store data from BackEnd and to
+‘bso perform RESTFUL services.
+
++ Effective use of native HTML elements and custom tags fo enhance SEO optimization and appcation ADA
+complionce feature
+
++ Implemented CSS Box Model and slyled web pages wsing CSS preprocessor SASS and ellectively wed mins,
+functions custom gid systems. id-orea concepts and fexbox for hid-esponsive application
+
++ Expertise usage of GitLob and JIRA os version contol and tracing ui
+
++ Workedin Agile Methodologies for incremental development to deliver better oppcation
+
+(02/2019 to Senior Systems Engineer
+02/2020 Perepecte—Lansing. Mi
++ Design dynomic ond mul-browser compatible pages using HIMLS. CSS9, SASS, Angulo 5
++ Worked extensively with AP team to implement creative Chat Bot communication platform from U perspective
++ Closely moniter he urage of Google Dialog Row Technology and procure the intent-based response fo perforn
+Intuitive communication feel on User interface
++ Design orimated web pages by importing the Sangular/arimations to enhance customer service chat
+‘experience
++ Dotine new volationsthzough Angular for he for field validation implemented ttzough HIMLS
++ Implemented latest Eomoserpts (ES features fo enhance code standards and mintanabilty
++ Exionive usoge of Grace & webpack fo bud Microsendces, Ul componenls and pipeline it smooth fr CCD
+sing Jenins
++ Tronslote weetrames into interactive, dynamic code
++ rong inowledge of venion cont! took ke GI, SYN, itbucket
+Bui AWS servers by executing Jenkins avlomated jobs and invotve in server maintenance
++ Project Technology Stack: HIMLS, CSS3, JavaScript. Typescript Bootstrap, SASS, LESS, Anguler, Java, Sping
+Framework WebPack Grade, Jenkins, Vival Stu, Gi Lab
+
+05/2017 to Senior Web Developer
+01/2019 Generel Dynamics -Pisburgh PA
+
++ Involved designing in web pages using HIML 5, S53, JavaSerpl Bootstrap, SASS, LESS, React, Redux Flex
+‘Monge D8
+
++ Extensively used Recct JS components, Forms, Raact-Boolstap, Events Kay, Router, Animations, Redux and Fux
+concept
+
++ Experienced in of phases of SOLC Bike Requirement Analy, Implementation, ond Maintenance. and extensive
+‘experience with Agile ond SCRUM
+
++ Used Object Oxented Programming concepls fo develop Ul components and reused them across multiple Web
+Applications
+
++ Developed custom map components wing Google APIs and convenience te place loT devices oni as par
+business needs
+
++ Worked on responsive design and developed a ingle BOMORPHIC responsive website that could be served to
+desktop, Tablets and moble wers wing Reacts
+
++ Expertse in UxLibrary comprised of Button, Checkbox. Input, Icons. Toggle Button. Oropdown, MuiLevel
+‘ropdown and some more
+
++ Worked closaly withthe Back-End team to dsplay data using the Custom Components, fevary Components, ond
+Redux
+
++ Configured automation pipelines using Jenkins to monitor CY/CD process
+
++ Proficient in using testing ramewers ke Jasmine, Korma, Proactor, Mecha testrunners
+
++ Folowed agie ond vied JIRA os bug tracking tool fo deny ond morttor progress
+
++ Project Technology Stack: HIMLS.CSS9, JavaScript Typescript Bootstrap, SASS, LESS, React S, Redux. Flex Mongo
+08, Node, Gulp, Jenkins, Protracter,Seloniom, Jave, Visual Susie, MapQuest, Web Stoen, GitHub
+
+05/2015 t0 UI Developer
+04/2017 General Motors Fit Mt
+
++ Ropidy developed prototypes from conceptual demonstration totaly bosed on |OT smart cites and smart
+ogricutire
+
++ Profcienty bl Webtle which adheres to Web 2.0 incusty Standards Using HIMLS, CSS3, SASS, lovaScipt
+Angulorss
+
++ Performed best practices in implementing Angular (12.2.0, 40] modules and creating free-standing, reusable,
+‘ond testable components
+
++ Bxclusvely used Node fer ung fost and scalable network applications ond Express os slondard server
+romework for Nodes
+
++ Adopled NPM, Gulp & Grunt as Task Managers and performed custom tasks forthe build process to handle the
+ested outcome
+
++ Understanding the responses of ThingSpace platform, database, API, caching layer. proxies, and other web
+services ured in he process
+
++ Extensively used GitHub, Source Tee for lof the cistiovted venion control and source code management
+scm
+
++ Mapped user joumey end-to-end ftom Sentorbased SOAP-API te Menge DB Covering al data phases wing
+Information orchitectixe diagrams, ure lows
+
++ Worked Ciosety with Backend team to ensure smocth deployments by configuing diferent builds ond tet septs
+for CLCD process lid
+
++ Exclusively implemented a Nodeds wrapper cround the SCALA microsenvces and also exposed a Swagger for
+the showcose by stoke-holders
+
++ Executed Fresare fo handle incoming Dynamic Date rom ThingSpace Gateway which 9 part of Threeway-
+Dateinding practice adhered
+
++ Performed exiensve uni fess using Mocha and 626 tes sues forall components. and unning them with
+Protractor
+
++ Used Google Anaivics to capture User matic fo improve Customer Experience with Digital Anais
+
++ Implemented istanbul a populer Code Coverage too! increase Code Coverage to make code more
+production efficient
+
++ Project Technology Stack: HIMLS, CSS3, JavaScript, Bootslrap, SASS, Node S, xpraslS, Gulp, Grunt, Jenkins,
+GitHub, Source Tree, FeoBose, Swagger
+
+Eoucarion
+
+05/2015 Master ef Science: Engineering Management
+Collen Stale University, Nedhdge -Nodtidge, CA

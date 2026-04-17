@@ -1,0 +1,43 @@
+SENIOR JAVA DEVELOPER RESUME
+
+STEPHANIE WILLIS
+Phone:(570) 555-2646
+Email: swilis@example.com
+Address: Ashburn, VA
+
+Employment History
+
+Senior Java Developer
+2017 - Present
+Capital One «Ashburn, VA
+
+Worked on database interaction layer for insertions, updating and retrieval
+operations on data.
+
+Developed EJB session Beans for implementing business logic in the service layer
+through business delegate design pattems.
+
+Developed stored procedures, Triggers and functions to process the trades using
+PL/SQL.
+
+Developed REST API using Jersey REST framework that interacts with JMS via
+SOAP Service for 3rd Party Application communication.
+
+Involved in using Maven to build framework Use Spring framework realized IOC
+and AOP purpose and management other Java Beans.
+
+Java Developer
+2016 - 2017
+Verizon «Ashburn, VA
+
+Used XML Web services with SOAP protocol for transferring data between
+different applications.
+
+Developed Servets interacting with database to create java beans for the
+model layer and various business objects implementing business logic.
+Designed and delivered Customer Profile service using Java EE, Web Services,
+and XML.
+
+Used MVC Struts Framework for billing application developed using Java J2EE.
+
+Page 1012

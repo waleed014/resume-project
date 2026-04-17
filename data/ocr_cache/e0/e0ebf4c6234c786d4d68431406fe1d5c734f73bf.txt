@@ -1,0 +1,92 @@
+Hugh Newman, .NET Developer
+
+1515 Pacific Ave, Los Angeles, CA 90291, United States, ($41) 754-3010, email@email.com
+
+Place of birth San Antonio Driving license Full
+Nationality American
+
+LINKS Snapchat, Linkedin, Twitter, Facebook
+
+PROFILE An experienced .NET Developer with a solid work tenure in a wide range of .NET development aspects for
+
+EMPLOYMENT HISTORY
+
+Jan 2019 — Present
+
+Jan 2016 — Dec 2018
+
+Jan 2012 — Dec 2015
+
+EDUCATION
+
+May 2018 — Jul 2020
+
+business applications. Highly adept in all development stages, from initial analysis through design, prototyping,
+implementation, and execution. Extensive coding experience using ASP.NET 2.0, VB.NET, HTML, and XML.
+Currently completing a Master’s Degree in Software Development and Machine Learning.
+
+-NET Developer, SGA Courier Services Devonport
+Implemented a smoothing functionality into a dient CAD tool improving UX (User Experience) scores by 38%
+
++ Extracting core use cases from requirement specifications
+
+* Building end to end applications by using entity framework coding workflow to build models
+* Use ASP.NET Web API to build RESTful API’s
+
+* Creating visually appealing user interfaces with CSS
+
+* Improve application usability and tweak security features on vulnerable software
+
+* Create robust, clean, and maintainable code
+
+* Refracting and use TFS to create code versions
+
+* Implementing decoupled and clean architecture for applications
+
+* Writing unit and integration tests and automate them
+
+* Assisting in developing software solutions for mobile customers
+
+* Developing, designing, testing, maintaining, and supporting web applications for clients
+
+-NET Developer, PNG Financial Services Group Jackson
+
+Achieved a 99% dient satisfaction score for 20 maintenance projects completed on various .NET websites by utilizing
+ASP.NET MVC, jQuery, HTML, and CSS.
+
+* Analyzing customer requirements and create applications accordingly
+
+* Evaluating and researching technologies and products related to software development
+
+* Developing the activities and procedures required to create system architecture and user-end applications
+* Use .Net web frameworks coupled with C# during development activities
+
+* Use object-oriented programming for writing reusable libraries
+
+* Designing various architectural patterns for each development project including concurrency patterns
+
+-NET Developer, Coding Gurus Seattle
+
+Created an iOS notes app that uses persistent data storage for archiving that received over 100k downloads in two
+weeks
+
+* Using Microsoft SQL Server and Windows Presentation Framework as per the project needs
+
+* Creating database schemas that is representative and supportive of business processes
+
+* Implementing automated testing platforms and unit tests
+
+* Employing code versioning tools such as Git, SVN, and Mercurial
+
+* Creating applications and n-tier systems that utilize extended features, including LINQ, Entity
+Framework, and generics to integrate object-oriented techniques and data-manipulation capabilities
+
+* Creating applications and n-tier systems that utilize extended features, including LINQ, Entity
+Framework, and WebAPI/WCF to integrate object-oriented techniques and data-manipulation
+capabilities
+
+* Creating data-driven web applications to promote TDD and generate control of UX and UI
+
+Bachelor of Science in Software Engineering, Stratford University Millau
+
+Projects Completed:

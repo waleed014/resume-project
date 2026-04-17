@@ -1,0 +1,52 @@
+Robert Smith hone (123) 456 7899
+
+Email Infocauikeesume,com
+
+"i ‘ Website yauwu.qwikresume,.com
+Senior Devops Engineer Unkedln: tinkedin.com/qwikresume
+
+‘Address; 1737 Marshuille Road, Alabarna
+
+SUMMARY
+
+Versatile IT professional with extensive leadership and technical sklls in commercial, education,
+‘and government sectors, Background in Unix infrastructure, operations and engineering, DevOps,
+‘and Agile methodology. Excellent communication skils with experience in career development.
+Felations, reporting and cornpliance.
+
+SKILLS
+
+MS Office, Effective Communication Skills.
+WORK EXPERIENCE
+
+Senior Devops Engineer
+Lotame, Inc- August 2015 - 2020
+Knowledged transfer from two key technical employees that maved to other opportunities.
+Assisted the director In hiring five ops team members and helped bring them up to speed on
+the environment.
+Maintained site uptime on a hybrid data management platform.
+‘Worked with developement teams to correct problems with In-house apps.
+Improved monitoring by adjusting alerting thresholds and expanding coverage to reduce
+‘monitoring gaps.
+Performed software releases using Jenkins and shell scripts,
+Lead transition fram cFengine to puppet and Subversion to Gt
+
+Senior Devops Engineer
+Detta Corporation - 2010-2015
+
+* Working in an Agile DevOps environment.
+
++ Providing software and services to ensure that releases mest organizational standards
+Providing direction and serving as technical lead In areas of Release Engineering, DevOps and
+Continuous Delivery
+Managing source control
+(Subversion, Git) Managing continuous integration clusters
+enkins, Nexus, Sonar, Clover) Managing a large SLESICentOS server environment.
+
+(omeat, JBoss, Apache) Accomplishments Developed frameworks for automated zero:
+downtime deployments to Prod web application clusters,
+
+EDUCATION
+Computing - September 1994(University of Maryland Baltimore, MD)
+
+(0 This Fra Resume Tamblat is the copyright f Qvakesume com. Usage Guldatns

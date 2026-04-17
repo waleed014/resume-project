@@ -1,0 +1,61 @@
+ROBERT SMITH
+SQL Developer
+
+Phone: (0123) 456.785 | Ema inlo@qwkvesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+‘Around 7 years of professional experiance in Design, Implementation & Maintenance of OLTP &
+Data Warehouse sysioms, Daia & Technical Architacture, ETL processes, Business Inteligance
+and Enterprise Application Integration
+
+CORE COMPETENCIES
+
+‘SQL, java, Businoss Analysis, ETL, Scrum, Waterall, SSIS, SSRS, Daiabases, Excol, Quallly
+Control, Quality Assurance, MySQL, Project Management, Data Analysis, CRM, Salesforce,
+Documentation, TFS, RDBMS.
+
+PROFESSIONAL EXPERIENCE
+
+‘SQL Developer
+‘ABC Corporation - October 2008 - November 2010
+
+Key Deliverables:
+
+' Extensively involved in Gathering requirements by holding meetings with users.
+
++ Constructed context dagrams and data flow diagrams based on a description of a
+business process.
+
+' Analyzing the data model and Wentification o! heterogenous data sources.
+
+' Consiructed an extended entiy-relationship diagram based on a narrative desorption of a
+‘business sconario.
+
+‘Created Translarmations using the SOL seri to modly the daia batora loading into tables,
+
+* Installed and Configured MS SQL Server 2008,
+Migrated SOL Server 2005 data bases into SQL Server 2008,
+
+‘SQL Developer
+‘ABC Corporation - 2005 - 2009,
+
+Key Deliverables:
+
+The aim of the Project iso help the departments in their underwriting process trom
+application through poliey dolvery, security, and controls, document retention which
+‘primarily includes loading and routing the submissions.
+
++ Respansbilties Created now database objects ike Procedures, Functions, Packages,
+Triggers, Indoxes and Viows using T-SQL in Development and Production environment for
+SOL Server 2000 Actively paticipated in gathering af Requirement and System
+Specitcation
+
++ Beveloped SOL Queries to fetch complex data from dilferont tables in remote databases
+using joins, database links and formatted the results into reports and kept logs Worked on
+complex T-SOL statements, and implemented various codes and functions
+
+Installed, authored, and managed reports using SOL Server 2005 Reporting Services
+Wrote Transact SOL utlties to generate table insert and update statements.
+
+2959 Oak Sireet, Old Forge, New York, 13420
+(© This Exes Resume Template isthe copyright of Quilrestume.com. Usage Guidelines

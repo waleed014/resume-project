@@ -1,0 +1,44 @@
+Martina Lutz
+
+Kubernetes DevOps Engineer
+marlutz@email.com (123) 456-7890 Seattle, WA LinkedIn
+Github
+
+WORK EXPERIENCE
+
+Ippon Technologies USA - Kubernetes DevOps Engineer
+
+January 2018 - current Remote
+Designed and implemented appropriate environments for 30+ applications
+Engineered suitable release management procedures and provided production support for 4 teams with 8
+members each
+‘Spearheaded exposing other teams and broader engineering groups (10+) to Cloud technologies, processes,
+and best practices
+Redesigned 3 legacy applications for Cloud implementation
+Automated the provisioning of environments with Chef and Ansible and deployed environments using
+Kubernetes containers
+‘Spearheaded the Agile DevOps design, development, testing, and release of 9 new features
+
+OneTrust - DevOps Engineer Intern
+
+June 2015 - January 2018 Kirkland, WA
+Produced new software by developing 20+ installation, deployment, and maintenance scripts
+Developed and maintained 100% mastery of the Software Development Life Cycle (SDLC) and deployment
+pipeline
+Worked on a team of 8 to achieve deployment of software through production and monitoring
+‘Supported 30+ application infrastructures to ensure performance and reliability optimization of the
+OneTrust platform
+Managed automation, auditing, and other tooling for 70% of security, compliance, and resource usage
+Led incident response and provided hands-on troubleshooting during service interruptions, limiting max
+downtime to under 4 hours
+
+EDUCATION
+
+University of Washington - B.S., Computer Science
+September 2011 - June 2015 Seattle, WA
+
+SKILLS
+Kubernetes; Docker; PHP; Laravel; Python; Perl; Azure; AWS; Puppet, Chef, Ansible; SQL and NoSQL
+
+CERTIFICATIONS
+* Amazon Web Services (AWS)

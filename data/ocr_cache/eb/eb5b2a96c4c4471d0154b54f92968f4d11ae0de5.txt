@@ -1,0 +1,230 @@
+Jessica Claire
+
+© onigomery street, San Francisco, CA 94108. tS (555) 432-1000 a resumesample@erarpe com
+
+SUMMARY © Above 6 yeas of experience inthe el of vomatonTeCirenlogy. Knowledgeable and shed sovare
+‘evelopment protessionalacustomed to woneng wih infastucure systems. Skited at developing, opting
+‘ad renodng systems o meet speci customerequrement. High present n mute types ot
+programming anguapes
+
+SKILLS © + Python, Sela groan Unie ShetSenpt SOL& + Maven & Gradle
+ana + gle development metnodoiogies
+
+1+ Django, Flask Pyramia& Sus + AWS Cloud Sences (€C2, EMR. $3. ECS,
+
++ Apadiaree artow Lambda, CouaWwatlare SMS, Amazon
+
++ 8g Data -Spark ve Katka, S900p ‘smp208, ROS)
+
+1 senns, Docker Kubemeles & AnsBie + MongeD8. cassanara ase
+
++ arco 2 ceatna
+
+2 cain, erbucket ‘+ PostgreSat, MySQL aatabases & Oracle
+EXPERIENCE 4 PYTHON DEVELOPER. 1072010 0 CURRENT
+
+‘Cognizant Technology Solutions | Mountain View, CA
+
+Developingisupprtng production envtcnment and fotorngorganzatonal ends in CID, Devos
+and DevsecOps in ede o mature an contaaly Improve MSO T services
+
+Erpenence worang wh 6 Oata ad exposure te dstrted computing Patorms tke Hadoop.
+CGatenng tne project requrements and developed ras and case dasses ecm Sela and
+Implemented business ogi by using Sea nd PySparklnguage.
+
+Implemented CICD process on ApaCtaree Aro binary and OAG's by bung Aow Cocker mages
+by Docker-Conpose ana upeacing to.Jo9 antatry and deployment tough AWS ECS ester
+‘Wrkea on Aow peromance tuning ofthe ORG and task nstance
+
+‘iors on Aon sClareedulr (eer) and worker sting in aon cg
+
+Creates Hooks an custom operator, operator il sense tigger Rls $3 and stant Ie data pene
+process
+
+Implementes Mute Data ppeine OAG's and Malnenance DAG'S in row orclaeesvaton
+Responiie for Design and maintenance of aatabases using Python, Developed Pinon based APS
+Using databases tke Orace, Neeza and PostgreSQL
+
+Implemented Perfomance turing sparkjob testing and market ob processing using Spark Apaciaree
+eter ad creates a Dashboard using Gratanaappicaton to ew the Resi
+
+Resowved bg on production envionment.
+
+Developed an inplemented Batiare processing of ata sources using ApaClaee Spark 22
+Developed scala code fo connect AWS 8S bucket. Reading and wring he data mi ScalySpaks
+‘lous migraton development om neeza database to ANS cud serves.
+
+‘Contgurng custer configuration parameters as pre data processing per conandin citer mode
+Perr tuning teCiareniques fo beter perfomance in Sparks
+
+“Coniguring and Setting up Aion 9s sper the requirement to run ou spark conmandsin aon
+pate ana sequent
+
+Creating ob tow using Afow nPynon language and automating the os. Aow wi have separate
+‘stack or deploying Oags on and wun obs on EMR orEC2 cuter
+
+Inplementes nasty standard Dep toot CICD (ens), GoCD, Gt Maven, Grade, Claret,
+Puppet. Docker, Kubemetes on cent projet
+
+‘Workes on converting mute Maven project to single Grade pret win designed workous 0
+automate te bud proces, Developed jva cas 0 sala ass.
+
+Responsible for mplementing Map Reduce programs into Spark anstomatons sing Spark and
+saa
+
+‘Works on foacing CSVITXTIAVROVPARQUET tes using Seaaava language in Spark Framework an
+process ne ata by creating Spark Daa tame and ROO and save te fen parquet format HOFS to
+toad ino fac table using ORC Reader
+
+Developed Hive Query Language or data anahcs,
+
+‘Werked on data pipeline using Sqoep and Pig to entatte data tom weblogs and store In HOF.
+Developed vaousPynon serps ofa wineabies wth SOL Queries by doing SAL nection,
+ermsion Ciaeecks and perfomance ana
+
+“tending daty Scrum meetings for vedas Handing mutpe appicaon wh ne aeerent
+tectarensiogies
+
+PYCHON DEVELOPER cn01810 102018
+
+‘cognizant Technology Solutions | Napervi
+
+Responiie for Design and maintenance of databases using Python, Developed Pinon based APS
+(RESTIN We services) by wing Flask SQL ACiareemy and PostpreSaL
+
+Designed test cases and test plans and developed an enbeaed stare data sven test automaton
+tramevorkin UnePytnen
+
+Developed an autonomous continuous integration system by using Gt Grr Jenkins, MySQL and
+‘ustom tos developed in Python and Bash
+
+Developea web components by using JSP Serve! under.2EE Erdonment ané plement secunty
+teatues forine APS
+
+‘lore varus pyinonWranessuCie as Pandas and Maio for ana and manpuaton ot
+aa
+
+‘Wrote Pion serps o pase ana loa the data io te database, rom the XL and JSON Hes, and
+roe prograns or perormanceeaclatons by usin Nun and SQL ACaeem,
+
+Designed and developed asynciarerenous messaging systems wing JMS, MOB, and Ma sees.
+
+‘sed SOL tools ke SL. Aclaeemy and Geo ACLaeeny
+
+sea Anaya Python branes ie Pandas ana Numpy to work on Data Manputions
+
+Docurente ne entre buts and deployment process incising Stas slep-y.sepsbuctons
+‘iot yon septs fo parse Land CSV documents o lead he daa in database
+
+Used REST based mcroserces wn REST template based on RESTUAPIS and designed, developed
+tne Ut fore cient weostes by using TIL, CSS, avery and React
+
+Designed ana developed the presentation layer sing HTML, CSS, Jov9Scrpt, QUE and AIAK
+‘iorkea on AIR ramenock a Wanstom Datasets and Osta lables ito HTTP. senatable ISON tgs
+Enensiet worked on Amazon Web Servces ihe S3, Cloud VatClave, AP Gaenay, Step Functons,
+Lamada, SES, €C2 ana ECS,
+
+Responsive fr bug scalable srbued data solitons using Hadoop
+
+sea Spark Pt over Clouera Hadoop YARN to perm ana} on data i He
+
+grates te Ojango database trom SaLe to MSL. to PostgreSQL wn comet data tg.
+
+Deat ath lage galsets y using Pandas data anes and MySQL. and peromed aynamic
+Implementation o SL server work on the webate using SQL. develope ook,
+
+Deployed ne project onto the Jenks server, and organized ne contpurations and versions ofthe
+code Using SVN version cont system
+
+sea ANS for appeaton deployment an comiguraion. Respensble for setng up REST API sing
+Django.
+
+Bul an AIS and REOIS server or storing the data and performed defect ane ang interaction wh
+Business Users ing UATIST.
+
+Handles cent ie vatdatons using JavaScript and designed J2EE components fhe REST Web
+Services and sclareesuedapptcabonn UM. based on JavabatCare obs.
+
+Designs, developed. mplemente, and mananea seinen or wg Docker, Jenkins, Gt and
+Poppet or micreseraces and comtaueus deployment
+
+Implemented ne unt testing by wsing Pynon Unt est ramevork,
+
+Debuaged applications using Frebug o traverse the documents and manipuate ne nodes wing
+DM ans DOM Functens
+
+Epeienced in perfomance tuning of Spark Appleaions for etn ight Baia interval tine, correct
+level of Paratetsm and memory tung
+
+Cptiang of exising lors in Hagoop using SparkContest Spark Sa, Oat Frames ana Pai
+R00,
+
+Inplemented ELK tase Seariare Log stash, Kban)stackto colt and anayethe logs produced
+by the spark ster.
+
+Peromed avanced procedures te ext anaes and processing, sing te in-memory computing
+‘capabaes of Spare
+
+Experienced in handing lage datasets using Partons.Sprkin Memory capabaites, rcaacass a
+Spark Etecve & efit Jon, Tanstrmaons and other dunn ngeston process Ase
+
+SCARE DEVELOPER 5201210 052016
+
+Mastech Digitale. | Lake Oswego, OR
+
+Experienced in handing lage datasets using Partons.Sparkin Memory capabites, roagcassn
+Spark Ettecve &eficent Jos, Tanstornatons and other curing ngeston process set
+
+Wiorea extensive wi Soostap,savaScrpl ana very to optimize e user erpenence
+Designed and deveoped the Uc he webste sing HTML, CSS and savaSerpt
+
+Rearote esting Python jango modesto ever cet fomat of ata
+
+Designed and developed a data management stem using MySAL
+
+Responsible fr debugging the project mentored on JRA (Ate),
+
+sed Ojango Database APs to access database tects
+
+Developed pinion scrips to parse XM. document and loa he data ino the database
+
+Handles le een-igevalaon using Jvascr
+
+sed Pinon and Django oinertace tn he JQuery Ut and manage ne storage and deeton ot
+content
+
+Used Selenium Library own uty functioning test automaton proces that afowed the simlaton ot
+submting arent requests fom mute brosers oie web appaton,
+
+sed Query fora eentsige Java sept manipulation,
+
+Developed entre ont ena and back end modules using Python on Django Web Framework
+
+Invoted in development of Web Series using SOAP fr sending ana geting data rom the eeral
+lnertace i ne toma
+
+Butt gevetpment enironment wth JRA, Stash
+
+Inve in debugging and roulesnotng he web appleatons.
+
+Invotved in development using Python 209 fing and un testing of the yout commands
+
+‘eat th he development of parsers for handing JSON, XML responses and JAXB ning and worked
+wens Java massaging erie fx asyncarereneuscommuncaton
+
+Used Pandas APifo put he data as tne series in atabula format fr eas testanp ta
+manipulation anaretieval
+
+Publenea ang Consumed Contract SOAP web sence and developed corespondg tes cases
+‘Worse on us component fo asynclweronaus messaging
+
+Designed ana developed the Uo he webste using HTML, ARK, CSS, and Javascpt
+
+Pero debugging an roubleshootng he wed aplcalons using Subversion version cont elo
+‘coorinate team development
+
+Enieonment Python 17, Oango, C+, Java, ve, MySQL, Oracle 109, 119, Linux Django, Ese,
+‘hel Seping, HTML, TAA. SUN. CSS, Bupa. JavaSerg, ApaClwee Web Sener
+
+EDUCATION AND © Master of Selence | Computer oration Systems aoe
+TRAINING | Bellevue University, Bellevue, NE

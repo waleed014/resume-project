@@ -1,0 +1,173 @@
+‘SUMMARY
+
+Jessica Claire
+
+© tooMonigomey St 10m Foor E285) 492-1000 4 resumesarple@exampe com
+
++ Tears of extensive experience as atont-end developer wih a sold understaning of appcaton
+design and development
+
+‘+ perience in developing User intetae (4) Appatons and professional web appcatons using
+HTML, CSS3,Bots¥ap, REBELS, JavaScript JOVEN, AIAX, RD ISON, OTH and XML
+
++ Expenence wen Grunt tak runner and stated the ates version of aris with Boner based on
+runing ine Node 5 envronment
+
++ Hanas‘on eenence on he development he irteractve Ul oneray data ow, wal OOM, ISK,
+React Nate components, forms, React router and Recut architect
+
++ Response or devetoping tne partner Homepages using HLS, CSS, JavaScript, React 5, Node JS
+ana sover,
+
++ Bxpenence wah HTML, CSS9,Botsraps JavaScript, AUX. TypeSerg, ANQUAYZ, REALS, WEIS,
+‘sual tao Code, SOL, Gud, AgHerScrum
+
++ perience using React S components ome, events, keys routers, anation, ana Mux concepts
+
++ Good experience wan React for creating interactive user mleraces Using urecbnal ala Nox,
+eta DOM and Ix concept.
+
++ Exparence in wong wih the ferent concepts te Wx, Wey ec: Using We JS, a modern
+Jovasent ramenork
+
++ Eiperence win OSS backgrounds, CSS layouts, CSS postonng, CSS fest, CSS borders, CSS borders
+(8S pang, CSS tables, pseudo classes, psewdo-lemens, mesa queries, and Flex Design n CSS
+and responsive web cesion
+
++ Gooa unsestanng and extensive expenencen developing Sage Page Appcatons (SPAS), Wed
+applcaons using JavaSerpt MVC frameworks suchas React Sand We JS,
+
++ Exeter coneunieaon,eterpersonal and anattel sis ana a Rghy meta eam player wh the
+abit te work inependerty
+
+Motion Recrutment | Kansas Ci, MO
+
++ Developing wed ont end teraces using MTMLTL 5, CSS, JavaScrg, PHPATIAL, OVEN, 810,
+‘NAK SON, Node JS. Rea JS, Angular 8, Wwe J, very and Bootstrap
++ Deveopea responsive wed design using React Bootstrap 1 create gs, layouts, and components
+‘+ ored on developing responsive interal application using React JS to cot mets om users and
+agents
++ Implementation of ReacsMeeye metnods nn modern ES 6 etures using Babel an Webpack
+1+ Developed intranet responsive se win React #8
+‘+ Eperence win ReactiSHecjle and mplementaton of nese methods in Redux arettectre
++ worcwm React Route to develop SPA or Single Page Appcabons
+1 Developed Sesion beans when encapsulate wertow ogi and sea Memate to access data
+eens used Mibeaten data access ayer to access and update information ctabase
++ Developed and mantanes Single Page Application (SPA) using MTLS,CSS3 and React a0
+developed React components for partner homepages using ReactiS
++ Usea Reacts and JS to develop uncon and sateess components, vtval DOM manipuaton
+rps, Mecyte metas, states and events
++ ivoNed in bulong RESTIU APTS wing Node JS using REST frameworks such 35 Resux
+ora wn WE J fom, vaiatons, mooes, components, salemens convles, and HTTP
+requests
+‘+ Responsibe or we js event every and parent-child communication chan
+{Used vues to manpulate DOM, handle even’, and app) anmaton eects
+1+ Usea Node. archtetral concepts ke event oop, cal back, and event enters
+1 Developed Utfor SPA development using React JS FlurReeut
++ Using React 8, you create custom components data manipuaton and spayed data in your
+company's standard format
++ Expanenc wh aan ramevons such as Reacts or bulang hgh quay, Scalable, and reusable
+camponens and fonteng souons
++ Enuonnent HTMUTHLS, CSS2CSS3, OHTML, XHTIL, PHP Javan Bootstrap, React
+REDUK React Natve, Nose 1, MS, ML, REST, SOAP E16, Log Ut, enki, MengeD8, SOL.
+oven, tod, React JS, Redut We J, AIAX JSON, DOM. SASS, Soap, Rest APL Age and
+nao.
+[REXCTREACT NATIVE DEVELOPER 2010 te 027021
+Verizon Communications | Buds, TK
++ Invotedin Requiements gathering, analysand esign and documentaton as aplcaton was stared
++ Deveopea Web bases ana Seer side appcatons using Java 8
+
++ Developed responsive cient ste appcaton to integrate wi server side using JavaScript. aver.
++ We
+2 and Bootstrap
++ Developed response cent ste appcaton tolerate wh seer Sse using svaScnpt. VEN,
+Angular, Node
++ We
++ sana otsrap
++ Ace invtved in developing root concept or new proposed applica using React JS
+‘+ Eperence wan React and experience using React Fu arctecture
++ Bpenence van Redux rentecture
++ Use wes event deter and parent cha fr parent-ca commurcaton
+{eres on mutple componens fo erent couse elements player and qua payer sing We san
+wer
++ Developed rien and complex Responsie Web User meface using MTMLSAMTUL, Javascript, CSS.
+2M, Javaserpt Qe, React 6, Node JS ana BootS"9P
++ Developed en integra or dashboares using ReactJS and Vtual DOM
++ nvotes on ReacJS wal OOM ang React ews, rendenng using components which contans
+‘attona components cate custom HTL 195
++ Useavaouspredetned components tom NPM (ode Package Manage), Redux Library and worked
+‘sng React JS Components and Stand-alone uncbons for adcing more pages
++ nea concep cae Vitual DOM in React JS to ceatem-memory data structure cache, enumerate
+‘esuingaferences, and then update bowser displayed DOM eceny
++ UseaNode sto develo backend components. connecing appcaton th cner web serces
+1+ Usea ni paser APIS (SAK) in wed Seruce request response dala marshaling aswel as Un:
+rmarshanng process
++ Create ton-enasgle page apptcabons wh HTMLS, CSS, JavaSenp, Bool, REALS, Nodes,
+and Hongod8 semantics
++ Developed Single Page Appicaton (SPR) using React hat leverages JavaScnpt ES classes and
+‘mode tunctenaty
+4+ Eminent HTMLS, CSS, vaserpt Rea JS, REDUX, React Nav, Node 1, JMS, XML, WIS,
+‘wer, DOM, Git, JSON, Agte Windons.
+REXCTREDUX DEVELOPER 27017 wo7r019
+‘Tractor Supply Company | Cty, STATE
++ Designed and developed webstes using HTML 5, SASS, React 8, Red Fl Node JS, CSS, Type
+‘Serpt avaSenpt Boostap, Nodes, NPM and Mongo 08
++ Developed tont-ena web appicatons for gota ntork operations using React, Redux Bootstap,
+Esebabel and vebpack
++ Created more responsive westes compute wha browsers and cterent devices win React JS
+‘Developed singe page responsive webs using HTS, Real TwterBoostap,CSS9, JavaScript,
+sanayauery
++ Developed Ut using Reacts, Fut for SPA development
++ Usea React to work on Redurtohandearge ameunis of data and prove perfomance
++ Implement React container and preseriaton components (posi as tteles and uncbonal
+components)
++ Implemented state React components and standalone functonaty tat can be aed our tes
++ Usea React fr tenplatng ospees up complaon and development of reusable components
++ Experenceain developing React components
++ eres on Wetpack er Bul ang webpack dew sener or server
++ Developed apteaton rom scratch using React Nave and Redux
++ creates views nsx and used Fsbo tr proper sng
+{creates nave tages 10S ane Anal tolerate th React pps
++ um stale version o app using ESS syntax ana upatng responsive nave app guar)
+{+ ercwm React JS Weta! om ana React Views and render components i 2aanal components
+calles custom HT 1298
++ ep pactage contgured to run ners, upes, reipost processors, tess, ranspres, lc based on
++ Designed ana developed aspenseraasntoar at aplys data tom oT dewes and developed ste
+asnoara ans eaures tal aow data tobe dpayedin cars (C3 J)
++ ntest Reacts appcaton using tos ke Enzyme and Cypress
+{+ Ehuonment HTULS, SASS, Soubon, Nea. React, Rex Flux React Nahe, Node JS, AEM,
+Que Gu, Grunt wedpack JRA. Jasmine, Kama, Pract, Maven and enki,
+
+UIOEVELOPER onn01510 172017
+Mroads Cy, STATE
+
++ Deveopea responsive cent ste application to integrate wi Serer side using JavaScript. avery.
+Angular, Node 6. ue Js and Bootstrap
+
++ Used 8 to manta consistency between screens
+
++ ered on migration tom Angular JS 1.xto Angular? and plemented new feature to mpro¥e
+eromance ef appicaton
+
++ Developed we bases data vsuataton by integrating Angular 2 and ds sutable fr bot web and
+
+‘ects and serves used to estas conmunsatin between components
+
+Extensive mode crven forms for more contol an beter valdaton of user-etered dala
+
+‘Work th appcatonarentects and backend developers on SSON AP desn
+
+Responsible fr contguing GIT repostores and maintaining version contr wth GT
+
+‘ping angular functons such as ceatng components and nang dala using ata binding metnod
+
+Food Age metnedelogy or on ine dvey of projet
+
++ Enuronnent angular 2, .avaSep. , Rest Vie Serces, MySQL, Boolsap 3, Gus, Nose
+4S Agte, HTS, CSS, Kama Jasmine
+
+Master of Science |Conputer Soence
+Northwest Miszourt State University, Maryville
+
+{cheer of Seance | Computer Science
+Lovely Professional Unversity, Pragwara

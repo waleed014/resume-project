@@ -1,0 +1,91 @@
+SHERWOOD
+DOUGLAS
+
+EXPERIENCE
+
+Torp, Bogisich and Hahn
+
+09/2020 - present
+
+Dallas, TX Lead Et! Developer
+
+Bartell, Roob and Durgan
+
+Good to have hands-on experience on AZURE Cloud platform
+services stack - Azure Data Factory, Azure SOL Database,
+AZURE Data Warehouse, Azure Blob Storage, Azure Data Lake
+Storage, HD Insight/data bricks
+
+Hand-on experience on snowflake in creating custom API,
+procedures, tasks and secured views
+
+Hands-on experience with Snowflake utilities, SnowSQL,
+SnowPipe
+
+Working knowledge on Stored procedures
+
+Solid technical background in data modeling, database design
+and optimization for data warehouses, specifically on column
+oriented MPP architecture
+
+Strong SQL skills and strong knowledge of data processing
+using Python
+
+Strong working knowledge of Hadoop ecosystem
+
+03/2015 - 08/2020
+
+Dallas, TX Database / ETL Developer
+
+Familiar with machine learning and advanced analytic
+application development
+
+Knowledge of ITIL related processes and procedures, service
+delivery, incident management, and change management
+Strong understanding of the underlying infrastructure setup
+Expert knowledge of Oracle PL/SQL packages, triggers, stored
+procedures, indexes, functions, tables, views, database links,
+scripts, queries
+
+Experience with technical support and integrations of financial
+systems
+
+Understanding of the underlying Costpoint and Deltek TE
+databases and concepts - ERD, working/temp tables
+
+44348 Shelby Pine,
+Phoenix, AZ
+
++1 (555) 171 8239
+
+EDUCATION
+
+School of the Art Institute of Chicago
+Bachelor's in Computer Science
+
+SKILLS
+
+Use an array of languages such as SQL,
+PL/SQL, and others depending on
+specific requirements, in analyzing,
+designing, testing, and modifying
+application software for enhanced
+functionality and productivity
+Participate in Release implementation
+planning and production support
+turnover
+
+Use practical knowledge of various ETL
+tools, software languages , and
+platforms, and apply design
+specifications techniques
+
+Actively participate in analyzing,
+planning, designing, developing and
+testing applications for software
+enhancements and new changes
+Perform 24 hr production support on-
+call duties which is on a rotation
+schedule with other team members
+Experience with complex business
+projects

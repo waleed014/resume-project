@@ -1,0 +1,125 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 # resumesample@example.com
+
+SUMMARY
+
+Full Stack Net Developer with strength in Angular, Net Core, SQL and Azure. Proactive and quick leamer individual with strengths in
+communication and collaboration. Adept at managing concurrent objectives to promote efficiency and influence positive outcomes.
+
+SKILLS
+
++ Application Type: Web Apps/Services, Client Servers Mainframe, + Cloud Technologies: Azure
+REST ‘+ Tools: Jira, TFS, VS Code, SQL Server 2008/2012/2016, GitFiub,
+
++ Database: MS SQL Server
+
++ Framework: Net Core, Angular 9/10, Bootstrap, Angular Material
+
+EXPERIENCE
+
+Fall Stack Developer, 08/2021 - Current
+‘Two95 Internati
++ Participated in Agile Scrum Methodology by attending in daily scrum.
+* Designed a Web application using Web API with Angular8/Angular9, leveraged Entity framework (EF)
++ Using Microsoft Technologies for the project development such as Visual Studio, Visual Studio Code, .Net Core, Git, Sql Server and Jira.
++ Developed routing to allow for the use of a Single-page-application (SPA) with different content using Route Provider in the Angular10
+‘Module and ng-view in the HTMLS.
+* Utilized Angular Route for creating Single Page Application (SPA), and incorporate Model-View (MV) development pattern allowing
+efficient unit testing, and appropriately utilizing Controllers, Services, and Factories with dependency injection,
+* Strongly involved in code review, build and deployment with Azure Devops, GIT.
++ Implemented MVC design pattern for developing the Web Application and used MVCS application using Razor syntax for view engine,
+also used C# for the back end.
++ Participated in writing complex SQL Statements, Views and Stored Procedures, Indexes to validate data and ensure system integrity and
+security written LINQ functions for data access.
++ Create brief technical specification documents according to verbal and written functional requirements and other requirements. Also wrote
+Design Documents, Deployment Documents and User Manuals.
+
+ynal Ine. - Eagan, MN
+
+* Worked on perform coding, unit testing, error handling, bug fixing, bug verification.
+
+Dot Net Developer, 02/2019 - 07/2021
+Standard Motor Products Inc ~ Greenville, NC
+
++ Focused on frontend development by working on proprietary applications and was responsible for building responsive, dynamic web
+applications using HTML, Angular 9, CSS and TypeScript, backend application is developed using ASPNet Core Middleware, Dapper and
+ASPNET Core Web API
+
++ Implemented Data Access Layer using Entity Framework Core with ASPNET Core Web API to connect, retrieve and update the data from
+SQL Server.
+
+* Created modules and components based on use cases of the application using Angular 9.
+
++ Worked with Angular 9 forms, modules, DOM, events, expressions, filters, and Http Request.
+
++ Utilized various features of Angular 9 like data binding, custom pipes, routing, custom directives, string interpolation, dynamic binding to
+‘meet custom requirements.
+
++ Executed TypeScript to write class, interface, module statements, navigation, and refactoring.
+
++ Implemented Dependency injection (DI) using Angular injector for creating components, resolving their dependencies, and providing them
+‘components as requested.
+
++ Implemented Route Guards for Authentication, using HTTP Client in Service to connect with URLs from ASPNET Core Web API, using
+postman to test API
+
++ Used the OWIN middleware for logging the HTTP Request and Response.
+
++ Executed HTTP Request to read data from web servers and process JSON data to render in the Ul and connected Web API to Angular
+using Http Call and designed GET, POST, PUT, DELETE for ASPNET Core Web API.
+
++ Used Seri log, structured logging framework, for logging purposes.
+
++ Used JIRA as the bug tracking system to track and maintain the history of bugs/issues on an everyday basis.
+
++ Performed Code review and Unit testing using MS Test with MOQ for quality code.
+
++ Used source control Git with GitHfub for source code management, reporting, project management, testing and release management.
+
++ Used Azure Blob Storage, Azure SQL, Azure Functions along with Azure Web App.
+
++ Implemented Agile methodology for adaptive planning, evolutionary development, delivery, and improvement of work.
+
+Fall Stack Developer, 09/2017 - 01/2019
+‘Two95 International Inc. - Ellisville, MO
+
++ Involved in software development, including system analysis, detail design, development for Dispatch System, Isign, and Warranty.
+
++ Involved in designing the architecture of the application modules and responsible for any changes adopted, and the project uses Singleton
+Design Patterns,
+
++ Utilized dependency injection and make use of separation of concerns utilizing the .net core feature,
+
++ Followed Agile Principle for Project Management.
+
+* Performance tuning and stress-testing of SQL database environments to ensure acceptable database performance in production mode.
+
++ Developed a single-page application (SPA) using Angular 7 Framework that interacts with the user by dynamically rewriting the current
+page rather than loading entire new pages from a server.
+
++ Designed and developed user interface for public Web application using Visual Studio 2015, ASPNET/ASP Net Core, and C#.NET,
+AJAX, XML, BOOTSTRAP, HTML, JAVASCRIPT, jQUERY.
+
+* Added new features and modules to the existing web app using C#.NET, ASPNET, Angular, Entity Framework, JSON with jQuery.
+
++ Developed Service in WCF REST service with Entity Framework.
+
++ Involved in Bug fixing and provided support for the client-facing application.
+
++ Used LINQ for creating a Data layer for the web application
+
+* Created Restful Web Service using Restful API, sending JSON format data packets between front-end and middle-tier controller.
+
++ Experience working on Azure CCD pipelines for code integration and code deployment.
+
++ Developed databases in the Azure cloud services and maintained the back-end code.
+
+* Utilized GIT tool to keep track of all changes in source code.
+
++ Participated in daily Scrum meetings and retrospectives.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Computer Information Systems, 05/2017
+University of Houston - Houston, TX

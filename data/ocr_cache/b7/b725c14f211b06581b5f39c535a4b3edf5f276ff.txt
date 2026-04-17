@@ -1,0 +1,105 @@
+Margrette Beserra
+
+Java Developer
+
+Profile
+
+Java Developer with 1 year of experience in designing, developing,
+and maintaining Java-based applications. Proficient in Object-Oriented
+Programming, SQL databases, and collaborative software development
+methodologies, Demonstrated ability to quickly learn new technologies and
+adapt to evolving project requirements. Adept at problem-solving, critical
+thinking, and effective communication. Committed to delivering high-quality
+software solutions and contributing to a dynamic team environment.
+
+Employment History
+
+Senior Java Developer at TechBridge, GA
+Feb 2023 - Present
+
++ Developed a high-traffic e-commerce platform for a major retail client,
+resulting in a 20% increase in online sales and supporting over 1 million
+daily users.
+
++ Successfully led a team of 5 Java developers to redesign and optimize a
+large-scale financial application, reducing processing time by 40% and
+cutting server costs by 30%.
+
++ Implemented an innovative machine learning algorithm for a healthcare
+client's patient data management system, improving diagnostic accuracy
+by 25% and significantly enhancing patient outcomes.
+
+Junior Java Developer at SolTech, GA
+Sep 2022- Jan 2023
+
+* Developed and successfully deployed a high-performance web
+application for a major client, resulting in a 25% increase in user
+engagement and a 40% reduction in page load time.
+
++ Implemented an optimized database query system that reduced query
+response time by 50%, significantly improving the overall performance of
+the company's internal management software.
+
+* Collaborated with a team of 5 developers to create a robust and scalable
+Java-based API, which increased the efficiency of data sharing between
+applications by 35%.
+
+* Led a project to refactor and modernize legacy code, resulting in a 30%
+improvement in maintainability and a 20% reduction in reported bugs.
+
+Certificates
+Oracle Certified Professional: Java SE Programmer
+
+Spring Professional Certification
+
+2020
+
+Memberships
+
+% margrette.beserra@gmail.com
+Xe (481) 888-9545
+9 123 Peachtree St, Atlanta, GA 30303
+
+Education
+
+Bachelor of Science in Software
+Engineering with a focus on Java
+Development at Georgia Institute
+of Technology, Atlanta, GA
+
+Sep 2017 - May 2022
+
+Relevant Coursework: Object-Oriented
+Programming, Data Structures,
+Algorithms, Databases, Java
+Application Development, Web
+Programming, Software Design
+Patterns, Computer Networks,
+Operating Systems, and Distributed
+systems.
+
+Links
+
+linkedin,com/in/margrettebeserra
+
+Skills
+
+Spring Framework
+
+Hibernate ORM
+
+JUnit Testing
+
+Maven Build
+
+JavaServer Faces (JSF)
+
+Apache Struts
+
+Java Persistence API (JPA)
+
+Languages
+
+English
+
+Japanese

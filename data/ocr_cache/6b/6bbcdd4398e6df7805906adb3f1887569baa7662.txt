@@ -1,0 +1,120 @@
+PESKOV SERGEY
+
+Python Developer
+
++7777 1096895 @peskovdev@proton.me < https://peskov.dev
+
+SKILLS
+
+9 Kazakhstan Karaganda
+
+FIND ME:
+
+Main Stack
+
+Python Flask Linux Git HTTP PostgreSQL
+
+oop
+
+Redis Docker SOQLAlchemy Aiogram HTML & CSS
+
+JavaScript Unittest & Pytest Poetry
+
+Familiar with
+
+Django Vue MongoDB Basic Go
+
+PYTHON-PROJECTS
+
+Flask-blog
+
+@ https://github.com,
+
+Tools used:
++ Flask
++ Different Flask-Extensions
++ SQLAlchemy, Alembic
++ VanillaJS
++ Docker
+
+Pheidippides
+
+kov
+
+@ https://gith ‘dev/pheidippides
+
+Telegram bot for sending cryptocurrency rates. Tools used:
+
++ Aiogram
++ Telegram api
+
++ Redis
+
++ Async, aioschedule
+
+JWT-Auth
+
+@ https://github.com/us:
+
+JWT authentication between microservices. Tools used:
++ Django
++ DRF
++ Djoser & JWT-Tokens
++ Vue
+
+EDUCATION
+
+Bachelor: Computer engineering and software
+
+Karaganda University Of Kazpotrebsoyuz
+
+-NET Learning Program
+
+Epam Training Center
+
+68 2020 - 2023
+
+€8 2019
+
+Vocational School: Computer engineering and
+
+software
+Karaganda Higher Polytechnic College
+
+‘wwwenhancv.com
+
+68 2016 - 2020
+
+¢ Telegram: https://t.me/peskovdev
+
+¢ GitHub: https://github.com/peskovdev
+¢ GitLab: https://gitlab.com/peskovdev
+
+¢ Linkedin: linkedin.com/in/peskovdev
+
+¢ Twitter: https://twitter.com/peskovdev
+
+MY TIME
+
+Education
+Programming
+Communication
+Sport
+
+Rest
+
+Sleep
+
+Russian Native
+
+Intermediate
+
+PASSIONS
+
+@ WEB3.0
+
+$B Cryptocurrencies
+
+</> Open Source
+
+Powered by (CX? Enhancu

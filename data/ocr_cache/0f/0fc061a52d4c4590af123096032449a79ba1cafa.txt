@@ -1,0 +1,117 @@
+Peter Connolly
+
+Etl Developer
+
+& (726) @ peter.connolly34@yahoo.com
+
+@ flashy-traveler.org
+
+SUMMARY
+
+Experienced ETL Developer with a passion for developing high-
+quality code and delivering solutions that meet business needs.
+Skilled in evaluating, designing, and implementing data
+engineering solutions in both on-premise and cloud-based
+environments. Strong understanding of data governance,
+security, and compliance. Proven track record in identifying data
+sources, integrating and cleansing data, and converting data.
+Committed to delivering projects on time and in line with coding
+standards. Excellent team player with a positive attitude.
+Seeking an opportunity to contribute to a dynamic company's
+mission and take the next step in my career.
+
+EXPERIENCE
+
+ETL Developer
+
+ABC Technology Solutions
+
+68 2022- Ongoing 9 Birmingham
+
+Designed and implemented efficient ETL processes to extract, transform,
+
+and load data from multiple source systems into a centralized data
+
+warehouse. Collaborated with cross-functional teams to gather
+
+requirements and ensure data quality and accuracy. Developed scalable
+
+solutions resulting in a 30% improvement in data processing time.
+
+Conducted data profiling and analysis to identify data quality issues and
+
+implemented corrective measures. Provided ongoing support and
+
+maintenance for ETL processes.
+
++ Implemented data validation routines to ensure accurate and reliable
+data.
+
+* Optimized SQL queries to improve performance and reduce processing
+time.
+
+* Collaborated with data architects to design and implement data models.
+
+* Developed and maintained documentation of ETL processes, data
+mappings, and business rules.
+
+* Worked closely with business users to understand requirements and
+translate them into technical specifications.
+
+* Assisted in troubleshooting data integration issues and provided timely
+resolutions.
+
++ Implemented data quality measures and conducted data profiling to
+identify data anomalies.
+
+www.enhancv.com
+
+9 Fort Tyreefurt, Paraguay
+
+MY LIFE PHILOSOPHY
+
+The biggest risk is not taking any
+risk. In a world that is changing
+quickly, the only strategy that is
+guaranteed to fail is not taking
+risks.
+
+STRENGTHS
+
+|& problem Solving
+
+Demonstrated ability to analyze complex
+data problems and develop innovative
+solutions resulting in improved data
+processing efficiency and accuracy.
+
+® Collaboration
+
+Proven track record of collaborating with
+cross-functional teams to gather
+requirements, define data solutions, and
+ensure successful project delivery.
+
+Attention to Detail
+
+Meticulous in data analysis and
+documentation, ensuring data integrity and
+accuracy in all ETL processes. Strong
+focus on quality assurance and error
+prevention.
+
+SKILLS
+
+ETL Tools (Informatica, Talend) SQL
+
+Data Warehousing Python
+
+Apache Spark Data Modeling
+
+Data Integration Data Cleansing
+
+Data Migration Database Development
+
+Data Governance
+
+Powered by (CX? Enhancy

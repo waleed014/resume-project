@@ -1,0 +1,58 @@
+ETL Informatica Developer eel ee cece ee
+mail: info@qwikresume.com
+
+Website: wwe qwikresume com
+
+ROBERT SMITH Linke
+linkedin. comyqwikresurne
+Address: 1737 Marshwille Road,
+Atabama,
+
+Objective
+
+ETL Informatica Developer with aver 16 years of developrnent experience to include over six years
+of Informatica ETL. Extensive Extract Wansform and Load (ETL) and a solid understanding of Data
+Warehousing, Over six years of experience in analysis, design, development, custamization,
+testing, implementation, support and user training of Software ap plications.
+
+Skills
+
+Cognos 8, 10 Connection, Query Studio, Report studio, Framework Manager, Cognos Suite,
+Scheduler, Impromptu Web Reports (IWR), Upfront, Cognos impromptu 7.x/6.x , PowerPlay 7X6.
+{Access Maniager ETL Tools: Inforrnatica , Data Modeling Erwin 3.5.2 Languages: Java, Javascript,
+HTML, XML, SOL, PLISQL
+
+Work Experience
+
+ETL Informatica Developer
+
+‘Www.chenations.com - November 2002 - Present
+Analyzing the relationships of flat files and extracting the analyzed systerns, rnzeting with end
+Users and business units to define the requirements,
+Documenting user requirements, translating requirements into system solutions and
+‘developing implementation plan and schedule,
+Extracting data from excel fies, high volume of data sets fromm data files, Oracle, DB2,
+Salesforce.com (sfc) using informatica ETL Mappings/SL PLSQL scripts and loaded to data
+store area,
+Developing data mappings between source systems and warehouse components,
+Developing etl procedures to ensure conformity, compliance with standards and lack of
+fedundancy, translates business rules and functionally requirements into et] procedures.
+Developing and testing all the backend programs, informetica mappings and update
+processes
+{Creating and monaring batches and sessions using informatica Powercenter server.
+
+Jr. ETL Developer
+ABC Corp - 2001 - 2002
+“ned SOL queries and views for correctness and perforrnance.
+Developed data co-location and caching strategies to enable operation push-down,
+Worked with source databases of many flavors (Oracle, Aurora, Redshift, Snowflake, etc) to
+access ancl expose necessary data
+Developed java plug-ins to access non-relational data sources,
+Constantly worked to reduce complexity within the virtualization sphere by finding overlaps
+and eliminated duplication,
+Extensively used Informatica power center 8. 6.1 for extraction, transformation and loading
+process.
+Developed UNIX shell scripts for event wait, wat fr files and pre-session tasks.
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+Guidelines

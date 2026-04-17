@@ -1,0 +1,83 @@
+Charles Bloomberg
+
+9 New York City, United States @ charlesbloomberg@gmail.com O 01062375053 & in/bloomberg
+
+SUMMARY
+
+Civil engineer with 5 years of experience in the construction and design of residential, commercial, and industrial buildings. Proven ability to
+manage large teams, budgets and multiple projects. Seeking a career advancement opportunity as a Project Manager at Company A.
+
+EXPERIENCE
+
+Civil Engineer | Company A | New York, NY | June 2020 - Present
+
++ Inspected a telecommunication tower prototype, modified the structural drawings using AutoCAD for safety requirements, proposed and
+implemented changes that reduced each tower's weight and cost by 5%.
+
++ Modeled structures of 3 multi-story buildings using ETABS based on architectural plans, verifying the feasibility.
+
++ Proposed column, beam, and slab specifications based on modeling and calculation results following Eurocode.
+
++ Calculated and proposed helical pile specifications for a solar panel project based on the local soil types.
+
++ Coordinated with contractors and ensured the construction of a warehouse building followed design plans.
+
++ Conducted factory acceptance tests biweekly for precast concrete foundations and ensured acceptable quality.
+
+Civil Engineering Intern | Company B | New York, NY | June 2019 - June 2020
+
++ Completed Revit information details of a 15-story building BIM project using COBie and other add-on programs.
+
++ Identified issues with a Revit add-on program developed by the company for determining component addresses using rooms, devised and
+applied a solution with the developer by changing the room association mechanism.
+
+Research Intern | Company C | New York, NY | June 2018 - June 2019
+
++ Researched and compiled comprehensive information about Country Ws healthcare system and market, confirming Country Bas a viable
+health tourism customer source for Country A.
+
++ Initiated and facilitated cooperation between 2 major hospitals In Country B and Consultancy Company.
+
+EDUCATION
+
+Master of Science in Civil Engineering | New York University | New York, NY | 2020
+
+Bachelor of Science in Civil Engineering | New York University | New York, NY | 2018
+
+CERTIFICATIONS
+
+Certified Associate in Project Management (CAPM) | Project Management Institute | 2020
+
+PROJECTS
+
+City Department of Transportation Road Network Capacity Research | November 2021 - Present
+
++ Proposed using and implemented macroscopic fundamental diagrams to analyze traffic capacity in City.
+
+- Simulated the complete traffic of an 8km2 area in the City with PTV Visum/Vissim using limited loop detector data with 95% and 86% of the
+roads achieving under 5.0 GEH and 10 relative standard deviations, respectively.
+
++ Partitioned City's network with a community detection algorithm using Python to reduce flow variance.
+
++ Constructed the macroscopic fundamental diagrams for each road network partition using Python, confirming that the City's traffic was at
+about 70% of the capacity.
+
+Airport Subway Planning | May 2021 - August 2021
+
++ Proposed and planned a 16-stop airport subway that combines with an existing train route in City.
+
++ Computed the optimal stops and frequency for 3 train types using linear programming based on the OD matrix.
++ Designed a double-track layout with appropriate sidings to minimize delays and optimize the train schedule.
+
++ Calculated a train schedule using a signaling block system that avoided clashes with the combined train route.
+
+High Tech Facility Construction Planning | January 2021 - May 2021
+
++ Devised a 267-day construction plan for a 4-story semiconductor fabrication plant using MS Project with CPM.
++ Proposed optimal construction site paths and site subdivisions for each of the 15 major planned stages.
+
++ Reduced the maximum labor per day from 255 to 180 person-days using the resource smoothing technique.
+
+SKILLS
+
+Technical Skills: AutoCAD, SketchUp, ETABS, PTV Visum/Vissim, Python, Revit, MS Project

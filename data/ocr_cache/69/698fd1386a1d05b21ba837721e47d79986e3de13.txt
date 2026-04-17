@@ -1,0 +1,98 @@
+EARLENE KIHN
+
+35333 Will Knoll, Los Angeles, CA
+
++1 (555) 956 3828
+
+EXPERIENCE
+
+WEHNER GROUP
+San Francisco, CA | Lead Etl Developer 05/2018 - present
+
+Strong Python, Spark and Java scripting experience
+
+Hand on experience working in the Cloud (Azure/AWS)
+
+DB programming (SQL Server), Data warehouse knowledge, Big Data,
+Pyspark
+
+Indept understand and experience working in architector design (logical
+and physical design)
+
+Strong SQL skills and database programming skills including creating
+views, stored procedures, triggers, implementing referential integrity,
+designing and coding for performance
+
+ETL experience with Informatica
+
+Organization, discipline, detail-orientation, self-motivation, and focused
+on delivery
+
+Experience in DataStage/Erwin
+
+Experience with Scala/Spark
+
+Strong relevant Experience
+
+Understand requirements analysis then, build and deliver the solution
+
+WINTHEISER, RITCHIE AND HINTZ
+San Francisco, CA | Database / ETL Developer 10/2012 - 11/2017
+
+Provide US/EMEA overnight support on critical processes in AML
+and/or risk program, such as data feed batch jobs, reports, etc ina
+follow the sun model, and able to address tickets escalated by L1/L2
+teams
+
+Large scale relational database, data lake, or data warehouse
+experience with a strong grasp of SQL, to access, analyze, and
+assemble data to meet requirements
+
+Strong development expertise in DataStage (Version 9.5 or Higher) with
+experience in processing high volume jobs, UNIX scripting and
+debugging, Oracle, Control-M
+
+Experience using Kafka (with Python, Java, or equivalent)
+
+ETL Administration, performance tuning and troubleshooting
+Experience with Marketing or Campaign technology
+
+Experience executing using agile or scaled agile frameworks
+Technical knowledge offexperience in Business Object Data Services
+(BODS) data flow/job development
+
+EDUCATION
+
+FASHION INSTITUTE OF DESIGN & MERCHANDISING
+Bachelor's in Computer Science
+
+SKILLS
+
+.
+
+Knowledge of professional Software Engineering and
+best practices for the full Software development life
+cycle, including coding standards, code reviews, source
+control management, build processes, testing, and
+operations
+
+Strong understanding of SDLC, Agile development, and
+CI/CD code management and delivery
+
+Proficiency in estimating work assignments and
+delivering to these estimates
+
+Expertise and hands-on experience with design and
+development best practices
+
+Willing to learn new development or database
+technologies
+
+Hands-on expertise in cloud services like AWS, or
+Microsoft Azure
+
+Working on python, pyspark for building data pipelines
+and knowledge on Machine Learning use cases and
+models
+
+Experience in the banking sector is necessary

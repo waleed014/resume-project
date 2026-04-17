@@ -1,0 +1,94 @@
+Ne
+
+DevOps Expert YEVGEN
+
+Date of birth: 11/11/1988 Nationality: Ukrainian
+Address: 9999 Namaste loop, Orlando 99999, USA Phone number: +1 (999) 999-9999
+Email address: hello@kickresume Web: kickresume.com/cv/YEVGEN/
+
+Profile
+
+During my job experience, | had practical skills with interesting technologies, tasks, people. In the whole role of my
+engineering practice include building and supporting web SaaS solutions based on Linux/Unix platform in a cloud (AWS) and
+on-premise, experience on server infrastructure migration, monitoring and securing, LAMP, and Linux Server
+setup/administration. Takes the form part in automating, supporting and to ensure CI/CD in product developing.
+
+07/2017 - present
+Orlando, USA
+
+01/2016 - present
+Riga, Latvia
+
+08/2011 - 12/2015
+London, United Kingdom
+
+Professional Background
+
+Lead DevOps Engineer
+
+Cloudbeds (cloudbeds.com)
+
+Leading development and operations processes inside team
+
+Developing CI/CD roadmap and implementing to the project
+
+Play a significant role in establishing operational processes for a fast-growing distributed
+cloud platform.
+
+Help scale our platform to 10x customers.
+
+Improve deployment process within AWS (ex. cross-region automated deployment).
+
+AWS services administration: IAM, VPC, Route 53, EC2, S3, CodeBuild, CodeDeploy, Redshift,
+RDS, CloudWatch, CloudFormation
+
+VCs: Bitbucket
+
+Automation tools: Ansible
+
+Docker, Vagrant
+Scripting: Shell, Ant, Python
+Jira, Aha, Slack
+Improve automated test and simulation frameworks.
+
+Develop and automate standard operating procedures around common failure scenarios.
+Monitor, analyze, and report performance statistics for cloud hosted environments.
+Develop application performance management to measure and act upon performance data.
+Consult and contribute to system architecture.
+
+Develop application features and improvements.
+
+Participate in on-call schedule in local timezone.
+
+Write clean, well-documented, and resilient code.
+
+DevOps Expert
+
+Devellar (devellar.com)
+
+Managing 50+ servers in a distributed and highly available critical infrastructure
+CentOS / Ubuntu system administration and performance tuning
+Experience with Amazon CLI, EC2, S3, CloudFront
+
+Automation skills with Puppet
+
+Zabbix, Grafana, Graylog monitoring systems
+
+Jenkins
+
+Docker, Vagrant
+
+Web stack (Nginx, PHP-fpm, Percona-DB)
+
+Git
+
+Shell, Python scripting
+
+Jira
+
+Linux administrator / DevOps
+King-Servers (king-servers.com)
+
+Install, configure and maintaining web services
+Experience with Apache, Nginx, PHP-fpm
+Experience with DNS

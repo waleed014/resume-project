@@ -1,0 +1,62 @@
+Dot Net Developer Phone: (123) 456 75:99
+nai: nfoaquikresusme com
+
+ROBERT SMITH iitiats inked o/eptcesane
+
+Objective
+
+Dot Net Developer with around 4 plus years of experience in design, development, coding and
+testing of business commercial applleations using C4, ASP. Net, ADO. Net, Mierosoft Enterprise
+Library, SOAP, Web Services, Windows Service, WCF Services, MVC and SQL Experience in Object
+Grlented Programming with Microsoft NET technologies such as NET ASP.NET, Ca, VENET.
+MS.DOM, XSL, XSLT, HTML 5. Java Seript, JSON, Razor. Bootstrap, Visual Stuuo, Net NHibemate
+ADO. Net. TFS and Entity Frameworle
+
+Skills
+
+ASP.NET, ADO.NET, WPE, WCF, LINQ Languages: C, CH, C#. PL/SQL. TSQL Database: SOL.
+Server Oracle 91/10 Frameworks: NET MVC Web Technology: HTML, XME., JavaScript.
+AngulanJS, AJAX. CSS, SOAP, Web Services, Windavr Service Server Platforms: IIS Windows
+Server SPIIDE: Microsoft Visual Studio NET Reporting Services: Crystal Reports Version Control
+Tortoise SVN, MS-Team Foundation Server. Microsoft Visual Source Safe Operating Systems
+Windows Unix
+
+Work Experience
+
+Dot Net Developer
+
+‘Nutrlsystem - September 2015 — Present
+
+Analyzing the business requirements and proposed asp. Net based front end and sql based
+‘backend solutions
+Interacting with the system users to identify and gather data required for processing.
+Designing and developing various abstract classes, interfaces, classes using abject oriented
+principles to construct the business logic using C#
+
++ Performing design and development of Asp Net 4.5 web application using c# and separate user
+Interface logic from the business logte
+
+© Implementing Asp.Net 4.5 validation controls to valldate the user input on the server side
+
+© Extensively using the CSS to provide flexible presentation, enabling multiple pages ta share
+formatting and reduce complexity and redundaney ofthe hin! pages.
+
++ Enhancing pages with diferent Ajax controls which provided responsWe user interfaces ta
+display the data en the web page.
+
+Dot Net Developer
+
+Bleckboard - February 2014 ~ August 2015,
+
+© Implemented crud functionality with entity framework in Asp.Net MVC 4.0.
+‘Responsible for developing the reusable components on Lifvews) by developed the partial
+‘views, view starts, and reusable components,
++ Supported the deployment and upgraded of ather related maclutes and applteations
+Regression testing ofthe application In case of any upgrade and outages.
+Responsible to get sign-off from the customer for software fies in case of support tickets and
+design in case of minor enhancements:
+Replaced existing Infragistics 7. 1 controls with 15. 1 and supported tle. chrome and freox)
+browsers,
+Developed partial classes and custom action filters for exception handling.
+
+(tha Free Resume Tesla nthe copy of teesnascom Uae Caldeinee

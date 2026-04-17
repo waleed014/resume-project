@@ -1,0 +1,87 @@
+Christa Nathan
+
+REACT DEVELOPER
+
+& info@resumekr
+
+s, US fig linkedin.com/resumekraft
+
+SUMMARY
+
+SKILLS
+
+3+ years experienced React developer with hands-on experience in
+identifying web-based interactions along with design and developing
+highly responsive User Interface.
+
+Fy exrerience
+
+React Developer
+Terralogic Software Solutions Limited ju/ 2020 - Present
+* Developed and implemented frontend user interfaces using
+React,js
+ Collaborated with UX/UI designers to create seamless and visually
+appealing web applications
+Worked closely with backend developers to integrate APIs and
+ensure data flow between server and client
+Utilized Redux for state management in complex React applications
+Conducted code reviews and provided feedback to ensure code
+quality and adherence to best practices
+‘* Implemented responsive designs to ensure optimal user experience
+across different devices and screen sizes
+‘© Debugged and resolved issues related to performance, accessibility,
+and crossbrowser compatibility
+Implemented unit tests and participated in integration testing to
+ensure software quality
+Stayed uptodate with the latest industry trends and best practices
+in React,js development
+Collaborated with team members and participated in agile
+development processes
+
+a | PROJECTS
+
+IMS Version-3
+
+Frontend React Developer jan 2022 - Present
+
+This is a test preparation project for the CAT and other management
+entrance examinations, where students can plan, learn, attempt mock
+tests and revise for various enterance exams.
+
+Work Experience
+
+© Involved in designing UI using React, Tailwind CSS and Redux.
+‘* Developed and integrated screens for
+Login, Profile, Preparation Plans and Classes
+
+Tatasteel Aashiyana
+Web Developer Dec 2020 - Dec 2021
+
+JavaScript
+
+React JS
+
+Redux Toolkit eeas
+HTML
+
+Tailwind CSS
+
+Python
+
+| | LANGUAGES
+
+English suena
+French eaee
+Arabic La
+German SEB
+
+| = | EDUCATION
+
+Computer Science
+San Jose State University
+Jun 2016 - Jun 2020
+
+| @ | AWARDS
+
+Raising Star Award
+Terralogic 2023-01-07

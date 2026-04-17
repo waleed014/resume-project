@@ -1,0 +1,115 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor &2 (555) 432-1000 4 resumesample@example.com
+
+Accomplished professional with 27 years of experience including SAP BASIS Administration, Server
+‘Administration on Windows and Linux platforms. Major strengths problem solving client application issues,
+communication skill, prioritizing workload and meeting deadlines.
+
++ Organization and Time management + System upgrades
++ Technical Analysis + Self-motivated professional
+SENIOR SAP BASIS ADMINISTRATOR 10/2019 to CURRENT
+
+Amick Brown, Lic | Plano, TX
+
++ Over 5 years of technical experience in SAP BASIS Administration, this includes S/4 HANA, BW/4HANA,
+NetWeaver ABAP/JAVA stacks, BW, ECC, GRC, Solution Manager and BODS
+
+‘+ Migrate SAP ECC to S/4 HANA 1809 SPO3, greenfield implementation to MS Azure Cloud from Qurate
+On-Premise Data Center.
+
+‘+ Responsible for all SAP Front End Software upgrades and deployment to Global SAP clients. Upgraded
+1,100 SAP clients from SAP GUI 7.50 to 7.60 and SAP Business Client 7.0. Deployed, Analysis for
+Office(AO), Computer Based Test Automation(CBTA), Business Explorer(BEx). This included planning,
+configuration, regression/ functional testing, coordinating software deployments, writing communications
+and instructions for clients. Maintain SAPUILandscape configuration on NAS storage
+
+‘+ Single Sign-On SSO Administration. Migrated from Centrify SAP SSO to SAP SSO 3.0 using AD and
+SPNEGO configuration
+
+‘+ Create and maintained Jira tasks, creating Service Now Changes, Firewall and NSG requests and
+partnered with SAP App Dev, Unix Admins, DBA's and PWC to implement S/4
+
++ Acted as backup to project manager by hosting meetings, updating JIRA tasks, updating daily status
+report, escalating Service Now requests to various Infrastructure Departments
+
+‘+ Proficient in using SPAM, SAINT, SUM, SWPM, SAPInst tools for install and upgrade SAP systems
+
+‘+ Azure Cloud - NSG rules for connectivity
+
++ SAP HANA Administration and Operations - HANA Studio, HDBSQL commands to create user accounts,
+assign roles and providing audit reports.
+
++ Configured SAP Servers to connect to Stonebranch for SAP Job scheduling and MOVEIt for file
+transfers between SAP and non-SAP systems
+
++ Onboarded 17 employees/contractors 2020-2021 which included submitting access, software and
+hardware requests. Provided training and documentation on SAP systems, JIRA, Service Now, Workday,
+EPM, Compliance and Audit procedures. Acting as lead contact for team of 11 BASIS contractors
+
+SAO BASIS ADMINISTRATOR 04/2016 to 09/2019
+Albany International Corporation | Kaukauna, WI
+‘+ Performed SAP Basis Administration tasks such as SAP installation, upgrades - Kernel, add-ons,
+enhancement & support packs: client copy, performance analysis, memory/buffer management, spool
+administration, database backup/recovery, system copy/refresh, root cause analysis and
+troubleshooting. SAP Printer configuration on Xerox AltaLink C8055 PS and HPSMI Check Printers.
++ Transport Management System configuration (STMS) and performed daily transports
++ Maintain SAP BASIS US/German on-call schedule in MIRS.
+‘+ Fulfilled Internal Audit, KPMG and SOX requests for evidence
+‘+ Responsible for annual SAP ECC Disaster Recovery Tests
+
+ITC CLIENT SERVICE CENTER TECHNICAL SERVICE ANALYST 08/2011 to 03/2016
+Qurate Retail Group | City, STATE
+
+‘+ First point of contact to respond to clients telephone inquiries, email and RESQ concerning support
+requests, systems status and first level problem diagnosis
+
++ Coordinate and publish IT Incident Notification Reports.
+
++ Acted as HP Service Manager Knowledgebase Administrator duties including creating and updating
+Service Desk documentation
+
++ Reduced escalation of second level support Incidents by improving first level resolution by 20% by
+creating documentation, making suggestions and engaging in problem-solving activities to support
+teamwork,
+
+ENCERPRISE TECHNICAL SERVICES SYSTEMS ADMINISTRATOR 03/2007 to 08/2011
+Qurate Retail Group | City, STATE
+
+‘+ Primary Server Administrator for US, UK and German websites across 70 Windows servers.
+
+‘+ Primary Server Administrator for Endeca Linux servers
+
+‘+ Experience with Windows 2003/2008, IIS and Repliweb Migration Deployment Software
+
+‘+ Responsible for installing and configuring server hardware, Windows OS and various application
+software
+
+‘+ Performed conversion of physical servers to virtual using VMWare P2V.
+
+‘+ Installed and configured Commerce servers
+
+‘+ Work with Application Developers to test and deploy code on web servers.
+
+‘+ Monitor server performance for high volume event days for US, UK and Germany.
+
+‘+ Apply Microsoft Security Patches, HP Support Packs and keep all servers PCI compliant.
+
++ Create hardware/software quotes for Capital and Proof of Concept projects
+
+‘+ Responsible for the renewal and installation of VeriSign and Microsoft Self Signed Certificates for the
+Web Farm, Survey.qvc.com and qvcextra domain.
+
++ Provide after hours on-call server support.
+
+Diploma | Computer Operations 05/1990
+The Chubb Institute, Swarthmore, PA

@@ -1,0 +1,52 @@
+KIMI STAMM
+
+193 STEFFANIE MOUNTAINS, NEW YORK, NY
+
+PHONE
++1 (555) 392 1107
+
+EXPERIENCE BARTON-MILLS 02/2020 — present
+Boston, MA // SQL Database Administrator
+
+¢ Operational perfection and be able to support modern delivery needs
+
+¢ Good performance tuning experience, using all available tools like SolarWinds, Query Store
+and methods to investigate and make recommendations to improve slow performing queries
+and procedures at the database and server level
+
+¢ Extensively involved with Hosted to Azure migration
+
+e Assist in resolving priority incidents to quickly eliminate impacts, participate in root-cause
+analysis, and support subsequent corrective and preventative actions
+
+¢ Actively involved with database access issue resolution
+
+¢ Senior Database Administrator are encouraged and supported to acquire relevant Azure
+certifications
+
+MANN GROUP 09/2016 — 11/2019
+Boston, MA // SQL Database Administrator
+¢ Well versed in SQL Server internals (locking, consistency, recovery paths, replication)
+¢ Proficient in T-SQL or related declarative language
+¢ Experience with dependent or related technologies to SQL Server (OS, server, storage, and
+network)
+Higher level knowledge of standards, concepts and tools to be able to complete technology
+assignments
+¢ Domain level technical knowledge to maintain databases, ensure recovery and provide patches
+on SQL and/or Oracle databases
+
+e
+
+EDUCATION FASHION INSTITUTE OF DESIGN & MERCHANDISING
+Bachelor's in Computer Science
+
+SKILLS ¢ Understanding of Relational Database Management System Concept
+¢ Intermediate skills in one of the following SQL Scripting, PowerShell & DOS Scripting
+¢ Administration and Database Management background
+¢ SQL Server / Database Troubleshooting
+¢ Understanding of, and experience with Disaster and Recovery processes and execution
+¢ Familiarity with ITIL practices
+
+Microsoft Office 0365 (Excel, Word, Outlook, Access)
+
+Microsoft SQL Server Management Studio (SSMS)

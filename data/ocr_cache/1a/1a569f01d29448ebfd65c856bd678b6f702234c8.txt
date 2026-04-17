@@ -1,0 +1,244 @@
+JESSICA
+CLAIRE
+
+© _resumesample@example.com
+(555) 432-1000
+
+9 Montgomery stret, San
+Francisco, CA 94105
+
+KEY SKILLS
+
+SAP Material Management,
+
+SAP Sales and distribution
+
+SAP Warehouse management
+
+SAP MRP / Production Planning,
+
+SAP Logistics / Supply Chain
+
+SAP Implementation and
+
+support for repetitive
+
+‘manufacturing environment.
+
++ SAP Configuration and
+implementation
+
++ EDI integration with Sap
+
++ RFID integration with SAP, for
+picking, put-away, packing,
+
++ Flintegration with SAP
+
++ Asset management, Service
+management
+
++ WRICEF
+
++ Testing and Go-Lives
+
++ Gap Analysis and design
+
++ Customization as per Business
+‘Model
+
++ SAP master data Management
+LsMWs, MDM
+
+EDUCATION AND.
+TRAINING
+
+International Technological
+university
+
+San Jose, CA + 2017
+
+‘Master of Science: Engineering
+‘Management
+
+CAREER OVERVIEW
+
+‘1am a Graduate student at ITU, San Jose pursuing Master's degree in Engineering Management
+department, with SAP ERP and Engineering Project Management , as core courses.
+
+Besides, | have 6.25 years of experience in SAP logistics ( MM/WM/PP/SD ), as a production support
+consultant, functional consultant and SAP Operations manager, across various projects, and business
+domains, primarily automobile, manufacturing, retail, shipping and transportations.
+
+‘My technological forte is primarily SAP Logistics and supply chain , but | also have a fair knowledge of
+logistics module integration with other modules like FI/CO, including the Country India Version of
+Finance and Taxation.
+
+‘My latest role was SAP Governance Management for all SAP operations in Magneti Marelli Powertrain
+and Electronic Systems in India.
+
+ACCOMPLISHMENTS
+Awarded "Fastest Learner” certificate at my first job in Tata Consultancy Services.
+
+Was avarded "Best Trainer” in KPIT Cummins , for conducting weekly training sessfons on SAP
+Logistics and MRP area, for around 25 trainees per batch.
+
+‘awarded "Special award” by the CEO, Magneti Mareli, India for increasing achieving SAP stabilization
+» inva new implementation , and reducing IT outsourcing cost to zero.
+
+Lead a cross country team of SAP consultants, based out of Italy, Brazil and Germany.
+
+Increased the SAP usage KPI, among end users, by continuous training and support.
+
+WORK EXPERIENCE
+‘Arrow Electronics - Assistant Manager - SAP Operations
+Pittsford, NY + 07/2012 - 10/2014
+
++ Worked on SAP Mi in the following areas
++ Scheduling Agreements Purchase Orders.
+
+: Inbound outbound deliveries, Return deliveries, deliveries without order reference.
++ Configuration of pricing strategies/tax structure.
++ Config - condition types, condition tables, access sequences.
+
++ Configuration of subcontracting scenario.
++ Configuration of release strategies, output types.
++ Mater data, master data update via LSMWs.
++ County india version of taxes basic excise, ecess, edcess.
+
+Import procurement procedures
+
+‘Technical analysis of print programs, custom reports, Z- developments
+‘Worked in SAP Wht in the following areas :-.
+
+‘Warehouse Organizational structure configuration:
+
+‘Warehouse control parameters
+
+Storage Type, Storage section, search strategies
+
+‘Movement types
+
+Storage units
+
+Interfaces
+
+‘Transfer orders, Transfer Requirements, Confirmations
+
+‘Automatic TOs, TRs, Posting Changes, Quant changes
+
+Kanban Calls
+
+RFID integration
+
+‘Worked in SAP PP in the following areas
+Back flushing, Production declarations.
+‘Material requirement Planning Repetitive manufacturing environment.
+‘Make to Stock scenario of planning.
+
+Planning table.
+
+Stock requirement lists, MRP reports.
+
+‘BOM creation , usage , reporting etc.
+
+Configuration of coverage profile.
+
+‘Master data routing, production version, creation of cost collector.
+
++ Scrapping components and finished goods
+
++ Worked in SD in the following areas
+
++ Master data creation Customer master Sold to Party, Ship to Party, Payer Price Conditions
+
+‘Taxes Customer Info records.
++ Sales Processing - Free of Cost Sales ,Standard Orders Service sales, Asset Sales ,
+Subcontracting , intercompany Sales Customer Scheduling Agreements Forecast Delivery
+Schedules Delivery creation.
+DI
+
+KPIT Cummins - Functional Consultant - SAP
+City, STATE + 11/2011 - 07/2012
+
+‘Worked on SAP 24M in the following areas :-
+
+Scheduling agreements/ Purchase Orders
+
+Inbound/outbound deliveries, Return deliveries, deliveries without order reference
+
+Configuration of pricing strategies tax structure Config - condition types, condition tables, access
+sequences.
+
+Configuration of subcontracting scenario.
+
+Configuration of release strategies, output types Mater data, master data update via LSMWs County
+India version of taxes - basic excise, ecess, edcess
+
+Import procurement procedures - custom miro, excise invoices ete
+
+Technical analysis of print programs, custom reports, Z-developments
+
+Worked in WM in the following areas :- Warehouse Organizational structure configuration:~
+‘Warehouse control parameters Storage Type, Storage section, search strategies Movement types
+Storage units Interfaces Transfer orders, Transfer Requirements, Confirmations Automatic TOs, TRS,
+Posting Changes, Quant changes
+
+Kanban Calls
+
+Worked in PP in the following areas
+ack flushing, Production declarations
+Material requirement Planning -
+
+Repetitive manufacturing environment
+
+‘Make to Stock scenario of planning
+
+Planning table
+
+Stock requirement lists,
+
+[MRP reports BOM - creation , usage , reporting etc
+
+Configuration of coverage profile Master data - routing, production version, creation of cost collector
+Scrapping components and finished goods
+
+Worked in $0 in the following areas :-
+‘Master data creation ~ Customer master , Sold to Party, Ship to Party, Payer Price Conditions
+Taxes Customer Info records
+
+Sales Processing - Free of Cost Sales
+
+Standard Orders Service sales Asset Sales Subcontracting
+Sales
+Customer Scheduling Agreements Forecast Delivery
+Schedules Delivery creation
+
+Billing
+
+‘Tata Consultancy Services - Systems Engineer
+City, STATE + 06/2008 - 09/2011
+
++ Provided Production Support to business related to MUM/WIM issues. Provided support in MM in the
+following areas :~
+
++ Release Strategies, Storage locations and Purchasing Groups Configurations, Support in Z
+developments, Master data updates, Issues related to Purchase Orders and PRs. Scheduling
+agreements, Source Lists, Message determination, print outputs
+
++ Also worked with technical consultants in various custom developments and report creations.
+
++ Also worked with SD and FI team, for issues related to intercompany Billing and Invoice
+Settlements.
+
++ Provided support in the following WAM areas:~
+
++ Issues related to Label printing, Inbound and Outbound deliveries Picking , Put away, Strategies Bin
+creations, material Staging, Batch handling Worked on several custom developments also in WM
+area. Provided support on day to day issues, like error handling and user training issues.
+
+SKILLS.
+
+SAP ERP, Analysis and Design, ERP configuration as per business Models, Project Management,
+Powerpoint Presentations, Documentation, SDLC , Requirement Analysis, Functional and technical
+specification documentation

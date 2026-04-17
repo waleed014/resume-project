@@ -1,0 +1,87 @@
+Name, MS
+City, State
+name@gmail.com # 555.555.5555 « linkedin.com/in/your-profile
+
+Proven Vice President: Equity Electronic Trading, Fintech, Bitcoin, Blockchain, System Architecture/Infrastructure, DevOp
+
+Self-directed and driven technology executive with comprehensive accomplishments leading financial tradig@’erchitécture,
+software development, DevOps, Fintech, project management, and 100+ cross-functional teams to achieVe. goals Ah.
+innovative thinker with strong financial services, digital asset, and emerging technology acumen. Demonstrated) success in
+developing and executing plans in complex, fast-paced, regulated industries. Recognized for impleffiehting project,
+‘management through analysis of the details to ensure project delivery, quality control, and legd€V'system transformation.
+Highly organized, creative problem-solver who excels at guiding teams through challenging projects. Expertise includes
+‘managing multimillion-dollar contracts, budgets, product development, and advising C-level executives.
+
++ Digital Asset, Electronic Trading * Bitcoin, Cryptocurrency Mining + Blockchain Enterprise A¥chitecture * FIX Protocol
+Financial Order Management, Market Data, Messaging * Colocation Infrastructure ® High, Performance Computing * C/C++
+* Exchange Connectivity * Vendor, Production Management * Matching Engine * Financial Services * FinTech + Trade
+Systems * Software Development Life Cycle SDLC * Technology Integration. ® Compliance * Project, People, Vendor
+‘Management
+
+PROFESSIONAL EXPERIENCE
+
+Fidelity Investments, Boston, MA 2001-Present
+A financial services corporation providing asset management services with $3T in revenue and 50,000 employees.
+Vice President, Fidelity Center for Applied Techfiology, 2018-Present
+
+* Oversee 20+ software developers, hardware ehgineets, DevOps, and project managers creating an electronic digital asset
+exchange for bitcoin and equities, levetaging the blockchain.
+
+‘© Managed, designed, and executed:collocated Al-enabled equity trading platform leveraging best-in-class networks,
+switching, servers, and FPGA hardware for.décision processing, trade execution, and delivery of market data.
+
+‘* Enable institutional investors to get the best deal buying or selling bitcoin from over-the-counter (OTC) trading desks.
+
+‘* Empower Fidelity Digital Assets to grow clients, such as hedge funds, family offices, investment advisors, and pension funds.
+
+Architect, Electronic Trading, Fidelity Capital Markets, 2012-2018
+
+© Created softivaté ahd infraétricture architecture for the high frequency, low latency trading platform proximity collocated
+with the najdr inatehihg.engines, dark pools, and public exchanges.
+
+‘* Empowered brokers t0’react to market events faster than the competition, by a few milliseconds, with a goal ofiiicreasing
+the profitability of trades by developing proprietary algorithmic trading.
+
+‘+ Managed’a\$10M budget for building tech platforms, discretionary tools, systems, servers, software, and sFVvice providers.
+
+Chief Architect, Colt Technology Services, Hong Kong, 2011-2012
+
+‘* Transferred by Fidelity to their Colt subsidiary to lead the acquisition and integration of Market Pfizin, a low-latency market
+data service providing feeds for equities, derivatives, commodities, and 50 foreign exchanges FX and liquidity venues.
+
+‘* Managed 50 developers and engineers in building next-generation financial market data technology from sources such as
+stock exchange feeds, brokers dealer desks, or SEC regulatory filings.
+
+‘Incorporate pre-trade data such as bid/ask data necessary to price assets and post-trade data such as the last trade price.
+
+Director, Emerging Technology Research, Center for Applied Technology, 2008-2011
+
+* Led the Center for Applied Technology, Fidelity’s advanced R&O technology-grdup responsible for researching, reporting,
+and piloting emerging technology that can be leveraged thought the entterpris®
+
+‘ Designed and implemented successful projects, including hardware-accelérated market data, mobile phone applications,
+and next-generation computer platform using cloud and virtualization:
+
+* Drove innovative change across the enterprise by presenting Solutions and white papers to senior management, divisional
+President's and the Chairman of the board.
+
+Specialist, Technology Development, 2001-2008
+
+* Senior software engineer and architect for Fidelity investmélits \Active Trader Pro platform.
+‘* Retained to develop direct trading components, steaming market data adapters, and overall technical architecture.
+
+Technology Consultant, Boston, MA 1990-2000
+
+‘+ Managed technology projects for Thorson Financial, iron Mountain, UPS, Reuters, ProCD, ValueQuest, CEG Systems, and
+RemRoll Systems.
+
+EDUCATION
+
+MS, Master of Scierice, Science Technology Leadership, Brown University, 2018
+BA, Bachelor of Arts)P8ychGlogy, Boston University, 1988
+
+PATENTS
+
+Generating and Deploying Customized Software Containers, U.S. Patent 10,628,599
+Peer-to-Peer Decentralized Distributed Data Structure and Token Exchange Apparatuses, Methods Systems, U.S. Patent
+16,389,875,

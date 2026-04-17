@@ -1,0 +1,77 @@
+PROFILE
+
+WORK
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+Victor Marcussen
+
+Phone number: 555-555-5555
+Email address: hello@kickresume.com
+
+Performance-oriented and motivated Network Security Analyst accustomed to
+working in fast-paced business environments. Skilled at implementing new
+network system security policies and procedures, analyzing any security incidents,
+and configuring networks and servers. Certified Information Systems Security
+Professional with well-developed technological expertise and strong data-driven
+approach. Possess great analytical skills and significant ability to work and perform
+well ina team.
+
+Network Security Analyst
+
+Lowe's Inc.
+
+06/2016 - 06/2019 9 AMSTERDAM, NETHERLANDS
+
+¢ Developed and implemented new network system and application security
+policies and procedures to prevent corporate data from being stolen.
+
+¢ Monitored and analyzed network traffic, investigated and documented any
+security incidents, and provided advice and recommendations to managers on
+any IT-related issues.
+
+¢ Configured and maintained various networks and servers, updated firewalls,
+and trained and coordinated new personnel, ensuring that all policies were fully
+followed.
+
+Maintained and managed confidential files and records, performed password
+
+auditing assessments, and completed professional network vulnerability
+
+assessments.
+
+¢ Awarded Employee of the Month twice and recognized by executives for
+performing great work.
+
+Computer Science & Information Systems
+
+University of Amsterdam
+
+1 09/2012 - 05/2016 ( AMSTERDAM, NETHERLANDS
+
+GPA: 4.0 (Top 2% of the Program)
+
+The 2015 Academic Excellence Award winner
+
+Clubs and Societies: Engineering Society, Physics Society, Volleyball Team
+
+Gymnasium
+
+Saint Anne High School
+
+F1 09/2008 - 05/2012 9 COPENHAGEN, DENMARK
+
+Graduated with Distinction (Grade 1 - A/excellent equivalent in all 4 subjects)
+Activities: Economics Society, Film Society, Chess Club,
+
+@ LanGuaGEs
+Danish English German
+Native Full Limited
+
+@ COMPUTER SKILLS
+Microsoft Office Wireshark, Snort TCPdump, OpenVAS
+
+OSSEC, Nexpose

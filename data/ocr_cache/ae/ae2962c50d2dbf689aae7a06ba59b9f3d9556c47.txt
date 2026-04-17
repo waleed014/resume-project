@@ -1,0 +1,60 @@
+Python Developer / QA hone: (173) 456 78 99
+
+Email: Infow@qulkresurme.com
+
+Automation Tester Website: wuocavdkeesunecom
+ROBERT SMITH dares1787 Marl Road,
+Alabama,
+
+Objective
+
+‘Around 5 years total IT experience as a software engineer and Python Developer and Salesforce
+Platform, Extensive experience In Python Django web frame works In Implementing MVC
+architecture
+
+Skills
+
+DJANGO, JAVASCRIPT, MYSQL, PYTHON, CSS
+Work Experience
+
+Python Developer / QA Automation Tester
+‘Accala Inc.— March 2014 ~ Present
+
+Involved In requirement gathering, analysis, design, estimation and testing of the assigned
+tasks in openstack
+
+Implernented rally openstack benchmarking tool on the entire cloud environment:
+
+Experience in reviewing python code for running the troubleshooting test cases and bug
+Issues,
+
+Configuring and managing openstack components such as Keystone, Nova, Neutron, Glance,
+Swift, Heat
+
+Written Nova, Glance, Neutron, Cinder, Keystone, Hashboard, Suit, Python cent api to
+Integrate with existing application.
+
+Create a strategic architectural design of the platforrn with networking (VLANS, Frewalls, Load
+Balancers), Hypervisors (KVM and VMWare), workflow and orchestration (Openstack APIS,
+Smart Cloud Grchestrator), Security (Keystone, DAP), Inventory and ranitaring, licensing,
+backup/restore,
+
+Understanding Python files in openstack environment and make necessary changes If needed.
+
+Python Developer
+‘ARC Corp - March 2011 - March 2014
+Conducted scrum meetings and generated custom dashboards. Knowledge testing tools lke
+bugeilla and jira.
+Experience in using various version control systems like git cvs, github, heroku and ermazan
+eed.
++ Having knowledge on aus lambda, auta scaling, cloud front, rs, routes3, aws sns, 59s, ses.
+* Extensively used python modules such as requests, urls, url 2 for web craving.
++ Developed a fully automated continuous integration system using alt, gerrt,jenkins, mysql
+{and custom tools developed in python and bash,
+‘The vanguard group is an arnerican registered investment advisor based in minneapolis, mn
+with ever $5. 1 tillon in assets under management.
+Create on-demand dally and weekly reports by Invoking scripts with custorn arguments and
+parameters to provide actionable data ta the test owners,
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+‘Guidelines

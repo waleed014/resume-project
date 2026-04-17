@@ -1,0 +1,182 @@
+Jessica CLAIRE
+
+100 Montgomery St 10 Fle # (85) 4521000 ¢ sumesampleseampecon
+
+Sumeary
+‘With 65+ years of professional experience asa UI Developer in varius environments. [have a strong knoadgein developing eb
+applicasons using HTMLS, XHTML, DHTML, CSS5, JavaScript AJAX, JSON, jQuery, TypeSerpt Angulal6 24, React J, Nodeje
+‘with trie W3C standard,
+
+Tato have a sound Knowledge on working with MVC architecture, Proficient in working with Angulas]SQH/10 to create Single Page
+Applications (SP). Extensive experience with JavaScript including Document Objet Model (DOM) and DOM Functions. Woke
+th deren ;Query plugins as per the business Requirements Experienced in Gita Cl and Jenkins Ifo Endo End astomaton
+‘builds. Experience in working with version contol ystems ik GIT and used Source ode management nt ole ke CitBash,
+‘Gitta, Git La, Developed API dive responsive We Application by integrating Angular 4 with Bootstap and APT. Hands on
+‘experienc with Redux and NGRX for Sate management by means of subscbing/ unsubscribing tothe store with tate changes via
+ispatching of actions. Work with different Routers React RouteeMosle nous) for developing Single Page Applications
+‘Good experince with 35 Animations, Backgrounds, Layouts Fostoning Text Border, Padding CSS Box Model and CSS3 Media
+guts, God knowledge of sing CSS preproesor like SASS and LESS, Used AJAX to define asynchronous function that
+supported Ut components dependent on Backend dat, Experience in working in an Agile Development environment
+
+skills
++ Web Teologie: vari HIMLHTILS CSSICSSS, + Operating Stem Lia Mac O5, Winds (Al
+uy, JSON, AJAX. DOMLXTML XHTML, DOM Red, Distro) UNIX
+dun Thank NORX + Dating Too W3e vada, IE Teter, Chom peor,
++ arecipt ameverks bess Overy UL Angulie + IDE Tos Vl Sudo 210, Aor. Elie.
+2A Angst) Rena Backbone, and Nodes, + Applabor/ We sever Apache Tome se,
+ype WebLog Web Sper.
++ Progamming Languages veSrpt SOL + Enszoment HTMLEMTMLS, Jari C553 Qe
++ Datbase MySQL MongoD& Angas, Typescript Raat, REST, Node, JSON,
++ Developer Tol Eas, UML Modeling MS Otce ocieap Dom Aj XHTML XML, GULF, SASS, LESS,
++ Meson Contr Took: (CAHN, CETLAB) SVN, CVS, Ret AWS Gib, SCRUM, Backbone, CRUD, MVC
+Experience
+
+St Frontend DevelopediAngular Developer, 02/2021 to Current
+EsTeade-Cay, STATE
+
++ Cueated custom Angular directives or implementing accessibility festures
+
++ Followed the Agile methodology to implement the application
+
++ Developed user interfaces sing HTMLS, C553, Javaserpt AJAX, JSON, Angular Nodes: HTMLS, C383 and Boosteap
+
++ Coding and testing of reusable Angular 10/11 Components
+
++ Tes res bowses omciony and ied ssjor layout bogs for supting browses wing Angular
+
++ Implemented form validations acos the ite wing Angular 9 Template diven forms
+
++ Used Angular asa ramevork to cate a Single Page Applicaton (SPA), which can bind data to specific views and synchvonize
+data with the server
+
++ Displayed daa using Angular by applying ters on the able data
+
++ Used Angular 1071 Hip Request to read data from we servers and proces JSON data to render inthe UL
+
++ Debugging applications in diferent browsers sing Augusy, Jasmine and Mocha
+
++ Designed the front-end applications ser interactive (UD we pages ung web technologie like HTMLS (Local storage, Index
+BYCSSS, Angular and bootstrap
+
++ Designed the App using technologies of HTMLS, CSS, 5, and Angular 10/11
+
++ Developed seb service components sing REST
+
++ Responsible for designing vasous sue orm, prototypes and also involved in ccaing er validation code wing Angular
+sont
+
++ Responsible for designing the Privacy Policy and Terms of User Pages on thes public Website
+
++ Environment: HTML CSS3, JavaScript Bootstrap, Angus 10/11, Node, Bootstrap, Cordova, Amazon Web Services (AWS),
+Jasmine, Mocha, Grant Aus, Web Sockets and Cartas, Maven Rest Api, GIT, Azure, Visual Studio Code, NGRX Redan.
+
+St UIDevelope/Aagular Developer 03202010 022021
+MSC Industial Supply Co~ City, STATE
+
++ Implemented and designed components of usr interface (UN forthe Application
+
++ Baal pages based on Photoshop mockups using HIMES, Angular 9, TypeSeit C553 and Bootstap
+
++ Contbated in the bs of malpl views forthe Single Fage Appliation using Angular 9 and its Router Module
+
++ Designed REST APT's forthe retsievalof ata from schemas using Http Client Module
+
++ Styled Components with the consideration ofa Reyponsve Layout
+
++ Setup input validations for centside with Angular Forms Validator property for many Controls
+
++ Usa JSON for testing wit ebase repositories simulating server side architecture
+
++ Styled Components that met cross device compat requirements nd sutsied wireframe models
+
++ Condensed styling using CS preprocessor SASS for Components with design sults
+
++ Routine exposure to ying with the consideration of various CSS eying properties ranging fom positioning to tox
+
+properties such s borders, padding and margin
+
++ Able to manipulate Grace database Content with knowledge in ORM conigurtions
+
++ Designed tableless yout wing CSS3 and appropriate Bootstrap techniques
+
++ Used Docker containers torn Linx based apliations
+
++ Worked with enki (CI server) to diagnose sues raised by maven’s bald ess in correspondence of pushing work
+
++ Used browser developer tools for wavering manipulating DOM and stack racing for debugging senaios
+
++ Version contre forthe project was managed wsng GitHub and JIRA forex communication
+
++ Used Sarma test une’ and Jasmine or Unit est septs
+
++ Development in Agile methodology in SCRUM
+
++ Environment: HTML, CSS3, JavaScript Angular 9, TypeScipt, REST-APL Node, SON, Bootstrap XML, SASS, AWS, Git,
+
+‘Cierny, SCRUM
+
+‘UrDevelopedReaetJS Developer, 122017 19032020,
+Quest Diagnostics City STATE
++ Communicate withthe clint o understand the requirements of the project gained experience in projet planning. involved with
+_wttng the Projet design Document and Projet Flan Document
++ artiste a team member in designing the wer interface using HTML and CSS to mae the interace wer eendly
++ Implemented user interface guidlines and standards throughout te development and maintenance ofthe website using
+JavaScript jQuery, React C55 and HTML
++ Handson process of development testing and maintenance
++ Created and optinized graphic protorype of websts and application itera using HTML and CSS
++ Developed user interface by using the React}, Fle for SPA development
+« Teplemennd and design usr intros for web-based customer pplication
++ Developed customer lacing software for managing adverscements ogre the business wing JavaScript jQuery, React},
+HIME, and 55
++ Developed data formated web applications and deployed the script using server-side scripting wing avaScript
++ Works on Cros Browser compatibility and fixed the bugs for several browaere
++ Enhanced and bit usable components across diferent modules and C35 cases
++ Ensured Cross bowser compastiliy
++ Envzonment: HIME, CSS, JavaScript React 5, JQUERY, AJAX, JSON, XML, ECLIPSE, SUN, Lint, MySQL,
+
+LUtDeveloped Angular Developer 0220160122017,
+Havi-Ciy, STATE
+
++ Worked in team environment developing the UL layout and front-end programming for a web apliction matching business
+sequiserents
+
++ Designed and developed dynamic web pages using HIML, CSS, Javascript jQuery Angular 4 node's, for single page
+applications and alo with Angular for other projects
+
++ Coded extensively using vast frameworks ke Angus 4 nodejs within a MVC architecture
+
++ Used JsaScriptask-uner ike GulpyGrunt for Applications
+
++ Implemented Single Page Application using Angular 4, UI Bootstrap and UI- Router
+
++ Used Angular 4 Dependency Injection pater to inceacethe scope of data sharing between angular modules for a more
+‘comprehensive uilization fdcectives
+
++ Uae REST services for equerting information from endpoints
+
++ Developed nonfunctional HTML, CSS pages rom the mock ups designed rom UT sees Gn atendance)
+
++ Implemented Backbone CRUD operations (Create, Read Update and Delete) and Faginator for pagination for Tables
+
++ Worked with C5 pre pocsior onl namely LESS, and SASS
+
++ Used Rest Angular, Promise and Services in Angle 2 for mabing APLeals and tactring diecives|
+
++ Made model representations of data within Backbone and composed CRUD type features forthe aplication that were often
+debugged using Fibug
+
++ Worked in an Agile environment and followed methodologies ike Tet Driven Development (TDD) SCRUM
+
++ Worked with GIT for version contol elated concems
+
++ Handled tasks pertaitng to cross browser compatibility concerns
+
++ Managed pplication state fr both server and cent based tate using besos such Red forthe frontend and estorn ORM
+Sls to communicate and modify the database onthe server-side
+
+Education and Training
+Masters
+Georgia State University - tanta, GA
+
+Bachelor's Physice
+Presbyterian College Citon SC

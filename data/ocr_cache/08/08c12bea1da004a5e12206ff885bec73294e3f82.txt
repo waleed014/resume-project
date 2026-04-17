@@ -1,0 +1,80 @@
+TRINITY ANKUNDING
+
+780 Demetris Point, Philadelphia, PA + +1 (555) 413 9971
+
+‘WORK EXPERIENCE
+
+SENIOR SAP DEVELOPER 05/2015 - PRESENT
+Dallas, TX
+‘+ Developing Data Conversion (load) programs, Interfaces (IDoes, RFCs, BAPIs, Proxy), Enhancements (User Exits, BADIs, Enhancement
+spots, ete.), Forms (SmartForms, Adobe Forms, SAPscript), Reports, Workflow
+‘+ ABAP development in a HANA environment using ABAP development tools in ABAP in Eclipse and HANA Studio environments.
+Including HANA views and ABAP Managed Database Procedures/ Database Procedures, SQL and SQLScript, debugging database
+procedures. Create and maintain HANA persistence model in Core Data Services (CDS), HDBTable and used Data Provisioning using
+‘Table Import
+‘+ HANA web-based development. Developing Data access with ODATA and XMLA in SAP HANA XS. Developing Data access with
+JavaScript in SAP HANA XS. Building user interfaces with SAP Ul5
++ SAP PI/PO development
++ SAP Fiori development
+‘+ Ensuring compliance to all development standards and naming conventions
++ Ensuring adherence to change control process
+
+SAP DEVELOPER (09/2009 - 12/2014
+Phoenix, AZ
+
+‘+ SAP Developer/.Junior Developer in the IT Advisory Services to contribute in various streams of SAP technology implementation projects
++ Design, implement and test code to deliver business solutions
+
+‘+ Programming skills (Java, MS technologies/languages, others. ABAP experience as an advantage)
+
+‘+ Experience/knowledge in Web, Integration and DB area (http, SOAP, JSON, ftp, SQL, XML, JavaScript)
+
++ Good sense of technical principles & talent in solving issues
+
++ Follow IT trends and news
+
++ Willingness to work in a team delivering advanced it solutions
+
+‘+ Good English Language verbal and written communication
+
+SAP DEVELOPER ANALYST 08/2006 - 03/2009
+Detroit, MI
+
+‘+ Prior experience in SAP HCM programming (highly desired)
+
+‘+ Utilize and understand all aspects of project lifecycle from business request, project initiation, functional requirements definition,
+
+technical design, solution selection, development or purchase, and implementation
++ Assist in the identification of project requirements including objectives, scope of work, deliverables, time and cost
+
+‘+ Implement solutions via project management methodology; deploy the solution to operational production environment
+‘+ Assist in determining budgetary requirements for individual projects
+
+‘+ Assure overall project quality and ensure timely completion of deliverables
+
++ Coach lower-level SAP Developer (s)
+
+EDUCATION
+
+UNIVERSITY OF WISCONSIN-RICHLAND 2000 - 2005
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Demonstrates excellent time-management skills & organisation skills
+
+‘+ Good organization and facilitation skills, excellent verbal and written communication skills, and ability
+
+‘+ Excellent inter-personal skills and experience working in team environments
+
+‘+ Excellent oral and written communication and strong customer service skills,
+
+‘+ Excellent organizational, time management and prioritization skills with ability to comfortably juggle multiple demands to achieve tight
+deadli
+
+‘+ Strong problem solving and business analysis skills and experience, including functional decomposition, requirements gathering and
+process modelling
+
++ 1) Strong technical skills in programming and algorithms (Object oriented programming, Scripting, Debugging.)
+
+10 work with people

@@ -1,0 +1,176 @@
+J
+
+ESSICA
+
+CLAIRE
+
+&
+
+9
+
+resumesample@example.com
+(555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+SKILLS
+
+Programming Languages: PL-
+SQL, SQL, Java, Python.
+HTML, CSS, XML, JavaScript,
+jQuery.
+
+Database: Oracle
+
+Tools: SAP-Crystal Report, SVN,
+PL-SQL Developer.
+
+Operating System: Windows
+XP/7/8/10
+
+EDUCATION AND
+TRAINING
+
+DePaul University
+
+Chi
+
+icago, IL
+
+‘Master of Science: Management
+Information Systems
+
+Center For Development of
+‘Advanced Computing(CDAC)
+Navi Mumbai + 08/2018
+
+Post Graduate Diploma:
+‘Advanced Computing
+
+S.ILE.S Graduate School of
+Technology
+Navi Mumbai + 06/2017
+
+Bachelors of Engineering:
+Electronics & Telecornmunication
+
+SUMMARY
+
+Result driven engineer with 3+ years of professional work experience in banking, technology
+industries.
+
+Experienced Database Developer with a demonstrated skills in PL/SQL, SQL, Oracle Databases. In
+addition an energetic SAP consultant experienced in building billbacks, chargebacks, claims, rebate,
+modules serving to sales distribution, Incentive Administration manufacturing, supply chain
+management industries.
+
+EXPERIENCE
+
+Tata Consultancy Services - SAP Consultant
+Detroit, MI + 01/2023 - Current
+
++ Currently working as Demo Build Associate
+
++ The Project acts as a extention partner providing SAP solutions serving industries such as Retail,
+High-tech, Consumer Product, Life science, automotive, Wholesale Distribution.
+
++ Italso provides solution for SAP's Incentive Administration, Paybacks/Billbacks & Chargebacks,
+Data Maintenance Resource, Data Maintenance Pricing.
+
+Responsibilities:
+
++ Participated in discovery calls, collected requirements as per client.
+
++ Build Paybacks/Billbacks & Chargebacks module using S4 HANA SAP application and provided
+solution for claim processing.
+
++ Configured the Incentive Administration module using GTMS and came up with solution for
+rebates.
+
+‘Apex Systems - Database Developer
+Spartanburg, SC + 06/2018 - 02/2021
+‘Company: Vistex, Inc
+
+Project : Kastle Factoring
+
++ Kastle Factoring is a web-based, platform-independent solution that enables business
+transformation with efficient, integrated management of the various assets involved in the
+receivables finance business.
+
++ This multi-currency system with international language support enables receivables finance
+institutions to help clients address key business issues like centralizing business operations, using
+resources optimally and leveraging technology investments via a comprehensive suite of
+receivables finance tools.
+
++ There are different modules in Kastle Factoring such as Company Setup, Account Setup, Invoice
+creation, Disbursement and Appropriation,
+
+Responsibilities
+
++ AS a Software Developer resolved the client issues, provided queries, CR (change request) and DC
+{Data Correction).
+
++ Analyzed the requirement and checked the feasibility of developing within the stipulated time.
+Created a design document as well as Impact analysis document of each & every module so got the
+exact idea before starting the implementation of change request.
+
++ Developed stored procedure and function using PL/SQL.
+
++ Developed complex SQL queries using joins , sub queries, correlated sub-queries and inline views
+to retrieve data from the database.
+
++ Involved in modifying various existing packages, Procedures, Functions, Triggers according to the
+new business needs Design Role Based Access Security For Project and Implemented.
+
++ To Implement the data layer, used cx_oracle python library to connect to the database.
+
+Project: Kastle Universal Lending System(ULS)
+
++ Kastle ULS product development is responsible for developing a comprehensive solution for retail
+and commercial banking groups.
+
++ ULS expects to continue to distinguish itself by delivering exceptional services, while enhancing
+the growth and achievernent of the personal and business aspiration of our customer.
+
++ Kastle universal lending system which is a comprehensive solution for banks in support of retail
+banking. It has Loan configuration, Loan Management and Loan collection modules.
+
+Responsibilities:
+
++ Developed stored procedure and function using PL/SQL, writing SQL queries which will help in
+increasing the performance.
+
++ Designed CRYSTAL Reports Query required for Reports
+
++ Understanding the Functional Requirement Document.
+
++ Prepared and Maintained the CMMI Audit related document, prepared technical specification
+documents, review document, and support in QC.
+
++ Extensively used SQL Developer for daily development jobs.
+
+General Motors - Software Engineer
+Palo Alto, CA
+Project: HelpMeMom - Your Home for Health
+
++ Worked on a project called HelpMeMom - Your Home for Health, an appointment booking system
+which overcomes the issue of managing and booking appointments according to users requirement
+and it focuses mainly on finding appropriate specialty doctors according to symptoms of the
+patients
+
++ This allowed an automated patient-doctor handling system through an online interface
+
++ The project was based on Java-J2EE, Oracle database, JavaScript and frontend technologies like
+Bootstrap CSS, React Js.
+
+Responsibilities
+
++ Designed the backend data access layer to interact with appointment database
++ Implemented core business logic for appointment management system.
+
++ Worked on User Interface using Bootstrap CSS, React Js.
+
++ Performed Unit, Integration, Functional testing for end to end flow.
+
++ Investigated user behavior and interface usage.

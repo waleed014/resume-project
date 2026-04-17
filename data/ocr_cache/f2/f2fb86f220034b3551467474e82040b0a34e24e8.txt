@@ -1,0 +1,60 @@
+ETL Consultant DI Phone: (123) 45678 99
+
+Ema: nlocquikrestame.com
+Website: uunw.qwikrestme.cm
+
+ROBERT SMITH Linkedin: lines com qwikrestime
+‘Address: 1797 Marshville Road,
+
+Alabama
+
+Objective
+
+‘Over 8 years of ETL Consultant fF Experience In analysis, design, development, implementation
+land troubleshooting of Data warchouse/Data Services applications and nearly 6 years of
+Experience in Informatica Power Center, 3 years of Experience in Datasiage and Talend.
+
+‘Skills
+
+ETL, Informatica, SSIS
+
+Work Experience
+
+ETL Consultant 01
+Scientific Technology Corp - February 2015 ~ 2020
++ Built environment which ereating and supporting state of the ant IT systems for publle heath,
+Responsible lor developing Platform as a service lor 1d stales lor AFIX implementation.
+Plans recommend and architects solutions around large data Business intelligence solutions
+for the tnleroperabilty of Healtheare data,
+Implemented in the areas of coding, configuration and query writing of BI solutions,
++ Played as administrator for selting up development environments for Talend, Jasper Sof,
+Postgres for AFIX development and documenting install plan at client locations.
++ Worked on Talend ETL for bullding ODS /OLAP lables and responsible for preparing mapping
+documents
+Responsible far ereating test data for reports demos,
+
+ETL Consultant
+
+Delta Corporation -2012- 2015
++ Implemented Retail DW Team HUB-Spoke dala model to build Multiple Data Marts (spokes)
+
+from lemacy systems,
+
++ The praject is logically divided into two deliverables - Oracle DW (Hub) and Mart (spoke).
+
++ Hub ETL team extracts/loads data from DB2 ip Oracle DW via slaging Oracle structures.
+
++ Mart ETL Team exiracts/loads data from Oracle DW (Hub) to Campaign Management Data
+Mart (spoke.
+
++ This DW projcet implemented Agile methedology to deliver the business necds,
+Respenstilities Worked with Business Analyst to design Business Requirement Dactuments.
+
+© Created a data dictionary to map the busiicss requirements to attributes to design logical data
+‘model implementing star schema
+
+Education
+
+B.Tech tn Inlormatiea Technolegy- (INT)
+
+(Tas Pree Resume Template bse copyright of atkretmesom. Ukage Gudaines

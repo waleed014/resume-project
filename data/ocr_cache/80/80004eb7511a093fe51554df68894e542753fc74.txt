@@ -1,0 +1,47 @@
+Jessica Zackowitz
+
+DevOps Engineer
+
+Phone 410-279-0218 Portfolio www.jesszackowitz.com
+
+E-mail jesszackowitz@gmail.com
+
+Versatile DevOps manager with 6 years’ experience. Seeking to leverage proven continuous deployment skills to raise quality at Google.
+Cut customer complaints by 50% for an SaaS application. At Shellnac Inc., used Jenkins and AWS tools to cut release times by 20% .
+Boosted customer satisfaction by 25%.
+
+Experience
+
+2015-07 - 2018-08 | DevOps Manager
+Frostacre Global
++ Led Agile team of 5 developers, 2 SysAdmins to continuous deployment of SaaS real estate solution with 1
+million+ users. Collaborated with C-Suite and sales teams,
++ Maintained network of 30+ Unix servers with 99.9% up-time.
++ Wrote scripts to automate security upgrades. Cut vulnerabilities by 20%.
+
+2013-05 - 2015-06 | DevOps Engineer
+Shellnac Systems, Inc.
++ Set up and managed 40 Linux servers with 99.95% up-time.
++ Managed continuous deployment of a popular SaaS stock-tracking tool.
++ Deployed 2 software iterations per month for 2 years. Increased customer satisfaction with software by 25%.
+Presided over a period of 30% revenue growth.
+
+2012-06 - 2013-05 | System Administrator
+Litman Analytics
++ Set up and managed 15 Windows 2008 servers.
++ Wrote scripts to automatically update system components.
++ Cut company costs 20% through aggressive vendor management.
+
+Education
+2008 - 2012 BS in Computer Science, University of Michigan
++ Excelled in security classes.
+* President, 314 Action STEM Organization.
+Certifications
+AWS Certified DevOps Engineer
+AWS Certified SysOps Administrator
+Conferences
+2017 DevOps Days, Spoke on a panel about serverless networks
+Publications
+2017 Article on containers appeared in "The Agile Admin”
+
+2016 Article on monitoring best practices appeared in "DevOpsGuys”

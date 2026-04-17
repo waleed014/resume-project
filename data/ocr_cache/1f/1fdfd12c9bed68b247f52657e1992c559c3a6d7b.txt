@@ -1,0 +1,84 @@
+CAMILA LANGWORTH
+
+35625 Darlene Islands, Houston, TX + +1 (555) 140 7207
+
+‘WORK EXPERIENCE
+
+ASSOCIATE DEVOPS ENGINEER 12/2016 - PRESENT
+San Francisco, CA
+‘+ Research and analyze data processing functions, methods
+
+‘+ Past experience of working in Web and Digital technologies (Single Sign on, ADOBE AEM,IBM ISAM, Mobile compatibility,T1BCO
+Services)
+
++ Possesses advanced knowledge and 3+ years of experience in project management, including managing at least two projects of significant
+complexity and value with moderate to high risk
+
+‘+ Regression Automation Assessment, Planning, Strategy and implementation. Knowledge on HP UFT,SPRTIZis good to have
+
+‘+ Knowledge on Nonfunctional testing (Performance) planning, strategy and driving\ mentoring performance test implementation
+
+‘+ Upporting Linux operating systems, both server and client or working as a software development engineer
+
+‘+ Experience with DevOps, Continuous Integration and Delivery
+
+DEVOPS: 07/2013 - 06/2016
+Dallas, TX
+‘+ Update application documentation for the Application Support team
+
++ Conduct useful meetings for deployment activities
+‘+ Participate in internal CCB to ensure requests made to Engineering follow a consistent plan
+
+‘+ Manage and track all environments, ensure consistent stability for development, testing and operations
+
++ Provide guidance to the Application Support team as it relates to any changes to applications and supporting production environments
+‘+ Understand the dataflow internally and to external partners
+
+‘+ Troubleshoot issues in all environments with applications or other infrastructure systems
+
+‘+ Work with development teams during the development process to ensure technical details are consistent with IT infrastructure
+
+JUNIOR DEVOPS ENGINEER (06/2006 - 01/2013
+Boston, MA
+
+‘+ Proven enterprise development experience
+
+‘+ Experience with Infrastructure Automation tools
+
+su
+
+ing logging, monitoring, and alerting solutions, and/or similar solutions as a system administrator
++ Knowledge in of collaboration technologies such as Atlassian
+
+‘+ Background in LINUX/UNIX Administration
+
++ Use automation tools to perform and track deployments executed in production
+
+‘+ Aworking knowledge of xml and seript reading
+
+‘+ Knowledge of best practices and IT operations
+
+‘+ Manage relationship between Engineering and Software Development, coordinate work between the two
+
+EDUCATION
+
+NORTH AMERICAN UNIVERSITY 2001 - 2006
+Engineer's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Excellent risk management, mitigation skills, strong program and project management skills,
+
+‘+ Strong problem solving and trouble shooting skills, and the ability to apply creative engineering and analytical skills to resolve system
+problems
+
+and problem-solving skills
+
+‘+ Excellent communication skills and technical writing skills (Communicate technical design through diagrams, documents, and
+presentations)
+
+‘+ Programming Skills: advanced programming skills (Python, Go, Java)
+
+‘+ Proven experience in Scripting skills (Ruby, python and shell scripting) for Test automation creation
+
+‘+ Strong scripting skills with experience in Python, Ruby, Bash or other scripting languages

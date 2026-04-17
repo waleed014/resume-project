@@ -1,0 +1,49 @@
+D CSPO | Product Manager
+
+SUMMARY
+Software product manager & Cerifed Scrum Product Owner with overall + years of experience in industry and +
+years of product management & ownership experience focused on design, strategy, planning, pioizaton& execution
+
+SKILLS
+‘Automation, Product Prototyping (UI/UX), Leadership Experience, Cross Functional Experience, Product Road mapping,
+Agile Development, Business Intelligence, Data Analysis, Project Management
+
+TOOLS
+Azure DevOps, SQL, GitHub, Balsamig, Postman, TIBCO Spottire, Excel, PowerPoint, Protoio, Python
+
+EXPERIENCE
+Product Manager Cum Product Owner APRIL 2018 FEBRUARY 2023
+(civect employer), United Airlines, Ine. (client) Remote
+
+Product Brief: Test Data Hub (TOH) ica one stop solution for any test data related needs, It leverages Robotic Process
+‘Automation to reduce time & improve efficiency in any process dealing with test data,
+
+Product ideation
++ User Research — Interviewed/Did ethnographic research on 100+ users & analyzed 200+ work flows to arrive at
+‘optimum solution that addresses most oftheir pain points
+‘+ ULDesign & Prototyping ~ Developed an intuitive & easy to use UI where user can reach from any page to any
+other page in less than 4 clicks
+‘© Presentation & Negotiation — Gave multiple presentations to Senior leaders of ValueLabs on the product's
+Potential & gained their buyin for MVP | Presented the MVP to senior directors from client side & got their
+sponsorship thus expediting product development process by 6 months
+‘+ Cross functional collaboration — Worked closely with UI designers, software architects, SMEs, marketing, legal
+teams ensuring smooth on-boarding of the app into client domain with 100% compliance
+Product Planning & Execution
+‘+ Road-mapping - Created a prioritized feature lst road-map including both near term deliverables & long-term
+strategic initiatives | Launched the first version of the product in <3 months
+‘+ Leveraged scrum process in Agile methodology for product development with 2-week sprints by managing 2
+tech team of 10 members, ensuring <10% of spillover & on time delivery for >80% of time
+‘+ Steered a flexible micro services based architecture working on S0+ APIs and covering automation for 80% of
+‘the test cases spanning across 200+ applications & 1000+ workflows
+Product Performance & Growth
+‘+ Expanded the usability of the product to other departments — from testing to development teams, training
+teams for pilots, fight attendants, round staf, contact center agents, etc, thus increasing the user base by SOx
+‘+ Metrics tracked ~ User satisfaction increased the Net Promoter Score (NPS) of the account from $5 t0 75 (8 out
+(of 10 directors mentioned TDH as one of the reasons for increasing the NPS) | User base growth (increased it by
+50x in 2 years) | Usage (increased it from 20% to 80% of the use cases)
+Data Analysis &
+
+lalization
+
+‘+ Created enterprise level executive dashboards that give realtime status of test automation across 200+
+applications saving 80+ manual reporting hours every week

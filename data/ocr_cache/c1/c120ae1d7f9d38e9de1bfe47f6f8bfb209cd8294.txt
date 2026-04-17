@@ -1,0 +1,146 @@
+Jessica CLAIRE
+
+Monegomery Suet San Francisco, CA 9405 6 (35) 452100 resunesampleseamplecom
+
+Summary
+Jessica has estensiveexpsience in ys integration snd in architecting, designing, building, and deploying ee Web
+applications using service vented architectures, components and domain models, Jessica has worked at oo startups for ist
+teleae products and ie experienced in both Java and Microsoft. He is aey, hands-on aseeton project a a technical achitet and
+mentor. leveraging his hnowledge of Web based techacogies, open Source frameworks, distbuted applications and software
+rset ile eee.
+
+Experience
+Senior Software Developer, 10/2005 0 032016
+Deloite- ean, CA
+
+[Neva Technologies provides Softwar as a Service (55) solutions including arch portolo of wading technology products that
+llow thee cliens and partners to focus on thee core business
+
++ Archteced, designed, and implemented a Security Master to keep tac of symbol changes, corporate actions and historical
+prices as well as Trade Accounting and Trade Gateway Adminisuaion web appliations
+
++ Contributed to over architecture, design and implementation of alow lteny trading platforen Equity, Options, FX)
+
++ Managed several people wsing a etifed Sonn nethodelogy
+
+«+ Introduced various open source technologies to solve sumerous challenge inthe domain of trading
+
+Key Technologies: Nodejs, Java, Guce Spring, Hibernate, MyBatis, Grae, Maven, Easticsearch, Oracle, MSI, ava,
+JvaSerpt Linu Docker
+
+‘Lead Application Developer, 09200 o 1072005,
+‘dp Miami, FL
+
+‘estat helps owners and managers of real estate save money, save time and gin conzol over property operation by aggregiting
+‘heir buying power, steaming backend accounting practices, and allowing them t more effectively tack and manage data
+garding procurement activities
+
+«+ Architect, designed, and implemented a rewrite forthe architecture ofthe SiteStuffs RFP/Bid Management Platform froma
+‘seolayer, monolithic application oa muller solution that could easly be adapted to business change
+
++ Mentored tam on open source technologies
+
+«+ Ceeated and managed the ak pan forthe architecture rewrite of RFP/Bid Management Platforat
+
+ey Technologies: Hibernate ‘BATS, Stuts, Spring Framework, Maven, Quarts Scheduler, Ant Java, WebLogic, Tomcat Eclipse,
+Possidont MI.
+
+Senior Software Developer, 03/200 6 0872004
+Deloitte Melcher Dallas 1A
+Cocnnesce One i sftwace company dedicate to helping customers connect and optimize purchasing applications and backend
+busines procetes within and betireenenterpises to improve business prodactiviy
+“+ Designed and devsloped enhancements for Commerce One Conductor, Web Services intermediary weed to integrate varios
+‘enterprise applications Designed and developed several modules of a foreign exchange quoting and purchasing system for
+‘Resch, a leading nancial institution specializing i international 28 payment solutions
+
+ey Technologies Java, WebLogic 7, Swing, JGo, JSP, Oral 9
+
+Senior Software Developer, 10/2003 01/2003,
+
+Deloitte Nevada, OH
+
+Factory Logic offers innovative factory management solutions but round the principles of lean production. Factory Logics Shingo
+
+Prize wining Streamline Lean Factory Management System provides factory pereonl withthe integrate tools they need 10
+
+ctfecivly design. operate, and continuously improve lean manufacturing faites,
+
+«+ Implemented EJB components and Struts components for 6 configuration tasks ofthe Stesmline™ planning engine
+
++ Designed and implemented a business component fo transform highly complex, calculation intensive planing engine data into
+‘ahusman readable realtime eport for end-users
+
+ey Technologies: Java, Websphere 5 OB, Sts, JSP, Oracle St
+
+Senior Software Developer, 0/203 60972003,
+Deloitte-New York, IL
+Fusion Learning Sytem develops learner centered services and products for corporations,
+«= Designed and developed 6of the 12 major busines cocnpement for a patent-pending sills assessment application for payroll
+profesional. The application consisted ofan atssement administration tool and assessment processing server engine
+(ore payrsiaccom)
++ Designed and maintained a 0+ table data model in MySql 40
+«+ Designed and implemented the Struts layer for over 4 administration modules and forthe payroll profesional aseesment aking
+experince
+“+ Meswored tam members in Strate and Hibernate
+
+‘ey Technologies Java Hibemate, Struts, SP, MVSOL 4.0, Tomeat $0
+
+‘Senior Software Developer and Sales Engineer 03/200 to 2003,
+Pitney Bowes Grand Praise, Tx
+
+‘Vince's products help companies improve the quay of thei business decisions by gaining access to citi nformation
+previously unavailable directly fom thee website
+
+«+ Joined as one ofthe easiest member ofthe engineering tam to help the company acquit $6 million nfs round funding
++ Produced prototype and sles demo tohlp acquire Vince’ ist customer
+
++ Designed and developed graphical modeling design tole in Swing and JSP
+
++ Designed and developed sever side funconaity wing Jae
+
+‘+ Enhanced and maintained a data model with ove 120 tables on SQL Server? & 2000 and Oracle i
+
++ Managed development team fortwo key product releases Gathered requirements for product releases
+
+‘ey Technologies: Java, DEE, XML, XSL, XML Schema, DTD, JSP, Orade, SOL Sever 7 & 200, WebLogic Together 6
+
+Senior Consultant, 0/199 00372000,
+(Covansys— City STATE
+
+‘As one ofthe fist auto insurance providers to go online Esurance gives customers the ability to ecive reatie auto insurance
+qstes and to purchase, ie an change thee ato insurance policy enine 2607.
+
++ Delivered ist release of public website, working an average of 14s er day over several months to hit deadlines
+
+«= Designed and developed user inetaces in ASP ae busines coeaponentin VB 6 for ant insurance quoting and purchasing
+and fr auto insurance marketing promotions campaign
+
++ Designed data model for auto insurance purchasing module
+
++ Designed, developed and managed the team that developed the online promotions marketing campaign. targeted at over
+million wets
+
++ Mentored tam members ofthe 15+ enginering team i issues related to ASP, VB, and SOL Server aswell as application
+{uncionaty Managed deployment of application into production as Release Manager during time-critical deadlines Removed
+performance botlenecks in ato insurance quoting system using WeDLOAD and knowledge of performance testing techniques,
+databases, queues, and ntee applications
+
+Key Technologies: VBS, ASP, 5, SOL Server 7
+Education
+
+BS: Computer Science
+[Northwestern Univesity Evanston IL
+
+Skills
+
+Programating (ver 28 years experience toll) ~Node, Rava Hiberate, MyBats, Spring, Grade Mave, Java S (ZEB)
+JavaScript Susing JSP, XML, XSL, XSD, DID, VBS, COMICOM, C+, © LSP, Assembly
+
+‘Web Development Express (Nodes Vandi, Wicket Stats JSTL 12, JP, ASP, HTML Java Jit VBSeipt C35
+Servers - Node, Docker, gin Jt, Tomeat, Bas, Apache, Websphere, WebLogic 8, Run 415451,
+
+Databases ~ MySQL Oracle MS SOL Server, PLSQL TSO,
+
+[NoSQL~Elasisearch Reis
+
+‘Operating Systems — Linux Redhat & Ubunts), Windows OP, Vista, 7)

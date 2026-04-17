@@ -1,0 +1,84 @@
+SYLVESTER SCHOEN
+
+7636 Rowland Mill, Chicago,IL + +1 (555) 4347472
+
+‘WORK EXPERIENCE
+
+SENIOR FULL STACK JAVA DEVELOPER 06/2017 - PRESENT
+Dallas, TX
+‘+ Participate in an Agile Scrum team process, collaborating closely with UX experts, subject matter experts, fellow developers and test
+engineers
++ Analyze epies and stories to design and implement application APIs and services, and single page application web interfaces,
++ Experience in software development in a high demand workplace
+‘+ Bea subject matter expert by identifying technology trends and platforms (including web and mobile apps) and collaborate with other
+team members to make recommendations based on the company’s needs
++ Populate design and development plan, delivering highly complex code, and as needed participating/mentoring throughout coding of
+others, continue to be active participant throughout testing, and implementation within an agile environment
+‘+ Produce highest quality of code for highly complex projects/required functionality; actively participate facilitate code walkthrough and
+debugging ensuring even the most difficult bugs are resolved regardless of external dependencies and/or existence across modules
+
+‘+ Develop and execute test plans for complex programs; unit test, and automate testing for features and modules
+
+FULL STACK JAVA DEVELOPER 06/2011 - 02/2017
+Los Angeles, CA
+
++ Determines process improvements and best practices
+
++ Coordinate activities of other personnel for reaching goals.
+
+‘+ Remain current on new technologies; introduce applicable technology in alignment with our goals and for creative solutions
+
+‘Angular / Angular.js
+
++ Set up REST services/ interfaces
+
+‘+ Experience writing SQL migration seripts
+
+‘+ Experience with developing J2EE applications
+
++ Experience with working on a SOA/ROA architecture using REST and JSON, Spring, or J2EE
+
+JUNIOR FULL STACK JAVA DEVELOPER AIS NEXEN 02/2007 - 02/2011
+Boston, MA
+‘+ Ensure software designs are maintainable and in accordance with technology architecture, hardware capabilities, cross-environments and
+future technological vision
+‘+ Determine development issues cause and develop solution(s); ensure remedy is an effective permanent solution in order to prevent future
+
+‘+ Maintain existing systems, make modifications in order to adapt to business needs or technology changes
+
++ Analyze existing systems, contribute to system planning throughout the organization
+
+‘+ Help define and develop the test and production environment, coordinate the migration of the system, and/or coordinate efforts with
+other IT projects
+
++ Adhere to architectural guidelines, standards and delivery discipline processes; document the various computer systems
+cenhancements/modifications or information retrievals/updates and update/create procedures
+
++ Interact and effectively communicate with business partners and other IT staff; act as an information resource by providing assistance and
+
+support to team members
+
+‘+ Assist in evaluating vendor packages and make recommendations
+
+EDUCATION
+
+UNIVERSITY OF MINNESOTA, MORRIS 2002 - 2007
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Strong software engineering skills with 8+ years of hands-on experience in developing enterprise applications in Java, Spring
+Framework, Spring Boot
+
+‘+ Strong software engineering skills with 5+ years of hands-on experience in developing enterprise applications in Java, Spring
+Framework, Spring Boot
+
+‘+ Strong Core Java (full stack) skills with experience building n tier applications
+
+‘+ Excellent verbal and written communication skills, ability to communicate effectively with management, delivery team, and customer
+
+‘+ Strong testing skills of unit testing and integration test
+
++ Good communications skills, analytical thinking, tracking, prioritization, and working with tight deadlines
+
+‘+ Strong triaging, debugging, problem solving and investigative skills

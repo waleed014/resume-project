@@ -1,0 +1,58 @@
+BENTON POLLICH 26418 Mayer Neck, Dallas, TX
+B Pp +1 (555) 102 5163
+
+EXPERIENCE 06/2020 — present BARTELL LLC
+Detroit, MI Senior ETL Developer / Admin
+¢ ASPNET Core Web API
+¢ Needs to be able to understand the logical mapping and data models provided
+and design and develop ETL mappings as per available patterns
+¢ Very Strong understanding and exposure on Datawarehousing concepts
+¢ The developer needs to be familiar with agile development practice
+¢ Knowledge of ticketing tool
+¢ Min 3 to 5 yrs
+¢ Work on Snowflake/SFDC/SQL Snaps and integration technologies - Data
+Warehouse, PL/SQL, Snowflake/MySQL/PG
+Experience building Snaplogic integration jobs to load SFDC,AWS $3, MySQL
+
+and Snowflake
+06/2017 - 01/2020 WIZA-WUNSCH
+Detroit, MI Mid-senior ETL Developer
+
+¢ Strong data modeling skills, both dimensional and relational
+
+¢ Warehouse Design, Development, ETL Tuning and Support
+
+¢ Analyze & translate functional specifications /user stories into technical
+specifications
+
+¢ Develops and maintains standards procedures and methodologies for effective
+operation access control
+
+¢ Document functional and technical design
+
+¢ SQL knowledge and experience
+
+¢ Experience in Project life cycle activities on development and maintenance
+projects
+
+¢ Knowledge of Data Structure & Algorithms
+
+© Good written and verbal communication capabilities
+
+EDUCATION COLUMBUS COLLEGE OF ART AND DESIGN
+
+Bachelor's in Computer Science
+
+SKILLS ¢ Experience implementing ETL systems automated within CI/CD Pipelines
+
+¢ Knowledge of Jira, Confluence
+
+¢ Provide high-quality solutions to the customers and lead the effort of problem understanding, scoping,
+solutioning, designing and estimating
+
+¢ Work with business experts to understand business needs, translate business requirements into system
+functionality, and ensure that results meet established needs, goals, and timelines
+
+* Design, development, testing and deployment of Informatica mappings and workflows
+
+¢ Clearly document and communicate technical designs, solutions, and issues

@@ -1,0 +1,46 @@
+Phone: (123) 456 78 99
+Qa'Manual Tester email: Info@quikresume.com
+
+ROBERT SMITH ee tive
+
+Objective
+
+Over 4 years of hands-on experience in Manual, Automation and Acceptance Testing Experience
+working with a QA/QE/Test Automation tearn, Strong Functional, Autornation, and other testing
+experience,
+
+Skills
+
+MS Word, Knowledge on testing
+Work Experience
+
+Qa Manual Tester
+‘ABC Corporation - January 2011 - December 2011
+Experienced with CON, ESB Layer, Maven, and related technologies,
+Experienced working in Agile Development erwironmert,
+Executed User Acceptance Testing
+Developed test plans, scenarios, and test cases which will exercise the business, functional
+‘and technical requirements of the systern
++ Developed test data far use In executing the QA phase of the SDLC.
+* Idertified and loged technical and functional sonware defects,
+Kept up to date with standards and requirements of softwere quality assurance as stipulated
+by software testing authorities,
+
+Qa Manual Tester
+Delta Comoration- 2009 - 2011
+Responsibilities Analyzed and reviewed system requirement specifications and functional
+specifications of the application and developed systern test plans.
+Maintained and updated test plans, test cases, test environment, and testing software
+through test Ife cycle
+Worked with Users and Business Analysts to define and design test scenarios and test data,
+Developed Test Scenarias with Test Data to cupport Test Objectives,
+Managed entire quality assurance process in Quality Center Including maintaining test cases,
+test execution, and defect tracking,
+Developed and executed the test scripts with Selenium and java,
+Worked with Synchranization points and Database checkpoints In testing web application,
+
+Education
+BS
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+‘Guidelines

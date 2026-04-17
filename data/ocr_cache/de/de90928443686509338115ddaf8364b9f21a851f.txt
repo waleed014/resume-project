@@ -1,0 +1,88 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor * (655) 432-1000 ¢ resumesampleGexample.com
+
+Professional Summary
+
+Diligent Web Application Developer with more than 7 years IT and Tech experience including Web-based Application Developing
+using
+
+Java/Spring. Experience in Software Development Methodology such as SDLC, Analysis, Design, Implementation and Testing of
+Object
+
+Oriented applications and web-based Enterprise Applications and Java design pattems as a back-end developer.
+
+Skills
+
+Languages: Java Containerization : Docker
+
+Methodologies: Agile, Scrum. Version Control: Git
+
+Databases & ORM: Oracle, MySql, JPA, Hibernate. Testing Tools: junit, Mockito, Spring Test Framework
+
+Spring Frameworks: Spring core, Spring Boot, Spring Cloud, Build Tools : Maven
+Spring AOP. AWS services : SQS, SNS, $3, EC2, Elastic Beans Talk
+IDE Tools: Eclipse, IntelliJ Idea.
+
+Work History
+
+Java Developer, 02/2019 to Current
+Chenega Mios - Luke Air Force Base, AZ
+* Developed java modules implementing business rules and workflows and developed the REST based Microservices using Spring
+Boot .
+* Involved in the design and development phases of Agile Software Development.
+* Developed data layer using relational databases and OR mapping frameworks like hibernate an JPA Demonstrated OO design
+skills.
++ Experienced with Spring cloud modules (Spring Cloud config server, Spring Cloud gateway server, Eureka naming server,
+Spring Cloud Zipkin)
+* Worked docker container management along with volumes, container-based DB, and services.
++ Used Log4j framework to log/track application along with distributed tracing server (Zipkin).
+* Involved in JUnit Testing, debugging, and bug fixing.
+* Used GIT for Source Control and Version Management of all codes and resources.
+
+Environment
+Java 8, RESTful Web Services,Hibernate, Spring Core, Spring Data, Spring MVC, Spring Batch, Spring Boot, Eclipse IDE, Jenkins,
+AWS EC2, $3, SNS, SQ5, Splunk, Oracle, Maven, Jenkins, GIT,, JUNIT, logs].
+
+Java Developer Intern, 05/2018 to 01/2019
+Internet Brands, Inc. - Columbus, OH
++ Wrote clean code for functional web applications under instruction of master developer.
+* Documented software development methodologies in technical manuals to be used by Developers in future projects.
+* Collaborated with programming analysts, designers and testers to identify needed features and edits.
++ Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements.
+Environments:
+Java , Spring , Hibernate, Git, MySql
+
+Electronic Designer/Programmer, 06/2015 to 01/2018
+Us Department Of Transportation — Pierre, SD
+* Designed an embedded system for motor control, odometry calculations, sensor interface and serial communication using dsPIC
+micro controllers.
++ Programmed and tested individual modules like motor control, sensor circuit and power distribution system using
+embedded C, assembly language and MATLAB.
+* Conducted workshops and mentored undergraduate engineering students for projects in microcontroller
+programming, robotics and embedded system.
+* Designed a wireless sensor network using Zigbee protocol for accurate localization using IAR embedded workbench.
+* Designed the interface of a customized print head assembly to the company’s standard robot to add functionality of floor
+marking.
++ Performed power calculations, electrical schematics and electronic assembly.
+* Acknowledgement customer issues and resolved their problems quickly and efficiently.
+* Documenting software defects in step-by-step detail in reports submit to product development.
+* Subject software to methodical testing to identify functionality defects.
+Environment:
+C, Embedded C, Assembly language, MATLAB
+Microcontrollers:
+Renesas RX62, Renesas QSK, Arduino, x86, Atmel 8051, PIC, dsPI.
+
+Electronics Engineer, 10/2012 to 05/2015
+Iran Nobaft - City, STATE
++ Provided team members and leadership with documentation such as test results, system design specifications and status reports.
++ Repaired printed circuit boards or subassemblies by replacing electronic and or mechanical components in correct orientation.
+* Read blueprints, wiring diagrams, schematic drawings and engineering instructions to properly assemble electronics units.
+* Performed preventive maintenance and calibration of equipment and systems.
++ Recommended repair or design modifications of electronics components or systems based on factors such as environment,
+service or system capabilities.
+
+Education
+
+Bachelor of Science: Electrical Engineering, 08/2012
+Najafabad University - NajafAbad, Iran

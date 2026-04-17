@@ -1,0 +1,107 @@
+Diannia Clotworthy
+
+Network Security Engineer
+
+Profile
+
+Network Security Engineer with 2 years of experience in designing,
+implementing, and maintaining secure network infrastructures. Proficient in
+threat analysis, vulnerability assessment, and deploying security solutions
+to mitigate risks. Strong knowledge of firewalls, intrusion detection systems,
+and encryption technologies. Demonstrates excellent problem-solving skills
+and a commitment to staying current with emerging security trends. Adept at
+collaborating with cross-functional teams and providing top-notch network
+security support to ensure business continuity.
+
+Employment History
+Network Security Engineer at Cisco Systems Inc., IN
+‘Apr 2023 - Present
+
++ Successfully implemented a network security infrastructure upgrade for a
+major client, resulting in a 30% increase in threat detection and response
+efficiency.
+
++ Conducted a comprehensive security audit for a large enterprise network,
+identifying and remediating over 100 critical vulnerabilities, reducing the
+potential attack surface by 40%.
+
++ Led a team of 5 engineers to design and deploy a secure remote access
+solution for a global organization, improving secure connectivity for over
+10,000 employees and reducing VPN-related issues by 25%.
+
++ Developed and delivered a custom network security training program
+for a client's IT staff, increasing their proficiency in managing security
+incidents by 35% and reducing mean time to resolution by 20%.
+
+Associate Network Security Engineer at Raytheon Technologies, IN
+Sep 2021 - Feb 2023
+
+* Led the implementation of a network security system upgrade for
+Raytheon Technologies, resulting in a 40% improvement in threat
+detection and response times.
+
+* Designed and deployed an advanced Intrusion Detection System (IDS)
+across the company's 500+ server infrastructure, reducing the average
+time to detect security threats by 50%.
+
+* Conducted a comprehensive security audit of the company's
+network infrastructure, identifying and remediating over 100 potential
+vulnerabilities, thereby reducing the risk of cyberattacks by 60%.
+
++ Developed and delivered training programs on network security best
+practices for more than 200 employees, leading to a 30% reduction in
+security incidents caused by human error.
+
+Certificates
+
+Certified Information Systems Security Professional (CISSP)
+‘hug 2021
+
+Certified Ethical Hacker (CEH)
+
+@% diannia.clotworthy@gmail.com
+
+Xe (628) 402-2547
+
+9 123 Maple St, Indianapolis, IN
+46225
+
+Education
+
+Bachelor of Science in
+Cybersecurity and Network
+Engineering at Purdue University,
+West Lafayette, IN
+
+Sep 2017 - May 2021
+
+Relevant Coursework: Network
+Engineering, Cryptography, Ethical
+Hacking, Cybersecurity Fundamentals,
+Digital Forensics, Secure Systems
+Design, Intrusion Detection and
+Prevention, and Security Policy and
+Compliance.
+
+Links
+
+:
+
+Skills
+
+Cryptography
+
+Firewall Management
+
+Intrusion Detection
+
+Penetration Testing
+
+Secure Socket Layer (SSL)
+
+Virtual Private Network (VPN)
+
+Security Information and Event
+Management (SIEM)
+
+Languages

@@ -1,0 +1,55 @@
+ROBERT SMITH
+SCM/DevOps Engineer
+
+Phone: (0123) 456.785 | Ema inlo@qwkvesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+‘Over 6+ years of experiance in IT industry as a DevOps Engineer, comprising of Development,
+Systems Administration and Software Configuration Management (SCM). Extensive experiance
+includes SCM, Build'Release Management, Change/Incident Management, VMware and AWS
+‘Cloud computing. Written Chef cookbooks and recipes to Provision Several pre-production
+‘environments consisting of Apache domain crealions and several propriotary micileware
+installations,
+
+CORE COMPETENCIES
+
+‘Configuration Management: Chet, Puppet. Cioud Computing: AWS Build Tools: Ant, Maven
+Scripting Languages: Shell Poworshel, Ruby, Parl Source Code Management: Subversion, TFS,
+Git, Poriorce Cl Tools: Jenkins, Bamboo, AnthilPro Operating Systems: Windows, Linux And
+Solaris Databases: SQL Server, Oracle, MySql Change Management: Remedy, Service Now And
+PVCS Tracker Web/Application Servers: Tomcat, Weblogic, Jboss. Bug Reporting Tools: Bugzilla,
+sea,
+
+PROFESSIONAL EXPERIENCE
+
+‘SCM/DevOps Engineer
+‘ABC Corporation - September 2014 ~ Present
+
+Key Deliverables:
+* Providing configuration management expertise 10 all sofware development projects.
+Automation of java applications to achieve continuous integration and continuous delvery
+(cland od)
+
+* Configuring vaious jobs in Jenkins and Hidon forthe deployment al java based
+pplcations and running test suites.
+
++ Migrating the entire social media, Com infrastructure from amazon web services 10
+lackspace cloud
+
++ Currently responsible fot the integration of symaniacs storage and backup solutions with
+Open Stack, mainly on cinder component
+
+Decomposing workliowsto map lo azure fabric components (statolass/stataful service,
+actors),
+
++ Installation of vitwal IT intrasinicture using VMware ESXi4, 0, ESXI5, 0 and Vsphere,
+
+DevOps Engineer
+ABC Corporation - October 2013 - September 2014
+
+Key Deliverables:
+‘+ Responsbilies responsible forthe dasign and ambitecture of cilferent rolease
+environments lor new projects
+
+2250 Oak Street, Old Forge, New York, 13420
+‘© Ths Eres Resume Template is the copyright of Quikresume.com. Usage Guidelines

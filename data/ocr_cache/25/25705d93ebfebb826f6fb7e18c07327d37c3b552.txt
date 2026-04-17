@@ -1,0 +1,60 @@
+Robert Smith Phone (23) 4867899
+
+Email Infoguvikresume,com
+
+Website wont, quikresuime, com
+Informatica Et! Developer LUnkedin: linkedin.com/quikresurne
+
+‘Address; 1737 Marshullle Road, Alabarna
+
+SUMMARY
+
+Over 7% years of experience in T industry including 6 years of expertise in Analysis, Design,
+Development, Implementation, Modeling, Testing, and Support for Data Warehouse applications,
+Informatica Master Data Managernent, Data Quality and Data integration. Strong DWH & ETL
+‘experience in Informatica Power Center developrnent, design, process and best practices
+experience as ETL Analyst and Developer in US.
+
+SKILLS
+
+MS Office, Management,
+WORK EXPERIENCE
+
+Informatica Et! Developer
+‘ABC Corporation - March 2013 - August 2025
++ Performed major role in understanding the business requirements and designing and loading
+the data inta data warehouse (ETL).
++ Used ETL Informatica) to load data frorn source to Data Warehouse
++ Used Informatica client tools - Source Analyzer, Warehouse designer, Mapping Desaner,
+Mapplets Designer, and Ttansformation Developer for defining Source amp; Target
+definitions and coded the process of data flow trom source system to data warehouse
++ Developed mappings in informatica to load the data from various sources Into the Data
+Warehouse, using different transformations lke joiner, Aggregator, Update Strategy, Rank,
+Router, Lookup, Sequence Generator, Fler, Sorter and Source Qualfier,
+Used informatica repository manager to backup and migrate metadata in development, test
+and production environments,
+Worked with mapping wizards for slowly changing dimensions and slowly growing dirnensions
+by using Informatica mapping designer
+Used Informatica Workflow Manager and Workflow Monitor to schedule and monitor session
+status.
+
+Informatica Etl Developer
+
+Delta Corporation - 2009-2013
+Inter acted with the Functional Analysts to understand the process flow and the business,
+‘Analyzing Source to Target mapping Excel document.
+Coordinating the tearn and assigning dependencies tasks to tearm
+Created Reusable Transformations and Mapplets, used thern in Mappings to develop the
+business joaic for transforming source data into target.
+Implernented Type Slowly Changing Dimension methodology For accessing the full history of
+customers.
+Created complex mappings using Unconnected Lookup, Sorter, Aggregater, dynamié Lookup,
+Filter, Update Strategy, and Router transformations,
+Worked with Memory cache for static and dynamic cache for the better throughput of sessions
+Containing Rank, Loakup, joiner, Sorter and Aggregator transformations,
+
+EDUCATION
+
+Bachelors of Technology In Technology - NTU)
+
+(0 This Era sume Tamla is the copyright of Onakesume com. Uso Guldatns

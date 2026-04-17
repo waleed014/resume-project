@@ -1,0 +1,66 @@
+Blaire Gothelf
+
+Python Developer
+
+Profile
+
+Employment History
+
+Education
+
+Links
+
+Details
+blaire.gothelf@gmailcom
+(980) 813-5682
+Des Moines, 1A
+
+Driven Python Developer with 1 year of professional experience in
+designing, developing, and debugging software applications. Proficient in
+backend development, data analysis, and web scraping, and has a strong
+understanding of various Python libraries and frameworks. Excellent
+problem-solving skills with @ passion for continuous learning and growth.
+Demonstrated ability to deliver projects on time while maintaining high
+standards of quality.
+
+‘Senior Python Developer at Principal Financial Group, IA
+Jun 2023 Present
+
++ Implemented an automated data extraction system using Python,
+reducing manual data extraction time by 70% and increasing overall,
+‘efficiency of the team,
+Led a team of developers to create a robust Python-based risk
+assessment tool, resultingin a 50% reduction in risk calculation errors
+‘and improving the accuracy of risk reports.
+Developed and deployed a Python-based machine learning model
+{or predicting customer behavior, which led to a 30% increase in,
+successful customer engagement strategies.
+
+Junior Python Developer at Wells Fargo, IA
+“2022 May 2023,
+
+Developed and implemented a new Python-based algorithm for
+‘analyzing customer data, increasing data processing speed by 40%
+‘and improving overall efficiency.
+
+Successfully debugged and enhanced the existing Python codebase,
+resulting in a 30% reduction in system errors and a significant
+improvement in application performance.
+
+Led a team project to automate manual data entry processes using
+Python scripts, saving the department around 20 hours of work per
+week,
+
+Bachelor of Science in Software Engineering with a specialization
+
+Python Development at University of lowa, 1A
+‘Sep 2017 - May 2022
+
+Relevant Coursework: Object Oriented Programming, Data Structures,
+Algorithms, Software Design and Development, Database Systems,
+
+Web Development, Python Programming, Artificial Intelligence, Machine
+Learning, Network Systems, Operating Systems, Cybersecurity, Mobile App
+Development, and Software Testing & Quality Assurance.
+
+linkedin.com/in/blairegothelt

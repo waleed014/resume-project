@@ -1,0 +1,116 @@
+PRAKHAR BANSAL
+
+Automation Tester
+
+SHORT SUMMARY / INTRODUCTION
+
+A determined automation tester with strong problem
+solving orientation and an eye for details. Skilled at
+creating test scripts using UFT, QTP and designing
+frameworks, with the ability to bring projects to
+completion ahead of schedule.
+
+PERSONAL DETAILS
+
+Phone No :- 7888001122
+Email :-bansalprakhar@gmail.com
+
+Linkedin :-linkedin.com/in/prakar-bansal-45njky8
+Address :- H-67, Vasundhara, Ghaziabad
+
+SKILLS ( TECHNOLOGY / FUNCTIONAL )
+cH e
+
+Python
+
+Java
+
+sql
+
+UFT and QTP
+
+XML
+
+HTML
+
+EXTRAMURAL ENGAGEMENTS.
+
+Volunteering
+
+NSS volunteer at IPU College.
+Volunteered for awareness programme on
+Environment Day, 2018.
+
+Participations / Sports
+
+First prize winner at Street Play competition
+organised at GH College in 2019.
+
+‘Second prize winner at inter-College Street Play
+Competition in 2018.
+
+Member of college's dramatics club.
+Participated in various debate competitions.
+
+Languages
+
+English
+Hindi
+
+EDUCATION
+
+PL College, Ghaziabad
+Bachelors in Computer Applications
+2019
+
+Mount Carmel Academy, Ghaziabad
+Higher Secondary
+
+2016
+
+Mount Carmel Academy, Ghaziabad
+Senior Secondary
+
+2014
+
+PROFESSIONAL ENHANCEMENTS
+
+Courses
++ Advanced course in UFT and QTP fram Infosys in
+2019.
++ Short course in XML from IIT, Delhi in 2018.
+
+EXPERIENCE / INTERNSHIP
+
+Credence Consultancy
+QA and automation Testing Intern May 2018 - Aug
+2018
++ Set up a system on multiple application platforms
+like Web, Mobile and Desktop.
+* Coordinated with support team to investigate
+customer's technical problems difficulties
++ Supported QA test cycles to include manual and
+automated results.
++ Debugged test failures and scripts to identify flaws
+in the system.
+* Performed and evaluated manual and automated
+testing,
+Infotech
+Automation Testing Intern Jun 2017 - Jul 2017
++ Performed functional and black box testing, SQL
+queries, data analysis and performance testing,
++ Evaluated ROI and worked with automation team to
+automate applications to the end.
++ Updated test cases and scripts based on the
+understanding of requirements.
++ Carried out thorough study of requirement
+documents and found gaps.
+
+PROJECTS
+
+Optical Camouflage
+* Created an active camouflage that envelops the
+wearer and displays an image of the scene on the
+side opposite to the viewer.
+
+R Resumod

@@ -1,0 +1,60 @@
+Natasha Aegis
+
+Network Security Engineer
+
+Phone (646) 444-5555 edin.com/in/natashaaegis
+
+E-mail natasha.aegis@gma minatasha.aegis
+
+Persistent, detail-oriented cyber security analyst with 3+ years experience with government security software contractor. DoD security
+clearance. Identified the 2018 Kluxnet virus, saving over 30,000 computers from destruction.
+
+bd EXPERIENCE
+
+2015-01- Cyber Security Analyst
+
+(2018-12 Hackers With Ethics, New York, NY
+Key Qualifications & Responsibilities
++ Monitored organization's networks for security breaches and investigated violations.
++ Prepared reports which documented security breaches and extent of damage caused by breaches.
++ Conducted penetration testing and located vulnerabilities in systems before they could be exploited.
+Key Achievements
++ Identified over 350 new viruses and malware in under 4 years.
+
+@ = = 2014-01- Website Consultant
+2015-01 Wordpress Workplace, New York, NY
+
+Key Responsibilities
++ Considered client concerns to determine best method of defending Wordpress sites from attack.
++ Scanned sites for malware and security risks on a regular basis.
+* Quarantined and removed any security issues found.
+Key Achievements
++ Successfully secured and monitored over 50 websites with 0 major attacks.
+
+© EDUCATION
+
+BS in Cyber Forensics and Information Security
+Cornell University. Ithaca, NY
+
+Relevant Coursework: Network Forensics, Cyber Crime, Database Security, Ethical Hacking, Penetration
+Testing, Vulnerability Analysis, National Security, Malware Analysis, Network Intrusion Detection.
+
+¢ SKILLS
+
+Malware Analysis OOOO
+Excellent
+@ ~~ Python Scripting OOOO
+Excellent
+
+@ = Automation/Devops OOO
+Advanced
+
+@ intrusion Detection OOO
+Advanced
+
+© =~ Reverse Engineering ooo
+
+Intermediate
+
+@ — Secure Software Development ooo
+Intermediate

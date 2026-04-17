@@ -1,0 +1,105 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
+HTML, CSS, SASS, Gulp,
+Responsive Development,
+Javascript (ES6 +)
+
+Node. js: Beginner Express. j
+Beginner Webpack: Beginner
+‘MongoDB: Beginner Firebase:
+Beginner
+
+EDUCATION
+
+University of Massachusetts
+Boston + May 2017
+
+Bachelor of Arts: Communication
+Research Studies
+Graduated Summa Cum Laude
+
+TL;DR
+
+3rd most prolific contributor to Operation-Code’s open source front-end build with over 50 commits
+and 3500+ additions and counting (React.js based). Currently building a "Spotify for Poetry" platform
+for a local startup in off-time based on the Wes Bos "Learn Node" course (Node.js, Express, Pug,
+‘MongoD8). Recent teaching event: "Deploy a static site with Jekyll and Github Pages” at the Boston
+Public Library (contact me for the slide deck).
+
+WORK HISTORY
+
+Leidos Holdings Inc. - Volunteer Front-End Developer / Public Liason
+05/2017 - Current
+
++ Collaborating with a large team of volunteer developers to build and improve Operation Code’s
+digital presence, resources, and technology.
+
++ Working full-time at the Mass Challenge accelerator to improve our services to veterans.
+
++ Recent achievement: Sourced partnership with Code Academy to offer free premium memberships
+and boot camp seats to Op-Code veterans.
+
++ Creating and presenting at meetups, hackathons, and other events.
+
+Self Employed - Web Developer
+07/2016 - Current
+
++ Design and develop client sites, leveraging a self-built network of creative professionals to create
+rich media experiences.
+
++ Deployed 8 marketing landing pages for Country Clubs across the U.S, increasing membership rates
+and retention,
+
++ Published 12 sites since inception.
+
++ Constantly learning new technologies to expand my reach (Currently learning Node and Express for
+‘a hobby project).
+
+Stand Fast, Inc - Co-Founder
+City, STATE « 06/2014 - 11/2015
+
++ Worked with a partner to develop TheFitFuture.com, an innovative platform connecting
+PersonalTrainers and Health Coaches with clients to train over webcam.
+
++ Interviewed over 100 potential candidates, successfully integrated 12 into our site.
+
++ Worked closely with SBDC, Harvard Transactional Law Clinic, and SCORE mentors to develop a
+business plan, practices, and structure.
+
++ Developed company from nascency through early revenue stage, exiting due to longevity concerns.
+
+Army National Guard - Mortar Squad Leader Sergeant
+City, STATE » 05/2014 - 11/2016
+
++ Created and executed training plans while working within the paradigms set forth by higher level
+leadership to achieve mission readiness in preparation for a deployment.
+
++ Acted as liaison between my squad and other elements within the unit to coordinate the training
+and logistics necessary for company-level mission success.
+
+US Army - Mortar Infantry
+STATE + 2011 - 04/2014
+
++ Self-taught complicated FDC (fire direction computation) through textual study and practice when
+not on missions.
+
++ Rapidly absorbed command directives, formulated multi-level plans, taught plans to subordinates,
+then led subordinates to successful mission outcomes.
+
++ Led mortar teams on over 200 combat missions including direct action and support by fire,
+developing excellent small unit leadership abilities under high duress.
+
++ Learned and performed in other critical roles including triage medical care and detainee
+operations.
+
++ Protected classified information, maintaining the confidence of my leaders and peers without a
+single breach.

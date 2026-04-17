@@ -1,0 +1,47 @@
+.NET DEVELOPER
+
+123 Your Address City, State, Zip Code (uxx)-xx-xxax _youriJemai.com
+
+NET Developer with 9+ years of experience developing web, batch, and business intelligence solutions using
+ASP.NET, C# NET, SharePoint, and MS SQL. Skilled in architecting and executing customized, data-driven
+Solutions, hosted both on-premise and on the cloud. Expertise in requirements analysis, design, development,
+testing, maintenance, enhancement, and production support of business applications.
+
+Professional Experience
+
+COMCAST, ATLANTA, GA
+NET Developer, October 2016-Present
+‘+ Develop and maintain custom data-centric web applications using ASP.NET, C# NET, and Services with
+Agile/SCRUM methodology
+‘+ Completed a $5 million billing project, implementing UI requirements using ASP NET, JS/jQuery,
+HTML, CSS, and MS SQL 2005/2008 as the backend
+© Created 20+ NET websites with 100% client satisfaction and on-time completion
+‘+ Implement business logic in C# NET, business intelligence/ETL solutions, and business rules to integrate
+disparate data sources toward a centralized data store
+‘© Achieved 20% improvement in the performance of all ETL/SQL and online components, ensuring timely
+response and data reliability by following strict service level agreements
+
+WALGREENS, BOSTON, MA
+‘NET Developer, January 2011-September 2016
+‘*  Devised and implemented a Dynamics CRM solution for 47 call centers using ASP.NET framework
+with 99%+ uptime
+‘© Completed 17 SQL database design projects, optimizing queries and developing stored-procedures,
+triggers, tables, views, and functions
+‘+ Developed 5+ customized data-centric web applications using ASP.NET, C# NET, HTML, Services,
+LINQ, and MS SQL
+‘© Applied reporting solutions for operational staff to support process requirements, which increased
+operational efficiency by 30%
+‘+ Designed and developed C# components for implementing business logic in 3-tier application interacting
+‘with SQL Server database using managed provider and ADO.NET
+
+Education
+
+‘NORTHEASTERN ILLINOIS UNIVERSITY, CHICAGO, IL
+Master of Science in Computer Science, December 2010
+‘© Honors: magna cum laude (GPA: 3.8/4.0)
+
+Additional Skills
+
++ C#NET, ASP.NET, VB.NET, AJAX, MVC, JavaScript, jQuery, HTML, CSS
+‘+ MS Visual Studio, SharePoint Designer, Performance Point Dashboard Designer. InfoPath, Power Pivot,
+‘Nintex, LINQ, SQL Server, and Active Directory

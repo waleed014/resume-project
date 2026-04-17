@@ -1,0 +1,96 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Hardworking Laboratory/Business Information Analyst with 10+ years of experience to drive team success through dedication, attention to
+detail, and excellent organizational skills. Clear understanding of Informatics and Clinical Laboratory Systems. Motivated to learn, grow and
+excel in Information Systems lifecycle.
+
+SKILLS
+‘+ Computer proficiency + Team-building
+‘+ Documentation preparation ‘+ Verbal and written communication
+‘+ Test case preparation ‘+ Organization and time management
+«+ Test implementation + Teamwork
+‘+ Flexible and adaptable ‘+ Multitasking abilities
+Work History
+
+IT Integration Testing Analyst, 01/2019 - Current
+‘Yale-New Haven Health - Danbury, CT
+‘TEAMWORK
+«+ Integral member of Avero Texas Lab Corporate Project: including build, testing, and implementation encompassing five different
+laboratory systems - Avero Copia, Progenity Copia, Orchard Harvest, Progenity Report Writer, and Cognito) and over 200+ order choices
+and customer set-ups within first 6 months of hire,
+BALANCE
+‘+ Ongoing projects (Monogenetic Disease test offering, Riscover Hereditary Cancer test offering, Igenomix Preimplantation genetic
+diagnosis test offering, Baylor Exon test offering), while completing critical corporate (Avero Texas Lab) on-time launches.
+RESOLVE
+‘+ ServiceNow Incidents (387 within first year); 24x7 on-call support of customer tickets; completed system updates (order choice updates or
+report verbiage) from requests and tickets.
+ACTIVE VOLUNTEER
+‘+ Learn new processes and assume responsibility for Avero Genetic Report Sign-off for 200+ order choices and outcomes, Bug Fix!
+Enhancement Testing for in-house Corepoint database and third-party Gistia-supported Cognito database/application,
+DOCUMENTATION
+‘+ Create in multiple areas for all team members to reference: extemal lab testing workflow, intemal lab testing workflow, Cognito order
+choice builds and testing, Copia(s) order choice builds and testing, new hire training material, and multiple troubleshooting articles for on-
+call support
+SHARED KNOWLEDGE
+** Share during Avero Texas Lab build and test, Riscover Billing Testing, Baylor Exon Billing testing, Avero Lab Resulting, and On-Boarding
+for new employees.
+OPTIMIZE
++ JSON test files to reduce manual testing and maximize the success of test builds with consistent, thorough approaches. This effort reduced
+overall testing hours by 50% and continued to be used for report sign-off and new order choice build testing.
+
+Laboratory Systems Analyst, 12/2016 - 01/2019
+‘Henry Ford Hospital Main Campus — City, STATE,
+
+ANALYSIS
+
+Meet with clients to determine and define information system requirements and objectives for laboratory system requests.
+Work closely with clients to maintain optimum levels of communication for project completion.
+
+Assist team leaders in evaluating new project requests.
+++ Estimate project complexity for customer request timelines.
++ Define impacts of modifying laboratory systems and applications on current systems.
+PROJECT MANAGEMENT
+‘+ Manage projects impacting laboratory systems or data within organizational scope, impact, and risk.
++ Serve on project teams to complete assignments from project leaders, measure project progress, and report status.
++ Lead small project teams comprised of other laboratory staff and laboratory systems vendors; create project scope and schedule, maintain
+project issues list, and report project status to customers and leadership.
+DEVELOPMENT
+‘* Design and specify laboratory system and application functionality using appropriate tools.
+‘+ Assure application design meets HFHS Pathology needs, and defined standards
++ Develop application test plans, evaluate and document results of testing according to defined standards.
+‘SYSTEMS/APPLICATION IMPLEMENTATION
+* Develop plans for implementation of laboratory systems applications and enhancements for pathology.
+
+‘+ Prepare training and reference materials for new application implementations; update Pathology Informatics procedures.
+‘SYSTEMS/APPLICATIONS SUPPORT
+‘* Provide rotating, on-call support for laboratory systems operation and resolve issues for information systems, applications, and associated
+information systems equipment.
+
+Blood Bank Technologist, 01/2013 - 12/2018
+‘Henry Ford Hospital Main Campus — City, STATE,
+
+‘+ TRAIN new team members on assigned systems and applications with procedures and hands-on demonstration.
+
++ SHIFT RESPONSIBILITIES Perform blood type and antibody screen testing utilizing NEO solid-phase instrumentation and SunQuest
+LIS; Perform batch antigen screening for in-house red blood cell stock; Troubleshoot NEO instrumentation for ease of sample testing:
+Supply blood inventory and patient reference workups for all HFHS satellite hospitals; Complete CAP annual and monthly competency
+assessments; Manage lower-level IT issues, including monitoring/aiding repair of Blood Bank computers; Troubleshoot EPIC blood
+product and Blood Bank test ordering with nurses and doctors.
+
+‘+ SPECIAL PROJECTS Assist in off-shift Blood Bank EPIC launch (2013), including monitoring issues, answering floor questions/helping
+with training/questions of co-workers. Assist in Blood Bank initiative (2013) to compile Operating Room blood product wastage data for
+analysis and monitoring.
+
+EDUCATION
+
+Bachelor of Science: Medical Technology, 05/2012
+‘Michigan State University
+
+-yman Briggs College - East Lansing, MI
+
+Bachelor of Science: Clinical Laboratory Science, 05/2012
+‘Michigan State University: College of Natural Sciences - East Lansing, MI

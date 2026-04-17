@@ -1,0 +1,150 @@
+Jessica CLAIRE
+
+‘Montgomery Street, an Francisco, CA 94105 # (555) 432-1000 © resumesamplegexample.com
+
+Career Overview
+
+Progressive experience in all phases of software test cycle and expertise in all areas of software testing: reviewing and analyzing
+
+requirements, developing test plans and test procedures and performing different level and types of tests. Recent Experience
+include Telecommunication and Prior Financial, Backed by strong credentials including advanced command of various testing suites,
+agile and waterfall methodologies and monitoring tools and cross-platform skills in Windows, Linux and UNIX.
+
+Qualifications
++ v SQA Testing & Methodologies v Test Plans, Cases &
+
+Processes v Functional Requirements v Scripting &
+Documentation v Regression & Negative Testing v Ul &
+‘Compatibility Testing v Data Interface & Migration Testing
+Performance /Load / Stress Testing v Testing Automation v
+Defect / Bug Tracking v Test Strategies & Coverages v QA &
+QC Standards Professional Experience
+
++ Testing AutomationDefect /Bug TrackingTest Strategies &
+CoveragesQA & QC Standards Testing Tools: QTP, Ginger,
+SOAP UI, WSDL, SOAP XML, API, APIXSD, Web Services,
+JIRA, Rally, TOAD, and SQL Developer.Bug Reporting Too
+Test Director - Quality Center (QC), ALM.Operating Systems:
+DOS, Microsoft Windows, Unix/Solaris, Linux, and Macintosh
+(05 X.RDBMS: MS Access, Oracle, DB2, MS SQL
+
+Server: Languages: JavaScript, VBScript, TSL, SQL, UNIX
+shells, Java, HTML Front End Tools: CRM (ICARE),
+Clarify, Visual Basic, MS office Suites ie. Word, Excel and,
+PowerPointNetworking: TCP/IP, LAN/WAN, TELNET, FTP,
+HITTP, and SSH.
+
+Technical Skills
+Accomplishments
+
+Lead the testing of Turbo Charging project, which are used by End User to improve the budget of Datat overage/Buyup Option.
+Asa Senior Tester participated in testing and release of Turbo charging system for one of Major Telecommunication Career.
+Streamlined QA process to increase efficiency and reduce new product rollout time by one week.
+
+Performed root cause analysis to identify system errors and improve accuracy by 15%,
+
+Led change management initiatives to improve productivity and workflow by 10%.
+
+Work Experience
+
+Lead Functional Testing Engineer, 08/2013 to 03/2016
+
+Fiserv - Dublin OH.
+
+Condiscted formal and informal product design seviews throughout the software development lifecycle to provide input on
+
+functional requirements, product designs, schedules and potential issues.
+
+Leveraged developer background to communicate effectively with software design team, quickly gaining their respect and
+
+becoming a valued, “go-to” team member on challenging test cases.
+
++ Testing various Amdocs BSS: Ensemble, Enabler & Turbo Charging (TC) Modules: CSM, Price Plan Application, ARM, API, WM,
+FDT, AMSS, ASAP, POS, ECARE, SNAP, Web Services, VAD, MPS, MES, Replenishment Manager (RPL), CRM, Usage creation
+tools (Online-Offline Usage, IPOC, NES, Pricing Studio), Customer Management (CM), ACC Web & Customer portal, Rater and
+Product Catalog Proficient in analyzing business specification documents, developing & automating tet scripts, test strategy
+preparation, test plan development, testcase creation test scenarios, test execution and bug tracking/Test management tools like
+JIRA & QC/ALM.
+
++ Coordinating testing effort with Development teams, Business Analysts, Customers and offshore QA Testers.
+
+Sending Daily Status Report using Testing Studio to Management.
+
++ Participate in weekly meetings to discuss risks, milestones, fast tracks and issues.
+
+Involved in running Unix Jobs, creating flatfile in UNIX, Linux platform Involved in testing database applications of in
+
+‘ORACLE, SOL Server and MS Access.
+
+Performed functional, GUI postive and negative testing on web-based (JAVA) applications and also provided testing support to
+
+system end-to-end, and user acceptance test (UAT) testing.
+
+‘Used Quality Center to organize and manage all phases of the software testing process including requirement, planning test,
+
+‘executing tests, and tracking, analyzing results, risk assessment and defect tracking, defect reporting, hotfix tracking and
+
+documentation.
+
+‘System Analyst, 05/2008 to 08/2013
+‘Aon Hewitt - City, STATE
+
++ Experience in benefits administration in 401k and retirement Plans
+
++ Configuring and testing Aon Hewitt’s proprietary Total Benefit Administration (TBA) System based on analysis documents of
+client requirements
+
++ Problem solves systematic issues by analyzing the TBA System to determine gaps in functionality compared to client
+requirements.
+
++ Provides creative solutions to continuously improve and optimize client delivery.
+
++ Develops queries using Structured Query Language (SQL) to solve client issues.
+
++ Conversion of client requirements into analysis artifacts and the design of test plans.
+
++ Deliver clear analysis, test plans, and standard operating procedures to tester which accurately reflect the technical capacities of
+the system and address the requirements of the client.
+
++ Coordinating and coaching other team members on system configuration and test execution of the technology platform.
+
++ This can include new client implementation, an extension of services for a client and enhancement of current services.
+
++ Using Proprietary Software tools to create Test plans, Defects, Test Case Identification and Test Execution.
+
++ Tools: Echo-Quality center, Maestro) To Create Defect and Task Status, Total Benefit Acceptance (GUI) Data Testing Tools.
+
++ AQT-Test case Identifier.
+
++ Design, update, and deliver unit, Integration, Regression and Acceptance test plans.
+
++ Work with the Domain Manager and the Benefits Service Manager to clarify requirements
+
++ Coach team members on technical and proprietary tools required to configure, test, debug, monitor and report on system
+specifications.
+
++ Coordinate the work of assign scenario, setup analysts, monitor task completion, and communicate team schedule and status.
+
++ Leverages basic relational database concepts to increase mastery of technology solution.
+
+Education and Training
+
+Bachelor of Science: Computer information system
+University of Mumbai
+
+‘Computer information system.
+
+Skills
+
+API, Automation, basic, Benefits, benefits administration, BSS, C, Catalog, Clarify, Coach, coaching, Conversion, CRM, client,
+database applications, delivery, Documentation, DOS, XML, fast, FTP, Functional, GUI, HTML, HTTP, DB2, Java, JavaScript, LAN,
+Linux, Macintosh 05, Maestro, meetings, MS Access, Excel, MS office Suites i, PowerPoint, Microsoft Windows, Word, Migration,
+Networking, Operating Systems, ORACLE, developer, plan development, POS, Pricing, Processes, product design, QTP, Quality,
+(QA, RDBMS, relational database, reporting, requirement, risk assessment, SSH, scripts, Scripting, SOAP, software design, software
+
+development, software testing, Solaris, specification, MS SQL Server, SQL, Structured Query Language, SQL Server, strategy, system
+configuration, TCP/IP, TELNET, Test Disector, TOAD, UNIX, UNIX shells, VBScsipt, Visual Basic, WAN,
+
+Additional Information
+
+«US Citizen

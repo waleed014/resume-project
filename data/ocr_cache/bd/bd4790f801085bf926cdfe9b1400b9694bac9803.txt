@@ -1,0 +1,63 @@
+Anne Lounsberry
+
+Data Scientist, Microsoft Certified
+
+523-299-0012 [iB linkedin.com/in/annelounsbery12
+ED anne.c.lounsberry@gmail.com
+
+EQ github.com/annecarollounsberry
+
+Microsoft Certified Data Scientist with 10+ years of experience in Python, R, Java, and Scala. Applied data mining to analyze ABC Inc.
+procurement processes demonstrating potential savings of $420,000 a year. Seeking to leverage my data visualization and big data
+modeling skills to help increase XYZ's investment returns in the upcoming year.
+
+3] Experience
+
+2013 - 2019 Senior Data Scientist
+
+ACB Inc., Los Angeles, CA
+
+* Developed end-to-end machine learning prototypes and scaled them to run in production environments.
+Increased efficiency by 23%.
+
+* Contributed meaningful improvements to existing machine learning models through carefully directed research.
+
+* Derived actionable insights from massive data sets with minimal support.
+
++ Provided input into the collection of new data sources and the refinement of existing ones to improve analysis
+and model development.
+
+Key achievement: Applied data mining to analyze procurement processes resulting in savings of $420,000 a
+
+year.
+
+2008 - 2013 Macl
+
+ie Learning Specialist
+AnyCompany, San Diego, CA
+* Collaborated with all team members to optimize Customer Relationship Management database for a high-
+volume real estate firm.
++ Increased repeat business among real estate investors by 25%.
++ Decreased wasted phone and email time by 57%.
+* Build a machine-learning-based system of matching clients with tailored investment opportunities. increased
+customer retention by 30%.
+2005 - 2008 Junior Data Analyst
+
+Capgemini, San Diego, CA
+* Consulted and worked with development teams to determine, execute and deliver relevant solutions.
+
++ Analyzed old information architectures and contributed to the design and development of the new one.
++ Provided information, feedback and guidance to clients to support technology-related decision making
+
+2005 MSc in Statistics, UCLA, Los Angeles, CA
+
+Skills
+
+Machine Learning
+Data Visualization
+Big Data
+
+Data Mining
+
+Python
+R on

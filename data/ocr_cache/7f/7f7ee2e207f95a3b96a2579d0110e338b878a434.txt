@@ -1,0 +1,61 @@
+Senior Java Developer
+Cognizant, Chennai, India Jan 2016 - Nov 2018
+Client: State Street Corporation, USA
+
+Extensively involved in requirements gathering from business teams and prepared technical design
+document.
+
+Understood the business requirement document and finalized the tech stack for the project.
+Collaborated in team-based, Agile environment to accomplish objectives by deadlines.
+
+Developed and enhanced Fair Value application to use ETL job to support the upload functionality.
+Lead code reviews and estimated required changes.
+
+Java Developer
+
+Cognizant, Richmond, Virginia, USA Jan 2011 - Dec 2015
+Client: Anthem Inc, USA
+
+.
+e
+.
+
+Analyzed requirements and designed, developed and implemented software solutions for BlueSquarred
+application.
+
+Enhanced the existing BlueSquarred application to use the Rules Engine to enhance the performance.
+Used UML to create technical design documents.
+
+Troubleshot issues by using debugging processes and coding techniques.
+
+Java Developer
+
+Cognizant, Chennai, India Jan 2009 - Dec 2010
+Client: Healthnet Inc, USA
+
+Reworked Medical Authorization and Referral System (MARS) using JSF.
+
+Troubleshot various software issues by using debugging processes and coding techniques.
+Participated in requirements gathering and design development meetings.
+
+Participated in complete software development lifecycle, including performance analysis, design,
+development and testing.
+
+Wrote, modified and maintained software documentation and specifications.
+
+EDUCATION
+
+Bachelor of Engineering in Electrical and Electronics
+Rajalakshmi Engineering College, Anna University Aug 2003 - May 2007
+
+CERTIFICATIONS
+
+Certified Java Developer 1.5
+
+Certified Java Web Component Developer JEE5
+
+Certified Java Business Component Developer JEE5
+
+LANGUAGES
+
+English Tamil

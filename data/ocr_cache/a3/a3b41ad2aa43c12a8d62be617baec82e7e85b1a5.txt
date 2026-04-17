@@ -1,0 +1,51 @@
+Robert Smith Phone (123) 456 7899
+
+Email inin@qvekresune.com
+website  wway.cyikresume, com,
+
+ur. Java Developer Linkedin: linkedin.comn/qwikresurne
+‘Address: 1737 Marshville Road, Alabarna
+
+SUMMARY
+
+Jf. Java Developer with around 2 years of professional IT experience as a Programmer Analyst and
+Software Engineer with complete project lifecycle in java/)2Ee technologies, Experience in
+analysis, design, development, testing, integration, and deployment of application software in
+web-based environments and client/server architectures. strong experience in building the
+Frameworks using Struts Model-View-Contraller (MVC) and spring frameworks.
+
+SKILLS
+
+Java/)2E& Technologies
+WORK EXPERIENCE
+
+Jr. Java Developer
+
+SE2 - February 2017 - Present
+Involving in gathering and analyzing functional requirements and converting to technical
+requirements
+Using Eclipse a5 IDE tool to develop the pplication and jra for bug and issue tracking.
+Extensive experience in database programming on stored procedures, functions, and triggers
+using (SOL, PLISQL) with Oracte
+Installing the application on AWS EC? instances and also configured the storage 53 buckets
+Designing and developing the Ul screens with Bootstrap and AngularJs to provide interactive
+screensto display data
+involving in the implementation of MVC pattern using Angular JS. JSF and spring controller
+Created groovy scripts using the CL in spring boot for rapid application development
+
+Junior Java Developer
+
+ABC Corp - 2015 - 2016
+Understood and produced the technical specifications for new or existing systems,
+Collaborated with the team in designing, architecting, implementing, and testing phases,
+Developed JEE Web applications using availabe tools &amp; technologies,
+Researched technology solutions Samp: take charge of vetting and verifying solutions
+Made contribution in defining functional and non-functional requirements
+Performed the tasks with minimal direction or supervision.
+Provided guidance to other developers and monitor pragress to ensure a task is completed.
+
+EDUCATION
+
+Bachelors - (2012)
+
+(© This Fite Resting Template the copilght of Qwikeaume ci: Uange Gilding

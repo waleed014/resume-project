@@ -1,0 +1,98 @@
+Kennedy Klekamp
+
+Python Developer
+
+& Profile
+
+Python Developer with 1 year of experience in designing, developing,
+and implementing software solutions using Python programming
+language. Proficient in creating web applications, integrating APIs,
+
+and leveraging data analysis libraries. Adept at working in agile
+environments, collaborating with cross-functional teams, and adapting to
+new technologies. Highly skilled in problem-solving, critical thinking, and
+time management. Committed to delivering high-quality, efficient, and
+scalable software solutions for diverse industry needs.
+
+i Employment History
+
+Senior Python Developer at Inceed, CO
+
+Mar 2023 - Present
+
++ Developed an optimized Python-based application for a major client,
+resulting in a 30% increase in efficiency and a 25% reduction in
+
+processing time.
+
++ Implemented an automated testing framework that reduced code
+review time by 40% and increased overall code quality, leading to a
+15% reduction in reported bugs.
+
++ Spearheaded the migration of a legacy system to a modern
+Python-based platform, which improved system performance by 50%
+and decreased maintenance costs by 20%.
+
++ Mentored a team of unior developers, leading toa 100%rretention rate
+and a 35% increase in team productivity within six months.
+
+Junior Python Developer at Techtonic Group, CO
+
+‘Aug 2022 - Jan 2023
+
+* Developed an efficient data processing pipeline for a major client,
+resulting in a 50% reduction in processing time and a 30%
+
+improvement in data accuracy.
+
++ Implemented an automated testing framework for critical
+applications, leading to a significant decrease in software defects by
+40% and a 25% faster release cycle.
+
+* Optimized and refactored legacy codebase, enhancing overall
+performance by 35% and reducing maintenance costs by 20% for the
+
+company.
+
+= Education
+
+Bachelor of Science in Software Engineering with a focus on
+Python Development at University of Colorado Boulder, CO
+
+‘Aug 2017 - May 2022
+
+Relevant Coursework: Software Engineering Fundamentals, Python
+Programming, Data Structures & Algorithms, Web Development, Database
+Systems, Object-Oriented Design, Network Programming, Operating
+Systems, Artificial Intelligence, and Machine Learning.
+
+& Certificates
+
+Python Institute Certified Entry-Level Python Programmer (PCEP)
+
+May 2022
+
+Details
+
+kennedy. klekamp@gmail.com
+(254) 103-9272
+
+123 Aspen Lane, Boulder, CO 80301
+
+Links
+
+linkedin,com/in/kennedyklekamp
+
+Languages
+English
+
+Mandarin
+
+Hobbies
+
+Developing open-source projects
+Participating in coding
+competitions
+
+Exploring new programming
+languages and frameworks

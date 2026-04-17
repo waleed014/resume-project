@@ -1,0 +1,103 @@
+PROFESSIONAL
+SUMMARY
+
+EDUCATION
+
+CERTIFICATIONS
+
+TECHNICAL SKILLS
+
+PROFESSIONAL
+EXPERIENCE
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor &2 (555) 432-1000 4 resumesample@example.com
+
+Highly accomplished IT Director with over 20 years of experience leading cross-functional teams and
+implementing innovative technology solutions and security protocols. Proven ability to communicate complex
+technical concepts to non-technical audiences and motivate teams to achieve exceptional results. Seeking a
+challenging role to leverage my expertise in IT leadership and drive organizational success.
+
+Cybersecurity Professional Certificate 03/2023
+University of Miami, Miami, FL
+
+BaChelor of Science | Computer Science 10/2009
+Baker College, Flint, MI
+
++ OnCue Certified User
++ Cybersecurity Professional
+‘+ Microsoft Azure Fundamentals
+
+Technology: Wireshark, HoneyPot, Nessus, Pycharm Networking: Networking fundamentals, Networking,
+
+Programming Languages: Python Switch & IOS, IP & Routing, Subnetting, IPv4/6 Static
+
+Operating Systems: Windows 10, Windows 16 Routing, Dynamic Routing, VLANs and Trunking,
+
+Server, Kali Linux, Ubuntu, Debian, Redhat, Centos Diagnostics & Troubleshooting, Access Control List,
+
+Windows Security: Active Directory, Windows Server, Infrastructure Services
+
+Group Policy, DNS, Shares and Permissions, DHCP, Cloud: Cloud Security, Virtualization and Container,
+
+Disk Management, Microsoft Endpoint Security, and Advanced Cloud Security
+
+Security Policy, Microsoft Authentication, Powershell Additional Relevant Experience: Microsoft Security,
+Computer Networking, Cloud Security, Linux Security,
+Network Security, Cyber Technologies, Python, Ethical
+Hacking, DFIR, Game Theory
+
+DIRECTOR, INFORMATION TECHNOLOGY 10/2020 to CURRENT
+Aimbridge Hospitality | Mclean, VA
+
+‘+ Manage the day-to-day operations of the IT department, including service desk, budgeting, third party
+vendor subscriptions, endpoint and systems management.
+
++ Oversee the implementation of technical and administrative controls to secure the organization's
+information systems and data, including firewalls, intrusion detection systems, encryption, and access
+control.
+
+‘+ Manage vendor relationships and negotiate contracts for the procurement of hardware, software, and
+services.
+
++ BOX.com cloud storage implementation, administration and user access control manager.
+
++ Develop and conduct employee training and awareness programs to promote a culture of security and
+ensure everyone understands their role in protecting the organization's information assets
+
+‘TROL TECHNOLOGY CONSULTANT 09/2014 to CURRENT
+Mantech International Corporation | Bethesda, MD
+
+‘+ Consulted with attorneys and legal teams to understand their technology needs and provide
+recommendations for trial presentation software and hardware.
+
+‘+ Developed and managed timelines for trial preparation, including creating and organizing exhibits,
+witness lists, and deposition videos.
+
++ Conducted mock trials and rehearsals to ensure that all technology and equipment were working
+properly and to prepare witnesses and attorneys for the trial
+
++ Provided on-site technical support during trials, ensuring that all presentations and exhibits were
+displayed effectively and professionally.
+
+‘+ Maintained accurate records of trial technology equipment, sofware, and supplies, ensuring that all
+‘equipment was properly maintained and updated.
+
+SEQIOR SYSTEM ADMINISTRATOR 09/2014 to 10/2020
+
+TrialGraphix | City, STATE
+
+‘+ Established network specifications and analyzed workflow, access, information, and security
+requirements
+
++ Administration and implementation for Microsoft 365, Exchange, Azure Active Directory, SharePoint and
+Teams
+
+‘+ Responsible for onboarding and off boarding all company employee laptops
+
++ Ensure all laptops were loaded with software and met security compliance regulations via Microsoft
+
+Intune
+
+Manage company website using WPEngine and WordPress editing platforms

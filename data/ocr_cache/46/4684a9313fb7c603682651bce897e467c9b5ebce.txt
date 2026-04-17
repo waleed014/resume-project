@@ -1,0 +1,67 @@
+Rosario Skiles
+
+5040 Little Creek, Los Angeles, CA Phone: +1 (555) 497 6392
+
+EXPERIENCE ROMAGUERA INC Phoenix, AZ
+02/2020 — present Information Systems Security Engineer
+
+Hosted payload and satellite integration experience, including ground-system security architecture
+Direct experience developing RMF assessment and authorization documentation
+
+Familiarity with Systems Security Engineering (SSE) documentation
+
+DoDI 8570.01M IAM Level III certification (CISSP, CISM, CCISO, GSLC)
+
+Experience working with eMASS and/or Xacta
+
+IASAE Level III (CISSP-ISSEP or CISSP-ISSAP)
+
+Experience in Linux / Windows shell scripting
+
+Experience with operating system configuration management tools (Puppet, Ansible)
+
+Working knowledge of NIST Special Publications 800-30, 800-37, 800-53, 800-160, and DoDAF 2.02
+Possess an ISSEP and CISSP
+
+CEH, LPT, CRISC, CISM, or CCSP
+
+BRADTKE GROUP Phoenix, AZ
+03/2013 — 08/2019 — Information Systems Security Engineer
+
+Experience managing the full lifecycle of, and workflows for, security accreditation projects under the
+1CD503 Rev
+
+Extensive knowledge of information system security policies, and risk management framework
+Demonstrated expertise in IC policy and able to interact at senior levels to ensure requirements are
+met while preserving the most feasible security posture
+
+Specific I[A/Security related experience that includes working with Data-at-rest encryption
+Experience with management, certifying and accrediting at least two production systems or
+applications within the US government
+
+Experience using the fundamentals of network routing and switching and achieving compliance for
+production software systems on US Government networks, such as SIPRnet and JWICS
+
+EDUCATION OREGON STATE UNIVERSITY Bachelor's in Computer Science
+
+SKILLS .
+
+Active Directory (On-Premises and Azure) experience including DNS, DHCP, Sites, and Services
+Knowledge of networking, TCP/IP, OSI Model
+
+Annual Disaster recovery testing
+
+On-Call/after-hours support of the Enterprise environment
+
+Experience with Content Filtering / Web Filters
+
+Experience with SIEM (Security Information and Event Management)
+Experience with Intrusion Detection Systems / Intrusion Prevention Systems
+Knowledge with CIS Benchmarks and hardening best practices
+
+Experience with Access Control Lists / Permission Propagation
+
+Experience with Group Policy Management
+
+Familiar with CAB Forum Best Practices and Certificate Authorities
+Experience with Endpoint Detection and Response (FireEye, Carbon Black)

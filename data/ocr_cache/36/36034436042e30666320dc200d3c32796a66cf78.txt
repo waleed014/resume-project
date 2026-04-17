@@ -1,0 +1,73 @@
+Talar Mabe
+
+Database Analyst
+
+Profile
+
+Employment History
+
+Education
+
+Details
+
+talanmabe@gmail.com
+
+(703) 079-9934
+
+1234 Oak Street, Springfield, IL 62704
+
+Results-driven Database Analyst with 2 years of experience in designing,
+implementing, and maintaining database systems. Proficient in data
+analysis, SQL optimization, and troubleshooting, while consistently
+ensuring data accuracy and integrity. Strong collaboration skills and
+proven ability to work efficiently in fast-paced environments. Dedicated to
+enhancing business processes and decision-making through data-driven
+insights.
+
+Database Analyst at Microsoft Corporation, IL
+Mar 2023 - Present
+
++ Successfully migrated 50 TB of critical data from legacy systems to
+Microsoft Azure, reducing maintenance costs by 30% and improving
+data retrieval times by 25%.
+
++ Enhanced database performance by 40% through the optimization of
+SQL queries and the implementation of indexing strategies, leading to
+quicker report generation and improved user satisfaction.
+
+* Developed and implemented a comprehensive data backup and
+recovery plan, resulting in a 99.9% uptime for the databases anda 75%
+reduction in data loss incidents.
+
++ Streamlined data integration processes by automating ETL workflows,
+increasing data accuracy by 20% and reducing manual data entry
+efforts by 60%.
+
+Junior Database Analyst at Oracle Corporation, IL
+Sep 2021 - Jan 2023
+
+* Successfully reduced query response time by 30% through optimizing
+database performance and implementing indexing strategies,
+resulting in increased efficiency for end-users.
+
++ Developed and deployed a data migration plan for transitioning from
+legacy systems to Oracle Database, leading to a 25% improvement in
+data integrity and accuracy across the organization.
+
++ Identified and resolved over 100 data discrepancies and
+inconsistencies, significantly enhancing data quality and ensuring
+99% accuracy in reporting and analytics.
+
+* Collaborated with cross-functional teams to design and implement a
+new database schema, resulting in a 20% reduction in redundant data
+storage and improved data accessibility for users.
+
+Bachelor of Science in Data Analytics at University of Illinois at
+Urbana-Champaign, IL
+
+‘Aug 2017 - May 2021
+
+Relevant Coursework: Statistics, Data Visualization, Database
+Management, Data Mining, Machine Learning, Big Data Technologies,
+‘Advanced Analytics, Programming (Python, R, SQL), and Business
+Intelligence.

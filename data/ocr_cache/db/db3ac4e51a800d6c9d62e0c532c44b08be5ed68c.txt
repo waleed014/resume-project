@@ -1,0 +1,155 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+
+Floor
+SKILLS
++ Python
+
++ Amazon Web services (EC2, $3,
+QS, SNS, Fargate, Lambda).
+
++ Terraform
+
++ Open Search/ Elastic Search
+
++ Java
+
++ Docker
+
++ Orade Sql
+
++ REST API
+
++ Apache Spark
+
++ Airflow
+
++ Snowflake
+
+EDUCATION
+
+University of Central Missouri
+Warrensburg, MO + 12/2015
+‘Master of Science: Computer
+Science
+
+SNIST
+
+India + 05/2014
+
+Bachelor of Science: Computer
+Engineering
+
+PROFESSIONAL SUMMARY
+
+7 years of IT experience in all phases of Software Development Life Cycle (SDLC) which involves
+requirement gathering, analysis, design, development, implementation & enhancement of projects
+using Python technologies. Experience in automating, configuring, and deploying instances on AWS. A
+fast and eager learner, detail oriented and adapt to changing project requirements quickly to meet
+business goals. Comfortable with ambiguity and thrive in fast-paced environment
+
+WORK HISTORY
+
+Novogradac & Co. Lip - Python/ Aws Developer
+Los Angeles, CA + 02/2019 - Current
+
+Product Data Hub (PDH) is product development lifecycle solution using AWS cloud and Python
+capabilities. Data can be pushed from various source systems and the same will be transformed and
+decomposed using serverless technologies (AWS Lambda) and stored in persistence storage (Elastic
+Search).
+
++ Responsible for design and implementation of various micro service-based APIs using Python
+framework.
+
++ Extensively used AWS Services (API GW, $3, DynamoDB, SNS, SQS, Lambda, ECR, ECS, Fargate,
+loud watch, Step Functions and Elasticsearch) for scalable solutions
+
++ Involved in deployment of services through containerization (Docker, AWS Elastic Container service
+{Ecs
+
+«Geeta erator scripts for EC2 instances, lambda and $3 buckets
+
++ Sending notification to downstream system using Simple Notification Service (SNS) which are
+subscribed to downstream SQS and downstream gets information from callback URL hitting API
+endpoints
+
++ Created methods (get, post, put, delete) to make requests to API server and tested Restful API
+using postman
+
++ Utilized python libraries like Boto3 for AWS
+
++ Knowledge of spark scripts to automate the entire pipeline and do most of the data
+manipulation.Setting up databases in AWS using $3 bucket and configuring instance backups to $3
+bucket.
+
++ With the help of different spark modules like Spark SQL, Spark Core we create different RDD’s and
+Data frames.
+
++ Experience to design, develop, and test a chatbots solution leveraging AWS Lex and Lambda.
+
++ ETL pipetines in and out of data warehouse using combination of Python and Snowflakes
+
++ Experienced with event-driven and scheduled AWS Lambda functions to trigger various AWS
+resources
+
+Novogradac & Co. Lip - Python Developer
+Boston, MA + 08/2017 - 01/2019
+
+Description: It is an intranet-based point-of-sale (POS) system This application allows agents and
+retailers to activate different types of transactions like the bill payments, processing the service
+information and activation of sale, fulfillment of orders, returns and refunds, selling items and
+accessories can be done
+
++ Building API framework for storing, retrieving and analyzing data using AWS Lambda, ECS services
+
++ Used GitHub for Python source code version control, Jenkins for automating build of Docker
+containers, and deploying in AWS.
+
++ Experience in working with AWS Lambda, AWS CLI, AWS SDK with Python-Boto3.
+
++ Designed and maintained databases using Python and developed Python based API (RESTful Web
+Service) using Flask, SQL-Alcherny and PostgreSQL.
+
++ Developed and reviewed SQL queries with use of joins clauses (inner, left, right) for data
+validation
+
++ Imported data from different sources like AWS S3
+
+Sentinel Technologies Inc - Software Developer
+Novi, MI + 08/2016 - 07/2017
+
+CAAS (Collection as a Service) is a highly scalable cloud- based solution for intel platform where
+various platform components or mobile applications within Intel can register with CAAS and create
+jobs to be executed for data collection for their registered user from various social providers on
+behalf of their user.
+
++ Implemented data persistence layer using AWS DynamoDB.
+
++ Used AWS SQS (Simple Queue Service) for backend service layer so that service layer components
+can be scaled out based on Queue depth
+
++ Managed, developed and designed dashboard control panel for customers and administrators using
+DJANGO, Oracle DB, PostgreSQL and API calls
+
++ Queried MYSQL database queries from Python using Python-MYSQL Connector and MYSQL DB
+package to retrieve information
+
+Caterpillar - Software Developer
+City, STATE » 08/2015 - 07/2016
+
++ Involved in data gathering during business analysis and planning phase of project
+
++ Designing of tables in Oracle database required for System user administration, Data Management
+
++ Developed and implemented MVC Architectural Pattern using Spring MVC 3.0 Developed POJO
+objects corresponding to database schema and implemented persistence in business logic using
+Hibernate
+
++ Developed client slide components utilizing Java Swing framework
+
++ Followed Agile Methodology and participated in daily SCRUM meetings

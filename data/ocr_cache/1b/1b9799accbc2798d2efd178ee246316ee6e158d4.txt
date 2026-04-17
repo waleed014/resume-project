@@ -1,0 +1,53 @@
+FIRST LAST
+
+Cyber Security Specialist
+New York City, NY 10000 - first.last@resumeworded.com - + 1 (212) 123-4567
+
+PROFESSIONAL EXPERIENCE
+
+RESUME WORDED — New York, NY 2016 - Present
+Cyber Security Specialist
+e Conducted 10+ security inspections and surveillance operations with 10 MIS team personnel.
+e Provided security protection to the company’s data, documents, financial records, and other
+relevant information; reduced security threats by 15%.
+Coordinated with law enforcement agencies 5+ reported cases of cybercrime
+Conducted over 10 initial reviews of audit logs pertaining to critical information systems
+encompassing review of weekly-generated reports and identifying suspicious activities.
+
+e Coordinated and delegated security assurance activities to five subordinates; tasks involved
+identification and gathering of evidence to verify compliance to approved security baselines for
+various operating systems and internal server databases.
+
+Educated 20+ employees on the procedures to be followed if faced with individual attacks.
+
+GROWTHSI — New York, NY 2012 - 2016
+Cyber Security Team Lead (2015 - 2016)
+e Supported 1,000+ clients and S00 employees monitor systems and provide various audit support.
+e Lead the implementation of three projects that increased the security of information by 40%.
+e Increased ticket closure rate to 80% and customer satisfaction ratings to 4.9 out of 5 in one year.
+
+Cyber Security Technician (2012 - 2016)
+e Mapped 70 complex technical requirements, functionalities, and capabilities to ensure 100%
+compliance with federal standards, policies, and procedures.
+e Decreased deployment time of new capabilities by 35% by implementing Scrum methodologies.
+
+RESUME WORDED — New York, NY 2012 - 2013
+Cyber Security Analyst
+e Reduced reporting and resolution time of Host-Based Security System deficiencies by 65%.
+e Formulated resolution of highly visible vulnerabilities identified during the inspection, resulting in
+exceeding milestone date expectations.
+e Orchestrated operational and functional enterprise readiness of ACAS vulnerability, meeting 100%
+compliance and overcoming company-wide lack of guidance.
+
+EDUCATION
+
+GROWTHSI ENGINEERING SCHOOL San Francisco, CA
+Master of Cyber Security 2010-2012
+RESUME WORDED UNIVERSITY New York, NY
+Bachelor of Information Security Management 2007-2011
+
+ADDITIONAL INFORMATION
+
+e Techniques: Vulnerability Management, Penetration Testing, Ethical Hacking, Network Security
+e Technical Skills / Software: IPS, Linux, Splunk, ArcSight
+e Certifications: Cyber Security Specialist Bootcamp (2016), Passed Resume Worded examinations

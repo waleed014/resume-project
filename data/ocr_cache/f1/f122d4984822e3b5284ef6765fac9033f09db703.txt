@@ -1,0 +1,154 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 # (555) 482-1000 # resumesamplesexamplecom
+Profile
+
+An accomplished Information Technology Business and Technical professional with 7 years of SAP R/3 HCM Functional experience
+in implementation, customization, testing, interfaces, reports and support in Personnel Administration and Oxganizational
+‘Management. Advanced knowledge of SAP Human Resources, Organizational Management, Benefits, Time and Payroll master data
+‘Results Oriented IT Professional with extensive expertise in applying System Development Lifecycle Methodology for quality
+‘business solutions. Strengths include project management capabilities, ability to multi task, and effectively collaborate with subject
+-matter experts, fellow Analysts and technical team members on projects. Extensive problem solving, decision-making skills coupled
+
+‘with excellent teamwvork, interpersonal and communication skills. Involved in 2 successful SAP module full life cycle
+‘implementations, SRM and PEP, during my SAP career.
+
+Qualifications
+
++ Experienced in functional configuration, customization and maintenance of SAP HCM involving Personnel Administration and
+(Organizational Management.
+
++ Extensive experience in design and implementation of work flow for Organizational Management (OM), creating organizational
+units, positions, reports to, and chiefs, integrating all ofthese with ESS, Remedy, and SRM.
+
++ Extensive experience in configuration of Personnel Administration using IMG with creation of Personnel Actions, Dynamic Actions,
+‘Reasons for Personnel Actions, Info groups, Info type maintenance, and Features.
+
+‘Extensive experience with complete system development life cycle include business requirement gathering, process analysis,
+design, configuration, writing functional specifications for ABAP development, testing and deployment of functionality in SAP HR
+‘modules, non HR modules, and Third Party Software.
+
+‘Experienced with implementing inbound and outbound Third Party Software Integration to include Remedy, SRM, Neo Gov,
+‘elestaff, PEP and Moodle.
+
+ECC upgrade Experience and SAP and SEM/PEP Service Pack implementations
+
++ Extensively worked on batch data processing using Toolbox, LSMW, and SECATT Scripts
+
+‘Working knowledge of reporting tools such as Ad Hoc Query, SE16 Data Browser and developing custom reports to extract an
+analyze system data,
+
+*Possesses a thorough understanding ofall aspects ofthe Human Resources business process, comprising the life cycle of an
+‘employee including recruiting, hiring, employee maintenance, payroll and benefits
+
+Promote and maintain exemplary internal/external team relationships. Manage expectations and provide innovative solutions to
+‘ensure flexible options designed to meet trend setting department needs.
+
+‘Motivated Team Player with a can-do attitude and concern for maintaining quality at all levels.
+
+Professional Experience
+
+SAP Business Solutions Senior Analyst, 03/2007 to Current
+State Of Maryland - Somerset, NJ
+
+‘Team Leader/Member on mult-simultaneous technology projects from original concept, planning sessions with customers
+requiring business improvement designs and requirements to successful implementation and completion of all goals pertinent tothe
+‘SAP systems and functionality of SAP application tools.
+
++ Responsible for managing system enhancements related to the HR division including Personnel Administration, Organizational
+‘Management, and PEP/SEM.
+
+SAP Functional Liaison between the customer and the IT organization, tasked with negotiating technical solutions and projects on
+behalf of changing user needs.
+
+‘Manage short-term projects (author and implement tables and trees, upgrades and fixes) while simultaneously managing large
+scale, month projects
+
++*Co-team member on the successful deployment of new modules such as SRM (Supplier Relations Management/ Procurement), part
+of the purchasing module and PEP/SEM (Personnel Expenditure Planning), a new budget component supporting human capital
+projects
+
+*Co-team member on the deployment of Third Party Software integration such as Neo Gov (a comprehensive recruitment system);
+Remedy (customer ticket system); Telestaff (fire uniform scheduling system); and Moodle (Training and learning system),
+
+Apply testing/integration testing by creating and executing test scripts and documenting defects using the Quality Center System
+{forall software and SAP functionality changes, Subject matter expert and primary trainer to customers on basic application features.
+‘Respond to Tier Il and I support following established policies/procedures. Conduct root cause analysis to identify customer
+‘problems, and resolve or escalate issues as necessary.
+
+Develop checklists, user guides, and training documentation for manual and web enabled systems.
+
+‘Project Coordinator involving scheduling tracking, and reporting ofall assigned system.change initiatives. Follow organizational
+“SAP standards for full lifecycle projects.
+
+‘Recognized SAP system expert, as one of the senior SAP team members, Established contributions asa team member willing to go
+above and beyond to assist other team members, and self-educate to advance technical knowledge,
+
+Special Projects Officer, 07/2005 to 03/2007
+City Of Antioch — Antioch, CA
+
+‘Managed a myriad of special projects related to the department's payroll function.
+
+Supervised and preformed performance evaluation for assigned staff. Conduct daily staff supervision as well as documentation of
+individual employee progress,
+
+stavestigated and researched, gathered and analyzed complex data, detailed report presentations, and related projects. Prepared
+recommendations for improvements and solutions
+
+‘Monitored and developed the personnel and Fire/EMS budget. Co-team member on employee hising.
+
+“Developed critical timetables, and collected information pertinent to internal and external requests, including but not limited to
+‘open records requests and pending litigation issues.
+
+*Coordinated with department sections and divisions to identify and cortect payroll issues
+
+Prepared written summaries, reports, and presentations of project reports and action plans to address identified problems.
+‘Developed and implemented policies and procedures as related to projects
+
+‘Identified, reported and corrected hundeeds of errors within the SAP system. Improved accuracy and overall production affecting
+2,800 Fire Department employees.
+
+‘Retrained staff on SAP system usage. Progressed from novice to expert level SAP technician based primarily on self-education.
+
+Accounting Office Technician, 02/2003 to 07/2005
+University Of Texas At San Antonio, Business Managers Office ~ City, STATE
+
+‘*Assisted students with class withdrawals, dsops, and refund policies and procedures.
+
+‘*Authored demand letters and implemented follow-up as necessary for student NSF checks.
+
+“Notified students ofthe Business Manager's final appeal determination.
+
+“*Reconciled and maintained agency accounts.
+
+“Reviewed students’ residency to determine appropriate tuition rates. Served as cashier during payment
+deadline periods, collecting up to $125,000 per diem.
+
+‘Successfully identified problems with the electronic check and advance payment system prior to student
+roll-out. Authored procedures for university-wide implementation ofthe advance payment system,
+
+‘Accounting Technician, 2000 to 02/2003
+University Of Texas At San Antonio, Payroll Office ~ Cty, STATE
+
+‘*Assisted faculty and staff with questions regarding payroll
+
+functions and regulations.
+
+“sReviewed and processed manual payroll vouchers and authorization for service agreements. Tansitioned expense reimbursements
+and electronic overtime vouchers.
+
+‘Verified bi-monthly payroll before finalizing for distribution. Organized and distributed 1,500 monthly
+
+and 300 bi-monthly paychecks and earning statements
+
+‘Processed garnishments and levy collections monthly. Distributed funds to appropriate agencies
+
+‘Trained all new payroll staf on university policies and regulations on payroll functions.
+
+‘Promoted after reconciling four years of the HRIS system in six weeks.
+
+Education
+
+BBA: Tourism Management, 2005
+University of Texas at San Antonio -San Antonio, TX
+‘Minor in Marketing

@@ -1,0 +1,83 @@
+Natalia Pfeffer
+
+jcik Mountain, Boston, MA @ Phone: +1 (555) 567 3208
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SPECIALIST, SAP ABAP IT
+Detroit, MI
+04/2016 — present
+
+‘* Lead and/or provide SAP application development support in assigned areas
+Develop and provide user documentation
+Project Management and Team Leadership for various SAP development projects
+Create test plans and Go Live planning and execution
+Other Assigned Tasks/Projects at Management Direction
+Providing SAP programming proficiency in the following techi
+Lead and/or provide primary support toward installation of application releases into production
+
+SAP ABAP APPLICATION DEVELOPER
+
+Phoenix, AZ
+
+01/2009 — 12/2015
+
+‘* Conducting unit, integration and release testing to validate functionality
+
+Developing and maintaining SAP design and technical specification documents
+
+Supporting end-users Acceptance Testing activities
+
+BAPT's, screen painter, menu painter, and GUI processing
+
+Providing optimization, enhancement and O&M support for ABAP applications which perform financial
+
+and business management functions on Client SAP (ECC, CRM, SRM, Portal, Solution Manager, etc.)
+
+stances and external systems
+
+‘* Management — providing status information, suggesting corrective actions, and taking direction when
+decisions are made
+
+‘* Developing, testing, debugging, implementing, maintaining and documenting ABAP code used in
+RICEFW (Reports, Interfaces, Conversions, Extensions, Forms and Workflows) objects on an ECC 6.0
+System
+
+SAP ABAP ANALYST
+Boston, MA
+08/2003 — 07/2008
+‘* Recognize the critical elements of application problems, develop and evaluate data, determine solutions,
+and make logical recommendations
+‘* Maintains effective and cooperative working relationships with process owners, staff, project consultants
+ete
+Develop test data and analyze problems in programs
+Develop knowledge base for SAP knowledge data base
+Develop and code difficult and complex programs for SAP modules
+To work for all phases of ongoing roll out and future new dimension projects
+Trains users on programming of forms and reports, defining authorization roles, custom workflows, and
+other related areas
+
+UNIVERSITY OF SOUTH FLORIDA
+Bachelor’s Degree in Computer Science
+
+Knowledge in SAP ABAP and good exposure to other related modules (Financials /Supply-chain)
+Good working knowledge of Cross Applications Technologies ALE/EDI/IDOCS and BAPI
+
+Good coordinating skills with functional Consultants, Good communication and presentation skills
+Proven ability to work creatively and analytically in a problem-solving environment
+
+Excellent analytical and Debugging Techniques in the SAP R/3 System
+
+Strong sense of ownership and commitment
+
+Able to manage multiple tasks and priorities
+
+Able to work independently
+
+Good Communication skills
+
+Worked on Sap Scripts and Smart forms. (Adobe Form will be added advantage)

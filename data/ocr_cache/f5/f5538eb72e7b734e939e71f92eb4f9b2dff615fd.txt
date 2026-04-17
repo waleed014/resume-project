@@ -1,0 +1,53 @@
+AWS Devops Engineer Phone: (223) 456 78 99
+
+mal: Infoequleresurne com
+ROBERT SMITH \ coca
+
+‘Address: 1737 Marshville Road,
+Alabarna,
+
+Objective
+
+Over 7+ Years of IT experience as DevOps engineer with expertise in areas of Software
+Configuration Management, Version Control, DevOps/Build and Release management, Linux
+System Administration. Experienced in branching, tagging and maintaining the version across the
+fenvironments using SCM tools like GIT, Subversion (SVN) and TFS on Linux and windows
+platforms,
+
+Skills
+knowledge on cloud computing, Knowledge on Networling
+
+Work Experience
+
+AWS Devops Engineer
+US Foods - January 2016 - 2020
+Worked on Implementing AWS using EC2, S3, RDS, ECS, Elastic Load Balancer, Auto Scaling
+‘raups
+Responsible for Worked as a DevOps Engineer for a tearn that involves three different
+developrnent teams and multiple simultaneous software releases.
+Excellent interpersonal stills, ability to Interact with people at all levels.
+Supported the application in production and worked closely with offshore tearns.
+Developed and implemented software release management strategies for various applications
+according to agile process,
+Deployed java applications to application servers In agile continuous integration environment
+‘and also automated the whole process,
+Responsible for installing Jenkins master and slave nodes,
+
+AWS Devops Engineer
+Delta Comoration- 2014 - 2016
++ US Foods (formerly known as US.
++ Foodservice) is one of the USAs leading foodservice distributors with nearly $29 billion in
+‘anriial revenue, US Faods was the 20th largest private
+Had worked on implementing AWS using EC2, $3, RDS, ECS, Elastic Load Balancer, Auto
+Sealing graups Respensibilties Creating the autornated bud and
+Environment AWS EC2, S3, RDS, Elastic Load Balancer, Auto scaling, VPC instances, Cloud
+Watch, Maven, Nesus, Jenkins, Chef, Batch, Shell script,
+EMobile USA Is a national provider of wireless voice, messaging and data services:
+Its the third largest wireless network in US.
+Had warked on Implementing a Continuous Delivery pipeline with Docker, Jenkins and Githiub
+and AWS AMis, whenever anew GitHub branch gets started,
+
+Education
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

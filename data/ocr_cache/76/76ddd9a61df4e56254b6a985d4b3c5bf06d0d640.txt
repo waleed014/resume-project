@@ -1,0 +1,181 @@
+Senne
+
+Jessica CLAIRE
+
+100 Montgomery St. 104 Flor
+(655) 432-1000 enmesampleerample cont
+
+Fronted developer with ve 8 years of experience in we development with expertise in React Js, Red, Jv asi, ESS, HTML, CSS,
+SSS and played roles of Stems intearation Specials Adin, Sei Froctend Developer, Stems Enginer Experi in developing web
+application sing techooloie and famewrks ike React J red redsag,Ja.scit, ESS, webpack snd ha good exposure to
+“elecom and Ecommerce domains. Highly silled in developing esponsive and mule device compatible web plications singlet
+
+anew
+Sients
+
+‘+ Worked in Agile and Waterfall models of development and + Languages
+involved ia development, maistenance and support ofthe 1+ Nodeje
+
+applications
+
++ Dabs
+
+‘+ Highly motivated an possess strong tech ntepesonl and + MySQL
+problem sling kil + Operating Sytem
+«+ Web Technologies + CentOS, Ubu, Windows 2, Windows 710111
+‘HTML, C85, Javascript ES6, jQuery + Clo Platerms
+
++ Feameres
+
++ AWVS Esti Beansll, EC2 $3, Tile le
+
+1 React, Redux, reducsaen, Boottap, express Js
+
++ Toot
+
++ Git Bibocket, Webpack
+
+Exenuce
+
+o7a02t 012023
+
+020 1907/2021
+
+o72018 9012020
+
+6201s wor201s
+
+Senior Sotrare Engineer
+Patron Technology ~Ptsburdh, PA
+Project: Wind Seda NXT
+(Cia GE Renewable Energy
+Fle: UI Software Eapineer— Reset JS
+Roles & Responsbilies;
+‘The Projet scope is to migrate the existing leeay application developed in ISP to React. Backed in avis
+peraded fom monic to rest mode
++ Taslved in requirement gathering and tacking the updates onthe conuece
++ Responsible for developing the components ofthe application wing Reacts and edt
+«Wing the iets cte foreach ompocet ing et famework.
++ Creag the features for behavior deiven development model testing of the application in ieteprated
++ Working closely wih backend tam to intepate the APIs and implement functionals eta
++ Tavolved in sprint meting to tack th application deeloenent tans and managing the dads of the
+delve
++ Reviewing the coe changes and merging te coe fom the diferent developers
++ Mitra he bd and deployments in development ensionments and perform application et befe moving
+waa
+
+Senior React JS Developer
+Factset Research Stems Ine
+Project: Aptive Fee
+(tient: Bridgetee
+le Senor Frontend Developer ~React 8
+oles & Responses:
+‘The Scope ofthe ject to provie customized pins fr the lent tat can be integrated int thei exiting
+websites tou can ued by the Ed wet,
+
++ Worked closely with business team get the requitements, website refetences ad analyz the designs nd fates
+
+tobe developed.
+
++ Developed customized plugins inloing new features using HTML, CSS and React sand Tilo console
+
++ esfrm RAD to find he este and wel ameorks that an be used to improve development process,
+
++ evr uit esting of he appiatin
+
++ Bul and deploy the coe for QA team test.
+
++ Wrked with QA team ounertnd thease and fc them before deploying he application in the cit
+
++ Manage code in versioning ols ike Gib and Bitucket and wack the merge request
+
+4 Tavoved in let al provided suppor when production ies were obeerved and resaved hem
+
+Boston, MA
+
+Software Eagincer
+“Two9S International In. Gresham Pak, GA
+Projet 1: Exec Foe Widgets
+‘Cent: GE Appliances
+Rote React Js Developer
+Roles & Resonsbiiies;
+‘The Scope ofthe project isto develop Customize Widgets to avomate the bil proces though AWS widget form.
++ Developed ontend sppliaon using HTML, CSS, Jaaerp and made the application reponse and cos:
+plo compatible
++ Buln sustainable coding tat may be wed inte.
++ Ensorng feabilty of UDUX designs
++ Enhancing performance ofthe main oat end website
+4 Thyme leafed to provide an elegant and well-formed way of creating templates,
++ Moding design an specications of comple applications
++ Working closely with product managers to ge the aplication eiewed fr any change requests and new fears
+beaded
++ Nantainng and sppeting the appision in production envisoeet on let eqs.
++ Documenting th application fst footer developers.
+Project 2:Forun Data Warehouse
+‘Cleat: GE Appliances
+Role: Ful Sack Developer
+Roles & Responsible:
+‘The Scope ofthe project isto develop employee maragement pplication where client can manage perona etal,
+este eas, User and atsgn user othe specifi team, Information canbe sired acon difeet trams itera 0
+‘eck the acts and kl
++ Werke! with snes to gather fictional specifications, nerfed, chnge request and faze dees.
++ Developed AP's using Node J and lied express, enpest-sesion, express nyspl-esion, MySQL, packages
+inode
++ Creed SQL scrips hat are tlie in backend to store ad fetch the data fom MYSQL database
++ Designing a development of foat-ed application using HTML, CSS, JavaScript, React J
++ Development of server-side pages wing PHP and ized MySql dase
++ Documenting th application feats a coe ows
++ Worked on bog fies afer QA
++ Executing project atte 25 per timelines.
++ Worked on enhancements ofthe aplication
+Project 3: Supplier and Buyer Collsberaton Portal
+(Client: GE Appliances
+Role React Js Developer
+Roles & Response:
+‘The Scope ofthe project isto develop he 2 feat Web application forthe Buyer and Supplier o manage Purchase
+corde, advance shipment notices and generat order repos a also maintained the diferent typeof wes 0 se the
+plications depends upon the rights in GE store application.
++ Developed the ne ser fens fstres wing Rect
++ Inerating HTML Provided by UI design eam ito eat pion.
++ Bung reusable components and roaten Was for ute we.
++ Optimizing components for maximum perfermance across avast aay of web-<apable devices and browses
++ Module the aplication fo coe edundany and re-sbili
++ Handing cross bowser compat ies forthe ppiation.
++ Unit teing the aplication and iterating he ect ompocets withthe pplication.
+
+Front-End Developer
+Avizwa Solutions Ci, STATE
+Projet 1:6 Cres
+Role: UIDevloper— React JS
+Roles & Response:
+‘The Projet cape to develop the Web aplication stands a medium beeen end wer an the Creditor, erie
+acumen ofthe logged wer and provide te cet aunt depends upen the wer ibility,
++ Developed the dymami nd responsive wer intere wsing oat nd teeholoies HTMIS, CSS, JavaScript,
+Reset Quay.
++ Werket onthe developing he REST API for the application sing NodeS and Exess.
++ Developed he Ul fer ppliation retieing the ISON data from the AP
++ Developed esponste UI to aces the application arose the al device.
++ Supported the esting team in geting th AP's tested success
++ Debngeing the code wing the chrome developer els
++ Unit teing the aplication and integrating the React cmponees wih the aplication
+Project 2 Coupon Cow
+Role: UIDevloper
+oles & Responses:
+‘The Projet scope is to Develop the web application for proving te infomation on offers and discounts ower in
+India. This Web applications has modules ike we dasourd, admin panel and coupons dashboard
++ Worked on developing the User interface fom the design witout any deviation ing React ISX, HTMILS and
+(S83 fr oot ad.
++ Responsible for developing the components ofthe application sing Reacts and eu
++ Wag the unit et fr each component ing Jt Famework
++ Creaing the fates fr behavior dives deelopent model testing of the application in steprated
++ Werking closely with backend tam integrate he APIs ad inplement functionalities eames
++ Meritring he bald and deployments in development envicements and palo application et ele moving
+waa
+
+Epucamtox aNb TRarsine
+
+ouzois
+
+Bachelor of Technology Electronic and Communiation Engineering
+Jawaharlal Nehru Technolgial University -Anaciagur
+Paces

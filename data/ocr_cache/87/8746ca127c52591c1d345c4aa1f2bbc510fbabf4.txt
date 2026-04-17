@@ -1,0 +1,116 @@
+Jessica CLAIRE
+
+Montgomery Street, Sn Francisco, CA 94105 # (555) 432-1000 # resumesample example com
+
+EXECUTIVE PROFILE
+
+Credentialed, results-driven project management leader with 18 years of information technology experience within both infrastructure and
+application development domains. This includes experience as a Director, Program Manager, Project Manager, Portfolio Lead, and Business
+Analyst. Motivated leader and communicator who inspires by promoting trust, cohesion, and project engagement across all levels of
+stakeholders and executives. Reputation as a highly collaborative strategic partner focused on understanding client needs while bridging the gap
+between business and technology. Proven ability to thrive within environments of ambiguity while providing calm and steady leadership,
+‘Skilled mentor and mediator who excels a bringing out the best in team members.
+
+SKILL HIGHLIGHTS
++ PMP Certification ‘+ Organizational Change Management
+«+ Staff Recruiting, Hiring, and Training + Agile and Waterfall Methodologies
+
++ Program and Project Management + Enterprise Level Deployments
+
++ Strategic and Analytical Thinker + Business Case and Roadmap Planning
+‘+ Vendor Sourcing and Contract Management + Collaboration and Consensus Builder
+‘+ PMO Process Adoption and Standardization + System Development Lifecycle
+
++ Budgeting and Forecasting «Risk Management
+
+(Core ACCOMPLISHMENTS
+
+‘ Successfully increased Gallup engagement score from 4.00 to 4.78 over a three year period resulting in top quartile recognition from
+Nationwide's CIO Council members in 2015. Recognized as an influential people leader focused on creating highly motivated and engaged
+associates.
+
++ Program Manager over all phases of conceptual design, business case development, detailed design, construction, and IT
+infrastructure deployment for Nationwide's new Tier IV data center (S1SSM). Facility was successfully constructed and deployed over
+17 months and was delivered on time / within budget and received Gold LEED Certification by the U.S. Green Building Council
+
++ Received four One IT Community Outstanding Contribution Award project nomi
+projects were Top 10 finalists among 40+ nominations received across the enterprise.
+
+ions submitted by senior leadership. Two
+
++ Initiated and led the Protect Data In Transit Program including developing the business case and program strategy. Successfully
+negotiated with more than 40 business partners to utilize secure file transfer and virtual tape replication technology resulting in significant
+cost savings and elimination of tape media shipments across multiple locations.
+
+PROFESSIONAL EXPERIENCE
+
+Director, IT Program Management, 2013 - Current
+Fidelity Investments ~ Retsil, WA.
+
+Direct and supervise a team of 18 IT Project Managers ($50M portfolio) supporting Nationwide Direct Intemet Sales and Servicing, Digital,
+Specialty Insurance, Brokerage Solutions, and Affinity. Face off to 12 application teams and 6 business areas while providing project
+‘management stafing, methodology guidance, and portfolio management support.
+
+Optimized IT Delivery Executive curriculum across the PMO and facilitated training classes with application managers to help drive greater
+consistency of roles and responsibilities.
+
+-Led cross functional committee to deliver adoption of new risk management KPIs and project dashboard enhancements resulting in increased
+“visibility of process compliance and delivery constraints across the PMO.
+
+Facilitate and plan regular offsite meetings and workshops with direct reports resulting in increased associate engagement, thought leadership,
+and sharing of best practices.
+
+Sr: Consultant, IT Project Management, 05/2010 - 11/2012
+Egon Zehnder ~ Dallas, TX
+
+Directed and managed a 60+ member program team and six project managers (S40M budget) to support planning and execution of data center
+strategic vision, objectives, and project timelines. Led monthly steering committee meetings with senior executives and IT vendor partner to
+rive key decisions and showcase progress on multiple workstreams,
+
+Facilitated department meetings with more than 15 business leaders to communicate data center roadmap strategy resulting in securing critical
+support needed for migration planning.
+
+Inherited the Mainffame and Intemet Resiliency Program where scope and schedule were not adequately defined. Established an environment
+of collaboration, discipline, and trust between infrastructure and application teams resulting in successful delivery of the program.
+
+Consultant, IT Project Management, 01/2005 - 04/2010
+Nationwide Services Company — City, STATE
+
+Directed and managed 2 40+ member project team (SSM budget) over a two year period while delivering innovative mainframe storage
+replication infrastructure from Nationwide to SunGard. This project received the One IT Outstanding Contribution Award and reduced
+mainframe disaster recovery window to less than 12 hours.
+
+-Led cross functional technology teams and extemal vendor to successfully plan and deliver packaged solutions ($2.5M budget) for Network
+and End Point Data Loss Prevention (DLP) resulting in significant risk reduction tothe enterprise.
+
+Coached and mentored IRM and Nationwide Financial project managers to help enhance project delivery and improve reporting metrics across
+the portfolio.
+
+Systems and Programming Project Lead, 11/2000 - 2005,
+Nationwide Financial (iMedia) — City, STATE
+
+“Responsible for the initiation, planning, execution, and delivery of application development projects across multiple disciplines including
+Sales, Pensions, Data Warehouse, Web Hosting, and Directory Services
+
+Coordinated production support activities and directed a team of more than 10 programmers, technical leads, and systems analysts to facilitate
+timely research, prioritization, and resolution of production incidents.
+
+Partnered with Morningstar to implement new data feeds and successfully managed a 30+ member project team to implement Fund Evaluator
+and Variable Annuity research tools allowing producers to market and sell more business.
+
+Business Analyst , 04/1998 - 01/2000
+Great American Insurance Group — City, STATE
+
+“Utilized Oracle, Data Warehouse, and DB2 databases to support ad-hoc reporting for client audits, weekly and monthly reports, risk
+assessment, financial analysis, and special projects. This included developing and utilizing various department software tools within Agent
+Compensation,
+
+EDUCATION
+
+Bachelor of Science: Consumer Affairs
+‘The Ohio State University - Columbus, OH
+5-year member of The Ohio State University Marching Band
+
+TECHNICAL SKILLS
+
+Windows, Clarity, Workbench, MS Project, Visio, Word, Excel, Powerpoint, IBM Notes, Mindjet MindManager

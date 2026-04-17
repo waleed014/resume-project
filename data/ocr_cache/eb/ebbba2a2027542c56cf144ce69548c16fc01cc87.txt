@@ -1,0 +1,128 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Professional experience in Web Design and Developing User Interface using Technologies like HTML/HTMLS, CSS/CSS3, JavaScript,
+Bootstrap, JSON, AJAX, RESTful Services, Redux, GIT, SVN, React, Typescript, Webpack etc.
+
+Extensive experience with JavaScript design pattern, structured JavaScript development and S.0.L.LD principles.
+
+Used JavaScript DOM manipulation, DOM functions, DOM events, DOM collection, and JavaScript event to generate the data result in
+
+UL
+
+Proficient in developing Single Page Application (SPA) using JavaScript.
+
+Used React concepts like JSX (JavaScript Syntax Extension), components, state, and props.
+
+Experience in creating Custom Reusable React Components Library.
+
+Used Middleware, Redux in application to retrieve data from Back-End and to perform RESTFUL services.
+
+Experience in working with third party web services APIs and Web Services using AJAX for Dynamic form generation, Auto completion
+of forms, and user-validation functionalities.
+
+Comfortable using SASS. Implemented responsive web design using media queries and bootstrap.
+
+Good experience with Bootstrap Grid System and Media Query to make responsive webpages.
+
+Experience using the HTMLS toolset, adapting to browser compatibility issues, debugging, and troubleshooting existing code.
+
+Used Jest and Enzyme for mocking functions and writing unit tests.
+
+Good experience in using JUnit for testing, Git, SVN for Version Control.
+
+Experience with Agile engineering practices, Agile scrum, and Agile development methodologies. (Test driven development, continuous
+integration, and pair programming, etc.)
+
+Experience with CI/CD pipeline and DevOps processes.
+
+Semis
+
+* Software Development + REST
+
+© Programming
+Work History
+
+08/2021 to Current
+
+01/2020 to 05/2021
+
+03/2016 to 08/2019
+
+Epucation
+
+* React
+
+React Developer
+Cognizant Technology Solutions — Glen Allen, VA
+CVS is the country's biggest operator of health clinics, the largest dispenser of prescription drugs and the second-largest
+pharmacy-benefits manager. I worked with development team responsible for creating and maintaining ‘CVS specialty’
+website, which allows users to Refill their prescription, order prescriptions online, talk to a pharmacist and other
+services
+Roles and Responsibilities:
+
+Involved in the development of programming user interface design and front-end for the web application using
+HTML, CSS, JavaScript, ReactJs and Redux as the requirements.
+
+Developing and implementing responsive user interface components using React concepts and Reusable Libraries
+
+Extensively worked on ESS new features such as arrow functions, classes, iterators, and generators.
+
+Used Media Queries for the design to be compatible in all devices.
+
+Involved in writing application-level code to interact with APIs, Web Services using AJAX, JSON.
+
+Regular interaction of Restful API design calls to populate the UL on the app using get, put, post and delete.
+
+Using Git to pull and commit the developed content from/to the Git repository.
+
+Followed agile and scrum methodology for the development of the product
+
+Software Developer
+Pearson — Durham, NC
+L.Uis one of the fastest growing universities in Texas. I was a part of computer science department as Software
+developer. I worked as front-end developer for university's contact tracing project, in which users are notified if
+someone they have come in contact with has been tested positive for covid.
+Roles and Responsibilities:
+
+Implementing website features using Html, CSS, JavaScript, including DOM manipulation and ReactJs.
+
+Developed and implemented responsive user interface components using React concepts to develop reusable and
+scalable code.
+
+Called the Restful web services calls for POST, PUT, DELETE and GET methods.
+
+Implement and execute programming and testing related activities, following best pattems and practices according to
+guidance from colleagues
+
+‘Worked on Cross-Browser Compatibility and tested each & every web application on popular web browsers such as
+Internet Explorer, Firefox, Safari, Opera and Chrome.
+
+‘Used React HOC, Redux to develop user interface.
+
+Software Developer
+Perspecta Inc. — White Sands, NM
+Shivoham Infotech is a Digital Marketing company which provides complete solution for all areas of
+Human Resource management and Digital Marketing. It also provides Web designing, web maintenance
+And web hosting.
+Roles and Responsibilities:
+Involved in software coding, testing, and debugging for web presentation layer using HTML and CSS.
+Extensively used Git for version controlling and regularly pushed the code to GitHub.
+‘Understand how websites are built, and then using only JavaScript and CSS, add innovative visual, layout, and
+functionality enhancements to existing customer pages
+‘Worked with Jest and Enzyme to write unit tests for JavaScript and React code.
+Developed a strong understanding of HTML and CSS.
+
+05/2021
+
+04/2018
+
+Master of Science: Computer Science
+Lamar University
+
+Bachelor of Science: Computer Engineering
+C.U.Shah University - India

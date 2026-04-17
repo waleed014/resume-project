@@ -1,0 +1,88 @@
+JEROMY SCHNEIDER
+
+{88355 Daniel Mill, Los Angeles, CA + +1 (555) 469 3021
+
+‘WORK EXPERIENCE
+
+SENIOR DOT NET DEVELOPER 02/2016 - PRESENT
+Boston, MA
+
++ IBM File Net ECM platform development lead
+
++ Configuring IBM File Net ECM Platform
+
++ Configuring IBM File Net Content Navigator application
+
++ Configuring IBM File Net Content Analyties application
+‘+ Developing custom user interfaces and portals for IBM File Net Platform
+‘+ Working with other Development Leads to Develop system integrations to support Compliance Technology GCRM Platform Strategy
+
++ Developing comprehensive search and reporting capabilities for IBM File Net Platform
++ IBM File Net ECM platform development
+
+‘+ Developing custom java based web applications for IBM File Net Platform
+
+NET DEVELOPER 10/2012 - 09/2015
+Chicago, I
+
++ Experience with Service Oriented Architecture (SOA), design patterns and the development of SOA strategies
+
++ Experience with Visual Studio 2012 and higher
+
++ Visual Previous experience in developing enterprise level database using Microsoft SQL Server Enterprise 2012 or higher, Store
+
+Procedures, Views, and Triggers
+
++ Programming in C# and ASP
+
+‘+ Heavy data analysis including but not limited to
+
++ Validating transactional data between warehouse and source applications,
+
+‘+ Validating data between databases
+
+‘+ Identifying foreign key relationships
+
++ Identifying data
+
+INTERN .NET DEVELOPER (03/2007 - 07/2012
+Chicago, IL
+
+‘Configuration and Customization of IBM File Net ECM Platform, Content Navigator, and Content Analyties
+
+‘+ Relevant exempt experience + relevant BS/BA
+
+‘+ Relevant exempt experience + relevant MS
+
+‘+ Relevant exempt experience + relevant PhD.
+
+‘+ Ormore experience with C#, WCF Services, MVC 4.0 or higher, Ling, Entity Frame work
+
+‘+ Experience in developing enterprise level application.
+
++ Net development experience in C#, ASP.NET and WCF Services using NET 4.0/4.5 frameworks, MVC 4.0 or higher, Entity Framework
+
+5,0 or higher, LINQ, JQuery, JSON, AJAX
+
+EDUCATION
+
+MAHARISHI UNIVERSITY OF MANAGEMENT 2001 - 2006
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Havea strong consulting and customer satisfaction skills and strive to achieve established goals, objectives, and quality standards of the
+project
+
+‘+ Excellent skills in following Microsoft Technologies
+
++ Strong understanding and experience developing WCF services
+
+‘+ Prior experience leading team of developers
+
+‘+ Data modeling and OOAD skills
+
++ Strong technologist with 4+ years of hands-on experience in object orientated development using NET and Microsoft based
+technologies (C#, Winforms, WPF)
+
+‘+ Proven eExperience of database design and development using Microsoft SQL Server (T-SQL)

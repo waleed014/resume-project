@@ -1,0 +1,56 @@
+Name
+firstname lasiname@igmail.com + Phone Num
+
+Linked In Profile + Location
+
+Summary
+
+Mechanical Engineer with strong experience leading and working in multdiseiplinary teams to oversee the design
+and procurement of critical equipment in the petrochemical field. In my time at Current Company, Ihave delivered
+
+Over $4 milion in cost savings while improving projet schedule, safety, and system rib
+Experience
+
+Mechanical Engineer Program Lead June/2018~ Curent
+
+Large Petrochemical Company Location
+
+‘© Asan Associate Engincer, Mechanical Engineering Lead, and finally a Mechanical Program Lead,
+led a cross-functional eam of hardware engineers and worked with vendors to develop a scalable
+and modular system for Company's $220 Million Flare Gas Recovery Program,
+
+‘© This system design and program approach delivered over $3 million in cost savings while
+improving program schedule, safety reliability, operability, and operating costs.
+
+‘© Collaborated with project team and SMEs to develop a solution to condense 9 tyke of MCB vapor
+ina new plant using a small chiller. Overall, we reduced faring, eliminated $250k in vesse! jackets,
+nd kept tothe original project schedule by keeping the existing air permi
+
+‘© Working as the primary point of contact, built projet plan and managed the internal review and
+design process for rotating equipment, Received strong commendations for overall performance,
+
+‘© After analyzing our mechanical spee development work process, independently built set of spec
+tools in Excel using VBA that saves ~100 hours of work per user, per year, for department of 75,
+
+Research Assistant & Master's Thi May/2016 ~May/2018
+School Roboties Lab Location
+‘© Developed control system and built test bench for prototype robotic variable stiffness actuator using,
+MATLAB, Vicon, and C++. Published work in MDP Actuators journal and in Thesis,
+Senior Design Project Jani2016~ Dee 2016
+Local Feed Mill Location
+‘© Spearhcaded project to design, analyze and build a semi-automated sack closing conveyor system
+that reduced operating labor by 33%, doubled production speed, and cut operating costs by 20%.
+
+Production Enhancement Engineering Intern June 2015 ~ Aug 2015
+Large Oilfield Services Company Location
+
+‘© Designed 3 options for faster, safer and cheaper diverter agent drop system,
+
+‘Technical Skills
+General: VBA, Matlab, Basie C++, Microsoft Office Suite, Cura, Adept, Zyaad, Basie SAP, 3D Printing
+CADIFEA: SolidWorks, ANSYS Workbench (Structural, Fluent), ANSYS Aim
+
+Education
+Engineering University (ABET Accredited)
+Master of Science, Mechanical Engincering (Robotics and Controls Focus) 2016-2018,
+Bachelor of Science, Mechanical Engineering 2012-2016

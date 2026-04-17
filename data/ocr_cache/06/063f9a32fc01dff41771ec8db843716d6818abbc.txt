@@ -1,0 +1,87 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 2 (655) 432-1000 <4 resumesample@example.com
+
+Professional, Experienced User Interface and Web Applications developer, committed to maintaining cutting
+edge technical skills and up-to-date industry knowledge and motivated to drive projects from start to finish as
+part of a dynamic team
+
++ HTMLS, CSS3, JavaScript, AngularJS, jQuery,
+LESS, Ajax
+
++ Database design using PLISQL and SQL
+queries
+
++ Jinja, Freemarker
++ Linux OS scripting
+
++ Programming Languages: Java, PHP, Python
++ Excellent problem-solving abilities
+
++ Excellent communication skills
+
+HTML DEVELOPER 09/2014 to 08/2016
+Liberty University | Lynchburg, VA
+
+Developed and maintained emails for client - Google Express. Worked with templating languages (Jinja and
+Freemarker) and JavaScript to write code to get the data from the server and display it depending on the
+regions associated with each email. Responsible for maintaining and updating SQL database and image
+server,
+
+Created Google sites for any upcoming announcements. Used JavaScript for displaying the input fields (along
+with AJAX) and updating the database
+
+Responsibilities
+
+‘+ Create emails using JavaScript, jQuery, HTML, CSS, LESS, Jinja and Freemarker
+
++ Create G Sites (Google Sites) and keep the information displaying from the database up to date
+
++ Check for proper rendering on various platforms including mobile and desktop
+
++ Check for rendering using Litmus on various email clients
+
++ Coordinated with project managers to finalize design and confirm requirements and propose new ideas
+for efficient coding
+
+‘+ Provided continued maintenance and fixing bugs
+
++ Trained new employees and provide support
+
+Environment: JavaScript, jQuery, HTML, CSS, LESS, JINJA, Freemarker, Litmus
+
+PROGRAMMER ANALYST 07/2011 to 08/2014
+Gwynedd-Mercy College | Gwynedd Valley
+
+Diamond Resorts International is a hospitality company with resorts in over 33 countries. Their objective is to
+provide best vacation service which is made possible by their skilled and hardworking employees. | was a part
+of such a team where | worked on projects to develop web applications for Diamond Resorts international
+applying knowledge in HTMLS, CSS3, JavaScript, AngularJS, AJAX, JSON, jQuery, and PL/SQL.
+
+Responsibilities
+
++ Responsible for the development, implementation and support front desk applications.
+
++ Designed web applications using HTMLS, CSS3, JavaScript, AngularJS, AJAX, and JSON integrating
+Oracle PLISQL.
+
++ Designed logos using Adobe photo shop as a team.
+
+‘+ Made use of JavaScript technology and Angular JS to design ads.
+
++ Designed an application implementing web socket in addition with Oracle technologies to enhance the
+communication amongst company employees providing a Facebook style notification application.
+
+Environment - HTMLS, CSS3, JavaScript, AJAX, JSON, Angular JS, PL/SQL
+
+Information Technology and Management | IT and Management
+Ilinois Institute of Technology, Chicago, IL

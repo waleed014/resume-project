@@ -1,0 +1,73 @@
+RISHABH SABARWAL
+Oracle Database Administrator
+Phone: 84672902383
+
+Email: sabarwal1 trish@gmail.com
+Linkedin Profile: linkedin.com/in/rishabh-sabarwal-
+‘Address: 50/56,Kailash Colony, Sonipat
+
+‘An accomplished Oracle Database Administrator with strong hold over various aspects of database architecture, backup & recovery,
+cloning, installation, creation, and configuration of Oracle Database. Seeking a full time position in order to utilize experience and training
+that includes database maintenance.
+
+EDUCATION
+
+2018 Diploma in Oracle Database Administration » Banarsi Das Institute
+2017 BCA » Trinity College
+
+2014 Higher Secondary + Salwan Public Schoo!
+
+EXPERIENCE / INTERNSHIP
+Oct 2018 - Mar 2019 Intern > Milostones Pvt. Ltd.
+
+* Supported seniors in maintaining 30+ Oracle databases and upgraded the 9i databases to 10g including
+data guard.
+
+= Performed database cloning and re-location activities and assisted in upgrading the Database from lower
+version to higher version.
+
+= Helped in managing table spaces, data files, redo logs, tables and its segments.
+
+* Assisted in installation of Oracle software and patches to tune SQL statement against database and its
+objects.
+
+PROJECTS
+
+Web Application on Car Store System
+
+= Created web-based application using Java and MySQL for an online car store system that included the
+customers to search for cars and order online and manage their online bookings.
+
+* The website allowed a customer to search for cars available at the store, price and model, and customers
+could book the car online and select the date they would visit the store
+
+= Created and designed a fully functional website which includes Data Management using databases such
+as MySQL
+
+PROFESSIONAL ENHANCEMENTS
+
+Technical Proficiency
+
+= Databases: Oracle 7/8/9 (RAC/OPS), MS-SQL
+
+* Operating Systems: Windows 2000/2003/NT/XP, UNIX, Linux
+* Applications: SQL-Loader, SQL Navigator, Forte for Java
+
+= Languages: Java, XML, HTML, C, C++, NET, ASAP.NET
+
+Courses
+= Completed 100 days course of Linux (RedHat & Oracle) from BS Institute of Technology.
+SKILLS ( TECHNOLOGY / FUNCTIONAL )
+
+PL/SQL Internals | SQL Tuning expertise | Backup and Recovery | Database Administration | Team Coordination
+EXTRA-MURAL ENGAGEMENTS
+
+Positions of Responsibility
+
+* Coordinator of Techno Sapiens event held at University.
++ Team member of the Tech team handling college website.
+
+Volunteering
+
+= Volunteered for awareness programme on Earth Day in 2016
+= Volunteered for Tameer Artivists in 2015.

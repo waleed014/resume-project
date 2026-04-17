@@ -1,0 +1,142 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 -resumesample@example com
+
+PROFESSIONAL SUMMARY
+
+‘+ Tam passionate about working with data and would like to apply my experience as a Data Analyst & Database developer to derive
+valuable insights
+
+‘+ Client focused Technical Data Analyst cum Database Developer with more than 5 1/2 years designing and development associated to
+Database/Data warehouse and BI applications, achieving high client satisfaction
+
+‘+ Excellent understanding of Data Warehouse, SQL concepts and ETL concepts. Proven background improving process quality, providing
+system automation recommendations and strategies to manage solutions and data efficiently
+
++ Strong knowledge in Agile Methodology of project implementation. Good interpersonal skills;
+
+++ Tam result passionate and have the curiosity and zeal to lear new technologies and take on new challenging tasks,
+
+‘+ Team Dynamics, collaboration and model of learning and sharing that aids overall team development.
+
+«Strong team player and proven ability to perform multiple roles.
+
+‘+ Was involved in various phases such as Requirements Gathering, Software development, unit & integration testing, final deployment
+preparation, Go-Live phase involving hand over and post implementation support.
+
+Sxnis
+‘+ Data Analysis, Data Warehousing, Data Solutions + Proven Analytic skills
+‘= BI Application development. SAP Applications. Agile, ‘+ Excellent problem-solving abilities
++ SQL, ETL, and Reporting + Excellent diagnostic skills
+
+‘= Database: SQL Server2005/2008 R2, Oracle 10g, Oracle 11g;
+
+‘+ Reporting: Vendavo 8.1,SSRS 2008 R2, Business Objects. +
+
+++ Programming Languages: C++, C, UNIX Scripting, Python -
+basics,
+
+‘+ ETL: IBM Infosphere Data Stage V8.1-8.7, MS SSIS 2008,
+
+++ Database designTechnical specifications creation
+
+Work History
+
+08/2011 to 03/2013 ETL Developer
+Abt Associates — Rockville
+
+‘+ De-beers | ETL Developer and Reporting Dec 2011 to April 2013 Forevermatk, Data Archiving Management —
+FDI Project aimed to conceptualize and develop several ETL packages and reports using the Microsoft Business
+Intelligence Suite.
+
+‘+ Key responsibilities included:
+
+++ Data Warehousing, project scoping, requirement gathering, analysis, effort estimation, ETL design, development,
+testing, implementation and production support.
+
+‘+ Handled the full life cycle of Integration and Reporting Services from Development to Deployment of Scripts,
+Packages and Reports,
+
+‘+ Responsible for Design, development and Implementation of Master and Child packages and job sequencing
+methodology.
+
+‘+ Database Backup, Schedules, Linked Servers and Restoration of Database. « Predominantly worked on the ETL
+tool and Database - SQL scripts, queries, designs, stored procedures and functions
+
+‘+ Responsible to develop and implement complex workflow and mappings in ETL Packages.
+
+‘+ UNIX Shell Scripting.
+
+‘+ Involved in direct interaction with Customer for production support and requirements gathering for enhancements.
+
+‘+ Enhancement of Reports using Report Designer, BI - Development Studio, SSRS R2.
+
++= Proposed technical feasibility solutions for new functional designs and suggested options for performance
+‘improvement of technical objects.
+
+(04/2013 to Current Technical Data Analyst and Database Developer
+‘Chevron Corporation (through Vendor L&T Infotech) - City
+‘Summary: I develop interfaces and perform data analysis to help the Business to make better pricing decisions thereby
+to increase the company’s revenue at a Global level
+‘+ Worked through this Project as a Data Lead for two successful yearly releases that were delivered ina timely
+‘manner without compromise on quality.
+‘+ Known to have established a strong relationship not just within the team but also across 5 other teams across the
+organization through collaboration
+«+ Part of the special core project team - Involved in Project Planning, Requirement Analysis and Design discussions
+with the Business that primarily drives the direction of the project.
+‘The following are some of the key activities/dutis that I get involved for the Project:-
+‘+ Build and maintain SQL scripts, indexes, and complex queries for data analysis and extraction,
+++ Planning, design, and implement application database code objects, such as transformation Stored
+Procedures(Adhering to best practices and standards)
+‘+ Manage the project schema in our data warehouse used by our pricing application Perform extensive data analysis
+across multiple systems to uncover data issues and drive changes for resolution.
+‘+ Collaborate withthe Solution Consultants and Business Analysts to help the Business to identify their needs and
+discuss solution options.
+‘+ Focus on analysis and problem solving related activities by dealing with different types of data and the
+relationships among data elements within the application (Dashboards).
+‘+ Draft and prepare standard and/or ad-hoc reports by coordinating with clients to determine their research needs
+‘+ Release coordinator - Database related deployment activity associated with our application Load Active Deal Load
+files through the User interface and also provide analysis on the load statistics.
+‘+ The Primary contact and responsible forthe Data used in the Pricing Application
+‘+ Established compatibility with third party software products by developing program for modification and
+integration.
+‘+ Coordinated with systems partners to finalize designs and confirm requirements
+‘+ Consistently met deadlines and requirements for all production work orders.
+'* Supervised and provided direction for six technical diect reports regarding database activities,
+++ Trained junior and senior members of IT team regarding Project Process, data work flow and database related
+
+activites.
+‘+ Independently worked in creating and managing the Project Schema that transforms/manipulates the data for the
+Pricing Application.
+Epvcarion
+2011 Bachelors of Engineering: Electronics and Communication
+Anna University - India - Chennai
+AccomprisuMeNts
+
+‘+ Analysis and Development
+Resolved core issues through the changes inthe transformation, data house-holding processes and daily round-trip database
+synchronization. Set new standards having over 98% data accuracy.
+
+++ Performance Management
+Successfully deployed complex end-to-end business intelligence solutions that delivered business value to functional organizations.
+Facilitated effective working relationships between client, partners and project teams throughout project lifecycles.
+
+'* Problem Resolution
+Responsible for support and development of Project Production. Served as advocate for end-users, performing tests and problem analysis,
+for the Data used in Project application,
+
+‘+ Process Improvement
+CCollaborated with IT Operations teams to ensure smooth work flow and efficient projec operations
+
+(Certiricarions
+
+‘+ Microsoft Certified Technology Specialist - SQL Server 2008.
+
+‘+ IBM Centified Solution Developer ~ Info sphere Data stage V8.5 (IBM).
+
++ Oracle Certified SQL - Oracle Database 11g,
+
++ Certified - Chinese for Beginners ~ Peking University (Coursera)
+
+‘+ Dipléme d'études en langue frangaise (DELF - International French proficiency test),

@@ -1,0 +1,129 @@
+MICHAEL BUTLER
+
+\ +1-209-838-9002 @ michaelbutler!@gmall.com % linkedin.com/in/_michaetbutler_ Seattle, WA
+
+EXPERIENCE
+
+Project Electrical Engineer
+Bouchard 2015- Ongoing Seattle, WA
+
+Bouchard is an engineering services company. The company provides
+
+design, engineering, manufacture, maintenance and project
+management services to the government-owned facilities,
+
+* Prepared and fully implemented Building Management Systems for
+
+over 30 large private and industrial contractors
+
+* Provided 80% of technical data on electrical design requirements of
+
+existing and new projects
++ Completed / handed over of 9 commercial and residential projects
+* Trained 5 electricians to join the team
+
+Electrical Engineer & Site Supervisor
+
+LednerGroup 2014-2015 Seattle, WA
+
++ | perfected an engine test that reduced engine pulls in final assembly
+
+by 50%
++ Reduced electrical car-dumper breakdown in 27%
+* Involved in the production of 1100 Hawkei vehicies
+
+* Assigned in Elektrotechnik Handling Technology department during a
+
+6 months internship
+
+Electrical Engineer
+Padberg 2010-2014 Seattle, WA
+
++ Nano satellite design, implementation, test and mission execution for
+
+7+ executed missions
+
+* Implemented embedded Ubuntu on dual core ARM AS
+
++ Developed Linux scripts and C code (12C for PWM motor control)
+
++ Developed code for 16-bit RISC processor focusing an system
+reliability and low power operation
+
+Project Electrical Engineer
+Harvey 2008-2010 Seattle, wa
+
++ Managed the installation of an instrumentation and automation system
+
+for a 2000-ton HVAC plant
+
+* Compression and Pipeline based in Charlie Lake (2014-2015) and
+Savona
+
+Electrical Engineer
+
+Harvey 2006-2008 Seattie, WA
+
+Harvey is a construction and industrial assembly company in
+petrochemicals and power generation.
+
+* Achieved batch control process automation with S7-300 PLC
+
++ Commissioned more than 300MW of solar power in 3 different
+continents
+
++ Project Manager at Petrobras unit FAFEN for expansion of the
+compressed air system (US$ 12 Million)
+
+wwwenhanev.cam
+
+EDUCATION
+
+Bachelor of Electrical
+Engineering
+
+Seattle Pacific University
+
+2004 2010
+
+MosT PROUD MOMENTS
+
+© Market leader
+From 2010 to 2014 the hSystem has been the
+most sold control system for aluminum mill in
+China despite we were facing far bigger
+competitor.
+
+Q Innovation
+
+Introduced some new technology in my
+current company such as a remote assistance
+system, virtualisation and a source code
+control
+
+4% Fastimplementation
+
+From November 2014 to April 2015 my team and
+| were able to commission and get the
+acceptance for 4 systems in less than 6 month
+saving 15 % of the man-day forecast.
+
+SKILLS
+
+Software
+
+Python C++ —_Visual Studio
+
+Data Acquisition PLC Ladder Lox
+Excel Tool Development VMware
+Hardware
+
+Electrical Circuits Oscilloscope
+
+‘Schematic Entry Digital Multimeter
+
+Microcontrollers PCB Layout
+
+Ethernet IP
+
+Poweresty CX) Enhancu

@@ -1,0 +1,72 @@
+Renato Dietrich
+
+81118 Cummings Inlet, Houston, TX
+
+PHONE
++1 (555) 609 1782
+
+EXPERIENCE
+
+Emard-Aufderhar
+Houston, TX // Director of Data Science // 11/2018 — present
+
+Experience in building and growing teams and providing
+mentorship to junior team members
+
+Familiar with physiological data from wearables devices,
+data from cognitive and behavioral assessments, and
+medical data from Electronic Medical Record data (i.e.,
+chronic pain, aging and Alzheimer's disease, heart failure,
+addiction)
+
+Knowledge of open-source tools such as Elasticsearch,
+Kibana
+
+Experience in the analysis of both structured and
+unstructured data
+
+Strong relational database skills - SQL, stored procedure
+development and a knowledge of database development
+
+Witting, Lesch and Kiehn
+Houston, TX // Data Science // 01/2013 — 08/2018
+
+Leveraging and sharing the latest machine and deep
+learning techniques to challenge the current practices
+across the business units
+
+Developing and implementing our Innovation Program
+for New Technologies across our Business Units
+Enhancing and maintaining our communication channels
+for New Technologies
+
+Researching for new technologies for business solutions
+Developing the Citizen Data Science program content to
+train & mentor our subject matter experts
+
+EDUCATION
+
+Columbus College of Art and Design
+
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Familiarity with machine learning fundamentals
+(clustering, regression, etc)
+
+¢ Undergraduate or graduate in an Engineering,
+Mathematics, Physics, or Computer Science
+
+¢ Experience managing a Data Science Team
+
+e A teacher of technology and business in a team setting
+
+¢ Serve as an expert throughout the full DS product
+lifecycle, from inception to delivery and ongoing
+monitoring
+
+¢ Advanced level understanding of machine learning
+fundamentals and model development principles
+(Generalization, Bias-Variance Tradeoff, GLMs, NLMs,
+etc.)

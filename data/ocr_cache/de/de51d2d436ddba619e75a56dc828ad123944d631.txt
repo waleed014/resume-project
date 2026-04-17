@@ -1,0 +1,109 @@
+First Last
+
+DevOps Engineer
+
+DevOps Engineer with five years of experience finding solutions and determining
+customer satisfaction. Adept in developing products for web design, user experience,
+and best practices and speed.
+
+EXPERIENCE
+
+Resume Worded, New York, NY
+
+DevOps Engineer
+
+January 2020 - Present
+
+e Spearheaded hardware upgrades reducing power and rack utilization by
+65%.
+
+e Implemented Virtualization using OpenVZ/KVM reducing Physical Nodes
+from 60 to 6.
+
+e Migrated data center of full hardware within 25 minutes. Data capture loss
+>1.5%.
+
+e Implemented cost savings to company of over $3M.
+
+Growthsi, Remote
+
+Lead Software Engineer
+
+July 2016 - January 2020
+
+e Re-architected 5+ web applications from Code Ignitor to Zend Framework,
+resulting in a 35% reduction of lines of code.
+
+e Managed infrastructure and systems during company growth from 30-65
+employees.
+
+e Designed a centralized “Reporting” server for distributed storage of
+normalized data for 50 MySQL/Hadoop servers.
+
+Resume Worded, Boston, MA
+
+Web Systems Administrator
+
+January 2012 - June 2016
+
+e Resolved invoice/SOW conflicts which saved $20K on vendor costs.
+
+e Developed a team of five with ITS that smoothed communication bumps,
+which resulted in a 45% efficiency increase in image deployment, security,
+and storage pricing strategies.
+
+e Trained 3 new employees to complete new web projects which was
+completed 3 times faster than the projected time.
+
+San Francisco, CA 12345
++1 234 567-890
+first.last@resumeworded.com
+
+linkedin.com/in/resumeworded
+
+SKILLS
+
+Web Development Projects
+Software Best Practices
+Website Optimization
+Zend Framework
+OpenVZ/KVM
+
+Scrum
+
+Hadoop
+
+SQL
+
+Continuous Delivery
+
+EDUCATION
+
+Resume Worded
+University
+
+Bachelor of Engineering,
+Major in Computer Science
+
+New York, NY
+
+e Awards: Resume Worded
+Software Engineer Fellow
+(only 5 awarded to class),
+Dean’s List 2012 (Top
+10%), Graduated Magna
+Cum Laude
+
+e Completed one-year
+
+study abroad with
+Singapore University
+
+OTHER
+
+e Volunteer 20
+hours/month at the ABC
+foundation, leading
+software projects
+
+e PMP-certified (2020)

@@ -1,0 +1,105 @@
+Robert Smith
+
+Senior Java Developer
+
+PERSONAL STATEMENT
+Senior Java Developer with over 10 years of IT experience in Design,
+Development, Testing, and Maintenance of various distributed and Web
+‘applications Including r-Uer, MVC architecture, and User interface using
+BEE and Web technologies, Worked with java, Servlets, /SP, JDBC, JNDI,
+XML, JavaScript, CSS and Apache Struts framework. Extensively worked on
+Web Sphere, Oracle, and Apache Tomcat Application servers with IDE
+Eclipse, IBM Web Sphere Studio Application Developer.
+
+WORK EXPERIENCE
+
+Senior Java Developer
+Bank Of America - October 2014 - Present
+responsibilities:
+
++ Java lead responsible for the handling of server-side business
+components, coding, UML design and cornpleting the enhancement
+lMecycle for the wark product
+
++ Completed mainframe integration testing by connecting MQ from the
+local machine,
+
++ Developed mask table structures based on mainframe transaction Input
+‘and output data structure.
+
++ Implemented spring web services to fetch the data from mainfrarne IMS
+transactions,
+
++ Implemented two new Ul screens (backorder and supplemental back
+order report) using angular js and bootstrap.
+
++ Extensively used hibernate In data access layer to access and update
+Information in the database,
+
+‘+ Worked in offshore development portal project to set up the processes
+‘and flow in a project using Java technologies,
+
+Senior Java Developer
+‘ABC Corp - 2008 - 2014
+Re sponsibilties:
+
++ Developed cost-effective Information technology solutions by creating
+haw or modifying existing software applications that are moderately
+complex
+
++ Analyzed and validated moderately complex system requirements and
+existing business processes and information systems.
+
++ Developed and implemented new programms andjor modifications of
+existing applications
+
++ Responsible for the design, prototyping and other methodologies for
+new andor existing systems including the development of test plans
+‘and program specifications with rainimal interfaces.
+
++ Coded, tested, debugged, documented, and implemented the
+moderately complex software applications according to standards.
+
+* Developed specif cations and programs moderately complex technical
+‘modules, applications, prototypes and computer prograrns
+
+* Performed all aspects af applications programming and development
+
+(Ths Ee Resume Temlate the conynght of Quikresune cor. Usage Gustine,
+
+CONTACT DETAILS
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+Infow@awikresure,com
+wwqwikresume.com
+
+SKILLS
+
+‘Agile, Test Driven
+Development, Iterative,
+Scrum, Prototype,
+‘Though Works Typical
+Product Method.J2EE
+‘Technologies Serviets,
+JSP, String Templates
+
+LANGUAGES
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Coking
+Reading
+
+REFERENCES
+
+Reference - 1 (Compary
+Name)
+Reference - 2 (Company
+Name)

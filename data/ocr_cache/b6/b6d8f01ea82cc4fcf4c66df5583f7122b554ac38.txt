@@ -1,0 +1,57 @@
+Kevin Michael
+
+SOFTWARE TESTER
+
+BB info@resumekraftcom  [ 202-555-0120 9 Chicago, Illinois, US in linkedin.com/resumekraft
+
+SUMMARY
+
+Having total experience of 7.8 years in IT . Currently working as Sr. QA Engineer. Started as manual tester and
+now working as an automation engineer having Strong interest in coding and exploring different automation
+tools. Currently working in IAAS domain with Indecomm Digital since November 2018.
+
+SKILLS
+
+Automation Testing (Ul) > eee0e Design Pattern: Page Object @@@@
+Selenium Webdriver , Model (POM)
+
+Protractor Manual Testing e@ee0e
+BDD Tool : Cucumber eee0e8 Mobile App Testing eeee
+TestNG eee API Automation : RestAssured @ @
+
+Core Java e@ee008
+
+EXPERIENCE
+
+Sr QA Engineer
+Indecomm Digital Services Nov 2018 - Present
+© Working in an Agile scrum where ini am responsible for testing the new build.
+® Basically running smoke & regression suite.
+Creating test case to cover the new feature testing.
+| am involved in portal testing & mobile application testing.
+Creating automation script using Rest-Assured library for API testing.
+Responsible for sending consolidated weekly report.
+Used Bitbucket for version control of the test automation framework
+Used build tool as Maven
+Cucumber framwork as BDD tool
+
+Test Analyst
+Infosys Technologies Apr 2016 - Nov 2018
+© | was working in Agile scrum where in i was responsible for creating automation script using Selenium
+Web-Driver .
+Identifying test cases which can be automated and adding those script to regression suite.
+Creating manual test cases in JIRA
+Responsible for sending consolidated weekly and daily report.
+Used Bitbucket for version control of the test automation framework
+Used build tool as Maven
+Cucumber framwork as BDD tool
+
+Software Test Engineer
+
+Anspro Technologies Jun 2014 - Mar 2016
+© Worked as an automation engineer and identified the manual test cases which qualifies for automation.
+e Used Selenium webdriver for Ul automation.
+
+Application Engineer
+IdeaPlunge Solutions LLP May 2013- May 2014
+© Worked as an UI developer to create customized screens for front end.

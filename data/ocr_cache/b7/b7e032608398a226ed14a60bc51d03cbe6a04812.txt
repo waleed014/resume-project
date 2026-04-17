@@ -1,0 +1,228 @@
+SUMMARY ©
+
+snes 6
+
+[EXPERIENCE
+
+HONOURS AND. ¢
+ismNcnON
+
+EXTRA-CURRICULAR ¢
+‘AcTMITIEs
+
+(WEBSITE AND LINKS
+
+Jessica Claire
+
+© Montgomery Steet. San Francsco,CA 94105. & (555) 482-1000 4 resumesample@example com
+
++ over years of experience serving as a Key contrbuor across al sofware development te
+{jl phasesncusing ants, arenectural desig, prototyping, development, ana testing of
+application using Jaall2E tennotogies in varus domains
+
++ Very good understanang of Object Onentes Programing Data Stucture, Algrthns, Design Patterns
+and Ostmeutea Systems.
+
++ Excetent wontng erpenence im bacend development using dterent Spring modules ke Spring Core
+Container Module, ACP MVC, Securify Data, Transacton Management et.
+
++ Expenencedin developing Mcroserices wt Spng Bot. Sing REST. Spring Cloud, ee.
+
++ exensve experience in developing Wed iteaces Using HTULS, CSS, Bootsvap, SASS, LESS,
+Javascript aver. Angulads. ReacS and Backbone/S
+
++ Expenencedin odeng wth SOL databases ie MySQL, PostgreSQL, Oracle and nave some
+knowledge of NoSOL databases tke Mongo08,
+
++ Experts working n Age metnodciogy envionment ke Scrum.
+
++ experenceain wodong wh Version Cento! Tol ke SVN ana Gt
+
++ expenencean perioming automaton ung Selenium, Java and performing Genavival ven esting
+sng Cucumber
+
++ Expenenced in but too ke Ant, Maven, Gradle and using hem wth continuous Ilegraton tok ke
+
+‘+ Aproacveteamer wih exceptonal anaytcal design and problem-solving capabities
+
++ Exetent communcatlon sks including formal presentations and tecnica documentation
+
+{rogue m both eam based and set.managed projets
+
++ Programming Languages: aai2EE, JavaScript Andtod, HTML, CSS, SAL, ©, ¢
+
+{+ rametoris ana Ure: Spang, Restu.Wed Series, Hbemate, Angus, Reals, QUeN,
+Bootstrap, Selenium venOner Cucumber
+
+Databases: Mya. PsigreSaL. Oral, MongoO8, H2
+
+‘ul Tos Grae. Maven, Ant
+
+races: Aglsserum, Valea, TDD, Clean Coding, Contos Oetvery
+
+‘Achtectures Mleroserces, Single Page Appcaton, REST, ClenlSenet
+
+Version Cont SV Gt
+
+(loud Apptcaton Platoon: AWS
+
+‘Otters: Bower, Grunt, Npm, Node, SON, XML, Jenkins
+
+I0E Ease, net, nro Studio
+
+(Operating Stems: Ln Windows
+
+INFORMATION TECHNOLOGY INTERN (TEST AUTOMATION ENGINEER) 052017 90872017,
+‘Zoom | Phoenix, AZ
+
++ creates nce baked Test Automaton Framework to provide an execton environment othe
+automaton et scp. The amework aloned aviomated pression testing of WebT. rontendved
+Intertace na treme Tacs Teketing Soluton Company) eens use o access web services
+
++ Extensively used Selenium WebOrver and Spring Bot combined owe automation serps fr
+<ynamic pages of WebT wien on AngulrlS Framework Moduaraed web components a 1a
+‘objects folowing Page Chject Mode! cested Object repost fo allocator whic can be easly
+automates
+
++ Leveraged tne tenets ot ot data ven and benaver-onven approaches ana bul he tamework
+thats mantanable and reusable negated automated tests wn Cucumber (Dehavr-ven esting
+framework to alow Quay Assurance eam wre ghlevel ue cases n pan tex
+
++ Leveraged dentin to buld automated tests project and use Selenum Grd torn paral tess across
+rulipe browsers ana patos. Automated reports generation and dstbubon,
+
++ lmerpretes ana converted manual tes cases ite automaton smoke and egresson suites,
+
+‘+ Tranes and supported tne QA team win automaton ramevork and snot sues
+
++ Cotaboratea win tne A team and went ivough an evolionary approach in wring concise
+lcimentatn onep configure he ramen and ad new automates tess 35 requires
+
++ ores on JR toot create and tack new projectssue
+
+YEA FULL STACK DEVELOPER os20re10 082016
+Internet Brands, ine. | Berkeley, CA, Nepal
+
++ ores on varied aspects of apptcation development incusing requirement anatss, design,
+Implementation, and testng
+
++ Coded and debugged muttered Jav0-based appatons fo prove enterprise ana embeded
+sutens using Java an Spring tramenork API tke MVC, ACP DAO, JOBC, Transaction, Vakéaon,
+Annotation JSON, XL, Maven ana Unt Test.
+
++ Involved in mpementaton of applets using conventional design pracies (SOA Serie Oninted
+rentectire)
+
++ Developed datanase acces layers using Spring Data JPA and bern
+
+{Developed REST web sencs for extemal aplication ntegraton,
+
++ Devetped a Java-based SOK and aver sofare fr malig the cra reader, PUA-STOV.ONQU2YE 10
+work on unr envenment
+
++ Od extensive research on smart cara tecnology (NEC, tare, DESFre ee.) or poets ke VMS
+(stor Management stem) and SCBTIMS (Smart Cara Based Teles infomation Management
+System,
+
++ as responsate or wing core sofware lg for MS (Queve Management System) in 810,
+developing plug arentecture and implementing RS42S, TCP & HTTP channels as plugins fr
+Interfacing MS nararare devices
+
++ Worked as a development coorinator for projets ke VMS (Visors Management System), CMS
+(Queve ianagement stem), SCBTIS (Smart Cara Bases Trekkers ntormaton Management
+system,
+
++ Wore wn J, JSP HTML, CSS, Bootstrap, AnguIXS and React to design and develop interactive
+ser iteaces ana Hl urn Macineinterace) for rea tme data mntoang and ineracons.
+
++ Bum mutiple mobi aptcatons (Ando and 10S) for ea tne montonng of nyaoogc parameters
+and alert alssemnaton dung toods and lca ake oubut ks.
+
++ Gane experience in mutate noble appcabon development technologies tke PhoneGap and
+‘anu
+
++ Fed bugs and inplementea improvement features using Java and J2EE on age scale projects
+through reviews of codes an test cases analysis of change requests and enhancements, vesting
+aternatecontguratons and mplenentng beter soltons.
+
++ Leveraged an array oF ons to optnaeefcency, Including OpeAERP or projec management, ior
+‘soure contol ana versioning, sophistcatedIDEs such as ned ana many oer.
+
++ as responsale or cent interacts and nanding techncl aspects in a sles pach
+
+Brunswick Corp. Norfolk, VA
+
++ Gore Java programing win Muttveasng Exception Handing, Fle Handing 10, Generis, and ava
+Cotectons
+
++ Devetoped tne entre MRP (actine Readable Passport) Reading Meduie both backend an rontend
+by uttang Java 1.7 ana ava Sung
+
++ Used JOBC for aatabase connecbty to SAL Sener
+
++ Imvoted in backend development and opting he search engine for Nepal Tousm Board (TB)
+webste
+
++ Involved in bg fang code enhancements, and maintenance ates.
+
++ Prepares test plans for unt esing and implemented test cases sing JUnit
+
+[SCO TWARE DEVELOPER INTERN o1r01310 102013,
+RealTime Solutions Pv. Lis | hy, STATE
+
++ Designed and developed apptcatons using Serum, an teratve and incremental Age Sotare
+Development metnosoogy
+
+Perermed back-end development using PHP (Codelgnter NC Framework)
+
+‘Developed Cu ie system majony based on PHP ana MYSQL.
+
+‘ura te-raver ap in Codelgnter or sorting and removing cupiates and redundant ls.
+
+‘Creates data ent foms HTL embeaaed wih PHP.
+
+‘Traned in eect tang agle metnodoioges ana Obyect Onented Programming races,
+
+Hainainea projet documentation
+
+‘Traps in utang version control system tke Gt and managing projet Unene by use of OpenERP. 3
+
+camprenensve sue of business appleatons
+
++ Responstie for wing User and Adminator Modes of PHP MySQL. applications as per thetectnat
+speccabns
+
++ Response for mplementing and hosting of protcype systems on et serves.
+
+‘ended seminars and workshops about SAL (Stctuea Guery Language) and Database Design
+
+Master of Science | Computer Science zor
+Lamar University, Beaumont, Texas
+
+Béchelor of Engineering Electronics and Comuncaton Engneenng 2019
+‘Tibhuvan University, Kathmandu, COR
+
++ anne of National Robotes Competton, "Yantra organed by Robots Associaton ot Nepal
+(ay dy 2012
++ Outstanding stent Avard, Lamar Unversity: Fall 2017
+
++ Resoutce Manage in Rebotes Cb, Kanandy Engineering Cotege, TADhuvan Unvesty (2019 -
+2019)
+
++ Twice ne winerotNaonal Robobes Competition organaes by Robots Associaton of Nepal RAN)
+
++ Conducted ana mentored erocntoter Workshop (13th January 2013), and‘Creut Syathests
+“rain Program (14 Jne 2013) Katmandu Engineering Cofege
+
++ Presentea seas ana project based on Androl contoted retin Locus 2013, Annual Techoagcl
+Festva. Nepal
+
++ Gave a presentation o Nepal Amy Cub on he appcaton of robots in safety and secunty (urn
+“ech Emon 2012)
+
++ TWeasurer and Event Organizer in Nepalese Student Associaton (NSA) at Lamar Untersty (2016
+2017)
+
++ Wepate wanJesseaciae com
++ Unkeatn: wwe commnessiaciare
++ G1tivo wngtnub comiessiaciare

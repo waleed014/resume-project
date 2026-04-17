@@ -1,0 +1,141 @@
+Travis Hernandez
+Junior DevOps Engineer
+
+\ +1-583-849-9179
+9 San Fransisco, CA
+
+@ travis.hernandez@gmail.com
+
+SUMMARY
+
+Junior DevOps Engineer with strong knowledge in Java, JS and
+Python. Well-acquainted with databases and cloud services as well
+as Docket and Kubernetes. Currently maintaining a 40-node
+ElasticSearch cluster that collects 1 billion documents daily.
+
+EDUCATION
+
+B.S. Computer Science GPA
+UC Berkeley
+9 2012-2018 9 Berkeley, CA
+
+EXPERIENCE
+
+Junior DevOps Engineer
+
+Dufour
+
+9 2019-Ongoing @ San Fransisco, CA
+
+Dufour is an American software company that develops financial and tax
+
+preparation software and related services for small businesses, accountants
+
+and individuals.
+
++ Maintaining a 40-node ElasticSearch cluster that collects 1 billion
+documents dally
+
++ Contributed in setting up monitoring and reports for all of our clients - 40,
+servers
+
++ Launched a company-wide digitized fling system that led to an increase in
+efficiency for all departments by 20% on average
+
++ Setting up the GI/CD pipeline using Jenkins and GitHub,
+
+Middleware Administrator
+
+Heller
+
+ff 2016-2013 @ San Fransisco, CA
+
+Heller is the personal, small business and commercial banking operation of the
+
+Toronto-Dominion Bank in Canada.
+
++ Performance tuning of Jave Virtual Machine (JVM), Application Server
+Tuning, Monitoring
+
++ Administer Java based external facing websites and ensure availabilty and
+
+bility of online web applications
+
++ Configured web server definitions in Admin Console for remote
+management
+
++ Created and managed over 200+ Cl/CD pipslines for deployments on
+Apache servers
+
+TRAINING / COURSES
+
+AWS Cloud Practitioner
+Essentials
+
+AWS, 50% complete
+
+Introduction to Information
+Security
+NYU via edX, 2020
+
+DevOps Culture and Mindset
+Uc Davis via Coursera, 2018
+
+Scientific Computing with
+Python
+freeCodeCamp, 2016
+
+wwwenhancy.com
+
+® glthub.io/travis.hernandez
+
+SKILLS
+
+Programming
+
+| python | | Javascript | | Java |
+Databases & Cloud Services
+
+| mysax | | Postgresat | | MongoDB |
+“Redis | | Apache ]
+
+Tools
+
+Docker | | Kubernetes | [ Ansibie |
+
+[Puppet |
+
+Development
+
+[top | | even | for | Jenkins
+
+CERTIFICATION
+
+MySAQL Certified Implementation
+Specialist
+Orale University, 2020
+
+Certified Associate in Python
+Programming
+Python institute, 2017
+
+STRENGTHS
+
+& FagertoLearn
+
+‘As someone who Is just starting out, | am
+really enthusiastic about learning
+anything that would benefit both me and
+the company | am working for.
+
+@ Communication skills
+
+Open-minded, outgoing and patient in
+conversations with others.
+
+© Flexabitity/organisational skills
+
+Able to work overtime and take extra
+shifts
+
+Powered by (CX) Enhancu

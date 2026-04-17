@@ -1,0 +1,135 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+ACCOMPLISHMENTS
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105. X& (555) 432-10 4 resumesample@example.com
+
++ Overall eight years of experience in designing and developing of Enterprise based, EAl and Web
+‘applications using Mulesoft EST, Apigee and Java/J2EE Technologies.
+
+‘+ Experience in Object Oriented Analysis and Design (OOAD) and exceptional record overseeing all
+facets of Software Development Life Cycle (SDLC), from analysis and design to implementation, testing
+‘and maintenance,
+
++ Participate in Agile, Scrum methodology, and the Test - Driven Development (TOD)
+
++ Experience in providing Web Service design using Representational State Transfer (REST) and Simple
+‘Object Access Protocol (SOAP).
+
++ Good experience creating interface using Anypoint Studio, DataWeave, Transformers, APIkit Router,
+RAML, Anypoint Platform, API Management.
+
+‘+ Good experience in MuleSoft Anypoint Platform - 3.7.x, 3.8.x, 4x versions, Mule MMC, IPAS
+(CloubHub) and devkit
+
++ Experience in integrating mule application with Salesforce.
+
++ Good experience in Mulesoft instalation and configuration on AWS, Azure and on premise Linux
+
+servers,
+‘+ Software Components and Libraries ‘+ Programming Languages: Java, C#, Net, Python
+‘+ APIDesign and Development © Code Validation
+
++ Performance Evaluation and Optimization + Restful Web Services
+
++ Data Storage and Retrieval ‘+ Databases: Oracle, SQL Server, MongoDB
+
++ Source and Version Control Git, GitHub
+
+MULESOFT DEVELOPER 12/2020 to CURRENT
+Peraton | Tucson, AZ
++ Participate in Requirement analysis, API Design, Implementation and Maintenance phases
++ Design RESTful API with Design on AnyPoint platform and AnyPoint studio with RAML 1.0
++ Implement flows and application with AnyPoint studio and leveraged Dataweave to transform message
+* Create reudessicale component such as error handler, domain projects and library
++ Create custom policy and custom connector to connect with external third party system
++ Create the MULE ESB artifacts, created flows, and configured the MULE configuration files and
+deployed the application
+* Create Flows, Sub Flows, Private Flows and routing components such as choice, scatter-gather and
+first successful
++ Create flows using various event processors such as; Transform, exception handling (OnE rror-Continue
+‘and OnError-Propagate), Unit Testing components (Mock, Assertion and Validation)
+* Create Batch process to handle large data and configure input, process and complete phases
+‘+ Use various connectors and even processors like File, FILE, SFTP, IMAP, HTTP, Oracle database,
+Salesforce, CXF
++ Use various Atlassian toolset lke; bitbucket, JIRA and confluence
++ Participate in migration from Mule 3.7 to Mule 4.3
++ Create error Global error handling strategies, apply Try scope to event process and connectors,
++ Used Jenkins for CUCD deployment strategy
++ Part of call rotation and production support
+Environment: Okta, Jenkins, Anypoint Studio 6.x and 7.x, AWS, $3, EC2, Mule version 4.x and 3.x,
+‘Mule Management Console, RAML, ActiveMQ, Anypoint MQ, Maven, Nexus.
+
+MULESOFT DEVELOPER 06/2018 to 11/2020
+Peraton | Vandenberg Air Force Base, CA
+‘+ Participate in design discussions and sprint planning, Retrospective, back-lock grooming sessions ete
+‘+ Participate in daily scrum meetings to discuss the progress of the project and any blockage of the work
+‘and the solution of the block
++ Coordinate with program managers, Business analyst, and QA engineer
++ Create SOAP and REST based service with Mule Enterprise Service Bus (ESB) platform to deliver fast,
+reliable, and scalable integration API code
++ Design and implement RESTFUL Web Services using various data format (JSON, XML) to provide an
+interface to the various third-party vendor
+* Create flow to do validation, enrichment and routing to upstream and downstream entity data
+‘consumers
+‘+ Apply diferent API Management policies such as OAuth 2.0, Client ID enforcement, SLA based rate
+limiting, XMLUSON threat protection ete
+‘+ Test REST{U/SOAP services using SoapUl and postman
++ Design various types of flows which are integrated with Salesforce, Amazon Web Services, Mainframes
+‘+ Responsible in developing integration workflows using Mule ESB framework and implemented Data
+Weave and content-based routing using Mule ESB.
+‘+ Implement Mute flows for each entity with retry mechanisms with private secured flows
+‘+ Configure Maven, Sonar and Jenkins technologies for bulld
++ Coordinate in all testing phases and worked closely with Performance testing team to create a baseline
+for the new application
+Environment: Mule ESB 4.x, 3.x, API Gateway, Jerkins, Salesforce, CloudHub, SVN, Oracle 11g/ 12¢,
+Java 7/8, API Manager, GIT.
+JADA DEVELOPER 09/2015 to 05/2018
+Cavco Industries | Fort Worth, TX
+‘+ Implement WebServices and used Spring Framework
+‘+ Implement and configured the Java beans using Spring MVC and Hibernate
+‘+ Implement Hibernate persistence layer modules using EJB Java Persistence API (JPA) annotations and
+Entity Manager
++ Used Hibernate in data access layer to access and update information in the database
+‘+ Implement complex Web based UI using Struts, Ajax and Java Script
+‘+ Worked on implementing Ajax / jQuery methods in retrieving the data from JSON files and loading the
+data on the HTML elements,
+‘+ Implement validation using JavaScript
+‘+ Implement Presentation layer using JSP, Servlets, HTMLS
++ Implement tne Serviets for processing the data on the server
++ Database designed and created of tables, constraints, normalization, functions, and Stored Procedures
++ Implement tne database connectivity using JDBC with Oracle Database
+* Create Class Diagrams and sequence diagrams using UML
++ Prepare Java /J2EE development structure for Maven
+Environment: Spring, Hibernate, APACHE, Web Services, JavaScript, CSS, AJAX, Html6, JSP, JDBC,
+UML, Eclipse, JUnit, MAVEN, Xml, Apache Tomeat, Linux.
+
+Bachelor of Science | Computer Science
+sample
+
++ Experience with CICD-Ant, Maven, SVN, Jenkins, CVS, GIT, GitHub, and Logging tools like Log4J
+
+‘+ Experienced in Development, Testing and Deployment of enterprise applications on Windows, and Linux
+platforms using IDE such as Eclipse, STS, Rational Application Developer (RAD), NetBeans
+
+* Good experience in setting up automated build and deployment process with CICD tools; Jenkins,
+Maven, Nexus and repository
+
+‘+ Implement core modules in large cross-platform applications using JAVA, J2EE, Spring, Hibernate, JSP,
+Servlets, EJB, JDBC, Web Services (SOAP, REST)
+
+‘+ Strong experience in Spring Framework modules such as Spring MVC, JDBC, IO, Spring Dashboard,
+Spring Boot, Spring REST.
+
+MuleSoft Certified Developer 3 & 4

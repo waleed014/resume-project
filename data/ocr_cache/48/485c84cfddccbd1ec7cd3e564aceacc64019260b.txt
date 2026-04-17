@@ -1,0 +1,63 @@
+‘Apr 2012 - Aug 2017 KeyTech, Fort Wayne, IN.
+Test Engineer
+Outline
+
+Conducted preliminary and post-development testing on a range of software products, including web and mobile
+applications and databases for a fast-growing cybersecurity software development company.
+
+Key Responsibilities
+Determined functional test cases for new or upgraded software applications
+
+Developed documentation to facilitate the UAT process
+
+Designed test scenarios, test cases and map test case requirements to allow technicians to conduct testing
+Conducted root cause analysis and recommended changes in procedures
+
+Isolated, replicated, and reported defects and verified defect fixes
+
+Executed and evaluated manual test cases and reported test results
+
+Developed, documented and maintained functional test cases and other test artifacts, including test data, data
+validation, and harness scripts
+
+Key Achievements
++ Reduced time to market for new features by 22% in 2015 by implementing an automated testing framework for
+‘mobile applications.
+
+Jul 2007 - Apr 2012 ‘Swift Corporation, Minneapolis, MN
+Software Tester
+
+Outline
+
+Completed end-to-end user testing of new and upgraded software and applications for a fast-growing e-commerce
+solutions company based in Minnesota.
+
+Key Responsibilities
++ Designed and executed test plans, test cases, and test scripts using Spock
++ Conducted regression testing and automated testing to ensure software quality
++ Tracked defects in JIRA, working with development teams to resolve issues
++ Collaborated with cross-functional teams, including developers, product owners, and business analysts, to
+ensure quality and timely delivery of the Product Development Life Cycle (PDLC)
+
+Jul 2006 - Jul 2007 ‘Swift Corporation, Minneapolis, MN
+‘Software Analyst Intern
+
+Education
++ Agile Certified Practitioner (PMI-ACP) | PMI | Feb 2016
++ JIRA Certified Associate | JIRA | Jun 2015
++ Bachelor of Science in Computer Science | University of Minnesota | Sep 2002 - Jun 2006
+2 High School Diploma | Lincoln High School | Sep 1998 - Jun 2002
+
+Additional
+
+Software
+JIRA, Selenium, JUnit, TestNG, HP ALM, Postman, Git,
+Programming Languages
+
+Python, Java, Perl, C#
+
+Automation Tools
+
+Jenkins, Maven, Docker, Kubernetes.
+
+Page 2

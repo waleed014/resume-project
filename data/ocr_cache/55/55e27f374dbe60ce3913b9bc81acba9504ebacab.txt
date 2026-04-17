@@ -1,0 +1,67 @@
+Sophiyah
+
+Wightman
+ASP.NET Developer
+
+Profile
+
+Employment History
+
+Education
+
+Links
+
+Details
+sophiyah.wightman@gmail.com
+(904) 352-0115
+
+123 Elm Street, Fargo, ND 58102
+
+Diligent ASP.NET Developer with 1 year of experience in designing,
+developing, and maintaining web applications using the .NET framework.
+Proficient in C#, SQL, and JavaScript, with a strong understanding of
+front-end and back-end integration. Adept at analyzing user requirements,
+troubleshooting issues, and collaborating with team members to deliver
+high-quality software solutions. Committed to continuously improving
+technical skills and staying updated on industry trends.
+
+ASP.NET Developer at RealTruck, ND
+Feb 2023- Present
+
++ Developed a dynamic web application for RealTruck, resulting in a
+25% increase in online sales and a 15% reduction in cart abandonment
+rates.
+
++ Implemented an efficient inventory management system using
+ASP.NET, reducing manual data entry by 40% and increasing order
+processing speed by 20%.
+
++ Successfully integrated multiple third-party APIs, including payment
+gateways and shipping services, improving overall customer
+experience and reducing support requests by 30%.
+
++ Led the migration of the company's legacy web applications toa
+modern ASP.NET framework, resulting in a 50% decrease in page load
+times and a 35% increase in site traffic.
+
+Junior ASP.NET Developer at ID Fusion, ND
+Aug 2022 - Jan 2023
+* Developed and implemented a customer support ticketing system
+that streamlined communication and improved response time by
+30%, resulting in increased customer satisfaction ratings by 20%.
++ Led a team of developers in the successful completion of a web-based
+inventory management application, which reduced manual processes
+by 50% and increased overall operational efficiency by 35%
+* Collaborated with cross-functional teams to design and develop an
+internal project management tool that improved project tracking
+accuracy by 40% and reduced project completion time by 25%.
+
+Bachelor of Science in Information Technology with a focus on
+ASP.NET Development at North Dakota State University, Fargo, ND
+‘Aug 2018 - May 2022
+
+Relevant Coursework: Web Development, Database Management,
+ASP.NET Programming, C#and .NET Framework, Web Application Security,
+UI/UX Design, Software Engineering, and Cloud Computing.
+
+linkedin.com/in/sophiyahwightman

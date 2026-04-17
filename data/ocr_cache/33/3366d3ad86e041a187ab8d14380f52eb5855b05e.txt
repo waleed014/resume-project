@@ -1,0 +1,132 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 6 (555) 432-1000 ¢ resumesample example com
+
+PROFESSIONAL SUMMARY
+
++ Overall 13+ years of experience in SAP Basis Administration, SAP HANA DB, Technical Operations & solution arcitecting on cloud
+
++ Certified in in-memory architecture and data-management by Prof Dr Hasso Platiner’s Open University
+
++ Adhere to the business process and work closely with the different teams/deparments to document various isues and create RCA report
+and submit to the customer,
+
++ Performed security audit on customer systems for SOX compliance
+
+‘+ Consolidated the information gathering process from various teams by changing the current process of documenting the issues,
+
+«Preparing the RCA documents for customer issues and share the information with SAP board members, (Products and Innovations ae).
+
+‘+ 5+ years of project lead role which includes customer escalation handling and people management.
+
+‘+ Experienced in various SAP Technical projects which includes design, planning and support and having excellent analytical &
+‘woubleshooting skill, project management, staffing, capacity planning, mentor and coach
+
+‘+ Expert in estimating TCO and ensure maximum ROI and preparing RFP.
+
+‘+ Participated in the desin, implementation, and support (go-live, post go-live) of SAP projects.
+
++ Experienced professional in SAP HANA DB installation, upgrade and performance tuning.
+
++ Knowledge of project lifeeycle phases of software development, functional design and technical specifications, data conversion,
+performance tuning, mentoring, and end usr training.
+
+‘+ Experienced in landscape setup for SAP partner products (ISV) implementation & integration with SAP products.
+
+‘+ Conducted SAP Technical administration trainings for internal & external teams
+
+‘Delivered sessions on SAP HANA capabilities at SAP TechEd Bangalore inthe years 2011, 2012 and 2013,
+
+Work History
+
+Senior SAP Technology Consultant, 10/2015 - Current
+Publicis Groupe ~ Philadelphia, USA
+‘+ Investigating RCA (root cause analysis) forthe HEC (HANA Enterprise Cloud) customers and providing a detailed report of the issue and
+the fx both with the P&I board members and customers,
+«+ Ron security audits on customer systems.
++ Coordinating berween different technical teams which includes various applications, network and operating systems to find the root cause
+ofthe issue.
+‘+ Analyzing the HANA DB and provide solutions tothe issues.
++ Supporting the RCA team in geting the issues resolved.
++ Through analysis ofthe customer systems and propose best practices tothe customers,
++ Supporting escalated customers and ensure all the issues are addressed and customer is confident ofthe solution,
+“+ Analyzing the landscape design and propose new solutions tothe customer requirements,
+«+ S/4 HANA and SAP HANA training and suppor.
+
+‘Senoir HANA database consultant, 2014 - 09/2015
+‘Verizon Communications ~ Helena, USA
+‘+ Primarily focused in SAP HANA database administration, arhiteting and solutions at the customer location,
+‘+ Asa SAP HANA COE, design, setup and suppor the technical achitectue ofthe SAP HANA landscape and operations
+‘+ SAP HANA revision implementation; upgrade planning, execution and support
+‘+ SAPHANA performance analysis, tuning, roubleshooting and Providing RCA to the issues encountered,
+‘+ De-scalation architect (DEA) forthe projects in escalation handling by coordinating between teams with different skills and working
+towards solving customer issues on-site.
++ Experienced in Replication, backup and recovery, High Availablity, Disaster Recovery and Table distribution in SAP HANA.
+‘+ Involved in multiple SAP Implementations, uperades & production support ole, over various flavors of SAP applications running on
+Aiferent operating system and database combinations.
+
+‘Services Quality Senior Specialist, 07/2011 -2014
+‘SAP Labs India ~ City, STATE, India
+
++ Performed installation of SAP ERP ECC 6.0 on AIX, RED HAT Linux platforms with DB2 9.5 Database.
+
++ Create business process documents for differnt products and review thems,
+
+‘+ Prepare technical specification docuements for implementation projects
+
++ Installed and Supported SAP Solution Manager on AIX on DB2 Database
+
+‘= Involved inthe landscape and project planing fo the new projects (Uperade planning, new dimension product implementation)
+
+‘+ Executed a daily basis administration task in SAP and OS systems.
+
+‘+ Topic owner from India fr allsoftware logistics tasks such as Transport delivery, daily auto impor, pe-imports & TakSprin based
+
+import.
+‘+ Mentoring new colleagues inthe team to scale them up fr our daily operational tasks and make them work independently.
+
+‘SAP basis Technical services professional, 011 - 07/2011
+IBM - City, STATE, India
+
+«+ SAP basis technical project planning resource allocation and reporting the progress to the stakeholders,
+
++ Planning and execution of administration activities ike system upgrade, support pack update, database refresh, system copy.
+
++ Scoping the project and execution ofthe project plan.
+
+“+ Suppor the senior managers incapacity planing and cost analysis
+
++ Co-ordination between teams for sucessful execution ofthe project,
+
+«Preparing RFP for new projects,
+
+‘SAP Basis Project Lead, 04/2007 - 2011
+‘Wipro Technologies - City, STATE, India
++ Project lead for SAP account, responsible for business growth, technical consultation for various eustomer projects both on-site and
+remote.
++ Architect the SAP ERP upgrade projects
++ Involved in business discussions and prepared project scope using ASAP methodology.
++ Involved in billing related activities along with technical tack,
+
+Senior Software engineer, 01/2006 - 04/2007
+Bristlecone India ~ City, STATE, India
++ Installation and configurations of SAP systems on various OS and DB combinations,
+«+ Prepared the system landscape design, documentation preparation forthe projects.
++ Local Client copy, Remote Client copy and Maintaining R/3 clients Exporting and Importing of Table Data through trans Define Roles &
+create authorizations with the SAP R/3 Profle Generator.
+
+Software Engineer, 02/2005 - 10/2005
+IBM Global Services ~ City, STATE, India
++ Created wsers and assned roles.
++ Supported security related issues and educate the customers with the authorization proces
+‘+ Troubleshooting systems and performance related issues
+
+Seis
+©, Cr, SQL, PL/SQL. Applications: MS Office (Word, Excel, PowePoint, Project), Remedy
+Operating Systems: UNIX, Windows, Linux, Solaris. Self study: SQL script, HAPDOOP, BIGDATA, IoT, Content
+Database Systems: SAP HANA, Oracle, MS SQL. ‘marketing.
+
+Epucarion
+
+Bachelor of Technology (B-Tech): compute science and Information Technology, November 2003
+INT University - Hyderabad

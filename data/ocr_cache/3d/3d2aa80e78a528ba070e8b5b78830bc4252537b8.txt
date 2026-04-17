@@ -1,0 +1,36 @@
+Clara Boyer
+
+797 Raynor Inlet, Dallas, TX
+
+ay Mobile phone:
++1(555) 181 0441
+
+(D EXPERIENCE
+
+Director of Data Science — Marvin LLC, Dallas, TX 07/2018 — Present
+e Experience with tools and frameworks for deploying and monitoring machine learning models in production environments at
+
+scale
+e Experience in building software on cloud computing infrastructure such AWS or GCP
+
+e Leadership experience hiring and mentoring top talent in Data Engineering and analytics
+
+Data Science — Von Group, Dallas, TX 12/2015 — 01/2018
+
+¢ Experienced in various cluster techniques in real world business applications, including k-means, factorial analysis,
+
+discriminate analysis
+e Experienced with numerical optimization techniques including Linear Programs, Quadratic Programs, Nonlinear
+
+optimization and multi-objective optimization
+
+Ti EDUCATION
+
+Lim College — Bachelor's in Computer Science
+
+@ SKILLS
+
+e Experience in extracting meaningful information from data using visualization and by formulating and testing hypotheses
+
+e Advanced experience working with R or Python
+¢ Proficiency with classical Generalized Linear Models, statistical inference, and re-sampling methods

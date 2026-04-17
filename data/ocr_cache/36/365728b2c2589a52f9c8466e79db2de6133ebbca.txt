@@ -1,0 +1,84 @@
+Caleb Boehm
+
+738 Carter View, Detroit, MI @ Phone: +1 (555) 887 3951
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+AGRICULTURAL CONNECTIVITY VALIDATION TEST ENGINEER
+Boston, MA.
+02/2016 — present
+‘+ Provide insight as to vehicle level use of software functions as part of the cross functional development
+team
++ Interface directly with support groups and internal customers such as engineering, marketing, and
+platform as part of the development team
+‘* Develop detailed system and sub-system test procedures for functional, performance, and safety tests as
+related to Telematics, Precision Farming, and Guidance content based on engineering specifications
+‘* Develop detailed system test procedures for functional, performance, and safety tests as related to
+Telematics and Connectivity content based on engineering specifications
++ Aid design team in the development of Telematics, Connectivity, and Web Portal PS&T software on
+harvesting machines
+‘* Act asa Product Validation representative embedded in the Product Engineering software development
+team for Telematics and Connectivity in PS&T
+‘© Report back status of the Telematics software development to the PS&T Product Validation Team
+
+AGRICULTURAL GUIDANCE VALIDATION TEST ENGINEER
+
+Boston, MA
+11/2011 — 10/2015
+
+‘* Develop detailed system and sub-system test procedures for functional, performance, and safety tests as
+related to Auto Guidance, Precision Farming, and Telematics content, based on engineering specifications
+
+‘* Document the results of the test, including issue reporting into proper tracking tools. Maintain and
+update issues as they are resolved
+
++ Interface effectively with support groups and internal customers such as engineering, marketing, platform,
+etc
+
++ Aid design team in the tuning exercises for machine Auto Guidance features for the PS&T software on
+agricultural machines
+
+‘* Develop and execute experiments to validate and qualify new design solutions
+
+‘* Generate lab data under good lab practice (GLP) protocols for product development and characterization
+
++ Collaborate with various teams to solve technical problems and identify improvement opportunities
+
+AGRICULTURAL ENGINEER
+
+‘San Francisco, CA
+12/2006 — 10/2011
+
+‘© Design, modify and construct small scale product application devices for product performance evaluation
+
+‘Process, analyze data and report results in defined lab report formats
+
++ The qualified candidate will have
+
+‘* Document the results of tests, including issue reporting into proper tracking tools. Maintain and update
+issues as they are resolved
+
++ For Professional meetings, Conferences and other work related travel
+
+© Occasional Travel
+
+THE OHIO STATE UNIVERSITY
+Bachelor's Degree in Engineering Technology
+
++ Advanced computer skills with working knowledge of operating platforms used in development
+(Windows, etc.)
+
+Ability to communicate with all levels in the organization
+
+Ability to teach and instruct others in equipment operations and processes
+
+‘Advanced knowledge of electrical diagrams and mechanical drawings
+
+Understanding of ladder logic programming used in development of control systems
+Self-motivated and self-starter
+
+Mechanical/electrical design and drafting abilities using CAD software

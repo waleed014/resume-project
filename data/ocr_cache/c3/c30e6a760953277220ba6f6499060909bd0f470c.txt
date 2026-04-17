@@ -1,0 +1,25 @@
+RESUME OBJECTIVE
+
+Data Scientist with 5+ years of experience executing data-driven solutions to increase efficiency,
+accuracy, and utility of internal data processing. Experienced at creating data regression models,
+using predictive data modeling, and analyzing data mining algorithms to deliver insights and
+implement action-oriented solutions to complex business problems.
+
+‘SKILLS
+
+DATA SCIENTIST
+Microsoft, Tucson, AZ / September 2015 - Present
+* Conduct data regression analyses of the relationship between company stock prices and
+industry trends, achieving a 15% more accurate prediction of performance than previous years
+‘+ Utilize web scraping techniques to extract and organize competitor data
+‘* Update company data warehousing techniques such as data recall and segmentation, resulting
+in a 20% increase in usability for non-technical staff members
+‘*  Modernize data streamlining processes, resulting in a 25% redundancy reduction
+DATA SCIENTIST
+Hewlett-Packard, San Francisco, CA / June 2013 - August 2015
+«Improved data mining processes, resulting in a 20% decrease in time needed to infer insights
+from customer data used to develop marketing strategies
+‘Used predictive analytics such as machine learning and data mining techniques to forecast
+company sales of new products with a 95% accuracy rate
+‘Increased data security by updating companywide encryption, steganography, IP security, and
+enrere wireless teenemiesion arecticen,

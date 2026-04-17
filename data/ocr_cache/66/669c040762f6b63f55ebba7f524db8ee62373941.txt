@@ -1,0 +1,84 @@
+Jordi McCullough
+62214 Hackett Parkways, San Francisco, CA @ Phone: +1 (555) 568 5672
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+DEVOPS ENGINEER
+Boston, MA
+03/2016 — present
+‘+ Establishing and running the processes for on-going maintenance monitoring support and security
+patching of a platform
+* Networking knowledge is a plus
+‘* Manage and document our platform infrastructure. This can go from installing a new Consul server to
+resolving performance issues in a MongoDB cluster, through setting up a continuous integration pipeline
+‘or managing Windows Active Directory servers. So you're ideally a jack of all trades, happy to jump from
+‘one area to another and bring your technical expertise to bear on complicated problems
+‘* Based system. Perform various development activities for DevOps practices for the project, including
+continuous integration, continuous delivery, continuous testing, and continuous monitoring. Design
+continuous integration best practices for the development team using Docker, Ansible, and Jenkins.
+Leverage Docker and Ansible playbook design for continuous deployment and continuous delivery and
+maintain responsibility for configuration management for infrastructure as code. Manage deployments to
+Cloud services providers (CSP) environments, including AWS and Azure
+‘* Duties: - Collaborating with other DevOps engineers to maintain a deployment and management strategy
+~ Assisting with creating and maintaining an automation and monitoring framework - Developing
+automation using Shell scripting, Linux, Chef, etc - Creating and implementing application monitoring
+and logging strategies using tools like New Relic, DynaTrace and Splunk
++ Education: Keeps up on industry trends and current technological standards, languages, coding
+techniques, utilities and operational considerations. Works with software engineering manager to
+incorporate process and programming improvements into Choice’s software development practices. Leads
+the preparation and staging of internal software development presentations
+‘+ Developing and promoting standard operating procedures and creating processes and tooling for
+operation efficiency
+
+DEVOPS ENGINEER
+
+San Francisco, CA
+09/2012 - 09/2015
+
+‘© Work with and evaluate third party vendor products
+
+‘* Wear many hats: deployment and automation engineer, performance analyst, service architect,
+system/database administrator, capacity planner, tools developer, performance monitoring expert, project
+planner and technical evangelist for The New York Times news production systems
+
+Manage systems and projects with litte direction
+
+Assisting with creating and maintaining an automation and monitoring framework
+
+Implement and manage infrastructure as code through Chef and other automation tools
+
+Developing continuous delivery pipeline in cloud environment,
+
+Implement and manage continuous code build and deployment with Go and other tools
+
+CALIFORNIA STATE UNIVERSITY, LOS ANGELES
+Bachelor’s Degree in Computer Science
+
+‘Strong attention to detail with a professional commitment to high quality deliverables
+
+* Strong verbal and written communication with the ability to effectively distill critical details into
+actionable highlights
+
+‘© Excellent verbal and written communication skills including the ability to produce usable and
+maintainable documentation
+
+‘+ Experience architecting and supporting highly available and highly scalable infrastructure
+
++ Passionate about new knowledge and innovation. Ability to grasp technical concepts quickly and apply
+that knowledge to DevOps efforts within the team
+
+© Knowledge in building distributed, highly available applications
+
+‘* Develop and maintain bank’s strategic developer enablement platform with a view to improving
+scalability, reliability, performance and resilience
+
++ Strong knowledge of the HTTP protocol and ability to understand decipher the HTTP convers:
+
++ Ability to work at a high level of professionalism and quality with customers
+
+‘* Develop of tools and frameworks to improve security, reliability, maintainability, availability and
+performance for the technology foundation of our platform

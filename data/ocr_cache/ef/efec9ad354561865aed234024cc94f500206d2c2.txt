@@ -1,0 +1,165 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 -resumesample@example-com
+
+‘PROFESSIONAL SUMMARY
+
+‘+ About 85 years of IT experience in Analysis, Architecture, Design, Development, Testing and Implementation of various Client / Serve,
+0S GPhone/iPad) and Web Applications.
++ Mobile Development experience of over 8 years in PhoneliPad development in native Objective C starting with SDK version 2.0 to iOS
+
+SDK 10.
+
++ Involved in the whole process from idea to deployment using agile methodology. Specialized in enterprise applications.
+
++ Strict practitioner of Cocoa coding conventions and style.
+
++ Excellent knowledge in cote concepts like Object Oriented Programming (OOP), Memory Management (Memory profiling and
+performance tuning), Persistent Data and Data Structures, Dependency Injection, MVC pattern and MVM pattern
+
++ Proficiency in Objective-C, Java. Knowledge of Swift
+
+‘Experience in working with third party libraries and frameworks such as ReactiveCocoa, AFNetworking, Mantle, Crashlytics, CorePlot,
+CocoaliTTPServerfor creating mock server in Objective C) et. and integrating them with CocoaPods
+
++ Good knowledge of GCD, Blocks, Operation Queve. Knowledge of MapKit, ARCGIS ESRI maps, CoreLocation, Chat UI framework
+ISQMessage, CoreGraphics, CoreData Created multiple reusable components such as Circular Men, TreeView, Graph Plotter,
+DynamicRequestQueve ete. as part the projects worked on
+
++ Worked using Agile, Waterfall and Test Driven Development methodologies. Experience in working with repositories in GIT, SVN and
+
+vss,
+
++ Experience in writing Unit Testing cases wsing XCTest.
++ Knowledge of App distribution and provisioning on Apple developer portal. Enterprise app distribution and deployment (OTA).
++ Able to communicate effectively with different teams.
+
++ Broad experience in leading a team (onsitelfishore model) and in coordinating closely with QA and business analysts
+
+‘+ Worked at Apple in a contractual positon
+
+‘+ Actively participated in tack Overflow - a world wide technical forum for developers and achieved 10K+ score in 3 months
+
+Sxmis
+
+Objective C, Swi, Ja2EE, Xcode IDE, RAD, SQLDB2, GIT, MapKit, ARCGIS ESRI maps, CoreLocaton, Chat UI famework
+VSS, SVN, QA reporting tool such as RA, Bugzilla, Radar (Apple) JSQMessage, CoreGraphics, CoreDat,ReactiveCocoa
+
+‘Worx History
+2015 to Current
+
+03/2012 t0 2015
+
+03/2008 to 03/2012
+
+07/2015 to Current
+
+2015 10072015
+
+03/2012 to 2015
+
+10/2011 t003/2012
+
+04/2011 to 11/2011
+
+04/2010 to 03/2011
+
+2009 1004/2010
+
+03/2008 to 2009
+
+Epvcarton
+
+‘Senior 10S Developer
+Gannett Co. Inc. US
+
+‘Technology Lead - 105 Consultant
+Gannett Co. Inc.
+
+‘Technology Analyst/Senior Software Engineer
+Gannett Co. Inc. Redding, India
+
+Senior 10S Developer
+Gannett Co, Inc. Rockaway, NI
+‘+ Anadvanced motile surveillance application for law enforcement officers and intelligence agents that provides
+seal-time location, tracking data and case information ina user-fiendly interface.
++ Worked on designing MVVM architecture for application,
++ Created mock rest Server in Objective C
+
+‘Senior {0S Developer
+Gannett Co. Inc. ~ Scotsdale, AZ
++ An easy to use enterprise mobile application for personnel safety and resourcefulness of law enforcement officers,
+emergency management personnel and first responders.
+‘+ Worked with Reactive Cocoa and integrated with Cocoa Pods.
+
+{08 Consultant
+Gannett Co. Ine. Tempe, AZ
+
++ An application performance-monitoring dashboard for analyzing trends and for identifying any issues in Apple
+
+applications
+
++ Tt displays the data using graphical representation
+
+«+ Alerting feature was also built alert the users.
+
++ This isan enterprise mobile application for apple employees.
+
++ Developed GraphPltter to plot diferent types of graphs using CALayer and Core Animation.
+
+‘Senior 10S Developer
+(Clover ~ King Of Prssia, PA
++ An enterprise mobile application, which helps in performing AuditSurveys on various Apple reseller stores,
++ Developed dynamic queuing mechanism for uploading data in background and for storing in Core Data for offline
+working ofthe ap.
+
+‘Senior 10S Developer
+India
++ A digital consumer platfom, which provides a comprehensive way to engage consumer across the entre marketing
+lifecyele
++ iEngage is ported to iPhone application for enhancing the user experience.
++ This is an enterprise mobile application for Infosys that can be easly customized based on the customer needs.
++ Developed the architecture forthe product.
+
+‘Senior 10S Developer
+Us Bank ~ City, STATE
++ iPhoneliPad apps for Sears and Kmart stores, which provides a unique and convenient online shopping experience.
++ Users get access to a wide variety of popular products and categories including well-known popular brand
+products,
++ Created architecture and critical components ofthe app
++ Seats Link
+
+10 Developer
+Sears/Kmart - Sears Holding Corp ~ City, STATE
++ Am Phone app for MyGofer store, which provides a unique, convenient and fun online shopping experience
++ Created architecture and critical components ofthe app
+
+Software Engineer
+‘MyGoter - Sears Holding Corp ~ City, STATE.
+‘+ Partner Self Service(PSS) system is used to create and submit invoices by the vendors.
++ Maintenance Invoice System was a major enhancement to the existing invoice system that helped the maintenance
+‘vendors create and submit invoices through online system.
++ Web security remediation was also implemented onthe system,
++ This web application was developed wsing Java/I2EE.
++ ACHIEVEMENTS Polaris Wireless memento for best performance in 201.
++ Infosys MFG R&R award for most spirited team in 2011
+‘+ Appreciations from Apple Manager for zero defect releases and expertize in iOS technology in 2013
++ Appreciations from Infosys and Sears Managers for zero defect releases and for handling offshore delivery
+effectively in 2011,
+‘+ Achieved 10K+ score in 3 months by answering iOS technical questions in Stack Overflow.
+
+2007
+
+Bachelor of Engineering: Mechanical Engineering
+University of Kannur - Kannvr, Kerala, India
+
+AccomprisHMeNts
+
++ Polaris Wireless memento for best performance in 2015,
++ Infosys MFG R&R award for most spitted team in 2011
+
+‘+ Appreciations fiom Apple Manager for zero defect releases and expertise in iOS technology in 2013.
+
+‘+ Appreciations from Infosys and Sears Managers for zero defect releases and for handling offshore delivery effectively in 2011,
+‘+ Achieved 1OKe+ score in 3 months by answering iOS technical questions in Stack Overflow.

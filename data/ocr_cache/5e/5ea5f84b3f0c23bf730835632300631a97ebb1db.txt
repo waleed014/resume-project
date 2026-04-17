@@ -1,0 +1,58 @@
+NELLY CORKERY
+
+6713 KERTZMANN SHOAL, PHILADELPHIA, PA
+
+PHONE
++1 (555) 178 4060
+
+EXPERIENCE
+
+Harvey-Boyle
+Detroit, MI // Testing Specialist // 09/2020 — present
+
+¢ B.E,B.Tech. ,MSC IT and MCA
+
+¢ Must have domain expertise in testing a product and software
+
+¢ Must know test lifecycle and should be able to recommend the appropriate test methodology
+
+¢ Work on time-sensitive tasks in the absence of pre-set work instructions, SOPs, or with limited documentation
+
+¢ Must be able to guide on test procedures, processes, and findings to peers and stakeholders
+
+© Must be able to provide testers with assistance during the implementation of new initiatives and suggest appropriate
+tools
+
+Schmeler, Schuster and Rippin
+Detroit, MI // Testing Specialist // 07/2017 — 04/2020
+
+¢ Must be able to stay on top of team, project, and product communications and latest updates and share relevant
+information with your team
+
+¢ Must work closely with QA/SDET to reduce manual effort involved by proactively identifying scope for automation
+
+¢ Must understand the automation frameworks and available test setups
+
+¢ Must be able to help managers estimate the time to test by providing input on component functional complexities, risks,
+and external dependencies (e.g., lab limitation, developer/QA team support, etc.) and assist in the creation of mitigation
+plans
+
+EDUCATION
+
+Baylor University
+Bachelor's in Computer Science
+
+SKILLS
+
+Uses Application Risk Assessment as input into all testing activities
+
+Defines test strategy and is able to identify an efficient testing approach
+
+Develops and maintains test plans (including identifying test situations/scenarios) for complex projects
+Participates or provides project estimates and resource requirements
+
+Defines test tools and processes on projects
+
+Participates in plans to improve and maintain test environments
+
+Creates and maintains regression models

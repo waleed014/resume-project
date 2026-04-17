@@ -1,0 +1,253 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ SAP Certified PI Development
+Consultant
+
++ SAP Certified PI Technical
+Consultant
+
++ SAP related EAI and EDI
+Processes and Services
+
++ SAP ECC and SAP PI
+
++ SAP HANA Reporting
+
++ ABAP, JAVA, Power Shell,
+JavaScript
+
++ Doc, BAPI/RFC, JDBC, SOAP,
+REST
+
++ SAP PI/PO Upgrades
+
++ Microsoft Certified Professional
+
++ Systems Design Documentation
+
++ Functional & Business
+Requirements
+
++ Systems Installation,
+Configuration, and Upgrading
+
++ Solution design and reviews
+
++ Scrum / Agile
+
++ Performance optimization
+
++ Teamwork / Collaboration with
+Off-Shore Teams
+
++ Project Management
+
++ Infrastructure solutions
+
++ SAP Systems architecture
+
+EDUCATION
+University of Wiirzburg
+Germany + 1999
+
+Diploma: Business Admit
+and Business Computing
+
+stration
+
+Center For Management And
+Information Technology
+India + 1997
+
+Certificate course of NetCombo
+in Computers: Business
+Information Systems
+
+Osmania University
+India + 1994
+
+Bachelor of Commerce: Commerce
+and Management
+
+National Institute of Information
+Technology
+India + 1993,
+
+Honors Diploma: Systems
+‘Management
+
+CERTIFICATIONS
+
+SAP Certified Technology
+Consultant SAP NetWeaver 7.0 -
+Exchange Infrastructure
+
+SAP Certified Development
+Consultant SAP NetWeaver ‘04 -
+Exchange Infrastructure &
+Integration
+
+ITIL Version 3 Foundation Certified
+Microsoft Certified Professional in
+Windows NT Server 4.0
+
+Microsoft Certified Professional in
+Internet information Server (IIS)
+
+PROFESSIONAL SUMMARY
+
+Results-driven and hardworking SAP Integration Architect bringing 20+ years of experience in Solution
+Design, Service Delivery and Operations Management. Proven success revamping processes and
+procedures and increasing efficiency and reducing complexity. Committed to managing an effective
+‘team through comprehensive monitoring, training and empowerment. articulate, self-motivated and
+innovative with the desire to pursue a growth-oriented position with a progressive and growing team.
+
+WORK HISTORY
+
+Enel - SAP Solution Architect
+seville, OH + 04/2008 - Current
+
++ Member of SAP service delivery value center for Siemens Americas specializing in SAP PI solutions
+and service delivery management.
+
++ AS part of this center, hosting 167 integration services and charge back to Siemens Operating
+‘Companies across Americas and Europe.
+
++ Reviewing and mitigating Siemens Cyber Security measures for SAP PI Landscape.
+
++ Developed ingenious solution to provide 24/7 and 100% availability of PI platform, making use of
+both Test and Production environments, to handle FedEx/UPS based shipments from warehouses/
+distribution centers. Resulted in savings of over $35K per year.
+
++ Developed solution to push warehouse productivity data from SAP HANA to MindSphere IOT,
+providing savings of $24K per year for Partner (SI - Southaven Warehouse).
+
++ Consolidated multiple JSIC installations by migrating them to single PI Sicon Plugin for Corporate
+EDI Services, that simplified overall management and reducing support and maintenance costs.
+Resulted in savings of $60K per year.
+
++ Currently leading SAP PI Dual-stack to PI JAVA-Stack upgrade and migration project. Executed
+multiple SAP XI/PI Upgrade projects.
+
++ Find synergies and implement common process based interfaces which can be reused by multiple
+Operating Companies.
+
++ Work closely with clients to establish problem specifications and system designs.
+
++ Develop technical specifications based on functional specifications or Business Cases.
+
++ Collaborate with cross-functional development team members to analyze potential system solutions
+based on evolving client requirements.
+
++ Lead and mentor Off-Shore team to improve quality of production support and handling of
+application issues and change requests.
+
++ Co-ordinate with Atos Data Center team for SAP SP upgrades and server/system maintenance
+activities.
+
++ Manage integration project schedules and deliverables for Siemens Operating Companies and
+provide status updates to management.
+
++ Carefully document all processes involved with each project, ensuring that updates were included
+as necessary.
+
++ Work closely with ABAP team members to design and develop robust integration solutions to meet
+tient requirements for functionality, scalability and performance.
+
++ Proficient with various adapters for exposing back-end services are SOAP/REST API.
+
++ Well versed with every aspect of development and troubleshooting techniques in SAP like IDOC,
+BAPI, ICO, ccBPM, etc.
+
++ Currently learning and exploring Azure Logic Apps service to migrate PI ccBPM Integrations.
+
++ Experienced in developing Calculation Views in SAP HANA for ETL reporting and managing user
+authorizations to specific views.
+
++ Working knowledge on SAP AIF Add-on.
+
++ Support Siemens GP Carve-out project with shared PI Interfaces.
+
++ Rapidly prototyped new data processing capabilities to confirm integration feasibility into existing
+systems.
+
+Cognizant Technology Solutions - SAP ABAP Technical Consultant
+Ashburn, VA + 03/2005 - 03/2008
+
++ Project SystemONE: Implementation of Spiridon, SAP template for Siemens operating companies,
+for Siemens Building Technologies.
+
++ Received kudos for developing BAPIS to post data from BizTalk for creation of Service Maintenance
+plans and Estimate2Quote Solution.
+
++ Enhance customer-exits to make company code dependent by implementing custom BADI concept.
+
++ Played key role in designing integration solutions, which are highly reusable, reliable ensuring
+optimal performance.
+
++ Responsible for gathering requirements, analyzing systems involved and propose appropriate
+architecture.
+
++ Worked extensively in configuration of XI with SAP and non-sap systems and extraction of data
+from different non-sap and SAP systems.
+
++ Designed coBPM (Workflow) based interfaces with data quality and control checks and triggering
+‘email notifications, in case of data issues, to appropriate Level 1 teams specific to interface and
+company code,
+
++ Dealing with IDOCs and multiple company codes, to filter and route data into multiple processes
+based on company codes.
+
++ Designing interfaces with lot of flexibility based on Company codes by storing company code
+specific data in customizing tables.
+
+Co-ordinate unit and end-to-end testing activities between various parties involved.
+
++ Provide day-to-day Level 3 support activities to various XI issues.
+
+Steelcase Inc. - SAP Systems Analyst
+Rancho Cucamonga, CA + 04/2001 - 02/2005
+
+‘Scope was to automate procurement related processes. Here, purchase orders
+created in SAP R/3 system are transmitted directly to Supplier Portal and suppliers can respond
+with acknowledgements, shipping notifications and Invoices back to SAP R/3 System. Complete
+technical work from R/3 side was handled and later implemented in 11 other Siemens SAP systems.
+
++ Developed prototype for SAP .NET Connector web-based application using Visual Studio .NET and
+‘SAP .NET connector to retrieve or post data to SAP R/3 using BAPIS. VS.NET team is developed
+various services, based on prototype, to post time entries into SAP System directly based of
+Change Pointers.
+
++ Demonstrated how to use SAP Java Connector to interface with SAP System via standalone
+application or from web page using servlets. This was used in G3-Connect project.
+
++ Provide support and technical assistance to various locations within Siemens PG, who implemented
+and adapted e-Net |.
+
++ Provide support to all SAP interfaces to CrossWorlds Middleware platform.
+
++ Created SAP ABAP development guidelines.
+
++ Delivered in-depth training junior SAP Developers, imparting knowledge of best practices for
+protecting data and minimizing errors.
+
++ Provided support on system operation and troubleshooting for SIDOC related topics.
+
+‘Accenture - SAP ABAP Developer
+Sparks, MD, Germany + 04/1999 - 01/2001
+
++ Researched, designed and implemented scalable ABAP applications for PM and CS Module
+implementation.
+
++ Designed and developed ABAP UI application to consolidate multiple SAP transactions and screens
+into one consolidated screen for Equipment transfers using IBIP, reducing end-user input time
+considerably.

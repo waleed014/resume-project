@@ -1,0 +1,59 @@
+QA TESTER SAMPLE RESUME
+
+{640 Main Sst, Dor, DE 7880|
+(Hs2-077
+tuaryshmia bona om
+
+(04 Tester with over 12 years of experience in in creating test plans and writing automated test seripts 10 pinpoint software
+defects. Possesses higi-leve proficieney with OC and OTP toolsets and a foundation in Java, VB Serpt, SQL, Perl, Linas,
+{Unix anl monitoring tools.
+
+PROFESSIONAL EXPERIENCE
+
+GUD GROUP Dover, DE
+
+OA Tester Jame 2004~ Present
+
+‘+ Improving the documentation of QA testing practices to enhance their repeatability, saving time and
+money and encouraging testing standardization and best practices.
+
+‘+ Conducting regular meetings with staff over project related information and sharing suggestions on
+improving productivity and quality.
+
+‘+ Employing a “test-o-break” approach on testing initiatives and clarifying ambiguous requirements
+to ensure the effectiveness of all test plans
+Reviewing functional and design specifications to ensure full understanding of specific deliverables.
+Contributing to high-reliability technology releases as a result of thorough testing that assists in
+maintaining the organization’s industry-leading sales ranking, market share and customer-
+satisfaction rating
+
+JOHNSON CONTROLS ‘Tampa, FL
+“Assistant QA Tester August 2001 = April 3004
+
+‘Performed backend database testing in an Oracle environment including validating stored
+procedures, jobs and triggers.
+
+‘Provided a repository for storing, working and retrieving the ease account information thereby
+assisting in the provision of superior customer service,
+
+‘+ Identified test requirements from specifications, mapped test case requirements and designed test
+coverage plans.
+Validated the variables that are sent from online applications to downstream systems.
+‘Noted any potential quality issues per defined process and escalated potential quality issues
+immediately to management.
+
+EDUCATION
+
+PRINCETON UNIVERSITY Princeton, NJ
+Master of Science Degree in Software Engineering, June 1995,
+
+‘© Graduated with distinetion
+
+CORNELL UNIVERSITY Ithaca, NY
+Bachelor of Science Degree in Computer Science, June 1995
+
+© Graduated Summa Cum Laude
+
+© Class valedictorian
+
+ADDITIONAL SKILLS.

@@ -1,0 +1,119 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+SENIOR TECHNOLOGY EXECUTIVE Dynamic, results-oriented Professional with 29 years of experience in Information Technology.
+Proven ability to translate business needs into technology requirements that support the company’s business objectives. Other qualifications
+include: Successful management of all phases of IT projects from needs analysis and requirements definition to vendor selection,
+implementation, development and training. Self- motivated, proactive leader with superb technical acumen and the ability to thrive within fast-
+paced environments. Motivated achiever who guides organizations in applying technology to business settings, provides added value, and
+creates project deliverables in a timely manner. Diverse background in systems analysis and integration, program design and development,
+platform migration, and hardware implementation. Insightful Information Technology Manager with 19 years of IT leadership experience
+including oversight of infrastructure, application support and security services, Dedicated to customer satisfaction with focused delivery of
+technical solutions. Proven leader in directing operations, maintenance and support of complex systems. Develops creative business solutions,
+leveraging diverse methodologies and delivering engineering solutions for leading organizations. Highly adept in request for proposal
+development, technology needs assessments and staff training.
+
+Sums
+«Agile framework ** Risk mitigation planning
+« Project lifecycle management + Budget administration
+* Security planning ‘+ Waterfall methodology
+Work History
+
+01/2009 to Current Information Technology Manager
+
+isqually Indian Tribe — Olympia, WA
+
+‘+ Manage budget for all resource in IT to include staffing, infrastructure planning for all hardware both server and
+desktop, software planning as well as licensing and maintenance renewal
+
+‘* Wrote business plan that included budget, business development, and training program for intemal development
+
+and infrastructure including Youth Detention Facility
+
+Rollout Mobile Dispatch Terminals for Officer field tracking
+
+Set strategic direction of IT, and design system architecture,
+
+* Secure projects buy-in from stakeholders and senior management
+
+Implemented Business Intelligence system for field operational decision making
+
+* Created and implemented coding standard that reduced deployment errors and ongoing support costs
+
+‘+ Implemented hybrid cloud automation to extend and augment development team technologies reduced time to
+market by 20%
+
++ Developed Service Level Agreements while maintaining user expectation
+
++ Directly responsible for interviewing, hiring, coaching, and developing employees to include planning, assigning,
+and directing work
+
+‘« Ensure disaster planning and recovery solutions are testing and viable.
+
+(01/2005 to 01/2009 Application Development Supervisor, Information Technology Manager
+Albany Charter School Network — Oakland, CA
++ Defined requirements and direct full lifecycle development of core business processes for in-house systems
++ Oversee work of System Analyst, Technical Writers, and application developers, Network Engineers and
+Administrators, Help Desk
+‘+ Supervised system development, deployment, and operations
+‘+ Define and implement infrastructure changes forall internal and outsourced projects within approved budgets
+* Coordinated facility move of internal personnel and server equipment
+Ensured milestones, deadlines, budgeting, and management expectations were achieved
+Served as liaison between management staff and internal technician and consultants
+Designed and managed Automated Training System that is used to schedule and track all training
+Designed and managed Case Assignment application that is used to track and balance workloads forall of officers
+within court services division
+«This system produces reports that integrated with scheduling system to create accurate picture of office current and
+fature workloads
++ Early Warning System (EWS) structured automated data collection system and method to analyze data that permits
+‘Sacramento County Probation Department to understand past and current trends identified with Use of Force
+(UOF) incidents occurring in Department's pretrial juvenile detention and court commitment facilities
+‘ System's reports are intended to provide facility administrators with information needed to review, analyze and
+‘identify findings and recommendations for purpose of improving level of care, custody and control provided
+juveniles who may be housed in Probation facilities
+
+01/2003 to 01/2005 TECHNOLOGY MANAGER
+Tektron Electrical - City, STATE
+
+‘+ Wrote business plan that included budget, business development, and training program for internal development
+and infrastructure
+
+‘+ Designed and implemented Dashboards for all work orders which ensured that service level agreements are
+accomplished
+
+‘+ Reduced time to get work orders to billing department which increased cash flow
+
+* Created and implemented coding standard and policies forall internal development
+
++ Directly responsible for hiring personnel
+
+‘+ Manage system development, deployment, and operations
+
+‘+ Define and implement infrastructure changes forall intemal and outsourced projects within approved budgets
+
+‘+ Engineered and managed Intranet and Extranet sites,
+
+‘ Enabled access to critical job-site data (reducing calls to technical operations center) while enabling customers to
+access site-specific data for internal management
+
++ Converted embedded SQL to stored procedures, triggers, and user-defined functions to allow full integration with
+other systems
+
+* This application integrates with an Interactive voice response system.
+
+Epucarion
+
+2019 Bachelor of Science: Information Technology
+Capella University - Minneapolis, MN
+
+1991 Primary Leadership Development Course, Washington Banyan Vines Network Administrator Course, New
+Jersey Electrical Engineering Technology Courses
+Farmingdale, State University of New York - North Amityville New York
+
+(CERTIFICATIONS
+
+‘Microsoft Certified Systems Engineer 1999 Avaya ACA Certification 2005

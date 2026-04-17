@@ -1,0 +1,198 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+‘PROFESSIONAL SUMMARY
+
+‘More than 7+ years of experience on all phases of software development life cycle (SDLC) such as Application Software specifications,
+Architectural Design, Development, Testing and Deploying the applications. 4+ years experience in application integration using Mule ESB.
+
+Sxnis
+
+‘* Web and Application Servers
+Web Technologies HTTP, HTTPS, JSON,
+
+* XMUXSLIXSLT,
+
++ Angular JS, jQuery, Technologies Mule ESB, Anypoint
+
+* Studio, API Management,
+
+MQ Series, SOAP, REST
+
++ Services, CloudHtub,
+
+Microservices, WSDL, Languages Java, HTML, HTMLS and
++ XML JAVA/2EE DHTML RESTFUL
+
++ XSLTJMS, JDBC, EE,
+
+«Servlets, ISTL. Version Control GIT, SVN, Bitbucket.
+
+‘+ Tools Maven, JUnit, Jira, Putty,
+
++ Jenkins, Bamboo, Postman, Databases MS SQL-Server, Oracle,
+
++= IBMDB2MysQL,
+
++ PL/SQL MongoDB Operating Systems Windows 7/8/10,
+Windows
+
++ XP, Ubuntu, Linus, Unix
+
+‘+ New Project Development
+
+‘+ Time Management Collaborated with project management and
+developers to coordinate testing activities at all stages
+
+‘Worx History
+
++ Developer Onboarding Design
+* Deadline oriented
+
+03/2020 to Current Sr. Mulesoft Developer
+
+Medifast, Ine ~ Owings Mills, MD
++ Develop integration workflows using ESB framework
++ leskins GIT SVN ActiveMQ, Servlets, ISON, IMS, MuleSof, Mule ESB and Used Data Base Connectors to
+
+connect with respective systems using Mule ESB
+
+MMC, AnyPoint Studio, CloudHivb, GitHub, XML, XSD XSLT, XPATH, WSDL, SOAP
+
++ Development Life Cycle (SDLC) using Serum methodology Create MULE ESB artifact and configured MULE
+configurations files and deployed
+
++ Implement Restful and SOAP web services in Mule ESB based on SOA architecture
+
++ Developed RAML based REST web services APTs using Create interfaces between SFTP, Workday, Decision
+service, and other REST and SOAP web-services
+
++ Inspect flows and sub-flows in eror handling and implemented effective exception handling techniques
+
++ Pecform synchonization of data bi-diectionaly between salesforce and database in Mule
+
++ Secure REST API service with OAuth? token by applying Provide production support as pat of warranty window
+time
+
++ OAuth20 policy
+
++ Project build and source control using GIT, Maven and Jenkins for continuous integration process Collaborated
+‘with team members to achieve target results
+
++ Participated in team-building activities to enhance working relationship
+
+03/2018 to 02/2020 MuleSoft Developer
+
+‘Cognizant Technology Solutions ~ Los Angeles, CA
+
+* Create flows that pass message using VM transport Manage clusters, groups, and deployment using Mule
+management console (MMC)
+
++ XPATH, AnyPoint Studio, MuleSoft, Jerkins GIT SVN MMC,
+
++ XSD, ActiveMQ, RabbitMQ, Servlets, JAXP, JAXB, WSDL,
+
++ Spring MVC, SOAP, Nexus, Java, XML Develop services interface to access core services & provisioning services,
+‘sing Mule ESB.
+
++ Troubleshoot issues with message flow services and provide quick tumaround for fixing and testing
+
++ Create MULE ESB artifact and configured MULE configuration files and deployed
+
+‘+ Create http inbound and outbound flows, routing, orchestration, transformations and Security of Mule ESB,
+application using OAuth
+
++ Create and maintain SQL queries to retrieve logs and errors from Oracle database using SQL Developer,
+
++ Create API Proxy and deploy to API Gateway Create RAML specification in AnyPoint platform and use fragments
+such as Resource type, Traits and Library to enable reusability
+
+* Create flows in design studio and transform messages using DataWeave and MEL
+
++ Develop Mule ESB projects for services with synchronous and asynchronous Mule flows
+
++ Proved successful working within tight deadlines and fast-paced atmosphere
+
+11/2016 t0 022018 API Engineer
+
+American Express ~ Georgia, AL
+
+‘+ Implement RESTful Web services to retrieve data from client side and made REST API calls and parsed data to
+project to client and handled security and
+
++ Java 1.7/1.8, APIGEE Edge, APIGEE cloud, APIGEE base,
+
+‘+ Troubleshooting and monitoring API proxies running on Developer portal, Rest web services, SOAP web services,
+security, JSON
+
++ Implement and used all types of API proxies and validations by using schemas
+
+*# Develop Rest APIs utilizing Swagger
+
+‘+ Authorization using OAuth 2.0 Used Zookeeper is centralized repository for configuration related to information
+‘which will be consumed by different distributed applications
+
+‘+ Type Safe component that I have used for integration with any type of Build Tool (Scala), which works fine and is
+easy to integrate
+
+‘+ Used API Gateway for easily migrate from one API Analyze information to determine, recommend, and
+installation of new Apigee on-premises
+
+* Gateway to other which increase portability
+
+«+ All API Gateway specific logic can be built into proxies or in these wrapper APIs
+
++ Used Stack Driver to increase trace time more than an hour
+
++ Configuring infrastructure for deployment of Middleware application through APIGEE
+
+* Apigee using Trace tool
+
+* Creating API proxies with Traffic management, Mediation policies, Security Policies, and Java callout policies
+
++ Responsible to deploy all Apigee message processors and routers in dev, test and staging and production
+
+05/2014 to 10/2016 Jr. MuleSoft Developer
+
+EDucarion
+
+‘Cadence Bank ~ City, STATE
+
+‘+ Develop web application using spring, Hibernate
+
+‘+ Responsible to enhance Portal UI using HTML, Java Script, XML, ISP, CSS as per the requirements and providing
+client-side Java script validations
+
++ Configure spring to manage Action classes and set their dependencies in a Spring Context file and integrated
+‘middle tier with Struts and also used EJB components for backend processing
+
+‘+ Enhancement of Java applications and worked on bugs in applications
+
++ Used Hibernate for mapping ORM objects to table using Hibernate annotations
+
+* Develop Web services component using XML, WSDL and SOAP to transfer and transform data between
+applications
+
++ Created and consumed RESTful Web Services using IAX-
+
++ Rs(lersey)
+
++ Follow WATERFALL Methodology to satisfy customers and wrote Junit test cases for unit testing modules
+
+‘+ Create UNIX shell scripts to automate build process, to perform regular jobs like file transfers between different
+hosts
+
++ Used Logdj for logging output to files Participate in generating build script using ANT that compiles code, builds a
+‘war file, and deploys application on application server
+
+‘Used SVN tools for version control
+
++ Effectively interacted with team members and business users from different regions for requirements capture and
+analysis.
+
+ACCREDITATION EDUCATION CERTIFICATION , MuleSoft Certified Developer 4
+
+Bachelor of Science: Computer And Information Sciences
+Institute of Technology

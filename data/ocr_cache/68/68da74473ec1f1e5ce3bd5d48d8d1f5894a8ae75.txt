@@ -1,0 +1,213 @@
+Jessica CLAIRE
+
+Montgomery Stet, San Franciac,CA 94108
+(555) 492-1000 -resumesample@example com
+
+Sesmany
+
+(Over 6 years of professional experience in the Information Technology fed 3¢ SQL BI developer in MS SQL.
+server2014/2016/20172012/2008R2/2008 envionment covering various domains. Excellent in wing TSQL ques, creating custered and
+‘on-chostered Indes, Data Cleansing, Data Migration an using them to alter and build objects. Ability to asin diferent types of keys with
+thee prefered data pes. Experienced in instaling, upradng, and configuring Microsol SQL Server and Databases. Hands on experience
+in daabase normalization, de-sosmalizton,epinizaon, Tuning, Back-up, mpration, conversion, and document processing wing data
+modeling tos. Experienced in rating Sb- Queries and Joins for complex queries involving multiple ables and Exception Handlers,
+CConint wit operators, variables, wildcard, views, wigger in TSQL. Clear ut idea about data warehouse, dimensional modsing, LAP,
+COLTR, RDBMS and schemas. Proficient in ceating dynamic packages for Incemeatal loads and data cleansing in data warehouse using SSI.
+Involve inal phase of SDLC, rate detail analysi-design document with source to trgt mapping. Develop DataStage jobs to do ETE (lad
+collection of data from multiple source to dffeentstinaton with equred business transfoemation) Experience in maintaining Batch
+“Logeing, or Logging with Event Handlers an Configuring Connection Managers sing SSIS. Extracted, transformed, and leaded data
+Som vious heterogeneous datasources and destinations ike Acces, Excel, CSV, at files wing connectors, asks nd wansfermations
+‘provided by SSIS. Accomplished in ccating Packages, scheduling Job and sending Alerts using SQL Mail Ability to bud data mats and
+‘ube by analysis tol SSAS, Easy to build and deploy analytic solutions for decision support systems. Ability to measure, edit and compare
+busines data with diferent queries. Good experience on KPI (Key Performance Indicators) areas. Extensive expesience ia Capacity Plann,
+Disaster Recovery, Troubleshooting, Backup and Restore procedures Experience in Applicaton systems ad understanding bow the data
+resides inthe source sytem to efetvely create OLAP Structures to suppor reporting. Excellent experience in developing dill down,
+«xscadng, parametrized, Drill zou, Su eports and Chars sing Glotal variables, Expressions and Functions for th business users.
+“Experienced with visualization tol like Power BI and Tableau Experienced in creating Ad boc epots with complex design to query the
+<atabase for Business lnteligence. A well-organized, goal-oriented, highly motivated efetve tam member
+
+Sens
+
+Techical skill and tools + Analysis Too: SQL Server Analysis Sences (SAS)
+
++ Databases + Database Tools: MS SQL Server Eatepive Manager, SQL.
++ SQL Server 20197201620182012 Profiler, Query
+
++ Language: FSQL Analyzer, DTA
+
++ Reporting Too: SQL Server Reporting Services (SSRS),Tbleav,
+Powe BE
+
++ etgration Tot: SQL Server Iteration Services (SSIS), Azure
+Data Factory V2
+
++ Other Tools: Microsoft Office 200/2007/2010
+
++ Business Skills Teil Skil:
+
++ MS SQL Server 2012/2014R2/2008/2010 Viel studio
+2010/2008 ($SAS/SSIS'SSRS), Microsoft Access 2007/2003,
+
+Microsoft Excel (Pivot Table), OLAP and OLTP, Outlook, MS
+SQL Profiles, SQL server Query Analyzer, Index Tuning Wizard,
+(Ch. Net, VB Net. / Sharepoint, Crystal Reports 89/10,
+ADO.NET, ASPNet, Frame Work 20, MDM, Oracle, DB2, Dash
+‘Board by Crystal repr, Eri, MS Access
+
+Exrenuce
+
+1202021 te Curent SQLETL Developer
+‘Apex Systems Waltham, MA
+
+"+ Worked with Business Analyt to understand the report sequrements
+
++ Iterated with end ues to understand the Business Logics sper the need
+
++ Crested, implemented snd maintained a reporting nt of over 56 standad reports while also customizing many
+pons to meet individual cient needs
+
++ Developed various operational Drill tough, Drill down and parameterize pots Based onthe septs
+requirement using SERS
+
++ Used cazaded parameter to generate a repost om two dilfent DataSet
+
+«+ Involved with Query Optimization to increase the perfomance of the Report
+
++ Crested comple stored procedues to generate reports wing SSRS
+
++ Designed Reports in SSRS, using Shared datasource and specified dara source
+
++ Leatiied and defied the Datasets for the report generation
+
++ Defined the report layouts and fommsted the reports sng the Global Variables and Expressions
+
+«+ Deployed and Subscribe Reports using SSRS to generate al daly, weekly, monthly Reports
+
+‘+ Developed and endered monthly, weely, and daly reports 3s pr the requirement and gave oes, ser access with
+sespec to security in Report Manager|
+
++ Performed data extraction, transformation, and loading ETL) between systems using SQL tools such 8 SSIS
+
++ Crested SSIS Packages to export and inpot data om CSV Biles, Tet ies and Excl Spreadsheets
+
++ Used For Loop, For Each Loop, Sequence Container, Execute SQL Tatk, Send Mail Tsk, Package Evens,
+Precedence Constraint to achieve busines requirement
+
++ Designed confgutions logging auditing package err handling, data err logging and checkpoint in SIS
+Package model
+
++ Prepared required documentation fr system soport and end wer and provide end-user raining forthe reports
+and analytical soltions
+
+«+ Provided technical assistance by responding to inquires regarding eos, problems, or echnical questions train
+od wes and technical support staff as requiced
+
++ Intracted in weekly meetings wih IT Manager to give tats updates on project
+
++ Tools and Technologies: MS SQL Server 2014/2008R22008, - SQL, MS Excel 2007/2008, Microsoft SQL Server
+Integration Services (SSIS), Microsoft SQLServer Reporing Services (SSRS), SQL Server Business Intelligence
+Development Srsi,
+
+0120180 11/2021 SQL Server SSISISSRS Developer/ETL Developer
+GAVS City, STATE
+
+‘+ Created ETL SSIS packages both design and code to proces data to tage databases
+
++ Tent and resolve problems encountered during both development and release of the SSIS code
+
++ Debugsing and woubleshoting the technical sues while implementing the applications
+
++ Crested Complex ETL Packages using SIS to extract dat from staging ables optioned tables with
+incremental load
+
++ Created DTS Packages for extracting ata fiom Fat Files, Excel, MS Acces, Oral and MS SQL Server
+20162019
+
++ Created packages in SSIS with error handling and worked with different methods of logging in SSIS
+
++ Developed, Mantsined, and Monitored all import export and Data Transformation into the Staging and Production
+
++ Experience in providing Logging, Esor handing by wing Event Handler, nd Custom Lopsing for SSIS Packages
+
++ Crested ETL packages with ferent ata sources (SQL Server, Flt Fes, Excel source files, XML files et) and
+then loaded the data into destination tables by performing complex tansfermations using SSISIDTS packages
+
++ Used ETL to implement Slowly Changing Dimension o maintain historical data in Data Warebose
+
++ Responsible for Deploying, Scheduling Jobs, Alerting and Maintaining SSIS packages and Updating and
+‘maintaining Visual Source Safe
+
++ Created complex Stored Procedures, Tiggets, Function (UDF), Indexes, Tables, Views and ther PSQL code and
+‘SQL joins fo application folowing SQL. code standards
+
++ Responsible for data analysis, lad data fom Data fed to Data Warcouse tables
+
++ Performed efficient tuning of SQL source queries for data load! Usage of stored procedures for performance
+
++ Crested Stored Procedues to wansform the Data and worked extensively ia SQL fe various needs ofthe
+transformation while loading the data
+
++ Crested views to display sequired information on wer interface, and wiggers to validate consistent dats etry ito
+the dtabare
+
++ Experience in eport ing wing SQL Server Reporting Services (SSRS) and crating various types of reports
+like Tabula, Marx, Drill own, Drill Through and web reporting by customizing URL Access
+
++ Designed diferent kinds of repors fom sratch depending upon the requirements ofthe makets, vendor,
+providers and scanners
+
+‘+ Documented al the work and al the process of integration and reporting services for further references
+
++ Worked extensively on system analysis design development, esting and implementation of projets (Complete
+soLo)
+
++ Eaucoament: MS SQL Server 20122008R2, SSRS, SSIS, SQL Query Analze, SQL prailr, IS 60Eaterprise
+‘Manager, Windows Server 2003/2008, DTS, Share Pint Portal Server, HTML, XML, Ct, Net, ASPNET, Visual
+Studio 205/2010, MS Acces, Crystal Reports, MS Excel 2007,
+
+042015122017 MS BUETL Developer
+‘Boor Allen ~ City STATE
+
+1 Crested SSIS packages to migrate data from diferet datasources to data warehouse
+
++ Successfully enacted transformed and load data into data warehouse
+
++ Crested packages by testing and cleaning the Standardized Data by using tools in Dat Flow Transformations (Data
+‘Conversion, Export Columa, Merge join, Sr, Union al, Cendtonl Split and mot) for exsinglnew pakazes,
+and hoge CS fle import from diferent ata sources and other ongoing tasks for mapping
+
++ Extensively designed the packages and data maping wing Cont Now tak, Sequence coating ak, Dataflow
+“Task, Execute SQL Task, Data conversion tatk, Derived Colum tas and Scrip asin SSIS Designer
+
++ Scheduled SSIS parkages for unning monthly and weekly feeds fom various guarantors nd mulpl server nd
+
++ Involved in enhancing and deploying the SSIS Packages fom development server to production server
+
++ Responsible forthe Peformance tuning ofthe SQL Commands wih th we ofthe SQL Profiler and Database
+Engine Tuning Advisor
+
++ Installed and Configued SQL Server Actve/Active and ActivelPasive clusters
+
+‘Monitored Scheduled jos and alerts
+
+«+ Designed and developed ETL solutions for transformation of dt from source transactional ystems or oter dat
+‘eds into a dimensional database, o other destinations
+
++ Crested, Schedule, Generated and optimized ETL jobs
+
++ Crested Updated Stored Produces, Tigers, Functions, Cursor, Views at Indexes with extensive we of FSQL
+
++ Crested, documeste, and implemented unittest plas, scripts, and test eases
+
++ Created and maintained technica documentation using defined technical documentation templates
+
+‘+ Contributed to the creation of solid coding techniques and recommended and reviewed coding standards
+
++ Evaluated database perfomance and perfoomed maintenance des such as Tuning, Backup, Restoration and
+Disaster Recovery forthe data
+
++ Wrote documentation, data warehouse artifacts and data lineage for ETL tools
+
+Epvcarton AND TRAINING
+
+Bachelor's Degree

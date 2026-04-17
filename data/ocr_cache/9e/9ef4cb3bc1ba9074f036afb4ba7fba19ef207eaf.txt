@@ -1,0 +1,112 @@
+First Last
+-NET Full-Stack Developer
+
+-NET Full-Stack Developer with five years of experience leading client-firm
+consultations and developing web applications. Led teams of 5-15 people across
+technology, business, and design departments.
+
+EXPERIENCE
+
+Resume Worded, New York, NY
+
+.NET Full-Stack Developer
+
+January 2020 - Present
+
+e Led an Accounts Revenue Reporting project, involving database design
+using Ajax which successfully attracted $1.3 million worth of potential
+revenue.
+
+e educed delays in contract delivery pacing from 15% to 2% by improving
+project framework using ASP.NET
+
+e Provided training to over 15 engineers to customize and deploy commercial
+unit testing tools using ASP.NET, VB.NET, Ajax, and JavaScript.
+
+e Reduced power requirements by 40% through improving multiple
+performance measures and developing firmware code using SQL Server.
+
+Growthsi, Remote
+
+Software Developer
+
+July 2016 - January 2020
+
+e Created documentation to address common technical issues, reducing the
+number of technical support inquires by 20 %.
+
+e Improved built-in software performance dramatically from 12 hours to 25
+minutes for daily matrix generation by working on the generation of PAWS
+daily matrix.
+
+e Reduced the size of CSS files by 3,000 lines of code which reduced defects
+and page load times through monitoring CSS code whilst managing a team
+of 25 onsite and offshore developers.
+
+Resume Worded, Boston, MA
+
+Web Developer
+
+January 2012 - June 2016
+
+e Improved the efficiency of operation by 35% through developing a brand
+new administration panel for purchasing agent business.
+
+e Increased customer satisfaction by 65% through creating databases
+utilizing PHP5, PDO, and MySQL that streamlined trucking operations from
+creating, assigning, and tracking truckloads, offering a paperless solution.
+
+e Increased daily traffic by 45% through redesigning the existing website to
+improve user experience.
+
+San Francisco, CA 12345
++1 234 567-890
+
+first.last@resumeworded.com
+linkedin.com/in/resumeworded
+
+SKILLS
+
+-NET
+ASP.NET
+VB.NET
+Ajax
+JavaScript
+MySQL
+PHP5
+
+PDO
+Backbone.js
+
+EDUCATION
+
+Resume Worded
+University
+B.S. in Computer Science,
+
+Minor in Business
+Management
+
+January 2012
+New York, NY
+
+e Awards: Resume Worded
+Teaching Fellow (only 5
+awarded to class), Dean’s
+List 2012 (Top 10%)
+
+e Relevant Courses:
+Operations Research,
+Statistics, Linear Algebra
+
+e Completed one-year
+study abroad with
+Singapore University
+
+PROJECTS
+
+e Accounts Revenue
+Reporting Project (2020)
+
+e Web Developer Certified
+(2013)

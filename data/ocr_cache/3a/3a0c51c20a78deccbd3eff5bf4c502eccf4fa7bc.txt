@@ -1,0 +1,54 @@
+Robert Smith hone (128) 456 7899
+
+Email Infocawikeesume,com
+Website: wwnnawikresuime.com
+
+ETL Developer Il LUnkedin: linkedin.com/quikresurne
+‘Address 1737 Marshullle Road, Alabama
+
+SUMMARY
+
+Overall 6+ years of IT Experience In the areas of Data warehousing, Business intelligence, and
+SharePoint, covering different phases of the project ifecycle from design through Implementation
+{and end-user support, that includes; Extensive experience with Informatica Powercenter 9.5 (ETL
+ool) for Data Extraction, Tansformation and Loading, Reporting experience with tools ike OBIEE
+11g Tableau, Analyzed Source Systems, Business Requirements, Identify and Document Business
+ules for Decision Support Systerns.
+
+SKILLS
+
+Tableau,
+WORK EXPERIENCE
+
+ETL Developer I
+ABC Corporation - uy 2081 Ape 2082
+“pols Informatica Power Center 8.6.x, Sq) developer Responsibilities Developed ETL programs
+Using Informatica to Implement the business requirements
+Communicated vith business customers to discuss the issties and requirements,
++ Production Support has been done to resolve the ongoing Issues and troubleshoot the
+problems,
++ Performance tuning was done at the functional level and map level.
++ Used relational SQL wherever possible to minimize the data transfer over the network.
+Used various transformations lke Filter, Expression, Sequence Generator, Update Strateay,
+Joiner, Router and Aggregator to create robust mappings In the Informatica Power Center
+Designer,
+Involved in enhancements and maintenance activities of the data warehouse Including tuning,
+‘modifying of stored procedures for code enhancements,
+
+ETL Developer
+
+‘ABC Corporation - 2008 - 2011
+Worked on Ascential Datastage (Manager, Designer and director) for developing various jobs.
+Used the ETL Data stage Designer to develop processes for extracting, cleansing, transforms,
+Integrating and loading data into data warehouse database,
+Worked on diferent stages for creating the jobs based upon business application.
+Developed shel scripts and updated the fog for the backups,
+
++ {iwvolved in Unit Testing withthe Jobs and date loaded in the Target database
+
+Environrnent Oracle 7/8, Oracle Enterprise manager, Windows NT 40
+DataStage 5.1
+
+EDUCATION
+
+(0 This Fra esume Temata the copyright of Onakiesune corm. san Guides

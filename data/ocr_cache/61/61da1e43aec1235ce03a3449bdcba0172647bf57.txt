@@ -1,0 +1,60 @@
+Robert Smith Phone (23) 4867899
+
+mall Infocuvikresume,com
+Website wont, quikresuime, com
+Linkedin: linkedin.com/quikresume.
+‘Address; 1737 Marshullle Road, Alabarna
+
+Sql Database Developer
+
+SUMMARY
+
+Over 9 years of DBA experience on Data Design, Development and Administration on SOL Server
+2014, 2012, SCL Server 2008 R2, 2008 and 2005 systern in OLTP/CLAP environment. Experience
+in Oracle Database and Administration AND Development database. Expert in ROBMS concepts
+
+‘and constructs to design relational databases model and implementation as per business needs,
+
+SKILLS
+
+Creating database triggers for use In automation, Maintaining data quality and overseeing
+database security,
+
+WORK EXPERIENCE
+
+Sql Database Developer
+‘ABC Corporation - March 2012 ~ February 2024
++ Installed and configured MS SOL Server and Clients
+Crested and managed schema objects such as tables, views, clusters, indexes, procedures,
+trlagers and maintained Referential Integrity
+Performed Data migration (import Samp, export BCP) from Text to SOL Server.
+Managed Disk space, memory and User connections.
+Established DR sites using log-shipping and Wrote dynamic stored procedures for moving
+Databases from production server to OR server.
+Performed query tuning and reduced response time by 60%
+Performed query plans and enforced indexing In each and every query.
+
+Sql Database Developer
+Dea Corporation - 2011 - 2012
+Project Student Management System (SMS) SMS isa web based software that menages day to
+day operation for schools
+‘Worked with 7-501 to create tables, bulld stored procedures, building and maintaining SSIS
+packages, and designing adhoc reports for our clent to manage student data and provide
+Capabilities for registering students, grading, tuition payments and to perform other related
+tas,
++ Used AGILE/SCRUM methodology to implement the application
++ Developed physical data models using E-Draw and created ODL scripts to create database
+schema and database objects
++ Designed and implemented relational database management system (RDBMS) Using MS SQL
+Server 2008R2,
++ Normalized and De-normalized tables and maintained Referential Integrity by using Tlagers
+‘and Primary and Foreign Keys.
++ Used SOL scripts to create new tables, develop complex stored procedures, views, tilagers
+and user defined functions.
+
+EDUCATION
+
+Master of Sclence in Matetlals Selence - August 2021(State University of New York - Stony Brook,
+Ny
+
+(0 This Era sume Tamla is the copyright of Onakesume com. Uso Guldatns

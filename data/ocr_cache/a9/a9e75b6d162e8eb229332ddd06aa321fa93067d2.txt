@@ -1,0 +1,58 @@
+Yung-Yu (Nicolas) Lin
+
+“Mirabelli, San Joe, CAVSTA » GE) SOSGOTI » vices yy nap
+
+EXPERIENCE
+
+PayPal San Jose, CA 2019 Present
+‘Senior Product Manager, Merchant Product
+[Led Data Science solutions to enhance product experience and marketing efficiency across Merchant lifecycle.
+‘© Initiated and managed ML-based product recommendation and CV forecasting solutions, improving +10% of
+product CTR and activation by leading a tam of data scientists and data enginces.
+‘+ Initiated and led a real-time retargeting platform Boomerang with omnichannel communication capability, driving
++15% of incremental lit of conversions with 70% TTM reduction across user lifecycle.
+‘+ Fostered intemal PM culture by organizing intemal innovation events and PM committe.
+
+Visa - Palo Alt, CA, 2018-2019
+Product Manager, Data
+Developing data platforms and products asthe eitical foundation ofthe world’s largest digital payment network,
+‘© » Created and ld product roadmap to deploy E2E dat platforms fom vender evaluation and management to solution
+<eployment and migration with 100-PB scale operations.
+‘+ Managed and adopted both intemal and external data assets of 20+ DP products.
+‘© Launched Product Scorecard tol ued by $00 technical stafls to improve customer satisfaction and prioritize new
+feature requests,
+
+Facebook ~ Menlo Park, CA 2016-2018,
+Data Scientist, Infra Data Center Strategy
+Drove impacts in efficiency optimization from ideation to execution by launching Data Center Operations Analytics program.
+‘© Designed and deployed interactive visual products and analytical dashboards to evaluate operational risks and
+facilitate exploratory researches, gaining IM views in 6 months internally
+‘© Ledithe Datamart design and development with eapacity of PB scale and 100+ users by leading data engineers
+‘+ Built sit optimization program for disaster recovery reliability by developing Machine Learning models across 8
+‘lobal regions, reducing redundancy of 2 sites with 100+ millions savin.
+
+Yahoo — Taipei, Taiwan 2011-2014
+Senior Engincer & Technical Product Manager, E-Commerce Engineering Center
+Developed and managed international software platforms and websites for | milion users with $1OB sales (NTD),
+‘© Managed Cybersecurity products climinating 95% of fraud and 97% of abuse cases by leading TS Team.
+‘+ Initiated and launched Yahoo ServicePlus classified advertising marketplace which acquired 800k members and 1
+‘milion listing items by creating the vision and roadmap ofthe product and designing system architectures
+
+Sunplas Technology ~ Hsin-Chu, Taiwan 2006-2011
+‘Advanced Engineer. Consumer Electronic Solutions
+‘Led mult-locational teams to developed Integrated Circuit Solutions for Smart Home Devices with $10B+ in sales (NTD).
+
+EDUCATION
+
+University of Southern California, Marshall School of Business ~Los Angeles, CA 2016
+MBA with Concentration in Data Science and Operations
+
+National Chiao-Tung University ~ Taiwan 2006
+‘MS, Computer Science
+
+National Central University ~ Taiwan 2008
+BS, Mathematics
+
+ADDITIONAL INFORMATION
+
+‘© Cenificate: CSM, PMP, Software Product Management, Google Analytics

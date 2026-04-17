@@ -1,0 +1,151 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Guest services
++ Inventory control procedures
++ Merchandising expertise
+
++ Loss prevention
+
++ Cash register operations
+
++ Product promotions
+
+EDUCATION
+
+Gitam University
+Visakhapatnam + 05/2021
+
+Bachelors of Technology: Electrical
+‘And Communication Engineering
+Division of Business Academic
+Achievement Award
+
++ Dean's List
+
+PROFESSIONAL SUMMARY
+
+Experience in both Manual and Automated testing. + Proficiency in HP/Mercury tools (Unified
+Functional Testing, Application Lifecycle Management) + Performed planning and development of Test
+Plans, Test Cases and Test Scenario to meet product's business requirements. + Expert in retrieving
+database information writing SQL Queries and transforming data to information as needed. +
+Analyzed test results to ensure existing functionality and recommend corrective action where
+necessary. + Implemented Sanity Testing, Smoke Testing, Black Box Testing, GUI Testing, Functionality
+Testing, Performance Testing, Positive and Negative Testing, End to End testing, Security Testing,
+Integration Testing, System Testing, User Acceptance Testing (UAT) and Regression Testing of Web
+Based Applications and Client-Server Applications and assisted in Load Testing. » Good skills for
+problem solving and Bug Tracking using Application Lifecycle Management. + Thorough knowledge of
+the SDLC (Agile, Traditional) models and methodologies + Expertise in translating user requirements
+into technical specifications and mapping the process design, work flows for SDLC with documenting
+and managing business requirements. + Maintained the Requirements Traceability Matrix (RTM), Test
+‘Matrix and also performed Gap Analysis. + Analyzed Enhancement requests and Modification requests.
++ Professional expertise in MS Office and MS Project. + Possess excellent organizational,
+interpersonal, communication and documentation skills with good process management skills along
+with a remarkable ability to gather requirements to bring out quality product. + Ability to successfully
+manage multiple deadlines and multiple projects effectively through a combination of business and
+technical skills.
+
+WORK HISTORY
+
+Saic - Software Testing and Evaluation Analyst
+Offutt Air Force Base, NE + 05/2022 - 08/2022
+
++ Evaluated software for functionality, form and usability
+
++ Wrote and optimized test cases to maximize success of manual software testing with consistent,
+thorough approaches.
+
++ Looked beyond testing scripts to check software for interconnected problems not covered by
+established specifications.
+
++ Managed quality and success of individual development deliverables.
+
++ Carried out tests to identify, report and repair issues such as bugs and glitches.
+
++ Supported test review, defect control and configuration management within delivery pipeline.
+
++ Collaborated on all stages of systems development lifecycle, from requirement gathering to
+production releases.
+
++ Implemented user acceptance testing with focus on documenting defects, identifying bottlenecks
+and executing test cases.
+
+Saic - Software Quality Assurance Tester
+Atlanta, GA + 08/2020 - 03/2021
+
++ Identified and tracked defects with QTP and supported developers in resolving problems by
+completing additional tests
+
++ Created accurate and efficient test scripts in QTP to manage automated testing of certain
+products and features
+
++ Reported test findings to development personnel, advising staff on efficacy of subsequent
+remediation attempts
+
++ Published diagnostic findings in reporting literature to inform stakeholders of product performance
+
++ Tested, identified and troubleshot problems in field with cellular networks and data collection
+equipment
+
++ Worked alongside management to develop testing and improvernent plans
+
++ Evaluated results against design and customer standards
+
++ Demonstrated understanding of SDLC ,STLC, and AGILE project management
+
++ Conducted interviews with key business users to collect information on business processes and
+user requirements.
+
++ Consulted regularly with internal customers on application development project status, new project
+proposals and software-related technical issues.
+
+Flex - Software Quality Assurance Tester
+San Jose, CA + 07/2019 - 07/2020
+
++ Identified development issues by using various manual and automation testing techniques.
+
++ Improved product usability 18% by creating feature enhancement requests and performing systems
+analysis on existing products.
+
++ Conducted software compatibility tests with programs, hardware, operating systems or network
+environments.
+
++ Provided technical support during software installation and configuration.
+
++ Corrected any data entry error to prevent later issues such as duplication or data degradation.
+
++ Coordinated statistical data analysis, design, and information flow.
+
++ Performed system analysis, documentation, testing, implementation and user support for platform
+transitions.
+
+United Parcel Service - Industrial Engineer
+City, STATE « 05/2015 - 05/2018
+
++ Streamlined material handling and material flow procedures to reduce overall production times and
+shorten lead times on custom orders.
+
++ Designed labor utilization standards to balance worker efficiency with employee satisfaction,
+increasing overall productivity and satisfaction.
+
++ Collaborated with cross-functional development team members to analyze potential system
+solutions based on evolving client requirements.
+
++ Worked closely with software development and testing team members to design and develop robust
+solutions to meet client requirements for functionality, scalability and performance.
+
++ Researched, designed and implemented scalable applications for information identification,
+extraction, analysis, retrieval and indexing.
+
++ Developed and enhanced reports in Tableau and Power8!. connecting to single or multiple data
+sources to improve performance.

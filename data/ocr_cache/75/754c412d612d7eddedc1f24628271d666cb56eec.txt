@@ -1,0 +1,66 @@
+ROBERT SMITH
+Jr. Java Developer
+
+Phone: (0123}-456-789 | Emall: twotqutlresumne.com | Webstte: Qvekresume.com
+
+PSU |
+Result-oriented IT Professional with 6+ Years of IT experience in development, testing
+and documentation of web-based distributed systems, enterprise applications using
+
+JAVA/J2BE technologies. Designed and implemented several projects in e-Business &
+Worlklow Solutions for Health and Financial Industries.
+
+[CORE COMPETENCIES
+
+Java Technologies: JDBC Servlets 2.4/2.5, JSP 2.0, JMS, XML. XSL, XPath, XSLT.
+‘Swings. Applets. Web Services: JAXP. JAXB, SOAP. Apache Axis, Spring Restful Web
+Services. Frameworks: Springs MVC. Struts, Hibernate 2.0. JSF, Reflux.je, JUnit.
+
+“Testing, Mockito. Databases! Oracle Micrasoft -SQL Server MS Access Web /Scripting
+
+ROFESSIONAL EXPERIENCE
+
+Jr. Java Developer
+university Of Washington - February 2015 - Present
+
+Key Deliverables:
+
+Used Apache Maven for project management and building the application
+
++ Implementing applleations using Java, J2EE, JSP, Servlets, JDBC, XML, HTML
+Hibernate.
+
++ Developing test cases and validated users input using regular expressions in
+Javascript as well as in the server side.
+
++ Performing automated functional testing for all the web pages in the application,
+
++ Mapping database objects corresponding to LB2 database tables using, POJO
+classes ting JDBC
+
++ Worked on creating and publishing student web services audit, acadernic plan
+ete, | or other teams ta consume,
+
++ Workingon creating and publishing restful APIs, which can accept HTTP.
+
+Junior Java Developer
+ABC Corp - 2011 - 2012
+
+Key Deliverables:
+
++) Designed and implemented of RI
+and external developers,
+
++ Designed and implemented the software systems and enhancements in both
+backend and frontend areas.
+
++ Designed and implemented data transformation processes to prepare data for use
+by the APL
+
++ Followed the existing standards and conventions of our API platiorm and help
+drive future conventions,
+
+ESTTul web service APIs for use by both internal
+
+2259 Oak Street, Old Forge, New York. 19420
+this Ere mente Template copyright of irene, Wage Guldeines

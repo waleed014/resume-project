@@ -1,0 +1,128 @@
+David Clark
+
+Experienced SQL Developer | Advanced Data Migration Specialist
+
+@ help@enhancv.com
+Columbus, Ohio
+
+@ linkedin.com
+
+SUMMARY
+
+Bearing 10+ years of experience as an SOL Developer, I've fostered
+innovative solutions and optimally executed numerous data migrations.
+Key skills include SOL, T-SOL Development, and auditing. My greatest
+achievement has been saving $500,000 by implementing SQL
+optimizations.
+
+EXPERIENCE
+
+Senior SQL Developer
+
+JP Morgan Chase
+
+68 2017- Ongoing 9 Columbus, OH
+
+Directed teams in designing and implementing complex SQL solutions
+
++ Directed the development and execution of complex SOL solutions, leading to a
+15% increase in operational efficiency
+
++ Led the conversion of over 2 million lines of legacy codes to T-SQL, enhancing
+system performance by 25%
+
+* Managed the migration of over 500GB of data across multiple databases,
+improving data accuracy by 98%
+
+SQL Developer
+
+IBM
+
+68 2013-2017 9 Columbus, OH
+
+Encouraged innovative database solutions ensuring optimized performance
+
+« Spearheaded a team to develop and maintain complex SQL databases, reducing
+system downtime by 20%
+
+* Collaborated in data migration audit, leading to a decrease in data discrepancies
+by 30%
+
+* Implemented several database optimization techniques, improving system
+performance by 18%
+
+Data Migration Specialist
+
+Accenture
+
+€8 2009-2013 Columbus, OH
+
+Ensured structured data handling in migration processes
+
++ Effectively participated in the design and development of data migration
+programs
+
+* Coordinated and performed audit, reconciliation and exception reports for data
+migration, resulting in 99% data accuracy
+
++ Developed robust coding systems for T-SOL procedures, boosting system
+efficiency by 20%
+
+EDUCATION
+
+Bachelor's Degree in Information Technology
+
+The Ohio State University
+68 2003-2007 9 Columbus, OH
+
+STRENGTHS
+
+ja Complex SQL Development
+
+Excelled in solving various business problems
+through complex SOL development over 6 years
+
+5 Data Migration Expert
+
+Proven capability of effectively designing and
+developing large-scale data migration programs
+for 6+ years
+
+Ww T-SQL Procedures Coding
+
+Robust experience in coding reliable and
+optimized T-SQL procedures for over 5 years
+
+SKILLS
+
+SQL T-SOL
+
+Information Technology
+
+Designing Developing Data Migration
+
+Audit Coding T-SOL
+
+Stakeholder Presentations
+
+CERTIFICATION
+
+Microsoft Certified: SOL Server 2016
+Development
+
+Successfully completed the certification from Microsoft
+
+Advanced T-SQL Querying, Programming and
+Tuning for SOL Server
+Cleared the certification course from edX
+
+PASSIONS
+
+2 Data Security
+
+Passionate about securing data and ensuring
+privacy
+
+Music
+
+Enjoy immersing in different music genres

@@ -1,0 +1,73 @@
+Fred Murray
+
+DevOps Engineer
+
+2 Profile Details
+Results-driven senior-level DevOps engineering professional with Atlanta, GA
+strong technical acumen and proven capacity for leading world-class 123 4567 8910
+
+engineering teams from multiple technology disciplines. Excel at
+planning and executing large-scale cloud migration programs. Talent
+for developing forward-thinking systems strategies and deploying new
+code across fast-paced physical and virtual release cycles.
+
+& Employment History
+
+Senior DevOps Engineer at Insight Global, Atlanta, GA
+June 2017 — Present
++ Oversee global DevOps team in all facets of cloud release
+management and DevOps.
++ Implement and ensure compliance with cloud release
+management processes and standards.
++ Work with development team leads in developing and managing
+international code release pipeline.
++ Facilitate vendor negotiations in acquiring and upgrading tools.
+
+AWS DevOps Engineer at Elevance Health
+September 2013 — February 2017
+* Coordinated design, development and upkeep of cost-effective,
+highly efficient AWS, GCP and Azure cloud solutions.
++ Architected standardized CI/CD pipeline for all DevOps, including
+tool selection and vendor negotiations.
++ Collaborated with team of DevOps engineers in maintaining,
+upgrading and troubleshooting AWS apps.
++ Partnered with security teams to plan and execute in-depth AWS
+security assessments.
+
+DevOps Intern at Capital One, Atlanta, GA
+May 2013 — August 2013
+« Acquired hands-on, real world DevOps engineering skills in a
+highly secure banking environment.
++ Wrote automation script in PowerShell and Bash.
+* Contributed to deployment of multi-tier secure banking web
+application in AWS Cloud.
+
+2 Education
+
+Master of Science in Telecommunications , Georgia State
+University, Atlanta, GA
+September 2018 — May 2020
+
+Bachelor of Arts in Computer Science, Georgia State University,
+Atlanta, GA
+September 2009 — May 2013
+
+Fred_Murray@isp.com
+
+Skills
+Amazon AWS
+
+Jenkins
+
+Cloud Computing
+
+Systems Virtualization
+Leadership & Team Building
+Scripting & Debugging
+
+Enterprise Systems Migration
+
+Vendor Negotiations
+Infrastructure as Code (laC)
+
+Multi-cloud Environments

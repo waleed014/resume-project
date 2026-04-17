@@ -1,0 +1,186 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Oracle Business Intelligence
+Enterprise Edition 11g
+
++ Microsoft Visio, Excel
+
++ Languages C, C++, Java, SQL,
+PL/SQL
+
++ Visual Basic 5.0/6.0
+
++ SQL Server 2008/2012, MS
+‘Access 2000
+
++ Oracle 10g/11g
+
++ Microsoft SSIS - Design and
+Implementation
+
++ Microsoft SSRS - Design and
+Generate Reports
+
++ Orion Rhapsody Integration
+Engine
+
++ Informatica to SSIS - ETL Spec
+generation and Conversion
+
++ PostgreSQL, SQL Server
+‘Management Studio, SQL
+Developer, TOAD 11.6.1
+
+EDUCATION
+
+University of South Florida,
+College of engineering
+Tampa, FL + 2014
+
+Master of Science: Electrical
+Engineering
+
+Jain University, School of
+Engineering and Technology
+Bangalore, India « 2013
+
+Bachelor of Engineering:
+Electronics and Communications
+Electronics and Communication
+Engineering
+
+PROFESSIONAL SUMMARY
+
++ 3+ years of experience in Information Technology which includes experience in Business
+Requirement Gatherings, Analysis, Design, Data Modeling, Development, ETL Design using SSIS,
+Testing and Implementation of Data warehouse/Business Intelligence
+
++ Database experience: 3+ years of experience in Oracle 11i/ 10g, MS SQL Server 2005/2000,
+(database triggers, materialized views, In-line views, Packages, stored procedures, functions, and
+database constraints), SQL Loader, SQL*Plus, PL/SQL and Oracle DBMS Packages, OBIE 11g.
+
+WORK HISTORY
+
+Wells Fargo - SOL BI Developer/ETL Developer
+Castle Rock, CO + 01/2016 - Current
+
++ Design and implement control flows and functions for SQL Server 2012 and SSIS
+
++ Debug previously implemented SSIS packages and Database objects
+
++ Responsible for providing support to all other development teams with interfacing with all database
+related objects.
+
++ Coordinated with systems partners to finalize designs and confirm requirements.
+
++ Established compatibility with third party software products by developing program for
+modification and integration.
+
++ Consistently met deadlines and requirements for all production work orders.
+
+Nexstar Media Group Inc. - SOL Developer/Database Implementer
+Charlotte, NC + 01/2015 - 01/2016
+
++ NICE Actimize is a diversified financial services organization who are pioneers in Anti-Money
+Laundering(AML) solutions and their goal is to Detect, prevent, and investigate money laundering,
+fraud, and compliance violations with a holistic view of risk across their client organizations.
+
++ Designed and coded procedures and functions for SQL Server 2012 & Oracle 11g to interface
+between the Actimze AlS/RCM server and the Database.
+
++ Implemented multiple Actimize solutions such as CDD (Customer Due Diligence), WLF (Watch-List
+Filtering), SAM (Suspicious Activity Measurement) into client environment and interfaced them
+with respective tables from Application and Profile Database in SQL Server & Oracle 11g.
+
++ Responsible for the development, implementation, documentation, creation of test cases, defect
+resolution, testing, packaging, delivering code drops and patches to clients for Actimize's debit
+fraud solution and integrated fraud management platform, resulting in smooth go-live in
+production.
+
++ Increased the overall efficiency of the project by creating robust code, reusable components and
+scripts to reduce overhead in future deployments of the product.
+
++ Worked closely with Business Analysts, Solution Architects and Project Managers to extract the
+information from the previous phase of the project to enhance the solution's capabilities and
+performance.
+
++ Continued to provide support and have increased customer satisfaction and trust by understanding
+their issues and providing immediate assistance.
+
++ Established compatibility with third party software products by developing program for
+modification and integration.
+
+Elutions Inc - SQL Developer
+City, STATE + 2014 - 01/2015
+
++ Elutions inc. is an Energy Bureau Organization that develop conservation algorithms for various
+load profiles to operate and consume low energy using an Indigenous tool called "MAESTRO.
+
++ They Identify and quantify Electrical processes that would help the client save money, through
+energy savings.
+
++ Responsibilities.
+
++ Coding, Designing and Development using JAVA and SQL Server.
+
++ Created SQL procedures, functions.
+
++ Created and updated tables.
+
++ Migration of databases from one version to the other versions and applying patches.
+
++ Writing Packages for various functional areas.
+
++ Understanding the structure of new tables and transitioning the old queries with new tables.
+
++ Writing SQL.
+
++ Loader scripts to load data from flat files into tables.
+
++ Created and configured multiple instances for development and production environments.
+
++ Using SQL for querying and to diagnose the various operations of the database.
+
++ Creation of new database triggers and modifying the existing ones if necessary.
+
++ analyzing and debugging SQL queries for performance reasons.
+
++ Prepared detailed Technical Documentation.
+
+Dept. Of Patents And Licensing, USF - Intellectual Property Right Intern
+City, STATE « 2014 - 03/2014
+
++ Performing intellectual property evaluation, Prior Arts, market analysis, create marketing slicks,
+conduct license agreement comparisons.
+
+ReBazaar - Technical Director
+City, STATE, India + 05/2011 - 07/2013
+
++ ReBazaar is a chain of model airplane CNC manufacturers and resellers with a client base in Asia
+over 1 Million,
+
++ Responsibilities.
+
++ Lead the technical design and performance team.
+
++ Managing the entire client database.
+
++ Creating design plans for new and improved aircraft parts.
+
++ Responsible for keeping all parts compliant under the Wireless Planning Commission(WPC) of indi
+
+ADDITIONAL INFORMATION
+
++ AWARDS AND HONOURS : 2nd Place Highest Payload Lifted, 3rd Place Highest Payload Fraction out
+of 150 international teams, and the only Asian team to achieve a podium finish at: SAE AERO
+DESIGN EAST 2012, Held in Atlanta, GA in April 2012, Organized by NASA, Boeing and Lockheed
+Martin,

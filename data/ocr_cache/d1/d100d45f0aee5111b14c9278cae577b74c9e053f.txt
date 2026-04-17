@@ -1,0 +1,90 @@
+Tianah Jemerson
+
+Sap Abap De
+
+Profile
+
+SAP ABAP Developer with a strong foundation in 1 year of experience
+
+in designing, developing, and implementing SAP applications. Proficient
+in ABAP programming, debugging, and performance optimization.
+Demonstrated ability to work with cross-functional teams and deliver
+high-quality solutions on time and within scope. Adept at identifying and
+addressing client needs, with a focus on continuous improvement and
+innovation in the SAP landscape.
+
+Employment History
+
+‘SAP ABAP Developer at Northrop Grumman, MD
+Apr 2023 - Present
+
+* Successfully developed and implemented a complex SAP ABAP solution
+for a major defense project, resulting in a 30% reduction in manual data
+processing time and improved data accuracy by 20%,
+
++ Streamlined the integration of SAP with other critical systems, leading
+to a.25% improvement in system performance and reducing the average
+response time for end-users by 15%.
+
++ Led a team of 4 ABAP developers in the successful completion of a critical
+system upgrade, ensuring 100% compliance with industry standards and
+delivering the project on-time and within budget.
+
+* Designed and implemented an innovative, automated reporting system
+that increased the efficiency of data analysis for key stakeholders by 40%,
+enabling faster and more informed decision-making,
+
+Junior SAP ABAP Developer at Lockheed Martin, MD
+Aug 2022- Mar 2023
+
++ Developed and implemented a custom SAP ABAP solution for Lockheed
+Martin's inventory management system, resulting in a 20% increase in
+efficiency and a reduction of manual errors by 15%,
+
++ Successfully completed a complex data migration project, transferring
+‘over 500,000 records from legacy systems to the new SAP platform,
+ensuring 99.5% accuracy and completion within 3 months.
+
++ Streamlined and optimized existing SAP ABAP code, reducing average
+processing time by 25% and improving system performance for over 2,000
+users across the company.
+
+* Collaborated with a cross-functional team to design, develop, and
+implement an automated reporting system using SAP ABAP, which
+reduced manual reporting efforts by 30% and increased data accuracy by
+10%.
+
+Certificates
+
+SAP Certified Development Associate - ABAP with SAP NetWeaver
+
+Mar 2022
+
+SAP Certified Development Specialist - ABAP for SAP HANA.
+
+& tianah. on@gmail.com
+Xe (998) 248-9620
+9 1234 Main St, Baltimore, MD 21201
+
+Education
+
+Bachelor of Science in Information
+Technology with a specialization
+in SAP ABAP Development at
+University of Maryland, College
+Park, MD
+
+Sep 2017 - May 2022
+
+Relevant Coursework: Database
+Management, Systems Analysis
+
+and Design, Java Programming,
+
+Web Development, SAP ABAP.
+Development, ERP Systems, IT Project
+Management, and Data Warehousing.
+
+Links
+
+linkedin.com/in/tianahjemerson

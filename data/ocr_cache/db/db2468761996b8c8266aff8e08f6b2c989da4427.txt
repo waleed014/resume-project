@@ -1,0 +1,68 @@
+First Last
+
+New York, NY 10001 + (212) 123-4567 - first.m.last@resumeworded.com * linkedin.com/in/username
+
+EXPERIENCE
+
+2018-Present RESUME Worpep & Co. San Francisco, CA
+
+2014-2017
+
+2012-2014
+
+EDUCATION
+2014-2016
+
+2007-2011
+
+Senior Data Scientist
+
+e Developed customer segmentation algorithm in R which increased sales leads by 32% leading to an increased
+market share.
+
+Increased digital sales by improving e-commerce experience on existing websites through 25+ A/B tests,
+resulting in 200% increase in online orders the following year, ahead of schedule by 6 months.
+
+e Established strategy dashboards and charts informing and compiling multiple strategies and market and user
+insights, improving data visibility by 45%.
+
+© Collaborated with data engineers and team leads to create solutions increasing company’s growth by 18%.
+
+GrowrTus! New York, NY
+Data Scientist (2015-2017)
+© Designed, executed, and optimized digital marketing campaign on Google AdWords; led to 20% increase in ROI.
+© Updated existing data streamlining processes, resulting in a 18% redundancy reduction.
+e Organized a 2-day data conference with 100+ attendees, promoted event, secured attendance, liaised with
+sponsors, generating $40K revenue.
+© Created and presented models for potential holdings to senior managers, achieving 20% higher returns compared
+to previous years.
+e Coached 30 summer interns and launched a mentorship program for new joiners in the Berlin office.
+
+Associate Data Scientist (2014)
+© Promoted within 6 months of strong job performance - ahead of schedule by 6 months.
+© Led consolidation of 5 data systems into 1, resulting in 60k in annual savings.
+e Developed a prototype to identify essential influencers on social media clustering techniques over 150,000 data
+points in Python.
+e Predicted stock price with a 15% higher efficiency rate than traditional methods.
+
+ResuME Worpep & Co. San Francisco, CA
+Associate Data Scientist
+© Implemented demand forecasting models, improving data forecast and accuracy by 45%.
+© Utilized web scraping techniques to help the firm download public data, including 10,000 company descriptions
+and quotes, resulting in 50% increment in research efficiency.
+
+ReEsuME WorbeED ENGINEERING SCHOOL New York, NY
+Master of Data Science; Minor in Business Analytics
+@ Awards: Bill & Melinda Gates Fellow (only 5 awarded to class).
+
+ResuME WorbeD UNIVERSITY San Francisco, CA
+Bachelor's in Marketing: Major in Web Analytics
+
+OTHER
+
+e Languages: English (native), French (intermediate, fluent).
+
+@ Technical Skills: Microsoft Access, SQL, Python, Agile Project Management, Excel.
+© Certifications: Project Management Professional (PMP) (August 2016).
+
+© Volunteering: Volunteered 25 hours/month at ABC Foundation (2012-2014).

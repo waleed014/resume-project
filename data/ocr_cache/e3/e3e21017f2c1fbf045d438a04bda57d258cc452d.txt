@@ -1,0 +1,69 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Software Quality Assurance tester with two plus years of experience in entire test life cycle which includes Test initiation/requirement, Test
+Plan, Test Design, Test Execution and defect logging, Test Report and Test Closure.
+
+In depth understanding of Software Development Life Cycle (SDLC), different types of methodologies such as Waterfall, Iterative, and Agile
+Experience in Design, Developing Master Test Plan and execution of Test Cases, Test Scripts and Test Strategy for both client-server and web-
+based applications.
+
+Experience in front end and back end testing
+
+Proficient in using Microsoft Test Management Tool (MTM) and Microsoft Visual Studio (VSTF) for tracking test plan, defects/bugs and
+reporting.
+
+Extensive Experience on testing R/3 client server application like SAP software and web application technology like WebDynpro.
+
+Knowledge on C++ programming language.
+
+Efficient Communication skills, Proactive, Multitasking, Fast Leaner and a Team Player.
+
+SKILLS
+
+Testing Tools: Microsoft Test Manager, Microsoft Visual Studio and Test Cases, Plans and Scripts
+
+knowledge of HP Quality Center Unit, System Integration, User Acceptance Performance, Load,
+Defects/Bugs discovery and Tracking Regression and Negative testing, Black Box Testing
+
+Tracking Logging and Reporting
+
+‘Work History
+
+Contractor - SAP Tester/QA. 08/2014 - 06/2016
+Microsoft — City, STATE
+
+‘With Microsoft worked on two different projects: TIP BCM-XML and RMCA Telco Taxation Project as a SAP QA tester- Worked on
+analyzing the Business Requirements, Functional/Technical Requirements and developed overall Master Test Plan, Test cases for functional
+testing and reviewed the test cases with concemed partners and received sign off. Uploaded them in Microsoft Test Manager (MTM) using
+Microsoft Visual Studio (VSTF).- Worked on execution of hundreds of test cases and logged bugs/defects generated from those testing.
+Held a defect triage meeting with the analyst, developers, program managers and the clients as required. Ran a regression testing and reported to
+the analyst.- Developed the Performance Test Scenarios and uploaded the same to share point server based on functional requirements,
+general requirements and system specifications. - Created hundreds of test cases and executed manually - Worked on performance
+testing to check how the SAP BIT Interface behaves under an increasing load of invoices using DPI tool and generated maximum ten thousand
+of invoices via web service. Worked continuously on performance testing for 8 hours’ duration test.- Worked on integration testing with the
+upstream and downstream system. - Worked on creation of thousands of BP/CA (Business Partner/Contract Account) using automation tool
+SAP eCATT (extended Computer Aided Test Tool).- Tested the received acknowledged XML. file from bank manually and loaded them in
+SAP BCM (Business Connection Monitor) for testing purposes. Both foreground and background testing was done for SAP BCM.
+connector.- Managed the offshore test team regarding the test case execution and worked as a test lead for part of the project. During
+testing phase generated daily testing report encompassing overall test execution, bugs found, regression test execution along with mitigation
+
+plan.- Worked closely with UAT team on creation of training material and end user test cases/data.
+
+Contractor — QA Tester, 05/2014 - 07/2014
+Deloitte — City, STATE
+
+On upgrade internal project with Deloitte, worked on Web Dynpro web based portal for SAP with ABAP team for resolving issues and
+manual testing.- Review and validate the test cases created and was making sure the SDLC process was followed.- Heavily involved in
+Using Portal content administration, system administration and user administration. Developed testing scripts and performed UAT on SAP
+‘Web Dynpro portal using Test ID's for developers, super users, and end users. - Engaged with offshore team, and followed up with the
+
+security team.- Worked in an agile team environment using Scrum.
+
+EDUucaTION
+
+Bachelors: Material Science and Engineering, 2013,
+University of Idaho - Moscow, Idaho

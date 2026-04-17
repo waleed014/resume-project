@@ -1,0 +1,78 @@
+Elena Hernandez
+
+552 Fourth Boulevard, Buffalo, NY 45678
+
+Education
+
+Master of Science in Data Science
+New York University,
+
+New York, NY
+
+September 2007 -June 2009
+
+Bachelor of Arts in Computer
+Science
+
+University of California - Berkeley,
+Berkeley, CA
+
+‘September 2003 - June 2007
+
+Key Skills
+
+Experience leading
+‘multi-disciplinary teams
+
+Coding skills in R, Python, C+*,
+Java
+
+Big data, data mining and data
+visualization
+
+Risk analysis and problem solving
+Skills:
+
+MySQL and JSON
+
+Certifications
+
+Microsoft Certified Solutions
+Expert, 2019
+
+SAS Certified Big Data
+Professional, 2017
+
+ehernandez@email.com
+(821) 987-6543
+
+ficiency
+
+ch abilities
+
+Professional Experience
+
+Senior Data Scientist
+‘Omicron Biotech, Buffalo, NY | January 2012 - Present
+
+‘Assist in scientific research into vaccines and analyzed the results
+Collect, study and interpret large datasets of research results,
+collate reports and perform accurate data management
+
+Develop forecasting models to increase productivity and
+efficiency
+
+Provide monthly reports to executives detailing the progress of
+research
+
+Data Scientist
+Kappa Corporation, Albany, NY | July 2009 - December 2011
+
+Led big data machine Learning initiative that developed and
+deployed algorithms that allowed business to grow over 200%
+Developed model to accurately predict fraud activity, resultir
+75% decrease in company losses
+
+Used computer programming skills in R, Python and SAS to link
+data collected on-platform and off-platform to create thorough
+datasets that predict successful product development initiatives

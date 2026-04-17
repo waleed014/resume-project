@@ -1,0 +1,96 @@
+RODOLFO BOTSFORD
+
+6860 Purdy Causeway, Los Angeles, CA + +1(555) 678 4599
+
+‘WORK EXPERIENCE
+
+SENIOR SQL DEVELOPER 02/2016 - PRESENT
+Los Angeles, CA
+
+‘+ Work with DBA’s to get change requests implemented
+
++ Excellent Learning & Development schemes and career development programmes
+
++ Generous holiday allowance, subsidised canteen, free gym classes and regular £1 sample sales!
+
++ Life insurance, medical care, eycle to work scheme and huge staff discount + much more
+
+‘+ Engineering approaches for storing, transforming, transporting, synchronising, archiving and securing data, alongside advising team
+
+‘members on the best approaches
+‘+ Working with teams to hel
+
+lentify best practices and promote their adoption
+
+‘+ Ensuring data engineering is an integral part of the development process, following the same practices of source control, and automated
+build, testing, versioning and deployment
+
+‘+ Helping to identify potential performance issues, bottlenecks and pain points, and recommend ways to mitigate or resolve them
+
+‘+ Researching and experimenting with emerging data technologies and industry trends with a view to bringing business value through early
+adoption
+
+SQL DEVELOPER 10/2011 11/2015
+San Francisco, CA
+
++ Performs software design using software development fundamentals
+
++ Debugs, tests, and deploys software solutions following the software development lifecycle
+
+‘+ Works with other departments, users, and IT Management to determine business needs
+
+‘+ Develops and maintains key components of the software suite using various applications technologies as well as writes technical
+
+requirements and specifications for new products or services
+
++ Implements workflows as well as development of Business Intelligence per department standards and procedures
+
++ Participates in product design reviews by providing creative and practical ideas and solutions in a teamwork environment
+
+‘+ Trains end-users in the use of new system functionality or modifications to existing functions
+
+‘+ Supports various off-the-shelf applications including system interfaces
+
+JUNIOR SQL DEVELOPER 12/2004 - 05/2011
+‘San Francisco, CA
+
+‘+ Triage and solve complex issues from various business units within established SLAs
+
++ Design and develop solutions to prevent issues from reoccurring
+
+‘+ Responsible for design, development and testing of tools used by Application Support team
+
+‘+ Responsible for maintenance and enhancements to back office applications
+
++ Coordinate business needs and solutions between Application Support team and other functional business units,
+
++ SQL Developer who is expert in creating and maintaining SSIS Packages and maintain SQL Server, Write ad hoc queries in Oracle
+
+database
++ Research, analyze and troubleshoot issues in database applications
+
+‘+ Studies systems flow, data usage, and work processes,
+
+EDUCATION
+
+MUSKINGUM UNIVERSITY 2000 - 2004
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Excellent interpersonal skills including verbal and written communication skill, teamwork and customer service skills
+
+‘+ Strong analytical abilities, organizational skills, problem-solving skills, and attention to detail
+
+‘+ Excellent written and verbal communication skills with all levels of the organization, including technical documentation and soft
+communication skills
+
+‘+ Excellent time management skills. Able to effectively prioritize and execute tasks
+
++ Strong T-SQL, SSIS, and SSRS programming and debugging skill is highest priority
+
++ Basi
+
+iterpersonal, verbal and written communication skills; group presentation and publie speaking skills
+‘+ Potential primary background for cross skill: experienced BI resources with prior experience in Information Management, such as one
+of the following

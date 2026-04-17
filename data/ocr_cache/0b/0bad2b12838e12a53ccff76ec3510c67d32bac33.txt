@@ -1,0 +1,87 @@
+Ottilie O'Keefe
+5123 Wisoky Hollow, Los Angeles, CA # Phone: +1 (555) 957 5507
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR QA ANALYST PERFORMANCE TESTING
+‘Los Angeles, CA
+03/2016 — present
+‘© Working with the Test Manager, provide direction and strategy to the team for the product or LOB to
+improve testing practices and become more efficient
+‘+ Advise Test Manager/Project Manager regarding overall quality of project and identify outstanding issues
+through established project management protocols
+‘* Mentor the performance test analysts technically, lead the Performance Test Events during project roll-
+‘outs and guide the project team
+‘* Responsible for talent management of the team including talent acquisitions, talent development
+‘Provide training on performane testing related topics. Contribute to QA Community of Practice from
+non-functional testing perspective
+‘+ Senior Performance Test Analyst will be responsible for building the core capabilities of Performancel
+testing for applications/systems across the organization
+‘© Ensure effective utilization of the quality tools for performane testing , co-ordinate with other Testing
+Teams
+
+FREELANCE SENIOR QA ANALYST
+
+Phoenix, AZ
+11/2010 02/2016
+
+‘© Works closely with cross-functional project teams and clients to develop QA project schedules
+Work with the QA Manager to evaluate and enhance SQA standards, technologies and approaches
+
+Provide accurate QA estimates for assigned work
+
+Provides accurate QA estimates for assigned work
+
+Providing working knowledge of Quality Assurance software, tools, and best practices
+
+Develops and executes test cases, user acceptance tests and functional & system tests
+
+Execution of testing plans and the creation/management of bug lists
+
+SENIOR QA ANALYST
+
+Boston, MA
+06/2005 — 09/2010
+
++ Assist clients, service providers, managers and supervisors to clarify operating policies and assist in the
+design of concise written operating procedures
+
+‘© Create and manage framework to support development of load scripts
+
+‘© Assist QA manager to plan, estimate and manage performance testing projects for various applications
+
+‘+ Collaborates with developers to improve overall quality by emphasizing defect prevention through the
+development process
+
+‘* Work with management, account, technical and creative teams to develop and streamline work flows
+
+* Work with Product and Development teams to develop and execute test plans
+
+‘© Design, develop and maintain an automated test strategy that fully exercises end-user workflows and
+provides a framework for ongoing endurance/load tests
+
+UNIVERSITY OF MASSACHUSETTS AMHERST
+Bachelor’s Degree in Computer Science
+
+Strong knowledge of tools such as HP ALM/Quality Center, QTP/UFT and SQL databases
+Excellent Knowledge of test management tools (Quality Center, Rally, JIRA etc)
+
+Strong attention to detail and proven ability to meet deadlines
+
+Strong knowledge of tools such as HP ALM/Quality Center, JIRA, Rally
+
+Strong knowledge of tools such as HP ALM/Quality Center, Valium, SOAP UI and SQL databases
+Good knowledge of test management tools such as HP ALM/Quality Center and test automation tools
+such as QTP, RIT and TOSCA
+
+Knowledge on usability and application performance considerations
+
+Strong knowledge of tools such as QC & Rally
+
+Expert knowledge of IT and software quality assurance
+
+Strong problem solving skills with the ability to analyze and debug issues

@@ -1,0 +1,63 @@
+ROBERT SMITH
+
+Senior ETL Developer Il
+
+info@qwikresume.com | Linkedin Profile | Qwikresume.com
+
+Senlor ETL Developer Il with extensive experience of 13 years in the Finance domain
+and experience in transactional databases and data warehouse design, analysis and
+Implementation using various Relational Databases like Oracle, SQL Server, and DB2.
+Extensively used SQL and PL/SQL to write Stored Procedures, Functions, Packages
+and Triggers. Worked on Data warehouse projects in financials, HealthCare,
+Insurance, and have acquired comprehensive ETL experience and skills
+
+EXPERIENCE
+
+Senior ETL Developer It
+LPL Financials - MARCH 2010 - PRESENT
+
++ Working closely with data acquisition and data distribution team to
+maintain consistent data avallabillty for financial reporting,
+
+‘Lead ETL developer far retirement partners and MDM project
+Currently responsible for loading data from various sources to
+LPLSrsquois advisor facing servers.
+
++ Responsible tor implementing the new Exa-Data platform for LPL.
+Managed SSRS report server for Ip! reporting tearm.
+
++ Responsible for deployment and maintenance of Ral files on,
+LPL&irsquo;s report server.
+
++ Creating and managing Informatica mappings for retirement partners
+project (owner of the project), creating the delivery method and
+workflow dependencies, Involving in deployment and release
+activites,
+
++ Responsible for LPLs MDM Implementation using Informatica MOM
+working with offshore ETL team to develop and deliver a company
+wide solution,
+
++ Developed number of complex Informatica mappings, mapplets and
+reusable transformations for recreating the logic in epm solution,
+
+ETL Developer
+ABC Corp - 2005 - 2010
+
++ Developed mappings using various transformations like update
+strategy, lookup, stored procedure, router, filter, sequence generator,
+joiner, aggregator, expression, SQL transformation
+
++ Worked as ETL lead on various projects to create Informatica
+mappings, workflow, and sessions,
+
++ Performed data management tasks as required, loading, editing,
+restoring and archiving data:
+
++ Managed complex mapping development using informatica power
+center tools, Created mappings using transformations like the
+expression, Joiner, router, sequence generator.
+
+‘Managed the reporting server and created ad-hoc reparts from OLTP
+
+‘© This Free Resume Template isthe copyright of Quikresume.com, Usage Guidelines

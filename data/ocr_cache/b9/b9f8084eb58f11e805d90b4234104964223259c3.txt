@@ -1,0 +1,130 @@
+Jessica Claire
+
+© 100 Montgomery St. 10t Floor *& (555) 492-1000 4 resumesample@example com
+
+SUMMARY © + Over 4 years of experience in Analysis, Design, Development, Management, and implementation of
+various standalone and client - server architecture-based enterprise application software.
+
+‘+ Experience in each phase of software Development ite cycle (SDLC) in Agile Sofware Methodology
+‘and the waterfall methodology.
+
+‘+ Exposed to al aspects of sofware development if cycle such as Analysis, Planning, Developing,
+Testing and implementing and Post-production analysis of the projects.
+
+‘+ Emtensive experience of working withthe build and deployment of large-scale applications,
+
++ Hands on experience with Subversion and GIT.
+
+‘+ Experience in Administration / Maintenance of source control management systems such as Git Hud
+{and Subversion SVN. Created tags and Branches, fx the merge issues and administered Software
+Repositories.
+
+‘+ Hands on experience with bug tracking tools ike Tracker, Jira, HP Service Manager and TFS.
+
+‘+ Proposed and implemented branching strategies in version control systems.
+
++ Experience in a UNDX environment and expertise In several flavors of Linux including Red Hat, CentOS,
+and bunt
+
+‘+ Strong experience in System Adminstration, instalation, Upgrading Patches, Configuration,
+‘Troubleshooting, Secunty, Backup, Disaster Recovery, Performance Monitoring and Fine-tuning on Red
+Hat Linux Systems.
+
++ Experience writing Ruby, Python, Shell (Bash), Perl and Batch/PowerShell scripts to automate the
+
+deployments,
+SKILLS O + SWN.Git ‘+ Pert, Shell Kshell, Bash), Python
++ ira, Splunk = Django
++ Jenkins, Ansible, Kafka, HPSA ‘+ MySQL, PostgreSaL, Oracle DB, MS-SQL.
++ Cloud Environment ‘© Windows(2k8, 212,216), Linux (RHEL,
+‘+ Amazon Web Services (AWS) Ubuntu, Centos)
+EXPERIENCE © PYTHON DEVELOPER 12/2018 to CURRENT
+
+‘Cumming Lic | Bethesda, MD
++ Developed most of the application part in Linux environment and very much familar vith al of ts
+commands.
+‘+ As member of Release Engineering group, redefined processes and implemented tools for sofware
+bull, patch creation, source control, and release tracking and reporting,
++ Assist ith maintaining current bulld systems, developed build scripts, and maintained the source
+control system.
+‘+ Experience in using collections in Python for manipulating and looping through afferent user defined
+objects,
+‘+ Used python and bash for automation of atferent installations like Perl packages and Aathilpro.
+‘+ Worked on ansible deployments, written various ansible playbooks with multiple roles, tasks with loops,
+templates, service management, host variables, group variables etc.
+‘+ Used Ansible to manage Web applications, Environments configuration Files, Users, Mount points and
+Packages,
+‘+ Ansible playbook for application deployment and configuration management, orchestration on virtual
+Instances to install and push intial configuration
++ Provide software configuration, perform failure analysis of system architecture and migrations,
++ Created entire application using Python, Per, PostgreSQL and Linux.
++ Experience of various Python application development and CUCD pipeline tools lke GitHub, Jenkins and
+Unix shel scripting
++ Selting up the Ansible control machine (RHEL7) and configured the remote host inventories via SSH.
+‘+ lnvoWved in Pytnon OOP code for quality, logging, monitoring, and debugging code optimization.
+‘+ Created Unit test regression test framework for workinginew code.
+‘+ Used Pyt to implement GUI for the user to create, modtly and view reports based on client data,
+‘+ Automated installation of the universal Splunk forwarder on several Unix servers.
+‘+ Developed several standalone scripts for the insaling and the uninstaling diferent RPM's,
+‘+ Environment Python, Bash, Jenkins, Ansible, UND Linux, windows, HPSA, GIT, Groowy, Jira, Perl, Agi,
+ISON, Splunk,
+AVG PYTHON DEVELOPER 09/2017 to 11/2018
+Wavicle Data Solutions | Chicago, IL
++ Bull! pipeine to automatically test all code commits and CD pipeline for developers to ship code to
+production
++ Implemented Continuous integration using Jenkins and TFS,
+‘+ Developed Views and Templates with Django view controller and template architecture to create a user-
+friendly website interface
++ Configured the Django admin site, dashboard and created a custom Django dashboard for end users
+vith custom look and feel
+‘+ Used Django APIs for database access
+‘+ Used Python and Django for XML. JSON processing, data exchange and business logic implementation
+‘+ Created and run test automation scrips for regression testing using Selenium.
+‘+ Coordinate and assist developers with establishing and applying appropriate branching, labeling and
+‘naming conventions using GIT source control
+‘+ Designed and implemented scalable, secure cloud architecture based on Amazon Web Services
+‘+ Implemented AWS solutions using EZC, $3, RDS, EBS, SNS, Elastic Load Balancer, and Auto scaling
+groups, Optimized volumes and EC2 instances.
+‘Designed, build and deployed applications utiizing AWS EC2, Routes3, $3, RDS, DynamoDB, Lambda,
+SOS and lAM etc
+‘+ Configured Elastic search, Log stash and Kibana (ELK) for og analytics, fulltext search, application
+‘monitoring in integration with AWS Lambda and Cioud Watch
+‘+ Composed high level Katka producers and consumers forthe data streaming across various
+databases.
+‘+ Created tne REST API using python and used DJANGO.
+‘+ Strong Expertise in working with server-side technologies including databases, Restful APL and MVC.
+design patterns,
+‘+ Managed datasets using Panda data frames and MySQL, queries MYSQL database queries rom
+python using Python-MySaL. connector and MySQL a8 package to retrieve,
+‘+ Designed and developed components using Python with Ojango framework
+‘+ Implemented code in python to retrieve and manipulate data
+‘+ Involved in wrting SQL queries implementing functions, triggers, cursors, object types, sequences,
+Indexes ete
+‘+ Environment Java, Subversion SVN, AWS (EC2, $3, RouteS3, ELB, EBS, VPC, AM, SNS, SQS, RDS,
+1AM, Lambda), JIRA, AWS, ANT, GIT, Maven, Jenkins, UNDY Linux, Python, Ruby, Shell, Per
++ Galay ! technologies.
+LIGJX ADMINANTERN 09/2016 to 08/2017
+Galaxy | Technologies | city, STATE
+‘+ Linux using kick-start and applying secunty polices for hardening the server based on the company
+poticies
+‘+ Performing capacity analysis, monitoring and controling disk space usage on systems,
+‘+ Monitoring system activities and fine-tuning system parameters and configurations to optimize
+Performance and ensuring secunty of systems.
+‘+ Install, configure, and troubleshoot enterprise-wide Apache web servers and Tomeat application
+containers in a large Red Hat Linux/CentOS environment.
++ Deploy, upgrade and maintain application and web servers
+‘+ Designing Firewall rules for new servers to enable communication with application,
+‘+ Setting up network environments using TCPIP, NIS, NFS, DNS, VSFTP and DHCP
+‘+ Setting up user and group login 10's, printing parameters, network configuration, password, resoWving
+Permissions and access related issues via ACL.
+‘+ Providing tecnnical support for intemal users and resolving trouble shooting tickets,
++ Red Hat Package Management (RPM) and YUM package instalation and maintenance,
+‘+ Remote system administration via tools ike SSH and Telnet
+‘+ Extensive use of crontab forjob automation
++ Works with Database administrators to tune Kernel for Oracle installations
++ Provide After Hours and On-Call Linux support to Development team & internal customers.
+‘+ Monitor system activites and fine tune system parameters and contigurations to optimize performance
+Environment: Linux, RPM, SSH, TCPIP, NS, NFS, DNS, VSFTP, DHCP, ACL, CentOS, Viware.
+
+EDUCATION AND ©) Master of Science | Computer Engineering 2016
+TRAINING alifornia State University, Fullerton

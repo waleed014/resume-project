@@ -1,0 +1,59 @@
+irst Name, Last Name
+Location | Phone | Ema nen
+
+Technical Project Management
+
+Certified Project Management Professional (PMP) with proven success managing multiple, competing priorities in dynamic,
+{fest paced technica environments
+
+Ambitious and accountable technical professional with sold history of effective project management supporting strategic
+cbjectives. Excellent collaborator; proficient in driving synergies and developing high-performing teams to ensure attainment of
+time-sensitive deadlines. Skiled project leader; continually demonstrate keen attention to detall and adept at translating
+complex business requirements into viable solutions. Experience managing major data center buldovts. Talent for rapidly
+‘mastering technologies to enhance team productivity, Possess several professional ertifiations.
+
+Core Competencies include:
+‘Full ite Cycle Project Management Quality Assurance / User Acceptance Testing
+‘+ Systems Optimization / Implementation © infrastructure Design
+‘© Operations Leadership * Problem Resolution / Troubleshooting
+‘© Business Analysis / Reporting Escalation Support / Training
+
+Professional Experience
+
+Technology Company, Houston, Texas
+Technical Project Manager, 8/2039 ~ Present
+
+Manage projects for protecting and supporting enterprise banking systems including initiatives for supporting system
+Installation, branch expansion, and facility remodeling. Plan and manage all phases of projects from concept to execution,
+Develop and ensure adherence to projec scope, schedules, timelines, and budgets. Create detailed project planning
+documentation and records. Supervise and coach team of multidicplinary technical subject matter experts (SME). Key
+projects/achievements:
+
++ Selected as Project Manager for buildout of $25M, 10K sq.ft, fist-ever HPL managed datacenter; migrated 815 app
+instances and 6 600 servers from 2 esting datacenters; deployed new datacenter facity to house HP infrastructure;
+‘on-boarded 2 managed service providers (MSP) to support new datacenter
+
++ Served as Project/Program Manager on Datacenter Services team responsible fr ifrstructure and aplication migration
+project planning and oversight, including project management, metrics, reporting, technical services, site effort
+coordination, and large scale, long-term planing
+
+National Bank, The Woodlands Texas
+Technical Project Manager, 10/2018 ~8/2019
+Coordinated administration, security, and support of enterprise banking systems. Performed dally systems maintenance and
+‘managed projects to support system installation, branch expansion, and facity remodel projects. Key projets/achievements:
++ Orchestrated installation and configuration of enterprise network management software suite spanning 800 branch
+locations and 3,000 network nodes; project was critical for maintaining IT financial systems stabil.
+
++ Standardized procedure for system updates requiring change management, leading to significant reduction in systems
+‘down-time and enhances team efficiency.
+
+‘Memarial Hospital, Huntsville, Teas
+Technical Project Manager, 7/2015 ~ 10/2018
+
+Spearheaded development and implementation of highly visible network upgrades supporting mission critical directives.
+Established reputation for resourcefulness and versatility assole network engineer. Partnered with ky stakeholders leveraging
+solid healthcare and technical expertise. Key projects achievements:
+
++ Successfully completed 450 incidents and 13 projects in 18 months
+
+‘continued.

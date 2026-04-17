@@ -1,0 +1,55 @@
+Robert Smith prone 23) 4567090
+
+Ema: InfoSauikiesume.com
+5 7 Website  sax.quikresume.com
+Senlor Architect LUnkedin: linkedin. comlgwikresume
+‘Address 1737 Marshullle Road, Alabama
+
+SUMMARY
+
+Designing the architecture of complete solutions as well as managing project ifecycles and
+teams of engineers,
+
+SKILLS
+
+‘Auto cad, Sketch up,
+WORK EXPERIENCE
+
+Senior Architect
+[ABC Corporation - May 2022 ~ August 2025
+Update Oracle Hyperion Essbase ASO/BSO cubes with rember modifications.
+Update Oracle Hyperion Planning applications, Reviewing the Quantities and the contractors
+Invoices,
+Research business Issues that are reflected in Planning and Essbase,
+Modify and test essbase business rules and calc scripts, Bulld reports in Oracle Hyperion
+Financial Reporting
+Develop Max! scripts and Windows batches to rernotely run thern
+Set up batch pracesses and schedules to autornate Orade Hyperion Fnanclal reports,
+Architectural Design conflict solutions, creating details whenever needed. Site supervision and
+Inspections with quality checklists
+
+Senior Architect
+[AAC Corporation -2009- 2012
+Over a large-scale re-engineering effort of a mission critical project managernent systern for a
+large Engineering and Construction company.
+‘The application consisted of more thant 400 SQLForms 3.0 character-base screens and
+processes,
+‘The database was re-engineered from an Oracle RDBMS version 6x ton Oracle RDBMS
+version 7.
+All screens were re-clesigned for a Windows-based client-server architecture utilizing Oracle
+Designer and Developer.
+Additional activities included the Introduction of database level referential integrity forall
+tables and performance enhancing denormalization of data,
+Primary responsibilities included development of application infrastructure (programming and
+GUI standards, templates, lbrarles, and referenced abjects), progratnming of critical screens
+{and managernent ofthe prograrnming effort for more than 20 consultants and In-house
+programmers:
+Al programming done using Oracle Technology tools, including the Oracle database (i,
+PLISOL, Oracle Developer (Forms and Reports) and Oracle Designer,
+
+EDUCATION
+
+Bachelors of Science in Business Administration - (Colorado Technical University - Colorado
+Springs, CO)
+
+(0 This Era sume Tamla is the copyright of Onakesume com. Uso Guldatns

@@ -1,0 +1,86 @@
+Lydia Botsford
+92103 Bettie Views, New York, NY @ Phone: +1 (555) 844 4911
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SAP GRC LEAD
+Detroit, MI
+02/2016 — present
+‘+ Actively develops team members and direct reports by providing day-to-day guidance, feedback and on-
+the-job coaching
+‘© Work with IT and business process subject matter experts to identify process improvement
+recommendations
+‘* Develop solid working relationships with business and clients as the single point of contact for GRC
+solutions
+‘* Work within change management guidelines ensuring all transports moved into production maintain
+system integrity
++ Provide production support of existing security roles and functions
+‘* Utilize established test procedures to test IT controls to assess the design and operating effectiveness of
+application controls
++ Routine line management and leadership of staff within the GRC Administration function
+
+SAP GRC MANAGER
+
+‘Los Angeles, CA
+07/2011 — 10/2015
+
+‘+ Participate in business development initiatives along with client management and account management
+‘Conduct performance reviews and contribute to performance feedback for staff
+
+Actively participate in Business Development and Practice building initiatives
+
+Lead and/or provide primary support toward installation of SAP application releases into production
+Develop people through effectively supervising, coaching, and mentoring staff
+
+Lead client communications and change management efforts during the implementation process
+Create operational documentation for the SAP application
+
+SAP GRC ANALYST
+
+Boston, MA
+01/2008 — 02/2011
+
+‘Ensures that application security standards are well integrated into systems by incorporating SOD testing
+into the security process
+
+‘* Monitors and maintains SAP application security policies, standards, guidelines, and procedures that are
+in alignment with the corporate strategic plan and supports the project team during the implementation
+
+‘* Responsible for implementation and integration of SAP GRC - SOD and other post go live sustainment
+
+tools
+
+‘Work with the business managers in refining risk and mitigating controls
+
+Support / educate business areas on risks and proposed mitigating controls
+
+Understand compliance related issues as it relates to SAP roles
+
+Analyze information across multiple groups, identifying conflicts and trends
+
+UNIVERSITY OF CALIFORNIA, SANTA BARBARA
+Bachelor’s Degree in Computer Science
+
+Knowledge in Compliance and Control Details,
+Good to have exposure in Auditing SAP ERP, SAP ERP Technical Audit, or requisite knowledge of SAP
+Reasonable working knowledge in Security and Change Management
+
+Audit Reporting like consolidate risk assessment or collaborative risk assessment reports
+
+Working knowledge in GRC Access Request Management including ARQ SoD, Approvers, Audit
+Evidence, User review
+
+Knowledge in Control Evaluation Setup
+
+Expert knowledge in Automated Control Monitoring
+
+Designing Audit Planning,
+
+Hands-on working experience in Process Control 10.0
+
+Hands-on working experience in Access Control, Segregation of Duties and Restricted Access, Access
+control on the Land scape and system setup Audit Consideration

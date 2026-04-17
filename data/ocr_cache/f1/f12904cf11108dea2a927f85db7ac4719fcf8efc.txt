@@ -1,0 +1,147 @@
+EDUCATION
+
+TECHNICAL SKILLS
+
+EXPERIENCE
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA94105 2 (555) 432-1000 4 resumesample@example.com
+
+Master of Science | Computer information Technology and Electrical Engineering Technology
+
+Purdue University, Indiana, USA
+
+3.7 GPA
+
+Ba0helor of Science | Electrical Engineering Technology
+Jawaharlal Nehru Technological University , Kakinada, India
+
+3.8GPA
+
+Programming Languages - C, Java, Python +
+Frameworks - Django, Flask
+Web Technologies - HTML, CSS, PHP.
+
+2017
+
+2014
+
+Tools and Software - Pycharm, Sublime Text,
+Eclipse.NetBeans JIRA, Microsoft Visual Studio,
+Jira, HLM, GIT, SVN
+
+WordPress + Databases - Oracle, MySQL, HBase
++ Python Libraries - Numpy, Matplotlib, Pandas, * Big Data Ecosystems - HDFS, MapReduce,
+Bottle PIG HBase, Zookeeper, Hive, Sqoop, Oozie and
+
+Flume
+Operating Systems - Windows, Centos,
+Debian, Ubuntu
+
+‘+ Algorithms - Linear Regression, Logistic
+Regression, Decision Tree, SVM, Naive Bayes, +
+KNN, K-Means
+
+PYTHON/DJANGO DEVELOPER 2017 to 06/2017
+
+Medical Science | Gaithersburg, MD
+‘+ Worked with tables from Oracle/MySQL/ PostgreSQL database with Python
+‘+ Performed cleansing operation on data generated from web logs with automated scripts in Python
++ Used Python to build a General Purpose Test Framework
+‘+ Used Subversion control tool to coordinate team-development.
+‘+ Parsed XML documents using Python scripts and load into the database
+‘+ Created Django forms for database models
++ Daily PostgreSQL database maintenance
+‘+ Worked on back-end and front-end feature.
+
+GFODUATE ASSISTANT
+University Of Arkansas | AR
+
+07/2016 to 2017
+
+‘+ Worked in developing team of College new Web Portal.
+
+‘+ Integrated data from various back-end services and Oracle/MySQL/ PostgreSQL databases
+
+‘+ Helped the team in maintaining, expanding, and scaling college website
+
++ Created website layout/user interfaces by using WordPress
+
++ Respond to and resolve emergency issues on the back-end and/or front-end in a timely manner.
++ Developed databases that support web applications and web sites.
+
+‘+ Contributed to technical design documentation.
+
+H£QOOP DEVELOPER 04/2016 to 07/2016
+
+Bank Of America Corporation | Riverside, CA
+
+‘+ Moved all crawl data flat files generated from various retailers to HDFS for further processing.
+
+‘+ Written the Apache PIG scripts to process the HDFS data
+
++ Created Hive tables to store the processed results in a tabular format.
+
+‘+ Developed the sqoop scripts in order to make the interaction between Pig and MySQL Database
+
++ For the development of Dashboard solution, developed the Controller, Service and Dao layers of Spring
+Framework,
+
+‘+ Involved in resolving the JIRAs based on Hadoop.
+
+‘+ Developed the Unix shell scripts for creating the reports from Hive data
+
+‘+ Completely involved in the requirement analysis phase.
+
+‘+ Performed Unit Testing using jUnit.
+
+PEOIWEB DEVELOPER
+Image Hospitals | City, STATE
+
++ Used PHP / MySQL in WAMP (Windows, Apache, MySQL and PHP) environment for creating dynamic
+data driven and interactive web pages.
+
+‘+ Worked with the team of architects and back-end Developers to gather requirements and enhance the
+functionality and add new features.
+
+‘+ Helped in Designing, coding and modifying website, from layout to function using CSS.
+
++ Documenting and maintaining current software systems.
+
++ Considerably used JavaScript for client side validation
+
+‘+ Designed, created and updated MYSQL databases
+
+‘+ Involved in developing HTML and JavaScript for client side presentation and data validation on the
+client side with in the forms.
+
+05/2014 to 2015
+
+‘SCO/ SSIS DEVELOPER
+Bhaskar Reddy Software Labs Pvt. Ltd. | City, STATE
+
+‘+ Aided the Application Developers in their progress to Development activities to accomplish ideal
+proficiency.
+
+‘+ Involved in Physical/Logical plan of database, creating and dealing with the database and all the
+database objects
+
++ Extensively used Data Extraction, Transforming and Loading (ETL) using various tools such
+as SQL Server Integration Services (SSIS) and Informatica
+
+‘+ Created SSIS packages to extract data from OLTP to OLAP systems.
+
+‘+ Tailored the current SSIS packages to meet the new business requirements
+
+‘+ Applied various transformations like Slowly Changing Dimension (SCD), Script task, Containers, Derived
+Column and Fuzzy lookups.
+
+‘+ Created drill-down, dril-through and sub reports using SQL Server Reporting Services 2008R2
+
+‘+ Generated Views, trigger, cursor, User Defined Functions and worked with Stored Procedures.
+
++ Became a savvy by building several Sub-Queries and Joins for complex queries involving multiple
+tables
+
+05/2013 to 05/2014

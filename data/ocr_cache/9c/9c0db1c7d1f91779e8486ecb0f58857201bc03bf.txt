@@ -1,0 +1,64 @@
+Stephen
+
+Greet
+
+Senior Network
+Engineer
+
+Experience
+
+Education
+
+Brooklyn, NY 11222
+
+(123) 456-7890
+stephen@beamjobs.com
+
+LinkedIn: /in/stephen-greet
+Github: github.com/stephengreet
+
+Certifications: Cisco-CCNA
+
+Zoom
+January 2018 - Present, New York NY
+Senior Network Engineer
+
+Optimized reliability, performance, supportability and security of Zoom’
+rastructure
+
+‘Worked closely with software engineers to implement new datacenter
+technologies
+
+Developed capacity plans for new and existing video infrastructure
+
+Planned and implemented automated backups and fail-over
+configurations
+
+Identified and implemented monitoring to ensure health, performance
+and security of production and non-production cloud infrastructure
+Analyzed and resolved video infrastructure faults and undertook routine
+preventative measures to avoid service degradations
+
+Dataprise
+
+Network Engineer
+Installed and managed all aspects of on-site clients networks for 2
+Fortune 500 accounts
+
+Built out relationships with key client stakeholders and quickly
+troubleshooted all network problems they encountered.
+
+Proactively recommended network changes and improvements to
+support specific client needs resulting in speed improvements of 27%
+
+Identified under-performing third party vendors leading to acosts
+savings of $130,000 annually with no drop in up-time or performance
+
+LAN/WAN, TCP/IP Networking.
+Cisco NEXUS /ISE / Prime (WiFi), CCNA
+Amazon EC2 & Direct Connect
+
+Routing protocols - BGP, OSPF, ECMP, MPLS
+
+University of Pittsburgh / B.S. in Information Science
+September 2011 - April 2015, Pittsburgh PA

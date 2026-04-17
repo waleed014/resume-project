@@ -1,0 +1,213 @@
+EXPERIENCE
+
+TRAINING
+
+Jessica Claire
+
+© too Montgomery St 1m Foor 85) 492-1000 a resumesanple@esanple.com
+
+Fux sack ava Developer win over 6 years experience n pplcabon Development ts cles dese,
+‘geeepent and mpiemertaton of Projets inte areas of avalzee ana Javascipt Tamevors, Chat and
+‘Servers ErerseAgpeatons
+
++ amaunee 4 amvasrpt. Typeset
++ Spng Boot teats beat ORM Framenoeks
+Spring secu, nN + fale development etnies
+angular + customer onenea
+
++ aves + ntertace design and implementation
+
++ ot *Aepleaton development
+
++ sens ‘+ Requirements anasis ang design prases
+
+1 Toneat9, ou wensprere + seping
+
+VA ANGULAR DEVELOPER 0120201» CURRENT
+
+Worts wide Teennoiogy |elna, MN
+
+Project DataNow24 Ht Responses Once Ot Persone! Management (OPI Ome of he nspectae
+‘General (O1) requests cls nso om FENG Program Carer by sending an Exposure Request Form
+‘etned OPM Carer Leter 2017-013, Atactment Exposure Requests may pra stuns,
+Prone, FEP Mentbers and canbe for medal. phamaceucal or bo. The Exposure Request Fam
+nasa 24 How RUSH opten Prevost), FEP Special Ivesigatin Unt (SU) used MeSorce dla narehause
+{ost eve 24-Hour RUSH requests ven MSource vas pogucton See the decommasnng of
+MCSource FEP SU nas used ne FEPOC fe prow he equesteg ams sory andlor summary
+‘norman for OPH-OVG. However he curren FEPOO'FEPOC medal ata request recess doesnot
+‘sipport te 24.Hou RUSH unene, Note 24 HOU RUSH requests or phamaceueal ala are processed by
+{v5 Caremark win ne required tine Te FEP SI wats fo vse FEPOC. asthe stem of record 0
+‘rove at mecca cams ala andr summary roeaton tal amount bled and al arount pa)
+eigen o OPN-OXG Exposure Requests In 201, FEPOC bul a prteype sytem under BROOD,
+however vas never putin prouaton ashe ascosre IO sue nas nt esoWed a ta ie, Cute,
+FEP SU pas FEPOC a Ro oo numbers to FEPOC HPA OscosuelOs when senang medal ala
+requests the FEPOC via BCBSA' Enterprise iT. FEP SIU recor the a hoc nurter and scosue par
+‘stn te FEP SU Tracking Sytem FSTS) These aoa parameters are NO shared wth OPALOG
+‘uss he nlomaton areas cnaines on ine FCR. Out of he cen medal data request process
+‘eats an ouput ten OP-OKG ota reco format. FEPOC sends he cup oa secre serve fr
+(OP 1-16reneval and ancter eutpt ie m excel toma for FEP SH renal. Sunmay informa (al
+‘anoint ed ant. ao pad) sent an erate FEP SIV an OPULOIG
+
+{arate release and spent planing fo reve the equrements and provide ne feaback ana help
+Ine Business Ana) Progct Onmerin creating requremente and Epcos,
+
++ etn aceptancectera uth te nlp of product ouners/TMs and gaan he stonesteontience
+age Create or ep create sones'sub ast ac assign nese onal Seeopes ASO Gee Acs
+tromilock screens eramesprovaed by TPS
+
+1+ Developed new web pages routes using angular based on users acess ota route
+
++ Developed new mate tates using the anguar materia ray.
+
+1 evlope Batons tgais mn aen Users can perform vas operations on recog neh ae
+shown nie angua’matenal abies
+
++ Developed menu bao show users varous nds o stings wth hich ey can do adn operations
+sey nave an prieges
+
+‘+ Developed new web-ences end-points nich prove son dala othe ang webapp wh nich ne
+2pp wb alto ston requests dala for users.
+
++ Develop ue series ena:pmts wnichatows west serum data va. angular web app fo
+‘vanous hs of actors users can erfom ona webpage
+
++ Developed Angular ems whic have 3 pages at nee to beled bythe use
+
++ Developed Vataatons reac els (lntsingl select topdownmut select eopdownrag an op)
+neath page outo3
+
+‘+ Developed vadatons fora te fess on 3 pages a etme ot subrting he frm
+
++ Developed SaL queries to retneveinsertupsateleee records tom eatabase nse ava appcaton
+sing vats
+
++ Developed web sendcesmicrosevces using sprng-bot or varous end pits nich ar for ner
+pdatereadieiete operators
+
+Envronment Java 8, Spang 4xand 5x Sping Secuty, Spng Boot MyBats, BM WebSphere 9 MyEcpse
+Maven 3 opt, sat Puy. WnSCP, Gt Bash pm nodes, Angular 8, Malena ramevork. TypeScrpt
+
+HCA FULL STACK DEVELOPER o220%0%0 122018
+Ipmergan cnate& Co, |Baylon, NY
+Projet Reale asy Boner or Teaches who ned a core produto enhance ter teacting nate,
+
+Reale prowdesa Source premium coven cold to sae slandaas Content organzedin a vay
+that tows Teachers fo search by keywors Erowse by aad octet, Browse by standards. nation
+to ne searing of content, Reate oer tos a encourapeTeacners io custome te content ana ad
+ther on. Aconptehense st of report ana suden usage data es taches te power tet ner
+teacting to inprove stent outcomes Eas rig proves ase of pplication senes ta rode an
+aot t9 SSO an synch css, cass Rosters between SS, a pari, Seno! and RUMBA based
+‘optcaons ie PSN. PSN ero (andrew oer LMS ke OLE and Reatze) The man use 19
+‘ow our cusamerso use a sg acount to acces he Pearson products, egerses of were accounts
+‘re creates i way saves curlomers hundreds of nous fst up and ongoing account management me
+er year
+
+arate release ana spent planning to reve the equrements and provide he feaback ana help
+the Business Ana stProduct Omen creating requrenenis and Epcsones,
+
++ etn aceptance crea uth he nelp of product cumers/TPs and agin he stoestontuence
+age Create or tp create sores Sub tasks an asin tase oneal deveapes Asa detne
+2es rom Mock creenaietranes provided by TPS
+
++ Wong aos wan TPus, Manager ang oer Devas o gel the design ight ne frm of
+‘component arans, UML sequence agra, fo char aarans
+
++ ete ne een spctcabonsipemeraton tase on when developers wi be wong nine wih
+Ine apres deagn ana technica spectieaions
+
++o cove reviews and make sure the code qual n ne wh te res Spected using CUCO tots
+fun seins Jacoco test coverage, SonarQube
+
++ Wonk wth Devops esouces to sepioy ne bul code on ANS, Usng ANS prowtedSerees matty
+‘east beanstax $3, Cus Wath Kana
+
++ Developed cove wing sping 5 tectnoogs fo our backend servesmiro-sentes ate Spring
+oo ppiatons Used Gredetaven for budng hese appeatons
+
++ Developed cde using Angus Node!S(rapha) er seresde coe aking oohe serves.
+
+‘+ Ensunng me tetures developed by my team ae produced oe nest posse quay nthe fastest
+posse tie
+
++ Developed aptcaons wn LTA teennolgy whichis amar secur mpementaton whe aking
+beeen to pares.
+
++ Unerstaning ad be able tot coherent about he any practes sue as refactoring, TOD ard
+pai programing) we are mpleenting and her beets
+
+Implemented Osa nding, Event enters Orectves Dependency ten, Services, HTTP Chet and
+routing concepts using Anguar ypescrpt
+
++ Used untnlccto, Easyioc Poserlec), Nun, MSTessteq fr wt testing, Used TOD ana ATOO
+‘evelopment white devetpng code
+
++ Uses Sagger plementation for he web services whieh ges al or sence AP documentation and
+request request boa, neaer ant response deta,
+
+Enwrnment Java 8, Sng 4xand 5x Sping Sect, Sprig Boot, CA 20, Mbemate JPA, Tomcat 7.8
+cigs, STS, Maven 3 Lop, MySql Put. WSC Gt ash, Source Tee, Telos Gt pm, ANgUa
+Typescript.
+
+Amerisourcedergen Corporation - Corporat | Fiske, MA
+
+Project: ea anaes Accounts Porto Const (RAP iy Pesonated Portes (EPP)
+{OTA met soy = te Wadi oF FPP acount began 2009 wn 3 pot aezouns. That geno 300 eect
+‘ent accounts in 2010 201%, FPP accounts were avaliable othe publ anda fe yeas ster, we now
+‘have over 20000 acronis uner management Pt spy. RAMAPCIFPP products are Nighy custonzacle
+‘rvesnent eis tat re pealy marketed ovar gh pete cnet managed acount at
+ave tat ssnanestg capabases Le Customer a:couns wll managed by 2 Fide) vestment
+‘Manager wo wit rae he acount, purposey ang thancallsses on some rades toot the galas
+taren by ones. to mete aroun tates the casomer wil have fo pay tone RS athe end of he
+year Customers can custome the acount by conlacng a Fie Rlanship reer (RO) by calls
+{hemor by meen win an Rn he loa Fiety ves Centr (etal banch.
+
+‘+ Pareipate release an spent placing to reve the requrement nd provide te feesback an help
+Ine Business AnahetProdct Onmerincreing requrements ang Epes,
+
++ Ungerstand ne requirements and nlp crack oun he Epics tres and frets sks. Ans
+print a sri an assignable unto a partly deveopertean mente nich can be devered within
+Spt (2 week me) cing deepest and esi.
+
++ Prove the estates or each fe sts accor othe compleny cu andthe et eied
+to complete a sory tased en previous eto ang time rame
+
++ Assess ne is ivoweain comping aslo and aso provide te back up pan a try cannot be
+‘sone because ofeteral depensencies or ef any tecnial acute, state Product Owner
+an scope tat tem or pcoming release jstin case at canet be doe inthe cure reease
+
+‘+ Prepare a design document ater anlage equrements by convering hase equrenents io
+tecnncalimplementaten
+
++ Pampa ma aes ever meetng wih Acect. Team ea and any oer develope, and even
+tne aesignappreac hat was chosen Gre the easing hy bs plementation vas chosen,
+
++ Developed and maianed web sencesmiroserves uth teennlogiesncng Sng 3 and 4
+sang bot nplrening scutty win sping seury-Oaun 20 and aso ncutng apace’ SSL level
+Secumy on servers vabatng the ces CA name an is ates,
+
++ inl developing the services Use mats 3 as an ORM areverko map ne java deco he
+“ataase jets wien & mai use or Rage Wansarhons mo astern aes
+
++ Used Futures ormussteaang of aks arconpised on serwees. Used apache ip let for making
+restserie to serve cls
+
++ sea Unccommands Splunk quenes on Sunk casboarts to du gs, ar ao Un Scptng for
+stating vans, es one server
+
++ Used antec Easylock Poserloc, Nun, MSTessleg fr wa testng, Used TOD an ATOO
+‘evelopment white det code
+
++ Uses Sanger plementation forthe web services which ges al our sence AP documentation and
+request request boa, neaer an response deta
+
++ Used sens, levees, uso, stash tos or contnvus integration far yt ay developent
+
+Envronment Java 8, Spng3xand 4x Spring Sect, sping Boot. Onuth 20, SSLSecury CAEN.
+‘mybats 3x Toneat 78, Eps. STS, Maven 3. L981 SL Developer Ply. WnSCP. Gt Bash. Source
+‘re, Tose Gt Agathe ip seve24 AnguarJaven,Javascrpt knock. Dynatace cen 62
+
+Master of Setnce | etwotng in fomaton Systm Secuty
+‘University of Cumbertanes, Wilamsburg, KY
+
+Mester of Seance | Heatn Series Aamnstaton anos
+Mussssipt College Clinton, MS

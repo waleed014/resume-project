@@ -1,0 +1,85 @@
+Zechariah Hand
+
+733 Hickle Ramp, San Francisco, CA @ Phone: +1 (555) 443 5756
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR PRINCIPAL SYSTEMS SECURITY ENGINEER
+New York, NY
+04/2016 — present
+‘© Develop creative improvements to security system capabilities
+‘© Identify trends and root cause of declared security incidents and provide lessons learned repor
+the feedback loop
+‘* Develop automation scripts to handle and track incidents
+‘+ Provide advanced level Security solutions support for the resolution of security packages’ system faults,
++ Assist with all security technologies and services, including protection services, perimeter defenses, and
+physical and logical access control
+‘© Create new ways to solve existing production security issues
++ Improve security infrastructure and reporting
+
+ing to close
+
+SENIOR SYSTEMS SECURITY ENGINEER
+New York, NY
+06/2012 — 10/2015
+‘Strong and well-rounded background in host and application security
+‘© Designs of configuration management tools
+‘* Working knowledge of network protocols such as DNS, LDAP, DHCP, NFS, Kerberos, etc
+‘* Proficient in at least two of Python, C, Perl, or ksh (Python and C are the primary languages employed in
+‘our team)
+‘© Familiarity with software engineering tools (version control, deployment tools, etc.)
++ Advising program management on matters related to certification and accredi
+‘* Leading technical interchange meetings to address/resolve IA/CS issues
+
+SYSTEMS SECURITY ENGINEER
+Boston, MA
+03/2006 — 05/2012
+‘* Monitor metrics and make recommendations to improve performance of environment, tools and teams
++ Perform adhoc internal and external network and application penetration testing using a variety of
+methods, tools, and techniques
+‘* Develop and communicate vision for system improvements then realize vi
+leadership, and execution
+Establish and maintain cooperative working relationships
+‘* Conduct investigations of security violations and breaches, provide reports and analyses, provide
+recommended solutions and participate in incident handling
+‘© Works under minimal supervision. Normally receives no instruction on routine work, general instructions
+on new assignments
+‘© Working with project managers across the organization
+
+n through planning,
+
+MICHIGAN STATE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+., DRM, e/m-commerce or specific knowledge of mobile
+
+‘* Knowledge of security related applications, (e,
+
+security
+
+‘Strong working knowledge of Linux system administration, engineering and architecture, CentOS ver
+
+* Good knowledge of ALM tools and how they can effectively support and enhance secure software
+development practices
+
+‘© 4+ years’ experience in a high-availability 24x7x365 environment with highly structured change
+‘management
+
++ Strong communication skills, attention to detail, and being a self-starter
+
++ Be reliable, self-starter, confident & articulate, and capable of working on own initiative and/or as part of
+a medium sized team
+
+‘Strong interpersonal skills with the ability to interact positively with coworkers, suppliers, management,
+and customers in a team environment
+
+* You have a solid understanding of automated patch management, system hardening, assessing and
+prioritizing risk
+
++ Broad understanding of technology and working knowledge of DODI-S-5230.28 desired
+
+‘© Have excellent customer-facing, inter-personal and communication skills

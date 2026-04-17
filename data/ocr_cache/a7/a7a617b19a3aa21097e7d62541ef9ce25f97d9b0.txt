@@ -1,0 +1,60 @@
+NORMAN KOZEY
+
+4141 STEPANIE THROUGHWAY, DALLAS, TX
+
+PHONE
++1 (555) 541 9134
+
+EXPERIENCE RENNER, PURDY AND GOODWIN 04/2019 — present
+Houston, TX // Systems Security Engineer
+
+.
+
+.
+
+Experience deploying and maintaining systems that run in AWS, especially systems that use
+services like Lambda, CloudFormation, and CodeDeploy
+
+Experience deploying and maintaining security-relevant systems, including off the shelf
+security tools like Splunk
+
+Able to exercise independent judgment in order to manage varied complex projects from
+inception through completion
+
+Demonstrates a high level of responsiveness to the customer to enlist trust and build
+credibility
+
+Knowledge of IDS/IPS
+
+MCDERMOTT-HARTMANN 07/2014 — 12/2018
+Houston, TX // Systems Security Engineer
+
+Advanced understanding of appropriate system architectures
+
+Networking and Security design and/or operations experience
+
+Prior experince working as Data Security Engineer
+
+Minimum 6 Months of professional experience within data security and information security,
+including encryption, access control, cryptographic key management, and PKI life cycle
+management
+
+Prior experience in IBM Guardium DAM Administration, Policy Management
+
+Encryption subject matter specialist
+
+EDUCATION BAYLOR UNIVERSITY
+Bachelor's in Computer Science
+
+SKILLS °
+
+Hands-on experience building, deploying, and managing the lifecycle of Docker Containers
+Have effective automation skills such as scripting (bash, Python, etc.), and experience
+using/running Continuous Integration / Continuous Delivery (CI/CD) systems (Jenkins, etc.)
+Understanding of software development CI/CD pipelines and experience with Application
+Lifecycle Management tools
+
+Solid understanding of AWS basics + EKS and Azure basics + AKS
+
+Are motivated, and can take initiative to tackle problems independently, or in collaboration
+with peers/partners

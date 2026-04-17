@@ -1,0 +1,131 @@
+2015-07 -
+
+2018-08
+
+2013-05 -
+
+2015-06
+
+2012-06 -
+
+2013-05
+
+2008 -
+2012
+
+2017
+
+2017
+
+2016
+
+Jessica Zackowitz
+
+DevOps Engineer
+
+Summary
+
+Versatile DevOps manager with 6 years’ experience. Seeking to leverage
+proven continuous deployment skills to raise quality at Google. Cut
+customer complaints by 50% for an SaaS application. At Shelinac Inc., used
+Jenkins and AWS tools to cut release times by 20% . Boosted customer
+satisfaction by 25%.
+
+Experience
+
+DevOps Manager
+
+Frostacre Global
+
++ Led Agile team of 5 developers, 2 SysAdmins to continuous deployment
+of SaaS real estate solution with 1 million+ users. Collaborated with C-
+Suite and sales teams.
+
++ Maintained network of 30+ Unix servers with 99.9% up-time.
+
++ Wrote scripts to automate security upgrades. Cut vulnerabilities by 20%.
+
+DevOps Engineer
+
+Shelinac Systems, Inc.
+
++ Set up and managed 40 Linux servers with 99.95% up-time.
+
++ Managed continuous deployment of a popular SaaS stock-tracking tool.
+
++ Deployed 2 software iterations per month for 2 years. Increased customer
+satisfaction with software by 25%. Presided over a period of 30% revenue
+growth.
+
+System Administrator
+
+Litman Analytics
+
++ Set up and managed 15 Windows 2008 servers.
++ Wrote scripts to automatically update system components.
++ Cut company costs 20% through aggressive vendor management.
+
+Education
+
+BS in Computer Science, University of Michigan
++ Excelled in security classes.
++ President, 314 Action STEM Organization.
+
+Certifications
+
+AWS Certified DevOps Engineer
+AWS Certified SysOps Administrator
+Conferences
+
+DevOps Days, Spoke on a panel about serverless networks
+
+Publications
+
+Article on containers appeared in "The Agile Admin"
+
+Article on monitoring best practices appeared in "DevOpsGuys"
+
+(2) Personal Info
+
+Phone
+410-279-0218
+
+E-mail
+jesszackowitz@gmail.com
+
+Portfolio
+www. jesszackowitz.com
+
+@ soft skills
+
+Collaboration
+
+Critical Thinking
+
+@ hard skills
+
+Continuous Deployment
+Unix/Linux
+
+Puppet, Jenkins, Zabbix
+AWS, Cisco
+
+Python, GIT
+
+ecco
+Expert
+ee
+
+Advanced
+
+ecoee
+Expert
+ecoee
+Expert
+ecoee
+Expert
+ee
+
+Advanced
+
+Advanced

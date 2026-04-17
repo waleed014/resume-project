@@ -1,0 +1,58 @@
+ROBERT SMITH
+Junior Sql Server Developer/Analyst
+‘Erma; info @qwikrestme.com Phones (0123)-486-749
+
+Highly qualitied Junior Sq Server Developer with experience in the industry. Enjoy exative problem
+solving and getting expaste on multiple projects, and would excel in the collaborative envimament cm
+‘which company prides itself
+
+SKILLS
+
+Management, Organizing
+
+WORK EXPERIENCE
+
+Junior Sq1 Ser ver Developer/ Analyst
+‘ABC Corporation ~ September 206 — September 2008
+
+Implemented of SQL Logis, Roles and Authentication Modes as pan of Security Policies for
+‘vrioas categories of users
+
+Rebuilt / Monitored the indexes ut regular intervals for heter performance
+
+‘Recovered the dusbases fram backup in disasters
+
+Implemented Point-n-Time Recovery soluions,
+
+Performed SQL Sener service pack and Windows Service pack upgrades
+
+Extensively worked on Enterprise Manager for munaying the database,
+
+‘Troubleshoot performance prablems and fine-tuning of ditabases,
+
+Junior Sql Server Developer
+Data Corporation - 2003 - 2006
+
+‘Design create, maintin and manage Enterprise Datu Warehouses (EDW), data mans, Operational
+‘Data Stores (ODS) Extact Transfer Loud (ETL, solutions, XML, indexes, TSQL and data
+‘manipulation scripts, stored procedures, views, functions, repots and forms.
+
+‘Apply Dob dua standards to allsoftware applicatians and database data elements ensuring logical
+sta models ae fully at buted, normalized, and included ina data dlctonary
+
++ Creite dita dictionaries for ll datahase etforts that include the following information foreach
+‘apetional data element the logical dataclement name, its definition that describes the meaning and
+the context ofthe data element inthe system, the damain of the data element (the allowable values,
+the datatype length, and unit of measur,
+
++ Assist in developing SOP Enterprise metadata standards und document all meta tags, where
+applicable, in an XML Seherna(XSD file and past to the Metadata Registry after being vetted
+through a configuration management process
+
+*+ Provide consiting servis and technical support for database cretion, mnicaion, testing,
+Administration, monitoring, tuning, backup, and recovery.
+
++ Ensure maximum use of SQL Server Integration Services ($S1S) and SQL Server reparting Services
+(SSRS) forthe imegraton and delivery of information
+
+‘© This seme Tamla he copy of Qwitrewme com, Las Gals

@@ -1,0 +1,110 @@
+JEssica CLAIRE
+
+‘Montgomery Stret, San Francisco, CA 94105 # (555) 432-1000 ¢ resumesample@example.com
+
+‘Links
+
+«= hntps://www.kClaire.com/
+«= https://kClaireworld com!
+
+PROFESSIONAL SUMMARY.
+
+Creative React Developer/Talented Software Developer with 4 years designing useful, approachable user interfaces. Knowledgeable on all
+aspects of Facebook's design best practices and emerging UI development techniques. Skilled at connecting exceptional assets with users via
+creative Ul frameworks and careful user experience optimization. Prototyped 70+ product features annually for VSON to achieve a 40%
+reduction in cost. Received 2020 Employee of the year Award for being continuously productive.
+
+‘Work History
+
+React Developer, 12/2017 - Current
+Cognizant Technology Solutions — Jackson, TN
+
+‘+ Worked with advance web development technologies like React, Node, Express, MongoDB, MySQL, ECMAScript 6, Typescript,
+JavaScript, Immutable, Python, Bootstrap 4, CSS, HTML, JavaScript Object Notation,
+
+‘+ Worked aggressively on Verizon Self Switching Oriented Network, Verizon Messaging Bus Portal web app for network managers in
+‘Verizon to manage their network and Customer Relationship Management project.
+
+‘Validated customer interface requirements and assessed impact of needs on available systems.
+
++ Plotted Enodebs, Cells and Layers on leaflet maps, cleared an issue pending from three years on maps.
+
+‘+ Handled incident management and problem management activities for personal and third party interface designs.
+
+‘+ Outlined high-volume, high-scale web front ends for assets requiring responsive designs.
+
+‘+ Created welcome tour for my app using seact-joyride which helps the new users to learn more about the app.
+
++ Developed custom Redux Form scripts for updating Redux store using immutable and Redux Thunk,
+
++ Developed Drag-gable and Re-sizable modals sing React-DND and React RND.
+
+‘+ Used Immutable to achieve immutability in application state and to easly get values from deeply nested maps.
+
++ Introduced Ag-Grid package which can plot millions of table rows at ease using JavaScript.
+
++ Took ownership of the app, used Jira tool for requirement gathering, GitHiub and Git Lab as version control systems.
+
++ Enforced Agile and Scrum development methodologies on interface projects to shorten development times.
+
++ Updated versions of React, React-Router.
+
+‘+ Added looks in the project and moved some class-based components to functional components
+
+‘+ Used File-Saver for BLOB downloads, React-Chart, Re charts for plotting charts.
+
+‘+ Created API documentations
+
+‘+ Configured CircleCl to continuous integrate and deploy (CCD) the code by running through the unittest cases, when any of these test,
+cases fail it immediately sends email to all the developers in the team.
+
+Front End Developer, 03/2016 - 05/2017
+Motion Recruitment ~ Painted Post, NY
+Charter communication isa telecommunication company providing services to 25 million people. After
+comcast itis second largest cable operator in US providing services to 41 states in US Developed a presentational website show casing tv,
+internet and voice deals.
++ Developed sound knowledge on React, Redux for front end. MySQL for backend and Express as server.
++ Used redux to store data globally and for easy retrieval of data to any component in the app.
++ Developed a web app for show casing how this two-way audio works using HTML, CSS and React JS.
++ Tested REST endpoints using POSTMAN.
++ Used React Refs, Controlled and Un Controlled react components for different use cases.
+‘+ Maximized use of Events and promises in ES6 and React for application control flow.
++ Followed Test Driven Development (TDD) using chai and mocha for unit testing, Enzyme for component-based testing and cypress for end
+to end testing,
++ Used babel and webpack for compiling and bundling the project.
+‘+ Configured rules for ES LINT which in tum helps the developers to write safe neat and error less code and wrote git-hooks file to validate
+these lint errors before allowing developers to commit.
+‘+ Worked with AXI0S, promise based HTTP client for the browser and node js for hitting REST endpoints and fetching data into the app.
+
+User Interface Designer, 05/2014 - 12/2015
+arvana ~ Spring Hill, TN
+Developed quality Web Design mockups using UX principles so thatthe end products look beautiful, widely accessible and easily
+understandable for both web developers and customers.
+‘+ Used GIMP open source alternative to photoshop to develop mockups for UL
+‘+ Mastered Data Structures and Algorithms to calculate time and space complexities.
++ Used PHP programming language along with MYSQL as database to develop RESTFUL services,
++ Developed best print templates using HTML, CSS and twig server-side rendering which used to win customers hearts in surrounding areas.
++ Loved to work on Linux based operating systems.
+‘+ Debugged the entire application using Chrome Development tools when working with twig templates.
++ Normalized data before saving into database, worked on Joins, triggers, cursors, primary keys, foreign keys, functions and procedures in
+MYSQL.
++ Used jQuery to manipulate dom dynamically
+‘+ Used Media Queries and Bootstrap to make the application responsive across all the platforms.
++ Followed Agile methodology throughout development work through requirement gathering, design, Development, Testing, Deployment,
+Review.
+
+TECHNICAL SKILLS
+
+# React Immutable
+# Redux ‘= Mongo
++ Express + MySQL
+= Node = REST
+© Cypress ‘= State Management Design
++ Enzyme ‘= Database Management
+‘© Mocha Chai
+EDUCATION
+
+Master of Science: Computer Science, 05/2017
+University of Minofs At Springfield - Springfield, IL
++ Graduated with 3.72 GPA
++ Graduated in Top 5% of Class

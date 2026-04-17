@@ -1,0 +1,53 @@
+ROBERT SMITH
+
+Lead Database Manager
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+To contribute te an organization that can use a dedicated professional with thirst to
+eam new things and to take on new challenges.
+
+EXPERIENCE
+
+Lead Database Manager
+ABC Corporation - SEPTEMBER 2007 - SEPTEMBER 2008
++ Receive and implement guidance on task prioritization from the
+Transformation Integration Officer.
++ Develop and Maintain two website for document distribution.
++ Obtain, review and analyze data from multiple classified systems
+sing both Excel and Access,
++ Evaluate critical readiness indicators and present findings to
+Transformation Integration Officer.
++ Analyze and apply manpower management standards,
++ Conduct studies for vatiations to the manpower staffing standard.
++ Evaluate critical manpower resources readiness Indicators and
+present findings,
+
+Database Manager
+ABC Corporation - 2005 - 2007
+
++ Accountable for the design, configuration and installation of all major
+Oracle database environments on Sun Solaris platforms,
+
++ Major activities included logical and physical database design,
+capacity planning, performance tuning, database security, disaster
+recovery, installation and ongoing maintenance with special emphasis
+‘on web based server administration automation,
+
++ Other activities included evaluating and selecting Oracle database
+tools responsible for database and application tuning, capacity
+planning and database stability.
+
++ Successfully maintained peak performance of all primary databases
+by providing advanced turing methods, customized scripts Oracle
+Enterprise Manager and Precise/SOL.
+
++ Designed, created, and populated tables and views.
+
++ Developed queries, stored procedures, triggers. and functions for
+data manipulation.
+
++ Assisted with the design and implementation of workflow applications.
+to update and insert data
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

@@ -1,0 +1,177 @@
+Jessica CLAIRE
+
+Monigonery Stet, Sin Franco, CA 4105» (58) 32100 reumesamplesenamplecon
+
+Summary
+
+‘Sofraze Engineer with 2 yearsin Web Developer specializing infront end development. Proficient in Software Development Life
+‘Cycle SDLC) and SRUM AGILE methodologies of development process to produce software solutions by team. volved in|
+designing, planing, developing and implementing Microsoft Net based slutons that meet quay and code standards using C5,
+ASP.Net, ASP.Net MVC JavaScript, Query, C55, Bootstrap C35, HTML, XML and AJAX. Strong experience in data retrieval and
+‘manipulation using ADO.Net data objects such as Dataset, Data Reader, Data st, Data Adaptor, Entity Frame work Good
+‘experience in writing Clas Library using CF, LING to SQL queries in Database Acces layer to interface with SOL Database, Worked
+‘extensively with Net Server Contos, Web User Controls, Data Grid, Web Consol, Form Validation Contols and created Custom
+‘controls Worked on creating and modifying Table Definitions, stored procedures in SOL Database, Modified and weiten web
+services using C+ to interact with the oer applications so data can be served, Used Red Cate SOL Compare to deploy database from
+‘one server to another server (Dev > TesQA). Worked on NET security features such a5 Form-Based Authentication and Role Based
+Authorization, Used various ASP.Net dient side and sever validation Controls, used JavaScript fr client ide validations Involved
+in bugfixes and production support Worked clovly with Scrum Master for backlog catalogs, feature catalogs and prioritize the
+tasks Participate in daily scrums and weekly meetings with the projct sponsors to meet expectations and deadlines Interact with
+‘QA to ensure he defects ae property cleared to attain the quality standards Providing demos tothe QA tam atthe end of the sprint
+to push forts final stage, Worked with cross unctional teams to meet projet.
+
+Highlights
+
+Cz Java, VBNEL CC
+
++ Net Technologies: Net Framework 40/45, ASPNet
+ASPNET MVC, VBNet ADO.Net, Entity Framework, AJAX,
+
+‘Web Service, LING, Enty Framework, LINO queries
+ASP.Net, HIME, C35, JavaScript JQuery, Bootstrap CSS.
+
+‘+ IDE: Visual Studio, Edlipse, NetBeans, Dreamweaver
+
++ Database: SOL, MySql
+
++ Operating Systeme Windows
+
++ Version Controls: Tortoise SVN, GitHub
+
++ Others: Microsoft Word, Excel, Access, Power point
+
+Experience
+
+Database Programmer/Analyst (NET Developer) 052014 to 0/2016,
+
+Division Of Information Technology ~ City, STATE
+
+Desciption:
+
+‘Worked as Graduate Research Asistnt performing the dates of Database Programmes Analyst at Application Development
+[Network (ADN), DolT which supports University of Missouri System faculty and students through agile and rapid creation of new
+applications
+
+Projects:
+
+atlas:
+
+Description:
+
+“This project all about equesing scheduling the ttoring sesion. There are thee roles ed to application they are Tate, Tuto,
+and Scheduler A tute requests for tutoring for the dasses that else enrolled and gives avalabity apart fom the las timing
+‘through Availability Grid and Tutor submits availability. scheduler wil go through those availabilities and schedule ime and
+location for tutoring, Also there are some set of rules fr dropping the tutoring sessions which ae incorporate in this project. The
+‘other pice of this projects automated email through Scheduled task which runs every day
+
+Responsibilities:
+
++ Crnated a Availablity Calendar Ged In grid each al epresents ime (1 hour pan) and day ofthe week. Clicking onthe xl
+toggles the availabilty. Automatically populated the course schedule which comes fom diferent database(Worked with data
+‘warehouse team inorder to get tha data)
+
++ Developed C* Console Application for Scheduled email tack
+
++ Cotsid of data ables and able adapters inthe min project asthe ae tightly coupled. Created Class Wbcatis out ofthe main
+project to acess the databace which can be ute by both Conte Application for Schedule task and web application
+
++ tegrated Open Source HTML tox editor CKEAktor into the website.
+
++ Used jQuery for iltering, sorting and search the Liste, JavaScript for clensie validations
+
++ Used sole based authoization for vasious pages.
+
+Occupational Therapy:
+
+Description:
+
+‘The goal ofthe projet to efector the old application with new templates and replace the assemblies. Adding functionalities to
+upload pile.
+
++ Responses:
+
++ Created separate Login page for Administrator and Students. Used Active Dsectory (AD Group) to esrict other department
+Students
+
++ Developed a web interface for Administrators to upload the pdf files into database which ca be viewed by students,
+
++ Updated the entice application by using new Visual Stadio 2013 template which make use of Boottsp CSS by changing the
+master pages.
+
++ Modified the structure of database to login.
+
++ Used Redgate SQL Compare to copy the data from database from dev server ots seve.
+
++ Replaced the old ADN Uulities assemblies with new DoIT Uses assemblies.
+
+Applaventory:
+
+Description:
+
+“The goal ofthe project wo allow the admin, manages, serum masters ofthe organization to keep rack various applications which
+includes thei developed, ongoing and future projects. For every application there are application parameters which includes App
+‘Structure, Remedy group, User Departments et. and each application has different version. For each version the parameters ae
+Prod, QA test URL, DCL, Databae, platforms framework wed t develop application UAT dates ec. Scrum Masters can estimate
+the length and cost to build the application (Project Estimator) based on number of developers, Sprint length, weeks of UAT ete
+‘which they can share with cents. After starting the projec they can hoop tack of curent progress by budget. sprint burndown,
+
+«Entity Framework wae used using Database fet approach,
+
++ LINQ was used inthe DAL (Data Access Layer) fo interact with the Database
+
++ Consumed ADO Net Entity Fre Work for Entity Data Model, Entities, Relationship Mapping, and Querying Data,
+
++ Console Application to import the data from CSV files to populate them into the sytem.
+
++ Automatic logout when user is idle for a specified time by using seasion parameters and JavaScript
+
++ Used client side validations onbeforeunload and onunload evens in avascipt
+
++ Worked on agile environment.
+
++ Parcpated in diy scrum meetings to discuss the status of development planning and estimating the points and UAT.
+onde
+Desciption:
+‘GoMizzou isthe University of Missouri flagship mabile application designed to provide services to all posible wets of the
+‘university. The goal ofthis project st allow GoMizzou Staff to edit the master tables involved withthe GoMizzou webservice,
+“Those master ables ae the stating point for ll window services (which fed the web service).
+Responsibilities:
+
++ Developed Application using AJAX controls ike modal popup, ASP.Net server contol like stv, formes, worked on
+
+(Ctientside and Server side Validations and crested Master Pages
+
++ Filtering of the data of listview based on the role,
+
++ Used n-Tier Architecture, Created the Business Logic Layer by using Class Libraries to interact with database,
+
++ Modified the exiting webservices and windows serves,
+
++ Crnated ASP.Net User Contos to reduce the complet of wer interlace design
+
++ Created dynamic queries, stored procedures, Views and tigers i SOL server forthe database manipulation,
+Mizzou Checkout:
+“The goal ofthe projects to develop a web application for Checkout proces similar to shopping cat for various department who
+tthe certain ules
+
++ Used Sap server to send eal with tachment to the emai
++ Developed Cé Class Library to import the data from the CSV fl to system
++ Use LIM Service frat fee assessment
+
++ Acces o page based onthe ole (Role based authentication)
+
+Education
+
+Master of Science: Computer Engineering, Present
+University of Missouri - MO
+
+GPa:GPa37
+
+Computer Engineering GPA:37
+
+Bachelor of Technology: Electrical and Electronics Engineering May 2013
+Jawaharlal Noha Technological University
+GPA:GPA:365,
+
+Electrical and Electonics Engineering GPA: 345
+Skills

@@ -1,0 +1,131 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor « (555) 432-1000 ¢ resumesamplesexample.com
+
+Professional Summary
+
+With me you gain an employee who combines professional competence and a special character in perfection. I already have more
+than 7 years of professional experience in development, especially in the support of the SAP REFX, SAP SD, SAP MM and SAP TM.
+modules.
+
+Thave also gained experience with SQL, Enterprise Architect, JavaScript, JAVA, ABAP RAP, ABAP 4 and ABAP OO, SAP UI5, SAP
+Fiori. [would like to continuously develop myself professionally, and his solution-oriented and communicative manner rounds off
+my profile. My open nature makes it a pleasure to work with me.
+
+Skills
+* Advanced SAP knowledge (ABAP OO, ABAP/4, BOPF, JAVA, * HTML, C55 and JavaScript, Eclipse, Adobe Lifecycle
+ALY, BADI, user Exits, BTE) Designer
++ New technologies (SAP UI5, Enhancement Framework, S/ + Testing and maintenance (ABAP Unit Testing )
+shana) + Web-based Application (WebDynpro )
++ Database programming (SQL) + Programming (Java, C++, ABAP)
++ Agile(Scrum)
+Work History
+
+SAP ABAP Developer And Consultant, 07/2021 to Current
+Clarkston Consulting - Durham, Baden Wiirttemberg, Germany
+
++ Created and maintained SAP Fiori and SAP UI5 applications using Abap Development Tools (ADT) in Eclipse and Web IDE.
+
++ Traveled to client locations to implement SAP solutions such as $/4Hana, and offered post installation support services,
+
++ Multitasked and managed multiple deliverables and projects concurrently and facilitated use of SAP for enterprise resource
+
+planning.
+
++ Solved functional and technical obstacles and worked closely with project team from different streams.
+
++ Coached and supported third-party clients, creating self-sufficient competencies within customer service personnel
+
++ Worked closely with the product owner in a scrum team to develop new or enhance existing applications
+
++ Designed, developed, modified and debugged programs.
+
++ Modified existing software to correct coding errors, upgrade interfaces and improve overall performance.
+
++ Estimated work hous and tracked progress using Scrum methodology.
+
++ Assisted in planning of software and system testing efforts
+
++ Analyzed work to generate logic for new systems, procedures and tests
+
++ Corrected, modified and upgraded software to improve performance.
+
+SAP ABAP Developer And Consultant, 07/2019 to 06/2021
+Atos Global IT Solutions ~ City, NRW
+
++ Implementation and upgrade of SAP S/4Hana, SAP R/3, SAP UIS applications including NW7.5, ECC 6+, Abap Development
+Tools on Eclipse
+
++ Tested, implemented, Coded, debugged, and documented highly complex programs.
+
++ Designed programs and systems to meet highly complex business needs.
+
++ Developed WebDynpro Applications using MVC.
+
++ Created detailed functional Specifications and technical documentation from which programs are developed and coded.
+
++ Gathered information from existing systems, analyzes program and time requirements.
+
++ Used Tools like SQL Trace for Runtime Analysis.
+
++ Worked in Debugging, Transport System, Performance Tuning.
+
++ Created SAP Reports for modules like MM, TM, SD, REFX and suing ABAP/4 and ABAP OO to extract data.
+
++ Applied Object Oriented Programming (OP's) principles in creating programs using ABAP and BOPF framework
+
++ Facilitated change and continuous improvement to SAP applications.
+
++ Troubleshoot and corrected SAP module problems by using ABAP programming language to implement OSS Notes.
+
++ Modified system screens to provide default values and eliminate unnecessary fields using transaction variants.
+
++ Created specialized reports for SAP Modules using ABAP programming language.
+
++ Developed programs and supports production activities for IT applications.
+
++ Made required coding changes related to change request or system updates.
+
++ Maintained close contact with the business and business processes.
+
++ Developed programs (reports) using ABAP/4, ABAP Objects, OO ALV, Smart Forms, Adobe Forms, Function Modules, Dialog
+Programming, User Exits, Screen Painter, Menu Painter, BADIs Class Builder, Data Dictionary, Enhancement Framework
+(explicit and implicit enhancement)
+
++ Worked on a project in creating smart forms and adobe interactive forms using the Adobe Lifecycle Designer.
+
+SAP ABAP Developer, 01/2015 to 06/2019
+Aareon Deutschland GmbH — City, Northrhine Westfalia, Germany
++ Prepared technical SAP reports used multiple clients.
++ Worked together with the end user client and SAP functional consultants to gather new requirements and test technical solution
+{for their business processes.
++ Used Runtime analysis and SQL tracer to optimize code
++ Development of new programs for Contracts Purchase Order, Sales Order using BAPIs.
++ Enhanced standard programs using the enhancement framework (implicit and explicit) , User exits and Business Add Ins
+ADE),
++ Designed and implement Smart and Adobe forms for multiple business processes such as PO, Sales Order, Freight Order using
+the Adobe Lifecycle Designer.
++ Prepared technical specifications for the new objects to be developed
++ Analysis on WebDynpro applications as per the customer requirements.
++ Created RFCs for customers
++ Prepared technical documentations for objects which are not having any documentations.
++ Conducted code reviews for the new developed enhancements
++ Creation and maintenance of Dictionary objects lie Domains, Data elements and Tables.
+
+Education
+
+Bachelor of Science: Applied Computer Science And System Engineering, 07/2017
+University of Duisburg-Essen - Northrhine Westphalia Germany
+
+Certifications
+
++ SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50
+Ittpsi/fwww.youracclaim.com/go/495M7KLS
+
++ ABAP RESTful Application Programming Model
+(ABAP RAP)
+https://open.sap.com/verify/xuvoz-sekyk-zysaf-carat-mibes
+
++ Basic Certificate in Project Management (GPM) - PMZERT
+
++ Basic Certificate Business Analysis -DXC Academy

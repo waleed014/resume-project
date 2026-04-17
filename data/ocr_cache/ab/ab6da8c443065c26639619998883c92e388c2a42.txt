@@ -1,0 +1,321 @@
+JESSICA
+CLAIRE
+
+© resumesample@erample.com
+
+& (555) 422-1000
+
+{9 120 Montgomer t. 10th
+Foor
+
+SKILLS
+
++ AWS: €C2, amazon $2, ECS,
+‘amazon ROS, VPC, a,
+{ambda, amazon dastic Load
+alncng, Cloud Font, to.
+Saling, loud Watch, Reh,
+faws Stack
+
++ Brogramming & Scripting:
+jon, Sea, SQL, Shel
+Scripting.
+
++ Hadoop/ ig Ota Tecblogies:
+Hadoop, Map Reduce, Ooze,
+ive, Soop, Spark, and
+Cladera Manage
+
++ Databases: Ora, MYSQL, SOL.
+Server, Teradata, hongoOs,
+stgress, GAD
+
++ DES and Notebooks: Eclipse,
+Inti Pychar, super, Data
+Urls notebooks
+
++ ata formats: JSON, 2H, and
+cv
+
++ Search and tots: Power,
+Data Studi, Tableau
+
++ Web Tecnologie:
+
+1 HTML, C55, svaseipt,
+
+{Development methods gle,
+Waterfall
+
+EDUCATION AND
+TRAINING
+
+‘Bachelor's: computer science and
+engineering
+
+any
+
+se
+
+SUMMARY
+
+Having 8» years of experience fozusing on Data warehousing, Data modeling, Data integration,
+‘ata gration sing ETL Jobs, and Database administration. Using AS SDK for python to access.
+[AWS services programmable within QUIK. rstalg the Bots brary and configuring credetias within
+the QL Fisthan experince in sing Hadoop e2osystem components tke HaGoop, Map Reduce,
+Yarn, Hive, Pig, sqoop, HEase, Cassandra, spark, Ole, Zookeeper, Katha, and Flume. Familiar ith
+Spar streaming to eceve real-time data for Kafka and stove the stream data to HOF using Sel
+Experience with databases ke 062, MySQL, SOL, and Mango0s. Proficient In cnverting Hive/SQL
+queries into spark transformations using Spark Data frames and Sala. Good understanding and
+Noonledge of NeSQL databases he MongeD, Héase, and Cassandra. Experienced in workflow
+‘chedaling sd ocking tok services ike Oale and Zookeeper Koovedge of ETL methods in
+enterprise-wide solutions, data warehousing, reperting, and data nays. Experienced n working
+With AWS using its services such as EC, Amazon 3, ECS, amazon RDS, VPC, 1A, Lambda, Amazon
+{atic Load Balancing, Cloud Frnt, auto Scaling, Cloud Watch, and Redshift. Seund knowledge in
+‘sing fig seript for transformations, vent fois ier, and pre aggregations for HOFS storage
+andson experience In iporting ané exporting data with Sqpop to and rom HOFS to ROBNS.
+‘ncuting Ore, 1ySQL, and HS SQLServer Good Hoowedge of UNIX hal Seitng for automating
+eploments and the tine task. Experienced in using 1s tke Elise, Intell, Pyar, Duper,
+and Data bricks notebook. skied In sing JRA ad aly for bg tracking and GitHub and Sin Tor
+‘arous code reviews and uit testing Experienced in working inal pases of SOLC- both agi and
+waterfall methodologies. Good understanding of agile Scrum methadaloy, Test riven Development,
+nd cco, Excalen vertl and wrtten cmmmoniation sil, abit to mat deadlines in fast pace
+fnvironment, and & strong passion for learning new things and oving problems.
+
+EXPERIENCE
+
+General Dynamics «Experience, Data Engineer
+
++ Worked on infrastructure deployment on WS using EC2 (Virtual Cloud Servers), ROS (Configured
+fatationslOatabace Servic), VPe (virtual vate Cloud), managed the Network and its Secs,
+Route 53, Clea Formation, birct Connect, AWS 3, A Ropework (operations automation),
+"an, later (lod storage) & amazon Clsatch Monierng Management
+
++ Applied avs CL to automate backups of short-lived dat-stores to S3 buckets, EBS and created
+ight backup ads or the mission critical production servers
+
++ Developed and optimized ETL workflows both legacy and stibtedenviccoments
+
+{Worked with Coed watch, €C2, managing seertes and laste Load Balancing on 2S
+
+1 racial knowedge on iS OpsWorks, ClovFormation and AWS Elastic Banat
+
+1 Created sat Server (F SQL) stored procedures, views, and Powe reports fr project anaing
+and regulatory repertng fr storing apd receiving hgh amounts of ata
+
++ Amazon 3 simple storage service
+
+{Developing web applications using Django framework: experience in bulng web appiations
+sing the Django framework.
+
++ This ncodes knowledge of he Model iew Controle (VC) architecture
+
+Managed miston-crtal Hadoop duster and afkaat the production scale, especialy Clowdera
+dietrbtion
+
++ Used AWS data piptine fr Oata Extraction, Transformation and Lending from homogeneous oF
+heterogeneous data sources ad but vara graphs fr business decisionmaking using Python
+apt bay
+
++ oie app development: using Django to bl the backend of mebie apps
+
+{Developing Bjang's REST framaorkt create Pte that connect thelr mobl apps to tele
+Aatabses and other webservices
+
++ ded sopor for Amazon AWS Sand ROS to hos stati media fas and the database nto
+benazon Cloud
+
++ Created Nodel depandency mapping by recursive tree traversal on regex extracted model id rom
+rode desertion:
+
++ Used HTML/CSS, JavaScript and AJAX for development ofthe website's user interface
+
+Developed views and templates with Ojangos vew controler
+
+1 Designes REST ais and/or packages tat abstract feature extraction and complex prediction!
+forecasting ageitinson time series data
+
++ Created and maintained data dictionaries, database schema, SQL Python cong stye/standard
+udes and runbooks for ETL & exposre reporting processes
+
++ Performed data ingestion and data manipulation for vertica,sharePont, delimited Mes, APs etc
+
++ Using Python
+
+1 performed dita ana, data leaning, data visualization and data transformation sing the Sy
+Stack (pandas, matt, Nundy) and Power Bo dscover sights in data
+
++ Evironment: Python, Django Web Framework, Pandas, Matti, Sy. Numby, Power Bl REST
+20, verte, SharePoint, AWS (ROS, ah, $3 Claud Watch, Rout 5, PC, Avosaing, Sha
+Seripts, ROS, SES, SOS and SRS), BUR, AYSQL, Gl, Ja, HTML, HTTMLS/CSS, JQuery,
+‘aarp, Ube Linus, ae, Windows environment, SOU, SQLServer
+
+‘Genera Dynamles- Data Engineer Model Developer With Python
+Top, MI» 07/2048 14/2020,
+
++ Developed Restful mero Services using Django and deployed on AWS servers using EBS and EC2
+
+*lorked en Flask and Snowfake queries
+
++ Designed and maintained databases using Python and developed Python based PI (REST Wed
+Service) using ask SQL Alchemy, and FstaresQl.
+
++ Used denkins fr eontinuus integration and delivery platform over GIT
+
+1 autamated most ofthe dl task using python sexing
+
++ Invotved inthe c1/cD pipeline management fr managing the weet releases
+‘Worked on Jr for managing the tasks and improving te indivi performance
+
+1 making recommendation othe tear in terms of appropiate testing techies, share testing
+tasks
+
++ Datined siferent ango AP profiting techniques fo faster rendering information
+
++ Later migrated applications from Django to Fask and NosQL(OjnameD8) t SQL (Snowflake)
+
+1 Used Jenkins, a, tbucket environments
+
+Worked on Attomatin, Configuring and deploying instances on WS, Azure environments and Data
+centers, als fair with Ec, cloed watch, Clo Fomation and managing scary groups on
+
++ Trexbleshooted Production sues pertaining to AWS Cloud Resources and Application infrastructure
+point of view
+
++ Developed sal crits for cleansing and validating ata ls using utes the AWK, Sd, grep
+Sd other UK commands
+
++ Develops Shel seit implementing PLISQL quis for data migration & batch peocessing
+
++ Wrote python scrips to parse JSON documents and load the data In PstgeSQL database
+
+Used apache Arte programatically to schedle and monitoring workflows and to orchestrate
+onmpox ait pipelines
+
++ Experience with bulding data pptines in python Pspark and bling python OSG in Apache
+iio
+
++ otked with 508 based REST Web serves
+
+{Moved datawareheuse rom on prem tradst/postgresal to AWS Cloud
+
+1 Designed, implemented, and maintained soliton for using Oacker, enki, Gt, and Pupet for
+Incroervices and continuous deployment
+
++ orking on improvement of exiting machine learning algorithms to extract data points accrately
+
+*espesile for setting up Python REST AP framework using Flask
+
+1 nguged la oesgn, Development, Deployment, Testing ad implementation
+
++ Developed framework for converting existing PowerCenter mappings and to PSparkPython and
+Spark) Jobs
+
++ Cheated spark frame to beng data fom 062 to Amazon S3
+
+{Provide guldance to development team working on Pspark as ETL platform
+
+1 optimize the Bypark jobs tor on huberetes Cute for faster data pocessing
+
+1 Eiwenment python 3.6, Ojango Framevork 1. Flask Framework, angular, CS, Oyamo0s,
+ys, HTMLS/CSS, Swke,srnazon We Service (AWS), 53, ECR, Pyar, Microxat Viva
+Code, Lin, Shel Scripting.
+
+Berkadia Solutions - Python Developer
+hyp STATE + 05/2017 06/2018
+
++ rtcpated inthe compete SOLC process and used Python to dvelop website functionality
+
++ Developed etre rontend and backend modules using Python scripting on Django Web Framework
+
+{Designed and developed data managenen system sing sO
+
++ Bult application logic sing Python 2.7
+‘sed Ofango as for database access
+
++ Prtcpated ia requirement gathering and worked cosy with the architect in designing and
+rodeting
+
++ Mlorked with the team to customize word press secur installations
+
+1 Used thon srps to werk wth Facebook Platform Python SOK to acess and post on Facebook
+pages wal
+
++ orked onthe development of SQL and stored procedures on HSQL
+
+1 Sefamotvated team payer with goed Anaya, Logical and ble slving ably
+
+{Designed and developed horizontal scalable APs using Fase
+
+Designed Cassandra schema forthe Is
+
+{Designed RESTI L web servi for handlog AJAX requests
+Developed remote integration wth thid party platforms by using RESTIUL web services
+
+{Updated and maiained dnking for automate bldg jobs nd deployment
+
+{plemented database acess using Ojango ON
+
+{Backend data acess males using PL/SQL stored procedures and Oracte was designed and
+creates
+
++ Cleated RESTIU AP cals withthe server, parse catgut report of excel es
+
+{Extensively used python mele such 35 request, ub ulb2 for web cranking
+
+{ed Pandas 20140 put the data a5 tine srtes and tabular format for east taestamp data
+‘manipulation and retrieval.
+
++ Used Test riven Approach for developing the application and implemented the uni tests using
+Pon Ui Test framework
+
++ ed many reguar expressions in order to match the pattern withthe existing one and store them
+
+database on acronelogcal basis
+
++ implemented cadet perform CRUD operations on MYSQL using Toad
+
+1 orked on deplment of the web aplcaton using the Linx server
+
+1 envronment Byton 2.7, Ojngo Framavork 1-2, SS, Bycharm, SQL, MySQL, LAMP, Qbey,
+‘Adobe Dreamweaver, Apache Web Server
+
+Rational Technologies - Python Developer
+
+STATE » 06/2015 "04/2017
+
++ Creating a web-based aplication using Python onthe Django framework for data processing
+
++ Impleenting the preprocessing procedures along with deployment using the AWS Serves and
+creating 3 virtual machine sing €c2
+
++ orked on Exploratory data anasis and performed data wrangling and dat visualization
+
+1 salldaing the data to check forthe proper conversion and seating and cleaning unwanted dat,
+data prong for accuracy, completeness, and conssten
+
++ Preparing standard reports, charts, graphs, and tables rom a structured datasource by querying
+dat repoitres using Python a SQL
+
++ Developed an produced a dashboard, and key performance indicators an monitor organization
+performance
+
++ Define data needs, evant data quality, and extrat/transtorm data for nay projects and
+esearch
+
++ ied bango framework for aplaton development
+
+1 Designed and matetained databases using Python and developed Pythan based PI (REST Web
+Service) using ask SQL Alchemy, and FstaresQl.
+
++ lorked on server-side applications using Python programing
+
+{performed efficient deliver of code and continuous integration to Keepin ine with Ag praiples
+
+{Experience in Agile Methodsloges, Serum saris, and sprints experince ina Python based
+
++ Importing and expeting data between diferent data sources sing SQL Server Management Sto
+
++ Malntining program Ubraries, usr manual, and techical documentation
+
+*Evrenment: Python, Django, AWS, EC2, SQL, RESTI Fas, PostgreSQL, Age

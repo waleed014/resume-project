@@ -1,0 +1,85 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Accomplishments
+
+« Stevens Institute of Technology] January 2016 - Present Detecting change points and events on Yelp dataset in Python: Extracted
+data from the Yelp Businesses and Reviews JSON files and transformed into individual Pandas data frames using Python scripts.
+
+« Executed one-sample t-test to identify significant changes in average rating for each business by investigating 500+ reviews.
+
+* Lending Club Loan Analysis using SAS: Cleaned, processed and analyzed features from data for predicting tisk of loan being
+defaulted /charged off based on past loan data.
+
+« Applied Principal Component Analysis for reducing number of dimensions and implemented Logistic Regression.
+
+* Attained an AUC value of 0.70.
+
+* Crime Analysis: Los Angeles Crime Stats: 2012-2015 using R: Implemented data cleaning and exploration by graphical
+presentation of crime rate in particular area and frequency of occurrence of crime.
+
+« Applied prediction algorithm K nearest neighbor to predict location of next crime accuracy of 74%.
+
+* Developing a Data Warehouse and Business Intelligence system for Grupo Bimbo: Implemented dimension model and star
+schema for sales transaction module using Erwin tool.
+
+* Roll up and drill down Cube design, Dashboard reports for monthly sales using Tableau.
+Professional Summary
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track
+
+record of driving increased sales, improving buying experience and elevating company profile with target market.
+
+Skills
+
+Teradata, MySQL, SQL Server.
+« Languages: Python, SQL, Shell Scripting, HTML, XML.
+Data Mining | Visualization: Tableau, Python, R.
+Operating Systems: Linux, Windows 7, Unix.
+
+ETL: Teradata Load utilities
+
+Tools: Eclipse, Informatica Power center, R Studio.
+Work History
+
+ETL Developer, 02/2012 to 05/2014
+Jpmorgan Chase & Co. - Salt Lake City, UT, India
+* Understanding the business requirements and future roadmaps - multiple discussions with the different business stakeholders
+(specially solution architects, business analysts/domain SMEs).
+« Assessed different source systems that will feed the Data Marts or Centralized Enterprise Data Warehouse.
+* Created (Extract, Transform and Load) ETL design mapping sheet, data reconciliation strategy, data archival strategy - ETL
+framework, stored procedures and built SQL query objects to detect data loss
+« Automated 25+ businesses loading process to load through a common framework reducing run time by 70%.
+« Wrote 10+ Bteq Scripts to handle Change Data Capture logic and conducted data validation utilizing Informatica DVO and
+prepared test reports for loading data into target tables.
+* Led 5 resource during team implementation of changes, unit and system testing and migration of deliverables to production
+environment and assisted in real-time defect fixing ensuring timely deliverables by team.
+« Initiated performance dashboard for queries in dev to check if it meets threshold and approve them to release in production.
++ Optimized and tuned Informatica mappings and SQL stored procedures by adhering to Informatica best practices which saved
+
+40 hours per week of manual work.
+
+Interests
+Volunteer, Maitree - CSR team, Tata Consultancy Services October 2012 - June 2014
+Education
+
+Master of Science: Information Systems, May 2017
+Stevens Institute of Technology - Hoboken, New Jersey
+Information Systems 3.83/4
+
+Multivariate Data Analysis, Data Warehousing, Social Network Analysis, Machine Learning, Web Analytics, Data Mining, Data
+
+Warehousing and Business Intelligence, Project Management Fundamentals, Financial Decision Making
+
+Bachelor of Engineering: Computer Science
+
+Visvesvaraya Technological University - Bangalore
+
+Computer Science with Distinction
+
+Data Warehousing, Database Management, Data Structures, Intro to Java, Web Programming: June 2011
+Additional Information
+
+* LEADERSHIP AND HONORS: Outstanding Performance Award, Tata Consultancy Services for being an outstanding performer
+in delivering project. Volunteer, Maitre - CSR team, Tata Consultancy Services October 2012 - June 2014

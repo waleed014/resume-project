@@ -1,0 +1,129 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 « resumesample@example.com
+
+Professional Summary
+
+Experienced Full-Stack Developer with a demonstrated history of working in the Information technology and services
+Industry. Strong engineering professional, currently seeking Fulltime Job Opportunities. Skilled in JavaScript, TypeScript,
+React, Node js, HTML, CSS/CSS3, and Python Programming Language. My goal is to expand my knowledge to an extent
+where lam able to provide architectural solutions in Software Development.
+
+Skills
++ ReactJS/Redux/Flux/MobX, React-Router, React:
+bootstrap/Semantic-UI, MateriaFUI
++ Python/Django/Django REST Framework/Flask MongoDB, PostgreSQL, MySQL
++ TypeScript, HTMLS, CSS3, Bootstrap, SASS/LESS AWS(EC2, Lambda, DynamoDB, $3, etc), Heroku,
++ NodeJs, PHP Firebase, Azure (DataBricks)
+
+CI/CD, Pipeline, Gitlab, Jenkins
+NPM, WebPack, Babel, Yam, Gulp/Grunt, Docker
+
+Work History
+
+Sr. Software Engineer, 06/2019 to Current
+Lumeris - Maine, ME
++ Checked client code for bugs and weaknesses using approved troubleshooting methods.
++ Worked with project managers, developers, quality assurance and customers to resolve technical issues.
+* Led software development initiative as subject matter expert and primary point-of-contact for project management
+staff.
++ Trained and mentored junior developers and engineers, teaching skills in PYSpark, Azure Data Bricks and Data
+Science , while working to improve overall team performance,
+
+Full Stack Developer, 10/2017 to 03/2019
+Oracle - Okiahoma City, OK
+
+PROJECT DESCRIPTION:
+
+Prescription pack is a EHR ( Electronic Health Records } platform, where it collects the patients records and store, so
+patient and doctor can access the records for future diagnosis.
+
+Responsible for SDLC process in gathering requirements, system analysis, design, development, testing and
+
+deployment.
+
++ Developed single page application for web pages and mobile application using HIMLS, CSS3
+
++ Used GIT and GitHub for continuous integration.
+
++ Extensive experience in web based and client/server applications using Python and Django.
+
++ Excellent experience and Knowledge in CSS preprocessors like SASS
+
++ Designed front-end applications, user interactive (Ul) web pages using web technologies like CSS, JavaScript
+
+++ Integration of Amazon Web Services (AWS) with other applications infrastructure
+
++ Handled all client-side validation using JavaScript.
+
++ Followed Agile Methodology to meet customer expectation, timelines with quality deliverables.
+
+‘+ Used basic incorporate React.J§ to build client-side applications for building server-side APIs.
+
++ Creation and maintenance of website using HTML, CSS & JavaScript
+
+* Used React.JS as framework fo create Single Page Application (SPA) which can bind data to specific views and
+synchronize data with server.
+
++ Used JavaScript to make frontend components interactive to add dynamism to web pages at client side.
+
++ Integrated Frontend jQuery UI with backend REST API.
+
++ Responsible for all backup, recovery, and upgrading of databases.
+
+Environment: HTML, CSS, JavaScript, REST API, React.JS, AWS, jQuery, SASS, SDLC, Agile, Django, Python, Git, GitHub
+
+React Developer, 04/2016 to 08/2018
+‘Cognizant Technology Solutions - Los Angeles, CA
++ Create, developed, and helped to build numerous adaptable web and mobile software applications developed by
+company clients using JavaScript, Reactjs, Node,js
+* Developed, introduced, and helped to build next version of product line using Reacts with Reduxis
+* Create and helped to build applications layout basis on react-router-dom technology using functional methods as
+createContext, useReducer, styled-components in React Hooks environment
+* Creating architecting schemas basis on Graph@l for MongoDB database in business entities existed projects and
+logic of new web projects
++ Built API requests with different HTTP methods, used different types of variables (local, collection, environment,
+global), and display on web page components data through getting data in Javascript and Reacts
++ Developed, and helped to build multipage projects in Node,js based on Handlebars engine.
++ Applied practice to use TypeScript catching bugs. increasing productivity, and avoiding mistakes working on apart
+elements in JavaScript projects.
++ Developed, created, and helped to build multi-pages responsive HTML sites and components to them using block
+model, semantic tags, Flexbox / Grid / SASS methods
+* Developed and maintained unit tests using Jest, Mochajs
+
+Python Developer, 01/2013 to 03/2016
+Infosys Ltd - Downingtown, PA
+
++ Developed views and templates with Python and Django view controllers and templating language to create user-
+friendly website interface. Created Handler function in Python using AWS Lambda that can invoke when service is
+executed
+
++ Integrated services like GitHub, AWS CodePipeline, Jenkins and AWS Elastic Beanstalk to create deployment pipeline.
+Developed and implemented UI controls and APIs with JavaScript, Bootstrap, Embers, Backbonejs, Angularjs and
+Nodejs.
+
++ Managed AWS EC2 instances utilizing Auto Scaling, Elastic Load Balancing and Glacier for our QA and UAT
+environments as well as infrastructure servers for GiT and Chef. Designed python script to load transformed data into
+cloud services (AWS, Azure, and GCP).
+
++ Implemented Docker to provision slaves dynamically as needed. Had to Create and Maintain Docker files in Source
+Code Repository, build images and run containers for applications and testing purposes.
+
++ Used Node.JS for asynchronous data communication between server and client. Developed Restful Micro services
+using Flask and Django and deployed on AWS servers using EBS and EC2.
+
++ Designed, developed, implemented, and maintained solutions for using Git and GitHub for micro service and
+continuous deployment. Created custom CMS built using Django, AWS (Amazon web service). REST, Json with
+JavaScript, JQuery, AJAX components,
+
++ Used Elastic search for powering not only Search but using ELK stack for logging and monitoring our systems end to
+end Using Beats. Used elastic search for name pattern matching customizing to requirement. Worked high-end on
+collections and multithreading.
+
++ Worked as part of Agile/Scrum based development team and exposed to TDD approach in developing applications.
+Worked on deployment of project on Amazon $3 and used GIT version control and deployed project to Heroku.
+
+Education
+
+Bachelor of Science: Computer Science, 2011
+The University of Georgia - Athens, GA.

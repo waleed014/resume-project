@@ -1,0 +1,60 @@
+Robert Smith hone (123) 456 7899
+
+Email Infocauikeesume,com
+
+Sap Business Objects Developer! dees intedteconsewisenere
+
+‘Address; 1737 Marshuille Road, Alabarna
+
+SUMMARY
+
+‘Around 8 of experience working with Business Objects 4.1, 4.0, Web Intelligence Rich Gent, Info
+View, Security Design, Performance Manager, Oashboard anager, Lifecycle Manager, Central
+Management Console, Crystal Reports/X10-8, Crystal Xcelsius 4.5 - 2008, Query as a Web
+Service, Import Wizard, Central Configuration Manager, Live Office, Oracle SOL Server Experience
+Of Installing (Clustered environment), Configuring and Upgrading Business Objects XIRS,
+
+SKILLS
+
+Excel, Excellent communication and consulting shils Ability to work independently
+WORK EXPERIENCE
+
+Sap Business Objects Developer |
+‘ABC Corporation - May 2023 - january 2025
++ Worked in instalation of Bi 4.0 successfully also involved In unpacking the software tes,
+setting up the environment files and CMS repository Database.
++ Ihvolved in business requirement analysis fer reporting and analytics requirements for data
+quay and legacy systems migration
++ Designed, developed and Implemented solutions with data warehouse, ETL, data analysis,
+‘and BI reporting technologies
++ Developed Analytical Reports with multiple parameter falds, multiple éxpressions and
+‘nultiple grouping for hierarchy levels and published them using the Business Objects
+Enterprise Developed Universes using Designer for different business groups applying
+business intelligence for quality data
+Worked on import and Export of the Universes on the BI Server, with the changes In Database
+Objects by using Import wizard and Designer module
++ Checked the Universes for Integy and exported to the Repository to make resources
+available ta the users and groups.
++ Created Ad-hoc Reports by accessing the Universe.
+
+Sap Business Objects Developer
+Detta Corporation - 2020-2013,
+Responsiblties interacted with business users to analyze the business process and
+Fequirements and transforming requirements into prototypes,
+Worked with ETL team to translate business requirements Into ETL processes while developing
+the data mart.
+Participated In Data Mapping workshops and follow-up meetings with the client business and
+IT teams Coordinate with business on spectying rules required to cleanse, stendardze
+existing legacy Master data to meet universal standards using industry proven unique
+Cleansing Methodology.
+Involved in Designing, Developing and Maintaining Universe by defining joins, and
+cardinalities between tables.
+‘Applied contexts or created alases to address cyclic dependencies issue
+Created complex Webi and full client reports (used multiple data providers, Sub Queries,
+Master/Detall, cross tab, Charts) which Inckides spect field, user variables and cornplex
+calculations using report level contexts (In context Garp; Out Context) Leveraged the use of
+Indexed and primary key columns in the where clause of the report to improve the
+performance.of the query.
+‘This is Dummy Description data, Replace with ob description relevant to your current role
+
+(0 This Fra Resume Tamblat is the copyright f Qvakesume com. Usage Guldatns

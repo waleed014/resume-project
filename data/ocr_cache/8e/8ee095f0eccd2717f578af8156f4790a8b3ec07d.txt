@@ -1,0 +1,72 @@
+Rolando Doyle
+467 Veda Wells, Chicago, IL # Phone: +1 (555) 534.9667
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR SQL PROGRAMMER / DEVELOPER
+Houston, TX
+06/2015 — present
+‘© Assists with data-system performance monitoring, tuning and the development and implementation of
+improvements
+‘* Design and develop SQL stored procedures to automate various workflows and/or optimize application
+performance
+Manages, oversees, and provides quality control of junior personnel
+Participate in the planning, design, and development of data warehouse systems
+Provides Subject Matter Expertise
+Optimize databases, data marts, and data warehouses for performance and data quality
+Perform ad-hoc requests for data manipulations, imports, exports, updates
+
+DATABASE ARCHITECT / SQL PROGRAMMER
+Detroit, MI
+12/2009 — 02/2015
+‘Serves as a senior resource to junior team members, assisting with questions, obstacles and issue
+resolution
+‘© Creates and maintains related supporting documentation
+‘* Develops new and enhances existing database objects and packages to advance functionality and
+automation of systems
++ Performs other job related duties or special projects as assigned
+‘* Monitors database performance and tunes to maximize efficiency
++ In-depth knowledge of relational database theory and SQL procedures including writing complex SQL
+queries and stored procedures; backups, restores and recovery models; and performance tuning techniques
+‘+ Transfers source data through various tools into the database system and performs quality checks on data
+interfaces
+
+SQL PROGRAMMER
+Houston, TX
+07/2007 — 10/2009
+‘* Conforms with and abides by all regulations, policies, work procedures, instruction, and all safety rules
+‘© Understand processing speeds of different query techniques and when to use different query techniques to
+‘optimize code for faster processing speed is a plus
+Intermediate knowledge of data automation, including SSIS packages and stored procedures
+‘Advanced Linux and Windows administration knowledge specific to supporting RDMS systems
+5+ years SQL and/or Oracle administration in mid to large environment
+‘Write and optimize complex queries for ad hoc and reoccurring requests to manipulate and extract data
+from SQL Server, DB2, etc
+‘© Well organized and detail oriented
+
+UNIVERSITY OF CALIFORNIA, SAN DIEGO.
+Bachelor’s Degree in Computer Science
+
+‘© Excellent interpersonal skills and strong emotional intelligence
+‘* Solid written and verbal communication skills and able to articulate the technically complex to be
+understood by both technical and non technical personnel
+
+Able to develop scalable solutions that can be utilized by current and future channels ~e.g. mobile
+Excellent attention to details
+
+Ability to manage conflicting priorities and multiple tasks
+
+Good critical reasoning and problem solving skills ~ sticks to the problem until itis resolved
+
+Able to work in a collaborative environment
+
+Understanding the importance of real business engagement in all stages of IT product lifecycle working in
+both waterfall and agile delivery methodologies
+
+‘* Stakeholder management and interpersonal skills at both a technical and non-technical level
+
+© Customer-orientated, whether responding to support queries or developing new functionality

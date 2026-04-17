@@ -1,0 +1,103 @@
+Jared Arthur Maica
+
+Java Developer
+
+Personal Info
+Phone
++1.799-456-8777
+
+E-mail
+j.amaica@gmail.com
+Linkedin
+linkedin.comfinjjamaica
+Twitter
+
+twitter. comijamaica
+
+Key Skills
+JsP ann
+‘Advanced
+HTMLS/CSS ann
+‘Advanced
+RESTIul ann
+‘Advanced
+XMLIJSON on
+Very good
+struts 7
+Good
+Problem-solving ann
+‘Advanced
+Organization nan
+‘Advanced
+Communication on
+Very good
+Adaptability on
+Very good
+Time management on
+Very good
+
+2015 -
+2016
+
+Enthusiastic and well-organized Java developer with 3+ years of experience.
+Eager to join Microsoft to bring in top-class Java development and problem-
+solving skill. In previous roles reduced app memory consumption by 30%,
+and decreased startup time for apps by 70%.
+
+Java Developer
+
+DaCoderz, Los Angeles, CA
+
++ Analyzed and designed program changes. Reviewed and updated requirements
+documentation, wrote design documents (PRD, FRD, UIRD, TRD, SRS, and SDD).
+
++ Planned, documented, and executed tests to ensure code changes meet
+requirements and specifications.
+
++ Supported programming changes during quality assurance, user acceptance
+testing, and post implementation,
+
++ Applied relevant technical skils to deliver specifications, program changes, unittest
+scripts, and documentation
+
+Key achievement:
+
++ Achieved a 30% reduction in the app's memory consumption by eliminating
+duplicate strings via Garbage Collection Logs analysis and refactoring the code.
+
++ Recognized and improved code inefficiencies that led to a 40% increase in app
+stability
+
+Junior Java Developer
+
+Quantéxx, New York, NY
+
++ Designed, developed, troubleshot, debugged, and implemented software code for
+software components of web applications.
+
++ Cooperated with graphic designers and other project team members to develop
+website's concepts, interface design, and architecture,
+
++ Integrated web applications with back-end databases,
+
++ Deployed large web-based transaction systems using application servers.
+
++ Researched, tested, built, and coordinated the integration of new products per
+production and client requirements
+
+Key achievement:
+
++ Reduced startup time for Java apps by 70% via CDS implementation.
+
+UCLA, BS in Computer Si
+GPA3.9
+Coursework:
+
+nce
+
++ Computer systems architecture
++ Programming languages
+
++ Algorithms and complexity
+
+* Automata theory

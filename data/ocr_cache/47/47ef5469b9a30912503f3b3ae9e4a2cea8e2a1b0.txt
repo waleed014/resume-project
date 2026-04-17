@@ -1,0 +1,81 @@
+TARANJEET SINGH taranis@amail.com | +91-9891262808 | 011-27184867
+
+Seeking challenging assignments in Software Development with an organization of repute
+
+synopsis
+‘eB Tech. (Electronics and Communication) fram Guru Gobind Singh Indraprastha University
+
+‘# Proficiency in grasping new technical concepts quickly and utlizing the same in a productive manner.
+
+‘eA proactive learner with a flair for adopting emerging trends & addressing industry requirements to achieve
+‘organizational objectives & profitability norms.
+
+‘e An exceptional performer with distinction of being commended for exemplary performance in academics as well as
+‘extra-curricular activities
+
+‘¢ Total experience: 3 year and § months
+
+TECHNICAL ACQUAINTANCE
+
+Languages Core Java, J2EE (Hibernate 3.0), C/C++
+Web Technologies GWT 2.0 (Googie Web Toolkit)
+IDE & Tools Eclipse, TOAD, SQLyog, Microsoft Visio
+Web Servers Apache Tomcat
+Database MySQL 5.0
+Web Development HTML, JavaScript, CSS, AJAX, XML
+Operating Systems Windows XP
+Code Management Tortoise SVN
+Mobile Development BONE, Bluetooth API (ISR 82), Sun Wireless Toolkit
+Creative Design Skils ‘Adobe Photoshop, Dreamweaver, Flash
+CERTIFICATIONS
+
+‘= Sun Certfiea Programmer for the Java 2 Platiorm (SCIP), SE 6.0
+
+ORGANIZATIONAL EXPERIENCE
+
+oduct Engineer
+
+May'09 onwards Tere Projects Pvt, Utd,
+
+1karu Projects Private Ltd is @ global software outsourcing company. Its service domain includes e-learning, wed
+design and development, social media applications, custom software development, content management system,
+mobile application development and e-commerce solutions
+
+IKEWIKI - Web Application for providing a cost-effective e-learning platform (Team Size: 9)
+
+IKEWIKI Is the flagship product of Ikaru. It is a social learning platform to make e-learning a realty in organizations
+and educational Institutions. Its aim is to develop the most usable and effective e-learning environment at a
+reasonable cost. The product was developed on GWT (Google Web Toolkit) 2.0 platform using Scribd API as document
+repertoire with MySQL as database and Tomcat as server.
+
+Role : Developer - Worked on varied aspects of the application including intial requirement and design phase, back-
+fend development as well as front-end implementation. Also worked as testing-lead for an iteration.
+
+Recognitions - Was recognized as a star developer time & again and was always chosen for cent interaction and
+handling technical aspects ina sales pitch.
+
+[puly'07 to March’o9 ‘Sapient Corporation Pvt. Ltd. ‘Associate Technology
+
+Sapient is @ world-renowned global services company that helps clients transform in the argos of business, marketing,
+and technology. It specializes in marketing, advertising, consulting, trading and risk management.
+
+‘ovisioning System for selective customer date migration (Team Size: 25)
+
+‘The purpose was to provide an interface to migrate customer data from current mobile network to an advanced
+network based on the willingness of customers, ensuring minimum manual intervention. The solution was a I2EE
+Application (Struts framework) using Oracle 9i database and Tomeat server. Logl) was used for logging and Castor for
+XML message generation. Hibernate was chosen as the ORM tool
+
+Role : Developer - Designed ISPs from wire-frames and requirement documents using tag libraries and created CSS
+markup for the entire application.
+
+Recognitions - Was highly appreciated by the client for suggesting additional enhancements and by the team for
+client-focused delivery, leadership & creativity
+
+‘Set-Top Box Apolication for Video on Demand (Team Size: 6)
+‘The purpose was to enhance and support a set-top box application for a leading entertainment provider in Germany.
+It used a special browser for embedded systems (Ant Gallo). The application was based on AJAK and was developed
+Using 0035 (Object Oriented Javascript)
+
+Role : Developer - Provided major enhancements to the project including complete redesign of the application
+Interface as per the changes in business requirement of the client. Supported the application to ensure client

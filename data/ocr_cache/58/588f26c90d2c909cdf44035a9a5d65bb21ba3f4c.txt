@@ -1,0 +1,54 @@
+‘Sample Network Engineering Resume
+
+‘This sample network engineering resume will give you a quickstart on building an effective and optimized resume for
+‘your job application, Visitors can feel free to customize and edit our sample network engineering resume as per their
+requirement for job application. We hope that our sample network engineering resume will go a long way in portraying
+your abilities and skillsets efficiently.
+
+OBJECTIVE:
+To obtain a challenging position as a Sr. Network Engineer
+TECHNICAL SKILLS
+
+‘© Routers (Cisco GSR, 7500, 7000, 5300, 4000, 3000, 2600, 2500, Terminal Servers: 25111, 2509). Extreme
+Networks Switches (Black Diamonds and Summit 24)
+
+'* Cisco Switches (6500, 5000, 3500, 2900).
+
+‘© Cisco Pix Firewalls (525, 520, 515, 506), VPN Concentrator 3000 series, Cisco IOS Firewall feature set (IOS.
+12).
+
+‘¢ NetScreen Firewalls (NS-5XP, NS-5GT, NS-500)
+
+© OC-12, 0C-3, DS3, T-1, and ISDN PRI's and BRI's, Ethemet (Gigabit Ethemet, Fast Ethernet) FDDI, Token
+Ring.
+
+‘© Routing Protocol (BGP4, OSPF, EIGRP, IGRP, RIP, IS-IS, NLSP), Routed Protocol (TCP/IP, IPX/SPX).
+
+‘* Implemented QoS using FIFO, Weighted Fair Queuing, Priority Queuing, Custom Queuing, RSVP, RED,
+CAR,
+
+Implemented SNMP on devices to allow for network management
++ Implementation of HP Openview Server for network management.
+
++ Implemented wali ites using Standard and Extended access lt, Distibute-Lists, and Route Maps.
++ Implementation of HSRP, DHCP, DNS, FTP, TETP, MATG.
+
+‘© Punch Blocks, Tone Tracers, Repeaters, T-BERD, Modems, CSUIDSU's, Professional Modular Plug
+Crimper.
+
+‘© Unix/Sun Solaris 8.0, Novell 4.X, Win 95/98, Win-NT 4.0, Win 2000 Prof., Win 2000 Server, MS Office, Lotus
+Notes, AutoCAD, PsPice, Tango,
+
+WORK HISTORY:
+D&D Consulting Albany, NY
+From 2/04-Present
+Position: Network Engineer/Security
+Running VPN Project Throughout the Five Boroughs of NY (OMRDD)
+‘Perform Site Surveys, and provide documentation for cable company
+‘* Design the layout for cable Installations
+‘© Configure, and Implement NetScreen NS-5XT
+‘* Implement VPN connections using NetScreen NS-SGT and NS-500
+‘¢ Perform Troubleshooting end-to-end between the two sites
+‘+ Provide training to staff at the customer location
+
+‘¢ Maintain documents of work perform during the day

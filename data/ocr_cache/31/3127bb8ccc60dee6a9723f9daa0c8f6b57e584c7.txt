@@ -1,0 +1,83 @@
+Sandra Botsford
+‘9105 Balistreri Shores, Detroit, MI # Phone: +1 (555) 378 7273
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR UAT TESTING CONSULTANT
+Phoenix, AZ
+01/2014 — present
+‘Drive the implementation of standard UAT tools and processes supporting business testing while ensuring
+consistency and improved quality
+‘+ Drive identification and implementation of ideas for team and process improvement
+‘+ Proactively work with the business to troubleshoot or provide additional training for issues related to
+testing (i.e. tools, test case creation, etc.) throughout planning and execution phases
+Manage issue tracking and bug lifecycle for the User Acceptance phase
+Create metrics on defect trends discovered in various testing phases
+Facilitate UAT Strategy sessions and Test Case creation workshops with business testing leads
+Facilitate mitigation planning for any open defects near project closure
+
+INCIDENT RESPONSE PENETRATION TESTING CONSULTANT
+Boston, MA
+08/2007 — 07/2013
++ Perform network forensic investigations utilizing NetFlow analysis and collection,
+‘* Conduct full penetration tests of enterprise networks, web applications, mobile applications, and wireless
+networks,
+‘© Work as part of a team or independently when necessary,
+* Utilize in-house forensic tools as well as open-source tools to perform memory analysis, static analysis and
+reverse engineering on local and remote systems,
++ Perform additional security services for customers including social engineering campaigns, physical
+security tests, source code review, and online reconnaissance,
+‘© Prepare clear and comprehensive incident reports and identify opportunities for improvement,
+‘* Responsible for all relevant forensic investigations within established service levels,
+
+TESTING CONSULTANT
+
+‘San Francisco, CA
+04/2000 — 03/2007
+‘© Work with delivery leaders, project managers, business analysts, designers, developers and business
+partners to ensure expectations are met
+‘* Create customized or tool generated test scripts to execute and automate test plans
+‘© Create and communicate test reports, status, and testing information to the project team and Project
+Manager
+Capture and manage defects and fixes. Perform regression test cycles and data reloads
+Establish expected results based on acceptance criteria and test data for test cases.
+Create, install, optimize, and administrate the testing environment
+Execute the test scripts and test plans and record results
+
+WASHINGTON STATE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+‘+ 6 or more years of experience in leading and delivering multiple testing services in multiple technologies
+
+‘+ Exceptional in testing and development methodologies
+
+‘+ Excellent verbal and written communication skills, influencing skills and ability to work effectively in a
+‘geographically dispersed team
+
+‘+ Demonstrated technical leadership skills
+
+‘+ Exceptional in testing analysis and design, functional and performance models, and test specifications to:
+develop functional models for testing, develop performance models for testing, evaluate and validate test
+cases and scripts, validate functional models for testing, validate performance models for testing, develop
+test specifications, validate test specifications, validate testing coverage, escalate quality issues for
+resolution, evaluate test automation tools and validate testing environment in order to develop test
+specifications
+
+‘+ Exceptional in testing processes and tools to: execute test cases and scripts, analyze test results, report on
+testing progress and results, facilitate defect resolution and document final test results in order to execute
+
+testing engagement. Proficient in testing processes and testing metrics to: review test summary report,
+
+provide testing project feedback and archive testing assets in order to verify completion of testing
+
+Significant project leadership experience in testing
+
+Excellent client facing skills and experience
+
+Good Project Management, Customer/ Vendor Management skills
+
+Due to the nature and complexity of project(s), leadership, project management, coordi

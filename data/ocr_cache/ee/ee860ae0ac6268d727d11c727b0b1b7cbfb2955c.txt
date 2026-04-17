@@ -1,0 +1,62 @@
+First Last
+
+Network Security Engineer
+
+Sioux Falls, South Dakota + +1-234-456-789 + professionalemail@resumeworded.com + linkedin.com/in/username
+
+WORK EXPERIENCE
+
+Resume Worded, New York, NY 09/2015 — Present
+Tech startup with 10+ employees and $10m+ annual revenue
+
+Network Security Engineer
+
+e Managed a team of 13 security practitioners responsible for delivering security engineering and
+architectural expertise for customers in the Pacific Northwest, growing annual sales by 30% in FY 2020.
+
+e Participated in 20 partner-facing technology conferences and workshops worth $50M, providing
+multilayered defense strategies and evangelizing about the growth of sophisticated attacks.
+
+e  Orchestrated 12 executive briefings between customer leadership and internal executives that focused on
+product roadmaps and design discussions, provided strategic business value, and increased security
+posture by 42%.
+
+e Reduced the physical resources needed to support RW's IT department by 26 servers and 50TB of data
+storage within one month.
+
+Polyhire, London, United Kingdom 09/2012 - 08/2015
+NYSE-listed systems network company
+
+Network Security Analyst
+
+e Administered 39 blue coat proxy and anti-virus servers for multiple offices of Polyhire nationwide, 4 days
+ahead of the deadline.
+
+e Managed 73 juniper and 20 checkpoint firewalls supporting 45K employees in remote regions of 8 Asian
+countries.
+
+e Executed an automated patch management system that reduced the time spent on routine tasks by 75%,
+acknowledged by management for being proactive.
+
+Growthsi, London, United Kingdom 01/2010 — 09/2012
+Network training and membership SaaS with 20K paying users
+Technical Support Supervisor
+e Reduced call volume and created a monthly savings of $250K by introducing support procedures that
+improved customer satisfaction ratings.
+
+e¢ Championed a company-wide project that reduced operational expenses by $1M per year due to
+streamlining and automating processes.
+
+Network Administrator, ABC Company, London, United Kingdom 11/2008 - 12/2009
+Network Analyst, XYZ Company, London, United Kingdom 06/2005 —- 10/2008
+EDUCATION
+
+Resume Worded University, New York, NY 05/2005
+
+Master of Computer Science — Cybersecurity
+
+SKILLS
+
+Certification: Cisco Certified Network Professional (CCNP), Cisco Certified Network Associate (CCNA).
+Techniques: Advanced Penetration Testing, Auditing Networks, Network intrusion detection (Advanced), Metasploit
+Framework, Regular Expressions.

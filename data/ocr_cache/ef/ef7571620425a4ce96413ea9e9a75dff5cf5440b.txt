@@ -1,0 +1,135 @@
+James Taylor
+
+9 city, state
+
+Electrical Engineer y
+
+& email@emaitcom
+
++ Possessing a deep understanding of
+circuit analysis, programming
+experiencein several computer,
+languages, hands-on hardware
+proficiency of implementation,
+knowledge of communication
+protocols, such as I2C, SPI, and UART.
+
++ Proficient in architecting software
+For embedded systems using
+LabVIEW.
+
++ Highly knowledgeablein the physical
+‘operation and programmability oF
+PLCs and SCADA systems.
+
++ Holding expertise in the diagnosis,
+analysis, and successful
+troubleshooting of myriad
+technologies.
+
++ €, Ct knowledge of basic
+programming language C, C+.
+
+‘+ MATLAB 2013: Knowledge of a
+circuit implementation on Simulink.
+
++ Microsoft Office: Have a grip on
+Microsoft Word, Excel, PowerPoint.
+
+implementation and execution of an
+electrical circuit.
+
++ Linux
+
++ RSLogix
++ OrCAD + GEMstudio
+
++ Altium + VirtualBox
+
++ Spice + Unity Pro XL
+
++ Electric + VisualStudio
+
++ UTSpice + Windows OS
+
++ Hyper-V + Wonderware
+
++ Vilware + Microsoft Office
+* Quartus + ISEDesign Suite
+
+Ladder Logic
+
++ Movies
++ Badminton
++ Reading Articles
+
+Electrical Engineer (Hardware and Software
+Development)
+EON.
+
++ Developing diagnostic software and testing procedures for Laser Doppler Velocimetry.
+
++ Performing debugging and failure analysis of fiber optical products from multiple
+manufacturers.
+
++ Prototyping instruments used in experiments containing Micro Electro Mechanical
+Systems (MEMS) Matrix Optical Switches, Erbium-doped Fiber Amplifiers (EDFA), Dense
+Wavelength Division Multiplexing (OWI), Optical Switch Circulators, Beam Spiers,
+Optical Attenuators, tlanosecond Pulsed Laser Diodes, and Tunable Lasers.
+
+«+ Facilitating research for alternativesoftware architectureused in embedded systems,
+
++ Usilzing LabVIEW and other programming languages to develop complete solutions
+for the automation of diagnostic software for optical and electrical components.
+
++ Collaborating with a ational Laboratory to review and suggest best practices for
+control system software development used for Broadland Laser Ranging Systems.
+
++ Creating His and automating procedures with Programmable Logic Controllers (PLC)
+and Supervisory Control and Data Acquisition (SCADA) systems For Shock Physics
+Experiments that require highly accurate timing and firing
+
+2015-05 - Present
+
+Assistant Electrical Engineer
+Iberdrola
+
++ Worked on electrical equipment (temperature and pressure sensors, valves, the
+actuator (ASAC 70), etc) on these engines.
+
++ Worked on relays, contactors, MCCB breakers, performed tests For motor proper
+working.
+
++ Completely familiar with the governor mechanismin controlling the output power of
+generator, voltage maintaining, generator synchronization with National Grid,
+generated different working modes, and loaded management accordingto the
+situation.
+
++ Monitored operated parameters and recorded operated data including electrical
+generation, pressures, temperatures, vibration indications, alarms, and other
+information related to the safe operation of the powerhouse equipment.
+
++ Responsiblefor startup, normal operation, load management andhandling of various
+‘emergencies during the operation of the Unit.
+
++ Maintained daily logs of operation, maintenance and safety activities.
+
++ Investigated and reported accidents.
+
+2010-05 - 2015-04
+
+Maintenance Engineer
+
+Avo Electrical Engineering Services
+‘+ Installed cameras security.
++ Fixed problems of laptops, tablet, office PC.
++ Fixed problems of imprimantes (Canon Epson, Brother, Kyocera).
+
+2006-03 - 2010-04
+
+Master of Sciences in Engineering, Electrical Engineering 2004 - 2006
+
+Massachusetts Institute of Technology
+
+Bachelor of Sciences in Engineering, Electrical Engineering 2000 - 2004
+Massachusetts Institute of Technology

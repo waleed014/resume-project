@@ -1,0 +1,142 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesample@example.com
+
+SUMMARY
+
+Innovative Senior Software Developer offering 18 years of experience. Enthusiastic about developing forward-thinking solutions to tomorrow's
+productivity problems, Demonstrates hardworking and adaptable approach to challenges with strong analytical and critical thinking skills.
+
+SKILLS
+
+Programming:
+= C#,C, C+, Visual Basic
+# SQL, PLISQL, SQL, MYSQL, KQL
++ NET API, WCF Services
++ NET6, NET 5, NET Core, ASPNET, ASP
++ MVCRazor
+* SSIS, SSRS
++ Python
+‘JQUERY, JavaScript
++ HTML, Css
++ XML, XSLT, XPATH
+‘+ UNDXLinux (Shell Scripting)
++ PHP
+
+Platforms and Tools:
++ Azure; VMs, SQL Databases, Blob Storage, App Services,
+Functions, API Management, Service Bus, Redis Cache,
+
+Application Insights
+
++ Microsoft SQL Server 2000-2019 Tools: SSMS, Profiler,
+Enterprise Manager
+
++ Oracle (6, 8,91)
+
++ Microsoft Visual Stadio 6-202
+
++ Subversion TortoiseCVS (Current Versioning System)
+
++ Team Foundation Server, Azure DevOps Server
+
+sor
+
++ IS/APACHE
+
++ Sun Java Software Development Kit
+
+‘+ Microsoft CRM 3.0
+‘+ Informatica data integration
+‘= Tidal workload automation
+
+EXPERIENCE
+
+Senior Software Developer - Technical Lead, 03/2013 - Curent
+‘Csat Solutions — Houston, TX
++ Participated in collaborative communication and open discussions of design and implementation approaches.
++ Maintained clea software development and deployment methodologies, utilizing varying software tools for operational success.
++ Performed and responded to peer code reviews in multiple programming languages.
++ Translated requirements from design through implementation both independently and through collaboration with larger team.
++ Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-quality testing and final
+implementation.
++ Identified opportunities for process improvements to decrease in support calls.
++ Used Azure DevOps tools to plan and manage development tasks, estimations and capacity planning.
++ Conferred with project managers and other stakeholders to fully understand software design specifications and plan optimal development
+approaches.
++ Performed troubleshooting of postzeleace software faults to support live service and installed software patch design
+Collaborated with support team to assist cient stakeholders with emergent technical issues and develop effective solutions.
++ Recommended enhancements and updates to system software based on performance data and wer feedback
+
+ITS Programmer Analyst Principal 1, 2012 - 03/2013
+Amerigroup Corporation City, STATE
+
+‘* Created SSIS and Informatica data integration packages to handle importing and exporting data between my team and the company’s
+
+vendors
+
++ Agile scrum methodology development.
+
++ Design, build and implement MVC restful web services pulling data from Microsoft SQL and Oracle databases to support the in-house
+PEGA systems rules engine to replace the companies existing pharmaceutical prior authorization system.
+Met with business partners to discuss rough order of magnitudes for new projects in order to find the best solution forthe customer.
+Designed a daily SSIS package to sun and deactivate inactive ADFS users in Amerigroup subsystems. This used to be a manual process
+handled via support tickets and could be very consuming of a developer's time.
+‘+ Used my ASPNET/MVC knowledge to help my team update and fix their aging web applications.
+
+‘Technical Lead, 2006 - 2012
+
+Advance Health Media ~ City, STATE
+‘+ Technical lead in charge of client websites, web services, and data exchanges for one of the company's largest clients and also one of the
+
+top five pharmaceutical companies in the world based on revenue, consisting of around one hundred twenty thousand employees, Services
+
+provided include but are not limited to; one main portal site used by client representatives for meeting planning/tequests reports provided
+using XSLT and SQL Reporting Services reports, the ability to manage budget, and allows the feps to view and track their meetings. The
+
+‘meeting planning portal also includes third-party login forthe client's vendors to use the site to perform their planning services and a web
+
+service that allows client vendors to also plan meetings in the application via the back end. There isa secondary site used by the client's
+
+customers for viewing, electronically signing, and historical tracking of contracts in PDF format also using SSRS. There is a nightly data
+exchange between these sites and the client consisting of forty-five scheduled SQL Agent jobs, seventeen of which are calling SSIS
+packages and the rest are calling legacy DTS packages. The data exchange updates internal system data via imports that massage, scrub,
+detect discrepancies, and cache imported data. The data exchange in addition exports client data in the form of reports the client has.
+requested to keep their systems up to date with company-managed data
+
+Provide Rough Order of Magnitudes (ROMS) for new development to operations based on client ideas
+
+‘© Manage a team of developers from initially assigning out projects, meeting to discuss implementation and questions, to code review and
+QA push back to final production deployment and project completion.
+
+‘+ Configuration management including creating release folders in Subversion. Merging developer check-ins that have passed code review
+into the QA environment. Copying finalized QA Subversion folders to staging environments upon sign off and finally pushing staged
+folders tothe live production environment as both scheduled deployments and hotfixes. Deployments also include pushing any SQL
+scripts, procedures and other database objects or updates needed by the projects going to the appropriate environments.
+
+‘+ Maintaining a stable production environment by routinely checking for site errors and implementing hotfixes when they arise. This often
+
+includes SQL tuning/optimizing slow procedures or functions, fixing code, rebuilding indexes, and occasional data cleanup that results in
+
+foreign key of index constraint errors.
+
+Provide regular updates to upper account management on developer project progress, current initiatives, and database ad-hoc extracts, and
+
+answer any technical or business rule-related questions they may have from the client.
+
+EDUCATION AND TRAINING
+
+Associate of Applied Science: Computer Programming, 03/2002
+ECPI College of Technology - Virginia Beach
+
+3.96 Grade Point Average Summa Cum Laude
+
+Academie Achievement Award
+
+Perfect Attendance Award
+
+Professional Achievement Award
+
+Bachelor of Science: Computer Science
+‘TCC Tidewater Community College - Chesapeake, VA.
+Additional classes taken in pursuit of Bachelors of Computer Science

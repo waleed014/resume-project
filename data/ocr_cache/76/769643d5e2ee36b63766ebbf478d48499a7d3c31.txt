@@ -1,0 +1,154 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+ACCOMPLISHMENTS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor \8 (555) 492-1000 4 resumesample@example.com
+
+SUMMERY: Over 8+ Years of total experience and 5+ years of experience in administration, development and
+implementation of SOA integrations using Mule ESB, CloudHub, Anypoint Platform, IBM DataPower, IBM MQ
+Series and etc. Experience in integration patterns and concepts such as Migration, Broadcast, Bi-Directional
+Sync, correlation and aggregation. Experience developing on the Mulesoft ESB platform to deliver SOAP &
+REST based APIs. Experience with Enterprise Application integration (EA\), interconnecting applications and
+services using Mule Message building blocks implementing content-based message routing, filters, and
+exception handling. Good knowledge of Service-Oriented Architecture (SOA) concepts, SOAP and REST
+based web services Good experience in MuleSoft Anypoint Platform - 3.7.x, 3.8.x, 4.x versions, Mule MMC,
+IPAS (CloudHub) and devkit. Good experience in Mulesoft installation and configuration on AWS, Azure and
+‘on-premises Linux servers. Good experience in Software Architecture, design with UML & Knowledge of
+Design Patterns Experience in modelling & building RAML based APIs for retail customers using Anypoint
+Platform. Strong design skills in Java/J2EE, spring Batch, spring MVC, OB design, Enterprise Integration and
+Messaging. Conceptual innovative problem solver with excellent organizational and communication skills.
+‘Willingness and ability to quickly adapt to new environments and learn new technologies. Good experience in
+setting up automated build and deployment process with CICD tools; Jenkins, Maven, Nexus and repository.
+Good experience in integrating Mule runtime with identity provider Ping Federate and Okta. Good experience
+in Software Development Life Cycle (SDLC) including Requirement Analysis, Design, Development and
+Testing of software applications. Strong team player. Worked on projects with different team sizes.
+
+‘+ Software Development Standards + Databases: Oracle, MongoDB
+‘+ Software Testing and Validation * Software Documentation Control
+MULESOFT DEVELOPER 03/2018 to 08/2020
+
+Huron Consulting Group | Kentucky, AR
+
+‘+ Participate in analysis, design, development and implementation life cycles of the project
+
+‘+ Participate in daily scrum meetings to discuss the progress of the project and spring planning and
+retrospective meetings
+
+‘+ Utilize various connectors such as Salesforce, FTP, HTTP, VM, File, SMTP, SFTP, Servlet, and Database
+
+‘+ Implement Exception Handling, Logging, and Error Handling
+
+‘+ Create HTTP inbound; outbound flows, custom java and XSLT transformers and Security of APIs using
+OAUTH2.0
+
+‘+ Manage performance of the services by using “Scatter and gather” and “choice router’
+
+‘+ Done walk-through, Mule Debugging, and Error fixing
+
+‘+ Implement and consume both SOAP and Restful web services
+
+‘+ Design and develop enterprise services API specification using RAML and REST schema
+
+‘+ Implement Security mechanisms like Security Certificates, key Exchange, and Encryption, Decryption
+and OAuth Authentication
+
+‘+ Authorization using Access Token and SM session cookie
+
+‘+ Build and deployment of mule application with Bamboo, Maven ang GitHub
+
+‘+ Create technical specification document for each application
+
+‘+ Create Mule application that uses connectors SFDC, Message Transformer, Choice Exception
+Strategies, Batch processing
+
+‘+ Support end user testing and provide post-production support
+
+‘+ Environment: Java, Mulesoft, MMC, Anypoint Studio, ActiveMQ, Rabbit, Serviets, Nexus, JSP. JSON,
+JMS, CloudHub, GitHub,
+
+‘+ Web Logic Application Server10.3, XML, XSD, XSLT, XPATH, JAXP, JAXB, WSDL, SOAP, Spring MVC.
+
+PYCHON DEVELOPER 10/2016 to 02/2018
+‘W898 International Inc. | Columbus, OH
+
+‘+ Configured different objects like MPGW, WS-Proxy, XML Firewall based on the client requirements
+
+‘+ Involved in configuring load batancer groups on DataPower appliance for providing high availability
+solutions
+
+‘+ Enabled security for different backend services using LDAP via AAA policy
+
+‘+ Responsible for the migration of proxies from lower environments to higher environments
+
+‘+ Involved in architecture design for various projects involved around DataPower
+
+‘+ Responsible for implementing SSO solution using Datapower and Tivoli Manager
+
+‘+ Developed shell scripts for migrating configurations from DEV to SIT, UAT and Prod
+
+‘+ Developed logging and auditing modules to log required information for debugging and auditing
+
+‘+ Developed Security modules using AAA policy, SiteMinder
+
+‘+ Used Datapower to execute SQL statements ke SELECT and INSERT in Oracle 10g Database
+
+‘+ Used Datapower for communicating against backend servers via Mutual Authentication
+
+‘+ Developed error policies within DataPower to handle errors returned by backend applications
+
+‘+ Used Datapower as a mediation layer for Protocol transformation from HTTP->HTTPS, HTTP->MQ, and
+MQ-> HTTPS
+
+‘+ Environment: DataPower XI50/XI52, WebSphere 8.x, 7 Oracle 11g, IHS 6.0, SiteScope, Tivoli Access
+‘Manager (TAM), Tivol Identity Management (TIM), RHELS
+
+- Xx
+
+WES (PYTHON) DEVELOPER 04/2014 to 09/2016
+
+Humana | City, STATE
+
+‘+ Analyze business requirements, participated in technical design, development and testing of various
+modules assigned
+
+‘+ Made the application responsive using Bootstrap
+
+‘+ Involved in web designing using HTML, CSS, JavaScript and extensively used Table less Design in CSS.
+for positioning
+
+‘+ After making the applications to be responsive, worked on different mobile devices bugs (like iOS and
+android)
+
+‘+ Developed page layouts, Navigations and presented designs and concepts to the clients and the
+management review
+
+‘+ Integrated Hibernate ORM with Spring-Hibernate framework to facilitate DML and DL queries and
+represent object-database mapping
+
+‘+ Designed Frontend with object-oriented JavaScript Framework like jQuery
+
+‘+ Used jQuery to make the HTML, DHTML and CSS code interact with the JavaScript functions to add
+dynamism to the web pages at the client side
+
+‘+ Created images, Logos and icons that are used across the web pages using Adobe Flash and
+Photoshop
+
+‘+ Used Adobe Experience manager for building websites, mobile apps and forms
+
+‘+ Developed client-side AJAX application that uses XSLT, XPath, JavaScript OOP, and more Bind objects
+and retrieve them via JNDI interface.
+
+Bsc.
+
+‘+ MCD (MuleSoft Certified Developer) v4
+‘+ Customers Bank Wyomissing, Pennsylvania 06/2020 — present
+‘+ Mulesoft Developer

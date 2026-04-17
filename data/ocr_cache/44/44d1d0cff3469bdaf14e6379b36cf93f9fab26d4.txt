@@ -1,0 +1,210 @@
+WEBSITES,
+PORTFOLIOS,
+PROFILES
+
+PROFESSIONAL
+SUMMARY
+
+SKILLS:
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS.
+
+Jessica Claire
+
+© 100.Montgomery St. 10m Floor tS (5$5) 492-1000 4 resumesample@erample com
+
++ tps:inwtnkeain comdtessica-Clare!
+
+Experienced professional wth a strong background in project management, process improvement, and
+softare development Skiled in Salesforce development, Age methodology, nd integrating third-party
+applications. Proven track record of delvering high-qualty solutions on time and wihin budget. Experienced
+In managing cross-functional teams and driving project success trough effective communication and
+
+cotaboraton
+
++ Expertn Salestorce development using Apex
+Visatforce, and Lightning Components to meet
+business requirements and improve user
+experience
+
++ Protcent in implementing Salestorce database
+solutions including custom object, fel,
+Felationships, and validation rules
+
++ Experienced in integrating Salesforce wth tia
+party applications and services using REST and
+SOAP APIS o improve productivty and
+streamine business processes.
+
++ Knowedgeabie in implementing robust
+Salesforce secumty features to ensure
+confidently, integnty, and avalabty of
+sensitive data
+
++ Sktled in uttng object-oriented programming
+concep to design and implement scalable and
+maintainable code.
+
+Profcent in conducting comprehensive testing
+‘and debugging of Salesforce appicatons using
+tools sucn as Apex Debugger, System debua()
+statements, and Salesforce Developer Console
+Experienced in working in Age development
+environment, folloning ser stones, sprints, and
+scrum meetings to delverhigh-qualty solutions
+on time
+
+‘Sled in proect management tasks, including
+gathering requiements, creating projet plans,
+‘and managing timeines to ensure successful
+project detvery
+
+Proficient in managing RPA programs, including
+dentiying automation opportunites, bukding
+hightevel arentectural specications, designing
+automation process flows, and implementing
+process automaton solutions using RPA
+technologies such as BluePrism, UPatn, and
+
+Sotomotve.
+
+‘+ Experienced incotaborating wi business
+nayss, process ouners, and business
+partners fo aign untlevel pronties ana
+roadmap to successtully manage
+transformational aspects of automation journeys.
+
+“SALESFORCE APPLICATION DEVELOPER
+American Modern Insurance Group | Plano, Texas
+‘Designed and developed custom Salesforce applications using Apex. Visuaforce, and Lightning
+Components to meet business requirements and improve user experience
++ Applied object-oriented programming principles to create scalable ana maintainable code fr Salesforce
+applications
++ Buit ana managed Salesforce database solutions, including custom objects, felt, retaonships, and
+validation rues
++ Implemented robust Salesforce secunty measures to protect senstive data and ensure confidential,
+Integy, and avatabity.
++ Integrated Salesforce win tnea-party appicatons and services through REST and SOAP APIS,
+Improving productty ana streamining business processes.
++ Conducted thorough testing and debugging of Salestorce applications using tools such as the Apex
+Debugger, System debug() statements, and the Salesforce Developer Console
++ Cotaborate with cross-unctonal Agile teams, folowing ser stores, sprints, and scrum meetings to
+<elver high-quatty solstons within project tmetines.
++ Contribute to project management actives, such as gathering requirements, creating projet plan,
+and managing tnetines, fo ensure successtul project detvery
+
+032020 o CURRENT
+
+RFC TECHNICAL PROJECT MANAGER. 07/2018 0 0372021
+
+Ericsson | Pano, 1X
+
+‘+ Managed RPA program. including big nitatves and various RPA projects to ve efficiency and cost
+reduction
+
++ Algned unit level pres and roadmap to suecesstuly manage transformational aspects of Exesson's
+Automation journey
+
++ Led and cotaborated with business analysts to lent relevant automaton opportunites to improve
+efcency reduce costs, and mitgat risks
+
++ Bui high-level arctectural specications, ensuring feasibly, tunctonalty, and integration wth ensting
+systems,
+
++ Led partnerships wth process ouners and business partners to understand asis processes and design
+automation process flows using visual oo ike Visio.
+
++ Implemented process automation solutions using RPA technologies such as BluePrism, UPath, and
+Softomotve.
+
++ Led and cotaborated in converting business requirements into automation solution designs,
+Directed and supported team to generate detaled documents related to design, development, and
+
+<elvery of solutions ke POD, SOD, UAT test cases, PD, and ODI
+
+CCotaborated wth other teams trom concept to nal delivery of soliton
+
+Created proot of concepts to help business recognize feasibty of automation solutions.
+
+Developed relevant use cases fr cent engagements
+
+Lea vanous responsibaties of proc natives uni project delivery and successful deployment
+
+Managed and resolved issues that came up during development, discovered and handled al possible
+
+system and business exceptions through designing recovery and exception nanding strategies.
+
++ Gathered and shared cients feedback and insights, made recommendations on process improvement,
+‘and cotaborate with cents with focus on process improvement
+
++ Provided timely responses and solutions as requited, Delvered progress reports regarding
+performance ang ROl on MANA automation program
+
++ Worked itn agile development tectnology (SAFE),
+
+BUSINESS ANALYST
+Eriesson | 6200 Legacy Drive, Plano,te, 75024
+
++ spearheaded the successful adoption of Ericsson's Sales tool, CAST, increasing wtlzaton trom a
+meager 8% to an impressive 96%, Tis resuted in an annual savings of 4 MUSD by automating the
+presales process, ad a significant reduction In RFP lea tne by 11 nous,
+
++ Cotaborated with detvery and pre-sale teams to plan resources, forecast costs, and manage the
+content of ne CAST tool. This Inuded iéentiying required resources, third-party service provers,
+‘vendors, and materia o optimize resource planning and cost anayss processes,
+
++ Developed ineractve dashboards onthe Tableau plattorm to visualize data fom Ericsson North
+“Amerca’s porto housed inthe CAST database. This improved cost analysis processes, allowing for
+more informed decision-making
+
+‘+ Partnered wtn developers to automate manual processes, resulting insignificant te and cos savings
+le decreasing errors. This intatve was credited as the primary driving force behind a 39% increase
+in standardzation and reusabaty merc rom a year-to-date average of 6% to 45% in August 2016,
+
++ Provided ongoing raining sessions, presentations, and support to CAST users across the North
+“Amerca region to fatale the too’ adoption and aptimezaton.
+
++ Developed over 6,000 standard templates of common service breakdown structures offered by Ericsson
+in North America, This inate resulted in ie savings of approximately 11 ours o create a service
+{quote by pre-sale teams and eamed recognition as he recipient of Enesson's Operations "Above &
+Beyond” award in 2016,
+
++ Created Tableau workbooks to perform varous ypes of analysis on data extracted from costing and
+forecasting tools, including year-over-year, quarter-over-quater, year-to-date, quarter-to-date, and
+‘month-to-date analyses, These workbooks provided valuable insights and alowed for more informed
+decision-making,
+
+092013 © 0172018
+
+OFIRATIONAL PROCESS ANALYST
+tran Ghaten
+
+‘047201010 0972011
+
++ Led process improvement and Si Sigma Kaizen workshops to ident ass process, gaps, and
+Improvements, resuiting in 20% Increase in forecasting and planning accuracy for intemal teams,
+
++ Implemented preferred vendor'supper strategy, reducing numberof supple fom 20 to, resulting in
+streamlined procurement processes and cost savings
+
++ Optimized end-to-end resource and material planing, resulting n $180K savings in 2010.
+
+M.S | Supply chain Management 2015
+University of Texas at Dallas, £00 West Campbell Road, Richardson, Texas 75080
+cpa 3.87
+
+(MO | Industral Engineering 2012
+University of Knarazmi at Tehran, Tehran Iran
+GPA a06
+
+{0} Computer Engineering 2010
+University of Qazvin At Qazvin, Qazvin, ran
+cpa 3.e7
+
++ Accreit Blue prism developer (Now 2018)
++ Tableau Desktop 10 Guaiies Associate Nov 2016)
++ Ceniied SAFE® 4 AGILE

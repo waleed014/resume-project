@@ -1,0 +1,85 @@
+JUVENAL CHRISTIANSEN
+
+35789 Lubowitz Ways, Chicago,IL + +1 (555) 224 5655
+
+‘WORK EXPERIENCE
+
+SENIOR SAP ABAP DEVELOPER, 09/2017 - PRESENT
+Phoenix, AZ
+
+‘+The employee's working environment maybe loud
+
+‘+ Lead production support and/or business operations support
+
+‘+ Gathering and reviewing development requirements from process teams, technical teams,
+
++ Orbusiness, as appropriate
+
+‘+ Analyzing requirements to determine work estimates in terms of cost and schedule for development, unit testing, other testing support,
+
+deployment and post-deployment support
+
+‘+ Architecting solutions when needed. Also providing alternatives and provide rationale for such alternatives, when there is a more optimal
+
+approach or design opportunity
++ Researching coding design best practices using on-line tools, such as, SAP OSS, forums, whitepapers, ete. to ensure proposed solutions are
+appropriate
+
+‘+ Reviewing existing code to identify opportunities to reuse or reduce existing custom code
+
+SAP ABAP DEVELOPER (03/2014 - 03/2017
+Philadelphia, PA
++ Constructing and reviewing deployment plans
++ Socializing coding changes to partner teams and to the Change Control Board to gain approval of deployment plans
++ Owning overall delivery accountability and success for assigned custom developments
++ Extremely strong development experience using the following technical tools/objects: ABAP Objects, Switch Framework, ALE/IDOC,
+Proxy, Workflows, Web Services, Smart Forms, Adobe Interactive Forms, User Exits, enhancements, Business Add-ins
++ Familiarity with upgrading large complex SAP ECC systems and experience in supporting complex system builds, transports reviews,
+system upgrade support
++ Provid
+
+of SAP enhancements and roll outs, offering advice and thoughts provoking feedback
+
+litable processes for code development
+‘+ Develop quality code and its associated documentation adhering to team and departmental development standards
+
+‘+ Provide SAP support including analysis, development, testing, tracking, and resolution
+
+SAP ABAP DEVELOPER JUNIOR (09/2006 - 09/2013
+Los Angeles, CA
+‘+ Understanding how the proposed work benefits the business and any project dependencies
+
+‘+ Setting and maintaining appropriate priorities in the development schedule
+
+‘+ Evaluating options for assigning work to partners and managing work assigned to meet budget estimates and schedule deadlines
+
++ Coding work assignments, when not feasible to leverage a partner
+
+‘+ Performing code reviews and feedback
+
++ Performing unit tests
+
++ Coordinating functional tests, assembly tests, integration tests, regression tests, performance engineering tests, ete. with other teams
+responsible for such tests
+
+‘+ Tracking test results and coordinating any rework and feedback metrics
+
+EDUCATION
+
+WITTENBERG UNIVERSITY 2002 - 2006
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
++ Good communication skills, customer focus and organizational skills. Team player
+
+‘+ Extensive prior experience in the field of ABAP programming and SAP modules skill set
+
++ Good analytical and problem solving skills in order to carry out their daily functions effectively
+
+‘+ Strong problem-solving skills that allow the person to logically break down a problem into more manageable parts
+‘+ Strong SAP Software Developer with excellent programming ability and experience of the full SDLC
+
+‘+ Demonstrate solid data analytical and problem-solving skills
+
+‘+ Excellent spoken and written communication skills in both official languages

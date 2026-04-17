@@ -1,0 +1,60 @@
+Cyber Security Engineer - Entry Level
+
+El Segundo, CA 90245 sai,
+Responsibilities
+
+© Urgently hiring Deliver of efficient, maintainable, robust and reuse
+
+Job Type “Manage critical infrastructure hosting Cloud Native
+and On-Prem custom hardware
+
+Full-time
+
+Install, integrate, and deploy enterprise Cyber Sec
+environments
+
+* Master's (Preferred) + Gather, link and analyze data from various sources
+Linux: 2 years (Preferred)
+
+Information Security: 2 years (Pref] - Review analytics results, investigate incidents, ano
+
+CIssP (Preferred)
+US work authorization (Preferred) |" Understand cyber security and technology produc
+different data sources for cyber security incident an
+
+License/Certification: Create and work closely with engineering team for
++ CISSP (Preferred) - Troubleshooting security and network problems
+Willingness To Travel: - Daily administrative tasks, reporting, and commun
+
++ 25% (Preferred) departments in the organization.
+
+Work Location: + Project documentation including technical require
+run-book
+
+* One location
+Develop prototypes of system designs and work w
+
+Work Remotely: technical support and other IT areas as appropriate
+
+implementation processes
+* No
+
+“Work with multiple project teams with competing
+Education & Experience
+
+Bachelor's Degree in Computer Science, Engineering, degree or equivalent and
+two years of work experience or Masters in Computer Science / Engineering
+
+| CISSP or similar security certification is a plus
+
+Experience with the following technologies: Linux, Win 10, Win 7, XP, Vista, Win
+IServer 2003, Active Directory, SIEM (Splunk, QRadar, ArcSight), Logstash, Hadoop,
+MySQL, CRATE, Netflow, PCAP, Syslog, TCP/IP, DNS, and DHCP, IDS / IPS.
+
+- Experience with Firewalls (functionality and maintenance), Office 365 Security, VSX,
+and Endpoint Security.
+
+Proficiency in Python, C++, Java, Ruby, Node, Go, and/or Power Shell.
+
+- Advanced understanding of common network services (web, mail, FTP, etc),
+network vulnerabilities, and network attack patterns

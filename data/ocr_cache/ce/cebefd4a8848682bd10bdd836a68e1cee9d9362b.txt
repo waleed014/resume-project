@@ -1,0 +1,115 @@
+© DETAILS ©
+—
+Portugal
+a
+EINE 2ern2il.com
+
+Nationality
+Portuguese
+
+Driving license
+8,81
+
+© LINKS @
+
+nevoevevorer o MMMM PORTUGAL «+251
+
+lnkedin.con i), aa
+
+github.com
+
+© SKILLS ©
+.NET Core 6
+
+cH
+
+SQL Server
+
+JavaScript
+
+HTML& CSS
+
+Java
+
+Android Studio
+
+GitLab
+
+Azure DevOps Server
+
+© LANGUAGES ©
+Portuguese
+
+English
+
+cc
+
+e
+
+—<+
+
+PROFILE
+
+‘Asa versatile NET Developer, I'm dedicated to continuous learning and possess a soli
+background in software development, with a strong focus on .NET Core. | thrive in
+dynamic environments that promote personal and professional growth. My expertise
+includes C#, JavaScript along with proficiency in SQL and Microsoft technologies.
+Recognized for teamwork, I'm enthusiastic about contributing to my employer's goals.
+| am highly interested in expanding my horizons and am open to relocating to
+
+other countries in Europe to pursue exciting opportunities in the field of software
+development.
+
+EMPLOYMENT HISTORY
+
+.NET FullStack Developer at JINN, Carcavelos
+March 2023 — Present
+
+Outsourcing .NET Full Stack Developer at IJIN. Responsible for fixing errors and
+adding new features to the company's web and Android payments apps, and also the
+company's Back Office app.
+
+Main tasks performed:
+- Developed a web service that consumes a SOAP API;
+- Implemented a phone call authentication system used for Two-Step Authentication;
+
+- Improved the Android app usability and user experience by reducing the frequency of
+alert appearances.
+
+Technical Consultant at IL O
+September 2020 — February 2023
+
+Implementation of customizations tol, an ERP for specialized credit
+commercialized by
+
+Main tasks performed:
+
++ Implemented and documented technical tasks resulting from requirements
+analysis
+
++ Developed scripts using a custom C# framework and SQL;
+
++ Developed functions and stored procedures using SQL;
+
++ Developed reports and documents using Microsoft Report Builder and SQL Server
+
+Reporting Services;
++ Participated in the company's welcoming program, helping to integrate new
+colleagues.
+EDUCATION
+B.Sc. in Computer Science, School of Technology and Management - Polytechnic
+
+Institute of Beja, Beja
+September 2017 — February 2021
+
+Grade 14/20.
+
+COURSES
+
+English Level 5 (B1.1 CEFR), Berlitz
+January 2021 — April 2021
+
+EXTRA-CURRICULAR ACTIVITIES
+
+Federated Soccer, Setubal
+2011 —2017

@@ -1,0 +1,146 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+‘PROFESSIONAL SUMMARY
+
+Over 8 years of IT experience in Data warehousing and Business intelligence with an emphasis on Project Planning & Management, Business
+‘Requirements Analysis, Application Design, Development, testing, implementation, and maintenance of client/server Data Warehouse.
+Seeking to have a challenging career in Data Warehousing and Business Intelligence with growth potential in technical as well as functional
+domains and to work in critical and time-bound projects where can apply technological skills and knowledge in the best possible way.
+
+Sums
+
+Cloud Technologies: Snowflake, AWS.
+
+Programming Languages: Pl/SQL, Python(pandas), SnowSQL
+Dashboard: Elastic Search, Kibana.
+
+DataWarehousing: Snowflake Teradata
+
+DBMS: Oracle, SQL Server MySql Db2
+
+Operating System: Windows
+
+IDEs: Eclipse, Netbeans.
+
+Servers: Apache Tomcat
+
+Data Integration Tool: NiFi, SSIS
+
+Epucation
+
+05/2010 Bachelor of Science: Information Technology
+JNTU UNIVERSITY - INDIA HYDERABAD
+
+Worx History
+
+01/2020 to Current Data Engineer (Snowflake Developer)
+Brown & Brown, Inc. — Walnut Creek, CA
++ Bulk loading from the external stage (AWS $3), internal stage to snowflake cloud using the COPY command.
++ Loading data into snowflake tables from the internal stage using snowsql.
+* Used COPY, LIST, PUT and GET commands for validating the internal stage files.
+* Used import and Export from the internal stage (snowflake) from the external stage (AWS $3).
+‘+ Writing complex snowsq] scripts in snowflake cloud data warehouse to business analysis and reporting.
++ Used FLATTEN table function to produce a lateral view of VARIANT, OBJECT, and ARRAY column,
++ Used SNOW PIPE for continuous data ingestion from the S3 bucket.
++ Developed snowflake procedures for executing branching and looping
+* Created clone objects to maintain zero-copy cloning.
+«+ Data validations have been done through inrformation_schema.
++ Performed data quality issue analysis using Snow SQL by building analytical warehouses on Snowflake
+‘+ Experience with AWS cloud services: EC2, S3, EMR, RDS, Athena, and Glue
+* Cloned Production data for code modifications and testing
++ Perform troubleshooting analysis and resolution of critical issues,
+
+04/2018 to 11/2019 ETL Developer
+Ths Markit — Us Remote, MI
+
++ Expertise in identifying and analyzing the business need of the end-users and building the project plan to translate
+the functional requirements into the technical task that guide the execution of the project.
+
++ Served as a liaison between third-party vendors, business owners, and the technical team.
+
++ Proven ability in communicating highly technical content to non-technical people.
+
+* Prepared ETL standards, naming conventions and wrote ETL flow documentation for Stage, ODS, and Mart.
+
++ Involved in Design, analysis, Implementation, Testing, and support of ETL processes for Stage, ODS, and Mart.
+
++ Designed and developed Informatica’s Mappings and Sessions based on business user requirements and business
+rules to load data from diverse sources such as source flat files and oracle tables to target tables.
+
+* Worked on various kinds of transformations like Expression, Aggregator, Stored Procedure, Java, Lookup, Filter,
+Joiner, Rank, Router, and Update Strategy.
+
++ Developed reusable Mapplets and Transformations. Used debugger to debug mappings to gain troubleshooting
+information about data and error conditions.
+
++ Involved in monitoring the workflows and in optimizing the load times. Used Change Data Capture (CDC) to
+simplify ETL in data warehouse applications.
+
+« Involved in writing procedures, functions in PL/SQL
+
+03/2016 to 05/2018 SQL Developer
+Cognizant Technology Solutions — Cincinnati, OH
+
++ Participated in client business need discussions and translating those needs into technical executions from a data
+standpoint. Translated business requirements into BI application designs and solutions
+
+‘Assisted in the definition of the database requirements; analyzed existing models and reports looking for
+opportunities to improve their efficiency and troubleshoot various performance issues.
+
++ Developed highly optimized stored procedures, functions, and database views to implement the business logic also
+created clustered and non-clustered indexes.
+
++ Involved in performance monitoring, tuning, and capacity planning,
+
++ Tuned the slow performance queries by looking at Execution Plan
+
+* Used various SSIS tasks such as Conditional Split, Multicast, Fuzzy Lookup, Slowly Changing Dimension etc.,
+which did Data Scrubbing, including data validation checks during Staging, before loading the data into the Data
+warehouse from Flat Files, Excel and XML Files.
+
++ Responsible for implementation of data viewers, Logging, error configurations for error handling the packages.
+Involved in the complete life cycle in creating SSIS packages, building, deploying, and executing the packages in
+both environments (Development and Production).
+
+* Designed, deployed, and maintained complex canned reports using SQL Server 2008 Reporting Services (SSRS).
+
+* Created reports to retrieve data using Stored Procedures that accept parameters. Customized reports by adding
+Filters, Calculations, Prompts, Summaries and Functions
+
+* Created Parameterized Queries, generated Tabular reports, sub-reports, Cross Tabs, Drill down reports using
+Expressions, Functions, Charts, Maps, Sorting the data, Defining Data sources and Subtotals for the reports
+
+10/2010 to 08/2014. ETL Tester
+Aptiva Corp — City, STATE
+
+* Worked as a Team of 14 and system tested the DMCS 2 Application.
+
+* Worked on HP Quality Center (QC)/Application Life Cycle Management (ALM) testing technology to test System.
+
++ Actively participated in all phases of the testing life cycle including document reviews and project status meetings.
+
+« Participated in daily Scrum meetings and weekly project planning and status sessions,
+
+« Involved in creating test cases after carefully reviewing the Functional and Business specification documents
+
+‘+ Used Rational Manager and Rational Clear Quest for writing test cases and for logging the defects.
+
++ Performed Functional, Regression, System, Integration and end to end Testing.
+
+«+ Extensively used SQL (Inner joins, Outer Joins, subqueries) for Data validations based on the business
+requirements.
+
++ Performed file, detail level validation and also tested the data flown from source to target. Involved in testing of
+Pervasive mappings using Pervasive Designer
+
++ Tested Standard and ad-hoc SQL Server reports and compared the results against the database by writing SQL
+Queries.
+
+«+ Tested 3 websites (borrower website, Partner website, FSA website) and performed Positive and Negative Testing.
+
+(CERTIFICATIONS
+
+Snowpro core

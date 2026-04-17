@@ -1,0 +1,116 @@
+JOSLYN HAHN
+
+533 Marina Walks
+
+, Los Angeles, CA
+
++1 (555) 144 3643
+
+EXPERIENCE
+
+BARROWS-NIENOW
+
+Philadelphia, PA
+present
+
+Familiarity wi
+Familiarity wi
+
+Solid Oracle
+Oracle Partiti
+
+Managemen
+Familiarity wi
+MongoDB
+
+techniques
+Eager to lear
+projects
+
+HERMAN INC
+Philadelphia, PA
+
+database ma!
+Ensure ongo!
+Perform data
+Perform com|
+
+solutions
+
+Senior Teradata Database Administrator 03/2018 -
+
+Experience with managing virtual machines, Hyper-V
+Working knowledge of PowerShell Automation
+
+h System Center Operations Manager
+h Microsoft Azure, IAAS vs PAAS
+
+Oracle certifications
+
+background on Linux platforms
+joning
+
+Oracle Flashback experience
+Oracle Enterprise Manager 13C Cloud Control for Database
+
+experience is -
+ith other SQL/NoSQL databases such as PostgreSQL,
+
+Demonstrating knowledge of Data Modeling and Data Normalization
+
+n new technologies and take ownership for technical
+
+| IT Database Administrator 03/2012 - 09/2017
+
+Strong technical background in cloud networking, storage, and security
+Strong technical knowledge of Kubernetes, Docker, Registry
+
+Strong technical knowledge of monitoring and building dashboards
+Handles hard problems with a positive "can do" attitude
+
+Team player and able to work with others all skill levels
+
+Design, implement, administer, monitor, and manage enterprise
+
+inagement systems across multiple data centers
+ing patching and updating of database systems
+base backups and restorations
+
+plete and partial database refreshes
+
+Design, implement and maintain various disaster recovery (DR)
+
+Ensure proactive monitoring is configured
+
+EDUCATION
+
+RHODE ISLAND SCHOOL OF DESIGN
+Bachelor's in Computer Science
+
+SKILLS
+
+Working knowledge of groovy and grails, Java, COBOL,
+C, PL/SQL, scripting languages such as bash, PHP
+and/or perl
+
+Familiarity with managing SSL certificates and working
+with firewalls, Confluence wiki software, and Zabbix
+monitoring application
+
+Knowledge of Analytics/data warehousing
+
+Knowledge of Microsoft SQL Server
+
+Demonstrates a clear sense of their role, responsibilities,
+and purpose within a working team
+
+Hands-on SQL Server Production DBA experience
+handling very large database systems
+
+Experience with AWS, Spinning up EC2s, S3, Security
+Groups, AWS-CLI, AWS-RDS, Cloud formation and AWS
+Migrations
+
+Experience with SQL Server Performance tuning,
+Capacity planning, Resource usage analysis and
+Recommendations

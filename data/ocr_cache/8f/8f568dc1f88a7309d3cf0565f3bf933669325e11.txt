@@ -1,0 +1,90 @@
+DALTON DOYLE
+
+75920 Pinkie Haven, Chicago,IL + +1 (555) 623 9466
+
+‘WORK EXPERIENCE
+
+SENIOR SAP BW / BI / BOBJ CONSULTANT 05/2016 - PRESENT
+Dallas, TX
+
++ Part of a SAP BI team that analyzes, designs, and implements architecture of BI/BW/BO projects in order to meet solution needs;
+
+leverages resources diverse experiences to ensure customer needs are met
+
+‘+ Gathering and validating business requirements
+
++ Translating business requirements into technical SAP BW solutions (architecture and design)
+
++ Configuring and customizing of SAP BW applications
+
+‘+ Global IT - Competence Centers
+
+‘+ Global IT ~ Enterprise Architecture
+
+‘+ Suppliers / grd Party Services
+
++ Experience in working in multi-organization worldwide teams
+
++ Experience with SAP HANA, BW-IP, BW-BPC solutions
+
+SAP BI CONSULTANT 01/2014 - 03/2016
+Dallas, TX
+
+‘+ Experience in operation management of BI applications, change requests, ete
+
++ Atleast 1 BW on HANA project experience and atleast 2 end to end BW implementation or development experience.
+
+‘+ Analysing and maps clients’ business requirements, processes and objectives
+
+‘+ Providing functional expertise, guidance, presentation, and instruction on SAP BW / HANA products to clients
+
+‘+ Implementation and maintenance of SAP BW / HANA i
+
+tallations at international customers
++ Developing necessary product modifications
+
+‘+ Acting as professional team member in an international team and builds strong liaison with client for troubleshooting
+‘+ Assisting in internal activities - hotline, remote consulting, preparing training materials, teaching on-site courses
+
+‘+ Developing own professional learning of SAP products and technologies
+
+SAP BW / BI JUNIOR CONSULTANT 12/2007 - 08/2013
+San Francisco, CA
+
+‘+ Functional experience in one of the SAP modules (SD, F1/CO, MM, PP, PI, PM, QM, HCM, CRM, APO)
+
+‘+ More than 2 years of professional experience with SAP BI
+
+‘+ Good English and Polish skills (written and spoken)
+
+‘+ Development and support of Business Intellince applications for Siemens
+
+‘+ Experience in SAP BI solutions - Business Objects, BW, ete
+
+‘+ Proactivity and openness to learn new technologies (ex. www.board.com)
+
+‘+ Managing the support team
+
+‘+ Experience in SAP BI solutions ~ Business Objects, BW, ete
+
+‘+ Proativitiy and openness to learn new technologies
+
+EDUCATION
+UTAH STATE UNIVERSITY - OREM EDUCATION CENTER 2002 - 2007
+Bachelor's Degree in Computer Science
+PROFESSIONAL SKILLS.
+
+‘+ Proven experience in SAP Analytics in a client facing environment, solid client facing/consulting experience
+
+‘+ Strong hands-on experience in SAP BOBJ 4.0 and above; including Webi, Analysis for Office and complex dashboards using Lumira as,
+well as Design Studio
+
+‘+ Written and oral communication skills in English and good working knowledge of French
+
+‘+ Demonstrable experience in similar data-centric problem solving roles, ideally with experience in a fixed line Teleo
+
++ Possibility to extend your SAP BI skills with the newest products and solutions (including HANA, Big Data, predictive analytics ete...)
+
+‘+ Strong hands-on experience on SAP BW 7.3 and above including BW on HANA as well as migration to BW on HANA platform
+
+‘+ Experience with DI transforms such as Query, Validation, Case transforms

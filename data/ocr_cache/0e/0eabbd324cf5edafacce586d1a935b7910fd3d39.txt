@@ -1,0 +1,55 @@
+Victor Nathan
+
+PYTHON SCRIPT DEVELOPER
+
+3&4 info@resumekraft.com Q 202-555-0120 9 Chicago, Illinois, US in linkedin.com/resumekraft
+
+SUMMARY
+
+Tech enthusiast with practical expertise in Python, JavaScript, and a wide range of technologies. Skilled in full-stack
+development, collaborating seamlessly with cross-functional teams, and continuously expanding tech skill set.
+Demonstrated growth and adaptability in a dynamic environment.
+
+SKILLS
+
+© C#| ASP.NET | MVC | API | WinForms | MSSqI
+
+JavaScript | Node Js | React Js | Express Js | MongoDB
+
+e Python | OpenCV
+
+Unity Engine | Shader | Animations | Audio | Level Design | Game Design | Render Pipelines | Controllers | Unity
+Packages
+
+e Adobe Illustrator | Adobe Photoshop | GIMP | Inkscape
+
+EXPERIENCE
+
+Unity Developer
+The Location Lab Pvt. Ltd Jun 2022 - Aug 2023
+
+PROJECTS
+
+Pill Blister Filling Process
+
+Python Script Developer Feb 2021 - Feb 2021
+
+| successfully engineered a Python script utilizing OpenCV to meticulously inspect and assess the pill blister
+packaging, ensuring accurate pill count and proper filling. This automated quality control process enabled efficient
+decision-making, allowing for the seamless processing of correctly filled blisters while identifying and eliminating faulty
+ones. My innovative solution contributed to enhanced quality assurance in pharmaceutical packaging.
+
+Breast Cancer Early Knowledge
+
+Full-Stack Developer Ju! 2020 - Dec 2020
+
+For my university's final year project, | developed 'Breast Cancer Early Knowledge’ using ASP.NET Core. This
+comprehensive system featured a robust API, a user-friendly front-end interface, and a secure SQL Server database.
+The project aimed to empower early detection of breast cancer, with a question tree system inspired by a reputable
+medical institute's online resources, showcasing my dedication to leveraging technology for critical healthcare
+advancements.
+
+EDUCATION
+
+Information Technology
+San Jose State University Jan 2017 - Dec 2020

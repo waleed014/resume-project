@@ -1,0 +1,62 @@
+POK HOWE
+
+5989 HALEY PINES, LOS ANGELES, CA
+
+PHONE
++1 (555) 616 0705
+
+EXPERIENCE
+
+Macejkovic-Considine
+Phoenix, AZ // Senior ETL Developer / Admin // 02/2018 — present
+
+¢ Perform ETL system planning and design, complete logical design, draft architectural plan, and draft source to target
+mapping of data elements
+
+¢ Maintain existing structure and make decisions for the design to make the appropriate technical decisions for the overall
+warehouse project
+
+¢ Extract, data, clean and conform, deliver for presentation and maintain an ETL environment
+
+¢ Interim Secret clearance (or full Secret)
+
+¢ RDBMS (Relational database management system) concepts
+
+Abbott Group
+Phoenix, AZ // Mid-senior ETL Developer // 11/2012 — 08/2017
+
+¢ Excellent understanding and hands on experience in ETL/DWH solution in Oracle SQL and internal data integration
+tool (ESP)
+
+¢ Hands on experience on SQL (Analytical Functions and complex queries), SQL developer and TOAD
+
+¢ Good Knowledge in UNIX commands
+
+¢ Good Knowledge of cloud deployment process
+
+¢ Should have excellent knowledge in SDLC process
+
+¢ Experience in Financial domain is highly desirable
+
+¢ Should have good understanding of Agile methodology and Agile Ceremonies
+
+EDUCATION
+
+Otis College of Art and Design
+Bachelor's in Computer Science
+
+SKILLS
+
+¢ Strong Analytical skills with ability to interact independently with IT and Business stakeholders
+
+¢ Bonus: Python, Unix scripting, Machine Learning, NoSql
+
+¢ Analyze ETL Requirements
+
+¢ Move Data from Source to Target transforming along the way to meet complex Business Processes and Technical
+requirements
+
+¢ Work together with the Development Team to Design, Program, Test, Debug and Document ETL processes using SSIS
+and Azure Data Factory
+
+¢ Maintain and Modifies existing ETL applications and documentations according to Business Standards

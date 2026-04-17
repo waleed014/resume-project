@@ -1,0 +1,63 @@
+FIRST LAST
+
+Bay Area, California - +1-234-456-789 - professionalemail@resumeworded.com : linkedin.com/in/username
+
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY 2017 — Present
+Java Developer
+
+e Designed/developed APIs that processed streaming data to power customer recommendation
+engines, increasing incremental annual revenue to $1.1M.
+e Strategically developed, monitored and enhanced Java Bean components to implement business
+ogic that streamlined an internal application by 14%.
+e Led the routing of control from web services to Java services using the Camel Framework,
+diminishing development costs by $150,000 annually.
+e Contributed knowledge, skills and expertise to all project life cycle phases, accomplishing 5 projects
+or the company by far.
+e Oversaw integration of an external technology solution by leading 5 developers and 9 testers from
+two companies, resulting in an additional $1MM of sales.
+e Reduced development costs by 25 percent by creating a plan to merge related products into one,
+more streamlined product.
+
+Growthsi, San Diego, CA 2015 — 2017
+
+Java Developer (2016 - 2017)
+e Promoted within 18 months due to strong performance and organizational impact (one year ahead
+
+of schedule)
+
+Facilitated three design thinking workshops for end users to identify use cases
+Successfully conducted API design and development of RESTful Services in 3 months, enhancing
+operations of the enterprise product in the business.
+
+e Built web services with J2EE that were used by the customer-facing application to improve the time
+on page for the average user by 2 minutes.
+
+e Worked within an agile team of 5 developers, prioritizing/scoping feature requests to ensure that the
+biggest impact features were worked on first.
+
+Junior Developer (2015 - 2016)
+e Established, maintained, and developed an extensive test coverage for all new features which
+reduced the number of customer complaints by 7%.
+e Interviewed business clients to analyze their business requirements and recommend and design
+technological improvements to their business processes and operational procedures.
+
+Rofocus, New York, NY 2014
+Software Engineering Intern
+e = Expertly utilized Selenium built out a unit testing infrastructure for a client web application,
+reducing the number of bugs reported by 11% monthly.
+e Worked alongside another developer to implement RESTful APIs in Django that enabled the internal
+analytics team to increase reporting speed by 24%.
+e Implemented 2 new technical solutions while maintaining components of the online betting
+platform, generating process efficiency/improvement.
+e Tip to jobseeker: Bullet points should be in format [Action Verb] [Accomplishment] [Metric]; e.g.
+Developed x that led to y% improvement
+
+EDUCATION
+Resume Worded University, San Francisco, CA 2014
+BS Computer Science
+SKILLS
+e Java (J2EE, Spring, e SQL (PostgreSQL, e Cloud (AWS, Azure) e REST APIs
+
+Java 8) Oracle) « HTML/CSS (GraphQL)

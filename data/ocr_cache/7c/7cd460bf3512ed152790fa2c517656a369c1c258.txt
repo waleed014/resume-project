@@ -1,0 +1,64 @@
+Contact Details:
+
+Ash Thomas [se
+
+Ur www ashthomas com
+‘Sap Abap Consultant, Contractor, Developer & Programmer Residence: Heathrow, West Drayton.
+
+‘Sap Abap CV & Resume
+CV Date Wednesday, 16 February 2011
+
+Date of birth 4 January 1977 - 33 years old.
+
+Information British Nationality, full clean drivers licence.
+
+Education 1995-1998 Brunel University, Uxbridge, BSc - Computer Science
+
+1993-1995 — Worcester 6% Form College, (Maths, Computing, French)
+
+‘Sap Modul SD, MM, FI/Co, PP, HR, SRM, IM, WM, SRM, LIV & PS
+Sap Versions: ECC6 Netweaver R/3, V5, v4.7, v3.5 v3.1
+
+Website: www ashthomas.com
+
+‘Sap/Abap Ski
+
+Sap Abap Consulting & Sap Abap Contracting analysis/development, OO Abap, Sapscript,
+smart forms, smartforms, Transport system, LSMW Data Migration, batch input (BDC), user
+exits, ALE: IDocs (input & output), ALV grids, Screen painter, Menu painter, dictionary, Mult-
+threaded ABAP (Parallel Processing with Asynchronous RFC), file management, dialogue
+programming, |S Retail, Unicode, change documents, change pointers, handling PDF's,
+barcode printing, Zebra label printing, 2d barcodes, EDI, Abap query, Migration, infotypes,
+user support, BAPI’s, BADI’s, SNOTE, change documents & pointers, search help exits,
+deep transport analysis, variant handling, processing files in hex mode, upgrading, speeding
+up cade, RFC’s. Rev Trac, Remedy
+
+I started as a Sap Abap developer, then moved into Sap Abap Consulting and naw do Sap
+Abap Contracting.
+
+BP, 10/2010 - 12/2010.
+
+At BP | worked on their separation project to separate off a section of the business, this
+involved testing all aspects of the system to find out what problems would occur when it was
+removed from the main sap system. | also did general fixing to ensure their system was
+working smoothly.
+
+Ciber, 07/2010 ~ 10/2010.
+
+At Ciber | worked on their interface system, | set up interfaces to other systems which meant
+extracting sap data, formatting it into the required layout and passing it to another system
+and also receiving data, processing it and entering it into their sap system
+
+Chep, 04/2010 — 07/2010 (Extended once).
+
+‘At Chep | did work on their SRM (v4) SAP system, using the Rev-Trac Console to handle the
+transports. | worked with Object oriented code, Custom BADIs, Search helps, Vendor Lists
+(Bespoke Ranking), Shopping Carts, Purchase Orders, Error messaging, HTML Templates,
+SNOTE and much more ail in their SRM system. | edited templates to ensure the web view
+looked just how the customer required. We used RevTrac and Remedy
+
+ITelligence, 9/2009 — 03/2010 (Total: 6 months, 3 call backs)
+
+Abap Contractor. Here | did label & paper output and interfaces with sap, automation
+of stock movernents, batches & expiry dates. | also developed label printing on the
+zebra printers

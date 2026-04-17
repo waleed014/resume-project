@@ -1,0 +1,76 @@
+Jacqueline R. Stanley
+
+Manual Te
+
+Mult-alented manual tester with 3+ years of experience designing test plans and scenarios to
+‘ensure compliance with specifications and documentation provided. Writen 100+ test plans and
+helped enhance software performance by 2496, Strong knowledge of test automation and data
+analysis. Seeking a challenging positon in manual testing in a progressive organization to
+develop futher and widen competences, business experience and analysis sis.
+
+Experience
+2013.06- Manual Tester
+2016-11 Applab, Denver, CO
+
+Implemented quality control standards that increased quality of developed
+systems by 17%.
+
+Evaluated product code according to system specifications,
+
+Designed test cases using Selenium RC and TestNG for Web Applications
+‘and Client Server Applications
+
+Ensured all aspects of testing, including manual execution, regression,
+‘automation and performance testing, are completed.
+
+Key achievement: Contributed to the development of software which increased
+process efficiency for a government client by 20%.
+
+2012-19. Software Engineering Intern
+2013-05 Coderiytics, Denver, CO
++ Created applications for migrating data between systems using C#, XML, and,
+Excel Macros,
+
++ Provided work estimation and tracking information to support management
+decision making, coordination and analysis.
++ Worked collaboratively with a skilled team of software engineers.
+
+Education
+
+2012 Colorado State University, Fort Collins, CO, Bachelor of Computer
+Science
+
+Soft Skills
+Strong analysis skills
+Critical thinking
+Team player
+Ability to meet deadlines
+Organizational skils
+Excellent eye for detail
+
+Communication skis
+
+Personal Info
+
+Phone
+303-855-0163,
+
+E-mail
+jacqueline stanley@g-mail com
+
+Linkedin
+linkedin.comvinijacquetine stanley
+
+Hard Skills
+
+Selenium
+
+Watir
+
+JIRA
+
+XML,
+
+Certifications
+
+ISTQB Certification

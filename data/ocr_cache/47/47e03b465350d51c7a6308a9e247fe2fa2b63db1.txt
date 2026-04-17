@@ -1,0 +1,58 @@
+FIRST LAST
+
+Bay Area, California - +1-234-456-789 - professionalemail@resumeworded.com : linkedin.com/in/username
+
+SQL Developer who created working database back-ends for 4 web apps. Designed a restaurant
+inventory application that saved the company $400/month in labor costs. Skilled in Oracle, PL/SQL,
+and database security.
+
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY 2020 — Present
+Junior SQL Developer
+e Assisted in the development of 10 database projects for numerous customers, completing all
+projects on time and 15% under budget.
+e Utilized dialogue-mapping procedures to gather all the necessary requirements, gaining 98%
+overall customer and client satisfaction.
+e Demonstrated expertise in using Oracle data modelling to boost departmental productivity
+and cut the overall production cost by 10%.
+Updated and enforced security procedures, assuring 15% less breach risk.
+Wrote scripts to automate software updates, saving 2 programmer hrs/mo.
+
+Growthsi, San Diego, CA 2016 — 2020
+Freelance Junior SQL Developer
+e Created a restaurant management database to handle all food and beverage inventory for a
+chef-owned restaurant, saving an estimated $400 monthly.
+Created database back-ends for 2 mobile apps, ensuring on-time delivery.
+Integrated database functionality into a sales website for tee shirts and hats.
+Designed and created 2 onsite databases while maintaining a group of 10 databases to
+ensure operations efficiency and overall productivity.
+e Improved efficiency by 12% by freeing 20 hrs/mo using automation of data sourcing tasks.
+
+Rofocus, New York, NY 2012 — 2016
+
+Database Developer
+
+e Monitored the performance of the database, regularly checking on the execution time to
+ensure the delivery of quality projects and operations.
+Developed 2 SQL servers, ensured their proper maintenance and support.
+Ensured that the existing data warehouses, reporting systems, and various tools were
+adequately supported, gaining a 10% increase in efficiency.
+
+e Tip to jobseeker: Bullet points should be in format [Action Verb] [Accomplishment] [Metric];
+e.g. Developed x that led to y% improvement
+
+EDUCATION
+
+Resume Worded University, San Francisco, CA 2012
+Bachelor of Computer Science
+e Awards: Resume Worded Teaching Fellow (only 5 awarded to class), Dean's List 2012 (Top 10%)
+e Completed one-year study abroad with Singapore University
+
+SKILLS & OTHER
+
+Skills: Set Theory, Common Table Expressions, SSIS Development, PL/SQL, Indexing, Database
+Architecture, Oracle, ETL, T-SQL coding
+
+Volunteering: Volunteer 20 hours/month at the ABC foundation, leading website development
+Certificates: SQL for Developers certificate from ABC Institute (2016)

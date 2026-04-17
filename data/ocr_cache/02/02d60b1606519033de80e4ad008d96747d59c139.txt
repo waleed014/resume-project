@@ -1,0 +1,59 @@
+First (Preferred) Last
+Street Address | City, State Zip | (Phone)Number | firsti#@gmail.com,
+https:/Awww.linkedin.comvin/firsHast!
+
+Objective
+
+Fresh graduate with Sitio iTS SSeESSH68 experience looking to join SEASARMEt= a.
+bring an eagerness to take on new responsibilties and challenges, as demonstrated through my
+
+projects and club work.
+Education
+
+University of College (City, State) June 2020
+
+Bachelor of Science in Electrical and Computer Engineering GPA 3.46
+
+‘Concentration in Biomedical Instrumentation
+Relevant Project Experience
+
+Covid Contact Tracing Device June - September 2020
+Recruited by Create fmiware for a BLE device to be used for contact tracing
+‘© Demonstrated an ability to learn rapidly and complete tasks with minimal resources
+Senior Capstone January - June 2020
+
+«Partnered with IIFo design a fully wireless pulse oximeter
+Designed PCB, devised algorithm, and created the 3D casing for each prototype
+«Presented project and created 75 page technical report
+« Final prototype was fully functional and ready for further development
+Electrocardiogram
+‘© Worked in'a team to develop an ECG from basic components
+«© Simulated circuit in Mutisim and used Labview for data collection and processing
+« Final circuit cancelled 99% of noise and had appropriate frequency response
+Human to Computer Interface
+‘© Utlized myoware sensor and ARM processor to control a computer via a muscle
+‘Implemented ADC, PLL, interrupts, and UART of development board
+‘ Created and carried ouf varied testing strategies for each system block
+
+Other Experience and Recognitions
+
+Cool Name (Student Club) 2016 - 2020
+« Designed and created a basic CNC machine for the INNIMuseum
+¢ Led a team of 5 tasked with developing a realistic 3D printed heart for medical training
+@ Project Manager (2018 - 2019)
+«© Organized and vetted 7 projects for the academic year
+« Chose team leads and acted as their direct advisor
+¢ Created first end of year report to increase club visibility
+¢ Co-President (2019 - 2020)
+2 Organized workshops and speakers for weekly meetings:
+@ Supervised officer team of seven
+© Created a strategy that successfully increased membership by 70%
+Most Helpful Peer 2019
+¢ Elected from a class of 40 for helping classmates with questions and debugging firmware
+
+Software: Microsoft Office, Muttisim, Labview, Cadence, EasyEDA, Quartus, and Solidworks
+‘Computer Language: C, Java, System Verilog, and Python
+
+Equipment: Oscilloscope, Function Generator, DMM, 3D Printer, Arduino, and Soldering Kit
+Experience: Circuit Design and Analysis, FPGA, Microcontroller (Arm Cortex), PCB Design,
+Arduino, CAD, Technical Report Writing, and Technical Presentations

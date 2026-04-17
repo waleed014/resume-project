@@ -1,0 +1,133 @@
+Jessica CLAIRE
+
+Monigomery Srv San Francisco, CA 9H05 # (55) 4321000 # resumesampletexamplecom
+
+Accomplishments
+
++ Reigited a vital predictive analytics project (S6AS) that had languished fr 3 years and completed it within 3 months including
+Arcitected/modeled more than a dozen high valaility database solutions. Successfull Jed team for datacenter move of over
+M0 SOL. Servers. Refactored MRP from Oracle to SIS and improved accuracy and performance by 500%. Led numerous teams
+‘of up 10 members to project completion.
+
+Professional Summary
+
+‘ama very experienced SOL Data Archtect/modeler committed t maintaining cutting edge technical hills and up-to-date industey
+knowledge. I enjoy the challenges data presents and lish in lever ways to salve thove problems, [focus on satisfying the needs of
+the customer but keep an eve on future desis. lam considered an expert by my peersin SQL Development design, data modeling
+(elaonal and dimensional, ETL, data warchousing and database administration along with a honed sil in leading and managing
+people
+
+Skills
++ SQL Data ArchitecuModeler + ull Mcosoft stack
+
++ Data warehouse Architect + Data Analytic (SAS, R, Python)
++ SQL Database Administrator + Oracle Integration
+
++ ETL GSIS/SSASISSRS) + Net/Clasion Development
+Work History
+
+SOL ArchitecDBAVETL Architect 042016 0 Current
+‘Apex Systems Arden Hills, MN’
++ Improve Medical Bling process for Medicare/Professiona audits.
++ Createdefined SSIS claims history impor.
++ Created data analytics warehouse for claims history data
++ Proposed technical feasibility solutions fr nev functional designs and suggested options for performance improvement of
+technical objet,
+
+SQL DBAMDeveloper Trainer, 05/2016 1004/2016
+Accenture Contractor Jobs ~ Colchester, VT
++ Trained employees on SQL best practices
++ Performance improvement server tzoubleshooting, and mae architectural gestions to improve thee performance, archiving
+strategies, deadlockng improvements.
++ Refactor Oracle MRP into SSIS 2016 with improved detail and 350% faster
++ Recommended architectural improvements, design solutions and integration solutions.
+
+‘Business Intelligence Tech Lead, 09/2015 to 0/2016
+(CHS Community Health Systems ~ City, STATE
+
++ Modify SQU/SSIS code for ICDIO changeover
+
++ Install and move data fom 38 hoepitals over to new servers effectively epliting the DW ino 2 separate entities.
+
+‘Business Intelligence Architec/ Project Manager, 10/2014 1907/2015,
+Kp lnfosystems Ine ~ City, STATE
++ Managed teams and client relations
++ Completed a tall project for engine mortality data warehouse, Completed i within 3 months when it wae 3 yeats behind.
++ Predictive Analytics ssing SOL/SSIS, SAS tools R Server and Power BL
++ Exablshed compatiblity with third party software products by developing program for modification ad inegeation.
++ Coordinated with systems partners to finalize design and confirm requirements
+
+SQL DBA, 0572014 to 1072014
+(CHS Community Health Systems City, TATE
+
++ Team Lead in successfully moving data center of 1400 SOL Servers in 90 days time
+
++ Monitored database performance and provided performance statistical seports for both realtime and historical messuseanents
+
+Data Aechitet, 2012 to 08/2014
+CIGNA MealthSpring ~City, STATE
+
++ Assess current BI environment and re-architect for improved reporting.
+
++ Reduced SSIS maintenance by implementing best practices
+
++ Over 50% performance improvement on existing processes.
+
++ Created Dimensional model from existing ODS.
+
++ Heavy query performance, TSOL work, Tuning, DBA, Net coding Power BL
+
++ Modeled, coded, and architected move to Teradata
+
+‘SQL Data Architect 19201192012
+‘Bakes Hughes Oil & Gas City, STATE
++ Architected, created, and moved data to new front end using SOL Azure as backend.
++ Recachiteced data warehouse lad
++ Proposed technical feasibility solutions fr new functional designs and suggested options for performance improvement of
+technical objets,
+
+‘SQL DBAAData ArchitecSystem Architec/DBA/Team Lead, 05/201 0 09/2011
+‘Blue Mountain Labs ~ City, STATE
+
++ Aschitected Data Model for large Healtheare CMS Claims Proceso.
+
++ Architected SQL Server systems from Development to User Acceptance,
+
++ Led team of other architects and 1 ETL Developer plus team consisted of seveal SOA developers utilizing Cloud Computing
+
+COL Anu)
++ TOE, paritoning, clustering, and peer-to-peer eeplication, DBA.
++ Connected social media data using Cassands
+
+SQL DBA/Programmed'SSIS Architect, 11/2000 0 03/2011
+1. Software Design Associates ~ City, STATE
++ Maintained Client relations and managed teams sizing fom 16.
++ Led projects utilizing SOL Server technologies including
++ Setup Replication between 6 plants that run 20 hrs/day.
+«Techical advisor on we server setups Majoe performance tuning.
++ ASP.Net designingleoding Setup Server 208 running IS, Active Dicectory.
++ Upgraded SOL 2000 t0 2005 then 200, implemented SSI, SSAS, and replication Architect/Design central DataVis Warehouse
+(OBTEE) project as well as SIS advanced coding,
++ Created, Marketed, and conducted Il thee day seminar for Clason developers structing them how to interface bes with SQL
+Server and other RDBMS aysteme
++ Upgrade From SQL Server 2000 o 2005(6ibit with performance tuning onS+ terabyte system
+
+Education
+
+Master of Science: 2017
+(Capella University
+Data Analytic.
+
+“Master of Science: Compute Science
+Belmont University
+Computer information Systems
+
+Bachelor of Science: Business Data
+Carson Newman College
+Business Data Processing
+
+Certifications
+
++ Microsoft Certified Professional -SQL Server Development
++ Microsoft Certified Professional -SOL Server Adminstration
++ Certified Claion Developer

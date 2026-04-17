@@ -1,0 +1,108 @@
+CONTACT
+
+8% info@resumekraft.com
+0
+9 Chicago, Illinois, US
+
+in linkedin.com/resumekraft
+
+SKILLS
+
+Python
+R
+Machine Learning
+
+Data Analytics using MS Excel
+
+SQL
+DB2
+HTML
+
+Go Language
+
+EDUCATION
+
+Master's in Data Science
+Feb 2020 - Present
+
+San Jose State University
+GPA: 4.0
+
+Bachelor's in Computer
+Science
+
+‘Aug 2008 - May 2012
+Northeastern University
+GPA:3.3
+
+RICHARD MICHAEL
+
+PYTHON DEVELOPER
+
+SUMMARY
+
+Seeking a position in a progressive and career-driven company that gives
+scope to enhance my knowledge, skills and to reach the pinnacle in the field
+of programming with dedication and hard work.
+
+EXPERIENCE
+
+Graduate Research Assistant
+Saint Peter's University
+
+* Consulted in devising the research on identifying the various factors that
+
+pertain to the fatality of covid-19.
+
+© Built web scraping model that retrieves data and provides concise data
+file for analysis.
+Exercised the use of scipy and OLS package to perform regression
+modeling across the data.
+
+May 2020 - Present
+
+Tools: Python-scipy.stats, pandas, sklearn, numpy, matplotlib, OLS
+
+Graduate Research Assistant
+Saint Peter's Assistant
+
+Feb 2020 - May 2020
+
+* Collaborated with team members in developing model that optimizes
+customer relationship using Yelp dataset.
+
+Responsible in designing natural language processing model that
+performs Sentiment Analysis of textual data.
+
+© Have utilized python package pandas for series data processing to clean
+the data, NLTK for data preprocessing and vader to identify the
+sentiments.
+
+Employed the use of spacy package in place of n-grams that yields better
+textual patterns.
+
+Tools: Python pandas, NLTK, wordcloud, Spacy, numpy, textblob, collections,
+wordnetlemmatizer
+
+Software Engineer
+HSBC
+© Have been committed to the development of invoice Financing
+
+application (IFA) that provides financing options to customers and
+
+businesses.
+
+Achieved proficiency in AS400, CA plex and Control Language, a highly
+
+secure database.
+
+Employed during design and development phases in multiple projects
+
+under IFA.
+
+* Have been involved in defect fixing, support and deployment phases of
+the projects.
+
+Sep 2012 - Nov 2017
+
+Tools: CA Plex, AS400, RPGLE, CL400, DB2, RTC, Jira, Confluence

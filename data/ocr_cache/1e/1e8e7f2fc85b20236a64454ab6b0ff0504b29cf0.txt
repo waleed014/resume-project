@@ -1,0 +1,155 @@
+Jessica CLAIRE
+
+100 Montgomery St 10% Floor (355) 432-1000 # resumesamplegexample.com
+
+Skills
++ Data Migration + Operational Analysis
++ Profitability Analysis + Virtualization technologies
++ Solution Integration + Algorithm implementation
+Education
+
+Master of Science: Computer Science, 12/2016
+San Jose State University - San Jose, CA
+
+Bachelor of Science: Computer Science, 06/2013,
+San Jose State University - San Jose, CA
+
+Professional Summary
+
+Knowledgeable SAP Consultant with experience taking ownership of SAP solutions and related software and services. Talented at
+‘managing legacy installations as well as speasheading new deployments. Keen to drive positive movements in revenue and business
+‘performance through direc oversight ofall branded and related products. Growth-oriented SAP Consultant with 7 years of
+‘experience seamlessly integrating SAP systems into business practices. Collaborative educator building relationships with varying
+‘business units and driving growth through IT-based solutions. Thoughtful troubleshooter, providing comprehensive solutions to
+systemic issues. Rational SAP FICO Consultant well-educated in profit and loss analysis and account balancing. Adept at managing
+‘team in order to deliver final solutions to customers. Successful translating between business and technical language. Skilled in SAP-
+related user support, troubleshooting and resolutions. Expertise in Business Process Design, e-engineering, GAAP Analysis,
+‘Configuration, customizing, documentation design, process flow analysis, integrated test design implementation taining,
+‘maintenance of the Financial Accounting and controling FI-CO module. Extensive experience in configuring General ledger (GL),
+Accounts Payable(AP), Accounts receivable (AR), Asset Accounting(FA), Credit management(FICA), Treasury/ Controlling SAP R/3
+‘Cost Center Accouinting (CCA), Profit Center Accounting (PCA), Product Costing(PC), Profitability Analysis(PA), consolidation, SAP.
+[R/S Business Warehouse (BW), SAPR/3 ABAP. Thoroughly used ASAP methodology. Working knowledge in foreign currency
+‘evaluation, parallel ledgers, intercompany tilling. Experience in reviewing business requests with end users and determining,
+implementation solutions.
+
+Work History
+
+SAP Consultant, 07/2018 to Current
+Scadea Solutions Inc~ Waltham, MA
+
++ Knowledge in SAP's ASAP Methodology and well versed with business process, mapping & configuration in SAP.
+
++ Created presentation decks for Blueprint
+
++ Experience in implementing SAP FI sub-modules New General Ledger (FI-New GL), Accounts Payable (FLAP), Accounts
+Receivables (FI-AR), its configuration and Asset Accounting (FI-AA).
+
++ Proficient in CO sub-modules cost element accounting (CO-CEA), Cost Center Accounting (CO-CCA) and Internal Orders (0).
+
++ Develop detailed functional specifications that can be utilized by ABAP developers to perform programming and testing
+
++ Configured for Dunning Procedure
+
++ Knowledge on Cost Centre Planning (Distribution and Assessment)
+
++ Knowledge on foreign currency valuation (FCR).
+
++ Knowledge of dollar-value LIFO method.
+
++ Worked on FI-MM and FISD Integration mechanism,
+
++ Hands on experience of New GL and Document spitting.
+
++ Hands on experience in Legacy System Migration Workbench (LSMW).
+
++ Hands on experience in Cutover Activities.
+
++ Develop detailed functional specifications that can be utilized by ABAP developers to perform programming and testing,
+
++ Deliver to SLA, whilst ensuring the integrity of the template and the productive systems are maintained. Create a culture within
+655 of delivering within SLA,
+
++ Facilitated smart shopper conversion and e-commerce migration activities and tasks from SAP retail master data standpoint.
+
++ Collaborated closely with upper management to drive strategy through development and implementation of new processes.
+
++ Developed flowcharts and diagrams to describe and lay out logical operational steps.
+
++ Oversaw document development across project workstreams to create internal control statements per compliance and regulatory
+standards
+
++ Enhanced project management sills by defining and presenting system solutions and timelines for business needs or technical
+problems,
+
++ Solid experience and knowledge in SD module: including pricing, account assignment, ATP, output contro, credit contro, inter-
+‘company process, ete
+
++ Design systems specifications, develop, test, and implement cost effective solutions within SAP SD module
+
++ Applied knowledge of application components in conjunction with query tools to achieve business objectives.
+
++ Hands on experience with working on column views, database view, and information views in native SAP HANA environment
+
++ Deployed Central Finance to implement SAP 5/4 HANA Finance to harmonize and standardize the data through SAP Landscape
+‘Transformation
+
++ Provided end-user support across multiple modules within the SAP System
+
++ Integration with various modules and systems ie Ariba, Concur
+
++ Hands on experience in customization of SAP 5/4 HANA, SAP Central Finance & ERP ECC 6.0 versions in FI-CO modules.
+
+SAP Consultant, 05/2017 t0 07/2018
+Seadea Solutions Ine~ Waltham, MA
+
++ Reviewed Withholding tax business process, created functional specifications and implemented end to end Invoicing
+process for vendors using extended withholding tax functionality, Created test scripts and business readiness
+procedures,
+
++ Managed all aspects of $4 HANA (1610 and 1708) implementation for Finance, Logistics and Analytic. Delivered
+complex product-based solution from start to finish including inital assessment and planning activities, process design
+and prototyping, and implementation and transition activities,
+
++ Presented the overall direction and strategy to the steering committee and the core business leaders on the SAP St
+on HANA roadmap, capabilites and out-f-box functionality of finance and logistics w/ elated analytics.
+
++ Worked with business users and developed SAHANA financials process and financial reporting strategy, facilitated
+creation of large, highly complex business process models and participated in associated process analysis sessions.
+
++ Delivered SAP training, user support and knowledge transfer at end of project and followed up to verify success
+implementation.
+
++ Designed deployment automation solutions to expedite implementation of SAP solstions.
+
++ Extensive experience in Business Analysis, GAP Analysis, Requirement Gathering, Business Blue Printing, Workshop
+Demonstration and Solution Delivery. Identify various integration processes. Identify GAPS in easly stages for an
+ahead of the schedule project delivery
+
++ Complete Production Support issues provide effective scope and issue management, Search and apply O55 notes
+‘where appropriate
+
++ Post implementation support and trouble shooting, follow-up on initial user problems and resolving them by making
+required changes for wave 2&3
+
++ Worked on many support tickets for SAP FIGL, AP, AR, FA, CCA, PCA, COPA, PA, PC, P2P.
+
++ Implemented New G/L functionality with split valuation.
+
+Accountant's Assistant, 01/2014 to 05/2017
+‘Ravi Tax Preparatuion ~ City, STATE
+
++ Setup and improved accounting systems and processes to meet business needs and maximize operational success
+
++ Reconciled company accounts for credit cards, employee expenses and commissions
+
++ Utilized Quickbooks to analyze, store and record company financial information.
+
++ Helped clients navigate interactions with tax authorities and legal concerns related to financial matters.
+
++ Evaluated and improved accuracy and completeness of financial records
+
++ Processed payroll for approximately 1000 total employees
+
++ Complied with established polices and performed bank reconciliations, accounts payable/receivable, invoicing, billing, and
+
+‘profit and lose statements for 500 clients,

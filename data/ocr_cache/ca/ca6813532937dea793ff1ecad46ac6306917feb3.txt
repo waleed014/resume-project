@@ -1,0 +1,81 @@
+DAVID BROOKS
+
+General Manager
+d.brooks@email.com (123) 456-7890
+Linkedin
+
+WORK EXPERIENCE
+
+General Manager
+Wawa, Inc.
+2018 - current Media, PA
+‘* Developed operational reports in Google Data Studio to provide
+actionable insights on sales, inventory, and labor KPIs.
+‘+ Implemented Oracle HCM Cloud for employee onboarding,
+resulting in a 21% improvement in first 90 days performance.
+‘+ Managed financials using Xero to achieve a 97% accuracy rate in
+reporting and a 12% reduction in billing errors.
+
+‘+ Trained team members on the effective use of Salesforce, resulting
+ina 98% adoption rate and increased operational efficiency.
+
+Operations Coordinator
+Aramark Corporation
+2014-2018 Philadelphia, PA
+
+Coordinated operations with streamlined processes that achieved a
+94% on-time delivery rate and a 17% faster order processing time.
+Applied Kinaxis RapidResponse to optimize inventory levels and
+improve demand forecasting, resulting in 22% fewer stock outs.
+Optimized order fulfillment using NetSuite, which increased the
+inventory turnover rate by 14%.
+
+‘Oversaw cross-functional projects in Basecamp, leading to a 23%
+increase in overall team productivity.
+
+Team Leader
+Comcast Corporation
+2010-2014 Philadelphia, PA
+‘+ Leda customer service team at Comcast, achieving a 96% customer
+satisfaction rating and a 21% improvement in first-call resolutions.
+‘+ Presented monthly performance reports using Google Data Studio,
+providing valuable recommendations to the management team and
+contributing to a 19% team efficiency improvement.
++ Leveraged Salesforce CRM system to streamline customer
+interactions, expediting average response time by 32%.
+‘* Collaborated with the team in Google Workspace to reduce email
+response time by 28% and improve information sharing.
+
+Media, PA
+
+EDUCATION
+
+Master of Business Administration
+University of Pennsylvania
+2010-2012
+Philadelphia, PA
+
+Bachelor of Science
+Economics
+University of Pennsylvania
+2006 - 2010
+Philadelphia, PA
+
+SKILLS
+
+Salesforce
+NetSuite
+
+Google Data Studio
+Oracle HCM Cloud
+Xero
+
+Basecamp
+
+Kinaxis RapidResponse
+Google Workspace
+Encryption Software
+
+CERTIFICATIONS
+
+* Certified Manager (CM)

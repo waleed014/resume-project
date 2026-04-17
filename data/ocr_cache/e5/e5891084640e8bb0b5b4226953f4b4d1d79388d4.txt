@@ -1,0 +1,86 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Rich experience in ABAP/4 programming techniques like Debugging, Update Debugging, Performance Tuning, SQL trace, Runtime Analysis,
+SAP Upgrade, Object oriented programming. *Good Knowledge in fine-tuning the ABAP code & Performance tuning in BI-BPC area. *Hands
+on experience in CRM Technical concepts & ABAP-advanced areas. *Considerable knowledge in HANA Side car, SAP HANA Modeling, XS
+
+Applications
+SKILLS
+
+* SAP R/3 ECC6.0 (EHPS , EHP7), SRM5.0, CRM7.0 SAP SkillsABAPWebdynproWorkflow configuration and
++ SAP Modules : HR ,SD, MM, FI/CO, SRM, PM, CRM, IMWM., MonitoringEnhancement Spot,BADL.User-
+
+BI, SCM exitB APLRFC.FM,BTE,OOSmartform,SapscriptModule
+* Programming : ABAP/4, HR-ABAP , SAP NetWeaver Gateway- PoolBDC,LSMWEDI /ALE/
+
+OData IDOCSReports-Classical, ALV.InteractiveData DictionaryOSS
+* Cross Applications : ALE, IDOC, RFC, BAPI, Interfaces notesPerformance tuning and Code Review (ECC , BW )Data
+‘User Interface : Menu painter, Screen Painter, Module Pool Archiving AP HANAHANA Basics
+
+Programming ALV Grid.
+
+* Operating Systems : Windows XP/2000/NT/2007/2010, Linux
+
+* Database : MS SQLSERVER2005, ORACLE 11g, HDB
+
+* Tools : Microsoft Word, Microsoft Excel, Microsoft Power Point
+C, C++, NET, SQL, Visual Basic, UiS
+
+‘Work History
+
+SAP ABAP Consultant & HANA Consultant, 10/2012 - Current
+Wipro Ltd — City, STATE
+* Working as SAP ABAP & Fiori-Gateway, HANA Consultant with Wipro Technologies from October-2007 to till Date.
+* Built, tested and deployed scalable, highly available and modular software products.
+«Streamlined deployment process by developing continuous integration tools.
+« Strengthened developmental methodologies by introducing a code quality document.
+
+ABAP Associate Consultant, 09/2007 - 09/2012
+‘Wipro Technologies ~ City, STATE
+* Developed few Reports, interfaces, Enhancements in SD, FI modules.
+
+Custom interface to create and update sales order from excel sheet.
+
+‘© Enhancement to add additional fields for FAGLLO3 and few FI Transactions Enhancement to park/post the documents in bulk from note
+pad data
+
+Developed Few ALV reports in SD, FI, HR areas.
+
+Declaration I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the
+
+correctness of the above-mentioned particulars.
+
+AFFILIATIONS:
+
+‘Working as SAP Technical Consultant with 8+ years of experience in SAP-ABAP with good knowledge in ABAP , Gateway , SAP Fiori and
+HANA. Accomplished professional with expertise in RICEFW development and worked in the areas of Implementation & Development,
+Upgrade, Rollout and Maintenance & Support. As a technical Consultant has hands on experience in various functional areas ranging worked
+on various SAP Modules like Human Resources (HR), Sales & Distribution (SD), Materials Management (MM) , Supplier Relationship
+‘Management(SRM) , Plant Maintenance(PM) Modules. Accomplished professional with expertise in RICEFW development and worked in the
+areas of Implementation & Development, Upgrade, and Maintenance & Support. Extensively Worked in various areas of ABAP like WEB -
+DYNPRO, WEB Services, RFC, BAPI, Development workbench, Reports (Classical & Interactive), Module Pool/ Dialog Programming, Menu
+Painter, Screen Painter, Function Modules, SAP Scripts, Smart forms, Adobe forms, Workflow, BSP, ABAP Query, BDC, Data Dictionary,
+LSMW, ALE/IDoc, ALV, ABAP Objects, HR Info types, Logical Database, User Exits, Enhancements, BADIs.
+
+EDUucaTION
+
+‘Master of Science: Software Engeenering, 2011
+Birla Institute of Technology and Sciences -Rajasthan (BITS-DLPD) - Rajasthan, India
+
+Bachelor of Science: Electronics, 2007
+
+Acharya Nagarjuna University - Guntur, India
+
+Bachelor of Science: Electronics, 2007
+Acharya Nagarjuna University (ANU ) - Guntur
+
+ACCOMPLISHMENTS.
+
+* Developed [Internal tool], resulting in a [Number]% increase in employee productivity.
+# Served as Lead Programmer on [Project Name].
+
+* Developed custom toolset used in successful $[Amount] billion contract bid.

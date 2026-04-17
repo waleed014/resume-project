@@ -1,0 +1,64 @@
+ROBERT SMITH
+Data Scientist
+
+Phone: (0123) 456.785 | Ema inlo@qwkvesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+Exports in problem solving. Excellent in working with business users and colleagues as part of
+‘equirements, gathoring and converting their needs into mathematical models and solutions. Deep
+understanding of Statistical Models, Algorithms and Mutivariata Analysis
+
+CORE COMPETENCIES
+
+Pytton, SQL, R, Java, C++, SPSS, Excel and all MS Office, Misc: LISREL, HLM: Db Visualizer,
+Google Analytics, PUTTY, Perl CMD; Surveymonky.
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist
+Bestbuy - January 2016 ~ 2019
+
+Key Deliverabies:
+
+Worked on commercial and customer activity data analysis, including data collection, table
+‘ueatmont, database information, problom analysis, solution proposal and implementation
+
++ Proposed throe solutions 10 deal with Promotion Effective Analysis with mathods to
+caloulate sales baseline and It,
+
+Responsible lor data collection, cleansing and variable analysis,
+
+* Designed tochnical solution roadmap to deal with noise in sales data,
+
+++ Finished mutipi near or nonlinear regression models or testing case and achieved vey
+(900d predicting results in scenario tests
+
+Developed automation process for variable selection and model testing and used the
+method on ver 5,000 SKUs,
+
++ Worked on Noise Reduction/Moving Average mathods - exponential smoothing and Fast
+Fourior Transtomation methods - and compared them with regression methods,
+
+Data Scientist
+‘ABC Corporation - December 2014 - December 2015
+
+Key Deliverables:
+
+*| Responsbiliie Worked with different departmants for data source; responsible for
+collecting Macro-economy datasots
+
++ Worked on data translormation & accessed raw marketing data in varied tomas with
+dilforent methods foranalyzing and processing,
+
+Worked with BI team in data investigation, responsible for interpreting variables, making
+instncions and also data dictionary,
+
++ Responsble In data pattem recognition and data cleaning.
+
++ Idontty missing, invalid values and outers, analyze and caiegotize variables of datasets.
+
+‘Checked data for distribution, classiicaion, missing values, oulers, otc, worked wih Bl
+team lor Macro-Economy variable selection 1o get deeper understanding of datasets,
+
+2959 Oak Sireet, Old Forge, New York, 13420
+(© This Exes Resume Template isthe copyright of Quilrestume.com. Usage Guidelines

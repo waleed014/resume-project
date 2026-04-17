@@ -1,0 +1,145 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
++ Cross- Channel Marketing Specialist with 5 years of experience in Email/SMS Push marketing
++ Experience working with various companies across multiple disciplines including finance, software, and retail
++ Salesforce Marketing Clovd consultant Top-performing and highly motivate professional with excellent Salesforce cloud
+integration experience anda history of managing high-level automation and migration projects
++ Extensive knowledge of Email platforms, integrations, data analysis, Social and Mobile masketing and a reputation for developing
+effective new stratezies to
+‘maximize the each and impact of online campaigns.
++ Extensive experience with all primary elements of Marketing Cloud: Email Studio, Content Builder, oumey Builder, Analytics Builder,
+Personalization Builder, and Audience Builder Stong knowledge of
+the software development process and the SOAP and REST methods
++ Experienced in working Adobe Campaign. Worked on Creating complex workflows, Schemas, Templates and Transactional Emails
++ Worked mostly in Agile Environments and has experience with Jr
+
+Sxmis
+Core Skills and Abilities. + AMPSCRIPT.
++ Marketing Automation. + SQL.
++ JAVASCRIPT. ‘© Data Tracking.
+«Integrations. + HTML/HTMLS.
+‘+ Journey Builder. + ssis.
++ cssicss3, + Email Platforms.
++ SOAP APUREST API. « Salesforce Marketing cloud.
++ Project Management + Adobe Campaign
+Worx History
+05/2020 to Current SFMC Developer
+
+(01/2019 to 03/2020
+
+10/2017 to 12/2018
+
+Epucarton
+
+ANTHEM - City, STATE
++ Responsible SFMC data operations and cross-channel digital marketing campaigns including email and SMS
++ Scope and drive creation of digital solutions, email campaigns, email reporting, and data integration
+Used Joumey Builder in sunning different campaigns along with Contact Builder and Automation Studio,
+Built multiple custom solutions using Automation Studio
+(Created Data Extensions for multiple Deployments.
+Setup Automated Email deployments for Loyalty Audience based on Customer Data.
+Created one to one customer centric Jourmey Builder interaction and integrated with Sales Cloud to track, report
+and manage customer lifecycle
++ Used AMPScript experience in developing dynamic Email/Push marketing.
+‘Used HTML, CSS, AMPSCRIPT, SSIS and other technologies to build customized solutions that support critical
+‘business functions.
+Used SOAP and REST API in order to invoke triggered sends and update subscriber attributes in all subscriber list
+‘Worked on setting up the file import Automations to upload the file from and into SFTP.
+Setting up SFTP with Encryption and Decryption keys.
++ Experience in auditing existing ESP's and providing recommendations on technology use cases.
+‘Worked on Marketing Cloud Social Studio to monitor social accounts, competitors and other social data,
++ Processed, Augmented, Sorted and Directed the incoming social media content for proper follow up.
++ Assigned Social Studio Automate roles and permissions to accomplish various tasks such as add or edit data
+sources, rules, rule actions and rule
+conditions
+‘Used Marketing Cloud Social Studio Mobile Analyze to monitor discussions of owned social accounts and their
+broader conversions.
+‘+ Managed email and mobile marketing development, deployment, reporting and also developing a variety of
+automated retention solutions and lifecycle campaigns based on behavioral segmentation data,
+‘Track metrics including sends, clicks through rates and other measures using both Exact target and Google
+Analytics along with excel
+‘Tracking Daa filters/Data Extensions.
+Implemented campaign, cross channel tracking and also involved in setting vp or creating Admin options, User
+interface, orzanization-wide
+defaults, role hierarchy and workflow rules
++ Documented technical implementations and knowledge to educate newly hited employees.
++ Involves in Client Meeting to gather requirement
+
+‘SFMC Developer
+LiquidEub ~ City, STATE
+
++ Catried out day-to-day duties accurately and efficiently.
+
++ Improved operations through consistent hard work and dedication,
+
++ Drove operational improvements which resulted in savings and improved profit margins.
+
++ Successful migrated over Multiple complex Joumeys and Automations from other marketing automation platform.
+
++ Participated in IP Warming and made sur domain's reputation was good during migration process.
+
++ Responsible for technical coordination including email QA in html, writing SQL query and AmpScript logic and
+leveraging assets to build and deploy email campaigns.
+
+‘ Worked on creating custom Server side scripts
+
++ Automated multiple Campaigns.
+
++ Worked on Setting up multi touch welcome campaign for new opt-in's
+
+‘+ Implemented Salesforce Marketing Cloud Migration from other ESP.
+
++ Assisted software development team in creating innovative API integrations with different systems and also testing.
+
++ Worked on setting up different environments for QA and E2E testing
+
++ Leverage AmpScript to automate email sending processes and also to send dynamic emails.
+
+‘ Managed email and mobile marketing development, deployment, reporting and also developing a variety of
+‘automated retention solutions and lifecycle campaigns based on behavioral segmentation data.
+
++ Track campaign metrics including sends, clicks through rates and other measures using both Exacttarget and
+Google Analytics along with excel
+
++ Experience on campaign management tools, data-driven campaigns, emails.
+
++ Implemented campaign cross channel tracking
+
++ Involved in Setting up or creating Admin options, User Groups , User Accesses organization-wide defaults, role
+hierarchy and workflow rules
+
+‘+ Worked with Sales force support team to work on support tickets
+
+* Accustomed to working in both large and small team environments
+
++ Experience using Agile Scrum Methodology for Software Development.
+
++ Capable of rapidly learning new technologies and successfully applying them to projects.
+
++ Worked closely with Business users for requirements gathering and Business analysis
+
+Adobe Campaign Developer
+PNC~City, STATE
++ Worked on Marketing Automation using Adobe Campaign Classic.
++ Creating typologies, Target mapping to set rules to email deliveries and worked on various email campaigns based
+‘on business rule specified using ACC.
+* Configuring, Testing and Publishing landing page and delivery templates.
++ Configured Email URL Tracking parameters in instance for Brand configuration,
++ Created Import workflows to load Kohl's data from flat files placed in SFTP into AS Custom
++ Worked on Export workflows to generate report of campaign Clicks, Opens and Delivery status like
+sent, failed from Trackinglogs, Exclusionlogs and Delivery logs tables in Adobe Campaign.
+
+05/2017
+
+(Cermmtcations
+
+‘Master of Science: Information Systems
+‘The University of Texas At Dallas - Richardson, TX.
+
+Marketing cloud email specialist
+Adobe Campaign Classic Developer

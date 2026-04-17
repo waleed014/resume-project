@@ -1,0 +1,81 @@
+Billye Ferry
+
+37754 Alejandro Corners, Detroit, MI ¢ Phone: +1 (555) 356 9944
+
+EXPERIENCE KOVACEK LLC San Francisco, CA
+08/2020 — present Entry Level Java Developer
+
+.
+
+Experience with Java Development
+
+An understanding of how to write clean, efficient, well tested code
+
+A keenness to learn and to work in a highly collaborative environment
+
+An appreciation that the simple solution to a problem — while often harder to discover than the
+complex one - is usually best
+
+Primarily Java 11+, Spring
+
+Jenkins, Artifactory, Dynatrace, Maven, Docker, Sonarqube
+
+Openshift, AWS
+
+Apache Kafka, Kafka streams
+
+Authoring and reviewing web application code in Angular(Typescript), Java, JavaScript, Spring
+framework, SQL, ete
+
+Experience using Atlassian tools, e.g. JIRA, Confluence, BitBucket, SourceTree, etc
+
+Web application development
+
+BERGSTROM INC San Francisco, CA
+10/2013 — 04/2020 Entry Level Java Developer
+
+Experience working in an Agile/Scrum/XP environment
+
+Bachelor's Degree in a technology related discipline (e.g. Computer Science, Information Technology,
+or Operations Research)
+
+Must possess strong analytical skills
+
+Prefer candidates that have the ability to travel up to 50 percent
+
+Did we already say implementing Modria client configurations? Yes, we are very client facing and
+work in a fast paced and flexible environment where we are constantly juggling client priorities
+Troubleshooting client issues— we consider these types of operations basic to what we do
+
+We have a custom workflow engine we built. We want you to learn it, use it, and tell us how we can
+improve it
+
+We are always trying to improve our processes. We want you to learn these and then work with us on
+finding ways to improve them or replace them with better ways to do our work
+
+EDUCATION DREXEL UNIVERSITY Bachelor's in Computer Science
+
+SKILLS .
+.
+
+.
+
+Technical knowledge requirements
+
+Write SQL queries and database schema design
+
+Good & clear communication skill is a must
+
+Develops and supports in-house custom applications for web and mobile applications while following
+established frameworks, best practices, and conventions
+
+Analyzes business needs and defines requirements with stakeholders from various departments
+Works with development teams including System Administrators, Database Administrators,
+Application Programmers, and Application System Analysts in a 24/7 environment to create software
+solutions
+
+Designs client-side and server-side architecture
+
+Builds the front-end of applications through appealing visual design
+
+Develops and manages well-functioning back-end business logic for applications

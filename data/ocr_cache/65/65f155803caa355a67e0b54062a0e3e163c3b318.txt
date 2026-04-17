@@ -1,0 +1,215 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Agile
++ Six Sigma
+
++ Software Development
+
++ Leadership
+
++ Full-stack development
++ Project management
+
++ Budgeting
+
++ Salesforce
+
++ Public speaking
+
++ Business Analysis
+
++ JavaScript
+
++ Microsoft SQL Server
+
++ TFS
+
++ Software Testing
+
++ Product Management
+
++ Systems Engineering
+
++ Visual Basic
+
++ Application Development
++ NET Framework
+
+ed
+
++ Employee interviewing
++ MySQL.
+
++ Languages
+
++ Japanese - Beginner
+
++ Training Method Development
++ Management Consultation
+
+EDUCATION
+Saint John’s University
+Collegeville, MN
+
+Bachelor's degree: Visual and
+Verbal Communications Media
+
+PROFESSIONAL SUMMARY
+
+Seasoned information systems Director of Information Technology experienced leading IS teams and
+overseeing and streamlining company data and voice communications infrastructure. Directs IT
+department operational activities and provides solution support that enhances mission-critical
+business operations. High level of competency with ASP.net and Visual Studios and advanced C#
+Development with proven to lead and manage projects with high levels of technical and functional
+complexity.
+
+WORK HISTORY
+
+National Community Renaissance - Director of Information Technology
+West Covina, CA » 10/2019 - Current
+
++ With 5+ years of experience and proven leadership skills
+
++ Increased customer satisfaction by 45% and sales by 88% for products and services
+
++ At Platinum, increased the efficiency of the manual processes by use of proprietary automation
+and expanded the customer base by 283%
+
++ Eager to drive ROI and technological innovation for whatever comes next..
+
++ Authorized to work in the US for any employer
+
++ Willing to relocate anywhere, Developed an E-Commerce Site that uses a Mult
+Shipping Algorithm
+
++ Architect scalable data and analytics solutions sites for small/medium size businesses
+
++ Streamlined the manual process by designing and implementing a proprietary platform for
+automation, resulting in a 27% efficiency increase
+
++ Initiated and coordinated the implementation of new data security measures across the company’s,
+IT infrastructure
+
++ Coordinated the adoption of the Agile methodology across all departments
+
++ Managed several Virtual and Physical Servers (File, Print, Application, Web, & Database) and
+facilitated the migration to a nearly a 100% virtual presence.
+
++ Developed and implemented technical application support and information technology policies and
+procedures that advanced investment needs, outcomes and performance measurements to balance
+continuous innovation with responsible risk-taking.
+
++ Managed teams to plan, develop, coordinate and execute technical strategies aligned to client's
+vision, mission and purpose.
+
++ Analyzed department and job-related functionality requirements to align technology priorities with
+business needs.
+
++ Identified opportunities for application optimization, redesign and development and troubleshot
+and resolved user and application issues.
+
+mensional
+
+‘Ametek, Inc. - Application Systems Engineer
+Middlefield, CT + 05/2009 - 10/2019
+
++ Orchestrated various components across the organization to provide business solutions
+
++ Coordinated with business users and management to align technology solutions for business needs
+
++ Designed and deployed proof of concepts to provide validation on specific business objectives
+
++ Mentored other developers on software development approaches and architecture
+
++ Documented high level design and conceptual architecture for review with stakeholders
+
++ Led RAD prototyping of new products including developing cost models, internal Beta platforms
+
++ Served as lead on multiple development projects, consistently achieved all deliverable objectives
+
++ Championed, promoted, and implemented agile methodology across Home Mortgage Business Lines
+
++ Produced and presented documentation, training, and standard operating procedures for best
+practices
+
++ Worked to develop BRD’s and FSD’s for Applications during a Technology Integration
+
++ Stabilized development by providing a foundational source and document repository (TFS)
+
++ Developed testing software that saved 7.6 million dollars in salaried hours over the course of a
+calendar year
+
++ Worked closely with other team members in such tasks as troubleshooting and debugging.
+
++ Participated in system development life cycle from requirements analysis through system
+implementation,
+
++ Unified disparate data structures and operating environments during revamps of processing
+facilities, data centers and more.
+
++ Generated customized architecture specifically optimized for several database technologies
+
++ Created sets of pre-fabricated systems architecture models for deployment at multiple facilities
+across enterprise-class organizations.
+
++ Created multi-site system architecture plans to reduce redundancy across entire organization.
+
++ Incorporated cloud architecture into new facility planning, reducing need for on-site equipment and
+technical support personnel.
+
++ Engineered architecture and infrastructure for 10,000 + users.
+
++ Performed quality code review and removed technical debt and security vulnerabilities.
+
++ Mentored team for mortgage services and supported key clients in development efforts,
+establishing standards, determining specifications and ensuring compliance with federal, state and
+local regulations.
+
+Microsoft - Product Manager
+City, STATE + 04/2008 - 05/2009
+
++ Increased annuity penetration, specifically through licensing sales efforts, for Best Buy for Business
+
++ Maintained a SharePoint portal solution to promote collaboration among disparate business units
+
++ Program manager for volume licensing sales at Best Buy for Business (BBFB)
+
++ Business analysis and design for enhanced email and internet advertising solutions
+
++ Worked with Microsoft and BBFB executives to develop several new training opportunities
+
++ Developed technical relationships within Best Buy, which led to new and exciting potential
+
++ Created reporting tools that have led to a more efficient use of purchasing dollars and resources
+
++ Directed concept design, feature definitions and production support.
+
++ Consulted with product development teams to enhance products based on customer interest data.
+
++ Monitored market trends and competitor performance and analyzed gaps to update promotional
+strategies and maximize sales.
+
++ Closely collaborated with project members to identify and quickly address problems.
+
++ Presented category insights and new item recommendations to major retailers and led teams in
+developing marketing, pricing, product and sales strategies.
+
+ADDITIONAL INFORMATION
+
++ Six Sigma Green Belt
+
+AFFILIATIONS
+
++ Hobey Baker Memorial Award Foundation January 2014 to Present
++ 2023 Chairmen of the Hobey Baker Committee

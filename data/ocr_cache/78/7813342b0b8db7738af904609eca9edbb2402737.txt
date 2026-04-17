@@ -1,0 +1,111 @@
+SUMMARY
+
+TOOLS/FRAMEWORK
+
+EXPERIENCE
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 82 (555) 432-1000 4 resumesample@example.com
+
++ SAP Consultant with 5+ years hands-on experience in SAP PP and QM Module with their integration
+with MM/WM Modules in different phases of SAP Implementation, Roll - Out and Production Support.
+
+‘+ Two full cycle implementations and one partial implementation cycle which includes S/4 HANA
+implementation and roll out in SAP PP/QM module with hands on knowledge in version upgrade and
+experience in ECC 6.0.
+
+‘+ Strong domain knowledge in Automotive Industry, Manufacturing Industry, Process and Chemical
+Industry business processes
+
++ ERP Systems : S/4 HANA, SAP ECC 6.0 and R/S. Project Utilities : MS Office, MS Project,
+
+47 Visio, Lotus Notes, Share Point, TTKF
++ SAP Functional : SAP QM/PP + Databases : My-SQL, MS Access
+‘+ Migration Tools : LTMC, LSMW, BDC, BODS + Management tools : HPQC, SolMan, Service
+‘+ Computer Languages : C, C++, SQL, JAVA Now,JIRA
+SAP PP/QM CONSULTANT 05/2021 to 11/2024
+
+Cognizant Technology Solutions | Brea, CA
+
+DuPont is a multi-vertical company, with their niche in Chemical industry. For a sector of Semi-Conductor
+manufacturing , spearheaded PP/QM module in the migration from ECC to HANA Platform
+
++ Played an integral part in the implementation of S/4 HANA , by configuring QM in a new plant and
+activating SAP Fior' tiles for Customer Specifics
+
++ Reconfigured sources to maintain status profiles and made enhancements to maintain screen groups.
+
++ Created of Bill of Materials, Mater Recipe, Production Versions and WorkCentres
+
++ Worked on Lean Manufacturing business process for Just-In-Time manufacturing (JIT) and Kanban
+(Scheduling System).
+
++ Created Master Data and designed, implemented and configured Inspection Lot Creation, Results
+Recording.Inspection Lot Completion, Sample Management for Quality Inspections.
+
++ Extensively used LTMC(Legacy Transfer Migration Cockpit) to migrate data from Legacy system to S/4
+HANA and wide knowledge on the features of LTMC.
+
++ Leveraged LTMOM(Legacy Transfer Migration Object Modeler) to customize the data migration upload
+template to cater business's requirement.
+
+‘+ Created Certificate Profile and Output type to facilitate CoA (Certificate of Analysis) print for the
+customers ; when a Delivery is created,
+
++ Engaged with the ABAP team to work on the RICEFW objects, SmartForm layout of the CoA and to
+implement the required custom features leveraging BAPI and development of BDC.
+
+‘+ Involved in Unit testing, End User Training, Documentation and Go-Live process for QM module
+
++ Designed Process structure and uploaded Business Process Documents in SolMan using SolDoc
+feature
+
+SECIIOR ASSOCIATE CONSULTANT 02/2013 to 08/2016
+Aon Corporation | Lake Mary, FL
+
+Robert Bosch Gmbh is a multinational engineering and technology company. Implemented PP/QM for two new
+Gasoline engine parts manufacturing plants in Germany and led the post Go-Live activities.
+‘+ Integral part in two end-to-end implementations in the Bosch Automotive World.
++ Orchestered complete cycle using ASAP methodology , right from Blue-Print to Go-Live phase of the
+entire cycle
+‘+ Implemented standard functionality with Make-to-Order and Make-to-Stock Environment.
+‘+ Administered and resolved issues with Material Master, BOM, Routings and WorkCentre.
+‘+ Involved in Configurations of BOMs, WorkCentres and Capacity Planning
++ Creating, Configuring and maintaining the parameters of MRP, configuring availability check and
+production scheduling profile
++ Worked on different MRP scenarios for both purchasing and production like reorder planning (Manual &
+Automatic) and purchase stock
++ Configured QM Master Data such as Code Groups and Selected Sets, Master Inspection
+Characteristics, and Inspection Plans
++ Processed Inspection Plans, Header Data, Operations, Inspection Characteristics in Quality Planning
++ Prepared Web Based Trainings for the end users, helping them to navigate and understand the
+implemented functionalities
+‘+ Deployed to Germany and Japan to train the end users and responsible to create the training
+documents in multiple languages to serve across Bosch Global locations.
+
+ASOOCIATE CONSULTANT 09/2011 to 01/2013
+Korn/Ferry International | Austin, TX
+
+RBEI anchored the Run & Maintain team , supporting and consulting SAP solutions across Bosch Global
+projects. Primarily handled QM support and production tickets created by Germany and USA specific users
+‘+ LA/L2 Support Consultant, understanding the integration of Quality Management module in the Bosch
+World.
++ Analysis and resolution of issues which are reported in the form of Incident tickets, related to Quality
+Inspection, QM in procurement, Quality Notifications and the issues related to Customized reports.
+‘+ Triggered different Notifications in test systems for Customer/Vendor/Material related Defects.
++ Worked with SAP Security Team to structure the road map for Authorizations to facilitate access for end
+users.
+‘+ Took up the responsibility of internal audit of all the Change Tickets for the team to ensure everything is
+as per the Audit guidelines.
+‘+ Worked on different Shop-Floor Activities like creation of Process Orders, Availability Checks and
+Process Orders release
+‘+ Monitoring of Stock availability in Blocked and Quality Inspection and follow up with plants users.
++ Worked with the Background jobs, their scheduling and preparing new variants for the batch jobs.
++ Worked with LSMW for mass upload of QM master data like Master Inspection Characteristics, QM view
+for materials in lower clients.
+
+Bachelor of Engineering | Information Technology 2011
+Avinashilingam University, Coimbatore

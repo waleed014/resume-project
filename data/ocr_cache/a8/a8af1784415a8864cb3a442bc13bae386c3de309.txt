@@ -1,0 +1,59 @@
+ANDREW NICOLAS
+
+609 VANNESA BRANCH, CHICAGO, IL
+
+PHONE
++1 (555) 134 5489
+
+EXPERIENCE JOHNS, BATZ AND O'HARA 07/2018 — present
+Chicago, IL // Senior Python Developer
+
+¢ Experience in database architecture, data modeling and data warehousing, experience in using
+agile tools JIRA, Git, Team City, Agile Central
+
+¢ Previous experience in using Git/Stash for source and version control, Autosys for batch
+control and Team City/ Nexus for build/deployment
+
+¢ Experience in DevOps, source control, unit and integration testing, continuous integration,
+release management, and other software development practices
+
+¢ Exposure to any of Business Visualization tools like Qlikview, Qliksense, Tableau
+
+¢ Excellent collaborator and fantastic teammate with solid leadership skills
+
+¢ Experience in Project delivery and software engineering projects in a corporate or enterprise
+environment using Java and Python
+
+RITCHIE-WARD 07/2013 — 06/2018
+Chicago, IL // Python Developer
+
+¢ Skilled in software solution design and problem-solving techniques
+
+¢ Hands-on experience developing web services
+
+¢ Experience with data analytics - both tools impact to data structures and implementation
+
+¢ Design and implementation of software using Python
+
+¢ Frontend development using JavaScript, HTML and CSS
+
+CI/CD support for the project
+
+¢ Assuring code quality and adherence to coding standards on projects
+
+¢ Excellent verbal and written communications, comfortable working with different levels of
+management, high attention to detail
+
+EDUCATION COLUMBUS COLLEGE OF ART AND DESIGN
+Bachelor's in Computer Science
+
+SKILLS ¢ Experience in database architecture, data modeling and data warehousing, as well as
+experience in using agile tools e.g
+¢ Knowledge on test automation for Performance, Load and Functional Testing
+¢ Experience in the Design and Development of Test Traffic Generating tools
+¢ Proficient in programming technologies in area of expertise
+¢ Analytic mindset and proven problem-solving abilities
+¢ Maintains composure in adverse situations
+¢ Functional/technical proficiency with large full life cycle projects
+¢ Knowledge of server-side Java
+¢ Advanced trouble-shooting and diagnostics capabilities

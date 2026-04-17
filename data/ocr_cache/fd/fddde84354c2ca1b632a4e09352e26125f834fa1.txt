@@ -1,0 +1,153 @@
+Jessica CLAIRE
+
+Monterey Steet San Francie, CA S405 # (55) 432-1000 « enmesanpleBeample com,
+
+PROFESSIONAL SUMMARY
+
+Complex problem solver with analytical and driven mindset Dedicated to achieving demanding development objectives according oiht
+
+schedule while producing inpeceabe code
+
+semis
++ Programming Languages: Python, C, SQL + Powespoiat
++ Parallel & Computing» AWS.IBM Watson Stio + tail anlis
++ Data Visualization : Python (Maplotib, Seator), R(ggplt) Data Mining
+‘+ Machine Learning: Chustring(K- Means ierachica)Regres + Tableas
+sion Analysis Text Mining & Uastoctred Data Analyt. + Agile Development
++ Applications / Tol: Git. MS Ofc, lpyter Notebock, + Database Steage
+PyCharm, eal Sain, + Powerpoint
++ Data Science Libraries PySpark, Sikit Lean, NunPy, Pandas, Statical analysis
+Sy, NLTK, PyToech Kea, Tensor, Gens, spaCy + Dat Mining
+Amazon Web Services C2 3, AM, VPC, RDS, DynameDB, + Tableas
+SNS, SQS, Elastic Load Balancer, Lambie, SageMakerAWS «Agile Development
+[RDS Ghe,Athena Lamb Amazon Comprehend + Database Storage
++ Tabeas + Powerpoint
++ AgileDevelopment + Stasi analysis
++ Database Storage + Dats Mining
++ Powepoint + Tableas
++ Static amis + Agile Development
++ Data Mining + Database Storage
++ Tables + Powerpoint
++ AsileDevelopment + Sail analis
++ Database Storage + Data Mining
++ Powerpoint
++ Saisie analysis
++ Dat Mining
++ Tables
++ AsileDevelopment
++ DaubaeSteage
+Worx History
+
+Software Python Developer as Freelancer, 01/2019 05/2021
+Grow Therapy ~ Ci, STATE
+
++ Determined, sing Python clustering methods, soups of states where underwriting models wete underperforming and owned
+
+improvements to increase profit by 4%
+
++ ected procedural ates of improvement hough customer data to lp improve the poftaity ofa nationwide retention program by
+
+%
+
++ Developed an onned the reporting for a nationwide reteation program using Pron, SQL and Excel saving an average of 60 hours of
+
+labor each month
+Led dita extraction and evaluation
+
+Partaeed with produ team to build a production recommendation engine Python hat iproved the average length on page for users
+
+ad rete in incremental anal revenue
+
+‘Software Engineer 01/2018 07/2018
+Grow Therapy ~ City, State
+
++ Responsible for arcitecting, designing, implementing and supporting of clo based infastrctre adits soos.
+
++ Managing Amazon Web Secs (AWS) inastctue Proficient in AWS sevies ike VPC, EC2, S3,ELB, AutSealingGeoups(ASG),
+EBS, RDS, AN, CoudFomation, Rut 53, CloudWatch, ClouiFreat, Cli
+
++ Experienced in cating mpl VPC‘ and publi, private oboets spe requires nd ditibuted then x groups it various
+
+_svaabilty zone of te VPC. Created NAT gateways and instances allow communication om the private instances to the interet
+
+«+ volved in writing API for Amazon Lamba o manage some ofthe AWS sevice
+
++ Used secuity roups,netork ACL's, ateret gateways and route blest ensure secu 2oe fe xpanizaton in AWS pubic lod
+
++ Created and configured elastic lad balances and auto scaling props to distibue the wai and to havea cost ficient, al tolerant and
+‘ighly avaiable eavizoamest
+
++ Created S3 buckets inthe AWS envizoament to store ies, omeies which re requised to serve static content fora web aplication,
+
++ Used AWS Beanstalk for deploying and scaling web applications an services
+
++ Configured 83 buckets wih varius lifecycle polices to archive the infequetly accessed datato storage classes based on requzement
+
++ Possess god knowledge in creating and launching EC? instances sing AMS of Linus, and wot shell scrips to bootstrap instance.
+
++ Used TAM for creating roles, wes, roups and also implemented MEA to provie atonal security to AWS accountants
+resources Write lod formation templates in jon to create custom VPC, subnets, NAT o ensure sucessl deployment of web
+applications.
+
++ Implemented domain mame service (DNS) through route 53 to hae highly availabe and sable applications. Maintained the monitoring
+and alerting of production and corporate servers using Clo Watch service,
+
++ Created EBS volumes for storing application ils for ue with EC? instances whenever thy are mounted to them, Experienced in cresting
+[RDS instances sere data though serves fr responding to requests Crested snapshots to take backups ofthe vlumes and also images
+to store launch configurations ofthe EC? instances
+
++ Weiten Templates for AWS infastructue a code to build staging and production enviroment
+
++ Responsible for Continuous Integration and Continnos Delivery proces implementation with Python and bell rips to automate routine
+jobs
+
++ Responsible for perfooming tak ike Branching, Tagging, and Release Actives on Version Cont Tool ike GIT.
+
+‘Software Engineer 03/2012 - 11/2014
+Dell Wyse City, State
+
++ Coordinated staistcl dats anal, design and information ow
+
++ Designed and developed schema data models
+
++ Prodoced monthly reports that made understanding of insights easier trough the use of visualiatlons
+
++ Transformed the data to prep it for modeling
+
++ Analyzed the member data to fad tends that showed what pe of astnaions wast what kind of product
+
++ Developed database objects such sales
+
++ Collaborate with Web Application Engineers, sed Python scripts to load the data into AWS Cloud Casandea database Visualise ove 40
+
+atzets with Matplotib
+
++ volved in procesing th steaming data a well as batch dat,
+
++ Developed interna tol fo text mining (eatimentl analysis), and web craves for oletng data by Pytbon and SQL.
+
++ Use AWS Elastic Beanstalk service for deploying and sealing web applications and services developed wih Python
+
++ Developed shel scripting and Python programs to automate the data low on y-to-dy tasks.
+
++ Analyzed the SQL cits and designed the solution o Developed a custom ETL pipeline by wing Python
+
+Epvcarion
+
+Certifications:
++ IBM Data Science Professional Crifiate
++ Semantic Segmentation with Amazon Sagar
++ Mastering Data Anas wih Pandas
++ loduction to States from Stanford
+
+Bachelors of Computer Science: Computer Science And Information Teeslogy 0872011
+{6 PullaReday Enginering College - Karoo! Anda Pradesh
+Certifications:
+
++ IBM Data Science Professional Crate
+
++ Semantic Segmentation with Amazon Sagar
+
+‘+ Maseing Data Analysis with Pandas
+
++ loduction to States from Stanford

@@ -1,0 +1,98 @@
+i info@resumekraft.com
+O 202-555-0120
+9 Chicago, Illinois, US
+
+in linkedin.com/resumekraft
+
+SKILLS
+
+C# .Net
+
+OOP
+
+MS SQL, MySql
+
+Git, Svn, TFS
+HTML/CSS/JavaScript
+
+jQuery plugins
+
+SQL Server Reporting Services
+SQL Server Integration Services
+
+Microsoft Office
+
+English
+French
+Arabic
+
+German
+
+EDUCATION
+
+Bachelor of Computer
+Science and Informatics
+Oct 2005 - Apr 2019
+
+San Jose State University
+
+STEVEN MICHAEL
+
+DOT NET DEVELOPER
+
+SUMMARY
+
+Seasoned IT professional with more than 7 years of software development
+experience with C# and Microsoft based platforms. Has built expertise in
+various .Net technologies within commercial projects in different business
+domains. Applies his technical expertise and strong development skills to
+design and develop efficient software solutions, based on clientsa€™ specific
+business and technical requirements. Excellent communication and
+organizational skills gained in multinational work environments. Strong
+analytical and performance engineering skills. Verse in agile software
+development (Scrum).
+
+EXPERIENCE
+
+-Net Developer
+Prime Software, NY
+e Planned, developed, tested, deployed, and maintained web
+applications.
+
+Sep 2016 - Jan 2020
+
+e Provided effective troubleshooting, debugging and remediation for web
+applications.
+
+* Wrote SQL statements and stored procedures.
+© Wrote automation tests
+© Worked well independently and within a team setting.
+
+e Effectively translated client requirements into complete application
+design, from database to project architecture, and systems
+requirements.
+
+e Successfully communicated with the client to gather more in-depth
+information about the assignment requirements.
+
+e Planned, developed, tested, deployed, and maintained windows desktop
+applications.
+
+Web Developer
+
+StangaOne1, NY
+
+* Developed, tested, deployed, and maintained smaller web applications
+and new application features.
+
+Mar 2016 - Sep 2016
+
+© Provided effective troubleshooting and remediation for web
+applications.
+
+:Net Developer Dec 2014 - Dec 2015
+Ilumnis, NY
+° Developed, tested, deployed, and maintained windows desktop
+application for processing large amounts of sales data for Honda Canada
+
+e Wrote SQL statements and stored procedures.

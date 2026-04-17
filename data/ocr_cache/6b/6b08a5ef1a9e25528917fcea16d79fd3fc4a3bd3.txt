@@ -1,0 +1,64 @@
+ROBERT SMITH
+
+Jr, Java Developer
+
+(0123)-458-780 | Emal:nfo@quikresume.com | Website: Gwkcosumacom
+
+Jt, Java Developer with 4 plus years of IT expariencs in all phases of SDLC such as Planning,
+‘Analysis, Design, Implementation, Tasting and Maintenance of Web-Based, Client-Sorvat and N-
+‘ier Architactures in domains like Finance, Telacam etc. Extonsive exparianca of designing and
+ddovoloping software applications with the EJB, Annotations, Java, JSP, Servlets, Java Beans,
+INDI, AJAX, JMS, ORM, JNDI, Wab services, JDBC, JAXP, RMI, XML, JavaScript, JQuary, CSS,
+Wob Services, SOAP
+
+CORE COMPETENCIES
+
+JAVA, J2EE, J2EE Design Paltems, EJB, STRUTS, Hibernate, Spring 3.0, Spring MVC, Servis,
+USP, SOAP Web Services, REST Web Services JMS, IBM JDBO, Java Beans.
+
+PROFESSIONAL EXPERIENCE
+
+dr. Java Developer
+Slate Of Michigan - Juno 2015 ~ Present
+
+Key Doliverabtos:
+
++ Involving in the cornpleto sottwars davaloprent Ife cycle including tequirament analysts,
+dosign, implementation, testing, and maintenance,
+
++ Actively involved in the analysis, data dasign, development, bug fixing and enhancement
+In agile methoxology,
+
++ Participating In scrum maatings as par of eration davalopmant process
+
++ Dalivating the now and complex high-quality solutions to elionts in response to varying
+business requirements
+
++ Litlizing the in-depth knowledge of functional and technical axpeianoe In Java/J2EE and
+thar leading-edge products and technology in conjunction with Industry and business skis
+tp daliver solutions to the customer,
+
++ Designing the application modules, bass classes and utlty classes using core Java:
+
++ Designing and implementing the customized exception handling to handle the exceptions
+In the application
+
+Junior Java Developer
+ABC Corp - 2014 - 2015,
+
+Key Deliverables:
+
++ Dosignad pattarns which will be used inthe design and development ofthe online forms.
+
++ Bult modern Python and Java software compononts that follow Industy-standard dosign
+ppattams, development methodologies, and deloyrmant models,
+
++ Collaborated wth other engineers throughout tha development procs,
+
++ Designed, devaloped, and tested the applications and APIs for davicas.
+
++ Amiculated and solved prablems with application design, davalopment, and usor
+experlonces
+
+2259 Oalk Stree, Old Forge, New York. 12420
+\© Thlc Free Resume Template ts the copyright of Qwikresume.com. Usage Guidelines

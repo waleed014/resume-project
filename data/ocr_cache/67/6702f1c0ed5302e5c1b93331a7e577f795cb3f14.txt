@@ -1,0 +1,44 @@
+PEG SPINKA
+
+776 SCHOEN TRAFFICWAY, PHOENIX, AZ
+
+PHONE
++1 (555) 556 4155
+
+EXPERIENCE ROGAHN, STOKES AND MURAZIK 06/2018 — present
+Chicago, IL // Senior DB Database Administrator
+¢ Oracle System Data Base Administrators install, troubleshoot, manage, secure and optimize
+Oracle Databases using multi-tenant architecture functions to manage and consolidate and
+secure data in both on-premise and cloud environments
+¢ Responsibilities include the administration, backup, and recovery of Oracle Database
+instances - including deployment, patching and upgrading databases
+International environment
+Working knowledge to support very large databases with heavy OLTP and batch activities
+¢ Working Knowledge performance monitoring & tuning
+¢ Working Knowledge Unix scripting (Shell/Perl) knowledge
+
+TURNER INC 07/2014 — 12/2017
+Chicago, IL // Mainframe DB Database Administrator
+¢ Working knowledge in HP Unix, Sun and NT platform
+¢ Configuration of Oracle database high availability features including Clusterware
+Infrastructure, Automatic Storage Management (ASM) and Real Application Clusters (RAC)
+¢ Use Oracle Data Guard and understand Clusterware manageability enhancements and
+capabilities to reduce planned and unplanned downtime. Use Oracle Database security ,
+application features and detective control features to meet security, privacy and compliance
+requirements while enabling secure access to the database applications
+
+EDUCATION SCHOOL OF THE ART INSTITUTE OF CHICAGO
+Bachelor's in Mathematics
+
+SKILLS ¢ Provisioning of (database) development and testing environments
+
+¢ Basic Knowledge of Oracle Memory and Physical Architecture, Data Dictionary and Packages
+
+¢ Monitoring different databases, addressing the alerts and taking necessary steps
+
+¢ We provide stellar benefits that range from health insurance to paid time off, sick leave, and
+parental leave!
+
+¢ You will support the following levels: Physical — responsible for the physical and technical
+oriented aspects e.g. storage, security, networking and more; Application — you will handle all
+application-related issues (e.g. queries, users, embedded SQL’ etc.)

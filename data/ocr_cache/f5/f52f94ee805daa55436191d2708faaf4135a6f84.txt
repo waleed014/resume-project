@@ -1,0 +1,57 @@
+Sap Abap Developer Phone: (123) 456 78 99
+
+Email: Infoequikresurme.com
+
+ROBERT SMITH Linked
+
+linkedin.comjquikresurne
+‘Address: 1737 Marshville Road,
+Alabarna,
+
+Objective
+
+Experienced .NET, JAVA and ABAP developer also a versatile application developer helping design,
+‘develop, maintain, and enhance client server and Web-enabled applications. Leaded development
+teams in the SAP FICO, MM, PP and SD rmodules based on the PW and ASAP methodologies,
+
+Skills
+
+7+ years of extensive experience in developing, ABAP Developer.
+Work Experience
+
+‘Sap Abap Developer
+‘ABC Corporation - August 2007 - March 2009,
+
+Developed reports and Interfaces resuiting in financial stability and positive cash flow.
+Configured and cross-trained CFM Transaction and Cash Mgmt Electronic bank staternent,
+lntra-day bank statement polling, cash postion, liquidity forecast, money markets
+(lendingyborrowing), fereian exchange deals, AP F110 payment program, TR F121 payment
+program, and cash concentration,
+
+Mapped and setup interfaces for electronic payment and bank statementilockbox processing
+with banks using SWIFT MTLOL and BAl2 standards
+Wrote ABAP specs for special auto-clearing af ACH payments
+Created SAPSCRIFT forms for dunning notices to be sent to the clients
+* Developed of enhancements, user exits, badis, coding standard, andl financial and hr reports,
+* Developed bapis with abap to json conversion, sending data by http to non-sap system,
+
+Sap Abap Developer
+
+Delta Comoration - 2002 - 2007
+Environment AIX UNIX Skills/Tbols SAPScript, ABAP, RIB Created forms for dunning notices to
+be sent to the clients,
+Also supplement manifests form, fax confirmation with tient and financial information form,
+Developed ticket vouchers to be shipped to cllents with itinerary information
+Applied SAP notes to correct run time errors In standard SAP pragrams,
+Developed an interface to communicate Apple Vacation central booking engine with the Hotel
+Rlu and other hotels booking engines,
+Developed a mirror engine Inside R/3 to allow the AMRasorts to have thelr own separate
+Inventory
+‘This prevented major Issues and simplified the process.
+
+Education
+
+Bachelors In Compuiter System Engineer - (UNAPEC University)
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

@@ -1,0 +1,53 @@
+ROBERT SMITH
+Associate AWS Devops Engineer
+
+Phone: (0123}-456-789 | Email: infodquikresume.com | Website: Quikrestme.com,
+
+More than 7 years of expertence in IT industry and experience working in Designing &
+“Archiecting Solutions on public Cloud on AWS platform. Experience in Linux
+“Aiministration, Configuration Management, Continuous Integration, Continuous
+Deployment, Release Management and Cloud Implementations. Highly expestenced in
+AWS Cloud platform and its features which includes EC2, VPC, EBS, AMI, SNS. RDS,
+EBS, CloudWatch, Cloud Trail, Cloud Formation AWS Config, Auto sealing, Cloud Front,
+IAM, SS, and R53.
+
+iioieage or mien, Roataage 6 oad eampiatg
+
+Key Deliverables:
+
++ Responsible for Creating the automated build and deployment process for
+application, re-engineering setup for better user experience. and leading up 19
+building a continuous integration system for all our products,
+
++ Experience developing ETL and Data Models using an ETL tool such as SAP Data
+Services; Informatica,
+
+perience In configuration management tool such as Anstble. Chef, and Puppet
+
++ Assisted in design and deployment of Cassandra rings Into AWS,
+
+* MulL-AZ and inside existing layered VPC network,
+
++ Creating the automated bulld and deployment process for application, re
+‘engineering setup for better user experience, and leading up to building a
+continuous integration system lor all our products
+
++ Implemented AWS solutions using EC2, 83. RDS, EBS, Elastic Load Balancer,
+Auto sealing groups,
+
+AWS Devaps Engineer
+Delta Corporation - 2013 - 2015
+
+Key Deliverables:
++ Abbott has a broad range of branded enene pharmaceuticals, medical devices
+diugnosties, nutrition products, including Ensure, a line of meal replacement
+
+shakes,
+
++ Responsibilities Technical leader to align processes and tools, such as branching,
+source control structure, dependency management, LinuxWindows hybrid build
+Infrastructure, code review, and check-in polietes, that are developed and
+instrumented by DeyOps teants across projects ulobally
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yaee Resume Template the copy of Quine com, Usage Guleinne

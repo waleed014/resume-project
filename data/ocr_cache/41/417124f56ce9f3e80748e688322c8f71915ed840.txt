@@ -1,0 +1,40 @@
+7
+Network Security Engineer / Photographer
+
+2wark DE « 6106
+
+MY VISION
+
+‘* To work with an intelligent team to provide professional resources to
+customers/friends and to build relationships that are honest and
+beneficial to all
+
+‘* To engineer cost effective solutions that ensure minimal downtime
+and a streamlined workflow.
+
+‘© To be an invaluable asset to a company.
+
+© To be willing to be informative and resourceful in any situation that
+occurs.
+
+WORK EXPERIENCE
+
+Excel Business Systems Network Security Engineer
+
+May 2006 - 2015 ‘© Checkpoint Firewalls R77.30 Gaia - R65 clustering, hardening, isp
+redundancy, threat emulation/extraction, HTTPS Inspection, IPS/IDS
+for Medical/Financial/Government Corporations
+
+* Intensive Reporting/Analysis for Security Hardening and Risk
+Assessment (Nessus-d, Qualys Inc. Splunk)
+
+‘© Vmware V-Sphere all versions clustering, fautt tolerant, HA.
+
+* Engineering Microsoft Remote Desktop Services including RD
+Gateway Server/Remote App/RDWeb).
+
+* Experience with Cisco ASA Appliances
+
+* Checkpoint Capsule Mobile Security Implementation
+
+‘+ Cloud SAAS Engineering and Implementation.

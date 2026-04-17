@@ -1,0 +1,54 @@
+FIRST LAST
+
+Bay Area, California - +1-234-456-789 - professionalemail@resumeworded.com : linkedin.com/in/username
+
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY 2017 - Present
+SQL Database Administrator
+e Increased overall company and departmental efficiency rate by 25% by providing adequate
+and optimum database performance with efficient backup and restore processes/policies.
+Saved $250K annually in lower-tech support calls by migrating from NT servers to VMware.
+Selected to lead SQL Password Project for Business Process Technology, which succeeded in
+restoring approved security for internal/external stakeholders and gained 100% feedback rate.
+e Analyzed and created capacity plans and projections quarterly for future database growth.
+
+Resume Worded, New York, NY 2015 - 2017
+SQL Database Administrator
+
+Provided knowledge transfer to 6 other DBAs through thorough sessions and presentations.
+Managed Resume Worded Database, working with 2 other teams in troubleshooting issues.
+Architected and implemented database schema, storing procedures and all reporting.
+Designed, developed, and implemented a dynamic SQL to significantly drop response time
+for queries against a 5-Terabyte database spread across seven different DB2 subsystems.
+
+e Developed a Management Reporting tool based on Java/JSP to maintain database systems.
+
+Growthsi, San Diego, CA 2012 - 2015
+Oracle Database Administrator (2014 — 2015)
+e Managed and enhanced Growthsi database and server repository, attaining 95% satisfaction.
+e Reviewed data backups and log files while working on deploying clustered Java application.
+e Designed and implemented incremental and full backup policies, increasing security by 56%.
+e Maintained knowledge on working with services and tools like HCP Service ticketing tool,
+TOAD, and Oracle Meta link to accurately deliver all company/departmental requirements.
+Involved in the process of tuning and refining SQL queries, analyzing TKProf, Explain Plan
+outputs for performance improvement, gaining an increase of 34% in overall operations.
+
+Junior Oracle Database Administrator (2012 — 2013)
+e Migrated Oracle applications to Oracle 10g on Linux Blade servers to enhance its processes.
+e Developed 50+ packages, procedures, and functions using PL/SQL to deliver business needs.
+e Built and maintained edit check procedures SAS, PL/SQL, ensuring operations continuity.
+
+EDUCATION
+Resume Worded University, San Francisco, CA 2015
+Bachelor of Engineering
+Resume Worded University, San Francisco, CA 2015
+
+Associate of Science in Computer Science
+
+SKILLS
+e SQL « PL/SQL e Linux’ « TOAD
+« SAS e Primary Database « DBA « TKProf
+« Backup Objects « Disaster Recovery e Explain Plan
+
+« Database ¢ Solaris « Oracle Meta « Rman

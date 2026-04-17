@@ -1,0 +1,88 @@
+Andy Koch
+29671 Andrew Pass, Los Angeles, CA @ Phone: +1 (555) 273 6215
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+INTERMEDIATE CORE JAVA DEVELOPER
+
+Detroit, MI
+
+01/2016 — present
+
+‘© Work on high performance market making and execution technology
+
+Primarily a server side development role, but with the potential to include client work
+
+Provide 3rd line of support
+
+Analyze, estimate, design, develop, test, support and maintenance of Equities Middle Office applications
+
+Perform Level 3 application support which includes resolving issues/user questions through investigation,
+
+research, and debugging the application
+
+‘* Hands-on Developer - design, code and test equities functionality on the Equities Middle Office platform
+
++ The role includes development (enhancements and significant strategic delivery) and level 3 support to the
+Global Equities Middle Office platform
+
+SENIOR CORE JAVA DEVELOPER
+New York, NY
+01/2011 — 08/2015
+‘+ Performing program design, coding and development - Performing unit and integration testing
++ Directly and virtually work with a team of professionals to clearly define and execute improvements in
+Retail and Institutional Equities businesses
+‘+ Directly impacts the business by ensuring the quality of work provided by self and others; works closely
+with other teams as partner
+‘+ Perform program design, coding and Development - Performing unit and integration testing
+‘* Design and develop pricing and risk components to support the market-making business working across
+Equities, FX and Commodities
+‘© Unified Development environment (Developers systems as well as servers)
+‘© Develop and maintain a large scale data management solution built upon today’s latest technologies
+
+‘CORE JAVA DEVELOPER
+‘San Francisco, CA
+06/2007 — 12/2010
+‘Providing 3rd level support by working with the frontline production management team
+‘+ Responsible for people Management, including goal setting and providing performance feedback
+‘© Ensure quality of the developed part of component(s) / work product(s) (conformance with development
+process) and its technical delivery
+‘+ Responsible for developing multi-tier websites, the full cycle: analysis, design, development, testing, and
+documentation
+‘* Work closely with the Product Management, Support, and Test Engineering teams to achieve the highest
+business value for the company
+‘© Submit the work products into the software configuration management,
++ Be extremely strong technically; have the knack of developing/supporting strategic frameworks
+
+LIBERTY UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Strong ability to learn existing applications quickly and to be able to make modifications
+
+Good Knowledge of database fundamentals and ability to write efficient SQLs
+
+Strong OO design skills with good knowledge of object modelling and design patterns
+
+8) Good communication ability and technical presentation ability (oral and written)
+
+Strong communication and interpersonal skills, including the ability to develop and maintain effective
+
+relationships with users and vendors
+
+‘© Strong interpersonal and communication skills. Abi
+distributed teams
+
++ Strong knowledge of the UNIX/Linux Operating system: shell scripting
+
++ Investment industry knowledge, particularly in the areas of Fixed Income Trading and Portfolio.
+Management, is a strong
+
+‘Strong knowledge of SQL and Sybase
+
+‘© Experience in onsite/ofishore coordination is highly desirable
+
+to work with multi-cultural and geographically

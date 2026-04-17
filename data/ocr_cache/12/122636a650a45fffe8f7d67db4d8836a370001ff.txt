@@ -1,0 +1,123 @@
+JOHNATAN WRIGHT
+
+Google Cloud Platform certified DevOps Engineer
+& +1-854-831-1367 larry.tiang@gmail.com
+9 Richmond, VA
+
+SUMMARY
+
+Spent 10 years developing the skills to increase velocity, reliability, and
+quality with a high focus on security. Deep experience with Google
+Cloud Platform, Docker, Kubernetes, and helping organizations instill
+DevOps for the modern age.
+
+EDUCATION
+
+B.S. Computer Science cpa
+University of Richmond
+
+a 3.85 / 4.0
+@ 2006-2010 @ Richmond, VA
+
+EXPERIENCE
+
+DevOps Engineer
+
+illed
+
+& 2018- Present @ Richmond, VA
+
+Billed is an American software company that develops financial and tax
+
+preparation software and related services for small businesses, accountants
+
+and individuals.
+
++ Managed a Chef environment with 250 roles, 400 cookbooks, and 3,000
+nodes
+
++ Completed data automation project 3 months ahead of schedule and
+$80K under budget for our manufacturing sites in China
+
++ Maintaining 24 hours operations, and ensuring 99.9% uptime for the
+servers, performing backups ofall servers
+
++ Implemented Dockers to enhance developer productivity by 30% and
+server consolidation and Management by 20%
+
+DevOps Engineer
+
+Lessard
+
+@ 2013-2018 Richmond, VA
+
+Lessard is a software development outsourcing company, delivering products
+
+ranging from web and mobile applications to complex back-end solutions,
+
+mainly for the US market.
+
++ Dramatically reduced development overhead by removing over 50,000
+lines of deprecated code from the baseline of a $1.2M project
+
++ Automated software and infrastructure deployments for over 32 software
+projects across 4 lines of business
+
++ Maintained and optimized a 40-node Elasticsearch cluster that collects 1
+billion documents dally
+
++ Ensure availability of Production and Development systems based on
+Google Cloud Platform - EC2 and EKS
+
+‘www.enhancv.com
+
+@ github io/larry.liang
+
+SKILLS
+
+Programming Skills
+
+JavaScript. Java Bash PHP.
+
+Databases & Cloud services
+MySQL PostgreSQL_-_ MongoDB
+
+Redis Oracle WebLogic GCP
+
+Tools
+Packer Docker —_Kubernetes
+
+An
+
+le Puppet
+Development
+
+TDD CI/CD _ Incremental Releases
+
+Pipelines Agile Jenkins Chef
+
+CERTIFICATION
+
+WebLogic Implementation Specialist
+Oracle, 2020
+
+Certified Agile Practitioner
+PMI, 2017
+
+Professional Cloud DevOps Engineer
+Google Cloud Platform, 2014
+
+Professional Cloud Architect
+Google Cloud Platform, 2013
+
+Certified Ruby Programmer Gold
+Ruby Association, 2012
+
+STRENGTHS
+
+@ Communication
+
+Open-minded, outgoing and patient in
+conversations with others.
+
+Powered by CX) Enhancu

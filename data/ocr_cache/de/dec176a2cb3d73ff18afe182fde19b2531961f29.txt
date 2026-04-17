@@ -1,0 +1,145 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+Experienced Electronic Data Interchange Analyst with a demonstrated history of working in the automotive
+industry. Skilled in Operations Management, Management, SAP ERP, Continuous Improvement, and ISO
+Standards. Strong information technology professional graduated from Limestone College.
+
+‘+ Organization and Time management ‘+ Adaptability
+‘+ Self-motivated professional + Team Leadership
++ Teamwork ‘+ Operations management
+‘+ Flexible & Adaptable ‘+ Logistics Operations
+‘+ Multitasking abilities + Data analysis
+‘+ Analytical skis + Team Leadership
+‘+ Project Management ‘+ _ Interpersonal Communication
+EDI/SAP FUNCTIONAL ANALYST 07/2016 to CURRENT
+
+Cargill, Inc. | Mentone, IN
+
+EDI implementation for automotive — EDI (X12/EDIFACT/VAN/OF TP) — Support third-party EDI development
+staff with the document mappings while managing ED/-related developments with the customer by
+Coordinating the testing, implementation, and approvals
+
+Responsible for analyzing and designing specifications used for enhancements and extensions in EDI
+applications, interfaces, mappings, cutover plans, and activities
+
+‘SAP implementation and support of EDI, SD, MM, PP. and LM modules
+
+Prepare cutover plans and help deployment team in cutover activities,
+
+Interpret end users’ problems with the ERP system: EDI data loads; supplier portal posting: or, production line
+programming as related to EDI or the ERP system: answering questions, and providing solutions with minimal
+or no supervision for all business units including production tine areas — over the phone
+
+Design and develop trading partner barcode shipping labels as per customer specification with the occasional
+aid of the ERP development staff
+
+ITICIANUFACTURING DEVELOPMENT 09/2010 to 06/2016
+Advantest America Corporation | Chandler, AZ
+
+Program manager of the QAD implementation
+
+Project manager of the EDI implementation (X12/VAN)
+
+LLialsed with third party supplier and coordinated resources for production line program development to meet
+customer sequencing, labeling, and shipping requirements during QAD implementation
+
+Set up and maintained ERP system roles and responsibilities for QAD and Trans4m
+
+Provided support for system functional, operational, and technical issues
+
+Maintained EDI and Manufacturing Business Analyst role and responsibilities
+
+ECOAND MANUFACTURING BUSINESS ANALYST 08/2005 to 08/2010
+Barrett Business Services | Bountiful, UT
+
+Coordinated projects and provided accurate end-user information based on complex analysis
+
+Worked as a team member on department projects to include design, development, planning, implementation,
+and support roles
+
+Collaborated with various business units in the organization to facilitate implementation of new or improved
+reporting processes and functions
+
+Identified and resolved systems issues using ERP solutions
+
+Designed and developed trading partner barcode shipping labels as per customer specification with the
+occasional aid of the ERP development staff
+
+Documented work instructions for the end-user on all trading partner specifications and shipping labels,
+Designed and developed production tine identification labels per business specification with support of
+production line program development staff for implementation
+
+‘Analyzed and designed specifications used for enhancements and extensions in EDI applications, interfaces,
+and mappings,
+
+Continued Technical Services Specialist role and responsibilities
+
+TEOHNICAL SERVICES SPECIALIST 06/2001 to 08/2005
+Mekra Lang North America | City, STATE,
+
+Confirmed program objectives and specifications by testing new programs: compared programs with
+established standards, making necessary modifications
+
+Evaluated vendor-supplied software by studying user and production line objectives then tested software
+compatibility with existing hardware and programs
+
+‘Supported ERP implementation and installation of Transam
+
+Organized and assisted third party support to create applications, programs, and interfaces for production
+lines
+
+‘Suppor third party EDI development staff with the document mappings while managing EDI-related
+developments with the customer by coordinating the testing, implementation, and approvals
+
+Set up and maintained ERP system roles and responsibilities for Trans4m
+
+SYOTEM ADMINISTRATOR 04/1997 to 06/2001
+Hansen International, Inc | City, STATE
+
+Sustained three locations
+
+Maintained network; hardware: internal phone system; company phones and pagers; and, computer systems
+and network servers
+
+Provided documentation and technical specifications to executive management for planning and implementing
+ew of upgrades to the IT infrastructures
+
+Assisted helpdesk support efforts by making sure all desktop applications, workstations, and related
+equipment problems were resolved promptly with minimal or no supervision for all business units including
+production line areas
+
+‘Supported an ERP implementation and installation of MAS9O
+
+DACA ENTRY 01/1995 to 03/1997
+Hansen International, Inc | City, STATE
+
+Performed work order entry and reporting for production lines
+
+‘Supported ERP implementation of MAS9O
+
+Project Management Certficate | Project Management 06/2018
+University of South Carolina - Columbia, Columbia, SC
+
+Ercerprise Resources Planning (ERP/SAP) Certificate | Business 0672017
+Georgia Southern University, Statesboro, GA
+
+BaOhelor Of Science | Information Technology 06/2000
+Limestone College, Gaffney, SC
+
+Cccaputer Operator Certificate | Computer Science And Programming 06/1992
+Allegheny College, Meadville, PA
+
+‘+ C_TERP10_67 Application Associate - Business Foundation & Integration with SAP ERP 6.07 - 2017

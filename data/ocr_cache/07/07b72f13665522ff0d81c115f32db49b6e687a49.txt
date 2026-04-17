@@ -1,0 +1,58 @@
+JOHN
+DOE
+
+MANUAL TESTER
+9+ YRS EXP.
+New York City, US
+
+Manual_taster@example.com
++16464598547
+
+SUMMARY
+
+Excellent knowledge of Oracle, MySQL, Linux, Test Link,
+Bugzilla, plus programming software such as C++ and
+JavaScript. | am confident my experience and expertise as
+a Manual/Test Manager shall be valuable for Ichor
+Business Innovations.
+
+PROFESSIONAL EXPERIENCE
+
+HCLINFOSYSTEMS - PHILADELPHIA, US MAR 2016 - PRESENT
+
+SENIOR MANUAL TESTER
+
+Provide recommendations to improve the development
+process.
+
+Provide exploratory testing for the systems.
+
+Write and execute test cases.
+
+Provide guidance and Supervision to more junior testers.
+
+Knowledge of Jira - defect tracking tool and test case
+management tool.
+
+Provide consistent and clear status in verbal and written
+communications.
+
+Write clear and concise defect reports.
+
+INFOSYS - LOS ANGELES, US AUG 2010 - JUL 2015
+
+QA MANUAL TESTER
+
+Assisted and cooperates with co-workers, supervisor and
+management.
+
+Partner with Development Manager in collaborating
+between engineers and QA.
+
+Performed all duties in accordance with established
+Company goals.
+
+Performed technical analysis to identify the scope and
+schedule for upcoming projects and individual work items.
+
+Participated in all aspects of product testing, including test

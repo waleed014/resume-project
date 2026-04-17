@@ -1,0 +1,62 @@
+First Last
+
+ETL Developer
+
+Indianapolis, Indiana + +1-234-456-789 + professionalemail@resumeworded.com * linkedin.com/in/username
+
+WORK EXPERIENCE
+
+Resume Worded, New York, NY 09/2015 — Present
+Education technology startup with 50+ employees and $100m+ annual revenue
+
+ETL Developer
+
+e Designed a new database to manage the inventory of over 3K products, which improved business efficiency
+by 68%.
+
+e Created and executed a custom script to spool 1.7K reports for the company's website within 24 hours, a
+15% improvement from previous years.
+
+e Championed the migration of 85 legacy databases from Oracle to SQL within 30 days of employment.
+
+e Relocated existing data flows for the accounts of 20K clients, overhauling an obsolete system and reducing
+end-user waiting times by 50%.
+
+Polyhire, London, United Kingdom 10/2012 — 08/2015
+NYSE-listed recruitment and employer branding company
+
+Software Developer
+
+e Created a user interface as a single-page application using React and MobX, which increased the
+productivity of 5K users by 90%.
+
+e Introduced a functionality that supported 3.5K disconnected client machines, allowing 1M customers to
+work offline without losing data
+
+e Designed an information dictionary generator that produces documentation for 2.7K developers as
+spreadsheets and web pages.
+
+Growthsi, London, United Kingdom 01/2010 - 09/2012
+Career training and membership SaaS with 150,000 paying users
+
+Data Coordinator
+
+Supervised a data center for 12 web-based tracking database applications used by 10M users worldwide.
+Boosted development process via code refactoring and continuous integration, increasing build quality by
+40% in 14 weeks.
+
+e Created a cross-reference table and a relational data model that managed 500 metadata objects with 1.1K
+unique attribute values.
+
+Database Programmer, ABC Company, London, United Kingdom 10/2008 — 12/2009
+SQL DBA, XYZ Company, London, United Kingdom 07/2005 — 09/2008
+EDUCATION
+
+Resume Worded University, New York, NY 06/2005
+
+Bachelor of Technology — Computer Science
+
+SKILLS
+
+Hard Skills: Debugging (Advanced), Data Testing (Experienced), Data Extraction, Code Troubleshooting.
+Techniques: Data Warehouse Building, Dimensional Modeling, Data Extraction & Storing (Advanced).

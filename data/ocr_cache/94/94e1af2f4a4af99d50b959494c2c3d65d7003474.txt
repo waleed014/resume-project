@@ -1,0 +1,111 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor
+(855) 432-1000 - resumesample@example.com
+
+Summary
+
+Certified data analyst and an SQL developer with 3+ years of hands-on experience handling all aspects of the design, creation, and
+maintenance of developing SQL databases while writing applications to interface with them.
+++ knowledge of AWS technologies, such as VPC, EC2, RDS.
+‘+ Experience in writing and debugging bash scripts
+‘+ Comfortable reading and understanding code written in Python, VBA, and JavaScript
+‘+ Well verse with design and development of presentation layer for web applications using technologies like HTML, CSS and JavaScript
+‘+ Comfortable with Flask web development and dashboarding for visualization
+‘+ Well familiar with CNN model for image recognition and more
+‘+ Comfortable with Spark and Scala programming language for big data
+‘+ Proficient on developing and implementing predictive models using natural languages processing Techniques and machine learning
+algorithms such as Linear Regression, Multivariable regression, K-mean clustering, Naive Bayes, Random Forest and Decision Tree,
+KNN, PCA and regularization for data Analysis
+‘+ Expertise scripting and automating repetitive tasks with Python
+‘+ Excellent communication and interpersonal skills, self-motivated, quick learner, determined to learn Technical Skills and new
+technologies, strong troubleshooting skills with excellent interpersonal and teamwork skills
+
+Sums
+
++ Data analysis & visualization, Math, Data structure & Algorithms, * Operating system: Linux, Microsoft Windows, macOS
+Relational Database, EC2 AWS, ETL, SSRS, SSIS, ORM, Object + Framework: Flask
+Oriented Programming. Agile/Scrum Methodology, RDMS
+Development and SQL, Web Programming, Machine Learning &
+ALPySpark, Scala
+‘+ Programming Languages: Python, JavaScript, R, MSSQL, PL/
+squ
+
+EXPERIENCE
+
+06/2019 to Current Part-time Programming Instructor (Python, SQL,...)
+Kelser University — Pembroke Pines, FL
+* Utilized Slack to inform students of course requirements, evaluation procedures and attendance requirements.
++ Performed assessments focused on long and short-term student needs to develop individualized education program.
++ Established objectives for lessons, modules and projects.
++ Observed and evaluated student performance and development and provided appropriate feedback on work
+
+08/2017 to Current Mathematics Instructor
+Servicetitan — Columbus, OH
+* Collaborated with parents and teachers to determine student needs, develop tutoring plans and assess student
+progress.
++ Assessed students for math anxiety disorders and provided appropriate recommendations for support.
++ Designed individual tutoring plans for students of different levels
+* Utilized positive reinforcement techniques to encourage and motivate students
+* Coached students through challenging material with positive reinforcement and encouragement.
+* Developed handouts, study materials and quizzes.
+* Tutored freshmen in college-level math courses, coordinating tutoring hours with lab instructors and teachers.
++ Established high level of proficiency advanced math concepts.
+
+02/2020 to 10/2022 Junior SQL Developer
+Cigna - City, STATE
+SSMS, T-SQL.PLISQL, Python , JIRA, Visual C++, SPRING, SOAP, REST, Hibernate
+* Developed, deployed and monitored SSIS Packages for new ETL Processes.
++ Creating updating, and deploying quality T-SQL codes, stored procedures, views, functions, triggers and jobs
+* Updating and enforcing security procedures assuring 15% less breach risk
++ Tested databases and performed bug fixes.
++ resolve program architecture issues and reduce support requests by more than 30%
++ Normalized 3 databases which helped reducing duplicate data, significantly improving marketing segmentation,
+and enhancing performance and metrics by more than 90%
++ Maintenance and support of SQL server Mirroring, Log shipping, Clustering, and other methods of disaster
+recovery
++ Working with business stakeholders, application developers, and production teams and across functional units to
+identify business needs and discuss solution options.
++ - Designed and developed and maintaining SSRS reports in TFS and VS based on BRD documents and Stored
+procedures and deploying all reports to PMO environment
+* Developing highly efficient algorithms in C++ through both pair programming and independent work
++ The algorithms improved inventory management benchmarks 18 percent
++ Updating status on work through JIRA.
+
+03/2016 to 03/2019 Python Data Analyst
+Johnson & Johnson - City, STATE
++ Implemented Python scripts to automatically sync data between different storage server depending on current
+available space and remote location. reduce data processing time by 60%
+* Conducted data analysis with pandas, numpy, and skleam to prepare forecasts and identify trends.
++ Recommended metrics and models based on observed trends.
++ Partnered with data scientists to support ongoing research and analytics initiatives.
++ used salalchemy and flask for web dashboarding first lifecycle
++ using flask to jsonify the data retrieved from the sql database
++ Synthesized business intelligence or trend data to support recommendations for action.
++ Analyzed competitive market strategies through related product, market or share trends.
+
+EDUCATION AND TRAINING
+
+112018 Associate of Science: Computer And Information Sciences
+Houston Community College - Houston, TX
+
+08/2012 Bachelor of Science: Mathematics
+‘Marien Nguoabi University - Congo
+
+Acrivimtes aNp Honors
+
+‘© Sustainable Environment Awareness (SEA)
+‘+ Member of the phi theta kappa Honor society
+
+(CeRniricarions
+
+‘© Data Analysis & Visualization, Rice University - 2020
+
+Wessrres, Portrorios, PROFILES
+«+ https/fkoud-Jessica github io
+LANGUAGES
+English: French:
+Negotiated: Negotiated:
+Spanish:
+
+Negotiated:

@@ -1,0 +1,42 @@
+NAME
+PROFILE
+
+‘An IT professional currently pursuing MSc Information Technology Capable of quickly
+adapting to changing environments, flexible and a committed individual with excellent
+‘communication skills. Have core competencies in System Center Operations Manager
+and Windows networking.
+
+SKILLS
+Good knowledge in System Center Operations Manager
+“Thorough knowledge in Windows 2000/2003/2008 networking environment
+“Fully proficient at LAN, WAN, and Wireless building, cable installation and testing
+Extensive knowledge in Microsoft Windows Platforms (9.x, NT, 2000, 2003, 2008,
+Exchange Server, Active Directory
++Exchange Server 2003, 2007
+Configuration and Managing of Servers and Workstations
+«In-depth knowledge in Microsoft Windows 2000, 2003 & 2008 Active Directory
+Extensive knowledge in Computer Hardware
+«Extensive knowledge in Symantec Backup Exec
++Good troubleshooting skills
+Now Leaning System Center Data Protection Manager
+
+WORK EXPERIENCE
+Feb 2011 - Date working with Confidential as an IT system Administrator (Foundations
+Business Continuity Team)
+
+“Maintain SCOM 2007 What's Up Gold on a dally basis
+
+Configures and maintains SCOM in the LAB/Dev environment.
+“Assist Branch offices with backups (Symantec backup Exec)
+
+“Assist with AD and Exchange with branch offices related issues
+
++Maintains and configure Microsoft Forefront and mail allve
+
+«Prepares and delivers system performance statistics and reports weekly (disk usage,
+forefront reports)
+
+“Configures software changes in Spotlight on AD, What's Up Gold, SCOM, and Spotlight
+on AD
+
+Update alerts and work with customers to setup and maintain alerts that fit their

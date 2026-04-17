@@ -1,0 +1,123 @@
+Joshua Nelson
+Proficient React Developer | Front-end Specialist
+
+help@enhancv.com linkedin.com Fort Worth, Texas
+
+SUMMARY
+
+Highly skilled React Developer with over seven years of professional experience. Proven
+ability to develop user interface components with React.js and troubleshoot complex
+issues. Have made significant contributions in creating high-quality code with excellent
+uptime and optimized performance. Excited about implementing robust and innovative
+solutions.
+
+EXPERIENCE
+
+Senior React Developer 2018 - Ongoing
+
+IBM Austin, Texas
+
+Collaborated with a team in developing, testing, and ensuring the robustness of key user
+
+interface components.
+
+* Developed reusable React.JS components, improving code manageability and reusability by
+60%
+
+* Optimized the system's overall performance, reducing loading time by 30% across different
+web browsers.
+
+* Spearheaded the translation of UI/UX design to actual code which resulted in an enhanced
+user interface.
+
+React Developer 2016 - 2018
+Microsoft Dallas, Texas
+Developed high quality interface components and ensured its robustness in collaboration with
+other team members.
+
+* Managed project end-to-end, reducing project cycle time by 20%.
+* Increased application performance by 45% by optimizing the web components.
+* Implemented a variety of front-end tools to aid the team in streamlining project execution.
+
+Front-end Developer 2014 - 2016
+Oracle Houston, Texas
+
+Worked with React tools and focused on code quality and reusability for future projects.
+
+* Created an innovative front-end library resulting in 35% faster product development cycles.
+
+¢ Improved front-end coding standards resulting in 25% increase in team efficiency.
+
+* Introduced and implemented browser-based debugging, improving troubleshooting
+efficiency by 40%.
+
+EDUCATION
+
+Master's degree in Computer Science 2012 - 2014
+The University of Texas at Dallas Dallas, Texas
+Bachelor's in Information Technology 2008 - 2012
+
+College Station, Texas
+
+Texas A&M University
+
+LANGUAGES
+
+English Native eeeece Spanish Advanced eee
+
+STRENGTHS
+
+®@ Technical proficiency
+
+Expertise in React.js, JavaScript, CSS,
+and HTML. | have proven experience
+in developing and optimizing user
+interface components.
+
+Problem-solving skill
+
+Strong ability to debug code,
+troubleshoot issues, and implement
+robust solutions to coding problems.
+
+Team collaboration
+
+Skilled at working collaboratively
+with a team in developing and
+ensuring the robustness of front-end
+components.
+
+SKILLS
+
+React.js - JavaScript - CSS - HTML - Redux -
+Flux - Webpack - Enzyme -
+
+Material Ul Component Library -
+Performance Testing -
+
+Project Management - Troubleshooting -
+
+User Interface Design
+
+CERTIFICATION
+
+Advanced React.js
+
+Developed advanced skills in React.js
+through a professional course provided by
+Udemy
+
+Front-end Web Development
+
+Learned advanced front-end languages
+and tools via a course provided by
+Coursera
+
+PASSION
+
+9 Continued Learning
+
+Passionate about enhancing my
+technical skills and learning new
+technologies in the constantly
+evolving field of web development.

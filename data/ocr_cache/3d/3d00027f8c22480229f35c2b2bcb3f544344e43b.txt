@@ -1,0 +1,185 @@
+Susmary
+
+Jessica CLAIRE
+
+100 Montgomery St 10th Floor
+(555) 432-1000 -resumesample@example.com,
+
+Offering 10 years of progressive experience in owning web-based projects from concept and design through testing, implementation and
+client updates. Diligent about producing exceptionally clean, strong and secure code. Successful at achieving device and operating system
+compatibility objectives while sting client desires and producing bust, sophisticated designs. Analytical problem-solver with top-notch
+organizational, scheduling and code verification skill, Expertise in Python, Django Test Framework and Ansible scripting,
+
+Semis
+
++ Scripting Languages: Python, Ansible and shell + Version Control Systems: Git, Github
++ Back-End Programming: Python, Django Rest Framework and + DevOps Engineering: CICD with concourse and Jenkins
+
+ORM + Application Development
+‘+ Analytical Thinking + Databases: MySQL, MongeDB, Redis
++ Agile Software Development + MVC Architectare
+‘+ Web and Application Servers with Linux, Apache, Neiinx and
+MySQL servers
+Exrennxce
+
+01/2018 to Current Backend Web Developer - Python.
+
+Infosys Ltd — Normal,
+
++ Gathered, defined and translate client requirements into produc stores and actionable tasks.
+
++ Wrote reusable, testable and efficient code using Python.
+
++ Performed code review for peers and provided recommendations for improvements
+
++ Troubleshot, tested and remedied issues before softvare deployment
+
++ Worked closely with business partners to create and deliver high-value solutions to meet thet needs.
+
++ Analyzed Business and System Requirements assessing the customers needs, validating them and preparing
+fonctional specifications.
+
++ Designed, Developed and architected Automation tool to provision, validate and certify the Versa Network
+‘components using Django res framework, MySQL and Robot framework.
+
++ Developed infrastructure monitoring framework using celery scheduler, Redis sentinel cluster, python and django
+‘est framework by developing KPI use cases and implemented and monitored large mumber of Linux and Versa
+‘components
+
++ Developed and deployed CICD pipelines using concourse ci application and ansible scripts to build and deploy
+‘web application in various environments like Qa and Production with blue green deployment
+
++ Developed a MaaS (Monitoring as Service) architecture for live monitoring n-number of Linux servers by using
+Prometheus, Telegraf, Alerta and Grafana dashboard open source tools and added custom metrics libraries using
+python
+
++ Worked on Django rst framework with router based URL. and endpoint creation forthe huge endpoint
+‘management in the Micro service and ORM architecture with MySQL and MongeDB.
+
++ Worked on Creating Terraform workspace to orchestrate VM provisioning in OpenStack cloud and automated
+deployment and managed Versa Network platform infastructre,
+
++ Developed a python script using Iperf modules to test DTOS on the Linux servers and Versa controllers
+
++ Worked on Versa Component connectivity (Controllers, Analytics), CPE Onboarding and High Availablity related
+
++ Worked on MongoDB with Django rest famework and ORM architecture for handling and storing data inthe
+'SDNet provision orchestrator
+
++ Developed python script to cleanup Nexus rtifactory using the Nexus API and scheduled deployment using
+Jenkins
+
++ Developed provision system on python scripts to provision SDWAN networking using Versa Networks API called
+'SDNet working with Kafka, Zookeeper and apache spark
+
+‘+ Worked on Dockers and Kubemetes for automating the web application deployment
+
++ Defined and conducted design processes at all stages, including research, conceptualization, testing and
+implementation.
+
++ Developed performance metrics collection scripts using Python with Versa networking API and automatically
+generate Excel workbook and Metrics Graph
+
++ Developed Ansible and Python script fr automating deployment and maintenance task like scheduling script
+execution and alarm log export, restore and achive logs using proxy connection for large numberof servers
+
++ Created Orchestration 1 provision SDWAN versa networking developing python, Django rest API, ORM and
+‘MongoDB along with Kafka, Zookeeper Queving system
+
++ Worked on Elastic search, Kibana and Log stash (ELK) to forwarding logs and monitoring logs. Also automated
+‘Log monitoring and Validations using application developed in Python API
+
++ Using Python Elastic search API sutomated Kibana log monitoring and indexing to add monitoring and validating
+in the Test automation tool
+
++ Developed a python script on automating the configuration for Arista switch for port turn-up and shutdown
+‘operations and Wyos router
+
++ Worked on automating Virtual machine deployment and operations using the Python OpenStack APTS like Nova,
+‘Neutron, Keystone and Glance API.
+
++ Developed Ansible playbooks to deploy web servers and integrated with Jenkins, Sonar and Nexus Artfactory to
+Implement CICID for quick and automatic deployments.
+
++ Conttibuted in Mitaka OpenStack version open source development to create Neutron network element using
+ansible.
+
+042016 1901/2018 Python Developer
+
+[Bao ~ Boca Raton, FL
+
++ Analyzed code and corrected ero1s to optimize output.
+
++ Worked closely with systems analysts, engineers and programmers to understand limitations, develop capabilities
+and resolve software problems.
+
++ Implemented new API routes, architected new ORM structures and refactored code to boost application
+performance.
+
++ Programmed applications and tools using object-oriented languages with goals of code abstraction, stability and
+
++ Mentored entry-level Python development personnel, providing both intemal and extemal positions with technical
+suidance and education.
+
+‘+ Managed project parameters, scheduled development milestones and set engineering goals with data science team.
+
++ Analyzed usr needs and software requirements to determine design feasibility
+
++ Developed End to End testing strategy using python and ansible to creat virtual machines in openstack with versa
+images and provision them and testing the connectivity and network functionality of system and provide the results
+
++ Developed performance mets collection scripts using Python with Versa networking API and automatically
+generate Excel workbook and Metrics Graph
+
++ Worked on Automated using python for configuring IPSEC Vic LAN tunnels with AES encryption and Configured
+LLAN side BGP by connecting the Extemal peer routes like Wyos and linux VM
+
+(062012 1 04/2016 Application Support Developer
+
+TATA Consultancy Service Ltd - Microsoft Offshore ~ City, STATE
+
++ Assessed code during testing stage to determine potential pitches and bugs.
+
++ Collaborated with support team to assist client stakeholders with emergent technical issues and develop effective
+solutions,
+
++ Code bugfixes & enhancements in functionality for existing splications
+
++ Created a Python script to automate user creation and migration of Linux and MySQL. data from Unix environment
+‘to Azure environment and SQL server
+
++ Automated the Bugzilla application deployment in Linux environment using shell scripting
+
++ Worked on Nagios server monitoring system like configuring, alerting and monitoring the Linux and MySQL.
+
++ Worked on PADTI application to inteprate Bugzilla defect tracing tool with Perforce source code system
+
+‘+ Worked on Unix sell scripting to monitor Unix and MySQL environment
+
+‘+ Developed a PERL script to creating and retrieving bulk data components in MySQL environment
+
++ Resolved customer isues by establishing workarounds and solutions to debug and create defect fies.
+
++ Designed taining materials and reference guides for end-users.
+
++ Performed troubleshooting of post release software faults to support live service and inetalled software patch
+design
+
++ Coordinated system installations, testing and code cortections.
+
+Epucarion xp TRAINING
+
+ov2012
+
+Laxcuaces
+
+‘Bachelor of Science: Production Engineering
+Government College of Technology - Coimbatore
+
+(Cerrmicarioxs
+
+English: ‘Tamil
+Negotiated: ‘Negotiated:
+
++ Certified Python Developer Certification in Vskills certification
++ Centiied Django Developer Cetfication in Vakills certification

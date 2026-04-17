@@ -1,0 +1,105 @@
+CHACE LEGGE
+
+SQL Developer
+
+% 929-241-5448
+9 London, UK
+
+@ anna.foley@example.com
+
+EDUCATION
+
+Master of Computer Science GPA
+
+University of London
+€4 2006-2010 9 London, UK
+
+3.85 / 4.0
+
+MY TIME
+
+@ 6 Support
+
+eo Clearing roadblocks for my
+team
+
+e Recharging with friends and
+family
+
+(D} Analysis
+
+e Project Management
+
+@e@ Attending University
+
+EXPERIENCE
+
+SQL Developer
+
+WESCO
+
+3 2015- Ongoing 9 Irving, TX
+
+* Lead a team of 40 people in database support for a Banking Customer in
+aspan of 3 years
+
+Managed the work of up to 10 remote software developers at a time
+using Slack, Gmail, and Jira
+
+Converted 100000 lines SQL in 2500 lines of optimized C#
+
+SQL Developer
+
+Revenue Systems Inc
+
+4 2011-2015 9 London, UK
+
+* Defined and streamlined 32 processes using SQL Server and SSIS
+packages
+
+* Managing a team of 3 Data Analysts and 2 ETL developers
+
+Junior SQL Developer
+
+VincentBenjamin Inc
+§ 2010-2011. 9 London, UK
+
+www.enhancv.com
+
+% www.example.com
+
+MY LIFE PHILOSOPHY
+
+The ladder of success is best climbed
+by stepping on the rungs of
+opportunity.
+
+Ayn Rand
+
+PASSIONS
+
+p Travelling
+
+(23) Soccer
+
+SKILLS
+
+SSRS | | sQL | DDL | | T-SQL | | ETL |
+
+4GL DB administration
+
+Table design | C#
+
+LANGUAGES
+
+English Native
+
+French Proficient
+
+FIND ME ONLINE
+
+in /chacelegge
+
+W @chacelegge
+
+Powered by (CX? Enhancy

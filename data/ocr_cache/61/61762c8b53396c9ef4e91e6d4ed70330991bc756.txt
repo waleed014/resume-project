@@ -1,0 +1,89 @@
+Clarissa Flatley
+8418 Walter Street, Philadelphia, PA # Phone: +1 (555) 997 3158
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+JUNIOR JAVA DEVELOPER SPEECH APPLICATIONS
+
+Phoenix, AZ,
+05/2015 — present
+
+Development and unit testing of applications
+Support QA teams, both internally and externally, with bug triage and resolution
+
+‘One or more scripting languages such as JavaScript, Perl, PowerShell ete
+
+Software Programming languages Java, J2EE. .Net also useful
+
+Support customers’ operations teams in the deployment and configuration of Nuance applications and
+technologies
+
+‘* Exposure business-to-business integration using WSDL, SOAP, REST etc
+
+Creation of test stubs
+
+JUNIOR JAVA DEVELOPER RATES ETRADING
+
+Chicago, IL
+03/2011 - 12/2014
+
+Lead (develop, motivate and manage) small to medium sized groups of developers
+Work with PMs and management to plan and execute projects
+
+Design, develop and test software following standard software development processes
+
+Identify technical problems to address or improvements to make
+
+Ensure all phases of software development lifecycle are followed
+
+Support BAs, PMs and management as technical SME
+
+‘Actively seek out and resolve blocking issues: resourcing issues, conflicts within team, conflicting interests,
+lack of clarity, external dependencies, etc
+
+JUNIOR JAVA DEVELOPER
+
+‘Los Angeles, CA
+07/2004 10/2010
+
+Participating in resolving technical issues that arise during development
+Participating in the development of software in a variety of languages to include, but not limited to java,
+Perl, PHP
+
+Working knowledge of Java, Unix & Oracle
+
+Participate in reviews of design, functional specifications and code developed by other team members
+Developing new features and maintaining existing applications
+
+Project management
+
+‘Communicating and coordinating with members of development team
+
+THE UNIVERSITY OF KANSAS
+Bachelor’s Degree in Computer Science
+
++ Ability to create user interface components that are modular, scalable, and maintainable
+‘Strong knowledge of object-oriented design principles and design patterns
+
+* Des
+
+and develop technology solutions that are capable of integrating with other components.
+Participating in detailed object-oriented analysis and design
+
+Good Understanding of design principles, user interfaces, Web standards and reusability
+
+Able to produce detailed technical specifications
+
+Knowledge to design CSS-based table-less layouts
+
+Ability to build strong relationships with clients and team member
+
+Development experience using Elastic Search is highly desirable
+
+Detail oriented: keen attention to detail
+
+UI development with GWT is highly desirable

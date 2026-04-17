@@ -1,0 +1,71 @@
+Karlie Wehner
+375 Block Turnpike, Detroit, MI # Phone: +1 (555) 246 0929
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR APPLICATION DEVELOPER .NET
+
+Boston, MA
+03/2014 — present
+‘Architect, Design, development and implementation of mission critical applications using the NET
+Framework and SQL technologies
+‘© This position will work closely with other application development teams, business analysts, business
+stakeholders and QA teams
+‘© Write server-side code for web-based applications, create robust high-volume production applications,
+and develop prototypes quickly
+This position will work closely with software business and manage project implementations
+Expertize in designing and developing webservices using WEB API, WCF
+Unit Testing and Continuous Integration
+Good Unit Testing and Integration Testing practices
+
+APPLICATION DEVELOPER .NET
+
+‘San Francisco, CA
+12/2009 — 11/2013
+‘© May conduct presentations to provide end users with knowledge to maximize their use of developed
+systems
+Makes recommendations towards the development of new code or reuse of existing code
+Provides technical advice and assists in solving programming problems
+Assists in preparing project plans using project management tools
+This position will work closely with the software business and manage project implementations
+Architect, Design, development and implementation of custom, mission critical applications using the
+-NET Framework and SQL technologies
+‘+ Expertise in designing and developing webservices using WEB API, WCF
+
+DEVELOPER .NET
+
+Philadelphia, PA
+10/2004 — 07/2009
+‘* Providing second line production support including root cause analysis for the developed software
+solutions
+Coordinating with Onshore/Ofishore development and support teams
+Developing and updating physical and conceptual model
+Responsible for the development, maintenance and support of multiple distributed applications
+Follow each package through our established SDLC process
+Design, development, testing and implementation of software solutions designed for mobile devices
+Providing periodic updates on project or task status
+
+CALIFORNIA STATE UNIVERSITY, FULLERTON
+Bachelor’s Degree in Computer Science
+
+Strong ability to analyze data; attention to detail and good quantitative ability
+Detail oriented and organized with strong analytical skills
+
+Strong C# with good understanding of OOPS, design patterns and multi-threading
+Able to produce detailed technical specifications
+
+Strong problem solving skills with ability to analyze and understand data
+Dedicated and reliable; detail oriented and results driven
+
+Ability to quickly understand and analyze data
+
+Self-motivated with exceptional oral and written communication skills, ability to communicate clearly and
+concisely
+
+‘* Knowledge of SDLC processes
+
++ Ability to read and write UML diagrams

@@ -1,0 +1,66 @@
+MANUAL THOMPSON
+
+1681 COLLENE RUN, SAN FRANCISCO, CA
+
+PHONE
++1 (555) 279 4500
+
+EXPERIENCE HILLL AND SONS 06/2020 — present
+Los Angeles, CA // Application Tester
+
+¢ Frontend dev -Programming languages (CSS/HTML5, Javascript/Jquery)
+
+¢ The minimum salary is 1.400 EUR gross, depending on relevant experience and language
+proficiency
+
+¢ Thinking outside-the-box, creative thinking
+
+¢ Basic knowledge of QA tools
+
+¢ Knowledge of automation tester frameworks
+
+¢ MuleSoft Testing(Mandatory)
+
+¢ Systems Integration Testing(Mandatory)
+
+¢ User Acceptance Testing (Mandatory)
+
+¢ Public Trust Clearance (Be able to Obtain/Maintain)
+
+DOYLE, VON AND CORMIER 05/2016 — 02/2020
+Los Angeles, CA // Application Tester
+
+¢ Experience with testing and test design
+
+¢ Coding experience in Java/Jscript or similar language
+
+¢ ISTQB foundation level certification or equivalent test experience
+
+¢ Experience working on a CI/CD tool, especially Jenkins
+
+¢ Experience working on MRO-ERP software, especially GOLDesp
+
+¢ Experience with invoking and response parsing from Web Services, especially
+WSDL/SpringBoot/JSON/REST
+
+¢ Experience with an Automation framework, especially TestComplete/TestExecute
+
+¢ Prior automotive CAN network knowledge or related automotive proven experience
+
+EDUCATION MASSACHUSETTS COLLEGE OF ART
+Bachelor's in Computer Science
+
+SKILLS ¢ Secure web app design, cryptography and key material handling, authentication mechanisms
+such as OAUTH, SAML or OpenID, sensitive data protection, SDLC integration (fuzzing tests,
+static and dynamic code analysis)
+
+¢ Proficiency with scripting languages (e.g
+
+¢ Demonstrated enthusiasm for Information Security (e.g
+
+¢ Applied Threat Modeling methodologies
+
+¢ Experience with various compliance standards (NIST SP 800 series, PCI, FISMA , SOC)
+« Nessus
+
+¢ Managing Security Testing

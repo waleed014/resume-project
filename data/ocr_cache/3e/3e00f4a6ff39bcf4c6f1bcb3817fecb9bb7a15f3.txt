@@ -1,0 +1,101 @@
+MINDA HERRAN
+
+Tester
+
+PROFILE
+
+minda.herran@gmailcom F4
+(371) 924-4670 EJ
+123 Oak Street, Charlotte, NC 28202 [J
+
+EMPLOYMENT HISTORY
+
+Dedicated and detail-oriented
+Tester with 1 year of experience
+
+in software testing, adept at
+identifying and troubleshooting
+issues to ensure optimal
+
+system performance. Proficient
+
+in various testing methodologies,
+documentation, and collaboration
+with cross-functional teams.
+Committed to continuous learning
+
+and staying current with industry
+trends to deliver high-quality
+results.
+
+LoadRunner
+
+TestNG
+
+‘Appium
+
+Jenkins
+
+JIRA,
+
+Photography
+Gardening
+Playing the guitar
+
+© Senior Tester at IBM, NC
+May 2023 - Present
+
+* Leda team of 10 testers in successfully completing the testing phase
+of a major software project for a Fortune 500 client, resulting in a
+20% reduction in reported defects post-release and contributing to
+a 15% increase in overall client satisfaction.
+
++ Developed and implemented an automated testing framework that
+increased test coverage by 30% and reduced average testing time by
+25%, leading to faster product releases and a more efficient testing
+process.
+
++ Collaborated with cross-functional teams to identify and address
+over 300 critical software issues, ultimately improving system
+performance by 18% and reducing customer support calls by 12%.
+
+© Junior Tester at Cisco Systems, NC
+Sep 2022 - Apr 2023
+
++ Implemented a comprehensive testing strategy that increased
+overall software quality by 35% and reduced critical defects by 20%
+for Cisco's flagship product line.
+
++ Developed and executed over 2,000 test cases for a major software
+release, resulting in a 99% pass rate and contributing to a successful
+on-time product launch.
+
++ Identified and reported over 500 software defects, leading to a 25%
+reduction in customer-reported issues post-release.
+
++ Collaborated with cross-functional teams to improve
+communication and streamline the testing process, reducing
+testing time by 15% and increasing efficiency.
+
+EDUCATION
+
+Bachelor of Science in Software Testing and Quality Assurance at
+North Carolina State University, Raleigh, NC
+
+Sep 2017 - May 2022
+
+Relevant Coursework: Software Engineering, Requirements Analysis, Test
+‘Automation, Quality Assurance Principles, Programming Languages (Java,
+Python, C++), Database Management, Web Application Testing, Mobile
+Application Testing, Usability Testing, Performance Testing, and Security
+Testing.
+
+CERTIFICATES
+
+ISTQB Certified Tester
+Jun 2021
+
+Certified Software Test Professional (CSTP)
+Jul 2019
+
+MEMBERSHIPS

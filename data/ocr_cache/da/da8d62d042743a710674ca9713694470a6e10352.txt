@@ -1,0 +1,68 @@
+Marjory Skiles
+
+9187 Isidro Causeway, Chicago, IL ¢ Phone: +1 (555) 542 4888
+
+EXPERIENCE KOZEY AND SONS Phoenix, AZ
+07/2020 — present Dotnet
+
+¢ Proficient in OPC UA stack development and agile/scrum methodologies
+
+¢ Proficiency in DevOps Repos, unit testing, debugging and defect-fixing
+
+¢ Knowledge of technologies like Net , Angular, C#
+
+¢ Good knowledge of Web services (Restful) integration, failure analysis
+
+¢ Experience in troubleshooting with MS SQL and API, .NET technologies
+
+¢ Hands on experience with Azure Cloud
+
+¢ Experience in C#, VB.NET and VB6
+
+¢ Good knowledge and work experience of Crystal Reports
+
+¢ Experience in technologies like Net , Angular, HTML, JavaScript
+
+¢ Offshore Dev Teams, Campaign Delivery Experts, Process Design Developers, Enablement Pods
+
+* Good experience with C# and ASP DotNet
+
+¢ Good knowledge of Oracle DB/SQL knowledge, UNIX/LINUX
+
+ZBONCAK-HINTZ Phoenix, AZ
+03/2018 — 06/2020 Dotnet
+¢ Experience on ASW and cloud applications
+¢ Demonstrated Experience with full stack end to end development
+¢ Expertise with modern JavaScript frameworks like Jquery, ExtJS or Angular.js or React.js
+¢ Experience with REST API, SOAP Web Service and SOA Development
+¢ Experience with databases like Sql Server/Oracle/DB2
+¢ Experience with ETL and integration tools
+¢ Experience with Agile Development Techniques, Issue/Bug Management and Team Collaboration
+Tools, preferably with JIRA
+¢ Advanced Experience with Entity Framework
+¢ Advanced Experience with MSSQL
+¢ Worked with DevExpress
+¢ Worked with Visual Basic
+¢ Experience in technologies like ASP DotNet , C# and MVC
+
+EDUCATION RHODE ISLAND SCHOOL OF DESIGN Bachelor's in Computer Science
+
+SKILLS ¢ Know-how on design patterns, methods, procedure models and tools for software development
+
+¢ Strong background in User Interface development(Windows form) experience using .NET
+technologies and good graphics experience
+
+¢ Experience in .NET Web frameworks like ASP.NET, Blazor is an added advantage
+
+¢ Strong problem solving and analytical skills, and able to work independently
+
+¢ Good understanding of Multithreading and memory management
+
+¢ Ling and Task Parallel Liberary
+
+¢ Work collaboratively intra-/inter-team to achieve success (non blaming approach)
+
+¢ Domain knowledge of the payment card industry, standards and practices will add on
+
+¢ Strong proficiency and hands on experience in C# programming, and accessing database (SQL and
+SQL Server Compact [SQL CE]) through C# code

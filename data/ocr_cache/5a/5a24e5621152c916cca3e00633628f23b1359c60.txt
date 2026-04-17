@@ -1,0 +1,125 @@
+First Last
+Python Developer
+
+Certified Python Developer offering 6 years of extensive experience and exceptional
+analytical and critical thinking skill. Delivers a proactive approach, great work ethic,
+‘and the ability to function well in fast-paced/deadline-driven team environments.
+
+EXPERIENCE
+
+Growthsi, New York, NY
+
+Certified Python Developer
+
+January 2020 - Present
+
+‘© Developed web application back end components while communicating
+‘with 30+ clients to identify their needs/goals and work on meeting them.
+
+‘+ Worked on the improvement of data protection and security, increasing
+security rate by 24 % while creating new user information solutions.
+
+‘© Maintained large databases and configured services to reduce software
+‘maintenance expenses, decreasing the costs by 15% within just one year.
+
+‘Trained and supervised 3 employees, providing training support/guidance.
+
+‘© Obtained the Employee of the Year Award for meeting and exceeding all
+assigned goals and objectives and contributing to 33% overall success.
+
+Growthsi, New York, NY
+
+Python Developer/Tester
+
+July 2016 ~ December 2019
+
+‘+ Successfully automated the moving of 5 tests from production to staging
+and staging to production by carefully reading the keywords from NVbugs.
+
+‘© Consumed APIs while utilizing Python requests to read numerous JSON
+reports and file automatic bugs in the NVBugs for intermittent tests.
+
+‘© Designed and configured database and backend applications and programs,
+contributing to operations continuity and increasing efficiency by 14%.
+
+‘© Developed, tested, and debugged software tools utilized by 100+ clients and
+internal customers to facilitate and easier process and user experience.
+
+‘© Obtained adequate experience in reviewing Python code for running the
+troubleshooting test -cases and bug issues, acquiring all necessary skills,
+
+Resume Worded, Boston, MA
+
+Python Developer Intern
+
+January 2015 - June 2016
+
+‘© Designed robust, scalable, secure, and globalized web-based applications to
+ensure the continuity of all business processes and client satisfaction.
+
+‘* Used the Python language to develop 3 web-based data retrieval systems.
+
+‘Performed data entry and other clerical work for project completion.
+
+© Conducted descriptive and multivariate statistical analysis of data using
+Matlab, gaining 100% accuracy rate in terms of interpretation and analysis.
+
+‘San Francisco, CA 12345
++1234 567-890
+flrstiast@resumeworded.com
+linkedin.comv/in/resumeworded
+
+SKILLS.
+
+Python
+HTML, JavaScript
+
+Selenium
+
+‘TestComplete
+
+Appium
+
+Frameworks Django
+
+Flask
+
+Pyramid
+
+Pyjamas
+
+Jython
+
+‘Angular JS; Node JS
+
+spring
+
+WebLogic
+
+Websphere
+
+JBoss Amazon EC2
+
+Jenkins And Fabric J2EE JDBC
+INDI
+
+JSP And Servlets Databases
+Oracle MySQL
+
+EDUCATION
+Resume Worded
+University
+
+BS Computer Science
+November 2014,
+Boston, MA
+
+CERTIFICATIONS
+
+Resume Worded
+University
+
+Certified Python Developer
+May 2016
+
+Boston, MA

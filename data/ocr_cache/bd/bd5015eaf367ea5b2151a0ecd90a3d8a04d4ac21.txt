@@ -1,0 +1,76 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 # (555) 432-1000 @ resumesample@example.com_
+
+Work History
+
+Business Intelligence Report Developer, 09/2014 - Current
+Ecs Federal — San Diego
+‘+ Incorporate Agile methodologies to gather stakeholder requirements to provide enterprise-level BI solutions.
+‘* Design, develop, implement, and automate reports using Oracle SQL and Oracle databases and Cognos BI Report Studio and Event Studio.
+‘+ Project Lead for an enterprise data warehouse using Cognos Workspace incorporating operational, financial, human resource, and
+‘budgetary data sources for component of Department of Homeland Security.
+
+Pricing Analyst, 08/2012 - 09/2014
+Avantor — Mississippi, OR
+‘+ Business Management Professional Development Program Prepared Pricing/Cost proposals supporting various contract types and pricing
+schedules for both government and commercial customers.
++ Pricing experience includes efforts valued from $10k to $100m.
++ Built profit analyses, budgetary estimates, and rough order of magnitudes for internal and external customers, working closely with,
+proposal teams.
+« Projects typically required ongoing support during negotiations, additional work, or contract modifications.
+
+Business Analyst, 2012 - 07/2012
+Fidelity National Information Services
++ Developed metric reports measuring quality and quantity of contract setup output for Controller's group to improve cash flow and financial
+integrity.
++= Reports were created on a weekly and bi-weekly basis and distributed extensively throughout the Business Management community.
+‘+ Assisted Operations Manager on a range of projects including brownbag presentations and ad hoc program summaries
+‘© Worked with the IS Sector Director of Real Estate & Facilities on the Facility Expansion and Consolidation portion of the Controller's 2012
+Strategic Initiatives.
+‘* Duties included interviewing other area defense contractors regarding consolidation planning and preparing summaries to present to the
+
+Sector Director.
+
+Business Analyst, 04/2011 - 11/2011
+Fidelity National Information Services
++ Created weekly metrics for tracking billing labor category errors for legacy Civil Services Division.
+‘* Worked across the Program Planning and control (PP&C) community to clean up error hours, improving cash flow database/program
+integrity.
++ Drafted, edited, and prepared entries for the PP&C Field Guide.
++ The guide serves as a valuable reference source for the PP&C community and others.
+
+Finance Intern, 05/2010 - 07/2010
+‘Minth Group — Wixom, MI
+
+‘+ Compiled and arranged the program documentation needed to bill the U.S.
+
++ Department of State.
+
+'* Coordinated and implemented intern and employee volunteer project with So Others Might Eat (SOME).
+
+Intern, 05/2009 - 06/2009
+Ansys, Inc. — Mountain View, CA, South Africa
++ Drafted and submitted social development policy report for the Ministry of Labour, Gender, and Social Development for the Ugandan
+‘Government.
+‘* Consultant for the Department of Trade and Industry and Ministry of Human Settlements of the South African Parliament on issues
+
+regarding community engagement and empowerment.
+
+Intern, 05/2008 - 2009
+Ansys, Inc. - Nashville, TN
+‘+ Updated and organized customer ordering information for the Defense Information Systems Network (DISN).
++ This data directly supported functions of the DISN Access Clairesport Service (DATS)
++ Served as liaison to Accounting and HR departments to gather and compile client data necessary for accounting purposes.
+
+SKILLS
+
+Cognos Report Studio, Cognos Event Studio, Cognos Workspace Oracle SQL
+
+EDUCATION
+
+Bachelor of Arts: Economics , May 2011
+James Madison University - Harrisonburg, VA
+
+‘Master of Science: Data Analytics Engineering, Current
+George Mason University - Fairfax, VA

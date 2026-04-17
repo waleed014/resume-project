@@ -1,0 +1,50 @@
+Assistant Database Administrator
+
+Job Purpose and Summary:
+
+‘Thisis a contract temporary position that provides analysis, planning, design and support of complex
+Peninsula Library System (PLS) automated library system database working closely withthe Database
+Manager.
+
+Key or Typical Tasks and Responsibilities:
+‘Assist Database Manager with maintaining the accuracy of the PLS automated library system database
+by scheduling regular update cycles and performing both scheduled and ad-hoc maintenance tasks,
+contacting agencies or researching information; correc, update, and prepare records for data entry.
+
+Perform system administrative functions fo integrated library system such a resizing files, running
+‘routine programs, troubleshooting performance prablems, and updating code table.
+
+‘Set up and maintain system parameters that support the bibliographic database and the online public
+‘catalog; test software upgrades; perform database cleanup activities as assigned.
+
+Prepare and run regularly scheduled reports; design customized reports for member libraries
+
+Provide expertise and advice related to cataloging and MARC coding, effective use of bibliographic
+database, and file structures.
+
+Maintain specialized lists and reports.
+
+Qualifications:
+
+Education and Experience
+Bachelor's degree or equivalent tech training & experience
+
+Knowledge of:
+Library cataloging and classification systems, including principles and practices of information
+architecture and database development and maintenance
+
+SOI, including experience writing scripts to access SQL databases
+
+Absiy to:
+‘Communicate effectively in person, over the telephone, electronically, and in writing with a wide variety
+(of people, including coworkers and member brary staff
+
+Provide database research service to member libraries.
+Provide excellent customer service
+
+Gain knowledge of cataloging, classification, and database design and maintenance.
+
+‘Work independently and as ateam member to plan, organize, and execute the duties ofthe postion.
+
+To Apply
+Please send your resume and cover letter to the PLS Office Manager Wendy Cao cao @lsinfo.ore,

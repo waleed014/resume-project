@@ -1,0 +1,62 @@
+First Last
+Bay Area, California * +1-234-456-789 * professionalemail@resumeworded.com * linkedin.com/in/username
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY Jun 2018 — Present
+Senior Python Developer
+e Built an API-driven publishing service handling 17M pageviews monthly, performing at 94% cache efficiency.
+
+Cleared more than 200 performance bottlenecks in Mercurial software for large-scale deployments.
+
+Built out the source control query service that queries information in a scalable, effective, & efficient manner.
+Extended the build system to integrate with the Mercurial sparse feature, cutting 47% performance issues.
+Rebuilt the Mercurial sparse subsystem to move it from an implementation detail to an end-user-friendly tool.
+
+Mentored 10 Junior Python developers, training them to work independently and acquire all adequate skills.
+
+Growthsi, New York, NY Jan 2012 — May 2018
+Lead Python Developer (February 2015 — May 2018)
+
+e@ Designed and developed architectures for all Growthsi products, scaling them to beyond 1M users monthly.
+mplemented dev automation using Docker, Jenkins CI, and other tools, maintaining streamlined processes.
+Acted as the Scrum master managing 3 onsite and offsite remote teams to deliver projects throughout SDLC.
+ntroduced pair programming, architectural patterns, and code quality reviews to reduce tech debt by 32%.
+Reduced lead time for new feature requests down to 30% by detecting problems in the entire operations.
+
+Managed a codebase of 250,000 LOC, acquiring an overall success rate of 95% throughout the leadership.
+
+Certified Python Developer (January 2012 — February 2015)
+e@ Involved in the design and development of the application using Python 3. 3, HTML5, CSS3, Ajax, JSON,
+and JQuery that delivered and enabled subsequent company success and 24% sales growth.
+
+e Extensively utilized Django technologies, including forms, templates, and orm for communication with
+databases in different forms while using interceptors, validators, actions using Django 1. 7 frameworks.
+
+e@ Created and wrote result reports in different formats like TXT, CSV, XIS, and JSON while working on CSV
+files and trying to get input from the MySQL database to ease company processes and ensure continuity.
+
+Resume Worded, San Francisco, CA June 2008 — Dec 2012
+Junior Python Developer
+
+@ Worked on the design of Unix shell scripting as apart of the ETL process to automate the loading process.
+
+e@ Accurately wrote more than 100 Python and batch scripts to automate the ETL scripts runs every hour.
+e@ Developed ETL scripts in Python to get data from one database table and update the resultant to another.
+e
+
+Used Python and Django to interface with the jquery UI, managing the storage and deletion of 50+ content.
+
+EDUCATION
+Resume Worded University, San Francisco, CA May 2014
+Master of Computer Science
+Resume Worded University, San Francisco, CA May 2008
+Bachelor of Science in Computer Science
+SKILLS
+Team leadership e ~=Python e AWS e PostgreSQL
+Presentation skills e Django e =Azure e Bash Scripting
+Collaboration e Flask e = Linux e Javascript
+Research e =Tornado e MySQL e HTML/CSS3
+
+Machine learning
+
+SQL ¢ MongoDB e OpenCV

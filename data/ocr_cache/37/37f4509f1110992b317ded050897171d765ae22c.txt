@@ -1,0 +1,121 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+ITIL Certified Service Management Lead with an experience of 10 years for one of the top 4 P&C Insurance client, with extensive
+technical and functional expertise in NET Applications. Specializing in Incident,Problem and Change Management.
+
+Semis
+
+* Client/Server Architecture
+SQL Server
+
+Oncall, Command Centre, BCP Champion
+Process Improvement Champion - LEAN
+C4, ASP.Net, XML Incident, Problem, Change Management
+BMC Remedy, TFS, SCM. Project documentation
+
+Splunk, ITSM 9.1 * Scrum
+
+# Service Level Agreements (SLA) Debugging, Testing and deployment
+
+© P&C Insurance - Auto, SL, Commercial Lines
+
+EXPERIENCE
+
+03/2020 to Current + .NET Applications (Service Management) Lead
+Amazon.Com, Inc. — Downers Grove, IL
+
+‘* Establishes weekly and monthly service status review meetings with key stakeholders
+
+‘* Ensures and promotes ITIL best practices for Incident, Problem, Change, Release management
+
+‘* Managing 10 junior developers both in Onshore & Offshore by delivering consistent coaching and constructive
+feedback
+
+« Leveraged Agile methodologies to move development lifecycle, testing and final implementation.
+
+‘# Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes within Client
+Specified SLA and meeting KPI's.
+
++ Implemented unit and integration testing protocols to consistently deliver high quality, functional features with
+minimal defects.
+
++ Advised customers and users on required maintenance practices for diverse software systems to support warranty
+requirements and industry best practices.
+
+‘+ Submitted use cases that were implemented using RPA - Blue Prism to save effort and budget
+
++ Followed LEAN Processes and developed A3 Model for process improvements within the team
+
+Preparing weekly and monthly SLA, KPI, Audit, PBI & Incident reports and presenting to Client
+
+‘* Delivered software solutions consistent with product roadmap, release plan milestones and key performance
+indicators.
+
+08/2015 to 02/2020 Service Management Specialist
+‘Capgemini — City, STATE
+
+‘* Analyzing the Business Requirements and System Specifications to understand the application and fix the issue
+under the Incident & Problem Management
+
+* Creating new knowledge base and problem known errors.
+
+‘* Maintain high coding standards, there by developing an easy maintainable code. Internal code review and arrange
+official code review with the client.
+
++ Adhere to Service Level Agreements (SLA& KPI) to meet targets
+
++ Provide on call support during Production elevates and monitor servers during maintenance and patching
+
+‘* Leading the Internal Quality team (Audit Team) to verify if the problem/Incident fixtures has meet client KPI's
+
+‘* Command Centre - AVM Check, SplunK, UI Error logs, Instrumentation Database
+
+‘© Health Check after production elevate Database MonitorinG, New Trend & Error Analysis Research
+
+«= Involve External teams and all stake holders during an Issue
+
+‘© Work on test Environment and propose immediate fix for any production Issues
+
+03/2011 to 08/2015 .NET Developer
+‘Capgemini — City, STATE
+‘© Develop and maintain custom data centric web application using ASP.NET, C#, XML.
+«= Involved in the process of designing, developing, enhancing and integrating the application.
+‘* Unit test to assure/meets requirements.
+‘* Debugging and fixing bugs reported and working on enhancement and change requests.
+‘* Assessing technical documents or requesting to determine need to develop code.
++ Contribute to technical and functional design documents.
+‘* Review and peer test another consultants work
+‘© Working closely with onsite team and client to resolve issues and improve application usability.
+‘© Working as an offshore back up resource during the deployment week and working on shifts during hyper care
+support week.
+
+Epucation Np TRAINING
+
+07/2010 Bachelor of Science: Electrical Engineering
+Biju Patnaik University of Technology - Bhubaneswar
+
+ACCOMPLISHMENTS
+
++ Consistently maintained high customer satisfaction ratings.
+* Created highly effective new process and automation efforts that significantly impacted efficiency and improved operations
+* Led team to achieve best SLA's, eaming recognition from upper management and financial reward.
+
+Activiries AnD Honors
+
+« Best Delivery and Excellence Award for Best Performance in NA BU IN 2015-and 2016
+* Bravo Award for Best Performance in NA BU IN Quarter 1 2016
+
+* Star Award for Best Performance in NA BU IN Quarter 1 2013
+
+« Rising Star Award for Best Performance in NA BU IN Quarter 1 2012
+
+(CERTIFICATIONS
+
+* MCTS 70-536 Certification
+* MCTS-70-513 Certification
+« ITIL V3 Foundation Certified

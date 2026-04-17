@@ -1,0 +1,44 @@
+IT Support Specialist Resume
+
+2793 Wayside Lane, San Francisco, CA 94103
+(415) 503-6129
+a.thompson@gmail.com
+
+Dedicated IT professional with 5+ years of experience providing IT support and maintenance. Managed 20+ cases
+daily for on-site and remote users. Familiar with ITSM and ITIL.
+
+CERTIFICATIONS
+
+CompTIA A+ (2014)
+Information Technology Infrastructure Library v3 Practitioner (2016)
+Microsoft Certified Solutions Expert (2020)
+
+PROFESSIONAL EXPERIENCE
+
+AURORA San Francisco, CA
+Technical Support Specialist October 2018-Present
+«Investigate and respond to support requests via email, phone and remote control software
+«Enhance support processes and procedures, resulting in a 94% end-user satisfaction rate
+«Research new technologies and provide training to staff across all departments to optimize
+productivity
+«Install, configure and manage laptops, phones, printers and other devices for 80+ employees
+
+DICE ‘San Francisco, CA
+Desktop Support Engineer July 2015-October 2018
+«Performed network, software and hardware troubleshooting to ensure all systems and 40+
+workstations were operating optimally
++ Created and updated IT support documentation and user guides, leading to a 15% decrease in
+tickets
+* Configured and managed Windows 10 builds using Microsoft MECM.
+* Conducted onboarding and offboarding, including administering email and user accounts
+
+EDUCATION
+
+Binghamton University Binghamton, NY
+
+Bachelor of Arts in Computer Science, 2011-2015
+© GPA: 3.8
+
+ADDITIONAL SKILLS
+
+© Proficient in Java, CS++, HTML 5, Zendesk, ServiceNow, MECM, Windows 10, Mac OS

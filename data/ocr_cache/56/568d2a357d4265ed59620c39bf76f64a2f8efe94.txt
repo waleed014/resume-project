@@ -1,0 +1,94 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+« Front-End Web Developer Nanodegree.
+
+« SAP BW Certified Professional.
+
+* BS in Computer Science.
+
+«+ 3 years of SAP Experience. Experienced in the development of BW Architecture InfoObjects, InfoCubes, InfoSources, ODS Objects,
+Update Rules, Transfer Rules.
+
++ Good understanding of data extraction from SAP-R/3.
+
+« Experienced in BW reporting using BEx query designer, Browser, Web Application Designer Experienced in Query customization using
+Filters, Conditions, Exceptions, Restricted Key figures.
+
+* Dynamic, Self-motivated, good team player and can perform well under pressure. Excellent communication, analytical, and debugging
+skills and is comfortable working in a fast-paced changing environment
+
+‘* Authorized to work in US for any employer.
+
+Semis
+
++ Excellent problem-solving abilities
+* Excellent communication skills
+
+HTMLS Canvas,Bootstrap
+Critical Rendering Path
+
+* HTML.CSS and Javascript * SAPBW3.0
+# Jquery, AJAX Jasmine Knockout * Coldfusion
+© SQL
+
+Work History
+
+09/2006 to 04/2008 SAP BW support
+Vizient — Columbus
+
+» SAP BW Certified professional. Certification ID:0003827547 (Jan 13, 2006).
+
+‘Ihave been trained in SAP BW and SAP R/3 (FI/CO and SD). Trained in Data Modeling of BW, Administration
+‘Workbench, BW objects, Extraction.
+
+‘© Worked extensively on BEx Analyzer. Created queries using BW-Reporting Variables, Free Characteristics,
+navigational attributes, Filters and also on Multi Cubes.
+
+‘© Used RRI interfaces, conditions, and Exception handling through SAP Mail, batch printing and alert monitor.
+
+* Designed developed and modified Info Objects, Info Cubes, ODS Objects, Info Sources, Transfer rules, Update
+rules to suit the business requirements.
+
++ Populated the Info Objects, ODS Objects and Info Cubes with Master data and Transactional data from SAP R/3
+‘via Data Staging area (PSA) by creating Info Packages.
+
+« Extensively used BW standard business content extractors to extract data from SAP R/3 to BW.
+
+‘* Build Multicubes to develop critical reporting needs of the client. Used aggregates to improve the query
+performance.
+
+‘* Created Generic Data Sources using database Views on Tables and InfoSet Queries. Managed and monitored
+several data loads
+
+‘* Optimized load performance by adjusting the packet sizes and resolved the errors and inconsistencies during the
+data loads
+
+‘* Developed strategies for nightly/weekly/monthly production data loads using Info package groups, events and
+scheduler using administrator work bench.
+
+11/2003 to 08/2004 Software Engineer
+Wipro — City
+
+‘= Involved in the requirement collection, design, development and implementation of Account level intranet website
+on Java and Oracle as backend.
+
+«= Involved in some key projects on Cold fusion and SQL server for a leading CPG client, Wherein I did screen
+design and development.
+
++ Twas trained on the usage of testing, design and performance tuning tools like, C++ Parasoft Test Tool, Rational
+Rose and TOAD.
+
+Epucation
+2016 NanoDegree: FrontEnd Web Developer
+Udacity - https://www-udacity.com/course/front-end-web-developer-nanodegree—nd001
+2003 Bachelor of Science: Computer Science
+Bharathiyar University - http:/Avww.b-u.ac.in/ - India
+(CERTIFICATIONS
+
+SAP BW Certificate
+‘Udacity Frontend Nanodegree

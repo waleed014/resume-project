@@ -1,0 +1,118 @@
+First Last
+
+Kubernetes DevOps Engineer
+
+Kubernetes DevOps Engineer with five years of hands-on experience in
+architecting/ automating and optimizing mission-critical deployments over a
+large infrastructure. Led teams of 5-15 people across technology, business, and
+design departments.
+
+EXPERIENCE
+
+Resume Worded, New York, NY
+
+Kubernetes DevOps Engineer
+
+January 2020 - Present
+
+e Deployed and managed applications running on a mix of Kubernetes, AWS,
+and GCP, and introduced optimization; resulted in a $15k savings per month
+
+e Collaborated with product managers, business stakeholders, and fellow
+engineers to design and incorporate infrastructure solutions that were used
+by +14k customers.
+
+e Owned forecasting and planning infrastructure requirements result in 99%
+application uptime.
+
+e Automated the deployment of 90+ cloud servers using Docker, Kubernetes,
+and AWS with the help of python
+
+e Reduced lead times by 16% and failures by 80% using Puppet and Zabbix
+
+e Analyzed, revised, and finalized the specification for tools installation,
+build, and deployment automation for 40+ services
+
+Growthsi, Remote
+
+Operations Analyst
+
+July 2016 - January 2020
+
+e Transformed market data into actionable strategies for continual process
+change; resulting in an efficiency increase of 65%
+
+e Developed an automated system to track business process ordering which
+reduced claim loss by 23%
+
+e Implemented a modern technology-based method to capture system failure
+and to monitor system discrepancies, which improved the process by 30%.
+
+Resume Worded, Boston, MA
+
+Operations Analyst
+
+January 2012 - June 2016
+
+e Designed plans to enhance operations and suggested structure
+improvement for an overall organization that boosted productivity levels by
+25%.
+
+e Identified and evaluated project risks, and devised risk-mitigation
+strategies to reduce risk; led to a 25% increase in ROI.
+
+e Developed acomprehensive understanding of optimization and using
+problem-solving and analytical skills; raising efficiency by 15%
+
+San Francisco, CA 12345
++1 234 567-890
+firstlast@resumeworded.com
+
+linkedin.com/in/resumeworded
+
+SKILLS
+
+Kubernetes, Linux, Bash,
+Jenkins, and Python
+
+Continuous integration and
+Continuous Delivery (CI/CD),
+Agile Methodologies, Scrum
+
+EDUCATION
+
+Resume Worded
+University
+
+B.S. in Business
+Management, Minor in Data
+Analytics
+
+January 2012
+
+New York, NY
+
+e Awards: Resume Worded
+Teaching Fellow (only 5
+awarded to class), Dean’s
+List 2012 (Top 10%)
+
+e Relevant Courses:
+Operations Research,
+Statistics, Linear Algebra
+
+e Completed one-year
+study abroad with
+Singapore University
+
+PROJECTS
+
+e Created continuous
+integration pipeline using
+Jenkins; reduced the
+development cycle time
+by 10%
+
+SCALER
+
+opts

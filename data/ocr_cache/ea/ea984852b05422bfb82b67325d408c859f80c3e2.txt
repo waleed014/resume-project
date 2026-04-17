@@ -1,0 +1,68 @@
+Somik Raha
+1329 Park Drive #12, Mountain View, CA 94040
+Phone: 650-450-8246, E-mail: somik@stanford.edu
+
+Power Statement
+Value Analyst with Strategic Analysis and Software Engineering experience
+
+Education
+
+STANFORD UNIVERSITY, USA Sep 2004 — Jun 2010
+
++ Ph. D. (Decision Analysis - GPA 3.875), dissertation title: “Achieving Clarity on Value,” Masters in
+Mgmt Sc. & Engg. (Org Behavior & Strategy)
+
++ Relevant Courses: Decision Analysis I, II & III, Strategy for Hi-Tech Companies, Org. Behavior and
+Mgmt., Org. Design for Projects & Companies, Probabilistic Analysis, Optimization, Quantitative
+Analysis
+
++ Other Research: Credit Risk Modelling (07), Global Teamwork (Dr. Fruchter, Win 05-Spr 06)
+
++ Projects: Strategy Analysis for Danoo, Decision model for Daimler Chrysler engineering decisions,
+Brainstorm tool for Intel, Strategy Analysis for Google
+
+BANGALORE INTITUTE OF TECHNOLOGY, Bangalore, India Sep 1995-Aug 1999
+
+« Bachelor of Engineering, Computer Science & Engineering, Graduated First Class with Distinction
+
++ Projects: Computer Vision Toolkit, Parking Bay Simulation for Bangalore Airport, Identifying IC Engine
+Defects
+
+Professional Experience
+
+The Gordon & Betty Moore Foundation, Palo Alto, CA Jul 2010-Present
+
+Consultant
+
++ Analyzed where in the Amazon the foundation should focus its strategic efforts to support the REDD+
+framework (Reduction of Emissions from Deforestation and Degradation)
+
++ Developed valuation framework for tactical decisions involving forest conservation in the Amazon
+
++ Provided clarity of action to the decision team and made the decision process transparent
+
+SmartOrg, Inc., Menlo Park, CA Jun 2009-Sep 2009
+Summer Intern
+
++ Designed online version of Portfolio Game for executive education
+
++ Simplified architecture of core decision analysis module of SmartOrg’s flagship product
+
++ Helped with testing strategy to make complex mathematical logic more testable and transparent
+
+Strategic Decisions Group, Palo Alto, CA July 2008-Sep 2008
+Summer Intern
+
+« Created 1“ version of Decision Professionals Network(DPN), now called Society of Decision Professionals
++ Utilized Decision Analysis and Software engineering experience to manage development process of DPN
+
+Nucleus Software & Exports Ltd., Noida, India July 2007-Sep 2007
+Decision and Risk Analyst (Summer Internship)
+
++ Modeled business strategy decision on pricing new products
+
++ Modeled credit risk and operational risk for BASEL 2 compliance
+
++ Modeled software process adoption decision
+
++ Modeled HR recruitment decision

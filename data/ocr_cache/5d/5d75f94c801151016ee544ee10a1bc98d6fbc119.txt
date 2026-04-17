@@ -1,0 +1,76 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Professional Summary
+
+Enthusiastic, resourceful recent graduate with academic and professional background in Information and Technology. Ability to
+establish priorities and meet challenges head-on. Strong project management skills.
+
+Skills
+Programming Languages: Operating Systems:
+* VB.Net * Windows and Linux
+* Java/CiCe+ + Excellent communication skills
+* My SQL workbench * Website maintenance
+* Database design Office tools:
+* Java Sctipt, HTML, CSS Development Tools + MS-Office
+Development Tools: * MSWord
+* Eclipse * MS-Power point
+* Notepad++ * Access
+Design Tools:
+
+* Virtual Instrumentation Lab view
+* PSPICE (circuit simulation software)
++ programming microcontroller using assembly language
+
+*# Designing of electronic devices and circuits
+
+Work History
+
+Software Testing, 05/2012 to 07/2013
+Vulcan Materials Company — Manassas, VA
+
+My responsibilities include understanding user requirements and specifications.
+
+* Develop testing strategies and document testing methods from the requirements.
+
+* Developed data architecture design to enable analysts to perform targeted customer analysis.
+
+* Developed work-flow charts and diagrams to ensure production team compliance with client deadlines.
+
+* Presented clear, organized data in graphs, charts, tables and written reports.
+
+Internship, 04/2011 to 06/2011
+Bhabha Atomic Research Centre — City
+My key role in this project is to design a circuit by “stacking of scr’s” which produces a high voltage semiconductor switch for a
+pulsed power supply.
+« Inspected equipment for proper performance and correct communication.
++ Conducted highly complex diagnostic and operational tests.
+* Made critical adjustments to component values and settings during testing.
+
+«* Interpreted schematic blueprints, wiring diagrams, performance specifications and service manuals.
+Education
+
+Bachelor of Science: Electronics and Instrumentation Enginerring, 2012
+Gitam University - Visakhapatnam, India
+CGPA:3.5
+
+Intermediate: Maths and Science, 2008
+Vikas Junior College - Visakhapatnam, India
+CGPA: 3.4
+
+High School: 2006
+Olivet High School - Visakhapatnam, India
+CGPA: 4.0
+
+Masters of Information System: Information System, Current
+Central Michigan University - Mt Pleasant, MI
+
+Affiliations
+
+* Istayed as member in the INDIAN RED CROSS SOCIETY, URDES-INDIA, and Help Age India.
+
+« Participated and won prizes in Interface 09 (A National Level Techno-Management Event) from GITAM UNIVERSITY.
+
+* Secured First position in Paper Presentation event in InfoQuest’10 (A National Level Technical Conference & Symposium) from.
+Gayatri Engineering College.

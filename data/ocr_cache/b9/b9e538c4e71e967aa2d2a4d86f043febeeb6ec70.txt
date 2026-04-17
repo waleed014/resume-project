@@ -1,0 +1,91 @@
+SAVION WINDLER
+
+194805 Rachel Walks, Phoenix, AZ + +1(555) 8017910
+
+‘WORK EXPERIENCE
+
+DEVOPS ENGINEER LEAD-CLOUD SECURITY 05/2016 - PRESENT
+Philadelphia, PA
+
++ 01+ years’ experience building and supporting large-scale, business critical system
+
+‘+ Support the Firm's goals in secure cloud adoption through hands on interaction with development teams to cultivate a cloud first mindset
+
+in transitioning workloads
+
++ Experience working with complex network topologies
+
++ Containerization tools such as Vagrant, Docker
+
+‘+ Test and build systems such as TeamCity, Jenkins, Maven, RunDeck
+
+‘+ Orchestration tools such as Zookeeper, Kubernetes
+
+‘+ Monitoring, Alerting tools such as Prometheus, Nagios, Grafana
+
+‘+ Maintain, consolidate and develop “continuous integration”
+
+DEVOPS ENGINEER CLOUD 09/2011- 11/2015
+New York, NY
+
+‘+ Manage and monitor our cloud infrastructure and systems. (Amazon cloudy...)
+
+‘+ Manage virtualized environments. (VMware, ...)
+
+‘+ Manage build environments. (Docker, Ansible,...)
+
+‘+ Advise upon new technologies
+
++ Contribute to process automation and develop automation tools
+
+‘+ Write and/or enhance scripts
+
+‘+ Apply various open source technologies and tools to “orchestrate” solutions:
+
+‘+ Participate in a 24/7 shift system, for occasional 3rd line technical problems
+
+‘+ Developing/Enhaneing/Upgrading an internal Cloudfoundry deployment
+
+DEVOPS ENGINEER FOR SAP S CLOUD MANAGEMENT PLATFORM. 06/2004 - 03/2011
+Chicago, IL
+
++ Enhancing and supporting a build framework for continuous deployment and platform automation
+
+‘+ Running development, stage and production environments and deployments
+
+‘+ Supporting and engaging with agile methodologies
+
++ Desi
+
+ing and implementing a platform including automated provisioning, security, and management infrastructure
+
+‘+ Establishing and running the processes for monitoring, security and infrastructure life eyele
+
+‘+ Proven experience of Infrastructure planning and exposure to different high-availability IT infrastructures
+‘+ Strong knowledge & practical experience with Ansible/Puppet/Bosh
+
+‘+ Programming experience with Python/ GO
+
+‘+ High Availability and Load Balancer Solutions such as Nginx. F5, ete
+
+EDUCATION
+
+UNIVERSITY OF PHOENIX - NEW MEXICO CAMPUS. 2000 - 2004
+Engineer's Degree in Technology
+
+PROFESSIONAL SKILLS.
+
+‘+ Soft skills such as ownership and proactivity, good interaction and clear communication skills,
+
+‘+ Strong experience with containerisation (Docker)
+
+‘+ Experience designing and implementing mobile applications and services,
+
+‘+ Experience designing and implementing cloud-based applications, awareness of main public cloud offerings (Microsoft Azure, AWS,
+GCE)
+
++ Experience working with scripting languages (Bash, PowerShell)
+
+‘+ Experience in designing and implementing advanced automation pipelines with Jenkins
+
+‘+ Experience with building/testing distributed systems

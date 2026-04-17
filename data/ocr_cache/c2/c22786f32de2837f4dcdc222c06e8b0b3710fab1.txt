@@ -1,0 +1,57 @@
+PETER CONNOLLY
+QA Software Tester
+
+johndoe.qa@example.com * Oxford, UK
+
+Summary
+
+Experienced QA Lead with expertise in testing web applications, automated testing, and building and coaching strong QA/testing
+teams. Skilled in defining and implementing QA and testing strategies, developing and maintaining automated tests in Selenium
+and/or Cypress, and testing web-based applications across the full-stack.
+
+Experience
+
+Innovative Medical Technology Firm Oxford, UK
+QA Lead Date period
+
+Built and implemented automation testing strategy for Software as Medical Device solution resulting in a 50% reduction in testing
+time.
+
+* Defined test plans and processes for the business.
+
+* Reviewed all test scripts and architecture and led automation testing.
+
+* Selected and implemented appropriate automation tools and designed and maintained automation frameworks.
+* Coached and managed a strong QA/testing team to support business growth and projects.
+
+Tech Company London, UK
+Automated Tester Date period
+Developed and maintained automated tests in Selenium resulting in 60% reduction in testing time.
+
+* Created and executed automated test scripts for web applications.
+* Identified and reported defects and tracked them to closure.
+* Collaborated with cross-functional teams to ensure high-quality software delivery.
+
+Software Company Birmingham, UK
+QA Engineer Date period
+Performed manual and automated testing for web applications resulting in a 30% reduction in testing time.
+
+* Developed and executed manual and automated test cases.
+* Reported defects and tracked them to closure.
+* Worked closely with development team to ensure high-quality software delivery.
+
+Strengths
+"2 Test Automation @# Problem Solving ® Team Collaboration
+Designed and implemented Identified and resolved critical Collaborated with cross-functional
+automated test scripts resulting in issues in a timely manner, reducing teams to ensure effective
+30% reduction in testing time bug count by 50% in 3 months communication and timely delivery
+of projects
+Education
+University of Warwick Coventry, UK
+Bachelor of Science in Computer Science Date period
+Languages
+Java Proficient eeee Selenium Native eeeee Cypress Proficient eeee
+
+JavaScript Advanced eee Python Intermediate ee
+
+www.enhancv.com Powered by (CX7 Ennancu

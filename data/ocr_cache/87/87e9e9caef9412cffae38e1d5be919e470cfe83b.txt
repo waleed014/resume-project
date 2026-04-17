@@ -1,0 +1,33 @@
+Kristoffer Erland
+
+™ MB Technologies, Inc. 555-555-5555 mt
+Ithaca, NY hello@kickresume.com
+United States
+
+™ 13/07/2020
+Application for the Position of Blockchain Developer
+
+Dear Head of Recruitment,
+As a Software Developer with 3 years of experience in Blockchain, I apply with enthusiasm for this position.
+
+I am currently a Software Engineer: Blockchain at 7PH Technologies, where my role mirrors your
+requirements. In particular, I:
+
+¢ Develop emerging technologies such as Blockchain, AI, Machine Learning, and Data Analytics
+¢ Design and refine solutions to secure client systems and improve key management systems
+« Am the Subject Matter Expert for resolving bottlenecks/bugs and devising solutions to mitigate such issues
+
+In addition to my professional experience, I hold a Master of Computer Science. I have strong experience in
+developing large-scale concurrent, event-driven distributed systems, as well as working on public key
+cryptography/blockchain. Alongside JavaScript, Go and C++, I possess excellent CS fundamentals, including
+good working knowledge of algorithms and data structures.
+
+Thave loved every minute of my time at 7PH. As they are relocating to Chicago, I am now seeking a stimulating
+opportunity closer to home.
+
+Please find attached my resume for your consideration. Thank you very much for your time. I look forward to
+hearing from you regarding next steps.
+
+Yours faithfully,
+
+Kristoffer Erland

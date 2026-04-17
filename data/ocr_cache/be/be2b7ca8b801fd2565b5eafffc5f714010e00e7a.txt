@@ -1,0 +1,165 @@
+Jessica CLamre
+
+100 Morgana St 10d Foe # (88) 452100» resunesanpleseranpiecon
+
+Summary
+Driven ests business Intlgence profesional with experienc in data modeling and visualization ols ike Powe BL OBIEE/
+(04 (251g, 10g) ee. have extensively worked in Powe Bi creating reprtsvinalization, developing data models, building
+‘eltonsips, writing Dax configuring gateway and implementing. inplementing RLS cove level ect) with strong knowlege in
+ower query editor. also have expeince in Otiee RPD and dashboards development including BI Publisher am curently
+seeking «Busines inligence postion ina compa where technical eiciency data governance and proven analyte soliton will
+<etebute to company growth and professional advancement. Hardworking individual witha proven track eorde of providing
+etepiesolainsinciding opprating msintenmce end gence prdaction supper.
+
+Skills
++ To01s: + Oracle DBMS, Tabens 102 Informatica 102, OBIEEIOAS (11g
+{129 and BI Publisher ODL, Power BL, Erwin SOL,
+‘SharePoint Windows, Linas Hyperion Financial EBS, Ex
+‘mar view EPM Cloud
+Experience
+
+over BI Developer 05016 00472019
+Firs International Bank Trust ~Minneapoi, MN
+
++ Set connection pol properties to move database dimension ables into the physical ayer to model into the RFD
+
++ Define ime series fancons using facts ble column a¢ AGO, TO DATE ke Perio for analysis lficiency
+
++ Define Repository and Session variables using itaization blocks oconl wer acess
+
++ Cesta Alas tbl in the physical layer to maintain ent inept in dimension table inthe database
+
+> Setcuda amchurion srategy for query opinion wel poenence ning
+
++ Bil earch between sie (parent child) and non-sia data ete eel Based inthe BMD lye and defied level based
+irae a the lowest rama level
+
++ Develop many Reports and Dashbouds with ferent Analytics Views (Dil Down / Dyan Cascading Sve Sheets Pivot
+Table, Chat Column Selector, Tabular with global and lal Fier) using OBTEE Analytics
+
++ Follow Service Request equiseent via BRD to deliver scheduled Bl publisher reports templates and Data Model
+
++ Wate SOL srpt wn to popu colamas presents within tables inthe database based on the BRD which wl be wed in
+bring the data model
+
+«+ Generate an RTF template use to save sample XML files wd to popu the scheduled eportin exe PDF, txt flee.
+
++ Useibotsto schedule jos tobe dlvered based on preset etera
+
++ Crete lca and global ter to be used with diferent analysis and dachboard
+
++ Create executive level dashboards with delldown eapabilties, prom fers inching bar chart. graph, stopp
+
++ Cueto based mares tobe eld a certain level inthe irre
+
+Implemented hierarchy to adres one o many relationships inthe BMM ayes.
+
+OBIEE Developer 272015 0022018
+‘Cognizant Technology Soltions~ Accord NY
+> oe watealand Agrsrum methodologies for widow a projact mgaent to ennse on ie dalvry of projet fromm
+development to production
++ Develop and maintain cache mechanism for performance tuning for eports and dashboards
++ Setup data level and object evel secu OBIEE 1, tg & 12.
++> Cost st vss to iowa perso pene owes
++ Use the foreign hy iki he physical layer and the new comple pint ky in the Business Model and Mapping aver to frm
+seltonsips betwen fat and dimensional tables
++ Bald hierarchy between sir (parent cid) and non sina data sets evel based) in the BNO layer and defined level based
+Irae athe lowest rama level
++ Developed many Reports and Dashboards with diferent Analytics Views (Di: Down / Dyaic, Cascading Sve Sheets Pivot
+Table, Chart Cola Selector, Tabula with global and lal Filter) using OBTEE Analy
++ Une agent for ached reports tobe delivered towers ued on ast of conditions tht automaticly generates &
+sport when the tigger conor net
+«+ Une repository, session variables and ination block fo coniguing ses sas
+
+(Obice Developer 03720131 012015
+Cognizant Technology Seations— Albany, CA
+
++ Requirement and systems specications gathering fom cents through face o face meetings to understand project stages and
+Senplementation procedres
+
++ Undestmding sure systems and dit gation tools and tecsqus tobe usd in having data avlable fo report aed
+dashboards
+
++ Manage worilow using agile-scrum development mathodologes for on time projec delivery tend ses
+
++ Conduct relevant esearch data analysis, in ceting reports and dashboards with diferent views (Dal-Doven, Pivot Table,
+(Chart Colum Slater, an Tabular with lobl and local ites)
+
++ Designing and developing porting semantic layers (OBIEE Metadata Repository) by inpoting metadata froma database ot
+ML es and applying multidimensional data modeling techniques (OLAP/MOLAF, strand snows schemas) or enhanced
+seportingeticency
+
++ Maioaining responsibility for completion and accuracy of work products
+
++ Validating tusnes data models by pecforming consistency check validating lopli’ stractares and validating repostory
+
++ Implementing Tine comipasion and calustion measure in the busines model using Tine Series Wizard
+
++ Setup objet eel and data level secu
+
++ Using sepoiory seston vasales nd intiaization locks for coniguring the data and use secu
+
+«Ital upgrade and configure busines inteligenc and OBIEE 11g
+
++ Createt/modied the OBIEE metadata repository ncuding the physical busines model and presentation areas
+
++ Created tar schemas inthe repository
+
+«Used the foreign yin in he physical aver andthe new comple joint ky in the Business Model and Mapping lave fo form
+selaonhips beeen at and dimensional tables
+
++ Analyze and validated the business model by performing consistency check validated logical bl soutce tables and logical
+cela.
+
+‘OBIEEIOAS, Powter BI Developer 0/2019 Present
+‘The Select Group/General Dynaies Information Techology VA, Obiee OAS City, STATE
+
+«+ Provide support inthe development of OBIEE components and solutions to CDIT
+
+Understand projet equicements and work towards design and development ofthe plan avout
+
+Base on nas requirements cesta ne version ofexctives dashboards and ana and epot propely
+Build testing codes and ensure execution om UAT team members
++ Migeated reports and executives dashboards on UAT and production instances
+
+Adjust and set dashboards user access oles upon management demand
+Design and develop data modeling concepts using vacous data odeing tools ke star schema and dimensional modeling
+Design and place data in ayes varying to physica busines and presentation
+Update User Guide and Technical documents tore the changes made all tne
+‘Work permanently with the Hyperion and inca teams to ensure data on dashboards reflect exactly the data from he source
+Essbase)
+Scctatuly upgrade rom OBIEE 12¢t9 OAS incuding new documentation
+Paricpate tothe OAS exiting executive dashboards conversion to EPM Cloud Executives dashboards
+‘Work with Financia tse ser and anaes to mntin exchange of porting requirements
+Always apply the best practices of busines ntligence to meet prot and company objectives
+deny production errs and rita issues followed and toubeshoo the
+Fix production ists or proces ace
+ean the en wers on understanding the dashboards functionalities and navigation
++ Prepare monthly ports and presen them fo data validation
+
+Crest HR reports in Power BL
++ Connecting to varius data soutce like Oracle, SOLseve, share point excel ee and creating ports
+
+Data cdamsingfnodication in power query einer
+Building elaine in ables
+Configuing gates and scheduling sf inservice sinement
+Contig sited coro ee meres wong da
++ Configuring rove level secuiy
++ Created sports base on bookmarks, page naigation dail hough and tol
++ Publishing and share ports inservice envionment
++ Developing Obee ports to powers
++ Developed, documented and revise system design procedures and quality standards
++ Documented requirements tough funcional opectiations and techni design documents.
++ Developed tested and deployed standard reports and dashboards based on business requirement document spections.
++ Created complex SQL queries and database objects t pull and manage dats,
+
+Education and Training,
+
+‘Bachelor of Science: Information Technolgy, 01/200
+‘Vaal Unvenity of Technology
+
+Diploma Of business Insurance: Business
+Insurance College of ound Cameroon
+
+Certifications
+Ceried Orde implementation Specialist,

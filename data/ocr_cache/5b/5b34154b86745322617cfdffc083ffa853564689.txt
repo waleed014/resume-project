@@ -1,0 +1,61 @@
+ROBERT SMITH
+Senior .Net Developer
+
+Phone: (0123}-456-789 | Email: infodquikresume.com | Website: Quikrestme.com,
+
+Senior Net Developer with 8+ years of experience in designing and developing
+‘collaborative solutions using various Microsoft Technologees. Strong knowledge in
+Soflware Life Cyele process and development methodologies with strong expertise in
+building windows and web-based solutions. Worked on ADO.NET Entity Framework to
+associate with a database for CRUD operations,
+
+[CORE COMPETENCIES
+
+NET. ASP, ASP.NET, C#, IS, INTERNET INFORMATION SERVICES, JAVASCRIPT, WPF,
+Wer
+
+ROFESSIONAL EXPERIENCE
+
+Senior .Net Developer
+Kelloggs - April 2013 - Present
+
+Key Deliverables:
+
++ Worked on software development life eyele starting from requirements gathering
+and performing object-oriented analysis, design, and implementation and
+developing new WCF service interface layer.
+
++ Designed MVC design pattern for asp. Net application development using the
+ASP.Net MVC Framework.
+
++ Developed web services far administrative services, configuration services, and
+pricing services.
+
++ Worked on database modeling and database schemas and also created
+procedures in SQL server 2008,
+
++ Developed user controls usiny asp. Net and eff and used them dynamically in the
+web pages using master pages and CSS,
+
++ Implemented objectrelational mapping using NHibernate and ORM toals,
+
++ Designed and developed! user Interfaces «sin! ASP.Net on Visual Susdio
+
+ored
+
+008,
+
+Senior .Net Developer
+ABC Corp - 2010 - 2013
+
+Key Deliverables:
++ Responsible for planning and designing new software and web applications,
++ Analyzed, tested, and assisted with the Integration of new applications,
++ Oversaw the dacumentation ofall development activity
++ ‘Trained non-technical personnel, Assisted with tricking performance metrics,
++ Integrated the knowledge of business and Ranetional priorities
++ Acted as a key conteibulor ina complex and crucial environment.
++ Lead the teams or projects and shares expertise,
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yaee Resume Template the copy of Quine com, Usage Guleinne

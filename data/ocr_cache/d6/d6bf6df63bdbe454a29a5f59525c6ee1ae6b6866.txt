@@ -1,0 +1,112 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000  resumesamplegexample.com
+
+Professional Summary
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track
+record of driving increased sales, improving buying experience and elevating company profile with target market.
+
+Skills
++ Guest services + Loss prevention
+‘* Inventory control procedures + Cash register operations
++ Merchandising expertise + Product promotions
+Work History
+
+Senior SAP FICO Consultant, 10/2012 to Current
+Infosys — Allen Park, MI
+Environment: SAP R/3 ECC 6.0
+++ The largest American-owned media conglomerate worldwide with an annual turnover of over $3 million worldwide, employing
+in excess of 4,000 people and operations in more than 50 countries
+‘+ Global project scope (4 phases) encompasses systemic migration to New General Ledger to support a growing and diversified
+client base
+++ Part of the migration and phase 3 implementation team for configuration and customization of the New GL
+++ Performed analysis of current firm-wide business processes to assess the usability of the current “AS-IS” document. Co-authored
+a GAP business process analysis report and presented a “TO-BE” business blueprint document to all relevant stakeholders.
+Blueprint suggested a complete restructuring of G/L accounts by means of systematic account number range assignment
+‘+ Configured the LSMW for data migration from legacy systems: defined field-mapping conversion rules, maintenance of fixed
+values, user-defined routines, data conversion, and created/executed batch-input sessions
+‘+ Customized and configured new chart of accounts, account groups. Defined employee tolerances and field status groups;
+implemented procedure for document reversals. Created the G/L master data and stipulated the set of accounts with multiple
+currencies and managed open item clearing
+‘+ Heavily involved in implementing the migration from Classic GL to New GL through various phases of the migration cockpit
+‘+ Configured all cross company-code G/L transactions: document parking / posting; wrote end-user documents for the month-end
+closing process. Customized screen layouts for document posting at the G/L level and account level, foreign currency document
+clearing/posting
+‘+ Assigned scenarios; implemented document splitting and parallel accounting to support global reporting standards. Shared co-
+esponsibility for the total configuration of transfer from classic to extended withholding tax platforms
+‘+ Configured and implemented a range of financial statement versions to support reporting requirements at the segment level
+
+Senior SAP FICO Consultant, 10/2010 to 08/2012
+Infosys — Beaverton, OR
+
++ Switzerland's largest retail company, supermarket chain and employer, with total revenues in excess of $25 billion
+
+++ Project scope encompassed data organization and the facilitation of rapid data retrieval from 37 warehouses, 800,000 items and
+3,500 deliveries through implementation of enhanced organizational structures
+
++ Part of the implementation team for the customization and configuration of the Bank Accounting, A/R, A/P, and AA sub-
+modules
+
+‘+ Assisted the Treasury team in configuring and testing lockbox (in conformance to the BAI? format) and EBS processing
+‘programs, which were designed to handle negative values, credit memos, remittance advice and pre-defined Credit Limits for
+Customers
+
+‘+ Defined the LSMW object for uploading asset master data and restructured the subsequent vendor and customer master records
+that existed in legacy data. Defined customer and vendor payment terms, payment blocks, and reason codes for payment
+differences according to the Dunning system. Configured account determinations for write-offs
+
+‘+ Implemented the automatic payment program, which was designed to enable processing of cash, wire, ACH and check
+payments
+
+‘+ Created AP custom reports for month-end closings
+
+‘+ Customized screen layouts for the asset master data, asset sub-ledgers. Worked extensively on configuring the chart of
+depreciation and depreciation areas; customized depreciated keys for planned, special and unplanned depreciation runs
+
+++ Defined transaction types and account assignments for all fixed assets, including acquisitions and retirements
+
+‘+ Heavily involved in assessing integration points of AA with IO. Go-Live and Post Go-Live support included liaising with the A/
+P and Purchasing departments to implement new business processes to facilitate data transfer between legacy and beta systems
+
+SAP FICO Consultant, Current to Current
+Deloitte
+Environment: SAP R/3 ECC-46
+
+‘+ The leading provider of installation and service of satellite dishes and related products. An exclusive provider for Dish Network
+in numerous U.S states, with an annual revenue exceeding $20 million
+
+‘+ Project scope encompassed the implementation of classic GL and the organization of customer / supplier accounts to enable real-
+time, rapid access to specific receivables and payables information
+
+++ Part of the implementation team for the customization and configuration of GL, A/R and A/P sub-modules
+
++ Collaborated with key stakeholders to document the “AS-IS” process. Performed data validations and account determinations for
+SAP R/3 business mapping, identified data conversions and potential interface requirements in preparing “TO-BE” business
+blueprint deliverables
+
++ Data gathering and documentation process from eight different standalone legacy systems prompted the creation of universal
+‘business process flows and a customized master dataset
+
+‘+ Heavily involved in the streamlining process for customization of the company GL master data: configured the chart of accounts,
+account groups, document number types and ranges, employee tolerances, field status groups, posting keys, document posting/
+parking/reversal processes
+
+‘+ Customized the standard PTP business process to incorporate company specific data regarding purchase requisitions/orders,
+GR/IR verification, clearing processes, manual incoming payment handling (including payments with differences), and
+document clearing
+
+‘+ Defined customer and vendor master records and implemented the automatic payment program to handle invoice postings,
+payment installments, residual calculations, interest payables and post-tax payables
+
+++ Validated and documented customer and vendor banking information. Maintained accounting clerks. Defined payment terms,
+payment blocks, and customer tolerances, and a single A/R reconciliation sub-ledger account for customer transactions.
+Configured the bills of exchange and down-payment processes for customers,
+
++ Produced custom AR reports for the month-end close to demonstrate item detail of open and closed customer invoices
+
+Education
+
+Bachelor of Arts: Business Administration, 2013
+
+San Francisco State University - San Francisco, CA

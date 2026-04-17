@@ -1,0 +1,198 @@
+PROFESSIONAL
+‘SUMMARY
+
+skies:
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 0% Floor WE (655) 432-1000 4 resumesample@erample com
+
+summary:
+
+7+ years of professional experience in SDLC incucing Requlrements gathering, Analysis, Design,
+‘Development, ntegraton and testing of appit00 Montgomery St. 10tn Floortons. Three years of experience
+In integrating he systems using Mule ESB, API manager and IBM Message Broker.
+
+‘Good experience in implementing Service Onlented Architecture (SOA) using XML Web Services (SOAP,
+REST, WSDL and UDO),
+
+‘Good experience in implementing MVC frameworks using Stuts, spring (OC & ROP), Hibernate for
+persistence, JUnt, Active MQ, Anypoint stulo & RAML,
+
+‘Experience in building SOA using web services wth SOAP and RESTIul implementation using WSOL, SOAP,
+JAK-WS, JAX-RS and testing using SOAP Ul ee
+
+‘Good experience in Mule amnistraton, configuration, tuning, Mulesoft MMC and enterprise release 100,
+‘Montgomery St. t0tn Floorpabities.
+
+‘Good experience in Mulesoft on designing and implementing Mule AP,
+
+Hands on experience integrating multiple apl00 Montgomery St. 10th Floortons using Mule ESB, uttzed
+atterent connectors, transformations, routing, messaging and exception handing using Mule ESB.
+
+Experience in working with databases tke oracle 10g/t1l, MS SQL server and OB2 to manage tables and
+created views, indexes, sequences, stored procedures, functions, and tiggers for the fast etieval and
+‘manipulation of data
+
+‘TDD (Test ven development wth JUNI, proilent in integration testing of web app100 Montgomery St
+10tn Floortons and remote systems.
+
+‘Expertise in making the continuous integration successful using Jenkins.
+
+Experience wih buld/deployment and release ofthe appii100 Montgomery St. 10th Floorton using Maven,
+ant
+
+sxas Protocols: HTTPINTTPS, SMT, FTP, SOAP. MO,
+Platforms: Windows, AK, Solas, UNK, Mainrames, JMS, TCPIP SSH, SFTP
+nu Tools: ear 100 Montgomery St 10m Foose, SV,
+Middleware: Mule ESB, Anypont pao, CloudHub, Gu Jenkins, bt bucket
+was, Ma Language Java, SOL, MEL, XSL, UML She Sep
+Python
+MULESOFT DEVELOPER, 0272020 0 CURRENT
+
+om Corporation| Lima, OH
+
+Responsibilities
+
+Pancipate in Requirement Gatnering, analysis, design and development of project. Executed development
+process using Agie metnodology, which Included teratwe applT00 Monigomery St. 10tnFloorton
+‘evelopment. monty Sprints, stand up meetings, poker planning Sessions, elaboration sessions and
+customer reporting
+
+Implement integration flows using Mule Anypoint Studio to connect to REST, SOAP service, Oracle
+Database, and Active Ma broker.
+
+Design and develop enterprise services using RAML and REST based APis and used various transformers
+In Mule E38 based on use 100 Montgomery St. 10th Floorse and had implemented the custom
+transformations
+
+‘Work on Mile API Gateway for appii00 Montgomery St. 10tnFloorton of polices to AP as well for
+‘managing secuty. Also worked with Prony settings using API Gateway for APIS,
+
+Implement synchronous and Asynchronous messaging Scopes using Active in Mule
+
+Create Mule flows to integrate Data rom varus sources nto Database, trom AciveM topics and WMG
+‘queues, some transformations were also done at Iniegraton layer.
+
+‘Create interfaces between Salesforce, REST and SOAP web-serices.
+
+Use Database Connectors to connect with respective systems using Mule ESB,
+
+Create nt nbound & outbound flows, transformers, ilerng and Securty of Mule Flows.
+
+‘Create Request & Response transformers, Custom Components & configured them n Mule-coiig xm
+
+LUuize mule components that include Fle Transport, SMTP Transport, FTP/SFTP Transport, JOBC
+Connector, and Transaction Manager
+
+‘Deploy Mule ESB applt00 Montgomery St 10th Flooons into MMC (Mule Management Console and used
+‘Muni to vakdate mule fos
+
+Part of production support 24x7
+Environment: Java 17/18, Mule ESB 3.9 410, Anypoint Studo, Mule Standalone Server, AcveMO,
+Gib, Btbucket, CXF, SOAP, REST, OAuth, Apache-Maven, FleZil, Putty, MUnt Salesforce, WMO, RAML,
+JSON, JUnit
+
+MCLESOFT DEVELOPER 117201810 0272020
+om Corporation | Lowell, MA
+Responsibilities:
+
+‘Understand functonal requirements and map them to business / functional domain and processes which
+Includes analyzing and dentin 100 Montgomery St. 10h Florton of reusable serdces i already exsting
+
+Prepare techni100 Montgomery St. 10h Flor speciii00 Montgomery St. 10th Floortion documents (TSO's)
+for alle services that are tobe implemented
+
+‘laze various connectors such as Sales force, FTP, HTP. VM, Fle, SMTP, SFTP, Servet, and Database
+
+“Transom message using XSLT, DataWeave, and Custom Java Transformers to transform data from one
+format to another format sing Mule ESB.
+
+Have witen batch jobs to run at schedule times,
+
+{API Manager has been used registering, designing, bulging and managing AP'S.
+
+Designed and developed enterprise services using RAML and REST based APIs in Mule Sof.
+
+sed various transformers in Mule ESB based on use 100 Montgomery St. 10th Foorse and had
+Implemented the custom transformations.
+
+‘Create new and updated exstng APIs using RAML and API KIT for defining integration schematics.
+
+Deploy appit00 Montgomery St. 10th Floortons into Mule Soft CloudHub and Mute Management Console
+
+‘Create bull script using ANT to bud, package, test and deploy applt00 Montgomery St 10th Footions in
+was server
+Environment: Java, Spring Core 3.07 MVC, Oraclettg, JPA, Mule ESB 3.2.5 Kibemates 0, SOAP, REST,
+SOA. JUnit 9, IBM Websphere logs), SAL, PUSGL, Maven, Jun, TeStNG, UnbdLinux JOBC, XML, UM,
+caps.
+
+MOENGINEER 11201610 1072018
+
+prizer| South San Francisco, CA
+
+Responsibilities
+‘Configure Queue Managers, Queves, Channels based on integration needs.
+Panipat in all MQ administration, managing clusters both in GUI and command mode
+-Pancipate in SSL Conriguraton on WebSphere Ma for secu,
+
+Implement pubish-subscnbve scenarios based on requirement.
+Pancipate in maintaining the exsting production systems,
+‘Problem determination and troubleshooting using system, QMGR error logs and FFOC reports
+‘Responsibe for developing procedures for logging! recovery of MA objects.
+‘Design and develop Ma adapiers that use MQ for Javato process XML messages.
+Develop Shel Scnptson various UND platforms for monitoring WMO
+Environment: Mule ESB, WebSphere MG V6, 082, Sql Server, ESQL, Java, Puty, Windows, UNIX
+
+RUDY DEVELOPER 0612014 190872016
+Horizontal | cincinnati, OH
+
+Responsibilities:
+
+Perform business analsis,techni100 Montgomery St 10th Floor analysis, systems design, appt100
+Montgomery St. 10tnFloertion sonware programming
+
+‘Communit0o Montgomery St. 10tnFloote with Apple customer to design web appi100 Montgomery St. totn
+Floortion,
+
+Design End-to-End web appit100 Montgomery St. 10th Floortion development wth the Ruby on Ral
+
+‘Worked vith business analysts to understand ther business models and goals and help define strategy,
+content, ana features
+
+Implement and enhanced CRUD operations forthe appi100 Montgomery St. 10th Flootions using the MVC
+(Model View Controle) archtecture of Rals framework and Ruby conducting code reviews,
+
+‘Develop consumer-based features and appl100 Montgomery St. 10th Floortons using Ruby on Rais,
+HTML, CSS, JavaScript, Bootstrap, AIAK sGuery, and pai-based programming
+
+Design PostgreSL database model fr entre appi100 Montgomery St. 10th Floortion ike creating tables,
+ews and stored procedure.
+
+‘Adging o Apple Aulnenti100 Montgomery St 10tn Floorton and Autnorzaton.
+
+Colaborate and cooranated wit the management and design to mnplement new features ke ntemalzation,
+wed accessiity,
+
+Used Git version control system wth GitHub services
+
+Configure server-side to secure sensitive data using htps/SSL
+
+Extensively involved in bug fang, code refactoring and peer-reviews.
+
+‘Support production and development on Apple server Mac environments.
+Environment Rails 5.0.2, Ruy 2.40, HTML, CSS, Bootstrap, JavaScript, Phusion passenger, Nginc
+
+Computational Science
+UNIVERSITY COLLEGE
+
+[Bichelor of Science | Computer Science osrzor4
+University
+
+CCertti100 Montgomery st. 10th Floortion:
+‘Mulesot ceriied developer version 4 and 3
+(Oracle certined Java developer version 1.6

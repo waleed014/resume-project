@@ -1,0 +1,104 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor © (555) 432-1000 # resumesamplegexample.com
+
+Summary
+
+Python Developer with 3 years of experience with good analytical and critical thinking skills. Delivers a proactive approach, great
+work ethic, and the ability to function well in fast-paced/deadline-driven team environments. Eager to learn new skills and
+technologies.
+
+Education
+
+Master of Science: Advanced Data Analytics
+University of North Texas - Denton, TX
++ This course work provided me an overview of quantitative methods essential for analyzing data, with an emphasis on business,
+and industry applications. Gained hands-on experience on various tools and technologies such as BigQuery with GCP,
+statistical tools such as SAS, visualization tools such as Google Data Studio and Tableau, Deep Learning using Python with
+libraries like Numpy, Pandas, TensorFlow,Matplotlib, Keras, etc.
+
+Master of Technology: Machine Learning And Computing, 05/2020
+KL University - Vijayawada, IN
++ This course work provided me detailed knowledge on machine learning and deep learning concepts with real-time
+applications. Gained hands-on working experience with Machine Learning algorithms such as Classification and Prediction
+algorithms like Linear Regression, SVM, KNN, Naive Bayes, etc. and, Python libraries such as Numpy, Pandas, Matplotlib etc.
+Awarded with a Presidential Gold Medal for academic excellence.
+
+Bachelor of Technology: Computer Science And Engineering, 05/2016
+JNTU- Hyderabad, IN
++ Bachelors in Computer Science with 72.25%.
+
+Publications
+
+Published a paper entitled “Mobile SMS Spam Filter Techniques using Machine Learning Techniques” In International Journal Of
+Scientific Technology and Research.
++ The base point of this research work is, differentiating the messages which are legitimate or not.
++ To compare between these messages, I have used various machine learning algorithms to predict the messages and calculate the
+accuracy criterion by using the SMS Spam dataset.
++ Thave used word tokenization for segmenting the message in keeping with phrases, characters or symbols. Also, used
+vectorization to convert the text into appropriate numerical values.
+‘+ Used Python, PyCharm IDE , Python libraries such as TensorFlow, Pandas, etc.
+
+Skills
+
++ Python + Machine Learning
+
++ Flask + Tableaw
+
++ Microservices and REST APIs + Data Analytics using SAS
+
++ AWS Elastic Beanstalk + OpenRefine
+
++ BigQuery with GCP + Splunk
+
++ Pandas, Numpy, Matplotlib, Keras, TensorFlow + Github & Bitbucket
+
++ HTML, CSS and JavaScript + Jenkins , CCD
+
++ 5QL + Agile & Scrum
+
++ Caching using Redis ++ JIRA, Confluence & ServiceNow
+Experience
+
+Associate Technical Engineer, 08/2020 to 04/2021
+Amgen Inc. ~ West New York, NJ
++ Worked on various projects like Enrollment, SIS, Gradebook for US K-12 system using Python and Flask web frameworks.
++ Designed and developed scalable APIs using Python Flask.
++ Created reports on student performance using MySQL.
++ Proficient in Test Driven Development (TDD) and unit testing using Unit Test/PyTest.
++ Used Jenkins to build microservices and integrated to deploy in AWS Elastic BeanStalk.
++ Also used web scraping python tools such as Beautiful soup, etc.
++ Participated in requirement gathering and closely worked with product owners and other stakeholders.
+
+Python Developer Intern, 04/2020 to 08/2020
+Do It Best Corp - Montgomery, NY
++ Responsible for design and development of Loan application admin portal using Python based APIs(RESTful web services) by
+using Flask, SQLAIchemy and MySQL.
++ Worked with Matplotlib and Pandas python libraries for analysis and manipulation of data.
+«+ Implemented Restful web service to interact with Redis Cache framework.
++ Generated Python Flask web forms to record data of online users and developed numerous highlights for dashboards utilizing
+Python, CSS, JavaScript and jQuery.
++ Worked on various Python IDE’s like PyCharm, Visual Studio Code, Sublime Text, Anaconda and Jupyter Notebook.
+Produced supporting reports and documentation to help development team members complete project work.
+
+Software Developer Intern, 08/2019 to 01/2020
+Abt Associates — Cambridge, MA
+* Developed a web application using Python, HTML, CSS using Flask web framework and developed RESTful micro-services
+using Python.
++ Created a chatbots for a web application using NLTK packages and chatterbot python library and also used machine learning
+algorithms.
++ Rewrote existing python modules into reusable APIs to deliver data in a certain format. Also, used MySQL as the data
+management system,
+* Used Python Library Beautiful Soup 4 for Web Scraping to separate information for building diagrams.
++ Responsible for development using Python 37, bug fixing and unit testing of APIs using PyTest.
+
+Associate Analyst, 10/2016 to 08/2018
+Wipro Ltd. - City, STATE
+« Experience with Pandas python libraries and maintaining APIs for the application using Python.
++ Used Python for data analytics, data wrangling and extracting data using Pandas, NumPy and SciPy.
++ Designed data patterns and trends through spatial mapping using Python REST APIs for Google Maps.
++ Analyzed, designed, developed and implemented difficult and complex multi-tiered applications using Python, JavaScript and
+worked with databases like MySQL.
++ Responsible for evaluating QA content for testing and implementation processes.
+
++ Awarded as a Best Employee.

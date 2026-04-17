@@ -1,0 +1,104 @@
+.NET Developer
+
+Personal Info
+
+Address
+2711 Collins Avenue
+
+Westerville, OH 43081
+
+Phone
+
+614-821-7264
+
+E-mail
+
+doreen@terry.com
+
+Linkedin
+
+linkedin.com/dterry
+
+Skills
+
+SP.NET Core 3.1, ASP.NET
+MVC 3-5, C#, Visual Basic,
+
+F#, and C++
+
+JIRA, Firebase, Docker Cloud,
+Browser Stack, AWS, Redash
+
+Docker Scripting
+
+SQL and T-SQL
+
+Agile Workflow
+
+Dependability
+
+Effective Communication
+
+Problem-solving Full Stack .NET developer with 9+ years of commercial
+
+experience in using ASP.NET Core 3.1, ASP.NET MVC 3-5, C#, Visual Basic,
+
+F# and C++ to complete desktop and mobile tools for a range of business
+
+clients from HR, Al, SaaS, Fitness, and loT industries. Completed over 130
+
+web projects, 25 web apps, 18 mobile and desktop apps to 100% schedule
+
+and budget, and 97% desired functionality. Eager to apply proven software
+
+development skills at Monolith Softscapes.
+
+Experience
+
+2012 -
+
+present
+
+Education
+
+2011
+
+.NET Developer
+
+wareHouse
+
+°
+
+Developed 130 web projects using ASP.NET, HTML and
+JavaScript.
+
+Developed 43+ web, mobile and desktop apps using ASP.NET
+Core 3.1, ASP.NET MVC 3-5, C#, Visual Basic, F#, and C++.
+Worked for a range of business clients from HR, Al, SaaS,
+Fitness, and loT industries on projects worth $40m total.
+Completed all projects to 100% schedule and budget, and
+97% desired functionality.
+
+Introduced remote testing and updating with Docker scripts.
+Involved in all phases of project life cycles, from inception to
+analysis and patching.
+
+Experienced in using Agile methodologies, JIRA, Firebase,
+Docker Cloud, Browser Stack, AWS, Redash.
+
+Maintaining Coding Standard practices, high quality NET
+code, and high quality normalization techniques with SQL and
+
+T-SQL.
+
+BS in Software Engineering
+
+Purdue University
+
+Certifications
+
+Microsoft Certified Solutions Developer: App Builder
+
+CSE Data Management and Analytics
+
+Oracle Database Administrator Certified Professional

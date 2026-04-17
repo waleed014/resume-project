@@ -1,0 +1,59 @@
+FIRST LAST
+
+New York, NY | P: +44 123456789 | first.las(@resumeworded.com
+
+EDUCATION
+RESUME WORDED UNIVERSITY Boston, MA
+Bachelor of Information Technology Management Expected May 2022
+
+Major in Computer Science; Minor in Cyber Security
+Cumulative GPA: 3.93/4.0; Dean’s List 2015-2016
+Relevant Coursework: Data Analysis, Operating Systems, Cyber Security
+
+LONDON SCHOOL OF COMPUTER SCIENCE New York, NY
+Study Abroad Program in Cyber Security Jul 2018 - Jul 2019
+WORK EXPERIENCE
+
+RESUME WORDED & CO. New York, NY
+Entry Level Cyber Security Analyst Jun 2021 - Sep 2021
+
+e Provided base-level IT support to 10+ non-technical personnel within the business.
+e Installed software, modified and repaired hardware, and resolved technical issues; increased efficiency by 15%.
+© Performed 5+ code reviews of custom applications toidentify errors and software weaknesses, reduced errors by 35%.
+
+GROWTHSI New York, NY
+
+Cyber Security Analyst Intern Jun 2020 — Sep 2020
+
+e Assisted in two projects on malware detection and protection, reduced attacks on Content Delivery Networks and SSL
+cross-site scripting by 15%.
+
+e@ Discovered 3+ new potential vulnerabilities, threats in the web servers, and suggested upgrades.
+
+VOLUNTEERING & UNIVERSITY PROJECTS
+
+LOCAL BUSINESS SECURITY PROJECT Feb 2020
+e@ Worked with two local business IT departments to conduct penetration testing and local vulnerabilities. Identified three new
+vulnerabilities and threats and provided recommendations to reduce risk.
+
+CYBER SECURITY PROJECT Jan 2020
+@ Monitored Company A’s networks for security breaches and investigated violations. Presented findings and recommendations
+to aclass of 30+ students.
+
+ACTIVITIES
+RESUME WORDED SECURITY SOCIETY Boston, MA
+Head of Events Sep 2020 — Present
+
+e Founded the first-ever Cyber Security Series to organize security training for 200+ students.
+@ Organized and advertised 10+ quarterly employment networking events with 300+ participants in 3 universities in Boston,
+resulting in a 65% hire rate.
+
+RWU SECURITY SOCIETY Boston, MA
+Committee Member Jan 2020 — Present
+@ Organized hands-on training in computer forensics and penetrating testing labs for 40+ members.
+
+ADDITIONAL
+
+Technical Skills: Software Development Life Cycle (SDLC), Microsoft Project, SQL, Python, Excel, Linux
+Languages: Fluent in French, English; Conversational Proficiency in Italian, German
+Certifications & Training: Online Course in Project Management (Coursera), Passed Resume Worded examinations

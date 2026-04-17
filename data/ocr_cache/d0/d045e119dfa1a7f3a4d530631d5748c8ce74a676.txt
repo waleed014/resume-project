@@ -1,0 +1,157 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+Full Stack Developer
+© 100 Montgomery St. 10th Floor °& (655) 432-1000 4 resumesample@example.com
+
+Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of
+backend and frontend development requirements. Handles any part of process with ease. Collaborative team
+player with excellent technical abilities offering 6 years of related experience
+
++ Web Technologies: HTML5, CSS3, SASS, * Databases: Oracle, MySQL, SQL Server,
+JavaScript, Typescript, React JS, Graph QL, PostgreSQL, DB2
+Node.JS, JSON, Git hub + Software Best Practices
++ Development Tools: Microsoft Visual Studio + + Web Analytics Tools
+Code, Eclipse + Critical Thinking
++ Frontend Testing Tools: React Testing Library,
+Jest, Enzyme
++ Debugging Tools: Chrome Developer Tools,
+Firebug
+
++ Servers: IBM WebSphere, HTTP Web server
+
+FULL STACK DEVELOPER 03/2021 to CURRENT
+Jpmorgan Chase & Co. | Loveland, CO
+
+‘+ Involved in creating client faced web application using HTMLS, CSS3, React with Typescript, CMS Strapi
+
+‘+ Used React Hooks to create functional components
+
+‘+ Created Graph QL Queries and mutations to integrate with Backend using apollo-server
+
++ Extensively worked with backend team to display data using Custom Components, library Components
+‘and Context API
+
+‘+ Implement Animations using Framer Motion
+
+‘+ Used Content Management System Strapi JS for both static and dynamic user related data
+
+‘+ Extensively used GIT for version controlling following conventional commits and regularly pushing code
+to Github
+
+‘+ Used JIRA as bug tracking system to track and maintain history of bugs/issues on everyday basis
+
++ Interacted with testing team, Scrum master and Business Analyst for fixing issues
+
+‘+ Handle cross browser/platform compatibility issues (IE, Safari and Chrome)
+
+REQCTINODEJS DEVELOPER: 06/2018 to 03/2021
+Cognizant Technology Solutions | Orlando, FL
+
+© Work closely with business and systems analysts for discussing requirements and limitations of users
+
+‘Extensively involved in design discussions and user experience sessions conducted by COE (Center of
+Excellence) alongside providing inputs on layout and UX design
+
+‘Active participant in Team Status Meetings, Requirements Gathering Sessions and Sprint Retrospective
+
+‘+ Implement intelligent solutions to overcome gaps between actual requirements and business rules
+
+‘+ Develop response single page applications and mobile applications using React JS and Bootstrap
+
++ Designed Graph QL to build client applications by providing intuitive and flexible syntax and system for
+describing their data requirements and interactions
+
+* Built Middleware's based on Express JS for Node JS Micro-services
+
+‘+ Created Secrets in Open shift for Applications
+
+‘+ Deployed application code into QA, staging, preproduction and production using AWS code deploy
+
+© Worked on Creating and Integrating Node JS Lambda function with API Gateway in AWS.
+
+‘Handle cross-browser compatible and standard-compliant CSS based page layout issues
+
+‘= Review application code as defined by high level requirements and coding standards by utilizing
+development techniques, such as fisheye technique
+
++ Developed Node JS REST based APIS using Express JS and Fastify Frameworks following Micro
+services Architecture
+
+* Environment: React JS, Node JS, HTML5, CSS3, JavaScript, JSON, GIT, , JIRA, Jenkins, Agile, Scrum,
+Githiub, RESTIul Web services
+
+‘SFOUI DEVELOPER 01/2017 to 06/2018
+Dish Network Corporation | Antioch, CA
+
+‘+ Web design and development, application development using HTML, Java Script and Bootstrap
+
++ Designed dynamic and mult-browser compatible pages using HTML5, CSS3, SASS, Bootstrap, JQuery,
+Angular JS, AJAX, PHP and JavaScript
+
++ Created an intemal browser-based text editor using HTML, CSS, JavaScript, Requires, Backbone js,
+handlebars js, Jasmine
+
++ Performed automation tests using JavaScript, Jasmine and Protractor to perform UI testing
+
++ Wrote and executed automated tests in Jasmine/JavaScript/Protractor /Selenium for a browser-based
+application
+
++ Responsible for ensuring the pattern consistency across all pages
+
+‘+ Responsible for design and development of the web pages from mock- ups
+
++ Setup framework for all current and future front-end projects to use Backbone js, Handlebars js,
+Require.js and Jasmine for framework, organized module definitions and unit tests
+
++ Responsible for creating the screens with table-less designs meeting WSC standards,
+
+FLOL STACK JAVASCRIPT DEVELOPER 01/2016 to 12/2016
+New York Life | City, STATE
+
+‘+ Responsible for gathering requirements from the client business unit by participating in design
+discussions and implementation feasibility analysis with business analysts at al levels
+
++ Worked on SOA to develop RESTful Web service to generate and consume services from different
+modules
+
++ Implemented MVC Framework to make single page applications [SPAs] for responsive services
+
++ Use JS framework such as AngularJS (for data driven apps) and Backbone js (for heavy DOM
+manipulation)
+
+‘+ Bull he project upon the Single Page Application (SPA) criteria
+
++ Developed Data driven framework using Selenium Webdriver to Automate testing of web applications
+
++ Involved in building applications using React JS by building re-usable U! Components
+
++ Used AngularJS to develop client-side applications using JavaScript in a clean Model View Controller
+(vc) way
+
++ Built ne reusable service components using Angular JS services and Node js with Object Oriented
+JavaScript, JQuery, HTML, CSS3 based on the visual designs
+
+‘+ Developed REST services using Node.JS to serve the web application with JSON data
+
+‘+ Used Jasper reports and tree charts to generate various statistical reports
+
+‘+ Involved in performing Unit and integration testing (JUnit)
+
++ Worked with HTMLS, CSS3, JSON, JavaScript, Reactjs and ES6 for developing user interface
+
++ Strictly followed TOD using Agile methodologies.
+
+Master of Science | Computer Engineering 12/2017
+University of Houston Clear Lake, Houston, TX
+
+Bachelor of Science | Computer Science Engg 05/2015
+Jawaharlal Nehru Technological University, Hyderabad, India

@@ -1,0 +1,79 @@
+Wilburn Macejkovic
+564 Godfrey Key, New York, NY @ Phone: +1 (555) 534 4905
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR SAP BPC / BW CONSULTANT
+Detroit, MI
+12/2016 — present
+‘+ Knowledge of workflow / audit trail
+Additional bonuses
+Referral programme
+Language classes
+Life insurance
+Medical cover
+Sport Groups
+
+SENIOR SAP BW HANA CONSULTANT
+
+Boston, MA
+03/2012 — 07/2016
+
+‘+ Develop BW queries using BEX query designer
+
+jependently, conduct assessments and meetings with client on HANA technology platform
+capabilities
+
++ Basic Architecture and knowledge of how BW on HANA works & insights into sizing, HA, DR for BW
+
+on HANA systems
+
+Modelling and handling various types of SAP extractors in modelling like LIS, FI, COPA, Generic etc
+
+BW data load processing and automation
+
+Building and handling large data warehouses with BW
+
+Excellent spec writing documentation
+
+SAP BW CONSULTANT
+Phoenix, AZ
+04/2007 — 02/2012
+‘© Support in developing test scripts and provide process expertise during test execution
++ Serves as a liaison between the Client Business Unit and Information Technology group to develop
+enhancements and development of business processes in SAP BW
+‘© Working under global environment is a plus
+‘+ Loyalty (Team , Management)
+‘+ Excellent knowledge in both functional and technical domain of SAP BW and good query development in
+the areas of SAP modules SD, FICO, PP, QM, MM, WM.
+‘* Ensures stabilization of the solution and continuous improvements
++ Active participation in analysis, development, implementation and maintenance/support of company
+solutions based on SAP BW technologies,
+
+THE UNIVERSITY OF ALABAMA
+Bachelor’s Degree in Computer Science
+
+‘* Excellent knowledge in both functional and technical domain of SAP BW and good query development in
+the areas of SAP modules SD, FICO, PP, QM, MM, WM.
+
+Detail-oriented, excellent analytical skills and effective problem solving skills
+
+Being able to work under pressure, in critical situations and under tight deadlines
+
+Has the knowledge of DB(Oracle, HANA, DB6), SAP Netweaver, performance tuning and upgrade etc
+SAP Basis knowledge would be an advantage
+
+Be able to communicate in English
+
+Strong and convincing personality for interaction with customers
+
+A real team player with initiative and ‘can do' attitude who learns and adapts quickly in an international
+environment
+
+‘* Candidate should be very strong in communication, presentation, and consulting skills
+
++ Candidate should be strong in communication, presentation, and consulting skills

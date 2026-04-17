@@ -1,0 +1,189 @@
+PROFESSIONAL
+SUMMARY
+
+TECHNICAL SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10tn Floor €& (55) 492-1000 4 resumesample@example.com
+
+‘+ Over 7+ years of experience in application integration, design, development using Claiteava and Mule
+ESB.
+
+‘+ Hands on experience with MuleSoft Anypoint Platform, Mule Anypoint Studio, Mule ESB, Mule
+Expression Language, Mule Connectors, Anypoint Salesforce Connector, Mule Scopes, Mule Routers,
+‘Mule Components, Mule Transformers, Mule Fiters, Mule Flow Control, Mule Runtime Engine, Mule
+‘ClouaHub, Muni.
+
+‘+ Experience in wrting Queries, Procedures, and packages in SQL. Database Design, Creation, and
+‘Management of Schemas, writing functions, Triggers, DDL, DML SAL queries. Experience inuting SQL.
+‘and PUSQL programming
+
+‘+ Proficiency with deploying, Configuring, ana Administering Application &amp: Web Servers such as IBM
+WAS, ClaireBOSS, and Apache Tomcat 6.07. x
+
+“+ Good experience in CUCD tools lke Claireenkins, GitHub, Maven (for proCiaireect bulltes’
+deployment), MMC and Anypoint Runtime Manager.
+
+‘+ Experience in unit testing and winting the MUnit Test cases forthe fows and used Active MQ for
+messaging.
+
+‘+ Strong experience in integration using Mule ESB in integrating various third-party systems.
+
+‘+ Applicaton integration experience using Mule ESB with Connectors, transformations, Routing, ActiveMQ.
+‘and ClaireMS. Data Transformations using Mule ESB.
+
+‘+ Good experience in using Mule connectors such as HTTP/HTTPS, Data Weaves, Choice, API KIL
+Router.
+
+‘+ Widely experienced with Mule ESB in designing and implementing core platform components for APU
+Services Gateway as well as other technological cross-cutting features.
+
+‘+ Experience in working within fast - paced Agie/SCRUM systems maintained by CiaireIRA.
+
+‘+ Good presentation skis strong verbal and written communications).
+
+‘+ Good analytical, communication and problem-solving skis,
+
+‘+ Good team player, abilty to work independently in a fast-paced environment
+
+Middleware AnyPoint Studio, CloudHub, MuleESB, O$ Windows, Linux distributions
+ClaireMs, Cast ron, Ma Series Servers Tomcat, WebLogic, WAS, Mule runtime
+Integration Mule ESB 3.5/5.6/3.7/9.19.9/4.1 Language Snell script, Claiteava, MEL,
+‘Anypoint Studio, API Management, CloudHub, SOAP, ClaireavaScript, XSLT, Python, C, C++
+
+Restful WS, WSDL, ClalreAXP, ClalreAXB, Dell Boom!
+
+Tools Clareenkins, GIT, SVN, Clear Case, Artfactory,
+
+Ansible
+
+MULESOFT DEVELOPER 10/2019 f0 CURRENT
+‘State Of Oklahoma | ("@Context:"Http:/Schema.Org”, "@Type":"Jobpostiny
+
+Environment: Mule 3.9/4.3 x, Anypoint Studio 6 517 5, Clareava 7, DataWeave, CloudHub, MS-SQL,
+Salesforce, Seibel, SAP, workday, GIT, SVN, Maven, Claireerkins, Anypoint Platform.
+
+Responsibilities
+
+‘+ Design various types of lows which are integrate with Salesforce, Database, Workday, Mainframes,
+FTP etc
+
+‘+ Created AP! interface using RAML 0.8 and 1.0 and create synchronous and asynchronous flows
+
+‘+ Implement services or interfaces to connect both internal and external SOAP and REST service
+providers.
+
+‘+ Implement error handing strategies using On€sror continue, OnError propagate and try scopes.
+
+‘+ Coordinate inal testing phases and worked closely with Performance testing team to create a baseline
+for ne new application.
+
+‘+ Design and implement RESTFULISOAP Web Services using various data format (ClaireSON, XML) to
+‘provide an interface tothe various third-party applications,
+
+“+ Create fows/orchestratons for integrating the components tke connectors, transformers and scopes
+unten on top of aitferent internal platforms using Mule ESB for XML to CSV.
+
+‘+ Done with transformers, testing and Secumty of Mule ESB endpoint through Autn
+
+‘+ Responsible in developing integration workflows using Mule ESB framework, implemented DataWeave
+‘and Data Mapper, and content-based routing using Mule ESB,
+
+‘+ Extensively used Mule components such as File Transport, HTTP, SMTP Transport, FTP/SFTP
+‘Transport, ClaireOBC Connector, and Transaction Manager.
+
+‘+ Perform unit testing through MUnit test cases for mule ows and deploy to ClouaHub.
+
+MICLESOFT CONSULTANT. 04/2017 to 0972019
+Deloitte | Boca Raton, FL
+
+Environment: Ciaireava, Servlets, ClaireSP. Hibernate, Spring, MuleSoft ESB 9.5, API Manager, Anypoint
+Studio, AciveMa, Salestorce, ClaireMS, EClaireB, Hibernate, HTML, XML, Design patterns, UML, Claireunt,
+Oracle.
+
+Responsibilities
+
+‘+ Identity, analysis, defniton, design, implementation and deployment of full software development ite
+‘gle (SOLC) of the proCiaireect.
+
+“+ Design RAML based REST web services APTS using Anypoint Studio,
+
+‘+ Configure cluster environment using server nodes and configure ActiveMQ with diferent topologies in
+Enterprise integration
+
+‘+ Create ClaireM(X monitoring application to monitor the load on the mule servers.
+
+‘+ Create MUnit for Mocking and Unit testing Mule flows,
+
+‘+ Deploy Mule applications using MMC (Mule Management Console)
+
+‘+ Bult ClaireaX-WS services and exposed them securely using CXF component.
+
+‘+ Consumed both internal and esternal SOAP web services using Web Service consumer
+
+‘+ Implement SQL, PLISQL for backend processing and execute CRUD operation rom mule flow.
+
+‘+ Responsible for Coding, Unit Testing and Functional Testing and Regression Testing of the systems,
+
+‘+ Create MUnit Test Cases and Mocked the test data for validating the postive and negative scenarios.
+
+‘+ Worked on bug fing ana Production Support
+
+CLOIREAVA DEVELOPER 08/2014 to 03/2017
+‘Securenet Technologies, Lic | City, STATE
+
+Environment: ClaireAVA, ClaieSP, HTML, CSS, ClalreAVASCRIPT, ACIaireAX, SERVLETS, STRUTS,
+HIBERNATE, ECiaireB SESSION BEANS , LOGACiaire, WEBSPHERE DATASOURCE, IBM WEBSPHERE,
+ClaireNDI, ORACLE, WINDOWS XP, UNIX, ANT, ECLIPSE.
+
+Responsibilities:
+
+‘+ Analyzed the requirements and provided inputs to the designer.
+
+“+ Designed Class diagrams, framework and developed using Factory, DAO, Singleton and MVC pattern.
+
+‘+ Developed the business ter using Core Claireava and the HTTP interfaces using Servet.
+
+‘+ Involved in review of the design and helped in transforming the application to an optimized solution
+tramework.
+
+‘+ Designed the helper classes for better data exchange between the MVC layers.
+
++ ClaitesP, HTML, ClaireavaScript, CSS and AClaiteax used for front end development.
+
+‘+ Implemented Collections API to manage Clalreava ObCiaireects in Business Logic layer.
+
+‘+ Bult the admin module using Struts framework for the master configuration
+
+‘+ Worked with multithreading in synchronized environment
+
+‘+ Designed and developed the persistence ter using Hibernate framework
+
+“+ Used Websphere data sources for the database connection and accessed using ClalreNDI names,
+
+‘+ Implemented the Websphere scheduler and provided the scheduling logic to process the Cache.
+
+‘+ Developed a Stored Procedures for inserting and updating the tables ofthe database.
+
+“+ Used Oracle as relational databases and created E-R diagrams for the database tables,
+
+‘+ Implemented Log4Ciaire to maintain system log
+
+‘+ Managed the functional and load testing by interacting withthe testers and providing them the
+‘uidelines and deadlines for completion of work
+
+‘+ Direc interacted with the client application leads, to help them integrate their application with MNP.
+
+‘+ Eclipse was used for Rapid Development of tne appiication.
+
+“+ Bulld EAR using ANT tool
+
+‘+ Deployed the application on production server along with WAS administrator.
+
+Bachelor of Science | Computer Science
+PTC, GA

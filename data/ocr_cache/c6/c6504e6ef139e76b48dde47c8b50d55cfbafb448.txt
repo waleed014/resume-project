@@ -1,0 +1,30 @@
+Nakesha Ryan
+
+2868 Rath Coves, San Francisco, CA
+
+ay Mobile phone:
++1(555) 589 2101
+
+(D EXPERIENCE
+
+Database Manager — Harber-Jerde, Houston, TX 08/2018 — Present
+
+e Effectively work in team environment with multiple skill set levels
+e Interact with technical and non-technical colleagues, including the ability to facilitate decision making by clearly
+representing complex technical subjects
+
+Database Manager — Beatty, Ebert and Doyle, Houston, TX 04/2015 — 03/2018
+
+¢ Define how the team evolves and interacts with the rest of engineering
+¢ Help educate the rest of the Engineering Organization about the performance consequences of their code
+¢ Drive technical investigations, prototypes and experiments (and guide and empower other engineers to do so)
+
+TH EDUCATION
+
+Academy of Art University — Bachelor's in Computer Science
+
+@ SKILLS
+
+Participate in identifying opportunities and improving the processes and culture of the engineering organisation in general
+¢ Experience of working on at least one Relational Database (e.g., Oracle, PostgreSQL, MySQL) and knowledge of internals
+and performance metrics of RDBMS

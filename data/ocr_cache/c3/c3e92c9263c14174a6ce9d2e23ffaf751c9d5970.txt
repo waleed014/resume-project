@@ -1,0 +1,102 @@
+SONA
+MAYERT
+
+EXPERIENCE
+
+Harber Inc
+Detroit, MI
+
+06/2020 - present
+Director of Data Science
+
+Experience with formal research processes and being a part of
+a research-oriented group
+
+Superior knowledge of statistical and analytical methodology
+and tools
+
+A background in big data ecosystems
+
+Knowledge of AWS Data Lake services, neural networks, and
+experimentation methodologies
+
+Demonstrated experience conceiving, building and leading
+successful analytics programs utilizing key technologies (e.g.,
+ML/AI) within healthcare organizations
+
+Results-oriented leader with a proven track record of leading a
+data transformation initiative
+
+AB testing and experimental design processes
+
+Advanced knowledge and experience with best in class data
+strategy design
+
+Hodkiewicz-Witting 09/2017 - 04/2020
+
+Detroit, MI
+
+Data Science
+
+Determine perceived and commercial value, cost of
+development resources (duration, tools) and prioritise
+effectively
+
+Support rapid prototyping of tools to demonstrate value
+Scikit-learn, pandas, psycopg2, pytorch, tensorflow
+
+Dask, joblib, Apache Airflow
+
+Docker images, kubernetes
+
+PyCharm, Visual Studio Code
+
+Logging, pytest
+
+Hands-on data science manager who can lead and conduct
+deep-dive analyses to identify the needs and priorities of the
+business
+
+8854 Mitchell Neck,
+New York, NY
+
++1 (555) 472 1790
+
+EDUCATION
+
+Kent State University
+Bachelor's in Computer Science
+
+SKILLS
+
+Solid coding skills and proficient with
+at least one programming language
+(C++, Java, Python, Scala etc.)
+Proficiency and experience with several
+modeling techniques such as
+generalized linear models, decision
+trees, ensemble learning, regularized
+models (ridge/lasso/nets), clustering or
+neural networks
+
+Fast learner who is data-driven and
+outcome-focused
+
+Coding skills (preferrably
+Python/Pyspark)
+
+Big data frameworks and pipelines
+Interactive data visualization
+
+Data and signal processing (eg, time
+series modeling)
+
+Background in networking / wireless
+communication / network protocols /
+WiFi
+
+Comfortable with setting up
+experimental test beds
+
+Familiarity with Digital Signal
+Processing

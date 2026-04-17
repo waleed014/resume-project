@@ -1,0 +1,58 @@
+ROBERT SMITH
+Network Security Engineer
+
+Phone: (0123) 456.785 | Emai: inlo@quksesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+‘Over 7+ Years of extensive hands on experience in Network and Sacurly engineering and
+‘Network infrastructure, Sirong understanding and experience of Firewall on various platforms,
+‘Managing and implementing remote firewall for State agencies using NSM, SPACE, Smart
+Dashboard and CSM, Configuration of new juniper SRX irewall for remote ste implementation,
+‘Worked cisely withthe cusiomor to suggest the noad of trewallrules, help them design tho
+request.
+
+CORE COMPETENCIES
+GISSP, SCOM, ACAS, HBSS, Project Management,
+PROFESSIONAL EXPERIENCE.
+
+Network Security Engineer
+‘ABC Corporation - October 2010 ~ November 2011
+
+Koy Deverabios:
+Travaled to remote sites forthe Navy Marine Comps Intranet instaling and configuring
+seounity systems per specified DoD regulations
+
+* Bull and instaiod Neiscreen VPN devices using Personal Koy Infrastructur,
+
+* Worked wih Solaris Sun boxes and Del! servers setting up intrusion Detection Software
+such as Manhunt,
+
+Verified tunciionalty and compliance through simulated network atiack.
+
+' Installed, configured, and tested devices to contact to the NMC network te inelude
+Foundry Load Balancers, Raptor Firewall, Juniper NetScreen §X/204/500:5200 VPNs
+Symantec Manhunt [DS, Cisco !DS, and Windows 2000/2003 Server base builds
+
++ Porformed vulnerability assessmant on all network dovices using fools such as ISS Intemet
+Scanner, Retina, Nessus, and Microsatt Baseline Security Analyzer
+
+» Clsely reviewed DISA STIGS to make sure severs were properly hardened, and
+‘developed code to test ll requirements,
+
+Network Security Engineer
+‘ABC Corporation - 2009 - 2010
+
+Koy Deverabies:
+‘3 month contract) Responsbilties User admin on he frewalls RSAM, adding and deleting
+users as they come and go.
+
+Manage ISAM lor submi. firewall exception, romovaland approval
+
++ SAM allows for aulomation and continuous risk monitoring of erical information assots
+andsysiems,
+
+Provided proactive threat dotens@ with ASA that stops attacks before they spread through
+the netwerk,
+
+2250 Oak Steel, Old Forge, New York. 13420
+‘© Ths Exes Resume Template s the copyright of Quikresumecom, Uaags Guidelines

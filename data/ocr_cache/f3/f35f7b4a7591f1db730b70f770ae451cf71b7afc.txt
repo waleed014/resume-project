@@ -1,0 +1,120 @@
+Robert Smith
+
+Middleware/Devops Engineer
+
+PERSONAL STATEMENT
+
+Experience in working an version control systems like Subveision and GIT
+{and used Source code managernent client tools like Tortoise SVN, Stash,
+Sourcetee, Git Bash, Github, Git GLI, and other cormmand-line
+‘applications, etc. Good understanding ofthe principles and best practices
+of Software Configuration Managernent (SCM) in Agile, Serum and Watertll
+methodologies, Created SCM Process, policies, procedures, and Release
+Notes to follow Development and allow QA teams to Release or Deploy the
+highest quality product for the enterprise.
+
+WORK EXPERIENCE
+
+Middleware/Devops Engineer
+‘ABC Corporation. March 2015 - Present
+Fe sponsibibties:
+
++ Supporting multiple teamns for multiple applications including javayj2ee
+‘and, Net,
+
++ Maintaining detailed documentation of moderately complex system
+specifications, including system installation procedures, system backup,
+recovery techniques, and system test methods,
+
++ Developing and impletnenting an agile SOLC and refinement of the
+software configuration management (SCM) infrastructure
+
++ Deploying the Java applications into web application servers ike apache
+tomcat.
+
++ Perforrning all necessary day-to-day subversion functions for the project
+like merging, creating branches and tags using tortoise svn.
+
++ Managing application software codebase including branching and
+versioning,
+
++ Designing and Implementing subversion metadata including elements,
+labels, attributes, tlagers, and hyperlinks,
+
+Devops Engineer
+‘ABC Corperation- December 2013 - March 2015
+Fe sponsibilties:
+
++ Responsibilities supported multiple teams for multiple applications
+Including javey2ee and ios.
+
++ Provided detailed documentation of complex build and release process,
+ops, bulld cydles and calendars including creating bulld reports and
+releace notes,
+
++ Assisted pm and rr creating weekly status reports, roadmaps and other
+presentations.
+
++ Implemented best practices of agile methodology to speed Up the
+dolivery process efficiently,
+
++ Was an active member of dally stand up meetings, bug scrubbing
+‘meetings, and sprint planning meetings as best practices of agile
+environment,
+
++ Worked closely with developers, QA teams, product owners and other
+stakeholders to deliver software through the build and deployment
+
+(Ths Ema Resume Temolate the copyright of Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstullle Road,
+Alabama
+(123)-456-7890
+Infoeequikresume.com
+wwweqwikresume.com
+
+‘SKILLS
+SCM Tools: Subversion,
+GIF, Build Tools: Ant,
+Maven, MS Bulld, xCode.
+C1& Cb Tools: Jenkins,
+nth Pro, Bamboo,
+CChet, Puppet, Docker.
+‘Bug Tracker & Testing
+Tools JIRA, Bugzilla,
+Redmine, junit, HP
+Quality Center, Test
+Flight, And Test Rail
+Project Managernent
+‘Tools: Base Camp, MS
+Project, MS Share Point,
+‘Atlassian Tools, Team
+Foundation Server, and
+Demandware, SOLC:
+Agile, Scrum
+Methodologies,
+Waterfall. Environments
+Servers: Ja0SS, Apache
+‘Torncat, Intsllj DEA,
+Oracle Web Logic, 18m
+‘Web Sphere, lIS Server
+Integrated Development.
+
+LANGUAGES:
+
+English (Native)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Cooking
+Reading
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

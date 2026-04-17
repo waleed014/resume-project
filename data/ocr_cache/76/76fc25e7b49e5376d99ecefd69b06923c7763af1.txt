@@ -1,0 +1,56 @@
+‘An experianced software developer with practical knowledge of objectorionted software
+design, problem solving, implementation and maintonance. | porform effectively both
+individually and in toams and have a proven track record in delivering good quality robust
+software to deadline.
+
+EDUCATION & QUALIFICATIONS.
+[BSc (Hons), * class - Computer Science & Mathematics. Wadham College, Oxtord
+
+A’ Levels - Mathematics (A), Physics (8), Chemisty (B), English (C)
+GCSES - in 10 subjects. Magdalen College School, Oxfocd
+
+KEY SKILLS / SYSTEMS
+
+swva 6 years experience of Java design. implementation, documentation and
+maintenance on Windows and Linux, including JDBC, SQL, Swing, RMI, JUnit,
+Design Pattems / UML, serets, JSP.
+
+Getiunix 5 years experience of C++ design and implementation na Unix (HP-UX)
+envionment, including interfacing 10 and wating C code. Also 2 years of C
+programming in a Unix environment
+
+‘Strengths Skilled and enthusiastic debugger of legacy code.
+Experienced in all stages of the software development life cycle, om
+Fequirements gathering to testing and maintenance.
+Equally capable of working in teams or on own iniative.
+
+CAREER HISTORY:
+FENDER SOFTWARE GROUP INC Oct 04 to date
+
+Java Application Developer
+
+‘+ Part of a 2 - 4 person team implementing a new Java system to replace existing legacy
+systems.
+
+‘+ Managed persistent data using JDBC interface to SOL Server 2000, as well as the Java
+Serialisation scheme.
+
+‘+ Wrote extensive user interface using Java's Swing classes.
+
+‘+ Responsibly forall areas of sofware development life cycle including requirement use cases,
+analysis, design, coding, testing, docs and maintenance,
+
+‘+ Designed large areas ofthe sysiem using UML class and sequence diagams.
+
+‘+ Fully tested the system using JUnit to specify funcional and unittest cases.
+
+Java Application Developer
+
+‘+ Part of a 15 person team developing a new product for catalogue sales over the web, using
+Java servets, JSP dynamic web pages, and MySQL for data storage.
+
+‘+ Responsible for leading design and development of modules of the product, including
+everything from data storage to servlets forthe user interface.
+
+‘+ Particular emphasis paid to design work forthe product, using UM L (Rational Rose) for object-
+‘oflented class and sequence diagrams.

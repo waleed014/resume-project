@@ -1,0 +1,170 @@
+Jessica CLAIRE
+
+Montgomery Stret, San Francisco, CA 94105
+(555) 432-1000 -resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+As the Director of I, managed a team responsible forall corporate and local office systems, including applications, data center, servers,
+networks, firewalls, anti-malware, anti-spam, security, Active Directory, Azure Active Directory, Backups and storage, PCs, and telecom.
+Reported tothe president of the organization. Upon hite, I completed a current state assessment; authored the firm's IT strategy and project
+roadmap. Implemented changes resulting in over $20K in operating expense savings in first yea. Planned and managed physical-to-virtual
+server migration; retired 8 servers and saved over $50K in operating expenses. Led the evaluation and selection of a new VOTP Phone system
+forthe organization which allowed vs to reduce the number PRI circuits from three to one by leveraging existing data circuit. Converted
+legacy PBX phone system to VoIP. Managed IT aspects of various construction projects, including square footage needs, HVAC, cabling and
+relocation of equipment with minimal to no down time during cutover. Set up 2 lab to simulate production environment for testing and
+vuperade planning. Performed upgrades to hardware and software with minimal to no down time.
+
+Sums
+
+‘+ Windows Server and Desktop support, Active Directory, Azure» Strategies and goals
+Active Directory, Troubleshooting, Issues resolution * Leadership Experience
+
+‘+ Remote Management tools (Windows Admin Center, Comodo, _ Excellent Analytical Verbal And Writen Communication
+GPO, Kace MDM, RDP/VNC, Observium, Nagios) + Technical Knowledge
+
+‘+ Help Desk Management, Team leadership + Customer Service
+
+‘© Windows’MacOS/Linux + Verbal and written communication
+
++ VMWare, Proxmox, Hyper Virtualization + Technical Analysis
+
+‘+ Group Policy, MSI deployment, VB script, batch file, some
+
+Powershell
+
++ Comodo vulnerability management
+«Project Management, Multi Project management
+
+Work History
+(04/2005 to Current
+
+10/2001 to 04/2005,
+
+01/1999 to 12/2001
+
+06/1995 to 09/2001
+
+Epucarion
+
+Director, Information Technology
+Fisery, Ine. - Michigan, ND
+
+‘+ Consulted with helpdesk staff to evaluate hardware and software requirements fr business operations for Desktop
+needs
+
++ Worked with helpdesk staff as needed to support Microsoft Windows 7/8/10 issves, as well a other desktop
+sppliations
+
++ Evaluated, procured, installed and supported cloud and server hardware, networking hardware, SAN, blade servers,
+firewalls, VOTP phone systems, desktops, laptops, and some medical equipment
+
++ Determined WAN infrastructure needs and brokered contracts for WANVIntemet Cloud services
+
++ Evaluated, procured, installed and supported Carbon Black anti-malware initiatives, encrypted email, patient
+portals, fax servers
+
++ Worked with HIPAA compliance officers to design appropriate corporate policies with respect to ePHl, MU/MIPS
+initiatives
+
++ Supported, installed, upraded VMware, Proxmox, Athena Centricity, Surescripts Document Mangement, SMPP,
+eR, Biscom Fax sever, t 38 fa, fax to email, MAS 200 Accounting System, Vision, Windows Server, Active
+Directory, Azure Active Directory, Microsoft Exchange, Windows Server, CentOS Linux
+
++ Setup, maintain and monitoring of environmental HVAC, UPS, and generator systems fr server rooms
+
++ Setupimaintain backup systems and Disaster Recovery initiatives for VMWare and Proxmox infrastructure
+
++ Lowered IT costs by 25 percent leveraging open source software for Asterisk phone systems, Hypervisor
+(@roxmox), firewall, network monitoring (Nagios, RANCID), Edge email using spamassassin postfix, Hylafax fax
+to email, Squid Proxy Intemet website blocking
+
+IT Manager
+Central Valley Community Bancorp ~ Modesto, CA
+‘+ Closely collaborated with project members to identify and quickly address problems
++ Performed detailed assessments of risks to determine constraints and develop mitigation strategies
+‘+ Created full-fledged implementation plans, accounting for ROI, cost-benefit and other analyses
+‘+ Maintained tactical contol of project budgets and timelines to keep teams on-task and achieve schedule targets by
+using open source software where possible
+‘+ Oversaw daily performance of computer systems and immediately responded to all issues to keep business up and
+running
+‘+ Worked Helpdesk issues for Microsoft Windows and other applications
+
+Instructor
+‘Medical College Of Wisconsin — Brookfield, WI
+‘+ Implemented and optimized new curriculum and day-to-day instruction for A+ and MCSE test preparation for
+eventual certification.
+++ Provided clear, informative lectures on Microsoft and CompTIA courses to classes of 10-15 students
+‘+ Initiated new learning methods, promoting total student comprehension while curbing learning time. This was done
+‘with lots of hands on lab work as well as providing real world examples encountered in other jobs.
+‘+ Eamed positive feedback from parents regarding classroom instruction and student learning success
+‘+ Tested students on materials presented in workshops and classes to assess grasp of material
+‘+ Reviewed class and student records to look for areas in need of improvement and implement plans of action.
+
+‘Network Engineer
+[Nf Industries - Forest Park, IL
+
+‘Worked with various large contracts: Giant Eagle, Morton's of Chicago, State of Florida (Department of Health,
+Department of Education, Department of Insurance, Chief Judge, Fish and Wildlife, Department of Community Affairs,
+Department of Corrections), West Penn Power, People's Gas, ABB Electrical,
+
+Installed servers, workstations, network switches, outers, firewalls
+
+‘Upgraded Windows servers, set up new domain controllers (DNS, Active Directory). Converted Novell Netware NDS
+to Active Directory
+
+Imaged and installed workstations for upgrades and new
+
+Deployed Software with SMS, Group Policy and other technologies
+
+1994
+
+Bachelor of Science: Industrial Management And Computer Science
+California University of Pennsylvania - California, PA.
+
+No Degree: Computer Science
+University Of Pittsburgh - Pittsburgh, PA
+
+(Cernricartons
+
+Former/expited certifications
+MCSE, MCSA, MCT, Dell, HP, A+, CTT, Fore‘Marconi Layer 3 Switches,
+Hardware Experience
+
+EMC Clarion (5 years)
+
+EMC WNX 5400 (5 years)
+
+Dell M1000 Rack’Chassis servers (S years)
+
+Cisco Switches (10+ years)
+
+Dell Powerconnect Switches (10+ years)
+
+Cisco ASA (10+ years)
+
+HPiLO
+
+PRUPOTS/SIP Trunking
+Network/Secuity Experience:
+
+Carbon Black Protect (4 years)
+
+Carbon Black Sensor (2 yeas)
+
+Comodo Anti Malware (1 year)
+
+Quest Rapid Recovery Data Protection (10+ years)
+Observium SNMP ageregaton, sraphing, alerting (2 years)
+
+Nagios (10 years)
+
+Zoneminder DVR Surveillance camera system (5+ years)
+Asterisk VoIP/Freepbx (10+ years)
+
+Apprm10nat INFORMATION
+
+My best assets are the ability to multitask projects, problems, and issues. am able to troubleshoot and break down issues to their root cause
+for appropriate resolutions to be discovered or created. Proactive approaches have always been the best way to maximize uptime and
+
+‘minimize problems.

@@ -1,0 +1,58 @@
+ROBERT SMITH
+
+Dot Net Developer (Internship)
+
+info@qwikresume.com | Linkedin Profile | Qwikresume.com
+
+Dot Net Developer with 1 plus years experience in designing, developing and
+Implementing Net applications. Extensive experience in hand coding user interface
+Using HTML, DHTML, XHTML and C55 and Scripting languages like JavaScript.
+Experience in developing applications using Visual Studio .NET Frameworks Using
+C#.Net, VB.Net, ASP.NET for developing Web Applications &amp; Windows
+Applications. knowledge on Tableau desktop a pplication.
+
+EXPERIENCE
+
+Dot Net Developer (Internship)
+Sempra Energy - NOVEMBER 2017 ~ PRESENT
+‘+ Involving in interface design of web application trom design to
+Implementation,
+= Working in an Agile enviranment to deliver higher-quality software far
+more rapidly
+‘+ Creating C55 files to be applied ta various web forms on the web
+pages.
++ Creating business entities and configuring xm files fardatabase
+mapping in the business layer using C#.Net language.
++ Developing custom controls and User controls for reusable part of the
+web pages using C#.Net with Asp.Net
+‘+ Used C#.Net Asp.Net web application In Ling to SOL for database
+connectively.
++ Creating Model View Controller (MVC) design pattern to create
+reusable code,
+
+Dot Net Developer
+ABC Corp - 2016 - 2017
+
+* Created custom directives and controllers in Angular JS for reusable
+components where the custom directives are in the form af custom
+HTML elements.
+
+‘+ Implemented the routing for the web application using Angular JS
+routing,
+
++ Used data binding In Angular JS for automatic synchronization of data
+between model and view components,
+
++ Created C553 background, layouts, positioning and text, border,
+padding, pseudo-classes, elements, behaviors and constants for
+reusabillty,
+
++ Developed user Interactive web pages using HTML, CSS, Javascript.
+Kendo Ul, jQuery and Angular)S as per the company standard.
+
+‘+ Worked on the develapment of the middle tler, developed data access
+layer using Microsoft entity framework 5.0.
+
+‘+ Developed partial classes and custom action filters for exception
+
+‘© This Free Resume Template isthe copyright of Quikresume.com, Usage Guidelines

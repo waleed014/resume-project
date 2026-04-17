@@ -1,0 +1,102 @@
+Robert Smith
+
+Business/Data Analyst
+
+PERSONAL STATEMENT
+‘A highly responsible and dedicated data analyst with strong analytical and
+tectinical experience in the IT industry Practiced in clarifying business
+requirements, perforrning the gap analysis between goals and existing
+pprocedure/skils sets, and designing process and system impravernents to
+Increase productivity and reduce costs,
+
+WORK EXPERIENCE
+
+Business/Data Analyst
+GLAXO SMITH KLINE - July 2011 -Prosent
+Responsibilities:
+
++ Worked with intemal business clients and business leads to create
+functional requirement docurnentation, interfaced with internal and
+extemal stakeholders to understand tool, promotion, and process
+enhancements
+
++ Developed numerous supply chain KPI's including freight cost rate, uel
+surcharge, order tracking, forecast volurne, various inventory reports,
+backorders, internal customer service report etc using Cognos, bo, ms
+access and excel, Visio.
+
++ Perform data mining activities of gathering and compiling data to make
+‘a thorough analysis of data Integrity Issues with respect to the data
+provided by Isps(logistics service providers), and to extract the relevant
+Information for metrics reporting and KPI measurements.
+
++ Developed/published online reports using Cognos to replace existing bo
+reports on freight costs, costs of goods mfg, savings on goods delivered
+All vs, Sea, thus increasing web visibility to our data warehouse and
+allowing for mare infarmed decision making by managers and senior
+executives,
+
++ Designed and developed a series of complex business intelligence
+Solutions via business objects(designer, desktop inteligence, and web
+Intelligence) and Cognos 8 reporting system and tools using best
+business practices guidelines,
+
+* interacted with clients to understand the reporting needs, evaluated
+requirements, designed, developed and implemented reporting using
+Cognos and business objects. Provided ad-hoc reporting support.
+
++ Created different KPI dashboards in report studio using a combination of
+the lst, crosstab, araph and map reports,
+
+Business/Data Analyst
+CISCO SYSTEMS - April 2010 - July 2011
+Responsibilities:
+
+* Business/data analyst for arns(global supply chain and manufacturing)
+‘acquisitions group.
+
++ Developed a web based intranet application (r¥q tool) to allow
+cisco/supplier commocity managers to do a competitive cost analysis
+when negotiating pricing of acquisition company product(s) for
+Integration into cisco product line,
+
+(© The Etze Reaiime Template lee copyriht of Qwikrestme.com, Usage Gustine
+
+CONTACT DETAILS
+1737 Marshville Road,
+Alabarna
+(223)-456-7899
+
+Infog quikresume.com
+wow.qwikresume.com
+
+SKILLS
+
+SQL. Business Objects,
+COGNOS, MySOLIPHP,
+SAP, VBA, LEAN SIX
+SIGMA, Data Mining,
+Data Warehousing,
+Analytics, Data Analysis,
+Business Analysis, Visio,
+RDBMS
+
+LANGUAGES
+
+English (Native)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+climbing
+Snawboarding
+Cacking
+Reading
+
+REFERENCES
+
+Reference -1 (Company
+Name) ls
+Reference -2 (Company
+Name) e

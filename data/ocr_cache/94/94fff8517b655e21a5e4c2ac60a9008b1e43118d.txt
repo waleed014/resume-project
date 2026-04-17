@@ -1,0 +1,142 @@
+CAREER OVERVIEW
+
+QUALIFICATIONS
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+CERTIFICATIONS.
+
+AFFILIATIONS.
+
+SKILLS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 2 (555) 432-1000 4 resumesample@example.com
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales
+professional with track record of driving increased sales, improving buying experience and elevating company
+profile with target market.
+
+Applications: Pentaho, OBIEE 10.1.3.2 and OBIE
+11.1.1.6.0 Platforms, Oracle Warehouse Builder, MS
+Office, Outlook, Visio, SAL Server, MS Access,
+Saleforce.com, ReQlogic Operations: business
+inteligence, data analysis, unit testing, integration
+testing, system monitoring and production support
+(Operating Environments: Windows 3.1/95/98/2000/XP/
+2003/Vista/7 Languages: SL, PLISQL, HTML
+
+‘Outstanding liaison and communication skills proven by effective interaction with customers, management and
+team members
+
+BUSINESS ANALY STIBI DEVELOPER 01/2013 to 01/2014
+National Financial Partners Corp. | Madison, WI
+
+BI Developer Generalist, with experience in Oracle pre-packaged analytics, as well as Oracle custom ETL
+development. Responsible for the OBIEE Lab, installation of all OBIEE components and maintenance. Select
+projects include: Worked as a BI Developer Generalist at a leading financial services / retirement services
+provider. Project supporting sales reporting for the Asset Management Division of a large retirement services
+provider universities, and hospitals. Developed data definitions for data elements utilized in sales reporting
+Documented data lineage via source to target mappings along with data flows for sales data from source
+systems to data warehouses and onto individual reports and dashboards. Enabling client to trace data from
+Individuals reports to source systems to increase accuracy of sales reports, Worked as a Bl Developer
+Generalist at a Dialysis Medical Provider. Created a Data Warehouse glossary, by Metadata collection and
+analysis collect and analyze all relevant documentation, schedule and conduct interviews.
+
+BIOEVELOPERIARCHITECT 01/2012 10 01/2012
+Insight Global | City, STATE
+‘+ to 2012 Worked as a BI Developer at City and County of Denver Created and developed OBIE reports,
+and dashboards using OBIEE 10g and 11g. Environment: Oracle Business Intelligence 10.1.3.4.1 &
+1.1.1.0; Oracle Data integrator 11g (11.1.1); SAL Developer 3.2.10.09
+‘Developed reports and dashboards as per the business requirements
+‘+ Troubleshootiresolve issues and maintain the development
++ Created and maintained ODI processes
+‘+ Preform RPD changes per business requirements
+‘+ Documented Development and Production Environments
+
+OFACLE BI DEVELOPER 01/2011 to 01/2013
+Rolta International | City, STATE
+
+‘+ Bideveloper generalist, with experience in Oracle pre-packaged analytics, as well as Oracle custom
+ETL development. Select projects include: ETL Developer at American Utilty Management, In.
+Environment: Oracle 10g, Oracle Warehouse Builder 11.2.0.3; SQL Developer 3.0.04
+
+‘+ Designed and Modeled 31 staging tables
+
++ Developed and created 31 staging tables, 10 Dimension tables and 2 Fact tables per the business
+requirements
+
+‘+ Documented ETL process BI Developer Consultant at John Hopkins University - Applied Physics,
+Laboratory. Environment: Oracle BI Enterprise Edition(OBIEE) 10.1.3.4
+
+‘+ Developed reports and dashboards per the business requirements « Dashboards: AP - Common,
+Financials - Account Payable, Financials - Account Receivable, Financials - General Ledger,
+Procurement and Spend - APL, Project Cost - APL » Reports: Receipt Details/ Shipping Activity/
+Reference PO Shipments/ Active Subcontractors by Buyet/ Blanket Contract Details/ Small Business
+‘Subcontracting/ PO List Pos with Expiring Projects/ Procurement Audit’ On Time Delivery/ Receipt
+‘Search/ Discrepancy Report Invoice Period of Performance/ Receiving Activity/ Staff Productivty/ Open
+Invoice Details! GL Close Analysis(Period and /Project)
+
+‘+ Troubleshoot/resolve issues and maintain the development
+
+‘+ Trained and mentored JHU-APL developers
+
+‘= Lead overall documentation effort
+
++ Documented reporting specs
+
++ Created dashboard and report test scripts
+
+‘+ Facilitated report reviews and end user training
+
+BUGINESS INTELLIGENCE ETL DEVELOPER 012007 to 01/2010
+Intermap Technologies, Inc | City, STATE
+
+‘+ Environment: Oracle BI Enterprise Editions 10.1.3.2 Responsible for ful lifecycle development of
+Business intelligence solutions including; requirements gathering, and gap analysis, source system
+identification, data profiling, ETL development and solution testing. The solution sourced data from
+‘SaleForce.com, Great Plains and internal data, leveraged Pentaho for the ETL, and OBIE for the
+presentation layer. In addition to data architecture, worked with OBIEE team, to ensure solutions were
+‘unit, and integrated tested maintaining the accuracy of information, Provided end-user training,
+Responsible for data and application migration into testing and production environments.
+
++ Business analysis and requirements
+
+‘+ Pentaho Data integrator design and development
+
+‘= Oracle Business Intelligence (OBIEE)
+
+‘= Source code control using (Subversion)
+
+© Data analysis using TOAD
+
+Bachelor of Science | Computer information Systems Management, Business
+Colorado Christian University, Lakewood, CO
+
+Bachelor of Science, Computer Information Systems Management, May 1999 Colorado Christian University,
+Lakewood, CO CompTIA A+ Certified Professional ITIL Fundamentals Certed Professional Microsoft
+Certited Technical Specialist (MCTS): SQL Server 2005 Oracle Business inteligence Foundation Suite 11g
+Certified implementation Specialist Tableau Fundamental and Advance classes
+
+CompTIA A+ Certified Professional ITIL Fundamentals Certified Professional Microsoft Certified Technical
+‘Specialist (MCTS): SQL Server 2005 Oracle Business intelligence Foundation Suite 11g Certiied
+Implementation Specialist,
+
+(Oracle Business Intelligence Foundation Suite 11g Certified implementation Specialist
+
+Bi, Business intelligence, Oracle, Etl, Extract, Transform, And Load, Business Requirements, Training, Data
+Integrator, Integrator, Oracle Data Integrator, Documentation, Architecture, Business Analysis, Data Analysis,
+Data Architecture, Data Profiling, Gap Analysis, Great Plains, Marketing Analysis, Pentaho, Requirements
+Gathering, Solutions, Source Code Control, Subversion, Testing, Sql, Asset Management, Collection, Data
+Warehouse, Data Warehouses, Dialysis, Financial Services, For Sales, In Sales, Increase, Maintenance,
+Metadata, Of Sales, Sales, Sales Reports, Account Payable, Account Receivable, Ap, Apl, Audit, Buyer,
+Buying/procurement, End User Training, Fact, Fact Erp, Financials, General Ledger, Gl, Invoice, Laboratory,
+Oracle 10g, Point Of Sale, Pos, Procurement, Shipping, Test Scripts, Odi, Access, Html, Integration,
+Integration Testing, Liaison, Ms Access, Ms Office, Operations, Outlook, P/sql, Unit Testing, Visto, Comptia,
+I, Ms Sql Server, Sql Server, Sql Server 2005, Systems Management

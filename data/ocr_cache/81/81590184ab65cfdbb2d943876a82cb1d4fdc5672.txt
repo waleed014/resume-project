@@ -1,0 +1,58 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Technical Skills
+
+Professional Experience
+
+Python Programmer, 6/8/2012 to Current
+Basis.Ed - Mesa, AZ
+* Create a variety of ArcGIS geoprocessing services for accessing data via OPeNDAP.
+* Write python code for accessing, visualizing, manipulating, and creating a variety of scientific datasets.
+* Construct web apps which utilize ArcGIS geoprocessing services.
++ Provide programming and GIS expertise to others involved in the REACCH project.
+
+Teaching Assistant, 3/19/2012 to 5/10/2012
+
+City, STATE
+* University of Idaho Provide GIS technical support in, "Hydrologic Applications of GIS and Remote Sensing’.
+« Assist in analyzing remotely sensed imagery.
+« Assist in the understanding basic hydrologic principles and GIS techniques.
+
+«Assist in grading homework assignments and exams.
+
+Invasive Species Intern, 6/7/09 to 8/27/09
+City, STATE
+* With team of 3, identified and removed several invasive plant species.
+‘* Used Trimble GPS unit to mark locations of invasive species patches.
+
+« Imported data into ArcGIS.
+
+Desert Restoration Intern, 09/2008 to 04/2009
+NA - City, STATE
+
+With team of 7, constructed 10 mile fence on wilderness boundary.
+
+Helped to restore illegal OHV incursions back to natural desert landscape.
+
+Used Trimble GPS unit to mark locations of illegal incursions.
+
+Imported data into ArcGIS.
+
+Education
+
+RELEVANT COURSE WORK Introduction into GIS Statistics for Geographers Remote Sensing and GIS Integration Hydrologic
+Applications in GIS and Remote Sensing GIS Programming Advanced GIS Spatial Analysis and Modeling GIS Applications in
+Fire Ecology and Management: Fall 2005
+
+University of Florida Santa Fe College
+
+M.S: Geography, 05/2012
+University of Idaho - Moscow, ID
+
+BA: Geography, 05/2008
+University of Florida - Gainesville, FL
+
+AA: Geography, 05/2006
+Santa Fe College - Gainesville, FL

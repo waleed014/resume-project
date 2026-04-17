@@ -1,0 +1,82 @@
+Alvena Gusikowski
+
+265 Wolf Union, Houston, TX @ Phone: +1 (555) 788 7807
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+‘CONSULTING SECURITY ENGINEER
+
+Phoenix, AZ
+08/2015 — present
+‘ Providing input on selection, deploying, enhancing and/or supporting technical and non-technical security
+controls throughout the enterprise
+‘+ Educate fellow software developers on best practices in application security
+‘© Helps to manage and facilitate compliance audits and investigations
++ Candidate should be security-minded with strong scripting and Unix expertise. Should be familiar with
+cloud environments and associated scripting. Unix, Perl, Python, Cloud , scripting, shell scripts, Security,
+administration, Linux,
+‘ Articulating the high-level benefits of the full AMP solution set to our target audiences (typically senior
+security management up to CISO)
+‘+ In depth product presentations, demonstrations and management of prospect evaluations
++ A driven team player with traits from a number of disciplines, including Product Management, Technical
+Sales, Product Marketing
+
+MAINFRAME SECURITY ENGINEER
+
+Phoenix, AZ
+
+11/2009 — 03/2015
+
+‘Perform problem determination/resolution of mainframe RACF related security issues, providing input
+
+for problem and root cause analysis
+
+Manage daily Identity Access Management processing
+Optimize measuring instruments of performance and to produce them referrers
+To automate the procedures of technical management and pattern matching of alarms
+To implement the standards, standards, rules and procedures of the field to be administer, manage, run
+and take care of their apj
+‘© Manage daily RACF functions for Infrastructure administration for multiple databases
+‘* Document existing processes and identify possible improvements
+
+SECURITY ENGINEER INTERN
+‘Los Angeles, CA
+12/2005 — 05/2009
+* Develop documents
+Make intelligent decisions around prioritization of efforts based on risk
+Work closely with the rest of the security team and other teams within the company
+Development of supporting tools
+Work with cutting edge technology in the cloud and security space
+Knowledge of Linux, and developing scripts in Perl/Python/Shell
+Collaborate in a "DevOps" environment, working closely with operations, QA, and more
+
+UNIVERSITY OF SOUTH FLORIDA
+Bachelor’s Degree in Computer Science
+
+‘* To automate, administer, manage, run and make reliable, trustworthy and dependable the processing of
+production
+
+Excellent time management skills with the ability to meet deadlines
+
+Excellent verbal and written communication skills - Ability to multi-task
+
+Good project planning, organization, and time management skills
+
+Knowledge of digital certificates and SSL
+
+Experience in Financial Services- Good understanding of information security policies and practices
+
+Knowledge of CA -Top Secret Security mainframe security software internals, configuration, ete
+
+Knowledge of PERL, shell scripting, OpenSSL, SSH
+
+To prepare and upgrade the dashboards, the Handout, specification, instructions, information and the
+
+reference frames of production, to transfer knowledge
+
+‘* Knowledge of PKI and experience working with the implementation and support of digital certificates -
+Understanding of security concepts and technologies,

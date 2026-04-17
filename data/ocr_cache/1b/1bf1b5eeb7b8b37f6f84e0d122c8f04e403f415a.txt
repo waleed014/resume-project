@@ -1,0 +1,126 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+‘PROFESSIONAL SUMMARY
+
++ 6+ years of experience in developing web based, client/server, distributed architecture and component oriented architecture applications
+sing Java/I2EE technologies.
+
++ Proficient with different Software development methodologies including Waterfall and Agile (SCRUM).
+
++ Application development experience using multithreading, Serialization, Extemalization, Collection, Generics.
+
+‘+ Experience in SOAP and REST for developing Web Services for complex business solutions.
+
++ Extensively worked on UM MQ message handling using spring integration concepts.
+
+Semis
+
+Java - ISP/J2EE, RMI, Java Beans, JDBC, ,Java JCE, Servlets, JMS, Web Services - Soap UI, WSDL, RESTful,
+
+ssL Database - DB2, Oracle 11g/12¢, MySQL.
+Frameworks - Spring Integration Spring MVC ,Spring Web & Spring Operating Systems - Unix, Windows XP/Vista/7
+
+batch, Hibemate-IPA ‘Version Controllers - Tortoise SVN & GIT.
+
+Application Server - Apache Tomcat , Websphere Web Technologies - XML, HTML, XML Schema, CSS, JavaScript
+
+Build Tools - Maven
+Unit Testing - Junit , Mockito and Powermockito.
+
+‘Wor History
+
+06/2015 to Current JAVA MIDDLEWARE DEVELOPER
+Amentum — Aberdeen, MD
+PROJECT : MOBILE PAYMENT PLATFORM
+CLIENT : JP MORGAN CHASE , USA
+DESCRIPTION
+Chase Pay provides electronic payment processing products for businesses that accept credit, debit or gift cards from
+their customers. Their product portfolio includes products to help merchants reduce payment fraud and manage charge-
+backs.
+Chase supports Apple pay . Samsung pay & Android pay by tokenized concept with help of payment network's like
+VISA and MASTERCARD acting as token vaults,
+RESPONSIBILITIES:
+‘+ Develop business logic for Chase in-app provisioning , a way to tokenism on credit and debit cards in order to use
+them in Apple Pay.
+‘+ Understand requirements and develop business logic’s related to Sam-sung pay provisioning of chase debit and
+credit cards in Sam-sung phones.
+‘+ Develop Payment Switch, Token Vault and enhancements Maintain and support Apple pay provisioning for chase
+credit and debit cards
+‘+ Understand requirements and develop business logic’s related to Chase pay provisioning of chase debit and credit
+cards in Chase ECOM.
++ Perform regulat/periodic peer/code reviews Work closely with business analyst, quality assurance, and project
+‘management resources throughout delivery of solutions.
+‘+ Implement Chase pay services which will be invoked during checkout process.
+‘+ Implement QR code creation logic which will be used for checkout at merchant terminal
+‘+ Evaluated potential software products based on new and existing system development and migration requirements
+
+SOLUTION ENVIRONMENT:
+Javall2EE, Unix , Spring web, Spring Integration, Spring Batch , Hibemnate-IPA, Soap-Based & RESTFUL Web
+services , Mockito & PowerMockito for Junits.
+
+SPECIAL SOFTWARE AND TOOLS:
+
+Oracle 12c, Eclipse Neon , Tortoise SVN , Maven , Splunk , Wily , Soap-UI. Postman , SQL developer , Crucible ,
+Putty and Super putty for connecting unix servers.
+
+09/2014 to 05/2015. JAVA DEVELOPER
+
+Cognizant Technology Solutions ~ Franklin, TN
+PROJECT : SELF DIRECTED PLATFORM FOR ATM'S.
+CLIENT : JP MORGAN CHASE , USA
+DESCRIPTION :
+Express Banking ATM's are using a new application called Self Directed Platform which is ais web based server side
+application used by Chase customers through ATM's. SDP is a customization of Pro Classic Enterprise(PCE) developed
+by Wincor Nixdorf. JPMC has over 15000 ATM's in US and the ATM machines which are used are from different
+vendors like NCR, Hyosung and Wincor. SDP application will be used across all the vendors for performing the
+‘Banking operations. JPMC ATM Debit and Teller Technology(ADTT) Certification takes care of certifying the ATM's
+from different vendors which are using the SDP application. Certification is the process of validating that a newly
+{introduced extemal component (vendor software/firmware, vendor machine, vendor device) integrates and functions
+properly in the Chase environment.
+RESPONSIBILITIES:
+
+‘+ Understand Business requirements and analyzing the code for Device Certification.
+
+‘+ Handling Build installation on the ATM Terminals and machine setup
+
+‘+ Bringing the Machine in service with the SDP application with the latest build and performing sanity check.
+
+‘+ Analyze and Fix defects by code or configuration change.
+
+‘+ Enhancing the SDP Platform through effective code fixes and technical suggestions
+
+‘+ Working with different vendors like Hyosung, NCR and Wincor on the defects.
+SOLUTION ENVIRONMENT:
+Java/J2EE, JAVASCRIPT, HTML and CSS.
+SPECIAL SOFTWARE AND TOOLS:
+Oracle 1c , Eclipse, Source Tree, GIT & Automated Life Cycle Management(ALM),
+
+06/2011 to 08/2014 JAVA BACKEND DEVELOPER
+TATA CONSULTANCY SERVICES — City, STATE,
+PROJECT : Customer Information System (CIS) —Re-Engineering
+CLIENT : JP MORGAN CHASE , USA
+DESCRIPTION
+‘Customer Information System (CIS) isthe firm's System of Record for customer data, providing @ single
+24x7 accessible, global view (360) of the customer's profile and relationships within JPMC. CIS supports services to
+front-end channels and batch interfaces to subscribing applications in order to provide a current and consistent profile
+of the customer. CIS manages data across all lines of business to ensure that an accurate, current, and consistent view
+ofthe customer's data is maintained and available,
+‘The Re-Engineering project is a complete rebuild and re-engineering of six main systems within Enterprise Systems:
+Customer Information System (Index) from COBOL applications and IMS databases model to a Java applications and
+DB2 databases model.
+RESPONSIBILITIES:
+‘+ Design and develop soap based web services by creating / following flow and sequence diagrams,
++ Performed regression and system-level testing to verify software quality and function before it was released.
+SOLUTION ENVIRONMENT:
+JavaJ2EE, Spring 3.1, Hibernate 3.1, WebServices, Websphere Application server 6.1, Tomcat 5.5, Maven, PMD,
+Cobertura, Junit, DB2
+
+Epucarion
+
+2011 Bachelor Of Technology: Computer Science and Engineering
+SASTRA UNIVERSITY - TANIORE, INDIA
+
+Apprrt0Nat INFORMATION

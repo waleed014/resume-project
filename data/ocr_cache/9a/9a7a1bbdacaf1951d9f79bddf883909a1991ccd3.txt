@@ -1,0 +1,64 @@
+Amelia Bones
+
+Java Developer
+
+413335557777 amelia@hiration.cam —@ Irvine,CA in www.linkedin.convin/amelia
+
+| summary
+
+Result oriented Java Developer highly skiled in designing and bullding java codes to increase efficiency of applications. Adept at
+identifying client requirements and ensuring specifications are met by routine checks for maximum client satisfaction. Proficient at
+debugging minor fixes, and employing SQL database to achieve maximum data security.
+
+| KEY SKILLS
+
++ Software Development + Unit Testing + Code Optimization « Documentation + Debugging
++ Code Testing + SQL Database « Data Security + Application Development
+
+| TECHNICAL SKILLS
+
++ Programming Languages: HTML, CSS
+
+‘+ Front-end Development: javascript & jQuery
+
++ Database & Framework: SQ Server, Struts & Spring
++ Coding: /SP & Servlets
+
+| INTERNSHIP
+Java Developer Jan '24- Jul'21
+Mayhem Consulting Services Irvine, CA
+
+With more than 300 employees the company 's known mos for ther customer service & marketing services
+Java Code Development & Operational Efficiency
++ Designed, maintained, and buitt reusable, efficient, and reliable Java code increasing efficiency by 15%
+‘+ Assisted senior developers in delivering program changes and unit est scripts which enhanced productivity by 30%
+‘+ Documented client requirements and assisted the technical team to ensure all specifications are met for 100% satisfaction
+Debugging & Data Security
+‘+ Updated database 2¢ times a week to ensure maximum data security and to minimize data loss
++ Conducted routine checks far software bugs and implemented minor fixes while communicating the major ones to the team
+
+| EDUCATION
+University of California, Riverside Sep 18 - Jul ‘21
+Bachelor of Science in Information Technology Irvine, CA
+Ranked 250) meng top publ universes by the 2019 US Hews & World Reports Colleges
+
++ GPA:3.4/40
+
+‘+ Among the top 8 percentile
+
+‘+ Relevant Course Modules:
+© Advanced Web Programming | Advanced Programming using Pythor/java | System Analysis and Design
+© Cloud Computing | Data Programming Languages | Database Design & Management Systems
+
+| PROJECT
+
++ Application Development | University of California | Sep'20-Mar'21
+© Deployed java and Python to develop 3+ applications for small businesses inthe university campus
+8. Collaborated with the business owners to ensure end-to-end smooth functioning and presented the project to the faculty
+
+| CERTIFICATIONS
+
+‘+ Oracle Certified java Developer | Oracle University | Redwood City, CA, US | Jul'17 -Jan 18
+
+| avormionat inrormarion
+‘+ Languages: English (native) and French (fluent)

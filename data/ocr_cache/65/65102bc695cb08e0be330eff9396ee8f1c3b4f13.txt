@@ -1,0 +1,80 @@
+Jessica Bran
+
+DEVOPS ENGINEER
+
+info@resumekraft.com I
+202-555-0120 0)
+
+Chicago, Illinois, US 9
+linkedin.com/resumekraft in
+
+Self Motivated and quick learner with 6+ years of experiance on
+SUMMARY different areas like Big Data Management using Cloud and Hadoop
+
+So!
+
+lutions, Data Warehousing and Business Intelligence
+
+e Informatica: BDM 10.2.2 , PowerCenter 9.6.1
+e BIG Data : HIVE, HDFS , Oozie
+
+SKILLS
+
+EXPERIENCE
+
+Cloud - Azure Data Factory, ADLS
+Languages: Basic Python,UNIX Shell
+CICD: Jenkins, GIT
+
+Databases: Teradata ,DB2
+
+Other: Mainframe OPC,Service Now, JIRA
+
+DEVOPS ENGINEER - ABN AMRO Data Lake
+
+TATA Consultancy Services Ltd. Jan 2018 - Present
+
+Designed and developed the flow of Data from Mainframe system to Hadoop
+platform via Informatica adhering to Security policy, Data integrity and
+Consumer requirement
+
+Maintenance of the Framework designed to process and transform the huge
+data of the bank including sensitive and transcational details using Big Data
+ecosystem and Cloud Ecosystem ( Spark,HDFS, HIVE,Oozie,Hbase, Data
+Factory, ADLS) and transform to various Consumers across Bank
+Improvements - Analysed the entire process of Operations on the Project,
+suggested many Improvement and Automisation of process.
+
+Adminstrator - Installation of the Informatica on the CMS machines and
+configuration on the Hadoop Platform/AZURE for the other Consumers
+connecting for data via various applications like ( Informatica , MQ File
+transfers , Azure Blob Storage connections)
+
+Deployment of Codes to higher environment via Jenekins pipeline with
+Bitbucket Repository
+
+Conducted sessions and handover to team for proper transformation to a
+DEVOPS Team
+
+ETL DEVELOPER - ABN AMRO Data Warehouse
+TATA Consultancy Services Ltd. Jan 2014- Dec 2017
+
+Understood the business requirements and designed the data flow to load
+into Data Warehouse and Data Marts
+
+Created ETL mapping in Informatica PowerCenter based on the requirement
+and design
+
+e Performance management and improvements on the current flows
+
+CERTIFICATION
+
+Documentation, Handovers and Change management procedures for the
+promotion to higher environments
+
+Admin related works for the user management and applications on Test
+Environment
+
+AZ - 900 , Azure Fundamentals
+
+Microsoft 2019-11-28

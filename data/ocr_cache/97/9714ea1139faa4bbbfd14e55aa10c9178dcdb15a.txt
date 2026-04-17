@@ -1,0 +1,115 @@
+a
+
+MY LIFE PHILOSOPHY
+
+Programming is not about what
+you know; it's about what you
+can figure out.
+
+STRENGTHS
+
+4% Effective Problem
+Solver
+
+Consistently find creative
+solutions to complex problems,
+resulting in improved efficiency
+and cost savings for the
+company.
+
+Excellent
+Communication
+
+Ability to effectively
+communicate technical
+concepts to both technical and
+non-technical team members,
+resulting in improved
+collaboration and successful
+project outcomes.
+
+SKILLS
+
+Python - Agile Development - AWS -
+SQL - Web Development -
+
+RESTful APIs -
+
+Database Management -
+
+Data Analysis - Machine Learning -
+
+Git - D3.js - Kafka - Flask
+
+ACHIEVEMENTS
+
+v Developing Automated
+Data Pipelines
+
+Designed and implemented
+automated data pipelines,
+reducing manual effort by 8
+and ensuring consistent and
+accurate data processing.
+
+Powered by (XZ Ennancu
+
+CARLA JENSEN
+
+Python Software Developer
+
+948.305.9844 carla_jensen@gmail.com official-scooter.info
+Frederick, Martinique
+
+SUMMARY
+
+Experienced Python Software Developer with a strong background in Agile
+development and AWS. Highly skilled in Python programming, web
+development, and data analysis. Collaborative team player with excellent
+communication skills. Experienced in developing scalable software solutions
+and optimizing performance. Passionate about finding creative solutions to
+complex problems and delivering high-quality software solutions. Proven
+track record of achieving outstanding results, such as reducing data
+collection time by 30% and improving database query performance by 50%.
+Bachelor of Science in Computer Science from the University of XYZ.
+Enthusiastic about joining a dynamic team and contributing to the success of
+an innovative company.
+
+EXPERIENCE
+Python Software Developer 2022 - Ongoing
+Tech Solutions Inc. New York, NY
+
+Developed and maintained Python applications for various clients, utilizing Agile
+
+development methodologies. Collaborated with cross-functional teams to deliver
+
+high-quality software solutions.
+
+* Led the development of a web scraping tool using Python and Beautiful Soup,
+resulting in a 30% reduction in data collection time.
+
+* Improved the performance of a database query module by 50% through
+optimization techniques, resulting in faster data retrieval for end-users.
+
+* Collaborated with UX designers to implement dynamic visualizations using D3.js,
+providing enhanced data visualization capabilities for clients.
+
+Python Developer 2017 - 2022
+Innovative Software Solutions San Francisco, CA
+
+Built and maintained Python-based web applications, working on both frontend and
+
+backend development. Contributed to the design and architecture of scalable
+
+software solutions.
+
+* Implemented RESTful APIs using Flask framework, enabling seamless integration
+with external systems.
+
+* Optimized website loading speed by 40% through efficient use of caching and
+performance tuning techniques.
+
+* Collaborated with the data science team to develop machine learning models for
+predictive analytics, resulting in improved business decision-making.
+
+www.enhancv.com

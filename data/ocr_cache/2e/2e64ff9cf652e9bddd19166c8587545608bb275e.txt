@@ -1,0 +1,98 @@
+Robert Smith
+
+Associate Network Security Engineer
+
+PERSONAL STATEMENT
+Experienced Security Consultant with eight years of IT experience with a
+focus on designing and developing security solutions. Silled & technically
+proficlent with multiple firewall solutions, network security, and information
+Security practices
+
+WORK EXPERIENCE
+
+Associate Network Security Engineer
+‘ABC Corporation - April 2013 - April 2014
+esponsibilties:
+
+‘+ Responsible for Security Infrastructure engineering as well as a
+Microsoft Windows, UNIX, Checkpoint Firewalls, Juniper firewalls, PIX
+firewalls, Bluecoat Proxies, Juniper Intrusion Prevention devices, and
+wireless switch Security Management,
+
++ Conducted monitoring, optimizing, problem resolution, root cause
+‘analysis, and managed all aspects of access to specified systems.
+
++ Designed, wrote, and maintained common procedures, SLis and EXECS
+{or installed operating systems.
+
++ Organized, allocated, and supervised use of disk space for libraries,
+files, and common work space,
+
+‘+ Acts as a professional assistant or project team member in hardware
+evaluation, configuration, and software evaluation projects.
+
++ Reviewed, analyzed, developed, Installed, and modified Security Tools
+and systems,
+
++ Executed security controls to prevent hackers from infltrating company
+Information or jeopardizing programs,
+
+Network Security Engineer
+‘ABC Corporation - 2009 - 2013
+esponsibilties:
+
++ Responsible for raintaining the technical components of the
+Information security architecture.
+
++ Utilzed practical expertise in TCPIIP protocols and system
+‘administration for purposes of maintaining and troubleshoating network
+security measures.
+
++ Enforced network security policies through technical means.
+
++ Maintained firewalls and other security controls
+
++ Supported the use of encryption and public/private key technologies by
+EarthLink ernployees.
+
++ Responsible for responding to and resolving incidents reported by the
+NOC or by other employees via the Information Security Departments,
+‘rouble ticketing systern & quot: MinionS&quot;
+
++d) Network Engineer Planned, installed, troubleshoot, and maintained
+EarthLinks pool of dial-up access equipment, Cisco and Cabletron
+outers; maintained FDDI and Ethernet cables and power supplies,
+Installed hardware, including filers, switches, hub,
+
+(Ths Ee Resume Tamolate the conynght of Quikresune cor. Usage Gustine
+
+CONTACT DETAILS
+
+1737 Marstwille Road,
+Alabama
+(123)-456-7@90
+Infow@awikresure,com
+wwqwikresume.com
+
+‘SKILLS
+Network Administration,
+
+LANGUAGES
+
+English (Netive)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Cocking
+Reading
+
+REFERENCES
+
+Reference - 1 (Compary
+Name)
+Reference - 2 (Company
+Name)

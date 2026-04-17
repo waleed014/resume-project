@@ -1,0 +1,124 @@
+Travis Hernandez
+
+Junior DevOps Engineer
+© +1-583-849-9179
+@ San Fransisco, CA
+
+@ travis hernandez@gmail.com
+
+SUMMARY
+
+Junior DevOps Engineer with strong knowledge in Java,JS and Python.
+Well-acquainted with databases and cloud services as well as Docket and
+Kubernetes. Currently maintaining a 40-node ElasticSearch cluster that
+collects 1 billion documents daily.
+
+EDUCATION
+
+B.S. Computer Science
+
+UC Berkeley 38/40
+
+@ 2012-2016 Berkeley, CA
+
+EXPERIENCE
+
+Junior DevOps Engineer
+Dufour
+
+@ 2019-Present @ San Fransisco, CA
+
+Dufour is an American software company that develops financial and tax preparation
+
+software and related services for small businesses, accountants and individuals.
+
++ Maintaining a 40-node ElasticSearch cluster that collects 1 billion documents
+daily
+
++ Contributed in setting up monitoring and reports for all of our clients - 40 servers,
+
++ Launched a company-wide digitized filing system that led to an increase in
+efficiency for all departments by 20% on average
+
++ Setting up the CI/CD pipeline using Jenkins and GitHub
+
+Middleware Administrator
+Heller
+
+@ 2016-2019 @ San Fransisco,
+Heller is the personal, small business and commercial banking operation of the
+Toronto-Dominion Bank in Canada,
+
++ Performance tuning of Java Virtual Machine (VM), Application Server Tuning,
+Monitoring
+
++ Administer Java based external facing websites and ensure availability and
+stability of online web applications
+
++ Configured web server definitions in Admin Console for remote management
+
++ Created and managed over 200+ CI/CD pipelines for deployments on Apache
+
+TRAINING / COURSES
+
+AWS Cloud Practitioner
+Essentials
+AWS, 50% complete
+
+Introduction to Information
+Security
+NYU via eax, 2020
+
+DevOps Culture and Mindset Scientific Computing with
+
+UC Davis via Coursera, 2018 Python:
+freeCodeCamp, 2016
+
+wwwrmenhancxcom
+
+github io/travis.hemandez
+
+SKILLS
+
+Programming
+
+Python | | JavaScript | | Java
+Databases & Cloud Services
+MySQL | | PostgreSQL | | MongoDB
+
+Redis | Apache
+
+Tools
+
+Docker Kubernetes Ans
+Puppet
+Development
+
+TDD | | CI/CD | | GIT | | Jenkins
+
+CERTIFICATION
+
+MySQL Certified Implementation Specialist
+Orale University, 2020
+
+Certified Associate in Python Programming
+Python Institute, 2017
+
+STRENGTHS
+
+& Eager toLearn
+
+‘As someone who is just starting out, | am
+really enthusiastic about learning anything
+that would benefit both me and the company
+Tam working for.
+
+Communication Skills
+
+Open-minded, outgoing and patient in
+conversations with others.
+
+Flexability/Organisational skills
+Able to work overtime and take extra shifts.
+
+Powered by CX) Enhancu

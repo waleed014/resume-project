@@ -1,0 +1,185 @@
+JESSICA CLAIRE
+
+Montgomery Stee, San Franco, CA S415 # (55) 42-100 ¢restmesanple@exampe. com
+
+‘Summary
+
+seas
+‘+ AWS Services : EC2, ECS, Cloud font, $3, Auora, Lambda, etc + Tools: ETL, Informatica IDE, Visual Studlo, SQL"Plus, SQL. Developer,
++ Databases: Oracle, MySQL, SOL Serer MongeDB, Cassandra, ‘TOAD, SOI Navigator, Quory Analyzer, SOL Sewer Management
+DynamoDB, PostgreSQL, Teradata, Cosmos. Studio, SOL Assistance, Ecipse, Postman
++ Programming: Python, PySpark. Scala, Java, C, C++, Shell script, - Versioning tools: SVN, Git, Gthub
+Pest ecip, SQL Operating Systems: Windows 10/11, Ubuntu Linx, MacOS
++ Cloud Technologies: AWS, Microsoft Azure Network Security: Kerberos
+{ Frameworks: Django REST kamework, MVC, Hotonworks Database Modelling: Dimension Modeling, Snowlake Modeling
+Exrenience
+
+‘AWS Data Engineer. 0172022 - 02/2022
+Deloitte Rosshn, NY
+‘+ Designed and Setup Enterprise Data Lake to provide suppor for vavious uses cases including Analytics, processing, string and Reporting of
+voluminous, rapidly changing data
+«+ Responsible for maintaining quality reference data in source by performing operations such as cleaning, transformation and ensuing Integy in a
+‘elational enizonment by working Closely wth the stakeholders & solution architect,
++ Designed and dereloped Secury Framework to prodde fine grained access to objects in AWS $3 using AWS Lambda, DynamaDB
++ Set up and werked on Kerberos authentication pincpals to establish secure newark communication on cluster and testing of HFS, Hike, Pig
+and MapReduce to access cluster for new users
++ Pertormed end-to-end Architecture & implementation assessment of various AWS services lke Amazon EMR, Redshit, S3
++ Implemented the machine learning algorithms using python to predict the quantity a user might want to order fora specif item so we can
+Automatically suggest using kinessfrehose and $3 data lake
++ Used AWS EMR fo transform and move lage amounts of data ino and out of other AWS data stoes and databases, such as Amazon Simple
+‘Storage Senice (Amazon $3) and Amazon DynamaDB
++ Used Spark SQL fr Scala & amp, Python interface that automaticaly converts ROD case classes to schema ROD
+‘Import the data fom diferent sources like HOFS/HBace ino Spark ROD and perform computations using PySpark to generat the output
+response
+eating Lambda functions with Bote to detegister unused AM in all application regions to reduce the cost for EC2 resources
++ Importing & exporting database using SAL Sere ntegrations Services (SSIS) and Data Transformation Sences (DTS Packages)
++ Coded Teradata BTEQ scrips to load, transform data, fx defects ke SCO 2 date chaining, cleaning up duplicates
++ Developed reusable Framework to be leveraged for future migrations that automates ETL fom RDBMS systems to the Data Lake utlzing Spark
+Data Sources and Hive data objects
+Conducted Data blending, Data preparation using Alteryx and SQL for Tableau consumption and publishing data sources to Tableau serer
++ Developed Kibana Dashbcards based onthe Log stash data and Integrated diferent source and target systems into Elasiesearch fr near real
+time log analysis of monitoring End to End transactions
++ Implemented AWS Step Functions to automate and orchestrate the Amazon SageMaker related tasks such as publishing data to S3, taining ML
+‘model and deploying it for prediction
++ Integrated Apache Aiow with AWS to monitor mult-stage ML workflows withthe tasks running on Amazon SageMaker
++ Enizonment AWS EMR, S3, RDS, Redshit, Lamibda, Boto3, DynamoDB, Amazon SageMaker, Apache Spark, HBase, Apache Katka, HIVE,
+‘SQOOP, Map Reduce, Snovilake, Apache Pig, Python, SSRS, Tableau
++ Assessed organization technology infastucture and managed cloud migration process,
+anigured computing, networking and security systems within cloud endronment
+‘Implemented cloud policies, managed technology requests and maintained sence avalabily
+
+Data Engineer, 0172016 1172019
+Verizon Communications ~ Annapolis Junction, OR
+= Warked on Azute Data Factory to integrate
+twansformations to load back to Azure Synap
+
+Managed, Confgured and scheduled resources acioss the cluster using Azure Kubemetes Service
+
+“+ Monitored Spark cluster using Log Analytics and Ambari Web UI
+
++ Transiioned log storage fom Cassandra to Azue SOL. Datawarehouse and improved the query performance
+
++ Involved in developing data ingestion pipelines on Azure HDInsight Spark custr using Azure Data Factory and Spark SQL
+
++ Also Werked with Cosmos DB (SQL API and Mongo AP!)
+
++ Develop dashboards and visualizations to help business users analyze data 2s well as providing data insight to upper management with a focus on
+Nicrosot products ke SOL Sever Reporting Senices (SSRS) and Power Bl
+
++ Performed the migration of large datasets to Databricks (Spark), create and administer cls
+{fom ADLS Gen? to Databicks using ADF pipelines
+
++ Created various pipelines to load the data fom Azute data lak ito Staging SQLDB and folowed by to Azure SQL DB
+
++ Created Databrick notebooks to streamline and curate the data for various business use cases and also mounted bab storage on Databick
+
++ Uilized Azure Logic Apps to build worktlows to schedule and automate batch jobs by integrating apps, ADF pipelines, and other senices tke
+HTTP requests, email tigger ote
+
++ Worked extensively on Azure data factory including data anstormation, Integration Runtimes, Azue Key Vaulis, Taggers and migrating data
+factory pipelines to higher environments using ARM Templates
+
++ Ingested data in mink batches and performs ROD transformations on those min:batches of data by using Spa Streaming to perform streaming
+‘analytic in Data bricks
+
++ Enizonment Azure SQL OW, Databick, Azure Synapse, Cosmos OB, ADF, SSRS, Power Bl, Azure Data lake, ARM, Azure HDInsight, Blob
+storage, Apache Spark
+
++ Adep in roubleshooting and identiying current issues and providing effective solutions.
+
+1 Managed performance monitoring and tuning while identiying and repang issues within database realm.
+
+1 Hdentfled Key use cases and associated refernce architectures for market segments and industy verticals,
+
++ Designed suneys, opinion pols, and assessment tols to collect data.
+
+‘Tested, validated and eformulated models to foster accurate prediction of outcomes.
+
++ Created graphs and charts detling data analysis results
+
+‘+ Recommended data analysis tools to address business issues.
+
+* Developed new functions and applications to conduct analyses.
+
+‘Cleaned and manipulated raw data
+
++ Collaborated wih solution architects to define database and analytics engagement strategies for operational teritries and key accounts
+
+Big Data Engineer / Hadoop Developer, 10/2013 - 122015
+‘Cumming Lie ~ Miami. FL
+AnsibleDenodaDenodaCloudWatchavroPySparkPySpatkPySparkMLibDatarameNiFiNiFi
+*Intracted with business partners, Business Analysts and product owner to understand requirements and buld scalable distibuted data solutions
+using Hadoop ecosystem
++ Developed Spark Streaming programs to process near real time data rom Katka, and process data with both stateless ands
+transformations
+«+ Worked with HIVE data warehouse inastucture-creating tables, data cistibution by implementing paritoning and bucketing, writing and
+‘optimizing the HOL queries
+‘+ Bult and implemented automated procedures to split large fies into smaller batches of data to facilitate FTP transfer which reduced 60% of
+‘execution time
++ Worked on developing ETL processes (Data Stage Open Studio) to load data fom multiple data sources to HDFS using FLUME and SQOOP, and
+performed structural modifications using Map Reduce, HIVE
++ Developing Spark scripts, UDFS using both Spark DSL and Spark SQL quory fr data aggregation, querying, and witing data back into RDBMS.
+through Sop
+«+ Wen multiple MapReduce Jobs using Jaa API, Pig and Hive for data extraction, transformation and aggrgation4vrom multiple le formats
+Including Parquet, Aro, XML. JSON, CSV, ORCFILE and other compressed fe formats Codecs like gu. Snappy, Lz0
++ Strong understanding of Paritoning, bucketing concepts in Hive and designed both Managed and Extemal ables in Hie to optimize performance
++ Developed PIG UDF for manipulating the data according o Business Requiements and also worked on developing custom PIG Loaders
++ Doreloping ETL pipelines in and out of data warehouse using combination of Python and Snowflakes SnowSOL Wing SOL. queries against
+Snowflake
++ Experience in report wring using SL Serer Reporting Services (SSRS) and creating various types of reports like dil down, Parameterized,
+Cascading, Conditional, Table, Matte, Chart and Sub Reports
++ Used DataStax Spark connecior whichis used to store the data into Cassandra database or gt the data from Cassanka database
++ Wrote oozie scripts and setting up workflow using Apache Oozie wrkfow engine fr managing and scheduling Hadoop jobs
+‘+ Worked on implementation of log producer in Scala that watches fo aplication logs, transform incremental og and sends them toa Katka and
+Zookeeper based lg collection platorm
++ Used Hive to analyze data ingested into HBase by using He HBase integration and compute various metics for reporting onthe dashboard
+neformed tPy Spark using AWS Glue dynamie frames with PySpark: cataloged the transformed the data using Craviers and scheduled the job
+‘workow feature
+ing cluster, commissioning & decommissioning of data node, name node recovery, capacity planning, and slots configuration
+* Developed data pipeline programs wih Spark Scala APIs, data aggrgations with Hie, and formatting data (JSON) fr sualizaton, and
+‘generaiPySpark
++ Enizonment AWS, Cassandra, PySpark, Apache Spark, HBase, Apache Kafka, HIVE, SQOOP, FLUME, Apache oozie, Zookeeper, ETL, UDF.
+Map Reduce, Snowflake, Apache Pig, Python Java, SSRS.
++ Onfdential
++ Developed and implemented Hadoop code while obsoring coding standards.
+1 Optimized and tuned Hadoop endanments and modified hardware to meet prescribed performance theshalds.
++ Developed now functions and applications to conduct analyses.
+{Created graphs and charts detaling data analyse results,
++ Tested, validated and reformulated models to foster accurate prediction of outcomes.
+
+Python Developer , 09/2012 - 10/2013,
+Fiserv City, STATE.
+
+"AWS, $3, EC2, LAMBDA, EBS, IAM, Datadog, ClousTrall, CU, Ansible, MySQL, Python, Git, Jenkins, DynameDB, Cloud Watch, Docks
+
+Kubemetes
+
++ Leveraged open communication, collect decision-making and thorough reviews to create perfrmant and scalable systems.
+
++ Worked with server-side and front-end technologies and leveraged commen desig pattems to code dynamic and useriendy systems,
+
+{Implemented new API routes, architected new ORM structures and refactored code to boost application performance
+
+‘+ Hamessed version conto tools to coordinate project development and individual code submissions
+
+1 Introduced cloud based technologies inte Python development to expand om premise deployment option.
+
++ Wrote clear and clean code for use in projects
+
+‘+ Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes,
+
+‘ofboth on-prom (MY SOL, Cassanéa) and cloud (Blo storage, Azure SQL DB) and applied
+
+load data, configure data pipelines, loading data
+
+tefl
+
+Epucarion ano Trane
+Post Graduate : Data Engineering , 02/2022
+Purdue University - West Lafayetto, IN
+
+Post Graduate : Data Science And Business Analytics , 09/2021
+University of Texas At Austin» Austin, Tx
+
+Bachelor of Arts: Business Adminstration And Management, 12/2009
+Califonia State University - Fullerton, CA

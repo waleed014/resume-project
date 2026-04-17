@@ -1,0 +1,69 @@
+ELDEN GIBSON
+
+2206 MARYANNA VISTA, CHICAGO, IL
+
+PHONE
++1 (555) 709 9635
+
+EXPERIENCE HOWELL, PACOCHA AND MAYER 09/2018 — present
+Dallas, TX // Testing Consultant
+
+.
+
+.
+
+.
+
+Experience on building Test Automation Frameworks specifically in JavaScript
+
+Experience testing web services (SOAP/REST
+
+Experience testing hosted or SaaS-based solutions
+
+Familiar with relational database design and good working knowledge of SQL for querying,
+updating, and deleting data
+
+Demonstrates the initiative to explore alternate technology and approaches to solving
+problems
+
+Effective team building and problem-solving abilities
+
+Demonstrated experience with Continuous Integration
+
+Strong skills in Functional Testing & Test Planning
+
+LEGROS AND SONS 12/2011 - 04/2018
+Dallas, TX // Testing Consultant
+
+e
+
+Knowledge of Agile and Scrum methodologies and Waterfall development methodology
+Hands on work experience with JIRA
+
+Excellent communication skills including status and progress reporting, and time
+management skills
+
+Optimistic outlook, results oriented, self-motivated, and adaptable individual
+Proficiency in speaking, reading & writing Spanish
+
+Experience with test case management tools like Zephyr
+
+Experience with performance testing tools like LoadRunner
+
+EDUCATION FASHION INSTITUTE OF TECHNOLOGY
+Bachelor's in Computer Science
+
+SKILLS °
+
+Good Knowledge on Java, VB Scripts for writing Automation scripts in UFT & Selenium
+Good knowledge of SDLC, Software Testing Life Cycle (STLC) and different testing
+methodologies like Agile & Waterfall
+
+Good knowledge on Test Case preparation, Review & Execution, Defects review and
+management, Black Box Testing
+
+Worked on Defect and test management tools like JIRA, HP ALM etc
+
+Basic knowledge of writing and executing SQLs & running batch jobs
+
+Excellent communication and Analytical thinking skills

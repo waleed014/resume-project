@@ -1,0 +1,74 @@
+LYSANNE GREENFELDER
+
+‘710 Durgan Port, San Francisco, CA + +1 (555) 6517976
+
+‘WORK EXPERIENCE
+
+‘SENIOR STAFF NETWORK ENGINEER 10/2015 - PRESENT
+Phoenix, AZ
++ Evaluate legacy architectures and lay-out plans to migrate to current solutions
+
++ Proactive self-starter with the ability to direct their own work flow as well as those of others
+
+‘+ Act asa strong technical leader and SME for projects within your area of expertise
+
+‘+ Lead Migration and implementation teams
+
+‘+ Mentor and coach junior members of the technical team
+
++ Quickly analyze, understand, document, and explain complex Network and data center architecture
+
+‘+ Make recommendations for new technologies in support of Network, data center and Network Security architectures and services
+
+‘+ Subject Matter expert with F5 products & technology (GTM, LTM, SSL offloading, ASM, APM, AFM ete.) including strong understanding
+
+of the different load balancing options and features to include: OneConnect, Persistence, SSL offload functions, HTTP profiles, iRules, ete
+
+STAFF NETWORK ENGINEER 10/2009 - 05/2015,
+Detroit, MI
+‘+ Astrong understanding of the Global Traffic Manager and Iquery functionality between LTM & GTM fora HA design
+
+‘+ Experience in technically focused Information Technology roles
++ Pecific to Network and/or Network Security technologies
+
+‘+ Experience with F5 technologies
+
+‘+ Experience supporting mission critical, geographically dispersed high availability data center architectures
+‘+ Experience and solid understanding of Cisco Nexus platform
+
++ Good overall network background with an understanding of routing and switching protocols, as well as application layer protocols
+
+SENIOR STAFF NETWORK ENGINEER 10/2004 - 05/2009
+Los Angeles, CA
+‘+ Serve as a technical lead for hardware installation, configuration, and operational support of these networks’ routers, switches, load
+
+balancers, WAN optimizers
+
+‘+ Serve as a grd level support for hardware installation and operation of these networks’ routers and switches
+
++ Configures internet proxy servers to restrict corporate internet access to support the company’s acceptable use policy
+
++ Provides technical support for activities that improve the security posture of Visa's networks
+
++ Serve as a technical advisor for hardware installation, configuration, and operational support of these networks’ routers, switches
++ Related experience in infrastructure/network environments and designing,
+
++ External circuit connections
+
+‘+ Internal site connections
+
+EDUCATION
+
+LAWRENCE UNIVERSITY 1998 - 2003
+Engineer's Degree in Engineering
+
+PROFESSIONAL SKILLS.
+
+‘+ Excellent communicator, comfortable with speaking with audiences with varying network skillsets
+‘+ Proven troubleshooting skills across the enterprise network using various tools and methodologies
+‘+ Strong LINUX skill, scripting
+‘+ Excellent verbal and written communication, customer service, time management, conflict resolution, and problem
+determination /resolution skills
+‘+ OpenStack Networking Experience (or production experience managing network for a virtualized environment) - Neutron configuration
+‘+ Extend and expand your problem solving skills using AWS services
++ Strong Network and Security experience (Routing, Switching, Firewalls, DNS and Loadbalancers)

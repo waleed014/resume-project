@@ -1,0 +1,49 @@
+Jack Stanton
+
+Automation Tester
+
+J(771)777-7777 Bjack.stanton@email.com @ Fort Wayne, IN @ Linkedin
+
+Professional Profile
+
+Detait-oriented Automation Tester with over 17 years of experience in software testing automation for leading
+technology and software development companies. JIRA Certified Associate with a proven track record of improving
+and streamlining performance testing strategies to optimize resources and reduce testing time. Extensive knowledge
+of the Software Development Life Cycle and Agile methodologies with extensive experience of executing accurate and
+efficient testing plans on time and within budget.
+
+Core Skills
+Test Automation Agile Methodology Software pers e
+anemete cuco systems API Testing
+
+Career Summary
+
+‘Aug 2017 - Present Tech Solutions Inc., Fort Wayne, IN
+‘Automation Tester
+Outline
+
+Develop and execute automated test scripts to validate the functionality and performance of software applications for
+aleading software development company with clients in e-commerce, telecommunications, and manufacturing,
+
+Key Responsibilities
++ Design and implement automated test scripts using Selenium WebDriver, Java, and TestNG
+
+Collaborate with stakeholders to define test scenarios, acceptance criteria, and test data requirements
+
+Execute functional, regression, and integration tests to identify defects and ensure software stability
+
+Perform API testing using tools like Postman and RestAssured to validate data integrity and API endpoints
+
+Conduct performance testing using JMeter to analyze system response times and identify bottlenecks
+
+Participate in Agile ceremonies, including daily stand-ups, sprint planning, and retrospectives
+
+Contribute to the continuous improvement of test processes and tools, driving efficiency and quality
+
+Key Achievements
++ Implemented a reverse-order performance testing strategy in 2020 that identified and resolved critical
+performance issues, resulting in a 40% improvement in application response time.
++ Developed a robust automated test suite that significantly reduced regression testing time by 60% for a
+complex e-commerce platform.
+
+Page

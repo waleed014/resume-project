@@ -1,0 +1,60 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Profile
+
+Seeking a position with company in which to exercise my experience and training as an ETL Tester. Vast experience with format ETL
+and Data Testing Good understanding of ETL testing principles and
+
+concepts Proficient with Informatica, Wide knowledge of data warehouse
+
+principles and procedures Ability to perform tests with any designs and technical documents Ability to test all web based
+applications Ability to develop and analyze data mapping documents Ability to perform
+
+backend data validation/testing Ability to validate the completeness, integrity and accuracy of data
+
+Professional Experience
+
+ETL Tester, 09/2014 to 09/2015
+Cognizant Technology Solutions — Everett, WA
+* Coordinated with developers and prepared and implemented test plans.
+
+Evaluated all requirements of business, systems and developed test plans according to needs.
+
+* Documented and reviewed all test cases and procedures in Unit Test reviews with senior management.
+
+Organized all results and specifications and developed and implemented QA test scripts.
+
+Analyzed tests results and identified areas where regression tests could be conducted.
+
+Assisted operations and development teams and prepared various testing issues.
+
+Managed problem tracker and resolved all issues as identified in system.
+
+Ensured that all documents and products were in compliance with quality standards.
+
+ETL Tester, 08/2012 to 08/2014
+Cognizant Technology Solutions — Fremont, CA
++ Performed various functions prior to conducting tests such as data analysis and mapping.
+
+Conducted Quality Assurance tests and Data Warehousing and ETL projects.
+
+Coordinated with Managers and maintained a library of requirements for various enterprises.
+
+Developed automated solution and ensured to boost efficiency of ETL projects.
+
+Ensured that User Acceptance Test met all customer requirements.
+
+Developed and implemented all test related activities such as test plans and performed analysis on results.
+
+Assisted IT department and ensured that all designs were compatible for production and developed test strategies accordingly.
+Education
+
+Bachelor's Degree: Computer Science
+NARAYAN - NELLORE, ANDHRAPRADESH
+
+Computer Science
+Skills
+
+data analysis, Data Warehousing, ETL, quality, QA, Quality Assurance, scripts

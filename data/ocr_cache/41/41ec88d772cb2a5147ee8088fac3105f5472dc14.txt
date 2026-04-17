@@ -1,0 +1,55 @@
+ROBERT SMITH
+Sr. SQL Server Developer
+
+‘E-mall infowgwikresums-com Phone: (0123)-56.709
+SUMMARY.
+
+Sr SQL-Server Developer with over 7s years of TF experience inthe Finance domain and Experience in
+Datahase Design, Development, and Support of MS SQL Server 2012, 2008, 200Sand 2000. Hanson
+experience in Installing, Configuring, Managing, Mentoring, Troubleshooting, Lipgrading and Migrating
+‘SQL-Server Expense with DDL and DMI. statements, RDBMS, data divtionaries an normal fom
+Experience in using Try Catch flock ince m SQI. Server 2005.
+
+SQL Eaterprise Manager, Query Analyzer, SQLServer Management Studi, Business Ineligence
+Development Studio, SQL Profiler, SQL Server Analysis Service (SSS) ETL Tools Data Transformation
+Senices (DTS) -Espenv/mpom, SQL Server Integration Service (SSIS) Repomting Tools SQL Server
+‘Reporting Services MS Access, MS Excel, Crystal Reports XI Database MS SQL Server MS Access,
+(Oracle Programming T-SQL, PL-SQL; C#, ASP.Net. VB. Web Technologies HTML, DUTML, XML, VB
+Script, IavaScript (Valuation) Operating Systems Windows Visa, DOS, UNIX, Modeli
+Techniues/Tools How Chans, Sequence Diagrams, Activity Diagrams, Use Case Diagrams, Data
+‘Medling. ER Diagrams, MS Visio, IS Visual Source Sale SharePoin Designer 2010,
+
+WORK EXPERIENCE
+
+Sr. SOL Server Developer
+‘Wells Fargo - October 2015 ~ Present
+
++ Involving in all phases of SDC, andl gathering business requirements fmm business people,
+
+4+ Converting Data Transformation Services (DTS) application to SQL Server Inegratedl Services
+(8815) assigned,
+
+4 Developing DTS packages to ext, trastorm an load into the campaign database from OLTP
+\aubase using SQL. server imteprtion services (SSIS)
+
+Created E:T. metadata reports usin SSI
+failure reports with the err description
+
++ Designed SSIS packages to exact, transfer, load (ETL) exiting data into SQL server trom different
+cifonments
+
+Creating complex stored procedures using a Inked server, CTE; temp table, SQL joins ranking
+{unctions an dynamic SQL and responsible for performing SQL tuning, multitasking and
+‘optimizing queries which takes knger time in execution with SQL server 2008/2012.
+
+4 Performing documentation for al kinds of reports and DTS and SSIS packages.
+
+‘reports including execution Limes forthe SSIS packages,
+
+SQL Server Developer
+‘ABC Comp -2011 2015,
+
+4 Used Various ETT tools like SSISIDTS for data Mow from source les ike XNIL, Excel, tables, and
+‘views to other databases or files with proper mapping,
+
+(© Thi se Resume Templates he eprgh of Opies: cm, Lag Gulins

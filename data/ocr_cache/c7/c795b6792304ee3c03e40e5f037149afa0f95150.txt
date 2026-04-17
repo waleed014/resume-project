@@ -1,0 +1,82 @@
+SR. REACT JS DEVELOPER
+
+Professional Summary
+
+Self-motivated Web Developer with around 5 of experience working on multiple projects. Passionate and hardworking with a penchant for meeting
+deadlines. interested in roles indulging best practices and offering diverse customer projects.
+
+Skills
+
+HTMUHTMLS Redux-saga, React Hooks, immutable}S
+
+CSS/CSS3, Bootstrap4, SASS, LESS NodeJs, JAVA, Spring Framework jQuery, AJAX. JSON
+JavaScript. Typescript Visual Studio, Web Storm, Eclipse
+
+Reacts, Angular]S 1.x,2.0,5.0 Windows, Linux, macOS
+
+Jenkins
+
+GitHub, GitLab, Bit Bucket, Source Tree
+Cassandra, MongoDB
+
+Google analytics, Istanbul
+
+Agile Methodologies, JIRA Confluence
+Selenium, Protractor, Mocha,Jest, Enzyme
+‘WebPack, NPM, Gulp, Grunt, Gradle, Maven
+
+Docker, AWS
+
+Work History
+
+Sr. React JS Developer Feb 2020 - Current
+7-Eleven Irving, TX
+
+* Develop high performance customer facing e-commerce application using Reac)S, Redux-saga, React Hooks, React-Router, JavaScript, HTMLS,
+CSS3, SASS, Bootstrap4
+
+* Built custom components for UX-Library consisting Accordion, Filters, Dropdown, Carousel, Button, Checkbox, Input, Icons
+
+* Developed custom AP! layer to handle all CRUD transactions, JWT token management and implemented interceptors to embed custom headers
+
++ Maintained high-level expertise in React state management strategies, including Redux, Redux Persist and redux-saga
+
+* Exclusively used React-Hooks to perform the application life-cycle processes
+
+* Project was implemented by following TDD using Jest framework for React along with Enzyme test utilities.
+
+* Worked closely with clients to establish specifications and system designs. Used Zeplin and Invision to collaborate with UX
+
+* Used Middleware, Redux-Saga with ImmutableJs in application to retrieve and store data from Back-End and to also perform RESTFUL services.
+
++ Effective use of native HTML elements and custom tags to enhance SEO optimization and application ADA compliance feature
+
+* Implemented CSS Box Model and styled web pages using CSS preprocessor SASS and effectively used mixins, functions, custom grid systems,
+grid-area concepts and fiexbox for a fluid-responsive application
+
++ Expertise usage of GitLab and JIRA as a version control and tracking units.
+
+* Worked in Agile Methodologies for incremental development to deliver better application.
+
+Senior Systems Engineer Feb 2019- Feb 2020
+Verizon Irving, TX
+* Design dynamic and multi-browser compatible pages using HTMLS, CSS3, SASS, Angular 5
+* Work extensively with API team to implement creative Chat Bot communication platform from UI perspective
+* Closely monitor the usage of Google Dialog Flow Technology and procure the intent-based response to perform intuitive communication feel on
+User Interface
+* Design animated web pages by importing the @angular/animations to enhance customer service chat experience
+* Define new validations through Angular)S for the form field validation implemented through HTMLS
+
+* Implemented latest Ecmascript6 (ES6) features to enhance code standards and maintainal
+
+* Extensive usage of Gradle & webpack to build Microservices, Ul components and pipeline it smoothly for CI/CD using Jenkins
++ Translate wireframes into interactive, dynamic code
+* Strong knowledge of version control tools like GIT, SVN, Bitbucket
+Build AWS servers by executing Jenkins automated jobs and involve in server maintenance
+* Project Technology Stack: HTMLS, CSS3, JavaScript, Typescript, Bootstrap, SASS, LESS, Angular, Java, Spring Framework, WebPack, Gradle, Jenkins,
+Visual Studio, Git Lab
+
+Education
+
+Master of Science: Engineering Management May 2015
+California State University, Northridge Northridge, CA

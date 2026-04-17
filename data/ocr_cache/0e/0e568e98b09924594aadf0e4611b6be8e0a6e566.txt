@@ -1,0 +1,84 @@
+Melissa Conroy
+856 Delores Rapid, San Francisco, CA @ Phone: +1 (555) 523 9372
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SAP BW PLATFORM MANAGER
+New York, NY
+01/2016 — present
+‘* Operations management of the SAP BW platforms to ensure the delivery of a consistent level of service
+provision to different customers around the world
+
+‘* Managing external resources for the delivery of the platform services,
++ Planning and coordination of system maintenance activities
++ Implementation & Administration of systems and their components according to given guidelines
++ Implementation and management of release management execution
+‘* Incident, problem and escalation management; manage remediation plans
+‘© Supports projects to ensure consistent design and implementation within the existing/planned
+infrastructure
+SAP BW DEVELOPER
+Dallas, TX
+
+07/2011 — 10/2015
+‘© Assisting with identified stabilisation & simplification i
+performance
+‘* Work on projects during the design, development and test phases and on user support in accordance with
+the context provided by project leadership
+‘+ Develop back-end design, construction and unit testing of the Advanced DSO, Info Cubes, Composite
+Providers, Multi-Providers, and Info Packages
+‘* Responsible for root cause analysis and providing solutions for production and development issues
+‘© Build strong partnerships with senior management to drive the development of the company's strategy
+across IT and other functions.
+‘* Develops, maintains, monitors and manages data loads and functions
+‘© Provide support and maintenance of the existing BW environments (development, quality assurance and
+production for both traditional BW and BW on HANA)
+
+iatives to improve overall BW processes &
+
+SAP BW
+‘Los Angeles, CA
+07/2006 — 04/2011
+‘© Worked on at least 2-3 Full Life Cycle Implementations in SAP including conducting Blueprint / Design
+‘workshops for one or more processes
+May lead a particular work stream, reviewing, and directing the work of more junior staff
+Incident and Problem management process, handling 2nd and 3rd level functional support
+Deep knowledge within SAP BW including ETL, data modelling and frontend development
+‘Change and Release management process handling system corrections, enhancements and improvements
+from end to end (specification, development, test, documentation, implementation, training)
+‘* Coordinates activities between work streams and identifies changes in scope
+‘* Understands the benefits of using state of the art methods and tools and their application on a particular
+engagement; contributes to continuous development of methods and tools,
+
+GEORGIA SOUTHERN UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+German desirable
+
+Working knowledge of interfacing SAP BW to other SAP products, such as APO, SEM, FICO or CRM
+
+Proficient with SAP BW on HANA system architecture design and performance optimization
+
+Strong understanding of the different HANA usage configurations so as to be able to guide client
+
+conversations
+
+‘* Strong understanding and experience with at least one front-end reporting and analytical tool
+
+‘* Communication skills: trong presentation/ communication / facilitation skills (oral and written)
+
+‘© Mastery level of BW Extractors from the R/3 system and working knowledge of SAP structures, object,
+dependencies and tables in R/3 version 4.7 environment and above
+
+‘+ Proficient in SAP BI/BW Back-end development and configuration, testing and pre-production support
+
+‘© Experience training BW Power Users including providing technical training of key toolsets such as BEX
+Analyzer, Query Designer, Web App Designer, as well as BusinessObjects tools such as Web Intelligence,
+Explorer, and Analysis for Office
+
+‘+ Should have excellent customer
+
+teraction skills

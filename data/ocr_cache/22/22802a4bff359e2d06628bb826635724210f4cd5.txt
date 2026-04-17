@@ -1,0 +1,89 @@
+EXPERIENCE
+11/2018 — present
+
+07/2013 — 09/2018
+
+EDUCATION
+
+SKILLS
+
+Lilla O'Kon
+
+4303 Burt Road, Phoenix, AZ # Phone: +1 (555) 506 5218
+
+LEBSACK INC Los Angeles, CA
+Senior Python Developer
+
+¢ Experience of developing of RESTful services
+
+¢ Hands on experience with testing frameworks like pytest, unittest, PyUnit
+
+¢ Understanding of the relational databases and SQL
+
+¢ Hands on experience with message queues processing like RabbitMQ, Kafka, SQS
+
+¢ Knowledge of the object-relational mapping
+
+¢ AppDynamics, Grid Computing, Java
+
+¢ Experience developing & designing complex, data-driven systems in Python, ideally with a Web /
+HTMLS component
+
+¢ Flask / Numpy / pandas / Plotly / Jupyter and general data science stack experience
+
+¢ Experience in equities / options / futures / ETF / structured products highly desirable, with flow &
+exotic equity derivatives experience particularly valuable
+
+¢ Experience in fixed income products and data / FX / rates / bonds / CDS / CDX desirable
+
+e Experience in risk management systems for any asset class highly desirable
+
+BORER-HAGENES Los Angeles, CA
+Python Developer
+
+¢ Experience working with Big Data technologies such as HDFS, Hive, Spark, S3 storage
+
+¢ Experience with recommendation systems and transactional data
+
+¢ Experience scaling a model to production load and monitoring
+
+¢ In-memory storage solutions
+
+¢ Experience with effective visualization techniques
+
+¢ Intermediate or Advanced skills with various machine learning techniques (clustering, classification,
+forecasting)
+
+¢ Proficient with data integration and ETL (Pandas, SQL)
+
+¢ Proficient in hands on development in Python and experience building microservices in Python
+
+¢ SQL experience (basic)
+
+¢ Experience using Flask
+
+¢ Experience with unit testing - working in sprints/Agile environments
+
+OREGON STATE UNIVERSITY Bachelor's in Computer Science
+
+¢ Experience in grid computing desirable, though not a core focus
+
+¢ Full stack HTMLS Web development experience highly desirable
+
+¢ Cloud engineering experience with Kubernetes desirable
+
+¢ KDB knowledge or experience with another timeseries database desirable
+
+¢ Experience with Binary repository tools (Artifactory, Nexus)
+
+¢ Experience with CI tools (Jenkins, TeamCity) and Build tools (maven, gradle, ant, make)
+¢ Experience with RESTful Webservices, Setup Loadbalancer, nginx configuration
+
+¢ Experience with BitBucket/GIT/SVN
+
+¢ Hands-on Linux/Unix platforms development experience
+
+¢ Able to deliver high quality, working code using Java or Python
+
+¢ Strong relative development experience with Python (Pandas, NumPy), SQL and NoSQL
+¢ Familiarity with functional Programming and multi-threading concepts

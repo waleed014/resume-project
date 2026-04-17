@@ -1,0 +1,83 @@
+Rodrick Hegmann
+
+252 Darci Hills, Boston, MA
+
+PHONE
++1 (555) 417 9930
+
+EXPERIENCE
+
+Krajcik, Moen and Morissette
+San Francisco, CA // Consultant // 11/2019 — present
+
+Security Operations (L1/ L2/ L3) in Infrastructure Security
+Services domains
+
+Knowledge on PowerShell for Automation Part
+
+Able to handle Critical Incident Calls
+
+Excellent written and oral communication strong
+presentation skills
+
+Excellent written and oral communication skills in English
+and Spanish and/or Portuguese
+
+Designed and implemented VMware clusters, DRS/HA,
+vMotion, vSwitches, RDM, FC iSCSI Datastores
+
+Configure LUNS, Provision Storage and present storage
+to ESXi Clusters logically separating storage utilizing Raw
+Device Mappings, Thin Provisioning, Thick Eager Zero
+provisioned
+
+Hackett-Haag
+San Francisco, CA // Consultant // 10/2014 — 08/2019
+
+Designed and implemented ESXi boot from SAN, VUM,
+P2V, thin provisioning, host profiles, OS templates
+VSphere VCenter Administration
+
+Good hands on Experience in diagnostics &
+troubleshooting of ESX server environment
+
+Good hands on command line of ESX
+
+Understanding of site recovery concepts
+
+Experience in performance tuning of VMWare servers and
+Virtual sessions and management of servers resources
+between virtual machines
+
+Network Services, DNS, DHCP, File & Print Servers
+Hardware knowledge of Client/Dell/IBM on Client x86
+platforms o RAID concepts
+
+EDUCATION
+
+Academy of Art University
+Bachelor's in Business
+
+SKILLS
+
+e Excellent written and oral communication as well as
+strong presentation skills
+
+e Network Services, DNS, DHCP, File & Print Servers etc
+
+¢ Should have work experience in a Remote Infrastructure
+Support Environmen
+
+¢ Working knowledge and support of VMware Enterprise
+virtualization products
+
+¢ Working knowledge of blade technologies
+
+¢ Working knowledge of IP and fibre based storage
+technologies
+
+¢ Understanding of Network OSI Model, TCP/IP and
+Routing
+
+¢ Client focused, Great team spirit, autonomous and
+rigorous

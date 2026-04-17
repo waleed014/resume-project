@@ -1,0 +1,67 @@
+Rowan Mayer
+
+33132 Hilma Terrace, Phoenix, AZ # Phone: +1 (555) 290 7981
+
+EXPERIENCE SAP SOLUTION FUNCTIONAL EXPERT FI & CO MODULES:
+Chicago, IL
+11/2014 — present
+‘* Provide the functional specifications to the development team and follow the development, providing
+answer to potential questions
+‘* Support SAP Core Model evolutions, Enterprise Standards implementations or roll-outs by providing
+remote or on-site assistance leadership in all process areas
+Assist with master data definition and guide business in best practices for validation
+Develop/promote holistic process solutions keying on existing blueprint template
+Actively provide functional, technical, and process knowledge for rapid issue resolution
+Document processes and SAP functionality — processes, flowcharts, procedures, work instructions,
+configurations
+‘+ Perform unit and integration tests prior to key-user testing
+
+SAP SOLUTION FUNCTIONAL EXPERT MM & PP MODULES
+‘Los Angeles, CA
+06/2012 — 10/2014
+Learn and understand quickly the existing process blueprints,
+Drive rapid resolution of all issues related to SAP processes, coordinating all involved teams
+Fix defects and incidents raised during test phases and post go-live
+Level 4 End user support in operating systems
+Customize according the solution designed
+Document and deliver process and SAP training
+SAP Basis and ABAP knowledge is a plus
+
+SAP SOLUTION FUNCTIONAL EXPERT MM
+Detroit, MI
+09/2006 — 03/2012
+‘Assist with master da
+‘© ‘Support process experts and key users during business integration tests and user acceptance tests
+‘+ Deliver Service Requests out of Service Catalog
+‘+ Periodic off-hours support for go-lives or major issues
+‘* Good knowledge of integration with others SAP Core Model modules (scope: FI, CO, SD, CS, PS, PP,
+Q)
++ Focus on blueprint re-use to maximum practical extent
++ TT Operations support
+
+EDUCATION SAN DIEGO STATE UNIVERSITY
+Bachelor’s Degree in Information Systems
+
+SKILLS Excellent written and spoken English, good knowledge of German, other European languages
+
+Good knowledge of SAP technology including development and ready to become skilled in FS-CD
+
+Ability to write and review complex technical designs
+
+Ideally knowledge of SAP FS-CD or FICA, webservices based on SAP-Netweaver, FS-CD interfaces,
+
+SAP solution
+
+Understands Customer's processes and products and how they fit wit
+
+SAP certificates or equivalent
+
+‘Complex landscape
+
+Unit
+
+Architecture (ALE etc), ERP 6.0,
+
+Technical Skills ABAP, ABAP-OO, J2E, webservice definition (SD, WSDL etc)
+
+in the goals of the business

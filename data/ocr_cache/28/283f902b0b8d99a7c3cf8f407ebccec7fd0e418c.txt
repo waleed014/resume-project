@@ -1,0 +1,57 @@
+ROBERT SMITH
+SQL Developer (SSIS)
+en dO getimncccom hse i da
+
+{4 years of experience in Data warehousing and Business Infelligence technologies along with 4 years a
+data visualization using Tableau Desktop. Expertise in dat cleansing for analysis, perio data quality
+testing for gaps, ad liaising with data origination teams
+
+MS Visual Studio 2008, BITS, SQL Server 2008R2, Windows 2000/XP, XP professional, PPS, Erwin 40,
+ETL, XML, Visual Staio 2010,
+
+WORK EXPERIENCE
+
+SQL Developer (SSIS)
+ABC Corponation - March 2008 — September 2010
+
+Responsibilities lnteracted withthe Businesé Users and Supervisors to gather business reyuirements
++ Converted the User Requirements imo Business Requirements Document, Fapetional and Techical
+Requirements Documents Created Business Process Models from the requirement specifications.
+
++ Worked on developing Tables, Views, Indexes, Stored Procedures, Taggers, Queries. and Macros
+‘sing MS SQL Server X05, and MS Access ditabases Involved in Partitioning tables that have bulk:
+inserts, deletes and updates to improve the performance
+
+‘+ Exarated dit om aml and flat files using SSIS Genemted parameteized/Drildewn, Drill through
+‘Samp: Cascaded reports using SSR.
+
++ Creaed, maintained, modified and optimized SQL Server databases, datahase seurity and auditing
+Designed, programmed, deployed and tested the requested Reports
+
+Designed ER diagrams (Physical and Logical using Erwin) und mapping the data into database
+jects
+
++ Developed Data Few Diagrams, lasting the low of data from the legacy systems into the
+Application dathase Tables, along with checkpoints for testing verification.
+
+SOL Developer
+ABC Corpomation -2006 ~ 2008
+
++ Dr
+
+1 Redkys isa global, vertically integrated pharmaceutical company with 2 presence across the value
+‘hain nl active pharmaceutical ingredients an biological proiots The project involved
+
+ccomputerizing Payroll Atvities and prediction canto activities of Dr
+
+Rech
+
+‘ni capuble of generating monthly income statements ofall employees.
+
+It is maiataning the database of entre industy stat and generating reports aver each issu.
+
+Puricipatedin collecting all the requiements for building the database Crete and designed
+
+‘required tables, indexes and constrains forall production activities Responsible for Data Modeling
+
+‘© This seme Tamla he copy of Qwitrewme com, Las Gals

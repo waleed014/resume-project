@@ -1,0 +1,108 @@
+Renna Lacosta
+
+Junior Network Engineer
+
+® renna.lacosta@gmail.com
+
+Xe (675) 015-2365
+
+9 123 Main Street, Baltimore, MD
+21201
+
+EDUCATION
+
+Associate of Applied Science
+in Network Engineering at
+Montgomery College, Rockville, MD
+‘Aug 2018 - May 2022
+
+Relevant Coursework: Network
+Fundamentals, Routing and Switching,
+Network Security, Wireless Networking,
+Server Administration, Cloud
+Computing, and Network Infrastructure
+
+inkedin.com/in/renn:
+
+SKILLS
+
+CCNA Certification
+
+Python Scripting
+
+Wireshark Analysis.
+
+OSPF Configuration
+
+VLAN Management
+
+Firewall Administration
+
+IP Addressing
+
+Building and configuring personal
+computers
+
+PROFILE
+
+Dedicated Junior Network Engineer with 1 year of experience in designing,
+implementing, and maintaining network infrastructure. Highly skilled in
+troubleshooting, problem-solving, and providing technical support to
+ensure optimal network performance. Proficient in various networking
+technologies and protocols, with a strong foundation in Cisco, Linux, and
+Windows environments. Adept at collaborating with cross-functional teams,
+continuously improving processes, and staying up-to-date with industry
+trends, Demonstrates excellent communication and analytical skills, making
+a valuable addition to any networking team.
+
+EMPLOYMENT HISTORY
+
+© Junior Network Engineer at Leidos, MD
+Feb 2023 Present
+
++ Successfully designed and implemented a network infrastructure
+upgrade for a client, resulting in a 30% increase in overall network
+performance and efficiency.
+
++ Identified and resolved over 200 network-related issues within
+the first year of employment, reducing downtime by 40% and
+significantly improving customer satisfaction ratings.
+
++ Collaborated with a team of engineers to complete a major data
+center migration project on time and within budget, ensuring
+seamless transition for end-users and preventing potential revenue
+loss.
+
++ Developed and presented comprehensive network performance
+reports to senior management, leading to the allocation of additional
+resources and funding to address critical network bottlenecks,
+ultimately increasing network capacity by 25%.
+
+@ Associate Network Engineer at Booz Allen Hamilton, MD
+Jul 2022 - Dec 2022
+
++ Successfully designed and implemented a network infrastructure
+upgrade for a major client, resulting in a 35% increase in performance
+and reliability while reducing maintenance costs by 20%.
+
++ Spearheaded the troubleshooting and resolution of over 200 critical
+network issues within a year, achieving a 95% success rate and
+significantly improving overall network stability for clients.
+
++ Led a cross-functional team to develop and deliver a comprehensive
+network security training program for 50 employees, increasing
+overall security awareness and reducing security incidents by 30%.
+
+CERTIFICATES
+
+Cisco Certified Network Associate (CCNA)
+oct 2021
+
+Juniper Networks Certified Associate - Junos (JNCIA-Junos)
+Jul 2020
+
+MEMBERSHIPS.
+
+Cisco Networking Academy
+
+CompTIA (Computing Technology Industry Association)

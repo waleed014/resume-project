@@ -1,0 +1,63 @@
+Robert Smith hone (123) 456 7899
+
+Email Infoguwikresume,com
+"i Website yauwu.qwikresume,.com
+Senior Sql Server Developer LUnkedin:linkedlin.corn/quikresurne
+‘Address; 1737 Marshuille Road, Alabarna
+
+SUMMARY
+
+‘A motivated and ambitious database developer, proficient in the analysis, design, development,
+Implementation, testing, and maintenance of database. A team player, knowledgeable In bulding
+{and maintaining database structures, stored procedures, audit reports, data extracts to meet
+project objectives,
+
+SKILLS
+
+SQL Server, Data Modelling, Bi Stack.
+WORK EXPERIENCE
+
+Senior Sql Server Developer
+
+[ABC Corporation - December 2006 - August 2007
+Performed business analysis, technical analysis, systems design, applicetion software
+programming,
+Restructured the stored procedure, designing, coding and developing the same using the
+7-SQL Programming Transferring the data (ETL) to Data warehouse by SSIS.
+Installed, authored, and managed reports using SQL Server 2005 Reporting Services.
+Managed the migration of SQL Server 2000 databases to SOL Server 2005,
+Expertised in SQL Server Reporting Services and SQL Server Analysis Services:
+Responsible for gathering the business and user requirements to mest customer needs,
+Designed and developed SSIS packages using various tasks, containers and transformations
+like Slowly changing dimension, Merge Join, Conditional Split, Fuzzy look up, and data
+validation checks during staging before loading the data Into the data warehouse and
+followed best practices,
+
+Senior Sql Server Developer
+Detta Corporation - 2002-2006
+Developed, deployed and monitored SSIS Packages including upgrading DTS to SSIS.
+
++ Performed delly tasks including backup and restore by using SQL Server 2005 tools like SOL
+Server Management Studio, SOL Server Profiler, SQL Server Agent, and Database Engine
+Tuning Advisor.
+
+Rebuilding the indexes at regular intervals for better performance,
+
+* Rebuilding the indexes at reguiar intervals for better performance.
+
++ Providence Health &arnp; Services is a non-profit health care system operating multiple
+hospitals across 5 states, with head quarters in Renton, Washington,
+
+‘The health system includes 27 hospitals, more than 35 non-acute faclitles and numerous
+‘ther health, suppoitive housing and educational services In the states of Alaska, Washington,
+Montana, Oregon and California,
+
++ The goals ofthe project was to modify the existing packages by implementing new business
+
+Jooic init and create new SSIS package based on new business requirement
+
+EDUCATION
+
+Diplorn Regle -1985(Havarian State Conservatory of Music in Munich - Munchen)
+
+(0 This Fra Resume Tamblat is the copyright f Qvakesume com. Usage Guldatns

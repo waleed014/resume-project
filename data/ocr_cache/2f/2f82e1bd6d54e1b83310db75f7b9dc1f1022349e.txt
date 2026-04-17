@@ -1,0 +1,171 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS:
+
+WORK HISTORY
+
+EDUCATION
+
+‘CERTIFICATIONS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA S105. 1S (855) 432-1000 4 resumesample@example com
+
+INFORMATION TECHNOLOGY MANAGEMENT Oata Center Operations Application Suppor Business
+CContinuty Disaster Recovery HIPPA SOX PCI Auating Compliance Vendor Management Contract
+‘Management Network Securty Cyber Secufy DevOps Management SDLC (Aale) Support desk Management
+FT Governance Project Management Budgeting Srategic information Technology Manager sled in guiding
+navigation of modem technology. Accustomes to drving eclency and effeciveness by developing,
+
+elvering and supporting strategie plans. Demonstrated ski in anstating technical requiements to business
+solutions. Successful 20 year track-tecord of busing postive reatlonships with intemal and external
+stakenolaers
+
++ Age tramework ‘+ Risk mitgaton planning
++ Secunty planing ‘+ Requrements analysis
+‘+ Project Mecycte management
+
+[MANAGER OF INFORMATION TECHNOLOGY OPERATIONS 01/2015 10 CURRENT
+Electronic Systems | Ne, NC
+
+‘+ Insurance subsisary of Fortune 500 WR Bertey Insurance Co.
+
+‘+ Direct team responsite for data center operations, database administration, DevOps and service desk
+‘operations.
+
++ Develop Strategy to ensure technology inttatves support business objectives by creating technology
+‘roadmap and cotaborating with business leadership via technology steering comitie and user councl
+meetings.
+
+‘+ Secure corporate data by performing risk and threat analysis, developing remediation plans
+Implementing patch management, enciypting Oracle and MS SAL databases and cyber securty
+education for users
+
+‘+ Conduct disaster recovery and business continuity inlaves including business impact analysts,
+Integration of, (R2C),eVauling, ron Mountain off-site storage and creation of RPO and RTO,
+
++ Ennance data center avaiabilty and fat tolerance by implementing a smart UPS system, leveraging
+Rackspace cloud services, increasing ntemet bandh and instaling dverse-path redundant MPLS
+connect.
+
++ Satsy auatcomptance requirements by conducting quarter intemal and SOX (KPMG) aus and
+ensuring that practices are in compliance wth applicable HPPA state regulations
+
++ Coordinate wit egal and comptance team to review vendor contracts, sofware teensing, service and
+‘maintenance contracts.
+
+‘+ Provide technical consutation to legal team on responses to secu incidents and data breaches,
+
+‘+ Maintain Data Center performance meeting operational SLAS by implementing change control pots,
+leveraging Fogignt (Pertormance investigator) and SolarWinds monitoring tools
+
++ Increase network performance and avatablly by upgrading network inrastructure using a Cisco
+Calalyst 9300 sutch stack atthe core and a Cisco Catalyst 2960X such stack al the access layer.
+
++ Delve reduced batchob processing times and increased ask storage by implementing capacity
+planning guidelines and pertorming equipment upgrades on a Hitachi Storage Area Network (SAN)
+
+‘+ Remediate legacy technologies by developing a technology roadmap to remediate Windows Server
+2003, Windows 7, Office 2010, vaware 5, MS SQL 2012 and Oracle 11.2 and IBM AKX environments,
+
++ Optimize production job etciency and reduce processing conflicts, resource contention and jb falure
+rates by implementing Cisco Tidal Enterprise Scheduler (TES) to manage job worktiow
+
+‘+ Improve appication development efficiency by implementing DevOps controls and processes that
+‘reduced deployment falures and increased stabilty of development environments
+
++ Faaltate improved cotaboration capabites by Implementing Cisco video conferencing system, Cisco
+\olP phone solution, Wi-Fi capably, interactive dashboard and conference room presentation
+systems.
+
++ Optimize operational and service desk KPIs and reduce-tine-o-tesoluton by implementing change
+control patces, end-user documentation, se servce tools and end-user taining sessions,
+
+DICECTOR OF INFORMATION TECHNOLOGY 0172008 10 0172015
+‘Comeast-Spectacor LP City, STATE.
+‘+ subsidiary of Fortune $0 Comcast ne
+‘+ Operates pubic assemby faces; provaing management services, operational services and specialty
+catering
++ Lead team of T professionals supporting data center operations and project management on behalf of
+120 facies and 4,000 employees throughout the US and Canada
++ Manage intemal aust team responsible fr coordinating and conducting annual aud performed by
+‘outside au fm,
++ Improved technology project outcomes by spearneading inave to establish Project Management
+ce PMO).
++ Created frst dedicate enterprise PM role and developed intemal standards for projet management
+‘based on PMI guideines and best practices.
++ Functioned as team lea for systems integration of acquistions.
+‘+ Acquire facies were migrated onto enterprise network infrastructure, messaging and enterprise
+ppicaton platforms.
++ Acted as project lead for $1 2M high density Wi-F network that improved customer experience and
+‘employee mobitty and productivity.
++ Lead enterprise webste development template project
++ Employed project management ana Agle development methodology o ensure project deiverable
+‘matched stakenolder requirements,
+‘+ Managed PCI compliance effort.
+‘+ Implemented network montoring solution, operational controls and procedures to ensure enterprise met
+compliance requirements
++ Fostered professional gro within IT team resuting in 4 team members being promoted ito
+management roles
+‘Ongently coached and mentore stat at allevels oT organtaton
+Project Lead on corporate mobile device standardization and BYOO poly development.
+‘Defined standards and implemented polices resulting in cost savings and increased data secu.
+CColaborated with earning management system (LMS) project team.
+Contributed to development of functional requirements and product release
+Implemented enterprise video conferencing
+‘Utaing Microsof tyne as our enterprise standard video conferencing solution, improving colaboration
+between remote teams and reducing travel costs
+‘+ Managed $2 5M operational budget
++ Ensure that projects and operational objectives were achieved within budget and that costs were
+appropriately allocated to business unis
+
+[MOVAGER OF ENTERPRISE APPLICATION SUPPORT 012001 1 01/2008
+CComeast-spectacor LP | City, STATE.
+
++ Align technology intiaves wth corporate strategie goals by parinering wth sional eaders to Wentity
+‘optimal application of tecnnology resources
+
++ Researched, recommended and implemented technology solutions to improve business productivity.
+
+‘+ Responsible or technology procurement, capital, and operating budge planning activites.
+
+‘+ Designed and managed construction of new corporate datacenter wth improved secu, capacity,
+‘edundancy and operational efficiency.
+
++ Facitated transition of mutiple disparate nancial systems onto a common platform
+
++ Uimzea Cine to centraly provision financial systems fr 100+ remote locations.
+
+‘+ Played lead role n development and launch of employee mentoring inatve that was eventually rotled
+‘out enterprise-wide and improved employee productivity, professional development and promoted
+ceflecve succession planning,
+
++ Launched set serace portal for employees that reduced suppor cals by 180 per month and aowed
+fend users to independently manage ther passwords and SPAM fitersetings
+
+AFOLICATION DEVELOPMENT PROGRAM MANAGER 0172000 0 0172001
+SPX Valley Forge Ine | City, STATE
+‘+ urtingustry manutacturing Yeager wth operations in more than 35 counties,
++s product otterngs ae concentrated on serving customers in 3 primary end markets: power and
+energy, food and beverage, and industria ow markets
+‘+ Managed SDLC for upto 5 simultaneous web-based application development projects using Microsot
+Visual Studo and JAVA platfoms for major automoble manufacturers, including BEAW, Mercedes Benz,
+‘ana Subaru
+‘+ Managed activites of 14 ntemationalyaspersed software developers and technical wits.
++ Maintained iS0 $000 certicaion by developing and documenting standard processes and procedures,
+‘+ Increased revenue by $350,000 by busing sales ppetine with prospective clents
++ Performed business needs analysis ith exsting and perspective clens then made recommended
+customized teennology solutions,
+
+[Master of Science | Cyber Secunty 052017
+‘Maryville University , Stouts, MO
+
+[Mc3ter of Selence | Information Systems ‘0572000
+Penn State University
+
+[Bechelor of Arts | Economics 05/1907
+‘Texas Southern University, Houston, TX
+
+Mit Certincaton Data Privacy and Cyber Law, Seton Hal University Law Schoo! (al 2021)

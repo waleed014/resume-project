@@ -1,0 +1,63 @@
+Junior SQL Developer Phone: 129) 458.78 99
+
+Ema: nlocquilrestame.com
+Website: uunw.qwikrestme.ce
+
+ROBERT SMITH Linkedin: linkeda.com/qwikrestme
+‘Address: 1797 Marshville Read,
+
+Alabama
+
+Objective
+
+(Over 7 and half years of strong experience with Demonstrated success in the Database Design
+Development and Deployment of lange-scale enterprise applications. Expert in MS SQL Server sulle
+of products ike SSIS, SAS and SSRS, Hands of expertence on Database developmen! tn OLTP
+(Online Processing) and OLAP(SSIS, SSRS and SSAS)
+
+Skills
+
+‘Sollware Development, SQL, Database Managentenl, coderview, unit testing, dao, Oracle, Webs
+Services ide, Business Development, 20p. 00P.
+
+Work Experience
+
+Junior SQL Developer
+‘ee Paring ~ Somer 2015-2019
+
+Desig and deploy SSRS reports for visual presentation of the data Developed T-SQL codes,
+ETL Processes to collect /consolidate data from a varely of sources
+
+Developed parameterized dashboards and reports with SQL Server Reparting Services (SSRS)
+Develop T-SQL code, stored procedures, views, functions, and other dalabase objects to supply
+data needed lor the reports
+
+Integrate data from various sources using SSIS, valdate data and ereate reports,
+
+Responsible fordeveloping and oplimizing reporting solutions using SQL Server Reporting
+Seniees (SSRS) to auilor, manage, and deliver dynamic, interactive, delll-down web-based
+
+reports
+Used inals (Excel and SQL) to analyze, query, sort and manipulate data according to defined
+business rules and procedures
+
++ Optimized the queries which were running slowly
+
+SQL Developer
+ABC Corporation - 2009-2013
+‘Technologies SQL Server 2008, BIDS Deseviption As a part of the e-Governance inliative,
+Minisizy of Commerce (MOC) las entered into a formal agreement with NSDL Database
+‘Management Limited (NDML) for establishing and managing a natlonwide integrated solution
+for administration af Special Econamle Zones (SEZ) of India
+SEZ Online Is a tolal Integrated solution offered by NDML for the administration of SEZ to
+facilitate speedy processing af various transactions, transparency in activites by reducing
+physical interface and using modem Lechpolagy solutions of online electronic transaction,
+Processing and payment,
+‘This development Is in collaboration with Infosys.
+Responsibilities Created disaster recuvery plan lo restore SQL Server and databases hosted an
+the server Used SQL Profiler to monitor applications using SQL Server Perform periodic
+chcelding of databases with DBC command lor mainiaining data emststency ata integrity
+‘and rebut indexes,
+SAN Storage Conllguration for clusters & servers Establish and maintain sound backup and
+recovery polices and procedures Review Database desigh arid implementation and recommend
+Improvemenis Implement and maintain database sccurlty create and maintaln

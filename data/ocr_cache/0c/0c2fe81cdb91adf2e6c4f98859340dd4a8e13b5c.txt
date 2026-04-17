@@ -1,0 +1,113 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Highly energetic team player and fast learner with excellent work ethics and organizational skills. Hardworking individual with the ability to
+manage multiple projects and consistently meet deadlines. Possesses strong communication, time management skills, and a problem solving
+aptitude. Flexible analyst who excels in a fast-paced environment looking for a position with growth opportunities.
+
+Semis
+* SAP FICO © Active/Quick leamer
+© Hyperion Planning 11.1.2.3 © Organized multi-tasker
+‘* Smartview/Essbase Excel Add-In * Dedicated team player
+* Essbase Administrative Services + Time Management
+* Business Rules/Calculation Scripts in C++ language « Interpersonal Skills
+* Financial Reporting Studio + Business Communication
+* FDMODI * Attention to detail
+« Python Language (In Progress) * Focus on Results
+
++ Analytical Skills
+
+PRoFEssIONAL EXPERIENCE
+
+05/2014 to Current
+
+SAP Functional Analyst
+Fujifilm Diosynth Biotechnologi
+© Finished complete training in SAP FICO.
++ Configure company code, General Ledger (GL), Accounts Payable (AP), Accounts Receivable (AR), Cost and
+Profit Center Accounting (CPA) and Internal Orders.
+‘* Document processes and project requirements
+Projects at CompQsoft:
+Avid Technologies, Boston, MA - Jr. SAP FI/CO Consultant
+April 2017 - Current
+Responsibilities:
+‘ Preparation of Blueprint for implementing the project.
++ Configure company code, General Ledger (GL), Accounts Payable (AP), Accounts Receivable (AR), Cost and
+Profit Center Accounting (CPA) and Internal Orders.
+‘* Looking for improvement opportunities in business systems.
+‘* Enhancement of the SAP for end user based on requirement Document processes and project requirements.
+Lockheed, Marlton, NJ - Jr. SAP FICO Consultant
+Mar 2015 - Oct 2015
+Responsibilities:
++ Tickets resolution and answering questions for client
+‘* Responsible for determining details of problems which include recreating the issue, finding the point of failure, and
+providing a solution,
+# To have the high level of application or product understanding
+‘ Able to understand both the standard application features as well as the detailed components of the customized
+features.
+* Responsible for making changes, migrating them, completing the ticket and communicating the change to the client
+to close tickets.
++ Co-ordination of problem tickets with offshore resources (functional as well as technical) to ensure that the tickets
+are resolved within the stipulated SLAs.
+‘* Ensuring that offshore team resources are properly informed, help them in solving tickets where required and
+ascertain that the tickets are resolved.
+HP, Houston, TX - Jr. SAP FI/CO Consultant
+Sep 2014 - Jan 2015
+Responsibilities:
+‘© Preparing and validating the configuration for Fl and CO.
+* Colluded with the Key users to study and understand the existing business procedures and documented the
+
+processes
+
+‘* Mapped the processes onto the SAP system and also prepared the “To-be processes” document.
+
++ Configured the FI and CO settings on the development server and transported onto the testing and ultimately to the
+production server after successful testing by users.
+
+08/2015 to 02/2017 Jr. Financial Analyst
+
+Epucation
+
+Pae Government Services Inc — Providence, RI
+
+‘© Worked at Tidewater full time and worked a few hours at CompQsoft for SAP support
+
+‘* Leamed functional and technical understanding of Hyperion Financial Planning.
+
+‘© Created new data forms in Hyperion based on users’ needs and that would be beneficial to the company and
+improved the Task List.
+
+‘ Created and updated several reports using Hyperion Financial Reporting Studio.
+
++ Collaborated with intemal and external IT technical resources to enhance the capability and usability of financial
+systems within the company.
+
+* Developed MRM forecasts and other related reports with projected data from Hyperion and actual data from
+Peoplesoft.
+
++ Provide recommendations based on analysis and planning process and assisted with training area personnel in data
+output/input within the Hyperion system.
+
+‘* Created documentations on processes in Hyperion and other related software for audit purposes, technical
+guidance, and support to end-users.
+
+‘© Wrote calculation scripts and business rules in Hyperion Planning and Essbase to improve user functionality in C+
++ language
+
+‘* Ran daily Peoplesoft and Hyperion processes to keep Hyperion and Peoplesoft up to date and sync. Good
+knowledge of ETL tools such as ODI and FDM.
+
+‘* Improved and documented the application security in Hyperion Planning, Hyperion Essbase, and Essbase
+Integration Services.
+
+‘May 2014
+
+Bachelors of Business Administration: Marketing
+Houston Baptist University - Houston, TX
+
+Coursework includes: Accounting, Economics, Finance, Statistics, MIS, Management, Negotiations, Marketing, Speech
+and Communication, Psychology, etc.

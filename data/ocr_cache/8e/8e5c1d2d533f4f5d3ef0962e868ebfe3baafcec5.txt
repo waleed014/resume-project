@@ -1,0 +1,152 @@
+‘SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+ACTIVITIES AND.
+HONORS
+
+CERTIFICATIONS
+
+LANGUAGES
+
+WEBSITES,
+PORTFOLIOS,
+PROFILES
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor €& (655) 432-1000 4 resumesample@example.com
+
+Strategic developer skilled in Machine Learning & Al, application development, testing, and optimization.
+Excels in coordinating the planning, programming, and implementation of core modules. Maintain strong
+object-oriented and software architecture foundations.
+
++ Data analysis & visualization, Math, Data * Operating system: Linux, Microsoft Windows,
+structure & Algorithms, Relational Database, macOS
+EC2 AWS, ETL, SSRS, SSIS, ORM, Object © Framework: Flask
+
+Oriented Programming , Agile/Scrum
+Methodology, ROMS Development and SQL.
+Web Programming, Machine Learning & Al
+
+‘+ Programming Languages: Python, JavaScript,
+Java , MSSQL, PUSQL.
+
+‘SQL DEVELOPER 03/2019 to 10/2022
+Louisiana State University | Baton Rouge, LA
+
+SSMS, T-SQL, JAVA, JIRA, Visual C++, SPRING, SOAP, REST, Hibernate
+
+‘+ Creating updating, and deploying quality T-SQL codes, stored procedures, views, functions, triggers
+and jobs
+
+‘+ Updating and enforcing security procedures assuring 15% less breach risk
+
+‘+ Tested databases and performed bug fixes,
+
+‘+ resolve program architecture issues and reduce support requests by more than 30%
+
+‘+ Maintenance and support of SAL server Mirroring, Log shipping, Clustering, and other methods of,
+disaster recovery
+
++ Coordinated testing and validation procedures through software development lifecycle,
+
++ Working with business stakeholders, application developers, and production teams and across
+functional units to identify business needs and discuss solution options
+
+‘+ Developing highly efficient algorithms in C++ through both pair-programming and independent work
+
+‘+ The algorithms improved inventory management benchmarks 18 percent
+
+‘+ Updating status on work through JIRA
+
+FRCIELANCE PYTHON DEVELOPER (04/2020 to 07/2020
+Aviva Dermatology | City, STATE
+Project description
+Develop an application that can detect 60 classes of skin diseases via Deep learning. The application will
+utilize predictive analysis to identity an associated skin disease (0 aid in treatment.
+
+‘+ Collect dataset from the dermnet website using API request
+
+‘© perform data cleaning and Preprocessing
+
+‘+ Used Keras, CV2, and TensorFlow to build a CNN model with an accuracy rate of about 96%
+
+‘© Utlizing HTML, Bootstrap, CSS, and Flask Framework for app development.
+
+‘+ Programmed applications and tools using object-oriented languages with goals of code abstraction,
+
+stability and reuse.
+‘+ Coordinated system installations, testing and code corrections.
+‘= Work with company software developers to incorporate the app into the company platform,
+
+FFCIELANCE DATA SCIENCE 02/2018 to 09/2019
+VS Healthcare | City, STATE
+
+‘+ Extensively used Python's multiple data science packages like Pandas, NumPy, matplotlib, Seaborn,
+SciPy, Scikitearn, and NLTK.
+
+‘+ Built modets using techniques like Regression, Tree based ensemble methods, Time Series
+Forecasting, KN, Clustering, and Isolation Forest methods.
+
+‘+ Use data augmentation, cross-validation, and hyperparameter tuning methods to avoid overfitting.
+
++ Increase accuracy rate up to 98%
+
+‘+ Create a framework using 03 js and flask for visualizing trends and understanding patterns of
+transactions using the history data,
+
+‘+ Interact with non-technical stakeholders to deliver analyses and answer questions on deliverables.
+
+‘+ Applied data mining for new and valuable business insight that helped cut expenses by up to 20% and
+increase revenue by 8.95 %.
+
+PYCHON DEVELOPER INTERN 03/2016 to 11/2017
+Alten Calsoft Labs | City, STATE
+
+‘+ Implemented Python scripts to automatically sync data between different storage server depending on
+current available space and remote location.
+
+‘+ Tested compatibility and functionality of a web application using Selenium in Python.
+
+‘+ Generated graphs for business decision-making using Python matplotlib, seaborn, or Plotty library.
+
+‘+ Used Python library Beautiful Soup for web scrapping to extract data for building graphs,
+
+‘+ Used python library SQLAIchemy for data manipulation and data modeling,
+
+‘+ Created reusable programming libraries to support multi-project integration and rapid iterative
+development.
+
+‘+ Integrated Google Cloud Platform and Amazon Web Service into programming tasks,
+
+‘+ Monitored performance of programs after implementation, developing metrics for analysis and
+determining areas of improvement,
+
++ Contributed to API design, priortizing ease-of-use and broad compatibility
+
+‘+ Obtained and evaluated information on hardware configuration costs, reporting requirements and
+security needs.
+
+Bachelor of Science | Mathematics 08/2015
+Marien Nguoabi University , Congo
+
++ Sustainable Environment Awareness (SEA)
+
+‘+ Data Analysis & Visualization, Thinktul - 2023
+
+French English:
+Native’ Bilingual Full Professional
+Negotiated: Negotiated:
+Spanish
+
+Cimited
+
+Negotiated:
+
+‘+ https:/iJessicabat github io/

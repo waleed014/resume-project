@@ -1,0 +1,95 @@
+Robert Smith
+
+Assistant Sap Abap Developer I
+
+PERSONAL STATEMENT
+Over 8+ Years of experience on Implementation, Support and Upgrade (EHP
+3 to EHP 7) of SAP RA including ECC 6.0, 4.7 and 4.6c Worked on numerous
+implementations of ciffetent version of SAP on different modules viz. ERP
+(SAP) Systems with ABAF/4, FICO, MM, CRM, Sb, Travel Managernent and
+FE-FX modules, Full Ife cycle implementations using ASAP methodology,
+{good understanding of AS-IS business processes, Blue Frnt, Realization.
+Corfiguration, Final Preparation-Unit & Integration Testing, User Acceptance
+Testing, End Users Training Pre & Post Go Live support
+
+WORK EXPERIENCE
+
+Assistant Sap Abap Developer!
+‘ABC Corporation September 2008 - Aprit 2011.
+Ae sponsibisties:
++ Created the ORG Structure upload mass pragrarn to upload the
+Branches positions and users.
++ Created several Custom Reports (GUI and ABAP Web Dynpro) as per the
+dents requirement.
++ Created custorn Class to keep track of bank account balance,
++ Created Elementary Search help for vending commodity code Samp; is
+description field.
++ Designed, developed, coded and integrated solutions based on business
+requirements.
+‘Able to understand functional requirements and provide technical
+solutions,
++ Created successful and effective models of documentation for technical
+‘and functional specications for the IT team.
+
+Sap Abap Developer
+Delta Corporation - 2004-2008
+Responsibilties:
+
+‘+ AMBEY client- Brazls largest beverage company) Attended rneetings
+with clients to understand problems and help solve ther using the
+BAP
+
++ Developed effective technical specifications and evidence of test cases
+for the IT tear,
+
++ Sao Paulo, Brazil Sep 2008- Oct 2020 IT consulting serving large
+enterprise demands in varlous sectors, including government, energy,
+banking, and
+
+| SAP ABAP Developer Used ABAP to understand business requirements
+‘and propose accurate technical solutions.
+
+‘+ erforrned quality assurance for ABAP codes, checking for best practices
+and effective perforrnances( Software Test) Developed ABAP effective
+technical
+
++ Provided support for EDI
+
++ This is Dummy Description data, Replace with job description relevant
+to your current roe,
+
+(Ths Ee Resume Tamolate the copyright of Quikresune cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstwille Road,
+Alabama
+(123)-456-7@90
+Infow@awikresure,com
+wwqwikresume.com
+
+SKILLS
+SAP ABAP, SAP ABAP,
+SAP Simp, SAP SMP, SAP
+Flori, SAP Flor, SAP UIs,
+SAP APO Technical, SAP
+APO Technical.
+
+LANGUAGES
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Cacking
+Reading
+
+REFERENCES
+
+peerence-1 (Company
+name)
+Raference-2(Compary
+Ae a

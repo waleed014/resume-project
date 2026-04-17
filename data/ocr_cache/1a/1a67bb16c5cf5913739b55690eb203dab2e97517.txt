@@ -1,0 +1,65 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @
+
+) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Around 7 years of proven market experience in software industry predominantly in Python Java & Web technologies. Analytical Programmer
+possesses strong knowledge of Pythonprogramming. Quickly masters new software packages and hardware technologies Effective Interpersonal
+and Communication Skills, and desire to work in dynamic and challenging environmentsTremendous aptitude to leam new Technologies, Rich
+
+‘Work ethics with strong analytical and problem solving skillsStrong team player with leadership traits
+
+SKILLS
+* Shell scripting * Data management
+Advanced knowledge of PHP * Flash and ActionScript
+Python Programming * My SQL, SQL Lite, Mongo DB
+© Ipython * HTML, CSS, JQuery.XML
+
+* Core Java, Java Script Django Web Framework
+Windows, Linux, IOS
+
+Eclipse, Rational Rose
+
+= OOPs
+* AWS EC Cloud
+
+‘Work History
+
+Front End Developer, 06/2009 - 10/2010
+Motion Recruitment — Wharton, NT
+* Designed intuitive graphical user interfaces using knowledge of HTML, JSP, JQUERY and PHP
++ Developed the next generation integration platform for internal applications.
+* Maintained existing applications and designed and delivered new applications.
+
+WEB DEVELOPER, 10/2010 - 07/2011
+
+22Nd Century Technologies — Auburndale, FL
++ Built databases and table structures following n-tier architecture methodology for web applications using My SQL, Oracle DB, $QU lit.
++ Implemented Search Engine Optimizations to improve search results and business flow.
+
++ Implemented innovative systems for data collection, storage and management of customer orders.
+
+Java Developer, 11/2011 - 12/2013
+Pinnacle Technical Resources Inc — Rolling Meadows, IL
+* Maintained existing applications and designed and delivered new applications.
+* Contributed to the Javacode base used in the automated deployment of software on multiple virtual machines.
+* Used JDBC to access Database.
+* Used JavaScript for client side validation
+
+Python Developer, 01/2014 - 04/2016
+Cognizant Technology Solutions — Little Elm, TX
++ Participated in the complete SDLC process and used PHP to develop website functionality.
+* Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS and JavaScript.
+* Developed entire frontend and backend modules usingPythonon Django Web Framework
+* Designed and developed data management system using MySQL. Built application logic usingPython2.7.
+
+EDUucaTION
+
+Board of Secondary Education : High School Diploma
+JGR High School - Hyderabad, India
+
+Bachelor of Technology: Electronics & Communication Engineering
+Jahawarlal Nehru Institute of Technology - Hyderabad, India

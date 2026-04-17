@@ -1,0 +1,53 @@
+ROBERT SMITH
+Hadoop / Python Developer
+
+Phone: (0123}-486-789 | Email: infoBqwikresumescom | Website: Quikresume.com
+
+Extensive experience as a Web /Application Developer and coding with analytical
+programming using Python, Django, Flask and C+, Big Data /Hadoop technology.
+Expertise in HDFS, MapReduce, Hive. Pig, Sqoop, HBase and Hadoop ecosystem,
+Experienced on major Hadoop ecosystems projects such as Pig, Hive, HBase and.
+monitoring them with Cloudera Manager & Hortonworks. Expertise in writing HIVE
+queries, Pig and MapReduce scripts and loading the huge data from local fle system and
+DFS to Hive,
+
+HADOOP Eeosystem Hadoop And MapReduce, Sqpop, Hive, PIG, HBASE, YARN, HDFS
+
+Hadoop / Python Developer
+Hadoop - September 2015 ~ Present
+
+Key Deliverables:
++ Working as a Fythion/Hadeop developer on integration and analytics based on
+Hadoop, SOLRand web methods technologies,
++ Developed a custom AVRO framework capable Of solving small Mes problem in
+Hadoop and also extended pig and hive tools to work with I
+‘Working on data using sqoop from HDFS to relational database systems and vice
+
++ Created and malnininied (echnical documentation for launching Hadsop clusters
+and for executing Hive queries and pig scripts
+
+Developed Sqoop sertprs to handle change data capture for processing,
+incremental records between new arrived and existing data in RDBMS tabtes
+
++ Installed Hidoop, map reduce, HDFS. AWS and developed musluple mapreduce
+Jobs In PIG and HIVE for data cleaning and pre-processing
+
++ $ijob_deseripuion7|
+
+Python Developer
+ABC Corp - 2014 - 2015
+
+Key Deliverables:
++ Wrote python scripts to parse xmi documents and load the data in the database,
++ Used pandas apl to put the data as tume gertes and tabular format for east
+Umesiamp data manipulation and retrieval,
+Was involved in the environmient, code installation is
+Implementation,
++ Cleaned data and processed third-party spending data into maneuverable
+
+fell as the ev
+
+deliverables within specific formats with excel macros and python Hbmetes,
+
+2259 Oak Street, Old Fonge, New Yorks, 13420
+Ts Vase Resume Template the copy of Qutb com, Usage Culeliane

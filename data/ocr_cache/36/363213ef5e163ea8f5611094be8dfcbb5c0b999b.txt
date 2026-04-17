@@ -1,0 +1,121 @@
+Jrssica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 ¢ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Dynamic, passionate, and motivated AWIPS system administrator with over 20 years of experience in managing, strategizing, and optimizing
+AWIBS projects and services for the National Weather Service. Honored and eager to serve and support the team at Global Systems Laboratory’
+(sb).
+
+SKILLS
+
+‘+ 25+ years experience in National Weather Service operations and + 20+ years experience Project Management
+
+forecasting ‘+ 10+ years experience with GIS, including ESRI AGOL products
+
++ 20+ years experience AWIPS administration, development, ++ 20 years experience in technical support, training, and
+programming, and training productivity improvement
+
+‘+ 15+ years experience AWIPS, GFE, LDM, Hazard Services, Thin + Knowledge of docker and operating-system-level virtualization
+Client through container-based architectures
+
+‘= 10+ years experience PyPies, QPID, CAVE, EDEX,D2D, Git, _* Leadership, Teamwork, Collaboration, and Mentoring
+VLab + 20+ years experience Windows PC/LAN Administration
+
++ 20+ years experience Linux OS Administration. Developed ‘= 2 years experience working with AWIPS in Amazon Web Services,
+thousands of scripts, solutions, applications, and programs for (aws)
+
+local, regional, and national use
+
++ 20 years experience programming ¢, java, Perl, Python, and other
+scripting languages
+
++ 20+ years experience web development, javascript, HTML, PHP,
+and Google Sites,
+
++ 20 years experience PostgreSQL.
+
+‘Work History
+
+Information Technology Officer, 04/2004 - Current
+‘Tegna — Saint Louis, MO
+
+‘+ Administer LAN, PC, software development, AWIPS, GFE, Hazard Services, IDSS services, and CWSU systems locally, regionally, and
+nationally.
+
+‘+ Manage system and hardware support for several AWIPS systems, including SWPN, FSLC, BOU, CCBN, and TOAX.
+
++ Serve on numerous local, regional, and national teams including Central Region Tech Support Team, NWS Geospatial-Intelligence
+‘Workgroup, National GIS Viewer, CWSU Thin Client, SAFERNation AGOL Integration Working Group, GraphiDSS unified project,
+DssPacket, Hazard Services IOC, and ATAN team,
+
+‘= Initiated national support strategy for all 122+ NWS offices to upgrade from AWIPS I to AWIPS I, including step-by-step upgrade
+checklists and on-site and/or remote installs.
+
+‘+ Implemented support model for AWIPS Thin Client program for all 21 CWSUs, including remote installs, support, documentation, and
+‘raining services. Developed strategy to transition support to Raytheon/NCF.
+
+‘+ Served on profiler team to test'review contractor bids. Developed solution to add profiler datasets to AWIPS for review.
+
+‘+ National WarnGen team member instrumental in migrating NWS critical waming software (WarnGen) to AWIPS TL
+
+‘+ Graduated Colorado Leadership Development Program (Class of 2016).
+
++= Served on NRAP NWS Culture Team. Led effort to develop national culture web portal for NWS.
+
+‘+ Launched numerous collaborative efforts among local, regional, and national offices.
+
++ Initiated and strategized efforts to construct AWIPS testbed (CCBN) for national centers (WPC) at DSRC. This project included
+installation, configuration, and management of over 12 testbed workstations. Several national projects utilized this testbed, including
+projects from WPC and Tropical.
+
+‘+ Served on AWIPS II Past Performance team,
+
+«* Strategized, configured, and managed parallel AWIPS WI solution for NWS Boulder.
+
+‘+ Speatheaded several efforts for Hazard Services to develop national checklists and reference documentation. Supported numerous
+Hazard Services workshops.
+
+‘Initiated numerous efforts for Decision Support Service applications at the local, regional, and national levels,
+
+Information Technology Officer, 09/2001 - 04/2004
+‘National Weather Service - Duluth MN - City, STATE.
+‘+ Administered LAN, PC, LINUX systems, software development, AWIPS, GFE, and IDSS services and operations. Developed hundreds
+of scripts, applications, and programs.
+‘+ Strategized and led large-scale efforts to help evolve and optimize forecasting procedures, tools, and services.
+‘+ Implemented numerous efforts to develop projects and collaborate with surrounding offices and partners.
+
+Lead Forecaster, 03/1998 - 09/2001
+‘National Weather Service - Duluth ~ City, STATE
+‘+ Served as senior forecaster responsible for quality and timeliness of all warning and forecast products.
+‘+ Coordinated and provided meteorological advice for daily weather, marine, and waming operations.
+‘+ Managed LAN, PC, software development, AWIPS, GFE, and IDSS services and systems.
+‘+ Strategized and led large-scale efforts to develop projects and collaborate with surrounding offices and partners.
+‘+ Implemented efforts to help improve forecasting procedures, tools, and services.
+
+‘Meteorologist , 08/1992 - 03/1998
+‘National Weather Service — City, STATE
++» Served as forecaster responsible for quality and timeliness of all warning and forecast products.
+‘+ Coordinated and provided meteorological advice for daily weather, marine, and waming operations.
+‘+ Managed LAN, PC, software development, AWIPS, GFE, and IDSS services and systems.
++ Strategized and led large-scale efforts to develop projects and collaborate with surrounding offices and partners.
+‘+ Implemented efforts to help improve forecasting procedures, tools, and services.
+
+AWARDS AND ACCOMPLISHMENTS
+
++ Special Act Awards 2010-2020 for local, regional, and national leadership and accomplishments
++ Special Act Awards 2016-2017 from the AWIPS Program Office for leadership with the AIWPS deployment and contract activities
++ Graduated Colorado Development Leadership Program (2016)
+
++ Regional Isaac Cline Award for leadership in AWIPS Il deployment (2014)
+
++ Member and active participant of NWA, AMS and AGU
+
+EDUCATION
+
+‘No Degree: Computer Science
+‘Michigan Tech University - Houghton, MI
+
+Bachelor of Science: Atmospheric Sciences And Meteorology, 05/1992
+University of Wisconsin - Madison - Madison, WI

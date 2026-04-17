@@ -1,0 +1,45 @@
+Junior React JS
+CV Sample
+
+SKILLS
+
+CSS, HTML, JavaScript, and TypeScript languages
+
+JSX, JavaScript Fundamentals +ES6, Node JS, MongoDB, PostgreSQL
+Node Package Management NPM, Redux, Mocha, GitHub repository
+Knowledge of tools like Enzyme, Bitrise, Jest, Sentry, ESLint, Webpack, Flux,
+and others
+
+Knowledge of continuous testing, troubleshooting, and integration
+UX/UI, Restful API, performance checking, documentation
+
+EXPERIENCE
+
+* 2 years of working experience in developing websites and web
+applications
+
+2 years of experience in web application development in React JS
+environment
+
+2 years of experience in front-end coding and deployment in a
+Javascript environment
+
+2 years’ experience in customer requirement assessment and
+understanding
+
+* 2 years’ experience in developing responsive UI/UX interfaces
+
+* 2 years of above experience in working with live applications and
+troubleshooting expertise
+
+lyear of experience in application design with the latest web design
+tools
+
+lyear of experience in managing code development project in modern
+working methodologies
+
+EDUCATION
+
+* Bachelors of Computer Science
+
+GReactResumes.com

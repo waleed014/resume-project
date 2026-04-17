@@ -1,0 +1,85 @@
+Stephen Greet
+
+Data Science Manager
+
+EXPERIENCE
+‘Consumer Finance SaaS.
+
+Fetruary 2018 Present, New York NY
+Lead Data Scientist
+‘© Lead a team of 2 data scientists and 1 data engineer in developing
+‘marketing mix models that have led to an RO! improvement of
+25% on digital marketing spend over the last six months
+‘© Worked with the product and marketing teams to identify which
+‘customer interactions during their free trial maximize the
+likelihood of conversions resulting in a conversion rate increase
+of 14%
+
+EdTech Company
+
+Jamsary 2015 February 2018 New York NY
+
+Senior Data Scientist
+‘© Worked closely with the product team to build a production,
+
+‘recommendation engine in Python that improves the average
+time on page for users and resulted in $325k in ineremental
+
+annual revenue
+istomer attrition random forest model that improved
+ionthly retention by 10 basis points for customers who were
+likely to attrit by servicing relevant product features for them
+
+Using various clustering techniques in Python | identified groups
+cof states where our national underwriting models were
+‘underperforming and made improvements to increase their
+profitability by 5%
+
+Data Analyst
+
+«Mdentified procedural areas of improvement through customer
+data to help improve the prfitablty ofa nationwide retention
+program by 7%
+
+Using Python, SQL, and Excel developed and owned the
+\pipeating Sore inatiaemiide webantion pisirare, ‘sevheg =400 hous
+
+Brooklyn, NY 11222
+(923) 456-7890,
+‘stephen @beamjobs.com
+
+Ginéstephen-greet
+2020 Data Science Resume Guide
+
+suites
+
+Python (NumPy, Pandas,
+Scikit-learn, Keras, Flask)
+8 years
+
+SQL (Redshift, MySOl.,
+Postgres, NoSQL.)
+
+Syears
+
+it
+
+years
+
+Leadership Experience
+2,years
+
+Recommendation Engines
+Customer Segmentation
+Propensity Modeling
+Productioniaing Models
+
+6 years
+
+EDUCATION
+
+University of Pittsburgh
+BS. in Mathematics and
+Economics
+
+Patsburgh PA

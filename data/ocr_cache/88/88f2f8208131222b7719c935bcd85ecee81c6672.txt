@@ -1,0 +1,160 @@
+Senior Java Developer
+
+Michael Hibbison
+
+SUMMARY
+
+Motivated and skilled Senior Java Developer focusing on High-Performance, high-availability, and high-
+throughput systems. Strong problem-solving skills and in need of a challenge. A very good database
+designer, and for me, that is the building block for any application and service,
+
+‘WORK EXPERIENCE
+2016-08 - Senior Java Developer
+Present Bank of America
+
+* Responsible for prepaid Airtime, Electricity, Lotto, Funeral Plans, Bills, et
+
+* Investigating new technologies and frameworks that may make our lives a bit
+easier. Recently added GrayLog and Hashicorp Vault.
+
+* Running a team of three developers and guiding them through requirements and
+how a system/component must be effectively developed, and sometimes they
+guide me, and it works well in the end.
+
+2014.06- Senior Java/.Net Developer
+2016-07 Nextware Technologies
+
+* Designed, developed and maintained enterprise systems.
+* Worked with J2EE,Net and IOS on a daily basis.
+
+2010-05. Java Developer
+2014-05 Trigent Software
+* Worked on two projects during this time. Using Java€€ and Web Front end
+technologies like java Servlet, JSP, Struts 2, JQuery, JQuery Ul.
+* Worked on the backend and frontend parts of the projects, but mostly the
+backend part.
+
+2006-03- Software Developer
+2010-04 HQSoftware
+
+© Designed, Developed and tested new applications and components using,
+Continuous Integration Development.
+
+© Programmed in Java/J2EE language and Worked with various technologies
+including Spring, Spring MVC, Maven, Hibernate, JDBC, SOAP, and RESTful web
+services
+
+* Developed automated functional and performance tests and data analysis
+software using Python language.
+
+* Conducted compatibility and quality assurance testing
+
+* Configured, troubleshoot and tuned Relational Databases including Oracle and
+MySQL.
+
+© Designed data models, created complex and efficient queries, partitioned tables
+for system improvements and chose the right Data Store for each component.
+
+* Analyzed system specifications and proposed accurate technical solutions
+implemented optimized and standard code using coding standards and technical
+design.
+
+© Improved code quality by using code analysis tools like SonarQube.
+
+* Redesigned components to reduce the cost of product development.
+
+© Worked with version controls including SVN and Git.
+
+© Deployed and tuned applications on Tomcat web server.
+
+© Deployed components on Linux servers
+
+* Generated easy-to-read automated tests using Robot Test Framework Setup,
+configured and maintained virtual Linux servers.
+
+* Agile teamwork using JIRA and Scrum boards.
+
+* Provided accurate estimates on items of development work.
+
+© Participated in the review of the colleague's code.
+
+© Generated documents for customers.
+
+EDUCATION
+
+9 City, State
+‘& 000-000-0000
+
+& email@email.com
+
+SKILLS
+
+JAVA/JAVAEE TECHNOLOGIES.
+
+ri SS SSS / f/f
+Working on various technology
+frameworks and knowledge about
+programming concepts like:
+
+* SOLID, Spring
+© OOP Principles
+
+© Design Patterns
+
+© Unit/integration Testing
+
+© Data-structures and Algorithms
+
+JAVASCRIPT AND JAVASCRIPT
+TECHNOLOGIES
+TLL S/S S/S iG
+Ihave mixed the professional and
+study experience on JavaScript,
+overall concepts and technologies:
+
+© Angularjs
+
+© Underscores
+
+© JavaScript OOP
+© JQuery, RequireJs
+
+Java EE (6 &7)
+
+TL SSS S/S / iG
+© JB, JBoss
+
+© Glassfish, Web Services
+
+© Socket Programming (NIO)
+
+Java Web
+
+ri SSS S/S f/f iG
+SP © GWT
+
+© SF © JSON
+
+* css © JavaScript
+
+Software Development
+
+Ti SSS S/S f/f
+© Scrum, Team Work
+
+* Agile Methodologies
+
+© Java Design Patterns
+
+© Continuous integration
+
+© Object-oriented Design
+
+Software Programming Languages
+
+ri SSS S/S // iG
+© SQL © Python
+
+© HTML © JavaScript
+
+© BASH © JAVAI2EE

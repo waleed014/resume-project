@@ -1,0 +1,208 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Integration: Mule 3.x and 4.x
+runtime, CloudHub
+
++ Programming languages: XSLT,
+DataWeave, JavaScript, Java.
+
++ CICD Tools: Jenkins, Maven,
+Nexus, Git, SVN
+
++ J2EE Technologies: Java EE,
+JSP, Servlet, EJB, JDBC, JNDI,
+
+JSTL, JPA
+
++ Web Service: SOAP, REST
+
++ Databases: Oracle, DB2 and MS
+SQL Server
+
++ Application Servers: Websphere
+Application Server, Apache
+Tomcat, Apache HTTP Server
+2.x, JBOSS 5.x
+
++ Version Control Systems:
+‘Apache Subversion SVN, CVS,
+Git and GitHub, Bitbucket
+
+EDUCATION
+BS: Applied Science
+
+Certified Mule Developer
+
+PROFESSIONAL SUMMARY
+
+Professional Summary
++ T+ years of experience in designing, developing, and testing middleware applications using MuleSoft
+ESB, WebSphere MQ.
+
++ 4+ years of Experience in Mule ESB
+
++ Good experience with integration Patterns, tools, EAI, Transformations, XML Schemas, and XSLT
+
++ MuleSoft experience in Development on Anypoint Studio, DataWeave, Transformers, APIkit Router,
+RAML, Anypoint Platform, API Management etc.
+
++ Responsible to develop RESTful and SOAP web services in Mule ESB based on SOA architecture.
+
+= Mule ESB experience in implementing Service-Oriented Architecture (SOA) using Mule Server 3.x and
+Ax.
+
++ Good experience in using Transformers, Filters, Flow Control, Collection splitters /Aggregators/
+Scatter- Gather etc.
+
++ Expertise in implementing Service Oriented Architectures (SOA) with XML/JSON based Web Services
+(SOAP & REST) with technologies like WSDL, SOAP, CXF, JAXB, JAX-RS, Jersey, and Jackson.
+
++ Experience in Waterfall, Agile and JIRA for agile Management,
+
++ Good experienced in writing complex SQL joins, SQL Queries, and stored procedures.
+
+= Good experience developing message flows to interact with back-end database, ERP and CRM
+systems using various connectors.
+
++ Experience in version control system tools like CVS, TFS and SVN Synergy.
+
++ Strong experience with Problem determination, Route cause Analysis and Defect resolution.
+
++ Effective communication and interpersonal skills, ability to work in a team/independently and adapt
+quickly to new and emerging technologies.
+
+WORK HISTORY
+
+Ibm Corporation - MuleSoft Developer
+Armonk, N¥Los Angeles, California + 06/2021 - Current
+
++ Understand requirements and translate ther to technical design documentation, mapping
+document and implement transformation logic
+
++ Implement various integrations with Salesforce and database
+
++ Design various APIs using API led connectivity (System, Process and Experience APIs) and made
+decision which use case can fit to any of those layers
+
++ Create various documents such as HLD, LLD, sequence diagram and process flow diagram
+
++ Implement Mule flows for Batch processing for processing
+
++ Involved in defining API Best practices for RAML, REST and Dataweave
+
++ Attended workshop on Runtime fabric (RTF)
+
++ Create exception handling process using choice-exception and catch-exception strategies for
+different flows
+
++ Create and manage different environments on CloudHub to deploy the Mule ESB application
+
++ Participate in CICD preparation and planning
+
++ Involved in On-call and production support
+
++ Implement API Management using API Manager using Client ID/Secret, OAuth, TSL
+
++ Worked on Cloud-Hub and on-prem deployment topologies
+
+Environment: Mule 3.9.x/4.3.x, Anypoint Studio 6.5/7.5, Java 7, DataWeave, CloudHub, MS-SQL,
+
+Salesforce, Seibel, SAP, workday, GIT, SVN, Maven, Jerkins, Anypoint Platform.
+
+Ibm Corporation - MuleSoft Developer
+Baton Rouge, LANashville, Tennessee + 10/2016 - 05/2021
+
++ Review business requirements, designs and work with the Analyst and Product Manager to achieve
+project desired goal
+
++ Create High level Design for the integration of the various systems using MuleSoft Anypoint
+platform
+
++ Leverage Mulesoft Anypoint platform to design and implement enterprise level APIs for various
+backend application
+
++ Create RAML, define roles, tiers and specify API names in MuleSoft API Manager
+
++ Contribute to installation, upgrading, patching and configuration of MuleSoft on-premises hosted
+system model and product suite
+
++ Involved in performing integration testing of the whole application
+
++ Create error Global error handling strategies, apply Try scope to event process and connectors
+
++ Used Jenkins for CI/CD deployment strategy
+
++ Configure Mulesoft caching (object store) to cache response payload and improve performance
+
++ Leverage recommended design patterns to achieve loose coupling, scalability, better performance,
+error-handling etc
+
++ Optimizing Request/Response payloads and correcting the faults in new design of Mulesoft projects
+{from SOA experience) achieving better performance
+
++ Redesigning existing flows orchestrations for better reusability for Mobile Apps using Mulesoft
+
++ Participate in coding, debugging, technical documentation and software improvement activities
+
++ Participate unit testing, interface testing, system testing and user acceptance testing of the
+workflow tool
+Use HP-ALM to track defects in DEV, TEST and STAGE environments
+
+Environment: Java 1.8, Eclipse, Any point Studio, Mule ESB 3.8.3, ActiveMQ 5.3, AWS, Apache-
+
+‘Maven 3.3.9, CloudHub, RAML, Log4j 1.2.14, MySQL, Mule connectors, Web Services-WSDL,
+
+SOAP, UDDI, SOAP UI, Java Developer
+
+Brains Workgroup, Inc. - Java Developer
+Ramsey, NJMinneapolis,MN + 06/2016 - 09/2018
+
++ Participate in Requirements gathering, Analysis, Design and Development phases of the project
+with major emphasis on Development of the modules
+
++ Implement persistence layer with Hibernate Framework which interacts with the database
+
++ Leverage Dependency Injection mechanism of Spring Framework in Business logic implementation
+
++ Implement presentation tier using Spring MVC
+
++ Used TOPIC, Queues and MDB’S for reliable asynchronous communication between clients and the
+bank when exchanging important information such as status reports
+
++ Create JSP and HTML pages using JavaScript and AJAX for validations
+
++ Parse XML documents using SAX and DOM parsers
+
++ Develop the application using the Session Facade, Data Access Object
+
++ Consumed Webservices from a remote and global application
+
++ Used JDBC to invoke Triggers, Stored Procedures in Oracle 10g
+
++ Used RAD for developing web components such as JSP, Controller tier that includes action classes
+and business tier that includes EJBs
+
++ Used Rational Rose for Use Case Diagrams, Activity Flow diagrams, Class Diagrams, Sequence
+diagrams and Object diagrams in design phase
+
++ Deployed the application on IBM WebSphere Application Server
+
++ Used JUnit Testing Framework for performing Unit testing
+
++ Used LogéJ to capture the log that includes runtime exceptions
+
++ Used CVS for version control
+
+Environment: JDK 1.7, IBM Web Sphere Application Server 6.1, RAD 7.0, UML, IBM Rational Rose,
+struts 1.3, EJB Session Beans, Hibernate 3.0, Spring 2.0, JSP 2.1, XML Web Services, SOAP,
+WSDL, JMS, JNDI, Log4j, Java Script, XSL, XSLT, Servlets 2.5, Oracle 10g, JUnit, CVS, Windows.
+JAX-RS, JERSEY, Xpath, XML, REST, Batch Processing, CXF.

@@ -1,0 +1,114 @@
+& lilah.harryman@gmail.com
+
+& (939) 745-4405
+
+9 123 OakStreet, Little Rock, AR
+72201
+
+Education
+
+Bachelor of Science in
+Information Technology with
+a specialization in PL/SQL
+Development at University of
+Arkansas, Fayetteville, AR
+Sep 2018 - May 2022
+
+Relevant Coursework: Database
+Management Systems,
+
+PL/SQL Programming, Data
+Warehousing, Database
+Administration, Software
+Development Lifecycle, Systems
+Analysis and Design, Web
+Development, and Information
+Security.
+
+Links
+linkedin.com/in/lilahharryman
+
+Skills
+
+Query optimization
+
+Performance tuning
+
+Database triggers
+
+Stored procedures
+
+PL/SQL packages
+
+Exception handling
+
+Dynamic SQL
+
+Languages
+English
+
+Portuguese
+
+Lilah Harryman
+
+PL SQL Developer
+
+Profile
+
+Results-driven PL SQL Developer with 1 year of experience in designing, developing,
+and optimizing database applications. Adept at creating efficient, scalable, and
+user-friendly solutions using Oracle PL/SQL, SQL tuning, and data modeling. Strong
+analytical and problem-solving skills, with a proven ability to work collaboratively
+in diverse teams. Committed to continuous learning and staying current with the
+latest industry trends to deliver outstanding results.
+
+Employment History
+
+PL SQL Developer at Windstream Communications, AR
+Apr 2023 - Present
+
++ Developed and optimized a PL/SQL-based billing system for Windstream
+Communications, AR, which resulted in a 25% reduction in processing time and
+a 15% increase in overall efficiency.
+
+* Successfully migrated over 500,000 customer records from legacy systems to a
+new Oracle database, ensuring a seamless transition and maintaining 99.9%
+data accuracy throughout the process.
+
++ Implemented advanced error-handling and performance tuning techniques
+for PL/SQL processes, reducing system downtime by 30% and improving the
+overall performance of critical applications by 20%.
+
+Associate PL SQL Developer at J.B. Hunt Transport Services, AR
+Jul 2022- Mar 2023
+
++ Developed and optimized 20+ PL/SQL procedures, resulting in a 30% reduction
+in processing time and improving overall system performance for J.B. Hunt
+Transport Services' core applications.
+
++ Successfully migrated a legacy system to a new Oracle database platform,
+leading to a 25% increase in data processing efficiency and reducing
+maintenance costs by 15%.
+
++ Spearheaded a team of 4 developersin the design and implementation of anew
+scheduling module that improved resource allocation by 40% and increased
+on-time delivery rates by 10%.
+
++ Identified and resolved over 50 critical bugs and performance issues in existing
+PL/SQL code, enhancing system stability and reliability for J.B. Hunt's key
+logistics operations.
+
+Certificates
+
+Oracle PL/SQL Developer Certified Asso
+Aug 2021
+
+ite (OCA)
+
+Microsoft SQL Server Database Development Certification
+Jun 2020
+
+Memberships
+Oracle Academy
+
+International Association of Engineers (IAENG)

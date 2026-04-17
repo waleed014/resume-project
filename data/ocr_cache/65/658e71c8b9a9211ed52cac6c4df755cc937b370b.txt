@@ -1,0 +1,100 @@
+Robert Smith
+
+SAP Consultant/Co-ordinator
+
+PERSONAL STATEMENT
+Consulting and designing and implementing integration strategies for large
+
+customers with complex heterogeneous system landscape thereby
+strearmlining data Integration and transformation processes,
+
+WORK EXPERIENCE
+
+SAP Consultant/Co-ordinator
+‘ABC Corporation - May 2007 - September 2008
+responsibilties:
+
++ Integration lead respansible for the design of interfaces for a large
+software product development firm,
+
++ Improve pricing capabilities for the client, which in turn drove
+Incremental revenue by everhauling its pricing systems &amp;
+processes,
+
+* Lead the integration services tam of 2 members; bulld a project plan
+highlighting dependences, key milestones.
+
++ Worked with cross-functional and legacy teams to manage the design,
+dolivery, and testing of the end-to-end integration solution,
+
++ Provided technical expertise in Pl 7.0, developed Garp; supported
+Interfaces between SAP ECC 6.0, Vendavo PMIM 6.7 for successful data
+Integration,
+
++ Developed interfaces using P! toolset Integration Repository, Integration
+Directory, cc BPA and adapter engine,
+
++ Developed graphical, java and XSLT based message mappinas, user
+defined functions to support complex business requirements,
+
+SAP Consultant
+ABC Corporation - 2005 - 2007
+Responsibilities:
+
++ Jan 2000 - Sep 2000 Resumes generally showcase relevant work
+‘experience within the past 10-15 years.
+
++ Remove or summarize previous experience,
+
++ Ifyou want to include it, add a section labeled &quot:Adaltional
+Experience&quot; and list your job titles and companies without dates,
+
++ Team Size 10 Ervironment SAP fy/3 4.58 Role SAP Consultant
+Responsible for the low-level design, technical specications, coding,
+Testing and implementation of the following Configured and customized
+2a realtime project for a leading bearing manufacturing company.
+
++ Working knowledge in ABAP/4 Workbench Tools, Interactive Reporting
+ABAP/4 Query, SAP Script, and Batch Data Communication (BDC).
+
++ Acquired in-depth knowledge in SAP R/3 module and was working in
+project environment for customizing Materials Managernent related
+functions.
+
++ Enhanced existing BAPIs according to requirement,
+
+(Ths Ema Resume Temlate the copyright ot Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+Infoequikresurne.com
+wwqwikresume.com
+
+‘SKILLS
+
+SAP ERP
+Implementation, Service
+Oriented architecture,
+SAP Data Services.
+
+LANGUAGES
+
+English (Netive)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Coking
+Reading
+
+REFERENCES
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

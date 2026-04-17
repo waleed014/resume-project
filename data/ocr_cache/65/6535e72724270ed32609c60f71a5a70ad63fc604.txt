@@ -1,0 +1,67 @@
+Christa Scott
+
+DEVOPS ENGINEER
+SUMMARY CONTACT
+Analytical, committed, persistent individual and reliable team member. 4 info@resumekraft.com
+Continuously learning and acquiring new knowledge and skills. Experience in Q 202-555-0120
+building different projects using a wide range of technologies. Performing well in Q Chicago, Illinois, US
+
+different environments in onshore and distributed teams. . 7
+in linkedin.com/resumekraft
+
+TECHNICAL SKILLS PROFESSIONAL SKILLS
+
+Core Computer Skills
+e Server administration, troubleshooting on Linux/Unix based systems,
+« Automation of continuous integration, delivery, and deploymend - Jenkins,
+Ansible, Bash, Git.
+¢ Building scalable applications using Docker and container orchestration -
+
+* Analytical
+
+« Perceptiveness
+
+e Accountability
+
+¢ Growth mindset
+
+e Creative thinking
+
+Kubernetes.
+« Working knowledge of AWS - ECS, EC2, RDS, S3, ElasticSearch, ELB,
+Routes SKILLSET & TOOLSET
+* Creating infrastructure as a code - CloudFormation.
+* Building analytics and monitoring solutions with visualisation - Nagios, e Linux system administration
+Icinga2, PRTG, Grafana. e Bash scripting
+e Jenkins
+¢ Ansible
+EXPERIENCE ¢ Docker
+DevOps Engineer # Kubernetes
+in-Winds Jun 2017 - Present © ipinga?
+e Work closely with developers to build their development pipeline and deploy
+code to various environments.
+¢ Participate in deploying, automating, maintaining and managing AWS cloud EDUCATION
+based production system, to ensure the availability, performance, scalability Bachelor of Engineering in
+and security of productions systems. Informatics and Computer
+* Develop and maintain monitoring, and alerting tools Engineering ; .
+. - San Jose State University
+e Perform maintenance and troubleshooting of continuous integration systems Oct 2006 - Oct 2019
+including build and deployment used across multiple environments. Faculty of Electrical Engineering
+° Participate in the Agile DevOps design, development, testing, and release of & Information Technologies,
+new capabilities and features. Skopje
+
+e Proactively communicate and coordinate with multiple project teams
+
+Linux System Administrator
+
+Tecno Rim May 2016 - May 2017 EANSHAGES
+© Optimising server performances. Troubleshooting, determining the root English
+cause and working on solutions and implementation. French
+« Participate in technical research and development to enable continuing Arabic
+
+innovation within the infrastructure domain
+¢ Production operations (code deployments, upgrades, system patches) German
+¢ Involved in designing of Linux server environments for developers and
+
+testers, supporting them, and documenting procedures for IT support.
+e Working closely with developers on developing and supporting new features

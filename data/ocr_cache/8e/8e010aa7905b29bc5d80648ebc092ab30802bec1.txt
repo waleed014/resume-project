@@ -1,0 +1,101 @@
+Robert Smith
+
+Lead Dotnet Developer
+
+PERSONAL STATEMENT
+Certified Senior System Architect (PEGACSSA), Scrum Master, Agile
+Methodology. Competent professional having around 10 years af experience
+with around + years of application development Using PEGA PRPC BPM
+tool and 6+ years of work experience using C#.ANet, Java, C++, VC++,
+
+MC, VB.NET, SCL Server 2008, WCR
+
+WORK EXPERIENCE
+
+Lead Dotnet Developer
+ABC Corporation - September 2012 - August 2013,
+Fesponsibilties:
+
++ Involved in the SDLC phase of requirement analysis, design, and
+development of the web based intranet application tool using ASPNET
+and C#
+
++ Graphical User Interface (GU!) designed using Views and the business
+logic was coded in Ci.
+
++ Developed business use cases, sequertlal, collaborative, activity and
+class dlagrams for the enterprise presentation, and business and data
+access components of the system using UML.
+
++ Designed the source and applications under agile process.
+
+* Designed classes folowing OOP principles and implemented them in
+et in framework 3:5,
+
+Responsible for unit testing and functional testing of application
+Envlronment# 2.0,
+
++ Interacted with the client during requirement gathering phase,
+
+Dotnet Developer
+Delta Corporation - 2008 - 2012
+Fesponsibilties:
+
++ SSCis one of the nations leading health care providers.
+
++ Itis comprised of hospitals, medical centers,
+
++ Developed custom User Controls to reduce the complexity In Ul coding
+and provide better look Samp; feel Implemented the business logic in
+the middle ter using C#.NET Used Master Pages templates,
+
+CSStamp; Themes to define unified look and feel for the application
+Creating and Managing Vittual Machines in Windaws Azure and setting
+Up communication with the help of Endpoints and also VM Migrations
+{rorn Transitional hosts on Canada Boxes.
+
++ Adding the New Co-Adrnin and Managing the Co-Admin for all the
+Subscriptions in the Windows Azure Platfortn,
+
++ Reengineeted existing applications ta N Tier web based application
+Using ASPINet with C# as back end
+
+* Used Design Patterns to separate the User Interface and the Business
+Logic involved in writing complex SQL Statements, UDFs and Stored
+Procedures, indexes to validate data and ensure systern Integrity and
+security In SQL Server 2005(T-SQL) Implemented exception handling
+and developed custom error pages Developed the back end layer for
+‘Ths Ea Resume Temolate i the conynght of Qukesure. cor Usage Gubdelines|
+
+CONTACT DETAILS
+
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+Infow@awikresure,com
+wwqwikresume.com
+
+‘SKILLS
+
+PEGA PRPC 6X 7.X, CH
+Ca JAVA.
+
+LANGUAGES
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Cacking
+Reading
+
+REFERENCES
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Norma),

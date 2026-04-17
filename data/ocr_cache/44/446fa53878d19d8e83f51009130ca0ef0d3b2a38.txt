@@ -1,0 +1,100 @@
+CHARLOTTE MAY
+
+Python Developer
+& 602.765.9016
+@ simplistic-backyard.net
+
+SUMMARY
+
+Experienced Python Developer with 5+ years of expertise in
+designing and implementing scalable API solutions. Proficient in
+Python and Java development, with a strong working knowledge
+of AWS services and REST API integration. Collaborative team
+player, skilled in mentoring junior developers and leading
+technical initiatives. Proven track record of delivering high-
+quality products through problem-solving, adaptability, and
+effective collaboration. Holds a Bachelor's degree in Computer
+Science and is AWS Certified. Enthusiastic about leveraging
+technical skills and experience to contribute effectively to a
+dynamic and innovative organization.
+
+EXPERIENCE
+Python Developer
+
+Tech Solutions
+
+68 2022- Ongoing 9 London, UK
+
+Designed and implemented Python-based AWS Lambda APIs, resulting in
+
+improved performance and scalability of the API Management system.
+
+* Developed new features and functionalities using Python, integrating
+with REST APIs and implementing JSON-based communication.
+
+* Collaborated with Solutions Architect to design and deliver product
+enhancements, ensuring alignment with business requirements.
+
+* Mentored junior developers, providing technical guidance and fostering
+professional growth within the team.
+
+Java Developer
+
+Innovative Technologies
+
+68 2017-2022 @ New York, USA
+
+Built Java classes to extend the AP! Management platform and ensured
+
+optimal utilization of resources.
+
+* Implemented unit tests using Junit and Mockito, resulting in improved
+quality and reliability of the codebase.
+
+* Worked on live products, providing support and resolving critical issues
+within tight deadlines.
+
+* Collaborated with cross-functional teams to integrate third-party APIs,
+enhancing system capabilities.
+
+www.enhancv.com
+
+@ charlotte.may87@yahoo.com
+9 Pollichburgh, Indonesia
+
+MY LIFE PHILOSOPHY
+
+Hard work beats talent when talent
+doesn't work hard. - Tim Notke
+
+STRENGTHS
+
+Ww Problem-solving
+
+Successfully resolved complex technical
+issues resulting in improved efficiency and
+reduced downtime.
+
+4 Collaboration
+
+Proven track record of working effectively
+in cross-functional teams, fostering
+teamwork and driving project success.
+
+We Adaptability
+Quickly adapt to new technologies and
+frameworks, staying up-to-date with
+industry trends to deliver cutting-edge
+solutions.
+
+SKILLS
+
+Python Java
+
+AWS Lambda
+REST APIs JSON Spring
+Spring Boot Git/GitHub Maven
+
+Linux Bash scripting DevOps
+
+Powered by (CX7 Ennancu

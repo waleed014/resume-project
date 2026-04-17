@@ -1,0 +1,157 @@
+Alex Greenwood
+
+Java Developer
+\ +1-890-908-8077
+% Columbus, OH
+
+@ alex.greenwood@gmall.com
+
+SUMMARY
+
+Mid-tier Java Developer with over 7 years of experience mainly in
+the back-end area but just getting into front-end engineering.
+Looking to migrate from web development to mobile app
+development and face new challenges that | will learn from.
+
+EDUCATION
+
+B.S. Computer Science
+Ohio State University
+(8 2010-2014 9 Columbus, OH
+
++ Was a Department of Science and Technolgy - Science Education
+Institute (DOST-SE!) scholar
+
+‘+ President of the Computer Science club for 1 year
+
++ Played for the CSU Cougars Baseball team for 2 years
+
+EXPERIENCE
+
+Mid-Level Java Developer
+
+Crist
+
+€2 2018 -Ongoing 9 Columbus, OH
+
+Crist specializes in bullding and maintaining websites for private and corporate
+
+clients. Crist's portfolio features over 300 websites
+
+‘+ Promoted trom Junior Java Developer to Mid-Level Java Developer within 3
+months of employment
+
++ Utlized GIT to manage collaboration with other departments and developers
+
++ Worked on 70+ mid-scale development projects
+
++ Created more than 100 technical design documents and Implemented
+Business logic for 60 features
+
++ Interacted with java controllers (jQuery, AJAX, and JSON) to write/read data
+trom back-end systems
+
++ Worked on the front-end area of 5 websites featured on awwwards.com
+using Node js, HTMSL and CSS3
+
+Junior Java Developer
+
+Wolf Inc.
+
+(3 2014-2018 9 Columbus, OH
+
+Wolf inc. is one of the leaders in NA in business processes management and
+
+development of IT solutions in the field of e-commerce.
+
++ Worked in a 15-person team of designers, devs and business specialists
+
++ Involved in the development and maintenance of over 200 business process
+management applications
+
++ Reduced data loading time by 65% by writing clean PHP code in my frst
+month of employment
+
++ Developed reusable component libraries using J2EE technologies and
+Application servers to save time and increase productivity
+
++ Created database programs in SQL server to manipulate data accumulated
+by Internet transactions
+
++ Developed and integrated 3 processes into bank tasks life cycle management
+system
+
+Internship - Java developer
+
+Ledner Group
+
+#8 2012-2013 9 Columtius, OH
+
+Ledner Group is a company which specializes in load testing.
+
+‘+ Was able to meet all deadlines while studying and playing for the CSU
+Cougars baseball team
+
++ Completed 460 hours of internship and Database training
+
++ Load tested and monitored 4 e-commerce websites
+
++ Diagnosed the ineffective processes with the help of senior developers
+
++ Decreased loading times by 50% ater enhancing the quality of the PHP code
+
+2 glthub.io/greenwood java
+
+TRAINING / COURSES
+
+iOS App Development with Swift
+University of Toronto, Coursera - 2019, Grade A
+
+Server-side Development with NodeJS
+and MongoDB
+
+The Hong Kong University of Science and
+Technology, Coursera - 2015, Grade A
+
+CERTIFICATION
+
+Professional Scrum Master |
+Scrum, 2018
+
+Software Engineering Master Certification
+IEEE Computer Society, 2076
+
+Sun Certified Java Programmer
+Sun Microsystems inc., 2015
+
+TECH SKILLS
+
+Tech Stack
+
+Java Scala Node,js_ SPRING
+SWIFT J2EE REST SOAP
+PHP CSS HTML jQuery
+
+Data Engineering
+
+SQL MongoDB_ Kafka Hadoop
+Development
+
+Eclipse Maven GIT Scrum
+SOFT SKILLS
+
+Project Management
+
+Managed projects for 7+ clients with budgets up
+to 3.8M and 1500+ man-days
+
+‘Team Leadership
+
+Managed multiple cross-functional and
+distributed teams of 10+ direct reports
+
+Analythical Thinking
+
+Having faced many challenges throughout the
+years, | have improved my way of seeing
+problems in an analytical and creative way

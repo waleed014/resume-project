@@ -1,0 +1,148 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+QUALIFICATIONS
+
+Microsoft Office Excel, Word and
+PowerPoint applications to support
+project documentation,
+presentations and business
+analyses.
+
+EDUCATION AND
+TRAINING
+
+Franklin Pierce College
+
+May 1994
+
+Bachelor of Science: Financial
+‘Management
+
+Financial Management
+
+CAREER OVERVIEW
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing
+sales professional with track record of driving increased sales, improving buying experience and
+elevating company profile with target market.
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+
+‘Asrc Federal Holding Company - SAP Functional Analyst
+01/2012 - Present
+
++ This position involves performing lead functional analyst responsibilities including managing SAP
+project activities and leading the design and development of SAP functionality, and includes:
+Writing functional specifications and owning configuration of new International price procedures in
+conjunction with the migration to a new Vertex tax engine.
+
++ Defining new tax price conditions and access sequence to replace existing conditions used in
+current production environment.
+
++ Provided business analysis and SAP SD configuration for the implementation of a new global Cloud
+services program that introduced customer PO tracking capability via Value Contract document
+types with focus in Usage based billing.
+
++ Developed functional specifications to detail SAP collection of daily usage data and translating it
+into monthly customer and internal billing processes via SAP ABAP programs.
+
++ Worked with SAP technical team in developing SAP reporting for PO tracking analysis and
+‘communication which included the update of customer invoice forms.
+
++ Manage unit and quality assurance testing of the newly developed business processes to ensure
+regional implementation.
+
++ Provide knowledge transfer and assistance to SAP production support team as required.
+
+Scadea Solutions Inc - SAP Consultant
+06/2010 - 12/2011
+
++ This transition position was derived from Avaya's acquisition of Nortel's Enterprise portfolio and
+involved providing business process definition for global repair and maintenance contracts
+businesses.
+
++ This role also participated in project assignments that included:
+
++ Providing consulting expertise on extending Nortel's contract bi
+Clarify, to the International regions of Avaya.
+
++ Participating in general SAP SD support activities and projects, with focus on Services businesses,
+in conjunction with ongoing Avaya processes.
+
+ing process, integrated with
+
+Amerisourcebergen Corporation - Corporate - SAP Business Solutions Analyst
+Morrisville, NC + 10/1999 - 03/2010
+
++ This position involved leading or participating in various projects and support activities with a
+focus on SAP Maintenance Contracts and Global Repair Services.
+
++ In addition, | was responsible for SAP add-on pricing application, Vendavo; when this tool was
+implemented by the company.
+
++ Myrroles through the years in order of length of service include: Maintenance Contract Services
+Define SAP functional specifications for new business process definitions to support contract billing
+and amortization.
+
++ Execute SAP SD configuration for new sales documents, billing types, item categories, sales offices
+and groups along with maintaining account determination tables.
+
++ Partner with ABAP programmer to develop an interface program to automatically load contract
+orders, including billing plan details, into SAP for billing and amortization, and then feed completed
+results back to the maintenance entitlement tool.
+
++ Interact with consulting partners to automate service contract revenue amortization according to
+GAAP regulations and as defined by the company’s finance department.
+
++ Complete unit testing for all new SAP designs and provide support during UAT of the new
+functionality with the impacted business teams.
+
++ Work with business leads to gather requirements for all the SAP related functionality to deliver a
+complete Order to Cash business process for the company’s repair services organization.
+
++ Execute SAP configuration within the SD module of SAP R3 related to multiple sales document
+types, item categories (both stock & non-stock), and assignment to schedule line categories.
+
++ Develop new invoice output types and update the SAP Output Control in order to designate the
+appropriate invoice output for each international country.
+
++ Vendavo Pricing Tool Manage and validate SAP transactional and pricing data extracted daily into
+the Data Warehouse, monitor the business object loads including delivering bug fixes and process
+enhancements.
+
++ Provide the business pricing team working in Vendavo with ongoing SAP R3 subject matter
+expertise related to Order to Cash transactional processes.
+
+Bay Networks / Nortel Networks Inc - Service Order Administration Manager / Financial Analyst
+City, STATE + 10/1995 - 10/1999
+
++ Manage an Order Administration staff of four, focused on SAP data entry and sales document
+creation from customer service related purchase orders including maintenance contracts,
+professional services, & training services businesses.
+
++ Review and approve customer purchase orders and credit requests associated with order
+management activities of my staff.
+
++ Provide monthly financial analysis and perform journal entries for the Customer Service Controller.
+
++ Manually amortized new contract orders based on their contract start & end dates while
+incorporating them with the existing active outstanding contract data base to determine monthly
+contract revenues - NOTE: Automated this task after moving to the IT area.
+
+SKILLS
+
+ABAP, analyst, automate, Avaya, billing, business analysis, business process, business processes,
+Clarify, consulting, Contracts, Controller, credit, Customer Service, data entry, Data Warehouse, data
+base, documentation, finance, financial analysis, focus, forms, functional, managing, access, Excel,
+Microsoft Office, PowerPoint, Word, migration, Enterprise, Nortel, order management, presentations,
+Pricing, processes, programmer, quality assurance, reporting, sales, SAP, SAP R3, SAP SD, SD, tables,
+tax, translating, Vertex

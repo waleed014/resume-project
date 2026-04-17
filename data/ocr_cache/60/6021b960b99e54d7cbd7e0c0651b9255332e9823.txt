@@ -1,0 +1,163 @@
+PROFILE
+
+CORE
+QUALIFICATIONS
+
+PROFESSIONAL
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 2 (555) 432-1000 4 resumesample@example.com
+
+High-energy Manager successful in building and motivating dynamic teams. Cultivates a company culture in
+which staff members fee! comfortable voicing questions and concems, as well as contributing new ideas that
+drive company growth,
+
+‘+ Competent trainer
+
+‘+ Skilled in meeting customer and stakeholder
+needs
+
+‘+ Capable implementing LEAN, Agile, SCRUM
+
+‘+ Able to leverage people's individual skills
+
+* Understanding employee rights and
+responsibilities
+
++ Familiar with Union Collective Bargaining
+agreements
+
+* Operating Systems: Windows 8, 7, Vista, Mac
+8 X, IOS, Android, some Linux
+
+'* Technologies: Desktop workstations, mobile
+tablets & phones, SQL, HTML, CSS
+
++ Software: Visual Studio 2010-2013, Office
+2007-2013, Visio, SharePoint, Project
+
+TESTING AND QUALITY ASSURANCE SUPERVISOR 04/2014 to CURRENT
+Engility Corporation | Fort Lewis, WA
+
+‘+ Provide leadership to a team of nine software testers,
+
+‘+ Oversee day to day activities and operations of the team.
+
+‘+ Maximize in house capacities and maintain efficient daily operations.
+
+‘+ Perform recruitment tasks, interviews, and training
+
+‘+ Monitor faciity staff
+
+‘+ Complete annual, trial and probationary performance evaluations.
+
+‘+ Understand and work within Union Collective Bargaining agreements.
+
+‘+ Establish relationships with appropriate project members and stakeholders on projects,
+
++ Understand and apply project management principles and practices to meet business objectives
+
+‘+ Participate in the application design process.
+
+‘+ Facilitate communication during the final phase of the project's release to meet timelines.
+
+‘+ Understand and leverage all phases of a project life cycle; kick-off, requirements, system, integration,
+
+regression and acceptance testing.
+
+‘+ Lead or serve as technical advisor on projects.
+
+‘+ Recognize mission critical information that affects business rules and release
+
+‘+ Identify user responsibilties and ovmership.
+
+‘+ Adhere to the Software Development Life Cycle and practice transparent communication
+
+SCOTWARE TESTER 03/2000 t0 04/2014
+Bayer Inc. | Kansas City, MO
+
+‘+ Perform end-to-end testing on all major Dept.
+
++ of Revenue applications.
+
++ Understand and apply project management principles and practices to meet business objectives.
+
+‘+ Participate in the application design process.
+
++ Lead teams on quality improvement and feasibly studies for enterprise wide deployments.
+
+‘+ Facilitate communication during the final phase of the project's release to meet timelines,
+
+‘+ Coordinate application feedback among technical leads and stakeholders to ensure a collaborative
+
+resolution to post implementation problems.
+
+‘+ Wite test plans and test cases
+
+‘+ Execute test cases that impact enterprise level applications
+
++ Understand and leverage all phases of a project ife cycle; kick-off, requirements, system, integration,
+
+regression and acceptance testing,
+
+‘+ Use automated test runs for simple regression tests.
+
++ Recognize mission ertcal information that affects business rules and application functionaity
+
+‘+ Identity user responsibiities and ownership.
+
++ Coordinate the configuration of test environments.
+
+‘+ Utlize Microsoft Visual Studio, Test Manager, Visual SourceSafe, SQL Server and Query Analyzer.
+
+‘+ Write and run SQL update, insert, and query scripts for querying database tables to assist in testing,
+
+‘+ Offer test priorities to guide stakeholders, developers, and other testers during testing phases.
+
+‘+ Adhere to the Software Development Lite Cycle and practice transparent communication
+
+‘+ Review trends that impact current applications like mobile devices.
+
+‘+ Participate in facitating employee satisfaction surveys
+
+‘+ Travel throughout the State in accordance with DOR and WA state policy.
+
+OFGRATIONS LEAD 04/1998 to 03/2000
+Department Of Information Services | City, STATE
+‘+ Oversee 12 or more staff in a 24/7 computer mainframe operations environment.
++ Assume supervisor's duties in their absence.
+'* Manage multiple resources and priorities during shifts.
++ Resolve conflicts in staff scheduling, and make decisions adjusting the work flow.
+‘+Travel in accordance with DIS and WA state policy
+‘+ Patticipate in disaster recovery exercises.
+‘+ Troubleshooting and diagnose hardware/software system failures on large mainframes.
+‘+ Regulate or restructure the processing priority and resources of the system ensuring maximum
+performance for job completion.
+‘+ Document and track problem incidents, coordinate a plan with the client and technical analysts to
+resolve the issue
+‘+ Notify customers of system problems or processing delays.
++ Test new software and hardware installations,
+‘+ Equipment and Software used, IBM $390, IBM ES9000, UNISYS 220/600, ACES (Automated Client
+Eligibility System), CA-7/CA-11, OS/390, Clear Path platform, JCLITSO, JES2MES3, Quick Scan, STAR
+and CA
+
+Programming/Database Management JUNE 2006
+South Puget Sound Community College, Olympia, WA
+Programming/Database Management
+
+‘AsCociate of Technical Arts | Electronics Technology JUNE 1992
+Centralia Community College, Centralia, WA
+Electronics Technology
+
+Agile, application design, CA-1, CA-11, CA-7, Excellent communication, hardware, CSS, Client, database,
+disaster recovery, feasibility studies, HTML, IBM, ES9000, JCL, JES2, JESS, leadership, Linux, Mac OS,
+‘mainframe, mainframes, Office, Windows 8, enterprise, Operating Systems, O$/390, project management,
+quality improvement, Quick, recruitment, research, scheduling, scripts, Software Development, Visual
+‘SourceSafe, SL Server, SQL, supervisor, tables, phones, trainer, Troubleshooting, TSO, UNISYS, Visio,
+Vista, Microsoft Visual Studio, Visual Studio

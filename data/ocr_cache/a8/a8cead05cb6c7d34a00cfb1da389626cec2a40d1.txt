@@ -1,0 +1,117 @@
+Tim
+McCarley
+
+Summary
+
+Highly skilled, motivated, and dedicated
+software developer with around &years
+of extensive system Analysis, Design,
+Development, Testing, and Deployment
+of multi-tier web applications and
+software applications Experience in Web
+Application Development (websites)
+and Windows Application Development
+(Win Forms) using ASP.
+
+Notable Skills
+
++ Strong Experience in designing and
+developing applications using
+MVC (Model View Controller)
+
+| NET. Ci, NET Framework
+Technologies.
+
++ Good Knowledge of SDLC. Angular 3S.
+
++ Experience with Developing GUI
+Using Web Technologies like HTML.
+CSS, JQUERY, JavaScript and XML.
+
+© Worked Extensively in managing
+Database using ADO. NET, Entity
+Framework.
+
+‘+ Knowledge of various frontend tools
+for debugging and performance
+‘optimization,
+
+‘+ Experience in Conduct code reviews
+and manage the process
+
+Call me here:
+
+4896 Lucy Lane, Vevay, IN 47043
+Mob: #1 812-427-2161
+Email: mecarley@resumesbot com
+
+Education
+
+MASTER'S IN COMPUTER SCIENCE IN
+COMPUTER SCIENCE, 2011
+
+Work Experience
+
+NET DEVELOPER
+
+Matson’s Navigation is a leader in Pacific Shipping. Its transportation
+offerings span the globe from Shanghai to Savannah to delivering a wide
+range of multi-modal services throughout North America. Ports project is
+to port all functionality associated with the facts, mainframe application to
+@ web-based platform and to support a fixed number of high priority
+‘enhancements, Ports is a web application used for creating Bookings and
+Bill the shipments ordered by customers. creating Quotations and
+Templates, maintain commodities, link containers to bookings. Rate
+Engine is the main module in this application responsible to rate and
+charge the customers.
+
+My duties and accomplishments are the next:
+
++ Involve in the development of Service Layer, Data Access Layer, Business
+Layer, Presentation Layer and different layers of N-tier Applications
+
++ Extensively work with Controllers. Directives. Scope, Model and Modules
+in Angular 3S,
+
+* Involve in working with Server-side State Management Techniques like
+Session state to maintain state between ASP. NET pages.
+
+* Involve in N Unit Testing & Integration Testing of the entire application
+
+* Greatly involved in the development life cycle. from the design phase to
+the implementation phase, testing and deployment. Use the MVC
+design pattern.
+
+* Creating and developing Stored Procedures, Functions, Views. Indexes,
+‘Triggers. Cursors, XML. Joins, user-defined data types and other Complex
+Queries using Server 2008/2005 & Oracle Tig/Si
+
+NET DEVELOPER
+
+XMPie is a composition third party tool to generate PDF's using Data,
+Content, Variables and Template. Atena portal contains UI to define
+content rules and supply to XMPie to generate POF for minimizing manual
+intervention. Atena portal web Ul provides multi-client capabilities, data
+migration tools/process to convert current data for 7 Atena Clients, and
+provide UI to access new content management system, Create automated
+workflow to handle approvals. change tracking and auditing. Design and
+implement data and system integration solution for 3rd party vendor
+software.
+
+* Used HTML and CSS for web page design and JavaScript for client-side
+validations
+
+* Create variable-data templates and online storefronts using the XMPie
+platform,
+
+‘+ Worked on WEB API Services backend and Angularjs Front End.
+
+* Involved in the Creation and Code Review of XML, XSLT.
+
++ Wrote test cases for Business services and Web API using Nunit and
+maintained code coverage for each project 100% using Team city tool.
+
+* Involved in Writing User Interface Code, Business and Data Layer by
+using C#, NET Language,
+
+Information Technology (IT) Resume Examples here:

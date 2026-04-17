@@ -1,0 +1,132 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Sums
+‘+ Programming: PYTHON,CIC+ Java + HTML, CSS, and XML proficiency
++ FRONTEND: REACT * Software Development and Virtualization
++ 08: WINDOWS.LINUX * Database Programming
+‘ Gittiub,GIT SVN © Agile
+‘+ Web app development and Development standards «Testing and maintenance
+
+‘+ Algorithms and data structures
+
+ApprTtonat INFORMATION
+
++ AWARDS ALL INDIA 2ND RANK IN ABACUS LANGUAGES ENGLISH HINDI TELUGU SPANISH KANNADA TAMIL
+BENGALI
+
+‘LANGUAGES
+English: Spanish:
+Negotiated: Negotiated:
+Hindi: Telugu:
+Negotiated: Negotiated:
+Tamil:
+Negotiated:
+Epucarion
+05/2024 Master of Science: Information Technology Project Management
+Arizona State University - Tempe, AZ
+05/2022 Bachelor of Science: Computer Science
+VIT UNIVERSITY - Chennai , IN
+GPA: 8.34/10
+«Elected to Discipline Committee for Vibrance in 2018 and 2019
+‘+ Head of Roboprix-18 and Roboprix-19 Editing Team
+‘© Member of Student Chapter
++ Elected Captain of Vibrance-18 and Vibrance-19
+CERTIFICATIONS
+
+' Certified Server-side Development with NodeJS, Express,
+and MongoDB at Coursera
+
+++ Certified The Arduino Platform and C Programming at Coursera
+
+‘+ Certified CRASH COURSE ON PYTHON by GOOGLE at Coursera
+
+‘+ Certified BUILD A MODERN COMPUTER FROM FIRST PRINCIPLES: FROM NAND TO TETRIS (PROJECT-CENTERED
+COURSE) by THE HEBREW UNIVERSITY OF JERUSALEM at Coursera .
+
+‘+ Certified HTML, CSS, AND JAVASCRIPT FOR WEB DEVELOPERS by JOHNS HOPKINS UNIVERSITY at Coursera
+
+'* Certified FACIAL EXPRESSION RECOGNITION WITH KERAS at Coursera
+
+‘+ Certified INTRODUCTION TO DATA STUDIO by Google Analytics Academy at Coursera
+
+‘+ Certified GOOGLE ANALYTICS FOR BEGINNERS by Google Analytics Academy at Coursera .
+
+'* Certified ADVANCED GOOGLE ANALYTICS by Google Analytics Academy at Coursera
+
+PROFESSIONAL SUMMARY
+
+A self-motivated, hardworking undergraduate student in computer science, Currently looking to pursue a master’s degree, to achieve a
+successful commute with a great corporate which I suppose would stack up my skillset to professional scenarios and lead to a better career
+‘where I would be an asset, striving to an uplift corporation is my resolve. I would accent and excel with great teams.
+
+Worx History
+
+12/2021 to 03/2022 Frontend React Developer Intern
+‘Conmet — Canton, NC
++ Collaborated effectively with members ofthe software development team and personnel in other departments.
++ Prepared and submitted 50+ of the reports and other documentation to assist development team members.
++ Tested applications for usability and adherence to 100% of the code plan,
+‘+ Wrote clear, clean code for 6+ projects.
++ Assisted with creating software programs with 3 language switch features.
+
+08/2021 to 11/2021 Editing Assistant
+Disha Finance And Tech — City, STATE
++ Evaluated and selected scenes for pacing, entertainment value, and continuity, trim shots, and edited content
++ Organized assets by collecting data from camera media, transcoding video, and audio files, and managing file
+backup to the digital asset management system.
+« Delivered 100+ edits with multiple camera angle choices, titles, graphics, audio, and special effects.
+‘+ Combined text, video, and other composited elements onscreen to create logical, coherent layouts.
++ Exported final cuts and upload them to the content management system and client platforms.
+
+(08/2020 to 03/2021 Human Resources Manager
+Dridh Sankalp Foundation ~ City, STATE
+
++ Processed employee claims involving performance issues and harassment.
+
+‘+ Motivated employees through special events and incentive programs.
+
++ Streamlined HR efficiencies, coordinated new hire orientations, and provided onboarding and training for 25 new
+employees.
+
++ Implemented performance reviews and motivational strategies to elevate HR team results
+
++ Evaluated employee onboarding programs and presented strategic improvement recommendations to upper
+‘management
+
+ACCOMPLISHMENTS
+
+‘+ Published a Research paper at Scopus Joumal on Abode Cybemnation which is Home Automation System using the Internet Of Things
+http://sciencescholar.us/joumnalindex php ijhs/article/view/7650
+
+‘+ Accelerated daly routines like checking emails and being on class schedules using Automation with Selenium, and python during the
+pandemic.
+
+‘+ Created several Web Applications which proved helpful to my professors, and family business using PHP, MySQL, JavaScript, AJAX,
+and Python,
+
++ The absence of “Google Meet API” is a problem to schedule meetings via my Research Platform “Ve-Search’’ I solved this problem by
+scripting my own bot in Selenium Python, This ingenious idea saved the feature with no compromise.
+
+‘+ Achieved an ever-clashing Tic-Tac-Toe Game state with Reinforcement Learning and Rule-Based Learning models playing against each
+other with python
+
+‘+ Programmed for 3000+ hours with Python with a Hackarank
+
+‘+ Achieved accurate diagnostic analytics result of data sets drawn from World Bank on India~ Affluence, Economics, and Literacy with
+the help of Tableau, R.
+
+‘+ Leamed concepts of Machine Learning with the original implementation of a few algorithms in Machine Learning like State Vector
+‘Machines, K-Means, Decision Trees, ete. which showed par-excellent accuracies measured against their Scikit-Leam implementations.
+
++ Currently developing an “Automated Data Pre-Processor” using the web interface and PHP, Python, and R as backend programming
+languages
+
+++ Software Engineer Intern dedicated to improving skills through hands-on learning and development work. Proficient in mobile and
+desktop development environments. Adept at using HTMLS, JavaScript, and other programming languages to produce clean code. Well-
+organized and collaborative team player with strong communication and analytical abilities.
+
+‘+ Complex problem-solver with an analytical and driven mindset. Dedicated to achieving demanding development objectives according to
+tight schedules while producing impeccable code.

@@ -1,0 +1,168 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Design and Development of
+RICEFS covering all the SAP
+modules.
+
++ Expertise in Workflows.
+
++ WebDynpro application
+development, ADOBE forms,
+ABAP Proxy and PI integration
+
++ 00P oriented programming
+
++ REST based API web interfaces
+and web services
+
++ S4 HANA: Implementation,
+conversion and technical
+analysis,
+
++ IDOCS, Module pool
+programming and
+Enhancements
+
++ Detail design document and
+technical feasibility analysis.
+
++ Code Reviews and Performance
+Optimization.
+
++ Code and Quality Standards
+
++ Strong Interpersonal and
+‘Communication Skills
+
+EDUCATION
+
+Sardar Vallabhbhai National
+Institute of Technology, Deemed
+University
+
+Surat, Gujarat + 06/2004
+
+Bachelor of Science: Computer
+Jessicaholds a degree in Bachelor
+of Engineering -Computer from
+Sardar Vallabhbhai National
+Institute of Technology, Surat,
+Gujarat, India
+
+CERTIFICATIONS
+
++ SAP Fiori Overview: Design,
+Develop, and Deploy (2020
+Edition) (opens AP)
+
++ How to Deliver a Great User
+Experience with SAP S/4HANA.
+{opensaP)
+
++ Build Your Own SAP Fiori App in
+the Cloud - 2016 Edition
+{opensaP)
+
++ Implementation of SAP S/
+4HANA (openSAP)
+
++ Text Analytics with SAP HANA
+platform (openSAP)
+
++ SAP S/4 HANA - Deep Dive
+{opensap)
+
++ ABAP Development for SAP
+HANA (openSAP)
+
+PROFESSIONAL SUMMARY
+
+Claire JessicaT HAKORBHAI Jessicahas 16 years of IT industry experience & 14* years of relevant
+experience encompassing a wide range of skill set in SAP R/3 ERP across diverse industry verticals.
+Worked as SAP ABAP consultant in industries like Pharma, Plastic and Polymer, Glass, Bits and drills
+manufacturing, Paper, Organics, and Construction. Worked on solution building and development of
+serialization project for renowned Pharma industry along with CMO integration solution. Has
+experience of leading the team for support projects and small/large development. Has experience of
+offshore and onsite client interaction.
+
+ACCOMPLISHMENTS
+
++ Code Jam champion - second price unit wide for unique and exceptional code in SAP ABAP
+development.
+
++ Star Performance Award - appreciation awarded by organization
+
++ Completed 5-day design thinking workshop
+
++ Completed Agile introduction hands-on workshop
+
+WORK HISTORY
+
+INFOSYS Pvt. Ltd - SAP Tech Lead
+City, STATE + 07/2012 - Current
+
++ Architected SAP solutions by prioritizing simplicity, appropriate scale, resiliency and
+maintainability
+
++ Traveled to client locations to implement SAP solutions and offered post-installation support
+services.
+
++ Worked on $4 HANA greenfield implementation project
+
++ Worked on advanced SAP technologies under EWM implementation project and SAP/Ariba
+integration project
+
++ As technology lead, worked on design and implementation of niche SAP module such as
+serialization
+
++ Diligently worked and excelled in numerous support and maintenance projects for top
+pharmaceutical clients
+
++ Regularly involved in team building activities, mentoring and coaching.
+
+‘ABBOTT Healthcare - Technical Consultant - Developer
+City, STATE « 08/2010 - 06/2012
+
++ Collaborated with client and third parties to develop technical solutions that supported business
+processes.
+
++ Assisted with technical design and development.
+
++ Maintained existing applications and designed and delivered new applications.
+
++ Preparing and maintaining system as per audit compliance
+
++ To design and develop RICEF objects in SAP as per requirements
+
++ Feasibility study and provide solutions within scope of development. Issue analysis and resolution.
+
+AAKIT Technologies Pvt. Ltd - Technical Consultant- ABAP
+City, STATE « 04/2007 - 08/2010
+
++ Traveled to client location for various development and maintenance project
+
++ Worked on UNICODE migration project
+
++ Involved in design and development of application software for salary processing.
+
++ Have involved in SAP implementation projects for various clients spanning plastic and polymer
+industry, glass industry, Drilling bits and equipment manufacturer and healthcare industry
+
+LANGUAGES
+
+Englis Gujarati:
+Negotiated: Negotiated:
+Hind’
+
+Negotiated:

@@ -1,0 +1,60 @@
+First Last
+
+Cyber Security Specialist
+
+Topeka, Kansas + +1-234-456-789 + professionalemail@resumeworded.com * linkedin.com/in/username
+
+Cyber security specialist with 10 years of experience designing, implementing, and troubleshooting network
+infrastructure and security. Key achievement: collaborated with 240+ IT infrastructure and application development
+staff members to identify, prioritize, and manage the remediation of vulnerabilities.
+
+RELEVANT WORK EXPERIENCE
+
+Resume Worded, New York, NY 2015 — Present
+Cyber Security Specialist
+
+e Conducted technical analysis of 20+ cyber security incidents and provided suggestions that improved 80%
+of RW's cybersecurity readiness.
+
+e Analyzed intrusions, performed root cause analysis, created remediation plans, and provided 24/7/366
+post-incident support for 50+ infrastructure clients in the financial industry.
+
+e Developed an integrated approach to securing the networks of 200+ clients from insider threats
+compromised via phishing attacks.
+
+e Initiated an automated patch management system that decreased the time spent updating critical patches
+from 12 hours to 30 minutes per machine.
+
+Growthsi, San Francisco, CA 2013 - 2015
+IT Security Engineer
+
+e Secured $250K worth of credit card data during a cardholder data breach of 100+ staff members;
+contained the situation within 24 hours of notice.
+
+e Championed efforts to test/validate the ability of 450+ email accounts to withstand phishing attempts and
+provided helpful feedback to senior management.
+
+e Prevented critical security breaches by discovering critical vulnerabilities in 120+ servers running production
+apps in the first month on the job.
+
+e Managed major clients’ DNS, email, VPN, and firewall infrastructure while maintaining a 92% uptime for
+their SaaS products with 1510+ users.
+
+Resume Worded Exciting Company, San Francisco, CA 2011 - 2013
+System Admin
+e Transformed the web server of RWEC from an outdated Apache to a LAMP stack, which added 69% to the
+site performance.
+e Analyzed user errors and reworked complicated codes; reduced computer system downtime by 50% in the
+first 30 days.
+e Identified attempts by some staff to scam the company based on employee payment records and invoice
+discrepancies, preventing a $40K embezzlement.
+
+EDUCATION
+
+Resume Worded University, New York, NY 2011
+Bachelor of Science — Information Technology
+
+SKILLS
+
+Technical Skills: Cybersecurity (Advanced), Penetration Testing (Experienced), Incident Response, Security Audits
+Languages: English (Native), German (Fluent), French (Conversational)

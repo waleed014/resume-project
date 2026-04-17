@@ -1,0 +1,171 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Languages: Python
+
++ Database: SQL, MongoDe
+
++ Machine Learning: Regression,
+Classification, Clustering,
+Decision Trees, Random Forests
+
++ Data Visualization: Matplotlib,
+Tableau
+
++ SCM: Git
+
++ ccd
+
++ Docker
+
++ Jira, Kanban board
+
++ Agile Methodology
+
++ ETL Models
+
++ Pyspark
+
++ Redshift
+
++ Snowflake
+
++ BigQuery
+
+EDUCATION
+
+University of North Carolina
+Greensboro
+Greensboro, NC + 05/2016
+
+‘MS: Computer Science
+GPA: 3.81/4.0
+
+Jawaharlal Nehru Technological
+University
+Hyderabad, India + 05/2011
+
+Bachelors: Computer Science
+GPA: 3.76/4.0
+
+PROFESSIONAL SUMMARY
+
++ Overall, 8 years of experience as a Data Engineer/Data Analyst in Data Science and Analytics with
+‘Machine Learning and Statistical Analysis.
+
++ Experience with Python 3 and corresponding Data analysis, Data Visualization and Machine
+Learning libraries such as Scikit-learn, Pandas, Seaborn, Matplotlib and Numpy.
+
++ Familiar with gathering, cleaning and organizing data for use by technical and non-technical
+personnel. Advanced understanding of statistical, algebraic and other analytical techniques. Highly
+organized, motivated and diligent with significant background in Python Programming.
+
++ Hands on experience in applying Machine Learning algorithms such as Linear and Logistic
+Regression, SVM, KNN, Naive Bayes, Decision Trees, Random Forest, K-means Clustering, PCA,
+Linear Regression, Neural Networks.
+
+WORK HISTORY
+
+Bankers Healthcare Group - Data Engineer/Python Developer
+Seattle, WA + 05/2017 - Current
+
++ Collaborated with application teams to translate project requirements and business objectives into
+polished user interface to automate network configuration on Cisco ACI using Python.
+
++ Perform Data Cleaning, features scaling, features engineering using Pandas and NumPy packages in
+Python.
+
++ Revised, modularized and updated old code bases to modern development standards, reducing
+‘operating costs and improving functionality.
+
++ Developed, implemented, supported and maintained data analytics protocols, standards and
+documentation.
+
++ Analyzed complex data and identified anomalies, trends and risks to provide useful insights to
+improve internal controls.
+
++ Collaborated with cross-functional teams on ETL (Extract, Transform, Load) tasks, maintaining
+data integrity and verifying pipeline stability.
+
++ Optimized SQL queries for improved performance and availability.
+
++ Worked in Machine Learning classification models using Python.
+
++ Worked on outlier detection with data visualizations using boxplots, feature engineering using KNN
+distances using Pandas, NumPy packages in Python.
+
++ Used various python libraries like Pandas, NumPy, seaborn, SciPy, Matplotlib, Scikit-learn to
+develop machine learning algorithms.
+
++ Analyzed existing SQL queries to identify opportunities for improvements.
+
++ Developed custom SQL scripts to improve the database efficiency, reduce data load time and
+enhance performance
+
+Client: Lexis Nexus - Data Analyst/Data Engineer
+City, STATE +» 11/2016 - 04/2017
+
++ Responsible for data aggregation, data cleansing, missing value imputation and descriptive and
+inferential
+analysis.
+
++ Implemented data processing applications to collect, clean and normalization volumes of open
+data.
+
++ Clean data and processed data into maneuverable deliverables within specific format with Excel
+macros and python libraries such as NumPy and Matplotlib.
+
++ Managed tableau dashboard in Tableau server and optimized dashboard performance.
+
++ Communicated and presented profile reports using Python and Tableau, analytical results, and
+strategic implications for strategic decision making.
+
++ Optimize SQL performance, integrity and security of the project’s databases /schemas.
+Contributed to the optimization of data management and performance tuning.
+
++ Created, modified and troubleshoot SQL queries, stored procedures and jobs
+
+Client: Netapp - Python Developer/Data Engineer
+City, STATE + 06/2016 - 11/2016
+
++ Worked on project from gathering requirements to developing applications.
+
++ Worked on Anaconda Python Environment with activation and creation using python libraries such
+‘as NumPy for performance calculations.
+
++ Wrote clean, clear and well-tested code for various projects.
+
++ Maintained existing applications and designed and delivered new applications.
+
++ Authored code fixes and enhancements for inclusion in future code releases and patches.
+
++ Worked on SQL development in MYSQL.
+
+IBM - SOL Developer
+City, STATE « 09/2011 - 02/2014
+
++ Created optimal technical solutions to user needs through research and in-depth system analysis.
+
++ Devised high-quality database solutions ranging in size and complexity, increasing productivity and
+improving data sharing.
+
++ Supported multiple concurrent projects enabling delivery efficiencies and technical resolution.
+
++ Designed and implemented TSQL queries for reporting and complex solution development.
+
++ Built data integration solutions to automatically introduce new sets into existing asset
+repositories.
+
++ Orchestrated optimized transformation processes for moving data sets between sources and target
+tables.
+
++ Built useful reporting deliverables to properly document analysis results and provide performance
+improvement feedback.

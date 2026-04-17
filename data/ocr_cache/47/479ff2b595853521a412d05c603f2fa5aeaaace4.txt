@@ -1,0 +1,55 @@
+Robert Smith hone (128) 456 7899
+
+Email Infocawikeesume,com
+
+Website: vauu.qwikresume.com
+PL/SQL Developer LUnkedin: linkedin.com/quikresurne
+
+‘Address; 1737 Marshullle Road, Alabarna
+
+SUMMARY
+
+PUSOL Developer with 4 years of extensive experience as an Oracle, PL/SQL Developer with ETL
+‘experience, Expertise In Software Development Life Cycle(SDLC) of cent Implementations
+Including requirements gathering, business analysis, system configuration, design, development,
+testing, technical documentation, and support. Strong experience in providing technical
+documentation and status reports ofthe applications as per the requirement,
+
+SKILLS
+
+SQL, PL/SQL, XML, UNIX Shell Seripting, Per! Scripting, C, C+ +, Perl Programming Oracle Tools/GUI
+Forms
+
+WORK EXPERIENCE
+
+PL/SQL Developer
+‘The Vanguard Group - November 2025 - Present
+* Developing complex database processes with PL/SQL containing batch or ETL functionality
+* Developing and enhanelng an existing DataMart In an OLAP schema,
+* Requirements gathering, design, development, testing, and documentation
+Designing logical and physical ERD diagrams, process flow diagrams, or related data
+processing documentation
+Leveraging Oracle 109/11 9 features ta thelr Tullest on a large-scale mult-terabyte system,
+Assisting the Decision Support team members including DBAS, database developers,
+requirements analysts, and others, in understanding data and meeting user requirements,
+Providing production deployrnent and production support as needed,
+
+Oracle PL/SQL Developer
+ABC Corp - 2014 2015
++ Participated in project werk groups with Subject Matter Experts and stakeholders to
+Understand data specific needs
++ Responsible to analyze, design, develop, troubleshoot, and implement, standard and customs
+processes in Oracle application,
++ Researched, tested, built, and Coordinated the conversion andor intzgration of new products
+based on requirements:
++ Worked with other developers and business users to provide complete solutions.
++ Wrote programs using various languages and tools including, SOL, PLSGL, Oracle Fors,
+Reports, Forms Personalization, XML Publisher Reports
+Gngoing performance tuning on SQL, PLISQL programs,
+Maintained a repostory forall in-house and 3rd party software/customizations and
+documentation
+
+EDUCATION
+Bachelors (2020)
+
+(0 This Fra esume Temata the copyright of Onakiesune corm. san Guides

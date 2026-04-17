@@ -1,0 +1,66 @@
+Mike Airey
+
+Senior Java Developer
+City, State | & 000.
+
+0000 email@email.com
+
++ Experienced Java and C# developer with a solid technical background, strong competencies in
+access control applications and hardware integration (Barcode scanners, RFID scanners,
+Turnstiles, Industrial pocket pes).
+
++ Problem-solver, objective-oriented, Open-minded, respectful, organized, self-starter, team
+worker, Sense of humor, responsible, adaptable & fair-player.
+
+WORK EXPERIENCE
+
+2014-07 - PRESENT © Senior Java Developer
+ValueCoders
+
+* Assisting customers during the access control implementation phase.
+
+* Ensuring close collaboration with the professional services team to evaluate the
+technical options for access control.
+
+«Assisting support team providing 3rd level support in special cases and participate in
+training and coaching support team members.
+
+* Creating specific tests and test cases to ensure the product quality as part of the QA
+process.
+
+© Working on improvement and industrialization of existing products.
+
+«Integrating external hardware with our product.
+
+2010-05 - 2014-06 © Consultant and Java/C# Developer
+Nextware Technologies
+* Created external interfaces to integrate client developments to the ticketing and
+access control platform.
+* Handled material purchase.
+* Integrated third-party applications for several projects.
+
+2006-03 - 2010-04 © Software Engineer
+Trigent Software
+
+* Architected and developed interactive applications that offered services to the
+hospitality industry such as Video On Demand, room service, folio review, checkout,
+etc. All of these applications were interfaced with on a TV/Set Top Box or mobile
+device. The various applications were developed utilizing Flash for legacy systems,
+Haxe, JavaScript, AngularJS, TypeScript, and Java.
+
+* Designed software build systems using 3rd party technologies like Gulp, Webpack,
+etc. Also designed some custom build systems using Python & various Python
+libraries.
+
++ Supported the interactive applications, also worked on multiple back-end
+services/applications such as daemons, scripts running via cron, shell scripts, SQL
+database design (MySQL & Postgresql), Redis databases, RESTful APIs, etc.
+
+* Setup multiple continuous integration systems running Jenkins/Build Bot for
+running unit tests on projects as soon as the code was updated in the repository,
+creating builds after successful unit testing, and other various tasks.
+
+EDUCATION
+
+1999 - 2003 © Bachelor in Information Technology Engineering
+New Jersey Institute of Technology

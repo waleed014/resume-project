@@ -1,0 +1,113 @@
+Robert Smith
+
+AWS DevOps Engineer
+
+PERSONAL STATEMENT
++ Plus years of Bulld & Release and DevOps Engineer Extensive
+Experience in implementing and making tears adapt ta Release/Change
+Management Process Experience with Continuous Integration Tools (TFS,
+Jenkins, Hudson & Tearn City) Experience with software development
+methodologies such as Waterfall, Agile & Scrum. Good Knowledge in bash
+(shell) Per/Expect and exposure to Jython, Python scripting, Hands-on
+experience on Build and deployment of SOA applications ike Oracle Service
+Bus (OSB), Oracle Policy Madeling (OPM) and Oracle Business Process
+Management (BPM),
+
+WORK EXPERIENCE
+
+AWS DevOps Engineer
+‘ABC Corporation - June 2012 - Present
+responsibilities:
+
++ Bullding and maintaining cloud formation templates, chef cookbooks,
+‘and scripts to automate and deploy AWS resources and configuration
+changes.
+
++ Integrating subversion into Hudsoryjenkins to automate the code check-
+fut process used Hudson/Hudsorvlenkins for automating builds and
+‘automating deployments raintained the shell and Per! scripts for the
+‘automation purposes.
+
++ Integrating jira with git hub version contro! maintained and
+‘administered jira and assigned the roles for the users.
+
++ Updating all the activities n ira for the applicetion team in order to
+track the status ofthe user stories or defects.
+
++ Performance tuning and stress-testing of NoSOL database environments
+In order to ensure acceptable database performance in production
+mode.
+
+Focussing on architecting NoSOL databases ike Mongo, Cassandra and
+cache database,
+
++ Creating and deploying VMS on the Microsoft cloud service azure,
+‘managing the virtual network, azure ad, and SQL databases, and
+developed PowerShell scripts to automate all of the aforementioned
+tasks
+
+DevOps Engineer
+ABC Corperation- October 2011 - May 2012
+Re sponsibilies:
+
+‘+ Responsibilities Design roles and groups using AWS Identity and access
+‘managernent (IAM) utlize AWS CL! to automate backups of ephemeral
+data-stores to <3 buckets, ERS and create nightly AMIS for mission.
+ciitical production servers as backups,
+
+* Designed, wrote and bull deployment using ant/ shell scripting and
+‘automate the overall process Using subversion and anthil pra
+
++ Developed chef and ruby based automated DevOps solution to provide
+consistent platforms across multiple cloud providers for complex rmulth-
+
+(Ths Ee Resume Tamolate the conynght of Quikresune cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstwille Road,
+Alabama
+(123)-456-7@90
+Infow@awikresure,com
+wwqwikresume.com
+
+‘SKILLS
+Bulld Tools Ant, Maven,
+Gradle, NANT DevOps
+Docker, Nagios, Chef,
+Puppet, Openstack &
+AWS Working Knowledge
+Scripting Languages
+Linux Shel Scripting
+‘And Advanced Shell
+Scripting Configuration
+Management Perforce,
+Subversion, Gir, PVCS
+Version Manager, Bit
+BUcket CI Tools Jenkins,
+AntHilPro, Tearnclty,
+Bamboo, Operating
+Systems Windows, Unix,
+RHEL And Solaris
+Databases Oracle,
+MySql, MSAccess, SL
+Server Change
+Managernent Remedy,
+‘and Service Now.
+
+LANGUAGES:
+
+English (Native)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Cooking
+Reading
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Campary
+Name)

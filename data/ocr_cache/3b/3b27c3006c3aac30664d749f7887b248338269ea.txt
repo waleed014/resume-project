@@ -1,0 +1,73 @@
+JOHN GONALEZ
+
+CONTACT
+Pittsburgh, PA
+(123) 456-7890
+john1652@gmail.com
+Linkedin
+Github
+
+EDUCATION
+
+MS.
+Computer Science
+University of Chicago
+Chicago, IL / 2014 - 2016
+
+BS.
+‘Computer Science
+University of Pittsburgh
+Pittsburgh, PA / 2010 - 2014
+
+SKILLS
+
+HTMU CSS
+
+SQL (PostgreSQL, Oracle)
+JavaScript (Angular)
+Python (Django)
+
+REST APIs (GraphQL)
+‘AWS (Redshift, S3)
+
+Git
+
+CAREER OBJECTIVE
+
+Experienced Python developer with extensive Django experience
+looking to continue to develop my skill set on the back-end at a
+company driven to addressing the climate crisis.
+
+WORK EXPERIENCE
+
+Python Developer
+DoorDash / September 2018 - current / Chicago IL
++ Worked on building new Angular components for the customer-
+facing web app which improved the time on page for the
+average user by 2 minutes
+Worked within an agile team and helped prioritize and scope
+
+feature requests to ensure that the biggest impact features were
+worked on first
+
+Built extensive test coverage for all new features which reduced
+the number of customer complaints by 7%
+
+Python Developer
+Knewton / April 2016 - September 2018 / Pittsburgh PA
+
++ Worked alongside another developer to implement RESTful APIs
+in Django that enabled our internal analytics team to increase
+reporting speed by 24%
+
+Using Selenium built out a unit testing infrastructure for a client
+web application that reduced the number of bugs reported by
+the client by 11% month over month
+
+PROJECTS
+Cryptocurrency Price Tracker
+Creator
+‘* Incorporated API calls to several applications and stored data
+efficiently in in our PostgreSQL backend
+Utilized 03s to allow users to dynamically visualize price
+movements over time periods of their choosing

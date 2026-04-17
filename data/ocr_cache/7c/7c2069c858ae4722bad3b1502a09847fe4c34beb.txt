@@ -1,0 +1,64 @@
+ANITRA
+JACOBS
+
+address
+838 Jamaal Forge,
+Houston, TX
+
+tel +1 (555) 215 4527
+
+Experience
+
+Predovic-Zemlak
+
+Los Angeles, CA || Director of Data Science || 04/2018 — present
+
+¢ Deep understanding of data domains, models, and implications for
+analytics use in at least one industry including telecommunications, cable,
+finance, media, advertising, or similar
+
+¢ Deep working knowledge of SDLC methodologies (Agile/Rational)
+
+e Hands on experience in engineering tooling, practices and processes,
+experience managing project during engineering and delivery phases
+
+¢ Strong team building and leadership skills...balance of hands on and
+effective delegation
+
+Bogan, Heaney and Quigley
+Los Angeles, CA || Data Science || 08/2012 - 11/2017
+¢ Fluency in Python and scripting in a Unix/Linux environment
+e Experience in machine-learning and deep-learning
+¢ Background in natural language processing desirable
+¢ Experience in web-based user interface generation
+¢ Background in protein sciences highly preferable
+¢ Is passionate about applications, analytics, end-user productivity
+e Experience with object-oriented coding languages such as Java and
+Python
+¢ Exposure to AWS Lambda, AWS S3, Kafka, Redshift, Sage Maker
+
+Education
+
+Fashion Institute of Technology
+Bachelor's in Computer Science
+
+Skills
+
+A professional problem solving and conflict resolution
+
+¢ Significant experience with NLP problems
+
+¢ Experience using Al/ML to combine data from multiple modalities in the
+pursuit of novel insights
+
+e Understanding of and experience with developing and delivering
+“Explainable Al” solutions
+
+e Have experience in databases, analytics, big data systems or business
+intelligence products (Tableau, PowerB!)
+
+e Aptitude for writing machine learning algorithms
+
+¢ Studying Statistics, Economics, Computer Science, Mathematics, or
+
+another quantitative field

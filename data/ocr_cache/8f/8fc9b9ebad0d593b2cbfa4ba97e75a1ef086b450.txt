@@ -1,0 +1,130 @@
+JESSICA CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Experienced Software Engineer & Developer with 10 years of IT experience with an emphasis in current PHP frameworks, NET & JAVA.
+‘Demonstrated strengths include process analy’, technical troubleshooting, project leadership and communication skills. Seeking a position
+‘on a challenging and collaborative development team.
+
+Software Engineer with a history of good programming skills, progressive leadership and project management, including gathering
+requirements, developing user cases and delivering key initiatives. Excellent ability to align teams and drive collaboration and cohesion to
+complete projects in a timely and cost-effective manner.
+
+Offer functional and technical expertise in the implementation and development of MVC architecture based programming languages.
+Extensive experience working with senior management to solve complex business problems through implementation of new technologies.
+Strong understanding of diverse business intelligence methodologies to improve workflow, productivity and reliability.
+
+Dedicated, responsible and detail-oriented with a valuable combination of analytical and creative abilities to improve processes and
+productivity. An excellent team player with strong interpersonal communication skills.
+
+Semis
+
+Strong understanding & knowledge of Objected Oriented concepts and Expertly proficient in PHP frameworks (ZEND, KOHANA, YI,
+
+associated programming languages Symfony & LARAVEL)
+
+Avid and fast leamer Expertly Proficient in other languages (JAVA, C#, HTML, Javascript
+Patient, perseverant & passionate & AIAX)
+
+Ability to manage, guide & lead Strongly knowledgeable in Web Services, Networking, Databases &
+Capable & diligent ‘System Administration for various Operating Systems (Windows, OS
+
+ioning & Striver X, LINUX)
+Strongly knowledgeable in architectures & technologies (MVC
+architectures & NET technologies).
+
+Worx History
+
+05/2016 to Current SENIOR PHP DEVELOPER
+Feedonomics - New York
+‘+ Designed and developed transactional and analytical data structures.
+«Identified and suggested new technologies and tools for enhancing product value and increasing team productivity
++ Developed code fixes and enhancements for inclusion in future code releases and patches.
+* Designed Zend framework(PHP)-based multi-threaded admin web applications
+« Stress-tested server code to validate code changes,
++ Evaluated potential software products based on new and existing system development and migration requirements.
++ Modified existing software to correct errors, adapt to new hardware and improve performance.
++ Debugged and modified software components.
+
+07/2013 to 04/2016 LEAD SENIOR PHP DEVELOPER
+Fidelity Investments ~ Kenmore
+
++ Led a group of 3 engineers in the design, and development of KOHANA -based software solutions when migrated
+the entire structure and applications built on the user/admin tier level architecture.
+
+‘+ Maintained existing applications and designed and delivered new applications
+
+* Oversaw major new enhancements to existing software systems
+
++ Created, delivered and maintained scalable system architecture to support a high-availability internet site with
+various intemal co-related applications.
+
+« Designed intuitive graphical user interfaces using knowledge of serial communications and database design.
+
+‘+ Wrote PHP Yii-Framework applications in CRM architecture.
+
++ Built, tested and deployed scalable, highly available and modular software products.
+
+03/2012 to 05/2013. SENIOR SOFTWARE ENGINEER/DEVELOPER
+Brunswick Corp. - Houston
+
+* Directed software design and development while remaining focused on client needs.
+
+‘+ Worked effectively with design teams to ensure software solutions elevated client side experience.
+
+‘+ Modified existing software to correct errors, upgrade interfaces and improve performance.
+
+* Consulted with engineering staff to evaluate interface between hardware and software.
+
++ Tested and evaluated Case Management System, ZEND framework architected software to improve performance
+and usability.
+
++ Implemented company policies, technical procedures and standards for preserving the integrity and security of
+data, reports and access.
+
+09/2009 to 02/2012. SENIOR SOFTWARE ENGINEER/PHP DEVELOPER
+‘THE MACALUSO GROUP - City
+‘+ Implemented innovative systems for data collection, storage and management of customer orders.
+* Coded 8 websites using PHP with associated MYSQL Database design and management.
+‘+ Designed and developed transactional and analytical data structures.
+‘* Wrote and implemented scripts to enhance user experience and integrated scripts with the CMS.
++ Strengthened developmental methodologies by introducing a code quality document.
+
+05/2007 to 07/2008 SOFTWARE DEVELOPER INTERN
+IPREO LLC - City
+
+‘+ Worked closely with clients & lead developers to establish problem specifications and system designs.
+
+* Designed FINANCIAL & STOCK MARKET related application components in ASP.NET pages using C# NET,
+DHTML, and JavaScript for production and prototypes of the company’s projects.
+
++ Developed shared central authentication system in C# NET with associated DHTML JavaScript for intranet
+applications.
+
++ Defined business goals to determine systems requirements,
+
+Epucarion
+
+2009 “Master of Science: COMPUTER AND INFORMATION SCIENCE
+UNIVERSITY OF MASSACHUSETTS - NORTH DARTMOUTH
+
+* Coursework includes: Astficial Intelligence, Paradigmatic Software Development, Software Systems Design,
+Theoretical & Advanced Computer Systems.
+
+‘+ Admired & Honored for conducting classes, seminars, labs & grading undergrad students as a teaching assistant to
+a JAVA professor.
+
+‘+ Achieved success by completing and eared accoladed as a Research Assistant through Computer Science for a
+Biology professors field research.
+
++ Awarded & admired for being the best IT Administration Assistant for handling network troubleshooting, VPN,
+‘Hardware / Software installation, management and OS Administration. Part of the job was to maintain customer
+relations and resolve technical problems.
+
+Cermmicarions
+
+Eamed certification in MS SharePoint
+‘+ MCTS 2010 Sharepoint Application Development

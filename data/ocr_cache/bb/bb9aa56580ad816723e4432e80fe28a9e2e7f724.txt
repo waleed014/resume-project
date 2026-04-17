@@ -1,0 +1,70 @@
+Place of birth
+
+San Antonio
+
+Driving license
+Full
+
+Skills
+
+Port Address Translation
+
+Network Address
+Translation (NAT)
+
+Hobbies
+
+Rock Climbing, Music, Drama
+
+Languages
+English
+
+Spanish
+
+Profile
+
+Network Engineer bringing 8 years of experience in network design, network
+administration, escalation support, and systems administration. Adept in
+delivering technical support, managing network operations, and maintaining
+enterprise-wide area networks across multi-platforms and high uptime Data
+Center environments.
+
+Employment History
+
+Senior Network Engineer, Standard Bank, Arkalyk
+January 2021 — Present
+
+Responsible for optimizing network performance and increased reliability by
+maintaining hardware and software, analyzing technical issues, and ensuring
+system users’ availability for a 1500 user facility.
+
++ Managed the development, installation, and management of
+organization-wide local area network, network segment, wide area network,
+and internet system.
+
+Delivered Tier 1 network ticketing support to resolve all issues for 550+
+users
+
+Executed the maintenance window changes for multiple locations,
+performing troubleshooting of routing, and switching issues.
+Implemented and migrated a major client to VPLS circuits, which resulted
+in robust and seamless connectivity between two different carriers.
+Inherited an MPLS project that was off-track; liaised with the parent
+company to deliver a solution with increased availability, security, and
+visibility ahead of the project schedule.
+
+Network Engineer, Wells Fargo, Knoxville
+January 2018 — November 2020
+
+Responsible for Upgrading Windows NT/2000 and Novell NetWare 5.1
+environments and installing configuring, and maintaining Cisco routing and
+switching equipment in a 1500 user environment.
+
++ Ensured smooth end-to-end communication by delivering support for Video
+Conferencing System (Cisco VCS/TMS).
+
++ Designed, configured, and installed all Data Center Network Devices to
+support 1500+ users, including ran cables, routers, ports,
+
++ Successfully resolved routing issues within multiple contexts of the Cisco
+ASA firewall.

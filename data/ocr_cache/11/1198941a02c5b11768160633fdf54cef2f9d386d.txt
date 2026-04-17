@@ -1,0 +1,105 @@
+JESSICA
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PRoresstonaL SUMMARY
+
+Enthusiastic, resourceful recent graduate, SAS Certified Professional worked with HSBC on Compliance and Risk Projects seeking an
+opportunity with a growing organization. Proven ability to understand customer requirements and translate into actionable project plans.
+Dedicated and hard-working with a passion in Data Analysis.
+
+SAS certified programmer with 3 years of SAS programming experience in Banking industry on Compliance (AML & KYC) and Risk
+projects.
+
+‘Worked with HSBC Software development India, Hyderabad as a SAS programmer from September 2012 to Jul 31st 2015.
+
+‘Worked on Compliance and Risk projects mainly on AML and KYC domain.
+
+‘Worked on a SAS ETL project for HSBC Global Standards (KYC) program in order to achieve a Global resolution for a customer,
+expertise in design and development of Extract, Transform and Load processes for data integration projects
+
+Developed Statistical Risk score models for assessing the risk score of accounts.
+
+‘Validated the alerts generated above the busiess recommended thresholds.
+
+Identified when a Customers Financial Crime Risk rating (FCRR) and Customer Due Diligence (CDD) profile should be reviewed based
+on the trigger event generated,
+
+Integrated all the alerts generated on a customer to have a better understanding of the trigger events raised.
+
+Raised alerts on a customer whenever there is a change in data of a customer accoding to the busines rules.
+
+Identified the risk associated with the customer based on the risk levels calculated.
+
+Thorough knowledge in SAS Programming, SAS Data Integration, SAS formats, SAS functions, SAS statements, SAS Informats,
+merging SAS Data set, Preparing data, storing and managing data in SAS, developed applications for data cleaning, reporting.
+Excellent understanding of data management principles, such as joining data sets,indexing,data aggregation, record selection and sub-
+setting.
+
+‘Very good experience in concatenating, interleaving, merging, sorting, updating data sets as well as using SQL queries, joins ete.
+Innovative, goal-oriented and creative approach to delivering results.
+
+Semis
+*  SAS/BASE, SAS/SQL, SAS/MACROS, * SAS DI Studio, SAS Enterprise Miner
+* SAS/STAT, SAS/ODS, SAS/REPORT, SAS/GRAPH. * Yellowfin BI tool, Talend , Sion KYC
+* SQLPLSQL + UNIX,
+
+Worx History
+
+02/2014 to 06/2015 SAS Developer
+
+‘Cognizant Technology Solutions — Brooklyn Park, MN
+Descriptio
+Central Trigger Utility is one of the six work packages of Global Standards Program that HSBC has come up with in an
+effort to combat Fraud and Money Laundering. The main purpose of this project is to create a consistent, flexible and
+scalable compliance organisation and the financial crime risk controls to make sure that HSBC meets all Deferred
+Prosecution Agreement (DPA) and other regulatory obligations. This includes implementing a comprehensive anti-
+money laundering and sanctions compliance program globally. This project covers about 74 different countries that
+HSBC has its presence in, As part of this project, as many as 15 different compliance and risk systems owned by
+HSBC sends different information related to the customer which includes Customers Demographical Information,
+Transaction data, Sanctions Screening Alerts, Compliance relates Cases on a customer so that a single view of
+customers activity is monitored across different countries and alerts are raised accordingly and Due Diligence (KYC) on
+a customer is performed on an ongoing basis.
+Responsibilities:
+‘* Used SAS Data Integration Studio to develop various job processes for ETL (Extract, transform and load).
+* Designing and creating SAS datasets from various sources like flat files, CSV, text form, and other formats,
+creating reports and files from existing SAS datasets.
++ Cleansed and transformed the data as per business logic.
++ Used DI Nodes like File Reader, Data Validation, Splitter, Sort, Update, Extract, Conditional Start & End, Loop
+Start & End, Table Loader and File Writer in the development of SAS DI Jobs.
+* Creating reusable components using Custom Transformations in SAS DI Studio.
+« Data explorations and profiling activities using SAS Data Flux Data Management Studio, SAS Enterprise Guide.
+« Performed Unit Testing based on Test cases.
+* Developed Technical Design documents for the developed code.
++ Provided support on implementation day and there after depending upon business requirements produce new
+releases for any.
+Unit Testing Plan - UTP preparation
+
+08/2012 to 02/2014 Data Scientist
+
+Lockheed Martin Corporation — Palo Alto, CA
+Description
+
+2017 to 2017 Analyst
+
+Rapid Global Business Solutions, Inc
+
+Customer acceptance is crucial for the fight against white-collar crime. It is the first hurdle to overcome enabling
+criminals to misuse the services of financial institutions for criminal intents. In order to fight money laundering, the
+financing of terrorism, and other criminal acts, international minimum standards have been enacted for the identification
+of new customers. The Know Your Customer principle obliges banks and insurance companies to identify applicants,
+before they can be accepted as customers. Motivation and plausibility of the business relation have to be checked and an
+initial risk classification for each new customer has to be issued.
+
+Siron KYC is a too! that enables banks to create customer data in dynamic and customizable acceptance questionnaires
+and to match it with PEP, embargo and other lists in real-time. As soon as the research systems detect a considerable
+deviation from the actual customer behavior an alert is reported to the Compliance Officer.
+
+Epucarion
+2016 Master of Science: Computer Science
+
+University of Central Missouri - Warrensburg, MO
+(CERTIFICATIONS
+
+SAS Base Certified Programmer - BP029239v9

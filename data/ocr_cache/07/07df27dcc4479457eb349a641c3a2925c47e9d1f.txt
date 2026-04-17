@@ -1,0 +1,136 @@
+First Last
+
+Junior Web Developer
+
+Junior web developer with over 10 years of experience in web development, ASP.NET, and
+SQL database. Skilled in the design and development of GUI using C# Win forms and
+ASPNET WebForms. Key achievements: designed a user interface as a single-page
+application using React and Mobx, which increased the productivity of 7K users
+by 72%. Analyzed and fixed web application issues sent in by 13 RW departments,
+including customer support, achieving an 85% success rate.
+
+WORK EXPERIENCE
+
+Junior Web Developer
+
+November 2015 — Present
+
+Resume Worded, New York, NY
+
+Software Developer
+
+Analyzed and fixed web application issues sent in by 13 RW
+departments including, customer support, achieving an 85% success
+rate.
+
+Launched 8 new websites using RW technologies like Resume Studio
+2009 and RQL Server 2015, rewarded with a promotion for being
+proactive.
+
+Developed a database that tracked 3.6K individuals affected by
+natural disasters in 5 states., reducing costs associated with physical
+labor by 87%.
+
+Created an employment application portal including database design,
+graphic design, SSL, and email notifications for RW within 6 weeks of
+joining the organization
+
+February 2013 — October 2015
+
+Growthsi, San Francisco, CA
+
+Technical Support Specialist
+
+Overhauled the coding process, scheduling, quality assurance, and
+ticketing system, increasing the productivity of Growthsi IT
+department by 49% YoY.
+
+Created a data dictionary generator that produced documentation as
+spreadsheets and web pages for over 3K developers in Q1, 2013.
+Designed a user interface as a single-page application using React
+and Mobx, which increased the productivity of 7K users by 72%.
+Adapted a software program that transmitted real-time patient data
+directly to 700 terminals at Growthsi Medical Lab.
+
+June 2010 - January 2013
+
+Resume Worded's Exciting Company, New York, NY
+
+Introduced first-level technical support to 1.3K end-users on basic
+installation usage of an RWEC proprietary software and application.
+Received employee of the year award for contributing to a 70% sales
+increase in 2011 by remotely resolving hardware, transaction, and
+account issues.
+
+Resolved technical issues by educating and providing solutions to
+2.5K RWEC customers in 12 weeks.
+
+Provided Technical Support to the staff of RWEC and 1.8K sales
+agents across remote regions of 11 Asian countries.
+
+CONTACT
+
++ Billings, MT (Open to Remote)
++ +1-234-456-789
+
++ email@resumeworded.com
+
++ linkedin.com/in/username
+
++ github.com/resumeworded
+
+SKILLS
+
+Technical Skills:
+
++ Web Design (Advanced)
++ Coding (Experienced)
++ Web Services
+
++ User Interface
+
++ Web Content
+
+Industry Knowledge:
++ Front-end Development
++ Web Applications
++ Responsive Web Design
+
+Tools and Software:
++ AJAX
+
++ AngularJS
+
++ ASP.NET MVC
+
++ React.js
+
++ Bootstrap
+
+- Don't forget to use Resume
+Worded to scan your resume
+before you send it off (it's free and
+proven to get you more jobs)
+
+EDUCATION
+
+Resume Worded University
+Bachelor of Science
+
+Computer Science
+
+Boston, MA — May 2010
+
+Awards: Resume Worded Teaching.
+Fellow (only 5 awarded to class), Dean's
+List 2012 (Top 10%)
+
+OTHER
+
++ Master Certified Web
+Professional - Designer (CWP)
+
++ Certified Web Developer.
+
++ Certified Web Professional - Web
+Developer.

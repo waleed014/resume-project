@@ -1,0 +1,66 @@
+IVAN LLOPIS BELTRAN
+
+fl 06/26/1993 f& Lund, Sweden
+hello@kickresume.com \& phone number
+
+@ www.kickresume.com/cv/beltran/
+
+My background is in Mechanical Engineering with a specialization in Control Systems. My
+passion is centered in Machine Learning and Service robotics. | want to discover more about
+the amazing world of self-driving cars. My goal is to grow as a person and as a professional,
+every day.
+
+Master of Science in Engineering Degree, Civilingenjér
+in Control and Automation 2017 - 2019
+
+Subjects included: Real-time systems, Applied mechatronics, Applied Machine Learning,
+Applied Artificial Intelligence (Starting January 2019), Multivariable control, Nonlinear control
+and servo systems, Project in automatic control, System Identification, Predictive control. This
+education gave me an understanding of different strategies of control systems, and how they
+are related to mechatronics systems and Al.
+
+Master's Degree in Industrial Engineering 2016 - 2018
+
+echnic University encia (UPV), Spain
+
+Master's degree in Engineering focused on Management as well as Control and Automation.
+
+Bachelor's Degree in Ingenieria en Tecnologias
+
+Industriales (with Honours) 2011 - 2015
+Polytechnic University of Valencia (UPV), Spain
+
+A very well respected 4-year program in Spain. Apart from its primary focus, it also provides
+knowledge in a wide variety of other fields, such as mechanics, electronics, manufacturing,
+control theory, programming, electrical engineering, and thermal machines, among others.
+
+Software Programmer of a Robotic System 12/2016 — 07/2017
+SABIEN-ITACA, Valencia, Spain
+
+| have programmed a social robot whose purpose was to work with patients in medical centers
+and with elderly people. The robot was able to collect data from the patients and the
+environment thanks to environment recognition. A small Al enabled user interaction and
+communication, as well as connection with other CPUs by means of two Internet of Things
+platforms.
+
+Designer, Microfluidic Lab-on-A-Chip 02/2016 - 07/2016
+
+Der Autom: Control, Polytechnic Univ ja (UPV), Spain
+
+of Valen
+
+Design of a microfluidic chip for characterization of a synthetic biological circuit by means of
+quorum sensing of AHL-based molecular expression cells in E. Coli.
+
+Temporary Job as Machine Operator 07/2015 — 10/2015
+
+be Engineering Ltd., Elsenham, United Kingdon
+
+CNC Milling Operator. Basic Mazak machines operation. Quality control and problem solving
+tasks. Packaging. Manual milling, lathe. Welding in MIG/MAG/TIG. G-code programming.
+
+SpaceApps Challenge 04/2016
+Our team got challenged by NASA to design a solution for the Jet Set Mars Challenge: a
+mobility solution for first operations on Mars. We designed an exoskeleton with a jetpack and
+HUD for mobility, and proposed a method for obtaining fuel on-site. We reached Top 25 Global
+Prize and Top 5 in Best Use of Hardware among 1,287 projects.

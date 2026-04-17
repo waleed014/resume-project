@@ -1,0 +1,71 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Professional Summary
+
+Trusted technology expert capable of conceptualizing, designing, and implementing technology solutions to meet business needs.
+Expertise in Healthcare, Marketing, Data Services, and Defense domains.
+Experienced software engineer developing systems in multiple programming languages on multiple platforms.
+
+Successful in leadership and technical roles in both large-scale, process intensive projects and small-scale rapid development efforts.
+
+Skills
+OLTP, OLAP Design ‘C+, C#, VB.NET, R, XML,
+MS SQL Server, SSIS, SSRS Healthcare, HL7, ICD-10, X12
+Sybase, Oracle, Cache, MySQL Mirth, Ensemble
+
+CMML RUP, Agile Windows, Unix
+
+Work History
+
+Senior Developer, 07/2012 to 09/2014
+Bmo - Hinsdale, IL
+
++ Team Lead for Data Warehousing and Business Intelligence development using SSIS, SSAS, SSRS.
+
+* Analysis, design, and implementation of upgrade to commercial inpatient / outpatient management, clinical, and revenue cycle
+software for ICD-10 using C#, VB, and Powerbuilder.
+Integration development using Ensemble, SQL Service Broker, and C?.
+
+Lead a on-shore / off-shore team of developers, analysts, and testers.
+
+Coordinated with customers, business analyst, and systems partners to develop and validate requirements.
+
+Data Services Manager, 2000 to 06/2012
+
+Sentry - TN, State
+* Developed system for reporting demographic profile of client customer databases.
+* Designed a database to maintain a national resident list census data, and lifestyle data extracted from multiple sources.
+« Implemented automated ETL processes for client data processing
+
+‘* Managed teams of 5 to 10 operations, support, and development professionals
+
+Lead cross functional teams for Business Process Improvement and contract acquisition.
+
+Senior Analyst, 01/1998 to 09/1999
+Altice Usa — Winnfield, LA
+* Database design for a multi-platform (Sybase, Oracle) telecommunications management system with multi-tier replication,
+deployed to 350 DOD sites worldwide.
+« Physical Design, Stored Procedures, Triggers, and tuning of SQL queries,
++ Authored System Design Document, System Security Policy, and Test Plan.
+« Technical and Functional expert for development team.
+
+Communications - Computer Systems Programmer, 01/1992 to 01/1998
+
+United States Air Force — City, STATE
+* Technical leadership role of commercial grade software development to widespread DOD/DISA use.
++ Test Director of a combat supply, logistics, workflow, and battle management system (CAS-D).
+
+« Ada test engineer reviewing code and building black-box test code for mission critical systems,
+Education
+
+Bachelor of Science: Computer Science, 2011
+Troy University - Troy, AL
+‘Magna Cum Laude
+
+Additional Information
+MS SQL Server, C++, C#, R, VB, NET, Intersystems, Mirth, Cache, Ensemble, Healthcare, R, Statistics, Rational,
+
+ERWin, XML, JSON, X12, 5010, SSIS, SSRS, SSAS, BI, Sybase, Powerbuilder, Oracle, MySQL, PostgreSQL, T-
+SQL, PL/SQL

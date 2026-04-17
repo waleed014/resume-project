@@ -1,0 +1,111 @@
+Lavonne Sloman
+
+Cybersecurity Engineer
+
+ lavonne.sloman@gmailcom
+% (037) 772-4533
+Des Moines, 18
+
+EDUCATION
+
+Bachelor of Science in
+Cybersecurity Engineering at lowa
+State University, Ames, 1A
+
+‘Aug2015 - May 2020
+
+Relevant Coursework: Network
+Security, Operating System Security,
+Computer Forensics, Cryptography, and
+Data Communications.
+
+2 5
+z Zz
+= FA
+5 ia
+
+Network Security
+
+Risk Analysis
+
+Incident Response
+
+Cryptography
+
+System Administration
+
+Wulnerability Management
+
+Data Loss Prevention
+
+HOBBIES
+
+Programming
+Networking
+Cryptography
+
+PROFILE
+
+‘Asa Cybersecurity Engineer wth over3 years of experience, Ihave developed
+‘a comprehensive knowledge of network security, system security,
+
+‘and software development. | have extensive experience in designing,
+implementing, and maintaining technical security solutions to protect,
+corporate networks, systems, and data. My experience includes creating
+firewalls, intrusion detection systems, and vulnerability assessments;
+‘overseeing security operations; and deploying secure networks in
+‘multi-platform environments. | also have experience in developing custom
+software applications and tools to enhance security practices. lam
+passionate about staying up-to-date on the latest technologies and best
+practices in cybersecurity, and look forward to further developing my skills
+ina challenging enviconment.
+
+EMPLOYMENT HISTORY
+
+© Cybersecurity Engineer at IBM Security, IA
+(Dec 2022 - Present
+
++ Developed and implemented a multi-layered security strategy for IBM
+Security, IA that reduced the number of cyber security incidents by
+30%.
+
++ Ledateam of engineers in designingand deployinga robust security
+architecture that improved data security across the organization by
+2086.
+
++ Designed and implemented a comprehensive risk management
+framework that enabled the organization to detect and respond to
+‘cyber threats ina timely manner, resulting in a 25% decrease in
+system downtime.
+
++ Created and maintained an up-to-date inventory of all system
+‘components and their configurations, ensuring compliance with
+industry standards and reducing security-related risks by 40%,
+
+© Cybersecurity Associate Engineer at Hy-Vee Cybersecurity, 1A
+'Sep2020 -Nov 2022
+
++ Implemented a security patching process that reduced the time to
+patch critical systems from 2 weeks to 24 hours, ensuring network
+security in a timely manner.
+
+* Developed an automated security monitoring system that identified
+and flagged suspicious activity within the network, resulting in 250%
+decrease in malicious attacks.
+
++ Installed an intrusion detection system that identified and removed
+malicious trafic from the network, increasing overall system
+protection by 75%.
+
++ Created a comprehensive user authentication system that increased
+user accountability and improved security by 95%,
+
+CERTIFICATES
+
+Certified Information Systems Security Professional (CISSP)
+Sep202
+
+Certified Ethical Hacker (CEH)
+Feb 2020
+
+MEMBERSHIPS

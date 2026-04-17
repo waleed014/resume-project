@@ -1,0 +1,79 @@
+Loyce Lind
+167 Lebsack Center, Dallas, TX # Phone: +1 (555) 844 2484
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR ASSOCIATE IS SECURITY ENGINEER
+New York, NY
+10/2014 — present
+‘* Team-oriented, placing priority on the successful completion of team goals
++ Bea liaison between system owners and auditors during negotiations process
+‘+ Advise project teams and application owners on information security controls
++ Provide guidance to the staff and contract teams supporting security operations and risk management
+activities on security compliance processes, strategies and approaches
+‘* Understand the complex technologies that comprise Amgen’s computing environment, identifying,
+documenting and helping to manage the information protection implications
+‘* Maintain and build relationships with the Information Security Client teams with a focus on ensuring
+inclusion of information security controls and strategy on projects and operations
+‘+ Provide mentorship throughout Amgen on technical subjects in your technical domain
+
+ASSOCIATE INFORMATION SECURITY ENGINEER
+‘Los Angeles, CA
+06/2009 — 09/2014
+‘© Network perimeter device and system log analysis
+‘Serves as a liaison between developers, architects, engineers and our internal business partners and/or
+vendor companies
++ Firewall configuration and change management
+‘+ Assist in the implementation of information security strategies and solutions in support of Studio
+initiatives
+‘© Research product and technical data for ongoing projects
+‘© Maintenance of information security services
++ Participation in multiple facets of the Security Awareness program
+
+ASSOCIATE SECURITY ENGINEER
+
+Phoenix, AZ
+09/2005 — 03/2009
+‘© Manage or optimize existing network or cloud infrastructure with redundancy and risk mitigation in mind
+Assist in the development and integration on new testing tools
+
+Assist in the prevention and containment of virus outbreaks
+
+Assist with performing technical and competitive analysis of security solutions
+
+Assist IT Management team with preparation for IT security and compliance audits including SOX, PCI,
+
+IC’s, MIC’s, and any Gaming Board Regulations
+
+‘© Manage and improve a set of critical security infrastructure services for authentication, logging, scanning,
+and detection
+
+‘* Design, develop, and implement security controls and tools that improve the defense of internet services
+infrastructure and applications
+
+UNIVERSITY OF CALIFORNIA, BERKELEY
+Bachelor’s Degree in Computer Science
+
+‘* Knowledge of internet architectures, packet tracing, vulnerability assessment, attack detection, and
+network security
++ Possess the ability to sustain a high level of confidentiality and professionalism
+
+‘+ Ability to respond to difficult and stressful situations in a professional, efficient, effective and positive
+manner
+
+Excellent documentation skills
+
+Strong experience with both Windows and nix operating environments
+
+Strong interpersonal, verbal presentation and written communication skills
+
+Excellent understanding of TCP/IP and network communications
+
+Ability to present to small groups and high level executives
+
+Able to communicate security-related concepts to a broad range of technical and non-technical staff
+Working knowledge of databases and data warehouse technologies and solutions

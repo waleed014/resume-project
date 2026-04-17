@@ -1,0 +1,84 @@
+Alvera Homenick
+28168 Nader Plaza, Chicago, IL @ Phone: +1 (555) 569 0532
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR PL/SQL DEVELOPER
+Boston, MA
+04/2016 — present
+‘* Expertise in software development processes including quality assurance, code management and Agile
+Development
+‘* Mentoring junior developers on best practices and showing them how to work with predefined patterns
+‘* Prepares time estimates and justifications for assigned tasks and provides recommendations to project
+managers
+Provide support and assistance to team and other departments
+Has followed disciplined software development processes and worked in integrated service environments
+Development using Oracle 11g/10g/9i, SQL PLUS, TOAD and SQL DEVELOPER,
+Suggests and implements process improvements for estimating, development and testing processes
+
+ORACLE PL/SQL DEVELOPER
+New York, NY
+04/2012 — 10/2015
+‘* Responsible for people Management, including goal setting and providing performance feedback
+‘© Work closely with development teams to ensure successful implementation
++ Providing accurate estimates and timings to project managers
+‘© Ensure all code in software configuration management tool adheres to SCM standards and perform unit
+testing and review output evidence with test
+‘+ Adhere to development methodologies, coding standards and security policies set by the CIO Office;
+adhere to Solution Design/Development CoE standards
+* Work with existing Data Architect to assist in the design of the Physical Data Model (based on the
+Logical Data Model)
++ Full development life cycle - report design, development and testing
+
+PL/SQL DEVELOPER
+
+New York, NY
+11/2009 — 12/2011
+
+‘+ Partner with architecture and front end developers to create conceptual designs and detailed technical
+specifications for data management solutions
+
++ Designs, develops, codes, tests, and debugs complex new software products, or makes significant
+enhancements to existing
+
++ Participate in all phases of the development lifecycle, including detailed design, development, unit testing,
+bug fixing and documentation
+
+‘+ Follow defined methodology and standards including preparation and maintenance of documentation for
+all stages of development work
+
+© Work with high standard following agile development practices
+
+‘+ Performing unit testing of developed modules and components
+
+© Work in international company, developmental opportunities
+
+BALL STATE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+‘© Excellent attention to detail, and can demonstrate highly disciplined approach to quality reviews of
+automation assets
+
+‘© Excellent attention to details,
+
+‘* Able to develop scalable solutions that can be utilised by current and future channels ~ e.g. mobile
+
+‘* Solid written and verbal communication skills and able to articulate the technically complex to be
+
+understood by both technical and non technical personnel
+
+Excellent interpersonal skills and strong emotional intelligence
+
+Ability to manage conflicting priorities and multiple tasks
+
+Practical experience of developing and implementing robust and scalable PL/SQL modules
+
+Domain knowledge of banking sector and accounting would be an advantage
+
+Experience using Quality Centre (Mercury Test Director) or equivalent test management tool
+
+Good critical reasoning and problem solving skills ~ sticks to the problem until itis resolved

@@ -1,0 +1,63 @@
+D FE | R D R FE Experience
+
+KE R LU KE Runte, Johnson and Lemke
+San Francisco, CA || Senior Teradata Database Administrator || 06/2019
+
+— present
+¢ Experience with Oracle, Postgres, or SYBASE
+¢ Current and active TS/SCI with polygraph based upon a SSBI
+¢ Proven experience in SQL Server Database Administration Activities
+¢ Strong Experience Installing and Managing SQL Server all the version,
+configuration and applied hotfix and service pack
+¢ Implement and maintain database security
+
+address ¢ Strong Experience in Database backup and restoration in standalone and
+1668 Bogan Forks, cluster environments
+
+San Francisco, CA ¢ Perform all database and server integrity check
+
+tel +1 (555) 898 3225 Bergnaum Inc
+
+San Francisco, CA || IT Database Administrator || 02/2016 - 05/2019
+
+¢ Expertise in database implementation using proper data modeling and
+normalization principles
+
+¢ Strong background in database performance analysis and tuning in an IBM
+i environment
+
+¢ Good understanding of DDS physical and logical file objects
+
+¢ Good understanding of DDL tables, views and index objects
+
+¢ Willing to be part of DBA after hours on-call support
+
+¢ Experience with large scale project development, enhancement projects
+and production support
+
+¢ Knowledge of software development technologies, various software
+languages, methodology and tools
+
+Education
+
+California College of the Arts
+Bachelor's in Computer Science
+
+Skills
+
+¢ Understanding of MySQL’s underlying storage engines, such as InnoDB
+and MylSAM
+
+¢ Knowledge of de-facto standards and best practices in MySQL/MariaDB
+
+¢ Familiarity with other SQL/NoSQL databases such as PostgreSQL,
+MongoDB, etc
+
+e Available to provide periodic off hours support for Production
+implementation events.?
+
+¢ SQL Server MCSA/MCSE certifications
+
+e Power shell experience
+
+e EDI knowledge

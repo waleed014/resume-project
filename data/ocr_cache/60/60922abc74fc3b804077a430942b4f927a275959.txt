@@ -1,0 +1,96 @@
+Macy Wisoky
+‘75552 Bernier Centers, Philadelphia, PA # Phone: +1 (555) 359 4726
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+ORACLE FUNCTIONAL FINANCE CONSULTANT
+
+New York, NY
+09/2014 — present
+
+Functional responsibilities include: application design, test script generation, writing training guides,
+training end users, and production support
+
+Client Interaction, communication and managing client expectations in accordance with scope, time and
+effort, executing Onsite-Offshore support models
+
+The successful candidate will facilitate acquisition of, and participate in, testing necessary system patches
+(Oracle Metalink)
+
+Support the system users to improve their productivity and application knowledge; building the super
+user's confidence and competence
+
+‘* Oracle R12 Functional Finance SME for Implementation in AP region
+‘+ Perform assigned duties as prioritized and alert leaders when priorities conflict or are ambiguous
+‘¢ Extensively worked on various business flows such as Order to Cash (O2C), Procure to Pay (P2P) cycle
+
+and Fixed Asset to GL; Integration with SCM modules(PO,OM and Inv)
+
+ORACLE HCM FUNCTIONAL CONSULTANT
+
+‘Chicago, IL
+02/2013 - 08/2014
+
+Strong knowledge with Talent Management modules such as Goals Management and Performance
+Review
+
+Fusion Performance Management Cloud Service
+
+Can work with minimal supervision
+
+Knowledge with Approvals Management
+
+Fusion Goal Management Cloud Service
+
+Create Oracle Service Requests
+
+Mass Upload using HCM Data Loader
+
+ORACLE FUNCTIONAL CONSULTANT
+
+Chicago, IL
+02/2005 ~ 12/2011
+
+Assists in development of team work plans Monitors/updates team work plans
+
+Maintains communication with Workstream Lead(s) and Workstream Business Process Champion and
+ERP Program Managers Manages day-to-day team activities
+
+Implement and transition enterprise management strategy (system resource management, help desk,
+software distribution)
+
+Manages the development of infrastructure for the ERP Program
+
+Manage the mini roll out and enhancement projects
+
+Participates in the design and development of the infrastructure components of the architecture strategy
+Provide Post Go Live Support for an Oracle R12 Order Shipping Billing (OSB) roll out, covering break
+fix and minor enhancements
+
+UNIVERSITY OF MASSACHUSETTS AMHERST
+Bachelor’s Degree in Related Field
+
+Ability to analyze and document complex business processes
+
+Ability to think analytically and be a problem solver
+
+Knowledge of complete Procure to Pay, Order to Cash and Record to Report lifecycle
+
+Develop test plans and manage user testing for system changes
+
+Work with powerusers and superusers to prioritize enhancements and process improvements
+
+Support a change management process to manage patch applications and changes to the configurations
+Maintain and improve system interfaces between key applications
+
+Support new ERP or business unit initiatives and projects which may include new functionality, process
+improvements or migrating new business units onto the systems
+
+Oracle 11.5.10 or R12 experience within Finance modules including Oracle GL, AR, AP, FA, iExpense,
+Projects
+
+‘Complete business process mapping and identify opportunities for improvement

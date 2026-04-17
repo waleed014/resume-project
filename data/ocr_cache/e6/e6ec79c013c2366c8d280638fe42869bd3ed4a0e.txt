@@ -1,0 +1,90 @@
+JASMINE
+SEYMOUR
+
+Project Manager
+
+@& jas@email.com
+J (123) 456-7890
+9 Atlanta, GA
+
+HH Linkedin.com
+
+EDUCATION
+
+BS.
+
+Computer Science
+
+Clark Atlanta University
+August 2008 - May 2012
+Atlanta, GA
+
+SKILLS
+
+JavaScript (React, Node)
+
+Agile Development
+
+sau
+
+AJB Testing & Experimentation
+Google Analytics
+
+Excel/ Google Sheets
+
+CAREER OBJECTIVE
+
+Collaborative and product-focused project manager with 2 years
+experience in management and 10 years in the software industry. Seeking
+to continue my proven record of cultivating strong relationships with
+developers to ensure robust, faster, and more reliable software for an
+equally thriving business like Google.
+
+WORK EXPERIENCE
+
+Project Manager
+Delta
+June 2020- current Atlanta, GA
+* Oversaw a team of 6 developers to foster an interactive coding
+environment and talked to over 160 instructors to understand their
+feedback on the tool
+Worked with course instructors for technical classes to build an
+interactive coding environment for students to improve engagement
+and course completion by over 27%
+Beat expectations by 11% year over year through the development of
+signup feature for programming-related classes
+
+‘Communicated and worked with business partners and stakeholders
+to ensure congruent, well-developed plans
+
+Software Developer
+Delta
+May 2015 - May 2020 Atlanta, GA
+* Defined and applied rules to incorporate ions of rows of data from
+
+third-party data feeds into the product back-end
+Built the logic for a streamlined ad-serving platform that scaled to
+over 2.7M users, which improved page speed by 14% after
+implementation
+Worked with product managers to re-architect a multi-page web app
+into a single page in React, resulting ina revenue lift of $1.8M
+
+Performed tests and debugged existing software to increase operating
+speed by up to 16%
+
+Software Developer
+IHRG, Inc.
+May 2012 - May 2015 Atlanta,GA
+* Built internal tool using NodeJS and Pupetter,js to automate QA and
+
+monitor customer-facing web app, improving the click-through rate by
+6% in 2012 and 7%in 2013
+
+Worked alongside 6 developers to implement APIs that enabled the
+internal analytics team to increase reporting speed by 18%
+
+Led the migration of a web app with a reach of 116,000 monthly users
+toa Node back-end, improving the application speed by 12%
+
+Built RESTful APIs that served data to Javascript front-end based on
+dynamically chosen user input that handled 1.6M users

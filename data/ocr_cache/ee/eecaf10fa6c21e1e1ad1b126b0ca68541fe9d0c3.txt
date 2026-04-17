@@ -1,0 +1,60 @@
+QA TESTER RESUME
+
+74 Douglass Avene
+Detay Beach, Fla, $3447
+(G81) 087-1701
+your email@zmailcom
+QA Tester with 7+ years of experience managing software testing and automation projects throughout the
+testing phase. Proven expertise in ensuring software reliability and performance by conducting quality
+assurance and automated testing, including software test case development and execution, implementation of
+test plans, and bug tracking.
+
+PROFESSIONAL EXPERIENCE
+
+DEAL COACH PRO Delray Beach, Fla.
+
+Quality Assurance Tester October 20XX=present
+
+‘* Developed and implemented a Selenium Test Automation Framework to facilitate scripting, scalability,
+modularity, process definition, reusability, and maintenance and reduce costs
+
+© Launched a fully adaptable testing framework that uses TestNG to enable prioritization and control
+sequence of execution and construct data-driven tests,
+
+‘* Deliver seminal design input and comprehensive quality testing ranging from prerelease to maintenance for
+a product with 47,000 users
+
+* Perform integration, functional, and regression testing while creating 1200+ regression tests in Java using
+the Selenium/WebDriver framework
+
+© Reduced QA testing tumaround time by 30% within 6 months, enabling the company to take and complete
+more projects without increasing manpower
+
+E’M SYSTEMS Wilmington, Del.
+
+IT Administrator January 20XX—September 20XX
+
+«Tested a wide range of software and applications, employing various testing techniques and methodologies
+
+‘Leda team of 5+ members to rewrite regression test cases, exceeding goals and reducing total regression
+test case count fo 15%
+
+* Consistently achieved department-wide improvement metrics based on QA scorecard, reducing customer
+support workload by 47% and IT workload by 20%
+
+‘Applied a fully functioning framework, running 5000+ regression tests nightly to identify defects within
+large data volumes at the earliest point
+
+EDUCATION
+
+BOWIE STATE UNIVERSITY Bowie, Md.
+BS Computer Science, December 20XX
+
+© Honors: cum laude (GPA: 3.6/4.0)
+
+ADDITIONAL SKILLS
+
+Test Automation Frameworks: Java; JavaScript; Selenium/WebDriver; TestNG; JUnit; Jenkins;
+TestProject io; CharlesProxy: Regression, Functional, and Performance Testing
+
+123 Your Address City,, Ste, Zip Code (exx)sexeex your@email.com

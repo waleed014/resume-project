@@ -1,0 +1,60 @@
+Elna Schneider
+
+8183 Rick Dale, Los Angeles, CA @ Phone: +1 (555) 954 0081
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+AUTOMOTIVE PRODUCT ENGINEER
+Philadelphia, PA
+09/2016 — present
+‘© Work with NVIDIA quality department on DPPM improvement
+‘Work with sales teams and customers during design phase to debug and perform FA on customer issues
+Work closely with NVIDIA engineers and program managers on production issues
+Perform board failure analysis down to component level
+Provide root cause and corrective action in a timely manner
+Working knowledge of advanced test equipment (oscilloscopes, logic analyzer, etc.)
+Work with NVIDIA engineering teams to debug customer issues to component level
+
+AUTOMOTIVE SYSTEMS ENGINEER
+Boston, MA
+01/2011 — 07/2016
++ Contributing to new product definition, from concept to full specification, to address a new emerging
+application in the VDS market space
+‘* Working with other systems engineers and design groups to establish the correct features in each sub-
+system and overall SoC to achieve the overall product goal
+‘+ Performing simulation and benchmarking of existing MCUs and virtual prototypes — to guide the
+specification of future products
+‘* Developing pre-silicon platforms to allow customers to start developing their solutions from existing
+silicon and/or FPGA.
+‘* Building proof-of-concept demos to show off the features and benefits of our products
+‘* Customer support, to help them use our products to achieve their system level goals
+* Naturally structured and diligent, self motivated
+
+AUTOMOTIVE ENGINEER
+‘San Francisco, CA
+11/2003 — 08/2010
++ Acollaborative approach to working
++ 20%: Information Management
+‘operation with Quality Management (QM) team
+lanagement of approval process
+‘+ To support tire development engineers with latest information including:
+‘* Overall Continental product performance
+
+NORTH CAROLINA STATE UNIVERSITY
+Bachelor's Degree in Electrical
+
+Excellent time management skills
+Strong analytical and decision making skills
+
+‘Computer proficiency in Microsoft Windows, Outlook and Microsoft Office Programs
+Excellent written and verbal communication/presentation skills and demonstrated experience
+communicating technical information
+
+‘* Excellent verbal and written communication skills
+
+* Working Knowledge of Google Appl
++ Have establish contracts with automotive customer base

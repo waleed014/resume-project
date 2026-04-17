@@ -1,0 +1,65 @@
+ROBERT SMITH
+
+Oracle PL/SQL Developer (Unix)
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+Over 4-+years of professional experience in IT industry as Oracle SQLPLSQL
+developer, Analysis Design, and Modeling. Strong knowledge of Oracle architecture
+and database design. Excellent skills in designing and development of applications
+Using Oracle, SOL, PUISOL Good knowledge on Oracle tools like SOL PLUS, PLISOL,
+SOL and used TOAD in many development projects. Oracle Forms and Reports
+Experienced in all phases of Software Development Life Cycle (SDLC).
+
+EXPERIENCE
+
+Oracle PL/SQL Developer (Unix)
+
+Breg -JANUARY 2015 - PRESENT
+Participating in database design within an existing Oracle database
+structure.
+
++ Helping application development team in preparing technical designs
+and perform construction activities
+
++ Working with developers to design and write complex packages to
+support ther needs.
+
++ Writing complex functions and procedures for new packages and
+update existing packages in an established Oracle database using
+predefined business rules
+
++ Working with database administrators to implement design changes
+and new packages.
+
++ Performance testing and rewriting of production Code/SOL statements.
+Gamp; procedures performing badly, identified by database
+‘administrators.
+
++ Provided database support to developers who write code using WCF,
+WPF and. Net:
+
+Oracle PL/SQL Developer
+ABC Corp - 2014 - 2015
+
++ Deployed the scripts in production, monitored them and provided
+production support assistance,
+
++ Actively participated in discussions with DBAs to improve the
+performance of the DB processes
+
++ Took part in discussions with data modelers during design meetings
+and creating a logical and physical model for the D8,
+
++ Performed reverse engineering to generate 3 model using Erwin data
+modeling tool
+
++ Ensured SDLC/QA compliance using Defined process and
+methodology.
+
++ Participated in QA activities final inspection, reviews audits, metrics
+data generation, collection, Interpretation and submission.
+
++ Defined and established Configuration Management.
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

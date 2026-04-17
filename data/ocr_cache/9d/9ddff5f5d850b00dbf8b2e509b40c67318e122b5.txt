@@ -1,0 +1,68 @@
+PYTHON DEVELOPER RESUME
+
+123 Your Address
+City, State, Zip Code
+(examen
+‘your emsil@emeilcom
+
+Solution-focused Python Developer with 9+ years of experience developing web applications using Python,
+
+JAVA, and Spring. Instrumental in writing code, implementing Python applications, ensuring data security and
+
+protection, and identifying data storage solutions. Expertise in data processing automation using python,
+
+‘machine learning, and multi-process architecture.
+
+PROFESSIONAL EXPERIENCE
+COMCAST Atlanta, GA
+Python Developer October 2015-Present
+
+‘* Build interactive forms and design effective email marketing campaigns that save data into the
+database using the DJANGO framework
+
+‘+ Developed and completed an API-driven publishing service to manage 20M monthly page
+views with a 96% cache efficiency rate
+
+‘+ Revised existing PythowDJANGO modules and design architectures for 5+ products, helping
+reach 2M users per month
+
+‘+ Consolidated and refactored the legacy program module of an external app that improved code
+‘maintainability and cut deployment time by 70%
+
+‘+ Implemented full-stack programming techniques to develop a mission-critical external web
+app, which increased user retention by 78%
+
+WALGREENS Boston, MA
+Python Developer January 2012-September 2015
+
+‘© Utilized windows task scheduler to run Python scripts which generated reports at specific
+intervals and sent corresponding email alerts
+
+‘+ Managed all facets of the migration of existing DEV/USR/PRD environments to the cloud,
+reducing operating costs by 15%
+
+‘+ Achieved 60% improvement in system's response time by optimizing legacy data storages and
+search queries using PL/SQL
+
+‘+ Wrote and integrated new client APIs using Neutron, Cinder, Nova, Keystone, Hashboard,
+Glance, Swift, and Python
+
+EDUCATION
+
+NORTHEASTERN ILLINOIS UNIVERSITY Chicago, IL
+Master of Science in Computer Science, December 2011
+
+Honors: cum laude (GPA: 3.8/4.0)
+
+ADDITIONAL SKILLS
+
+Expertise in Python 2/3, Django ORM, C++, Flash, Mako, MatPlotlib, Pandas, Pyramid, Django,
+TensorFlow, TurboGears, JavaScript, JS/jQuery, HTMLS, and CSS3
+
+Proficient in Multi-Process Architecture, Natural Language Processing, Agile, Asana, Basecapm, Bitbucket,
+Jira, Lint, SOLID Principles, and Scrum
+
+Solid working knowledge of BIML, DAX, DB2, ETL, GraphDB, MOLAP, MS SQL Server, MariaDB,
+‘NoSQL, and PL/SQL databases
+
+123 Your Address City,, Ste, Zip ode (exx)sexeex your@email.com

@@ -1,0 +1,125 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10% Floor # (555) 432-1000 # resumesamplesexample.com
+
+Summary
+
+‘Client oriented Support Executive experienced in solving and diagnosing customer questions and queries, Reports frequent and
+consistent problems and follows up with other departments to guarantee problem resolution, Delivers comprehensive reports to
+assess customer satisfaction with products and services
+
+Skills
++ Budget Management + Technical Support Understanding
++ Wotk Planning and Prioritization + Microsoft Ofice Suite
++ Performance Evaluations + Supervision & Leadership
+«+ Records Management + Team Building
++ Problem-Solving + User Support and Troubleshooting
+
++ Customer Service
+Experience
+SAP FICO Consultant, 01/2022 to 06/2022
+Nieibl Worldwide Inc Paster, CA
+‘+ Worked asa SAP FICO functional consultant, with a deep understanding ofthe Financial and Controlling modules of SAP
++ Proficiently configured and maintained SAP FICO modules, including GL, AP, AR, and CO
++ Implemented and supported SAP FICO projects, inchading system design, configuration, testing, and deployment
+‘+ Familiarity with SAP integration with other modules, such as MM, SD, and PP
++ Knowledge of SAP FICO best practices and industry standards
+«+ Hands-on experience with SAP FICO reporting including creating and maintaining financial reports and statements
++ Experienced in SAP FICO data migration, including data mapping, data cleansing, and data validation
++ Understanding of SAP FICO security and authorization including user and role management
++ Knowledge of SAP FICO interfaces with other systems
++ Familiarity with St HANA and using ta a solution
++ Experienced with leading or mentoring junior team members
+«+ Experienced with SAP FICO implementation projects and post go-live support
++ Experienced with creating functional design document and testing scenarios
+
+TT Support Executive, 08/2019 to 12/2021
+‘Amazon.Com, Inc. - Schertz, TX
+‘+ Handled client and customer onboarding to answer preliminary questions and concerns, preventing unnecessary suppor tickets
++ Recognized and responded to client questions and concerns to improve quality of support procedures
++ Consulted with clients to identify project specifications and follow through with team members.
+‘+ Noted, documented and quantified customer queries to deliver accurate quotes and estimates,
++ Reported concems and recommendations fom clients and employes to senior management
++ seting up and configuring SharePoint sites, including creating ite collections, sub-sites, and custom lists and libraries
++ Proficient in managing ShareP ont permissions, including creating and managing user groups and assigning roles to users
++ Experience with SharePoint customization, including creating custom workflows, forms and views
+«+ Familiarity with SharePoint Online and On-Premizes versions
++ Experience in SharePoint Site templates and Site Definitions
+«+ Knowledge of SharePoint backup and restore procedures
+«+ Hands-on experience with SharePoint PowerShell
++ Experience with the administration and management of Microsoft 365, including Office 365, Exchange Online, SharePoint
+Online, OneDive, and Teams
++ Proficient in configuring and maintaining user accounts, Heense, and secusity settings in Microsoft 365
++ Experience in implementing and supporting Microsoft 365 projects, including migration, deployment, and integration with other
+systems
+
+SAP Basis Administeator 03/2018 1001/2020
+General Tyre City, STATE
+
++ Led SAP landscape management plans and implementation of SAP upgrade and maintenance releases,
+
++ Gathered business requirements for SAP reporting and functionality enhancements.
+
++ Conducted and documented Root Cause Analysis of production system failures to miniize future failures and optimize
+
+‘operations.
+
++ Diagnosed, toubleshot and resolved hardsvare and system problems.
+
++ Gathered data pertaining to customer needs to identify, predict and evaluate system and network requirements.
+
++ Configured, monitored and maintained email applications or virus protection software,
+
++ Consulted users to determine areas in need of improvement
+
+«+ Kept flexible schedule and resolved after-hours and weekend emergencies quickly and accurately.
+
++ Designed, configured and tested computer hardware and operating system software.
+
+Education and Training,
+
+Master of Science: Computer Science, 03/2022
+Westliff University Irvine, CA
+
+Bachelor of Science: Computer Science, 01/2017
+{gra University - Karachi, Pakistan
+Additional Information
+Ofice 365 Administration
+«+ Knowledge of Microsoft 365 best practices and industry standards
+«+ Hands-on experience with Microsoft 365 reporting, including creating and maintaining usage and adoption reports
++ Experience in Microsoft 365 data migration including data mapping, data cleansing, and data validation
+«+ Understanding of Microsoft 365 security and authorization, including user and role management
++ Proficient in Microsoft 365 troubleshooting and issue resolution
++ Experience with Microsoft 365 integration with other system such as Azure AD
+«+ Knowledge of Microsoft 365 deployment options and strategies
+«+ Familiarity with Office 365 advanced threat protection and security
++ Experience with leading or mentoring junior team members
+«+ Experience with Microsoft 365 implementation projects and post go-live support
++ Experience with creating functional design document and testing scenarios
+Sharepoint Administration
++ Experience in SharePoint Site templates and Site Definitions
++ Knowledge of SharePoint backup and restore procedures
++ Hands-on experience with SharePoint PowerShell
++ Proficient in managing SharePoint permissions, including creating and managing user groups and assigning soles to users
+«+ Experience with SharePoint Governance and best practices
++ Familiarity with SharePoint Search and Indexing
+«+ Experience in troubleshoot and resolving SharePoint issues.
++ Familiarity with SharePoint integration with other Office 365 services like OneDrive, Outlook, and Teams
+MDM (Mobile Device Management) Mer
++ Experience with seting up and configuring Meraki networks, including wicelss acess points security appliances, and switches
++ Proficient in using the Meraki Dashboard for network management and monitoring
++ Experience with Meraki Systems Manager for mobile device management
+«+ Familiarity with Meraki Insight for network performance monitoring and troubleshooting
+«+ Knowledge of Meraki SD-WAN for software defined wide area network solution
++ Hands-on experience with Meraki MV smart cameras for video surveillance
+«+ Experience in Meraki CMX for location analytics and engagement
++ Understanding of Meraki Energy for real-time monitoring and management of environmental sensors and power over Ethernet
+(PoE) devices
++ Proficient in Meraki MR wireless access points for enterprise grade WiFi
++ Knowledge of Meraki MS cloud-managed switches
++ Experience in Meraki MX security appliances for network security
+«+ Familiarity with troubleshoot and resolving Meraki network issues.
+
+Certifications
+
+SAP SHANA for Financial Accounting Associates Licence- 2020

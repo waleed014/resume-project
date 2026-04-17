@@ -1,0 +1,79 @@
+‘Sample Resumes CV http://sample-resumes-cv.blogspot.com
+CONSULTANT NAME
+
+‘SUMMARY
+
+© 5 + years of experience in analysis, design and development of client/server, web based and n-
+tier application, Expert in developing windows applications, web applications, windows services
+and web services in Microsoft Visual Studio Net IDE using C#Net 1.1, C#Net 20, VB.NET,
+ASP.NET, ADO.NET and SQL Server
+
++ Proficient in Web Services, SOAP, XML, XSL, XSLT. Xpath, XSL-FO, XPointer, OTD, XML
+Schema, CSS, DOM, HTML, AJAX and JavaScript
+
+© Created ‘deployment’ packages for Applications using Visual studio.Net Startup Project, which
+involves creating native image of an assembly, installing an assembly in Global assembly cache
+(GAC)
+
+© Worked extensively with Data Adapter, Dataset, Data reader as a part of ADO.NET to access and
+update database.
+
+© Extensive experience in SQL Server Database design, Database maintenance, developing T-SQL
+queries, stored procedures, and triggers using SQL Server 2000,
+Good working knowledge with designer tools such as Microsoft Visio, Rational Rose
+Good working knowledge in designing Use Case, Class, Sequence, Collaboration, State,
+Component, Deployment, Activity diagrams using UML.
+Expertise in designing UML design patterns such as Adapter, Proxy, Bridge, Facade and so on
+Expert in dealing with Private, Shared satellite and resource assemblies, configuring them with
+strong names, deploying them in GAC.
+
+‘© Expert in debugging an application using the debugging tools provided by the Visual Studio.Net
+IDE
+Functional domain experience involves Financial, Telecom and Hospital management
+Effective in working independently and collaboratively in teams
+
+TECHNICAL SKILLS
+
+Microsoft Technologi ASP.NET 1.1, ASPNET20, VBNET, C#NET, ADO.NET,
+ADO.ASP
+
+Programming Languages: C, C++, C#, VB6.0, T-SQL and JAVA
+
+Scripting Languages: Java Script’, VB Script
+
+RDBM: SQL Server 2000, MySQL, Oracle 8i/9i
+
+XMLRelated Technologies: XML, XSL, XSLT, XPath, XPointer, SOAP, WSDL
+
+Operating Systems: ‘Windows 95/98/2000/NT, XP, UNIX. Linux
+
+Development Tools: VisualStudio. NET 2003, Visual Web Developer 2005, Visual
+Studio. NET, Dream Weaver
+
+Design Tools: UML (Rational Rose), MS Visio
+
+Application Servers: IIS, Apache
+
+xcVersion Control: Visual SourceSafe, Vault
+
+Unit Testing and Code Analysi NUnit, FXCop
+
+PROFESSIONAL EXPERIENCE
+Client Name: Date - Present
+Role: .Net Developer
+Project: Speech Analysis, Debit Account Management System and Keefe Commissary
+Integration
+Debit Account Management, Keefe Commissary and Speech Analysis are three different software
+packages developed for SECURUS tech. The Debit Account Management system is used to manage
+debit calling card accounts belonging to families of Inmates. With this application the user accounts,
+their balances, their call details, summary and reports can be managed. Keefe Commissary is @
+commissary provider for SECURUS. Debit Account Management has to be integrated with Keefe
+Commissary's Database so that SECURUS receives up to date data when ever a Debit phone call
+purchase is made by Inmate through Keefe Commissary Menu. The Speech Analysis software
+provides a search engine to find records containing telephonic conversation of Jail inmates. Two main
+functionalities of the Speech analysis application are Administration and Forensic Search
+Administration is used to configure and monitor ingest sessions. Forensic search is used to search
+process and analyze media records stored in the database.
+Responsibilities:
+«Used N-tier architecture for presentation layer, the Business and Data Access Layers and were
+coded using C#

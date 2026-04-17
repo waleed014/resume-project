@@ -1,0 +1,72 @@
+Robert Smith SONTAGL PETS
+
+1737 Marcil Rood
+ETL Developer/Team Lead (123)-456-7890
+
+Infoesquikresume.com
+
+wwweqwikresume.com
+PERSONAL STATEMENT
+Having 5% years of in-depth experience in development, Implementation ‘SKILLS
+and testing of Data Warehouse and Business intelligence solutions. Hands Informatica, Oracle 206,
+on ETL development experience using Informatica Power Center Client tools Gracie 11g, Unix, Dollor
+
+“Mapping Designer, Repository manager, Workllow Manager/Monitor,
+Repository Server anager. Hands-on experience acrass all stages of Wie
+Software Development Life Cycle (SDLC) including business requirement OWES
+analysis, data mapping, build, unit testing systern Integration and user
+facceplance testing and Agile,
+
+Universe, Data
+
+LANGUAGES
+WORK EXPERIENCE engsh Native
+Henon (nstssona)
+ETL Developer/team Lead Sport (ootesion)
+ABC Corporation june 2022 - Apri 2013
++ Responsibilities Managing the ROW Frotecol Programs, toloadthe repair LNTERESTS:
+fa es provided by ASC reper conters climbing
+* Worked in Production Support environment for Major / Srnall / ‘Snowboarding
+Emergency pects malnerance requests bug fies enhancers, | UR
+dae chong
++ Wate conversion septs using SL, PL/SQL store procedures and
+ites mite a 3a Retest Oa eee
++ Performed DtabaseAdmintation ol database beds ndudlng —_—frence = (Company
+tables, clusters, indexes, views, sequences packages and procedures. Name)
+
+Reference - 2 (Company
+
++ Involved in Performance tuning of Oracle Databases, by creating Name)
+
+Partitions and indexes on the database tables.
+
++ Improved the performance of the application by rewriting the SOL
+{queries and PLSQL Procedures.
+
++ Wrote packages to fetch complex data from diferent tables In remote
+databases using joins, sub queries and database links.
+
+ETL Developer
+‘ABC Corporation - June 2010 - May 2012
+responsibiities:
+
++ TCS India Warranty Tracking and Provisioning Information,
+Responsibilities Managing the WTP Protocol Programs, to load the
+‘warranty status of the products sold to customers,
+
++ Worked in Production Support environment for Major) Srna /
+Emergency projects, maintenance requests, bug fixes, enhancements,
+data changes, ete.
+
++ Developed Advance PL/SQL packages, procedures, triggers, partitions
+{and Indexes to Implement business logic,
+
++ Generated Views and materialized views for complex scenarios for
+remote instances,
+
++ Created automation process through Unix Shell scripts to provide
+‘warranty status reports for Key and Strategic Customer.
+
+‘+ Involved in the continuous enhancements and fixing of production
+
+(Ths Ema Resume Temlate the conynght of Qukesurne cor. Usage Gustine,

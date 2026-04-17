@@ -1,0 +1,72 @@
+Nathanial Hoppe
+7059 Jacinthe Mission, Chicago, IL @ Phone: +1 (555) 110 0295
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+MID-LEVEL JAVA DEVELOPER WITH ANGULARJS
+Los Angeles, CA
+12/2015 — present
+‘* Review coding done to advance application upgrade, extension, or other development. Analyze
+application for data integrity issues
+‘+ Develop test protocols or plan for testing revised application and review test results
+* DevOps knowledge (Jenkins) is a nice to have
+‘* Mid-level JAVA Developer is responsible for delivering the following key services to all Software and
+Systems Development Clients
++ Performs feasibility analysis on potential future projects to management
++ Develop JUnit tests and perform feature/integration testing
+‘* Designs and develops new software products or major enhancements to existing software
+
+MID LEVEL JAVA DEVELOPER
+
+Phoenix, AZ
+11/2011 — 07/2015
+‘Serve as a developer on the Digital Marketing IT team, working on various java-based development
+projects
+Working within teams for the implementation of Agile development processes
+‘You will be working very closely with both development and QA teams
+Interact with other development teams to ensure a consistent approach to software development
+Use JIRA and Confluence to communicate status and estimates to the development Team Lead,
+Managers and BA’s
+‘© Work with peers to carry out code reviews and unit testing of new development
+‘© Create unit test plans and scenarios for development unit testing
+
+MID-LEVEL JAVA DEVELOPER
+‘Chicago, IL
+12/2007 — 10/2011
+‘© Adapt to change quickly and adjust work accordingly in a positive manner
+‘+ Independently develops test scripts and ensures all testing phases are completed in order to ensure the
+process/system is thoroughly tested
+‘+ Improve quality of code base using proper technical practices, automated testing, and code quality reviews
+‘* Makes sound decisions that achieve critical organizational objectives
++ Independently review and analyze existing applications’ effectiveness and efficiency, and then develop
+strategies for improving or leveraging these systems
+* Mid-level enterprise level Java developer
++ 10) Mentor offshore and junior team members by developing and enforcing standards, facilitating code
+reviews, and coordinating learning opportunities
+
+SYRACUSE UNIVERSITY
+Bachelor's Degree in Computer Science
+
++ Talk to your business counterparts
+
+* Contribute to the design process
+
+‘* Develop solutions with your team that follow the agreed design
+
+* Participate in the full SDLC with agile methodologies like Kanban and Scrum
+
+‘* Passionate about technologies and the use of it to produce commercial solutions that will be beneficial to
+cour business
+
+Believe that the use of technology is more important than the technology itself
+Care about why and how your solutions are being used
+
+Good problem solver with attention to detail
+
+Don't mind if you do more than just pure-development
+
+Have experience developing in Java 7 or 8. Experience with the following would be

@@ -1,0 +1,162 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS.
+
+WORK HISTORY
+
+EDUCATION
+
+J
+
+essica Claire
+
+© Montgomery Street, San Francisco, CA 94105. \2 (555) 432-1000 4 resumesample@example.com
+
+UI Developer with hands-on experience in developing MEAN stack applications, ReactS, Redux, JavaScript
+ES6 ES7 ES8, jQuery, Node,js, PHP. Experience with full software development life cycle (SDLC) from
+requirements gathering, designing, coding, implementing, testing, maintenance, and documentation. Good
+problem solving skills and documentation skills. Strong communication, analytical and interpersonal skis,
+‘working within cross-functional teams.
+
+‘+ Languages : Java, C, PHP ‘+ Databases : SQL Server, MySQL, Mongo DB
++ Web Technologies : HTMLS, CSS, Bootstrap, + Prototyping design: iRise, Photoshop,
+Responsive Web Design, SEO, Analytics, illustrator, Dreamweaver
+JavaScript ES7, JQuery, Angular, Node Js, React * Testing frameworks : Jest, Enzyme
+Js, React hooks, jQuery ‘+ Editors/ IDE Tool s : Eclipse, Visual Studio
++ Project Management Tools : JIRA, GIT, Code, WebStorm, Notepad ++, Sublime Text
+Jenkins
+‘+ Documentation : MS Office, Microsoft-Visio,
+Confluence
+) UI DEVELOPER(REACT/ANGULAR) 08/2019 to CURRENT
+
+General Motors | Rancho Cucamonga, CA
+
+Building web applications and touchscreen kiosk applications,
+Integrating peripherals to kiosk application, to scan barcodes, pay through credit card, accept cash
+payments
+
+Used front end technologies like HTMLS, CSS3, React JS, Redux, unit testing using Jest, Enzyme to
+achieve full fledged end to end application development.
+
+Analyzed application designs through wireframes, mapping it with business functionality and
+coordinated with UX designers, business team, product owner to gather and analyze requirement and
+worked with architects to come up with new ideas to improve overall application functionality and
+performance
+
+Developed user friendly single page application keeping accessibility as key.
+
+Experience in implementing store actions, installing React Router, React -Redux app to handie real time
+data, API calls
+
+from Thunk, Redux in ReactiS.
+
+Used £6, ES7, ES8, Hooks and JSX for component development.
+
+Worked on migration of project from Legacy to new react platform. Migrated Angular 2.0 project to
+React JS.
+
+Expertise in using custom Directives, factory, providers, services and filters in Angular.
+Experience with Angular Components, Dependency Injection, Services, Routing, pipes,
+Animations, forms etc.
+
+As part of NSA migration project, worked with pod owners, backend developers to integrate new API's in
+existing application
+
+Played intermittent lead role and handled enterprise release, aligned and made sure requirement was
+delivered on time.
+
+Involved in monthly enterprise release and weekly release by developing new requirements and fixing
+issues,
+
+Worked in Agile environment for complete integration and to build responsive kiosk applications.
+
+Used Jenkins for Code deployment.
+
+Provided solutions/fixed bugs to critical issues for production support and maintained project
+documentation
+
+Validated new features and updated documentation, artifacts for each enterprise release,
+
+Integrated glassbox feature to track user activity.
+
+Managed time effectively meeting all deadlines for release of projects.
+
+Environment: HTML, CSS, Styled components, JavaScript, typescript, React, Redux, Router, JIRA, Node,
+‘Angular, slack, postman, glassbox, NPM (Node package manager).
+
+UIOOFTWARE DEVELOPER 09/2017 to 08/2019
+
+Gei Consultants | Traverse City, MI
+
+wr
+
+Designed and developed responsive web application user interface for business clients to request
+quotes for Hovercrafts, shop for parts, place orders.
+
+Rebuilding content management systems as single page application using ReactJS, Redux with
+Bootstrap 4.0, create REST{ul Webservice using NodeJS ExpressJS and MySQL.
+
+JavaScript to handle complex form validation and dynamic form element updating,
+
+‘Aided in development of server-side scripts to process business requests using object-oriented PHP
+7x
+
+Maintaining and enhancing features of Hovercraft Manufacturing System using PHP 7.x.
+
+Designated UI architecture for internal web application and worked with designers to construct,
+conceptual Wireframes and Mock-ups.
+
+Developed page layouts, Navigation's and presented designs and concepts to clients and management
+review.
+
+Working with AJAX data consisting of JSON/XMLMSSONP responses, parsing same and presenting on Ul
+layer, form submissions and DOM manipulation.
+
+Supported android application (QR code scanner) to store and retrieve employee clock In, Clock Out,
+calculating manufacturing hours on each job using PHP 7.x and MySQL DB. Worked with MYSQL
+database and wrote advanced queries by following data fetching optimization techniques.
+
+Worked with GitHub and GIT commands for managing code versions and source code management,
+
+‘3 DEVELOPER INTERN 05/2014 to 12/2015
+
+ECIL | City, STATE
+
+Ma
+
+Interacted with clients to understand their existing applications and design site according to system
+requirements,
+
+Worked with business analysts to understand their business models and goals and help define strategy,
+content, and features.
+
+Developed dynamic and user interactive interface that ensured fast page views rendering time and user
+experience using HTML 5.0, CCS3, JavaScript with jQuery library
+
+Styled existing views using CSS, SASS.
+
+Fetched and stored content using AJAX calls using PATCH, GET, POST.
+
+Developed application level code to perform client-side validation using JavaScript with jQuery.
+Maintained, enhanced, and recommended solutions that best suit business and technology needs from
+Ut standpoint
+
+Implemented cross-platform browser plugins, improving overall website responsiveness and
+funectionatity
+
+ster of Science | Computer Science 05/2017
+
+Indiana State University, Terre Haute, IN
+
+Be
+
+Majored in Web Programming
+Graduated with 3.68 GPA
+
+chelor of Science | Electronics And Communication Engineering 0572015
+
+Jawaharlal Nehru Technological University, Hyderabad, Telangana, India
+
+Majored in Electronics
+Graduated with 3.66 GPA

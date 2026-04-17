@@ -1,0 +1,59 @@
+First Last
+last000@.edu % (123) 456-7891 ¢ City, State ¢ linkedin.com/in/first-last
+
+EDUCATION
+University of State December, 2019
+B.B.A., Dual Concentration; Financial Markets, Economics City, ST
+
+= Student Government — Chair of Congress
+= Voting Member on Strategic Planning and Budget Committee
+o Assist with University direction by ensuring fiscal responsibility and represent student needs and
+concerns.
+= Founder and President of Consulting Club,
+o Student led consulting club helping regional businesses with Strategy and Marketing services.
+= Member of Investment Club
+
+WORK EXPERIENCE
+Small Wealth Management Firm May 2018 — Aug. 2018
+Financial Planning and Investment Intern City, ST
+
+= Increased Investment Advisory AUM by more than $500k through advanced VLookup code.
+
+= Assist with tracking portfolio performance and rebalancing of portfolios on a monthly basis.
+
+= Assisted in transition to new broker/dealer firm by creating a master client spreadsheet using VLookup on
+multiple criteria columns as well as pivot tables making sure we were grabbing relevant and correct data for each
+client from multiple sources.
+
+= Create portfolio models for prospective and current clients in Morningstar.
+
+= Ensure clients were complying with IRS regulations by calculating and taking the yearly required minimum
+
+distribution.
+Transportation Start-Up Jan. 2018 — May 2018
+Business Analyst Remotely
+
+= Understand key business processes of specific industries pertaining to transportation, urban mobility, smart
+cities, and connected car systems.
+
+= Assist with go-to-market strategy and develop relationships with companies to form strategic partnerships.
+
+= Design databases, stored procedures, reports, and data input interfaces using SQL and transfer SQL databases
+into Tableau for visual analysis and presentation.
+
+= Strategic analysis of companies working on Software as a Service and Internet of Things systems within the
+mobility and transportation industries.
+
+= Segment and analyze Venture Capital firms and their investments in the industry supply chain.
+
+Day Camp Job Month Year — Month
+Year
+Program Staff City, ST
+
+* Core responsibility #1.
+* Core responsibility #2.
+
+SKILLS & INTERESTS
+
+* Skills: Morningstar, FactSet, Bloomberg Terminal, Excel and Advanced Excel Code, Tableau, Powerpoint
+* Interests: Working out; Traveling; Cooking

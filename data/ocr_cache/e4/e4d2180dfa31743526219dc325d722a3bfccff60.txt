@@ -1,0 +1,116 @@
+Caroline Keiki
+
+DevOps Engineer
+
+Resourceful DevOps manager with 6+ years of experience, seeking to use solid continuous deployment
+skills to drive efficiency measures at Firmalent. Led Agile team of 7 developers at Fireladder Global to
+slash customer complaints 40% and release times 30%, through guided use of Puppet and Jenkins.
+
+Certificates
+
+AWS Certified DevOps Engineer
+
+AWS Certified Cloud Practitioner
+
+Experience
+2015 - DevOps Manager
+2018 Fireladder Global
+
+* Managed Agile team with 7 developers and 3 system admins to continuous
+deployment of SaaS collaboration software with 1.5 million+ users.
+
+* Switched to pairs programming and GIT version control to boost speed 25%.
+
++ Maintained network of 25+ Linux servers at 99.9% up-time.
+
++ Used Puppet and PRTG to raise quality and cut customer complaints 40%.
+
+* Used AWS and Jenkins tools to slash release times 30%.
+
+2013 - DevOps Engineer
+2015 Peterboro Analytics
+* Led continuous deployment of high-volume SaaS investment tool.
+* Set up and managed 30 Unix servers with 99.9% uptime.
+* Wrote scripts automating security upgrades and cut vulnerabilities 15%.
+* Deployed 2 iterations each month. Raised customer satisfaction 18%.
+* Managed DevOps during a period of 25% revenue growth.
+
+2012 - System Administrator
+2013 Saucier Phair Solutions
++ Installed and maintained 12 Windows 2012 servers.
+* Slashed costs 25% through strategic vendor agreements.
++ Wrote scripts to automate system updates.
++ Worked with team to refine Software Development Life Cycle for better efficiency.
+
+Education
+2008 - BS in Computer Science, Pace University
+2012 * Excelled in server management classes.
+
+* Pursued a passion for security and programming coursework.
+* President, Pace Computing Society. Increased membership 25%.
+
+Additional Activities
+
+* Active Member, DevOps Agile Skills Association (DASA).
+
+* Volunteer as DevOps manager for Dewitt Street Homeless Shelter. Lead continuous
+deployment of online fundraising app, creating 150% boost in donations.
+
+* Participate in weekly cycling group as self-care.
+
+Conferences
+
+2017 O'Reilly Conference. Led session about continuous deployment.
+2015 DevOps at Cloud Expo.
+
+Publications
+
+2017 Article on cloud servers appeared in "DevOps Cube”
+
+2016 Article on infrastructure automation appeared in "DevOpsGuys"
+
+Personal Info
+
+Phone
+
+914-388-4358
+
+E-mail
+carolinekeiki@gmail.com
+
+www
+carolinekeiki.com
+Skills
+Programming
+
+e0eee0e
+Server Management
+
+e000
+Security
+
+e000
+Continuous Deployment
+
+e0eee
+Unix/Linux
+
+eee
+Puppet
+
+eee
+Jenkins
+
+eee0e
+Zabbix
+
+e0eee
+Interpersonal Skills
+
+e0eeee
+Collaboration
+
+e0eee0e
+Critical Thinking
+
+e0eee

@@ -1,0 +1,64 @@
+FIRST LAST
+New York, NY | P: +44 123456789 | first.last@resumeworded.com
+
+EDUCATION
+RESUME WORDED UNIVERSITY Boston, MA
+Bachelor of Science, Information Technology Expected May 2022
+
+Major in Computer Science; Minors in Mathematics and Business Writing
+Cumulative GPA: 3.92/4.0; Dean’s List 2015-2016
+Relevant Coursework: Software Engineering; Programming Fundamentals Using C; Artificial Intelligence
+
+LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE New York, NY
+Study Abroad Program in International Business and Globalization Jul 2018 - Jul 2019
+WORK EXPERIENCE
+
+RESUME WORDED & CO. (8 employee venture-backed recruitment startup) New York, NY
+QA Tester Intern Jun 2021 - Sep 2021
+
+@ Worked collaboratively with QA lead and development team to complete comprehensive testing on 2 major new releases.
+
+e Identified, documented and reported bugs and other issues within the company's proprietary software applications,
+improvising system efficiency by over 75%,
+
+@ Developed documented procedures adhering to compliance standards 2 days ahead of scheduled timelines.
+
+GROWTHSI New York, NY
+
+Software QA Intern Jun 2020 — Sep 2020
+
+e Consistently recognized by the programmers and supervisors for excellent problem-solving and analytical skills, awarded
+with a recognition certificate.
+
+e@ Recommended improvements to software which, once implemented, resulted in improved user experience by 87%.
+
+VOLUNTEERING & UNIVERSITY PROJECTS
+
+COMMUNITY PROJECT Feb 2020
+e@ Led team of 12 members as a volunteer board member for the County Animal Shelter.
+e Planned and organized 3 IT Projects for the programs which were all within at least 10% under budget.
+
+BUSINESS MANAGEMENT PROJECT Jan 2020
+e@ Held a volunteer position for a Meals on Wheels Chapter, developing front-end WordPress site and blog with 200+ pages.
+
+@ Managed online ads to announce regular events and fundraising drives, raising over $75000 in funds.
+
+e@ Worked with 50+ team members to produce creative, efficient solutions.
+
+ACTIVITIES
+RESUME WORDED SOCIETY Boston, MA
+Head of Events Sep 2020 — Present
+
+e Founded the computer science club to organize biweekly sessions for students to discuss new topics and troubleshooting
+ideas, with over 50 members.
+@ Wrote and published minimum 5 IT troubleshooting articles every month.
+
+RWU TENNIS SOCIETY Boston, MA
+Committee Member Jan 2020 — Present
+@ Managed the launch of a new booking system to improve organization of events; a system now used across universities.
+
+ADDITIONAL
+
+Technical Skills: Software Development Life Cycle (SDLC), SQL; Proficient in SQA Tools, C#, .XML.
+Languages: Fluent in French, English; Conversational Proficiency in Italian, German.
+Certifications & Training: Online Course in Software Testing (Coursera), Passed Resume Worded examinations.

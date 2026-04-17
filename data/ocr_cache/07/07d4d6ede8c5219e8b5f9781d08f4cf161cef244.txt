@@ -1,0 +1,93 @@
+RICHARD
+BOYER
+
+NET DEVELOPER
+
+Profile
+
+'m an IT professional
+Net Developer, with expert
+
+velopment, Testing, Maintenan
+implementation of various Client/Server applicat
+
+and N:tier Architecture in Web Application:
+
+Education
+
+BACHELOR OF SCIENCE IN COMPUTER
+SCIENCE IN MATHEMATICS AND PSYCHOLOGY
+
+R Univer: go, IL
+
+‘echnical
+
++ C#. NET, C/C#4, T-SQL, PL/SQL, Java.
+Entity Frame
+
+Work Experience
+
+NET DEVI
+
+CoReference Data Service and Maintenance (RDSM) is an internal
+
+project to provide services for Samsung customers. The project
+
+designs and develops service interfaces for retrieving reference
+
+data from a common user interface for Agents, Call Center and
+
+Online Customers to get the Insurance quote from Insurance
+
+Company.
+
+Duties:
+
+' Interact with Business users to collect the requirements and
+developed a Prototype for the application
+
+= Design and implement the Business Layer/assemblies and
+strongly typed dataset to support the business logic for the GU!
+User Controls process Using ASP. NET.
+
++ Develop the application using VS 2003, Net 1.0, C#. net, MS
+Access, Fujitsu COBOL, and SQL Server.
+
+‘= Participate in various client meetings throughout the SDLC of
+the application
+
++ Work extensively on the Database Design, creating tables,
+
+writing stored procedures in SQL.
+
+NET DEVELOPER
+
+Flint Bank is an American community bank based in Los Angeles,
+California. It provides services like debit cards, credit cards,
+personal loans, business loans, healthcare lending, etc. 've been a
+part of @ developer team. Based on an in-depth risk assessment,
+the platform enables the implementation of complex strategies
+and workflows for credit origination and monitoring. A built-in
+simulation environment allows users to analyze changes to the
+underlying risk models and sustainably optimize those models,
+Duties:
++ Designed and developed Ul and website using JavaScript
+Uibravies like Angularss,
+* Response Ul and website layout is achieved using the Bootstrap
+
+k, Angulards helped in bootstrapping web application
+efficiently without registering callbacks which helped in code
+debugging,
+
++ Effectively used JavaScript and Angulards Library for traversing
+HTMLS document, event handling and AJAX interactions.
+
+‘+ Used custom error handling in Web API to pass proper error
+messages rather than generic error messages to understand the
+
++ Performed Unit testing on the Angulard5 Ul for Performance
+
+Issues and data integration,
+
+Information Technology (IT) Resume Examples here:
+https://resumesbot.com/information-technology-it-resume-exam|

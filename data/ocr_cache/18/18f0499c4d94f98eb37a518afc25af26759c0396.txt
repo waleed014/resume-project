@@ -1,0 +1,63 @@
+Cleopha
+
+Bernatowicz
+Network Security
+Engineer
+
+Profile
+
+Employment History
+
+Details.
+ha bernatowi
+
+(733) 575-8382
+
+Minneapolis, MN
+
+‘Asa Network Security Engineer with over 3 years of experience, Ihave
+2 proven track record of providing secure network solutions to protect
+‘against malicious threats. | possess a strong background in designing
+and implementing various network security solutions, developing and
+deploying security policies, and administering firewalls. My extensive
+‘expertise in security, combined with my strong knowledge of network
+‘management and troubleshooting skils, enable me to effectively manage
+‘and maintain secure networks. Ihave an in-depth understanding of the
+latest security technologies, including inteusion detection and prevention
+systems, vulnerability assessment tools, and encryption solutions. 'm
+also highly skilled in configuring and managing routers, switches, and
+other network devices. Additionally, 'madept at analyzingnetwork traffic
+and performing network forensics. I'm committed to providing effective,
+secure network solutions to enable organizations to protect their valuable
+data.
+
+Network Security Engineer at Symantec, MN
+Dec 2022 Present
+
++ Implemented Symantec Endpoint Protection (SEP) across the entire
+corporate network of4,000+ users, resulting in a 70% reduction in
+malware-related incidents,
+
++ Developed and deployed a new suite of security technologies to
+protect against zero-day attacks, reducing system vulnerabilities by
+‘over 80%,
+
++ Led the development and implementation of a comprehensive
+‘security policy forthe organization, which included the use of
+firewalls, encryption, and intrusion detection systems.
+
++ Created a network monitoring system that identified and addressed
+‘over 500 security threats in the frst two months of operation.
+
+Network Security Associate at McAfee, MN
+‘Sep2020-ct 2022
++ Developed and implemented a security policy for McAfee MN's
+network infrastructure resulting in a 25% reduction in malicious
+attacks over a month period
++ Conducted an in-depth security audit of McAfee MN’s network, which
+identified and addressed 350 vulnerabilities, providing improved
+security forthe organization.
++ Led the implementation ofan intrusion detection system for McAfee
+MN, reducing the attack surface by 40%.
++ Trained and mentored a team of § network security analysts, resulting
+ina 20% increase in productivity over a 3-month period.

@@ -1,0 +1,53 @@
+% (110) 261 1664
+mae@hiration.com
+9 fayetteville, ar
+
+linkedin.com/mae
+
+SUMMARY
+
+MAE ELLISON
+
+Junior Database Administrator
+
+EXPERIENCE
+
+5+ years experienced IBM
+Certified Junior Database
+Administrator adept at
+maintaining database integrity
+and security by developing
+policies and procedures. Highly
+skilled in orchestrating disaster
+recovery by analyzing
+
+performance and tuning data.
+
+SKILLS
+
+Database Integrity & Security
+
+Disaster Recovery
+
+JUNIOR DATABASE ADMINISTRATOR
+LEMON TECHNOLOGIES | Fayetteville, AR | Jan ‘20 - Present
+Database Integrity & Security
+
++ Installing and configuring databases along with security,
+performance tuning, backup, replication, and monitoring
+
+* Developing, implementing and maintaining policies &
+procedures for ensuring the security and integrity of the
+database
+
+Database Troubleshooting & Data Tuning
+
++ Administering disaster recovery while conducting 2 monthly
+performance analysis and tuning of data
++ Monitoring, investigating and troubleshooting database issues
+
+as part of a 10 member Incident Recovery team
+
+DATABASE DEVELOPER
+
+BRIDGE TECHNOLOGIES | Fayetteville, AR | Jan'15 - Dec 19

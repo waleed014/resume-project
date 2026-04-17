@@ -1,0 +1,38 @@
+Charles Loehle
+Web Developer
+
+72600 Castleberry Rd. Apt A2 Cumming, Ga. 30040 | C 770-380-0752 | charlesloehie@gmail.com
+httpsi//cidigitaldesign.com _https://github.com/ciguitart
+
+Experience With
+
+Javascript React/S
+jQuery HTMLS
+css3 Bootstrap 4
+Git/ Github Wordpress
+Projects
+Blog App Exercise Tracker
+hitps://charles-mern-blog.herokuapp.com/ —_hittos:/lexercise-tracker1965,herokuapp.com/login
+MERN stack app where a user creates an account MERN stack app where a user creates an account
+and can create blog posts and commentlike other and save exercise data to MongoDB.
+User's posts. Authentication with json web tokens, ‘Authentication with json web tokens,
+‘express-validator and berypt express-validator and berypt.
+‘Yoga For Pain Relief App Portfolio Site
+hitps://clguitartcithub io/Random-Pain-Reliet-Exe hitps//cldigtaldesign.com
+cise-Generator Wordpress website built from an underscores
+
+ReaclJS app that generates a random yoga
+
+theme and custom ess design.
+exercise to relieve body aches and pains.
+
+Education
+
+Udemy Online Sept. 2016 - Present
+Coursework - ReactJS, MERN Stack, Javascript, JQuery, Wordpress, HTML, CSS,
+SCSS, Bootstrap, Git, Gulp.
+
+Free Code Camp Online Jan, 2019 - Present
+
+Georgia State University Allanta, Ga. May 1999
+Master of Music - Jazz Studies GPA 3.92

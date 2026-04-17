@@ -1,0 +1,57 @@
+KEVIN A. THOMPSON 199 Fortuna Drive * Boston, MA 02111,
+
+888-737-2963 + info@nonwoadconsulting.org
+
+*BUSINESS ENTERPRISE ARCHITECT*
+
+Harness Enterprise Architecture to Ensure a Competitive Advantage for International Corporations
+in Challenging Markets through Continuous Improvements and Integrated Solutions.
+
+Senior business and enterprise architect with extensive experience leading strategic technology framework
+development, capability mapping, and operating rodel development projects for Fortune 500 corporations.
+Successful background partnering with stakeholders to develop architecture frameworks that align strategy,
+processes, peaple, and technology with overall business objectives. In-depth experience establishing best
+practices and guidelines for selecting, developing, and implementing information systems within enterprise.
+Dedicated change agent constantly in search of faster and better ways of achieving reductionsin development
+cycles and waste, and improved integration, crassfunctionality, and standardization of pracesses and services.
+Proven expertise in:
+
+E1 Enterprise and Business Architecture EZ High Performance Tearn Building
+EZ Business Process Engineering 1 Capability Mapping
+
+El Strategic Planning EZ information systems Audits
+
+EIT Risk Governance EI Organizational Design and Development
+
+EXPERIENCE & ACCOMPLISHMENTS
+
+Covipien, Boston, MA 2006 to Present
+
+Business Enterprise Architect
+
+Provided business process engineering guidance to business analysts, business partners, and process
+improvement teams that aligned efforts through a strategic technology framework. Facilitated and directed
+strategy, design, and develaprent of a compary-wide Capability Map with conceptual business process
+landscape. Designed Reference Architecture, Solution Patterns, and standards for Business process and data
+model integration and reuse. Provided consulting and deployment kills for implementing Zachman
+Framework. Identified and drafted standards, best practices, training, and methodology to lead Global
+enterprise towards model-driven analysis, Planned and facilitated process redesign of current SDLC and IT
+operating model to support an Enterprise Architecture madel. Worked closely with Enterprise Life Cycle {ELC}
+team to incorporate new processesinto life cycle methodalogy.
+
+ENTERPRISE IMPACT:
+
++ Implemented Lean Six Sigma Green Belt project ta identify, reasure, and improve reuse. During six-
+month project, development time decreased by 50% and achieved $150K in documented savings.
+
++ Facilitated evolution of Enterprise Reference model and Enterprise Information Services model,
+including conducting process modeling sessions and aligning with data models and build out
+architecture views, Provided viewsta Portfalio owners for Portfolio Rationalization opportunities.
+
++ Provided a stable framework for developing @ business-driven strategic technology framework that
+aligned al IT initiatives and prajectsto businessgoals.
+
+* Designed and built an evolving Organization that aligned Strategy to Results for the ongoing curation
+of Process and Information that aligned to Capability map.
+
++ Loaded and maintained ITIL v2 & 3 model central repositary for reuse and implementation.

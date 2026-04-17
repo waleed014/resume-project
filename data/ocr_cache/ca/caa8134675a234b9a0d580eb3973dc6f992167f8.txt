@@ -1,0 +1,60 @@
+° Somewhere, NJ 01234
+Michael Scott (201) 123-4567
+michaelscott@gmail.com
+
+Full Stack Web Developer www.michaelscott.com
+
+SKILLS
+
+Front-End: JavaScript (React, jQuery), HTML, CSS (SCSS/SASS), Bootstrap
+Back-End: PHP, SQL, Node.js, Firebase
+
+Tools: Git, npm
+
+Other: WordPress, Photoshop
+
+EXPERIENCE
+
+Web Developer and Teaching Instructor: Bergen Blended Academy Hasbrouck Heights, NJ
+December 2017 - PRESENT
+
+Migrated www.bergenblended.com from WIX onto WordPress, updating the site’s appearance and functionality; now in charge of
+administrating the website. Currently developing a private database web app in JavaScript and Firebase for managing student records.
+Additionally, teaches web design and programming courses.
+
+Web Developer and Administrator: BJ Floors and Kitchens Passaic, NJ
+December 2014 — September 2015
+
+Rebuilt an outdated www.bjfloorsandkitchens.com website in WordPress, later administrating the site’s vast inventory of products.
+
+Web Designer and Developer: Jossbox Remote
+September 2014 — January 2015
+
+Collaborated with in-house designers to redesign a Magento-based fashion magazine website, jossbox.com. Using HTML, CSS, and JavaScript,
+updated the site’s appearance, and made it responsive for mobile devices. Additionally, configured Magento’s back-end setup in order to
+dramatically speed up the site’s load times.
+
+WordPress Developer: Abel Attorneys Remote
+
+September 2014 — October 2014
+
+Worked with a partner web developer to create a WordPress website for Abel Attorneys, a reputable law firm: abelattorneys.com.
+
+EDUCATION
+
+Rutgers University New Brunswick - Newark, NJ
+2015 — 2018
+
+Completed 3 years towards a Bachelor’s degree in Computer Science.
+
+PROJECTS
+
+Geosearch Area Statistics
+2015
+
+Uses REST APIs from US Census, Zillow and other services to fetch information about an area: github.com/linktoproject
+
+Feather
+2015
+
+Lightweight alternative to CSS grid systems: github.com/linktoproject

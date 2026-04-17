@@ -1,0 +1,93 @@
+Devonte Lang
+26781
+
+liott Harbor, New York, NY @ Phone: +1 (555) 470 9394
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+TECHNOLOGY LEAD-DOT NET DEVELOPER
+Detroit, MI
+09/2016 — present
+‘* Very strong in C# as development language, .NET framework concepts and implementation and OOPs
+concepts
+‘* Strong in services development and hosting for WCF, ASP.NET Web API
+‘* Very strong in web development which includes ASP.NET (4.5 / 4.6), ASP.NET MVC (4.0/ 5.0), HTML,
+HTML 5, CSS
+Have worked with 3rd-party web controls
+Very Strong SQL Server (includes working with DML, DDL, Stored procedures,)
+Knowledge on front end frameworks like Durandal, Knockout ete
+Knowledge of Client side applications using windows forms, WPF.
+
+SENIOR ANALYST DOT NET DEVELOPER
+
+New York, NY
+02/2014 — 03/2016
+
+‘+ Perform system & data analysis / Performance tuning / Post implementation support
+
+‘* Manage & prioritize day to day individual workload, by monitoring milestones & critical dates
+
+‘+ Provide a high level of responsiveness to ad-hoc requests, “what-if” scenario modeling, & regulatory
+inquiries
+
+‘© Primary technologies: Net 4.0, ASP.NET, MVC, Entity Framework 6, HTML 5, AngularJS, JQuery,
+AJAX, SQL Server, VS.NET 2012
+
++ Analysis / Design / Development / Testing of the application
+
+‘© Utilize project management best practices to track book of work priorities, communicate updates, &
+‘manage projects to successful completion; explain data concepts & challenges clearly to non-technical
+stakeholders
+
+‘+ Proficiency in writing unit tests & using unit testing frameworks
+
+DOT NET DEVELOPER
+
+Boston, MA
+03/2011 — 08/2013
+
+‘Executes development processes for the project such as build automation, unit testing, software
+configuration management and packaging
+
+‘+ Configuration Management: Oversee configuration management processes, resolve issues, and implement
+processes to improve efficiencies
+
++ Escalation Management: identify, manage, and lead escalations via established processes
+
+‘© Work and collaborate with Application and Domain architects in design and client development teams in
+development and support
+
+‘* Work with the team to develop, maintain and enhance the trading platform for all Retail Fixed Income
+products
+
+‘* Maintenance of workflow tasks that are used to control development
+
+‘+ Participate in product envisioning discussions and provide inputs from development perspective for
+shaping up overall product strategy
+
+NORTHEASTERN UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+‘+ Knowledge and solid experience of Agile and XP practices
+‘* Good understanding of all phases of SDLC methodology. Knowledge of Agile methodology will be an
+added advantage
+
+Strong communications skills; good presentation skills
+
+Good knowledge of relational databases such as DB2/Sybase
+
+Good working knowledge of most of the following
+
+Excellent multi-tasking and strong communication skills are essential
+
+Good knowledge of relational databases such as DB2
+
+Knowledge of IS020000
+
+(trong) understanding of applications technology in direct responsibility
+
+‘Commitment to deliver high quality well tested software and to inspire those around you to do the same

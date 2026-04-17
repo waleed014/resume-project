@@ -1,0 +1,128 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+
+‘+ Seasoned Principal Technical Architect and Software Engineer with over 20 years of experience
+
+Accomplished at roles stretching beyond development to business analysis, architecture, design, development, integration, planning,
+
+application maintenance and customer support
+
++ Leading cross-functional development teams both onshore and offshore., Agile scrum teams and handling all aspects of application
+development
+
++ Full life-cycle software development in on-prem and Azure public cloud
+
++ Software design and development with a strong Java, JZEE background and UI Development
+
++ Implementation of Continuous Integration (CI) to setup automated builds and achieve Continuous Deployment (CD) using Jenkins &
+Azure Devops Pipelines, thus achieving CUCD
+
++ Experience using Docker container to deploy Spring boot based Microservices Applications
+
+Hands on experience in responsive design using UI frame works such as HTMLS, Bootstrap, jQuery, and Angular,
+
++ Extensive experience in developing backend jobs using Java, SQL, PL/SQL, Shell scripting
+
+Develop PoCs and Prototypes
+
+Evaluating new technologies and concepts
+
++ Strong communication and interpersonal skills
+
+SKILLS
++ C, C+, Java, Node JS, Python, Sal, PI-Sal, Cobol + Oracle, DB2, Teradata, My Sql, Mango DB
++ Himls, jQuery, Ajax, Angular, ISP + AWS, Azure, Google cloud, HEROKU, DEEP (Palantis)
+* Struts, Spring, Tiles, EJB, IMS, Hilbemate, Express JS, Web * Big Data, Hadoop, IBM Watson API, Bot programming
+Services, REST API + Configuration management
++ Tomcat, Weblogic, Web Sphere, MQ, JBoss * Data extraction
+
++ OOD, UML, Rational Unified Process, Agile, ‘Track, Jenkins
+
+EXPERIENCE
+
+Principal Technical Architect/Software Engineer Developer, 03/2012 - Current
+
+Gwynedd-Mercy College ~ Gwynedd Valley, PA
++ One of the two lead architects who are responsible for managing 130 applications over a period of 10 years.
+‘+ Work with cross functional teams and technical architects to analyze legacy applications and their functionalities and common usage to
+
+develop strategies and architectural road maps for a new Business Logic Framework (BLF).
+
+‘Work with product owners and business analysts to translate business needs into functional requirements, develop software architecture and
+
+‘implement Microservices strategies.
+
++ Create proof-of-concept prototype applications for demonstration and evaluation purposes
+
+Provide guidance and leadership for the application development teams, define and assign development tasks and perform code reviews.
+
+‘+ Designed and developed several web applications and Microservices both on-prem and public cloud environments
+
+‘+ Web apps developed during this temure include from simple /JSP to the latest frame works using Angular, Bootstrap, Spring, Hibernate and
+ete
+
+‘+ Designed and developed micro services, for automating manual process like calling & SMS technicians, ticket creation and assignments,
+using Spring boot
+
++ Implementation of Continuous Integration (CI) to setup automated builds and achieve Continuous Deployment (CD) using Jenkins &
+Azure Pipelines, thus achieving CUCD
+
++ Review Detail Design, Code and test results and make sure they meet standards and be compliant with al the security guidelines.
+
+Created proof-of-concept prototype applications for demonstration and evaluation purposes.
+
+‘+ Database design and writing scripts to extract data from systems like Force, PGDB, Mapping Tool, Air Pressure group, EDW, EHS, CRE.
+
+Collaborated with agile development team to test, develop and maintain web and desktop-based software applications,
+
+‘+ Communicated with and gathered feedback from customers about progress updates and worked to resolve specific concems.
+
+‘+ Conducted full lifecycle software development in multiple software environments.
+
+Consultant/Technical Solution Architect, 05/2010 - 02/2012
+AT&T Business Systems (AT&T Labs EMEA) - City, STATE
++ Responsible for working on the high level design, application design, development and testing of the several high complex applications,
+such as BTRWeb, CSSWeb and AOSTE, within IT EMEA Business Systems organization
++ Technologies used in these applications are Eclipse, JBoss Seam 2.2, Ejb3, Web Services, Web Sphere MQ, Maven, Ant, iTrack, SVN,
+HSQL, Oracle 10/11 and JBoss application server 5.
+
+Development Lead/Solutions Architect, 08/2001 - 05/2010
+Enterprise Application Solutions, AT&T Services — City, STATE
++ Developed applications like Employee Referral Information Channel, Service Ambassador, Video Switching Schedule Software.
+* Directed all software design, architecture and programming.
++ Collected and defined customer requirements to produce product scopes.
+
+Developed proofs of concept for creative new solutions.
+
+Lead the interface design and testing for the automation of billing involving several billing interfaces such as MOG, AOG, ROBOTASK,
+
+CABS and CRIS.
+
++ Responsible for assessing the technical feasibility of technologies like Hibernate, Tiles, JMS, and AJAX and then integrate them into the
+application design.
+
++ Lead Software Configuration Management and disaster recovery.
+
++ Developed production, test and beta websites using various software programs.
+
+* Mentored and developed junior developers and engineers to increase productivity
+
++ Technologies used during this period are Windows XP, RAD 7.5, Change Man DS, CVS, J2EE, Struts, Tiles, Hibemate, AJAX, EJB, JMS,
+
+HTML, JavaScript, UML, Rational Rose, Toad, Web Sphere 6/7, Sonic MQ, Oracle 10/11, IBM AIX, HACMP and ITUP & PRISM.
+
+Programmer Analyst, 08/2000 - 08/2001
+Reuters ~ City, STATE
++ Design, Development & Testing of Web application called Portfolio Manager using Java, Applet, Servlet, JSP, HTML, XML, WML, WAP,
+XSL, Web Logic, Orion 1.4.5, Oracle, Sybase, Sun Solaris
+
+EDUCATION AND TRAINING
+
+‘Master of Science: Computer Science
+Georgia Institute Of Technology - Atlanta, GA
+
+Bachelor of Science: Engineering
+Osmania University - Hyderabad

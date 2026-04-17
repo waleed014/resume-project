@@ -1,0 +1,246 @@
+PROFESSIONAL
+
+WORKHISTORY
+
+eoucanoN
+
+Jessica Claire
+
+(© montgomery Steet an Francisco, CASE105 (555) 432-1000 a resumesanple@eranple com
+
+ager Pinon Oang develope i 7 eas exlotng node enpate-ewarchetral pater of ng
+tranevorkto ston development tes and reoicedesgn cos. Species in creing accessedaa-
+‘Sen web assets, Keen o app expanse developer nowedpeoaeve stein! Pon Pres
+
++ Frameworks - ange, Flak Pyamd, sping + Databases - race, MySOL. SOL. Nang208
+
+sana oss bootrap + operating Systems inns, ac 08K
+
++ Programming Languages -Pyton, Sal. PL” Ubuntu, Rea hat ni
+
++ Web Teemnologles-HTIL.CSS,008, Deployment Tole Jnn, Herons
+vascrpt Overy ASX IL, WorPress Sie Mackers JRA VSTS:
+
++ Version contrat: cid
+
+1 pyion Ubrares -NunPy Matos, Pandas,
+
++ IDEs!Development Tees -PyCham, Susie
+Tox apse
+
+PYTHON DEVELOPER 2017 CURRENT
+
+Infosys td seotsae, AZ
+
+‘+ Response for Desn and mantenance of atabases using Python, Developed Pinon base APIS
+(RESTIU Vib serves) By ung Flask SOL ACCeemy and PostgreSOL
+
++ Designed test cases and test plans ad developed anenGeddedsotare data cre est automation
+rameworkin UnuePyon
+
++ Developed an atonomousconinvusinegraten system by using Gt. Ger, Jenkins, MSL. ana
+custom os develpedin Pen and Bash,
+
++ Develop wed conponents by using JSP. Sent under.2EE Enwonment ana mplemeriesSecurty
+testes forte ae
+
++ ioe tn varus pynon trae Clie as Pandas ana apo for aay ana manuton ot
++ Wrote Pynon serps pase ana naa ne ata he database, fom he ML and JSON es, ant
+woe programs perfomance cacusters by using NunPy ana SOL ACES
+
+Designed ana geveloped asjnClareronous messaging s)tens using US, NDB, an Ma Sees.
+
+sed SOL tools me SOL Aare and Geo ACareeny
+
+sed Anaya yon Ura ePandas ana ump ewok on Data Mansons.
+
+‘Documented te entre but ad deployment process cuang dea step top nstuctons.
+
+\Wote yon seis parse an CSV documents oad te alan database
+
+Used REST based mcroseryces wh REST template based on RESTI APS and designed, developed
+
+tne Uo the cant westes by using MTL, CSS, very ant Reacts.
+
++ Designed ang deveoped he presentation ayer using HTML. CSS. JavaScript, avery and AAK
+
+{Wome on Aut tanewon io wanstorm Dales ana Data lables no HTTP. Senalzale JSON stings
+
++ Sten wore on Amazon Web Sercs ke S8, Cua Wale, AP Gateway Step Functons,
+
+Response fr bulging Scab astovied dala solitons sing Hadoop.
+
+Used Spar AP ver ClouderaHadoop YA perm anaes on aaa He
+
+‘Mgfated ne Ojangocatatase rom SOL to MySOL to PosgreSOL wih complete ata neg
+
+‘eat wi ange daze by ung Pandas aaa rames ana MSO. and peromed dynamic
+
+Inplementaton of SL sener wok onthe wet usng SOL developer to,
+
++ Deployed te project nto te Jens Server, and oganaed te canigurabens and vert othe
+038 using SYN version contol stem
+
++ Used AS or appeaton deployment and configuration Responsible for sting yp REST AP using
+Django
+
++ Buran iv and RED'S server fost he data an prfomes eect ans an iteration wih
+Busines Users ding UAISTT
+
++ ancient sige valatons sng JavaSerp and designs EE components of he REST WED
+Serves and Clareealed appcan in UM. based on Java baCle os
+
++ Designed, developed. mplemees ard maniainesScubns for sing Docker Jenks, Gt and
+Poppet ox racrosenies ana conto sepoyment
+
+‘+ mpemented ne ut testing by using Pyton Unt test ramework
+
+1 Oesupgeaapeeatons using Feb 1 averse e documents an mange ne nodes using
++ Sperienceain performance tuning of Span Appcstons or sting Hh BCE nea ne comet
+levelot Param ana menor tuning
+
++ Opting ot exsting aborts m Hadeop using SparkConet Spark SOL, Data Frames and Par
+ROD.
+
+1+ mplemente ELK (ast Searciae Log sash, Kbana) tack cobect and analyze the logs produced
+by ne spark chistes
+
++ Pefome nace preeaues tito ens an possi ge nen cmeng
++ Spenenceain nang age catasets using Parsons, Sparkin Memory capabites,Broascass a
+Spark Efecve& een ons, Tanstomatons and ane aurngingeston process Rt
+
+PYCMON DJANGO DEVELOPER 072016192017
+
+Infosys td Somerset, a
+
++ Developn'uspertng productonenvtcement ana ftovngcganatonl tends in C1CO, Devons
+and DevSecops in rar to mature and coranuty prove MSO serves
+
++ Spenence warn wan Bp Data and exposure toasted cutg plato tke Hage.
+
+{+ Gamenng project requrenens ae developed tats and case cases en Scala and plemented
+basins og by using Scala ana Pyspark guage
+
+‘+ mplemente cuCO process on Apaciae Arto tna and DAG by bulng Aow Docker mages
+by Docter-Compose and usoading o Jog atacand aepoyent tough ANS ECS cuter
+
++ Wome on Arte pertmance tne of DAG aa ak stance
+
+‘Worked on Atow scinreeaur (ee) ana wore setrg mn aoc He
+
+1 createiooke and custom opertr operator vl seneenggeflesn 9 and start ta ppetne
+process.
+
++ mpementes une Data ppetne OAG's and ianenance DAGS in Ao erciaeestraton.
+
+1 Response or Desgn ana maintenance of databases ung Python. Developed Pinon bases APIS
+ting databases be Grae, Neeza ana PosgreSQL
+
++ mpementedPertrnance tuning spark esting and marke ob processing wing Spark apace
+Meter and resiedDasnboars using Grafan applcaono iw Rests
+
++ Rested up-to posucton enone
+
+{Developed an plemented BtCare processing of daa sources using Apaciaree Spank? 2x
+
+1 Developed scala cove to connect Ai 88 bucket Reading an wring dala SataSpars,
+
+{cleus mgraon development rom netezza alaase to AS cous serves.
+
+‘+ Contgung cer onsgraton paraetes as per data processing pe command ma cistr mode.
+Perlomed ting tectarenques to teter perfomance Spars
+
+‘+ ‘censgunn and Sting up Aion caps 3s er requirement run cur spark conmandsin abo
+patel ana sequential,
+
++ Creating joo ow ung Arion n Pon anguape and automating js Atow wi nave separate tack
+fer depcjing Oops on a wt un son EMR or EC2 ester
+
+‘+ mplementes nus sandra Devops els CUCD Yentns),GoCO, Gt Maven, Grade, caret,
+Poppet Docker Kberetes on lent poets
+
++ Wome on conerig mutple Have poet to spe Grae project wih designed woos o
+avomate bu process. Developed ava cass to scala cass.
+
++ Rest ripening Hp Rete ogame no Spa anomatswigSparand
+
++ Wont on oagng CSW/TXTAVROPARGUET tes using SeattJavalanguage Spank Framework and
+process dla ycreaing Spark Oala ame and RD and save en parguet format HOFS tolaad
+Infact tae using ORC Reader
+
++ Develops ve Query Language er ata anaes
+
+‘+ Wirked on data pipeline using Sqop, and Pi to erac daa rom wetogs and store a HOFS,
+
++ Developed vaousPyten scp to vuerabaes wih SAL Guenes by dig SAL econ,
+persion Claeecks and peremance ans
+
++ tena ty Sein meetings er updates Hanaing mate applzatons wn aterent
+teciarendioges.
+
+Bank oF America Corporation |i, SATE
+
++ Spenencean nang age dalasets uig Parsons Sparkin Memory capabies,Broagcass a
+Spark Efecve&ecent ons, Transtomatons and ane aurng ingestion process et
+
+ores exes th Bootstrap, JvaSenp. ana aver to opmce te user expeence.
+
+‘essed ans developed the Uo! he webste seg HTL, CSS and JavaSerpt
+
+Renee exsngPyner0jango modest deter certain oma of ta
+
+‘Desrned ana developed a data managers stem usin MySQL
+
+Responsble or debuping the project manfores on JA (ge).
+
+‘sed Django Database APS to access database objets
+
+Developed pyton Sop o pase MAL docunen’s andcad he data he catabase
+
+Handed ae cent se vtoaton using Jaascrpt
+
+‘sea Pon and Ojango to ntetace win Ie JQuery U and manage te storage and aeeton ot
+
++ Used Seen Lira owe uty uncon test automaton proces tha towed he maton of
+subting aerer requests om mutpe browses tote web appicaon
+
++ Uses Queer ace se Jv Sept mansion
+
++ Developed entre font end and back end modules using Pyton on Ojango Wed Framer
+
++ Ives development of We Series wing SOAP for sending and geting data em ne eel
+
+Bu ceveogmentenucment wth RA, Slash
+
+Invveain debugging and woulesnootng te web appicatons
+
+Invteaia development using Python, 8 fang and un testing oe aout commands.
+
+‘eat wt ne deveepment of parsers fo haning JSON. AML espenses and ANB Bhan and were
+
+‘wns (va messaging seme) for ayrctweronus cannon
+
++ UseaPandas Ato pute data as me sves, ra abr format for east testa cata
+manipten andrea
+
+Putten ang Consumed Contract SOAP web services and developed corresponding est cases
+
+\Wored on JS components fr aynciareronous messing.
+
+‘Desgned and developed the Uo wetste seg HTML, LAK, CSS, ana Javascript
+
+Perlom debuggng and tobleshocing he web appcatons ung Subversion version contol toto
+
+‘cordate eareveopment
+
+‘+ Enutnment: rion 17. jango, Cr. Java Jv. MSL, rade 109.19, Umut jane, Ese
+‘hex Sepg, MIM, TUL, SVN CSS, Bupaa, Jvasergk ApaCiae We Sener
+
+Master of Setonce | Computer inomaton Techlogy and Electcl Engineering Tectnoogy «2017,
+Pura university. inion, USA
+
++ 9709
+Be helor of Selene ctl Engineering Tennogy 2014
+
+Jaana er Technological Univer, Kakinad, naa
++ 38m

@@ -1,0 +1,79 @@
+ALENE KLING
+
+3651 Kiley Crest, Detroit, MI + +1 (555) 810 9526
+
+‘WORK EXPERIENCE
+
+SENIOR DEVOPS AUTOMATION ENGINEER 01/2017 - PRESENT
+San Francisco, CA
+‘+ ‘pick the right tool for the job’, understanding that less is more
+
+‘+ Establish technical architecture for client's cloud environment that addresses security, reliabili
+
+availability, capacity, latency, and other
+
+non-functional concerns
+‘+ Can use tools including: git, ansible, Jenkins, maven, artifactory, lagom, ete
+‘+ Development of process automation in PowerShell and BASH
+
+‘+ Development of graph database applications in Python and Neo4J
+
+‘+ Process automation in SCORCH or similar tools
+
+‘+ Continuous environment monitoring for application health, performance, and security
+
+DEVOPS AUTOMATION ENGINEER 05/2012 - 11/2016
+Los Angeles, CA
+
++ Use technical expertise and experience to evaluate industry technologies and assess practice relevance
+
+‘+ Experience with automation frameworks such as Puppet, Chef, Ansible, or others,
+
++ Testing automation design and support using seripting and other tools
+
++ Experience designing and installing routes and switches,
+
++ Install, configure, maintain, and replace network hardware and software
+
++ Experience with VMware's vCloud Automation Center
+
+‘+ Continue to transform the network into automation using python scripting and network management/orchestration tools
+
+‘+ Leverage python scripting, network management and orchestration tools to automate the transformation of the network
+
+SENIOR DEVOPS AUTOMATION ENGINEER (06/2007 - 01/2012
+Philadelphia, PA
+‘+ Make consumption of data easier by automating the tasks that connect network tooling, scripting, and databases through the use of
+
+standardized formatting, container orchestration, API automation, and automated security
+
+‘+ Assist in building reusable methods for detecting network issues and potential outages before they impact customers
+
++ Lead and contribute to complex projects across multiple work groups to improve network automation, verification, and reliability
+
+‘+ Automate using Ansible and Python the configuration, installation and deployment set up of many systems within Cloud Services
+including the monitoring system
+
+‘+ Automate setting up and using those systems for customers
+
+‘+ Integrate the automation procedures to existing or create new operational procedures for ease of deployment and maintenance activities
+‘© Optimize the Cloud Services systems to facilitate the operations
+
+‘+ Implement the PCT recommendations on the systems if required
+
+EDUCATION
+CALIFORNIA STATE UNIVERSITY CHANNEL ISLANDS, 2001 - 2006
+Engineer's Degree in Computer Science
+PROFESSIONAL SKILLS.
+
+‘+ Strong Linux administration skills and hands-on programming experience
+‘+ Multitasking and effective time management/prioritizing skills
+
+‘+ Experience in database design especially SQL including skills in triggers, loops, constants, variables and sequences
+‘+ Strong scripting and development skills in Python (knowledge of Per!)
+
+‘+ Strong interpersonal, time management, project management, and conflict resolution skills
+
+‘+ Great organization skills to balance and prioritize work.
+
+‘+ Building, maintaining, and leveraging relationships as well as expert level verbal and written communication skills

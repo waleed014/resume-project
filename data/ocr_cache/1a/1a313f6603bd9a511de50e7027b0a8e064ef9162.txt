@@ -1,0 +1,95 @@
+EDNA
+HEIDENREICH
+
+EXPERIENCE
+
+Predovic, Dickinson and Watsica
+
+05/2019 - present
+
+Chicago, IL Senior ETL Developer / Admin
+
+Murazik-Russel
+
+Analyses customer requirements, improving performance on
+existing scripts /process/procedures, and document detailed
+user requirements and program functions
+
+Monitors database performance, support application users,
+determine cost of database changes, and train team members
+on applications
+
+Coordinates the work of others to develop, test, install, and
+modify programs and establish physical database parameters
+Knowledge and interest in computer systems and the latest
+technologies
+
+Significant experience in the software development lifecycle,
+with experience delivering within DevOps toolsets/practices
+
+09/2012 - 02/2019
+
+Chicago, IL Mid-senior ETL Developer
+
+Direct experience utilizing software testing performance tools,
+such as Junit
+
+Significant experience with scripting languages, such as Java,
+Python, Bash
+
+Experience with development using Amazon Web Services
+(AWS)
+
+Experience operating in a SAFe framework
+
+In depth experience with NiFi and Elasticsearch
+
+Strong working experience in data warehouse design -
+dimensional modelling and data mining
+
+Great understanding of ETL and online analytical processing
+(OLAP) framework
+
+Inquiring mind with a problem-solving attitude
+
+Experience working with design and coding languages
+Experience working with system design principles
+
+246 Boyle Lights,
+San Francisco, CA
+
++1 (555) 211 7755
+
+EDUCATION
+
+Academy of Art University
+Bachelor's in Computer Science
+
+SKILLS
+
+Azure Data Factory experience
+Experience with Dynamics 365 and
+Power Platform
+
+Responsible with project budget and
+deliverables
+
+Developing ETL solutions
+
+With SOL
+
+Proven ability to deliver in a fast paced,
+complex technical environment
+Communicate with Technical and Non-
+Technical resources clearly
+
+Work as part of a scrum team in an
+agile environment
+
+Deliver high quality code on time
+
+Teach junior developers
+
+Collaborate with other teams to ensure
+the delivery of a high quality product
+Asp. Net / MVC skillset

@@ -1,0 +1,86 @@
+Robert Smith
+
+Senior SQL Server / BI Developer
+
+PERSONAL STATEMENT
+Senior SOL Server /B Developer with over 6+ years of strong experience in
+the Manufacturing domain as a SOL Server Developer (S515, SSRS), Tableau
+Desktop and Server with sound business analysis sks. Good knawledge in
+all phases of sofware Development Life cyde (SDLC}, Good knawledge in
+Designing, Bullding Dimensions, Cubes with Star Scherna and Show-Flak=
+Schema using SQL Server Analysis Services (SSAS),
+
+WORK EXPERIENCE
+
+Senior SQL Server / BI Developer
+‘Atrium Corporation - | May 2015 - Present
+Responsibilities:
++ Developing SOL programs and stored procedures as required for the ETL
+processes and data integration activities.
++ Building and maintaining SQL scripts, indexes and complex queries for
+data analysis
++ Planned, designed and implemented application database code objects,
+such a5 stored procedures, functions and views.
++ Creating complex SOL scripts using joins (inner and outer), CTE and
+derived table,
++ Working on functional design, system analysis, the gathering of user
+requirements and maintaining good documentation
++ Extensively using joins, stored procedures and sub-queties to simplify
+complex queries involving multiple tables
++ experience on normalization and de-normalization of existing tables for
+faster query retrieval
+
+SQL Server BI Developer
+‘ABC Corp- 2012 - 2013
+Responsibilities:
+Made the package dynamic by creating project parameters and passing
+into the expression on visual studio 2010.
++ Wotked on file system task to renamne the source files once it has been
+loaded into tables,
++ Interacted with business analyst, subject ratter experts and
+stakeholders to understand their needs and provide solutions by writing
+Sol objects.
++ Developed Ssis packages using SOL Azure database and used SQL
+‘Azure database to connect to Power
++ Maintained the historical data in data warehouse used ETL to implement
+the slowly changing transforrnation,
++ Created ETL SSIS packages both design and code to pracess data to
+target databases.
++ Created SSIs package to export and import data From SQL server to text
+and excel files and configured SOL mail agent for sending autornatic
+emails
+
+(© The Etae Resume Template le the copyriht of Qwikresume.com, Usage Glens
+
+CONTACT DETAILS
+
+1737 Marshville Road,
+Alabarna
+(223)-456-7899
+
+Infog quikresume.com
+wow.qwikresume.com
+
+SKILLS.
+
+Ms SOL server Access,
+‘Query Analyzer, OTS,
+SOL Profiler, Excel, Word
+
+LANGUAGES
+
+English (Native)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+climbing
+Snowboarding
+Cooking
+Reading
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

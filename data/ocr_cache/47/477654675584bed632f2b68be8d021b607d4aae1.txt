@@ -1,0 +1,69 @@
+Shelli L. Ciaschini
+‘Shelby, NC 28152
+2 (708) 652-5150
+
+sclaschini@aohcom
+
+sunmaRy
+tated and ambtious Database Developer wth advanced experience using SQL Server
+Management Studio 2005 ané Visual Staso 2005, 1 am capobie of easing and worng wih 2
+team as well as individually Ihave the ably to aceomplsh asks under minal soperdsion and
+‘irecton, Hara worker with 2 desreto use updoted SQL shils nthe ld te assist with achewing
+‘goats and objectives
+
+‘Tecunrcat sxnues
+Programming Languages:
+Tronact S00 ML, COBOL 37, MVS/ICL, SQL, QM, HTML, HHTML,CICS(trained)
+
+Microsoft Technologies:
+SQL Server 2005 Reporting Serves, Access, Word, Excel, Power Point, VB.Net
+
+Databases:
+Mierosaf SOL Server 2000/2005, 082, VSAM, TSO/ISPF, ENDEVOR, STARTOOLS, SYNCSORT
+
+Operating Systems:
+‘Windows 98/2000/XP, Windows Server 2003
+
+Somware:
+SQL Server Management Studio, Microsoft Visio, MleosaR Offs, Oatabase Engine Tuning Advisor,
+SQL Server Profier, ColGen 6.0 workstation, Joomla, Dreamweaver 8, Fash 8
+
+‘SetFocus, LLC. Shetby, NE 8/08 11/08
+SQL Server Masters Program
+
++ Created numerous simple o complex queries involving selon, correlated subqueries and
+Sot techniques for dverse business requirements Tuned ah optimized queries by aleing
+Gatatase design, analyzing diferent query options, and indesing statepes.
+
+‘+ Aspareota team, analyzed the business Yequlrements and systematically designed 3
+‘Giabase fr an onine-movie (OVD/Biu- Ray) rental cmpany. Employed best practices in
+{eating a complete schema Including tables, relabonships, sored procedures, views,
+‘astered nd non-eastered ines and tigger, ane implemented the mperation snd
+‘portton of data using XHL and SSIS
+
++ Asipart of a team, crested various reports according to the business requirements forthe
+‘movie rental company, Indvigvaly authored, insted, deployed and managed reports
+Using SQLServer 2005 Reporting Services fora rary database.
+
+“+ Thavidaly desgned a bank application according to busines requirements, and
+Imolemere rebut ore prcedres, incon, and ingest plore regres
+
+‘+ Developed a backup and recovery plan based on the data avaabityrequrements of the
+\rery and on the potent! impact of dats lose on te business ater conaderng snd
+anaiying the diferent backsp and recovery statis,
+
+‘+ Designed database maitenance plans to setup core maintenance tasks to make sre that
+the database performs wel regulary backed up tease of system fre and checked
+foc neonastencies
+
+‘+ Employed the Database Engine Tuning Advisor to analyze the performance effects of
+‘noniands and implemented fe recommendations wherever approprate
+
+‘+ Used the SQL Server Prfie too te monitor the performance af SQL. Server ~ parulariy
+‘analyze the performance of the stored procedures
+
+«+ nalaed diferent high avalabity solutions ond implemented database miering and
+‘repletion.
+
+1+ Report ofa team, estabshed securty pole using windows domain gccounts and
+Implemented a scanty strategy to protec against tveats and tacks.

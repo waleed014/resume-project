@@ -1,0 +1,106 @@
+Dulce Kuepper
+
+Informatica Etl Developer
+
+Profile
+
+Diligent Informatica ETL Developer with 1 year of experience in designing
+and implementing data integration solutions for diverse industries. Proficient
+in Informatica PowerCenter tools, SQL, and data warehouse concepts, with
+
+a strong ability to deliver high-quality work on time. Adept at collaborating
+with cross-functional teams, identifying bottlenecks, and optimizing data
+processing for improved efficiency. Seeking opportunities to leverage
+technical expertise and problem-solving skills in a challenging environment.
+
+Employment History
+
+Informatica ETL Developer at Hawaii Pacific Health, HI
+May 2023- Present
+
++ Developed and implemented a comprehensive ETL process that
+increased data processing efficiency by 35%, resulting in more accurate
+and timely insights for decision-makers at Hawaii Pacific Health.
+
++ Successfully migrated and integrated over 50 legacy systems into a
+centralized data warehouse, reducing data redundancy by 80% and
+significantly improving overall system performance.
+
++ Led a team of 5 developers to redesign and optimize the organization's
+data extraction, transformation, and loading processes, resulting in a 25%
+reduction in time spent on data preparation and a 20% increase in data
+quality.
+
+* Collaborated with cross-functional teams to develop custom Informatica
+solutions for complex data migration projects, leading to a 90% success
+rate in meeting project deadlines and a 15% increase in overall customer
+satisfaction.
+
+Junior Informatica ETL Developer at Booz Allen Hamilton, HI
+Sep 2022 Apr 2023
+
+* Developed and implemented ETL processes for a major client, resulting
+in a 40% reduction in data processing time and a 30% improvement in
+overall data quality.
+
++ Streamlined the data integration process for multiple projects, leading to
+a 20% increase in efficiency and a 15% reduction in project completion
+time.
+
++ Successfully migrated legacy systems to an Informatica ETL platform,
+leading to a 35% reduction in maintenance costs and improved system
+performance by 25%.
+
+* Trained and mentored four new team members on Informatica ETL
+development best practices, contributing to a 10% increase in overall
+team productivity.
+
+Certificates
+
+Informatica PowerCenter Data Integration Certification
+Dec 2021
+
+@ dulce.kuepper@gmail.com
+% (970) 959-0494
+9 123 Aloha Lane, Honolulu, H196815
+
+Education
+
+Bachelor of Science in Informatica
+and Data Integration at University
+of Hawaii at Manoa, HI
+
+Sep 2018 - May 2022
+
+Relevant Coursework: Database
+Systems, Data Warehousing, Data
+Mining, Big Data Analytics, Data
+Integration Techniques, Machine
+Learning, Artificial intelligence,
+Information Retrieval, and Web
+Technologies.
+
+Links
+linkedin.com/in/dulcekuepper
+Skills
+
+PowerCenter
+
+Data Integration
+
+MDM (Master Data Management)
+
+1DQ (Informatica Data Quality)
+
+B2B Data Exchange
+
+UICS (Informatica intelligent Cloud
+Services)
+
+Big Data Management
+
+Languages
+
+English
+
+Indonesian

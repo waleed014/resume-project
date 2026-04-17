@@ -1,0 +1,108 @@
+Peter Connolly
+
+Full Stack .NET Developer
+
+@ johnsmith@email.com 9 New York City
+
+SUMMARY
+
+Experienced Full Stack .NET Developer with a passion for games
+and creating connected experiences. Skilled in JavaScript
+(ReactJS), ASP.NET MVC, and C#, with a solid background in T-
+SQL and source control. Knowledgeable in Agile software
+development and web security best practices. Strong
+communication skills and a team player. Excited to work with
+Rockstar Games on bleeding edge technology.
+
+EXPERIENCE
+
+Full Stack .NET Developer
+
+ABC Corp
+
+@8 2018-2021 9 New York City
+
+Developed front-end and back-end applications for clients in various
+
+industries. Collaborated with clients and team members to deliver high-
+
+quality products within deadlines.
+
+* Designed and developed a responsive website for a restaurant client
+resulting in a 30% increase in online reservations.
+
+* Created a mobile app for a fitness client that allows users to track their
+workouts and progress resulting in a 25% increase in app downloads.
+
+* Implemented source control using Git resulting in a more efficient and
+streamlined development process.
+
+Software Developer
+
+XYZ Inc
+
+@8 2015-2018 9 Boston, MA
+
+Developed and maintained software solutions for clients in the healthcare
+
+industry. Collaborated with team members to ensure high-quality
+
+deliverables.
+
+* Developed a web application for a healthcare client that tracks patient
+data resulting in a 50% decrease in data entry errors.
+
+* Created a data visualization tool for a pharmaceutical client that allows
+users to easily analyze and interpret complex data resulting in a 40%
+increase in user engagement.
+
++ Implemented automated testing using Selenium resulting in a more
+efficient and reliable testing process.
+
+www.enhancv.com
+
+STRENGTHS
+
+ja Problem Solving
+
+Resolved complex issues to enhance
+application performance by 40%.
+
+5 Collaboration
+
+Collaborated with cross-functional teams
+to deliver projects on-time and within
+budget.
+
+W Innovation
+Introduced new development tools and
+
+methodologies that streamlined workflows
+and reduced time-to-market.
+
+SKILLS
+
+ReactJS
+
+ASP.NET MVC WebApi
+Perforce
+
+Agile software development processes
+
+Web security best practices
+
+ACHIEVEMENTS
+
+fo} Project Delivery
+
+Successfully led a team of developers to
+deliver a high-traffic e-commerce website
+within a tight deadline.
+
+5 Technical Expertise
+
+Developed and implemented an automated
+testing framework that reduced testing
+time by 50%.
+
+Powered by (CX7 Ennancu

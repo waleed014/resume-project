@@ -1,0 +1,80 @@
+Demond Reichel
+
+179 Dayonte Burg, Chicago, IL @ Phone: +1 (555) 969 9084
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR ASP.NET DEVELOPER
+Boston, MA.
+06/2014 — present
+‘Provide support and documentation to assist in sustaining the project during the transition to production
+where necessary
+‘+ Lead development of core application components; full software development cycle technical
+analysis/technical design/implementation/testing/deployment
+Mentor junior developers
+Generally work is self-directed and not prescribed
+Leverage communication between developers (guide-by-example)
+Works with less structured, more complex issues
+Assist with root cause analysis to build long-term solutions
+
+ASP .NET DEVELOPER
+
+‘Houston, TX
+11/2011 - 05/2014
+
++ Performs a variety of tasks. May provide consultation and knowledge transfer
+
++ Typically reports to a Project Manager or Project Lead
+
++ Reviews, analyzes, develops, and modifies computer applications
+
+‘+ Participate in the redesign of government health web site using modern web development technologies and
+techniques
+
+‘+ 2years of working with and knowledge of Model-View-Controller software architecture
+
+‘* Designs, develops and maintains a set of enterprise class web applications in ASP.NET technologies ~
+both frontend and backend (jQuery, AJAX, ASP/HTML, CSS, C#, SharePoint)
+
++ Follow best software development practices to ensure high quality product
+
+ASP.NET DEVELOPER
+‘Chicago, IL
+01/2005 — 09/2011
+© Working with Microsoft Entity Framework and SQL Server to maintain and enhance data Framework
+‘* Define development tasks and provides time estimates to aid in scheduling. Monitors progress against
+task estimates to provide status
++ Develop and support application systems in accordance with established standards and processes,
+‘* Developing and maintaining web based applications written in traditional ASP.net and MVC4 as well as,
+heavily utilising Windows Workflow Foundation
+‘* Opportunity to work with Tech Development teams in EMEA and NA
+‘* Propose and introduce technical solutions in the area of responsibility, perform work breakdown,
+estimates
++ Stay current with technology trends and developments in the industry and participate in service
+development
+
+BALL STATE UNIVERSITY
+Bachelor's Degree in Computer Science
+
+Can create robust user friendly web front end pages
+
+Familiar with Microsoft IIS Server
+
+Familiar with WCF Service client calls for data processing or data acquisition
+
+Understand Cookies and Secure Cookies
+
+Debug skills for HTML, JavaScript, and VB.NET/C# code
+
+‘Create SELECT/UPDATE/INSERT statements to be able to successfully manipulate database data
+SQL debug skills
+
+Understand cursors and temporary tables
+
+Understand database normalization
+
+Understand Inner and Outer joins to tables

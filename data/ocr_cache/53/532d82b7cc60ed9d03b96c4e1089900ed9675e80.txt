@@ -1,0 +1,60 @@
+ROBERT SMITH
+
+Asst. Senior Network Security Engineer
+
+Info@quikresume.com | https://Qwikresume.com
+
+7+ years of experience in routing, switching, Network design, troubleshooting
+and implementation of complex netwark systems Network security including
+NATPPAT, ACL, VPN Concentrator. Implemented traffic filters on CISCO routes using
+Standard Access List and Extended Access list. Experience on NAT/ACLs AAA,
+Layer 2 Security, Layer 3 Security, |P5/IDS, Cisco (ASA, PIX) 5510, Experience in
+designing, Implementing and Managing LAN, WAN solutions for different client
+seups
+
+OCTOBER 2013 - 2020
+
+ASST, SENIOR NETWORK SECURITY ENGINEE!
+
+= COMCAST
+
+CORPORATION
+
+Monitoring and Managing the Firewalls (Checkpoint Boxes, Nokia, Cisco ASA,
+Juniper), VPN Devices and Routers a total of over 1900 devices,
+Troubleshooting the Firewalls, VPN Devices and Routers.
+
+Adding rules to firewalls and routers
+
+Managing URL Content Filtering on Websense Proxy.
+
+Adding exemption, editing policy groups on Websense Management Server.
+‘Adding/removing ARM bypass rules on Websense appliances.
+
+Providing Incident response analysis and support
+
+9 - 2013
+
+SENIOR NETWORK SECURITY ENGINEER - DELTA CORPORATION
+
+) Developed cost-savings Initiative and risk assessment related to recurring
+maintenance agreements far infrastructure systems and software resulting
+
+6 Project manager responsible for designing and implementing solution to
+deliver internet connectivity and fault tolerance via siteto-site VPN,
+
+9 Designed and deployed Cisco Wireless Control System (WCS) in conjunction
+with ten 4400 and 5500 series Wireless LAN Controllers to support 400+
+Security solution provided compliance reporting as well as reducing wide area
+network recurring costs by [] per year.
+
+Troubleshooting and configuring Cisco Routers Cisco Switches, Cisco ASA,
+Brocade ADX. F5 Devices and delivering the service to the customer ina
+quot
+
+Solely managed an enterprise firewall consulting queue for use by Bank of
+Americas business units worldwide Provided perimeter security engineering
+Thisis Dummy Description data, Replace with Job description relevant to your
+current role.
+
+(0 Tis Free Resume Template the copyright of Quine ane com, Usage Gublines

@@ -1,0 +1,107 @@
+PROFESSIONAL
+PROFILE
+
+QUALIFICATIONS
+
+RELEVANT
+EXPERIENCE
+
+EXPERIENCE
+
+EDUCATION
+
+AFFILIATIONS
+
+CERTIFICATIONS
+
+SKILLS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA94105 2 (555) 432-1000 4 resumesample@example.com
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales
+professional with track record of driving increased sales, improving buying experience and elevating company
+profile with target market,
+
+‘+ Macintosh, Windows, Vista, DOS
+
++ PROGRAMMING LANGUAGE
+
++ MOBILE DEVELOPMENT *C, C#, Java, Swift,
+xCode
+
++ ios
+
++ WEB TECHNOLOGIES *HTML, ASPNet, CSS,
+‘ADO.Net
+
++ DATABASES
+
++ TOOLS AND TECHNOLOGIES *SQL Server
+2010
+
++ SAP B1, Star UML, Vensim, Eclipse, Tableau,
+Visual Studio 2010
+
+SAP B1 CONSULTANT 01/2014 to 06/2014
+AYURVETLTD | City
+
++ Queried SAP Database, examined SAP data, developed weekly reports, and analyzed trends of
+approved clients
+
+‘+ Improved the efficiency, scalability, and reliability of the system.
+
+‘+ Worked with project team to prioritize functionality and highlighted the risks and issues involved in
+projects.
+
++ Implemented successfully End-to-end client-side based SAP B1 at various client sites.
+
+DECELOPER & DESIGNER 01/2013 to 01/2013
+I2SOFT TECHNOLOGIES Bangalore
+
++ Developed several Aspx pages using C# as per the client's requirements Developed processes using
+C# and Visual Studio 2010 Developed core functionality with the ASPNet MVC Framework (C#,
+ADO.Net) Developed code using C# and migrated code to VB.Net ACADEMIC PROJECTS Http Live
+streaming- Developed a Software using Java to analyze the format of the video files Project Post-
+Mortem Report- Created a report to determine and analyze elements of the project that were successful
+or unsuccessful Pet Clinic Application- Performed black box testing and white box testing according to
+the test scenarios Home Automation System-Created a high level design using UML, Use cases, Class
+diagram and sequence diagram Car Rental System- Documented the artifacts to maintain the
+requirements, analysis and design of software system Agile Processes- What agile process are and
+how they are different.
+
+‘+ Use of Scrum, Kanban and lean Methodologies Graphical Preschool App- Developed an iOS application
+using Xcode and Swift Advance Software Engineering Studio Project (in progress): Currently developing
+a Smart Traffic Alarm Clock which is a sensitive clock that keeps an eye on current traffic and will wake
+the user up accordingly so that the user will be never late to the work because of the traffic.
+
+‘+ Technologies using Java, CSS, HTML, DropWizard and Maven.
+
+MASTERS | SOFTWARE ENGINEERING FALL 2016
+PENNSYLVANIA STATE UNIVERSITY
+SOFTWARE ENGINEERING
+
+M.C3TERS IN COMPUTER APPLICATIONS
+
+BAHELORS OF COMMERCE (B.COM) 2013
+DEV BHOOMI GROUP OF INSTITUTE - UTU
+
+GICIT DIPLOMA COURSE (Software Engineering Course) NIIT| New Delhi | 2007-2010 *Agile 2010
+Business Analysis Certification
+BAREILLY COLLEGE - ROHILKHAND UNIVERSITY
+
+Pe
+
+sylvania State University
+
+ACADEMIC COURSEWORK - PENNSYLVANIA STATE UNIVERSITY Software Construction Technical Project
+Management Network Security Systems Thinking Software Documentation Software System Design Software
+Testing Agile Processes Computer Security Data Visualization Requirement Engineering Advanced Software
+Studio
+
+Net, ASP.Net, VB.Net, ACADEMIC, ADO, Agile, Automation, Business Analysis, C, CSS, client, clients, Data
+Visualization, DATABASES, Database, DOS, Eclipse, HTML, Http, Java, Macintosh, C#, Windows, MVC,
+Network Security, OPERATING SYSTEMS, Processes, PROGRAMMING, progress, Requirement, SAP. Scrum,
+Software Documentation, Software Engineering, Software Testing, SQL Server, Swift, System Design, Systems
+Thinking, Tableau, Technical Project Management, UML, video, Vista, Visual Studio

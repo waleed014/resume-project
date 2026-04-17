@@ -1,0 +1,190 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 -resumesample@example.com
+
+Susmmary
+
+‘+ Around 5 years of UI development experience with HTML, HTMLS, CSS, CSS3, DHTML, XHTML, DOM, JavaScript, JQuery, AJAX
+and JSON, Angular JS, React 18, Bootstrap.
+
+‘+ Experience with full software development life cycle, architecting scalable platforms, Object oriented programming, database design and
+agile methodologies.
+
+‘+ Expertise in developing and updating a web page quickly and effectively using HTML, CSS, JavaScript and JQuery with the webpage
+cross browser compatibility, Media queries and Responsive Web design (RWD),
+
+‘+ Hands on experience in writing AngularJS code and familiar with JQuery libraries
+
+‘+ Experience in working MVC Architecture and also in using version control (SVN),
+
+‘+ Extensive experience in Applications using AJAX, Object Oriented (0) JavaScript, ISON, and XML,
+
+‘+ Hands-on experience using front-end JavaScript frameworks like Nodes, Reacts, and Angularjs
+
++ Proficient in building Web User Interface (UD) using HTMLS, DHTML, table less XHTML, CSS3 and Java Script that follows Web 2.0
+techniques, $08 Compliant Websites and are browser compatible
+
+‘+ Extensively used JavaScript for client-side validation.
+
+‘+ Extensively used Bootstrap for customization of web application
+
+‘+ Developed and designed Ajax based Prototype, JavaScript, JQuery, JQuery Mobile and AJAX based UI framework
+
+‘+ Has good experience in UI developing using Java frameworks Hibemate, Struts, Spring MVC.
+
+++ Good Understanding of Document Object Model (DOM) and DOM Functions.
+
+‘+ Experience in using various IDE’s, Adobe Dreamweaver, Ruby Mine, Notepad++, Eclipse, Sublime tex editor, Vieual Studio, MS Visio
+and Adobe photo shop.
+
+‘+ Working Knowledge of Responsive Web design (RWD) using Bootstrap and Foundation,
+
+++ Strong experience in CSS3 preprocessors styling such as SCSS, SASS, LESS,
+
+‘+ Have good experience in developing mobile and desktop applications using Bootstrap.
+
+«+ Experienced in using SOAP and REST for implementation of web services.
+
+‘+ Experience in using application servers like BEA WebLogic, IBM WebSphere, Apache Tomcat and JBoss basing on requirements and
+specifications.
+
+** Good understanding of client-side build tools like npm, Bower, Grunt and Gulp,
+
+‘+ Has extensive knowledge of database design and programming using SQL, PL/SQL in Oracle 9/10g/11g and SQL Server 2005/2008.
+
+Sxurs
+Languages Databases/API
+
+, C+, Java, Python, Java script ‘MS Access, MySQL and SQL Server, SQL Developer, Mongo DB.
+SavaScript(ES 5/6) ES6) Operating Systems
+
+‘Web Technologies ‘Windows 2007/2003/2000/NT/XP, Linux, Unix, Mac OS
+
+JSP, Servlets, HTML4V5, JavaScript, ECMA script (ES 6), CSS3, Frameworks
+‘React JS, Node JS, AJAX, XML, JQuery, JSON, DHTML, XHTML Struts, JSF, Spring, Hibernate, AngularS, Bootstrap, React JS, D3
+
+Web Services 3S Foundation
+REST, WSDL, UDDI ‘Testing Tool
+
+Application/Web Selenium, Jasmine, Mocha, Chai
+Servers ‘Version Control System
+
+IBM Websphere, JBoss, Apache Tomcat ‘VSS, SVN, TFS, GIT, Stash, Githiub
+IDE Tools Bug tracker
+
+Adobe Dreamweaver, Notepad++, Eclipse, Sublime text editor, Visual Bugzilla, TRA, Mantis, Rally
+Studio and Adobe photo shop.
+
+ExPERIENce
+
+08/2021 to Current Full Stack Developer
+Spmorgan Chase & Co. ~ Clearwater, FL
+
+‘+ Developing Portal implementations with technologies like HTMLS, CSS3, Angular 6, Bootstrap3 and JQuery,
+XML, XHTML, AJAX
+
++ Works with the global teams to gather, analyze and prepare requirements, identify issues and propose solutions,
+including time-zone flexibility
+
+‘+ Defined the applications’ user interface design and developed using HTML through MVC architecture of Angular
+60.
+
++ Implemented Event handling, created Custom components for re-using the common functions and to express
+complex UI in Angular 6.0.
+
++ Used Angular 6.0 to make use of improved Dependency Injection like scope control, Routing solution, Templating
+and one-way Data Binding.
+
++ Worked on web applications that required cross browser compatiblities like Chrome, Safa, Firefox, Internet
+Explorer and Opera
+
+‘+ To make all the application to be cloud agnostic, AWS being our cloud platform. We build all the application in
+Amazon Web Services (AWS),
+
++ Extensive usage of BOOTSTRAP and LESS CSS for Responsive Web design (RWD),
+
++ Extensively used CSS for styling and to create table-less websites,
+
++ Build WEB API with Node je and Express j also created modules to store and mutate data
+
++ Utilized MongoDB NoSQL for back end operations like storing ISON data formats.
+
++ Designed and documented RESTIHTTP APIS, including JSON data formats and API versioning strategy.
+
++ Used RESTful design for our web APIs and used the HTTP methods GET, DELETE, POST and PUT to operate
+with the resources.
+
++ Used GIT for version control and Gulp for automating tasks and JIRA for project management.
+
++ Tested all application controllers extensively with Jasmine and Angular’s builtin test facilites,
+
+06/2019 t0.07/2021 Full Stack Develope
+Spmorgan Chase & Co, - Clemson, SC
+
++ Involvement in all stages of Software development life cycle including Analysis, development, Implementation,
+testing and support
+
++ Develop the application's user interface (UD design using HTMLS, CSS3, Angular 2, Plotlyjs, React JS, Node JS
+and Bootstrap
+
++ Developed complex UT through Angular 2 by writing Custom components, Event handling, Observables and RXJS,
+Dependency Injection, Bootstrapping, Implementing Advanced promises, Filters, Angular forms.
+
+‘+ Write application level code to perform multiple calculations, validation contol fr forms and AJAX in JavaScript
+
++ Develop the styles for modals, datetime pickers, buttons, dropdouins, toggles etc, using Material design for
+Bootstrap
+
+* Develop micro services to do CRUD (create, read, update and delete) operations on database using Node JS
+
++ Create REST API's to connect to Teradata database (using HTTP request) tobe leveraged in pulling information
+from tables for program mapping
+
++ Develop the test cates for Angular 2 using Jasmine and Karma,
+
++ Debug the application using Firebug to traverse the documents and manipulated the Nodes using DOM and DOM
+functions.
+
++ Experience in development of test cases using JUnit, Selenium and Jenkins
+
++ Version control through SVN and Grunt for task automation
+
++ Used JIRA is a part of task completion and priority level of issue in Agile methodology
+
+02/2017 t0 05/2019 Full Stack Developer
+Discount Tire ~ City, STATE
+
+*+ Worked on accessibility for making user interfaces perceivable, operable, and understandable,
+
++ Designed and implemented the Portal implementations using OO JSP, JavaScript, Servlets, HTML/HTMLS,
+XHTML, Angular JS, Bootstrap and CSS3,
+
++ Involved in writing application level code to interact with APIs, Web Services like AJAX, JSON and XML.
+
++ Developing the application using Java Spring MVC Architecture with Hibemate as ORM framework,
+
++ Good understanding of Model-View-Contoller architecture and implemented using ISF/Rich Faces, ENB3 and
+BPA
+
++ Used Angular JS in developing single page applications.
+
++ Developed complex UI through Angular JS by writing Custom directives, Dependency
+
++ Injection of services to controllers, Creating Services and Factores, Implementing
+
++ Designed and developed various Web forms using HTML, CSS, and JavaScript.
+
++ Worked on Proof of Concept for developing application using Node JS and Mongo DB.
+
++ Implemented back-end services using Node JS and Node modules.
+
++ Translated Wireframes to Web pages and integrated with REST services,
+
++ Reviewed customer feedback about the debugging issues, fixed bugs with HTMLS and JavaScript codes and
+‘worked on resolving browser compatibility ives.
+
+Epucarion axp TRAINING
+
+Master of Science
+University of The Cumberlands - Williamsburg, KY

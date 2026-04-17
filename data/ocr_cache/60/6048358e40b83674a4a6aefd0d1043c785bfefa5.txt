@@ -1,0 +1,96 @@
+Richard Lauren
+
+BLOCKCHAIN DEVELOPER
+
+SUMMARY
+
+Blockchain Developer with 4+ years of experience in designing and
+implementing blockchain solutions. Proficient in various programming
+languages, including Solidity, JavaScript, and C++. Skilled in smart
+contract development, decentralized applications, and platform
+integration. Successfully delivered multiple projects within strict
+deadlines and achieved high customer satisfaction. Adept at
+collaborating with cross-functional teams to develop innovative and
+scalable blockchain solutions for various industries.
+
+EXPERIENCE
+
+Blockchain Developer
+HCL Technologies aug 2020 - Present
+
+‘* Developed and implemented blockchain solutions using various
+platforms and technologies such as Ethereum, Hyperledger, and
+Corda.
+
+‘* Conducted research and feasibility studies to determine the
+suitability of blockchain technology for business requirements.
+
+* Collaborated with crossfunctional teams to design and develop
+smart contracts and decentralized applications (dApps).
+
+‘© Created and maintained blockchain networks, including nodes,
+wallets, and consensus mechanisms.
+
+‘* Implemented security measures such as encryption, digital
+signatures, and access controls to protect data on the blockchain.
+
+‘* Collaborated with frontend developers to integrate blockchain
+functionalities into web and mobile applications.
+
+‘* Debugged and resolved issues related to blockchain data
+synchronization, network connectivity, and smart contract
+execution.
+
+‘* Conducted unit testing and code reviews to ensure the quality and
+efficiency of blockchain applications.
+
+* Stayed updated with the latest developments and trends in
+blockchain technology and regularly attended conferences and
+workshops.
+
+Blockchain Developer
+Amazon Mar 2018 - Mar 2020
+‘© Conducted technical demonstrations and presentations to explain
+blockchain concepts and showcase the benefits of blockchain
+solutions.
+* Provided technical guidance and support to team members and
+stakeholders regarding blockchain technology and its applications.
+* Assisted in developing strategies for scaling and optimizing
+blockchain networks to enhance performance and reduce costs.
+
+sumekraft
+
+| SKILLS
+
+Solidity programming
+
+Smart contract
+development
+
+Cryptography
+knowledge
+
+DApp development
+Consensus algorithms
+
+Distributed ledger
+technology
+
+Ethereum
+development
+
+Blockchain security
+Hyperledger fabric
+Web3,js integration
+
+|o| LANGUAGES
+
+English
+French
+Arabic
+German
+
+| = | EDUCATION
+
+Masters in Technology
+sdf May 2015 - Jun 2017

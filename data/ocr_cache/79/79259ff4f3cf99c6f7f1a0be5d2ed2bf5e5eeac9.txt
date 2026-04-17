@@ -1,0 +1,174 @@
+Jessica CLAIRE
+
+‘Montgomery Stet, San Francisco, CA 94105
+(535) 432-1200 - resumesampleGexample com
+
+PRorEssionat SusmARY
+
++ Technology enthusiast with over 7 years of experience in TT industry accross various application design, development, integration and
+testing
+
++ Expertise in Core Java concepts, such 2s OOP Design, Muli-Theading, Generics, Exception Handling, Collections, Annotation and
+some ober fates.
+
++ MuleSoft Certified and Experienced in developing Mole ESB flows and integrations by using service-oriented architecture (SOA) and
+‘enterprise application integration EAD using Mule Ruatimes
+
++ Good experience in XML technologies lke XSD, XSLT, XQuery, and Xpath for data transformations in MuleSof
+
+*+ Good experience using mole connectors lke DB, HTTP, HTTPS, FTP, FILE, SFTP, IMS, Salesforce.
+
++ Good experience in using ActiveMQ, AWS suite for Asynchronous message queuing for guaranteed delivery pattern
+
++ Good experience ia Mavenizing, MuleSoft project and creating builds using Maven build tols fr deployment to Cloud#ub/ Mule
+MMC,
+
++ Good experience developing SOAP and Rest based services.
+
++ Experience in using diferent version controlling tracking systems Subversion, CVS, SVN, GIT, Rational Clear Case
+
+‘+ Experience in Splunk Log Management Creating dash bards, monitoring, reporting, Email Notification to Uses.
+
++ Strong in writing SQL queries in PLISQL and T-SQL, triggers, stored procedures in Relational Database Management Systems like
+Oracle, MySQL, PostgreSQL and Microsoft SQL Serve.
+
++ Good experience in Agile Software Development Team Using SCRUM, TDD Test Driven Development
+
++ Good personality, excellent communication sil, efficient developer in a team as well as working individually,
+
+«+ Willing to learn new technologies and leaning fst.
+
++ Capable of working on multiple projets under ight deadlines
+
+Ss
+
+Integration: Mule 3x and 4x untine,Clowlkiob Servers: Apache Tomest 5/67, Apache HTTP Server 2.x, JBoss 5.x,
+‘Languages Java 6 and 7, XSLT, DataWeave, JavaScript, Python. Express Nodes.
+Databases: Oracle 9/10, MongoDB 2,6,MS SQL Server 2008, _32ee Technologes: Java EE, JSP, Servlet, EJB, JDBC, INDI ISTL,
+‘MySQL 56, PostgreSQL 89 PA
+
+‘Web Service: XML, ISON, XSLT, XSD, SOAP, REST
+
+Worx Histon:
+
+(05/2001 to Curent Mulesof¥API Developer
+Peraton - Anchorage, AK
++ Create RESTful API using API Designer and generated flows using RAML file
+«+ Create design document specifications, troubleshoot and testing
++ Integrate various enterprise applications perdesigned architecture
++ Leverage various connectors; Database, HTTP, Webservice Consumer, IMS, Objecstore, FIP and File ete
+«+ Leverage various routers; Choice, Scate-gather, until successful and ete
++ Implement choice, glotal, custom exception andlng mechanisms based on the busines requirement in
+‘MULESOFT ESB
+‘+ Used both SOAP UI and REST POSTMAN testing tool for testing the Webservices developed using SOAP and
+RESTA respectively
++ Implement transformation logic with DataWeave with custom Java Clases and wed Data weave to transform xml
+te custom JSON files
++ Implemeat exception handling, testing & Security of Mulesoft ESB endpoint tough OAuth
++ Created re-usable Mule lows and Exception sratepes in Mole configuration forth System APIS
+«+ Implement logsing and exception handling meckanism
++ Implement guaranteed message delivery using AnypointMQ, reliability design patems
+«+ Plan prepare and execute cutover activity and support hyper care
++ Designed and documented and APT strategy, persistence and exception handling strategy
++ Performed ClovdHub admin ole ike creating environment, Users, Busines group, roles, VPC and other
++ Leverage SOAP UT and REST POSTMAN tools for testing the Web services developed using SOAP and REST¥L
+especively
++ Migrate flows and configurations from Mule 3.8 to Mule 43
++ Automate aplication build and deployment with Jenkins, Maven, Git and Nexus
+Environment - Mule 43, Mule 38, AWS, S3, Anypoint Studio 6 and 7.6, Jenkins, Splunk, GIT, Ja
+Oracte ig, Salesforce, SQL Developer, Anypoint MQ.
+
+JE,
+
+0572018 t9.022021 MuleSoft Developer
+
+Cavco Industries — Ocala, FL
+
+«+ Participate in application design, technical meetings task estimations, backlog grooming ete
+
++ Design, develop, test, maintain and implement Mule 43 aplication that integrates various ystems
+
+«+ Integrate system with connectors such a; Salesforce, Databate, IMS, Active MQ, HTTP, FTP, SFTP and File
+
+‘Connectors
+
++ Implement message transformation with Transform component, implement exception handling
+
++ Secure REST API interfice with OAuth 2.0 and Client ID enforcement poicy on API Manager
+
+‘+ Apply SLA tase ate limting, IP whitelisting,Throting polices on API manager
+
+«+ Create custer environment using Mule ESB with Mule Anypoint Platform
+
++ Implement PUBISUB integration pater wit Active MQ
+
++ Create RAML based REST web services APTS using Mule ESB
+
+‘+ Add the nexus repository deals in pom.xml to impor all dependencies when Jenkins build the aplication and
+
+<eploy the application nto cloud hub
+
+“Write MUnit teat ates ovadate the Mule lows
+
++ Create MULE ESB arifict and configured the MULE configuration files and deployed
+
++ Automate build and deployment package tol using Maven and build the code in Jenkins
+
++ Implement data transformation using XPATH, XSLT, DataWeave, Custom java classes
+
++ Used Btbucket and GIT repository to run the Jenkins jb for Continues Intepration
+
++ Participate in production support effort, done cll tation and used SeviceNow for incident management
+Environment: Micros SQL, Oracle, ELK, Salesforce, Jenkins, SQL Developer, Active MQ, Mule 39 and 43,
+Anypoint Studio 65 and 7.6, GIT, Java 8.1, Jee.
+
+0920169042018. Java Developer
+Arthur J Gallagher & Co. Oroville, CA
+«+ Implement Webservices and ued Spring Framework
++ Implement and configured the Java beans using Spring MVC and Hibernate
++ Prepare Java /2EE developmen structure for Maven
++ Implement Hibernate persistence layer modules using EJB Java Persistence API (JPA) annotations and Eatity
+Manager
+‘+ Used Hibernate in data access layer to access and update information inthe database
++ Implement complex Web bated UL uring Sts, Ajax and JavaScript
+‘+ Worked on implementing Ajax /Query methods in euieving the data ffom ISON files and loading the dat onthe
+ITML elements
++ Implement validation sing JavaScript
++ Implement Presentation layer sing JSP, Servlets, HTMLS
+‘+ Implement the Serves for processing the data onthe server
++ Database designed and created of tables, constraints, normalization, PLSQL packages, fonctions, and Stored
+Procedures
+‘+ Implement the database connectivity using JDBC with Oracle Database
++ Crete Class Diagrams and sequence diagrams using UML
+Environment: Spring, Hibernate JSF, APACHE CXF, Web Service, JavaScript, CSS, AJAX, Html, ISP, Java
+Server Pages Standard Tag Library (ISTL) & SERVLET, DB2, PL/SQL, JDBC, UML, Eclipse, JUnit, MAVEN,
+Xml, GWT (Google Web Toolkit), Apache Tomcat, Linu.
+
+05/2015 19082016 Web Developer
+Nordstrom ~ City, STATE
++ Analyze business requirements, participated in technical design, development and testing of various modules
+assigned
++ Made the application responsive using Bootstrap
++ Involved in web designing using HTML, CSS, JavaScript and extensively used Table less Design in CSS for
+positioning
+‘+ Aller making the applications to be responsive, worked on different mobile devices bugs like ios and andro)
++ Developed page layouts, Navigations and preseated designs and concepts tothe cients and the management eview
++ Integrated Hibernate ORM with Spring Hibernate framework to facilitate DML and DQL queries and represent
+cobject-databare mapping
++ Designed Frontend within objec oriented JavaScript Framework ike Jquery
+“+ Used jQuery to make the HTML, DHTML and CSS code interac withthe JavaScript functions to ad dynamism to
+the web pags atthe cient side
++ Created Images, Logos and Ions that are wed across the web pages using Adobe lath and Photoshop
++ Usod Adobe Experience manager for building websites, mobile apps and forms
+«+ Developed client-side AJAX application that uses XSLT, XPath JavaScript OOP, and more Bind objects and
+euieve them via INDI interface
+Environment: HTML, CSS, Javascript, Ajax, JSON, JQuery, MySQL, TOAD, SQL, DB2, Apache Axis,
+Netbeans, JBOSS, Mercurial, Coherence, ClearCase, Selenium, Water Fall Model, UME, JSP, Servet, Ant,
+XML, Jira, Swing, Cognos.
+
+Envcarion
+
+BSe.: Computer Science
+Sample University
+
+Year MuleSoft Certified Developer

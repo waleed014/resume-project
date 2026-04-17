@@ -1,0 +1,113 @@
+Paul Satchell
+
+Senior Python Developer
+\ 1-656-271-6980
+
+SUMMARY
+
+paulsatchell@gmail.com — github.io/paul.satchell
+
+9 New York City, NY
+
+SKILLS
+
+Senior Python developer with PCPP2, Cloudera and Agile certification,
+Experienced with Python frameworks focused on data. Well-acquainted with
+database engineering, Improving database performance, developing custom
+data & cloud solutions, and server-side technology.
+
+Programming
+
+Python | | Scipy | | NumPy | | Scikit-tearn
+
+Django | | Pandas | | Flask | | Sau
+
+EDUCATION Matpiotii JavaScript | | Bootstrap
+B.S. in Software Engineering
+cpa Data
+New York Instiute of Technology 8 2002-2008 4.90 / 4.00
+9 New York City, NY MySQL | | Postgresau | | Django ORM
+SQL Alchemy | | Hadoop | | Spark
+
+EXPERIENCE
+
+Senior Python Developer
+Grimes #2 2018- ongoing @ New York City, NY
+Grimes is an up and coming game development studio.
+Position combines two roles - Senior Python developer and Scrum master
+for a team of 10 people
+Attending weekly testing sessions to increase game appeal dramatically
+Improved database performance with 20% by using materialized views
+and stored procedures
+Delivered 40+ learning sessions and trainings on different subjects, from
+unit testing to new technologies
+
+Python Developer
+Renaud (8 2014-20189 New York City, NY
+Renaud is a technology in healthcare start up, Won first place in the Business
+Maraton at Campus Party Brazil 2016,
+
+Designed and implemented Boot Menu for 2 Line Display in 3 weeks
+
+Delivered projects with 1-2 days turn around time or even as team and
+individual contributor
+
+Develop and deliver customized data solutions for the biggest pharmacy in
+more than 10 countries
+
+Mentored 5 junior Python developers and trained them to work
+Independently
+
+Python Developer
+Lessard #8 2011-2014 @ New York City, NY
+Lessard is a USA-based IT Services firm specializing in Enterprise Mobilty,
+Information Management, and Cloud-based solutions.
++ Worked in team of 10 members to provide end-to-end solutions for over
+30 clients
+Developed various in-house pip packages with >75% test coverage to be
+used in in-house web applications
+Implemented new features on the main website using Python, Django,
+Bootstrap
+Optimized the back-end microservices and lowered the service request.
+time from 700ms to 150ms
+
+DevOps
+
+Docker | | Docker-Compose | | Agile
+
+Docker-Swarm || Puppet | | Ansible
+
+Development
+
+art | | svn | | Jenkins
+
+PyCharm
+
+CERTIFICATION
+
+Agile Certified Practitioner
+Project Management institute, 2014
+
+CCA Spark and Hadoop Developer
+Cloudera, 2011
+
+PCPP2
+The Python institute, 2009
+
+STRENGTHS
+
+Adaptability
+
+% remember that change is not personal
+and is inevitable. | break my projects into
+multiple parts so that if something goes
+wrong, | can quickly fix it
+
+jg Team leader
+Good at making a statement, setting clear
+goals, influencing people, and keeping
+them on the right track.
+
+@ _ Time Management
+I priortise essential asks 0 they are not
+rushed,

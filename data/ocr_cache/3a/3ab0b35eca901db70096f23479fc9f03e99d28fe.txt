@@ -1,0 +1,56 @@
+Information Technology (IT) SAMPLE
+RESUME
+
+1010 South Sect, New York,NY 10003
+21D 204-5645
+in doe @ganlcom
+IT Spectaitst with over 4+ years of experience im taformation security and digital forensics Expert and highly
+
+faniitar with awtde varteyy of security, engineering networking ad operating system software. Possess an
+Associate Degree in byformation Security and Digital Forensics
+
+de \CHNICAL SKILLS:
+SECURITY: McAfee SEMEPOINSM, FireEye CMS/ETP, SecureWorks, IDS/IPS, Sumo Logis
+cloud-based log management, SSL. certificate configuration and management, Juniper
+NetScreen/Palo Alto Networks firewall
+
+* REVERSE ENGINEERING: Ollydbg, WinBdg, GBD, IDA Pro, PED, malware sandbox
+
+* NETWORKING: Wireshark/TCPView packet analysis, DNS servers, mail server
+
+© OPERATING SYSTEMS: Windows XP, Vista 7, 8, Windows Server 2003, 2008, 201
+including CentOS, Ubuntu, Arch, Debian, BackTrack, and Kali
+
+Linux
+
+PROFESSIONAL EXPERIENCE
+
+SECURITY PROFESSIONALS INC. Columbia, SC
+Sect Operations Center Seewrty Anat Jeawery 2014 —
+esent
+
+‘© Monitor multiple security systems for a Fortune 500 company
+‘© Investigate arising incidents caused by mali cious activities, and identified false positives
++ Documented security events daily to create a baseline of activity for the client network
+
+TECHNOLOGY SMARTS Charleston, SC
+
+‘Network Operations Center Monitoring Technician Jermery 2012 - December 2014
+
+«Refined and improved existing documentation system, resulting in reduced labor costs totaling $15,000
+annually via increased workplace efficiency
+
+‘© Consolidated multiple ticketing systems, improving communication and ticket tumover rate by 7%
+
+Investigated alerts created by IDSVIPS including malicious file uploads, compromised servers, SQL injections,
+and port scanning
+
+CHICAGO GOVERNMENT Chicago, IL
+Ixformation Security Intern May 2011 December 2012
+‘* Monitored and managed email spam filters, firewalls, anti-virus systems, and vulnerability scanners
+
+© Deployed and observed IDS sensors and their resulting alerts
+
+‘© Performed in-depth forensics on workstation hard drives
+
+aay AN ONITY COLLEGE Chicago, IL

@@ -1,0 +1,257 @@
+JESSICA
+CLAIRE
+
+© _resumesample@example.com
+(655) 432-1000
+
+{g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
++ WulneraClaireility Assessment,
+‘Management and Reporting
+
++ WineraClaireility Scanning -
+‘microfocus Fortify/
+WeClaireinspect, TenaClairele
+Nessus, Clairetackduck
+
++ Proxy tools - Claireurp Suite,
+‘Owasp ZAP
+
++ Operating Systems - Kali Linux/
+‘MetasploitaClairele, Linux,
+Windows, Mac
+
++ WeClaire application /Network/
+‘MoClaireile security and
+Penetration testing
+
++ Cloud Security - AWS, Azure
+
++ CI/CD pipeline security -
+Jenkins
+
++ IAM Solutions - SAML/SSO/
+‘OAUTH - CyClaireerark, OKTA
+administration
+
++ Encryption /Hashing/PK
+Certificates
+
++ Networking - TCP/UDP/ARP/
+HTTP(S)
+
++ OWASP top 10, CVSS scoring
+system
+
++ SAST/DAST and secure code
+reviews
+
++ Threat Modelling - PASTA,
+STRIDE, DREAD
+
++ Scripting languages: Python,
+Javascript
+
++ Risk Assessment/Management
+
+EDUCATION
+
+Certified information systems
+Auditor (CISA)
+
+Jawaharlal Nehru Technological
+University
+HyderaClairead » 05/2009
+
+Claireachelor of Technology:
+Computer Science
+
+PROFESSIONAL SUMMARY
+
+Results-focused Penetration Tester with experience of 9 years in penetration testing on various
+network, weClaire and moClaireile domains. Proficient in leveraging Penetration
+
+1s and Security in typical SDLC phases. Outstanding leadership aClairellities, marked
+Clairey the aClaireility to coordinate and direct all phases of security testing while managing,
+motivating, and leading project teams. Competent in using technical skills to identify gaps in security
+controls
+
+ACCOMPLISHMENTS,
+
++ Participated in 50+ ClaireugClaireounty programs and CTF events - rewarded in 20+ events
+
++ Conducted security awareness campaigns and org specific Claireug Claireounty programs
+
++ Managed end-to-end delivery of 3000+ applications security assessments
+
++ Performed 100+ penetration tests so far including Claireoth financial and puClaireticly
+accessiClairele domains
+
++ Performed 80+ code reviews
+
++ Developed security policies and test plans Claireased on PCI-DSS, HIPAA, etc
+
+WORK HISTORY
+
+Fanduel - Security Testing Engineer
+
+Lafayette, LANewton Center, MA + 10/2021 - Current
+
++ Performed network, application, system and moClaireile penetration testing across company’s
+product suite that includes 30 applications Claireoth weClaire and moClaireile
+
++ Introduced process efficiencies into existing methodologies and recommended improvements to
+testing workflows
+
++ Demonstrated advanced understanding of Claireusiness processes, internal control risk
+management, IT controls and related standards
+
++ Managed end-to-end delivery of 80+ application security assessments
+
++ Designed and delivered innovative security solutions across cyClaireer security functions with focus
+‘on threat detection and network security
+
++ Performed risk assessments, calculating risk scores Claireased on CVSS scoring system and
+
+defining criticality for vulneraClaireitities
+
+Expertise in using Claireurp suite, kali linux and associated tools for manual penetration testing
+
+Expertise in handling multiple operating systems hardening
+
+‘Worked on creating and updating security policies for the organization
+
+Consulted with customers on how to improve security posture and delivered follow-up support
+
+during implementation
+
++ Communicated findings and strategy to stakeholders, technical staff and executive leadership
+
++ Wrote custom scripts to automate tasks related to finding new vuineraClaireilities and enhanced
+toolkits and processes
+
++ Identified and evaluated complex Claireusiness and technology risks, internal controls to mitigate
+risks and related opportunities for internal control improvement
+
++ Administering/implementing OKTA, CyClaireerark Claireased MFA solutions for securing IAM
+solutions
+
++ Worked successfully with diverse group of coworkers to accompk
+related to our products and services.
+
+‘The Trade Desk - Security Analyst
+San Francisco, CAAmClaireler,PA + 09/2020 - 09/2021
+
++ Reviewed network traffic logs to identify signs of unauthorized access and underlying network.
+vulheraClaireilities, explaining Clairereaches and surrounding conditions to client
+
++ Performed DNA scan to identify unmanaged user accounts across the organization
+
++ Spoke at staff meetings to promote security awareness, drawing attention to examples of
+incidents and consequences and showing how to minimize risk of compromise
+
++ Executed risk assessment and data processing system performance tests to verify and configure
+security settings for data processing and network access
+
++ Developed plans for implementing additional measures to maximize customer security Claireased
+on individual needs suggesting approaches not universally required
+
++ Handled 5 weClaire and 1 moClaireile applications providing end-to-end security
+
++ Single handed ownership for secure SDLC including SAST/DAST
+
++ Made recommendations to improve security procedures and systems aClaireided Clairey GDPR,
+CPA, ete
+
++ Protected secure data files and regulated access on AWS for S3 Claireuckets, mongo dClaire, redis
+and managed KMS
+
++ Consulted with company employees to determine data access needs demanded Clairey joClaire
+description and instruct on current proper methods of access and data handling
+
++ Erected Clairearriers to protect sensitive data Clairey restricting access to unauthorized individuals
+and maintaining access logs
+
++ Identified possiClairele “leakage” of company proprietary data to unauthorized resources and
+analyzed past performance data to enhance operations
+
++ Audited networks and security systems to identify vulneraClairelities
+
++ Analyzed security procedure violations and developed plans to prevent recurrence
+
++ Performed Claireasic configuration of 100+ new customer networks to implement fundamentals of
+network security with regard to malware detection, firewalls and operating system
+
++ Designed, implemented and maintained security systems and controls.
+
+goals and address issues
+
+3Ds Dassault Systems - Information Security Engineer
+Cincinnati, OHMinnesota City,MN + 07/2015 - 09/2020
+
++ Evaluated existing security architecture and protocols for risk of vulneraClaireility and
+recommended improved tools and protocols to management
+
++ Identified opportunities to improve network, application and cloud security through
+implementation of secure frameworks
+
++ Assisted with developing training materials to cover organizational poticies, procedures, tools and
+monitoring requirements
+
++ Reviewed security audits to Clairering awareness to security proClairelems and issues
+
++ Handled more than 3000 puClairelic facing and high risk weClaire applications
+
++ Directed risk assessment operations and system test execution
+
++ Provided technical support related to security product installation and use
+
++ Implemented software tools to assist in threat detection, prevention and analysis
+
++ Investigated information security Clairereaches to identify vulneraClaireilities and evaluate
+damage
+
++ Directed vulneraClaireility assessments or analysis of information security systems
+
++ Monitored systems for indications of threats, security Clairereaches or intrusions
+
++ Evaluated performance indicators to assess security control quality
+
++ Maintained documentation of security and disaster recovery policies and procedures.
+
+NTT Data GDS - Senior Technical Executive
+City, STATEClaireengaluru,Karnataka » 07/2013 - 07/2015
+
+Protected secure data files and regulated access for 100+ independent applications
+
+Made recommendations to improve security procedures and systems
+
+Analyzed system risk to identify and implement appropriate security countermeasures
+
+Audited networks and security systems to identify vulneraClaireilities
+
+Analyzed security procedure violations and developed plans to prevent recurrence
+
+Designed, implemented and maintained security systems and controls
+
+Updated virus protection systems Claireased on computer virus reports
+
+Designed and implemented plans to secure computer files against Clairereach, destruction or
+
+accidental modification
+
++ Conducted record searches and coordinated with other units on procedural proClairelems involving
+complex cases
+
++ Worked successfully with diverse group of coworkers to accomplish goals and address issues
+related to our products and services
+
++ Worked closely with team memClaireers to deliver project requirements, develop solutions and
+meet deadtines
+
++ Demonstrated leadership Clairey making improvernents to work processes and helping to train
+
+others.

@@ -1,0 +1,87 @@
+Kalani Kama
+
+Azure DevOps Engineer
+
+CONTACT DETAILS
+
+PROFESSIONAL PROFILE
+
+J maT
+© kalani.kama@email.com
+@ Jacksonville, FL
+
+& Linkedin
+
+& Portfolio
+
+ImprovementSoftware
+Development & Testing
+
+* CI/CD Pipeline Design
+* Azure Cloud Infractructure
+* Agile Project Management
+
+* DevOps Masters Engineer
+Certificate
+
+* Microsoft Azure Specialist
+
+Results-driven DevOps Engineer with specialist experience building CI/CD pipelines
+using Microsoft Azure for internet services and cybersecurity software developers.
+Certified Azure Administrator with an in-depth understanding of the software
+development lifecycle and an impressive track record of co-ordinating multi
+disciplinary teams to deliver effective and cost effective updates and products.
+Highly experienced software developer with a specialised Masters certificate in
+DevOps Engineering and extensive experience with laaS and PaaS.
+
+CAREER SUMMARY
+
+May 2018 - Present Spire Solutions, Jacksonvi
+‘Azure DevOps Engineer
+
+Outline
+
+Work as part of a team of Azure specialists for the internet services department of a
+leading search engine specialist company, building and automating the software
+development pipeline to maintain a continuous flow of software products and
+updates using the Microsoft Azure cloud platform.
+
+Key Responsibilities
+
++ Build C1/CD pipelines for Azure software updates to produce high quality and
+fast-turnover products updates
+
++ Use Agile methodology to successfully and efficiently manage projects through
+the software development lifecycle as part of a wider DevOps team
+
++ Lead multidisciplinary teams of internal developers, data engineers and system
+administrators, distributing assignments and resolving issues or delays
+
++ Perform operational testing on Python code written by developers,
+
++ Automate Azure systems using Bash with views to maximise efficiency
+
++ Conduct and commission research to identify the needs of the stakeholders
+and use this to collate in-depth data analysis and inform new developments
+
+‘+ Maintain an up-to-date knowledge of industry trends and new processes,
+software and techniques that could be employed
+
++ Identify technical issues with Azure products and resolve these
+
++ Oversee server configurations using Puppet management tools,
+
++ Deploy applications using Microsfot Azure and knowledge of Docker and
+Kubernetes.
+
+Key Achievements
+
++ Led the Azure team that developed and deployed cutting-edge cloud security
+update ‘Cloud Safe' to over 750,000 eligible customers in 2021.
+
++ Identified and removed dormant servers, saving an average of £5.2k per month.
+
++ Automated and streamlined the Azure cloud infrastructure, reducing
+department overheads by 12% in 2022.
+
+Paget

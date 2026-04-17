@@ -1,0 +1,42 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+2+ years experience as Basis administrator, performing tasks of installations and upgrades of ECCSupport the Transport Management
+systemGeneral technical problem solvingSystem refreshes as neededSystem monitoring on a daily basisEnd User support (24x7
+support)Perform database and client copies.
+
+Sens
+« Excellent communication skills « Excellent diagnostic skills
+‘System backups * Website maintenance
+System upgrades # Remote access technology
+Worx History
+
+07/2011 to 04/2013 SAP Basis Consultant
+
+Accenture — San Francisco, CA
+Primary resource as a support for SAP R/3 4.7 110, SQL Server 2000, andWindows 2003. Developing and
+
+maintaining installation guides, upgrade guides, deployment guides, and other technical manuals.. Performed various
+Basis activities like monitoring of server operatingsystems (ST06), Load balancing of R/3 application servers using
+logongroups (SMLG), infrastructure review, SAP R/3 client administration security and authorizations for SAP R/3
+Servers, jobs monitoring(SM37/35), spool error troubleshooting and database preventivemaintenance (ST04, DB02).
+Monitor spool, job scheduling and file/spool cleanup. For Background Processing, assigning background jobs class to
+prioritizejobs.. Defined, monitored and scheduled background jobs... Client Administration like Creating Clients, Client
+copy (Local andRemote), deleting clients, Assigning logical systems to clients.. Coordinated with the Functional Teams
+to configure and execute SAP changecontrol functions including the transport management system (TMS). Analysis on
+short dumps (ST22), Update errors (SM13), Space Management(DB02), Solution Manager.
+
+Epucation
+
+2013, GED: Computers
+Osmania University - India, Hyderabad
+
+ADDITIONAL INFORMATION
+
+Communication skills to communicate with customers, support personnel, and management Personal computer and business solutions
+software skills Good organization skills to balance and prioritize work Analytical and problem solving skills Ability to work independently
+and as part of a team

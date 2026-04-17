@@ -1,0 +1,141 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Detail-oriented Computer Information Systems Engineer with over 27 years of experience in the IT industry committed to improving system
+
+design and operations for reliable document management workflows. Proficient in Microsoft Word, Excel spreadsheets and several document
+‘management and versioning software applications. Experienced with team collaboration software and Knowledge Management Wikis.
+Excellent organizational and analytical skills, with attention to detail. Seek to offer expertise and skills acquired to take on challenging
+position dedicated to improving system operations. Deliberate troubleshooter rectifying glitches and solving problems in little time.
+
+Semis
+
+* Records management software
+* Document versioning
+
+Data archiving
+
+Work History
+
+02/2018 to 10/2018
+
+05/2016 to 08/2017
+
+10/2011 to 01/2016
+
+08/2007 to 08/2011
+
+Epucation
+
+Database Skills, table creation, SQL, ete.
+* Programming in several languages
+
+« Engineering standards
+
+* Access Groups, Roles
+
+XML, HTML, JSP
+Data Structures, Schemas, Data mapping
+* Documentation and control
+Performance improvement
+
+Technical Support
+
+Workflow development
+
+Excel & MS Office
+
+SR. APPLICATION DEVELOPER
+Fis — Aubum, NH
++ Participated in cross-functional projects while working in lean development environments.
+‘ Highly involved in all stages of systems development lifecycle from analysis/design, coding implementation to
+deployment of production releases and training.
++ Practiced agile methodologies and development best practices to division to enhance product development.
+‘* Designed and maintained streamlined, reusable and reliable code for use within middleware (business logic)
+systems,
+* Reviewed existing programs to refine, reduce operating time and improve techniques.
+
+SOFTWARE DEVELOPER
+Adobe Systems Incorporated — Mclean, VA
+
++ Proven application development experience and with ability to troubleshoot and resolve complex and orchestrated
+web services in production as well as determining health of web service(s) in question, Java Messaging Services
+queues and Oracle Administrator databases.
+
+‘Supported problem analysis of external and internal web services incidents having in-depth understanding of
+complex SOA (Services Oriented Architecture) infrastructures, Oracle Service Bus proxy and routing services,
+Oracle Administration Monitoring Console, TIBCO, JMS, TIBCO Business Works Web Services, IBM MQ
+‘Messaging Services and CICS Mainframe procedures.
+
++ Performed detailed and comprehensive troubleshooting to restore service interruptions working closely with
+TIBCO Administrators, Database, MQ and IBM mainframe personnel.
+
+‘© Triaging in Production Network Escalation calls for Severity 1 and 2 high priosity/visibility incidents
+
+‘ Served as point of escalation contact point between various banking applications which consume US Bank's web
+services for resolution of recurring problems needing code changes, complaints and complex service requests
+
+‘+ Mentored team members teaching them SOA infrastructures being used as well as TIBCO and Oracle web service
+monitoring, EMS queues, understanding soap faults and web service xml requests and responses.
+
+BPM DEVELOPER
+The Pennant Group, Inc. — Louisiana, MO
+
+© Developed Business Works components using TIBCO Business Works, schemas and WSDLs for XML over JMS
+for message transport that automate large number of steps in Business Process Management workflow process,
+
+‘* Implemented end to end Business Process Management company internal web application solution based on
+complex business requirements to streamline processes of patient data cleansing using TIBCO Workflow for parts
+of web user interface flow and TIBCO BW EAI components.
+
++ Performed unit testing, integration testing and scenario testing to ensure business functionality requirements are
+met.
+
+‘ Facilitate design sessions and perform code reviews
+
+* Collaborated with developers and performance engineers to enhance supportability and identify performance
+bottlenecks.
+
+‘* Designed and developed forward-thinking systems that meet user needs and improve productivity.
+
+* Authored code fixes and enhancements for inclusion in future code releases and patches.
+
+‘© Translated technical concepts and information into terms all parties could easily comprehend,
+
++ Investigated new and emerging software applications within medical costs industry to design, select, implement
+and use administrative information systems effectively.
+
+SENIOR SYSTEMS SOFTWARE ENGINEER
+Hewlett Packard Enterprise — Teleworker, [A
+
+‘* Performed overall functions of analyzing, coding, deployment and support of mission critical solutions in workflow
+system's processes and web applications.
+
++ Collaborated with business partners as well as other development, infrastructure and QA groups to deliver
+business-focused solutions on time and within budget.
+
+‘* Gathered requirements from Business Requirement Documents and end users to write Functional Requirements
+Documents that would ultimately drive software projects to completion.
+
+‘© Mentored developers and quality assurance staff on workflow system applications
+
+* Developed Java servlets and JSP/Struts external facing web retirement applications using all aspects of system
+development life cycle with specific focus on design, estimation, construction, unit and integration testing; utilizing
+Eclipse IDE, Oracle 11g, Toad, BEA WebLogic, Unix/Solaris, QP Tool, Remedy, HP Quality Center and Harvest
+Continuous Integration.
+
+‘* Developed programs for business workflow systems servicing financial retirement processes including loan
+origination, gain/loss cash and withdrawals transactions, customer correspondence tracking and document
+management.
+
++ Participated in scheduled and unscheduled off-site Disaster Recovery / Replication drills
+
+‘* Created and presented prototypes to management for use in decision making to be considered for new workflow
+system using Java, JSF and workflows components.
+
+Bachelor of Science: Computer Information Systems
+Regis University - Denver, CO

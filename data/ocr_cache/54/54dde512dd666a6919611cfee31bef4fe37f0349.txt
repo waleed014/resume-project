@@ -1,0 +1,57 @@
+NASRUN MOHD MOKHTAR, C|EH
+
+Seremban, Negeri Sembilan, Malaysia » +6012-6121652 « nasrunmm@gmail.com
+myn
+
+Senior Security Engineer at ExxonMobil Business Support Center Malaysia Sdn Bhd
+
+<din.com/in/nasrunmohdmokhtar
+
+Summary
+
+lam a Network Engineer with more than 10 year experience in Enterprise networking and Network
+Security, mainly on Cisco (ISR, ASA Firewall/IPS, FirePower, Catalyst Switches) and Juniper SRXes.
+
+Working experience with Process Control systems (Plant Information, PLC), and other IT
+Infrastructures such as Identity Management systems (RSA SecurlD), Servers (Windows Servers, AIX,
+Linux), Databases (DB2, MySQL, Oracle), Microwave Radio (Harris Stratex/Aviat Networks)
+
+1am an individual who are open to new experiences, able to learn new technologies quickly, not
+afraid to work hard to achieve my goals. | am a Certified Ethical Hacker (CEH) and currently pursuing
+CISSP certification by end of this year.
+
+Certifications
+
+Jan 2019 Certified Ethical Hacker - CEH
+EC-Council
+License ECC58430201775
+
+Oct 2016 Certified Specialist, Security (JNCIS-SEC)
+Juniper Networks
+
+Oct 2016 Certified Associate, Junos (JNCIA-Junos)
+Juniper Networks
+
+Work experience
+
+Oct 2010-Present Senior Network Security Engineer (5 years 5 months)
+ExxonMobil Business Support Center Malaysia Sdn Bhd
+KLCC, Kuala Lumpur, Malaysia
+
+Responsible for enterprise security using Firewalls and IPSes to protect Corporate, DMZ, Process
+Control, Terminals and External 3rd Party connections, mainly using Cisco with IPS and FirePower
+and Juniper SRXes
+
+During a network refresh project, was able to reduce number of firewalls deployed from 28 to 2
+pairs thus reducing capex and maintenance by developing new standard network design using
+\VRF which combines old Process Control Networks and corporate network within the same
+physical network, without sacrificing security
+
+During distribution terminal server refresh exercise, redesigned the distribution terminal
+network to include a new DMZ security zone that assures separate controls can be applied to
+traffic from Corp to the new server and from JV Partner (new requirement) to the new server.
+
+Ensure continuous support from access control infrastructure (RSA SecurD) by migrating the old
+
+RSA 6.1 authentication manager which is out of support to latest version 8.1 smoothly without
+Be an thrrich | have nn

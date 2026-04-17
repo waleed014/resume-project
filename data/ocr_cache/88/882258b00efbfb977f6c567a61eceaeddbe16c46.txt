@@ -1,0 +1,123 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+A Microsoft Certified Professional with over 11 years of experience in Development, Implementation and support of Microsoft Business
+Intelligence (MSBI) tools (SSIS, SSRS) and Microsoft SQL Server in various Banking and Finance domains. Extensive knowledge and
+experience in dealing with Relational Database Management Systems. Used ETL methodology for performing Data Migration, Extraction,
+Transformation and Loading using SSIS and designed data conversions from wide variety of source systems. Able to work with minimal
+supervision in any collaborative environment. Experienced in Informatica ETL tool. Well versed with various phases of Software
+Development Life Cycle process (SDLC). Highly motivated with an ability to leam new systems and business processes. Excellent verbal and
+written communication skills combined with interpersonal and conflict resolution skills and possess strong analytical skills.
+
+ACCOMPLISHMENTS
+
+Received Employee of the Month’ award in 2013 for being customer centric and reliable.
+
+Received The Star Employee’ award in 2017 for always fixing the severity 1 production issues well before the SLA.
+Conducted introductory and advanced workshops on DB concepts for entry level programmers.
+
+Tutored School dropouts voluntarily while doing my under graduation.
+
+Semis
+
+‘© SQL Server Integration Services
+* SQL Server Reporting Services
+* Microsoft SQL Server
+
+* Informatica
+
+Source and Version Control: Git, Github,SVN
+
+Tableau
+
+Scripting (VB, Shell)
+
+AWS Cloud (AWS Quicksight, AWS Redshift, AWS $3)
+
+Work History
+
+03/2019 to 03/2021 Senior ETL Developer
+Epam Systems Inc— Jacksonville, FL
+«Interacting with business owners to gather both functional and technical requirements.
++ Identifying bottlenecks/issues and fine tuning them for optimal performance.
++ Documenting business requirements and framing business logic for ETL process.
+‘© Managed team of 25, onsite and offshore employees, overseeing training, and professional growth of employees
+‘* Load historical and intraday data, into data warehouse to enable business analysts to better understand, monitor,
+and analyze data.
+‘= Increased customer satisfaction by
+
+esolving Severity 1 issues and making sure that system is Up and BAU.
+* Performed Data Analysis and Data validation by writing complex SQL queries
+
+03/2015 to 03/2019 Lead ETL Developer
+Allegis Group — Jacksonville, FL
+
+‘* Translate business needs into SQL Server Reporting Services/Tableau/WebFocus reports to make data analysis easy
+for end users
+
+‘* Design , Develop and Test SSIS packages involving complex ETL processes.
+
+‘* Managed over 40 CCP issues single day for smooth functioning of Dialer systems
+
++ Provide support to Central data warehouse of Dialer systems, diagnose and quickly resolve production issues.
+
+‘© Working experience with Informatica Power center.
+
+‘* Experienced in creating data visualization dashboards using Tableau.
+
++ Provide ad-hoc reports to support business needs and end users.
+
+‘* Perform RCA for issues with in defined SLA and made sure applications were up and BAU.
+
++ Performed Replication, Backup compression for individual tables and indexes and reducing disk usage and
+improved database performance by 20%.
+
++ Filtered and cleansed data from legacy system using complex Transact- SQL statements in staging area and
+implemented various constraints for data consistency.
+
++ Performed data cleansing by creating tables to eliminate dirty data and implemented Error Logging using SSIS.
+
+02/2013 to 02/2015 ETL Developer
+Abt Associates — Cambridge, MA
+
++ Created ETL packages using different data sources (SQL Server, Flat Files, Excel source files, XML files) and then
+loaded data into warehouse using SQL Server Integration Services.
+
+Prepared complete data mapping for all migrated jobs using SSIS
+
+‘© Migrated data from SQL Server to HDFS.
+
+* Used SQL Server Reporting Services to develop different kinds of reports like canned, ad-hoc reports for clients
+based on their requirement.
+
+‘© Worked with different file formats like CSV, ORC, JSON and Parquet files and different compression Techniques
+which include Bzip2, and Snappy.
+
+‘* Knowledge of Hadoop Ecosystem including Scoop and Hive.
+
+‘© Experience with full development cycle of Data Warehouse, including requirements gathering, design,
+implementation, and maintenance.
+
+03/2010 to 01/2013 Junior SQL Developer
+Servicetitan — Columbus, OH
+‘* Worked on T-SQL in creating tables, views, stored procedures, functions, views.
+© Migrated DTS objects to SQL Server Integrated Services SSIS environment.
+© Proficient in writing optimized SQL queries.
+‘* Expertise in Performance Tuning, troubleshooting and Query optimization skills.
++ Run queries and export data to desired format.
+‘* Worked in all phases of SDLC (Scrum/Agile),
+© Involved in Migration of Databases from SQL Server 2005 to SQL Server 2008.
+‘* Used VB scripting in script tasks to achieve desired function,
+
+Epucation
+03/2009 Bachelor of Technology: Biotechnology
+
+Jawaharlal Nehru Technological University - Anantapur
+(CERTIFICATIONS
+
+‘Microsoft Certified Systems Administrator
+ITIL V3 Foundation

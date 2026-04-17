@@ -1,0 +1,103 @@
+Annamae Schlessman
+
+SAP Developer
+
+& Profile
+
+SAP Developer with 1 year of experience in designing, developing, and
+implementing innovative SAP solutions to optimize business processes.
+Proficient in ABAP programming, SAP Fiori, and SAP HANA, with a strong
+understanding of SAP modules and integration, Demonstrated success in
+delivering projects on time, collaborating effectively with cross-functional
+teams, and continuously enhancing technical knowledge. Highly
+adaptable and committed to driving efficiency, process improvement, and
+end-user satisfaction.
+
+i Employment History
+
+SAP Developer at NTT Data Services, VA
+Feb 2023 - Present
+
+* Developed and implemented a customized SAP solution for a major
+client, resulting in a 15% increase in operational efficiency and a 10%
+reduction in costs within the first year of deployment.
+
++ Successfully migrated the legacy data of over 50,000 records fora large
+government organization to the new SAP system, ensuring 99.9%
+data accuracy and minimizing system downtime during the transition
+process.
+
++ Led a team of 10 developers in the design and development of an
+innovative, user-friendly SAP application for a healthcare provider,
+which increased end-user productivity by 20% and streamlined
+business processes across multiple departments.
+
+Associate SAP Developer at Booz Allen Hamilton, VA
+Jul 2022 - Jan 2023
+
++ Developed and implemented a streamlined SAP solution for a major
+government client, resulting in a 30% increase in process efficiency
+and reducing manual workload by 50%.
+
++ Successfully led a team of 5 developers in the integration of SAP
+modules for a multi-million dollar project, ensuring seamless data
+flow and improving overall system performance by 25%.
+
++ Identified and resolved over 100 critical SAP system errors in a
+high-pressure environment, leading to a significant reduction in
+system downtime by 40% and increased user satisfaction.
+
++ Conducted comprehensive SAP training sessions for over 50 end-users
+across various departments, enhancing their understanding of the
+system and contributing to a 35% increase in productivity.
+
+= Education
+
+Bachelor of Science in Information Technology with a focus on SAP
+Development at Virginia Tech, Blacksburg, VA
+
+Aug 2018 - May 20:
+Relevant Coursework: Database Management, Systems Analysis and
+Design, SAP Development, ERP Systems, Software Engineering, Web
+
+Technologies, Cybersecurity, and Data Analytics.
+
+& Certificates
+
+Details
+nnamae.schlessman@gmai
+(900) 679-6365,
+
+1234 Oakwood Lane, Richmond, VA
+23225
+
+Links
+linkedin,com/in/annamaeschlessman
+
+Skills
+ABAP programming
+
+Fiori/UIS development
+
+HANA modeling
+
+BRFplus framework
+
+CDS views creation
+
+OData services
+
+WebDynpro development
+
+Languages
+English
+
+| §
+
+Hobbies
+Programming side projects
+
+Attending tech meetups and
+conferences
+
+Building and flying drones

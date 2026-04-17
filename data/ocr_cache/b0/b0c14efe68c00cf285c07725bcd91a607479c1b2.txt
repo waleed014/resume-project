@@ -1,0 +1,77 @@
+FONDA NIENOW
+
+© 380 MERTZ CORNER, PHOENIX, AZ
+
+«Pp PHONE
++1 (555) 451 3627
+
+@ EXPERIENCE
+
+Osinski, Feest and Cassin -> 07/2019 —
+present
+
+BOSTON, MA /// SENIOR TERADATA DATABASE
+ADMINISTRATOR
+
+Experience developing, implementing, and continually
+improving system and network monitoring and alerting
+capabilities and procedures
+
+Team-oriented individual with a strong work ethic and self-
+motivated
+
+Familiarity with automated build processes and debugging
+Continuous Integration build failures
+
+Prior experience with continuous integration, test automation
+and/or CI/CD on iterative software development projects
+Understanding of infrastructure-as-code concepts and
+experience using tools like CloudFormation, Terraform
+
+Weissnat-Crona -> 04/2015 — 01/2019
+
+BOSTON, MA /// IT DATABASE ADMINISTRATOR
+
+General knowledge of D365 and LCS
+
+Experience with D365 Data Entities
+
+Strong knowledge with monitoring, performance tuning, SQL
+queries, Always On and SQL backups/restores
+
+Strong background with MS SQL Database along with Azure
+SQL Database
+
+Self-starter, will to look for solutions to problems along with
+automation
+
+Experience with an organization with a key 24 X 7 reliance on
+its databases
+
+Experience working with automating database tasks using
+automation tools such as Ansible
+
+Experience Migrating Databases across platforms
+
+© EDUCATION
+
+Savannah College of Art and Design ///
+Bachelor's in Computer Science
+
+SKILLS
+
+Demonstrable experience of backup/recovery, maintenance
+plans & query optimization
+
+Advanced use of Microsoft DevOps for SQL project build and
+maintenance (including branching and code deployment)
+Advanced knowledge of designing and building relational
+databases (i.e
+
+Strong analytical, problem solving and requirement
+elicitation skills
+
+Non-Technical / Soft Skills - Good team player and good self
+learner
+
+Good to have DBA certification

@@ -1,0 +1,58 @@
+Jestina Mangol
+
+Python Developer
+
+Highly motivated Python Developer with 1 year of experience in developing robust and efficient software solutions.
+Proficient in Python frameworks like Django and Flask, with a solid understanding of front-end technologies like HTML,
+SS, and JavaScript. Demonstrated abilty to solve complex problems, excellent debugging skills, and a keen interest in
+learning new technologies. Committed to delivering high-quality results within stipulated timelines.
+
+jestina mangol@gmailcom Employment History
+(249) 346-3648 © Senior Python Developer at Asurion, TN
+
++ Led the development and implementation of anew data processing
+system using Python, improving data efficiency by 50% and
+significantly reducing the time spent on manual data tasks.
+
+Education + Successfully automated 5 key business processes using Python
+scripts, resultingin a productivity increase of 30% and an annual
+cost saving of $100,000.
++ Spearheaded a team project to overhaul the company’s outdated
+website, utilizing Dango framework, leading to an increase insite
+trafic by 40% and customer engagement by 25%.
+
+Nashvie,18 @
+
+Bachelor of Science in
+Software Engineering with
+
+‘a specialization in Python
+Development at University
+of Tennessee, Knoxville, TN
+
+pera Junior Python Developer at Eventbrite, TN
+Relevant Coursework: a
+Software Development, Python + Developed an automated ticketing system using Python, which
+Programming, Data Structures, improved ticketing efficiency by 5%.
+Meath Chics one + Successfully debugged and enhanced the existing codebase,
+Programming, Databases, reducing system errors by 20%.
+Wacecenek Oman: + Leda team project to integrate third-party APs into the Eventbrite
+Spaees Mahia Lacaing, platform, expanding functionality and increasing user engagement,
+Artificial inteligence, Software by 15%.
+foiegudonalyherace + Implemented a new data analysis tool using Python, resulting ina
+Caaieiaeicael 40% reduction in time spent on data processing tasks
+Cybersecurity
+Certificates
+Links PCEP - certified Entry-Level Python Programmer
+linkedin.comy/indjestinamangol Feb 2022
+Microsoft Certification: Introduction to Programming Using
+, Python
+Skills sun2020
+Django
+lass Memberships
+NumPy Python Software Foundation (PSF)
+ay \n for Computing Machinery (ACM)
+Pandas
+TensorFlow
+
+Pyforch

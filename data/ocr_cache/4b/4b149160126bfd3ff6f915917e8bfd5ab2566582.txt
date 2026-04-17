@@ -1,0 +1,82 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+Microsoft full stack developer with 12 years developing complex data warehouse systems that involve the Integration of the necessary WMS, ERP,
+CRM and CMS systems. I Leverage web/mobile technologies to allow internal and external users seamless interaction with the data they require to
+make informed and secure transactions.
+
+SKILLS
+Database and reporting: SQL Server 2015,Oracle,Stored procedures, SSIS Developing:C#, ASP.net, ADO.NET, MVC, Entity frameworks, MVC,
+packages & Jobs, SSRS, Crystal Reports. Razor, Webforms.
+‘Web services and data transfer: Ison, XML, REST. Front end: HTML 5, javascript, jquery libraries, Angular.responsive,
+Bootstrap.
+
+Systems database integration: Snapfulfil(WMS), Sage 500(ERP).
+Insyte(CRM), Sitecore(CMS). Supply chain management: ETL, data analysis, advanced excel, macros,
+FTP automation, Windows scripting
+
+‘Work History
+
+Full Stack Net Web Developer, 02/2016 - 06/2016
+Penn State University — University Park, PA
+
+Create and consume xml/Ison web services for pharmaceuticals with 128/256 encrypt.
+Automate receiving and archiving of physician files transferred to our FTP site.
+Develop responsive websites for desktops and handhelds of all sizes and browsers.
+
+Programmer/Analyst, 05/2014 - 09/2015
+Maxar Technologies Ltd — Longmont, CO
+
+Automate FTP to process Vouchers, PO’s, and receipts over 500 vendors.
+
+Develop in house procurement software and database to allow growth from 55 to 120 stores in 2 yrs.
+Integrate new Warehouse Management System, Snapfulfil Cloud WMS with database.
+
+Integrate new Point of Sales system along with transferring corresponding databases.
+
+Incorporate systems of newly acquired businesses into our own Retail Pro databases.
+
+Integrate Listrak marketing and customer store traffic count for customer interaction.
+
+Support database customization in Magento Content Management System.
+
+Interview senior management and construct business logic to meet their needs.
+
+Web Developer, 07/2013 - 04/2014
+
+Beaumont Hospitals — Dearborn, MI
+
+Database design and logic to allow website user interaction with pricing and purchasing.
+Developed XML connections from website and database to the Ariba global supplier’s network.
+Integrated new Enterprise Resource Planning software, Insight ERP with databases.
+
+Mobile & Web Developer, 02/2012 - 06/2013
+
+Strategic Distribution Inc — City, STATE
+
+Maintained website and databases to support company's supply chain management portal
+Developed website to consume web services to allows client to pay purchase orders.
+XML automation and Database development for Purchase orders, vouchers and receipt.
+Mobile development to supports warehouse management system on handheld devices
+Integrated Insight ERP to corresponding databases.
+
+MIS Specialist, reporting to VP of MIS , 09/2007 - 04/2011
+‘Twin Oaks — City, STATE
+
+Administrate Electronic Health Records Application Clinician’s Desktop Software
+
+Administrate and enhance Revenue manager applications.
+
+Maintain and enhance Crystal Reports.
+
+Create Ad-Hock reports for executive decision making for VPs, CFO, CEO and President.
+
+Develop automated office interoperability for Q/A depart with VBA Macro’s in MS Access and Excel.
+
+EDUCATION
+Graduate Certificate,: Data Mining GPA: 3.0 Comprised of five graduate level computer science classes., 2010
+New Jersey Institute of Technology College of Computing Science - Newark, NJ
+Bachelor of Science: Computer Science, 2002
+New Jersey Institute of Technology College of Computing Science - Newark, NJ

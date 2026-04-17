@@ -1,0 +1,51 @@
+Vinodhkumar HM.
+Phone: (M) +91-8749909362
+Emaik vinodhiumarhmdgmailcom
+
+‘OBJECTIVE
+
+4 Beinga fresher, seeking a position utilize my skills and abilities for the
+
+‘welfare of the company while being resourceful and innovative.
+
+CORE COMPETENCIES
+“Manual Testing Y SOAPUI
+¥ Selenium IDE. ¥ AXIS2
+¥ SeleniumWebDriver. v JSON
+¥ Sikuli
+¥ Robot
+
+CAREER HIGHLIGHTS
+
+> Sound knowledge and through understanding of various Software
+Development Life Cycle models(SDLO), Software Test Life Cycle (STLC) and
+Defect Life Cycle.
+
+> Well versed with all testing concepts and methodologies and good practice in
+writing, reviewing and executing of test cases using Test Cases design
+technique.
+
+> Knowledge on Functional testing, Integration Testing, System Testing and
+Regression testing,
+
+> Having Hands on practice in writing Selenium WebDriver Code using Java.
+
+ay
+
+Detecting defects and classifying them based on severity.
+
+> Sound Knowledge in Bug Life Cycle.
+
+> Knowledge of SQL
+
+Hands on practice on GUI testing using( SeleniumWebDriver , Sikuli, Robot).
+> Hands on practice on testing Web PopUp using(WebDriver)
+
+> Hands on practice on testing Window PopUp using(Robot).
+
+> Hands on practice on API testing using(SOAPULJSON,AXIS2)
+
+> Hands on practice on End-to-End testing
+using( WebDriver Sikuli, Robot, Axis2,Json)
+
+‘Ramagondalahalli Whitefield, Bangalore

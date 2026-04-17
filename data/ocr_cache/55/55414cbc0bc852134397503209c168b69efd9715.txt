@@ -1,0 +1,132 @@
+First Last
+
+Entry-Level SQL Developer
+
+Entry-Level SQL developer with 10 years of experience using data mining, business
+intelligence, and data visualization to drive growth. Skilled in turning data into actionable
+insights, supporting business decisions, and improving operations. Key achievements:
+implemented security measures such as password protection and logon restrictions on 24
+production servers, reducing vulnerability to malicious attacks by 67%. Developed and
+supported an RWec v.2 5g database application that produced a 70% increase in the
+company's operational efficiency.
+
+WORK EXPERIENCE
+
+Entry-Level SQL Developer November 2015 — Present
+Resume Worded, New York, NY
+
+Tested SQL servers and maintained the environment's integrity
+through regular updates, improving their reliability by 87%.
+
+Worked with a team of 16 developers to create an application that
+tracked the status of 10K open and closed cases
+
+Implemented security measures such as password protection and
+logon restrictions on 24 production servers, reducing vulnerability to
+malicious attacks by 67%.
+
+Developed ETL processes to load 46TB of data into a data warehouse
+from over 1.5K sources in the first month of employment.
+
+Database Programmer February 2013 - October 2015
+Growthsi, San Francisco, CA
+
+Designed a CRM software that integrated business data between
+RWdesk and SloBooks, increasing productivity for daily business
+activities by 90%.
+
+Created a mAcrosoft Word add-in that allowed 10K users to publish
+directly into Manualdesk Inventor, saving RWEC 180 person-hours per
+year.
+
+Modified tables and queries for enhanced tracking capability of an
+application, reducing programmer hours by 45% and saving $21K in
+programming costs.
+
+Developed and supported an RWec v.2 5g database application that
+produced a 70% increase in the company's operational efficiency.
+
+Database Assistant June 2010 — January 2013
+Resume Worded's Exciting Company, New York, NY
+
+Created a new file system that tracked 7.8K active lead-generating
+web visitors, helping Growthsi to determine its effectiveness in a
+given area by 90%.
+
+Developed simple database systems that assisted 4.3K users in filing
+and retrieving documents, reducing clerical work by 87%.
+
+Devised custom queries for difficult reporting tasks; increased report
+accuracy by 88% YoyY.
+
+Increased system efficiency by optimizing SQL queries for better
+performance, reducing data retrieval time by 79% with less than 3
+servers.
+
+CONTACT
+
++ Albany, NY (Open to Remote)
++ +1-234-456-789
+
++ email@resumeworded.com
+
++ linkedin.com/in/username
+
++ github.com/resumeworded
+
+SKILLS
+
+Technical Skills:
+
++ Data Modeling (Advanced)
+- Databases (Experienced)
++ Data Warehousing
+
++ Data analysis
+
++ Indexing and reporting
+
+Industry Knowledge:
+
++ Data Structures
+
++ Microsoft SQL Server
+
++ T-SQL Stored Procedures
+
+Tools and Software:
++ XML
+
++ Visual Basic
+
++ JavaScript
+
++ jQuery
+
++ MySQL
+
+- Don't forget to use Resume
+Worded to scan your resume
+before you send it off (it's free and
+proven to get you more jobs)
+
+EDUCATION
+
+Resume Worded University
+Bachelor of Science
+
+Computer Science
+
+Boston, MA — May 2010
+
+Awards: Resume Worded Teaching.
+Fellow (only 5 awarded to class), Dean's
+List 2012 (Top 10%)
+
+OTHER
+
++ Microsoft Certified Solutions
+Developer (MCSD).
++ Oracle Certified Professional.
++ Microsoft Certified Solutions
+Associate (MCSA).

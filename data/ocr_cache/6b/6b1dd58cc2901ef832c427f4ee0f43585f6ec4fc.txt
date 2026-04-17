@@ -1,0 +1,62 @@
+ROBERT SMITH
+
+Junior Network Security Engineer
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+A self motivated and hands-on Computer Software/Network Specialist; seeking
+position in Security Management, Information Assurance and Systems
+Administration. Superior technical, arganizational, people interface and prablem-
+solving skills coupled with the ability to set priorities and manage multiple tasks.
+Highly analytical, an effective communicator, and a dedicated, responsible team
+player who follows through to taskiproject completion.
+
+EXPERIENCE
+
+Junior Network Security Engineer
+‘ABC Corporation - OCTOBER 2007 - FEBRUARY 2014
+
+Lead projects to test and deploy McAfee security protection solutions
+for the corporate and retail environments.
+
+Deployed and tested system upgrades for CyberArk Password Vault
+application.
+
+Lead team on scheduled firewall rule reviews to establish proper
+security controls are in place.
+
+Provided support to Users, technical groups, and business partners on
+all security and cantrol policies, strategy, risk assessment, network
+connectivity, system architecture and design requirements.
+
+Worked with internal Audit to ensure security controls met PC/SOX
+compliance.
+
+Crested Active Directory groups to allow secure access to Windows
+and UNIX/Linux platforms as wall as file shares,
+
+Provided security administration support during disaster recovery
+(DR) exercises,
+
+Security Engineer
+ABC Corporation - 2006 - 2007
+
+Independent Consultant Woiked asa consultant focusing on cyber
+security for over a dozen companies and organizations ranging in size
+fram 10 te 100+ employees
+
+Conducted auditing, penetration testing, and incident response.
+Setup and installed hardened servers.
+
+Discovered and eradicated worms viruses, malware, spyware, and
+trojans
+
+Built Intrusion and anomaly detection systems to assist in tracking
+malicious activities,
+
+Counseled and staged the threats of cyber terrorism.
+
+Implemented various authentication systems and the policies
+surrounding them for campanies of various sizes..
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

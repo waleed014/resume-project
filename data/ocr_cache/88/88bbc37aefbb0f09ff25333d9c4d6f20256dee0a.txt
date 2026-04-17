@@ -1,0 +1,102 @@
+Jill Van Beest
+
+(OCA centtied SQL. developer with 3 years of experience, seeking fo use proven Oracle and PLISQL
+skills to improve data management at CyrusOne. Delivered 10 DB projects at GNG on time and 15%
+under budget. Freed up 50 hrs/mo at PinkSky Tech through back-end automation.
+
+Experience
+2016-07- _SQLDeveloper
+2018.08 Gamma News Group
++ Led development of 0 database projects for customers. Completed projets on
+time and an average of 1596 under budget, wih high customer reviews.
++ Used calogue-mapping to gather requirements to 98% customer saistacion
++ Used Oracle data modeling to boost produatvty and cut production costs 10%
+201505- SQL Developer
+2016-06 PinkSky Tech Wodewide
++ Designed and created 3 onsite databases, Maintained a group of 25 databases:
+Through automation, improved efficiency 15%, teeing up 50 labor sino,
++ Updated and enforced security procedures, assuring 20% less breach risk,
++ Wrote septs to automate sofware updates, saving 3 programmer hoursimo.
+201408- SQL Developer Experience
+2015-05 Various
++ Created a restaurant management database. Included functionality to handle al
+{ood and beverage inventory. Saved manager an estimated $400 per month,
++ Created database back ends for twee mobile app.
++ Integrated database functionality into a sales website for tee shits and hats.
+Education
+2010- BS in Computer Science, Mohave Community College
+zou + Pursued a passion for database architecture coursework
+
++ Excelled in security classes.
++ President, Bighorn Decoders Computer Club.
+
+Additional Activities
+
++ Member, Women in Technology
++ Volunteer to walk dogs monthly at Arroyo County Shelter
++ Lead a weekly mountain biking cub
+
+Certificates
+(OCA: Oracle Database SQL Cetiled Associate
+Conferences
+
+2017 DDEVintersection - Spoke on a panel about SSIS Development
+
+206 PASS Summit
+
+Publications
+
+‘Atcle on SQL injection published in Oracte Blogs
+
+Antcle on Common Table Expressions published in WebAppers
+
+Awards
+
+Recipient, Most Valuable Tech Employee 2016, Gamma Nexus Group
+
+Personal Info
+Phone
+505-918-0381
+
+em
+iMlvanbeest@gmaicom
+
+Linkedin
+linkedin.convinjilvanbeest
+
+‘Twitter
+‘witerconvilvanbeest
+
+Soft Skills
+
+Interpersonal Sits
+
+Collaboration
+
+‘Communication
+
+Problem Solving
+
+Hard Skills
+
+Oracle
+
+PUSQL
+
+SSIS Development
+
+Database Architecture
+
+Expert
+Security
+
+eoce
+
+Expert
+
+‘Common Table Expressions
+
+ee
+
+‘Advanced
+Reporting

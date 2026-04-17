@@ -1,0 +1,96 @@
+Jaylani Chernis
+Manual QA Tester
+
+@ jaylani.chernis@gmail.com
+Xe (475) 171-6107
+9 123 Maple Street, Buffalo, NY 14221
+
+EDUCATION
+
+Associate of Applied Science in
+Quality Assurance Technology at
+SUNY Erie Community College,
+Buffalo, NY
+
+‘Aug 2017 - May 2022
+
+Relevant Coursework: Quality Control
+Principles, Statistical Process Control,
+Lean Manufacturing, Six Sigma,
+
+Root Cause Analysis, Continuous
+Improvement Techniques, Inspection
+and Testing Methods, Quality
+Management Systems, ISO Standards,
+and Auditing Practices.
+
+LINKS
+
+linkedin.com/in/jaylanichernis
+
+SKILLS
+
+Selenium
+
+JIRA
+
+PROFILE
+
+Diligent Manual QA Tester with 1 year of experience in ensuring software
+quality through meticulous testing and defect identification. Proficient in
+test case design, execution, and documentation, as well as collaborating
+with cross-functional teams to enhance product functionality and user
+experience, Strong analytical and problem-solving skills, with a keen eye
+for detail and a commitment to delivering reliable and efficient software
+solutions.
+
+EMPLOYMENT HISTORY
+
+@ Manual QA Tester at Techolution, NY
+‘pr 2023 Present
+
++ Conducted extensive manual testing for a major client's web
+application, resulting in the identification and resolution of over 150
+critical bugs, ensuring a seamless user experience upon launch.
+
++ Collaborated closely with a team of developers and product
+managers to implement comprehensive test plans for three major
+projects, contributing to their on-time delivery and high customer
+satisfaction ratings.
+
++ Streamlined the QA process by creating detailed test documentation,
+reducing the time spent on manual testing by 25% and increasing
+overall team efficiency.
+
+* Trained and mentored four new QA team members, helping
+them quickly adapt to company processes and consistently meet
+performance expectations.
+
+© Junior Manual QA Tester at Lorven Technologies, NY
+Jul 2022 - Feb 2023
+
++ Successfully identified and reported over 250 critical software bugs
+and issues within the first six months of employment, leadingtoa30%
+improvement in overall product quality and stability.
+
++ Streamlined the testing process by creating and implementing a
+comprehensive test plan and test case library, resulting in a 20%
+reduction in testing time and a 15% increase in defect detection rate.
+
++ Collaborated with cross-functional teams to resolve over 100
+high-priority defects within tight deadlines, contributing to timely
+product releases and a 10% increase in customer satisfaction ratings,
+
+CERTIFICATES
+
+ISTQB Certified Tester
+Nov 2021
+
+ASQ Certified Quality Engineer
+Jun 2020
+
+MEMBERSHIPS
+
+International Software Testing Qualifications Board (ISTQB)
+
+Association for Software Testing (AST)

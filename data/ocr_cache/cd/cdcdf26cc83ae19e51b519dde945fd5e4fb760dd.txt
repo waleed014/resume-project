@@ -1,0 +1,74 @@
+—_—=—
+
+DOT NET DEVELOPER
+
+se |
+
+SKILLS
+
+Languages: (C#, JavaScript),
+
+Framework & Libaries: (ASP.NET, MVC, Core, ReactJS, Bootstrap 5, jQuery, AngularJs),
+Tools & Others: (Docker, Git, GitHub, Azure, SQL Server, Entity Framework, HTMLS,
+Scrum, .NET Telegram Bot API)
+
+Jira, Ajax, REST API,
+
+PROFESSIONAL EXPERIENCE
+
+ASP.NET Full Stack Development (Internship) May 2023 - Oct 2023
+- . , Duration: 6 months
+
++ Developed and maintained web applications using the ASP.NET framework.
+
++ Implemented frontend functionalities using HTML, CSS, Bootstrap and JavaScript.
+
++ Created and maintained database schemas using Entity Framework.
+
+EDUCATION
+
+Bachelor of Computer Application (BCA) ‘ 7 — 2023
+
+XII in Computer Science 2018 - 2020
+
+a re |
+
+PROJECTS
+
+JOBSEEKR @
+
+Developed Jobseekr, an innovative ASP.NET MVC platform transforming the job-seeking experience for
+employers and candidates.
+
+Enabled seamless job posting, application management, and candidate interaction for employers.
+Streamlined the application process for job seekers, fostering communication and feedback.
+
+Managed the project efficiently with JIRA @, ensuring collaboration and tracking progre:
+Deployed on Microsoft Azure for scalability and reliability. Explore live application here 2
+
+PASSWORD GENERATOR TELEGRAM BOT
+* Developed a secure Telegram bot in C# using the .NET Client for Telegram Bot API.
+
++ Empowered users to generate strong and random passwords on demand, enhancing security measures.
+
++ Enables users to generate strong 25-character passwords with a mix of characters and symbols.
+
++ Prioritized user security by incorporating uppercase letters, lowercase letters, special symbols, and numbers.
++ Check the bot's GitHub repository here « for instructions on running the bot.
+
+CURRENCY EXCHANGE TELEGRAM BOT
+
+* Developed a strong Telegram bot in C# using the .NET Client for Telegram Bot API.
+
++ Enables users to check exchange rates and perform currency conversions within Telegram chats.
++ Check the bot's GitHub repository here (2 for instructions on running the bot.
+
+REACT RESTAURANT APP
+* Crafted a straightforward restaurant app using React, Material-UI, and Vite for a delightful user experience.
+
++ Implemented a responsive design, ensuring optimal functionality across various devices for user convenience.
++ Showcased an enticing menu, allowing users to explore a variety of dishes.
+
++ Hosted the application on GitHub Pages for easy and convenient access.
+
+* Check out the live application here c.

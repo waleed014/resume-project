@@ -1,0 +1,106 @@
+1 hollee,wearmouth@gmailcom
+% (68) 010-3078
+Anchorage, AK
+
+Education
+
+Bachelor of Science it
+Information Technology at
+University of Alaska
+‘Anchorage, AK
+
+‘Aug2018 -May 2022
+
+Relevant Coursework: Database
+Management, Network
+
+Design and Security,
+
+Software Development, Web
+Development, IT Project
+Management, Cloud Computing,
+Data Analytics, Cybersecurity,
+Computer Programming, and
+System Analysis & Design.
+
+Links
+
+|
+
+Jenkins
+
+Ansible
+
+Terraform
+
+=
+
+WS,
+
+Python
+
+Languages
+English
+
+urdu
+
+Profile
+
+DevOps Engineer with 1 year of professional experience in designing,
+implementing, and managing robust software deployment pipelines. Prof
+in utilizing various DevOps tools, cloud platforms, and programming
+languages. Proven ability to work collaboratively within cross-functional teams,
+‘demonstrating trong problem-solving skills and a commitment to achieving.
+project goals effectively, Seeking to leverage expertise to further develop and
+enhance system optimization strategies.
+
+ient
+
+Employment History
+Devops Engineer at Northrop Grumman, AK
+‘pr2023- Present
+
++ Led the successful migration of 300+ servers from on-premises to AWS
+loud-based infrastructure, resultingin a30%binereasein system efficiency and
+2a reduction in operational costs by 25%.
+
++ Implemented automated C1/CO pipelines for 20+ software applications,
+reducing deployment time by 40% and increasing deployment frequency by
+60%.
+
++ Improved system availabilty by 99.9% by leading the design and
+implementation ofa comprehensive disaster recovery and business continuity
+plan,
+
++ Identified and resolved over 500 systemissues, enhancing system performance
+by 35% and significantly reducing downtime.
+
+Junior DevOps Engineer at General Communication Inc., AK
+Sep 2022- Mar 2023
+
++ Successfully automated 30% of the previously manual systems administration
+tasks, saving the team an average of 15 hours per week.
+
++ Played a key ole in migrating the company's legacy systems to cloud-based
+solutions, reducing operational costs by 20% annually.
+
++ Implemented continuous integration and continuous delivery (C/CD)
+pipelines for 10 major projects, decreasing the average deployment time by
+50%.
+
++ Troubleshot and resolved over 100 system issues, improving system reliability
+‘and uptime by 25%.
+
+Certificates
+
+Docker Certified Associate (DCA)
+(oct 2021
+
+‘AWS Certified DevOps Engineer
+Feb 2020
+
+Memberships
+DevOps Institute.
+The
+
+1ux Foundation

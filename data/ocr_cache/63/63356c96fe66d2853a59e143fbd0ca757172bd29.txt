@@ -1,0 +1,51 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Summary
+Devops Engineer with experience in Linux Administration, build and release management and familiar with all phases of Software
+
+Development Life-cycle (SDLC) including Analysis, Design, Implementation, Testing and Deployment. Worked for various domains
+including Aviation, communications and Industrial Automation.
+
+Skills
+* DevOps Tools: Ansible, Jenkins, Docker, Maven, Bamboo, _—* Databases: SQL, MySQL, MongoDB, DynamoDB
+Kubernetes * Vistualization: VMware, Docker
++ Programming: Python, C++, Javascript, Shell, Bash * Operating System: Linux, Ubuntu, Debian, Windows and
+* Version Control: GIT, SVN, TFS ‘CentOS
+Experience
+
+Python/DevOps Engineer, 10/2019 to 04/2020
+Cisco - City, STATE
+* Designed, configured and managed public/private doud infrastructures utilizing Amazon Web Services (AWS), including EC2,
+Security Groups, Route Tables, Elastic Load Balancer, and IAM.
+* Creating $3 bucket and managing the policies for $3 bucket and Storage, Backup of logs into Glacier, buckets, performed folder
+management in each bucket.
+* Defined security groups which acted as virtual firewalls to control the incoming traffic onto one or more EC2 instances.
++ Created Docker images using a Docker file , worked on Docker container snapshots, removing images and managing Docker
+volumes
+* Administration and maintenance of Source Code Management (SCM) systems such as GIT.
+
+Python/DevOps Engineer, 05/2019 to 09/2019
+Rockwell Automation Inc. - City, STATE
+* Configured Ansible to manage AWS environments and automate the build process for core AMIs used by all application
+deployments including AutoScaling, and CloudFormation scripts.
+
+Created Ansible playbacks to deploy and automatically scale applications with minimal dependencies
+Integrated Git, Jenkins and maven in accomplishing continuous integration and configured Jenkins with Poll SCM build trigger
+and creating Jenkins jobs and distributing load on Jenkins server by configuring Jenkins nodes which will enable parallel builds.
+Used Dynamodb to store the data for metrics and backend reports
+
+Installed, tested and deployed monitoring solutions with Splunk services.
+
+Python/Devops Automation Engineer, 09/2018 to 04/2019
+Gogo Inc - City, STATE
+« Automated the process of creating EC2 instances by triggering the CloudFormation template from Jenkins and deployed the
+application by developing Ansible Playbooks. Developed JSON templates with ansible to fully automate with Jenkins job
+* Created Docker images, upload/download in and out from the Docker Hub and Worked on setting up new tools such as
+Kubemetes with Docker to assist with auto-scaling, continuous integration, rolling updates with no downtime.
+* Configured Builds on Jenkins with ansible playbooks to perform OpenStack Deployment and Administrative Work.
+* Used the continuous Integration tools such as Jenkins for automating the build processes.
+* Managed GIT repositories for branching, merging, and tagging
+
+« Knowledge in creating user stories and filed bugs using Jira.

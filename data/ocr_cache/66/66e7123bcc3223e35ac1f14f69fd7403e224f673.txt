@@ -1,0 +1,86 @@
+MUSKAN CHAWLA
+
+2: 9953776253 | HX: info@getsetresumes.com | _ Linkedin: linkedin.com/company/getsetresumes
+
+CLOUD ARCHITECT & CONSULTANT - leveraging +4 years of experience
+
+Highly Accomplished Cloud Architect & Consultant with strong technical and functional knowledge of core enterprise systems and
+architectures in multiple areas, including SAP ECC, SAP NetWeaver Portal, Business Warehouse, Business Objects, and Readsoft AP
+Automation. Experienced in analyzing and implementing access control mechanisms and security methodologies. Proven track
+record of evaluating, implementing and governing hardware, software and solutions. Adaptable to all aspects of application
+development. Proficient in developing and delivering Google Cloud-Based applications to clients across the globe.
+
+PROFILE SUMMARY
+
+= Experience in setup and maintenance of Load Balancers. TCP/IP fundamentals, DNS, FTP, LDAP, Remote Access, Security
+Management, System Troubleshooting skills, and good knowledge in networking concepts.
+
+= Proficient in deploying Agile and Scrum Software Development Life Cycle with emphasis to delivering Operations, Functional and
+Technical Specifications, Resource Planning, Testing and Maintenance.
+
+= Adept at configuring ansible to manage AWS environments and automate the build process for core AMIs used by all application
+deployments including Auto scaling, and Cloud formation scripts.
+
+= Profound knowledge of RDBMS concepts and extensively worked with Oracle 10g/9i, PL/SQL, SQL Server & DB2.
+
+= Skilled at architecting and managing the migration of monolithic applications from on prem data centres to microservices based
+on cloud solutions.
+
+CORE COMPETENCIES
+
+= System, Platform, and Account Migrations = AWS Cloud Infrastructure = Authentication Systems
+= Enterprise Computing & Networking = Application Architecture = Data and Cloud Security
+
+PROFESSIONAL EXPERIENCE
+
+Bellurbis LLC, Greater Noida Jan. 2019 - Oct. 2021
+
+Cloud Architect & Consultant
+
+= Developed and documented technical designs, ET architecture and frameworks for secure integration and implementation of new
+cloud infrastructure and applications, to improve performance, manage costs and drive efficiencies.
+
+= Performed regular Vulnerability Threat Assessments with Dome9, and Nessus, Compliance tests and monitoring with Barracuda
+Cloud Guardian, AWS Config and AWS Detective, Network Security using Palo Alto VM-Series, and Aviatrix SNP, integrated with
+SIEM resources like AWS GuardDuty, Splunk and QRadar.
+
+= Utilized CloudWatch, Cloud Trail, SQS, Redis and ElasticSearch for message queueing and log aggregation, used Splunk for real-
+time log analysis, distributed alerts with SNS topics, and stored the reports in AWS $3 buckets.
+
+= Oversaw cloud infrastructure design and developed detailed architecture models for the customers to host Test, development,
+and production environments.
+
+= Planned for system and application migrations to the cloud, adhering to the customers’ technical and business requirements.
+
+= Spun up VPs from scratch, and provision solutions with Identity and Access Management (IAM) to create user profiles, groups,
+policies, federated identities and roles, to ensure least privilege and mitigate risks.
+
+Clarivate, Greater Noida Sept. 2017 - Dec 2018
+
+Cloud Architect & Consultant
+
+= Responsible for setting the overall direction of the technical solution of the implementation with an enterprise application
+
+= Provided designs for engineers on the project on how to deliver programmatic elements of the implementation.
+
+= Lead and contribute with presentations and discussions in customer workshops, providing solution and technical expertise
+
+= Designed scalable, high throughput, asynchronous microservices with Redis & Confidential MQ.
+
+= Defined MongoDB Business, Technical, and Infrastructure Use Cases and Migration Strategy
+
+ACADEMIC CREDENTIALS
+
+= Bachelor's Degree in Computer Science | Delhi Technological University, Delhi | 2017
+
+= Certificates: AWS Certified Solutions Architect — Professional | Google Cloud Certified — Professional Cloud Architect
+
+=" Technical Skills: Cloud, Microservices, Web Services, Distributed, Middleware, Identity and Access Management, Multi-Tiered,
+Enterprise Application Development
+
+PERSONAL DOSSIER
+= Languages Known : English & Hindi
+
+~References and other document's available~
+
+Muskan | Resume | Confidential | Page Number 1/1

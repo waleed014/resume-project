@@ -1,0 +1,141 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor (555) 492-1000 4 resumesample@example.com
+
+College educated with 13 years of corporate technical and managerial experience working in Information
+‘Technology and Supply Chain Operations. Strong written and verbal communication skils English and
+Spanish. Obtains measurable results exceeding professional and personal goals.
+
+Education Contributing to the organization's strategic plan with
+Bachelor of Science in Computer Engineering trom my strong technical and leadership skils. Strong
+Univ. of Puerto Rico, Mayaguez Campus. analytical competency. Organic political savvy
+Employment ‘mindset. Strong communication skils.
+
+Personal
+
+‘Strong work ethic with a positive approach,
+Continuously striving to achieve goals, exceed
+expectations and delight customers, Organized and
+focused and detail oriented
+
+SR. SAP CONSULTANT (06/2009 to 02/2015
+‘Axon Puerto Rico | City, STATE
++ Dutles include Project Management, Software Development, Functional and Technical tasks
+‘+ Traveled to client locations to implement SAP solutions and offered post-installation support services,
++ Architected SAP solutions by prioritizing simplicity, appropriate scale, resiliency and maintainability.
++ Solved functional and technical obstacles and worked closely with project team from dierent streams
+‘+ Delivered SAP training, user support and knowledge transfer at end of project and followed up to verity
+successful implementation,
+‘+ Troubleshot incidents reported by end-users to schedule system changes and identity permanent
+solutions,
++ Communicated and explained business requirements to team members to understand and implement
+functional demands.
++ Collaborated closely with upper management to drive strategy through development and
+implementation of new processes,
+
+BIODATA PROGRAM MANAGER. 05/2020 to 12/2021
+Arecibo Observatory | City, STATE
+
++ Incharge of designing the Big Data strategy of the Arecibo Observatory.
+
++ Successfully prepared a robust inventory and report of the observatory's project data, covering over
+1,700 observations dating back to the 1960's.
+
++ Designed and developed a web based data catalog to facilitate the access to external users to the
+observatory's projects index and metadata,
+
++ Serve as liaison between the Observatory's management and third party vendors while designing the
+Observatory’s Big Data strategy.
+
++ Facilitated the engagement with global research community and computing centers, resulting in the
+design and implementation of a data migration plan from Arecibo to the Texas Advanced Computing
+Center. This engagement vail result in a substantial benefit to the scientific community while allowing a
+public access to the Observatory's data
+
++ Led the implementation of process improvement initiatives such as Change Management and Data
+Governance frameworks
+
++ Led the Software Engineering team to successfully implement software best practices, tools and
+processes
+
+FRCIELANCE IT CONSULTANT 01/2004 to CURRENT
+Self-Employed | City, STATE
+
++ Duties include supporting small business owners by providing reliable IT services
+
+‘+ Acquired hands-on knowledge of web development tools and techniques such as PHP, SQL, JavaScript,
+jQuery, Content Management Systems, Codeigniter and Python
+
+‘+ Mentored and provided training to users in each of the customers’ locations for in-depth transfer of tool
+ownership
+
+‘+ Acquired hands-on experience with Big Data technologies such as Hadoop to store large amounts of
+data on distributed fle systems, Apache Spark to process large amounts of transactions in-memory and
+Apache Hive as a data warehousing solution to query Hadoop data
+
++ Provided support on data migration projects trom legacy systems, combining multiple data sources into
+a single centralized data source that enables solid foundation to self-service analytics development,
+
++ Liaised with customers, management and sales team to better understand customer needs and
+recommend appropriate solutions.
+
++ Boosted success of client's organization by improving performance, motivation, job satisfaction, hiring
+Practices, training programs and management systems.
+
+SFOSYSTEMS BUSINESS ANALYST 02/2015 to 04/2020
+Honeywell Aerospace | City, STATE
+
+‘Duties include IT Project Management, Functional and Technical tasks, SAP FRICE development and
+Lifecycle. Gained knowledge on SAP HANA technology as a use case for business performance,
+analytics development, scalability, speed, and flexibility. integrated various department's data into a
+single SAP HANA instance and simplified the IT landscape of the Supply Chain, Sales and Marketing
+departments PMO and analytics programs, Enabled capture of $107M Quarterly by researching and
+Implementing mult-source database driven application, cost-saving initiatives and creating fresh new
+approaches to long-standing problems caused by Excess and Obsolete materials and Aged Work in
+Progress Orders, Mentored, directed and inspired employees by being able to translate business
+problems and requirements into technical language that they were able to relate, Demonstrated
+leadership skils by involving the employees into the requirements gathering process, provided the tools,
+and mentorship and inspired them to be their best by sharing the credit and success of the project.
+Increased customer satisfaction and repeat business through relentless pursuit of resolutions to
+problems and protecting company P&L.
+
++ Collaborate with Sales, Engineering and Strategic Marketing teams to understand current reach of
+existing technologies and develop a future state plan including integration with SalesForce.com Partner
+vith Corporate Data Analytics team, Demonstrated Planning and prioritized skils by working without
+supervision. With the obtained requirements successfully built a Project Pian that included high levet
+goals, budget, resources and deadlines. Conducted weekly checkpoint meetings with stakeholders as
+well as team members. Identitied areas of opportunities and submitted appropriate solutions by
+analyzing potential risks on a team environment encouraging member participation.
+
+‘+ Support and participate in application change control board meetings. Successfully designed and
+developed a systems integration landscape that included SAP, Excel, SharePoint, Microsoft Access,
+‘Tableau and Oracle Primavera. Proactively identified gaps in personal and technical skills and was able
+10 obtain training to improve deficiencies and develop them. Able to put in practice my listening and
+interpretation skills by participating in meetings with leadership teams, Persuade stakeholders on
+technical matters that | understood were more appropriate to the team at the moment by comparing
+pros, cons and benefits.
+
+Bachelor of Science | Computer Engineering
+Univ. of Puerto Rico, Mayagtiez Campus, PR
+
+Master of Science
+Univ Politecnica De Puerto Rico, San Juan, PR
+
+Engineer In Training (E17)
+
+December 2016 Professional Credential Services, Nashville, TN Puerto Rico Engineering and Land
+Surveyors College
+Six Sigma Green Belt
+
+October 2015 Honeywell Six Sigma, Phoenix, AZ

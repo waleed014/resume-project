@@ -1,0 +1,82 @@
+Domenick Grady
+59572 Kutch Ford, Phoenix, AZ, @ Phone: +1 (555) 124 9270
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR ACTIMIZE / ORACLE DATABASE DEVELOPER
+Philadelphia, PA
+08/2014 — present
+‘© Strong technical background covering Oracle PL/SQL programing and Actimize product
+Proven track record in data modelling, delivering Oracle based solutions - SQL queries, PL/SQL code
+Documenting database design using visualization tools
+Promote a culture of high standard data processing and surveillance modules
+Adhere to and help to refine the CS standards on development and architecture best practices for the team
+asa whole
+‘* Understand Control Room’s IT platforms, how they are wired together, how they interact and how would
+change be orchestrated in these platforms to support regulatory agendas and programs
+‘© Work with high volume of data
+
+SENIOR ORACLE DATABASE DEVELOPER
+‘San Francisco, CA
+07/2010 — 02/2014
+
++ Participates in continuous improvement efforts in enhancing performance and providing increased
+functionality
+Work with development team in build out of application code
+Identify tuning opportunities; implement improvements and advice developers on SQL tuning options
+Interact with application developers and management as well as database and database tool vendors
+Provide expert level support and recommendations to the Development team for Oracle DB use
+Perform program design, coding and Development
+Performing unit and integration testing
+
+ORACLE DATABASE DEVELOPER
+Detroit, MI
+01/2008 — 04/2010
+‘+ Views Portfolio Reporting is J.P. Morgan’s flagship reporting platform that is powerful and easy to use,
+empowering clients with “any view, any time. Views Portfolio Reporting is part of the J.P. Morgan
+ACCESS portal, our single point of access for information reporting, inquiries, and investment and
+transaction services for different business categories
+‘* Provide support on a wide range of database development and administration functions in a RAC
+configuration, including running test queries, troubleshooting database problems, maintaining version
+control of database entities, advising customers on new database features, and leading studies to evaluate
+the effectiveness of current database methods and procedures, investigation of issues arising from data
+loss and corruption — 10%
+‘* Work closely with several resources (internal and external) to troubleshoot live application issues in the
+timely fashion (ex.: issue escalations from the field)
++ Apply focused development changes (Industrialization) across oracle database and see the changes applied
+through the life cycle of environments and testing into production via internal deployment tool
+‘* Work collaboratively with Development, Application Support and Quality Assurance teams
+‘© Creates and maintains database replication tasks (Attunity / Golden Gate) for distribution of Quorum
+data to multiple nodes on the quorum framework
+‘* Practice good analysis, design and development standards through reviews and workshops in
+collaboration with other team members, specifically the development team
+
+(CARNEGIE MELLON UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+‘+ Extensive hands-on Oracle database experience from data modeling to deployments in high performance
+and highly scalable applications
+
+* Good working knowledge of DB performance monitoring tools
+
++ Proficient in SQL with good PL/SQL programming
+
+‘© Deep understanding of data access patterns from applications and optimization for optimal performance,
+
+maintainability, security and operability
+
+Team player, quick learner, individual drive, autonomy, "Walks the extra mile” behavior
+
+Strong technical design skills - writing technical design documents
+
+Hands-on ability with installation and building database structures
+
+Proficiency developing and maintaining shell scripts as well as programming in PLISQL
+
+Good analytical and problem solving skills
+
+Ability to perform backup and recovery tasks

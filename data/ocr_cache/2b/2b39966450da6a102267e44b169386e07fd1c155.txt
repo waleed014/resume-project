@@ -1,0 +1,121 @@
+MARCUS HALL
+Network Security Engineer
+
+982-968-7687 marcus23@yahoo.com reflecting-void.net
+North Eribertoburgh, Bhutan
+
+SUMMARY
+
+Experienced Network Security Engineer with 5+ years of work experience
+and a BS degree in Computer Science. Proficient in engineer, implementing,
+and monitoring security measures for the protection of the network and
+critical assets. Skilled in managing playbooks for security automation and
+orchestration using a XSOAR tool. Strong experience in managing policies
+for CASB using Palo Alto Networks CASB and remote access solutions using
+Panorama and Splunk. In-depth technical knowledge of PKI infrastructure,
+network, load balancers, DMZ, and VMware from a security standpoint.
+Proven track record of providing O&M and engineering support to complex,
+mission-critical systems. Highly knowledgeable in network security,
+networking technologies, and network monitoring tools.
+
+EXPERIENCE
+
+Network Security Engineer 2022 - Ongoing
+
+GlobalTech Solutions New York
+
+Implemented and managed security measures for protecting the network and
+
+critical assets. Developed and executed comprehensive strategies to mitigate
+
+security risks. Collaborated with cross-functional teams to resolve complex
+
+security issues.
+
+* Engineered and implemented network firewalls and IPS/IDS resulting in
+improved network security.
+
+* Managed playbooks for security automation and orchestration, streamlining
+security processes.
+
+* Designed and managed policies for CASB using Palo Alto Networks CASB,
+ensuring data protection and regulatory compliance.
+
+Senior Network Security Analyst 2017 - 2022
+
+CyberShield Systems
+
+Led the implementation and management of network security measures to
+
+safeguard critical assets. Conducted vulnerability assessments and implemented
+
+remediation strategies. Provided expert guidance on security best practices.
+
+* Managed remote access solutions using Panorama and Splunk, improving
+system accessibility and reporting.
+
+* Supported administration of PKI infrastructure, ensuring secure and reliable
+cryptographic operations.
+
+* Collaborated with engineering team to provide O&M support to complex,
+mission-critical systems, ensuring continuous availability and optimal
+performance.
+
+San Francisco
+
+Powered by (CX? Enhancu
+
+www.enhancv.com
+
+YY LIFE PHILOSOPHY
+
+Security is not a product, but
+a process.
+
+STRENGTHS
+
+® Problem-Solving
+
+Consistently resolved
+complex network security
+issues resulting in enhanced
+protection of critical assets
+and improved system
+performance.
+
+Collaboration
+
+Demonstrated effectiveness
+in collaborating with cross-
+functional teams to develop
+and implement
+comprehensive security
+solutions.
+
+x Analytical Thinking
+
+Utilized strong analytical
+skills to identify
+vulnerabilities, analyze risks,
+and develop proactive
+security measures.
+
+SKILLS
+
+Network Security - Firewalls -
+Intrusion Prevention Systems -
+Security Automation -
+Orchestration -
+
+CASB Management -
+
+PKI Infrastructure -
+
+Network Monitoring -
+
+Load Balancers - DMZ - VMware -
+Cybersecurity Risk Management -
+Vulnerability Assessment -
+Incident Response -
+
+Ethical Hacking

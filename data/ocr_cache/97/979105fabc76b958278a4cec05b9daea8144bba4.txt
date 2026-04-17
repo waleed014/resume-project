@@ -1,0 +1,53 @@
+Robert Smith Phone (23) 4867899
+
+Email Infoguvikresume,com
+
+"i Website: vauu.qwikresume.com
+Senior Sql Developer LUnkedin: linkedin.com/quikresurne
+
+‘Address; 1737 Marshullle Road, Alabarna
+
+SUMMARY
+
+{4 years of experience SQL Server Administration, Development Database Design in Production
+evelopment Test environments with Microsoft SQL SERVER [] & 2014, Experience working with
+32bit, 64-bit MS SQL Server Clustered and Standalone Server Environment. Handful experience
+butstanding knowledge on High
+
+SKILLS
+
+“Tansact SQL, Microsoft SSIS, Microsoft SSAS, Microsoft SSMS, Microsoft SSRS, Microsoft SQL
+Server, Oracle, .NET, Data Warehousing Tools, Stored Procedures And Triggers,
+
+WORK EXPERIENCE
+
+Senior Sql Developer
+Capital One - june 2014 - 2020
+* Responsibilities Created Stored Procedures, Traders, Views Functions for application,
+* Migrated the legacy Databases in SQL Server 2000 to SOL Server 2005 using SSIS.
+Wrote T-SQL statements for retrieval of data Involved In perfomance tuning of TSQL queries
+and Stored Procedures,
+Trouble shooting of Reports by cross checking Report Layouts, Stored Procedures and SSIS
+Packages,
+Developed several Complex Reports using SQL Server Reporting Services (SSRS),
+Created Ad-hoc Reports, Drill Down Reports, Pivot and Tabular Reports
+Upgraded SQL Server 2000 DTS Packages to SSIS for uploading various formats of les
+databases MS SQL Server 2005 using SOL Server Integration Services (SSIS).
+
+Senior Sql Developer
+Delta Corporation - 2013-2014
+Responsibilities Installed and configured SQL Server 2005/2008 on the server and cllent
+‘machines, pravide connections and manage databases.
+Created and maintained various databases for Production, Developrnent Servers using MS
+SQL Server 2005/2008.
++ Planning the location of data, Indexes, and Transaction logfiles of the disk,
+* Use of DBC Uilities to maintain the Consistency and inteurty of each database in the
+production server.
+Resolved locking and blocking issues,
+Tuning the Production server to get the performance impravernent,
+Running index tuning wizard for optimal query performance.
+
+EDUCATION
+BS In Computer Selence~ 2005(saker - Flint, Mi)
+
+(0 This Era sume Tamla is the copyright of Onakesume com. Uso Guldatns

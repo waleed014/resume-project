@@ -1,0 +1,63 @@
+Nora Wright \
+
+Junior Developer | ETL | BI | Hadoop | SQL Server
+@ help@enhancv.com 2 linkedin.com
+Q New York City, New York
+
+SUMMARY
+
+Adept Junior Developer with over 6 years of experience. Proficient in ETL, BI development, Hadoop, SOL Server, Informatica and UNIX scripting with a proven record
+of enhancing business operations through meticulous database management and data analysis. Awarded ‘developer of the year’ for exceptional developmental
+contributions.
+
+EXPERIENCE
+2017-2019 @ Database Developer
+New York City, New York IBM
+Worked on database design and creation for large scale data warehousing solutions.
++ Collaborated with a team of 5 to create a fault-tolerant data storage solution for large clients, improving their data retention
+capability by 50%.
++ Utilized Informatica PowerCenter to build ETL workflows, reducing data integration time by 40%.
++ Part of a team that migrated legacy Teradata BTEQ scripts to Informatica mappings, improving data accessibility by 35%
+2015 - 2017 @ Software Developer
+New York City, New York Oracle
+Developed and maintained software applications using Java and UNIX scripting.
++ Created 5 data-intensive applications leading to a 20% reduction in processing time.
++ Applied UNIX scripting to automate system processes, resulting in a 60% reduction in repetitive tasks.
++ Participated in code reviews, leading to identification and resolution of over 100 bugs.
+2013 - 2015 @ Business Intelligence Analyst
+New York City, New York Microsoft
+Designed and developed BI reports and dashboards using MS Office tools and SQL Server.
++ Designed over 20 interactive dashboards, leading to a 30% improvement in business decision-making.
++ Collaborated with the ETL team to ensure consistent and accessible data flow for BI reporting.
++ Successfully translated business user needs into BI technical requirements on 50+ occasions.
+STRENGTHS
+@® Problem Solving QQ Communication
+Adept at utilizing programming constructs to solve complex business Demonstrated ability to effectively convey technical information to
+problems, leading to a 30% increase in efficiency non-technical stakeholders, improving project delivery speed by 20%
+
+Detail Orientated
+
+Detail-oriented mindset fostered while debugging vast lines of ETL
+code, greatly reducing errors in projects.
+
+EDUCATION
+
+2011 - 2013 @ Master's degree in Computer Science
+
+New York City, New York Columbia University
+
+2007 - 2011 @ Bachelor's degree in Information Technology
+
+New York City, New York New York University
+
+SKILLS
+
+MS Office Excel © ETLDevelopment — Informatica: UNIX Scripting DataWarehouse Management  Hadoop SQLServer _— Java
+
+BI Development
+
+CERTIFICATION
+Certified Informatica Developer UNIX Shell Scripting Certification
+A course certified by Oracle, focusing on ETL A course certified by IBM, focusing on automating
+
+operations using Informatica tasks using Unix shell scripting

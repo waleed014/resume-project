@@ -1,0 +1,91 @@
+Robert Smith
+
+Staff Mechanical Engineer/Manager
+
+PERSONAL STATEMENT
+Ahighly effective Engineering Professional (dual US/Canadian citizen) with
+more then 25 years of experience, who meets challenges head-on and
+Creates positive change. A creative and detail oriented inelvidual with 2
+Fecord of success in management, engineering, and design development. A
+strong leader with a solid technical foundation who develops and leads
+teams, while achieving outstanding resutsin fast-paced, dynamic business
+environments,
+
+WORK EXPERIENCE
+
+Staff Mechanical Eng ineer/Manager
+‘ABC Corporation - November 2009 - July 2013,
+Responsibilities:
+
+* Designed and developed of mechanical parts and assemblies per
+‘marketing requirements, UL, and FCC standards.
+
++ Created 3-0 models In SolidWorks to perform assembly interference
+checking and tolerances stack-up analysis per design intent and to
+‘generate STEP or IGES files for vendors on tooling design and CNC
+machining,
+
++ Designed and created Mechanical Keep Out (MKO) drawings for EE team
+to design PCB layout and fabrication.
+
++ Performed finite element analysis (FEA) for plastic parts in Solidworks
+Simulation for design integrity and part optimization which reduced the
+design verification process from 8 to 3 weeks.
+
++ Wrote test protocols and plans.
+
++ Coordinated with lab technician to run tests and collect data for
+evaluation.
+
++ Conducted DOE on enclosure cooling design and draw the best
+conclusion based on the experimental test data,
+
+Staff Mechanical Engineer
+Delta Corporation - 2008 - 2009
+Responsibilties:
+* Optima ultracentrifuge - Eliminated a high-pitched noise that had been
+plaguing the drive design for many years.
++ Used FEA and experimental rnethads in the optimizetion ofthis
+patented design
++ Optimized airflow for efficient cooling and quiet operation using CFD,
++ Stiffened instrument frame to eliminate undesirable vibration using FEA.
++ Characterized thermal performance of test chamber
++ Designed mechanical layout of rotor drive inverter board,
+* Analytical Centrifuge - Designed anew interferometer ta replace one
+based on an absolete camera,
+
+(Ths Ema Resume Temlate the copyright ot Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+Infow@awikresure,com
+wwqwikresume.com
+
+SKILLS
+
+Modal Analysis, FEA,
+NVH, Nolse And
+Vibrations Analysis And
+Control Technologies,
+Sound And Vibration.
+
+LANGUAGES
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Cacking
+Reading
+
+REFERENCES
+Reference - 1 (Company
+Name)
+
+Rafrence-2(Compary
+Nema) r

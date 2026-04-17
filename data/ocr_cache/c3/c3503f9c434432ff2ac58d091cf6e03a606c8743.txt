@@ -1,0 +1,132 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+‘Well experienced in business process study, requirement gathering, mapping, configuration, functional specification, implementation, user
+training - documentation and support. Full life cycle
+
+implementation knowledge and experience includes ASAP implementation methodology, GAP Analysis, blueprinting, development, testing
+and training
+
+Semis
+
+* Well versed in business process study, requirement gathering
+mapping, configuration,
+functional specification, implementation, user training -
+documentation and support. Full life cycle
+implementation knowledge and experience includes ASAP
+implementation methodology, GAP
+Analysis, blueprinting, development, testing and training
+
+© SAP Functional - Order Management . Shipping, 3PL activities,
+Billing, Billing Plans, Milestone Billing, Invoice Lists,
+Transportation, Shipping Costs, Interfaces, Pricing, routine
+programming, Purchasing, Inventory Management.
+
+* Configuration expertise in following aspect of SD module:
+
+Master Data:- Partners, Customers, Contracts, Contact Persons,
+Sales Partners, Hierarchy, Account Groups, Number ranges,
+‘Materials, Item Proposal, Item category group, Customer material
+info record, Agreements, Schedule Agreements.
+
+« Pricing: - Pricing Determination. Creation and Configuration of
+pricing procedures for various condition types and business
+processes
+
+* Credit Management: - Credit Control area, Credit limits, Groups
+
+« Sales: - Inquiry, Quotation, Order, Availability check, Back Order,
+
+* Copy control rules, text control, batch determination, cross
+selling
+
++ Customization of All types of Sales documents, Delivery and
+Billing Documents.
+
+* Defining Organization structure like Sales organization,
+Distribution channel, Division, Sales office and also units relevant
+to other Modules like MM & FL
+
+* Configured Standard order types, Complaints, Return orders.
+
+« Extensive knowledge on Output Determination, Customer
+Hierarchy and Third party order
+processing.
+
+* Configured Incompleteness, Partner and output determination &
+Material Determination procedure.
+
++ Involved in discussions and decision making process of bringing
+down the migration data
+from legacy to SAP system when using LSMW process.
+
++ SAP EDI- Monitoring, trouble shooting and error correction of
+incoming and outgoing idocs
+types 810, 830, 850, 855, 856, 862.(Specializing the automotive
+industry).
+
+«Integration with 3PL for transportation related business processes
+
+Sales order Types, Consignment stock, Retumable Packaging,
+BOMs.
+
+‘Shipping: - Delivery Processing, Delivery types, Shipping point
+determination, Route determination, Transportation and delivery
+scheduling, picking, packing, Goods issue.
+
+‘ Transportation: Shipping types, Shipment documents,
+Transportation Planning Delivery split.
+
+« Billing: - Document types, invoices, Pro forma Invoice, Billing
+Methods, Rebate
+Agreements, and Intercompany Billing.
+
+« Output determination - Output types, partner profiles, Output
+determination procedures, smartforms, communication strategies,
+ete.
+
+EXPERIENCE
+
+04/2020 to 01/2021 SAP Functional Analyst
+Asre Federal Holding Company — Bethesda, MD
+‘© Work within the IT applications team as a Sr. SAP functional analyst for service requests,
+enhancements and projects
+‘+ Gather requirements from the business through workshops/meetings and translate them to functional solutions
++ Configure the back end settings in the ECC system and write functional specifications for the technical
+development team
+‘© Work with the technical team in converting the functional requirements to technical solutions
++ Testing changes and moving the developments thru various systems
+‘Working with the business team thru UAT and finally working with the basis team to move the development to the
+production system.
++ Coordinate with EAI and EDI teams to develop new requirements for eBusiness.
+
+07/2017 to 03/2019 Consumer Loan Officer
+Altura Credit Union — Riverside, CA
+‘* Analyzed applicants’ financial status, credit and property evaluation to determine feasibility of granting loan.
+‘* Educated customers on variety of loan products and available credit options to promote valuable decision-making
+« Adhered to federal and state compliance guidelines relative to retail mortgage lending.
++ Performed daily maintenance of loan applicant database.
+‘* Obtained and compiled copies of loan applicants’ credit histories, corporate financial statements and other financial
+information to update credit and loan files.
+‘© Gathered and documented client financial information and application details meeting lending requirements and
+accurately representing client status
++ Prequalified borrowers based on credit criteria and offered debt counseling and financial education to clients and
+potential clients to help attain loan qualification.
+‘* Built relationships with clients and used knowledge of consumer marketplace, products and finance to fully
+understand clients’ personal plans and introduced suitable loan services.
+
+12/2013 to 07/2015 At-Home Advisor
+Apple — City, STATE
+‘* Developed and implemented troubleshooting plans to improve number of issues resolved in initial call by 25%.
+‘* Assisted 40+ customers on a day to day basis exceeding customer satisfaction targets of 90%,
++ Objained initial Apple product certifications and participated in continuous training courses to exceed customer
+satisfaction.
+
+Epucation Np TRAINING
+
+BBA: Business
+Georgia State University - Atlanta

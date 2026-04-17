@@ -1,0 +1,59 @@
+SAP® Certified
+Associate
+Sagar Mantri
+Contact : +91 9130406459 E-Mail
+JOB OBJECTIVE
+
+agar.b.mantri@gmail.com
+
+Seeking a challenging and rewarding career in SAP as UIS, Fioni & ABAP consultant where I can contribute
+my knowledge and skills for growth and development of the organization and to be able to implement
+solutions that meet the customer requirements using my variety of software development skills and technical
+expertise.
+
+PROFILE SUMMARY
+‘+ 6.7 years of relevant experience in SAPUIS, Fion & ABAP Consultant with different types of SAP
+projects like Implementation, upgrade, maintenance and Support for reputed clients into different
+business sectors
+‘+ SAP Certified Development Associate- ABAP with SAP NetWeaver 7.40
+‘+ Presently associated with TCS Ltd, Pune as SAP ABAP Consultant
++ Expertise in SAPUIS, SAP FIORI, OData HTMLS, CSS3, JavaScript, Workflow, Data Dictionary,
+classical/interactive Reports, Menu Painter, Screen Painter, Module Pool Programming, SAP Script,
+Smartforms, BDCs, BAPI, RFC, ALE/IDOCS and all enhancements techniques and Performance Tools
+Custom Apps Development using UIS, JavaScript, JQuery and MVC frameworks on SAP Web IDE,
+Expertise in Integrating Gateway ODatalJSON services with UIS Apps.
+Customization and extension of Fiori Apps using SAP Web IDE and Eclipse.
+Expertise in configuring the standard Fiori Application, redefining the existing OData services and
+enhancing the Fiori Apps according to client requirement
+Expertise in implementing Reports, Interfaces, Conversions, Enhancements, Forms and Workflows
+Expertise in extending OData services and customizing/Extending the standard Fiori Apps.
+Experience with Performance Analysis, Performance tuning, Debugging
+Strong experience in Performance Tuning and Optimization of ABAP programs using SQL Trace,
+Performance Analysis and Runtime Analysis
++ Effective in executing multiple tasks and assignments ahead of schedule and under budget Capable of
+working independently with minimum direction
+Proficient & expertise in gathering requirements and developing Technical Design.
+Possesses strong analytical, problem solving, diplomatic, communication and client facing skills
+‘+ Ability to leam quickly and take up new tasks and responsibilities
+
+CORE COMPETENCIES
+
+Project Management
+
+‘© Mapping client's requirements and providing them best solutions involving evaluation and definition of
+the scope of the project and finalisation of the project requirements
+
+© Onshore — offshore co-ordination from onsite location with handling various development activities.
+
+Software Development
+
+‘+ Handling complete software development life cycle involving project planning, estimation, tracking and
+delivery
+
+‘*  Pasticipating in design reviews to ensure integrity of the solution, providing SLA and costs for existing
+solution(s) prior to Business Case/Proposal Development
+
+‘* Delivering and implementing the project as per scheduled deadlines and extending post-implementation and
+maintenance support
+
+TECHNICAL SKILLS:

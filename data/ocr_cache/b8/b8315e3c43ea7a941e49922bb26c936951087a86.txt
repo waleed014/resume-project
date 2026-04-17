@@ -1,0 +1,88 @@
+JASMINE BELL
+
+Blockchain Developer
++1-5491-295-157 * ronnyphoenix@gmail.com « https://www.linkedin.com/in/ron-phoenix/ * Dallas, TX
+
+Summary
+
+Resourceful Blockchain Developer with 10 years of experience in software engineering. Co-founded ConanSwap, a DEX with
+20,000 active supporters. Mastered JavaScript, Golang, and Python. Extensive knowledge in smart contracts, consensus
+algorithms, and data structures. Looking for a job as a Blockchain Developer that will allow me to build the financial system of
+
+tomorrow.
+
+Experience
+
+Dallas, TX
+01/2018 - 07/2022
+
+BitowFi
+
+Blockchain Developer
+
+BitowFi is one of the leading regulated institutions of digital assets in the USA.
+
+* Closely collaborated with the product and dev teams to improve the efficiency of the platform by 25%
+
+* Built 5 reusable cross-chain libraries
+
+* Participated in the development of 3 new tools and integrated them into the platform
+
+* Assisted in developing the backend that became the foundation for the intersection between Web3 and FinTech
+
+* Participated in 5+ open source community projects, met with stakeholders, and mentored and tutored 3 junior developers
+
+New York, NY
+09/2014 - 11/2017
+
+FroanX
+Javascript Developer
+
+FroanX combines credit cards, payments, and expenses into one experience.
+
+* Participated in the development and maintenance of the application
+
+* Led the team of 2 developers to develop a front-end reporting system for FroanX's internal clients
+* Developed software that helped customers to simulate loans which increased the loans by 10%
+
+* Designed and developed 2 micro-services
+
+New York, NY
+12/2012 - 02/2014
+
+Deex Finance
+Junior Developer
+Deex Finance offers online payment processing and commerce solutions for Internet businesses.
+
+* Competed 10+ projects
+* Improved user interfaces by updating menus to be more intuitive, attracting 5% more clients than the previous quarter
+* Participated in developing a complex bookkeeping system that handled financial transactions 60% more efficiently than the
+
+previous one
+* Improved database performance by 12% by using materialized views and stored procedures
+
+Skills
+
+Blockchain Technology - Web3 - JavaScript - Python - Golang - Cryptography - Consenus Algorithms -
+Smart Contracts - Distributed Systems - Data Structures -OOPs
+
+Projects
+
+Dallas, TX
+02/2021 - 04/2022
+
+ConanSwap is a decentralized exchange (DEX) that allows trading cryptocurrencies and tokens on the Ethereum network.
+
+* Co-founded the DEX and served as senior blockchain developer
+* Participated in building a community of 20,000 people who bought the ConanSwap crypto token
+* Built the smart contract code and increased its efficiency by 25% more than the prime competitors
+
+ConanSwap
+
+Education
+Xavier High School New York, NY
+High School Diploma 09/2002 - 06/2007
+New York, NY
+
+New York University
+Bachelor of Computer Science 10/2007 - 06/2011

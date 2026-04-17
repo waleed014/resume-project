@@ -1,0 +1,72 @@
+Cheyanne Corwin
+39137 Ilene Parkways, Los Angeles, CA # Phone: +1 (555) 710 5320
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR FULL STACK JAVA DEVELOPER
+Houston, TX
+10/2016 — present
+‘© Develop and implement solutions for the RiskManager web application
+‘Create and execute unit test cases (both automated and manual)
+‘* Work with senior engineers, product managers, and customers to clarify user stores, estimate tasks, and
+deliver quality code within the committed iteration
+‘* Research and become the Subject Matter Expert (SME) on the interaction of the Service with source
+systems as well as interaction with the consumers (business users)
+‘© Work with application management to provide tier 3 support for production issues
+‘* Produced and review enterprise-level system design documentation, including: XML schemas, WSDL's,
+Use Cases, Software Architecture Documentation, Service Mapping (ie., map service schema to backend
+source systems), Consumer Guide (ie., end user documentation), and transition documentation to
+support the team
+‘* Write code and assist in development of new products/features and enhance and/or maintain existing ones
+
+FULL-STACK JAVA DEVELOPER
+Chicago, IL
+12/2012 — 04/2016
+‘+ Be involved in the complete software development life-cycle, including working with the production
+‘operations team to prepare and execute releases
+Makes recommendations towards the development of new code or reuse of existing code
+Proactively work on assigned tasks and task areas and co-ordinate the work effort
+Develop innovative features that are highly performant, compatible and responsive
+Deep knowledge of software engineering practices: unit testing, configuration management, and release
+management
+‘+ Provides technical advice and assists in solving programming problems
++ Ensuring that technical software development process is followed on the project, familiar with industry
+best practices for agile software development
+
+FULL STACK JAVA DEVELOPER
+‘San Francisco, CA
+08/2008 — 08/2012
+‘© Day-to-day you will be responsible for working with that team to design, create and improve new and
+ing produets, platforms and transactions
++ Applications developer working in a scrum of developers responsible for specific applications
+‘+ Creating Automated Unit Tests using Flexible/Open Source Frameworks using a Test Driven
+Development approach
+Working knowledge in technical leadership of development remote teams
+Sharing knowledge of tools and techniques with the wider team, both developers and non-developers
+Develop business and system knowledge quickly and lead the development team as Tech Lead/Architect
+Analysis, Design, Development and Testing of software applying best practices of Software Engineering
+at every phases of the development process
+
+UNIVERSITY OF SOUTH FLORIDA
+Bachelor’s Degree in Computer Science
+
++ Able to define quality and security standards. Good verbal and written communication and negotiation.
+
+Capability to develop highly scalable distributed systems
+
+Proficiency in Java with strong experience in design, development and testing of web based systems
+Strong Knowledge of RDBMS (Oracle)
+
+Solid knowledge in Java, JSF, and JSP to help with legacy code
+Good knowledge of Java SWT/Swing GUI
+
+Good knowledge of Ant and Maven, Huston/Jenkins and Sonar
+Propose designs for complex features with reusability, maintainability, and performance in mind
+Strong experience on service oriented architecture using Rest/SOAP. Knowledge on micro services
+architecture has added advantage
+
++ Basic knowledge of mathematical finance and derivative pricing models

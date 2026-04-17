@@ -1,0 +1,47 @@
+React JS and Node.js
+Developer CV Example
+
+SKILLS
+
+* ReactJS development framework and tools
+
+RESTful API tools design and development
+
+Single-page-applications (SPAs) design and development using React,
+Redux, and Node tools
+
+Developed and managed technical documentation for Redux state
+management
+
+* Application development methods (Agile, Kanban, Waterfall)
+
+* Project management tools (Jira, Atlassian, Asana)
+
+* Version control management (Git, SVN)
+
+EXPERIENCE
+
+Working as a full-stack NodeJS and React developer (both frontend
+and backend)
+
+Transition monolithic services and application to service-based and
+modular NodeJs applications and tools
+
+Have developed single-page applications using a full stack
+REactJS+NodeJS web development tool
+
+Have designed and developed modular and reusable RESTful APIs and
+frontend components
+
+Have worked with a team, and managed work using a centralized set of
+project management tools
+
+Web development using version control and code-base management
+tools
+
+EDUCATION
+
+* Master's degree in Information Technology
+* Certified React programmer
+
+GReactResumes.com

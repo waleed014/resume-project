@@ -1,0 +1,115 @@
+Avery Rodriguez
+
+Entry Level .NET Developer | C# | ASP.NET | SQL
+
+@ help@enhancv.com  linkedin.com
+
+SUMMARY
+
+Enthusiastic NET developer with a year of hands-on experience as a
+-NET intern. Skilled in C#, ASP.NET, and SQL. Developed MVC
+applications and optimised existing code, leading to a 20%
+improvement in application performance. Eager to utilise skills to
+resolve complex problems in an engaging team environment.
+
+EXPERIENCE
+
+-NET Development Intern
+
+Tech Company
+
+68 2020-2020 Charlotte, North Carolina
+
+Worked on the development, testing, and maintenance of .NET applications.
+
+* Developed MVC based applications using C# and NET Framework that
+improved operational efficiency by 30%.
+
+* Implemented SOL for database management resulting in enhanced data
+retrieval speed by 25%.
+
+* Efficiently troubleshooted and resolved over 50 application issues.
+
+* Optimized code for various applications, leading to a 20% improvement in
+application performance.
+
+* Collaborated with a team of 10+ developers to deliver robust software
+applications.
+
+VOLUNTEERING
+
+Mentor
+
+Code.org
+€2 2018 - 2019
+Volunteered as a mentor to encourage young students to Learn code.
+
+Database Administrator
+North Carolina Technology Association
+€8 2019-2020
+
+Maintained and updated database of members and attendees for the
+association.
+
+Tech Support
+
+Charlotte Mecklenburg Library
+
+68) 2021 - Ongoing
+
+Assisted in solving technical queries and computer related issues for library
+users.
+
+9 Charlotte, North Carolina
+
+STRENGTHS
+
+wv Problem Solving
+
+Efficiently troubleshooted and resolved 50+
+application issues during internship at Tech
+Company.
+
+b kg Team Player
+
+Worked collaboratively in a dynamic team of
+10+ developers resulting in efficient project
+completion.
+
+2 Effective Communication
+
+Liaised between technical and non-technical
+stakeholders efficiently enhancing project
+understanding and implementation.
+
+SKILLS
+
+c# -NET
+
+ASP.NET SQL MVC
+
+JavaScript HTML css AJAX
+
+jQuery Version Control/Git REST APIs
+
+CERTIFICATION
+
+Microsoft Certified: .NET Core Developer
+
+Pursued Microsoft Certification focusing on NET
+Core development framework.
+
+Advanced SQL for Developers
+
+Completed comprehensive course by Codecademy on
+advanced SQL techniques.
+
+PASSIONS
+
+Continuous Learning
+
+Passionate about continuous learning and
+improvement in the tech sphere.
+
+Enjoys exploring the outdoor trails and parks
+around Charlotte.

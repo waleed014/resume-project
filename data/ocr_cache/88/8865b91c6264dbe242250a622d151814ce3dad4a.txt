@@ -1,0 +1,58 @@
+ROBERT SMITH
+
+Release Engineer/DevOps Engineer
+
+info@quikresume.com | Linkedin Profile | Qwikresume.com
+
+Experience in build and release automation of Siebel applications, OBIEE, Oracle
+Policy Automation, Liferay Portal, HP ALM, Web Logic & Java-based applications,
+Experience in setting up Continuous Integration and Continuous Deployment for
+Slebel application, OBIEE, Oracle Palicy Automation, Web Logic & Java applications,
+Domain Experience in Health care, Manufacturing, Automotive, and BFS{ domains
+
+EXPERIENCE
+
+Release Engineer/DevOps Engineer
+‘ABC Corporation - SEPTEMBER 2007 - PRESENT
++ Involve in setting up Siebel, OBIEE, oracle palicy automation, hp ALM,
+Liferay portal, SOA in build and release automation
++ Coordinating with application development teams, application
+administration teams and DevOps team for smooth and successful
+deployment:
++ Responsible for providing access to the git repositories for the
+developers through ssh key exchange
++ Responsible for adding the compiled Siebel SRF and non-repository
+files to the alt repo.
++ Responsible for adding the latest OBIEE RPD and catalog files to the
+ait repo
++ Responsible for creating git hooks to trigger Jenkins build
+automatically
++ Responsible for periodic archiving and backup of the source code for
+disaster recovery.
+
+DevOps Engineer
+ABC Corporation - MARCH 2004 - AUGUST 2007
+
++ Professional experience it amp; norrit with 2006 revenue of nearly
+$1. 7 billion, Dade Behring is the worlds largest company dedicated
+solely to clinical diagnostics with more than 12,000 employees:
+covering 45,000 customers from 44 countries
+
+‘+ Clean consistent Siebel service data management Is essential for
+effective and successful implementation of actions and strategies,
+
++ Responsibilities it creating Dade Behring end-user accounts and their
+associated contacts into Siebel application,
+
++ Creating service requests records and associating it to their
+respective accounts.
+
++ Creating activities and associating it to their respective srs preparing
+test plan, test cases test data, bug reports
+
++ Installed and configured puppet master, puppet console and puppet
+agents,
+
++ Siebel mobile client setup which Includes Siebel software installation
+
+‘© THs me Resume Template Isthe copytight of Qwikrasume.com, Usage Gude lines

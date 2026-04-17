@@ -1,0 +1,128 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Flor # (S55) 432-1000 ¢ resumesample@examplecom
+
+‘PROFESSIONAL SUMMARY
+
++ Over 78 years of programming experience a an PL-SQUETE. developer in analysis, desin and Inplementation of busines logics in data
+warehouse (OLAP) application and ansactional database (OL) development.
+
+‘+ Experience In Teradata utilities like FastLoad, MultiLoad, FastExport and BTEQ.
+
++ Expertise in Oracle SQL and PLSQL including all database objects: stored procedures, stored functions, packages, TYPE object, igpes,
+cuss, REF cursos, parameterized curs, views, materialized views and PLISQL collections.
+
++ Good knowledge om gical nd physical data modeling ving normalizing techniques, performance relied fares sich que
+optimizer, execution plans and Indexes.
+
+« trong experience in data warehouse concepts and ET tol like SSIS and DMExpres.
+
++ Experience in woking on Microsoft SQL Server environment.
+
++ Beperince wih data analysis an reporting using Oracle BI Publisher, Microsoft SSRS and Power BL
+
++ Good exposure to Microsoft SharePoint designing and configuring various reporting platform on it
+
++ suong problem solving & technical ls coupled with confident decision making for enabling effeive solutions leading to high customer
+satsction and low operation ost.
+
++ Having god expense in al the stages offal otvare developmen lifecycle implementation (SDLO)
+
++ Expertise in agile proces of sofware development
+
+'* Excellent communication, interpersonal, analytical skills and strong ability to perform as part of a team in onsite offshore model,
+
+SEILLs
++ Oracle PLISQL + SRS.
++ Teradata + Power BL
++ SQL Server + Microsoft SharePoint
++ DM Express + Agile
++ ssis +BI
++ Unix + Data modeling
++ BIPublisher + ETL
+Work History
+
+PL-SQL /ETL DEVELOPER, 12/2019- Current
+Wipro Ltd. Melville, NY
+‘+ Analyze business requirements, maintenance/development requests for ETL using DM Express tol fom various source systems like
+Billing, HR, Payroll, General Ledger, Purchase order, Budget Into enterprise Data warehouse
+‘+ Work closely with Business Analysts for requirement gathering, designing database and creating workflow
++ Evaluate business requests and preparing low level high level desien for new system, and compatibility with current systems,
++ Coding and developmenv/enhancement modification of newiexsting DMExpress, Spark, BTEQ, Ml.oad, Fast Export, Fast Load jobs
+following Syntel and HCA coding standards.
++ Plan and define development and testing strategy and performing Unit esting for code changes done.
++ Creating/Modifying Power-BI reports and validating its functionality with customer and upload dashboards into Servers.
++ Mapped processes to holistically examine busines flow and identify improvement opportunites,
+«+ Researched and redesigned ETL workflow to improve performance by upto 50%
++ Applied knowledge of data modeling and statistical analysis to not trends and draw conchsions.
++ Validated results and performed quality assurance to assess data accuracy.
++ Documented procedures and business processes and shared information with appropriate stakeholders.
++ Daily troubleshooting, ETL production support for LAWSON data requirements.
+
+PL-SQL /ETL Developer, 042019 - 122019
+‘Atos Syntel ~ City, STATE,
+
++ Understanding requirements and translating ito technical form and creating design documents
+
+«+ Legacy data conversion and migration using SQL, SSIS and DMExpress.
+
++ Coding and developmentenhancement of newieisting processes in SQL server and Oracle database and ETL tools like SSIS and
+
+[DMExpres following coding standard of clint architectare,
+
++ Performing unit testing for code changes.
+
++ Root cause analysis of frequen issues and applying permanent fix to ensure SLA compliance for ETL jobs.
+
++ Participate in review meetings of various deliverables like code review and design review of ongoing changes implementations
+
++ Daily critical cycle suppor in production environment to ensure data is getting delivered to downstream system within SLA timeline.
+
++ Documented and communicated database schemas using accepted notations,
+
+PL-SQL /ETL DEVELOPER, 03/2017 03/2019
+Atos Syntel ~ City, STATE,
++ Involved in requirement gathering fiom business partersend users and translating it to technical and functional requirements
++ Organized busines requirements into conceptual, logical and physical OLAP models.
++ Created / reviewed high-level design specification, ETL coding and mapping documents.
++ Involved in sprint planning sessions and effort estimation meetings in agile environment
++ Leading and guiding team to understand and implement solution for business requirements in effective manne.
++ Involved in ETL Development using native Oracle tools (SQL LOADER & Oracle PL/SQL).
++ Participated in system analysis and data modeling, which included creating tables, views, indexes, synonyms, tigges, functions,
+procedures, cursors and packages.
++ Wiote complex SQL queries on fact and dimensional tables to pull data for analysis purpose and created report using BI Publisher and
+‘Microsoft SSRS.
++ Optimized broken and inefficient assets through effectively troubleshooting technical processes and workflows
+«+ Interpreted data models for conversion into ETL. diagrams and code.
++ Collaborated with busines intelligence staff at customer facilities to produce customized ETL solutions for specific goals.
++ Communicated regularly with customers conceming data exchange and technology integration.
+‘+ Wiote and optimized in-application SQL statements
+
+PL-SQL Developer, 12/2013 - 02/2017
+Atos Syntel ~ City, STATE,
+«+ Involved in ETL Development sing native Oracle tools (SQL,
++ LOADER, Oracle PL'SQL)
+«+ Participated in system analysis and data modeling, which included creating tables, views, indexes, synonyms, tigger, functions,
+procedures, cursors and packages.
++ Used advanced Bulk techniques (FOR ALL, BULK COLLECT) to improve performance.
++ Involved in performance tuning on SQL using AUTO TRACE, EXPLAIN PLAN, TKPROF utilities.
+‘+ Worked on analytical functions like RANK, DENSE RANK, LAG, LEAD and PARTITION OVER,
++ Wiote complex SQL quetes on fact and dimensional tables to pull data for analysis purpose and created reports using BI Publisher and
+‘Microsoft SSRS.
++ Generated, debugged and enhanced existing reports with introduction of new system features.
+‘+ Managed workload independently but collaborated with colleagues to complete larger sale tasks in disuibuted team envionment.
+
+Epucarion
+
+Bachelor of Engineering: Computer Science, 062013,
+Pune University - Pune, India
+
+ADDITIONAL INFORMATION
+
++ Received individual (Imaginative) and team (Adaptive) value awards fom the organization.
++ Received multiple SPOT awards from project manager and Engagement manager for defect fee production deployments
+
+CeRTiFicarions
+
++ Oracle Database 11g: SQL Fundamentals 1 (120-051)
++ Oracle Database 11g: Administration I (120-052)

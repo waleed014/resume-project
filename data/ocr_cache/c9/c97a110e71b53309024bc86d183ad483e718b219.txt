@@ -1,0 +1,111 @@
+Robert Smith
+
+SQL Developer (Intern)
+
+PERSONAL STATEMENT
+(Over 4 years IT experience in System Analysis, Design and Development &
+Support of MS SOL Server. Expertise in SOL Server Integration Services
+(S515) and SOL Server Reporting Services (SSR). Excellent knowledge In
+‘eating Databases, Tables, Stored Procedures, DOL/DML Triggers, Views,
+User defined data types, functions, Cursors and indexes using T-SQL,
+Experience in creating packages to transfer data between Access, Excel
+CSV, Oracle, fat file, Text Data to SOL SERVER using SSIS.
+
+WORK EXPERIENCE
+
+SQL Developer (Intern)
+ABC Corporation - January 2005 - March 2007
+responsibilities:
+
++ Responsibilities Supervised the activity of the Database for Wentitying
+the bottlenecks that are slowing down the performance of the data
+warehouse,
+
++ Identified and implemented the methods to fine tune the queries,
+procedures and functions.
+
++ Reviewed the executions af views and stored procedure and identivied
+the battle necks within the query.
+
+‘+ Monitored Database and Server Resources with various tools such as
+Performance Monitor, SQL Profiler, Stored Procedures and Database
+‘ning Advisor
+
++ Implemented Peer to Peer Transactional Replication within the system,
+
++ Creation of fle groups for the existing Tempdb Database,
+
++ Changing collation in the existing configurations,
+
+SQL Developer
+‘ABC Corporation - 2003 - 2005
+Fe sponsibilties:
+
++ Project Description A three-year IT outsourcing deal with technology
+lant Microsoft that covers 104 countries.
+
++ Infosys will manage Microsofts global internal Ir services including
+helpdesk, desk-side services, and IT infrastructure and applications
+support.
+
++ Provided support for MS Order Management Platform and MERT
+‘Applications,
+
++ Responsibilties Workéd in 8GOS Cluster as an L3 analyst, providing
+support for Order Management application Troubleshooting of issues
+faced by users while interacting with the order managernent systern
+Help core tearnin providing information on issues faced by customers
+and test the solution before releasing it to custorner.
+
++ Monitor Server Alerts and services running on the servers,
+
+‘Responsible for timely updating alert configuration and analyzing
+conditions for throwing the alert and troubleshooting appropriately
+Actively participates in discussion for proposing enhancements and
+Improvements in the application as per customer requirements.
+
+(Ths Ema Resume Temlate the copyright of Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+Infow@awikresure,com
+wwqwikresume.com
+
+SKILLS
+MS SQL Server
+2000/2005/2008r2, 201 2,
+MS SSRS, MS SOL SSAS,
+MS SSIS, AS400, 082
+SQL syntax, MS-Access
+2000, C, C+, VB.
+6,0,Developer 2000, T=
+SOL, PLISQL, ASPNET,
+HTML, XML, XSL, Visual
+Studio 2008, T-SOL, PL-
+SQL, Crystal Reports,
+‘ODBC, MS Office,
+Windows Nz/ 2000
+Server! XP. MATLAB, MS
+SOL Server.
+
+LANGUAGES
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+climbing
+Snowboarding
+Coking
+Reading
+
+REFERENCES
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

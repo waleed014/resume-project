@@ -1,0 +1,55 @@
+Phone: (123) 456 78 99
+SQL Developer email: Info@quikresume.com
+
+ROBERT SMITH \ coca
+Address: 1727 Marahulle Road
+
+Objective
+
+Over 7+ years of working experience as a Data Modeler and Data Analyst with high proficiency in
+requirement gathering and data modeling Including design and technical knowledge, In the held
+ff OLTP, Data Warehousing, OLAP and ETL Environment along with quick adaptability to new
+technologies.
+
+Skills
+
+SQL, Databases, Sq, Visual Studio, Visual Basic, C, HTML 5, C553, $SRS, Collaboration, Problem
+Resdlution, Data Warehousing,
+
+Work Experience
+
+SQL Developer
+‘ABC Corporation - Novernber 2010 ~ April 2022
+Created documents for technical Sarnp; business user requlrerments during equirements
+gathering sessions.
+Designed Logical arid Physical models of Relational Database.
+Bult strong relationships with key business and technology partners Inside and outside the
+platforrn and infrastructure team.
+Worked on aggregate dimensions, late arriving facts and dirmerssons, staging tables and ODS,
+Partnered with finance, MIS teams and accounting to ensure the consistency and accuracy of
+data and reporting,
+Worked in data mapping, enabling the extract, transform and loading of the dats into target
+tables.
+Data mapping documents between Legacy, Production, and User Interface Systerns were
+developed,
+
+SQL Developer
+‘ABC Corporation 2005 - 2010
+MBI Company is jewelry company selling rings, necklaces and other jewelry for men and
+‘They specialize inhaving personalized jewelry products with clients such as Walmart, Target,
+Kohls, JC Penny, 7th Avenue, HSN,
+RESPONSIBILITIES Created new tables, written stored procedures for Application Developers
+‘and sorne user defined functions Created SQL scripts for tuning and scheduling,
+
++ Involved In Migration of databases of SOL Server 2000 to SQL Server 2008.
+
+Performed data conversions from flat files Into a normalized databace structure Created and
+managed users, roles and groups and handled database security Created Triggers to enforce
+data and referential integrity Defined Check constraints, Business Rules,
+
+Handling Users/Loging/User Rights Managing historical data frarn various heterogeneous data
+sources (Le,
+Excel, Access) Environment SQL Server 2000 and 2005, PLISCL.
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

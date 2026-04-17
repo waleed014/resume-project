@@ -1,0 +1,111 @@
+yan Tim
+
+FUNCTIONAL CONSULTANT
+
+SUMMARY
+
+e System specialist with over 14 years of experience in Design, Configure
+and Deployment of SAP systems across the globe.
+
+e Indepth knowledge and hands-on experience in Project Management
+Lifecycle and Software Development Lifecycle.
+
+e Extensive People Management and Stakeholder management skills.
+Self driven, coach, Team player and Mentor with an excellent written
+and verbal communication.
+
+EXPERIENCE
+
+System Migration Manager
+Sony Corporation Feb 2019 - Oct 2019
+e System Migration Strategy, plan & Determine migration tools, objects &
+person responsible
+e Participate in Data collection, cleansing, validation & mapping activities
+for load templates
+e Prepare migration schedule timelines to facilitate FUT, SIT and UAT,
+dress rehearsals
+¢ Monitor data migration across systems, capture user stories & lessons
+learned
+e Prepare & Present migration cut-over and go-live strategy to Business
+e Communicate with stakeholders for migration activities
+e Sequence migration activities based on the prerequisits and
+dependencies
+¢ Configured Data Medium Exchange tree for SEPA on S/4 HANA central
+finance, fixed issues around it during unit test and integration test
+phases.
+
+Lead Consultant
+Archer Daniel & Midland Mar 2018 - Feb 2019
+
+e Configured Automatic Payment Program for outgoing and incoming
+payments for the new France company code rollout project.
+
+e Configured DMEE tree for SEPA and other outgoing
+domestic/interanational payments for citi bank, performed an end to
+end testing, delivered within the stipulated timeframe.
+
+e Incident resolution in VIM, FICO PS and AA areas.
+
+¢ |Impelemnted Project Cash Management (PCM) to track PM orders
+
+e Delivered complex interfaces to share the Customer invoice in real-
+time via PI to external systems
+
+© Designed and delivered report painter report to track the PCM costs
+
+Team Lead
+
+Bell Helicopter - AeroSpace & Defence un 2016 - Jan 2018
+e Production Support and Mintenance
+¢ On-call support during month end closing of Canada and US regions
+e Implemented new change requests to support process improvement
+
+SKILLS
+
+SAP/S4 HANA - FI CO PS IMAA
+VIM FSCM (In-house cash)
+Agile - Waterfall, Sprint
+
+MS Office - Excel (viookup
+datamart pivot table) word,
+Powerpoint
+
+LANGUAGES
+
+English
+French
+Arabic
+
+German
+
+EDUCATION
+
+Post Graduate Diplom in
+Business Administration -
+Finance
+
+San Jose State University
+
+Bachelor of Commerce
+Northeastern University
+
+AWARDS
+
+Employee of the Month
+Alstom-GRID 2011-12-30
+
+Star Performer
+Rautakesko 2007-08-17
+
+PROJECTS
+
+System Migration
+
+Migration Lead
+Feb 2019- Oct 2019
+
+Application Support &
+Maintenance
+Lead Consultant
+
+Feb 2013 - Apr 2014

@@ -1,0 +1,111 @@
+Jessica CLAIRE
+
+1100 Montgomery St. 10th Floor © (555) 432-1000 # resumesamplesexample.com
+
+Professional Summary
+
+Self-motivated Senior ETL Developer with 12 years of experience in warehouse data management. Collaborates effectively with
+multi-functional roles to identify and leverage areas for improvement in data systems. Bringing comy ive understanding of
+
+‘warehouse operations and documentation needs.
+
+Skills
+
+‘Teradata SQL Salesforce
+
+DMx UNIX Shell scripts
+Talend car
+
+Mainframe NDM
+
+yey Autosys
+
+‘coBoL
+
+Work History
+
+Senior ETL Developer, 10/2017 to 01/2021
+Clearesult, Inc. — Oklahoma City, OK
+Citi Retail Services provides data from different source systems based on direct transactions executed by Citi customers which
+includes different products like debit cards, credit cards, online transactions, traveler's cheques, etc. Retail experts use this data for
+marketing insights and analysis and for applying customized solutions to grow sales. Also to provide customized solutions to meet
+specific needs of the industry and customers.
+
+‘+ Analyzing business user requirements and coordinating with ETL team to transform them into ETL framework
+
++ Involved in development of different ETLs using Talend tool to extract data from different sources.
+
+‘+ Assisted in tweaking the scheduling of auto sys jobs which reduces the load and better utilization of resources.
+
++ Proactively monitored the system load and job progress and tuned the performance issues to maintain the SLAS.
+
+‘+ Developed scripts using Java, SOQL and Shell scripting for better execution of jobs.
+
+‘+ Educating user about the framework and its features,
+
+‘+ Prepared the process flow documents for data loads based on the application
+
+‘+ Created Custom Talend components for the repeatedly used codes
+
+‘+ Implemented secure password vault to store the functional id’s password
+
+Senior Hadoop Developer, 07/2016 to 09/2017
+Wells Fargo — Dublin, CA
+‘The main objective is to provide Developments, Enhancements and Maintenance support to the Data Warehouse, “The W’ of Bank of
+America, The Warehouse is a Mainframe and Hadoop based with Teradata database, which is designed to handle Bank of America’s
+‘Customer Knowledge & Decision Support activities. The prime aim of the Warehouse is to help the bank in making business
+Decisions and strategic analysis and help them in sustaining the business competition.
+‘+ Utilized such technologies as Teradata , DMX and Autosys to develop new applications in The W Deposit domain of Bank of
+America.
+‘+ Understand the requirement of the clients and prepare the design document with the listing of various sources, targets and.
+impacted systems.
+«+ Identify the process to extract the data from various sources and modify or construct a program for fixes and other
+enhancements as per the requirement of the client.
+‘+ Organize meetings with various team to successfully receive the data in W.
+‘+ Test the data with all conceivable condition in the SIT and UAT cycles so that errors can be solved out be before the production.
+‘+ Implementation and Maintenance until itis turned over to production support.
+
+Production Support Specialist, 01/2013 to 07/2016
+‘Loan Depot - Colorado Springs, CO
+‘Asa production support team of Data Warehouse of Bank of America, has to ensure mainly loading of data from different domains,
+including Channels, Deposits, Ecommerce, Marketing & Loans as per Service Level Agreements (SLA)
+‘As per business rules, extracted data is loaded to The Warehouse after transformation. Any delay in availability will have impact on
+bank's business. So meeting SLA for all applications data is a challenge due to bigger size of system. To meet SLA, quick resolution is,
+required if any jobs fails in loading the data. And need to make enhancements and proper planning on the usage of system to
+accommodate all users of data warehouse. Also have to address if any data issues occur in the loading process
+
+‘+ System monitoring and solving job failures quickly
+
+‘+ Ensuring the stability of Bank of America’s Teradata production platform.
+
+‘+ Actions to take ensuring data availability on-time
+Analyzing requirements and seeking functional clarifications
+Scheduling jobs using CA7
+Tracking data issues using incident tracker tool
+Implementing enhancements using Endevor
+Review the development code in the change advisory board to make sure that the code is designed as per the standard and
+guidelines
+‘+ Tune the poorly performing scripts/SQL queries to give better performance result and avoid performance related job failures
+++ Resolving incidents, coding, testing and implementing the fix to resolve the incidents.
+
+ETL Developer, 07/2009 to 12/2012
+Cognizant Technology Solutions - Mclean, VA
+‘The main objective to provide Developments, Enhancements and Maintenance support to the Data Warehouse, “The W’ of Bank of,
+America. The Warehouse is a Mainframe and Datastage based with Teradata, which is designed to handle Bank of America’s
+‘Customer Knowledge & Decision Support activities. The prime aim of the Warehouse is to help the banking in making business
+Decisions and strategic analysis and help them in sustaining the business competition.
+‘+ Understand the requirement of the clients and prepare the design document with the listing of various sources, targets and.
+impacted systems.
+++ Identify the process to extract the data from various sources and modify or construct a program for fixes and other
+enhancements as per requirement of the client.
+‘+ Organize meeting with various team to successfully receive the data to the Warehouse.
+‘+ Test the data with all conceivable conditions in the SIT and UAT cycles so that errors can be solved out before production,
+‘+ Implementations and Maintenance until itis turned over to production support.
+
+Education
+
+High School Diploma: 04/2004
+Government Boys Higher Secondary School - Magudanchavadi
+
+Bachelor of Engineering: Electronic And Communications, 04/2008
+Alagappa Chettiar College Of Engineering And Tech -Karaikudi

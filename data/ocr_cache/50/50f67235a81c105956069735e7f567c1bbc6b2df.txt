@@ -1,0 +1,91 @@
+Isadore Hilpert
+66471 Candido Valleys, Los Angeles, CA # Phone: +1 (555) 974 4965
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR SAP DEVELOPER
+Dallas, TX
+05/2015 — present
+‘© Work as a team with functional analysts and business analysts in designing, developing, testing,
+implementing and supporting SAP solutions
+‘* Develops procedures and controls for prevention
+‘* Work with Enterprise Application Support and enhancement Management to coordinate the delivery and
+participate in design and code review process
+‘© ‘Support the Team Lead to manage and enhance key functional and technical areas (capabilities) within
+the contract management team
+‘+ Asa Senior Developer, design and developing complex development including Technical architecture of
+End to end process
++ Assigned performance tickets and may proactively analyzes existing SAP platform to identify weaknesses
+and develop opportunities for improvements, upgrades or replacement
+‘+ Assists in the development of policies and procedures for production monitoring, scheduling, restart and
+recovery procedures
+
+LEAD SAP DEVELOPER
+
+Phoenix, AZ
+03/2010 01/2015
+
+‘© Work closely with business partners to facilitate solution design and development
+Develop and administer user support documentation. Provide training and support to end users
+Support the development and executing the unit testing, integration and regression testing
+Configuration and documentation of new design. Develop proof of concept business processes
+Lead projects or work streams. Deliver results
+
+Supply Chain Management Certifications is a plus
+
+Provide SAP solution demonstrations to team, business partners and leadership
+
+SAP DEVELOPER
+
+San Francisco, CA
+05/2003 — 11/2009
+
+‘© Create and further develop Workflows within BCD Travel's SAP environment
+
++ Assist with troubleshooting and application performance issues (e.g., performance tuning)
+
+‘+ Adherence to the Release Management process set by Service Management to promote changes to
+production in a timely and consistent manner
+
++ Provide ABAP development & support for SAP ECC6, SAP BW, SAP APO as part of the International
+Build Finance team
+
+‘* Develop, test and manage quality ABAP solutions for the business
+
+‘* Maintain proficiency in technology and tools for continuous improvement, in order to enhance
+productivity and quality of systems development
+
+‘© ‘Support the Corporate & CFO communities in designing and developing Financial & Management
+Reports from the SAP Business Warehouse on HANA
+
+PEPPERDINE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+‘© Desire and ability to operate at multiple levels (detail and strategic)
+
+‘* Contributes to the team or department by applying their knowledge of development and quality review
+
+cycles
+
+Good working knowledge of MS Excel, Access, Power Point and Project,
+
+Fully developed professional able to work with limited direct guidance or direction from others
+
+SAP ABAP Certification desirable
+
+Strong business analysis skills
+
+Basic customer/ vendor management skills
+
+Prepare detailed specifications, from which programs will be written, and design, code, test, debug, and
+
+document programs
+
++ Participate in application development for new projects as well as troubleshoot problems with existing
+code using tools detailed below
+
+‘* Has in depth knowledge of the discipline and role

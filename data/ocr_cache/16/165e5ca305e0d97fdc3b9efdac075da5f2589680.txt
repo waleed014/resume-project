@@ -1,0 +1,158 @@
+Jessica CLAIRE
+‘Montgomery Sueet San Pando, CABIIGS « (55) 02-100) ¢ resunesamplefeamplecom
+
+Accomplishments
+
++ Gooud Knowledge and experience in using ORM frameworks ike Fibemate and MV frameworks lke Struts, Spring MVC and IOC
+frameworks like spring and its subsidiary modules such a Spring Core, Spring IOC, Spring Mongo, Spring Security, Spring JDBC, Spring,
+Context, Spring AOP, Spring Batch & Spring Boot
+
++ Strong development experience with developing SOAP based Web Services - WSDL, SOAP, JAX-WS, Apache AXIS, Apache CXF, WS-
+Security and Restful web services (Rest APTs) -JAX-RS, Apache OXF and JERSEY.
+
++ Knowledge on Amazon web services (AWS) and Amazon coud technologies such as Amazon EC2 (virtual servers), Amazon Dynamo DB,
+Amazon Simple DB, Amazon Cloud Watch (monitoring), AWS Cloud Formation (infrastructure templates, Amazon Cloud Search, Amazon.
+5Q5 (message queue).
+
++ Extensive Knowledge in Front-end technologies developing single page applications (SPAS) using various JavaScript frameworks ike
+backbonej, Backbone marionetteje Angular underscores, query, Ajax.
+
++ Experience in Web designing technologies like HTML5, XHTML, JavaScript, CSS.
+
+Professional Summary
+
+‘Over 6 years of solid IT experience in all phases of Software Development Life-Cycle SDLC) including analysis, design implementation,
+integration, deployment, testing and maintenance of enterprise applications using different software methodologies lke Agile Scrum & Kanban,
+‘Test Driven Development, Waterfall models etc. “Technically well versed in designing & developing business solutions inthe field of Banking,
+Ecommerce, insurance and other Engineering divisions “Strong knowledge of Object Oriented Analysis and Design, Software Design Patterns
+(Creational, Structural, Behavioral and J2EE) and Java coding principles. “Expert in core data structures as well as algorithms and has ability to
+‘implement them using Java/Python programming languages. “Solid knowledge in Distributed Computing, Multithreading and Concurrency,
+*Expetis in assessing application performance and optimizing/improving it through design and best coding practice. ‘Expertise in
+development of mul-tiered web based enterprise applications using EE technologies like Servlets, |SP, EB, DBC, JNDI, Java Beans, RMI,
+JAXB, JAXP (GAX/DOM), JPA, JAX-WS, JAXCRS and JAX-RPC. Solid experience with different RDBMS (Oracle, DB3, MS SQL Server, MySQU).
+‘Expertise in writing Stored Procedures, Triggers, SQL Queries and SQL packages. Hands on experience with NoSQL Databases like MongoDB,
+[HBase and Cassandra, "Experience in creating event processing data pipelines using Apache Kafka and Apache Storm, “Knovlegdein
+developing and deploying enterprise based applications using major components in Hadoop ecosystem like HDFS, Map Reduce, YARN, Hive,
+‘HBase, Flume, Sqoop, Spark (Streaming, Spark SQ), Storm, Kafka, Qozie and ZooKeeper. “Proficiency and knowledge in understanding the
+agchitecural components of Hadoop 1.0 like HDFS, Job Tracker, TaskTracker, NameNode, DataNode concepts and Hadoop 2.0 like Yarry
+‘ResourceManager, NodeManager, ApplicationMaster. ‘Excellent knowledge of Software Quality Assurance testing lifecycle & experience in
+Functional Tesing User Interfaces, User Acceptance Testing (UAT), Integration and Operational Testing “Experience working on JBOSS, IBM
+‘Websphere, WebLogic and Tomcat application servers, Apache Web servers with rapid development interfaces as part of configuration and
+development of Enterprise Applications. “Extensive experience in Software Configuration Management using Version Control Software such as
+‘SVN, GIT, IBM ClearCase. “Experience in build and deployment tools ike Apache Ant, Maven, Hudson, Jenkins and Cruise Control
+“Development exposure in both Windows and UNDLinux centric applications. ‘Knowledge with mobile platforms and Android SDK. An
+effective team player with excellent communication, analytical and interpersonal skills coupled with exceptional planning and execution skills
+‘with a systematic approach and quick adaptability
+
+Skills
++ Java, Scala, Python, C/C+*, JavaScript, SQL. ‘S/W Development MethodologiesBuild / Source ToolsHadoop
++ [RES Web Technalogies EcoSystemWaterfall, Agile Scrum, Kanban, TODAnt, Maver, SVN Git,
++ JNDI, JDBC, JMS, RMI, XML, Servlets JSP, JavaBeans, EJB, JPA, _ClearcaseMaprediuce, HDFS, YARN, Hive, Impala, Spack-shell, Pyspark,
++ Framework Libraries Spark-core, Spark Streaming, Spark SQL, MLib, GraphX, Sqoop, Flume,
+
+JAX-WS, JAXRS, ANB. Kafka, Storm.
++ Jakarta Struts, Spring, Spring MVC, Hibernate, JSF, Backbonejs,
+Android SDK, Jquery.
++ Mazkupe
++ Servers
++ HIML5, XHTML, C553, XML, XML Schema, XSL, XSLT, SON
++ BM Web Sphere, Web logic, JBOSS, Apache Tomeat, and
+Glassfish
++ RDBMS
+NOSQL
+Oradlet2e/11g/10g, DB2, MySQL, MS SQLServer.
++ MongoDB, Cloudant, Cassandra, Hbase.
++05
++ Microsoft Windows, Unix, Linux and MAC OS
++ IDEs
++ Eclipse, Net Beans, RAD, Dream weaver.
++ Design Skills
++ OOA (Object Oriented Analysis) OOD (Object Oriented Design),
+AOP (Aspect Oriented Programming), Design by contract, GoF
+‘design patterns, JEE design pattems, and UML.
+Work History
+JavaBig Data Developer, 09/2016 to Current
+Infosys Ltd - Johnston, RI
++ Corporate é Investment Bank(CIB) Team building CIB shared data platform for ingestion, transformation, storage, and retrieval
++ Responsibilities.
++ Worked on analyzing Hadoop cluster and diferent big data analytic tools including MapReduce, Hive, HDFS, Spark, Kafka and Apache
+NIFL
+«+ Designed and Implemented Kafka producer Application to produce near real time data using Apache Kafka Connect Framework,
++ Used Change Data Capture (CDC) software, Oracle GoldenCate (OGG) realtime data replication tool asthe Source for Apache Katka
+Produces.
+Implemented different data formatter capabilities and publishing to multiple Katka Topics.
+GGoldenGate Katka adapters are used to write data to Katka dusters.
++ Implemented Kafka High level consumers to get data from Kafka partitions and move into HDFS,
++ Used Katka HDFS connector to export data from Kafka topics to HDS files in a variety of formats and integrates with Apache Hive to make
+data immediately available for querying with HiveQL.
+«+ Used Elastcsearch a a secondary store to store a copy of data produced in Oradde to take advantage ofits rapid search and analytics
+capabilities,
++ Used Kibana for data discovery and analysis, as well as a Graph tool.
++ Tntegrated Apache Kafka with Elasicsearch using kafka Elasticsearch Connector to stream all messages from different partitions and topics
+nto Elasticsearch for search and Analysis purpose.
+«Using Sapp, inpored and exported he ata fom RDBMS nto HDFS
+Loaded unstructured data (Log files, Xml data) nto HDFS using Flume.
+* Used HIVE to analyze the partioned and bucketed data and compute various metic for reporting.
++ Used Spark APT over Clousera Hadoop YARN to perform analytic on data in Hive.
++ Environment: Java, Orade, MySQL, Cassandra, Hadoop, Flume, Spark, Katka, Hive, HBase, Linux, Sqoop, MapReduce, Eclipse, HDFS,
+CDEB, NoSOL, PySpatk, Python, Scala, Elasticsearch.
+
+Java/J2ee Developer, 09/2015 to 08/2016
+Infosys Ltd - Malta, NY
++ TargetingEngine Marketing Platform is EBay’s one ofthe most revenue generating platform that targets the best posible marketing
+communication to 130 milion active users so as to maximize eBay's lifetime value from those users.
++ TargetingEngine aims to provide personalize content, most relevant campaigns and templates fr each user via email, noble email in-app
+notify, message center, banner etc at the right frequency/times suitable for each user.
++ This producti highly scalable and designed to support on-clck eal time rendering of email
++ Responsibilities
+
+Javalf2ee Developer, 2014 to 09/2015,
+Medifast, Inc - Owings Mills, MD
+* Loan Originations and Information System (LOIS) isa web based application used by the CitiMortgage Inc.
++ to support all mortgage Loan sales and services.
++ LOIS provides a360-degree view of the customer showing the full CitMortgage account relationship including banking, creditcard loan
+mortgage and brokerage accounts.
++ LOIS also inches ful sales supports by presenting pre-approved mortgage loan offer in account opening and servicing sales referral
+processing, and sales compensation computation.
++ LOIS provide online interface to Citi customers who have/wish to take mortgage(s thru Citimortgage.com(CMLcom).
++ For existing customers who are being serviced (On-Us), the loan and customer information is stored and maintained thru LOIS.
++ The application provides internet based access to customers to view theic loan information as well as modify some of thei personal
+information.
++ LOIS also provides other customers (Of-Us) various features ike enrollment, shop available options to buy/refinance ahome, save and view
+later their products, and update Contact Information thru CMILcom.
++ Tealso allows existing customer to give payment against their loan by different payment mode ike single online payment, automatic
+monthly payment or bi-weekly payment et
++ and also give facility for viewing different statement like monthly, yearly and escrow oftheir mortgage payment of mortgage.
++ Responsibilities
+
+Java REE Developer, 04/2010 to 11/2012
+Medifast, Inc~ Leki
++ Student & Management Information System (SMIS) isan end-to-end solution forall educational institutions starting from schools and
+« Teovers the entire mmagement of edacational institutions
++ SMIS i a powerful solution for educational institutions for knowledge normalization across the campus
++ Teenables the automation ofthe following features
+
+Java REE Developer, 09/2009 to 03/2010
+GPINFOTECH PVT LTD - City, STATE, India
++ This project features are deal for large scale businesses that offers a range of options for business checking needs.
++ The project enhanced features that includes view accounts balance/transaction Pay Bills to other company electronically, Transfer Funds
+and Extra services like email alerts and remainders, and Update Company's profile
++ This application facilitate the company to access multiple business and personal accounts under one profile, view balances of checking
+saving account allow/stop payment by check/direct deposit, View/download current transactions report, check images and online
+Statements for Your business's checking, savings, loans, credit moritoring system.
++ Responsibilities
+
+Education
+Master of Science: Computer Science, 2014
+‘Texas A&M University - Kingswlle, Texas
++ Systems Technology training
+Pertormance Modeling lab work
+«Software Specification course
++ Data structures coursework
++ Advanced Computer Science courses
+
+Bachelor of Technology: Computer Science, 2010
+Jawaharlal Nehru Technological University - Hyderabad
+‘Computer Science
+
+Certifications

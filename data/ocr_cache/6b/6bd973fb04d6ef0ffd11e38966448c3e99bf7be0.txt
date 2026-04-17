@@ -1,0 +1,54 @@
+First Last
+
+Birmingham, Alabama * +1-234-456-789 * professionalemail@resumeworded.com * linkedin.com/in/username
+
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY Jun 2018 — Present
+ETL Tester
+e Designed and optimized 19 inline views and SQL queries 48 hours after joining the organization.
+e@ Reworked testing methods to reduce overall product cycle duration by 73%, with zero detriments to product
+gtade.
+© Collaborated and spearheaded testing workflow among a team of 27 other fellow testers.
+@ Conceived and led a company-wide effort that streamlined 33 methods of reporting and documentation,
+increasing accuracy by 60%.
+e Documented and inspected test cases and procedures in Unit Test reviews with 17 members of senior
+management.
+
+Growthsi, New York, NY Jan 2015 — May 2018
+Quality Assurance Analyst
+e@ Introduced an automated regression test that improved the organization’s release cycle time by 49% YoY.
+e@ Automated regression testing of software updates to decrease the time required for manual execution by 63%
+while improving accuracy.
+e Pioneered using automated testing tools, including analyzers, generators, and emulators, to identify 1.4K
+defects in existing software products.
+e Contributed innovative ideas that improved software quality by proposing process changes, which boosted
+throughput by 56% and reduced defect rates by 19%.
+
+Resume Worded Exciting Company, San Diego, CA Jun 2010 — Dec 2014
+Software Engineer
+@ Created a web application that enables 10K users to manage their online accounts for the company’s
+products, slashing customer support calls by 70%.
+e Devised an automated testing framework using Python’s unittest module, which lowered manual QA time
+from 45 days to 90 minutes per release.
+e@ Championed new features in a pilot product of RWEC that allowed 8.9K customers to purchase multiple
+licenses at once, which boosted monthly revenue by 94%.
+e@ Reduced development costs by building database wrappers, authentication modules, and other reusable
+components, leading to annual savings of $250K.
+e@ Designed new features for 15 products based on market trends and the feedback of 3.1K customers within
+one month after joining RWEC.
+
+EDUCATION
+
+Resume Worded University, San Francisco, CA May 2010
+Master of Science; Major in Computer Science
+
+SKILLS
+
+Hadoop Components Databases ‘Techniques Languages
+
+e HDEFS @ Oracle e OLAP @ Java
+
+© Spark @ NoSQL e SSAS e XML
+
+@ Hbase e PL/SQL e MDX e@ NET

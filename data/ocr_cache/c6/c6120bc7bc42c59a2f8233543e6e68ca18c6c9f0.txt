@@ -1,0 +1,181 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+(© Montgomery Stret, San Francisco, CA 94105 XS (655) 492-n0X 4 resumesample@example com
+
+‘+ Good integration sou experience wit Mule ESB and Object - rented concep wih complete
+softare development fe cycle experience - Requirements gathering, Conceptual Design Anas
+‘and Detal design Development, System and User Acceptance Testing,
+
+‘+ Experience in database development sil using Oracle 8U70g, MySQL and hands on experience wh
+sal, PUSQL.
+
+‘+ Experience in wing Ant bud and Maven Bud script buldicompte!depioy he code using ANT and
+Maven sent in mire SolaristHP-UXNWIN envconment
+
+‘+ Experience wth Enterprise Appcation Integration (EA), nterconnecting applications and senices using
+Mule Message bulding blocks implementing content-based message routing ites, and exception
+hhanaing.
+
++ Good knowiedge of Service-Oriented Architecture (SOA ) concepts, SOAP and REST based web
+services Good expertence in MuleSof Anypoint Platform -3.7 x. 3.8x, 4x versions, Mule MMC, IPAS
+(ChoubHud) and devi.
+
+‘+ Good experience in Mulesof instalation and configuration on ANS, Azute and on premise Linux
+
+‘+ Good experience in sofware Architecture, design with UML & Knowledge of Design Patterns Experience
+In modeling & bulng RAML based APIS or etal customers using Anypoint Platform
+
+‘+ Strong design slats in Javai2EE, spring Bath, spring MVC, DB design, Enterprise Inegration and
+Messaging
+
++ Conceptual innovative problem solver vith excellent organatonal and communication sis
+
+‘+ Wttingness and abity to qucky adap to new environments and eam new technologies,
+
++ Good experience in setting up aulomated bud and deployment process wh CICD tools; Jenkins,
+Maven, Nexus and repostory
+
+‘Quick eamer and upto-date with industry trends
+
+Excelent wrtten and ora communications ana team payer.
+
+Excelent custome relations and people management sks
+
+_Abaty to work independent and wel-organzed
+
+Integration: ule 7. Mule 29 and 43 runtime, Stee Technologies: ava EE, JSP. Senet. £18
+lous, 4086, INO, JSTL, JPA
+
+Languages: Java 6 and 7. XSLT. python, ruby, Web Service: i, JSON, XSLT, XSO, SOAP. REST
+dataneave Tools & Uuities: Jenkins, Maven, News, Gi. Sb
+Databases: Oracle 9/109, MongeDB 26, MS SQL Platform: Windows, Linu MacOS
+
+Server 2008, MySQL 16, PostgreSQL. 89
+
+‘Servers: Apache Tomcat 5167, Apache HTTP Server
+
+2x tBoss 5x
+
+MULESOFT/API DEVELOPER 07/2024 to CURRENT
+Peraton | Windsor Mil, MD
+
+“+ Partelpate in gathering requirement, conduct cent meetings, create documents (GRD, HLD, LLD)
++ Coordinate wth program managers, Business analyst, and QA engineer to achieve project desired
+output
+‘+ Create an integration Component wt third party system and plement message reprocessing
+strategies to achieve minal message loss
+‘+ Create RESTHuI AP! interface wth RAMI and appied best practices such as, Tras, ResourceType,
+LUbray ana Fragments
+‘+ Create Maven Archetypes for generating futyfunclonal REST web sence supporting both XML and
+JSON Message transformation
+‘+ Create SOAP and REST web sences Producer, and consumer rom source fo target systems
++ Create Mule Nos using various Transformers, Fier, Flow Control, VM Connection, Colleton spters,
+Aggregators, Scatter. Gather etc
+‘+ Contgure exception nanaing strategies such as Giobal Exception Handler, OnEror-Contnue Exception
+‘Strategies and OnE:or-Propagate
++ Co-ordinate wth testing and back-end teams, cent during the smoke tests and regression tests
+‘+ Conigure mule fous (synchronous and asynchronous) that connect win vanous systems
+“+ nfegrate Mute runtime wh Splunk og aggregator, Okta- Kent provder
+‘+ Used Mule ES8 connectors: SFOC, Message Transformer, Chole Exception Stateges, Batch
+processing, ete
++ Create MUnt test cases to vada the Mule ows
+‘+ Integrate Nos with database using PL'SQL by contigue JOBC driver on database connector
++ Parteipate in 24X7 production support efor afer application go-ve
+Environment -Okta, Jenkins, Anypoint Studio 6.x and 7.x, AWS, $2, EC2, Mule version 4.x and 9.x,
+"Mule Management Console, RAML, ActiveMa, Anypoint MQ, Maven, Nexus
+
+MC.ESOFTDEVELOPER ‘0272018 0 092024
+Crst international Cambridge, OH
+
+‘+ tenty,anayze and develop interfaces and integration flows using Mule ESB
+‘+ Leverage Contuence to caipue vanous documents and Jrato manage tasks and issues as pat of
+‘AgteScrum metnogoioges
+‘+ Create tow to expose, consume Resttu Web services
+‘+ Create RAML to detane Restful AP inetace and pubshto exchange for sharing resources and
+specication
+‘+import RAHI to anypont studio to realize flow and buld transformation log
+“+ Use Mule Connectors such as Hp, File, SFTP FTP, Database, VM.JMS, Web Service Consumer
+Avomate bu and deployment both onpremise and couahub
+Create AP interface using RAML, and migrate existing Swagger document to RAML 1.0
+grate RAML 0.8 to RAML 1.0 and Dataweave 10 to DataWeave 20,
+Create oto interact wh Oracle database and done complex queries
+Create mule appcatons using API Led connectivity using XAPI, PAPI and SAP
+Leverage best practices to create RAMI. and Mule applications
+‘+ Create MUNITto mock backend, vetty cal to connector, and assert response payload
+‘+ Leverage APIM to create and apply poces such as OAUutn2O, XMLIUSON threat protecton. IP Whitest
+and ete
+‘+ Conigure Btbucket asa version and source controling tool, used Jenkins as a continuous integration
+tool and deployed the application on Premise as wel as on ClougHub
+Environment -RAML, JOBC Connector, Files, FTP, FTP, Actv MO, Dataweave, Selector
+Expressions, Xpath, DataMapper, JAXB, Postman, Exception Handling, MMC, MU, ClousHub,
+‘Agile, OAuth, SOAP, REST Jenkins, Maven, SalesForce (SFDC), Git Hub.
+
+SCoTWARE ENGINEER 0820160 0172018
+Novogradae & Co. Lip Andover, MA
+
+‘+ arcipate inthe development using JAVAVJ2EE Technologies, Web services, Spring, Hibernate
+
+Framework
+
+‘+ Implement RESTFUL based web services
+
+‘+ Used the Hibernate for data base Connectiay
+
++ Design the user intertace of he appeaton using JSP
+
++ Pareipate in web Ut pages using JSP, STL, CSS, HTML, XML, XSL, XSLT, JavaScript
+
+‘+ mplement ront-ena vasdtios win JavaScript, Angular s, Node Js
+
+‘+ Implement application using Spring, Web Services (SOAP and RESTFUL)
+
+‘Bult web-based appicatons using Spring MVC 2.0 Arcttecture
+
+sea Spring Core for concep inversion of control (OC) implemented using dependency injection
+Implement Controle, Mode! and View components on MVC 2 architecture based application
+Experience in un testing tne applications using unt Framework and developed logging and standard
+rmecnanism based on Logs
+Used the Java Collectons AP extensively inthe appication
+Implement Documents using MS Ofc, Excel and Powerpoint
+Expose Stateless session beans as Restful wed serces Using Jersey JXRS
+Design, develop, mplement, and maintain custom Ant tasks in Java
+‘+ Execute unittest wth junit and integration wth SOAPUI and POSTMAN
+Environment: JAVAVS2EE, JSP, Serviets, Spring, Struts Hibernate, Web services, SOUP, REST JAX-
+RS, Tomeat, Java Serpt, Oracle, Logs), XML, HTML, C58, UNIX, ANT, WSDL, SOAP, AJAX, Agi
+
+PYCHON DEVELOPER 117201810 072016
+(ap City, STATE
+
+‘+ Used UM Rational Rose to develop Use-case, Class and Object aiagrams or OOA/OOD techniques
+‘+ Bust database model, Views and APT's using Pyhon for interacte web based solutions
+‘+ Places data into JSON fs using Python to test Ojango webstes|
+sea Pyinon script to update the content in database and manipulate thes
+
+Developed web based application using Django framework vith python concepts
+{Generated Pytnon Django forms to maintain the record of nine users
+sea Django APT to access he database
+InvoWed in Pytnon OOD code for quality, logging, monitoring, and debugging code optimization
+‘Sled in using Ctlections in Python for manipulating and locpng through ferent user defined
+objects
+\Wrote Pynon modules to view and connect he Apache Cassancra instance
+Created Unt test regression test ramework fr workngnew code
+Instaleg and mantainea web servers Tomcat and Apache HTTP in UNIK
+‘+ tized standara Pytnon modules such a8 CSV, terools and ple for development
+
+‘+ Developed eticient Angular or cent web based application
+
++ Responsible for designing, developing, testing, deploying and maintaining the web appication
+Environment: Python 27.2.3, Django 1.4, HTML, C88, AJAX, Tomcat, Apache HTTP Angulars, JSON,
+Restful, XML, JavaScript, OD, Shell Scripting, GIT Hub, MYSQL, Cassandra, JIRA.
+
+‘Be. | Computer Science
+‘Sample University

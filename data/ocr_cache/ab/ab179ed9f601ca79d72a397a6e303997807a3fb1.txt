@@ -1,0 +1,57 @@
+ROBERT SMITH
+‘SQL Server Bl Developer
+
+(0123)-458-780 | Emal:nfo@quikresume.com | Website: Gwkcosumacom
+
+‘SQL Server BI Developer committed to deliver high value to the organization. 10 years of
+‘extensive IT Professional experionce wi inthe Retail domain. Expertise in Database
+Development, Modaling, Data Warehousing, Design and projact managemant. Abily to
+‘comprehend and devaiop projacts that align with program and organizational vision, Adopt at
+instituting procedures and inflating solutions to specifications that save tims, reduce costs, and
+eliminate redundancias,
+
+CORE COMPETENCIES
+Database, MICROSOFT SSRS, MS SQL Servar, SQL, SAL Server
+PROFESSIONAL EXPERIENCE.
+
+SQL Server BI Developer
+Dress Bam Inc - January 2014 ~ Present
+
+Key Deliverables:
+
++The profsct involves developing a Bi solution for strategic analysis by sales, marketing, and
+Pricing
+
++ Providing marketing and campaign managornent capability, an ability to measure
+cfsctivaness across al products and provide single data set for analysis and tracking of
+results to the management
+
++ Responsibia for analyzing business requlreménis ‘and defining sales and marketing CRM
+system spedifications
+
++ Supporting the business and technical professionals in pracess improvernent, technical
+dosigns, and qualty assurance,
+
++ Bullding the CRM sales and marketing applcation raporting sructures using SSAS, SAS,
+SSIS, TSQL and SOL server
+
++ Responsblties also Includa enhancements of the CRM talloréd'to meat Dressbarns needs
+\whils administering day to day acivtios for supporting the sales and marketing CRM
+activites
+
++ Witing high-level tast clans and test cases based on the basalina requlremarts
+
+SQL Server BI Developer
+‘ABC Corp - 2008 - 2014
+
+Key Deliverables:
+
++ Provided support for tha cllont applications and solved client issues.
+
++ Used various SSIS avent handlers In SSIS packages to capture tha evanis such as pre-
+‘executa, past-execute for intializing settings related to the lask, and used errar avert
+handler to fog the custom arrars and sant email rotfiatlons as alerts using sand erall
+task to the application development team and production support teams,
+
+2259 Oalk Stree, Old Forge, New York. 12420
+\© Thlc Free Resume Template ts the copyright of Qwikresume.com. Usage Guidelines

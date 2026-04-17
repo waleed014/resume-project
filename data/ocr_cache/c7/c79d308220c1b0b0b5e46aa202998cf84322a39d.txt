@@ -1,0 +1,172 @@
+Summary
+
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor
+(535) 432-1000 - resumesample@example com
+
+Innovative professional with 9+ years of progressive experience in processing, operations, project management and business analysis coupled
+with 7 years focused on SAP relevant project implementation experience in Financial accounting with extensive knowledge in the
+implementation and configuration of SAP FICO modules with emphasis on business process analysis including blueprinting, gap analysis and
+creating AS-IS and TO-BE documentation
+
+Functional expertise in SAP FICO ECC & $4 HANA including Organizational Structures, Organizational Units & Enterprise Structures
+General Ledger Accounting GL, Accounts Payable AP, Accounts Receivable AR, FICO integration with Sales and Distribution (SD) and
+Materials Management (MM), Controlling (CO) modules, Production Planning (PP), Ariba, Concur, and SAC.
+
+Skis
+
+‘+ Hands on experience in designing and implementing FI(GL/AP/ + Excellent understanding of business analysis, financial
+AR/AA), Banking-Testing and validation workflow programs and management and business operations in multiple industries
+variants with Automatic Payment Program (APP),CO(CCA/IO/ including Manufacturing
+
+PA) and heavy integration with SD.MM.PPBPC. + Experience with order to cash and sousce to pay design and
+
+‘+ Working exposure and experience with SAP SD and MM. processes.
+
+‘= 2 full lifecycle implementations using ASAP methodology & _* Good understanding of integration points between SAP and non-
+Activate Methodology, understanding of “As Is “Business SAP Systems,
+processes, Blue Print, Realization, Configuration, Final + Strong functional experience in Migration, up-gradation,
+Preparation-Unit Integration Testing, User Acceptance Testing, _ Implementation, Customization, Configuration, Integration,
+
+Preparation of Test Scripts, Authorization design for Roles with Testing, User Training and Support
+Security team & developing BPPs, End Users User Training and + Extensively worked in Solution Manager and Report writing.
+Post Go Live Support. * Willingness to lear new technologies and software.
+
+‘+ Integration with various modules and systems like ARIBA,
+
+Concur.
+
+‘+ Experience with the other SAP ECC 6.0
+
+-4Hana components
+
+‘+ Knowledgeable in cost estimation and budgeting
+
+Experience
+(03/2016 to Current
+
+SAP FICO Consultant
+Deloitte — Rosslyn, VA.
+
+‘+ Configured and customized Chart of accounts, Company code Global Parameters, Fiscal year Va
+Period Variants, Account
+
++ Good hands interface process integration involving end-to-end project implementations with General Ledger GL
+New (GL), Account Receivable (AR), Accounts Payable (AP), Automatic Payment Program (APP) with Lockbox-
+EBS-DMEE, Search Strings- XML and iDocs).
+
+‘+ Customize Revenue account determination based on Route.
+
++ Configured Controlling Area Settings, Number ranges, and Maintained Versions.
+
++ Configured and Customized CO — General Controlling, Cost and Revenue Element Accounting, Overhead Cost
+Controlling, Cost Center Accounting; and Internal Orders.
+
+‘+ Configured and process all business transactions for Account Payables (AP), Account Receivables (AR) including
+‘payment program configuration and integration for Automatic Payment Program (APP) and generated the payment
+advise notes and print the checks to make the payment for all AP that are due for vendors and customers account
+and maintained Bank Master Data House Banks for payment program and credit management.
+
+‘+ Configured, process and integrate all Materials Management (MM)-Procure to Pay (P2P Cycle Mgt), Sales-
+Distribution SD- Order to cash (OTC) Cycle Mgt with interface Lockbox-EBS-IDOC system,
+
++ Good hands-on Fixed Assets Accounting, Cost Center Accounting (CO-CCA), Internal Orders (VO) and
+Profitability Analysis (CO-PA), Product costing (CO-PC), Cost and Revenue Element Accounting, Overhead Cost
+Controlling
+
+‘+ SD Module: Process, Integrate and customize Sales and Distribution (SD) by creating various Sales Org structures
+such Sales Org, Sales Office, division, channel, and sales group and for payment, Interest calculation, Billing and
+incoming payments and determined the automatic account assignment. Electronic Bank Statement EBS, Lockbox,
+EDI, AR, AP, and Set up Automatic Payment Program (APP) with Lockbox-EBS-DMEE, Search Strings- XML
+and iDocs) interfaces.
+
+‘+ Work with project implementation team to create and set up Company third party Selling (Drop Ship),
+Intercompany Selling, Consignment and Billing processes: Automatic Payment Program (APP) with Lockbox-
+EBS-DMEE, Search Strings- XML and iDocs).
+
+‘+ Worked on period-end-closing,fiscal-yearend-closing, material ledger, actual costing, profitability analysis, profit
+center accounting, and reconciliation issues.
+
+iants, Posting
+
+05/2014 t0 02/2016 SAP FICO Analyst
+
+Spmorgan Chase & Co. — Vashon, WA
+Role: SAP Finance Analysyt for DeMac-E Energy, Contracts and Supply Chain Integration.
+
+‘+ Implemented New GL, activated new Ledger, performed document spitting, Parallel Accounting and periodic
+processing.
+
+‘+ Accounts Receivable: Building AR Business module, Configuring and Customizing Customer master data, Debtor
+‘management, Customer payments, Customer invoice processing, Order to cash process, Finance documents Global
+settings (Posting Keys, payment terms), Dunning.
+
+‘+ Accounts Payable: Building AP Business module, Configuring and Customizing vendor master data, vendor
+account groups, define sensitive fields for dual control, House banks, Invoice processing, Document parking,
+Outgoing payment, Reporting, Check printing, Voiding checks, matching invoice with purchase.
+
+‘+ Configured Controlling Area Settings, Number ranges, and Maintained Versions.
+
+++ Configured and Customized CO — General Controlling, Cost and Revenue Element Accounting, Overhead Cost
+Controlling, Cost Center Accounting: and Internal Orders,
+
+‘+ Responsible for supporting and independently completing project tasks
+
++ Identified key drivers of defined, straightforward problem and proposed solutions.
+
+‘+ Identified and solved problems using analysis, experience, and decision making.
+
++ Selected the most relevant toolstechniques to meet specific client requirements.
+
+‘+ Understood the benefits of using state ofthe art methods and tools and their application on a particular
+‘engagement; contributed to continuous development of methods and tools
+
+‘+ Manages work to work plans for components on engagements
+
+‘+ Develops solutions to client problems through application of methods and tools; validates solutions to subject
+matter experts.
+
+‘+ Demonstrates accountability and contributions to the successful realization of client goals,
+
+‘+ Maintained quality-focused performance benchmarks and schedules when directing project teams,
+
+‘+ Worked closely with team members to deliver project requirements, develop solutions and meet deadlines.
+
+08/2012 to 02/2014 Seismic Data Processing Geophysicist
+
+Verity Geosolutions ~ City, STATE
+
+‘+ Reported on collected and processed seismic data to team, clients, senior management and partners at presentations
+and meetings.
+
+‘+ Experienced hands-on in seismic data processing and imaging.
+
+++ Loaded seismic data for processing starting from pre-processing to post-processing
+
+++ Involved in velocity analysis and frequency filtering on the horizon of different events in the sub surface terrain on
+a project.
+
+‘+ Carried out quality control process after post-processing for efficient result.
+
+‘+ Managed seismic data and cartridges.
+
+‘+ Measured reservoir volumes and assessed potential gas and oil yields
+
+‘+ Established and managed data gathering, interpretation and submission techniques for field projects.
+
+Epucarton axp TRAINING
+
+072012
+
+LANGUAGES.
+
+(Certieicarions
+
+Bachelor of Science: Geophysics
+Federal University of Technology - Owerri Nigeria
+
+English
+Negotiated:
+
+‘+ SAP S/SHANA for Management Accounting Associates (SAP S/4HANA 1709)

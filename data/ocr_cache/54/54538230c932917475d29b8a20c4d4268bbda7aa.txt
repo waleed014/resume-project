@@ -1,0 +1,87 @@
+HELENA
+FEENEY
+
+EXPERIENCE
+
+O'Reilly LLC 03/2018 - present
+Boston, MA_ Senior Teradata Database Administrator
+
+Automate and standardize repetitive tasks with version-
+controlled scripts and procedures
+
+Analyze and write complex queries to support gathering
+metrics, troubleshooting application issues, and diagnosing
+performance issues
+
+Perform basic and routine system administrator tasks on
+RedHat Enterprise 7 servers as/when needed
+
+Work closely with members of the development, test, and
+operations teams to troubleshoot build breaks, enforce
+software quality standards, and deployment of the application
+to non-production and production environments
+
+Configure, support, and maintain AWS EC2 instances running
+RedHat Enterprise Linux 7
+
+Barton, Bayer and Lind 09/2014 - 11/2017
+
+Boston, MA
+
+IT Database Administrator
+
+Familiarity with Windows/Mac Operating Systems
+Experience with Responsys Interact, CrowdTwist products
+Experience with git, puppet and docker, Kubernetes
+Experience with Python or Java Languages
+
+Good system administration skills including Linux internals,
+TCP/IP, DNS, load balancing technologies
+
+Knowledge of WebLogic Server System Administration and
+deployments
+
+Experience in developing scripts to automate application
+deployments and installations
+
+Experience in database and application performance tuning
+Experience engineering production infrastructure using code
+and repeatable designs
+
+93253 Bode Canyon,
+Chicago, IL
+
++1 (555) 298 5266
+
+EDUCATION
+
+Savannah College of Art and Design
+
+Bachelor's in Computer Science
+
+SKILLS
+
+Solid experience in T-SOL and Object
+Oriented programming concepts
+Query and Index Tuning
+
+Implement and maintain database
+backup and maintenance job
+monitoring
+
+Knowledge of Relational Database
+Management Systems (RDBMS)
+concepts such as SOL, stored
+procedures, JDBC/ODBC drivers,
+tables, foreign keys, joins,
+normalization, etc
+
+Able to provide incident management
+expert-level support to the Operations
+team as needed
+
+Manage project task execution
+independently and get all associated
+team members to deliver their tasks on
+time, both with and without direct
+authority

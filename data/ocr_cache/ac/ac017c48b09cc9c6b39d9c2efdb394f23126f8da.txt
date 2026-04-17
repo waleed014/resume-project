@@ -1,0 +1,29 @@
+EXPERIENCE
+
+EY - Financial Services - Risk & Prudential, Paris
+Senior Consultant, Nov 2018 - Present
+Missions :
+~ Interim CRO, French Factor.
+~ Post-Brexit regulatory compliance, US bank.
+~ New Definition of Default implementation strategy, Belgian Bank.
+
+BPCE Group & Natixis, Paris
+Consultant - Consolidated Analysis and Modeling, Sep 2017 - Nov 2018
+~ Built the Group internal risk referential and the risk materiality assessment methodology.
+~ Improved the Group's Risk Appetite Framework, strengthened the link between RAF/ PRR/
+ICAAP/ Strategy.
+~ Validated and reworked the reputational risk model.
+
+BPCE Group, Paris
+Consultant - Transversal Risk Analysis, Jun 2017 - Dec 2017,
+- Closed four ECB recommendations on a top management risk reporting (Delay, Frequency,
+Completeness, Exactness).
+- Automatised the production of ACPR surveys : Retail home-loans and Professional housing
+market (Datamart + Anaplan).
+
+Mpg Partners, Paris
+Consultant - Risk & Finance, Apr 2017 - Nov 2018
+- Built a Shadow Rating model for corporate portfolios.
+- Drafted a methodology to optimise the accuracy of an expert rating model through genetic
+algorithms.
+- Developed the Insurance practice.

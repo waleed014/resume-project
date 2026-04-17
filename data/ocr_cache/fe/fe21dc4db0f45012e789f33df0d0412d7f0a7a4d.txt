@@ -1,0 +1,59 @@
+Jared O'Con
+
+SAP Abap Developer
+
+Contact Details
+
+(=) jaredo'con@gmail.com
+
+@ (199) 644 8433
+
+© west Arely, 09907, Florida
+
+Education
+
+@ Bachelor of Science in
+Computer Science
+University of California,
+Berkeley
+2017 - 2021
+
+Skills
+
+ABAP programming - Expert
+SAP development - Expert
+Object-oriented - Expert
+Debugging skills - Expert
+BAPI knowledge - Expert
+
+OOPs concepts - Expert
+
+Summary
+
+Experienced SAP Abap Developer with 5+ years of development and
+implementation experience. Skilled in designing, coding, and testing of
+ABAP programs. Proficient in creating custom objects and debugging.
+
+Work Experience
+
+SAP Abap Developer, Jaskolski Inc
+March 2023 - Present
+
+¢ Developed complex ABAP reports, Smart Forms, and Adobe
+Forms using SAP ABAP programming language.
+¢ Implemented various enhancements to existing SAP Abap
+applications using User-exits and Badi's.
+* Created Technical Specifications and Functional Specifications for
+various development projects.
+SAP Abap Developer, Cruickshank - Gerlach
+May 2021 - February 2023
+¢ Developed and maintained ALE/EDI interfaces for interfaces with
+external systems.
+¢ Developed customer-facing interfaces such as Web Dynpro and
+SAP UI5.
+¢ Developed interfaces with external systems and third-party
+applications using BAPI, RFC, and web services.
+
+References
+
+References available upon request

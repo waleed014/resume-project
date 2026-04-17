@@ -1,0 +1,90 @@
+Annabelle Dickinson
+
+1765 Jerome Road, Boston, MA # Phone: +1 (555) 755 3550
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR ENGINEER, SW-AUTOMATION TESTIN¢
+
+Houston, TX
+10/2015 — present
+
+Enhancement of new ideas,framework development to make the framework more robust
+Working knowledge of software development tools (debuggers, emulators, compilers, etc)
+Working knowledge of software development processes
+
+Test automation Framework complete knowledge
+
+Close cooperation with other team members, leads and projects managers
+
+Positive attitude towards work (Dynamic)
+
+Working knowledge on design methodologies
+
+ENGINEER, SW-AUTOMATION TESTING
+
+Dallas, TX
+09/2012 - 06/2015
+
+Generate and provide application performance reports to Product Managers
+
+Works closely with product development team during all phases of product testing
+
+Work with Globally distributed agile team to analyze, define, and execute testing tasks in single or multi
+iteration approach
+
+Knowledge of Software development life cycle
+
+Create manual test-cases and automation scripts for product under test
+
+Timely automate functional, performance and regression level test cases
+
+Continually improving testing methods and test designs
+
+SELENIUM AUTOMATION TESTING
+
+New York, NY
+07/2008 — 08/2012
+
+Create and execute performance test scripts
+
+Design user workloads based on the expected performance benchmarks and statistically represented
+workloads
+
+Execute both batch and online jobs performance testing and analyze the results to provide
+recommendations
+
+Works with cross functional project teams to define performance metrics and acceptance criteria
+Performance from the start attributes (Unit level code performance test ex- Yourkit)
+
+Develop performance test plans
+
+Provide performance tuning recommendations and implement them especially around application server
+and databases
+
+GEORGETOWN UNIVERSITY
+Bachelor’s Degree in Electronics
+
+Strong knowledge of scripting, Hands-on with one or more of the following tools, Selenium, Jenkins tools
+ete
+
+Strong in service operations; ability to interface and manage internal and external stakeholders
+
+Strong Networking skills
+
+Demonstrate passion and commitment towards customer and product quality
+
+Expertise in security products & technologies like Firewall, IPS, VPN, and Vulnerability tests ete
+Understand related products’ architecture. Understands competitive products. Ability to apply new
+technology independently
+
++ Strong Software Test engineering methodology and process expertise
++ Proven track record of working in a fast-paced environment with multiple tasks and targets
++ Contribute to the automation using test automation environment leveraging virtualization, Java, Python,
+
+and 3rd party tools
+Experience in complex product testing

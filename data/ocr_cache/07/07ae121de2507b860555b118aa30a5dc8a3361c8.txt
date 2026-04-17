@@ -1,0 +1,52 @@
+7 Phone: (223) 456 78 99
+Junior ETL Developer mall: Ifo@quikresue.com
+
+ROBERT SMITH ee tee
+
+Objective
+
+Over 6+ years of experience in Analysis, Development, and Implementation of business
+‘applications including Development and Design of ETL methodologies using Informatica Power
+Exchange, Informatica Power Center, Pharmaceutical, Financial, and Telecom sectors,
+
+Skills
+
+Datastage, informatica, Oracle, Data Warehousing, et
+Work Experience
+
+Junior ETL Developer
+‘ABC Corporation - September 2007- April 2008
+Responsibllties Extracted data transformed and loaded Into Oracle database according to the
+specifications.
+Used various transformations lke lookup transforming the Sales Force Data according to the
+business jogic update strategy, router, fer, sequence generator, source quolifier/oiner on
+data and extracted as per the technical specifications.
+Created mapplets using Mepplet Designer to reuse Mapplets in the mappings,
+Experience in performing the analysis, design, and programming of ETL processes for
+Teradata,
+EDI Standard Evolution and Migration Solution Speclatlon-Driven Transformation Used by
+Informatica to provide up-to-the-minute pre-bull transformations in support of Industry
+standards
+Created debugging sessions before the session to validate the transforrnations and also used
+existing mappings in debug mode extensively for error dentification by creating break points
+‘and monitoring the debug monitor,
+Improved the performance of the mappings by roving the filter transformations early Into the
+transformation pipeline, performing the filtering at Source Qualifier for relational databases
+fand selecting the table with fewer tav's as master table In jolner transformations
+
+ETL Developer
+‘ABC Corporation - 2005 - 2007
+Organization Setyarn Computer Services Linited, India Location Offshore Bhubaneswar Onsite
+NA Duration Offshore September 09-March 10 Onsite NA Tear Size Project 4 Module 1
+Environment (with skill versions} Languages Database Oracle 109 Tools Erwin 6.1, Informatica
+8.1 0's Windows XP, Sun Solaris Unix Responsibilties Integration with SAP source’ systern,
+Data Integration Tools Selection from source ta target.
+“o understand the legacy source systems JDE and Compass and restructuring of GRID As a
+developer in GRID responsible for pulling data from SAP into GRID BW (Oracle.
+1p analyze the system and giving better picture to handle the data,
+Gener ating ABAP codes to extract data from SAP
+* ETL Code reviews and migration to Production Systern
++ Project Profle 6 Project Name SEDWN,
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+‘Guidelines

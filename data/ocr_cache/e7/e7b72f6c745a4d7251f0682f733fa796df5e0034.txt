@@ -1,0 +1,157 @@
+AIDEN KELLY
+.NET Developer
+
++1-536-301-5054
+linkedin.com/_victoria.johnson.
+
+SUMMARY
+
+v.johnson@gmail.com
+New York, NYC
+
+NET Developer with five years of experience developing web, batch, and business
+intelligence solutions using ASP.NET, C#.NET, SharePoint, and MS SQL. Expertise in
+requirements analysis, design, development, testing, maintenance, enhancement, and
+production support of business applications. Certified Web Development Professional with
+a deep passion for technology, extensive technological expertise, and well-developed
+
+teamwork abilities.
+
+EXPERIENCE
+
+Senior .NET Developer
+Wyman Ltd
+
+2018 - Present
+New York, NYC
+
++ MS SQL 2008r2 creating stored procedures, views
+
+* Worked on MS SQL Server 2005 and 2008, IBM Data Studio
+
+* Fully designed and developed 2 .NET applications used by a team of >10 on daily basis
+* Fully designed and developed 2 .NET applications used by a team of
+
+>10 on daily basis
+
+Senior .Net Developer
+Grimes
+
+2017 - 2018
+New York, NYC
+
+Grimes is a global leader in the technologies that connect people
+
+* Working unattended directly under CTO, in a pair of 2
+
+* Received excellence grade in evaluation consecutively for 4 years
+
+* Upgrade and developed SAR 3 million revenue E-Gov web application to N tier
+
+architecture
+
+Senior C# .NET Developer
+Carroll
+
+2016 - 2017
+New York, NYC
+
+Carroll is a Software Developing Company founded on 2015 that delivers ready to use
+
+software to different type of clients
+
+* Involved in database design on SQL Server 2008 and development of different
+database objects containing functions, triggers, store procedures
+
+* Designed front-end using the latest tools like Ajax
+
+* Designed web pages using HTML, JavaScript, CSS, DHTML, XML and page design and
+
+layout and graphics
+
+* Applied fixes and enhancements to SQL scripts through SQL Server
+
+.NET Developer
+Heller
+
+2011 - 2015
+New York, NYC
+
+Development company that designs innovative bespoke software services.
+
+* Communicated with customers to implement Web Services
+
+* Trouble-shot and fixed problems through customer requests, and QA
+
+* Utilized ASP.NET, VB.NET, AJAX, and Microsoft Visual Studio for development
+* Managed work items in Microsoft Team Foundation Server
+
+CERTIFICATION
+
+Oracle Database 12c
+Administrator
+
+Oracle Database technology is used by
+the world's leading companies to manage
+critical business functions, systems and
+processes.
+
+Powered by (CX? Ennancu
+
+Microsoft Certified Solutions
+Developer: App Builder
+
+Validates the skills needed to build
+modern mobile and/or web applications
+and services.
+
+www.enhancv.com
+
+SKILLS
+
+Ajax - C++ -.NET - Java EE - SQL -
+Microsoft Office -.NET Framework +
+SQL Server, HTML -
+
+Client-side web development
+
+EDUCATION
+
+Computer Systems and
+Technologies,Bachelor
+IN University
+
+2008 - 2009
+
+STRENGTHS
+
+Collaboration
+
+Work well in a team and know
+how to support my teammates.
+
+Critical Thinking
+
+| always think clearly and
+rationally, understanding the
+logical connection between ideas.
+
+Delivering Results
+
+Focus on the key inputs and
+deliver them with the right quality
+and in a timely fashion.
+
+Problem Solving
+
+lam capable of coming up with
+creative solutions to identify
+
+problems and solve them in an
+efficient and effective manner.
+
+INDUSTRY EXPERTISE
+
+Microsoft.NET
+
+LAMP & Open Source

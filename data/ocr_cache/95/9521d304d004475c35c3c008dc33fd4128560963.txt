@@ -1,0 +1,71 @@
+Joan Wilderman
+
+98216 Zoila Roads, Detroit, MI @ Phone: +1 (555) 607 2088
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+QA/ SOFTWARE TESTER
+Phoenix, AZ
+03/2014 — present
+
+‘© Create clear, concise, detailed project artifacts that meet the standards of the testing processes
+Execute the test cases, identify defects, classify and raise defects, participate in defect triages
+‘Communicate and document testing status and any discovered issues and risks
+Prepare the Testing metrics of the project and track the metrics with respect to the organization goals
+Be proactive at all times with a bias for action
+Perform release testing as part of development sprints
+Report defects and work closely with other team mates to get them fixed
+
+QA SOFTWARE TESTER
+Dallas, TX
+04/2011 — 09/2013
+
+‘© Work with end users to elicit
+functionality
+Assist end users with problem resolution and general support
+
+Knowledge of UI automation frameworks for Android is a plus
+Work closely with User Acceptance Team’s on multiple products to aide in testing and resolution of issues
+Proficient in written and spoken English
+Ensure continuous integration of multiple software products through the use of automated tools and
+‘manual processes including execution of automated tests
+‘ Interested in breaking things
+
+steps to reproduce and isolate problems in software and confirm incorrect
+
+QA SOFTWARE TESTER
+Chicago, IL
+02/2008 — 01/2011
+‘© Be organized, detail oriented and resilient to stress
+Passionate for delivering quality software and defending the customer/end-user perspective
+Specification of test scenarios and test cases
+Execution of tests on native mobile apps (mainly iOS)
+Drive test case automation within the team
+Execution of tests on native mobile apps
+Execution of tests
+
+CALIFORNIA STATE UNIVERSITY, FULLERTON
+Bachelor’s Degree in Computer Science
+
+Proficient in written and spoken English
+
+Knowledge of UI automation frameworks for Android is
+
+Passionate for delivering quality software and defending the customer/end-user perspective
+Good communication skills and teamwork believer
+
+Good time management and multi-tasking skills
+
+Be organized, detail oriented and resilient to stress
+
+Interested in breaking things
+
+Experience working in Agile environments with SCRUM methodologies is
+
+Experience working in Agile environments with SCRUM methodologies
+
+System development life cycle

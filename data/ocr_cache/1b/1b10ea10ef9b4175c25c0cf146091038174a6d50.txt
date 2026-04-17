@@ -1,0 +1,199 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10h Floor
+(655) 492-1000 - resumesample@example.com
+
+PRoFEssionat SUMMARY
+
+TT Secunty Analyst with 5years Experience of performing research, analysis, and troubleshooting o dently, resve, and explain complex
+secur isues
+
+Cybersecurty, incident Management, and IT complance support across the Enterprise infrastructure
+
+Cybersecuny capabiies and risk management fo ensure network and IT systems ae protected against cyber-attacks and malicious
+Intusin,
+
+‘Secuiypotcy interpretation ana implementation requlements ensure confidently, neg, avatabay of information, systems, and
+network
+
+‘Secury Assessment and Authorzation (SABA) professional knosfedgeable in Rsk Management Framework (RMF), Systems Development
+Life Cycle (SOL), secunty ite cycle and vuinerabity management using FISMA, and appcable NST standards.
+
+Implemented the Continuous Monitoring process of the RMF to perform near reak-time risk management and continuous information
+systems authorzaton
+
+Highy motivated, organized and resus and detat-oriented with excelent interpersonal, communication, and presentation skits
+
+Seis
++ Security Technologies: Nessus Secunty Center map + Software: MS Oftice (Word, Excel, Outlook. Access, PowerPoint)
+\iresnark SIPS; Log Management, Ant-Vius Tools, (Norton, + Tleket Systems: ServiceNow Remedy
+Symantec).
+
++ Application: MS Otic (Word, Excel, Outlook PowerPoint
+Access), Wireshark, NMAP Nessus, ArcSight, SharePoiet, CSAM,
+SSTIGS, and SCAP
+
++ Operating Systems: Uni-Based Systems (Linu: Windows,
+
+‘Work History
+
+0972019t0 Risk Management Analyst
+092021 ‘Akebono — Remote Suppler Risk Management Planner Elzabetnioen, KY
++ Reviewed contracts and agreements to ently potential sks and idea mitgation strategies,
++ Developed short-term goals and ong-term strategic plans to improve rk contol and milgaion.
++ Promoted enterpriseevel isk management practices and helped inl strong culture focused on protective potcies
+‘and procedures.
++ Investigated alegations to check vay and recommend actions to minimize risk.
++ Nettles ceticates of insurance for accuracy and conformance with internal isk management policies and
+coordinated issuance to mdvduals and enties
++ Arranged risk management team meeting by preparing materials, updating calendars and seting up conference
+spaces.
++ Assisted with minimizing risk exposure by reviewing claim vakity and abity against coverage standards,
++ Maintained current team documentation, validated codes and racked Invoices to keep accounts and records
+current.
++ Supported ve member risk management team with muitfaceted administrative assistance such as organang and
+transmiting records.
++ Administered RIS system data imports, configuration changes and user issues.
+
+052017 fo Information Security Analyst
+082019 Cambridge Savings Bank — Cambridge, MA
+
++ Reviewed violations of computer secunty procedures and developed mitigation plans
+
++ Monitored computer vius teports to determine viento update vu protection systems
+
++ Developed plans to sateguard computer fle against moaication, destruction or disclosure
+
++ Encrypted data and erected frewals o protect confidential information
+
++ Monitored use of data fes and regulated access to protect secure information
+
++ Conducted secunty aud to identity vunerabtes.
+
++ Performed risk analyses to identity appropiate secunty countermeasures.
+
++ Engineered maintained and repaired secunty systems and programmable loge controls
+
++ Recommend improvements in securtysyslems and procedures.
+
++ Researched and developed new computer forensic tol.
+
++ Carried out day-day-day dues accurately and enicenthy
+
++ Developed ang implemented performance inprovementstategles and plans fo promote continuous improvement
+
++ Demonstrated respec, hendiness and vlingness to help wherever needed
+
++ Actively listened to customers, handled concerns quickly and escalated major issues to supervisor.
+
++ Prepared a vane of deren witten communications, reports and documents to ensure smooth operations,
+
++ Created plans and communicated deadines to ensue projects were competed on tie.
+
+01/2015t Information Security Analyst
+42016 Cambridge Savings Bank —Metrose, MA
+
++ Performs vunerabity scanning with Nessus to detect potential risks on single or mutiple asses across ihe
+enterprise network
+
++ Develops, coordinates, implements, and maintains standares and procedures to protect information systems and
+data securty and integty.
+
++ Provides review and updates on System Secunty Plan (SSP), secuntycategoration, Securty Assessment Report
+(SAR), Privacy Impact Analysis (PIA), Privacy Threshok Analysis (PTA), and Contingency plan (CP)
+
++ Observe and analyze traffic to learn valuable lessons from known malicious actors and determine countermeasures
+‘against such threats
+
++ Provides detaled slats updates on esting cybersecunty incidents daly to folow-up with cenvcustome to ensure
+salisactory resolution.
+
++ Develops risk assessment reports, ientiying threats and vuinerabies applicable tothe system.
+
++ Evaluates the tketnood that vunerabltes would be exploited and assess the impact associated wih this threat and
+vunerabittes.
+
++ Apply required secunty patches within NIST and enterprise guidelines
+
++ Conducts kickott meetings to categorze the system according o NST requirements of Low, Moderate, or High
+‘System (FIPS 199 and SP 800-60)
+
++ Conaucts secunty contol Assessment fo assess the adequacy of management, operational privacy, and echnical
+secunty controls implemented,
+
++ Prepares systems certification and Accredtation package, ensuring that management, operational, and echnical
+‘secunty controis adhere toa fomal and wel-estashed securty requirement authored by NST 800-5345,
+
++ Develops Secunty Assessment Report (SAR) detaling he resus ofthe assessment along vith the Plan of Action
+‘and lestones (POABM)
+
++ Develops System Secunty Plan (SSP) o provide an overview of system secumty requirements and describe the
+Controls in place or planned by nformaton system owners to meet those requirements
+
++ Perfo system risk management foloning the NST risk management framework
+
++ Conducts secunty assessment on assigned systems to ensure FISMA complance folowing NST SP 800
+‘pubications, especialy NIST 600-S3rev 5, 800-53A, and Federal information Processing Standards (FIPS).
+
++ Collaborates with iSS0s to request assessment evidence Iss, set up assessment interview meetings, review SSP
+‘documents, and review system boundaries.
+
++ Enterprise system secunty plan, Rsk assessment, nd Privacy polices development
+
++ Perform incident response fo investigate and resolve computer secuty incidents
+
++ Develo follow-up action plans to resolve reportable issues and communicate wth other Analysts to adcress
+secur threats and incidents,
+
++ Prlotize and difeentaing between potential intrusion attempts and false alarms
+
++ Assist th developing processes and procedures fo improve Incdent response tes, analysis ofthe incident, and
+‘overall SOC tunetons.
+
++ Provide incident Response (R) support when analysis confms aconable incident
+
+01201410 IT Support Spectaist
+ra2014 Bombas — Remote (Tr-State) Or New York, NY
+
+*+ Developed and tested new product offerings prior o release to assist development team in bug dentition
+
++ Provided technical support or all operating system platfomns in both internal and extemal customer scenarios
+
++ Managed LT. requests order furiiment (hardvare and sofware) and assisted with deployment othe end-user
+ccommunty
+
++ Recreated user problems, recommended solitons, and aciated escalation when requires.
+
++ Engaged appropriate management level and ter 3 for complex issues and laises between customer and solutions
+group,
+
++ Reviewed documentation and education courses to gve a users point of view reported design, reliably, and
+‘maintenance problems or bugs
+
++ Tracked narduare location changes, ensured accurate accounting of asses, coordinated the return or pickup of
+surplusunused IT harawvare, and deposed of retires assets,
+
++ Prepared and processed incoming shipments of equipment and maintained the organization of LT. storage
+
++ Ensure the proper trackng of LT. asset inventory leves by conducting auals and physical inventors.
+
++ Prepared and imaged new (desktops and laptops) and provided break suppor. and prepare assets for
+‘ispostion
+
++ Provided delated desenpions of ssues inthe trouble eke! system and flowed up dligenty to ensure suit
+resolutions
+
++ Provdes on-site aswell as remote hardvare, sofware support, and rl-out of Windows to all users
+
++ Ensured the proper tracking of LT. asset inventory levels by conducting aualts and physical inventories
+
+Epucarion
+
+sano Bachelor of Science:
+Imo State University -Ngeria
+
+Centiricarions
+
+‘Comptia Securty+
+CCAP In Progress
+CissP-n Progress

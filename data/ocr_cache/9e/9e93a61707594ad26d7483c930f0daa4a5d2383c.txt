@@ -1,0 +1,86 @@
+Zelma Kunde
+
+40745 Mayert Trail, Houston, TX # Phone: +1 (555) 493 1757
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+PRINCIPAL DATA SCIENCE MANAGER
+Dallas, TX
+03/2016 — present
+‘* Lead and grow the Data Science & Machine Learning team
+‘* Develop the tools to best drive insights across the breadth of the Skype Consumer family of products
+through both aggregate and real time data streams
+‘© Champion the use of Data Science practices across all aspects of our product and service portfolio and
+across our business engagements
+‘+ Help further drive our culture of Learning through building fostering exploration and discovery
++ Are inherently curious, energized by large challenges, and interested in making a significant impact on a
+globally scaled business
+‘+ Develop data-driven insights & solutions with advanced analytics (machine learning, deep learning and
+statistical models) to extract insights from large proprietary agronomic data sources (millions of acres of
+farm data, terabytes of imagery and corresponding weather/soil/genetics data)
+‘+ Identify, implement, and present results of research on novel ways machine learning approaches can
+improve decisions, add value to services, and contribute to the advancement of ideas into the marketplace
+& agriculture
+
+SENIOR DATA SCIENCE MANAGER
+Philadelphia, PA
+08/2011 — 09/2015
+‘© Work cross functionally with stakeholders to ensure data-driven answers are provided and recommended
+‘* Develop technique/algorithms/measurement for research and analysis work
+‘© Lead the development and resolution of critical initiatives to support customer growth and provide critical
+decision support across Generics
+‘© Work with other teams to identify problems in different areas where data mining/machine
+learning/statistics can help
+‘* Communicate results; develop and maintain strong relationships with key stakeholders, partners and
+internal clients
+‘* Manage and build out a team of motivated Analysts, Data Scientists and or Statisticians
+‘* Drive business value; prioritize initiatives to ensure delivery of business value while continuing to build
+‘out the team’s core competencies
+
+DATA SCIENCE MANAGER
+Dallas, TX
+03/2009 — 06/2011
+
+‘© Wrangling data from multiple sources including sales, customer, and clickstream databases to create
+integrated views that can be used to influence business decisions
+Working with large, complex databases
+Delivering presentations to high level business stakeholders that tell cohesive, logical stories using data
+Strengthen our relationship with other disciplines and departments through effective collaboration
+Take part in recruiting, including reviewing, shaping, and evolving our process, training team members to
+interview effectively, and proactively engaging candidates
+‘* Develop KPIs and measures of success in a cross-platform world
++ Lead development of data tools, such as dashboards and A/B testing platforms
+
+UNIVERSITY OF MEMPHIS
+Bachelor’s Degree in Computer Science
+
++ Ability to work autonomously in the completion of deliverables
+
+‘* Strong interest in customer experience and analytics-enabled digital transformations (e.g. mul
+segmentation, user experience, ete.)
+
+‘+ Excellent communication and presentation skills: able to explain Analytics in non-technical terms to
+
+business users (C-level, line managers,...)
+
+Strong knowledge and proven hands-on experience in personalization and information retrieval projects
+
+Proven ability to build, manage and foster a team-oriented environment
+
+Knowledge and experience with open source technologies
+
+‘Act quickly on new ideas
+
+A strong record of prior research and / or product development experience
+
+Quality Assurance and Testing
+
+A Research-to-Implementation Mindset: ability to spearhead a project from idea to experimentation to
+
+prototype to implementation
+
+i-channel,

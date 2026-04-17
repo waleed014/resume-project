@@ -1,0 +1,58 @@
+PROFILE
+
+EXPERIENCE
+Analysis
+
+Design
+
+Configuration
+
+‘SAP Consultant with visionary design and strong problem
+solving skills
+‘© 2Wyears SAP experience
+SD, LE, PP, MM, PS, QM, CO configuration experience
+© VC Variant Configuration, ABAP programming experience
+in several modules
+Coaching consultants and SAP Staff
+Excellent business know how in all areas of logistics in
+different industries
+‘+ Strong methodology knowledge
+
+|dentified key SD/LE/PP/MM/PSIQM business processes,
+‘mapped requirements to SAP, and identified gaps to be addressed
+during the design stage, Wrote handbook about the methodology
+10 use for documentation of processes in analysis and design
+
+phase
+
+‘Developed new cross functional business processes for SAP as a
+‘guideline forthe detailed design inthe different teams, Wrote
+SAP'SD, LE, PP, MM, PS, QM scripts and training documents
+‘Composed design specifications for new transactions and reports.
+Designed new functions and scenarios for using SAP on the
+Interet
+
+Configured SD, LE, PP, MM, PS, QM modules in all important
+
+functions
+
+SD: 14 Implementations
+“Master data document types, incompletion log, document flow,
+‘condition teshnique/pricing, requirements transfer and availability
+check, account determination, shipping, bli
+
+LE: 10 Implementations
+Outbound deliveries, picking, packing, oods issue, batch and
+serial nomber management, inspection lots, Transfer requirements,
+transfer orders, putavay, inbound deliveries
+
+PP: § Implementations
+BOM and recipes, work centers, master recipes, routings, process
+instructions, SOP, demand management, MRP, process orders,
+production orders, capacity planning, dstrbation planning, variant
+‘configuration, stlement
+
+MM: 8 Implementations
+Master data, MRP, forecast, purchasing, batch management,
+incompletion contro, inventory management (IM), warehouse
+‘management (WM), invoice verification

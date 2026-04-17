@@ -1,0 +1,85 @@
+Rubie Abbott
+68726 Javonte Ville, Boston, MA # Phone: +1 (555) 149 9648
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR INFORMATICA ETL DEVELOPER
+Houston, TX
+
+11/2014 — present
+
+‘+ - Develops PowerCenter Workflows and Sessions, and also sets up PowerExchange connections to
+
+database and mainframe files
+
+-Develops logical and physical data flow models for ETL applications
+-Provide System and Application Administration for Informatica PowerCenter and PowerExchange
+-Designs, develops, automates, and supports complex applications to extract, transform, and load data
+Identifies and manages interfaces, service levels, standards and configurations
+-Demonstrates working knowledge of Informatica PWC & PWX 8.6.1 or 9.x, SQL Server 2005/2008 or
+equivalent databases, SQL, Oracle/GoldenGate, Windows server 2003/2008, Autosys Scheduling,
+Mainframe data files, Web Services and XML
+‘+ ~ Plans work and leads team of others; mentors others on the team with product funetionality
+
+INFORMATICA / ETL DEVELOPER
+Chicago, IL
+04/2008 — 10/2014
+‘+ Analyzes and evaluates existing or proposed systems, and devises computer programs, systems and related
+procedures to process data
+‘Prepares charts and diagrams to assist in problem analysis and submits recommendations for solution
+‘© Prepares program specifications and diagrams and develops coding logic flowcharts
+‘* Encodes, tests, debugs, and installs the operating programs and procedures in coordination with computer
+operations and user departments
+‘+ Assignments are broad in nature, usually requiring originality and ingenuity
+© Work with Metadata Manager and business glossary to match technical data to business terms
+‘* Document programming problems and resolutions for future reference
+
+INFORMATICA ETL DEVELOPER
+
+Phoenix, AZ
+11/2004 ~ 01/2008
+
+‘© Design, Develop and Test ETL Mappings, Mapplets, Workflows, Worklets using Informatica
+Powercenter 9.x
+
+‘© Work in a fast paced environment, under minimal supervision providing technical guidance to the team
+members
+
+‘+ Responsible for database schema design, extensive T-SQL development, integration testing and other
+projects that may be necessary to help the team achieve their goals
+
+Working closely with Onshore and offshore application development leads
+
+ETL Mappings, Mapplets, Workflows, Worklets using Informatica Powercenter 9.x
+
+Identify efficiencies and ways to improve design and development processes
+
+Identify ways to increase efficiency of production support - Find solutions that allow operations to better
+
+do their job without involving development resource time
+
+NORTHWESTERN UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Strong knowledge of Informatica ETL and Oracle/DB2 database technologies.
+
+Strong analytical skills and SQL proficiency
+
+Strong experience in DWH Technologies (Informatica, Netezza, SQL, Unix, Autosys)
+Strong oral and written communication skills,
+
+Experience with Tableau
+
+Ability to identify and appropriately escalate issues/risks to management for direction
+Strong understanding of operational data staging environments, data modeling principles, and data
+‘warehousing concepts
+
+‘Strong time management and task prioritization
+
+‘Strong Data modeling and understanding of key business elements
+
++ Strong Data analysis skills

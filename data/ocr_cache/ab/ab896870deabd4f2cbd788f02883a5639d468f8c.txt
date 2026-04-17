@@ -1,0 +1,42 @@
+CARLA JENSEN
+Python Software Developer
+
+948.305.9844 « carla_jensen@gmail.com « official-scooter.info * Frederick, Martinique
+
+My Life Philosophy
+
+Programming is not about what you know; it's about what you can figure out.
+
+Summary
+
+Experienced Python Software Developer with a strong background in Agile development and AWS. Highly skilled in Python
+programming, web development, and data analysis. Collaborative team player with excellent communication skills. Experienced in
+developing scalable software solutions and optimizing performance. Passionate about finding creative solutions to complex
+problems and delivering high-quality software solutions. Proven track record of achieving outstanding results, such as reducing
+data collection time by 30% and improving database query performance by 50%. Bachelor of Science in Computer Science from
+the University of XYZ. Enthusiastic about joining a dynamic team and contributing to the success of an innovative company.
+
+Strengths
+4 Effective Problem Solver ® Excellent Communication
+Consistently find creative solutions Ability to effectively communicate
+to complex problems, resulting in technical concepts to both
+improved efficiency and cost technical and non-technical team
+savings for the company. members, resulting in improved
+
+collaboration and successful
+project outcomes.
+
+Experience
+
+Tech Solutions Inc. New York, NY
+Python Software Developer 2022 - Ongoing
+Developed and maintained Python applications for various clients, utilizing Agile development methodologies. Collaborated with
+cross-functional teams to deliver high-quality software solutions.
+* Led the development of a web scraping tool using Python and Beautiful Soup, resulting in a 30% reduction in data collection
+time.
+* Improved the performance of a database query module by 50% through optimization techniques, resulting in faster data retrieval
+for end-users.
+* Collaborated with UX designers to implement dynamic visualizations using D3.js, providing enhanced data visualization
+capabilities for clients.
+
+www.enhancv.com Powered by (CX7 Enhancu

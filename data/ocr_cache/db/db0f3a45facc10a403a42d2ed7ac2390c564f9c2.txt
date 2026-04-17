@@ -1,0 +1,82 @@
+JAMEL HODKIEWICZ
+
+4308 Torrance View, Philadelphia, PA + +1((555) 330 1945,
+
+WORK EXPERIENCE,
+SENIOR ANALYST DOT NET DEVELOPER 07/2016 - PRESENT
+Chicago, IL
+‘+ Tobe accountable for end to end development activities for projects within the STARRT solution architecture function
+
++ Thi
+
+is an exciting opportunity to participate in development of highly scalable and robust system,
+‘+ Translating detailed Requirements and Design and Solution Architecture deliverables into detailed Solutions Design Documents (design
+specifications)
+
+‘+ Maintaining effective and consistent communication within the team, with peers, the leadership team and the peers in other IT groups
+‘+ Producing high quality application development/ Application engineering deliverables in accordance with the project timeline
+‘+ Building and unit testing a project to detailed design specifications
+
+‘+ Brainstorm user stories, participate in technical discussions and come up with creative solutions
+
+DOT NET DEVELOPER 05/2011 - 02/2016
+Phoenix, AZ
+
+‘+ Commit chunks of work into a sprint and be responsible for driving user stories through to completion
+
++ Net development experience (C#)
+
+‘+ Experience working in Agile team environment
+
+‘+ Understand the build and deployment process and be a go to person for troubleshooting ive issues.
+
+‘+ Soft skills needed: Self-starter, proactive, approachable, solution oriented, team player
+
+‘+ Working experience on Performance Tuning of an application using C# and SQL.
+
+‘+ Relevant experience in enterprise application’s design, coding, testing
+
+‘+ Application of quality assurance processes to the implemented solution and it's adherence to standards and best practices
+
+CDOT NET DEVELOPER VIF (08/2008 - 01/2011
+San Francisco, CA
+
++ Strong knowledge of new or latest technology, and able to gauge suitability to the organization's business
+‘+ Participate in requirement gathering JAD sessions and support documentation where applicable (business, functional, UI, usabili
+
+compliance, data migration, NFR, 3rd party tools & products)
+
+data,
+
+‘+ Raise queries and get query resolution on areas which are unclear, ambiguous and which need more information to the Technology Lead
++ Design and develop software products in the Cloud R&D organization of Microfocus
+
+‘+ Provide solutions for wide range of complex problems; independently determine and develop solutions with limited supervision
+
+‘+ Interacting with eross-geo team members as and when needed
+
+‘+ Providing input for product documentation
+
+‘+ Working on customer issues whenever needed and product initiativesSkills and Qualifications
+
+‘+ Mandatory Skills - Experienced Net, C#, AWS, Virtualization
+
+EDUCATION
+
+HERZING UNIVERSITY - KENOSHA CAMPUS 2004-2008
+Bachelor's Degree in Design
+
+PROFESSIONAL SKILLS.
+
+‘+ Have excellent communication skills, especially in composing web site technical specifications and presenting technical solutions
+working software in Agile model while collaborating with stakeholders and team. Skills
+
+‘+ Very good client handling experience along with Airlines industry experience
+
+‘+ Interpersonal communication and organizational skills required to integrate with other teams,
+
+‘+ Desired Skills - Web Services (REST/SOAP)
+
+‘+ Possess good communication skills (written and verbal English)
+
++ OOP design skills

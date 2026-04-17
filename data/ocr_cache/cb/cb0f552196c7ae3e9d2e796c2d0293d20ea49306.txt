@@ -1,0 +1,86 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesample@example.com
+
+SUMMARY
+
+Highly motivated soul ready to take up challenges and work in the software industry utilizing my relevant experience, technical expertise, and
+
+problem solving skills.
+
+SKILLS
+
+C, Java, JavaScript, React, HTML, CSS, ServiceNow Scripting,
+Python, AngularJS, NodeJS, Verilog, Matlab
+
+EXPERIENCE
+
+Software Developer, 01/2020 - 08/2021
+Proofpoint Inc— Vermont
+* Virtual agent analytics: Developed the first version of the analytics dashboard which gives the data of the conversations made by the users
+with the virtual agent Developed the project from scratch using the ServiceNow UI Builder tool for frontend, and developed the ETL.
+process for the virtual agent analytics using JS and Servicenow scripting
+* Virtual agent Conversation Builder: Developed the Virtual Agent Designer which is a graphic tool for building the dialog flows of
+conversations, called topics, between a virtual agent and user using React, Java and restful APIs. Designed front-end and back-end
+solutions for test-driven development,
+
+Associate Software Developer, 05/2018 - 12/2019
+Pearson ~ Springfield
++ VTB: Full-stack development and maintenance of visual project management tool using interactive drag-and-drop integrated with the
+ServiceNow platform, which turns any list to Kanban-like Task Board and allows users to collaborate. Redesigned and developed the
+product software architecture using core Java and Restful APIs for performance improvements and additional features. Updated the User
+Interface of VIB using AngularJS as part of the ServiceNow Platform UX upgrade. Developed unit test cases for the project using
+Mockito.
++ Now Visual Board: Redesigned and Developed the VTB from scratch using the Now Experience UI Framework as part of the Servicenow
+tech stalk upgrade project. Also acted as the scrum master for the project.
+* ServiceNow Classic Mobile App: Maintenance and critical bug fixes of ServiceNow platform for mobile web browsers and classic app in
+AngularJS, Java and NodeJS environment
+* Activity Stream: Maintenance and critical bug fixes in the platforms activity stream using AngularJS, Java and jQuery.
+
+Intern, 06/2017 - 11/2017
+American College Of Radiology — Philadelphia
+Design for Test (DFT): Techniques that reduce the difficulty and cost associated with testing an integrated circuit,
+* Developed an Automated Regression setup for validating the MBIST(Memory Built-In Self-Test) pattem checker scripts, used in Chip
+testing, using TCL, Make File and shell scripts.
+* Used Perl and Shell Scripts to initialize the memory cells in RAM for verification using Automated Test Pattern Generation.
+
+Projects, 08/2014 - 05/2018
+BITS Pilani
+
++ Study the Grayscale lithography for MEMS application, Jan-May 2018: Researched and developed 3D non-planar MEMS with the concept
+of greyscale lithography using physical pixelated greyscale mask on photoresist materials.
+
++ Application of data mining algorithms to practical data sets, Feb-April 2018: Generation of frequent item sets and interesting association
+rules using Apriori algorithm on grocery items data, built and compared the phylogenetic trees of Human Gene DNA Sequences using
+Agglomerative and Divisive Clustering, used the Local Outlier Factor (LOF) technique to get anomalous data points in credit card
+transactions.
+
+* Online food ordering system, Mar-April 2017: Built a web based food ordering system In Java using NetBeans which takes the input from
+customer and shows the orders to the manager who can update the status.
+
+EDUCATION AND TRAINING
+
+‘Master of Science: Machine Learning And Data Science
+University of California - San Diego - La Jolla, CA
+
+Bachelor of Engineering: Electronics And Communication, 07/2018
+Birla Institute of Technology And Science - Pilani - India
+
+© 8.57/10 GPA
+
+© The Electrical and Electronics Department Member
+
+* Completed coursework in Data Mining, Data Structures and Algorithms, Discrete Structures for Computer Science, Probability &
+Statistics, Computer Architecture, Operating Systems, Microprocessors & Interfacing, Object Oriented Programming, Communication
+‘Networks, Information Theory and Coding, Embedded System Design, Analog & Digital VLSI design.
+
+Honors AND ACHIEVEMENTS.
+
++ Recipient of Gold Medal from Recognized School Managements Association, Hyderabad for being the High School Topper.
+* Achieved 98.2% in the Board of Intermediate exam for Higher Secondary School.
+© Completed the Hyderabad 10k Marathon twice, 25 Aug, 2019 and 23 Feb, 2020.
+
+LANGUAGES
+
+English: Telugu:
+Negotiated: Negotiated:

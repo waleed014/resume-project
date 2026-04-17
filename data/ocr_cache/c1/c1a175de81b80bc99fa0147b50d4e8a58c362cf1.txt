@@ -1,0 +1,121 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 # (555) 432-1000  resumesampleGexample.com
+
+Professional Summary
+
+‘As the Director of IT, managed a team responsible for all corporate and local office systems, including applications, data center,
+servers, networks, firewalls, anti-malware, anti-spam, security, Active Directory, Azure Active Directory, Backups and storage, PCs,
+and telecom. Reported to the president of the organization. At the beginning of my tenure, jompleted a current state assessment;
+authored the firm’s IT strategy and project roadmap. Implemented changes resulting in over $20K in operating expense savings in
+first year. Planned and managed physical-to-virtual server migration; retired 8 servers and saved over $50K in operating expenses.
+Led the evaluation and selection of a new VOIP Phone system for the organization which allowed us to reduce our number PRI
+circuits from three to one by leveraging existing data circuit. Converted legacy PBX phone system to VoIP. Managed IT aspects of
+various construction projects, including square footage needs, HVAC, cabling and relocation of equipment with minimal to no down
+time during cutover. Performed upgrades to hardware and software with minimal to no down time.
+
+Skills
++ Windows Server and Desktop support, Troubleshooting, _* Project Management
+Issues resolution + strategies and goals
++ Remote Management tools (Windows Admin Center, + Leadership Experience
+‘Comodo, GPO, Kace MDM, RDP/VNC) + Excellent Analytical Verbal And Written Communication
++ Help Desk Management, Team leadership + Change Management
++ Windows/MacOS/Linux + Technical Knowledge
++ VMWare, Proxmox, HyperV Virtualization + Knowledge Transfer
++ MDM iPhone/Android + File Management
++ Group Policy, MSI deployment, VB script batch file, some
+Powershell
++ Strategic planning
+Work History
+
+Director, Information Technology, 04/2005 to Current
+Fiserv, Inc. ~ Hickory, NC
+*+ Consulted with help desk staff to evaluate hardware and software requirements for business operations for Desktop needs
++ Worked with helpdesk staff as needed to support Microsoft Windows 7/8/10 issues, as well as other desktop applications
++ Evaluated, procured, installed and supported cloud and server hardware, networking hardware, SAN, blade servers, firewalls,
+VOIP phone systems, desktops, laptops, and some medical equipment
+* Determined WAN infrastructure needs and brokered contracts for WAN/Internet/Cloud services
++ Evaluated, procured, installed and supported Carbon Black anti-malware initiatives, encrypted email, patient portals, fax servers,
++ Worked with HIPAA compliance officers to design appropriate corporate policies with respect to ePHI, MU/MIPS initiatives
++ Supported, installed, upgraded VMware, Proxmox, Athena Centricity, Surescripts Document Mangement, SMPP, eRx, Biscom
+Fax server, 38 fax, fax to email, MAS 200 Accounting System, Vision, Windows Server, Active Directory, Azure Active
+Directory, Microsoft Exchange, Windows Server, CentOS Linx
++ Setup, maintain and monitoring of environmental HVAC, UPS, and generator systems for server rooms
++ Setup/maintain backup systems and Disaster Recovery initiatives for VMWare and Proxmox infrastructure
++ Lowered IT costs by 25 percent leveraging open source software for Asterisk phone systems, Hypervisor (Proxmon), firewalls,
+network monitoring (Nagios, RANCID), Edge email using spamassassin/postfix, Hylafax fax to email, Squid Proxy Internet
+website blocking
+
+IT Manager, 10/2001 to 04/2005
+Bolt Threads ~ Emeryville, CA
+
++ Closely collaborated with project members to identify and quickly address problems
+
++ Performed detailed assessments of risks to determine constraints and develop mitigation strategies
+
++ Created full-fledged implementation plans, accounting for ROI, cost-benefit and other analyses,
+
+‘+ Maintained tactical control of project budgets and timelines to keep teams on-task and achieve schedule targets by using open.
+
+source software where possible
++ Oversaw daily performance of computer systems and immediately responded to all issues to keep business up and running
++ Worked Helpdesk issues for Microsoft Windows and other applications
+
+Instructor, 01/1999 to 12/2001
+American Chemical Society ~ Austin, TX
++ Implemented and optimized new curriculum and day-to-day instruction for A+ and MCSE test preparation for eventual
+certification.
++ Provided clear, informative lectures on Microsoft and CompTIA courses to classes of 10-15 students,
+* Initiated new leaming methods, promoting total student comprehension while curbing learning time. This was done with lots of
+hands on lab work as well as providing real world examples which I encountered in my other jobs.
++ Earned positive feedback from parents regarding classcoom instruction and student learning success.
++ Tested students on materials presented in workshops and classes to assess grasp of material
++ Reviewed class and student records to look for areas in need of improvement and implement plans of action.
+
+Education
+
+Bachelor of Science: Industrial Management And Computer Science, 1994
+California University of Pennsylvania - California, PA
+Certifications
+
+Former/expired certifications:
+
+MCSE, MCSA, MCT, Dell, HP, As, CTT, Fore/Marconi Layer 3 Switches
+Hardware Experience:
+
+EMC Clarion (5 years)
+
+EMC VNX 5400 (5 years)
+
+Dell M1000 Rack/Chassis servers (5 years)
+
+Cisco Switches (10+ years)
+
+Dell Powerconnect Switches (10+ years)
+
+Cisco ASA (10+ years)
+
+HPiLO
+
+PRI/POTS/SIP Trunking
+
+Network/Security Experience:
+
+Carbon Black Protect (4 years)
+
+Carbon Black Sensor (2 years)
+
+Comodo Anti Malware (1 year)
+
+‘Quest Rapid Recovery Data Protection (10+ years)
+‘Observium SNMP aggregation, graphing, alerting (2 years)
+Nagios (10+ years)
+
+Zoneminder DVR Susveillance camera system (5+ years)
+Asterisk VoIP/Freepbx (10+ years)
+
+Additional Information
+
+My best assets are the ability to multi task projects, problems, and issues. Iam able to troubleshoot and break down issues to their
+oot cause for appropriate resolutions to be discovered or created. Proactive approaches have always been the best way to maximize
+‘uptime and minimize problems.

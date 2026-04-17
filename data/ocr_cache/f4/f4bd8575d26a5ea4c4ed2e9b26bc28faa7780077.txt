@@ -1,0 +1,89 @@
+Robert Smith
+
+Jr. SAP Consultant
+
+PERSONAL STATEMENT
+Currently employed with Cognizant Technology Solutions as a SAP
+
+Consultant. Well experienced in different Cross Application technique. Have
+‘experience anid knowledge on handing SAP Master Data Objects
+
+WORK EXPERIENCE
+
+Jr. SAP Consultant
+‘ABC Corporation - August 1997 - December 1997
+re sponsibilties:
++ Created a Batch Input prograrn to load GL-Account Posting Header data
+Using transaction F-02 Developed Classical BDC prograrn
++ Report that lists al customers, the materials ordered and the net price
+for a given customer by sales area Report that lists
++ Developed a report ofall the Fast moving items isting rnaterial number,
+quantity, plant, and delivery date,
++ Created a new Order Confirmation Layout set and print prograrn
+Created a print program to generate transfer orders.
+* Inserting a company logo, company address, order number, sold to,
+ship to, product no, net price
++ Modified invoice print program to get the name ofthe person who
+created the sales document Created sales order and purchase orders.
++ Actively worked In master data, order types, contract types, basie
+function, pricing, availabilty check, route determination.
+
+SAP Consultant
+ABC Corporation - 1994 - 1997
+Fesponsibilties:
+
++ Client SEL, STIL, SWIL, SWECO Suzlon Energy Limited is Worlds Sth
+largest wind turbine manufacturer with operations in Australia, China,
+Europe, India & USA with international business headquarters in
+Denmark
+
++ Suzton Is having own ERP division for implernenting SAP R3 for in house
+project for own Group Company & proving support to existing
+Implemented companies
+
++ Worked as a Projects team member Sallent feature of my work on the
+project were as follows- | was responsible for Implementation & Post
+Implementation support for Suzlon group of companies.
+
++ Involved in Customer Project Mapping.
+
++ Configuration in Project structure, Std.Ternplates, CATS for hours
+booking & Claim - Authoriation and role management:
+
++ Online support to end users for day to day activities through service
+desk.
+
++ End user training and training material development,
+
+(Ths Ema Resume Temlate the copyright ot Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstullla Road,
+Alabama
+(123)-456-7890
+Infoesquikresume.com
+wwweqwikresume.com
+
+‘SKILLS
+
+Worked On SD, Ft,
+EWMData Archiving SD,
+MM, 1S-O1L
+
+LANGUAGES:
+
+English (Netive)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+climbing
+Shawboarding
+Cooking
+Reading
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

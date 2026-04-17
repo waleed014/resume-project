@@ -1,0 +1,63 @@
+ROBERT SMITH
+ETL Developer/Analyst
+
+Phone: (0123) 456.785 | Ema inlo@qwkvesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+Experionced in cluster configuration set up for Hadoop, Spark Standalone, Cassandra database.
+Experienced in processing the large volume of data sing the Hadoop MapReduce, Spark
+frameworks.
+
+CORE COMPETENCIES
+
+‘Spark, Scala, SparkSal, HDFS, Sqoop, MapRleduce, Hive, Pig, Cassandra, DB2, ETL
+Datawarehousa, SOL.
+
+PROFESSIONAL EXPERIENCE
+
+ETL DeveloperiAnalyst
+‘ABC Corporation - April 2010 - December 2013,
+
+Key Deliverables:
+
+*+ Project Finance Translormation Program Financial Processing
+
++ Reespansbilties Design, Develop and execute test cases fr unit and integration testing,
+
+‘+ Hands an experience in ETL tool Scalable Architecture Financial ReportingiSAFR) an IBM
+tool
+
++ Worked on creating Extract Views, Summary Views, Copy Input Viows in SAFR ETL tool
+
+* Created motadata tke Logical Records, Physical fies, Logical les which are required for
+Views.
+
++ Worked on mapping the lies ol the Views from the Source LA ol the View as per the
+‘business requirements,
+
++ Created dynamic Holds and static fields while creating a View
+
+ETL Developer
+‘ABC Corporation - April 2008 - April 2010
+
+Key Deliverables:
+
++ Noida, India Project Johnson and Johnson Respanstaliies Working with business users
+and business analyst for requirements gathering and business analysis.
+
+' Designing and customizing data models for Data warehouse supparting data trom multiple
+sources on realtime;
+
++ Extacted data trom diferent lat fies, MS Excel, MS Azcoss and transtormed ihe data
+‘based on user requirement using Infomatica Power Centor and loaded data into target, by
+scheduling he sessions
+
++ Worked on Inlormatica Power Center 9.118.618, Informatica Power Exchange Cantor BS
+tool» Source Analyzer, Data Warehousing designer, Mapping, Translomation Designer
+‘and tuning of mappings tor bettor portormance,
+
++ Created reusable mapplots and Translormalions staring concurrent baich process in
+server and did backup, recovery and tuning of sessions,
+
+£2250 Oak Street, Old Forge, New York. 13420
+‘© Ths Exes Resume Template s the copyright of Quikresumecom. Uaags Guidelines

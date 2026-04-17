@@ -1,0 +1,58 @@
+ROBERT SMITH
+Sr. Informatica Et! Developer
+
+Phone: (0123) 456.785 | Ema inlo@qwkvesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+‘Ton Pus (10+) years of total IT experience and Technical proficiency in the Data Warehousing
+‘teamed with Business Requirements Analysis, Application Design, Data Modeling, Development,
+testing and documentation. Implementation of Warehousing and Database business systems Eight
+Plus (8+) of strong Data Warehousing experience using Informatica PowerConier [](Worklow
+‘Manager, workiiow Monitor, Source Analyzer, Data Warehousing Designer, Mapping Designer,
+‘Mappiet Designer, Transformation develop, Informatica PowerMart {] Powar Connect, Power
+‘Connect for Siabel, 1D, IDE, Datamar, ETL, OLAP, ROLAP, MOLAP, OLTP, Siar Schema,
+‘Snowilake Schema, Autosys, Control M, Maestro, Tlllum 7,
+
+CORE COMPETENCIES
+
+Developing, Management
+PROFESSIONAL EXPERIENCE.
+
+Sr. Informatica Etl Developer
+‘ABC Corporation - June 2002 ~ August 2003,
+
+Key Deliverables:
+
+* Sores as global instiutonal, coporaie, government and individual clenis nts role asa
+financial intomediary
+
++ Responsbie fr Daa rom giferen souroes shout be brought into Grace using
+Informatica ETL 008 ke powar conor and powar mar
+
++ Loads data used to generate reports using Business Objects.
+
++ Installs and Contiques of inlormatica PoweCantar 8.2.1 in Windows environment
+
++ Conigutes and inplamentes Soourty features on dilernt domain elders by og
+appropriate privieges Arad business requirements and worked closely with he varies
+application teams and business teams ie davoiop ETL proceduros that ae consistant
+across all applcaions and systems
+
++ Creates Logal and Physical models for Staging, Transtion ard Production Warehouses
+using Erwin 3.5 Used Repository managor fo raaie user groups ard uses, and managed
+users by sating up ther prviegs and pro Worked an PowerCenter Designer clot
+too tke Source Arayzer, Warehouso Designer, Mapping Designer, Mapolet Designer
+and Transtormations Developer.
+
++ Tunes portormance ot ntomaiea session for large data itesby increasing book size, data
+cache S20, sequence butler langth and target based commit inerval
+
+Informatica Et Developer
+Delta Corporation -2000 - 2002
+
+Key Deliverables:
+' Project Description Comerica Incoporated i a linancial services company Know your
+tomer (KYG) is bank regulation that financial institutions
+
+£2250 Oak Street, Old Forge, New York. 13420
+‘© Ths Exes Resume Template s the copyright of Quikresumecom. Uaags Guidelines

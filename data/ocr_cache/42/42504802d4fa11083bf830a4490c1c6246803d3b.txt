@@ -1,0 +1,103 @@
+PAYTON WEBSTER
+
+Devops Engineer
+
+1-332-521-6389 payton.webster10@yahoo.com
+Jeanetteworth, Moldova
+
+SUMMARY
+
+Passionate and experienced DevOps Engineer with a
+Bachelor's degree in Computer Science and over 6 years of
+professional experience. Skilled in implementing cloud-based
+solutions, Cl/CD pipelines, and containerization technologies.
+Expertise in AWS, Jenkins, Git, Python, and Kubernetes.
+Proven track record of optimizing system performance,
+reducing deployment time, and enhancing overall reliability.
+Strong problem-solving and communication skills. Actively
+seek opportunities to expand knowledge and collaborate with
+cross-functional teams. Most proud of contributions to open-
+source projects and mentoring junior engineers. Excited about
+the opportunity to deliver game-changing improvements for
+FanDuel, leveraging my technical expertise and passion for
+continuous improvement.
+
+EXPERIENCE
+
+DevOps Engineer
+Tech Solutions Inc. €3 2022- Ongoing 9 Atlanta, GA
+
+Developed and executed comprehensive DevOps strategies, resulting in
+
+an increase in system scalability and a reduction in deployment time by
+
+50%.
+
++ Implemented CI/CD pipelines using Jenkins, Git, and Docker to automate
+software delivery processes.
+
++ Improved system monitoring and alerting capabilities, enhancing overall
+system reliability by 40%.
+
++ Collaborated with development teams to identify and resolve performance
+bottlenecks, resulting in a 30% increase in system response time.
+
+SRE Engineer
+Cloud Technologies Co. @3 2017 - 2022
+
+Managed and optimized cloud infrastructure, ensuring high availability
+
+and scalability for critical systems used by millions of users.
+
++ Implemented Kubernetes for container orchestration, resulting in a 20%
+reduction in infrastructure costs.
+
++ Automated manual tasks using Ansible, saving an average of 10 hours per
+week for the operations team.
+
++ Developed disaster recovery plans and conducted regular system
+backups, minimizing downtime and data loss in case of failures.
+
+9 San Francisco, CA
+
+www.enhancv.com
+
+vigilant-rabbi.org
+
+MY LIFE PHILOSOPHY
+
+Success is not the key to
+happiness. Happiness is the key to
+success. If you love what you do,
+you will be successful. - Albert
+Schweitzer
+
+STRENGTHS
+
+v
+
+Problem Solving
+
+Proven ability to analyze complex
+issues, identify solutions, and
+implement them effectively resulting in
+improved system performance and
+productivity.
+
+Collaboration
+
+Skilled in working with cross-functional
+teams, fostering strong communication,
+and building partnerships to achieve
+common goals and deliver high-quality
+results.
+
+Continuous Learning
+
+Passionate about staying up-to-date
+with the latest industry trends and
+technologies, constantly seeking
+opportunities to expand knowledge
+and enhance skills.
+
+Powered by (CX7 Ennancu

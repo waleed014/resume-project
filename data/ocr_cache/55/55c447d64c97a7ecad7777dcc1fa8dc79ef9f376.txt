@@ -1,0 +1,61 @@
+TANESHA JAST
+
+9262 JOSEPH PRAIRIE, DETROIT, MI
+
+PHONE
++1 (555) 219 7697
+
+EXPERIENCE LEBSACK-ORTIZ 09/2017 — present
+San Francisco, CA // Devops Engineer
+
+¢ SW Engineering / Development experience
+
+¢ Experience or significant understanding of programming with groovy
+
+¢ Turn new requirements into code, including unit testing, deployment, and ongoing monitoring
+
+¢ Work with team members through practices and tools enablement including a focus on
+automation and defining new ways of working, along with a modern development toolset
+
+¢ Partner with delivery teams through a DevOps transformation of the product lifecycle from
+requirements definition, through development, and operations
+
+SCHOWALTER, LEFFLER AND BLOCK 03/2015 — 03/2017
+San Francisco, CA // Devops Engineer
+
+¢ Investigate, design, configure / integrate and test process control solutions to a variety of
+technical problems
+
+¢ Understand and build automated tests that fit into the bigger picture of software delivery for
+building CI/CD pipelines, optimizing the execution of tests, and ensuring that the tests are
+regularly providing fast and reliable feedback
+
+¢ Collaborate with peers to identify priorities for enablement measured by an increase in
+developer efficiency
+
+¢ Certifications in AWS, Kubernetes or similar areas
+
+¢ Hands in Expertise creating solutions to manage and monitor containerized workloads and
+AWS services
+
+EDUCATION UNIVERSITY OF MISSOURI-COLUMBIA
+Bachelor's in Computer Science
+
+SKILLS ¢ Prior experiences on PCF, Kafka, HA Proxy, Saltstack, Swarm, Mongo DB and related
+
+technologies
+
+¢ Builds and manage cloud services and related software — specifically AWS, Azure, Yandex,
+GitLab, Terraform
+
+¢ Consults with project and product teams in best use of cloud services
+
+¢ Builds out new cloud infrastructure (largely managed k8s and related services)
+
+¢ Maintains cloud infrastructure by following SRE principles
+
+¢ Implements and shares DevOps culture across delivery teams and company
+
+¢ Builds and deploys system improvement ideas
+
+¢ Works with developers to streamline application delivery processes

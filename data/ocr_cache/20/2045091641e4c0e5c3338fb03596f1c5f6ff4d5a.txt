@@ -1,0 +1,99 @@
+Najai Ruska
+
+.NET Developer
+
+Profile
+
+.NET Developer with 1 year of experience in designing, developing, and
+maintaining web applications using Ci, ASP.NET, and SQL Server. Proficient
+in implementing front-end interfaces with HTML, CSS, and JavaScript while
+adhering to best practices and industry standards. Demonstrated ability to
+quickly learn new technologies and collaborate effectively within a team.
+environment. Committed to delivering high-quality, scalable solutions that
+meet business requirements and enhance user experience.
+
+Employment History
+Senior .NET Developer at Microsoft Corporation, NY
+Feb 2023 - Present
+
++ Developed and implemented a highly efficient .NET application
+optimization strategy, resulting in a 35% reduction in load times and a
+20% increase in overall performance for key Microsoft products.
+
++ Successfully led a team of 5 developers in the design, development, and
+deployment ofa complex.NET-based web application, which streamlined
+internal processes and increased productivity by 25%.
+
+* Delivered an innovative machine learning algorithm within a .NET
+framework, ultimately enhancing data analysis capabilities for a major
+Microsoft project, leading to a 15% increase in revenue.
+
+NET Developer at IBM, NY
+‘Aug 2022 - Dec 2022
+
+* Developed a high-performance web application for a leading financial
+services client, resulting in a 35% increase in operational efficiency and
+4 25% reduction in processing time.
+
++ Successfully migrated a legacy system to a modern .NET framework for
+a major healthcare provider, reducing system downtime by 40% and
+increasing data accuracy by 30%.
+
+* Led a team of developers in the creation of a scalable and secure
+e-commerce platform for a retail client, which supported a 50% growth
+in online sales within the first year of launch.
+
++ Implemented advanced machine learning algorithms into an existing
+customer relationship management system for a global logistics
+company, improving customer satisfaction scores by 20% and reducing
+response times by 15%.
+
+Certificates
+Microsoft Certified Solutions Developer (MCSD): App Builder
+Oct 2021
+
+Microsoft Technology Associate (MTA) - NET Fundamentals
+Sep 2020
+
+& najai.ruska@gmail.com
+Xe (229) 230-7760
+123 Main St, Buffalo, NY 14201
+
+Education
+
+Bachelor of Science in Information
+Technology with a specialization
+in .NET Development at New
+
+York Institute of Technology, Old
+Westbury, NY
+
+‘Aug 2017 - May 2022
+
+Relevant Coursework: Advanced
+Programmingin C#, Web Development
+with ASP.NET, Object-Oriented
+Programming, Database Management
+Systems, Software Engineering, and
+Network Security.
+
+Links
+
+linkedin.com/in/najairusk
+
+Skills
+
+9
+
+#
+
+ASP.NET
+
+Entity Framework
+
+LINQ
+
+Languages
+
+BY
+a

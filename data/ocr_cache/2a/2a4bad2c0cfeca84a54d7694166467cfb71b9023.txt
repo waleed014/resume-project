@@ -1,0 +1,64 @@
+Phone: (123) 156 78.99
+mall: infoiqwilresime.com
+Website: wane qukresume.com
+ROBERT SMITH Linkedin: linkedin om /qveresuine
+Address: 1737 Marsfle Road.
+
+Alabama
+
+Senior ETL Developer
+
+Objective
+
+‘Senlof ETL Developer with over 12 years of experience in analysts. design, development, and
+Implementation of software applications in data warehousing, Expertence in Designing, developing,
+data conversion/data integration modules to suppart large-scale system migrations and
+Implementations
+
+Skills
+
+ETL Toole: Informatica PowerCenter Information Metadata Manager Databases: Oracle MS SQL
+Server 2008 Madlling Tools: Visio Scheduling Tools: TIDAL, Autoeys Languages: C++, lava, Visual
+Basie, SOL PL/SQL. Unix Shell Scripting. OBIEEE Operating System: Windows UNDX Office
+Applications: MS-Office Other Tools: SQL Loader. TOAD 7.6, SQ. Plus, SQL Assistant, Putty.
+Orbium
+
+Work Experience
+
+Senior ETL Developer
+
+Ge Capital Treasury, CT ~ September 2012 Present
+© ExtensWely worked on understanding the business requirements, data modeling. and ETL,
+© Developing ETL seripts to extract and cleansing data from SQL: databases.
+Generating the required metadata atthe source side, n the Informatica mappings.
+Have prepared the impact analysis document and high-level design for the requirements
+Involving in performance tuning by collecting statisties and observing explain plan,
+
+© Carrying out performance tuning both on Informatica side and database side
+
+© Involving in the analysis, requirements gathering and documentation of functional &amp:
+technteal specifications,
+
+Sr. ETL Developer
+
+ABC Corp - 2007 - 2012
+Developed, designed. tuned and maintained the SSIS packages to perform the ETL process.
+Designed sind developed the SQL Server stored procedures, unctions, views, and triggers to be
+‘used during the ETL process.
+
+© Performed data proling and source ta target mappings (while capturing ETL and business
+metadata} for populating Kina style dimensional models
+
+© Wrote scripts for automated testing of data tn the target facts and dimensions.
+Captured audit information during all phases of the ETL process.
+Wrote and maintained the documentation of the ETL. processes via process flow dlagrame.
+
+© Designed, developed and tested data conversion /data Integration morules to support large
+fseale system migrations and! Implementations,
+
+Education
+
+Tech in Evaluation & Feedback System - June 2004 to May 2007(Kurukshetra Untverstty }
+Bachelor Of Technology - (Kurukshetra University. ~ Kurukshetra, HARYANA. IN)
+
+(tha Free Resume Tesla nthe copy of teesnascom Uae Caldeinee

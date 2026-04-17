@@ -1,0 +1,186 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Foor
+(655) 432-1000 esumesample@example com
+
+Susmuany
+
++ Over 7 years of IT experience in system design, development, testing and implementation of business aplication wing Python, Django,
+Database and cloud technologies.
+
++ Python scripting development using various bul ns, apliation process automation.
+
++ Koowledge wing sng fonctions to clean data emove whiteypaces, newlines and special characters without disruption of business data
+
++ Experience using RegEx to validate and extract data from ils, webservices and DB datasets,
+
++ Indepth working experience with various data formats using Python libraries such a ISON, CSY, xmlte, miidom, xml ax.
+
++ Extensively worked wih dat, datetime and timezone using pyz. Storing datetime in UTC and conversion o local imezones handling
+Dst.
+
++ Extensive experience with Python Django Web Framework: for developing Restful Web Services,
+
++ Experienced in writing SQL Queries, Stored procedses, functions, packages, tigger
+
++ Indepth working experience with various Python IDE's using Visual Stdio Code, Jopyter Notebook, PyChanm, Notepai++
+
+‘+ Worked extensively with Django to develop rest webservices, handled CRUD operations wih restwebservices.
+
++ Created multiple endpoints to delve data to varous UI applications
+
+«+ Indepth working knowledge in various version conl systems ik Git, Gttub, Subversion
+
++ Experience wih ia and confluence fr Issue & project wracking infst paced eniconment
+
++ Involved in database driven web application development using a variety of frameworks such as Django on Python,
+
+Skis
+
++ Technical Expertise 1+ Web Technologies
++ Languages: + Django, REST, HIMLS, CSS3, JavaScript, ASP.Net
++ Python, Django, SQL, avaSerpt, JSON, XML, CSV + Database: SQL Server, Oracle, MYSQL, MongeDB,
+«+ Python Libraries: Django, Flak, Pandas, Num Matpotib, + Other Tools:
+Pytz, ile 10 (0S Module) Glob + Tia, Confluence, Jenkins, Oracle SQL Developer, SQL Server
++ IDE: Visual Studio Code, upyter Notebook, Notepad, ‘Management Studio, MySQL workbench, Postman, Git
+PyCharm, Visual Studio
++ Data Science Tools: Python libraries: Pandas, NumPy,
+atpotit)
+Appmonat INronsasion,
+‘sus citizen
+
+«Excellent communication and interpersonal skill,
+‘© Highly motivated to eam new methodolopes,technolopies and applications
+‘¢ Highly organized with tet tention te deta, analytical problem solver and multtasking proficiency.
+
+Epveamion anp TRAINING
+
+BS & Masters: Computer Applications
+
+“Microsoft Certiied.net professional
+Experience
+
+102020 t Cusrest_ Python Developer
+‘Two8S International Ine. ~ Mount Laurel Township, NI
+‘+ Involved inthe analysis, design & development of various web based applications for NI, National Eye insite
+‘wing Python, SQL and Django
++ Integrated backend data driven systems to the NET application
++ Job responsibilities:
++ Designed and Developed DB diven web-based applications based on the requirement, using python Django
++ Create data load python sript to load CSV files into SQL Server DB
+«+ Developed post load validation scripts and automated the alert system to send out email incase of load files
+and delays
++ Develop SQL for ad-hoc data tepot requests bythe clients
++ Developed unittest cases uring pyunit, created tert script and loging mechanisms to make sure python
+pplication components were tested and adited as per the SLAS
++ Crested REST webservices sing Django REST, for CRUD operations, nd varius dashboard datasets
++ Developed seraiers for CRUD Rest operations for wer ston events
++ Handled multiple view files and response types for JSON/TEXT/XML data sets
++ Used Insets Updates and Delete statements for backend of CRUD process
+‘+ Write SQL queries to manipulateuive data om database tables, acuding large volume data ables
++ Evironment Python 3 3, Django, SQL Server 2012
+
+01/2018 t0 1072020. Python Developer
+‘Two International Ine. ~ Mountain View, CA
+‘+ Involved inthe analysis, design and development of NCTM “e-resources” for online acces of thei Journals
+through the web
++ Articles are stored in PDF format and acceso from AWS S3 service
++ The Admin module ofthis application caprres the information abot Journal, it articles and its authors details
++ An option to preview thelist of articles and thei information is provided fr other modules
++ The system notifies the subscribers whenever anew tev of journal is published
++ Job responsibilities:
+‘+ Worked with CSV module to read and write CSV files for data processing
++ Handled application configuration with config les to handle metadata
+‘+ Worked with ISONs created and used for webservices & dictionaries to sons as needed
++ Developed applications and scripts to consume and use XML files using tree and xml a
++ Developed data acquisition into python using Pandas, mumpy file 10 (OS Mode)
++ Extensively worked wih dat, datetime and ime zones using pytz
++ Stoing datetime in GMT ad conversion to local tine zones handling DST
++ Developed SQL Queries to support application equtemeats and ad-hoc requests fiom the uses to generat data
+«+ For deployment wed varios version contro ystems like GitLab
++ Extensive work tracking with Jira and Convene for Isve& projec tacking ina fast-paced environment
+‘+ Worked in various types of unt testing, automated testing, iteration esting, user acceptance esting forthe
+application delivery fulfillment process
++ Involved in database driven web aplication development using 2 variety of frameworks such s Django on Python
++ Environment Python 3, Django, Django Rest, SQL Server 2012
+
+05/2016 0112018 Python Developer
+‘Two8S International Inc, ~ New Haven, CT
+
+‘+ SVB Financial Group Provides banking solution to various clients from technology to healthcare, from San Jose
+‘Sangha, with various ou lens
+
++ The data team provides data fr various applications within the organization
+
++ Responses:
+
++ Responsible for gathering requirements, system analysis, design, development, testing nd deployment
+
++ Participated inthe complete SDLC process
+
++ Developed monitoring and notification tools using Python
+
+*+ Created business unit specific datasets sing python scrips fom the database ables
+
++ Create DB views and sored proceduces to get data ets, based on imestamps
+
++ Create testing srpts sing Uni, the Python unittest ame, fr all Python applications
+
++ Renrote existing Java application in Python module to deliver clint requested data-formats
+
++ Created Business Lope wsing Python to crate Planning and Tracking functions
+
+‘+ Generated Python Django Fon to record data of eline wsers
+
+‘+ Wrote Python routines to log into the websites and fetch data fo selected options
+
++ Developed entire fontend and backend modules using Python on Django Web Framevwork
+
++ Using Python Pandas analyzed lage data analysis and extracting insights
+
++ Developed Business Logic using Python on Django Web Framework
+
++ Created webservices API ayer sing Django Frameverk to supply data to various applications
+
++ Build all database mapping clases wsing Dango model
+
+‘+ Worked with ISON based REST Webservices
+
++ Involved in AJAX driven application by invoking web servcesAPI and parsing te ISON response
+
++ Developed complex web, middleware, and back end systems in Python and SQL on the Linux server
+
++ Handled code checking using Git repository and added the project to Gitiub
+
++ Ustlized Agile process and JIRA issue management to tack spin cycles
+
++ Wrote validation sript in SQL to validate data loading
+
++ Actively participated in Stand-up meting, walktrough meeting, weekly assessment meetings and daily triage
+‘meetings and interacted with business analysts to ensure quality ofthe aplication
+
++ Environment Python, Jar, PyUait, Pandas, HTML, AJAX, CSS, JavaScript, Django, Jenkin, Amazon Web
+Services (AWS), ISON, REST, Git JIRA, SQL, Agile, windows and Limux.
+
+(07/2002 1272004 Web Application Developer
+Webmid  Indianapal
+
++ Involved inthe design and development of web based case service module for US military wsing ASP.Net
+
++ ts purpose isto provide efficent sea and inter modal transprtation
+
++ Tasssts the US military in automating th solicitation, analysis and determination of ocean cargo transportation
+
++ The aplication has Oracle database asthe bac en, reporting interface anda data etry interfice developed in
+ASPNet
+
++ Job responsibilities:
+
++ Involved in analysis, design and development ofthe application's reporting and data input interface using ASPNet,
+IML, JavaScript and connecting to Oracle using ADO
+
++ Incorporated features to download the reports in Microsoft Excel through the application
+
++ Involved inthe unit and system testing ofthe application and the creation of required documentation
+
++ HIML 40, JavaSeit, VBScript, TOAD, Visual Source Safe

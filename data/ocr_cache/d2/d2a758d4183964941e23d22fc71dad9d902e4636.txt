@@ -1,0 +1,56 @@
+Sample SAP Specialist Resume
+
+Mark Escobar
+837 Roane Avenue
+Herndon, MD 22070
+(222)-222-4287
+m.escobar@emailaddress.com
+
+Job Objective To acquire a position as a SAP Specialist that allows me to use my abilities to enhance and grow with the
+company.
+
+Highlights of Qualifications:
+
++ Hands-on experience in AS400, iSeries and i50S
+
++ Familiarity with SAP PP, MM, and SD functionality with customized solutions
++ Proficient with SAP APO, CRM, SCM and BW
+
+» Excellent communications and interpersonal skills
+
++ Ability to operate within complex technical environments
+
++ Ability to work independently and require minimal supervision
+
+Professional Experience:
+
+SAP Specialist
+Osram Sylvania, Inc., Herndon, MD
+May 2006 — Present
+
+« Designed, applied and supported Supply Chain process in SAP environment.
+
++ Collaborated with business resources to analyze the technical solution that met business requirements.
++ Analyzed and collected business requirements
+
++ Developed technical solutions and applied solutions.
+
++ Utilized project management methods and tools to provide tracking information
+
+SAP Specialist
+Bestica, Inc., Herndon, MD
+March 2003 — April 2006
+
++ Supported and modified SD and MM configuration.
+
++ Collected business requirements and conducted process analysis.
++ Established ABAP programs per functional requirements.
+
++ Developed test plans and scripts.
+
++ Conducted testing and administered user testing.
+
+Education
+
+Bachelor's Degree in Computer Science
+Essex County College, Newark, NJ

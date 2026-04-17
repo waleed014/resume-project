@@ -1,0 +1,100 @@
+TAYLOR FOSTER
+
+Testing Engineer
+
+& (928) @ taylor_foster37@gmail.com
+
+@ last-beck.info 9 West Gardner, Maldives
+
+SUMMARY
+
+Experienced Testing Engineer with a strong background in
+embedded security testing. Proven ability to lead and perform
+advanced security testing engagements for connected car
+systems. Skilled in analyzing security requirements,
+generating test specifications, and identifying implementation
+flaws. Proficient in C, C++, Python, and reverse engineering
+tools. Bachelor's degree in Electrical Engineering. Passionate
+about contributing to Toyota's cybersecurity posture and
+staying up to date on new attack vectors and vulnerabilities.
+Excellent communication skills and ability to work in individual
+and group settings. Committed to ensuring secure automotive
+technology.
+
+EXPERIENCE
+
+Embedded Security Testing Engineer
+
+Toyota
+
+68 2022- Ongoing 9 Plano, TX
+
+Led and performed advanced security testing engagements for current
+
+and forward-model systems in Toyota's Connected Car ecosystem.
+
+Analyzed security requirements, generated test specifications, and
+
+executed security tests to ensure implementation sufficiency.
+
+Conducted pen testing and reverse engineering against embedded
+
+hardware and firmware, resulting in the identification of implementation
+
+flaws. Communicated complex technical findings and provided
+remediation guidance to technical and non-technical staff.
+
++ Analyzed security requirements specifications and generated
+corresponding test specifications for various products during the
+design phase.
+
+* Led and performed execution of security test specifications during
+the verification phase, ensuring the implementation of specified
+security requirements.
+
+* Conducted pen testing and reverse engineering against embedded
+hardware and firmware, identifying implementation flaws and
+providing remediation guidance.
+
+* Communicated complex technical findings and recommendations
+effectively to technical and non-technical staff.
+
+* Contributed to research on new attack vectors, vulnerabilities, and
+exploitation techniques in the automotive industry.
+
+* Participated in technology security design reviews, efficiently
+communicating potential issues and risks.
+
+www.enhancv.com
+
+MY LIFE PHILOSOPHY
+
+Security is not a product, but a
+process.
+
+STRENGTHS
+
+Q Analytical Thinking
+
+Demonstrated strong analytical thinking
+skills through the successful
+identification and mitigation of complex
+security vulnerabilities in embedded
+systems.
+
+Kg Effective Communication
+
+Excellent verbal and written
+communication skills, effectively
+conveying complex technical findings
+and remediation guidance to technical
+and non-technical stakeholders.
+
+Leadership
+
+Proven leadership abilities through the
+successful coordination and execution of
+security testing engagements and the
+mentoring of junior team members.
+
+Powered by (CX7 Ennancu

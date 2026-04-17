@@ -1,0 +1,31 @@
+Jordan Carmack
+
+Se
+
+r .NET Developer
+
+% #1 (166) 7162115 jordan@hiration.com in linkedin.com/jordan _ New York, NY
+
+SUMMARY
+
+8+ years experienced Senior NET Developer & Microsoft Certified Professional Developer highly skilled in
+designing & deploying the new applications and debugging & modifying the existing ones. Adept at writing
+codes for .NET applications & reviewing test protocols for application testing.
+
+EXPERIENCE
+
+Senior NET Developer Feb'16 - Feb '20
+The TECH World LLC
+
+Code Reviewing & Unit Testing
+
++ Formed technical specifications & wrote codes for .NET software applications through pair
+programming & code reviews
+
++ Participated in all Scrum activities including sprint planning, creating user stories, and sprint
+retrospectives
+
++ Identified and resolved project issues, including issue tracking and escalation
+
+Application Developer Feb'12-Feb'14
+Application Designing

@@ -1,0 +1,87 @@
+Elian West
+
+2711 Nikita Route, Boston, MA @ Phone: +1 (555) 974 6461
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR SRE / DEVOPS CLOUD ENGINEER
+Chicago, IL
+02/2016 — present
+‘Implement application performance monitoring to ensure site uptime and performance
+‘+ Define, measure, and meet key operational metrics including site performance, incidents and chronic
+problems, site traffic and conversion, ete
+‘+ Constantly improve operational processes and efficiency
+‘+ Expert knowledge of Application Performance Monitoring tools: Dynatrace, Splunk, Gomez, Coradiant,
+and Tealeaf
++ Automate continuous integration and deployment processes
++ Act asa subject matter expert for troubleshooting and resolving complex, mult
+span a number of different platforms
+‘Deliver infrastructure requests for software projects on time
+
+web problems that
+
+SENIOR SECURITY DEVOPS ENGINEER
+Chicago, IL
+12/2011 — 09/2015
+‘© Working knowledge of standard Unix infrastructure tools/protocols. (DHCP, DNS, NTP, SYSLOG,
+SSH, IPSec etc.)
+Identify gaps in current technology & processes and recommend improvements
+Security incident response and perform necessary deep investigation and compromise containment
+Deploy and manage automated security services and third party solutions
+Design and development of tools to automate security or security reporting tasks
+Support ongoing and new security/compliance initiatives
+‘Nagios. Icinga, Logstash, Kibana
+
+SENIOR IT DEVOPS ENGINEER
+
+‘Houston, TX
+04/2009 — 10/2011
+
+‘Interact with direct reports and peers-in-management/customers/vendors to share information and
+
+prove cross-departmental processes
+
+‘Share information cross-functionally to improve workflow processes
+
++ Establish credibility with partners while managing expectations
+
+* Participate in, and contribute to the development of technical/business approaches and/or the
+recommendation of current system enhancements
+
++ Establish and maintain an IT multi-year strategy with a focus on continuous improvement. Create and
+‘maintain solutions architecture artifacts and other strategy and system documentation
+
+‘* Develops software solutions that are high performing and meet technical standards
+
+‘* Manage daily operational activities that develop and implement tactical plans for multiple
+components/processes for a specified area within IT
+
+THE OHIO STATE UNIVERSITY
+Bachelor's Degree in Computer Science
+
+Strong desire to eliminate ambiguity and produce predictability
+
+Excellent written and verbal communication skills
+
+‘Working in high-availability, 24x7x365 large-scale multi-data center environment
+
+Strong communication skills, both verbal and written in a large team environment
+
+PKI and Key Management knowledge and experience
+
+Ability to drive consensus and foster collaboration
+
+Security based credentials highly desired (SSCP, GIAC GCUX, GSEC, GCED,GCIH,GCIA, etc)
+
+Basic cross-functional understanding of network engineering concepts and protocols (e.g., TCP, UDP,
+
+SSL, VLAN, etc.)
+
+‘* Working knowledge of standard Unix infrastructure tools/protocols. (DHCP, DNS, NTP, SYSLOG,
+SSH, IPSec etc.)
+
+‘* Strong analytical capabilities

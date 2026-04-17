@@ -1,0 +1,174 @@
+Jessica CLAIRE
+
+Montgomery Sue Sn Francis, CA S105 (58) 432100 « enmeranplazanple com
+
+Summary
+
++ More than yur of experienc in designing, developing and testing middleware pplication sing MuleSf¢ SB, Websphere
+Mo
+
+«+ Good experience sung mule connectors ike DB, HTTP, HIPS, FTP FILE SFTP, JMS, Salesforce SAP tara partof
+sevegranon wage
+
++ Good understanding and implementation experience of WS secur digital signature, message encryption decrypion SSL
+concepts nd ts iplementation in Male ESB and DataPower
+
+«+ Good Experience with oftware development Life Cycle
+
++ Good Experience in creating API specication implement REST and SOAP services
+
++ Good experience using Male EB with Connectors, wasformatons, Rowing, Active JMS and Data Transformations wing
+Mule ESB.
+
+«+ Bxporiece with DB2 and Once Databases Store Poca creation and DB integration with Male ES.
+
+«+ Experincein publishing message flrs as web services wing HTTP and SOAP node for SOAP and RESTIul webservices
+smplemencaon.
+
++ Experience in Wael Agile and IRA for agile Management
+
++ Experience in mulliple projet le cycles design implementation testing and Inunching ofthe SOA Releases
+
++ song experience with Problem determination Route cae Analysis and Defect esaaton|
+
+Skills
+
+‘DataBase: Ora, DBZ Stas MS SOL SERVER WSDL JAXP JAX
+Operating Systems: Windows, Lin distibutions, UND Teng Tools: it Jnt Soap UL Postman, XML Spy, TOAD,
+“Tools Jenkins Maven, ANT, HP ALM J, ServceNow, Mingle Putty
+
+Male Inegation Mule ESB35/36/87.859/4.THCO, Fiza
+
+Anypoint Serer: Tomeat WebLogic WAS, Mule ruse
+
+Studi, API Management CloudHb, SOAP, Resta WS,
+
+Expetience
+
+St APIMalesot Developer 052018 r0 Curent
+bn Corporation Been KS
+Responsibilities
+
++ Conduct lent meetings understand requirements and produce various documents,
+«+ Cunt Request tanformer, Response tranaforars Custom Components and configured them in Mle- cong xml.
++ Cutan follow MaleSoft APT Eror Handing and Logging Standards whl bung any AT.
++ Develop Event pblser an Event Catalog oil the cove funciona of event messaging famework Rabtt MO samnely
+‘wallow applications to publish business events to subbed ystems.
++ Crete RAM 10 spestiation fle used on buepint mapping document in Anypoint portals APL manages
++ Un APLKi¢ Rowe nd CXF to ull the iil ow struct rom he RAML and WSDL.
++ Use Malt lowe conrl plete o optimize message processing speccaly in Satter Cather & Choice Router to call mlple
+services n parallel and a specication based on oration Kom the request
+‘+ implement APT security polices (at set by APT manager applied tal int-acing proxy APL fr CORS, OAUTH20 acess
+token enforcement CenlD enforcement and Rat iting SLA Based and alo Secured Male service endpoits sing
++ Create MU st cases forall System, Orcesteation and Experience APY
++ Monts the Server by using PUTTY, WnSCP, Spank Mule SoftRantine Manage and Co-opeatd with MulSoft Admin tart
+‘when they gta suspicious alert rom Anypoint poral.
+«+ Migrate Allthe APT from Male Server Rute 39. fo 422 and deployed in new serve as pst of the decison of Cape's
+‘Service oversight Comune and Managenent.
+‘+ Functonal/nd-oend testing Integration testing wsing Anypoint Portal SOAPUT and Postman and co-operated wth UAT
+‘Basins tac to mabe them ately
+nvionment Mle ESB, Anypoit Sui, Cloud Hub, ActiveMQ. RAM, ActiteMO, APM, News Apache Maven CloudHab
+NOL XSLT, C35, jn JST, LDAP, LISOL SOL Logs, Web Srvices- WSDL, SOAP, CXF Jenkins.
+
+Matesoft Developer 02703610 042018
+‘Chenega Mios Omaha. NE
+Responsibilities
+“+ implement Security mechanisms ke Security Certs, hey Exchange Encryption Decryption and OAuth Atenation fe
+Athorzation sing Acces Token and SM session cone
++ Ceete HTTP inbound & outtound owes, cast jva and XSLT tandlormers and Security of Male epi.
+“+ Parte in daly scrum meeting fo discus the progres of the projet and any Hackage of th work andthe ston of the
+tock
++ Ue HP ALM 0 wack defects in DEV, TEST and STAGE environments
++ Bald Deploy and Test applications or Hoes wing Male ESB and ald and deployed the services.
+“+ Design and develop enterprise servicer API specication using RAML and REST schema
++ Crete Mate application that wes connector SFDC Message Teaslonner, Choice Exception Strategy, atch processing
+«+ Developed the owsiorchestation fo integrating the components witen ontop of diferent internal platforms using Mule ESB
+and Active.
++ Create Male ES helper class toc the Male ow, connection end pot and connectors.
+“+ implement Miles for each entity with etry mechanism with private secured ws.
++ Blt OERS services nd exposed them sing REST component.
++ Implement Exception Handling, Logging and Exor Handling.
++ Dud and Deployment of sersicesin Male ESB 3.73 sever
++ Manage perormanceof the services using “Seater and guher"and “ce outer”
++ Code walkthroughs Male Debugging and Ero xing.
+Envonment Jara Malet MMC, Anypoint Stadio, Active Rabbi Serves, News SP JSON, JMS, CloudHah Gab,
+Web Logic Appian Server10.3, XML NSD, XSLT, XPATH, JAXP,JAXB, WSDL, SOAP, Spring MVC.
+
+Java Developer 0770141082016
+Wels argo ~Markato, MC
+
+Respoasibiies
+
++ Reurements gathering fo he hent rst
+
++ Analvaing quzements and converting them nt echnical pecictions
+
+«+ Fxng the ineins to complete the asks by checking with funciona busines ead.
+
++ Said the application architecture and designed according tothe requirement.
+
++ NPINota publicevornation data using
+
++ VTA appiaton itegaton with other Appatons
+
++ Involve in deploying the appiaion under WAS Server
+
++ Vand 20 Web Services wing SOAP and Apache As totale the amount to other application thats emote and global to
++ Configured the POJOs with backend ables in Hiberate to achieve the asaclatons
+
++ implemented Hibemate to persist the data nto Database and wot HOL based queries to implement CRUD operations onthe
+«+ Implemented Spring MVC controler like Contre, Simple Form Controle
+
+«+ implemented Spring MVC framework the presentation er forall the essential conta
+
++ Uind SUN for version contol across commen source cde sed by developers
+
++ Working onthe Dfets which s raised by OC tam.
+
++ Working onthe production support 247 for Vide taller Agent Appian.
+
+Environment Java Edipse Je GV Hibernate, Spring SOAP webservices
+
+Apache A,
+
+DBD and WAS sever
+
+SQL Developer 04012 t 052014
+US Baake- Cay, STATE
+
+Responsibilities
+
+«+ Responsible foal th eves hich are runing ona SOL patton
+
+(SO Server 2008 208).
+
+‘Setup muliple Nodes (Active Paste) in SOL Servers tad the stein,
+fear.
+
+1 Managed SQL Server databases and Configure failover cts
+
+Plan and mod SOL Server Pemisionsin quartet base
+
+‘Create databases and sched backups CTeansacon log backup, Dirt
+‘bachp and Fl bach) with Recovery seston Simpl Fl)
+
+«Setup and mintsn Replication for Production servers to provide hgh
+vail and monitor sing Replication Monto.
+‘Seep Alerts, Notfcatons Jobs Job step with avomated Response lution
+‘Frequently Monitor Connections, Locks and Database Peformance,
+
+1 Reviewed and optimized SQL queries CDC stored procedures, factions,
+Indes, views and tigger.
+
+‘Created an tera secured website inhing tothe database thats
+‘updated information about al Target SOL Servers inormaton.
+
+Tools: MS SOL Server 20052008, MS-Exe DTS, Visual Studio 208 SOL pole.
+Education and Training
+
+Bachelor of Science: Compute ence 1072009
+Mekelle University Etiopia
+
+Certifications
+
+Maleot Ceted Developer Level (Mule), 2019

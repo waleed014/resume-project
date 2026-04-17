@@ -1,0 +1,218 @@
+Jessica CLAIRE
+
+Montgomery tet, San Francisco, CA 9105
+(555) 432-1000 -renmesample@example com
+
+‘Canter Overview
+
+An objec oreted popranimer ith over 7+ yea’ experience in deren, analysis, development, deboring, testing and implementation
+stages of various leserver web plications wing Ruby, Ruby on Rais, aval ]2EE, PHP, HTMLS,lxaScrigt, CSS, JQuery. ISP Servlets,
+‘Sts, Spin, EIB, MDB, Web Services, Hibemate, Web Services, INDIIMS, Oracle, SQL, MySQL. Experience inal phates of software
+evelopment ife ce (SDLC) which incdesequcements gathering atl, desig, implementation, masteance of software
+-spplistions and esting Client Server and Web sppliaions Experience in implementing Rais migrations and Active record, Action pack,
+Action male: Wokedin both TDD and BDD tsing Cucumer,Repec and Capybara. Proficient in developing web applications using Ruby
+‘Rails, CS, HIME, PHP, ava, Javascript, MySQL, Oracle, Postgres and Slt on both windows and Linx systems, Extensive
+‘experince in Ruby on Ral, 32, He, Serves, IP ava Beans, JDBC, HTML, JavaScript, AJAX, Sts 2.0 and MVC Architect
+Experience wing diffrent software development methodologies lik Waterfall mode, RUP and Agile development. Experience with
+Insaltion Son Vita! Boron various machines totes application aginst ferent operating systems, Hands on experience wing Gt,
+Amazon.C2 Git and deployment wing Heol. Experience in developing REST APTs, Developed and Deployed applications on
+‘Application Severs ike WEBsck, Psion Passenger, Boss seve, Oracle, WeDLopc server, Usifrm ad functional usage with Apache
+‘Tomeat Servers. Proficient with relational databaes SQlte, PoxtgreSql and MySql. Hands on experince wih Ietegrated Development
+Envizoment ike Eclipe, Rubymine, NetBeans, WSAD, Text Mat. Exelet communication sills with oven esl in meet
+agers timeline and working independently ad aa coerent eam member Experience of ever rby gen sich t Oniath,
+Paper, cancan, devise, Simple_frm et. Good experience in writing robust font end and back nd codes. Special sills in developing wer
+‘Henly simple yet fective web applications. Asi to understand project equremeas and deliver it with proper estinaton and qual:
+Extensive knowldge of web developmen fom concept though implementation an optiization. Exceptional bly to cllaborae with
+team members fr code and design reviews. Fast eae, can quickly sncerporate and implement ze poceducs wih efficiency and
+_sccrney, Authorized o worn the Usted tats foray employes,
+
+Quatrreanons
+
+Roby Java, PHP
+
++ Web Tetacogies
+
+‘+ TvaScrip, JQuery, Angular 8, DEES, Servlets),
+SOAPRESTAPIs,CSS3, HTMLS, XML, HTML, CSS, Bootstrap,
+AIAX
+
++ Frame Work
+
++ Ras, Spring, Stes, Hiberate
+
++ Astomation Took:
+
++ Selenium RC, Web Driver
+
++ Testing Frameworks
+
+«+ Rope, Cocumbe,Joit
+
++ Datsbuses
+
++ PostgreSQL, MySQL Slit, Oracle 109
+
++ Webserver
+
+‘+ WEBRick, Thin, Unicom, Apache, Phusion Passenger
+
++ Mersin Coat
+
++ cin SUN
+
++ Bug Tracking ool
+
++ Redan, Bugz, JTRA,
+
++ me:
+
++ Robyaiae, Eclipse, Netbeans
+
++ Operating Systems:
+
++ Windows, Mae 0S, Unig, LINUX
+
+Accommustess
+
+SQL Server
+
+Wonk Exrexuscr,
+
+[Ruby on Ras Developer
+‘Motion Recrultent
+
+‘Worked in the design and development pases ofthe aplication using ROR famework,
+
++ Designed and developed various eats sing HTMLS, C852, WSC, XHTML and CSS#
+
++ Frontend was designed and developed using HTML and Bluepriat CSS whe the back-end ofthe application was developed deploying
+‘Nolet View-Contole (MVC) famewer
+
++ Developed and tested may features in an eavtoament (AGILE) using Ruby on Rails, HIMLS, CSS, JataSeript and Bootstrap.
+
++ Composed Cucumber and Rspec esti the application and coded JavaScript For page usefulness popup srens
+
++ For Daabare Migration vad Active Records and ale inolsed in wing Active Resources, Fates, Action View and Acton Conte
+in Ral framework
+
++ Used Sealflding to design and develop contller and view pat ofthe system.
+
++ Used Caching content for Ral and quis ae opined for analyzing and inpeoving aplication efciecy
+
++ Used apie and serum methodologies in project development
+
++ Used Filters, Rails finder methods and wrote model copes inthe application.
+
++ Worked in MySQL database on smle queries and writing Stored Procedwes formalization and denonmalization.
+
++ Used Amazon SQS with other AWS infrasrctre web services to make applications more readable and lesb.
+
++ Tiedt develop est practices and architect.
+
++ Too cae of Bg fix sss and Code Reviews
+
++ Used CAPISTRANO to configure developmen roces for ROR applistion.
+
++ Implemestd Agile methodologies, RESTal coding and following best secure coding practices, poy to Tet Driven Development
+
++ Used Sinatra which worked wel fer the API an internal pps.
+
++ Code refactored a reuized while working onthe fetes and eahancement
+
++ Used Jub fr concrreney an integrated Developeen Eaves.
+
++ Designed applications sing object rete programming (OOPS) concep
+
++ Provided validations and seopefor many models inthe database and created many associations within hoe models,
+
++ Implemented sorting and pazinstionsFunctioality fr ete apeton
+
++ This involves the implementation of tng and pagination functionality for displaying the ist of ales inthe seren without iting the
+data
+
++ Perfo necessary factoring tothe code a per the eed Sesion Fixing the bus and ickets Sed by quality asrane and peodbet
+‘management tam,
+
++ Acton Maer is sed for applying user mailing module
+
++ Collaborate an coordinate with te management and espn tam to implement new fetes
+
++ Pefoomed Uni testing, letegration Testing, GUL an web application testing wing Rep.
+
++ oteractive in rsidng change equ, trouble reports and requirements oletion with he cles,
+
++ Envoament Ruy 2.1, Ras 42, jby, MSal RPEC, Active Record, YAML, Bota CSS 2nd HTML,
+
++ TextMate, Ruby Mine and Net beans IDE 6.9.1, Cucumber, Query ISON, SVN,
+
+aval JIEE Developer
+
++ lvoled in vaso Softaae Deelopeat Life Cyele(SDLC) phases of the projet.
+
++ Generated Use Case Diagrams, Clas Diagrams and sequence diagrams wig tational 56.
+
++ implemectd the application using Jakarta Se Framewock which bated on Model view Conolld design pate,
+
+‘+ Used te Sts Validation andes amewok inthe pesentatin yet.
+
++ Developed wer interface wing JSP, JSP Tag braves and Stts Tg bears os the completes ofthe application
+
++ Developed various EB Components full the busines uation
+
++ Session Beas were developed to process the request fom the wee
+
++ Exensvely used Hibernate in dt access aero aces a pate infomation in the datakase.
+
++ Used Spring MVC Framework for Dependency Injection and integrated it withthe tts framework and hibernate
+
++ Used WAP serve for commnications othe coors,
+
++ Used webservices - WSDL an Soap for pting Credit Card Information fom third-party
+
++ Used JMS API for asynchzonos communication by ptng the messages in tbe message queue
+
++ Designed varius tables eqied forthe pojectin Oracle database and wed stared procedures an rigsr in the pplication Performed
+_uittesting sing Joint famevork and wed Sus Test aes for esting Action Classes.
+
++ Used Ant Scripts to build and deployed on WebSphere application eve.
+
++ Monitored the err logs sing Lop and fixed the problems.
+
++ Developed the different omponeats of application soc as JSP, Serves, and EIB wing webophere sti pplication develope and used
+(CVS for version conto
+
++ Envtonment ETB, Str, Hibemate, Spring. 1, Serves JMS, MQ Series, XML, SOAP, UDDI, WSDL, WAPWML JDBC,
+JavaSogt, UML, HTML, INDI, CVS, Lop, JUai, Websphere ap server, WSAD , Rational Rose, Oracle.
+
+PHP Developer Student Iatera
++ volved in Anais, design and arcitectse ofthe appli.
++ Backend coding uring PHP
++ Designed wer interface using CSS, HTML and JavaScript.
++ Creat login page forthe administrator,
++ Created tables and database related it
++ Conducted wer experience (UX) sasfacton experinent for improving of hopping cat proces and he er oss
++ Wee code fo form validation sing JavaScript,
++ Created pazinstion Crested serch eld which searches every word in every page based onthe keynrd provided and pay the
+eed in a fomated way.
+1 TxaSeript sider creation
++ Diectinteraction with int fo latest updates and pathringreqizemeats
++ Envtonment: PHP, HTML, CSS, fvaSerit, jQuery, Adobe Photosop, stator, MySQL, SVN, Lins
+
+Epvcanion an TRatsine
+
+2010 Bachelor of Technolog: Electrial and Computer Engineering
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY
+(GPA: GPA 34
+leuicl and Computer Engineering GPA: 3.4
+
+‘Teemacat Si
+
+Adobe Photoshop, AGILE, AJAX, Ant, Apache, API Astomsation Tool, Berit CSS, Confguion Management, Contolle, Credit
+(C35, C52, C553, Clea 3 client customer relations, cet interaction, Version Contl, CVS, DAO, Daubass, Database, database
+Jmepraton, Eclipse, EIB, experinents, XML, ears, Fess, Frame, gems, GUI, UX, HTML, HTMLS, hp, PHP, Web Spe 5.0, Web
+‘Sphere, IDE 691, IDE, Museate, DEE, lava, DMS, SP, Beans, JaaSeit,Jva Seip JDBC, INDI, 1Ques ISON, LINUX, Log, Mae
+(05, mailing aces, Windows, Windows 2000, 51, word, Migzaton MQ Series MVC, MSI, enervise, object oeced rogamming,
+(00PS, Operating Systems, Oracle 9, Oracle, Oracle database, developer, page, PostgreSQL, rodbct development, product mamagemest,
+coding, Programming, project development, quality assurance, Rational Ros, requirements dfnton, serum, SDLC, Serves, Seis, SOAP,
+Softuae Development, sorting, SQL Serve, Sts 1.0, Sts, tables, UML, wsigue, UNIX, wer interface, Validation, View, VMS, WAP.
+‘Web servers, websites, WebSphere, WML, XHTML

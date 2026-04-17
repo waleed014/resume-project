@@ -1,0 +1,164 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Incident Management
++ Problem Management
+
++ Change Management
+
++ Project Management
+
++ Strong Communication Skills
+
++ Excellent Problem-Solving Skills
+
+EDUCATION AND
+TRAINING
+
+NORTHERN ILLINOIS UNIVERSITY
+Dekalb, IL + 1998
+
+Bachelor of Science: Operations
+‘Management Information Systems
+
+SUMMARY
+
+Passionate and dedicated Information Technology Support Specialist with over twenty years of
+experience in the information technology industry and proven ability to manage the delivery and
+support of IT services for a company over the past thirteen years. Committed to continuous process
+improvement and driving customer satisfaction.
+
+EXPERIENCE
+
+Centene Corporation - Information Technology Support Specialist
+‘Macdona, TX + 06/2008 - Current
+
++ Primary point of contact for the escalation of incidents and service requests. Documented and
+prioritized incidents and service requests based on urgency and impact to the business.
+
++ Managed all incidents from initial detection to final resolution and closure. Clearly communicated
+technical information related to the incident with the business users and upper management
+‘throughout the incident resolution process.
+
++ Diagnosed and resolved critical issues related to software, hardware, and network connectivity
+delivering timely and quality support to the business users.
+
++ Performed root cause analysis on problems driving towards a permanent fix and overall long term
+improvement in services.
+
++ Managed and scheduled all change requests related to IT applications and infrastructure.
+Documented change requests and notified business users of schedule and maintenance windows.
+
++ Installed and configured new applications and hardware including printers and other related
+peripheral equipment, and implemented application and hardware updates.
+
++ Oversaw external service provider and vendors to implement assigned incident fixes and scheduled
+changes including backup of data on a nightly basis, applying server updates, and the monitoring
+of security software.
+
++ Deployed fixes to incidents and planned changes after business hours to ri
+business users.
+
++ Maintained and tracked inventory of all hardware and software items along with its pertinent
+information and status.
+
++ Conducted hands-on technology training to company personnel to assist in the use of newly
+implemented hardware and software.
+
++ Planned the project, installed the applications, migrated application data, and tested moving many
+of the company’s critical applications to new servers.
+
++ Planned the project, set up desktops, and installed all software and business applications for the
+roll out of new desktops to employees.
+
++ Gathered the business requirements, designed, and configured the company’s accounts receivable
+and employee time tracking system, Practice CS, replacing many time consuming manual
+processes.
+
++ Customized application reports for upper management to analyze employee utilization and client
+project profitability. Trained employees and created training documents on the new billing and time
+and expense system.
+
+imize disruption to the
+
+Viacomebs Inc. - Application Integration Architect
+West Sacramento, CA + 06/2006 - 10/2007
+
++ Managed the webMethods integration development team of nine developers within the Treasury &
+Securities Services, Sales and Service department.
+
++ Created and maintained project plans for new integration development work and change requests.
+
++ Managed multiple concurrent integration development projects with competing demands.
+
++ Estimated technical design, development, and testing effort for new integration development work
+and change requests.
+
++ Participated in daily defect status meetings with testing and business application teams to review,
+prioritize and assign defects related to the integration component.
+
++ Led weekly status meetings with integration development team.
+
+‘Medifast, Inc - Application Development Manager
+Havre De Grace, MD » 01/1999 - 06/2006
+General Motors
+
++ Responsible for the day-to-day operations and maintenance of one of General Motor’s critical
+applications, North American DealerWorld Portal.
+
++ Led a nine-person offshore application support team to ensure service level agreements were met.
+regarding resolution of problem tickets, on-boarding of new applications, and delivery of monthly
+releases of the application,
+
++ Reviewed business requirements, assisted in defining scope with GM business owners and
+documented change requests. Collaborated with application support team to estimate change
+requests.
+
++ Managed change requests and ensured all configuration management processes were followed.
+
++ Participated in weekly status meetings with GM technical and business owners and reviewed
+reports providing overall measurement of performance against service level agreements.
+
+FedEx Supply Chain Services
+
++ Managed the development and implementation of a fulfillment eHub and the integration between
+many FedEx back-end applications and 37 of FedE>’s clients.
+
++ Led an eleven-person onsite and a seven-person offshore development team over this multi-year
+project from elaboration to support of the system.
+
++ Analyzed and reviewed integration requirements. Collaborated with solution architect and
+development team during technical design and construction to ensure that the business
+requirements were being met.
+
++ Guided the technical design and development of over 150 interface mappings between FedEx’s
+back-end applications and FedEs’s trading partners leveraging the following industry document
+standards, X.12 v4010, FSCS XML, and EDIFACT D98A..
+
++ Created, monitored and adjusted project plans. Allocated onsite and offshore resources shared
+across multiple projects for the development of the eHub, development of interface mappings,
+new FedEx customer on-boardings, support, and change requests.
+
++ Reviewed business requirements, documented scope of work, estimated effort, and provided
+timelines for change requests.
+
++ Participated in status meetings with project and FedEx executives.
+
++ Developed the offshore process and procedures for assignment of development work, status
+reporting, communication between onsite business and technical teams and escalation of issues.
+
++ Led the creation of EDI X.12 v4010, XML and EDIFACT D98A implementation guides to be used by
+FedEx's trading partners.
+
++ Assisted in the creation of templates and the overall process to on-board new trading partners to
+FedEx’s eHub.

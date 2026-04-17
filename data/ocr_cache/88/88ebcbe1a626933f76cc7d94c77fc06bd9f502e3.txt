@@ -1,0 +1,119 @@
+CHARLOTTE MAY
+
+Experienced Apex/PLSQL Database Developer
+
+fakeemail@example.com Washington, D.C.
+
+SUMMARY
+
+Passionate Apex/PLSQL developer with experience in Object-Oriented
+Analysis and Design seeking challenging role with AnaVation to provide
+innovative solutions to mission-critical customers.
+
+EXPERIENCE
+Apex/PLSQL Developer 2019 - 2022
+TechB Solutions Chicago, IL
+
+Developed complex APEX applications for Fortune 500 companies, resulting in
+
+streamlined business processes and increased productivity.
+
+* Designed and developed multiple APEX applications, integrating with various
+external systems resulting in improved data accuracy and faster reporting.
+
+* Optimized SQL queries and utilized indexing techniques resulting in significant
+improvement in application performance.
+
+* Implemented Agile methodologies for software development resulting in
+increased team collaboration and faster delivery of solutions.
+
+PLSQL Developer 2017 - 2019
+ABC Financial Little Rock, AR
+
+Developed and maintained PLSQL modules for a large-scale customer management
+
+system, resulting in increased system efficiency and reduced maintenance costs.
+
+* Collaborated with cross-functional teams to gather requirements, design and
+develop PLSQL modules for the customer management system.
+
+* Developed and maintained ETL processes resulting in improved data accuracy
+and increased efficiency in data processing.
+
+* Created automated scripts for database backup and monitoring, reducing
+maintenance time by 30%.
+
+Database Developer 2015 - 2017
+XYZ Healthcare Houston, TX
+
+Developed and maintained database solutions for healthcare systems, resulting in
+
+improved patient care and reduced operational costs.
+
+* Developed and maintained Oracle databases, including data modeling,
+performance tuning, and troubleshooting.
+
+* Designed and developed PLSQL procedures and functions for data processing
+and reporting, resulting in improved efficiency and accuracy.
+
+* Implemented database security protocols and disaster recovery plans resulting
+in improved data protection and system availability.
+
+EDUCATION
+
+Bachelor of Science in Computer 2011 - 2015
+Science
+
+University of Texas at Austin Austin, TX
+
+Powered by (CX? Enhancu www.enhancv.com
+
+STRENGTHS
+
+% Agile Development
+
+Developed Agile processes
+which helped reduce
+development time by 25%.
+
+Problem Solving
+Successfully resolved complex
+database issues by creating
+efficient PL/SQL scripts and
+queries.
+
+Collaboration
+
+Worked with cross-functional
+teams to develop and deliver
+mission-critical applications.
+
+SKILLS
+
+Oracle Database - SQL - PL/SQ
+APEX-
+
+Object-Oriented Analysis and
+Design
+
+ACHIEVEMENTS
+
+& Developing a High-
+
+xy
+
+Performance Database
+
+Designed and developed a
+high-performance database
+that increased query speed by
+50)
+
+Successfully Migrating
+Data
+
+Successfully migrated a large
+amount of data to a new
+database, minimizing
+downtime and ensuring data
+integrity.

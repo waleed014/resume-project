@@ -1,0 +1,120 @@
+PROFESSIONAL
+‘SUMMARY
+
+ACCOMPLISHMENTS
+
+CORE PROFICIENCIES
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA94105 2 (655) 432-1000 4 resumesample@example.com
+
+Dynamic information Technology Executive with 10+ years of IT leadership experience including oversight of
+infrastructure, application support and security services. Dedicated to customer satisfaction with focused
+delivery of technical solutions. Proven leader in directing operations, maintenance and support of complex
+systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering
+solutions for leading organizations,
+
+‘+ Reduced infrastructure operating cost by 15% with conversion to cloud infrastructure
+‘+ Received performance bonuses three years consecutively
+
+‘+ Mentored and promoted multiple internal team members
+
+‘+ Directed the integration of three newly acquired organizations
+
+‘+ Spear-headed the Knowledge Transfer project; successfully retained 20+ multi-million-doliar clients
+
+‘+ Relocated 90% of the workforce to remote in two weeks during the beginning of the COVID-19 outbreak
+
+‘+ Process Improvement + Leadership Development
+‘+ Project Lifecycle Management * Security Education
+‘+ Vendor Relationship Management * Security Development
+‘+ Regulatory Compliance + SOC2 Type 2 Documentation
++ Business Requirements * Change Management
++ Agile Framework + Teamwork and Collaboration
++ Budget Administration + Interpersonal Communication
++ Strategic Planning * Cultural Awareness
+VICE PRESIDENT INFORMATION TECHNOLOGY 09/2014 to 02/2022
+
+Apex Systems | Ashburn, VA
+
+Infrastructure Management
+‘+ Oversaw Infrastructure team responsible for onsite and cloud-based systems
+‘+ Managed annual IT budget and communicated directly with the senior management team
++ Facilitated and led vendor relationships
+‘+ Managed contracts and licensing agreements for products and services
++ Led the nationwide Cisco network and developed documentation
++ Directed Pure Storage Flash Array system infrastructure using ManageEngine suite
+‘+ Oversaw the system disaster recovery with Veeam
++ Developed cloud-base systems NetSuite, Salesforce, Zoom RingCentral phone system, JIRA
+Confluence and Zoom
+‘Support Management
+‘+ Directed the IT Support Team
+‘+ The core responsibilities of the team included supporting the IT needs for employees and clients
+covering remote employees, thirty-two staffed and six unstaffed offices spread over four time zones
+‘+ Managed RingCentral cloud-based phone system, which includes offices, conference rooms and call
+center phones
+‘+ Transitioned from an onsite call manager to RingCentral a cloud-based call manager
+‘+ Ensured the IT Support Team communicated with employees to address issues and requests
+‘+ JIRA ticketing system used to track issues and request
+Security Management
+‘+ Deployed quarterly security training for the entire organization via Proofpoint
+Implemented yearly Phishing Campaign via Proofpoint
+Executed Multifactor authentication via OKTA
+Developed and uploaded compliance documentation for SOC2 Type 2 and ISO 27001 to hyper proof
+Partnered with principia/RAID our security compliance vendor to prepare for SOC2 Type 2 certification
+
+INCERNAL DATA RESOURCES 04/2006 to 08/2022
+Hitachi | Batesburg, SC
+
+‘+ Managed the operational management release processes. Implemented processes and functions within
+the specific IT line of business organization
+
+‘+ Deployed desktop and mobile infrastructure for over 1500 employees spread out over 10 Offices in
+Georgia including out of state auditors. The infrastructure consisted of Dell desktops, laptops, tablets,
+and printers administered by IBM and Dell vendors
+
+‘+ Directed a team of internal IT staff, partners, and vendors in daily Active Directory activities
+
+‘+ Monitored desktop infrastructure with Microsoft System Center Configuration Manager and System
+Center Operation Manager applications
+
+‘+ Evaluated, recommended, and launched new products
+
++ Coordinated third-party software and software patch deployments,
+
+‘+ Lead the deployment of tax applications with internal software development teams
+
+‘+ Implemented, monitored, and evaluated infrastructure budget activities.
+
+‘+ Managed the lifecycle for all internal tax applications projects
+
+‘+ Established Disaster Recovery protocol for Atlanta office
+
+DEOLOYMENT MANAGER 10/2005 to 04/2006
+DataScan Technologies | City, STATE
+‘+ Managed the software development lifecycle and documentation environment
+‘+ Lead and maintained software development quality and stability through careful builds and controls
+‘+ Supported the configuration management system and provided training on the CM tools; maintained
+and monitored quality metrics and best practices
+‘+ Established software documentation baselines for RTI tracking databases
+‘+ Assisted development team in documentation required for software development lifecycle
+‘+ Created deployment procedures for e-Banking software suite
+‘+ Monitored and analyzed clients’ progress, results and overall satisfaction to implement process
+improvement initiatives
+‘+ Identified features within software useful for improving overall survey operation and collaborated with
+supervisor to explore and implement changes
+‘+ Monitored overall network performance
+
+MS | Management of Technology
+Southern Polytechnic State University, Marietta, GA
+
+Miter of Science | Electronic Technology
+Coc
+
+MC| Computer Science
+Norfolk State University, Norfolk, VA

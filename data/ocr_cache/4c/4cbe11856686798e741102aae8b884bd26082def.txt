@@ -1,0 +1,51 @@
+TAYLOR FOSTER
+
+Database Engineer
+562-734-1425 » taylor_foster41@gmail.com »* unhealthy-scratch.info * Meriden, Canada
+
+My Life Philosophy
+
+A well-designed database is like a symphony, ensuring harmonious and efficient data operations.
+
+Summary
+
+Results-driven Database Engineer with 5+ years of experience in ensuring the reliable operation of data persistence technologies.
+Expertise in database architecture, performance optimization, and security. Accomplished in improving the security, reliability,
+availability, and performance of databases resulting in enhanced data management. Proven ability to design solutions for large-scale
+engineering challenges and collaborate with cross-functional teams. Strong documentation skills. Excited to join a visionary
+insurtech company and contribute to its mission of protecting global customers. Biggest achievement: Implementing a database
+architecture that significantly improved data retrieval efficiency by 30%.
+
+Strengths
+¥ Problem-Solving |B Collaboration vw Attention to Detail
+Identified and resolved complex Collaborated with cross-functional Ensured data accuracy and integrity
+database issues, resulting in teams to design and implement through meticulous monitoring and
+optimized performance and scalable database solutions for proactive maintenance of
+enhanced user experience. large-scale engineering challenges. databases.
+Experience
+TechGen San Francisco, CA
+Database Engineer 2022 - Ongoing
+
+Implemented and maintained database systems, ensuring high availability, reliability, and performance. Collaborated with
+development teams to optimize query performance and database design. Conducted regular backups and implemented disaster
+recovery strategies.
+
+* Designed and implemented a data replication solution resulting in improved disaster recovery time by 50%.
+
+* Optimized query performance by 40% through index tuning and query optimization techniques.
+
+* Collaborated with development teams to design and implement a scalable database architecture for a new product launch.
+
+DataTech New York, NY
+Database Administrator 2017 - 2022
+
+Managed and maintained multiple databases, ensuring data integrity, security, and performance. Conducted performance tuning,
+database optimization, and capacity planning. Developed and implemented backup and recovery strategies.
+
+* Improved database performance by 30% through the implementation of indexing and query optimization techniques.
+
+* Implemented automated monitoring and alerting systems, reducing the average response time to critical incidents by 40%.
+
+* Migrated legacy databases to newer versions, resulting in improved security and performance.
+
+www.enhancv.com Powered by (CX7 Ennancu

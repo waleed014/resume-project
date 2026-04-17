@@ -1,0 +1,181 @@
+J
+
+ESSICA
+
+CLAIRE
+
+&
+
+9
+
+resumesample@example.com
+(555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+SKILLS
+
+Mule: Mule 3.9.%/4.1.x,
+AnyPoint Studio 6.5/7.5 and
+MOC
+
+AnyPoint Platform: Mule ESB,
+API Designer, MMC, CloudHub,
+Runtime Manager, Exchange,
+AnyPoint Studio, VPC, V-Core,
+Workers.
+
+Web Technologies: HTML,
+WSDL, CSS, XML, AJAX, XSLT.
+Languages: C, C++, Java, J2EE,
+Dataweave, Python, Ruby
+Databases: Oracle 9i, 10g, PL/
+SQL, HOL, MS SQL, IBM DB2,
+‘Mongodb
+
+J2ee Technologies: Servlet, JSP,
+JSON, JDBS, XMI.
+
+EDUCATION
+ADIGRAT UNIVERSITY
+
+Bachelor of Science: Computer
+Science
+
+Honoree of Jessica Claire
+
+CERTIFICATIONS
+
+Certified Mulesoft developer
+
+PROFESSIONAL SUMMARY
+
++ More than 8+ years of experience in working on various phases
+of software development life cycle (SDLC) which includes
+Application Software specifications, application integration, implementation, and development and
+5+ years of experience in MuleSoft ESB and AnyPoint Platform.
+
++ Good experience on all API life cycles Designing RAML Specifications, Publishing to exchange,
+Building APIS, deploying to the Cloud and Managing APIs.
+
++ Strong experience in Dataweave Transformations, Error Handling and MUnit Testing.
+
++ Strong experience in implementing Service Oriented Architectures (SOA) using XML based Web-
+Services SOAP and REST Web Service.
+
++ Experience in CI/CD process with Jenkins, GIT and Bitbucket
+
++ Experience in different IDEs like Eclipse, RAD, and NetBeans, Any-Point Studio and Maven.
+
++ Good experience on all phases of Software Development Life Cycle (SDLC) and working
+environment in Agile.
+
++ Experience in working with RDBMS like MySQL, SQL Server, ORACLE, and DB2.
+
++ Familiar with SAP and Salesforce Integration with Mulesoft.
+
++ Experience in financial and retail domain.
+
++ Excellent communication and documentation skill, good team player.
+
++ Good experience in Enterprise and community edition of Mule ESB 4.x.
+
++ Good experience in developing Mule ESB flows and integrating Service Oriented Architecture (SOA)
+and Enterprise Application Integration (EAI) using Mule runtimes.
+
+WORK HISTORY
+
+General Dynamics - MULESOFT DEVELOPER
+California, MD + 07/2020 - Current
+
++ Create APIS with JSON Based RESTful Services.
+
++ Create integrations between SAP and salesforce using Mulesoft.
+
++ Manage the MuleSoft Dashboard and Graphic User Interface.
+
++ Implement complex message transformation using Dataweave.
+
++ Create MULE ESB 4.x artifact and configured MULE configuration files.
+
++ Create flows that provide and consume services (SOAP & RESTful).
+
++ Connectors and Components used: DB for Oracle and MongoDb with connection Pooling, salesforce,
+‘Message Enricher Scope etc.
+
++ Managing API token security with policies
+
++ AILAPIs interfaced with DB, Queues, Topics and SFTP Systems
+
++ Implement Oeauth for the APIs using Okta external identity provider.
+
++ Configure API Policies for Client id and Secret Enforcements
+
++ Implement Error handling Strategy for the API Systems.
+
++ Manage API build and deployment using Jenkins and Git and Maven for CICD process.
+
++ Create batch process that synchronizes salesforce with oracle database.
+
++ Create RAML specification with best practice by making it modular using fragments (Trait,
+resourceType, type and mock data) in separate file.
+
+Environment: WSDL, SAP, SOAP, JSON, JMS, MuleSoft, SVN, ActiveMQ, AnyPoint Studio, CloudHub,
+
+GitHub, XML, XSD, XSLT, XPATH, Jerkins, GIT
+
+Booz Allen Hamilton Inc. - AP] MULESOFT ENGINEER
+Milton, FL + 01/2018 - 05/2020
+
++ Develop APIs using API Led connectivity (EXPERIENCE, PROCESS and SYSTEM)
++ Develop Rest APIs utilizing Swagger.
++ Participate in the migration planning and rewrite of code from Mule 3.5 to Mule 3.9.
++ Implement data transformations using Dataweave for various format such as JSON, XML,
+XSD, CSV, Copybook
++ Implement Batch process to migrate data from file and database to Salesforce.
++ Create RAML specifications for implementing REST APIs.
++ Leverage MuleSoft connectors like VM, Database, File, HTTP, MongoDB, JMS, Object
+Store, SAP, SFTP, SuccessFactors, Web Service Consumer
++ Implement security with OAuth, Client-Id/Secret on MuleSoft APIs using API Manager and
+TLS/SSL configuration
++ Participate in the setting up CICD process.
++ Facilitate the creation of test scenarios and test scripts.
++ version source code using bitbucket and automate build with maven and Jenkins.
++ Part of Agile Development methodology with 2 weeks sprints and on 8 weeks major
+releases.
+Environment: Java, JEE, Spring, MuleSoft ESB 3.5, 3.8, API Manager, Anypoint Studio, ActiveMQ,
+Salesforce, JMS, XML, Web services, UML, Junit, jQuery, Mongo DB.
+
+Exxon Mobil - JAVA DEVELOPER
+City, STATE + 02/2014 - 12/2017
+
++ Implement Spring MVC classes to perform the business logic and developed the Struts Action forms
+to collect the user input.
+
++ Created Struts form beans to user submit user data to server side.
+
++ Create Front-end UI using Spring MVC,HTML and JavaScript.
+
++ Used JDBC API to connect to the database and carry out database operations.
+
++ Used SQL statements and procedures to fetch the data from the database.
+
++ Worked on bug fixes,enhancements, and application integrations.
+
++ Interacted with client, gathered requirements, developed the GUI screens, and also conducted
+demo sessions for user acceptance
+
++ Performed various monitoring activities to ensure smooth executions of scheduled jobs.
+
++ Mentoring other team members technically and functionally.
+
++ Testing of JSPs, Servlets and Business Objects was done on Eclipse test environment.
+
++ Testing in live or production environment.
+
++ Used SVN for version control across common source code used by developers.
+
+Environment: Java 1.7, HTML, CSS, JSP, Struts, Apache Tomcat, Design Patterns, XML, JavaScript,
+
+jQuery, XSLT, Ant, Maven, Log4j, SQL, Junit, SVN, NetBeans.

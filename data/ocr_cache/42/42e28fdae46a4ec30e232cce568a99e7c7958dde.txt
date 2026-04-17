@@ -1,0 +1,40 @@
+Marie
+Pearce
+
+UX Designer, San Francisco, CA
+
+Six years of experience designing products used by millions of people.
+
+San Francisco, CA | andy@email.com | 555-555-5555 | andycob.com
+
+Work Experience
+
+Figma
+Mar, 2017 - Current
+
+Lead UX Designer
+
++ Led design of auto layout feature that allows customers to easily resize
+components.
++ Improved layout grid interface, allowing for more precise and consistent layouts.
+
+* Collaborated with the Product team to improve accessibility site wide
+
+Google UX Designer
+2014 - 2017 « Led material design team of 6 designers responsible for standardizing design
+across Google properties.
++ Created a color palette for creating hierarchical, expressive, and legible websites.
+« The color palette also met accessibility standards for contrast and color blindness.
+Apple Human Interface Designer
+2012 - 2014 « Designed the Spotlight search interface for iOS 8. Worked closely with engineering
+on interactions and transitions.
++ Worked with a team of three designers on widget based notifications.
+Education
+RISD BFA Graphic Design
+2008 - 2012
+
+Skills
+
+Product design Designsystems Figma Sketch Illustrator Accessibility
+
+Usability testing Webdesign HTML CSS

@@ -1,0 +1,99 @@
+Robert Smith
+
+Sap Abap Developer IT
+
+PERSONAL STATEMENT
+Working in SAP technical platform since 11 years as a SAP CRM
+Technica ABAP and SAP P/PO Senior Consultant, During this period,
+Involved in multiple phases of an SAP Ifecycle process such as
+Implementation, Support, upgrade and enhancement projects. Strong
+conceptual, analytical, problem-solving, troubleshooting and resolution
+skills and Ability to effectively mentor less experienced team members on
+SAP programming and testing techniques.
+
+WORK EXPERIENCE
+
+Sap Abap Developer Il
+‘ABC Corporation January 2008 - August 2010
+Responsibilities:
+
+* Worked on enhancements and developments, by getting requirements
+directly from the business users, and designing the Technical
+specifications,
+
+* Worked on reports, BAPIS, ALE, IDOCs, Interfaces, Conversions, BDC.
+LSMW, SAP Script/SAP Smart forrns and User exits Coordinated with
+basis tearm regarding OSS, Support Packs and Transport management.
+
++ Prepared test scenarios for the developments and actively involved in
+testing In QA
+
++ Performance tuning and analyzing the performance of transactions and
+programs Developed the objects for SAP AFS Functional area,
+
++ Involved in the functional areas SD, MM, Fl, PP, WM, and EP.
+
++ Collected telecom invoices from all ralamericas carriers and linked
+them to a cost center.
+
++ Responsible for maintaining oss ids, developer keys and sscr keys.
+Assisted basls,
+
+Sap Abap Developer
+Delta Corporation - 2003 - 2008
+Responsibilities:
+
++ Responsibiltes Involved in Business discussions to convert Business:
+requirements to Design dacuments,
+
++ Worked on enhancements and developments, by getting requirernents
+directly from the business users, and designing the Technical
+specifications.
+
++ Setting up User acceptance test plans (UAT) and Code Review.
+
++ Involved in the functional areas SD, MM, FI, PP, WM, and EP.
+
+‘+ Development Summary Developed routines to control Output type
+determination (V1, VV22, VV31) Worked on User Ext for Sales order
+{or Quotation and delivery black.
+
++ Worked on Pricing Routines related ta Sales order and Bling.
+
++ (V/27) User exit on Custorner master to determine the pricing
+procedure.
+
+(Ths Ee Resume Tamolate the conynght of Quikresune cor. Usage Gustine
+
+CONTACT DETAILS
+
+1737 Marstullle Road,
+Alabama
+(123)-456-7890
+Infoeequikresume.com
+wwweqwikresume.com
+
+‘SKILLS
+SAP ABAP, SAP Business
+‘Workflow, SAP HR ABAP,
+SAP WebDynpro ABAP,
+SAP BW ABAP, SAP I,
+SAP FIORI, SAP UIS.
+
+LANGUAGES:
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+Climbing
+Snowboarding
+Cacking
+Reading
+
+REFERENCES:
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

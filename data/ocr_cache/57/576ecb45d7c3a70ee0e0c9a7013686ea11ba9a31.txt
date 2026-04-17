@@ -1,0 +1,52 @@
+LORITA MILLS 56433 Lockman Manor, Houston, TX
+| Mi +1 (555) 775 4115
+
+EXPERIENCE 08/2020 — present WEHNER, KAUTZER AND ULLRICH
+Chicago, IL System Security Engineer
+
+¢ Able to design new processes and resourcefully solve complex technical issues
+
+¢ Experience in building customized dashboards on Kibana
+
+¢ Experience with Elastic Cloud Enterprise and working with Containers and
+Kubernetes
+
+¢ Hands on experience with creating pipelines in Logstash
+
+¢ Hands on experience with creating and modifying YAML and JASON/XML
+files and formats
+
+¢ Demonstrated experience performing Cyber Security Engineering
+responsibilities such as Planning, Designing, Architecting Cyber Solutions and
+
+Platforms
+04/2014 — 04/2020 SCHROEDER-UPTON
+Chicago, IL System Security Engineer
+
+¢ Demonstrated Hands on experience with industry standard information
+assurance tools such as Security Content Automation Protocol (SCAP),
+NESSUS, Host Based Security System (HBSS), End-point-security, Assured
+Compliance Assessment Solution (ACAS), and Splunk
+
+¢ Direct Experience with Risk Management Framework (RMF) implementation
+across multiple phases of a large program
+
+¢ Proven experience executing Security Hardening on diverse LINUX and
+Windows Operating Systems based on approved DISA STIGs and SRGs
+
+¢ Proven hands-on experience supporting Department of - Defense (DOD) or
+Intel IA Programs
+
+EDUCATION FASHION INSTITUTE OF DESIGN & MERCHANDISING
+
+Bachelor's in Computer Science
+
+SKILLS ¢ Design/architect/implement security and system software solutions for Tegra Automotive, Embedded and
+Data Center platforms
+¢ Develop bare metal software and application for Trusted Execution Environment for various security use cases
+¢ Implement software framework to protect key assets
+¢ Triage and debug various software issues in complex systems/applications
+B.S. or MLS. or equivalent in Computer Science, Computer Engineering, or Electrical Engineering
+* Strong system software engineering skills combined with a drive to solve hard problems
+* Strong programming and debugging skills in C and C++
+¢ Experience with low level software drivers and kernel

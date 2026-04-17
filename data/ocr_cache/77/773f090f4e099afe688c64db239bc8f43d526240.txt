@@ -1,0 +1,60 @@
+KATHIE CRIST
+
+751 BERGE MISSION, SAN FRANCISCO, CA
+
+PHONE
++1 (555) 341 8572
+
+EXPERIENCE STEUBER, SCHILLER AND MAYER 11/2019 — present
+Chicago, IL // Technical Lead / Senior Java Developer
+
+¢ BPM tools (any of them will do), Cloud, and Metadata tools
+
+¢ Experience in ETL(Ab Initio, Talend)
+
+¢ Experience with both RDBMS and No SQL DB’s
+
+¢ Experience with Container/Cloud
+
+¢ NIH experience (specifically NCI or other institutes to demonstrate understanding of NIH
+organization, policies, and structure)
+
+¢ Understanding or knowledge of NIH data and grant process
+
+¢ Understanding or knowledge of NCI’s central and local databases
+
+¢ Individual contributor who oversees large, technically complex projects
+
+¢ Some barriers to entry exist at this level (Sr Executive approval)
+
+KUHIC, CONNELLY AND KUHIC 11/2013 - 06/2019
+Chicago, IL // Regular / Senior Java Developer
+
+¢ Join a highly competent and motivated international team
+
+¢ The interesting project connected with scenario modeling for ADAS systems and visualization
+
+¢ Contributing in all phases of the development lifecycle
+
+¢ Writing well designed, testable, efficient code
+
+¢ Ensuring designs are in compliance with specifications
+
+¢ Supporting continuous improvement by investigating alternatives and technologies and
+presenting these for architectural review
+
+¢ Experience in Java development (min
+
+¢ Hands-on experience in designing and developing applications for Java platform
+
+EDUCATION MASSACHUSETTS COLLEGE OF ART
+Bachelor's in Computer Science
+
+SKILLS ¢ Experience with Open Shift Container Platform, Docker and/or Oracle DB
+¢ Experience with design and maintaining APIs, services, and different payment sources
+¢ Basic understanding of Linux network and server configurations
+¢ Working knowledge in DevOps tools like Maven, Jenkins, Udeploy and Git
+¢ Experience working with relation databases, specifically Oracle (SQL - PL/SQL)
+¢ Hands-on experience on business process development and/or Integration with system tools
+¢ Angular
+¢ Test Driven Development (JUnit / Spock)

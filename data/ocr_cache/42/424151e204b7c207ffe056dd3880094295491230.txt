@@ -1,0 +1,123 @@
+Andrew Kevin
+
+SOFTWARE TESTER
+
+SUMMARY
+
+I've been searching for the ideal field of work that suits my passions and skills. | usually
+question everything and see different paths and possibilities for any encountered
+systems, and based on these attributes | know that the best field for me is IT,
+specifically Quality Assurance.
+
+The breakthrough came when | decided to help a programmer friend who is developing
+iOS applications. Working together with him and running different test scenarios, | found
+‘out more about what a QA actually does. | eventually took on the role of a software
+tester, familiarizing myself with manual testing techniques.
+
+The experience | have gained so far has taught me the basic principles of software
+testing. To further my knowledge, | have studied for the ISTQB Foundation Level and got
+my certificate. Curiosity has started to turn into passion quickly once | discovered the
+interesting challenges that a software tester has to tackle every day.
+
+SKILLS
+
+Critical thinking, detail oriented, perseverance and determination, self-learner,
+creativity, team player, stress resistance, disciplined.
+
+Organizational skills, communication
+
+‘* Methods of testing the product: boundary value analysis, equivalence partitioning,
+state transition, requirements traceability matrix, manual testing, acceptance
+testing, negative testing, functional testing, usability testing, compatibility testing,
+design testing, black box testing, regression testing, smoke testing, integration
+testing
+
+« Jira: add an issue (story, bug, sub-task), review existing tickets, follow the direction
+of the project using dashboard
+
+Confluence: review and analyze documentation, add comments on the
+documentation
+
+Charles: capturing and modifying incoming/outgoing data
+
+* Using Chrome DevTools for: inspecting elements, editing elements in the webpage,
+testing the webpage on different layouts, following the received requests, throttle
+Internet connectivity, blocking requests
+
+* Postman: create collections, send requests, edit requests, verify server response,
+adding or editing headers
+
+GIT: working with branches
+
+EXPERIENCE
+
+Software Tester
+
+LazyFox Jun 2019 - Mar 2020
+
+What started out as wanting to help my friend turned into me wanting to learn more and
+so | volunteered as a tester for my friend's projects. | was doing manual software testing
+on several iOS applications, to be precise arcade type games. We collaborate through
+Atlassian Jira as | tested new iterations of the apps, that are still under development.
+
+Software Tester
+YeParking Solutions Jun 2020 - Dec 2020
+
+CONTACT
+
+info@resumekraft.com
+202-555-0120
+
+Chicago, Illinois, US
+linkedin.com/resumekraft
+
+EDUCATION
+
+Surveying
+San Jose State University
+2009 - 2012
+
+Accounting
+
+Northeastern University
+2005 - 2009
+
+CERTIFICATION
+
+Certified tester - Foundation
+Level
+ISTQB
+
+BBST Foundations
+05.06.2020
+
+Programming basics with
+Python
+
+SotUni
+
+COURSES
+
+BBST - Foundation level
+Altom Consulting
+May 2020 - Jun 2020
+
+Programming Basics with
+Python
+SoftUni Jan 2020 - Mar 2020
+
+Testing Course
+
+Cluj Testing Community
+Feb 2020 - Mar 2020
+
+Learn SQL
+
+Codecademy.com
+Jul 2020 - Jul 2020
+
+LANGUAGES
+
+English
+
+French

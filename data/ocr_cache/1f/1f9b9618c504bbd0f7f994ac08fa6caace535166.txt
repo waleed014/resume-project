@@ -1,0 +1,53 @@
+Victor Lauren
+
+JAVA DEVELOPER
+
+© info@resumekraft.com [ 202-555-0120 @ Chicago, Illinois, US in linkedin.com/resumekraft
+
+SUMMARY
+
+Highly skilled and dedicated Java Developer with over 5 years of experience in designing and developing
+applications. Proficient in Java, J2EE, Spring, Hibernate, and RESTful web services, Strong problem-solving
+abilities and a proven track record of delivering high-quality software solutions on time. Excellent communication
+skills and a collaborative approach to working in cross-functional teams. Seeking to leverage my skills and
+experience to contribute to the success of a dynamic and innovative organization
+
+SKILLS
+Objectoriented ©0000 RESTful Web Services = © ©@@ OO
+programming SQL/Database @@®@e0
+Java SE/EE @@000 Management
+Spring Framework ©©©00 Version Control (Git, SVN) © © © @@®
+Hibernate ORM ©0000 Testdriven Development @@@@O
+JSONXML, CORO ORORO} ct
+Problemsolving skills ©0000
+EXPERIENCE
+
+Java Developer
+Aurozen Technology LLP Feb 2020 - Present
+* Collaborated with database architects and administrators to outline client system limitations for capacity and
+load for data and processing projects
+* Used Spring Boot Microservices Framework to design Restful APIs for Aurozen Fitness Application
+* Created work schedules and solutions for debugging and fixing defects to resolve customer complaints and
+issues,
+* Analyzed project documents and projected deadlines and actual project updates and made necessary
+adjustments to expected completion dates,
+
+Java Intern
+Zmedios Technology Pvt. Ltd. Jan 2019 - Jan 2020
++ Completed Java projects by following specifications and configuring devices and components an provided
+routine maintenance of computer equipment as needed.
+
+* Paid close attention to customers’ concerns and addressed their queries and achieved an exceptional level of
+customer service.
+
+* Controlled all confidential and proprietary information released to company clients,
+
+* Developed programs for Web Application platforms using HTML and CSS programming languages
+
+EDUCATION
+
+Bachelor of Engineering
+San Jose State University Apr 2076 - Apr 2020
+
+Higher Secondary School Certificate
+Northeastern University (iar 2015 - Mar 2016

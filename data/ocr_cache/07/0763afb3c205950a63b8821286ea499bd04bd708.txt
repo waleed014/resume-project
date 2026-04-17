@@ -1,0 +1,82 @@
+MOHAMMED ALKHALAF
+
+\_kha
+
+f@hotmail.com
+
+oy
+
+Work experience
+
+Jun 2011-Present Network Security engineer
+SABIC
+
+* During the summer of 2010 | trained at Saudi Electricity Company
+
+* I joined SABIC as a fresh graduate in 2011, as a new employee i involved in a professional
+development plan-POP- , it helped me to bridge the gap between the academic experience
+and the real work environments experiences.
+
+* During the PDP i involved in the end user support department, mainly to
+
+* Troubleshoot and support the end users IT related issues.
+
+* During the PDP i worked in developing our IT infrastructure department and Security
+operation section intranet page using MS SharePoint technologies.
+
+* During the PDP i enrolled in a rotation to all our IT departments and their sections to get
+familiar with their scope of work and the way they are integrated to provide a sustainable and
+professional IT services
+
+* Then i engaged with the security Operation center section, especially with the network
+security team to provide the required support to SABIC MEA region.
+
+* | worked in Cisco ASA and Juniper firewalls in many different cases like configuration,
+configuration audit, and review and hardening, 'm familiar with the firewall configuration
+maturity model which is meant to secure the firewall from the configuration side.
+
++ | worked in SABIC Blue coat proxies, i am aware of the best practice configuration, audit,
+review and configuration hardening mechanisms.
+
+* | worked in SABIC VPN services, mainly to mainly toProvide VPN access, Troubleshoot
+and support the related issue
+
+* | worked in Cisco ACS systems to ensure the Authentication, Authorization and Accounting
+
+* | worked in the Cisco MARS, the Monitoring, Analysis and response system,
+
+* Iworked on a prove of concept -POS- with Paloalto Firewall product and we remotely worked
+and discovered its capabilities.
+
++ Iworked on a POS with McAfee web gateway product and i discovered its great functionalists
+and features like SaaS and GTI.ete
+
+* Currently iam also assigned as aPrimary security connect to operation focal point, this is to.
+ensure a smooth project handover and acceptance between the projects team and the
+services team, it requires deep study and analysis of the projects scope and security
+assessment in order to provide the full requirements to implement the security related
+projects.
+
+* I worked and appreciated in may contributions in the Security Emergency response team,
+
+ERT was 24/7 shifts, we responded to many cases like phishing scams and the way we can
+
+take action against such cases.
+
+I worked on the Remedy system, SABIC ticking system and i generate many reports out of it.
+
+| involved and appreciated in my participation to SABIC STIM10 team and the valuable
+
+awareness about paperless strategy presentations i've conducted in our IT booth during
+
+STIMLO.
+
+| received many appreciation letters from SABIC end users due to the provided support
+
+Education
+
+Professional Courses
+
+* Course: Introduction to ISO 27001 2005 standard. April 2011 by CoEIA.
+* Course: Bluecoat proxy certified Administrator.
+* Course: Microsoft ITCAN program and a certificate of completion and fulfillment fora

@@ -1,0 +1,91 @@
+VANE CRUICKSHANK
+
+{6194 Skiles Views, Los Angeles, CA + +1 (555) 978 0978.
+
+‘WORK EXPERIENCE
+
+SENIOR INFORMATION TECHNOLOGY ANALYST 12/2017- PRESENT
+Houston, TX
+‘+ Responding to the evolving regulatory environment and helping to meet the firm’s regulatory commitments by addressing internal and.
+external commitments
+‘+ Advancing the firm’s Roadmap programs ~- Single Sourcing of data, Architecture Convergence, and Rationalization of Platforms
+‘+ Driving innovation across the firm's corporate technology portfolio, increasing efficiencies through process automation and Agile
+application development, with an emphasis on user experience and shorter development cycles
+‘+ Investing in security and controls for eyber, access/entitlements uplift, data protection and application resiliency
+
+irewall, AD, GPOs, DHCP, Storage, VOIP, File Backup and Restore and Server
+
+‘+ Experience with network infrastructure, FIP, DNS, Citrix,
+Administration
+
+‘+ Coding, testing and debugging of programs as well as IT infrastructure support working with both internal and external providers and
+experienced analysts,
+
+‘+ Identification and resolution of technical problems, with very occasional weekend activities related to program and infrastructure changes
+
+‘+ Under the direction of more senior analysts, assist in the development and integration of software applications and infrastructure
+
+solutions
+
+INFORMATION TECHNOLOGY ANALYST 02/2015 - 10/2017
+Detroit, MI
+
++ ‘Typically serves as a team member on one or more projects
+
+‘+ Act as first level of support in the business to resolve factory and office IT related issues with applications and infrastructure
+
+‘+ Follow established support protocols
+
+‘+ Run monthly Salesforce support metrics based on incidents tracked in remedy or future Caterpillar approved tools and share the metrics
+
+with leadership
+
++ Create Salesforce customization reports including Lightning dashboards
+
+‘+ Hands on experience in APIs to connect Salesforce and external systems,
+
++ Perform technical and functional system analysis, development, support, and implementation in Workday HR (the new Human Capital
+
+‘Management system
+
+implemented)
+‘+ Resolve complex business requirements via Workday HR, and the corresponding system relationships to SAP HR and SAP FI configured
+solutions
+
+‘TRE INFORMATION TECHNOLOGY ANALYST 12/2009 - 12/2014
+San Francisco, CA
+‘+ Participate in all project stages with accountability for eliciting, validating, and documenting business requirements which ensure “value-
+ada” to the client
+‘+ Creating test strategies and ensuring all functionality is tested prior to production deployment
+‘+ Partnering with the Change and Release Management team to ensure representation and coordination of projects throughout the change
+and release process
+‘+ Partnering with Project Managers to ensure successful completion of project deliverables
++ Perform design and configuration analysis for SAP Finance modules (Financial, Intercompany, and Asset Accounting; General Ledger;
+Accounts Receivable; Treasury and In-house Cash Management; Banking; Financial Supply Chain Management (FSCM); Tax Accounting;
+Product Costing/Project Systems
++ Participate in all project stages with accountability for eliciting, validating and documenting business requirements which ensure “value-
+ada’ to the client
+
+‘+ Understand ABAP code and assist developers to resolve systems issues
+
+EDUCATION
+
+UNIVERSITY OF SIOUX FALLS 2004-2009
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Excellent analytical, problem solving, written and verbal communications skills. Strong customer service skills
+
+‘+ Excellent verbal and written skills, encompassing complete understanding of the English language with exceptional communications
+skills
+
+‘+ Solid written and verbal communication skills and strong interpersonal skills
+
+‘+ Strong vendor relationship and product management skills, ideally demonstrated through past experience in these areas
+
+‘+ Demonstrated analytical skills through prior work experience
+
+‘+ Strong written and oral communication skill, including experience writing technical documentation
+
+‘+ Demonstrated planning & organizing skills including project planning

@@ -1,0 +1,76 @@
+SUSY
+BAYER
+
+address
+4883 Andy Summit,
+Philadelphia, PA
+
+tel +1 (655) 672 5349
+
+Experience
+
+Gibson Inc
+Dallas, TX || Lead Et! Developer || 10/2018 - present
+
+e
+
+Supports the project team throughout the design, development and testing
+process
+
+Understands database design, programming concepts, data modeling,
+and framework management
+
+Communicates ideas to both technical and non-technical people in all
+levels of the organization
+
+Develops advanced and complex Informatica ETL processes
+
+Works with Business Analysts, Data Architects, Enterprise Architects, and
+ETL Architects to ensure business requirements are being met with the
+solution being developed
+
+Koepp, Grady and Dibbert
+Dallas, TX || Database / ETL Developer || 01/2013 - 04/2018
+
+e
+
+Maintain existing applications and solutions
+
+Performs coding, debugging, testing and troubleshooting throughout the
+application development process
+
+Participate in daily standups, sprint planning, user story refinement and
+peer testing
+
+Provide work effort estimates to management to assist in setting priorities
+Contribute to creation of technical documents for internal knowledge
+sharing
+
+Assist in the design and expansion of cloud infrastructure
+
+Peer review the development work of other team member
+
+Education
+
+University of Cincinnati
+Bachelor's in Computer Science
+
+Skills
+
+Performs code reviews, coding, debugging, testing and troubleshooting
+throughout the development process
+
+Experience programming in Linux/Unix environment
+
+Work collaboratively with other team members like InfoSec, networking
+and Cloud Engineering to create AWS EC2 instances as well as users from
+operational support
+
+Experience operating in AWS/C2S
+
+Understanding of REST
+
+Hands on ETL development with design and build experience of
+medium/large enterprise projects
+
+Data modelling knowledge will be beneficial

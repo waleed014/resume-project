@@ -1,0 +1,82 @@
+MICHEAL VON
+
+2503 Herzog Hollow, Dallas, TX + +1 (555) 381 6812
+
+‘WORK EXPERIENCE
+
+SENIOR / REGULAR JAVA DEVELOPER 12/2015 - PRESENT
+New York, NY
+
++ Testing and delivering the changes to the business, with primary focus on the implementation and unit testing
+
++ Involvement in all phases of the development cycle
+
+‘+ Develop tools to make developers more efficient with their work and help them use Agile practices. The team develops and maintains Java
+‘Web based apps that are interconnected with JIRA
+
+‘+ Development of backend of reference data distribution banking application
+
+‘+ Liaising with Customer on regular calls
+
++ Provide applications in best quality as requested by specifications
+
+‘+ Support the business in case of effort estimations and feasibility studies
+
++ Design and implement software components according to business/functional requirements
+
+REGULAR JAVA DEVELOPER 07/2012 - 10/2015
+Dallas, TX
++ Proven wor
+
+1s experience (>3 years) in J2EE, Spring, Hibernate, JavaScript, Servlets, Tomeat, Apache, Linux, JQuery,
++ Write good and well-tested code in Java
+
+ISON, REST
+
+‘+ Write user/supporter documentation
+
+‘+ Development environment support (mostly automation using Jenkins CI, Bash, Groovy)
++ Experience in industry of software development
+
+‘+ Experience as software developer on web projects
+
++ Develop new business logic
+
+‘+ Refactor existing logic and migrate it to newer technology stack
+
+JUNIOR / REGULAR JAVA DEVELOPER 03/2006 - 03/2012
+Chicago, IL
+‘+ Support system integration and user acceptance testing
+‘+ Support and coach other team members
+‘+ Development of the new features, change requests and bug fixes for the existing software
++ Ensure good development testing coverage (JUnit, Sonar, integration tests; testing evidences artifacts). Contribute to automation testing
+coverage using Java frameworks
+‘+ Follow continuous integration standards and use corresponding automation approaches (Maven, TeamCity, GIT, Stash, BitBucket, auto
+builds ete)
+‘+ Take part in architecture design planning for complex integration platform and its modules; contribute to design ideas; provide design
+options and their pros and cons; be able to plan development activities based on approved architecture
+‘+ Participate in from scratch development using
+
+‘+ Integration of new applications with internal systems
+
+EDUCATION
+
+HERZING UNIVERSITY - KENOSHA CAMPUS 2001 - 2006
+ingineer’s Degree in Design
+
+PROFESSIONAL SKILLS.
+
++ Strong Oracle SQL / T-SQL skills, good to have experience working with Oracle and/or Sybase
+
++ Proven OOP and testing skills (mocking/unit testing, preferable TDD)
+
+‘+ Solid Java developer (Java 1.6 and above) with strong technical skills
+
++ Strong communication skills and Agile/Scrum professionalism
+
+‘+ Excellent analytical, algorithmic and optimization skills
+
+‘+ Mentoring and education designed to ensure that every single employee continually builds knowledge and skills in the areas that matter
+‘most to them
+
++ Good networking skills and understanding of the big organizations

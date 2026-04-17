@@ -1,0 +1,57 @@
+REAGAN REICHERT
+
+952 RATH LODGE, PHILADELPHIA, PA
+
+PHONE
++1 (555) 675 5476
+
+EXPERIENCE HODKIEWICZ INC 02/2018 — present
+Boston, MA // Devops, Senior Engineer
+¢ Strong Solutions Architect experience with AWS , GCP or any other cloud , and prior,
+preferably AWS/ GCP certified
+¢ Strong experience with Kubernetes and Docker containers, strong knowledge of Helm charts
+¢ Strong experience with CI/CD automation using GitLab
+¢ Significant experience with scripting using Python or other programming in areas DevOps /
+SRE areas
+Understands API’s, microservices concepts
+¢ Experience containerizing existing applications in cloud
+
+SPENCER, KLEIN AND STAMM 03/2012 — 12/2017
+Boston, MA // Devops, Senior Engineer
+
+¢ Direct experience designing and implementing security automation tools as part of the CI and
+CD Pipeline
+
+¢ Direct experience designing and implementing security architecture
+
+¢ Good understanding of security vulnerabilities and their mitigations
+
+¢ Practical experience with software development in at least one programming language
+
+¢ Experience with cloud technologies and Linux operating systems
+
+¢ A natural skill for programming
+
+¢ Experience working with Continuous Integration tools (Jenkins, Travis, Circle CI, AWS
+CodeDeploy )
+
+EDUCATION CALIFORNIA COLLEGE OF THE ARTS
+Bachelor's in Computer Science
+
+SKILLS ¢ Experience in building and deploying large-scale applications in Continuous
+
+Integration/Delivery pipelines
+
+¢ Experience of using container platform and orchestration systems ECS, AKS,
+Kubernetes/helm/Docker
+
+¢ Experience of source code management e.g
+
+¢ Knowledge of automation, integration tools such as Jenkins, Concourse CI or cloud
+equivalents
+
+¢ Experience of working in an Agile/SCRUM/DevOps delivery model
+
+¢ Professional Scrum Qualification or equivalent experience
+
+¢ Demonstrated knowledge and experience in Terraform, Ansible

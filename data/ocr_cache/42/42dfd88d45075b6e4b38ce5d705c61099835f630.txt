@@ -1,0 +1,59 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA94105 2 (555) 432-1000 4 resumesample@example.com
+
+Software Engineer with 2+ years of industry experience with Java, J2EE, Apex, JavaScript, HTMLS and CSS3
+and other Microsoft Technologies. Having interest in designing and crafting efficient modern Software's and
+learning new technologies and tools if need arises
+
++ Programming Languages: C, C++, Java, J2EE, * Web Technologies: JavaScript, JQuery,
+
+Python and Apex. Bootstrap, HTMLS and CSS3
++ Database Systems: MySQL, ORACLE,SQL_—*_~_ Operating systems: Windows 10/08/07/XP,
+Server. IDE Linux, Macintosh.
++ Technologies: Eclipse IDE, Force.com IDE, Bit_ * Technology: MS Visio, MS Office.
+bucket, GIT.
+SALESFORCE DEVELOPER 09/2016 to CURRENT
+
+Wells Fargo Bank | Bolinas, CA
+‘+ Involved in Salesforce.com Application Setup activities and customized the apps to match the functional
+needs of the organization
++ Designed, developed and deployed Apex Classes, Controller Classes and Apex Triggers for various
+functional needs in the application
+‘+ Involved in Unit Testing, for the customization and developments done during the project.
+
+FRONTEND DEVELOPER 2016 to 08/2016
+Avanade | Huntsville, AL
+‘+ Designed the front-end applications, user interactive web pages using web technologies like HTML,
+XHTML and CSS.
++ Designed and modified the images and banners as per the requirement using Adobe Photoshop.
+‘+ Implemented various JavaScript/JQuery effects on the pages.
+
+‘SCOTWARE ENGINEER 05/2013 to 04/2014
+Verizon Communications | Jackson, TN
+
+‘+ Involved in whole lifecycle of the projects including requirements, design, analysis, coding, and
+integration and testing application
+
+‘+ Implemented modules using Core Java APIs, Java collection, Threads, XML and integrating the
+modules.
+
+‘+ Worked on SOAP, WSDL and implementation of code templates generate WSDL file and serialization
+files. Junit tests were written to test each module in the application.
+
+Master of Science | Computer Science 2015
+Texas State University, San Marcos, TX
+GPA - 3.42/4.00
+
+BaOhelor of Science | Computer Science and Engineering 2013
+Jawaharlal Nehru Technological University, Hyderabad, AP
+GPA - 3.40/4.00

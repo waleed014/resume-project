@@ -1,0 +1,68 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+(CAREER OVERVIEW
+
+Results-driven Network Administrator with experience in back-end programming, relational databases and development/maintenance of
+complex and critical systems.
+
+Quaumications
+
+«Strong mechanical aptitude
+
+« SAP software application for quality assurance
+
+«© Expert in regression testing
+
+« UNIX shell scripting
+
+«Test case documentation
+
+« Strong technical writer
+
+«Selenium IDE/RC tests
+
+© QWexpert
+
++ AS9100 management system
+
+Expertise in Requirements Traceability Matrix (RTM)
+‘# Deep knowledge of manufacturing software test methodologies.
+« Keen eye for detail
+
+Fluent in Chinese
+
+« Acutely observant
+
+Trcunicat Sxnis
+
+Agile, propriatory testing tools, scripts software testing 8 2010
+
+ACCOMPLISHMENTS
+
+Inspected more than up to 1000 tests per shift using either proprietary testing tools or private scripts with 95 - 100% accuracy.
+
+got company awards for delivered high quality and quantity job.
+
+‘Work ExPeriENcE
+
+1999 to 02/2010 software testing
+Lucent Technology — City, STATE
+- worked with architecture and developers to analyze the specifications
+- wrote testing cases, review with the architecture and developers, document, come out the official test plan.
+- worked with lab team to figure out the lab setting, for example ,the data, version, script
+~ install the lab
+- run element test, closely worked with developers even architectures if there is any issues, fix the problem , rerun the
+tests until passed, document it
+- run integration tests, closely work with developers , pass the tests , document them
+- work with retrofi, load update engineer
+- deliver to customers, install for the customers, answer their questions if
+- major features worked ,911, caller ID, name display ,
+~ run regression tests
+
+Epucation Np TRAINING
+
+2013 Bachelor of Arts: Business Administration
+San Francisco State University - San Francisco, CA

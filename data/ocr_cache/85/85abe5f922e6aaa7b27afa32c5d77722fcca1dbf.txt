@@ -1,0 +1,48 @@
+838 Jarrod Tunnel, Detroit, MI
++1 (655) 848 3932
+
+¢ A good aptitude for understanding the business and business needs
+
+¢ Assist with Campaigns, help manage the campaign related tables and
+procedures
+
+¢ Experience in translating business logic and requirements into technical
+designs and solutions
+
+¢ Experienced in developing ETL processes for business intelligence
+solutions
+
+¢ Experience working with call center data and call routing will be added
+advantage
+
+¢ Strong T-SQL, experience in creating complex Stored Procedures,
+Triggers, UDF’s and CLR’s
+
+¢ Database design, modelling, projects and deployment processes
+
+¢ Experience of Visual Studio inc. Team Foundation Server for Source
+Control and Bug Tracking
+
+¢ Experienced in using Microsoft applications (Word, Excel, PowerPoint and
+Visio)
+
+¢ Effective communication skills working with both IT and non-IT colleagues
+
+¢ Experience working and delivering as part of projects and/or IT releases
+
+¢ Current experience in SQL, PL/SQL, SQL Tuning & performance
+optimisation
+
+¢ Proven experience of working on full project lifecycle using Waterfall and/or
+Agile SCRUM development methodologies
+
+¢ Experience of Oracle Apex/ords on Oracle 12c/18c
+
+* Oracle CDC, Talend ETL
+
+* Oracle Spatial
+
+* Knowledge of Web Technologies (Java/J2EE) and application servers
+
+¢ Experience of working with either custom workflow solutions or
+commercial CRM/workflow solutions

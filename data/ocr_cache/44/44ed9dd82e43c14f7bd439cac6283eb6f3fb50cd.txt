@@ -1,0 +1,52 @@
+‘SQL Server Developer Phone: (129) 456 7899
+
+ROBERT SMITH iitiats inked o/eptcesane
+
+Objective
+
+‘SQLServer Developer with 12 plus years of expertence in the Retall demain, Hands on Experience
+in installing, configuring, managing, monitoring and troubleshcoting SQL Server Expert in
+‘Mlerosoft Business Intelligence technologies like SQL. Server Integration Services (SSIS). SQL Server
+Reporting Services (SSRS). and SQL Server Analysis Services [SSAS)}
+
+Skills
+
+Database: SQL Server Oracle 10g, Sybase Technologies: SQL Server Management Studio, SSIS,
+SSAS, SSRS, Profiler, BI Express, Database Tuning Advicor, MBS Olfice, Excel, MS Project, Oracle
+SQL Developer Tool. Version Control Tools: MS Visual Source Safe (VSS), Source Version Control
+(SVN), Microsoft Team Foundation Server (TFS) Programming Languages: C, C++, HTML, XML
+Operating Systems: Windows MS-DOS
+
+Work Experience
+
+SQL Server Developer
+Stelm Mart - March 2011 ~Present
+Designing and developing the SSIS packages, stored procedures, configuration fies, ables
+ews, Indexes
+UUced SSIS to extract data from enterprise data warehouse, Oracle added muluple
+transiormations to transform the data and final loaded tnto the DB2 database.
+Using table diflerence, upsets, lookups. and condonal spits for finding deltas
+Used SQL Bl-Xpress for managing. audi and notileation frameworks
+Creating the SSIS jobs for monitoring the jabs that depend on dally ones an! loading dba
+database tables using SQL server agent
+‘Automating asks using activex serpt fiolar to VB Scrip) Be able to implement faluze
+flerts using ema n SSIS
+Tnvolng in objectontented design (UML, activity diagrams, use eases, and objet modeng
+
+SQL Server Developer
+ABC Corp - 2006 - 2011
+© Developed transact-SOU (t-SQLI quertes, stored procedures, triggers. user-defined functions
+
+UDF, views, indexes. and user-defined data types strelly following the data tntegrtty using
+constraints, rules, and default.
+Created Windows logins and privileges to user aecounts/groups and objects,
+Developed CTE, constraints, and complex queries to fetch the data from diferent servers,
+Worked with project stakeholders to understand business requirement and initiatives.
+Developed processes hased on technical specifications and development standards.
+Performed luni testing on all development.
+‘Monitored the job performances to ensure processes run according to Schedule. Troubleshoot
+land resolved the issues as needled.
+
+Education
+
+(tha Free Resume Tesla nthe copy of teesnascom Uae Caldeinee

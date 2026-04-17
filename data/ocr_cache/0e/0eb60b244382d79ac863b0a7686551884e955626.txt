@@ -1,0 +1,50 @@
+4759 Sunnydale Lane, Plano, Texas,
+
+Shirley Haynes
+# Johnson
+
+125-456-7890
+DevOps Engineer
+
+‘ADevOps Engineer with seven years of experience, specializing in software development, web development, Agile methodology, and C/CD.A
+proven track recard of collaborating with software developers to enhance development processes and drive automation.
+
+Professional Experience _ Devops Manager
+906 Technologies, Marquette. M| March 2019- Present
+¢ Lead an Agile team of four developers and two system administrators, conduct
+atrial Svidn mista hie ve professional deta
+
+‘= Support the development of new application features and improvements, enhance the
+user interface, and improve user satisfaction by 20%
+
+‘© Create and develop Standard Operating Procedures based on common failure scenarios
+
+‘* Maintain automated C\/CD pipelines for code deployment.
+
+DevOps Engineer
+
+Walmart Tech Services, Marquette, Ml January 2017-March 2019
+
+‘© Managed 50+ Linux servers with 99.99% uptime, created a Docker container cluster using
+Kubernetes/Docker Swarm, and prevented network failures
+
+‘Developed a system to automate security updates and improve cybersecurity
+
+‘¢ Maintained Git workflows for version control and source code management
+
+Education Bachelor's Degree in Computer Science
+UNIVERSITY OF MICHIGAN, Ann Arbor, Ml | September 2012 -June 2016
+
+Key Skills
+
+Agile Development
+Continuous improvement
+Python
+
+JavaScript
+
+Git
+
+Kubernetes
+
+Docker Swarm

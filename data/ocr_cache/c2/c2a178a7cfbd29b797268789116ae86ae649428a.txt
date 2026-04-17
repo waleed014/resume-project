@@ -1,0 +1,62 @@
+ROBERT SMITH
+Dotnet Developer I
+
+Phone: (0123}-456-789 | Email: infodquikresume.com | Website: Quikrestme.com,
+
+A Net Professional with 7+ years of diverse experience in all phases of Software
+Developnient Lif Cycle process(SDLC) involving Analysis, Design, Development,
+Deployment, Testing and Implementation of Client/Server applications using
+Microsoft NET. Experience in Agile Software development process using SCRUM
+methodology and Waterfall model,
+
+[CORE COMPETENCIES
+
+Experience in Agile Software development process using SCRUM methodology and
+Waterfall model,
+
+ROFESSIONAL EXPERIENCE
+
+Dotnet Developer 1
+ABC Corporation - February 2014 - April 2015
+
+Key Deliverables:
+
++ Involved in developing ASP.NET application using MVC 8 design pattem,
+
++ Developed the application using Ci, ASP.Net, and savaSeript with SQL Server as
+the bak ene,
+
++ Created and used Stored Procedures, Views, Joins, Triggers and indexes in SQL
+Sener,
+
++ Defined end points. contracts, configured bindings while ereating WCF services,
+
++ Responisble for Building a room scheduling website for a college, it allows clients
+from outside (o request for rooms in the college far their events and also allows
+scheduling courses going on campus.
+
++ Developed this website In, ASP.NET and used error logging techniques to capture
+exceptions and handle i
+
++ Actively Invalved in gathering and analyzing requirements.
+
+Dotnet Developer
+Delta Corporation - 2010 - 2014
+
+Key Deliverables:
+
++ Humana provides health Insurance plans and products for individual using the
+Human One application,
+
++ Human One application is a web based application mainly deals with the
+generation of the reports, product sell and Data process for the end users
+Responsibilities Involved in Malnitenance / Enhancements of the application
+Which includes developing the new reports
+
++ Involved in application development using Visual Ct, ASP.NET 3.5 / Microsoft
+Enterprise Pattems and Practices Framework/ SQL Database. LINQ, WCF,
+
++ Used JSON Serlalize in data contract of WCF to generate the data inJSON formal.
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yaee Resume Template the copy of Quine com, Usage Guleinne

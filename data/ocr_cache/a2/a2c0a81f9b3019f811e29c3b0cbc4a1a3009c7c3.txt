@@ -1,0 +1,60 @@
+ROBERT SMITH
+
+Sr. ETL Developer
+
+Info@quikresume.com | https://Qwikresume.com
+
+Over 8 years of experience in the IT industry with a strong background in software
+development and 7+ years of experience in Development, Architecture and
+Testing Business Intelligence solutions in data warehouse and decision support
+systems using ETL tool Informatica Powercenter [] and Power Exchange (PWX) and
+also some knowledge on DT Studio. Knowledge of IDO and IDE. Good experience
+in shell scripts for Informatica pre & post session operations,
+
+SEPTEMBER 2007 - OCTOBER 2008
+SR. ETL DEVELOPER - ABC CORPORATION
+
++ Responsibilities interacted with business representatives for requirement.
+analysis and to define business and functional specifications
+
++ Delivered responsbilities as Analyst and Programmer including Interaction with
+Business Uses to Gathering requirements, Created Technical Specifications,
+Design, Development and Maintenance.
+
++ Analyzed source data, extracted, transfarmed, and loaded data In to target data
+warehouse based on the requirement specification using Informatica
+Powercenter.
+
++ Developed data Mappings between source and target systems using Mapping
+Designer.
+
++ Involved in complete SDLC including analysis design, development,
+Implementation, 04 and maintenance of various software applications
+
++ Worked with various heterogeneous sources such as Oraclel0g, Teradata and
+Flat Files to load the data inte the target Oracle data warehouse.
+
++ Developed complex Informatica mappings using Filter, Sorter, Aggregator, Look
+Up, stored procedure, Joiner, Router transformations for populating target table
+
+2005 - 2007
+ETL DEVELOPER - ABC CORPORATION
+
++ 03/2011 to 062012 Summary SEW Infrastructure Lid,, has diversified into
+construction like lined irigation canal, dams etc.
+
++ has implemented Oracle ebusiness solutions.
+
++ They were maintaining their financial data in Tally over the years.
+
+* The project involved extracting the data from embedded database and loading
+It into Oracle eBusiness suite.
+
++ Roles & Responsibilities Complex Business Rules are implemented to identity
+efor records Developing ETL transformations Writing Procedures, Functions
+and Queries as per requirement.
+
++ Customer interaction for requirement analysis for designing reports using SSRS
+Application development required by Customer for interfacing with scripts in
+
+(0 Tis Free Resume Template the copyright of Quine ane com, Usage Gublines

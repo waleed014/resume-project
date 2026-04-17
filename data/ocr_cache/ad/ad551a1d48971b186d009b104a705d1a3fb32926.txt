@@ -1,0 +1,46 @@
+Emait samantha.smith@emailcom | Phone No: +223948 420 | Location: Harrisburg, PA, USA | Linkedin: /samanthasmith
+
+Samantha Smith
+
+Senior Data Scientist
+
+Profile:
+
+Hard-working and experienced Data Scientist with 8+ years” experience. Confident in transforming large
+amounts of complex data sets into actionable solutions using statistical learning algorithms and machine
+learning technologies. Extensive experience in data mining, Python, Java, and R. Results-oriented quick learner
+with strong problem solving, analytical, and programming skills. Accomplishments include development of
+end-to-end machine learning prototypes which increased efficiency by 34% and application of data mining to
+analyze processes which reduced companys expenses by 73% ($560 000 a year).
+
+Work Experience:
+
+SENIOR DATA SCIENTIST AT DELL TECHNOLOGIES
+Harrisburg, PA May 2017 - Present
+
+Implementation of a deep learning model to accurately predict future costs and expenses
+Using JAVA to design and architecture a machine learning platform
+
++ Maintaining tracking information within the company” s management system
+
++ Confirming resolution of data quality issues with CRO
+
++ Leading a team of 8 junior data scientists and mentoring them during training
+
+DATA SCIENTIST AT PWC
+Harrisburg, PA Oct. 2015 - Apr. 2017
+Improved mining processes by 38%
+
++ Predicted future sales of new products with a 98% accuracy rate using machine learning platforms
++ Modernized data streamlining processes which reduced redundancy by 15%
+
+Software Skills:
+
++ Python, PyTouch, R + MATLAB
++ SQL, NoSQL + Minitab
++ AutoCAD + Excel
++ JAVA + Arena
+Education:
+
+BA COMPUTER SCIENCE
+University of Philadelphia, PA Sep. 2011 - Jul. 2015

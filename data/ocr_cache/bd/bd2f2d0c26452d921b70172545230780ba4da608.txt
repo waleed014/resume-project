@@ -1,0 +1,100 @@
+Robert Smith
+
+Senior Sql Developer
+
+PERSONAL STATEMENT
+8 Years of Professional experience in Data Design, Development MS
+SQLBI Server [] R2/2012 database developer, design, creation,
+Maintenance and implementation of project requirements for Data
+Madeling Data Management. Hands experience installing, configuring,
+aniaging, upgrading migrating, monitoring troubleshosting SOL Server {1
+FO.
+
+WORK EXPERIENCE
+
+Senior Sql Developer
+United Health Group - June 2014 - 2020
+Responsibilties:
+
+* Roles Samp; Responsibilities Actively participated Interactions with
+Users, tearn lead, DBAS technical manager fully understand
+requirements system,
+
++ Migrated DB2 database and properties to Microsoft SQL Server 2008 2.
+
++ Included converts ealurmns, definitions-data types, default values, NOT
+NULL constraints, Identity properties by using SQL Server Integration
+Services,
+
++ Extracted data from DB2 tables to capture all changes made underlying
+Db? tables,
+
++ Created an incremental loading solution of DB? tables into SQL Server
+Database using SSIS.
+
++ Loaded of tables from 082 to SOL Server performed every night across
+‘multiple systems.
+
++ Used Sub queries, joins, CTEs and Analytical functions for data retrieval
+
+Senior Sqi Developer
+Delta Corporation - 2013-2014
+Responsibibties:
+
+Roles Garp; Responsibilities Integrated SQL Server 2008 R2 reporting
+‘services with MOSS (Microsoft Office Share Point Server) to
+‘automatically deliver reports to the Share Point portal
+
++ Defined relationship between tables and enforcing entity referential
+Integrity
+
++ Involved in Performance Tuning of Code using execution plan and SQL
+profiler and added Indexes to improve perforrnance on tables.
+
++ Capturing error data in flat fle using flat fle destination, sending the
+error data in flat file attached to the corresponding mail Ids using Sent
+Mall Task, and eatrecting error data,
+
++ Designed and developed efficient SSIS packages for processing fact and
+dimension tables using transformations ike Fuzzy lookup, lookup,
+merge, merge join, script component and Slowly changing dimension
+Configured Server for sending automatic mails to the respective people
+when a SSIS process failure or success,
+
++ extracted large volumes of data from various data sources and loaded
+the data into target data sources by performing different kinds of
+(2 Ths Ema Resume Temolate the conynght ot Qukesurne cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+Infow@awikresure,com
+wwqwikresume.com
+
+‘SKILLS
+‘Transact-SQL, Microsoft
+SSIS, Microsoft SSAS,
+Microsoft SSM,
+Microsoft SSRS, Microsoft
+SQL Server, Oracle,
+PUSQL, Stored
+Procedures And Tigers,
+Data Warehousing Tools,
+MS Access.
+
+LANGUAGES
+
+English (Netive)
+French (Frofessional)
+Spanish (Professional)
+
+climbing
+Snowboarding
+Coking
+Reading
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

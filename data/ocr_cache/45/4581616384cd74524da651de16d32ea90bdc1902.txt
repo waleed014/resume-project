@@ -1,0 +1,221 @@
+SUMMARY
+
+EDUCATON AND
+TRAINING
+
+Jessica Claire
+
+(© roo Monigomeny St 10m Foor (88) 492-1000 4 resumesample@exanple com
+
+PROFILE SUMMARY SOL Developer wh S+ years of hands-on experience in even database
+appacabons and 6 processes and iomaton tens
+
++ Wiorkea win Aare Oala Late tore to capte + MS Acess Database, PUSAL, SOL Stored
+‘aiaot any sue, ype anaingestonspeesin Procedures, Table Scalar Funcons, asec T
+‘one singe lace fr tere operations SOL Quenes, SL SSI pasages, SAS
+
++ Canvate enten quenes ang nance Cubes, EXPLAN PLAN, SOL
+prtomance sues win ease + TRACE
+
++ Bpenencein desing ata wn + Operating Systems vindows 10879, Lins
+‘omension and at modeting 1 ETL Too: SOL sener business development
+
++ Spenenceinexracing aaa tom dsr stude (805). OTS. SOL sere Wanagenent
+sources ‘Stu (SSS), SOL sever tegration serves
+
++ Proncentininplementng at vansomatons (SS), Atte Data Fact Dtareks
+‘vata one SSS totoe 1+ Anat an epotng sence: SERS, SSAS,
+
++ Bent owe of wing varabes and eros Power 8S Exe
+‘expressions pactapes + Quering Reporing T-SaL Postgres
+
++ Speienceain creating aster and ta Mongeo8, azure SOL
+pacrages, paciape consguratons anélogging. + SOL server Tos: SOL Serer management
+
++ Bpenenceain Ss package Asin Stud, Database engine, mpc and export
+
+‘+ periencedin 8 pactage deployment and waard
+seneauing 1+ Data todeing Tos Merson Vso
+
++ Good t SOL Senoma Design Oaabase «+a Medeng: Star Scnera Medetng, FACT
+Serena Design Stores procedures, tuncbon mension Tats, Psa ana geal Data
+ant sal edeing
+
++ Great Ayo prototype visuatatons, + Aecntectre:Reatonal OMS, Caeser
+‘scorecards, KPI using Pover 8 senteture,OUTP LAP
+
++ SeuisacrieR + Version Contot I, SV. TS, JRA
+
+Conarens Place | Baton Rouge, LA
+
++ impo ata tom aterent sata source to crate Powe legos ana aasneears
+
++ mives in creating oyramie we-rganaed accurate ana insight Pore Breporscastooads to
+‘support sate decisions
+
++ Wires on endo project Azure Enna by pllg te source dala tom SOL Sener an
+‘onng the alan Are SOL Server using 8d Storage and creating repr us Per BI Deep
+
++ pete in data ansornatons such as aan clea cous, manage relatos, create
+‘Sterent measues remove rows, replace vale, spi column, ate & Tene Cota, ee
+
++ Cresta aterent ep n Power tDestop and pun fo Pover Berne
+
+1 Svengknowedpe SOL Sener and SSS, SSAS, SERS experience dala vsuatalens and epet
+evelopment wn Paver 6.
+
++ Wiorte on Azure Data Factor, Azure Ota Lake Aare SL Data Varehous, Azure Functns,
+Dates
+
+‘irked onto on-premise an Ate St
+
+irked on Data Migration om On premise to Azure Cloud sing ADF
+
+Esperse ning compe OAX cons n Powe tan Power Pact
+
+‘Aulomated Power Quer retesn ung pover sel sept and wedors as cnesuer
+
+Used varius sources to pul aa into Power Bsucn as SOL Serer SAP BW, Oracle, SOL Ane ee
+
+Wiorke on prtermance turing and query eptmzaon
+
+tang complex Sat queries sng os, paras, et operators, window tno.
+
+ano-on experience narayang data en ge datasets
+
+Etesieerperence mn Dnensionl data mageling incuang complex ent elabonstips and istncal
+
+‘plementation of ata lansing ad data quay features ETL pipetnes
+
+ference n documenting low evel ETL designs
+
+mpementaton of ata stearngsaluons
+
+‘irked on Pover 8 desttop and pore B sence to pbs ne reports
+
+Servicettan | tendate, AZ
+
+1+ creates ETL metaata reports using SSRS, reports nude ke execaton mes Torte SSI packages.
+Feature repos wih or desergton
+
++ Design an deep SSIS packages sae proceutes,contguaton tes, abies, es, an uncon
+‘plement best races lo mantanopialpecomance
+
++ Usea arent Control lw Tasks and Daa fow Task or Creatng SS Pacages
+
+1 Uses aterent pes of Teanstoratons or Data Conversion Soring and deaning he ota rom
+_tefent Sources nto Company Feat
+
++ Cresta Sis packages to donno oa fom FTP tes and poping io erent tases ana
+
++ Creates Sis packages to pon caa tom MS Acess, Exel SOL 200882
+
+1 ptmaes he query perfomance win modcatonn SOL ques, removing unecessary coinns
+‘exmnaing redundant ana inconsttet data
+
++ Erect rated and use views m SOL Sener to prevent unaunoreed acess
+
++ Pertormes tuning of aatatases by nomakang dalaase, estabasning necessary ons creating Use
+
++ Developed ad created ne new database objets cut lables, ews ndees, soe procedures
+‘and meters, aovances ques ad aso updated Sates using Query nar
+
++ Ghecke ne nea of he SAL Server
+
+1 created Stored Procedures, tigers, cursors, tables, views, packages and oer wot SQL ons and
+‘Sates or appicabons by us SOL.
+
++ Developed and moat tages packapes, views functons ad tore procedures fo data
+‘conversion, Osa ing and SOL procedures a cealedaabase cet namical based on user
+inputs
+
+1+ Creates ata mapping document for ETL process (55)
+
+‘+ Wiorke on wri nent upsate and dete quenes rng multiple tates o make cangesin te
+‘agi ales
+
++ Maya na para varus Orc verons ana panes
+
+‘tae Power Guerin Power Bo Pt and Un-pet ne data mode fo dt ceasing and ta
+‘massaging
+
++ ese ane create varus forms for ance team sles team ana account managers wh
+
+Implementing tne busness ogi
++ Wik on conpies data eaig (mpementes he Baten data cleansing and daa eadng
+\JE3IOR SaL DEVELOPER (0472017 10 082019
+
+symaieate Bank | Ci, STATE
+
++ tmees in Planing, Desig and Desgng al, based on besmess equrements and proves
+
++ Wiorkes tn Gusness nays n gathering equrements and wanting theo techni!
+specteatons
+
++ Developed Sora Proceaues, User Detned Functons. ews SQL Serpng fr compen buses
+tege
+
++ Optmaes he astabase by creat vauseslered non cstered nets ana indene ews Source
+onot ana ekg stems
+
++ ncrease he perfomance necessary fo sastalreperng ater perfomance mononng ting and
+‘opting eres
+
++ Useauins, CTE, coeltes and non-conelated su-queneso complex business queries invting
+mpl tates fo ferent datatases and mplmented goes and StoredProcedure and enforces
+
+1+ Wiorkes a a developer on databases ike MS SOL Server 205, MS Access
+
+1 Teseatooptimas ne Stored Proceaures and Tigger to be usedn proton
+
+‘anne ne cent ettonsip by cmmmuricating te day statuses ana wey statuses of ne
+project
+
++ Bese and plemented he Log! and Physical mode ote database using Erin
+
+creates Database ects - Tables ngeres, Views, User dened unctons, Cursors, Taggers, Sores
+Procedure, Constants ana Roles
+
+‘Wire in Enerpse Manager for job scnedung ane bat queries
+
+1 nsate and mariainea US SOL Server 2005:
+
+{Monto perlomance an opted SOL quees for max eficency
+
+1 erates trge wines of dala om vans ta sources ana onde the aaa age ata sources
+by petoming vanes kaso vanstrmatens using SOL. Sener negation senes (SSS)
+
++ Chests Sis packages for Uploading ot rent oma of es (Excel, Aces) ana databases (SOL
+‘server, Flat es) he SOL Serve ala arenouseushg SSS
+
+Masters |Eninerng
+CConeoraia University, Montreal
+
+Be helor of Teennology
+Cts University
+
++ perience in developing SIs packages for data maton betven ferent heterogeneous sources
+‘suchas fa heel, race, Stas DB. MS acess using SOL Serve SS'S 2000200872008
+220122016 Developed and mainianed Sis packages fo negate win fret ype of sources
+such 38 SOL Servers, Grae fat les and on Sat sources Good Knowedge of Nomalzaton,
+Perfomance Tunng, Development Le yce source conta tekehng syst and version Cont
+toa ute Design and Devepmento ata varenouse. Developed and maniane ables, ness,
+‘ore procures, views tiger ang ter ejects utang ne test ONL and OO stax Worked
+‘on ater ct scp to Auomate SSS pactapes to oad te dla ect tote sapng database
+‘Centgued CneckPons Break pons Event andes and Loggng othe Sis packages. Tgp
+'ssves an mplementig ston restore Sere wi minal dsrpton tothe customer and
+business Song experience nBuang pipelines Azure Dla Factory Song epernce wih Acie
+Data Lake Cesta new ETL packages 1 alate. ental, anor and 03 Stain ta
+vatenousedataness, dala mart databases using SSIS pactages Data Mapping Shs, ta Mabon
+Teennques Data ning Data hanang,Schedung and antang ETL Framevod for aren!
+processes. Song krevedpe cf ata Varenousin metodoiogles and concep. cng star
+‘Schemas, snowflakes, ETL processes, mensional modeing nd repring teas. Epertsenwenng
+‘onal aces relate tone development. plementation, anisraon an support ef ET
+processes forages Ota Warehouses using Data Transformation Services (OTS) and SSIS
+‘Song aay deta query for generating a oun repos, Ranaing praretered reps and
+_reatng syst report layous in SSRS. Designed ang developed reports ung SSRS, Power Bt
+Developed OLTP sytem (sana inated in creating fats, mensions. and Star Sener
+representation fre cata mart Experience n Ade eps, data dren svbsrpton reports by
+using Report Buder Experience n developing Dasoard Report, Paraneerued Reports nked
+report, Sub repos by Regon, Year, Quarter, Mont ang Week ered on ceatng fae D3
+Facer for mowing an ranstormng ne data

@@ -1,0 +1,63 @@
+ROBERT SMITH
+Oracle PL/SQL Developer
+
+Phone: (0123}-456-789 | Email: infodquikresume.com | Website: Quikrestme.com,
+
+Oracle PL/SQL Developer with 7+ years of experience on various phases of SDLC such
+‘as Project Requirement Study, high-level design, low-level design, Coding, Testing,
+‘Quality assurance Documentation, Implementation and Project Planning, Expertise in
+data modeling for large data warehouses supporting business intelligence applications
+(OLAP) and also online transaction processing systems (OLTP,
+
+[CORE COMPETENCIES
+
+‘Oracle, MS SQL Server, IBM DB2 UDB 8.0/7.0. Environment Windows XP, Red Hat
+Linux, Unix, Sun Solaris. Programming Languages PL/SQL, SOL. TSQL
+
+ROFESSIONAL EXPERIENCE
+
+Oracle PL/SQL Developer
+Hp Infosystem, Llc - March 2010 - September 2018
+
+Key Deliverables:
+
+Responsible for gathering requirements {rom users for reports development and
+interface program customizations and in analyzing the business process.
+Created and nutintained Oracle databage objéets like tables, view
+Mews, indexes, constraints, sequence, synonyms and database link using SOL
+Created numerous complex queries involving joins, cormlited sub-queries diverse
+business requitements.
+
+Partitioned tables by determining the suitable methodology to Improve
+performance and manageability
+
+Planned, designed, and implemented the appligation database code objects, such
+as stored procedures and views, Indexes,
+
+Worked on advanced PL/SQL constructs like Oracle-supplied packages; nested
+lubles, varrays, records, types. dynamie SQL and analytical functions.
+
+Created temporary tables, packayes and procedures using SQL developer,
+
+5. materialized
+
+Oracle PL/SQL Developer
+ABC Corp - 2006 - 2013
+
+Key Deliverables:
+
+Conducted PL/SQL development ta solve business problem
+‘Worked with various Informatica Power Center transformations like connected
+Samp; unconnected lookups, router, expressions, aggregators, filters, sequence
+generator. joiner ete. and developed complex business ogi
+
+Developed many workilow sessions, monitored the workflow runs and debugged if
+any errors.
+
+Created and maintained Oracle database objects like tables, views, materialized
+stews, tndexe:
+
+‘consivaints, sequence, synonyms and database Link using SQL.
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yaee Resume Template the copy of Quine com, Usage Guleinne

@@ -1,0 +1,40 @@
+Rhett Nicolas
+
+747 Kunde Alley, New York, NY
+
+ay Mobile phone:
++1(555) 895 0762
+
+(D EXPERIENCE
+
+Lead Etl Developer — Renner, Kub and DuBuque, Boston, MA 07/2020 — Present
+
+¢ Design, develop, modify, adapt, and implement short- and long-term solutions through new and existing applications,
+
+systems architecture, and applications infrastructure
+¢ Direct and lead development teams in the areas of scheduling, technical direction, future planning, and standard
+
+development practices
+
+Database / ETL Developer — King-Watsica, Boston, MA 06/2014 — 02/2020
+
+¢ Strong organizational, multi-tasking, and coordination skills are essential
+
+¢ Strong BODS Tech design and development expertise
+e Experience with multiple end to end large Data Conversion Projects using BODS to convert data from Non-SAP to SAP or
+
+vice versa
+
+Ti EDUCATION
+
+Pratt Institute — Bachelor's in Computer Science
+
+@ SKILLS
+
+e Experience with Jitterbit or similar ETL software
+
+e Experience with coding languages including JavaScript and SQL
+
+¢ Experience with various data formats, including XML/SOAP, JSON, and CSV
+
+e Experience with multiple data connections, including ODBC, web services, APIs, and WSDLs

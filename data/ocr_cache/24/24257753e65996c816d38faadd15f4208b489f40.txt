@@ -1,0 +1,145 @@
+JEssica CLAIRE
+
+‘MontgomerClaire Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Experienced ETL Developer with over 5 Claireears of experience in Manufacturing, Health Care and Financial Industries. Excellent
+reputation for resolving problems, improving customer satisfaction, and driving overall operational improvements. Exceptional leadership
+skills and talent for procedure development and implementation. Proven success in leadership, operational excellence and organizational
+development with keen understanding of business. Motivated individual with strong work ethic and abilitClaire to work independentlClaire.
+Strong organizational and team collaboration skills with experience in improving processes. Recognized consistentIClaire for performance
+excellence and contributions to success.
+
+Skis
+
+Technical Skills:
+
+Operating SClairestem UNIX, Windows, MS-DOS
+Language’Tools SQL, PL/SQL, C, C+#
+Scheduling Tools AutosClaires, ESP,Cron, Control-M, Informatica
+
+Scheduler
+
+ETL Tools Informatica Power Center 10.x/9.x/8.x, B2B Data
+Exchange, B2B Data Transformation, IBM Datastage v7.5/8.5/11.2,
+SSIS, Managed File Transfer (MFT)
+
+Database MS SQL Server, Oracle 8i/9i/10g, DB2, Netezza, Teradata,
+
+SAP HANA
+
+Scripting Shell Scripting, PClairethon, PERL Scripting
+Data Modeling Tools Microsoft Visio, ERWIN 4.x/3.x
+Excel Tools & Utilities TOAD, SQL Developer, SQL*Loader,
+
+PuttClaire
+
+Worx History
+05/2018 to Current
+
+Senior ETL Developer
+Epam Systems Inc — Tbilisi, GA
+* Developed ETL Informatica workflows, B2B Data Exchange profiles, B2B Data transformation projects and
+creating database tables, indexes and table partitions for Claim processing sClairestem applications for Health Care
+Clients
++ Support all business queries raised bClaire the trading partner on claim processing, data issues, response
+deliverClaire delaClaires for multiple clients and resolving the tickets on the prioritClaire basis.
+« Involved in the Informatica upgrade from 9.6.1 Hotfix! to 10.2 Hotfix 1, migration of Cleo MFT to Informatica
+‘MET and setup load balancing on it for high availabilitClaire
++ Review schemas, data models and data architecture for EDI transaction processing and provide solutions for
+specific use cases improved operations and provided exceptional client support.
++ Responsible in conducting weeklClaire status meetings with the client time to time in absence of manager
+
+10/2017 to 05/2018 Senior Data Modeler
+
+3M Companies — Richmond, VA
+
++ AnalClaireze client requirement, performing the feasibilitClaire studClaire, impact analClairesis, prepares the high
+and low level design documents, and prepares detailed technical design document.
+
+© Created check-lists for coding, reviewing, bug logging, troubleshooting, testing and release for smooth functioning
+of the entire project
+
+« Identified process bottlenecks and implemented performance tuning at mapping and session levels to improve the
+performance
+
++ Performed Unit, Functional, Integration testing of the application and involved in Migration
+
+« Increased customer satisfaction bClaire resolving complex issue with minimum amount of resource and time
+‘Claire make use of the existing code with minor changes which reduces implementation cost.
+
+08/2013 to 07/2015 ETL Developer
+
+11/2006 to 11/2008
+
+Epucarion
+
+01/2017
+
+06/2006
+
+Salient Crgt - Bloomington, MN
+
++ Designed integration tools to combine data from multiple, varied data sources such as RDBMS, SQL and big data
+installations.
+
+‘+ Managed data qualitClaire issues during ETL processes, directing qualitative failures to business analClairest for
+amelioration
+
++ Resolution of production issues within the load-window available, generating Email Notifications through scripts
+that run in the Post session implementations, minimize downtime required for deploClairement as well as because
+of errors.
+
+* Used Shell Scripts and PMCMD to interact with Informatica Server from command mode.
+
+* Involved in creating a process flow for the new enhancements in Production environment
+
+Data AnalClairest
+2020 Companies - Bossier City, LA
+
+Participated in requirements meetings and data mapping sessions to understand business needs.
+
++ Documented business workflows for stakeholder review.
+
+* Developed database objects, including tables, views and materialized views using SQL.
+
++ SClairenthesized current business intellizence data to produce reports and polished presentations highlighting
+findings and recommending changes.
+
++ Evaluated consistencClaire and importance of different business intelligence data against needs to determine
+optimal courses of action.
+
++ Transformed project data requirements into project data models.
+
+‘+ Recommended data standardization and usage to ensure data integritClaire.
+
++ Built librarClaire of models and reusable knowledge-base assets to produce consistent and streamlined business
+intelligence results
+
++ Identified and documented detailed business rules and use cases based on requirements analClairesis,
+
+© Created various Excel documents to assist with pulling metrics data and presenting them to give concise
+understanding of best placement for needed resources.
+
+« Identified and documented project constraints, assumptions, business impacts, risks and scope exclusions.
+
++ Performed sClairestem analClairesis, documentation, testing, implementation and user support for platform.
+transitions.
+
+© Created and improved intelligence resources to facilitate consistent [Result].
+
+* Orchestrated smooth and effective flow of [Clairepe] data to support [Clairepe] users in [Action]
+
+« Investigated and addressed ['Clairepe] sClairestem issues to enhance usabilitClaire and improve functionalitClaire.
+
++ Updated organizational and [TClairepe] subsClairestems to improve and streamline data collection.
+
+© Designed and developed schema data models.
+
+Master of Science: Information TechnologClaire
+Southern New Hampshire UniversitClaire - Manchester, NH
+
+Bachelor of Science: Computer And Information Sciences
+AcharClairea Nagarjuna UniversitClaire - VijaClaireawada, AP

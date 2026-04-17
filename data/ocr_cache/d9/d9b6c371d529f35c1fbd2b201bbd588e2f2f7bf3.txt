@@ -1,0 +1,142 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
+RDBMS: Oracle 9i, 10g, 11.5g, SQL
+Server 2000/6.5
+
+Web Tools: HTML, CSS,
+JAVASCRIPT
+
+Languages: SQL, T-SQL, C
+Operating Systems: Windows
+Family (XP/2000/2003/2008)
+‘Automation Anywhere: RPA.
+Developer
+
+Cloud Technology: Knowledge on
+Salesforce
+
+EDUCATION
+
+‘Aurora Scientific Research
+Technologies Academy
+Hyderabad + 04/2012
+
+Associate of Science: Information
+Technology
+
+Indiana Wesleyan University
+Marion, IN + 01/2020
+
+GED
+
+CERTIFICATIONS
+
+Automation Anywhere Certified
+‘Advanced RPA Professional (42019)
+
+PROFESSIONAL SUMMARY
+
+| believe that your organization will provide me the opportunities to further develop the necessary
+skills needed for tomorrow's environment in the industry.
+
+WORK HISTORY
+
+Deloitte - RPA Developer
+Bristol, TN + 11/2015 - 12/2019
+
+Got insights on how to deploy a work flow from Automation Anywhere.
+
+*Used the Automation Anywhere Object Recorder to manage and execute Windows controls as a
+background process and automated routine backups and file management tasks.
+
++Extensively used commands like Keystrokes, Mouse clicks, Open program/files, Files/Folders,
+Window actions, Log to File, Loops, System, Delay and Interactive.
+
+*Developed robotic bots using Automation Anywhere to automate manual, repetitive, rule based and
+high-volume processes.
+
++Hands-on experience on RPA Excel sheet options and String Operations.Used Oracle and DB2
+connections to retrieve data from DB using RPA.
+
+*Developed new processes/tasks/objects using core workflow principles that are efficient, well
+structured, maintainable and easy to understand.
+
+«Prioritized the strategic and tactical roll-out of the RPA solution to clients by creating and
+documenting test procedures and scenarios for the pre-UAT phases and supporting the Operational
+‘Teams during the UAT and rollout phases.
+
+s Involved in Desktop Application Integration Automation like Excel, MS Word, Notepad and PDF.
+*Worked on advanced Automation Anywhere technology for Web services which has reduced the
+overall development and maintenance by 50%.
+
++Extensive experience in writing complex stored Procedures, Triggers, Functions, Views, Indexes and
+Joins on SQL Server and Oracle.
+
++Extensively used CSS and Java Script to create visually appealing User Interfaces.
+
+«Effectively used String Commands, Excel Commands, PDF Operations, MetaBots, Decision Rules,
+Loops, and Variable Operations for performing various functions.
+
+*Created regular Bots that run on the specified times to export all the bank transactions and keeps
+track on the transactional information.
+
+“Using Back end tools such as SQL Plus in Oracle 9.
+
+Collaborates with test teams during product test and UAT phases to fully resolve assigned bugs/
+issues.
+
+*Created Automation Anywhere new objects and processes using work flows and work queues that are
+efficient, maintainable and well structured.
+
+*Use the Automation Anywhere Object Recorder to manage and execute windows controls as a
+background process.
+
+Implemented various underlying technologies used in RPA such as Artificial Intelligence, Cognitive
+‘Computing, Machine Learning, Pattern Matching, Analytics etc.
+
+‘Ohsu - SOL Developer Intern
+Eugene, OR + 02/2014 - 10/2015
+
+Extracted and collected data to create the reports.
+
+Design and maintain SQL Scripts
+
+Validated Accuracy data to ensure database integrity
+
+Created and optimized diverse SQL quires
+
+Generate reports and Spreadsheets detailing database changes and performance.
+
+Predicine, Inc. - Counselor
+Invine, CA + 09/2012 - 01/2014
+
++ Counsel students regarding educational issues such as course and program selection, class
+scheduling, school adjustment, truancy, study habits, and career planning.
+
++ Counsel individuals to help them understand and overcome personal, social, or behavioral problems
+affecting their educational or vocational situations.
+
++ Prepare students for later educational experiences by encouraging them to explore learning
+opportunities and to persevere with challenging tasks.
+
++ My role was to maintain the office in all aspects. Like, Accounts Management, Account Maintains,
+Faculty attendances, Student regularity maintains and checking, issues management between staff
+and management as well as faculties and students. Responsible for printing of office stationeries,
+including envelopes, letterhead, name cards. And explaining about the courses to the students.
+
+Creations Softlogies Pvt Ltd - Software Programmer.
+City, STATE « 04/2012 - 08/2012
+
++ Worked in ITT industry as a Software Programmer. My role was to develop E-pub Application using
+Scripting languages like HTML, CSS.
+
+Involved in writing, coding, testing, and analyzing software programs and applications.

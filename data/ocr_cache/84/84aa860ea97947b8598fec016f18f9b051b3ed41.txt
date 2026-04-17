@@ -1,0 +1,45 @@
+React JS Java Resume
+sample
+
+SKILLS
+
+° Core Java, Python, C++, React JS, JavaScript, HTML, CSS
+
+e Redux, Flux, Webpack, Grunt, ReactIDE, JSK, ECMA 6, Immutable
+¢ SQL, MongoDB, MySQL, Redis, PostgreSQL, Oracle DB
+
+¢ Windows, Linux, macOs, iOS, Android, Chrome OSs, Ubuntu
+
+¢ Apache Tomcat, MS IIS, Nginx Web, Apache HTTPS, NodeJS
+
+e¢ AWS, Google Cloud, Azure, Web Hosting, Restful API
+
+¢ JSON, HTTPS, Git, GitHub, JSX, TypeScript, NPM
+
+¢ Testing, debugging, deployment, monitoring
+
+EXPERIENCE
+
+e More than 4 years of experience in building back-end applications in a
+Java environmene
+
+° Over 3 years of experience in front-end web interface development in
+React JS environment
+
+© Over 2 years of experience in integrating web interfaces with the Java-
+based back-end application
+
+e 3 years of experience in designing and developing an end-to-end
+solution in Java and React JS
+
+e 3 years of experience in the development and deployment of restful APIs
+in a complex system
+
+° 3 years of experience in deploying, troubleshooting, and monitoring
+complex web solutions
+
+EDUCATION
+
+¢ Masters’ degree in Computer Science
+
+© ReactResumes.com

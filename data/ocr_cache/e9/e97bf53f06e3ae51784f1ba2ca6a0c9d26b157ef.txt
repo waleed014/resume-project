@@ -1,0 +1,182 @@
+JEssica CLAIRE
+
+Montgomery Steet, San Francisco, CA 94105 # (555) 432-1000 # resumesample@example com
+
+PROFESSIONAL SUMMARY
+‘Seven years of experience in analysis, design, implementation and administration of BI using Microsoft SQL server 2012/2008)/2005/2000 in
+development, testing & production. Expert in writing T-SQL, working on DTS, SSIS, SSRS, Data Cleansing, Data Scrubbing and Data Migration.
+Developed Custom Reports and different types of Tabular Reports, Matrix Reports, Adhoc Reports and distributed Reports in multiple formats using
+SQL Server Reporting Services (SSRS) in Business intelligence development studio (BIDS). Proficient building end to end data integration and
+‘workflow solutions from input source extraction, apply various transformations and data load. Database development experience with Microsoft
+SQL Server in OLTP/OLAP environments using integration services (SSIS) for ETL (Extraction, Transformation and Loading). Database
+‘Administrative skis including, backups, ecovery and database maintenance. Involved in optimization of data models using Ralph Kimball's
+‘dimensional and Bill Innmon E-R models. Experience in DTS packages migration and creating complex SSIS for ETL purposes including data
+‘migration, data extraction/ transformation loading (ETL). Data flows using SSIS, creating mappings! workflows to extract data fiom Oracle, SQL
+Server, MS Access, Excel and Flat File sources, legacy systems and load into various Business Entities, Involved in writing complex queries, stored
+‘procedures, batch scripts, triggers, functions, joins and views using T-SQL Performance tuning of stored procedures, cascading operations, large T-
+SQL queries using indexes and efficient coding standards. Developed cubes, SCD and Hierarchies for analysts and executive Dathboards using
+Charts and Graphs. Developed business applications with VB 6 and Object-Oriented Software Languages VB.NET Creating and managing users,
+soles and assigning necessary permissions for SQL Server security. Handling dead locks, scheduling and maintaining the jobs and automatic e-mail
+notifications. Complete understanding of software development life cycle (SDLC) including requirement analysis, equirement gathering, design,
+<development, implementation and testing and deployment experience. Sound knowledge of SQL server administrative skills including, backups,
+<isaster recovery, database maintenance, user authorizations and database creation.
+
+SKILLS
+
++ Operating System Windows XP/7/8/10; Windows Server
+2005/2008/2012; Red Hat and CentOS
+
+‘+ Languages T-SQL, PL/SQL, Visual Basic 6, NET
+
+‘+ RDBMS MS SQL Server 2008/2012/2014, MS Access 2013/2016,
+Oracle i/10g/11g, MySQL
+
+‘= ETL Tools SSDT, BIDS, DTS, Import Export wizard
+
+++ Reporting Tools SQL Server Reporting Tools (SSRS), Crystal
+Reports, MS Excel
+
++ Source Control Tools Visual Source Safe (2005), Team Foundation
+Server (2008/2010)
+
+‘+ Data modeling Tools Microsoft Visio 5.0, ER-Win v 4.0
+
+++ Testing Tools QTP 10, Quality Center 10, TFS for bug tacking
+
+‘+ Others Agile, SCRUM, IS,LINQ
+
+‘Work History
+Data Migration/ETL Developer, 04/2016 - 10/2016
+GRM- City, STATE,
+‘+ GRMis a leading provider of information management solutions that provides data protection, imaging, certified destruction, film storage, hard
+copy, and more.
+‘+ Convert and migrate customer legacy databases using SQL Server 2014 tools (SSIS)
+* Work with various source data formats such as Oracle, SQL Server, MS Access, MS Excel, and ASCII text files to extract relevant data and
+migrate to GRM's ECM Enterprise Content Management) application.
+‘+ Migrate clients image data with 2 vendor-neutral archive (VNA) which isan enterprise-class data management
++» system that consolidates primarily medical image data from multiple imaging departments into a master directory and corresponding
+consolidated storage solution.
+‘+ Provide technical documentation of the data migration project for different clients
+‘+ Design and implement a table partitioning on a very large databases (VLD) in order to maximize scale and performance of VLDBSs and tuned
+smiuch more granvlarly than smaller databases
+‘+ Develop SSIS packages with VB logic in SSIS Script task to customize for data formatting purpose.
+‘+ Tools and Technologies: SQL Server 2014 Enterprise Edition, SSIS, T-SQL, Windows Server 2008/22012, GRM ECM application
+
+SQLISSIS/SSRS Developer, 09/2015 - 03/2016
+‘Novedea Systems ~ City, STATE
+
+‘+ Novedea Systems isa business intelligence consulting firm helping organizations achieve superior performance by realizing the business
+potential of BI technology.
+
+‘+ Extract Data from various locations such as Excel and flat files to SQL server 2008 SSIS.
+
+‘+ Perform data extraction, transformation and loading (ETL) between systems using SQL. tools such as SSIS.
+
++= Create database objects like Views, Stored Procedures and SQLCLR for hosting of the Microsoft NET common language run-time engine
+within SQL Server.
+
+‘+ Create parameterized reports forthe users and clients, with dil-down, drill-hrough features.
+
+‘+ Develop SQL Queries and Stored Procedures to fetch data from different tables in remote databases using Joins.
+
+‘+ Expertise in SQL Server Reporting Services (SSRS), Created Tabular, Matrix, Drill Down, Bar Chart, Pie Chart reports to analyze critical data
+in SSRS.
+
+‘= Database development experience with Microsoft SQL Server in OLTP/OLAP environments using integration services (SSIS) for ETL
+(Extraction, Transformation and Loading),
+
+++ Database Administrative skills including, backup, recovery, database maintenance.
+
+‘+ Define the report layout and identified datasets for the report generation.
+
+‘+ Develop reports using complex T-SQL queries, user defined functions, stored procedures and views.
+
+«+ Involved in creating sub reports on dashboard, linked reports, chars, snapshot reports, dil through, and report models dill down reports using
+acube,
+
+‘+ Design reports using table filters, single value parameters, multi value parameters, Dynamic, dependent parameters and cascading parameters,
+
+‘+ Work with different control flow tasks in creating SSIS packages.
+
++ Tools and Technologies
+
+SQL Server SSMS\SSIS'SSRS Developer, 07/2012 - 05/2015
+‘Lion International Bank
+
+‘Lion International Bank is commercial bank with more than 200 branches within Ethiopia with an 11-year history in giving different services
+in retail banking services.
+
+‘+ Gathering the requirements, Creation/review of Business, Functional requirement Documents for business systems, experience in database
+design process and data modeling process.
+
+++ Involved in designing Databases, Data Marts, E-R model for OLTP and Multi-Dimensional Model for OLAP.
+
+‘+ Work with various upstream and downstream systems and customers in interfacing various systems for data extractions, ETL, Analytics and
+Reporting needs.
+
+‘+ Involved in source data analysis, design and creation of data mappings for extraction of bulk data from heterogeneous sources like Oracle and
+other OLEDB data sources.
+
+‘+ Design and developed SSIS packages using various control flow and dataflow items to transform and load the data from various databases and
+into servers using SQL server integration services (SSIS).
+
++ Extract data from various sources like SQL server 2005/2008, Oracle, CSV, Excel and Text ile from client servers Create packages included a
+variety of transformations, Slowly Changing Dimensions, Look up, Aggregate, Derived Column, Conditional Split, Multicast and Data
+Conversion
+
+"+ Configure packages with checkpoints, package logging, eror logging and event handling to redirect error rows and fix the errors in SSIS,
+
+«+ Scheduling and maintaining SSIS packages and batch jobs thru SQL server agent on a day to day basis,
+
+‘+ Work on developing tables, indexes, views, creating complex stored procedures, triggers, functions
+
+‘+ Handle Performance Tuning and Optimization, with strong analytical and troubleshooting skills for quik issue resolution in large-scale
+‘production environments located globally,
+
+‘© Create complex ad-hoc reports, sub reports, linked reports, charts, drill through drilldown reports and created large numberof report models for
+Users to create their own reports.
+
+‘+ Design enterprise reports using SQL. server eporting services (SSRS) and excel pivot tables based on OLAP cubes which make use of multiple
+value section in parameters pick lit, cascading and dynamics reports.
+
+‘+ Deploy the solutions on web server, involved in creating user security and roles in reporting services at both parent level and report level
+
++ Tools and Technologies
+
+Database / SSRS Developer, 07/2008 - 06/2012
+‘Commercial Bank Of Ethiopia ~ City
+‘* Commercial Bank of Ethiopia (CBE) isa leading bank in Ethiopia which has bilateral arrangement with more than 700 International banks
+around the world,
+++ Design architecture ofa datacenter, logical & physical data modeling, and data dictionary mappings.
+‘+ Warehouse development starting from inception to implementation and ongoing support.
+‘+ Write various DB objects like user defined functions, views, instead of triggers, usage of indexes for accomplishing various tasks.
+‘Work on analyzing and performance tuning queries by looking atthe indexes, appropriate joins
+Statistics and execution plans using SQL profiler /query analyzer.
+Design packages with error handling and package logging that stores the logging results in SQL table and lo files.
+Create package configurations, event handlers for on error, on warning, on task failed event types.
+Involved in monitoring and troubleshooting complex packages by using data viewers, grids, debugging and maintenance of ETL packages and
+its optimization using SQL server best practices.
+Configue, install, and administer reporting services 2005.
+Create report email subscription using data driven and time driven report subscriptions.
+‘Work on dimensional data modeling using star and snowflake schemas for fact and dimension tables,
+Define data sources, data source views, dimensions, measures, hierarchies, tributes, calculations, KPT, perspectives and roles,
+Use team foundation server to store, run, view, edit and revert back to different versions of the design and development phases
+Create complex conceptual databace designs in SQL Server 2000/2005 using various constraints and wiggets.
+‘+ Implement complex business requirement in backend using efficient stored procedures and flexible functions, and facilitate easy implementation
+tothe frontend,
++ Compliance
+
+Bachelor of Science: Mathematics, 1980
+
+ADDIS ABABA UNIVERISTY - ADDIS ABABA,
+
+‘Mathematics
+
+Bachelor of Science: Mathematics, 1980
+
+Addis Ababa University - Addis Ababa
+
+Certification on Database Management System Implementing ORACLE's Financial Services Software (OFSS) Microsoft Certified Systems
+ificate on Business Process Re-engineering (BPR) Querying Microsoft SQL Server 2012/2014 (MCP): Relational
+
+‘Ethiopian Science & Technology Commission - Asdis Ababa

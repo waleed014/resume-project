@@ -1,0 +1,60 @@
+First Last
+
+React Developer
+
+Bismarck, North Dakota + +1-234-456-789 + professionalemail@resumeworded.com * linkedin.com/in/username
+
+WORK EXPERIENCE
+
+Resume Worded, New York, NY 09/2015 — Present
+Education technology startup with 50+ employees and $100m+ annual revenue
+
+React Developer
+
+e Decreased load times by 58% using isomorphic React and Node,js for 13 web applications one month after
+taking over the project.
+
+e Partnered with a team of 5 developers to create 14 e-commerce websites using React and NodeJS in the
+first month on the job.
+
+e Reduced the time spent on development by 73% by creating maintainable reusable components.
+
+e Created an interactive and user-friendly website experience by working with a team of 25 developers for
+one month.
+
+Polyhire, London, United Kingdom 10/2012 — 08/2015
+NYSE-listed recruitment and employer branding company
+
+Mobile Application Developer
+
+e Created a web service used by 200K clients and generates $100K monthly within 20 days after inception.
+
+e Devised a system to host mobile applications using Polyhire servers instead of remote, leading to cost
+savings of $940K per month.
+
+e Designed a video game idea for 2M children on Ubuntu-based PCs scaled for large TV displays across the
+country.
+
+Growthsi, London, United Kingdom 07/2010 — 09/2012
+Career training and membership SaaS with 150,000 paying users
+
+Mobile Developer
+
+e Launched a new mobile app, BMI First, that generated 100K downloads and was featured in Time Magazine
+as the “App of the Year.’
+Created a mobile game ‘SpaceX’ program that was downloaded 200K times and played by 15M people.
+Established Objective-C libraries & APIs, utilizing OOP and modeled data structures that can be used on 48
+different apps.
+
+UI Developer, ABC Company, London, United Kingdom 10/2008 — 06/2009
+Programmer, XYZ Company, London, United Kingdom 07/2005 — 09/2008
+EDUCATION
+
+Resume Worded University, New York, NY 06/2005
+
+Bachelor of Science — Computer Science
+
+SKILLS
+
+Hard Skills: SEO Integration (Advanced), Unit Testing (Experienced), TDD/BDD, UI Development, Debugging, Coding.
+Programming Languages: PHP, MySQL, MongoDB (Advanced), C++, Java, JSX, Angular, Sigma, DevOps, JUnit.

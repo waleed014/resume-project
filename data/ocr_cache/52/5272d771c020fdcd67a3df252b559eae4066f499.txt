@@ -1,0 +1,109 @@
+fii linkedin.c
+
+8 SUMMARY
+
+® Having 4+ years of experience in Testing and currently working as
+Associate test engineer in Info Sole Technologies since May , 2017 .
+
+¢ lam seeking a competitive and challenging environment where |
+can serve your organisation and establish a career for myself.
+
+| EXPERIENCE
+
+Test Engineer
+Practo Technologies Mar 2019 - Present
+
+© Working in an Agile scrum where in i am responsible for testing the
+new build. Basically running smoke & regression suite. Creating test
+case to cover the new feature testing.
+lam involved in portal testing & mobile application testing.
+Creating UI Automation script using selenium webdriver
+Creating automation script using RestAssured library for API testing.
+Responsible for sending consolidated weekly report.
+
+Associate Test Engineer
+Nicso Technologies May 2017 - Feb 2019
+© Working in an Agile scrum where ini am responsible for testing the
+new build. Basically running smoke & regression suite. Creating test
+case to cover the new feature testing.
+¢ |am involved in portal testing & mobile application testing.
+© Creating Ul Automation script using selenium webdriver
+
+a | PROJECTS
+
+Verified Out of box solution to provide Bio metric Identity
+feature to end user
+
+Test Engineer Oct 2017 - Present
+
+Module 1: Admin User
+
+As an Administrator user can perform all the Identity related sub-
+modules like CRUD operations for Customer, Creating customer
+Account, Creating Agent, Creating Agent User and View the transaction
+Report.
+
+e Study and analyse software requirements/specifications and create
+test cases (manual)
+
+© Perform Manual Functional/Regression testing as per test plans.
+
+e Perform test execution, defect analysis as necessary. Investigate
+data integrity issues, triage defects.
+
+¢ Involved in Agile process like, Daily Stand-up, Sprint Planning and
+Retrospective meetings.
+
+© Creating AP! automation script using PyTest framework - Python
+
+| 2 | SKILLS
+
+© Manual Testing Skills : Static , Ad-
+hoc , Black box, White box,
+Regression, Integration and System
+testing
+
+© Automation Testing : UI, API
+@ Python
+
+@ sQL
+
+© Defect Life Cycle
+
+@ STLC
+
+© PCB Design
+
+¢ Wireless Communication
+Embedded Systems
+
+|e | LANGUAGES
+
+English SBEaa8
+French SEB8
+Arabic Saa
+German eee
+
+|= | EDUCATION
+
+B.E.
+
+San Jose State University
+Aug 2012 - Jun 2016
+
+| hold a Bachelor of Engineering
+degree in Electronics &
+Communication with CGPA 8.81
+
+pe TOOLS &
+FRAMEWORKS
+
+PyCharm : UI Automation Testing
+using selenium webdriver
+
+PyTest : API Automation using
+Python
+
+JIRA : Defect Tracking Tool
+
+GIT HUB : Version Control

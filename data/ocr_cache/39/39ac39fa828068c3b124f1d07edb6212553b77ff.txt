@@ -1,0 +1,144 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor \2 (655) 492-1000 4 resumesample@example.com
+
+Performance driven and hard working Salesforce Lead Consultant with a proven track record of success in
+developing new business solutions , managing workflows and implementing new sales team development
+strategies. Certified Professional with a great communication and leadership skills and significant ability to
+work and to perform well in fast paced business environments. Adept at explaining highly complex data
+systems to a wide variety of audiences, Oversee delegated tasks and manage stakeholder expectations.
+
++ Salesforce Technologies Apex, Visual force, + Agile/Scrum Methodology , SAFe Agile
+SOQL, SOSL, Apex Triggers, Apex Classes, «Project Management
+‘Apex Controllers, Workflows and Approvals, ‘+ Customer Relationship Management
+
+Email Templates, Formulas, Validation Rules,
+‘App Exchange, Salesforce.com, Apex Data
+Loader
+
+Languages Apex, Visual force, Java, HTML,
+CSS, PL-SQL, C
+
+Tools Apex Data loader, GitHub, Visual basic,
+‘Azure DevOps, Eclipse, BlueCanvas, JIRA Azure
+Devops.
+
+Powerpoint, Excel and other microsoft tools like
+Visio
+
+SALESFORCE LEAD 01/2024 to CURRENT
+Captech Richmond | Chicago, IL
+
+Demonstrated in-depth and hands on experience working with Salesforce platform on
+Configuration, customization lightning components , Apex.SOQL etc) integration .security administration
+and other core features
+
+Demonstrated proven ability to work with Business Architect and/or Business Analyst to transtate the
+stakeholders requirements into working solutions.
+
+(Owned end-to-end delivery of long-term technical projects and solutions
+
+Troubleshoot issues, resolve complex system problems, and develop and manage complex workflow
+rules, data validations, and object customizations
+
+‘Work closely with subject matter experts, developers, testers and business partners
+
+Experience in customization, configuration, Apex, Lightning and Field service lightning(FSL)
+Experience in integrating Salesforce with ERP applications like SAP using Informatica
+
+‘Well versed in cloud technology and on-premise infrastructure integration for Salesforce.com using
+Force.com platform, XML, Web Services and third-party Packages.
+
+Experience in azure deveops to manage projects and in Copado to deploy the solutions
+
+Supported existing integrated platforms and new integrations using third-party integration tools to
+enhance business processes and operations.
+
+Experience in Agile and SAFe Agile
+
+SACESFORCE DEVELOPER 08/2018 to 01/2021
+Captech Richmond | Atlanta, GA
+
+Created customized report using visual force page and apex class
+Created modern Enterprise Lightning Apps combining Lightning Design System, Lightning App Builder
+and Lightning Component features
+
+Exposed Custom Web Services in Apex to support callouts from external systems through the API
+Implemented Test Methods for the Apex Code and followed best practices to avoid governor limits and
+achieve better code coverage
+
+Customized several Workflows, validation rules, Triggers, Apex class
+
+Developed APEX class, Controller class and APEX Triggers from various functional needs in the
+application
+
+Designed different custom Dashboards for various user groups based on their business functionalities
+and deployed several reports for different user profiles in organization
+
+Enabled Aura Framework, by adding Aura Attributes and Aura Handlers for Events to focus on Logic
+and Interactions in Lightning Applications
+
+Created workflow rules to automate Tasks, Email Alerts, Field updates, time-dependent actions and out
+bound messages API
+
+Customized the Dashboards to track usage for productivity and performance of their sales teams
+Integrated Emails with Visual force pages
+
+Developed Apex Classes, Controller Classes and Apex Triggers for various functional needs in the
+application
+
+Created Wrapper classes and Batch in Visual force pages including SOQL, SOSL
+
+‘SAOESFORCE DEVELOPER/ADMIN 06/2017 to 08/2018
+Anaplan | City, STATE
+
+‘Worked closely with the business users and administrators and gathered the requirements for
+salesforce implementation
+
+Designed, developed and deployed Visualforce Pages, Apex Classes, Controller Classes and Apex
+‘Triggers for various functional needs in the application
+
+Implemented the GIT and Jenkins operations to deploy the application into other environments
+‘Worked on the agile methodology and working on sprint bases work
+
+‘Working on Sprint demos and Sprint planning and retro sessions
+
+Implemented the apex test classes and enough code coverage to deploy into other sandboxes and
+production.
+
+Created the salesforce profiles users, validation rules and apps for new users
+
+Performed the bulk Dml operations using workbench and data loader
+
+Prepared the TDD (Technical Design Document) on the current functionality
+
+Involved in automation test cases and review
+
+Created various Reports (summary reports, matrix reports, pie charts, dashboards and graphics) and
+Report Folders to assist managers to better utlize Salesforce as a sales tool and configured various
+Reports and for different user profiles based on the need in the organization
+
+Used field level security along with page layouts to manage access to certain fields
+
+Configured the GitHub to maintain the different versions in common development environment
+
+Bachelors | Computers
+Banasthali University
+
+Banasthali University
+
+sters | Computers
+
+Salesforce Administrator
+Lightning front-end Training certification

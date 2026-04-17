@@ -1,0 +1,91 @@
+Robert Smith
+
+Jr. Python Developer
+
+PERSONAL STATEMENT
+Looking fora sultable position with a company where outstanding
+performance is recognized and rewarded and where he can work on a
+variely of high profile web back- end projects,
+
+WORK EXPERIENCE
+
+Je: Python Developer
+Goldman Sachs ~ December 2016 - Present
+responsbiities
+
++ Developed views and templates with django view controlar and
+template language te create a user-friendly webste interface
+
++ Implemented user interface guldelines and standards throughout the
+development and maintenance of the website using the HTML, CSS,
+Javascript and jQuery.
+
++ Created APIS, database model and views utilization python in order to
+buld responsive web page application
+
++ Implemented user interface guidelines and standards throughout the
+development and maintenance of the website using the HTMLS, CSS,
+JavaScript, Query and Angular 15
+
++ Developed views and templates with Python and Djangos view
+conttoller and templating language to create a user lendly website
+interface.
+
++ Worked on rest AP calls and Integration with UL Used Angular JS to
+develop the component tothe application team, Spring MVC to
+consume rest APIS and used JavaScript, CSS3 and JQuery to display the
+data in front end,
+
++ Developed views and templates In Django to create a user-friendly
+website interface
+
+Python Developer
+‘ABC Corp - 2014 - 2016
+Fesponsibilties:
++ Wrote python scripts to parse xml docurnents and load the data in the
+database,
++ Used pandas api to put the data as time series and tabular fornat for
+feast timestamp data manipulation and retrieval
++ Was involved in the environment, code installation as well as the svn
+Implementation,
++ Cleaned data and processed third-party spending data into
+maneuverable deliverables within specific formats with excel macros
+‘and python libraries.
++ Ensured high quality data callection and maintaining the ntegrty of the
+data.
++ Collaborated with Internal teams to convert end user feedback Into
+meaningful and improved solutions
++ This project also used other technologies like jquery for javascript
+
+(Ths Ema Resume Temlate the copyright of Quikesune cor. Usage Gustine
+
+CONTACT DETAILS
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+
+Infow@awikresure,com
+wwqwikresume.com
+
+‘SKILLS
+
+HTML, JAVASCRIPT,
+JQuery, PYTHON, CSS
+
+LANGUAGES
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Cacking
+Reading
+
+REFERENCES
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Norma),

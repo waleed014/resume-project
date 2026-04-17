@@ -1,0 +1,126 @@
+WORK EXPERIENCE
+Senior Test Engineer 2013-04 - Present
+EMC Consulting
+
++ Directing and exercising control over the operational, functional and performance phases
+of testing
+
++ Modifying and using computer software (scripts) and hardware to conduct tests on test
+equipment for functional product testing purpose.
+
++ Providing training to production testing staff.
+
++ Analyzing and interpreting test data and prepare technical reports for use by test
+engineering and management personnel
+
++ Performing moderately complex assignment of the engineering test function for
+standard and/or custom devices & failure analysis
+
++ Directing and coordinating engineering activities concerned with product development,
+procurement, installation, and production
+
++ Determining conditions under which tests are to be conducted and phases of test
+operations.
+
++ Global product test support.
+
+Senior Quality Analyst Engineer 2010-10 - 2013-03
+
+Newport Corporation
+
++ Wrote test cases.
+
+«Reported Bugs.
+
++ White Box and Black Box Testing
+
++ Defined requirements and performed test.
+
++ Performed peer reviews and estimates.
+
++ Extensive knowledge of the full software tested lifecycle.
+
++ Tested software to identify and resolve problems from the end users perspective
+
++ In charge of testing developed software against specified requirements.
+
+« Tested the website against functional aspects, HTML, and CSS.
+
++ Accurately monitored and recorded results in test documentation
+
++ Prepared detailed test plans, acceptance criteria, and test scenarios for each project.
+
++ Liaised with developers and programmers to swiftly resolve faults.
+
++ Analyzed, wrote reports, and communicated results to colleagues & managers.
+
++ Monitored the tested process, identified, and logged test failures.
+
++ Tested full product suites, identified problems, and resolved them with the development
+team,
+
+Senior Engineering Technician 2007-03 - 2010-09
+
+Eaton
+
++ Performed a moderately complex engineering test and technical functions related to
+manufacturing support and engineering development.
+
++ Created a test procedure and conducted staff technical training,
+
++ Helped in process improvement for better productivity, less downtime, and great quality.
+
++ Created and released ECO per customer platform for the production.
+
++ Involved in the pilot run of the production for the smooth transition
+
++ Modified and enhanced test tools to fit any particular criteria
+
+«Maintained top-notch customer service and support.
+
++ Analyzed process defect by using statistical process control methods.
+
+e Created/nerformed nreventive maintenance nrocediire for tected equinment
+
+% City, State
+& 000-000-0000
+
+&_email@email.com
+
+SUMMARY
+
+Review test equipment designs,
+data with customers regularly to
+ensure continuous improvement
+and be the liaison and technical
+conduit. Customer satisfaction
+focus, diversity, strong
+communicator, act with integrity,
+demonstrate effective leadership
+skills, effective collaborator, and
+problem solver. Complete tasks in
+time with accuracy in the
+professional manner. Proactively
+drive the corrective action when
+quality & execution issues arise.
+‘Support for failure analysis, test
+debugging, reduce process and
+‘equipment downtime. Direct and
+coordinate engineering activities
+concerned with product
+development, procurement,
+installation, and production
+
+SKILLS
+
+API Testing
+
+Zoho and Bugzilla
+
+‘Swagger and RAML.
+
+Selenium WebDriver
+
+Functional & GUI Testing
+
+JMeter with Ant & Maven

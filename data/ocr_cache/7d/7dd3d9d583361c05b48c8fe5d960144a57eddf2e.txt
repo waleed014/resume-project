@@ -1,0 +1,137 @@
+JESSICA CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(855) 432-1000 - resumesample@example.com
+
+‘PROFESSIONAL SUMMARY
+
+‘+ Over 8 years of experience in MS SQL Server suite of products like SSIS, SSAS and SSRS of MS SQL Server 2008 to 2019.
+
+‘+ Experience in implementing Power BI and DOMO and providing company-wide training
+
+‘+ Experience in implementing business logic using Triggers, Indexes, Views and Stored procedure.
+
++ Proficient in Tuning T-SQL queries to improve the database performance and availability
+
+‘+ Experienced in creating reports using SQL Server Reporting Services sourcing OLAP cubes and data warehouse database.
+
+‘* Proficient in creating and designing the report layout, sorting the data, defining subtotals and generated Reports like parameterized
+reports, drill down reports using SSRS 2008 to 2019.
+
+‘+ Expert in Extracting and Transforming data (ETL) from various heterogeneous sources and creating packages using SSIS, Import, Export
+Data, Bulk Insert and BCP utilities.
+
+‘+ Expert Level experience with performing various SSIS data transformation tasks like Look-ups, Fuzzy Look-ups, Conditional Splits and
+Event Handlers, Error Handlers ete.
+
+‘+ Experienced in formatting the SQL Server Reports and in creating configuration fies, error handling, and logging in SSIS and in creating
+Jobs, Alerts and SQL Mail Agent
+
+‘* Strong Experience in SQL database design, architecture, data modeling using Erwin.
+
+‘+ Data warehousing and analysis skills: ETL tools, dimensional modeling, star schema and snowflake schema.
+
++ Excellent knowledge in maintenance of existing reports and in optimizing report performance.
+
+‘+ Developed, implemented and documented SSIS packages to production server.
+
+‘+ Outstanding oral and written communication skills.
+
+Sms
+‘* SQL Server Tools: Enterprise Manager, Profiler, Query + Automate, Coding
+Analyzer, SSRS, SSIS, SSAS * BI, Project management
+‘+ Reporting Tools: SSRS, DOMO, Power BI, Crystal Reports + Production deadline management
+‘+ RDBMS: MS SQL Server 2008 to 2019, MS Access ‘+ Schematics and blueprints
++ Programming Languages: C, SQL, SQL, PL-SQL
+Worx History
+
+05/2016 to 09/2020 BI Developer
+Cognizant Technology Solutions ~ Albany, CA
+Live Nation Entertainment is a global entertainment company, formed by the merger of Live Nations and
+Ticketmaster. Ticketmaster is known for embracing new technology and developing ground-breaking software!
+applications to support its world renown ticketing platform,
+Responsibil
+
+‘+ Involved in Planning, Defining and Designing data based on business requirements and provided documentation.
+
+‘+ Designed ER diagrams and mapped the data into database objects and performed normalization of the database in
+oLTP.
+
+‘+ Wrote Complex Stored Procedures, Triggers, Views, Constraints and rules on database objects.
+
+‘+ Upgraded to SSIS 2019 using SSIS Catalog/SSISDB.
+
+‘+ Created and maintained SSRS report scheduler using SSIS and SQL Database.
+
+‘+ Implemented DOMO to manage entire business on a single roof, connected directly to the relevant business data
+and place the appropriate information to users” fingertips immediately
+
+‘+ Trained over 50 end users across 5 departments on how to use and manage DOMO dataflow and datasets.
+
+‘+ Developed SSIS packages to automate different FTP’s files and emailing to different clients.
+
+'* Created SSIS packages to extract, transfer and load data into the data warehouse on a daily basis
+
+‘* Generated reports using Global Expressions and Functions that could be used to send information to different
+primary vendors, clients, and managers.
+
+‘+ Created SSIS Packages to import and export data from Excel Spreadsheets, Text files, CSV files and various direct
+sources,
+
+‘+ Used the concepts of priority constraints and various SSIS Tasks such as Conditional Split, Derived Column, and
+look up tables to validate data while dealing with SSIS and Created/Modified SQL Joins, Sub-queries and T-SQL
+code to implement business rules.
+
+Environment: MS SQL Server 2014/2019, MS SQL Server Reporting Service, MS SQL Server Analysis Services, MS
+SQL Server Integration Services, T-SQL, MS Visio, DOMO.
+
+11/2013 to 05/2016 SQL Server / BI Developer
+Pep Promotions ~ City, STATE
+Pep Promotions is a marketing company that handles project management and procurement for marketing campaigns.
+
+‘+ Designed ER diagrams and mapped the data into database objects and performed normalization of the database in
+OLTP.
+‘+ Created SSIS Packages for extracting data from Excel and MySQL, transforming and loading to SQL Server 2008.
+‘+ Implemented Power BI to provide better reporting dashboard capability.
+‘+ Responsible for extracting data from huge database to manipulate and analyze for the end users and to do technical
+analysis for functional requirements,
+‘+ Created T-SQL queries for views, stored procedures, triggers and functions for performance optimization.
+‘+ Designed coding and testing of new and enhanced packages on the data warehouse.
+‘+ Developed reports with consistent drill-down functionality including Drilldown report and Master Detail reports,
+using SRS
+‘+ Developed different kind of reports such a Sub Reports, Charts, Matrix reports and Linked reports.
+‘+ Tuned several slow running queries in Production.
+‘+ Updated data warehouse continuously for existing services.
+‘+ Created stored procedures to complete the data scrubbing and created views to restrict data views and reduce
+complexity
+‘+ Used cubes and KPI's for continuously analysis of data warehouse performance.
+Environment: SQL Server 2008/2012, MS SQL Server Reporting Service 2008, MS SQL Server Integration Services
+2008, VB, C, Windows Server 2008, Power BI
+
+12/2011 to 10/2013 MS SQL Server / BI Developer
+
+State Farm — City, STATE
+State Farm Insurance is 2 group of insurance and financial services companies in the United Stated and Canada. The
+Project was to do analysis of different accounts and services with changing time and by analysis of all the aspects, and
+optimizing the data warehouse performance by monitoring and modifying
+Responsibilities:
+
+‘+ Designed and implemented logical and physical data models using Visio and Erwin.
+
+‘+ Designed and created Report templates, bar graphs and pie charts based on the financial data and developed
+
+implemented procedures to ensure the quality, usability and accuracy of reports.
+
+‘+ Upgraded the records in the data warehouse according to current analysis.
+
+* Checked performance tuning, indexing, query optimization.
+
+‘* Database performance monitoring and tuning.
+
+‘+ Analyzed the performance of foreclosure system with the help of developed database.
+Environment: MS SQL Server 2008, MS SQL Server Reporting Service 2008, MS SQL Server Analysis Services
+2008, MS SQL Server Integration Services 2008, T-SQL, Windows Server.
+
+Epucarton
+
+Bachelors of Science: Information System Management

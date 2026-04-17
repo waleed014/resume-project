@@ -1,0 +1,252 @@
+JESSICA
+CLAIRE
+
+@ resumesample@example.com
+(655) 432-1000
+
+‘9 Montgomery Street, San
+Francisco, CA 94105
+
+AREAS OF EXPERTISE
+
++ Windows NT/XP/2007, UNIX,
+1NS-D0S
+
++ ETL Teale: informatica Power
+Center 9.1/8.1/7.1 (Designer,
+Workflow Manager, Workflow
+‘Monitor, Repository manager
+‘and informatica Server)
+
++ Databases: Oradle 11g/108/91/
+8i, sybase
+
++ Languages: SQL, PL/SQL, UNDK,
+‘Shell scripts, Pert, HTMLS, Java
+Scripting, PHP
+‘Scheduling Tools: Autosys,
+Control
+
+EDUCATION
+vu
+2005
+
+Bachelors: Telecommunication
+Telecommunication
+
+PROFESSIONAL SUMMARY
+
++ moactive,pctormance driven professional wth 10.5 yeas of experienc in nds in
+investment Eanking dora,
+
++ rficen nthe ifograton of varius datasources wth tpl lato databaces he
+Crag /orace10g/, sybase to the saging are, Data Warehouse wich nctes developing
+PLSQL Procedures, Packages, Triggers, Blk coectons, Cursos, Views, Objects and Performance
+“ning of bata Varehoise envionment
+
++ Bata Warehsing ETL experience of using Informatica PowerCenter let tos - Napping
+Designer Repository manager, Workflow ManagerMonitr and Server toe -Aepesty Server
+
++ ficlent o UN hal scripting in automation of various processes. Hands on experience In server
+‘Setup to hos files to aitomat the database refresh wth lp of Peal sit Developing web
+age aplatons using HTMLS,CSS3 and Javascript for frm valdton. A Using ax and HP
+"citing o ge back dt from Oral Oe.
+
++ Experience in using Automaton Scheding tol Uke Aitoys and Contr
+
+*tnonedge and hands on in nfrmatc (ETL. ool fr tang hug data fles
+
+5 Hands-on experence across al tages of Software Development Life Cyl (S0LC nding
+sins requirement anas, data maping, bul, unit testing, systems Iteration and user
+acceptance testing
+
++ Experience working in On Shore/Of shore Devapent Nodes.
+
++ strong ime management kis in eading multiple projects and deadines under minimal
+supers.
+
++ Racognied and Nighy apeeited for consistent success, knowege and Nei.
+
+WORK EXPERIENCE
+
+22Nd Century Technologies - Data Warehouse Developer
+Bothell, WA + 0372015 - Curent
+
+“+ Customer Warehouse Environment (CWE) isa group
+data to various business groups.
+
++ This data helps the business community in increasing the Fidelity business in Retail and
+Institutional areas
+
++The data constitutes of various customers accumulated from various sources.
+
++ Major responsibilities incude impact analysis, support production support activites, install
+planning, and help answer business adhoc requests.
+
++ Role and Responsibilities: Providing resolution to the issues raised by users.
+
+‘+ Monitoring and providing batch support forthe daily and monthy batches.
+
++ Conduct regular meetings to check for weekly and month install
+
+‘+ Provide month end batch support and provide on-call support.
+
+‘Enhancement ofthe existing application to provide more functionality.
+
+Fidelity focusing on providing analytical
+
+\dentify tong running process and tune the same.
+‘Unix scripts is used to fep the files from vendor sites update the data files before loading the data
+using ETL Informatica to process data from various vendors.
+
++ Used SQL*Developer Toad for creating all types of PL/SQL objects like tables, Indexes, packages,
+triggers, sequences and stored procedures.
+
++ Optimized the existing long running processes to run faster with usage of Buk Loader, Hints and
+Limits on butk loader Used Explain Plans to analyze ong running queries and degree of Parallel to
+‘make queries run faster.
+
++ Create new web applications from HTMLS and CSS & Javascript for form validation Host the web
+applications on windows server 2012 R2 machine Used PHP asthe server side language to psftp the
+files from user's machine.
+
++ Call orate cient functions O08 to connect to db and get back the results on HTHL forms,
+
+22Nd Century Technologies - ETL/Data Warehouse Developer
+Burkeville, VA » 07/2012 - 03/2015
+
++The Strategic investment Product team works on proving investment plans for individuals,
+investment plan and guidance too for retailers, retirement plans (401K) for organizations.
+
++The tasks involved as part ofthis are loading and processing the stocks and mutual fund details
+from different sources, categorize and customize such that retail ad individual investors get the
+Accurate details which would help in investments,
+
++ Role and Responsibilities: Understand and analyze requirements, follow up with business analysts
+and subject matter expert team for any clarification, if require.
+
++ Design/Review the Test Cases for integration testing, System testing and User Acceptance testing
+‘Unix scripts is used to fep the files from vendor sites update the data Files before loading the data
+Using ETL/informatia to process data from various vendors.
+
++ From staging area, data fs processed and modified as per the requirement and then loaded to
+‘integration area through stored procedures and ETL! Informatiea mappings.
+
++ Use Toad for developing all types of PL/SQL objects like tables, indexes, packages, triggers,
+sequences and stored procedures.
+
++ Developed and modified Oracle packages, stored procedures, functions, Scripts, smnonyms, tables
+and indexes to implement business requirements and rues.
+
++ Applied optimizer hints to tune the queries for faster performance.
+
+{Worked on Performance tuning by using Explain plans and various hints.
+
+“+ Worked on Table Partitioning and deploying various methods of indexing like local Indexes and
+‘Global Indexes on partitioned tables.
+
+‘+ Organize and analyze the behavior of each investment Instrument tke Stocks, Bonds et fora
+certain period and provide the complete detailed analysis to investors which would help them in
+planning thir portflio and the investments.
+
++ Evaluate the performance of different funds which would be ideal for lng term investing which is
+the primary requirement ofa retirement plan (401k) aimed at institutions.
+
++ Project Title: PARA reporting for an investment Bank.
+
+22Nd Century Technologies - Data Warehouse Developer
+Columbia, MO + 2009 - 06/2012
+
++ Location: Bangalore, Tokyo and iY Description: The department division deals in reporting profit
+And loss to back to the central sytem,
+
++ Italso involves doing the daly adjustments and sending the feed to diferent streams which will do
+further processing a ther end
+
++The data involved capital markets data ike Securities, Bonds, Funds, Repos etc.
+ole and Responsibilities: Handing all user support requests from across the regions (APAC, UK &
+
+Usa).
+
+‘Automating frequent process with shell scripting nd Autosys scheduler
+
+Handling major UAT independently & representing lent from offshore office.
+
+Responsible forall Production Release across regions.
+
+Generate reports required by Japanese and US Federal Gov
+
+Developed and modified Packages, Functions, Synonyms, tables and indexes to implement business
+
+requirements and rules.
+
++ Bulk loading of data done using utilities lke BCP and Sybase Central.
+
++ Code tuning or Query Optimization done using Explain Plans, Hints
+
+{Analyzing and monitoring system performances using D8CC Trace on commands, query plan
+‘outputs, system.
+
++ Handling various enhancements to the system, this entailed writing new codes and changing some
+existing codes.
+
++ Wrote new complex stored procedures in Sybase and optimized the existing code written in Sybase.
+‘Debugging the scripts and jobs in Production environment written in Shel and PERL.
+
+‘+ Handling and creating various autosys jobs in Production environment.
+
++ Providing daily status reports to the clients.
+
++ Provided production support and 24/7 support for resolving the critical production issues.
+
+{Involved in the solving the tickets that are raised bythe end users.
+
+‘Responsible for creating PLSQL. Programs and UNIX Scripts for Data Validation and Data Conversion,
+Project Title: Base 2 Risk Platform, UK based bank.
+
+Royal Bank OF Scotland - Data Warehouse Developer
+City, STATE + 01/2006 - 11/2008
+
++ Location: Bangalore Description: FMIT is a dedicated IT division within RBS and we provide a fully
+‘managed service for Finance IT Business As Usual (BAU) team.
+
++ Designed the tables, indexes, triggers, stored procedures, functions and packages to implement
+the requirement.
+
+“+ Unix scripts fs used to ftp the files from vendor sites update the data files before loading the data
+using ETL/informatia to process data from various vendors.
+
++ Informatica Mappings are used in loading the target databases which is usually on different schema
+nd the data is transformed inthe process before loading to target.
+
++ Analysis of Source data, Oracle Source Objects and identifying the methods for loading data to
+target.
+
++ Created and used External Tables for migrating flat ile data into target.
+
+Responsible for the creation of Packages, Functions and Procedures.
+
++ Performed Testing of the Fackages, Procedures and Functions.
+
++ Wrote scripts for creating tables, Indexes, Grants and Synonyms indifferent schemas and made
+‘modifications for the existing tables as per business logic.
+
++ Preparation of tet scripts for System and integration Testing, and Traceability Matrix for the
+assurance of complete coverage of system requirements.
+
++ Develop bug fixes and enhancements
+
+{Production support of some ofthe applications ofthe bank which includes resolving issues ofthe
+‘overnight batch processes and daly users queries.
+
+PROFESSIONAL AFFILIATIONS
+
+SKILLS
+
+fonds, capital markets, CSS, client, clients, Data Conversion, Data Validation, Databases, Debugging,
+ETL, Finance, forms, fp, Funds, Grants, HTML, HTMLS, PHP, indexing, Informatica, investments,
+Japanese, Javascript, Java Scripting, logic, meetings, office, Windows NT, works, MS-DOS, ODBC,
+Operating Systems, Optimization, Oracle, db, Developer, PLSQL, PL/SQL, PERL, processes, profit and
+loss, reporting, requirement, Retail, Scheduling, Securities, Shell, Scripts, Shell scripts, shell
+scripting, SQL, Strategic, Sybase, Tables, user support, Toad, UNIX, Unix scripts, utilities, validation,
+‘web applications, windows server, Workflow, written

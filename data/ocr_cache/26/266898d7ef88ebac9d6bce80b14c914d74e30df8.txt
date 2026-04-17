@@ -1,0 +1,101 @@
+Ayden Crona
+4103 McGlynn Row, Houston, TX # Phone: +1 (555) 616 7176
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR / LEAD / PRINCIPAL DEVOPS ENGINEER
+
+Dallas, TX
+06/2016 — present
+
+Collaborating with and providing assistance to engineering teams as we work together to create new and
+enhance existing solutions
+
+The individual will be responsible for platform DevOps with the goal of automating and improving the
+existing / future environments
+
+Set up, configure and monitor all environments including production using cloud computing platforms
+and local resources
+
++ Aptitude for learning and applying programming concepts
+
+‘Help build out an entirely new CI ecosystem, including automated and auto scaling testi
+
+ig systems
+
++ She/he will develop solutions that will provide monitoring, logging, and alerting capabilities for next
+
+generation systems
+Configuring , setting up and tuning of BOSS, Apache, HAproxy servers or equivalent
+
+SENIOR PRINCIPAL DEVOPS ENGINEER
+
+Philadelphia, PA
+09/2013 - 04/2016
+
++ Expertise
+
+‘Work on problems related to deployment, monitoring, failure handling, and traffic management
+Strong networking knowledge: TCP/IP, UDP, ICMP, IP packets, DNS, OSI layers, and load balancing
+Partner with Product Development in prototyping new customer facing platform services
+
+Strong networking fundamental on DNS, routing, subnets, VLANs, WAN
+Contribute to development of platform services including architecture, provisio
+deployment, and support
+
+software development eco-system such as Git, Jenkins, Artifactory, and CI/CD practices
+Support the ideation, technical development, and launch of innovative products
+
+g. configuration,
+
+PRINCIPAL DEVOPS ENGINEER
+
+Chicago, IL
+12/2008 — 07/2013,
+
+Deep knowledge in setting up logging/monitoring tool, such as Nagios, Zabbix, Sensu, ELK or
+SumoLogic
+
+‘Conducting research, providing recommendations, and implementing new solutions to enhance our
+product suites
+
+Supporting and continuing to evolve existing infrastructure to meet current and future demands in
+multiple environments (Production, Demo, QA, Development...)
+
+‘* Work on our automation suites for deployment using Java, Ansible, Unix scripting or other tools
+‘* Working with the Development team for designing the system architecture for application deployment on
+
+multi environments
+
+Work with different teams for capacity plan, infrastructure architecture improving and so forth for existed
+and on-going applications
+
+Setup / Developing tools for monitoring various web services and online products
+
+KENNESAW STATE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Be the consummate team player with a demonstrable ability to learn quickly. Amazing ability to get stuf
+done
+
+‘* Experience in secure, scalable and highly available online services,
++ Strong knowledge of Linux administration with specific knowledge of tuning Linux for scale
+‘+ Solid knowledge of Unix systems with ability to troubleshoot issues in complex, distributed, multi-tier
+
+architectures
+
+‘+ Strong ability to troubleshoot complex issues ranging from system resources to application stack traces
+‘© Great coding skills in a Ruby, Python, or Java and strong Linux expertise to complement
++ Participate in product sprints, write user stories and deliver on them for highly available, secure, globally
+
+performing service
+
+‘+ Strong attention to detail and emphasis on security
+‘* Design and implement automation strategies to create a stable environment and generate repeatable
+
+results
+Knowledge of best practices and DEVOPS methodologies in an always-up, always-available service

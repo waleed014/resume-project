@@ -1,0 +1,59 @@
+ROBERT SMITH
+Oracle PL/SQL Developer
+
+en dO getimncccom hse i da
+
+‘Omele PLISQL Developer having 10 years of programming experienc, asa Sr. Oradle SQL, PLSQL and
+ETL Developerin Analysis, Design, and Implementation ot Business Applications using the Orade
+Relational Database Management System (RDBMS). Experience in Data Migration across various databases
+as wells within the sume databuse across different systems, Well-versedin different stages of the Software
+Development Life Cyele (SDLC)
+
+SKILLS
+
+‘Oracle 11G, Orle PLI SQL, UNIX Shell Seript, SQL Developer, Toud, Omle Developer, IBM Rational,
+‘Agile & Waterfall, PowerBuilder
+
+WORK EXPERIENCE
+
+Oracle PLISQL Developer
+ABC Corp -2010 ~ Jawary 2018
+
++ Creited datahase objects lke bles, views, sequences synonyms, indexes using Oracle tools ike
+SQL PLus; SQL developer, and toad.
+
+Enforced dita imegrity using integrity consraim and database triggers
+
++ Proficient in advance features of Oracle 11g for PLISQL programming like using records and
+collections, bulk: ind, ref Cursors, nested bles, and dynamic SQL.
+
++ Creited puttitioned tables and partitioned indexes to improve the performance ofthe applications.
+
++ Experience with performance tuning for Orcle RDBMS using explain plan and hints
+
++ Intericted with web development team to develop in tndem hack-end solutions with front-end web
+executions
+
++ Executed Quality Control checks of souree code created by other developers.
+
+Oracle PLISQL Developer
+ABC Comp - 2008-2010
+
+* Creed ane maintained technical documentation, process flows, et.
+
++ Credied and Maintained Seed Data creation sxipts
+
++ Provided technical expertise and recommendations while assisting fellow team members, ether of
+development ortesting.
+
+*Troubleshnot technical issues and identified modifications needed in existing alications to meet
+changing user requirements
+
+*Panicipated in Business Requirement discussions, identified system impucts, und designed
+solutions
+
++ Dalivered projects on time and within tndget with goality
+
+Ensure tht the projects meet the customer expectations as measored by seorecands
+
+‘© This seme Tamla he copy of Qwitrewme com, Las Gals

@@ -1,0 +1,71 @@
+Dhruvi
+Python
+
+Developer
+
+Email ID: chaudharidhruvij90@gmail.com
+Phone no: +1-347-948-8012
+
+PROFESSIONAL SUMMARY:
+
+8 years of experience in Design, Development and analysis of Python, Django and client- server
+technologies-based applications
+
+Concept knowledge of Python libraries such as NumPy, Pandas, Requests, urllib3, Pyarrow,
+AWS CLI, boto3, Http for data analysis. Understanding of computing concepts including Data
+Structures (Linear Regression, Decision Tree) and file manipulation in Python.
+
+Experience in HTML/HTMLS, DHTML, CSS/CSS3, JavaScript, XML, JSON, Oracle PL/SQL
+and Postgres.
+
+Experience with Amazon Web Services (Amazon EC2, Amazon $3, Amazon Simple DB,
+Amazon RDS, Amazon Elastic Load Balancing, Amazon SQS, AWS Identity and access
+‘management, Amazon SNS, AWS Cloud Watch, Amazon EBS, Amazon CloudFront, VPC,
+Route 53, DynamoDB , Lambada and Redshift)
+
+Experience in Object Oriented Design and Programming concepts using Python 3 and Java
+Experienced in working with various Python Integrated Development Environments like
+NetB cans, PyCharm, PyScripter, Spyder, PyStudio, PyDev and Sublime Text
+
+Experience in implementing Model View Control (MVC) architecture using server-side
+applications like Django, Flask and Pyramid for developing web applications
+
+Knowledge on Cloud Based Solutions (AWS) and cloud based infrastructure
+
+Experience in wniting Subqueries, Stored Procedures, Triggers, Cursors, and Functions on
+‘MySQL and PostgreSQL database
+
+Experience with XML/ISON based SOAP and REST web services.
+
+Experience with several python packages like Numpy, matPlotLib, Beautiful Soup, Pickle,
+PySide, Sapy, waPython, PyTables etc
+
+Experience in Bash Shell Scripting, SQL and Java
+
+Famaliar with developing web service components using Mulesoft 3x
+
+Experienced in Agile Methodologies, Scrum stories and sprints experience in a python based
+environment, along with data analytics, data wrangling and Excel data extracts
+
+Experience in developing and executing test cases Manually and developed Automation script
+‘with Selenium IDE, Grid, Selenium RC, Selenium Web driver, Jenkins.
+
+Experienced with Software Development Life Cycle (SDLC), Database designs, agile
+methodologies, coding, testing of enterprise applications and IDE's such as Jupiter Notebook,
+PyChamm, Spyder and Visual Studio.
+
+Good knowledge in various phases of SDLC Requirement Analysis, Design, Development and
+Testing on various Development and Enhancement Projects.
+
+Good Experience in error and exceptional handling
+
+Experience in designing the automation framework using Shell scripting
+
+Strong expenience and knowledge of real time data analytics using Spark Streaming, Kafka and
+Flume
+
+Good imowledge in various phases of SDLC Requirement Analysis, Design, Development and
+Testing on various Development and Enhancement Projects.
+
+Hands-on experiences in writing and reviewing requirements, architecture documents, test plans,
+design documents, quality analysis and audits

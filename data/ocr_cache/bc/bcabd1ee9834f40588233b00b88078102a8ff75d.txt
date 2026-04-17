@@ -1,0 +1,55 @@
+Jacky Smith 2
+
+Project Manager
+
+Address 143 Main Ave, Orlando, FL, 32804, United Phone 890-555-0401
+States Date / Place of birth 05/10/1983 / Orlando, FL
+Email email@example.com Driving license Full
+Nationality USA
+01 PROFILE Analytical and proactive Project Manager with 20+ years of experience managing
+
+infrastructure and software development projects, with budgets ranging from $10k to $1.5M.
+
+02 EMPLOYMENT HISTORY
+
+03/2007 - Present IT Project Manager at Scholastic Corporation New York, New York
+
+Scholastic is an American multinational publishing, education and media company known for
+publishing, selling, and distributing books and educational materials for schools, teachers,
+
+parents, and children. As an IT Project Manager, my core activities include:
+
+¢ Collaborating with internal and external stakeholders to gather project requirements
+
+¢ Working with the Project Management Office to determine the project's human capital
+needs
+
+¢ Estimating project budgets and writing all necessary documentation for approval
+
+© Overall project governance, including ensuring compliance to industry and government
+
+regulations
+
+01/2002 - 01/2007 Project Manager at Viacom New York, New York
+
+Viacom is an American multinational media conglomerate with interests primarily in cinema
+
+and cable television. As an Project Manager, my core activities included:
+
+e Spearheading software development projects, with a primary emphasis on Agile
+development
+
+e Tracking project timelines, deliverables, and budgets
+
+e Assessing project risks and proactively resolving issues
+
+e Facilitating morning stand-up meetings with the project scrum team
+
+10/1998 - 01/2002 Jr Project Manager at NBA New York, New York
+
+The National Basketball Association is a men's professional basketball league in North
+America. As a Jr Project Manager, | assisted the project management team with a wide range
+
+of software development and infrastructure projects.
+
+03 EDUCATION

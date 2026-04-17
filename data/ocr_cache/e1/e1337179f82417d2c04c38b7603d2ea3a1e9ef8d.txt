@@ -1,0 +1,60 @@
+Robert Smith phone (123) 456 7899
+
+Email infosquikresune,com
+Website : yvay.ayikresume, com,
+Linkedin: linkedin,corn/quikresumne
+‘Address: 1737 Marshville Road, Alabarna
+
+Dot Net Developer (Retail)
+
+SUMMARY
+
+Dot Net Developer with around 5 plus years of experience in the Retail dornain, experience the in
+design, development, coding and testing of businesscornmercial applications using C#, ASP. Net,
+‘ADO. Net, Microsoft Enterprise Library, SOAR, Web Services, Windows Service, WCF Services, MVC
+{and SOL. Proven ability in understanding systemn requirements, system architecture design,
+developrnent, testing/QA and production environrnent setup afd Support
+
+SKILLS
+
+ASPNET, ADO.NET, WPF, WCF, LINO Languages: C, C++, C#, SQL Database: SOL Server Oracle
+9i/10g Frameworks: NET MVC Web Technology: HTML, XML, javascript, AJAX, CSS, SOAP, Web
+Services, Windows Service Server Platforms: IIs Windows Server SPI IDE: Microsoft Visual
+Studio .NET Reporting Services: Crystal Reports Version Control: IBM Clear Case, Tortoise SVN,
+Ms-Teamn Foundation Server Operating Systems Ms-D0S, UNIX, MVS, Sun Solaris, Windows
+
+WORK EXPERIENCE
+
+Dot Net Developer (Ret
+Walgreens - September 2014 - 2018
+involved in the development of web Forms, classes using Asp.Net that incorporates beth Nite
+architecture, and database connectivity.
+involved in gathering the requirements, analysis, design samp; development of the project.
+Designed, developed and enhanced the application using. Net framework 4. 5 and visual
+studio 2012
+Used dependency injection pattern to reduce the dependency coupling between classes and
+in front end using angular,
+Experienced in developing and enhancing web forms, master pages, user controls and custom
+controls by using htm css. and asp, Net Controls,
+Implemented server and client side validations using asp. Net validation controls and
+javascript
+Developed agile so ware development methodologies to enable efficient and effective high
+quality software development
+
+Dot Net Developer
+Xerox. April 2013 - August 2014
+Implemented crud functionality with entity framework in Asp.Net MVC 4.0,
+Designed and coded the applications based upon detail specifications of business and/or user
+requirements,
+Ensured the effective integration of software across products, plaforms and environments
+‘Analyzed the existing applications to determine where problems occur and developed
+possible solutions
+‘Assisted in creating the documentation of designs and solutions for assigned task
+Involved in creating the crm application front end using ci, asp. Net, mvc. javascripe jquery,
+bootstrap, entity framework, web services and ajax
+Involvedtin executing ssis packages, powershell Scripts, console apps, commandline scripts
+and stored procedures,
+
+EDUCATION
+
+(© This Fete Resins Template the copilgh of Qwikenume ccm, Uaage Gildines

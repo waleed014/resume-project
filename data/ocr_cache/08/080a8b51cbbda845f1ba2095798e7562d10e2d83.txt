@@ -1,0 +1,57 @@
+Robert Smith hone (128) 456 7899
+
+mall Infocuvikresume,com
+Website: vauu.qwikresume.com
+Linkedin: linkedin.com/quikresume.
+‘Address; 1737 Marshullle Road, Alabarna
+
+Sap Abap Developer
+
+SUMMARY
+
+{an experienced SAP technical Consultant with 9 years of software development as SAP ABAP /CRM
+‘echnical Consultant, During this periad, Involved in multiple phases of SAP lifecycle process such
+{a Implementation, Support, Upgrade and enhancernent projects. Good Experience on SAP ABAP
+Data dictionary objects, Classical Reports, ALV Reports, Forms (Scripts and Smart forms), User
+exists, BADI'S, BAPI'S, CAMS, Function modules , Pricing Routines , Data Migration Techhiques ~
+LSMw (Legacy systems migration workbench) & BDC (Batch Data Communication), Module poo!
+programming, RFCS Enhancement framework, IDOC'S and Object Oriented ABAP,
+
+SKILLS
+
+SAP ABAP, SAP Workflow, SAP WebDynpro, SAP ALEJEDL
+WORK EXPERIENCE
+
+Sap Abap Developer
+ABC Corporation Api 2013 ~ December 2013
+Worked on enhancements and developments, by getting requirements directly frorn the
+business users, and designing the Technical spect cations
+Worked on reports, BAPIS, ALE, IDOCs, Interfaces, Conversions, BDC, LSMW, SAP ScriptSAP
+Smart forms and User exits Coordinated with basis team regarding O5S, Support Packs ond
+Transport management
+Expertised In Performance techniques S705, S712, SE30 and Sar
+Created clear technical documents with all the logic and methodologies used,
++ Knowledged transfer tothe dlientérsquo:s T team,
+* Optimized the code using Performance Analysis tools,
++ Responsible for creating and maintaining Sap security roles and users in sox environment
+using saps
+
+Sap Abap Developer
+Detta Corporation - 2006-2011
+Client Description SPP Pumps and systems are Installed In all continents providing valuable
+high integrity services for diverse industries, such as il and gas production, water and waste
+water treatment, power generation, construction, mines and for large Industral plants.
+Itisne wonder that since SPP Fire was formed in 275, ithas bullt a reputation or quality and
+value that has made it unquestionably the leading supper of Approved Fire Protection
+Purnping Packages throughout the World
+Roles and Responsibilties Analyzing the Functional Inputs and development of Technical
+specication documents for the developments assigned
+Object development and review of the development requests assigned
+Interacting with functional tearn to resolve the Issues in the given objects,
+Designed the Unit test cases and done testing for other objects developed by the team,
+Resolving the tickets and Defects
+
+EDUCATION
+MS In T Managernent -August 201 3(Universtty Of Texas At Dallas Dallas; TX)
+
+(0 Ths Fre Resume Templat the copy of Qiks cor. sgn Guba

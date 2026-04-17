@@ -1,0 +1,76 @@
+AMBER JAIN
+
+Contact: +91-9988998899 | Mall: info@getsetResumes.com | Skype Id: falcon.minds
+
+SOFTWARE ENGINEER - JAVA / J2EE
+Budding professional with abilities in delivering optimized, modular and functional code on state of the art infrastructure and
+platforms, currently seeking new roles with Product Companies (preferably funded)
+PROFILE SUMMARY
++ Senior Java Developer with rich experience in working on full stack infrastructures with an expertise in designing, development,
+testing and maintenance of large & distributed Java Web Applications (End to End) by making efficient utilization of appropriate
+frameworks which support al platforms (web /apps).
+= 6 years of experience in development. Best-in-class programming skills and recognized proficiency in delivering solutions for
+software applications.
+= Demonstrate strong experience in Back End development of webservices SOAP and RESTful using Spring MVC, Spring Modules,
+Hibernate, Maven, Oracle, WebLogic and SOA.
++ Experience in client side front end (UD development using HTMLS, CSS3, JavaScript, AJAX, jQuery, JSF, Struts, JSP, JSTL.
+= Endowed with effective communications management (internal & external), project coordination and people'efigagement skills
++ Strong work ethics with resource planning, interpersonal & problem solving traits within a fest paced growth oriented environment
+
+WORK EXPERIENCE
+Sr. Java / J2EE Web Developer > Enterprise Allianz Co. Ltd. R.K Pally, Malda (O\\cW ‘Aug '16 — Present
+
+Key Responsibilities:
+= Manage all aspects of development of advanced JAVA based products and deliver high quality’solutions to meet objectives.
+Handle the entire Java Application / Software Development Life Cycle including design, development, unit testing, troubleshooting
+and debugging of Software; estimate different tasks; develop class & sequence diagranis and activity diagrams.
+= Interface with clients for business requirement gathering, conduct system analysis nd finalize technical / functional specifications
+and high-level design documents for the project.
+= Formulate POCs for all new tools & technologies which can be brought into the projects and can advance overall project efficiency.
+ben \\)
+Won Agile August Contest | Aug 2016 + Delivered’? Produlets ig thdjoining month Nominated for Champion Award
+
+EDUCATIONAL QUALIFICATION
+
+MCA > SRM UNIVERSITY, Ramapuram (77.84%) 2014
+B.Sc. (T) > ZED Career Academy, University df North Bangat-(S5.5%) 2010
+Higher Secondary > N.1.P.C High School (55%) 2007
+Senior Secondary ® N.T.P.C High School (45%). 2005
+
+Professional Enhancement: Vskills Certified Impott Exs6rt (Foreign Trade) Professional | Certification in IBM CE Project-Online Data Virtualization
+PROJECTS UNDERETAKEN
+
+IBM CE Project- Enterprise Applicetion’ Development Using Java/J2EE-Online Data Virtualization Sep '14 - Nov ‘14
+
+This project aimed at integrating different data visualization methods available with consumability factors to make data accessible.
+
++ Tools & Technologies Used: ‘Avplication Architecture (J2EE) | Database (IBM DB2) | UML Diagram Using Rational RSA 7.5 |
+Websphere Application Server Toolkit
+
++ Software Interface: (Client Side) Internet: Any Web Browser | Operating System: Windows XP Professional | Web_Application
+Server: IBM Websphere Application Server | Client Side Component: HTML, JSP | Server Side Component: Serviet & JSP
+
++ Hardware Interface: Processor RAM Disk Space | Browser: Internet Explorer 6 Intel Pentium Il Or 128 MB | AMD-800 MHz
+
+‘Simulation & Analysis of RTS/CTS Dos Attack Variants in 802.11 Networks | SRM University Dec ‘13 -Mar'14
+
+This project aimed at analyzing RTS/CTS attack which exploited the Medium Reservation Mechanism Of 802.11 networks through
+
+duration field and suggesting Variants Of RTS/CTS Attacks In Wireless Network.
+
++ Software Requirement: Operating System: Windows Vista Professional | Technology Used: Core Java | Front End Took: Netbeans
+7.0 IDE | Application Server: Tomcat 7 | Backend: MySQL | Database GUL: SQLyog
+
++ Hardware Requirement: System: Pentium Dual-Core CPU E5400 2.70 GHz | Hard Disk: 40 GB | Floppy Drive: 1.44 MB | Monitor: 15
+VGA Colour | Mouse: Logitech | RAM: 2 GB | Keyboard: 110 Keys Enhanced
+
+‘Online Hotel Reservation System | ZEDCA, University of North Bengal Jan ‘10 ~ Mar'10
+
+This project aimed at providing information regarding to availabilty, price and category of rooms. It could be used by customer for
+
+Hotel/room bookings and administrator could trace payments, reservation of rooms, services offered to the customer
+
++ Software Interface: Operating System: Windows Vista Professional | Backend: MS-SQL 2005 | Frontend: Vb.net.
++ Hardware Interface: Processor: Intel Pentium IV With AMD-800MHz | Hard Disk: 250 MB | Keyboard: 110 Keys | Mouse: Logitech
+
+Amber Patient’s Resume | 1/1

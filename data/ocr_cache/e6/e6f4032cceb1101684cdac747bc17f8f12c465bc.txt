@@ -1,0 +1,150 @@
+Jessica CLAIRE
+
+Mocigomery Ste, San Franco, CA 4105 # (55) 42-1XKX @resunesmpleecple com
+
+PROFESSIONAL SUNBKARY
+
+«7+ years of expesince inl the pases of Software Development Life Cele that incdes understanding requcemen, echnical nays,
+design development, Integration, musteanc, iastllaion, implementation ad testing of tious web applications
+
++ MuleSof experince in Development on Anypoist Studi, DaWeave,Tansfosmes, APIkit Rowe, RAML, Anypoiat Platform, APE
+Management et
+
++ Responsible to develop REST and SOAP web services in Mule ESB tated on SOA aechiece
+
++ Good experience wing Moe ESB with Connectors, wansformations, Rowing, ActiveMQ, JMS and Dat Tasfomtions using Mole ESB,
+
++ Good Experience in rating APT specification implemeat REST and SOAP services.
+
++ Experience in Astomation bid and deployment ols sch x CUCD proces with Jenkins, GIT, Bamboo and Bitbucket
+
++ Good implementation experience of WS secu, digital sienatres, menage encryption & decryption, SSL concept nits
+‘implementation in Mule ESB and DusPower
+
++ Experience with DB2 and Oracle Databases, Sore Procedue ccaton and DB intepration with Mule ESB.
+
++ Good experience in designing Flows, Sub Flows, and Exception handing srateges, Data Weave transformation and Mule Expression
+Language (MEL).
+
+“+ Good experince integrating applications wing MQ, JMS, Web Services, HTTP, SMTP and FTP protocls
+
++ Experience in mulple project ie cycles desi, implementation, sing and launching ofthe SOA Releases.
+
++ Experience in pplication development methedlopes uch at Werf, Agile and we Jr and sersceNow for Tsk Projet and ise
+
+management.
+
++ Bective communication and interpersonal il silty to workin tam independently and apt quickly to new ad emering
+
+tectaoogien
++ Fst lees ble, Dele ad able to asp icky.
+semis
+
+Integration: Mole 3x and 4.x runtime, Clout ‘tee & Frameworks: 0a EE, JSP, Serves, JSTL, INDIMS, EB
+‘Languages Java python, C++, dataneave (Session bean & Entity Beas), JSF, Sts, Seng ]OC, MVC, AOP
+Databases: Oracle Si/10y/I1g,DB2, MS SQL Senet MYSQL. __-& DAO) and hibernate
+Servers: JBoss, Websphere Application Server, Apache Tomcat, We Serve: XML, ISON, XSLT, XSD, SOAP, REST
+Apache HTTP Server 2x, JBoss 5x “Toots & Lites: eakins, Maven, Nex, Git, SVN, Lop, ANT,
+
+Joni, Mit and JRA.
+Platform: Windows, Linx, MacOS
+
+Work History
+
+“MuleSom Developer, 1/2020 - Curent
+Qua Seat, WA
++ Create MULE ESB arc and coniged the MULE confguation files and deployed
++ Automate Bild and deployment package too using Maven and build the coe in Fons
+«+ Create RAMML based REST web services APTS using Mule ESB,
++ Add the nexes repository details in pom salto ingot the al dependencies when Jenkins bul the application and deploy the aplication
+into cloud bub
++ Wit MUnit et cats to validate the Mule ows
+“+ Create the ineration workflows using MuleSot ESB.
++ Worked with integrations using connectors such x Sale force, Database, IMS, Active MQ, HTTP, FTP, SFTP and File Connectors
++ Paice in resting HTTP inbound & outbound flows and orchestration sing XPath sing MULE ESB
++ Used Cloud Hub consle to monitor the request an response payload
++ Creat chute enstonment using Mule ESB with Male Any Point Sti and Creating Active MQ wih difien topologies in Enterprise
+Integration
++ Configure the Mole proces fr fetching the data fom topic and makes web service cls othe mi tier Mule ESB fr processing and
+put the data on the Cloud bob
++ mplement ata tranafomation sing XPATH, XSLT, Data Weave, Custom java cases
+‘+ Used Bitbocket and GT repository torn the Jenkins ofr Continues ntepration
++ Creat and consume SOAP and REST services sing CXF and used Anypoia Stadio wo rout various validating the Fie-paine scuty
+‘based on the APY consumer for generating token for invoking services
++ Used wit ansfonmes, exception handling testing & Security of Mule ESB endpoint trough OAwh
++ Use Mole ESB connector: SFDC, Message Transfomer, Choice Exception Statepie, Bach renin ee
++ In designing the application a a middleware betwen the third-party system andthe castor side syenn
++ Follow aple methodology and Serum and was involved in pplication design and participated in echnical meetings, Ef estinatons,
+trcklog grooming et
++ Design. develop test, maintain and implement application integration system enkancements working with in exablished processes
+Environment: MuleSoft ESB 3.9/4.1, JAVA, ActiveMQ, RAML, Nexus, Apache-Maven, Cloud Hub, Nexus 2.11.4 (Nexus Maven
+Repository), Bit Bucket, XML, XSLT, LDAP, MS SQL, Lop, Git, Web Sevies, Jenkin, Anypint Studio 657.5
+
+APL Developer, 012018. 102020
+Leldas Holdings ne. Minneapolis, IN
++ Architect Integrations using Mole ESB eovronments for both on premise and Clot eviooments
++ Used NMC (ale managerent conte to monitor the request and response payload)
++ Have writen MUiitet atest validate Mule ows
++ Used ANT serps to build he aplication and deployed on Oracle WebLopic Server ad implemented WebLogic cuter and Node
+manager
++ implement the application sing sping modules incodes 10C, AOP Batch and MVC
++ Actively involved in designing and implementing Business Delegate, Data Access Object, and Session Fagade and Data Transier Objet
+eign panes
++ Design and develop Message riven achitctues hat consumed the IMS messages im the Java message queue ad process the database
+updating and conversion
++ Design ad implement the application in Agile -methndaogies
++ Develop mide er busines logic sing Spring based wanton manazers,
++ Used Logo cap the lo hat incades unime exceptions, monitored eo logs nd feed he problems
++ Used SUN the version cool too fr coe commit and ypdate
++ Used Auto wited POIO and DAO clases wih Spring Controller and sevces
++ Used Male Flows with Data Mapper to customize XML to CSV mapping conversion
++ Developing and securing CXF web services ia Mule ESB
++ Used Angular 15 as development famework oti Single Page Application (SPA)
++ Handled the backend operations win SQL, PLISQL, Stored procedues, wagers and developed he persistence structure sing ORM
+tsed Hibemate
++ Used Mule ESB for routing, tering and agpresate mesazeberen application based on content and ules
++ Seine vp Mule ESB forthe development environment
++ Create MULE ESB arifact and configured the MULE configurations files and deployed
++ mplemected Web Series sing SOAP pots, UDDI, WSDL and Sesice Oriented Archit (SOA) Concept
++ Design and development of wer Interfaces using IP, HTML, CSS, JavaScript and JAK,
++ Developed SQL Queries sing Toad for Oracle
++ Develop Mule ESB poets fer th services wih synchronous ad aynchronous Mole ows
+Environment: Mule ESB 3.03/35. Anypoint Studio 5.0, Cloud bub, Puty,Apache-Maves,FeZils, Nexus, RAML, MUait, API,
+AJAX, XML, JAXD, JAXB, JSP, HTML, CSS, SQL, JUnit, PLISQL, JavaScript, Web logic, Orace, MDB, SOAP UL, SVN, Windows
+XP & Linux, Java 1.6, Spring, Hibernate, Web Services.
+
+Python Developer, 04/2016 - 122017
+Novograae & Co, Lip ~Colums, OF
+
++ Design and developed Use-Cases, Classes and ject Diagrams using UML Rational Rove for Objet Oriented Design techniques
+
++ Patisiaein develop the REST Web services to expose the business meth to extemal services in the project
+
++ Responsible for gathering requtements, stem analysis, desig, development, esting and deployment
+
++ Develop wer interface wing CSS, PP, HTML, JavaScript and JQuery
+
++ WitePyton modules to extraction att data from the MySQL source database
+
++ Wek on ont ed frame wos like CSS, Botstrap for development of Web pplication
+
++ Create a Git repository and add the project to Gitob
+
++ Design sod implemented a ddistd MySQL. database server to dive th we app ad sept on ily popress
+
++ Cieat views and templates with Python and Django view controller ad enplating Language wees awe-renly website iatrice
+
++ Used Punt the Pybon unittest framework forall Python applications
+
++ Collaborate with eternal teams and external teams to sole the sues and giving feedbacks
+
++ Document the problems and progress of project most accusely
+
++ Collaborate wih tam during testing of data warehouses
+Environment: Python, MySQL. REST Web Services, JavaScript, lips, Linus, Shell Seripting, JQuery, GitHub, JIRA, GIT Das
+HIMLSICSS.
+
+Epvcartox
+
+se. Compute Science
+Sample University

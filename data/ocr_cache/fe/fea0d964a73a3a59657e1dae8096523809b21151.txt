@@ -1,0 +1,46 @@
+ROBERT SMITH
+
+Jr. Python Developer
+
+Info@quikresume.com | https://Qwikresume.com
+
+Experienced in MW frameworks like Django, Java Script JQuery Experience in
+working with Python ORM Libraries including Django ORM, C++, MySQL, UNIX and
+Linux, Well versed with design and development of presentation layer for web
+applications using technologies like HTML, CSS, and JavaScript.
+
+JULY 2016 - PRESENT
+JR. PYTHON DEVELOPER - CAPITAL ONE
++ Worked on design and development of Unix shall scripting as a part of the ETL
+process ta autmate the process of loading.
++ Worked on ETL tasks like pulling, pushing data from and too various servers.
++ Wrote Python and batch scripts to automate the ETL scripts tuns every hour.
++ Developed ETL scripts in Python ta get data from one database table and insert,
+Update the resultant data to another database table.
++ Wrote Python scripts to parse XML documents and load the data in database.
+‘+ Used Python and Django to interface with the jquery ul and manage the storage
+and deletion of content.
++ Rewrite existing Pythor/DJango modules to deliver certain format of data,
+
+2014 - 2016
+PYTHON DEVELOPER - ABC CORP
++ Wrote python scripts to parse xml documents and load the data in the
+database,
++ Used pandas api to put the data as time series and tabular format for east
+timestamp date manipulation and retrieval
++ Was involved in the environment, code installation aswell as the svn
+Implementation.
++ Cleaned data and processed third-party spending data into maneuverable
+deliverables within specific formats with excel macros and python libraries.
++ Ensured high quality data collection and maintaining the integrity of the data.
+*  Collaborated with intemal teams to convert end user feedback into meaningful
+and improved solutions.
++ This project also used other technologies like jquery for javascript
+manipulations, bootstrap for the front-end htm! layout.
+
+EDUCATION
+
+Masters Degree in Computer Science in Camputer Science- (River University }
+Bachelors Degree in Computer Science in Computer Science- (Jagrut!
+
+(0 Tis Free Resume Template the copyright of Quine ane com, Usage Gublines

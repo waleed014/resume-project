@@ -1,0 +1,59 @@
+James Lambert
+
+INFORMATION TECHNOLOGY
+
+@ info@resumekraftcom ( 41-202-555-0135 @ Chicago, Illinois, US
+
+iin linkedin.com/inijames
+
+SUMMARY
+
+| graduated from Telkom University university majoring in computer systems. Experienced Engineer with
+demonstrated history of working in the information technology security industry and service industry.
+Skilled in endpoint security or security system, antivirus and data loss prevention.Besides in the field of
+security system | am also experienced in the field of IT Infrastructure.
+
+SKILLS
+Mcafee Product @000e0 Virtual Server e@@e00
+Windows Server @0e@0@00 Venter @@@0@00
+
+Microsoft System Center @ @ @ OO
+Configuration Manager
+
+EXPERIENCE
+
+Security Engineer
+BNI Life Assurance Nov 2017- Present
+
+Security Engineer
+Novartis International Apr 2018 -jun 2018
+
+Security Engineer
+Citygroup Insurance May 2018 - Aug 2018
+
+PROJECTS
+
+BNI Life Assurance
+Security Engineer Nov 2017- Mar 2018
+
+‘© Upgrade ePolicy Orchestrator to version 5.3.2 (Mcafee Product)
+
+‘* Implementation and Deploy Agent version 5.0.6 (Mcafee Product)
+
+‘* Implementation and Deploy Antivirus ENS Version 10.5.3 (Mcafee product)
+
+‘© Implementation Threat intelligence Exchange (TIE) and Advanced Threat Defense (ATO) Product
+Mcafee
+
+‘© Preventive Maintanance and Troubleshoot Mcafee Issue
+
+Novartis International
+
+Security Engineer Apr 2018- jun 2018
+'* Implementation Upgrade ePolicy orchestrator version 5.0.1 to 5.3.2 (Product Mcafee)
+'* Implementation Upgrade and Deploy Agent version 5.0.2 to 5.0.6 (Product Mcafee)
+
+‘© Implementation Upgrade and Deploy version Antivirus VirusScan Enterprise 8.8.0 to Antivirus
+Endpoint Security (ENS) version 10.5.4 (Product Mcafee)
+
+‘© Preventive Maintanance and Troubleshoot Mcafee Issue

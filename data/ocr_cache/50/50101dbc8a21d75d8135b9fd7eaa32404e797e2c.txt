@@ -1,0 +1,104 @@
+Jackeline Kohler
+
+440 Lynch Plains, Dallas, TX @ Phone: +1 (555) 249 0481
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+AB-INITIO ETL APPLICATION DEVELOPER LEAD-GLOBAL FINANCE TECHNOLOGY
+
+Dallas, TX
+
+07/2015 — present
+
+‘* Help develop code migration strategies from one environment to the other
+
+Develop scripts to automate the execution of Ab Initio graphs using shell scripts under Unix environment
+
+Develop technical specification documents
+
+Help develop test cases and plans to complete the unit testing and support System testing
+
+Participate in design reviews / code reviews and ensure that all solutions are aligned to pre-defined
+
+tural specifications; identify/troubleshoot application code-related issues; and review and provide
+feedback to the final user documentation
+
++ Code, test, modify, debug, document, and implement Ab Initio Graphs utilizing the GDE environment
+and EME
+
++ Participate in unit testing and integration testing
+
+ETL APPLICATION DEVELOPER LEAD
+
+Dallas, TX
+12/2012 - 06/2015
+
+‘© Development in a data warehousing environment, with expertise in: CDC, type-2 processing, dimensional
+surrogate key handling, exception data processing, etc
+
+‘+ Incorporate advanced ETL (Extract Transform and Load) and data warehousing concepts for huge data
+volumes
+
+‘© Design Informatica workflows and mappings for optimal performance in a large scale Unix/ RDBMS
+environment. Tune Informatica workflows; knowledge of optimal mapping techniques
+
+‘+ Adhere to IT Control Policies throughout design, development and testing and incorporate Corporate
+Architectural Standards into application design specifications
+
+‘+ Partner closely with testing and production support teams
+
+* Development using Teradata utilities (fast load, multiload, tpump to load data, BTEQ scripts, DML and
+DDL, Fast export) and Informatica Teradata optimizations (PDO)
+
+‘* Create and Test Control-M jobs in Non Prod environments before migrating to Production
+
+ETL APPLICATION DEVELOPER
+
+Detroit, MI
+09/2010 — 11/2012
+
+‘+ Participate in the continuous improvement of the application, develop best practices
+
+‘+ Develop, create, and modify general computer applications software or specialized utility programs
+
+* Work with Application Leads and Business Managers to define and monitor Service Level Agreement’s
+and support commitments for existing products
+
++ Perform DI application/module deployment employing change management policies and procedures and
+support through the deployment in higher environments
+
++ Provide efficient utilization of UNIX shell scripting with advanced Informatica concepts for key design
+solutions
+
+© Working knowledge of Unix/Linux
+
++ Provide production support ani
+
+sue triage for products
+
+ROWAN UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Demonstrated ability to drive to deadlines, balancing multiple priorities, and ensuring quality standards
+Strong analytical and communication skills and an eagerness to learn new technologies
+
+Desired knowledge of dental or medical insurance claims processing including
+
+Expert knowledge of relational database applications and data query protocols (MS Access, SQL Server,
+Structured Query Language, SQL Reporting Services)
+
+‘You enjoy working autonomously and taking accountability for your success
+
+Detail oriented with a proven work ethic
+
+Excellent program implementation skills, written and verbal communication skills
+
+Strong time management, priority allocation and task management skills,
+
+Excellent analytical, problem-solving, and innovative thinking skills
+
+Ability to work in a disciplined manner and to remain composed under pressure

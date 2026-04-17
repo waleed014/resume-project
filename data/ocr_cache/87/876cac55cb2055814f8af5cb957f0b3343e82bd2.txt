@@ -1,0 +1,145 @@
+Summary
+
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Organized and detailed ETL /Data warehouse Developer with proven history supporting complex business intelligence projects. Collaborative
+team player with ability to partner cross-functionally to deliver solutions. Offering more than 4 years of experience in testing and
+troubleshooting databases.
+
+Semis
+« Relational databases * Data management
++ Data warehousing * Troubleshooting
+* Analysis and modeling + Package Design
++ Requirements gathering + Extract, Transform and Load
++ Agile methodologies * Data Modeling
+* Decision-making « Data Analysis
+‘© Organizational skills © Scrum
+* Microsoft Office
+‘EXPERIENCE
+
+09/2018 to 12/2020
+
+08/2017 to 08/2018
+
+07/2016 to 07/2017
+
+ETL/Data Warehouse Developer
+
+Android Industries — Arlington, TX
+
++ Gathered business requirements, definition and design of data source and data flows
+
++ Develop technical design specifications and code specifications to meet business requirements/specifications.
+
+« Building, Maintaining SSIS package, Package Configuration, ETL Process, Package deployment. Enabling new
+packages with companies’ framework.
+
++ Highly experienced with the Full Life Cycle and Methodology for implementing OLAP (Online Analytical
+Processing) data warehouses (star and snow flake schemas) and business intelligence reporting systems.
+
++ Extracting data from Excel files, Flat files, OLE DB source, XML Files, Json Files and so on and loading the data into
+different destinations. Within the data flow, I have utilized various sources, transformations and destination to manage
+packages.
+
++ Transformations of Data using SSIS tools such as Multicast, conditional Split, Derived Column, Data Conversions,
+‘Merge join, Union All, Pivot transformations, Unpivot transformations, lookup ete.
+
++ Within the control flow, Ihave utilized Data Flow Task, Execute Task, Script Task to enhance package deployment,
+‘Sequence Container, ForEach and For loop Containers.
+
++ Maintained and configured packages with checkpoints, breakpoints, package logging, error logging and event handling
+to redirect error rows and fix the errors in SSIS.
+
++ Strong proficiency in the use of SQL for developing complex stored procedures, triggers, tables, user-defined
+functions, relational database models and data integrity, SQL joins and query writing
+
++ Converted complex business logic into SQL Stored Procedures and user-defined functions to achieve functionality
+
++ Designed, developed and deployed SSRS reports that include; parameterized reports, snapshot reports cached reports,
+drill down reports, drill through reports, linked reports, click-through reports, Sub Reports.
+
++ Troubleshooting and Regular monitoring of Time/Data driven Subscription based SSRS reports and SSIS external file
+transfers.
+
+Developed Packages using Tasks, Containers & Transformations like full load, incremental load, & bulk insert,
+aggregate, slowly changing dimensions in SSIS.
+
++ Migrated data from Heterogeneous Data Sources to SQL Server databases using SSIS to overcome transformation
+constraints.
+
++ Generated periodic reports based on the statistical analysis of the data from various time frame and division using
+SSRS.
+
++ Created traces using SQL Server Profiler to find long running queries and modify those queries as a part of
+Performance Tuning operations.
+
+SQL Developer
+Colaberry Inc. - City, STATE
+
++ Creating efficient SSIS packages to extract, transform and load data into target databases.
+
++ Reviewing current ETL packages and suggesting improvements for efficiency.
+
++ Monitoring error logs and correcting ETL issues uncovered as well as building processes that prevent recurring issues
+in the future.
+
++ Participation in software design discussions to enhance performance and solution delivery to clients.
+
++ Engaging Account Managers and Clients on conference calls to better understand their business needs and
+implementing long lasting solutions to resolve client data processing issues.
+
++ Researching account discrepancies and writing corrective T-SQL queries and Stored Procedures to correct them.
+«Import & Export of data from one server to other servers using tools like DTS and bulk copy. Periodic monitoring of
+the system for bottlenecks
+
++ Providing some 24/7 support via rotating responsibility model within the Data Management team
+
++ Using ETL failures to create job aids for training purposes.
+
++ Soliciting Functional Requirements from Account Management and implementing ETL solutions for new clients.
+
++ Participating in daily scrums and brainstorming sessions
+
+BI/SSRS Developer
+Colaberry Inc. — City, STATE
+
++ Designed & developed SSRS dashboards for Claims Adjustment Operations
+
++ Optimizing existing data models including changing load scripts to load data in optimized way to achieve reduction of
+loading time, simplifying complex expressions in the front-end, improving layout structure
+
++ Working with the business to document and develop KPIs for the calculations in the SSRS.
+
++ Extensive experience in using T-SQL for developing complex Stored Procedures, Triggers, Tables, Views, User-
+Defined Functions.
+
++ Experience in using all kinds of Constraints, managing Indexes, Locks, troubleshooting deadlocks and handling the
+Isolation Levels.
+
++ Identified and worked with multi-value parameters for parameterized reports in SSRS.
+
++ Scheduled, maintained, and supported the distribution and access to reports at Server level
+
++ Configured and maintained Report Manager and Report Server SSRS.
+
++ Created Sub-Reports, Drilldown-Reports, Drill through, Summary Reports, and Parameterized Reports in SSRS.
+
++ Developed Proof of Concepts (POC) for various projects using SSRS.
+
++ Expert knowledge of deploying SSRS dashboards.
+
+Epucation AND TRAINING
+
+09/2017
+
+(CERTIFICATIONS
+
+Master in Business Studies: Business Management.
+‘Tribhuvan University - Kathmandu,Nepal
+* Major in Finance
+
+‘+ AZ-900: Microsoft Azure Fundamentals
+‘* Microsoft 70-463: Implementing a data Warehouse with Microsoft SQL Server 2012/2014

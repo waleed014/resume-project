@@ -1,0 +1,91 @@
+info@resumekraft.com
+
+Tools
+
+« Selenium
+
+« QMETRY
+
+e JIRA
+
+e RPA UiPath Studio
+
+Career graph
+
+Associate Software Engineer
+Info Tech Systems Inc
+May 2014 - Oct 2015
+
+Software Engineer
+
+JP Stanley Morgan Tech
+Oct 2015 - Jan 20178
+
+Certification
+
+Advance Developer
+certification in RPA UiPath
+
+David Dominic
+
+FUNCTIONAL TESTER
+
+0 9 in
+
++1-202-555-0114 Chicago, Illinois, US https:/Avww linkedin.com/in/david
+
+Summary
+
+Over 5 years of IT experience in Automation Testing, Functional Testing
+practices, methodologies, and standards. Comprehensive knowledge of
+software development life cycle and quality assurance methodologies
+like Analyzing Test Requirements, Defect cycle management.
+
+Work Experience
+
+Project2: UMGI - PIXIE
+Functonal Tester Sep 2076 - Jan 2078
+
+e Analyzing the functional specifications and presenting via demo call to
+onshore design team to convey them in case of irregularities regarding the
+test process.
+
+e Testing Process includes test case design, test data preparation, ingestion,
+XML validation and store them in a tool called QMETRY.
+
+e Estimating the roadmap, total time required, manpower of each and every
+sprint
+
+e Quick and efficient manual testing on all major modules of the Digital
+platform along with smoke testing, End-to-End testing, Maintenance testing
+and regression testing.
+
+e Performing UAT testing during each and every sprint to ensure minimal
+flaws incurred, in addition to QA.
+
+e Creation, management of defects through Defect cycle management tool
+called JIRA.
+
+« Communicating about the go-live release's changes to the
+onshore/offshore operations team to facilitate maximum support from our
+side and Provide timely updates about the sprint and peer status with the
+Test Manager.
+
+e Carry out regression testing every time when changes are made to the
+code to fix defects.
+
+e Experience to run the test cases using Selenium tool.
+
+e Asacritical resource, | have led the team in several occasions especially
+during critical phases of the execution.
+
+« Mentoring /guiding Team Members and have assisted them in their career
+growth.
+
+e Worked as an Individual resource thus managing Full Pixie application
+from tester end during all phase of the execution
+
+Education
+
+Bachelor of Engineering (IT)
+University of Pennsylvania Aug 20/0 - May 2014

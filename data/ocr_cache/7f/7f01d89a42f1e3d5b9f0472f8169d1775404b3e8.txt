@@ -1,0 +1,76 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+Salesforce Technologies
+
+Salesforce Configuration, Security
+Controls, Apex, Batch Apex, SOQL,
+SOSL, Visualforce pages, Apex web
+services, Service Cloud, Sales
+Cloud and Force.com Sites
+
+CERTIFICATIONS
+
+Certified Salesforce Developer
+{DEV - 401)
+
+Certified Salesforce Administrator
+{ADM - 201)
+
+Certified Salesforce App Builder
+
+EDUCATION
+JNT
+India + 2010
+
+Bachelor of Technology Computer
+Science: Computer Science
+
+PROFESSIONAL SUMMARY
+
+Highly-skilled software development professional bringing more than [Number] years in software
+design, development and integration. Advanced knowledge of [Programming language] and
+[Programming language].
+
+WORK HISTORY
+
+Apex Systems - Salesforce Developer/Admin/Pre-Sales
+Seal Beach, CA + 03/2015 - Current
+
++ Streamlined deployment process by developing continuous integration tools.
+
++ Built a force.com application using visual force pages and enabled force.com sites for customers to
+access and fill in the Questionnaire form.
+Implemented Service cloud to manage cases
+
+Skil Service Cloud, Force.com Sites, Visualforce Pages ,Metadata API, Tooling APL Buk API.
+
+Accenture - India - Sr.Salesforce Developer
+11/2014 - 02/2015
+
++ Built an application in salesforce to maintain the data about the courses and training offered in
+universities.
+
++ Integrated with different external systems using Webservices using SOAP API to keep the data in
+sync with legacy systems with the Student and trainer and course details.
+
+Skills: Apex, Visual Force, Web Services, SOAP API.
+
+Deloitte - India - Salesforce Developer
+
+03/2013 - 11/2015
+
++ Built tested and deployed scalable, highly available and modular software products
+
+* Salesforce CRM and Apttus CPQ have been used to give the replacing solution for Order
+‘Management, Trouble Ticketing, and many more applications.
+
+Implemented the functionality from Quote Process to order Creation.
+Skills: Apttus CPQ, Batch Apex, Visual force Pages, Data Loader, HTHL, CSS and JavaScript

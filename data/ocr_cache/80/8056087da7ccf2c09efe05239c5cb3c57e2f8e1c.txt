@@ -1,0 +1,69 @@
+Timothy Duncan
+SAP ABAP Developer
+
+466-217-4249 « timothy.duncan@yahoo.com « luminous-circumference.org « New Haylee, Mauritania
+
+My Life Philosophy
+
+Success is not the key to happiness. Happiness is the key to success. If you love what you do, you will be
+successful.
+
+Summary
+
+Passionate SAP ABAP Developer with over 6 years of experience in designing, developing, and implementing complex ABAP.
+programs for SAP modules and functions. Skilled in ABAP Workbench, SAPUI5, Fiori development, and SAP workflow. Experienced
+in collaborating with cross-functional teams to define technical requirements and deliver customized workflows. Strong analytical
+and problem-solving abilities, ensuring smooth system integration and optimal performance. Bachelor of Science in Computer
+Science from the University of Technology. Proven leadership capabilities and a track record of successful project delivery. Fluent
+in English and German. Ready to contribute to a dynamic organization's mission and drive innovation through cutting-edge SAP
+solutions.
+
+Strengths
+
+WY Leadership @ Analytical Thinking |B Problem Solving
+
+Demonstrated leadership skills by
+successfully leading a team of
+developers on a critical SAP
+enhancement project, resulting in
+on-time delivery and increased
+user satisfaction.
+
+Proven ability to analyze complex
+business requirements and
+translate them into efficient
+technical solutions, resulting in
+improved system performance and
+streamlined processes.
+
+Adept at identifying and
+troubleshooting technical issues,
+utilizing a systematic approach to
+resolve problems and minimize
+impact on business operations.
+
+Experience
+
+ABC Corporation Brackley
+SAP ABAP Developer 2022 - Ongoing
+
+Designed, developed, and implemented complex ABAP programs for SAP modules and functions to streamline business processes
+
+resulting in a 20% increase in efficiency. Collaborated with cross-functional teams to define and deliver custom workflows and
+
+ensure seamless integration between SAP ERP and external systems.
+
+* Designed and built forms for SAP modules using SAP script, Smart Forms, and SAP Adobe interactive forms.
+
+* Utilized ABAP Workbench and ABAP Objects/Classes to develop and enhance SAP applications.
+
+* Troubleshot and debugged complex SAP module problems to ensure smooth functioning of business operations.
+
+* Worked with stakeholders and end-users to gather technical requirements and provide technical assistance.
+
+* Contributed to the development of SAPUI5/Fiori applications to enhance user experience and accessibility.
+
+* Collaborated with the finance and procurement teams to optimize Fl/CO and MM modules for efficient financial management
+and procurement processes.
+
+www.enhancv.com Powered by (CX? Ennancu

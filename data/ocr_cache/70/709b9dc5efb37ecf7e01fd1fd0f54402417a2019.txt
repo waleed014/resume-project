@@ -1,0 +1,236 @@
+Jessica CLAIRE
+
+100 Montgomery t 108 Foor
+(659) 432:1000-renmesanple@examlecom
+
+Prornsstowat. Stantany
+
++7 years of pessoal experience 2 Phen Developer, proficient oder in malile languages and experience in Design,
+Develpet plementation of yin, Django, Flak, Pyramid and cheat - sever technologies based aplicatns, RESTI serves,
+AWS, € Cre, a SQL.
+
++ Softare Testing Autoumtion Wi solid understanding of Test Ping. Test Design, Test Execution ad Defect Reporting & Tracking
+
++ Extensive experince in developing acd deploying apilcations sing Pybion oe Aanzoe Wed Sees AWS) cloud lator,
+
++ Designed and developed cess interaton wing Python, Fak, iv nd Jenkins,
+
++ Extensively wed Spark Nanp, Pans, nd SQL fr Data Ams and Model Bung.
+
++ Experience in resting an developing we Anse applisions sng Pn, Dag, C+, XML, CSS, HTML, a:Scrp, a JQ:
+
++ Bale knowlege of OOPS, Muli-Teading and Cllctosconeps in Python, Usd Pandas itary fr Saisie Ana.
+
++ eloped web application and REST web services and APL wing Python Flak, ang, Pra
+
++ Proficet in SQL dasbases MYSQL, PostgreSQL, Once and NOSOL databaies MoopeDB, Cassandra
+
++ Experienced in MVC famewoks ike Djang, HTML, C88, XML, Java Scrip, Quay Bootstrap, ISON,
+
++ Paice incoderevews,cotbted tthe FASTAPI corny tough ope sure contibutons and aye up te ate on the test
+‘eat acces and developmen i the FASTAPT and Pt commits.
+
++ Proficient in bling and plying AWS resources sucha B2, $3, Lambda, DynamoDB,ClouiFormation, ClosdWath and Elastic
+Best
+
++ Experience in sing Version Control Systems ike GIT, SUN, an CVS to kee the version and configurations of the code oraz
+
++ Proficient in eting vp and configuring continous integration cd deployment (CUD) pipelines sing AWS codPipeie,
+CodeCommit a Coed
+
++ Hsang expen in Ape Meholoi, Scum stories an arin experience i Pho used eniscement an Excel data ext
+
++ Experience in bing REST APs wig AWS API Gateway and deploying serves fnctions weg AWS Lamba
+
++ Having Exgecce i Ale metdalopies, Serum sts ad Spits experience ita Python based encanta excel data extae
+
++ Experience in creating the Docker cuties and Deke onl for managing te apiaoa fe
+
++ Experience in working wth Operating Systems like Windows, Linx and UNIX
+
++ Possess good interpersonal and zl resetaion Sls, andthe ality to work i sel anaged and Tem envieoens,
+
+Teawacat
+
++ Languages: Prion, SQL, HIME, XML, C, Co Sbll Sept, Versoning Tels: GI, CVS, SVN, Bitucket
+SeaScg PH, Mackie Leaning + Tools IDE: PyChum, Seine, Eel, NetBeans, Atom,
++ Frameworks: Django, Fk, AnglaS, Nodes jQ0e, opts, SsTet, Selena WebDaive
+
+Booty + Libraries: Pandas, Num, Sit Lean, PySprk, Map,
++ Database: SQL, PosereSQL, NeSQL, MoegoDB, Orc, Seabom Docker, enki, Able
+
+sands + Operating Stee Windows, Lina, Unix
+
++ Web Servies: REST, SOAR paste
++ Chua Serves: AWS, Lambs, 55,2, Amazon ER.
+
+Prornsstonst EXPERIENCE
+
+‘92021 wCuteet_ Sr Python Developer
+(Comming Li-Cor SC
+
++ Paicipted inthe equizemea gathering and ass phan documenting the busines eqienens by
+conducting meetings th anos buses we
+
++ sled in Buses lope plementation, dts excane, XML processing and raphe creation have been done
+‘wing Pte and Django.
+
++ Designed and developed aseaale web appiaion wig Python on AWS, leveraging sees uch as EC2, 3,
+‘anbia, DynarmeDB, API Gateway, and lorcet.
+
++ implenected MVC architec wing serve se applications, Django, fr developing web applications
+
++ Creed Django daar with costes lack od feel fr teed er aera cael dy ofthe Django ain
+site and dashboard
+
++ Used yt and Django interfce wth the jQuery UL and mange the storage and deletion of coment,
+
+«+ Developed RESTI APIs sing Python ad Flak, ao nteprated wt vaous AWS services sucha DyramoDB,
+3 and Lamb.
+
++ Vie AWS EC? commandline intartce with Python to stat epee work
+
++ Worked on Fakta connect at-endotack-end, Chery to bul the serve, and wor lds iualize
+
+«+ Confgud Coogee to improve perfomance and provi see aces othe web appiatine,
+
++ Creed SQL Alc able definition and ved Once date which wa tga nto he PyCham IDE.
+
++ Developed Micro sence wing Go langage ad wee o est eses ad as experince of ius python
+plication develope aed CUCD pipelines ol ike Gib, ens, AWS and Uni sel scripting
+
+‘+ Worked on Python Open tack APIs wing Python srg fo pds octet inthe database an manipulate les,
+
++ mplenected nonitring ad loging wing AWS Clodnatch, roving rea ine visit the performance
+ana bea of web application
+
++ Experience in agile envionment wing CLCD model methodology:
+
++ implemented CLCD pipeline sng jens, Ansble playbooks and Anse Toner
+
++ Reson for nplemenig montrig sltion in Abe, Tear, Docker, Jenkin
+
++ implemected Datatabes toa, delete, wpe, and display patie eors an poi information sng Py
+
++ Used Test Driven Approach fo deelpiag te application ad implemented the uit ets sing te Python Ut
+‘Tet mee
+
++ Used Bah nd Python inde oto} to sopplementstomation povided by Anil and Tear fr take
+such Scheduling Lamb fonctions fo routine AWS tks.
+
++ Developed company-wide echnical stn plans fr Po based ase, tenesng development, colina
+debugging nd [Tk]
+
+05201616 072021 Python Developer
+‘Cumming Lie Rezo, NV
+
++ Managing PostgreSQL production databases, Applying PoreSQL paths and schema changes.
+
++ Azsvang an snpleeming new eckasopies ah PostzeSQL seer
+
++ Used Python, Dang, and Pham Eamewers to develop pplication ad wa expose for both tack en
+rograming and oc-od facta wing Ajax Angula JS, and ober teckoloies.
+
++ Developed and matin miseries wing Python FastaPL,plemening RESTA APIs to supe a sity
+fbn aes
+
+«+ Tavlvedin baling database Modes, AP, nd Views wing Python inorder bila interactive web asd
+seltion
+
++ Bait FedRAMP complaint DesOpe ili for a define contr’ lod intact ising thon,
+enki, an Docker
+
++ Developed Busines Logic ing Pyton on Dingo Web Framework
+
+* Vilna the Fast bitin pyr fr OpenAPIoatmaticly generate API docuestnion, making ity fr
+cote develops to understand and we the APIs
+
++ Develop prosrams tao teeing of onlin CLCD eavioement sine pth, Git Lino omamand
+line, va Sept,
+
++ Soci migrated he Dang dtsbse fom SQLite to MYSQL wih complete dt ne
+
++ Key responses cde ete op PstareQL. dah ith replication ad implementing ia hows ackop
+selon
+
++ Used FastAPstiltin suppor for anyckronous programming andthe async rary to improve the APTS
+responsiveness and als
+
++ Developed views and templates with Python and Django’ view contol od eplating aguage teat awe
+hen nebo tere
+
+«+ negrted Fan API with varios dra strage stems, icing MySQL, PosteeSQL, and MongoDB, persist
+nc cece tae win the ines.
+
++ Exesively worked on enki to impement Continous ictepration (I and Continous deployment (CD)
+roeeses
+
+«+ Experience to bd CUCD pipeline to automat te code eleae procs wing itegratin tole ike GV,
+ita, enki.
+
++ Developed SQL Ques, Sted Proedes, ed Tigers Using Oral, SQL, PLSQL
+Maite version contol of Pyten by sing GIT. (Mere, Branch Push, and Commi.
+
++ PosgreQL implementa, estonia arn the date ine withthe este expectations
+
++ implementing High aaa sluions wig PosreSQL migrating rom difeet aabases to Poste.
+
+(0820161004208 Python Developer
+(Client -Fsty iy, STATE
+
+«+ Anended Scrum meetings provide project stats demonstrations every to wes, hs mplementing Ale
+Methodsogy (eran wit Tet Deven Development
+
++ Developed esicute modelo ge sale daze to aes ious bane roblens tough leering
+sdsanced state modeling. ace eeig a deep ering
+
+«+ Developed high perfomance API sing PytionFastAP, capable of handing lage mabe of eqs ith
+sini ney
+
++ Pepocesed he dt by handing mising ves, encoding categorical varies, a sealing manera fae
+
++ Used R programming language graphically rtqing the datasets and to gain insight tintepe the at of
+thedata
+
+«+ Built nd opined several machine leaning modes ch logic repeing,dcton we, nd and foe,
+to ene best performing one
+
++ Worked with Pytbon along wih arScript reste scale an common compooets whch cn be we ass
+the whole framework.
+
++ Pecfroed data ques fom Python wing Pthow MYSQL coonector an MYSQL package treieve
+infomation
+
++ Designed the APT using the OpenAP standard, roving detailed documentation nd making it ny Sr cite
+interact withthe APL
+
++ Forth ean of ata fom the database varios ques were writen anda dbase was reed sig
+Nevsat.
+
++ Wien wih Objet Oreed Python, Fk, SQL, HIMELCSS, Bootstrap, jQvy Li, Sublime Text, Git
+
++ Having knowledge on AWS Lamba, Auto Sealing RDS, AWS SNS, SES.
+
++ implemectedatonted esting wig Pts, essing at he API was alas Factoing 2 expected
+
++ Werke closely with oat end developer and rot ones tense tat he API met bse equtenens|
+adler he dese ints
+
++ Contd othe FastAP common by staring koe and resources gh log pos, open-source
+cottons, nf participation online fran sa meeps
+
++ Deployed th model a eb aplstion ang Flak al the cnt interact withthe model ad obtain
+eticsoas inrea ine
+
++ Exyonure ca Mul Threading fet to daub earning proces back tenting sade it ious worker
+woes,
+
++ implemeated ad eniased CRUD option for he applications wing the MVC acter of Django
+‘famenedk ad alia contacted ode eviews
+
+Epvcanox
+Bachelor of Scene: Computer Scene & Engaering
+‘Acharya Nagarjuna Valeriy
+
+Master of Slee: Information Scenes
+‘Tine Uairerty

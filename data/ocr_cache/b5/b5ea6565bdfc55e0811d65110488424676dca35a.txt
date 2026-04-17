@@ -1,0 +1,67 @@
+Yulonda Poley
+Network Security
+Engineer
+
+Profile
+
+Employment History
+
+Education
+
+Details
+yulonda.poley@gmailcom
+(186) 446-3014
+
+Little Rock, AR
+
+‘Asa Network Security Engineer with over 3 years of experience, Ihave
+‘managed the daily operations ofa variety of networks and systems, from
+‘small local networks to high-performance data centers. !have extensive
+‘experience in network security, firewall configuration and maintenance,
+‘network monitoring, and troubleshooting | have also implemented
+
+‘and supported policy enforcement tools such as intrusion detection
+systems. In addition, have developed and maintained secure network
+architectures and provided guidance on network security best practices
+‘My experience has allowed me to develop excellent problem-solving and
+‘communication skils, as well as a comprehensive understanding of the
+latest security technologies.
+
+Network Security Engineer at Walmart, AR
+(Oct 2022- Present
+
++ Successfully implemented a comprehensive network security policy
+{for Walmart’s AR facilities. This included the instalation of firewalls,
+intrusion prevention systems, and advanced malware protection,
+resulting in a 90% reduction in security incidents.
+Designed and deployed a secure virtual private network (VPN) across
+all Walmarts AR locations, enabling secure remote access tothe
+‘corporate network. This resulted in improved employee productivity
+‘and reduced operational costs by 20%.
+Developed a comprehensive network security training program forall
+‘Walmart’ AR employees. This program was successfully completed
+by over 00 staff members, resultingin an 80% reduction insecurity
+breaches due to user error.
+
+Network Security Associate at Tyson Foods, AR
+2020 Sep 2022
+
++ Implemented a security solution that prevented 60% of malicious
+network intrusions, resultingin a reduction in security incidents by
+30%.
+
++ Developed and maintained network security policies for Tyson
+Foods that included the implementation of firewalls, encryption,
+authentication and access control
+
++ Conducted regular audits of network traffic to identify and address
+any security threats, leading toa decrease in network downtime by
+25%,
+
+Bachelor of Science in Network Security Engineering at University
+of Arkansas at Little Rock, AR
+
+‘Aug2015 - May 2020
+
+Relevant Coursework: Network Security, Network Design and
+Implementation, Computer Forensics, and Cryptography.

@@ -1,0 +1,93 @@
+1 makeba.adriance@gmailcom
+% (216) 482-0817
+Madison, wi
+
+Education
+
+Master's Degree in
+Blockchain Technology
+at University of
+
+jisconsin-Madison, WI
+
+Relevant Coursework:
+Distributed systems,
+Cryptography, Data Structures,
+and Algorithms, Blockchain
+Technologies, Blockchain
+Architecture, Smart Contracts,
+Blockchain Security, Digital
+Currency, Ethereum and
+Solidity, Blockchain Project
+Design and implementation,
+Advanced Cryptography, and
+Cryptocurrency Regulation.
+
+Links.
+linkedin.com/in/makebaadriance
+
+Skills
+Solidity
+
+Ethereum
+
+Hyperledger Fabric
+
+‘Smart Contracts
+
+Cryptography
+
+Makeba Adriance
+
+Blockchain Developer
+
+Profile
+
+Driven Blockchain Developer with one year of experience specializing in Ethereum
+{and Bitcoin platforms Proficient in creating smart contracts, implementing,
+blockchain-based solutions, and developing decentralized applications. Strong,
+knowledge of Solidity and Node,js languages. Exceptional problem-solving skills.
+‘and ability toworkina fast paced environment, Demonstrated history of enhancing,
+system efficiency and reducing potential security risks. Passionate about leveraging,
+blockchain technology to create innovative solutions.
+
+Employment History
+Senior Blockchain Developer at Block.one, WI
+
++ Led the development of a new blockchain application that increased
+transaction speed by 40%, improving overall system efficiency and client
+satisfaction,
+
++ Successfully resolved over 9086 of blockchain code vulnerabilities, significantly
+‘enhancing system security and reliability.
+
++ Implemented a smart contract functionality that reduced transaction costs by
+30%, saving the company approximately $1 million annwally
+
++ Mentored and traineda team of junior blockchain developers, increasingtheir
+productivity by 50% and contributing to faster project completion times.
+
+Junior Blockchain Developer at IBM, WI
+'Sep2022 -Mar 2023
+
++ Developed and successfully deployed a blockchain-based supply chain
+solution for a major retail client, resulting in a30% increase in operational
+efficiency and a 20% reduction in costs
+
++ Leda team of 5 developers. creating a secure, decentralized voting system
+using blockchain technology for a local government body, improving voting
+transparency and reducing fraudulent activity by 50%.
+
++ Implemented smart contracts for ahealthcare client, leading to enhanced data
+‘security and privacy, reducing data breaches by 40%.
+
+Certificates
+Certified Blockchain Developer (CBD) from Blockchain Councit
+
+Certified Ethereum Developer (CED) from B9lab Academy
+e202
+
+Memberships
+Blockchain Research Institute (BRI)
+
+International Blockchain Real Estate Asso

@@ -1,0 +1,86 @@
+Trevor O'Connell
+6830 Nolan Extension, Philadelphia, PA # Phone:
+
+1 (555) 601 9187
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+ETL APPLICATIONS DEVELOPER / AUTOMATION
+‘San Francisco, CA
+03/2016 — present
+‘* Coordinate the execution of test scripts with QA Leads, Project Managers, Development Managers, and
+internal testers
+Assist QA Leads in planning/developing a test plan which includes regression testing
+Develop and execute test scripts utilizing HP's Quality Center
+Assist Application Developers and technical support staff in identifying and resolving defects
+Track testing risks and develop mitigation action plans
+Develop deep application content knowledge in system functionality and system operational
+processes/procedures
+‘+ Assess and revise test sequence and scope based upon test results and/or changes in product design
+
+AB INITIO ETL APPLICATIONS DEVELOPER
+
+Philadelphia, PA
+04/2009 - 10/2015
+
+‘* Coordinate code migrations to move code through each environment (Development, Test and
+Production) with the code deployment teams
+
+Help develop test cases and plans to complete the unit testing and support System testing
+
+Develop scripts to automate the execution of Ab Initio graphs using shell scripts under Unix environment
+Ensure adherence to architecture standards, risk management and security policies
+
+Develop scripts to automate the execution of Ab Initio graphs using shell scripts under Unix/AIX
+environment
+
+‘* Develop technical specification documents
+
+‘* Work in a collaborative team of software professionals
+
+ETL APPLICATIONS DEVELOPER
+
+Phoenix, AZ
+02/2003 ~ 10/2008
+
+‘© Write high-quality code and related documentation, perform unit testing and adhere to JPMC software
+development process
+
++ Participate in the continuous improvement of the application, develop best practices
+
++ Serve as the technical subject matter expert on designing and developing high performance applications
+
++ Keep abreast with the latest developments in Enterprise Java and open source technologies; share
+knowledge with the team and propose adoption of new technology
+
+‘+ Help develop test cases and plans to complete Unit testing; support System testing
+
+‘© Development in a data warehousing environment, with expertise in: CDC, type-2 processing, dimensional
+surrogate key handling, exception data processing, etc
+
+‘© Assist the team in supporting the application in QA and production environments
+
+SETON HALL UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+‘© 8+ years of experience with full life cycle software development
+
+‘* Experience in Abinitio technologies including, but not limited to Ab Initio graph development, EME, Co-
+Op, BRE, Continuous flow
+
+Hands on experience in PL/SQL programming
+
+Hands on experience on data mart design & development,
+Experience with job scheduling tools such as TWS or Control-M
+Knowledge or hands on experience in Informatica
+
+Knowledge of version and revision control practices and procedures
+Skilled in problem solving and analytical reasoning
+
+Excellent communication skills, both verbal and written
+
+Ability to work well in a team oriented, agile environment

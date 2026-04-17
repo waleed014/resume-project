@@ -1,0 +1,61 @@
+First Last
+
+Senior Java Developer
+
+Sacramento, California + +1-234-456-789 + professionalemail@resumeworded.com * linkedin.com/in/username
+
+Senior Java developer with 10+ years of leading teams and delivering high-quality software on time and within
+budget. Key achievement: brainstormed with 1300+ business owners to translate functional requirements to
+technical specifications, ensuring that features were tested and delivered promptly with minimal issues.
+
+RELEVANT WORK EXPERIENCE
+
+Resume Worded, New York, NY 2015 — Present
+Senior Java Developer
+
+e Provided technical leadership to 120+ international developers on the team via code reviews, mentoring,
+
+and annual virtual training.
+
+e Managed Quality Assurance, User Experience Designers, and 10+ other cross-functional teams, ensuring
+that requirements were well understood.
+Supervised a team of 50+ developers that created an app downloaded 1M times within 24 hours of release.
+Approved architectural decisions related to developing 30+ applications and designing solutions for the
+scalability and reliability of systems.
+
+Growthsi, San Francisco, CA 2013 - 2015
+IT Infrastructure Manager
+
+e Negotiated for discounts with 100+ vendors, leading to $400K in retained revenue and a 33% reduction in
+
+annual support costs.
+
+e Overhauled the availability and disaster recovery solutions to the company’s infrastructure by providing
+backup solutions and load balancing; reduced 78% of network equipment costs.
+
+e Reviewed and coordinated a project management software to manage 40+ projects supporting software
+
+development teams.
+e Launched new software tools to automate 20+ repetitive processes and installed a hardware firewall to
+secure the company server network, reducing $750K in monthly operational costs.
+
+Resume Worded Exciting Company, San Francisco, CA 2011 - 2013
+Operations Engineer
+e Established procedural guides and communication strategies that reduced monthly service costs by $150K
+without impacting service quality and employee morale.
+e Designed a complete application roadmap to support 1400+ concurrent users on a production system in
+
+the first month.
+e Collaborated with a 20-person team in developing software modules for an enterprise-wide customer
+
+satisfaction tracking program.
+
+EDUCATION
+
+Resume Worded University, New York, NY 2011
+Associate of Science — Computer Programming
+
+SKILLS
+
+Technical Skills: Software Development (Advanced), Agile Methodologies (Experienced), Web Development
+Languages: English (Native), German (Fluent), French (Conversational)

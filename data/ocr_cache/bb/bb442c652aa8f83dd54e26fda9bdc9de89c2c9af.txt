@@ -1,0 +1,134 @@
+SUMMARY
+
+EXPERIENCE
+
+SKILLS
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 82 (555) 432-1000 4 resumesample@example.com
+
+Strategic ETL Analyst versed in distiling and analyzing large data sets. Develops and delivers presentations
+detailing data findings. Articulate and collaborative with proficient data experience including SQL,
+
+documenting ETL mappings & moderate coding using Go Lang. Recently Scrum Master Certified and looking
+to grow data analysis & coding experience. Experience in a startup tech environment & working 100% remote
+
+DATA/ETL ANALYST 10/2021 to 03/2023
+Computer Aid | Miramar, FL
+
+‘+ Audited initial datasets to confirm validity of imported data, corroborating changes against updates in
+data tapes
+
++ Partnered with data scientists to support ongoing research and analytics initiatives.
+
++ Collaborated with data scientists to update business intelligence tools, databases or dashboards
+
++ Contributed to maintaining databases in conjunction with data development and software engineering
+teams
+
+‘+ Provided thought leadership in analytics solutions to benefit customers.
+
+‘+ Defined and documented ETL data mapping plans
+
++ Acted as liaison between technical and non-technical teams
+
++ Evaluated, manipulated and processed weekly medical eligibility data for about 95,000 active members
+
+BLGINESS ANALYST CONSULTANT 01/2021 to 10/2021
+Trexin Consulting | City, STATE
+
++ Healthcare Client 1: Senior Medicare PCP Providers
+
+‘+ Aligned director level leadership and organization for hyper growth business goal
+
+‘+ Used Miro to lead multiple remote workshops with 20 stakeholders to gather and align on ideas and
+requirements to develop a strategic plan
+
++ Completed a breakdown and analysis of key business processes to develop IT solutions for Sales and
+Marketing teams to grow membership by 10,000
+
++ Performed high level gap analysis to identify process and technology improvement opportunities for
+future hyper growth o Presented findings and recommendations to leadership to be implemented over a
+1-year timeframe
+
++ Healthcare Client 2: Global Medical Device Company
+
+‘+ Analysis of over 3,000 lines of call center data o Extensive data cleansing and examination to provide
+insight on the compliance of procedures used by agents/reps
+
+‘+ Use of pivot tables, formulas, and data validation to manipulate and analyze large sets of data
+
++ Healthcare Client 3: EMR Software and Practice Management Provider
+
++ Gathered business requirements from the client on legacy data points needed for updated data model
+
+‘+ Assisted in building a dimensional data model that consisted of over 80 tables and 3,000 attributes by
+determining business names, data types and lengths of each data point
+
++ Used SQL to parse and profile data to prepare for modeling
+
++ Populated all DDL’s (Data Definition Language) from the Erwin data model to a Mapping Document to
+track data from source to destination, including all transformation rules and chosen business names.
+
+ACCOUNT MANAGERISENIOR PRODUCTION SPECIALIST 01/2017 to 04/2020
+KC Document Solutions | City, STATE
+
++ Manage large scale projects where documents are transferred from paper-based records to cloud-
+
+based, mainly in healthcare and litigation
+
+‘+ Experience with sensitive legal documents and exhibits
+
++ Assess customer needs and upsell products and services to maximize Paper to cloud based files
+
++ Created and implemented process improvements to reduce workloads and bolster retention efficiency
+
+‘+ Work with production staff to develop service improvement initiatives
+
++ Success and experience working cross functionally with different teams in company
+
+CLONICAL TRIALS MANAGEMENT INTERN 07/2018 to 09/2019
+University Of Kansas Health System | City, STATE
+
+‘+ Patient data entry
+‘+ Data clean-up & database management
+
+‘+ Completed and submitted clinical documentation in accordance with agency guidelines
+
++ Kept patient care protocols and clinical trial operations in compliance
+
+‘+ Adhered to standards in all areas, including data collection, research protocols and regulatory reporting
++ Utilized software to compile data gathered from various sources
+
+‘+ Worked closely with team members to deliver project requirements, develop solutions and meet
+
+deadlines.
+‘+ Experience with a range of data/statistical’ + Process flow documentation
+programming/developing software and tools: + Lean Concepts
+Snowflake, Streamsets, Sigma, IBM SPSS, + HIPAA
+Tableau, R Studio, Visual Studio Code, Git + Medical terminology
+version control, Jira + Presenting to stakeholders
+
+‘+ Experience with multiple data and programming» Agile focused
+languages: SQL, Go Lang, Python, ZSH
+
+‘+ Proficient in Microsoft Office Suite: Word, Excel,
+Access, Outlook, etc.
+
+‘+ Experience with a range of EHR Software: Epic,
+Cermer, eClinicalWorks, PointClickCare,
+MediTech
+
+‘+ Experience with ticketing systems such as
+Zendesk
+
+‘+ Database management
+
+‘+ Background with medical coding
+
+Bachelor of Science | Health Information Technology 05/2020
+University of Kansas, Lawrence, KS

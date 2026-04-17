@@ -1,0 +1,90 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 ¢ resumesample@example.com
+
+Links
+‘+ WhatsApp clone (https://gthub,com/Jessicabollam/whatsappclone git)
+
++ (hitps://github.com/Jessicabollam/netflix git)
+«+ https:/github.com/Jessicabollam/website
+
+PROFESSIONAL SUMMARY
+
+Detail-oriented, organized and meticulous employee. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to
+company success. Highly skilled software development professional bringing enormous talents for software design, development and.
+integration. Offering advanced knowledge of in-demand programming languages. Background writing code and developing systems for
+[Industry] applications.
+
+SKILLS
++ API design knowledge + State Management Design
++ Cloud-based storage JavaScript
+* Product development # Responsive design
++ React + REST
+‘+ Amazon Web Services (AWS) Integration + TomCat
+Work History
+
+React Native Developer, 08/2021 - Current
+Centric Consulting - Cleveland, OH
+* Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
++ Responsible for design and development of various components such as tab bars.map view.image picker.document picker,push
+notifications sign-in/out features profile management and navigation using react-native.
++ Collaborated on stages of systems development lifecycle from requirement gathering to production releases.
+Involved in working on Restful Webservices with ISON
+‘+ Worked on AJAX with JSON for web page dynamic refreshing.
+* Utilized React Redux for transient app state.
++ Refactored error message handling design by implementing React Native alert dialogue resulting in potential decrease of user input errors,
+by 44%
+
+React Native Developer, 01/2021 - 07/2021
+Centric Consulting - Seattle, WA.
+* Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
+« Revised, modularized and updated old code bases to modern development standards, reducing operating costs, and improving functionality.
++ Re-coded application using React, which shortened page load times by up to 65%.
++ Designed the application architecture on TypeScript, React and Redux and accelerated the development rates by 15%.
+Handled nearly 5+ production tickets per day, 100+ tickets per month with respect to live customer trouble ticket resolution.
+‘+ Migrated an application toward the cloud, reducing hosting costs for the client by 50%.
+
++ Led version control efforts for organization, employing public and open source repositories.
++ Documented software development methodologies in technical manuals to be used by IT personnel in future projects.
+‘+ Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs, and enhancements.
++ Built extensive test coverage forall new features which reduced the mumber of customer complaints by 7%.
+
+Front End Developer, 06/2018 - 12/2020
+‘Vimly&R — Allen Park, MI
+* Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.
+‘+ Made recommendations for new technology integration based on suitability and alignment to business goals
+* Coordinated with digital content manager to obtain content for updates and expansions.
+‘+ Advised intemal users on web service capabilities, principles and protocols.
+‘+ Teamed on user-centric design strategy in translation of UX and business requirements into coded solutions.
+Coded using HTML, CSS and JavaScript to develop features for both mobile and desktop platforms.
++ Implemented routing logic and navigation from screen to screen and implemented login functionality on the client side in React JS and UL
+router.
++ Developed user interface by using the HTMLS, CSS3, JavaScript, React JS, Redux for SPA development.
++ Used React-Router to tum application into Single Page Application
+Worked in using React JS components, Forms, Events, Keys, Router.
++ Produced websites compatible with multiple browsers.
++ Followed SDLC best practices within Agile environment to produce rapid iterations for clients.
+
+Frontend Developer , 08/2016 - 05/2018
+‘Gemini - New York, NY
++ Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.
+‘+ Worked cooperatively with client services, sales and design team in deadline-driven environment.
++ Followed SDLC best practices within Agile environment to produce rapid iterations for clients
+
+Involved in Requirements gathering, Analysis, Design, Development and Testing of application using AGILE methodology (SCRUM).
+Developed and designed the web interface using HTMLS, CSS3, JavaScript, JQuery, ReactJS, RelayJS, NodeJS and Bootstrap Use
+regulatory and compliance standards for user interface designs.
+
++ Produced websites compatible with multiple browsers.
+
+Created React JS components and Redux state reducers.
+
+EDUCATION
+‘Master of Science: Computer Science Engineering , 03/2017
+Sofia University - Palo Alto, CA.
+Bachelor of Science: Electrical And Electonics , 04/2013
+Amrita Vishwa Vidyapeetham University - Coimbatore
+(CERTIFICATIONS
+
+React
++ Certified React Developer

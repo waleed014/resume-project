@@ -1,0 +1,133 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10 Floor © (55) 452-1000 « resumesamplegexample.com
+
+Skills
+«+ Application Configuration + Attention to Detail
+
++ Vendor Management Relations «+ Knowledge Base Documentation
+
++ New Technology Integration + Project Management
+
++ End User Support + Change Management
+
++ System Testing. + Incident Management
+
++ Team Collaboration + Disaster Recovery Activities
+
++ Performance Monitoring and Optimization + Architecture and Design
+
++ Problem Solving + Disaster Recovery Planning and Drills
+«+ Stjessicaup and Shutdown Management + Application Lifecycle Planning
+
++ Automation Management
+
+Summary
+‘A natural leader and proven high contributor dedicated to completing work in a timely way. Passionate about coaching, mentoring,
+
+and assisting others and always willing to jump into help manage complex issues. A champion ofthe Gore Culture with a strong
+focus on excellent experiences for customers and associates.
+Experience
+SAP Basis Administrator, 05/2020 to Current
+‘Amazon.Com, Inc.—Kent, WA
+‘+ Manage and configure SAP S4 HANA, BW, and MDG landscape
++ SAP Certificate management, create knowledge documents to guide team members through the certificate management process.
++ SnapPay implementation and certificate management
++ Solution Managet/ Diagnostic Agent configuration
++ Configure alert monitoring via Solution Manager for the SAP landscape
++ Change Management via ServiceNow
+IT Champion
+«+ Application Owner ~ Redwood RunMyjobs
++ Technical Lead/Champion for Redwood RunMyJobs Automation
++ Work with vendor to dleasly define SOW
++ Product Assessment and comparison using SCOUT
++ Review vendor support agreements and licensing costs
++ Redwood implementation and configuration
+«+ Define clear expectations to the SAP functional teams
+«+ Provide status updates to PACE Project stakeholders
++ Redwood and ServiceNow implementation.
++ Create ServiceNow catalog item
++ Create knowledge documentation to be used by the Basis team
++ Align with stakeholders to gather business requirements for SAP batch jobs and deliver solution prior to go-live
++ Provide error alerting and daily reports on batch job execution to functional and technical teams.
+
+JDEdwards CNC Administrator, 06/2012 to 05/2020
+WIL Gore & Associates ~ City, STATE
+‘+ Manage and support business-critical applications JD Edwards and third-plessicay tools such as Vertex, Tidal Automation, and
+EDL
++ Configuce and maintain El web and enterprise servers.
++ Configure and troubleshoot Et related printers.
++ Apply ESU and follow Oracle recommendation for installations.
++ OMW project promations
++ ServiceNow change management.
++ IDE(BSSV Package builds and deployments.
++ EL Security Workbench administration, user and role security management which includes intemaljexternal auditing.
++ Server maintenance (AIX and Linx), ceate shell scripts to perform repetitive maintenance tasks such as log clean up and service
+restfesseas
++ Setup and configure Windows Developer Clients, install and maintain various developer's applications requests such as
+JDeveloper, MobaXterm, SQL Developer, and Java
+‘+ Acquired basic SOL knowledge to query Oracle databases to extract usable data for analysis.
++ Coordinated with vendors and IT Leadership to facilitate purchases
++ Coordinate data backups and disaster recovery operations
++ Diagnosed, troubleshot and resolved hardware and system problems
+IT Champion
++ Application Owner -Tidal Enterprise Scheduler
++ Technical Lead/Champion for Tidal Enterprise Scheduler Automation
++ Work with vendor to clearly define SOW
++ Review vendor support agreements and negotiate 3-year support contractsicensing costs
++ Automate JDE maintenance stJesicaup and shutdown processes
++ Tidal Enterprise Scheduler implementation and configuration
++ Lifecycle management through cross functional alignment, plan, develop test scripts and execute Application Upgrades - Tidal
+Enterprise Scheduler
++ Define test scripts and job-elated execution details
++ Provide status updates to stakeholders
++ Create ServiceNow catalog item
++ Create knowledge documentation to be used by third plessicay ERP support team Allart
++ CoachyTrainyMentor Allai team.
+
+[HELP DESK /Desktop Support Techatcian, 06/2007 to 06/2012
+WIL Gore & Associates ~ City, STATE.
+
++ Provide remote support to users
+
++ Setup and configure desktop and laptop computers
+
+«+ Image and configure PC for end users
+
++ Hardvware/Softare installation, replace mother/system boards, internal storage devices and memory configuration
+
++ Network Printer setup and configuration
+
++ Audio and Video troubleshooting
+
++ Mobile Phone Support
+
++ End User Support
+
+MANUFACTURING TECHNICIAN - IPD, 03/1996 to 0672007
+WEL Gore & Associates ~ City, STATE.
+
++ Machine operator created laminate products by utilizing expanded PTFE and suitable backer material, Performed online
+
+inspection
+
++ Ensured product quality through sampling and testing
+
++ Worked closely with engineering team with R&D
+
++ Calibrated laminator and various test equipment
+
++ Create daily production schedule for 24 hour manufacturing operation
+
++ Managed resources
+
+Education
+Bachelor of Science: Cyber Security, 01/2024
+UMGC- Adelphi, MD
+‘AA Business: Business Administration, 03/2015
+University of Phoenix - Phoenix
+Certifications
+
++ Microsoft MCP
+
++ CompTIA A+ Hardware and Software

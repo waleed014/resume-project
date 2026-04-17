@@ -1,0 +1,104 @@
+Robert Smith
+
+Informatica ETL Developer
+
+PERSONAL STATEMENT
+Accomplished and results driven professional with years of experience and
+{an outstanding record of accomplishments providing technology solutions
+that meet demanding time constraints. | exceed expectations on a
+consistent basis. Expertly develop scalable solutions that drarnatically
+Improve efficiency, productivity, and proftabilty
+
+WORK EXPERIENCE
+
+Informatica ETL Developer
+ABC Corporation - June 2005 - February 2007
+Fesponsibilties:
+
++ Worked on Extraction, Transformation and Loading of data using
+Informatica,
+
++ Involved in the design and development ofall Interfaces using
+Informatica Powermart tools.
+
++ Used Debugger to test the mappings and fix bugs,
+
++ Used Informatica to Extract and Transforrn the data from various source
+systerns by Incorporating various business rules,
+
++ Developed standards and re-usable mappings and mapplets using
+Various transformations like expression, aggregator, joiner, source
+qualifier, router, lookup, sorter, union, and filter.
+
++ Created, updated and maintained the ETL technical docurnentation,
+
++ Managed Repository Users, Groups and Privileges,
+
+ETL Developer
+ABC Corporation - 2004 - 2005
+responsibibties:
+
++ Duration Feb 2005 - Sept 2005 Responsibilities Responsible for
+performance tuning ETL process to optimize load and query
+Performance Created complex transforrnations using connected )
+Unconnected lookups / procedures Performed analysis of the data
+transformations.
+
+*+ Added and modified informatica mappings and sessions to improve
+performance, accuracy, and maintainabilty of existing ETL functionality
+
++ Pravided suggestions to improve existing mappings Wrote SOL overrides
+
+In source qualifiers with appropriate scherna names for extracting only
+the required rows for optimal performance.
+
++ Implemented complex expressions in expression transformations.
+
++ Tested the queries thoroughly in SCL navigator for integrity and
+Identifying data errors Preparation of Unit Test Plans and verification of
+functional specifications and review of deliverables Setting of Error
+Logic for streamlining and autornating the.
+
++ Used the target load order feature for loading tables with constraints
+Provided production support by monitoring the processes running dally
+Identified the bottlenecks and Improved overall performance of the
+sessions Environment Informatica Pawer Center 8.6, Erwin 4, Oracle
+94/109, PLISOL, PVCS, SOLLoader, TOAD, MS SCL Server 2005/2008,
+
+(Ths Ema Resume Tamnlate i the conynght of Quikesue cor. Usage Guldstines
+
+CONTACT DETAILS
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+Infoequikresurne.com
+wwqwikresume.com
+
+‘SKILLS.
+Oracle Ox/10)3/31x
+Informatica 7x/8/x,
+PUISQL, Oracle
+Warehouse Builder
+LOx/L1x, Business
+Analysis, Data
+Warehousing.
+
+LANGUAGES
+
+English (Native)
+French (Frofessional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Coking
+Reading
+
+REFERENCES
+
+Reference - 1 (Compary
+Name)
+Reference - 2 (Company
+Name)

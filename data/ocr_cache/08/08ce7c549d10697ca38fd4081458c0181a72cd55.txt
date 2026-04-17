@@ -1,0 +1,97 @@
+Bertha Hackett
+62730 Lemke Orchard, Houston, TX Phone: +1 (555) 555 6978
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR SQL DEVELOPER
+Detroit, MI
+04/2016 — present
+‘* Manage work to assigned due dates. Notify manager of any conflicts or other issues related to timely
+delivery of work
+Assist client managers with development of client work orders
+Working with other senior database developers & management
+Responsible for performing SQL development and SSIS /SSAS/SSRS development
+Work with other developers to facilitate creation of high performing data centric components and
+applications
+‘© May act as Project Leader and/or may be involved in providing assistance and training to less senior
+developers
+‘* Review the designs, code, and test plans of other developers and provide recommendations for
+provement or optimiz
+
+T-SQL DEVELOPER
+
+Detroit, MI
+09/2010 — 03/2016
+
+‘* Makes recommendations towards the development of new code or reuse of existing code
+Provides technical advice and assists in solving programming problems
+
+Assists in preparing project plans using project management tools
+
+Improves performance of T-SQL stored procedures
+
+SQL Development - Writing Transact SQL
+
+Deploying environments/applications fixes, patches, improvements
+
+Performing environments/applications upgrades
+
+SQL DEVELOPER
+
+Phoenix, AZ
+05/2005 — 08/2010
+
+© Work as an SQL/Java Developer and estal
+throughout established projects
+
+‘* Work closely with the development team to provide support for database objects (stored
+procedures/triggers/views) and performing code review
+
++ The SQL Server Developer will work closely with Application Developers to ensure proper design and
+implementation of database systems
+
+‘* Database administration including performance monitoring, access management and storage
+‘management
+
+‘+ Partners with development teams/vendors to provide reporting on in flight software development projects
+
++ Create, develop and maintain SQL processes for channel performance data warehousing
+
+‘* Closely working with development manager and onsite team to deliver solutions
+
+strong relationships with end users and technical resources.
+
+NEW YORK UNIVERSITY
+Bachelor’s Degree in Computer Science
+
++ Atleast medium level knowledge of SQL programming, Monarch SAS knowledge and VBA language
+knowledge is a strong advantage
+
++ Ability to deliver high-quality results in a stressful environment and comfortable managing, manipulating
+and summarizing large quantities of data
+
++ Profile data to measure quality and integrity, provide solutions to improve quality
+
+‘Bright & enthusiastic, self starter, highly motivated, comfortable taking the initiative and bringing ideas to
+the table
+
++ Solid SQL Server fundamentals, with good understanding of scalability issues, i.e. compression,
+partitioning, locks, transactions
+
+‘* Should have good hands on in creating Stored Procedures, Functions, Tables, Cursors, Hash tables and
+
+handling large data types
+
+Ability to solve complex problems, strong analytical skills and the al
+
+Ability to deliver clean, documented and testable code
+
+A working knowledge of SQL Profiler
+
+Strong proficiency with Microsoft SQL 2008 and 2012
+
+lity to trace issues to the root source

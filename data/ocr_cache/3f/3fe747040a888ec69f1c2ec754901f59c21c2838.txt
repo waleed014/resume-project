@@ -1,0 +1,89 @@
+info@resumekraft.com
+202-555-0120
+Chicago, Illinois, US
+
+in linkedin. com/resumekraft
+
+SKILLS
+Exploratory testing
+Regression testing
+
+Functional testing
+
+Steven Kevin
+
+QUALITY ASSURANCE TESTER
+
+SUMMARY
+
+Highly organized and detail-oriented Quality Assurance Tester with over 5 years
+of experience in the mobile gaming industry. Proficient at identifying defects and
+maintaining clear visibility of project status to stakeholders. A fast and effective
+learner, possessing a proven track record of delivering results ahead of
+expectations.
+
+EXPERIENCE
+
+iOS platform
+
+‘oid platform
+
+Test cases
+
+Confluence
+
+Agile and Scrum
+
+Management
+
+INTEREST:
+
+Cycling
+Gaming
+Running
+Reading
+Live events
+Travelling
+
+Hiking
+
+Technical Quality Assurance Tester Oct 2020 - Present
+Star Tech
+* Identified and reported critical defects related to technical areas of the
+project using Jira software.
+* Implemented new testing methodologies using network capturing tools for
+various features.
+
+Quality Assurance Tester Mar 2020 - Oct 2020
+Star Tech
+« Improved existing processes within the team to increase efficiency and
+reduce testing time.
+« Provided feedback for the design and art teams to improve the product.
+
+Quality Assurance Tester Apr 2017 - Feb 2020
+Accenture
+* Created test cases using TestRail and planned test rounds for external QA
+teams.
+
+« Performed early-stage testing using version control systems and Unity.
+
+« Frequently monitored community feedback to track and report any defects
+found in live environments.
+
+* Collaborated with the development team to design and maintain public test
+servers.
+
+Senior Quality Assurance Tester Mar 2016 - Apr 2017
+Gameloft
+* Created and organized test cases based on the documentation received.
+« Used automated internal tools to create and share daily status reports with
+the development teams and product owners.
+« Mentored new members of the team to achieve and surpass individual and
+company targets.
+
+Quality Assurance Tester Nov 2014 - Mar 2016
+Gameloft
+« Performed in-depth compatibility, performance and gameplay tests outlined
+in the test cases of each specific project.
+« Learned how to use internal tools to efficiently isolate defects and assisted
+development teams by performing additional tests when necessary.

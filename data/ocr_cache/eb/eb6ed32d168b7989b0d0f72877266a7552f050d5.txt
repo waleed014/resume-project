@@ -1,0 +1,42 @@
+JAVA DEVELOPERS RESUME
+
+JORDAN SHIVELY
+
+San Diego, CA 90124
+
+(774) 444-6543
+jordan@myemail.com
+linkedin.com/in/jordan-shively
+
+Java Developer
+
+Analytical, solutions-oriented Java software development professional with extensive
+experience driving complex, large-scale technical projects covering
+
+software /database/network development, product implementation, and technical
+support. Special expertise in assessing risk and translating innovative ideas into
+technology solutions.
+
+Experience
+
+Senior Java Software Developer
+Slalom Build, Atlanta, GA
+(10/2016) - Present
+Led the development team on a Small Business loan application.
+* Project: XSB
+* Created and implemented data models into a sal do
+* Built Front-end design and pg. flow
+« Implemented RESTful APIs that communicated with an ESB to manipulate data
+* Software Used: Integration Server 9.5, My WebMethods Server 9.5, Oracle DB
+11g, SQL Developer, Tomcat, AJAX, JQuery, HIMLS/CSS, Javscript, SQL
+Developer, Eclipse Indigo, SOAP UI, Bootstrap.
+
+Jr. Software Developer - Java
+SPARC, LLC, Houston, TX
+(06/2010 - 10/2016)
+© Projects: CH33, VBMS
+* Built out an enterprise application to automate the application and distribution
+of both military employee and veteran benefits.
+* Led Java development with Spring MVC integration.
+
+Page 1012

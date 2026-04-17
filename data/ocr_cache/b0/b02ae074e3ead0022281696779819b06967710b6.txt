@@ -1,0 +1,83 @@
+Django developer with 5+ yeast
+Siledinbuldng scalable and
+
+Python and JavaScript. Strong,
+experience indatabace management,
+server administration and API
+
+Progamming APL
+
+Prowanming Botiran
+
+Programming: oching
+
+Dats Datalnegrty
+
+Dibra Stems Hero
+
+Django Developer
+
++ Designed and developed web aplication using Django, Python, and avast
+implementing responsive design and UX principles.
+
++ Worked on projects ranging rom smal busines websites to large-scale
+‘enterprise applications, cllaborating with cross-functional teams to deliver high
+quality software on tne and within budget.
+
++ Builtand maintained RESTIu APIs using Django Rest Framework integrating
+ith extemal services suchas payment gateways and social media platforms
+
+Developed and maintained databases using PostgreSQL and MySQL writing
+
+‘optimized queries and ensuring data integrity and security.
+
++ Configured and managed web servers sing Apache and Ngnx ensuring high
+_vaabilty and scalability.
+
+Implemented testing strategies using tools such as Pytest and Unites, ensuring
+
+thatcodeis reef bugs and eros
+
++ Conducted cde eviews and mentored junior developers, improving cde quality
+
+and team performance
+Django Developer Employment Dates
+
++ Developed and maintained e-commerce appliations using Dang. integrating
+with payment gateways such s PayPal and Stipe
+
+Implemented thedparty integrations suchas Google Analytics and Google Maps
+
+‘APLenhancing usr experience and application functionality.
+
++ Worked with front-end frameworks suchas Bootstrap and Query ceating
+responsive and modern user interaces.
+
+‘Optimized application performance using caching techniques and database
+
+indexing.
+
+Implemented security measures such as CSRF protection SSL and usr
+
+authentication and authorization.
+
+Bult and deployed applications to cloud platforms such 2s AWS and Herok,
+
+ensuring high valabiley and scalability.
+
++ Collborated with product managers and designers to translate business
+requirements into tecical specications.
+
+Technical Sie:
+
++ Django, Python avaSerpt
++ Django Rest Framework
++ PostgreSQL MySQL
+
++ Apache. Nainx
+
++ yest Unittest
+
++ Bootstrap, jQuery
+
++ AWS Hero

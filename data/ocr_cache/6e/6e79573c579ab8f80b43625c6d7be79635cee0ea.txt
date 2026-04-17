@@ -1,0 +1,53 @@
+Robert Smith hone (123) 456 7899
+
+mall Infoguvikresume,com
+Website : wont quikr2stime, com
+
+Python Developer/Tester LUnkedin:linkedlin.corn/quikresurne
+‘Address; 1737 Marshuille Road, Alabarna
+
+SUMMARY
+
+Experience with continuous integration and automation using Jenkins Experience with Unit
+testing) Test driven Development (TD0), Load Testing Proficient in Unit Test Plans (UTP), Integrated
+‘est Plans (ITP) Extensive experience in User Acceptance Testing (UAT)
+
+SKILLS
+
+Database, MS SQL Server, Oracle, SQL, SOL Server,PYTHON. PYCHARM
+WORK EXPERIENCE
+
+Python Developer/Tester
+Capital One july 2026 - Present
+Designed and implemented server bulld automation &empi server decorimissioning
+
+automation
+Worked on unit testing, Integration testing and web application testing,
+Uni test python library was used for testing many programs on python and other codes.
+Ensured high-quality deta collection and maintaining the Integrity ofthe data,
+Cleaned data and processed third-party spending data Into maneuverable deliverables within
+specie formats with excel macros and python libraries:
+Responsible for creating the companys internal platform called DCAE by using Python to
+develop and test the components,
+Used Python IDE PYCharm for developing the code and performing the unk test
+
+Python Developer
+‘ABC Corp - 2014 - 2016
++ Wrote python scripts to parse xm documents and load the data in the database
++ Used pandas api to put the dota as time series and tabular format for east timestamp data
+manipulation and retrieval
+Was Involved in the environment, code instalation as well 2s the syn Irnplementation:
+Cleaned data and processed third-party spending data Into maneuverable deliverables within
+speci formats with excel mactos and pythen libraries
+Ehsured high quality data collection and maintaining the Integrity ofthe data,
+Collaborated with Internal tears to convert end user feedback Into meaningful and improved
+solutions
+‘This project also used other technologies lke jquery for javascript manipulations, bootstrap
+forthe front-end hirnl layout
+
+EDUCATION
+
+Masters Degree in Computer Science in Computer Sclence (River University )Bachelors Degree
+In Computer Sclence in Cornputer Science - jagrut Engineering College -INTU )
+
+(0 This Fra Resume Tamblat is the copyright f Qvakesume com. Usage Guldatns

@@ -1,0 +1,148 @@
+JESSICA CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(855) 432-1000 - resumesample@example.com
+
+‘PROFESSIONAL SUMMARY
+
+A competent, Experienced Associate with over 10+ years of process-oriented IT professional experience. Excellent reputation for resolving
+problems and improving customer satisfaction. Adept in end-to-end lifecycle of software development and testing. Excellent leadership and
+‘communication skills with flexibility and ability to quickly ramp up in any given domain or technology. Motivated and dedicated Software
+
+Test Engineer.
+Semis
+‘+ Automation knowledge and tool: Selenium, UFT/QTP ‘+ Markup languages: HTML, XML
+‘+ Defect monitoring: Rally ‘+ Build Tools: Maven, Jenkins
+‘+ Scripting languages: Java, VB Scripting, Python, JavaScript ‘+ Basic Knowledge on Cucumber framework
+‘+ Test Management Tool: Quality Center, Rally ‘+ Rest API Testing
+‘+ Configuration Management Tool: Perforce, SVN, GitHub ‘+ Test implementation
+
+Worx History
+07/2017 to Current
+
+Quality Assurance Testing Analyst
+‘Hel Technologies Ltd. - Franklin, MA
+
+‘+ Test Automation of UI and Web Services.
+
+‘+ Working experience in current technologies like Git, Selenium, Agile Methodologies, QTP/UFT.
+
+‘+ Expertise in creating automation scripts Using Selenium Web Driver, REST Assured API with Java and TestNG.
+
+‘+ Active Participation in test design and test systems architecture review, proposals and discuss solutions to system
+and product changes related to specific domain.
+
+‘+ Regular interaction with Product Manager & Engineers to design test plans and automated tests for new and
+changing features.
+
+‘+ Expertise in maintaining and adding new features to Framework for QTP and Selenium.
+
+‘+ Developed VBA tool for test data generator.
+
+‘+ Used business requirements to create test plans.
+
+‘+ Reported defects to developers and escalated critical issues.
+
+‘+ Reproduced defects, troubleshot unintended results and maintained error logs.
+
+‘+ Worked with java selenium to plan and run automated test scripts.
+
+‘+ Conducted in-line testing and evaluated resulting measurements to identify variances in output using current
+production methods and compare against application-specific tolerances.
+
+‘+ Operated under Agile and Scrum frameworks to complete releases every 2 Weeks and well-organized sprints.
+
+‘+ Tracked, prioritized and organized defects with Rally, working with development team to facilitate timely
+corrections.
+
+‘+ Collaborated with developers and product owners to stay current on product features and intended functionality.
+
+‘+ Reduced overall testing hours 100% by writing and optimizing automation test scripts in VBA Macro.
+
+‘+ Utilized Agile software development methods to increase team efficiency by 60%.
+
+‘+ Creating Automated Script to Update and Test customer Data and Executing Script to update customer data in
+production Environment.
+
+‘+ Authored integration tests using CI/CD jenkins pipeline.
+
+‘+ LSRMBAC application provides one stop solution for loading daily invoice file extracted from AMS,
+
+«+ File which is extracted from AMS is coupled with Auto EFT entities, will allow user to identify invoices that are
+subjected to automation for EFT processing.
+
+‘+ LSRMBAC EFT allows users to create and pay amount for EFT transactions.
+
+‘+ LSRMBAC TRACER sends daily email notifications to end customers on EFT transactions.
+
+05/2011 to 07/2017 Associate
+
+05/2011 to 06/2011
+
+Cognizant Technology Solutions India Pvt Ltd — City, STATE
+
+‘+ Automate and regression existing SD related functionalities in SAP system to sign off platform up gradation.
+
++ Getting habituated to QTP Automation Framework.
+
++ Getting complete knowledge of applications in Autodesk Landscape.
+
+++ Execution of System Integrity Test Cases and reporting results.
+
+++ Started Automating different applications with QTP like Siebel, Siebel-UCM, SAP, Salesforce, Databases.
+
+«+ Licensing, Product testing for single and multiple users
+
+‘+ Regression Test of Network Licensing mode (single, distributed& redundant) of Flex as per test cases and test
+‘matrix provided by Autodesk.
+
+«+ Test design also tests compatibility, enhancements and fixes with current functionality, also this test design will
+ensure that tested version functions properly on most widely used Network operating system software.
+
+‘+ Migrating FLEX Im functionality to FLEX net licensing technology means every workstation installation contains
+same licensing components.
+
+‘+ Validating product installation on different Operating Systems.
+
+‘+ Testing client side, application can work in both 32/64 bit OS, including Windows XP Pro, Windows XP Home,
+and Vista OS.
+
+«= In server side, license manager can work in XP 32 bit and Vista 32 bit OS, Win 2000 and Win 2003, Linux, Solaris
+and Mac OS as well.
+
++ Created accurate and efficient test scripts to manage automated testing of certain products and features.
+
++ Installed and configured software applications and tested solutions for functionality
+
+‘+ Assessed software bugs and compiled findings along with suggested resolutions for development team members.
+
+‘+ Developed and executed QA test cases, scripts and procedures for automated software maintenance.
+
+‘+ Designed, executed and maintained automated test scripts for in-project deployment.
+
+Programmer Analyst Trainee
+Cognizant Technology Solutions India Pvt Ltd — City, STATE
+‘© Underwent Induction and training programs in field of software testing and software development life cycle at
+cognizant academy.
+«* Star of month from Cognizant for outstanding contribution in accomplishing objective for project.
+‘* Innovation Idea champ for contributing innovation ideas and implementing same.
+'* Cognizant Academy.
+‘+ Reviewed code for accuracy and ran tests for quality assurance.
+‘+ Worked closely with clients to establish specifications and system designs,
+‘+ Maintained existing applications and designed and delivered new applications.
+++ Performed regression and system-level testing to verify software quality and function prior to release
+‘+ Managed over converting 30 test scenarios to automated test cases per day.
+
+Epucarion
+06/2010 Bachelor of Engineering: Information Technology
+Kalpataru Institute of Technology - Tiptur
+‘+ Majored in Information Technology stream.
+‘+ Well aware of programming languages like Java, VB Scripting, HTML,
+ACCOMPLISHMENTS
+
+‘+ Used Microsoft Excel to develop live tracking work efforts.
+‘+ VBA Macro Creation for test data generation without manual intervention.
+
+CERTIFICATIONS
+
+‘+ Python PCEP Certification from Python Institute.

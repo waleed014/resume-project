@@ -1,0 +1,107 @@
+First Last
+
+Data Scientist
+
+Data Scientist with three years of experience in analyzing large data sets and coming
+up with data-driven insights for early-stage technology companies. Worked in teams
+of 8-12 team members.
+
+EXPERIENCE
+
+Resume Worded, New York, NY
+Data Scientist
+
+January 2018 - Present
+
+Proposed and implemented a new targeting model, generating $1M in
+wealth management sales.
+
+Led team of 8 peers to research market entry strategies for a new business
+line, increasing market penetration in 12 states.
+
+Worked with Sales, IT and marketing teams to optimize key workflows to
+identify costs, results and opportunities, streamlining business resources
+by improving internal system integration.
+
+Growthsi, Boston, MA
+
+Associate Data Scientist
+July 2015 - January 2018
+
+Implemented demand forecasting models, improving data forecast accuracy
+by 45%, also won ‘Innovation award’ for the same project.
+
+Contributed to company blog posts, promoting the company's analytics
+platform, increasing customer traffic by 75%.
+
+Provided guidance to members and participated in cross-departmental
+projects establishing the company as a leader in data science.
+
+Resume Worded, Boston, MA
+
+Data Scientist Intern
+January 2015 - June 2015
+
+Worked across multiple functional departments translating business
+problems into solvable cases with emphasis on anticipating future ad-hoc
+needs.
+
+Offered approaches to simplify data integration processes and standardize
+data feeds across systems, reducing data latency from 8 days to 1 day.
+Collaborated with other teams across Microsoft and developed key metrics
+to achieve business outcomes.
+
+Considered a valuable development team asset, awarded with ‘Intern
+Appreciation Letter’ on completing internship.
+
+San Francisco, CA 12345
++1 234 567-890
+first.last@resumeworded.com
+
+linkedin.com/in/resumeworded
+
+SKILLS
+
+Java
+
+C++
+
+Python
+
+MySQL / SQL
+
+Hadoop
+
+Customer requirement
+prioritization
+
+Problem Solving
+
+Data optimization Knowledge
+and skills
+
+EDUCATION
+
+Resume Worded
+University
+
+Bachelor of Science:
+Computer and Information
+Sciences
+
+May 2015
+New York, NY
+
+e Awards: Dean’s List 2015
+(Top 10%).
+
+e Completed one-year
+study abroad with
+Singapore University.
+
+OTHER
+
+e Volunteeredina
+3-month data science
+Project, run by ACB
+Corporation Inc.

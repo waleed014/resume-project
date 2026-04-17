@@ -1,0 +1,86 @@
+SHUBHAM JAIN
+
+2: 9953776253 | 4: info@getsetresumes.com | _ Linkedin: linkedin.com/company/getsetresumes
+
+SENIOR DATABASE ADMINISTRATOR - leveraging +10 years of experience
+
+Database administrator with substantial experience in Oracle enterprise and SQL Server settings designing, coding, testing, and
+
+supporting next-generation database solutions. Proven ability to tackle and succeed in all endeavours from high-dollar business
+
+development to customized software development and implementation. Repeatedly successful in navigating complex technical
+environments, and possess strong, PL/SQL expertise in stored procedures, performance tuning, and optimization.
+
+Exceed ongoing and overlapping deadlines in fast-paced environments, handle multiple assignments simultaneously and
+coordinate deliverables with key stakeholders in cross-functional groups. Proficient in an assortment of technologies, including
+Oracle 12c, DB2, Access, Sybase, MS SQL Server 2016, JDBC, Visio, Apache HTTP Server, Java, C++, XML, Windows, Linux and Unix.
+
+PROFILE SUMMARY
+
+= Highly skilled in managing deployment and overseeing maintenance of new databases, new schemas and new database objects
+
+= Proficient in contributing to defining application database standards and creating application data models
+
+= Rich experience in managing database performance in the context of applications while working closely with infrastructure and
+application teams
+
+= Expertise in code optimization and improving database efficiency through Maintenance tasks Re-Indexing, Updating Statistics,
+Recompiling Stored Procedures.
+
+= Skilled at validating and thoroughly testing deduplication of backup data by integrating networker backups with EMC Data
+Domain.
+
+= Accomplished in designing and implementing a configurable Application and data security model to ensure controlled access to
+the data on production, test and development environments.
+
+= Expert at using Oracle Identity Management to centralise and automate user provisioning and security coordination.
+
+CORE COMPETENCIES
+
+= Software Proficiency = CPA = Budgeting Procedure
+= Cash Management = Data Analysis = Forecast Planning
+= Financial Auditing = Asset Management = Cost Accounting
+
+PROFESSIONAL EXPERIENCE
+
+Bellurbis LLC, Greater Noida Jan. 2019 - Oct. 2021
+
+Senior Database Administrator
+
+«Implemented data guard with maximum availability, protection and performance configurations and worked with data guard fail
+over and switch over cases at the times of up gradation and migration.
+
+= Experienced in data center migration of databases to prepare the proof of concept, db migration procedures and scripts,
+developed templates that include check list for migrating the databases.
+
+= Configured repository and clients for grid control and also implemented db control for some databases.
+
+= Utilized oracle streams to capture, propagate and apply the transfer of data, transactions and events within managed databases.
+
+= Perform database upgrades, migrations; take logical exports from the qa, dev etc instances and importing the data on to the
+production systems etc.
+
+= Upgraded multiple single instance databases and grid infrastructure from 11gr2 to 12cr1.
+
+= Worked on new features on 12c databases such as recovering tables, masking the fields, using advanced optimization parameters
+for good performance of 12c databases.
+
+= Experience in troubleshooting RAC databases and engaging with the application team for gaining performance enhancements
+for application in a clustered environment.
+
+= Applied psu on standalone test environment using opatch and same psu(grid and rdbms patching on production cluster using
+Opatch auto.
+
+= Supported in performing golden gate configuration, administration, installation, also configuring pumps and managing trail files
+by purging old extract files and log files.
+
+«Implemented physical standby databases on 2-node 11912 real application cluster and automized scripts to delete archive logs
+that already applied to standby.
+
+Space Consultants, Greater Noida Apr. 2015 - Dec 2018
+Database Administrator
+
+= Managed projects from business requirements research to solution delivery and support as a DBA or project lead on more than
+80 medium- to large-scale deployments.
+
+Shubham Jain | Resume | Confidential | Page Number 1/2

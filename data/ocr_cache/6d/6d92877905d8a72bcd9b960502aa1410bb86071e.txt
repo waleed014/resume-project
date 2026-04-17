@@ -1,0 +1,86 @@
+Robert Smith
+
+Sr Net Developer
+
+PERSONAL STATEMENT
+St Net Developer with over 7+ years of experience in all the phases of
+SOLC, working through Analysis, Design, Development, Testing,
+Maintenance, and Documentation of Enterprise-level web and windows
+{applications using Microsoft Technologies. .Net professional with above 7
+years of extensive experience developing applications using a Microsoft.Net
+framework, Ci, ASPINet, ADONet, MS-SQL Server Web Services, Win Forrns
+and Reporting Services.
+
+WORK EXPERIENCE
+
+Sr .Net Developer
+\Vertex Solutions Inc - April 2015 - Present
+Responsibitties:
++ Involved in all the phases of Software Development Life Cycle (SDLC)
+including analysis, design, prograrnming, testing, and deployment
++ Designed and developed an application using Angulars, HTMLS, CSS,
+SQL server 2014 and ASP.Net web APL
++ Created the application in. Net framework 4.5 and implement logic
+Using C# and aops concepts,
++ Created the application UI using client-side technologies like Javascript,
+Jquery, Angular JS, CSS3, HTMLS, and Ajax.
++ Used Angular J$ and typescript for control validations and data format
+checking,
++ Developed form validations on the Server side and client side using
+‘Angulass.
++ Developing multiple new applications from scratch and supporting
+‘multiple existing applications
+
+Senior .Net Developer
+‘ABC Corp - 2011 - 2015
+responsibitties:
+Researched new software development practices and use advanced
+‘technologies in creating better tools for the company.
++ Served as the support developer for application requirements
++ Developed server-side code for internal and external web applications
++ Wrote unit tests, automated regression tests and tracking defects as
+they occur
++ Developed applications using both C# .NET, utilizing the .NET MVC
+framework,
++ Maintained a high level of security and code reusability
++ Worked with clients to develop requirements documents and project
+schedules,
+
+Education
+Bachelors (2010)
+
+(Ths Ema Resume Temlate the copyright ot Quikresurne cor. Usage Gustine
+
+CONTACT DETAILS
+
+1737 Marstullla Road,
+Alabama
+(123)-456-7890
+Infoesquikresume.com
+wwweqwikresume.com
+
+‘SKILLS
+
+JavaScript, VB Script
+HTML, DHTML, XML, CSS,
+JQuery, Bootstrap, JSON,
+‘Angulay/S Application
+Servers
+
+LANGUAGES
+
+English (Native)
+French (Professional)
+Spanish (Professional)
+
+Climbing
+Snowboarding
+Coking
+Reading
+
+REFERENCES:
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

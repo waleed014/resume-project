@@ -1,0 +1,70 @@
+John Smith
+22 Street Rd., City, State, 00000
+Tel: 222-222-2222 Email: email@address.com
+
+Network Engineer / Infrastructure Architect
+Highly skilled IT Professional with progressive career in both domestic and intemational environments.
+Demonstrated ability to prioritize and manage projects in a timely manner and on budget. Successful at
+implementing new systems and applications, and organizing effective launches, Able to adapt quickly to new
+environments, concepts and systems. Superior customer relations, problem solving and communication skills.
+Proven ability to assess customer needs and implement effective methods to deliver optimum results.
+Productive and results oriented in team and individual projects.
+
+Technical Skills:
+
+* Operating Systems: Novell 4.11, DOS, Windows 9x, XP, Vista, 7, NT/2000/2003/2008 Server &
+SBS
+
+Server Management Software: Microsoft VMM , Clustering, Microsoft SCE, WSUS, WOS
+
+Anti Virus Software; McAfee, Trend, Bitdefender, Symantec Endpoint
+
+Productivity Software: MS Office, MS Exchange, Sharepoint Services, 2x products
+
+Networking: TCP/IP, VLAN, Nortel Enterprise Switch Manager
+
+Backup Software: Veritas Backup Exec, Acronis
+
+Hardware: Cisco, Juniper, Nortel 55x, iSCSI, HP, Dell and IBM Server and Desktop. Supermicro
+Server
+
+Professional Experience
+
+Volunteer, Ghost River Rediscovery, Calgary, Alberta (2010-Present)
+‘© Providing day-to-day support for office staff and equipment.
+* Providing SBS 2003 and network infrastructure support.
+Accomplishmonts:
+
+Implemented disaster recovery processes.
+‘* Reconfigured update services for servers, desktops and antivirus.
+
+Network Engineer, IT Outsource LTD, Grand Cayman, Cayman Islands (2008-2009)
+
+‘+ Provided network support to clients in accordance with the terms of their existing service contracts.
++ Scoured new clionts for network design/installs upgrades and/or support contracts,
+
+‘+ Marketed and promoted all the services of IT Outsource and its associated companies.
+Accomplishments:
+
+Implemented and managed new datacenter using clustered virtual servers.
+
+Tested and implemented new network infrastructure throughout entire building.
+
+Managed and implemented new client servers and infrastructure.
+
+Tested and implemented an in-house upgrade to SBS 2008.
+
+Senior IT Analyst, Harmonic Funds Management, Grand Cayman, Cayman Istands (2007-2008)
+‘+ Managed the day-to-day running of Cayman office delivering first, second and third lavel support.
+Accomplishments:
+
+© Worked wath Toronto office and 3” party on roll-out of Riverbed WAN optimisation solution.
+
+‘* Tested and implemented new PC deployment solution.
+
+IT Analyst, Play.com, Jersey, Channel Islands (2005-2007)
+
+‘* Directed all aspects of the business systems to deliver second and third level support.
+‘+ Managed day-to-day operations across 7 sites in Jersey.
+
+‘* Implemented and maintained standard company infrastructure.

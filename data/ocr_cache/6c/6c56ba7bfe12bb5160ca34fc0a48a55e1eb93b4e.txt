@@ -1,0 +1,172 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(655) 432-1000 -resumesample@example com
+
+Cancer OVERVIEW
+
+Solutions-focused Qa tester with around 3 years of experience; high-Level proficiency with manual testing, CAD testing and QTP toolsets;
+and a foundation in VB Script and monitoring tools. Excel in creating tet plans and knowledge of writing running automated test scripts to
+pinpoint software defects, track bugs, close open defects and validate functionality. Serve as a value-adding member of QA teams. Having a
+sound knowledge and experience of documentation using technical writing tools to prepate User Guides, Installation Guides, ete
+
+Quaunicarions
+
++ Testing methodologies
+
++ Concept of SDLC and DDLC
+
+‘+ Manual testing concepts
+
++ Knowledge of Automation testing tools like QTP
+
+«+ Familiarize in Vslife cycle model
+
+‘+ MS office tools
+
++ Documentation tools
+
++ Writing methodologies - MSTP and CMS Can work with ease in
+APIO0 (CAD pacakage developed by Amada Company, Japan)
+
++ Functional testing tool: Unified Functional Testing 12.0 (UFT or
+QTP), Winrunner 75
+
++ Test management tool: TestDisector 8.0
+
++ Database skis: SQL 7.0
+
++ Desktop authoring tools: Microsoft Word 2010, Adobe
+Framemaker 10, Microsoft Office Powerpoint
+
+‘+ Help file authoring tool: Robotielp
+
++ Screen capturing too: SnagiT 8
+
++ Web designing tool: Macromedia Dreamweaver, HTML
+
++ Graphic tool: Adobe Photoshop, Macromedia fash
+
+Tecuicat Sxms
+
++ Graphics tools: Can work with ease in AP100
+(CAD pacakage developed by Amada Company,
+Japan
+
++ Functional testing tool: Unified Functional
+‘Testing 12.0 (UFT or QTP), Winrunner 75
+
+Worx Exrerrence
+
+07/2005 to 12/2005 Testing CAD Engineer
+India
+
+‘ Extensive testing was done on CAD applications using manual testing.
+
+‘+ Developed test strategy, test case design and test execution,
+
+++ Experienced in effective Software testing process
+
+“+ Was the key person involved in the automation of the manual test cases using Winrunner.
+
+‘+ Excelled in finding, documenting and reporting bugs, errors, interoperability flaws and other issues within
+proprietary software applications developed for Amada’s global user base.
+
+‘+ Responsibilities: Involved in analyzing the business logic of the application, gathering test requirements,
+development & execution of test strategy, system test cases,
+
+‘+ Actively documented the QA testing practices to enhance repeatability saving time and money and encouraging
+testing standardization and best practices.
+
+‘+ Documented software defects using using TestTrackPro(bug tracking system) and reported defects involving
+program functionality, output, online screen and content to software developers Familiatized in V Life cycle model.
+
+‘* Conducted formal and informal product design reviews throughout the software development lifecycle to provide
+input on functional requirements, product designs and potential issues,
+
+04/2001 to 03/2003 Programmer
+Matric Limited — India
+
+‘+ Was the key person along with 2 team members to generate unfold data using 2D CAD taking care about the
+customer specifications
+
+‘+ Recognizing my interest in automation concepts, I was given the responsibility of creating company's first software
+for automating data entry of the CAD data and other details to the company web site to minimize the manval effort.
+
++ Responsibilities: Training and assessment of junior members of the team.
+
+‘+ Coordinate with team members in Japan and India to generate accurate 3D data based on customer specification.
+
+‘+ Assist module leader in deadline discussion and finalization,
+
+‘+ Document the important details arrived while using the AP10O package; prepare the reports regarding the time
+calculation, drawing details and customer details at the end of month
+
+ASI Original
+Amada Soft Pvt Ltd
+
++ APIO0 CAD Test tols: WinRunner 7.5, Manual testing Duration: 5 months Team size: 5 Project Description: AST Original intends to
+computerize the manufactre of sheet metals of different configurations like the length, width ofthe sheet metal, the types of oles,
+bends, special type holes (like buring taping prepunch) it might have, the material ype, size, thickness etc.
+
+'* Accordingly there were few software from the company that were used to test the data for specific requirements.
+
+‘© Manual testing was done using these different testing software on large number of test cases.
+
+‘© Few of the different types of testing carried out were Dt-Faced, Autosave, Onetouch, OTC file convert, Part Preview and Batch testing.
+
++ Work Detail: Knowledge acquisition and capturing tet requirements
+
+«+ System Test cases preparation.
+
+‘© System Test data preparation.
+
+' Entry criteria / Exit criteria check for system testing.
+
++ Enecuted System tet
+
++ Bug allocation and tracking done wsing TestTrackPro.
+
++ Pesformed Batch testing and Patch testing
+
++ Performed Regression testing
+
+‘© The automation of this project is being done using WinRunner 7.5.
+
+«+ Functional decomposition method of automation is adopted and there were trails done to automate the drawings to be tested given the
+testing components
+
++ Preparing the system test reports and patch test reports
+
+‘© 2.Title: Programming service Client: Amada customers like Hitachi, Japan.
+
++ Package Used: AP100 OS: Windows NT 40, Windows 2000 Duration: 23 Months Team size: 6 Project Description: API00, an
+important CAD package developed by AMADA Japan is being used to get CAD data forthe customer drawings.
+
++ Unfold data is generated using the CAD software and this is tested fr collisions in Assembly software and after further processing sent
+tothe customer
+
+‘© Presently handling the customer data from several clients from Japan, Taiwan, Canada, Italy and USA.
+
+‘© Work Details: Use DXF, DWG and PDF data from the customers Generate unfold data using 2D CAD taking care about the customer
+specifications.
+
+«+ Incase of doubts and clarification contact the customer through customer service department in Fapan.
+
++ Twas involved in a2 month ONSITE MEET in JAPAN to meet the clients directly and understand their data; interact with them
+‘regarding our software, our approach programmatically to their data.
+
+'* Prepared project modification scenarios in order to achieve the expected target within the project deadline.
+
+Epucarton aNp TRAINING
+
+Bachelor of Engineering: Electrical & Electronics
+Electrical & Electronics
+
+Sxmis
+
+3D, Adobe Photoshop, approach, Assembly, automate, Automation, CAD, CMS, Concept, content, Client, clients, customer service, data
+entry, Database, product design, Documentation, Macromedia Dreamweaver, Macromedia flash, Adobe Framemaker, Functional, drawing,
+Graphics, Graphic, HTML, logic, money, Microsoft Office, MS office, Powerpoint, SQL 7.0, Windows 2000, Windows NT 4.0, Microsoft
+Word, OS, PDF, Programming, QTP, QA, reporting, RoboHelp, SDLC, software development, Software testing, specification, strategy,
+‘TestDirector 8.0, Test tools, type, web site, Web designing, Winrunner, WinRunner 7.5

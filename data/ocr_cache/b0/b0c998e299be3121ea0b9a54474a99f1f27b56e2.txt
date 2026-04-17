@@ -1,0 +1,61 @@
+ADOLFO MURPHY
+
+Information
+
+Address
+
+67646 Amie Stravenue
+Dallas
+
+TX
+
+Phone
++1 (555) 864 1458
+
+@® EXPERIENCE
+
+10/2020 — present
+Houston, TX
+
+11/2016 — 07/2020
+Houston, TX
+
+BAUCH, RUNOLFSSON AND STROMAN
+
+Senior Python Developer
+
+¢ Experience with relational and non-relational databases,
+document stores, and a queuing systems
+
+e Experience with modern networking, network architecture,
+and firewall configuration
+
+e Experience utilizing distributed data systems like RabbitMQ
+and ElasticSearch
+
+RUNOLFSSON-BERGSTROM
+Python Developer
+
+e Familiarity with security or security-related development
+
+¢ Hands-on experience developing in AWS is highly desirable
+
+¢ Team player possessing strong analytical, problem solving and
+communication skills
+
+© EDUCATION
+
+SKILLS
+
+RHODE ISLAND SCHOOL OF DESIGN
+
+Bachelor's in Computer Science
+
+¢ Awareness of SSL Certificates and SSL Handshakes
+¢ Development experience on Linux OS
+
+e
+
+Exposure to Elastic Search/Cassandra databases
+Understanding of code versioning tools, such as Git/Bitbucket
+Exposure to Teamcity/Postman

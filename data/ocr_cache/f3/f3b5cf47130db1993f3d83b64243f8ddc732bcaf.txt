@@ -1,0 +1,99 @@
+CONTACT
+
+JOHANNA MILLER
+
+PYTHON DEVELOPER
+
+SUMMARY
+
+[.] 123-2456-78458
+
+@ youremail@gmail.com
+{f) linkedin.com/in/user
+Q New York, United States
+
+© github.com
+
+SKILLS
+
+// PROFESSIONAL
+
+Design skills
+Problem-solving skills.
+Communication skills
+
+// TECHNICAL
+
+Python, JavaScript, CSS3,
+HTMLS5, SQL
+
+ORM libraries
+
+Web frameworks: Django
+MVC and MVT Architecture
+Data visualization
+
+Agile frameworks
+
+NumPy
+
+PROFESSIONAL
+DEVELOPMENT
+
+PCPP1 — CERTIFIED
+PROFESSIONAL IN PYTHON
+05/2011
+
+MTA 98-381 — MICROSOFT
+TECHNICAL ASSOCIATE
+07/2011-01/2012
+
+PSM Il ASSESSMENT
+
+CERTIFICATE - PROFESSIONAL
+
+SCRUM MASTER05/2012
+
+Motivated PCPP1 and MTA-certified Python developer and professional scrum master with
+6+ years of experience. Inclined to bring effectiveness to TechNo’s front-end development.
+Driven by passion and innovation, designed and introduced a new and IAC-award-worthy
+feature to the MailSent tool. Highly skilled in Python coding and scripting, Django
+framework, and communication.
+
+EXPERIENCE
+
+PYME Victoria, TX
+Python Developer 08/2015-Present
+
+© Handled programming tasks for and maintained 7 internal websites with a high success
+rate (97%) in product update deployment.
+
+© Worked on high-impact projects, e.g., content aggregator and expense tracker,
+delivering solutions with lower than 20% code churn.
+
+© Developed a marketing lead MySQL database, collecting, categorizing, and filtering
+leads from various stakeholders, i.e., www, social media channels, or newsletters.
+
+Led sprint planning meetings and divided tasks between a 15-person project team.
+
+Tutored at three high schools every year, teaching young kids how to code in Python.
+
+Key achievement
+- Designed a new feature for the company’s email marketing tool (MailSent) in 7
+
+Active Days, contributing to the marketing department’s win in the IAC award
+competition in the Best Email Message Campaign category.
+
+PYME Victoria, TX
+Data Scientist 01/2012-08/2015
+
+Automated and optimized collecting data using SQL, reaching over a 35% system’s
+response time boost.
+
+Collaborated cross-departmentally on RPA to streamline issue management and
+migrate the current environments to the cloud, reducing the investment risk by 48%.
+
+EDUCATION
+
+NEW YORK UNIVERSITY New York, NY
+Majoring in Engineering, A Master of Science (MS) 01/2007-11/2011

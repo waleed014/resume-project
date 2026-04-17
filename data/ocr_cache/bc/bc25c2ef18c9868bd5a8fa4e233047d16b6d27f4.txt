@@ -1,0 +1,232 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Testing Analytics
+
++ Defect Tracking and Reporting
+
++ Software Release and
+Versioning
+
++ Script and Scenario Design
+
++ Test Program Development
+
++ Software Development Life
+cyde
+
++ Standards and Security
+‘Compliance
+
++ Software Compatibility Testing
+
++ Web and Mobile Application QA
+
++ Customer Service
+
++ Software Defect Documentation
+
++ Bug Tracking and Resolution
+
++ Client Requirements
+
++ Application Subject Expertise
+
++ Status Reporting
+
++ Technical Support
+
++ Test Plans and Cases
+
++ Defect Analysis and Resolution
+
++ System Performance
+Assessment
+
++ Technical Troubleshooting
+
++ Hardware and Software Repair
+
++ System Performance
+Assessments
+
++ Error Detection
+
++ Microsoft Windows and Office
+
++ Help Desk Support
+
++ Software Evaluation
+
++ Account Administration
+
++ Troubleshooting Network Issues
+
++ Issue and Resolution Tracking
+
++ Computer Diagnostics
+
++ Computer System Diagnostics
+Software
+
++ Database Management
+
++ Software Patches
+
+EDUCATION AND
+TRAINING
+
+College And Career Academy At
+Pruden
+Suffolk, VA + 06/2013
+
+CIW Web Development Associate
+
+College And Career Academy At
+Pruden
+Suffolk, VA + 06/2013
+
+CCIW Internet Business Associate
+Kings Fork High School
+Suffolk, VA + 05/2012
+
+High School Diploma
+
+SUMMARY
+
+Highly-motivated employee with desire to take on new challenges. Strong worth ethic, adaptability
+and exceptional interpersonal skills. Adept at working effectively unsupervised and quickly mastering
+new skills.
+
+EXPERIENCE
+
+Ubs - Software Testing Technical Writer
+Philadelphia, PA + 11/2022 - Current
+
++ Tested web application compatibility and performance to recommend cross-browser compatibility
+improvements to web development team.
+
++ Tracked software bugs and detailed information regarding findings and resolution techniques in
+documentation.
+
++ Collaborated with developers, system installers and technical support representatives in identifying
+errors to determine appropriate team to consult for resolving issue.
+
++ Comprehended new content functionality through research and testing.
+
++ Searched for bugs in newly-developed aspects of existing web applications in sandbox
+environments, reporting errors to deliver complete functionality in time for launch date.
+
++ Updated software documentation and user guides to align with current features and comply with
+best-practice standards.
+
++ \erified automated testing-related activities followed strict company standards.
+
++ Reviewed user software error reports submitted to technical support representatives for diagnosis,
+and evaluated merits of developing studies to better understand underiying causes.
+
++ Designed simulation tests focusing on common user applications and unlikely cases, advising
+development team of current configuration performance limitations.
+
++ Used GitLab database to maintain detailed records of known bugs and patches.
+
++ Produced test scripts for new automated software testing rounds.
+
+Alphapointe - Application Support Analyst
+Little Rock Air Force Base, AR + 04/2019 - 11/2022
+
++ Contributed to technical support documentation by updating literature based on common support
+interactions and known issues with software.
+
++ Supported internal and external user requests for technical intervention on the Joint Knowledge
+Online website.
+
++ Handled user account access management, assigning credentials, distributing permissions and
+terminating defunct users.
+
++ Escalated technical issues to development or technical operations team following prescribed
+support guidelines.
+
++ Gathered user requirements and preferences for application changes, integrating feedback into
+subsequent patching schedule.
+
++ Coordinated with software developers, system engineers, and QA engineers to identify and address
+customer needs.
+
++ Participated in software testing, writing test cases and scenarios to improve future training.
+
++ Designed training materials and reference guides for end-users.
+
++ Tested new software releases for quality assurance purposes and determined coordination with
+performance and efficiency goals.
+
++ Facilitated onboarding new employees by conducting orientation and company-wide or job-specific
+training.
+
++ Monitor database server status and report issues to system engineering.
+
+Navy Marine Corps Intranet - IT Help Desk Technician
+City, STATE + 06/2018 - 03/2019
+
++ The Service Desk Technician answers, evaluates, and prioritizes incomming telephone and e-mail
+requests for assistance from customers experiencing problems with hardware, software,
+networking, and other computer-related technologies.
+
++ Created new accounts, reset passwords and configured access to servers and file management
+software for users.
+
++ Assisted customers with various types of technical issues via email, live chat and telephone.
+
++ Troubleshot hardware issues and worked with service providers to facilitate repairs for end users.
+
++ Maintained records, logs and lifecycle documentation of work requests. Remedy Ticketing system
+and HP Service Manager.
+
++ Researched issues on various computer systems and databases to determine resolutions to
+problems and answer inquiries.
+
++ Answered user inquiries to resolve computer software or hardware operation problems.
+
++ Installed and performed minor repairs to hardware, software or peripheral equipment.
+
++ Oversaw daily performance of computer systems.
+
++ Entered commands and observed system functioning to verify correct operations and detect errors.
+
+U.S. Army Active Duty - Automated Tactical Data Systems Specialist
+City, STATE + 10/2014 - 03/2019
+
++ An Automated tactical data systems specialist is primarily responsible for operating the data
+systems for the Cannon and Multiple Launch Rocket Systems. They play a critical role in the
+delivery of fire support for infantry and tank units during combat.
+
++ Manage and maintain database during operations.
+
++ Assist in the preparation of computer centers.
+
++ Prepare field artillery tactical data systems and centers of operation.
+
++ Determine target location with the use of various data systems (AFATDS).
+
++ Install and repair communication technology.
+
++ Compiled trend reports to proactively assess technology issues and threshold compliance.
+
++ analyzed key process metrics and trends, conducting investigations to assist problem resolution
+and document resources.
+
++ Supported IT inspections based on internal and regulatory requirements.
+
++ Installed wiring, cabling and devices to establish, repair and improve network operations.
+
++ Configured hardware devices and software settings to optimize network performance.

@@ -1,0 +1,78 @@
+Middle ETL Developer
+Resume Sample
+
+Skills
+
+Strong knowledge of SQL;
+
+Strong understanding of the construction of DWH and classical
+normalized databases;
+
+Familiarity with database administration tech (MS SQL, Azure
+SQL, Azure Cosmos DB, etc.);
+
+Knowledge of the principles of BI solutions (Microsoft Power Bl,
+Qlik View/Sense, Google Data Studio, etc.);
+
+Familiarity with cloud solutions used for creating and managing
+corporate DWH (Azure Data Factory, Google Cloud Storage,
+Google BigQuery; AWS $3, Amazon Redshift, etc.);
+
+Ability to perform within the team and independently;
+
+Great troubleshooting skills and attention to detail.
+
+Experience
+
+1+ year of working as an ETL engineer building and
+maintaining a DWH;
+
+Experience with creating and managing complex databases,
+procedures, etc.;
+
+Experience with establishing and supporting ETL processes;
+
+Strong skills in optimizing the performance of SQL queries;
+
+Working experience with MS SQL, Azure SQL, Azure Cosmos
+DB, etc.;
+
+Experience with creating high-load OLTP systems;
+
+Experience with using cloud solutions for corporate DWH
+(Azure. Google Cloud, AWS, Amazon solutions, and more).
+
+Education
+
+= Master's degree in Computer System Management
+
+Uxrainian Development
+
+&
+
+MOBILUNITY
+
+Western Management
+Global Delivery
+
+MOBILUNITY
+
+RATE INCLUDES
+Salary © Payroll taxes
+office expenses © Sick eaves
+
+Vacation period ©) Equipment and software
+
+(OR OMOMG)
+
+Employee retention ©) Recruitment
+
+OUR TEAM.
+needs up to 3 weeks to find experts like
+
+this for your needs
+
+CONTACT US AT
+sales@mobilunity.com to request more
+
+resumes

@@ -1,0 +1,121 @@
+Jessica CLAIRE
+
+Montgomery Stret, Sn Francsto, CA 94105 ¢ (555) 432-1000 ¢ resumesample@example com
+
+(CAREER OVERVIEW
+
+know what it takes to elevate your Institution to the next level. My SQL skills that I have learnt, helped me accomplish the completion of
+important projects forthe diferent companies I have worked for. In addition, “Creative” has been my passion and as a SQL Developer
+professional since I started my career. I assure you that your Organization will be glad to allow me to form part oftheir professional team,
+
+SKILLS
+
+Databases: MS SQL Server 2012/2008R2/2008/2008, ‘SQL, MS Access, Netezza (Aginity Benchwork)
+SQL Server Tools: SQL Server Management Studio, SSRS, SSIS/ETL, SAS , Windows Active Directory
+Operating Systems: Unix, Red Hat Linux Enterprise 5, Windows 2003/XP/7/8/8.1, MAC OSX
+
+‘Tools & Utilities: MS Visual Studio 2005/2008/10, MS Office, MS. Visio, Agile Methodology
+
+Languages: MS SQL, PL/SQL, Object Oriented Programming, Java, Python
+
+ACCOMPLISHMENTS
+
++ Presented a Thesis Report on "Efficiency of Multi Query Optimization” in Advance Database Systems for my Graduate Project.
+
++ Designed" An Agent Based Intrusion Detection System using Signature Method” where we automatically detect an intrusion during a data
+‘transfer from one network to another.
+
+‘+ Developed an online shopping website in relevance to C Language course work.
+
+‘Work EXPERIENCE
+
+‘SQL Developer, 05/2016 - 07/2016
+Servicetitan ~ Glendale, AZ
++ Project Name : TRAFFIC KPI (Key Performance Indicators) Worked with Business Analyste and clients in gathering requirements and
+‘translating them to Technical Specifications, Documentation,
++ Created Tables, Views, Indexes based on the requirements Created Data mart reporting solution basing various fact and dimension tables
+for analysis purposes using SQL Server Integration Services (SSIS) 2012/2008,
+
++ Created the Jobs and procedure to run monthly reports for the newly developed Datamart Solution in a weekly basis according to the
+business requirements,
+
+* Wrote Complex SQL queries to retrieve information from the databases depending on the requirement Created SSIS Packages, maintaining
+existing code, running $SIS batch jobs to meet the daily requirements using (SSIS) on MS SQL Server 2008,
+
++ Developing the technical specifications like solutions, which will be able to leverage, cross multiple platforms.
+
++ Extracted the data from Oracle, Flt Files, Transformed (Implemented required Business Logic) and Loaded into the target Data warehouse
+using SSIS (SQL Server 2012.
+
++ Created Error and Performance reports on SSIS Packages, Stored procedures and Triggers Created SSIS Packages to get data from different
+sources, consolidate and merge it into one single source Created Package Configuration using environment variables Involved in setting up
+and implementation ofthe MS SQL 2012 reporting server.
+
++ Project Environment: MS SQL Server 2012/2008/R2, DTS, MDX, SQL Server Management Studio, SSIS, SSRS, SQL Server Business
+Intelligence Development Studio(BIDS), T-SQL.MS-Access, SQL Server Query Analyzer.
+
+‘SQL Developer, 11/2015 - 05/2016
+Servicetitan — Columbus, OH
+
++ Project Name: Information Delivery Platform (IDP), CCAR (Comprehensive Capital Analysis Review) BMO Harris Bank.
+
++ Financial Online Application and Reporting ae the backbone for this Platform.
+
++ Financials Online provides a single location for storing, calculating, analyzing and reporting global equity compensation.
+
+‘+ This system follows regulations issued by the Financial Accounting Standards Board (FASB) whose primary purpose isto develop
+‘generally accepted accounting principles (GAAP) within the United States.
+
++ The reporting platform is another backbone using MS SQL Server SSRS, where Corporate Clients, BMO Business Team and Plan
+Administrators use this reporting platform for the day-to-day reporting requirements,
+
++ Designing the Databases, Developing Business Intelligence Analysis, Implementation and Reporting with Microsoft SQL Server
+2005/2008/2008R2/2012.
+
++ Use of Extract, Transform and Load (ETL) using SQL Server Integration Services (SSIS) Packages for integrating data using OLEDB
+connection fiom varied sources by using multiple transformation secluding Data Conversion, Conditional Spit, Bulk Insert, Merge and
+Union All
+
++ Creating Simple to Parameterized Dynamic Reports and Complex Reports including Tabular Reports, Matrix Reports, Charts, Graphs, and
+Sub-reports using SSRS in Business Intelligence Development Studio (BIDS)Data Tools Creating SSIS Packages for uploading of
+different formats of files and databases into SQL Server Data Warehouse using SQL Server Integration Services.
+
++ Create Data Flow Diagrams, Data Mapping From Source To Stage And Stage To Target Mapping Documents Indicating The Source
+Tables, Columns, Data Types, Transformations Required And Business Rules To Be Applied.
+
++ Plan, Define and Design Data based on Business Requirements and provide documentation,
+
++ Create new Database objects like Procedures, Functions, Packages, Triggers, Indexes using T-SQL in development and production
+‘environment for SQL Server.
+
+‘+ Migrating the Data from one environment to another.
+
+‘Use of SQL Server Integration Services (SSIS) and Reporting Services (SSRS) Performance Tuning, SQL Programming, Troubleshooting,
+
+SSISIDTS Package Configuration, SSRS.
+
++ Project Environment: MS SQL Server 2012/2008, MDX, SSRS 2012/2008, SSIS 2012/2008, SSAS 2012/2008,SSMS,Team Foundation
+Server, TSQL, PL/SQL, Oracle 11g, Access and Excel Shell scripting, HP ALM, Netezza, CodeGen,
+
+Programmer Analyst Intern, 02/2015 - 11/2015
+PEGE Corporation — Morgan Hill, CA
++ Use of SQL Server Integration Services (SSIS) and Reporting Services (SSRS) Use of Extract, Transform and Load (ETL) using SQL
+Server Integration Services (SSIS) Packages for integrating data using OLEDB connection from varied sources by using multiple
+‘transformation secluding Data Conversion, Conditional Spit, Bulk Insert, Merge and Union All
++ Create Data Flow Diagrams, Data Mapping From Source To Stage And Stage To Target Mapping Documents Indicating The Source
+Tables, Columns, Data Types, Transformations Required And Business Rules To Be Applied.
++ Create Tables, Views, Indexes based on the requirements
++ Performance Tuning, SQL Programming, Troubleshooting, SSIS/DTS Package Configuration, SSRS,
++ Creating SSIS Packages for uploading of different formats of files and databases into SQL Server Data Warehouse using SQL Server
+Integration Services.
+‘+ Migrating the Data from one environment to another.
+
+EDUCATION AND TRABENG. $$ @@$§£_————
+
+Masters: Computer Science, Dec 2014
+Southern Ilinois University - Carbondale, IL.
+Computer Science 3.3/4
+
+Bachelor of Technology: Computer Science, May 2012
+Aryabhata Institute of Technology and Science - Hyderabad
+Computer Science

@@ -1,0 +1,71 @@
+FIRST LAST
+
+Bay Area, California - +1-234-456-789 - professionalemail@resumeworded.com : linkedin.com/in/username
+
+Network Engineer with 5+ years of hands-on experience in resolving hardware and software
+implementation, configuration, troubleshooting, infrastructure, and security issues and concerns..
+Led teams of 5-15 people in reducing downtime, improving network speeds, and reducing costs.
+
+PROFESSIONAL EXPERIENCE
+
+Resume Worded, New York, NY 2020 — Present
+
+Network Engineer
+e Worked closely and collaborated with the leadership team to improve wired/ wireless
+
+network infrastructure, resulting in improved uptime of 99.99%.
+
+Drove operational improvements, increasing network efficiency by 11%.
+
+e Administered the network expansion into ten new countries in Europe.
+
+Reviewed, audited, and onboarded 50+ external vendors into the network to expertly handle
+and streamline billions of concurrent network requests.
+
+e Headed and supervised a team of 2 full-time employees and one contractor.
+
+Growthsi, San Diego, CA 2016 — 2020
+Network Engineer
+
+e Promoted within 18 months due to strong performance and organizational impact
+
+e Deployed on-premises platforms Arista and Fortinet for 110 client accounts.
+
+e Positioned and maintained AWS Direct Connect and VPC to improve bandwidth throughput
+and reduce clients’ network costs by 17% on average
+e Implemented regular alerting and monitoring of network performance which reduced
+network down-time by 11% through quicker response times.
+Worked with 10+ clients to build robust firewalls using FortiManager and FortiGate, enabling
+seamless work for employees while accessing resources.
+
+Rofocus, New York, NY 2012 — 2016
+
+Network Support Engineer
+e Provided first and second-level escalation support for network, telecommunications, and
+
+security issues, employing high-quality service.
+e Performed initial analysis of 1OO+ network issues while resolving and escalating as needed to
+
+ensure business operations productivity.
+e Promptly conducted scheduled Juniper upgrades and configuration changes twice a week
+
+without service downtime to maintain service quality.
+e Lead 10+ major network projects by spearheading and managing detailed network design
+
+and implementation to ensure on-time project delivery.
+e Tip to jobseeker: Bullet points should be in format [Action Verb] [Accomplishment] [Metric];
+
+e.g. Developed x that led to y% improvement
+
+EDUCATION
+
+Resume Worded University, San Francisco, CA 2012
+
+MS in Computer and Network Security
+e Awards: Resume Worded Teaching Fellow (only 5 awarded to class), Dean’s List 2012 (Top 10%)
+
+SKILLS & OTHER
+
+Skills: LAN/ WAN, TCP/IP Networking, FortiManager & FortiGate, Amazon EC2 & Direct Connect,
+Routing protocols - BGP, OSPF, ECMP, MPLS, Cisco NEXUS / ISE / Prime (WiFi)
+Volunteering: Volunteer 20 hours/month at the ABC foundation, leading electrical projects

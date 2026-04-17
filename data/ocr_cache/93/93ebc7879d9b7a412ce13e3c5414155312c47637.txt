@@ -1,0 +1,94 @@
+EXPERIENCE
+10/2020 — present
+
+09/2013 — 05/2020
+
+EDUCATION
+
+SKILLS
+
+Teofila Hessel
+
+8435 Tanner Bridge, Los Angeles, CA # Phone: +1 (555) 922 1812
+
+SATTERFIELD INC Houston, TX
+Dot Net Developer
+
+¢ Provide technical guidance to junior developers on detailed designs, code and tests
+
+¢ Proven OOP using C# .NET
+
+¢ Sound OOAD knowledge with design patterns
+
+¢ Basic understanding of SOA
+
+¢ Demonstrated mature levels of knowledge and experience with current software technologies
+
+¢ Knowledge inNode.js
+
+¢ Understanding of JavaScript Frameworks, React.js and React native for front-end development is
+advantageous
+
+¢ Deck GL , Mapbox GL and other mapping libraries is advantageous
+
+¢ Create web application front end as per design comps and information architecture
+
+¢ Integrate application front end with application business layer
+
+* Collect feedback from design and technical staff on website development needs
+
+HOMENICK-MARKS Houston, TX
+Dot Net Developer
+
+¢ Understand executing accessibility and progressive enhancement presentation
+
+¢ Stick to established coding standards and group procedures individually and in teams
+
+¢ Plan and estimate projects and reports hours to administration for billing
+
+Add to engineering team’s culture of high code quality
+
+Coordinate with Interface Design Architects for meeting accessibility standards at code level
+Create conceptual diagrams, visual mockups and manage detailed user interface specifications
+Ensure design consistency with client’s development standards and guidelines
+
+¢ Design and build UIs on .NET Server Platform in team environment
+
+Guide and maintain developer teams and best practices
+
+Should have hands on experience working with CSS compilers and HTML template engines
+
+.
+
+.
+
+.
+
+COLUMBUS COLLEGE OF ART AND DESIGN Bachelor's in Computer Science
+
+¢ Strong knowledge of AWS Cloud architecture especially AWS Serverless and Containers
+
+¢ Expert knowledge in Node.js, C# .NET core
+
+¢ Strong knowledge of REST APIs and Microservices
+
+¢ Strong knowledge with SQL & noSQL Databases
+
+¢ Previous experience working with GIT
+
+¢ Knowledge of OOA, OOD principles and multi-threading
+
+¢ Building flexible and configurable Web applications
+
+¢ Designing and implementing web services (WCF and WEB.API) to provide a service-oriented
+architecture
+
+¢ NET based service bus technology, NServiceBus
+
+¢ SQL Server including T-SQL and SSIS
+
+¢ Understanding of c and design patterns
+
+-NET 4.0 onwards
+
+.

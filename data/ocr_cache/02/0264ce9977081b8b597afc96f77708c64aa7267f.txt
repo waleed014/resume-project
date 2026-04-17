@@ -1,0 +1,194 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Data synchronization
+
++ Oracle
+
++ Project management
+
++ MySQL
+
++ Software Development Lifecycle
+
++ Research and Development
+
++ Design and development.
+
++ Fluent in C, C++, C#
+
++ Web applications
+
++ Data warehousing and analytics
+
++ Oracle (SQLPLUS)
+
++ Tools customization
+
++ API design
+
++ Embedded systems
+development software
+
++ JavaScript expert
+
++ Time management
+
++ JIRA
+
+EDUCATION AND
+TRAINING
+
+University of Tirana
+
+Tirana + 06/2009
+
+Bachelor of Science: Computer
+Science And Programming
+Janag Kilica
+
+Fier , Albania + 06/2005
+
+High School Diploma
+
+SUMMARY
+
+Committed job seeker with a history of meeting company needs with consistent and organized
+practices. Skilled in working under pressure and adapting to new situations and challenges to best
+enhance the organizational brand. Organized and motivated employee eager to apply time
+management and organizational skills in various environments. Seeking entry-level opportunities to
+expand skills while facilitating company growth. Responsible and motivated student ready to apply
+‘education in the workplace. Offers excellent technical abilities with software and applications, ability
+to handle challenging work, and excellent time management skills.
+
+EXPERIENCE
+
+Fannie Mae - Senior C++ and Python Developer
+Reston, VA + 01/2019 - Current
+
++ Developed web-based PHP applications for deployment on premiums service platforms.
+
++ Troubleshot, tested and remedied issues before software deployment.
+
++ Developed highly efficient algorithms in C++ through both pair-programming and independent
+work. The algorithms improved inventory management benchmarks 15 percent.
+
++ Involved in building database Model, APIs and Views utilizing Python, to build an interactive web-
+based solution.
+
++ Creating and implementing API-s for ERP system communication and data exchange with other
+standalone software’s for internal use. Also finding new faster and better ways for data exchange
+between systems of different nature that company was using.
+
++ Analyzed code and corrected errors to optimize output.
+
++ Designed, developed and implemented firmware to support embedded system product concepts.
+
++ Coordinated testing and validation procedures through software development lifecycle.
+
++ Serialization and barcode project design and implement using RFID technology. Microcontroller
+programming in C/C++ and testing.
+
++ Creating and implementing API-s for ERP system communication and data exchange with other
+standalone software’s for internal use. Also finding new faster and better ways for data exchange
+between systems of different nature that company was using.
+
++ Designed software for real-time operating systems QNX, ThreadX and others.
+
++ Developed software for embedded systems, coding solutions for both new installations and in-situ
+hardware.
+
+‘Apex Systems - Full Stack Software Engineer
+Bellevue, NE + 09/2014 - 10/2018
+
++ Managed both back-end and front-end aspects of development process.
+
++ Built professional relationships with team and clients to help speed communication and attain
+project results.
+
++ Coordinated system installations, testing and code corrections.
+
++ Led technical team to meet project deadlines and attain project objectives.
+
++ Engaged with product management for requirements analysis and clarifications.
+
++ Supported systems and complex software applications at multiple client sites.
+
++ Develop and design RESTful services and APIs.
+
++ Ensure that non-functional requirements such as security, performance, maintainability, scalability,
+usability, and reliability are being considered when architecting solutions.
+
++ Coordinated installation of software systems and collaborated with user experience team on design
+and implementation of new features.
+
++ Recomended strategies to maximize performance and lifespan of equipment involved in software
+installations.
+
++ Develop functional databases, applications, and servers to support websites on the back end
+
+Heritage Environmental Services, Llc - Database Developer
+Bellingham, WA + 01/2011 - 09/2014
+
++ Developed data models and database designs to plan projects.
+
++ Wrote scripts and processes for data integration and bug fixes.
+
++ Developed, designed and optimized data structures for analysis.
+
++ Assisted clients in understanding and manipulating data to gain value through SQL and ETL
+technical processes and visual analytics tools.
+
++ Supervised all levels of internal analytics practice, including ETL, database administration, report
+creation and integration.
+
++ Provided support to clients in understanding and manipulating data to obtain value through SQL.
+and ETL technical processes and visual analytics tools.
+
++ Applied various skills to evaluate, design, implement and optimize databases and database
+applications.
+
++ Built integrations from multiple data sources, including Salesforce and Pardot.
+
++ Develop custom C++ software code, debugs, troubleshoots, and resolves software and hardware
+compatibility and operability issues.
+
++ Produced complex database project with zero issues due to effective troubleshooting.
+
++ Programming in PL/SQL programming languages to create complex functions for use in databases.
+
++ C++ WINAPI classes creation and testing.
+
++ Constructed database and warehouse, streamlined disparate data sources and unverified queries
+into main source.
+
+It-tel - IT Technician
+City, STATE + 02/2010 - 01/2011
+
++ Performed troubleshooting on networking and connectivity issues to restore connections and
+network access.
+
++ Responded to assistance requests from users and directed individuals through basic
+troubleshooting tasks.
+
++ Conducted routine maintenance on servers and systems, keeping networks fully operational during
+peak periods.
+
++ Responded to or escalated tickets based on severity and internal policies governing responses.
+
++ Installed computers and other devices individually and across networks, testing connections to
+support proper functioning.
+
++ Replaced faulty or damaged network hardware components to improve performance.
+
++ Implemented, tested, validated and maintained networking services according to solution designs.

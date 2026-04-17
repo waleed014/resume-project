@@ -1,0 +1,87 @@
+RAVEN HOEGER
+
+25739 Swift Cape, Houston, TX. + +1 (555) 254 4807
+
+‘WORK EXPERIENCE
+
+‘SENIOR SOFTWARE TESTER (04/2016 - PRESENT
+Philadelphia, PA
+
+‘+ BS or higher in Computer Science or related technical diseipline
+
++ Experience in test strategy development, including test tool evaluation and selection
+
+‘+ Execute and maintain test suites and test eases for new and existing products
+
+‘+ Regression test software fixes for new and existing products
+
+‘+ Document, troubleshoot and follow up on issues found during testing
+
+‘+ Assist Development with replicating and debugging problems
+
+‘+ Participates in test efforts for software product development or support projects to measure the quality of the functional (business)
+
+components of the system
++ Performs dry run testing and formal execution of test ware under supervision
+
+SOFTWARE TESTER, 08/2012 - 01/2016
+Los Angeles, CA
+‘+ Develops and mi
+
+ins quality assurance documentation for projects and tasks to include quality metrics
+
+‘+ Ensures documentation complies with software development and Quality Assurance standards, policies and procedures or best practices
+
++ Conducts assessments and evaluations through analysis and interpretation of objective and subjective evidence to verify compliance to
+standards and applicable quality plans
+
+‘+ Determines level of process and product quality
+
++ Develop written reports of findings; escalates unresolved issues to appropriate management levels - Evaluates work products to assess
+quality and report findings
+
++ Researches alternatives solutions to problems, determines proper approaches, and makes verbal and/or written recommendations to
+appropriate parties and implements recommended solutions as approved
+
+‘+ Experience developing automated regression testing scripts and policies - Experience working directly with customers, providing them
+
+with guidance and status, understanding their regulatory/validation requirements, and rendering prompt responses -
+
+JUNIOR SOFTWARE TESTER, (01/2010 - 03/2012
+Detroit, MI
++ Experience with system testing methodologies or Certified Ethical Hacker
+‘+ Working knowledge of industry standard Metries and KPI's
+‘+ Experience in model based development (Matlab/Simulink), task planning and knowledge of Autosar standard would be an advantage
+‘+ Working knowledge of industry standard Metrics and KPI's with ability to ingest and output to a dashboard to monitor and report on
+automation results,
+‘+ Work closely with performance test team to drive proper test approach and setup test data ensuring that the performance NFR's are
+covered during the capacity testing phase
+‘+ Monitors status and progress forall assigned team projects, scrums and releases depending on the development methodology being used
+to ensure goals and deadlines are met - Assigns work tasks to team members
+‘+ Writes, implements, and maintains testing processes and procedures - Maintains and monitors maintenance of documentation in Records
+‘Management application and on shared file server when needed
++ Prepares test plans, test cases, coordinates functional user acceptance testing (UAT), and work closely with the development team to
+
+coordinate defect resolution on projects with executive management visibility
+
+EDUCATION
+
+WILLIAM JESSUP UNIVERSITY 2005 - 2009
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Strong leadership skills, verbal and written communication skis, problem solving skills, and interpersonal skills
++ Atleast 2 years of experience: Operating System - WIN7, (In depth working understanding of WIN7, but XP skills ifstrong would be
+
+acceptable)
+
+‘+ Atleast 1 years of experience: Operating System - WIN7. (In depth working understanding of WIN7, but XP skills if strong would be
+acceptable)
+
+‘+ At least 1 year of experience: Operating System - WIN7. (In depth working understanding of WIN7, but XP skills ifstrong would be
+acceptable)
+
+‘+ Flexibility and strong time management skills dealing with competing priorities and demands,
+‘+ Demonstrate strong troubleshooting techniques and problem solving skills,
+‘+ Excellent test automation experience, in particular of web applications coupled with either Javaseript or C# programming skills

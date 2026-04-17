@@ -1,0 +1,53 @@
+Edmundo Bergnaum +1 (555) 458 5741
+2163 Elton Creek, Boston, MA
+
+Experience
+
+Senior ETL Developer / Admin — Gorczany, Grimes and Bahringer, Los Angeles, CA 12/2017 — Present
+¢ Familiarity with database SQL (Sybase)
+¢ Familiarity with database SQL Server
+¢ Familiarity with database SQL (particularly Oracle 11g or higher)
+e IBM InfoSphere DataStage
+© Web Services, MQ
+© Unix Shell/Perl Scripting
+¢ ETL Batch Scheduling
+¢ IBM InfoSphere Server Manager
+© COBOL Mainframe files
+© Secured File transfer (SFTP)
+© QMF, IBM Data Studio, SSMS
+
+Mid-senior ETL Developer — Murphy-Pfannerstill, Los Angeles, CA 01/2012 - 10/2017
+¢ Senior-level expertise in ETL development and data warehousing
+¢ In-depth knowledge of Informatica PowerExchange and PowerCenter tools
+© Strong experience writing PL/SQL stored procedures, functions, packages, and debugging code
+© Experience working with multiple stakeholders in an onshore/offshore model
+© Strong development experience with Exadata Oracle
+© Working knowledge of tools like Harvest and GitLab
+¢ Familiarity with IBM Mainframes related to Informatica
+¢ Write moderate to complex T-SQL code such as Stored Procedures, Functions and Views
+¢ Troubleshoot and resolve database integrity issues and performance bottlenecks in the ETL processes
+© Build and deploy reports in SSRS
+¢ Build and deploy reports and dashboards in Power BI
+
+Education
+
+Fashion Institute of Technology — Bachelor's in Computer Science
+
+Skills
+
+¢ Experience in other A>I products like MHUB, Express IT, Control Center, Query IT (added advantage)
+
+* Development experience using Python
+
+© Strong systems/process orientation with demonstrated analytical thinking, organizational skills and problem solving skills
+¢ Windows Batch Scripting experience
+
+¢ Informatica Cloud (IICS) experience of atleast 6 months
+
+¢ Exposure to Al/ML pipelines
+
+¢ Experience in Control-M, or any ETL automation scheduler
+
+¢ Experience in Denodo
+
+¢ SAP Master Data Governance and Master Data Management principles (at least working knowledge of it)

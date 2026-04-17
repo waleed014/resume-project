@@ -1,0 +1,96 @@
+Royal Kub
+856 Ewald Wall, Detroit, MI # Phone: +1 (555) 118 3198
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SENIOR .NET DEVELOPER / TEAM LEAD
+
+Dallas, TX
+01/2016 — present
+
+Manage team workflow and assignments
+
+Continually improve development, operational processes and procedures
+
+Work in a fast paced agile environment developing features planned as part of a roadmap
+
+Develop clear, concise and well-tested code as part of a wider team through pair programming and code
+reviews
+
++ Collaborate closely with other Development, Quality Assurance and Operations teams
++ Familiarity with agile based development processes
+‘Research and evaluate technologies that create value for the company
+
+SENIOR .NET DEVELOPER
+
+Houston, TX
+03/2009 ~ 07/2015
+
+‘Analyzing, designing, developing, implementing and maintaining application code in a variety of contexts
+including existing applications
+
+Design, development, and maintenance of WAVE components Specifications, architecture, wiki pages,
+and other design documents Cross-training and mentoring Providing accurate estimates and meeting your
+scheduled commitments Primarily acts as a multiplier by building systems, authoring tools, or introducing
+policies or patterns that raise the level of productivity of the entire organization
+
+‘* Maintaining, tuning and repairing applications; providing user support
+* Working on writing T-SQL scripts to configure the UI of the application and developing new
+
+configurations using Metadata-Driven development approach
+Working knowledge of data mapping, extraction, data migration, decision support systems, data
+marts/data warehousing and relational and dimensional modeling
+
+‘Designs, codes, tests, debugs, and documents the developed solutions
++ Apply development best practices as test-driven development (TDD) techniques and integration tests for
+
+all developed software
+
+SENIOR NET DEVELOPER
+
+Detroit, MI
+11/2006 — 11/2008
+
++ Identify and resolve project issues,
+
+Develop unit test plans, manages and tests data, including mapping data, coordinating test files, and
+facilitating data transfer with client
+
+Responsible for working on annual releases and providing operational support
+
+Monitors operating efficiency of existing application systems
+
+Participate in all Scrum activities such as creating user stories, sprint planning, and sprint retrospectives
+Developing unit tests and coordinating with our QA staff to achieve the best blend of error prevention
+and error detection possible
+
+Juding issue tracking and escalation
+Maintain and develop new features in existing applications
+
+TEXAS A&M UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Strong knowledge of data structures, algorithms, and designing for performance, scalability, and
+availability
+
+A believer in code quality, testability, and reliability
+
+Knowledge of VBo with emphasis in conversion to the .NET platform highly desirable
+
+Proficient in C#with a good knowledge of its ecosystem
+
+Excellent oral and written communication skills, including the ability to explain IT concepts to non-IT
+professionals
+
+Strong knowledge of HTML, CSS, JavaScript, JQuery, JQueryUI, and other applicable JavaScript
+frameworks
+
+Promotes continuous process improvement especially in code quality, testability & reliabili
+Ability to understand and code against a schema with highly normalized tables
+
+‘C#t developer with strong .NET knowledge (or highly skilled in other object oriented languages)
+Good knowledge of applicable data privacy practices

@@ -1,0 +1,63 @@
+ROBERT SMITH
+Java/Python Developer
+
+Phone: (0123) 456.785 | Emai: inlo@quksesume.com | Website: Qwikresume.com
+‘SUMMARY.
+
+3+ yoars of SOFTWARE DEVELOPMENT EXPERIENCE in Python, Java, and IDEs - Sublime
+‘ext, PyCharm, Eclipse, PyDev. Highly experianced in all phases of Software Development Lite
+‘Cycla(SDLC), Expert in Web application development,
+
+CORE COMPETENCIES
+
+‘Tachnical : Frameworks Django, Webdpy, Flask, Struts, Pylons And CSS Bootstrap, TurboGears,
+‘Webgpy, Openstack Web Technologies HTML, CSS, DOM, SAX, Java Script, JQuery, AJAX,
+QML, Angular.JS Programming Languages Python, Java, SQL And PL/SQL. J2EE Technologies
+ASP, Java Servlets, JDBC And JMS, Version Control Git (GiNub)
+
+PROFESSIONAL EXPERIENCE.
+
+JavalPython Developer
+‘Computek Solutions - March 2015 - Present
+
+Key Deliverables:
+
+'+ Written with object-oriented Python, Flask, SQL, Beaultul Soup, HTTPLIB2, JINJA2,
+HIMLICSS, BooiStrap, Jquery, Linux, Sublime Text, GIT.
+
+* Developed ine required XML schema documents and implemented the framework for
+parsing XML documents
+
++ Bulls application and datahasa ‘servers using AWS EG2 and creata AMIS also using RDS
+for Oracle DB,
+
+* Developed webs applications in Dango frameworks Model View Control (MVC)
+architecture,
+
+* Developed custom tags to simply the template code. Designed Ul scrmens using
+templates, Ajax, Himl, and JSon, Used Javascript for client sie validation
+
+Involved inthe analysis, design, and development and testing phases of sottware
+dovelopment ile cycte (SDLC).
+
++ Scheduling tasks on windows task scheduler to run the Python serbis to generate repors
+{or frequent interval ol times.and also sand omail alerts
+
+Python Developer
+‘ABC Corporation - Mar 2010 ~ Mar 2015
+
+Key Deliverables:
+
+++ Worked on windows server vin i nun reporting scripts each day and make the reports
+available via hp using an ils vitual directory,
+
++ Create on-demand daly and weeKy reports by invoking scripts with custom arguments and
+pparamaters to provide actionable data ta the test owners,
+
+Managed daiaseis using pandas datalrames and mysq) dataheise queries trom python
+Using py hon-pyadbe connector package to retrieve information
+
++ Wrate programs for pertormance calculations using numeyand sqlalchmy,
+
+2250 Oak Steel, Old Forge, New York. 13420
+‘© Ths Exes Resume Template s the copyright of Quikresumecom, Uaags Guidelines

@@ -1,0 +1,129 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105,
+(855) 432-1000 - resumesample@example.com
+
+PROFESSIONAL PROFILE
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of
+diving increased sales, improving buying experience and elevating company profile with target market.
+
+Quarmcartons
+
+‘Tools/Software Rational Tools (Requisite Pro, Clear Case, Clear
+Quest, Test Manager), Mercury Test Director, Mercury LoadRunner,
+AutoTester, MS Project, PVCS
+
+Revevant ExpeRreNcE
+
+EXPERIENCE
+
+01/2008 to Present Testing Manager
+Polaris Inc — Cuyahoga Falls, OH
+
+© Developed and executed an end-to-end test strategy for Provider Enrollment Medicaid MMIS Systems for the State
+of New Hampshire.
+
++ Work directly with the client, engineering, configuration management, project management office, infrastructure
+and support, and subcontractors to ensure a standard software test methodology is employed for all aspects of the
+project.
+
++ Estimate and obtain management support for the time, resources and budget required to perform testing
+
+‘+ Develop the test plan for the tasks, dependencies and participants required to mitigate the risks to system quality
+and obtain stakeholder support for this plan.
+
+‘* Work with Infrastructure and Support and Configuration Management to ensure the hardware and software
+requirements are identified for Test/System Setup.
+
++ Ensure content and structure of all Testing documents / artifacts is documented and maintained.
+
++ Document, implement, monitor, and enforce all processes for testing as per standards defined by the organization.
+
++ Keep track of the new requirements / change in requirements for the NH MMIS project and ensure that testing
+strategy, plans, or documentation is updated based on new requirements or change in requirements.
+
++ Organize status meetings and send Status Report to the Client and Project Management Office.
+
+« Attend client calls and discuss the weekly status with the client.
+
++ Ensure on-going communication with the NH client and work collaboratively to ensure a consistent testing strategy
+that meets client needs/expectations.
+
+« Track and prepare the report of testing activities including test testing results, test case coverage, required
+resources, defects discovered and their status, etc.
+
+* Work with Senior Testing Leads to ensure the timely delivery of various testing milestones.
+
+‘+ Managed global testing teams which include resources in India, and across the US.
+
+01/2004 to 01/2008 Project/Program Manager
+Dell Inc - Chicago, IL.
+
+‘+ Manage critical projects for GXS which establish High Availability Infrastructure in various service nodes in the
+US and Europe.
+
+‘+ Develop implementation strategies and manage projects for migrating clients from legacy systems to newer
+architecture.
+
+* Create project methodology for used by other GXS implementation teams.
+
+‘* Manage global cross-functional project teams which include resources in Europe, India, and US.
+
+‘* Mentor off-shore Quality Assurance team in developing test strategies, allocating resources and setting goals that
+are aligned with the on-shore teams.
+
+01/2002 to 01/2004 Team Leader, Quality Assurance/EDI Consultant
+Salesforce.Com, Inc. — Somerville, MA
+
+* Created EDI design documents.
+
++ Consulted with client to develop EDI specifications
+
++ Developed EDI qualification strategy used by internal and customer test teams that significantly reduced defects in
+EDI maps.
+
+‘+ Managed both on-shore and off-shore test teams,
+
++ Ensured the successful transition of on-shore test activities to off-shore teams in both Mexico and India.
+
+* Developed processes and procedures for configuration management, software deployment, and release to Quality
+Assurance.
+
+« Used Test Director to document test scenarios, create test documentation, generate test reports and track progress.
+
++ Maintained, updated and executed load tests using LoadRunner.
+
+01/1996 to 01/2002 Senior Consultant/Automated Test Specialist
+GE Information Services — City, STATE
++ Evaluated and implemented automated test tools.
++ Trained test team on use of automated test tools.
+* Developed customized interface to AutoTester which reduced learning curve and improved productivity for test
+team,
++ Developed overall automated test strategy that significantly reduced regression test cycle.
+* Created and executed test plan and test cases for both target and regression testing.
+
+01/1989 to 01/1996 Quality Assurance Consultant
+Atlanta Staff, Inc - City, STATE
+
+* Created test plans, test cases and requirements traceability matrices.
+
+Executed test cases for target and regression testing.
+Participated in formal requirements, design and code reviews.
+Developed processes and procedures for reporting and tracking defects.
+Created Quality Assurance Processes and Procedures that enabled company to reach SIE CMM Level 5.
+Developed processes and procedures for measuring and tracking the Cost of Quality.
+
+Epucation
+
+1985 B.S: Electrical Engineering
+Texas A&M University College - Station, TX
+Electrical Engineering
+
+AFFILIATIONS
+
+Sms
+
+budget, CMM, hardware, Configuration Management, content, Client, clients, delivery, documentation, EDI, functional, Government,
+LoadRunner, meetings, Mentor, Office, MS Project, Processes, progress, Project Management, PVCS, Quality, Quality Assurance, Quest,
+reporting, strategy, Test Director, test tools

@@ -1,0 +1,93 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 # (555) 432-1000  resumesamplegexample.com
+
+Professional Summary
+
+Senior Informatica Developer with more than 7 Years of professional experience in IT industry in requirements gathering, analysis,
+design, development and Maintenance of vatious Database and Data warehouse Software Applications.
+
+Skills
++ Informatica Power Center 9.5/9.0/8.6.1 ‘= Database design
++ Power Exchange 9.5/9.0 «TOAD
++ SQL Server 2012/2008 ‘* Physical & Logical Data Modeling
+* Oracle 11g/l0g = Windows 7/XP/2000
++ SQL, T-SQL, PL/SQL + Linux, Unix
+Education
+
+Master's Degree: Technology Management, 2010
+‘Texas A&M University - Commerce TX
+
+Work History
+
+Senior ETL Developer, 07/2016 to Current
+Epam Systems Inc - Dallas,
+‘+ Worked closely with the Business Users to gather requirements.
++ Responsible for converting functional requirement into technical document.
++ Experience in analyzing the multiple source systems and based on the business requirements build the transformation rules to
+extract, transform & load the data in the target systems
++ Using Informatica Power Center Designer analyzed the source data to Extract & Transform from various source systems (Oracle,
+SQL server and flat files)
++ Experienced Informatica Power Exchange to extract the data from the Legacy Mainframe Source system to the Staging database.
++ Created PL/SQL stored procedures and called them from Informatica power center.
++ Involved in preparing the Migration Documents and SQL scripts to selease the code in UAT and PROD environments.
++ Developed and used the SQL Queries to validate the data in both source and target databases.
++ Involved in writing UNDX Shell scripts to invoke the Workflows at scheduled timings. Developed Korn shell scripts for
+Informatica pre-session, post session procedures.
++ Involved in tuning of the Informatica mappings and sessions for optimum performance.
+Environment: Informatica Power Center 9.5.0, Informatica Power Exchange 9.5.0, Informatica Data Quality 9.5, Oracle 11g, MS SQL.
+Server 2005/2008, Quality Center, HP PPM, OBIEE, Control -M
+
+Senior Informatica Developer, 09/2014 to 06/2016
+Cox Communications Inc— Bentonville, AR
++ Worked with Business Analyst to understand the business and to design the architecture of the data flow.
++ Created mappings to perform the tasks such as cleaning the data and populate that into staging tables, Populating the Enterprise
+Data Warehouse by transforming the data into business needs & Populating the Data Mart with only required information
++ Used web service consumer and provider transformations, power exchange for Salesforce transformations.
++ Implemented Slowly Changing Dimensions as per the requirements, Responsible for monitoring scheduled, running, completed
+and failed sessions.
++ Involved in debugging the failed mappings and developing error-handling methods.
++ Worked with the Quality Assurance team to build the test cases to perform unit, Integration, functional and performance
+Testing.
++ Performed migration of mappings and workflows from Development to Test and to Production Servers.
+Environment: Informatica Power Center 9.5/9.1, Power Exchange 9.5/9.1, Oracle 11g, PL/SQL, SQL, DB2, Mainframe, salesforce,
+UNIX, Shell scripting, Control M
+
+Senior Informatica Developer/Analyst, 2014 to 09/2014
+Infosys Ltd - Columbia, SC
+* Developed and supported the Extraction, Transformation, and load process (ETL) for data migration using Informatica power
+center.
++ Responsible for Requirement Gathering Analysis and End user Meetings
++ Extracted data from various heterogeneous sources like Oracle, SQL Server, DB2, Sybase, MS Access and Flat Files.
++ Worked on the Informatica Analyst tool for profiling the data and perform validations.
++ Documented existing mappings as per standards and developed template for mapping specification document.
++ Provided excellent customer service to the internal functional team by pro-actively following up with the issues on hand,
++ Responsible for Unit testing and Integration testing of mappings and workflows.
++ Consistently met deadlines and requirements for all production work orders.
+Environment: Informatica Power Center 9.5.1, SQL Server 2012/2008, T-SQL, SQL Server management studio, DB2, stored
+
+procedures, Netezza, XML, XML spy, Shell Scripts, UNIX, TFS, Quality center, HP Service Manager, ER Studio, Autosys scheduling
+tool,
+
+Informatica Developer, 03/2010 to 11/2013,
+Health Now New York Inc, Dba BCBS WNY - City, STATE.
+
++ Involved in design and development of requirement specification documents by coordinating with business users and Technical
+teams.
+
++ Worked with Informatica client tools Mapping Designer, Source Analyzer, Warehouse Designer, Mapplet Designer,
+‘Transformation Developer, Workflow Manager and Workflow Monitor. § Designed and developed Informatica Mappings to
+load data from Source systems to Customer ODS and then to Enterprise Data Warehouse.
+
++ Developed the mappings to handle Historical Loads and Incremental loads to load data on daily basis and Weekly basis.
+
++ Involved in writing UNDX Shell scripts to invoke the Workflows at scheduled timings. Developed Korn shell scripts for
+Informatica pre-session, post session procedures
+
++ Involved in end-to-end Unit Testing of the mappings and identified the bugs and resolved various Data issues, Load Issues.
+
++ Used CA workload automation scheduling tool to configure/schedule the jobs in production environment.
+
+Environment: Informatica Power Center 8.6.1/9.0.1/9.5, Informatica Analyst, SQL Server 2005, DB2, Sybase, Facets, Oracle 11g, HP
+Service Manager, PL/SQL, WINSQL, Ultra Edit, Kofax, XML, Shell Scripts, UNIX, CA workload automation(Cybermation)
+scheduling too!

@@ -1,0 +1,40 @@
+JAVA DEVELOPER RESUME
+
+Yours name
+123 your address
+
+city, state, zip code
+(XXX) -XXXX-XAXX
+your.email@gamil.com
+
+Summary
+
+Technically advanced Java Developer with 7+ years of experience in designing,
+developing and delivering user-centric software applications using Java/J2EE
+technologies. Offering strong expertise in multiple programming languages, including
+JavaScript, HTML, and XML. Seeking to secure a challenging position as a Java
+Developer.
+
+Professional experience
+
+Java Developer
+IT AMERICA INC., Arizona City, AZ,
+September 2015 - Present
++ Use Java/J2EE technologies to develop web applications for client server
+environments and add functionalities to existing applications.
++ Revamp various Java applications developed with Spring, Hibernate and older
+J2EE.
++ Conduct user requirements analysis to design and program applications and
+deliver support for system enhancement.
++ Play apivotal role as a part of an agile scrum team accountable, developing
+new applications using Spring framework backend and Angulars frontend.
++ Consult with customers on project status and technical concerns.
+
+Java Developer
+INFOSYS, Charlotte, NC,
+June 2011 - August 2015
++ Rendered solid technical expertise in Software Development Life Cycle and
+core Java technologies to develop applications based on specific client
+requirements.
+
+Page 1012

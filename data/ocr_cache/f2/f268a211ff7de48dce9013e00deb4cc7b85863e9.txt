@@ -1,0 +1,149 @@
+Jessica CLAIRE
+
+Wo Montgomery St. 061 Foor (5) 4821000
+
+Professional Summary
+
+“Technology enthusiast with over 7 yeas of experince IT industry across various aplication desig, development tegration and
+testing. Expertise in Gove Java concepts, such a OOP Design Mult Threading, Generis, Exception Handing, Collections,
+Annotation and some other festures. MuleSot Certified and Experienced in developing Mule ESB lows and interaction by using
+service oriented architecture SOA) and enterprise application integration (EA using Mule Runtime. Good experience in XML
+technologies like XSD, XSLT, XQuery an Xpath for data transformations in MueSoft Good experienc wing mule connectors ike
+_DB, HTTE, HTTPS, FTP, FILE, SFTP, IMS Salesforce, ood experience in wsing ActiveMQ, AWS sutagilee for Asynchronous
+message queuing for guranted delivery pattern. Good experience in CICD too ks Jenkins Good experience in Mavenizng,
+MuleSoft projec and creating bude using Maven tl tools for deployment to CloudHub / Male MMC. Good experience
+developing SOAP and Rest haved services. Experience in using diferent version contoling/achng systems Subversion, CVS, SUN,
+(GT, ekational Clear Case. Experience in Splunk Log Management Creating dash boards, monitoring, epeting, Emi Notification
+to Users Strong in wating SOL qusiesin PLSQL and TSOL
+
+Skills
++ Software Development Standards + Software Documentation Cott
+
++ APIDesign and Development + Software Testing and Validation
+
++ Oracle Applicstons Development + Performance Evaluation and Optimization
+
++ Design Patterns and Principles + Js Frameworks: React Angular, Vue
+
++ SOAP and Restful Web Services + Programming Languages: Java, Ct, Net Python
++ Software Deployment + Databases: Orale, MongeD
+
++ Project Specications + Strong Comnuication and Interpersonal Sills
++ Programaing Languages: ava, + Web Programming
+
++ Scrum Methodology + Appliation Development Knowledge
+
++ ROMS Development and SOL + Data Storage and Retsieval
+
++ Continuous integration Systems + Soute and Version Cont: Git Gibb
+
++ Object Osiente Programing (OOF) + Eagemess to Learn Nev Technologies
+
+Work History
+
+MaleSoft Developer, 12202 te Curent
+State Of Oklahoma Weatherford, OK
++ Pasiipate in Reguirerent alysis, APIDEsign
++ Implementation and Maintenance phases
++ Design RESTIul API with Design on AnyPoin platform and AnyPoint studio with RAML 10
++ Implement floes ad application with AnyPoint studio ad leveraged Dataweae to transform mage
++ Crete ewsable component such as eror handler, domain projects and brary
++ Cet custom policy and custom connector to connect ith external third party system
++ Crete MULE ESB arias created fos, and configured MULE configuration ies and deployed application
++ Crete Flows, Sub Flows, Paiva Flows and outing components such a choice Sater gather and fst success
++ Creat lows using various event processors such as: Transform, exception handing (OnE or
++ Contre and OnEror Propagat), Unit Testing component (Mock, Asertion and Validation)
++ Czete atch process to handle age data and configure input proces and complete phases
++ Use vations connectors and even processors ike
++ File FILE, SFTP, IMAP, HTTP, Orace database,
++ Salesforce, OXF
++ Use various Assan tole ike bibuchet JIRA and condence
++ Paticipate in migration rom Male 37 to Male 43
++ Create error Clabal ror handing strategies, apply Tey scope to event process and connectors
++ Used Jenkins for CUCD deployment sategy
++ Part of al tation and production support
+Environment Jenkins, Anypoit Stadio x and,
+AWS, S3, C2, Mule version and 3.x Male
+“Management Console, RAML, ActiveMQ, Aaypoiat
+MQ. Maven, Nexas, Design, develop and migrate lows Mule applications and lows based on requizements
+
+Mate Developer, 027018 0 11/2000
+Demate Cop.— Lancaster PA
++ Creme APT Peony and deploy to API Gateway
++ Create RAML speication in AnyPoint platform and use fagments suchas Resource type, Tats and Library to enable
++ Crete lowsorchestaons for integrating component like connectors, traruformers and scopes witen ontop of deent
+intemal platform using Mule ESB for XML to CSV convertion
++ Use MuleSoftAnypoint APT platform fr designing ad implementing Mule APIs
++ Perfo end-to-end testing resolve problems and validated test results
++ Callsborate with developers with in eam and other tern members for effective implementation of projct=
++ Provide support for existing aplcatons inal enwionanents
++ Crete wansfonmation logic sing Danse,
++ MEL and XSLT
++ Crete nsblacounponents sch is gobel exaption hnllng satgy ae comer ger
++ Develop, est and consume message lows that are exposed as oth SOAP and Rest services to consumer applications
++ Implement error handling and loging message ows
++ repane tedial docrinnts aed tam over documents
++ Deploy applications to diferent environments (Test. QA, PROD)
+Environment: CloudHub, Anypoiat Stadio, APL
+‘Gateway, Jenkins, ActiveMQ, Salesforce, MMC,
+Male ESB 4 WebService, JDBC, Broke,
+LTTPRTTTPS, XM, Java 18
+
+Software Engineer, 1072015 %90172018.
+Foot Locker City, STATE
++ Participate in evelopment using JAVA EE
++ Technologies, We serves, Spang, Hibernate
++ Framework
+‘Implement RESTFUL based web serices
++ Used Hibenate for database Connectivity
++ Design user interface of application ung JSP
++ Parsipate in web UT pages using JSP, ISLS,
+1+ HIME, XML XSL XSLT, JavaScript
++ Implement Sont-end validations with Javaserit
++ Angus Js, Node
++ Implement application using Sping, Web
++ Service (SOAP and RESTFUL)
++ uae web-based applications using Spring MVC30 Architecture
++ Used Spring Core for concept Inversion of contol (0) implemented using dependency jection
++ Implement Contzller, Model and View components on MVC? acatecture based aplication
++ xpesene in uit testing applications using
++ Junit Framework and developed logging and standard mechanism based on Logi}
++ Une Java Cllsctions APLexensively in the application
++ Implement Documents using MS Otic, Excel and Power point
++ Expote taeles session bean as Restful web services using Jersey JAXRS
++ Design. develop, implement and maintain custom Ant tasksin Java
++ Bxocte unittest with junit and intagaton with
++ SOAPU: and POSTMAN
+Environment JAVAIZEE, JP, Servlets, Spring, Strats,
+Hibernate, Web services, SOUP, REST, JAXRS,
+“Tomcat, Java Scsipt, Oracle, Logs XML, HTML, CSS,
+UNDG ANT, WSDL, SOAP, AJAX Agile.
+
+Education
+
+Bachelor ofS
+
+ence: Applied Science, 0572015
+linis State Unversity - Normal TL.
+
+Accomplishments
+
++ Malesott Certied Developer 3 suger, stored procedures Relational
++ Database Management Systems like rade,
+
++ MySO_, PostgreSQL and Microsoft SQL Server
+
++ Good experience in Agile Software
+
++ Development Tem using SCRUM, TDD Test
+
++ Daven Development
+
++ Good personality exelent communication silselficint developer in a team ae ell as working individually
++ ting to learn new technologies and leaning ast
+
++ Capable of working on multiple projets under tight deadlines
+
+Certifications
+
++ Maulesoft developer 2022-2024

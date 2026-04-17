@@ -1,0 +1,70 @@
+Tad Bode
+
+93159 Kovacek Port, Boston, MA @ Phone: +1 (555) 578 2125
+
+EXPERIENCE TECHNICAL LEAD / SENIOR JAVA DEVELOPER
+‘San Francisco, CA
+08/2016 — present
+‘* Performance Management - Monitor and tune system to achieve optimum performance levels, and
+provide reports to support metrics collection
+‘* Conducts code reviews. Provides guidance to software developers for continuous improvement
++ Lead Technical Development team with development tasks , follow-up and monitoring
++ Ensure development artifacts are in alignment with patterns/ frameworks designed by software
+engineering teams
++ Full lifecycle application development using standard frameworks and coding standards/patterns
++ Technical Leadership — Lead, coach, task manage, technical plan, and mentor team members and more
+junior engineers
+‘+ Automates testing processes by developing scripts as part of coding
+
+REGULAR / SENIOR JAVA DEVELOPER
+‘San Francisco, CA
+01/2013 — 03/2016
+‘© Ensuring that development tasks are completed within the timeline provided and that issues are fully
+tested with minimal defects
+* Clearly communicate task estimates, ETAs and work breakdown structure to the management on Luxoft
+and client side
+Supports users by developing documentation and assistance tools,
+Keep colleagues informed of developments; work collaboratively
+Hands on JAVA development including: design, development, testing production rollout
+Being involved in Development, Continuous Integration and time-boxed iterative development
+Helps to develop Fitnesse framework for acceptance testing
+
+SENIOR JAVA DEVELOPER
+Boston, MA
+09/2009 — 10/2012
+‘© Maintaining, tuning and repairing applications to keep them performing according to technical and
+functional specifications; providing user support
+Working effectively with the Test & Verification team to resolve issues
+Being involved in Development, Continuous Integration and time-boxed iterative development
+Performing code reviews and reviews of technical documentation
+Working with off-shore vendor resources and development activiti
+Working with remote client resources
+Learning new technologies and languages
+
+EDUCATION — NORTH CAROLINA STATE UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+SKILLS ‘© Design and coding activities for availability, reliability, stability, manageability, scalability and security
+
+‘¢ Excellent knowledge in Java (JDK 1.5 or more) Excellent knowledge in JMS, JE, Jsp, Servlets, Struts 2.0
+and SQL/PLSQL Basics
+
+‘+ Strong ability to learn existing applications quickly and to be able to make modifications
+
++ Strong Data modelling ability and solid knowledge of SQL (Oracle)
+
+‘+ Highly proficient interpersonal skills and ability to self manage tasks/timelines - highly effective
+communication & organization skills
+
+‘+ Excellent analytical ability and communication skills with a strong sense of commitment and
+responsibility and an excellent team player
+
+‘* Strong core Java skills with a good knowledge of the multi-threading and performance tuning
+
++ Knowledge of Gemfire, Business Works, Yourkit(other profiler tools) desirable but not essential
+‘Competencies
+
++ Strong knowledge of database systems, proficiency in SQL and performance tuning
+
+‘+ Demonstrable knowledge with Java EE, Java generics and concurrent programming. Spring or other
+dependency-injection frameworks desirable

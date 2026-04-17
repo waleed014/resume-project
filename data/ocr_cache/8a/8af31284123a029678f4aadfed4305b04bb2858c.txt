@@ -1,0 +1,95 @@
+Robert Smith
+
+Lead Senior Sql Server Developer
+
+PERSONAL STATEMENT
+8 years of IF experience in database design, developrnent and support of
+Microsoft SQL Server for Productlon/Development environments. Hands on
+experience in dealing with Relational Database Management Systerns
+Including Stored Procedures, Constraints, Querying, Joins, Keys, Indexes,
+Data ImportiExpor, Triggers and Cursors, Normalization.
+
+WORK EXPERIENCE
+
+Lead Senior Sq! Server Developer
+ABC Corporation June 2013 - July 2014
+Fesponsibilties:
+
++ Deployed SSIS Package into Production and used Package conf guration
+to export various package properties to make package environment
+Independent.
+
++ Built SQL) cluster environments on VMware or Physical windows.
+
++ Performed installations of SQL on clustered and standalone servers
+LUparactions of sql server versions and applying patches and hot fixes
+
+* Involved in developrnent &amp:Deployment of SSAS Cubes and Monitor
+Full and Incremental loads and support any Issues,
+
++ Created SSIS packages for File Tansfer from one location to the other
+Using FTP task with Master SSIS Package to run all other packages
+‘Adding nodes to already existing clustered servers as a part of data
+loadHigh availability
+
++ Configured Transactional Replication and Log Shipping with SQL Server
+Management Implementation of SQL server logins, Roles and
+‘Authentication modes as a part of security policies.
+
+* Identified and Defined Key Performance indicators in SSAS Work on
+‘weekly Issues reports which are generated as a part of infrastructure
+setup,
+
+Senior Sql Server Developer
+Delta Corporation - 2011-2013
+esponsibilties:
+
++ Responsibilities As a member of Database and Bl Reporting team
+extensively worked on T-SQLs, Data loads and Reports for Land
+‘Administration Garnp; Revenue Accounting groups Created reports
+Using SRS from various sources like SOL Server [] and Cubes from
+Analysis Services Involved in extracting Data from various data sources
+Involving oracle, SQLServer, Flat Files, Legacy databases and other
+Sources from varlous business units Invelved In ETL Loads using
+S5SIS/DTS Packages fram various heterogeneous source systems lke
+ARIES, TOWL and JIB into the databases for Dashboard Reporting on a
+dally basis Involved in designing Aggregations and pre-calculations in
+SSSAS [] Involved in writing stored procedures for both Online and Batch
+requests handling business logic and functionality of various revenue
+rodules Involved in package migration from DTS ta SSIS, running
+Upgrade advisor against DTS Packages before migration,
+
+{Ths Ema Resume Temalat ithe conynght of Quikesure cor Usage Gudstines
+
+CONTACT DETAILS
+1737 Marstuille Road,
+Alabama
+(123)-456-7@90
+Infoequikresurne.com
+wwqwikresume.com
+
+‘SKILLS
+Microsoft SSIS, Microsoft
+SRS, DTS, Transact-
+SQL, Oracle, Microsoft
+SsAS,
+
+LANGUAGES
+
+English (Netive)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+Climbing
+Snowboarding
+Coking
+Reading
+
+REFERENCES
+
+Reference - 1 (Company
+Name)
+Reference - 2 (Company
+Name)

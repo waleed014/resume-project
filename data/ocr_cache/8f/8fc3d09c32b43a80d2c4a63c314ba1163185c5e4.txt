@@ -1,0 +1,139 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+
+A professional business intelligence developer with over 7+ years of experience in SQL and BI reporting tools such Tableau, SSRS, SSIS and as
+a Business Analyst. Currently seeking growth -oriented opportunities in Business intelligence in industries like Manufacturing, Health,
+Education, Logistics, Retail etc
+
+Enthusiastic team player, dedicated to streamlining processes and efficiently resolving project issues with experience and understanding of
+SDLC
+
+SKILLS
+
++ OLTP/OLAP System, Analysis and E-R modeling * Microsoft Word, Access, PowerPoint, Outlook, Visio, Erwin
++ Developing Database Schemas like Star schema, Snowflake * Conflict Resolution’ Troubleshooting
+
+schema used in relational, dimensional, and multidimensional + Planning/Scheduling
+
+modeling + Technical Support
++ Tableau Desktop and Tableau Server + Data entry and Word processing
++ Oracle Database, Teradata, AS400,
++ Microsoft SQL Server
++ Toad, SQL Developer, DB Visualizer, SSMS, Winsep
+
+EXPERIENCE
+
+‘SSIS ETL/SSRS Report Developer, 01/2019 - Current
+‘McKesson — City, STATE
+
++ Developed SSIS packages to load data from multiple sources to data warehouse.
+
++ Scheduled SSIS packages to run using Control-M.
+
++ Produced Ad-hoc SSRS Dashboard based on user requirements.
+
++ Utilized best practice approaches to data preparation,
+
++ Experience in using SSIS tools like Import and Export Wizard, Package Installation, and SSIS Package Designer.
+
++ Experience in importing/exporting data between different sources like Oracle/Access/Excel etc.
+
++ Using SSIS/DTS utility.
+
++ Experience in ETL processes involving migrations and in sync processes between two databases.
+
++ Experience in maintaining one to many and many to one relationships while moving data between two databases.
+
++ Experience in using recursive CTEs, CTE, temp tables and effective DDL/DML Triggers to facilitate efficient data manipulation and data
+consistency as well as to support the existing applications.
+
++ Expertise in writing T-SQL Queries, Dynamic-queries, sub-queries and complex joins for generating Complex Stored Procedures, Triggers,
+User-defined Functions, Views and Cursor.
+
++ Skilled in error and event handling: precedence Constraints, Break Points, Check points and Logging.
+
++ Supported team in resolving SQL Reporting services and T-SQL related issues and Proficiency in creating different types of reports such as
+Cross-Tab, Conditional, Drill-down, Top N, Summary, Form, OLAP and Sub reports, and formatting them.
+
++ Expert in generating writing parameterized queries, drill through reports and formatted SQL server Reports.
+
+«+ Strong Experience in creating Ad Hoc, parameterized reports, Linked reports, Snapshots, Drilldown and Drill through reports using SSRS.
+
+‘Tableaw/SSRS Report Developer, 09/2013 - 08/2018
+Shoprite Store ~ City, STATE
+
+‘+ Work directly with Quality Assurance associates to ensure all deliverables are accurate and of the highest quality
+
++ Good database knowledge and experience writing Oracle SQL and Microsoft SQL server SQL queries.
+
++ Extensive experience in Tableau Server and Tableau Desktop in various versions of Tableau,
+
++ Tableau design, development and process documentation to produce required reporting, analytics, and visualization deliverables.
+
++ Ability to perform data analysis, troubleshoot data integrity issues and trend data analysis in Tableau,
+
++ Development of new Reports / Dashboards’Story using Tableau and relevant data sources (Oracle, Excel, SQL Server, Teradata, Data
+
+warehouse etc)
+
++ Able to creatively stretch the capability of Tableau to customize and develop creatively stunning and dynamic visualizations.
+
++ Develop Tableau desktop! server reports and dashboards.
+
++ Create Tableau data extracts.
+
+‘+ Consult with business and technology partners on data visualization options and best practices.
+
++ Drive Tableau adoption across a broader array of business and technology areas.
+
++ Troubleshoot Tableau related issues and queries.
+
++ Relevant Tableau Desktop Experience Tableau dashboards, visualizations, and performing advanced analytics to analyze data.
+
++ Engage client to gather software requirements/business rules, and ensure alignment with development teams.
+
++ Translate stakeholder requirements into over 10 different tangible deliverables such as functional specifications, user cases, user stories,
+
+workflowiprocess diagrams, data flow/data model diagrams
+
+* Identify and reconcile errors in client data to ensure accurate business requirements.
+
++ Draft and maintain business requirements and align them with functional and technical requirements.
+
++ Facilitate monthly meetings with clients to document requirements and explore potential solutions.
+
+«+ Liaise between business and technical personnel to ensure a mutual understanding of processes and applications.
+
+Business/System Analyst, 02/2008 - 11/2011
+‘Legon Centre For International Affairs And Diplomacy ~ City, STATE
+
++ Performed extensive GAP analysis in the project as there were numerous 'As-Is' and 'To-Be' condition
+
++ Engage users and stakeholders to gather software requirements/business rules and ensure alignment with development teams.
+
++ Translate stakeholder requirements into over 10 different tangible deliverables such as functional specifications, user stories, user cases,
+
+‘workflow/process diagrams, flowcharts and model diagrams.
+
++ Identify and reconcile errors in client data to ensure accurate business requirements.
+
+‘+ Draft and maintain business requirements and align them with functional and technical requirements.
+
++ Lead stakeholder meetings and JAD sessions,
+
++ Prepares documentations and stores them on the organizations shared drive or share points.
+
+EDUCATION AND TRAINING
+
+‘Master of Arts: Development and Governance, 10/2013,
+
+University Of Duisburg-Essen - Duisburg, Germany
+
+‘Master of Arts: Intemational Affairs, 06/2011
+‘Legon Centre For International Affairs And Diplomacy (LECIAD), University Of Ghana - Accra, Ghana
+
+Bachelor of Arts: Social Work With Psychology, 06/2009
+‘University Of Ghana - Accra, Ghana

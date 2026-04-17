@@ -1,0 +1,50 @@
+REACT DEVELOPER
+
+Creative React Developer with 5+ years of extensive
+knowledge in Machine Learning, Graph Databases areas
+with willingness to learn and master Multithreading
+Development and Infrastructure as a Service. Graph
+
+Databases professional.
+KEY SKILLS
+Front End Databases
+@ React, AngularJS, Aurelia, Electron @ BIML, Cost-based Optimization, CouchDB, EF
+@ Gatsby, HAML, Haml, Handlebars.js @ ETL, MS SQL Server, MariaDB, MySQL
+@ JSON, JSX, Web Components, XML e@ PL/SQL, POSTGIS, ROLAP
+Back End DevOps
+@ .NET Framework 4.x, AWS ECS, Amazon EC2, @ = CircleCi, TeamCity, Vagrant
+Derby
+@ FCM, GCP, Rake SDLC
+Testing @ Asana, Basecamp, Confluence
+@ jira, SOUD principles, Scrum
+@ Cucumber, DDD, Jasmine, Jest @ = Trello, Waterfall
+@ NUnit, Nock, Protractor
+WORK HISTORY
+Senior Full-Stack Developer 11/2016 - Present
+Streich, Kohler and Lindgren Torphyfurt, Mi
+
+e@ Designing new databases and data schemas for the mission-critical progressive web
+application improving data integrity and execution efficiency using EF, POSTGIS and ROLAP
+
+e@ Fully automated infrastructure and environments cloud provisioning related to the business-
+critical progressive web application that helped to achieve 25% decrease in infrastructure
+operating costs.
+
+@ Implementation of the set of new API endpoints related to the mission-critical external web
+app, that provided critical connectivity channel for distributed functionality and increase
+system cohesion keeping manageable code complexity.
+
+@ Improving product aesthetic and UX of the high-volume online service, resulting in 62%
+increase in users retention.
+
+e@ Integrating with third-party services and external APIs as a part of implementation of the
+mission-critical customers-facing portal adopting an improved way of reports producing
+amongst different solutions and mitigating the code duplicity by 55%
+
+© Profiling, Troubleshooting & Bugs fixes for the business-critical progressive web application
+that helped to tune system performance and decrease average response time
+
+Front End Developer 02/2011 - 11/2016
+Hills and Sons South Kacie, ND
+
+@ Design and implementation of the 99.99% up-time REST API for the business-critical online

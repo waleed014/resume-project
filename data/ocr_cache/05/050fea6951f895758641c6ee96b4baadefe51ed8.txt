@@ -1,0 +1,59 @@
+PYTHON - DJANGO DEVELOER
+
+Objective
+
+Skills & abilities
+
+Experience
+
+Education
+
+Communication
+
+Dedicated Django developer with a love for building powerful and scalable online
+apps. Seeking a challenging role in a dynamic firm where | can contribute to novel
+projects and improve user experiences by utilizing my knowledge in Django and
+Python technologies. | am eager to collaborate in a team-oriented setting and to
+continuously enhance my knowledge of web development technologies.
+
+Python programming Language
+
+Data structures and Algorithms
+
+Django & Django REST framework
+
+Django ORM
+
+SQL - MySQL, Stored Procedures
+
+REST APIs
+
+Redis, Celery
+
+AWS - Cloudwatch, DynamoDB, $3, Lambda
+Git-GitLab
+
+Software engineering intern | January 2021 - July 2021
+
+Python - Django developer | July 2021 - present
+
+¢ Added multiple modules to the existing Healthcare product
+
+¢ Integrated multiple external communication Saas platforms like Twilio,
+RingCentral, eFax, Availity and many others
+
+¢ Responsible for maintaining Production server troubleshooting and
+monitoring production related issues
+
+¢ Provided Optimization solution for Database server by adding indexing
+and by optimizing ORM modificaty
+
+¢ Contributed to Report engine 7: by developing multiple SQL
+Stored Procedure reports
+
+¢ Implemented JWT SSO authentication in HealthViewX product
+
+| BE in Electronics and Communication
+
+Excellent communication skills enable me to collaborate with clients,
+stakeholders, and cross-functional teams to deliver high-quality results.

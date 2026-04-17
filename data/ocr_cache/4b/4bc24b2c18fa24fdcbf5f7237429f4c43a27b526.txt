@@ -1,0 +1,81 @@
+Professional Profile
+
+UAT Tester with experience in GUI, system integration, regression, end-to-end, sanity,
+‘and smoke testing for complex scenarios in various client server environments. Adept at
+resolving customer queries using XML SPY, as well as utilizing JIRA and Quality Center to
+work on defects. Proven ability to thrive in fast-paced environments alongside agile
+teammembers,
+
+Career Summary
+
+Tekintegral, chicago
+UATTester
+
+Outline
+
+Partner with product owners and developers to execute testing strategies/capabilties
+for a fast-growing IT consultancy firm that helps 300+ organizations fulfill digital
+transformation goals
+
+Key Responsibilities
+
++ Ensure systems, applications, and other devices are user-friendly by writing
+detailed test plans, test cases, and bug reports based on input from product
+‘managers.
+
+‘+ Study project specifications, gather/analyze data, and as wellas establish test
+{uidelines and timeframes in conjunction with other team members.
+
++ Assure requirements are met by application testing aspects, including functionality
+and usability
+
++ Review code toidentify errors and resolve issues related to system security and
+performance.
+
++ Offer feedback on software bugs, determine solutions, and execute code
+improvements,
+
++ Participate in scrum meetings to discuss project status and ensure applications
+meet user needs.
+
++ Update client data using CMS features, such as indexing and format management.
+
++ Maintain records of all procedures and adhere to best testing practices, SDLC
+‘methodologies, and industry regulations.
+
+Key Achievements
+
+‘+ Earned high praise for authoring advanced UAT test plans, test scripts, training
+‘manuals, and user guides for 150+ projects in two years.
+
++ Helped solve immediate technology problems by supporting the engineering team
+that modified 70+ systems through selecting cutting-edge application
+development tools.
+
++ Trained and provided technical assistance to 23 junior testers, which resultedin a
+35% boost in team productivity.
+
++ Applied effective time management skills to simultaneously manage and deliver 20
+projects ahead of schedule and under allocated budget.
+
+Jul2015 -Dec207 ‘eTeam, Chicago
+UATTester
+
+Outline
+
+Created test cases for applications, analyzed the root cause of issues, and
+comprehended user intent for a company that develops high-volume staffing and
+payroll programs for across the US.
+
+Key Responsibilities
+
+‘+ Formulated test protocols which tested web, desktop, and mobile apps using Java
+
+‘+ _ Interacted automation team to develop regression testing frameworks and PL/SQL
+scripts that drove software quality processing,
+
++ Used JIRA to evaluate, track. and log defects, while validating XML files,
+
++ Checked the release of functionalities to determine the eligibility for programs.
+
+Paget

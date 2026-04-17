@@ -1,0 +1,94 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Senior full stack software engineer with over twenty years of experience building and designing systems in the utility, apparel and financial
+sectors using a myriad of technologies. Reduced total time of document processing from nearly a day to under an hour through coding and
+design improvements as well as reduced a seven man process taking several days to a single user process taking only a few minutes. [am
+
+always looking for ways to improve the user experience and the efficiency of systems.
+
+SKILLS
+
+SAP Portals, SAP ERP, SAP HANA, SAP BW
+‘Windows Systems Administrator, J2EE, JQuery, Agile
+Java/ISP/Servlets, Eclipse, SQL
+
+HTML/XML/CSS, Unity, C4, Spring
+
+Business Objects 4.2, Crystal Reports
+
+Data Warehousing, Report Writing
+
+JavaScript, MSSQL, JDBC, JSTL
+
+Eclipse, IBM WebSphere, UNIX/AIX, ODBC
+Visual Basic, MS Access
+
+‘Work History
+
+Sr. SAP Portal Engineer, 09/2007 - Current
+Alliancebernstein Holding Lp — Atlanta, GA.
+© Currently handle two SAP NetWeaver 7.02/7.5 portal systems consisting of over 30 servers that support several thousand clients who have
+delegated administration over their respective users. Processes and applications in these systems are built using custom Java code, JSP, and
+SQL in order to save money by eliminating paper products.
++ In addition to storing over one million secured PDF invoice documents the portal is designed to handle ad hoc reporting through Crystal
+Reports, SQL Server Reporting Services and SAP BW and HANA on cloud in memory reporting
+# Saved over five hundred thousand dollars in its first year of implementation.
+«Assist team developers with understanding of system design, SAP API and changes in development procedures.
++ Recommend design and operational improvements to business owners based on user and system behavior observations
+* Coding of secure custom login screens in Java as new companies are added that have individually unique requirements. Currently
+supporting over fifteen thousand intemal and client users
+* Responsible for design, upgrade, troubleshooting, Java development, configuration, and maintenance of these systems.
+« Handling of user setups and security on SAP BW, Business Objects, MSAD, and SAP Portal systems
+
++ Project lead for network integration of two major companies during merger process
+
+Senior Analyst, 01/2005 - 09/2007
+National Veterinary Associates — Greeneville, TN
+«Responsibilities include developing key metrics for two major divisions: apparel and Sporting goods
+© This involves using SAP Strategic Enterprise Management as well as BW systems to create reports and visualizations for decision making
+by top management related to the financial direction of each sector
+* Hyperion Essbase Administrator
+
+SAP Portals Admin/Developer, 04/1991 - 01/2005
+Florida Power & Light — City, STATE
+* Successfully installed and maintained an SAP Portal environment with over 30 servers. Administration 0 f Windows 2000 Advanced
+Cluster, SAP Portal 5.0 enterprise portal, SQL Server 2000, Novell EDirectory 8.7.3, Planet, JRUN, and Intemet Information Services 5.0
++ Java iView development for functionality improvements and additions with ESS and MSS
++ Implemented Employee/Manager Self Service and ELeamning packages
+* SSO development for connections to Wellmed using eclipse, SAP Java API and JavaScript
+* Part of a large team assisted by IBM that designed and implemented the website www.fpl.com (now NextEra Energy) utilizing Java, jsp
+pages and JavaScript structured around an MVC pattemed architecture
+* Replaced an excel VBA application with Power Builder in order to allow for better scaling and maintenance
+Assisted Network Operations as a network/LDAP administrator on the MSAD and Novell platforms
+
+* Converted revenue protection database to Sybase/Power Builder 6.5 to ensure year 2000 readiness
+
+* Designed and enhanced several MS Access databases for meter reading, marketing, and operations which included connectivity to Sybase
+through ODBC connections
+* Created VB net application to allow unattended transfer of files between multiple Windows NT workstations
+
+Owner, 06/1993 - 11/2004
+Paragon Computer Systems — City, STATE
+* Built and repaired computer systems customized to the customers need
++ Handled administrative tasks such as taxes, rent, and parts purchasing
+* Developed Excel/MS Access 2000 application for Crooks Printing - Alamo/National car rental to handle advertisements and billing by
+Crooks printing for creating those flyers and brochures
+* Administrate Windows 2000 Pier to Pier 6 computer network for a local law office in Ft. Lauderdale, Florida
+* Developed a sixteen character non repeating random character generator in Visual Basic for Motorola for use on their CD labels in
+
+conjunction with Crooks Printing
+
+EDUucaTION
+
+Bachelor of Science: Computer Science And Programming, 02/2008
+Ft. Lauderdale, Florida
+
+Nova Southeastern U1
+
+ACCOMPLISHMENTS.
+
+Over the course of five years I eamed a black belt in Shotokan Karate which then led to my becoming an instructor and tournament judge.

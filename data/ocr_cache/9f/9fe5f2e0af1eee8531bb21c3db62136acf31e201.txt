@@ -1,0 +1,47 @@
+60123 Legros Manor, Los Angeles,
+CA
+
++1 (555) 590 8187
+
+Experience with large scale distributed databases and computing systems
+like Databricks Spark, EMR
+
+Expertise in predictive analytics/data mining/machine learning algorithms
+Strong experience in DNN models using TensorFlow v1.8 above, Keras,
+Pytorch
+
+Strong experience in at least one database technology
+
+Experience working with query languages
+
+Understanding and experience working with cloud infrastructure services
+like Azure and Amazon Web Services
+
+Data Science, Data Analytics, Computer science or computer engineering,
+or like engineering field
+
+Basic, practical understanding of data structures, statistics, and computer
+science
+
+Experience with Python, Pyspark, Hadoop, Hive (HQL), version control
+Basic skills in SQL to be able to extract data from database systems
+Hands-on work or classroom experience with logistic regression, time
+series, forecasting, and other predictive modeling techniques
+
+Hands-on experience working with healthcare claims data
+
+Proficient in writing WPS or R procedures and SQL queries
+
+Intermediate to advanced skills in Excel
+
+Experience in quantitative analysis and data manipulation of large data
+assets
+
+Healthcare or pharmaceutical industry experience
+
+Can manage multiple projects and balance multiple priorities
+
+People management and mentoring experience
+
+Working knowledge of statistical tools (GSAS, SPSS, WPS, R) and methods
+to incorporate statistical results into analyses

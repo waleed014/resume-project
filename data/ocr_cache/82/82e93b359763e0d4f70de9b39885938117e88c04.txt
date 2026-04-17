@@ -1,0 +1,157 @@
+Summary
+
+JEssica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(655) 432-1000 - resumesample@example.com
+
+Hands-on experience as a Chief Information Officer and Software Developer. Background includes successfully directing all aspects of the
+software development life cycle, Passion for creating innovative software solutions accompanied by the following attributes: excellent
+troubleshooting and analytic skills, self-motivation, works well with minimal supervision, ability to meet all deadlines while juggling multiple
+projects, team player, and excellent interpersonal skills. Leadership crafted by a previous career background as a STEM teacher and a desire
+to inspire people to achieve greatness. Masters degree in Applied Information Technology with an emphasis on security. Additional
+experiences in hardware troubleshooting, which includes both Linux and Windows servers and related network components.
+
+Tecunicat SKILLS
+
++ Languages: Javascript Query, Objective-C, PHP, Java, ColdFusion, SQL jQuery Mobile, AJAX
++ Development Tools: XCode, Eclipse, Phonegap Build, Cordova, phpMyAdmin
++ Database Platforms: SQL Server, MySQL
+
+* Methodologie:
+* Source Conts
+
+Waterfall
+it
+
++ OS: Windows Server, Linux (Ubuntu LAMP)
++ Network: Cisco Firewall Security, Network Security, Active Directory, IP PBX, Microsoft Exchange, VMware, VirtualBox, DNS
+
+Management
+
+PRoFesstonat EXPERIENCE
+
+04/2012 to Current
+
+07/2010 to 04/2012
+
+07/2005 to 04/2010
+
+01/1999 to 07/2005
+
+Epucation
+
+Chief Information Officer / Software Developer
+Franklin County Public Schools - Frankfort, KY
+
++ Developed and implemented software solutions for critical business needs.
+
++ Established and founded a handheld device repair business.
+
+* Invented, developed, marketed, and sold a new type of handheld device charging circuit board for customers using
+a specific type of Motorola device.
+
+* Presentations, direct sales, and marketing at national conferences for handheld device repair business,
+
+* Created a web-based trouble ticket site with ColdFusion and MS SQL to submit repair requests; giving the
+customers the opportunity to track repairs and employees the ability to update status of repairs.
+
+* Hired and manged five direct reports.
+
++ Responsible for IT infrastructure at all nine locations of the regional logistics company Zip Express.
+
+« Initiated and led projects promoting the operational objectives of Zip Express including data software integrations
+with customers using ASN, XML, XLS, and EDI file types.
+
+* Designed and developed innovative mobile applications for business and education utilizing XCode, Cordova, and
+PhoneGap Build,
+
++ Collaborated with business partners to design, write, and integrate barcode label printing software into existing
+logistics software. Employed a Java API along with PHP/MySQL and AJAX to create a robust software tool.
+
+* Designed, wrote, and implemented an educational software platform for schools in a 1:1 environment. Utilized
+multiple web technologies such as Javascript, AJAX, jQuery, and ColdFusion with a MS SQL database. Marketed
+and sold to local school.
+
+‘+ Updated electronic proof of delivery system for logistics customer by creating a mobile application with latest
+cross platform technology. Managed project to integrate application into existing infrastructure.
+
+* Created educational school handbook application for iOS devices utilizing XCode and Objective-C.
+
+‘+ Led a team of three employees on a project to implement a document imaging department within the logistics
+company Zip Express. Researched and organized software components to efficiently document image, OCR, and
+‘backup thousands of manifests per day. Teamed up with the nine branch managers of Zip Express to develop a
+system of checks and balances for scanning 100% of all documents. Successfully completed project ahead of
+schedule and under budget.
+
++ Co-wrote and developed a mobile application that broadcasts radio interviews for a local motorcycle company. The
+application was developed using the cross-platform technology Cordova.
+
+‘+ Administered Microsoft Exchange server and led project to migrate server to a hosted solution,
+
++ Administered Microsoft Active Directory and DNS servers.
+
+‘+ Project managed all aspects of IT infrastructure involved with moving Zip Express headquarters to a new location.
+This included all IT initiatives relating to operations, customer service call center, warehousing, and administration.
+Hired and supervised third party providers along with coordinating teams to work on special projects relevant to the
+move. The project was successfully completed on time and business operations were able to immediately begin at
+the new facility.
+
+‘+ Researched, configured, deployed, and managed an IP phone system to service three businesses. Converted all DID
+numbers to SIP trunks for each business and saved approximately $1500 per month on the cost of phone service.
+
+Physics and Chemistry Teacher
+Churchill Downs Incorporated — Vicksburg, MS
+
++ PLC Implementation Committee Member
+
++ Technology Committee Member
+
++ Edline Lead Technology Trainer
+
+‘© Member of the project team to implement 1:1 initiative
+
+Science Teacher
+Scottsburg Middle School - City, STATE
+
++ Robotics Team Coach
+
+Team leader
+
++ Budget Committee Member
+
++ Technology Committee Member
+
+«Teacher technology training including gradebook and web design
+
+IT Technician
+Zip Express — City, STATE
+
++ Provided desktop support to end users.
+
++ Responsible for all communications systems including paging system, two-way radio system, and digital phone
+
+system.
+
++ Repaired, replaced, and ordered computer hardware
+
+* Provided maintenance to company website utilizing HTML and ColdFusion.
+
+« Installed and managed company specific software.
+
+2014
+
+2008
+
+2005,
+
+Master of Science: Information Technology - Security
+Bellarmine University
+
+Master of Education
+
+Indiana Wesleyan University
+
+Bachelor of Science: Secondary Education
+Indiana University Southeast
+Physics, Chemistry, and Mathematics

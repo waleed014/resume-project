@@ -1,0 +1,207 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
+Cloud: Openstack, AWS, Azure
+Container: Docker, Kubernetes,
+EKS, AKS, Podman, Openshift,
+Rancher
+
+Databases: PostgreSQL, MySQL,
+‘MariaDB
+
+‘Monitoring: Prometheus, Grafana,
+ELK
+
+CI/CD: Jenkins, Argo CD, GitHub
+actions
+
+laC/Configuration management:
+Terraform, Ansible
+
+Programming Languages: Python,
+Go
+
+Version Control: git, GitHub,
+GitLab, Gogs
+
+OS: RedHat, Centos, Ubuntu,
+Fedora, Suse
+
+EDUCATION AND
+TRAINING
+
+‘Acharya Nagarjuna University
+2016
+
+‘© Post Graduate Diploma in
+Computer Application: Computer
+Application
+
+‘Acharya Nagarjuna University
+2014
+
+Bachelor of Science: Computer
+Science
+
+CERTIFICATIONS
+
+Red Hat Certified Architect in
+Infrastructure
+
+‘© AWS Certified Solutions
+Architect - Professional
+
+SUMMARY
+
+‘structured Python Developer bringing 8 years of comprehensive experience developing back-end
+components, connecting applications with other web services and supporting front-end developers,
+Tech-savvy and methodical professional possessing strong understanding of front-end technologies.
+Familiar with server-side template languages.
+
+EXPERIENCE
+
+Gallup - Python Developer With AWS
+New York City, NY » 11/2022 - Current
+
++ Wrote ANSIBLE Playbooks with Python, SSH as the Wrapper to Manage Configurations of AWS
+Nodes and Test Playbooks on AWS instances using Python. Run Ansible Scripts to provision Dev
+servers.
+
++ Written bash and python scripts integrating Boto3 to supplement automation provided by Ansible
+and Terraform for tasks such as encrypting EBS volumes backing AM's and scheduling lambda
+functions for routine AWS tasks.
+
++ Developed and designed an API (RESTful Web Service). Used the Python language to develop web-
+based data retrieval systems.
+
++ Designed and maintained databases using Python and developed Python based API (RESTful Web
+Service) using Flask, SQL-Alchemy and PostgreSQL.
+
++ Coordinated installation of software systems and collaborated with user experience team on design
+and implementation of new features.
+
++ Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to
+enterprise-quality testing and final implementation.
+
++ Monitoring both infrastructure and applications using Prometheus-Grafana and Splunk for
+comprehensive and efficient monitoring.
+
++ Deploying and managing highly available Kubernetes clusters in both on-premise and cloud
+environments
+
++ Developed company-wide technical strategy plans for Python-based assets, overseeing
+development, coding, debugging and Deployment.
+
++ Designing and implementing robust CI/CD pipelines utilizing industry-leading tools including GitHub
+‘Actions, CircleCl, Jenkins and Argo CD
+
++ Creating and managing Terraform modules for provisioning infrastructure on cloud providers such
+as AWS, and Azure
+
++ Expertise in utilizing various AWS services, including VPC, EC2, IAM, ECS, EBS, RDS, $3, Lambda,
+ELB, Auto Scaling, Route 53, Cloud Front, CloudWatch, CloudTrail, SQS, and SNS to design and
+implement scalable and highly available solutions
+
+‘Motorola Solutions - Senior Python Developer
+Norcross, GA » 10/2019 - 10/2022
+
++ Used the AWS -CLI to suspend on Aws Lambda function used AWS CLI to automate backup of
+epherneral data stores to $3 buckets EBS.
+
++ Gathered Semi structured data from $3 and relational structured data from RDS and keeping data
+sets into centralized metadata Catalog using AWS GLUE and extract the datasets and load them
+into Kinesis streams.
+
++ Worked as part of an Agile/Scrum based development team and exposed to TDD approach in
+developing applications.
+
++ Worked on designing and deploying a multitude application utilizing almost all the main services of
+the AWS stack (like EC2, $3, RDS, VPC, IAM, ELB, EMR Cloud watch, Route 53, Lambda and Cloud
+Formation) focused on high availability, fault tolerance environment.
+
++ Introduced new features and solved existing bugs by developing code for a cloud-based integration
+platform (iPaas) and Migrated customer data from legacy iPaaS to AWS.
+
++ Deployed and tested different modules in Docker containers and GIT. Implemented programming
+automations using Jenkins and Ansible on Unix/Linux based OS over cloud like Docker.
+
++ Developed data transition programs from DynamoDB to AWS Redshift (ETL Process) using AWS
+Lambda by creating functions in Python for the certain events based on use cases.
+
++ Written bash and python scripts integrating Boto3 to supplement automation provided by Ansible
+and Terraform for tasks such as encrypting EBS volumes backing AM and scheduling lambda
+functions for routine AWS tasks.
+
++ Developed data transition programs from DynamoDB to AWS Redshift (ETL Process) using AWS
+Lambda by creating functions in Python for the certain events based on use cases.
+
++ Working with AWS Lambda, AWS Connect, Amazon Lex, AWS CLI, AWS SDK with Python-Boto3,
+Serverless and PaaS toolkit, EMR, Kinesis, Glue, $3, RDS and other core AWS services.
+
++ Installing and managing highly available open-source database clusters including PostgreSQL,
+‘MySQL, and MariaDB, ensuring high performance and reliability for mission-critical applications
+
++ Deploying and effectively managing highly-available Kubernetes /Openshift clusters in both on-
+premise and cloud environments
+
++ Utilizing the Operator Framework, creating a Kubernetes operator and custom Helm plugins to
+automate complex tasks more efficiently
+
++ Implemented and integrated C1/CD pipeline with Terraform to automate infrastructure deployment
+
+Empyrean Benefit Solutions - Senior Software Engineer
+Dallas, TX + 03/2017 - 08/2019
+
++ Designed and built cloud service models including Infrastructure-as-a-Service, Platform-as-a-
+Service, and Container As Service.
+
++ Created cloud-native platforms and software, optimizing products to work in distributed computing
+environments.
+
++ Introduced cloud-based technologies into Python development to expand on-premise deployment
+options.
+
++ Implemented new API routes, architected new ORM structures and refactored code to boost
+application performance.
+
++ Developed company-wide technical strategy plans for Python-based assets, overseeing
+development, coding, debugging
+
++ Container orchestration with docker swarm and Kubernetes building auto provisioning cluster and
+helping customers with deploy apps in micro services architecture.
+
++ experience in Design and deploy CI/CD pipelines (CircleCI, Jenkins, )
+
++ Worked in all areas of Jenkins setting up Cl for new branches, build automation, plugin
+management and securing Jenkins and setting up master/slave configurations.
+
++ Integrated object-oriented design and development techniques into projects to support usability
+goals.
+
+Enthsquare - Software Engineer
+City, STATE » 12/2015 - 02/2017
+
++ Developing web applications implementing model view control architecture using Django, Django
+Rest Framework
+
++ Build high-performance web applications using Django, Celery, Redis
+
++ Working with server-side technologies including database, restful API, and MVC design patterns
+
++ Working with continuous deployment using Jenkins and Travis-Cl
+
++ Build docker containers and deploy containers to docker-swarm clusters
+
++ Managing internal GitHub and creating workflows to implement C1/CD pipelines
+
++ Write Ansible roles to automate Linux servers patching and application configurations
+
++ Setting up ELK stack for cental log management

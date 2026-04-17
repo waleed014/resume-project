@@ -1,0 +1,82 @@
+DUANE SCHMITT
+
+362 Amaya Orchard, Detroit, MI + +1 (555) 975 5690
+
+‘WORK EXPERIENCE
+
+SENIOR QUALITY ASSURANCE TESTER (01/2016 - PRESENT
+Chicago, IL
+‘+ Industry experience of 3 to 6 years
++ Experience with Guidewire products, in BFSI /Insurance domain is mandatory, preferably in Property & Casualty Insurance - Claims
+Center
++ Excellent business communication skills,
+‘+ Operational readiness testing
++ Incollaboration with the project team and stakeholders, define the scope, test objectives, test policies, strategies and plans within the
+context of each release or delivery
+‘+ Estimate the effort and recommend resource needs to the resource manager
++ Provide feedback on requirements and user stories, in addition to details on missing functionality and requirements to team members,
++ Gather information as required for testing
+
+‘+ Document and ensure there is test traceability to requirements or user stories
+
+QUALITY ASSURANCE TESTER 07/2011 - 10/2015
+Detroit, MI
+
++ Create and/or run SQL scripts to populate data and validate test results
+
+‘+ Provide testing effort estimates for enhancements
+
+‘+ Testing progress reporting
+
+‘+ Work quickly within tight eyele
+
++ Experience in software development/Maven projects using Java
+
++ Experience with Rational and IBM tools
+
+‘+ Experience in test automation util
+
+ng either a test framework such as Selenium and/or a custom implementation
+
+‘+ Experience Integrated Load Testing using JMeter or similar open source technology
+
+JUNIOR QUALITY ASSURANCE TESTER 01/2009 - 05/2011
+Chicago, IL
+
+‘+ Ensure quality assurance and testing standards are met through peer reviews of test scripts, analyst, developer and business
+
+documentation
+
++ Investigate, analyze and log defects and record production issues
+
++ Individually lead small and moderately sized testing efforts and assist the project manager on large scale or complex projects
+
++ Working knowledge of service-oriented web architecture and applications
+
+‘+ Experience documenting flow charts, sequence diagrams, context diagrams and other system-related architectures
+
+‘+ Experience working with multiple complex systems interacting with one another
+
++ Analytical skills for troubleshooting mission-critical applications/systems
+
++ Cross-cultural and cross-functional working experience desired
+
+‘+ Familiar with ‘response design’ and be able to test applications on both the desktop and on
+
+EDUCATION
+
+DEPAUW UNIVERSITY 2004-2008
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Strong interpersonal skills, writing, and communication skills, as well as a dedication to quality software
+‘+ Demonstrates expert ability to provide guidance to less experienced personnel and prior experience training
+‘+ Extensive project management experience and demonstrated skills
+
+‘+ Coding skills utilizing Perl, Python or experience in developing automation of test functions
+
+‘+ Demonstrates expert knowledge and skills to support testing for all testing functions within the department
+‘+ Strong problem solving and analytical skills, has an eye for detail
+
+‘+ Excellent communication (oral and written), interpersonal, and troubleshooting skills

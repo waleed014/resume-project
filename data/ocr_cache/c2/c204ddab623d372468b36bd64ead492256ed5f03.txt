@@ -1,0 +1,46 @@
+BENNIE SCHMELER
+
+54032 JON CIRCLES, SAN FRANCISCO, CA
+
+PHONE
++1 (555) 892 4751
+
+EXPERIENCE GOODWIN LLC 12/2020 — present
+Philadelphia, PA // Manual Tester
+¢ Preparation/review of Test strategy, Test plan and estimations
+¢ Collaborate with QA enginners to develop effective strategies and test plans
+¢ Provide exploratory testing for the systems
+¢ Provide consistent and clear status in verbal and written communications
+¢ Experience with manual testing process selenium skills
+¢ Experience testing mainframe migration to Oracle Retail program
+¢ Knowledge of Retail — off-price discount, allocation is critical for success in this role due to
+business interaction
+¢ Familiar with defect tracking tool and familiar with Test management tools
+
+MCCLURE-WALSH 10/2017 — 10/2020
+Philadelphia, PA // Manual Tester
+¢ Test different channels and platforms by using testing tools to find issues and flag them to the
+delivery, editor and technical teams
+¢ Collaborate with Project management and technical teams to understand the technical and
+visual requirements
+¢ Build test pages in the CMS to support the editor team by providing good example
+Explore the limits of the CMS by trying to break the pages
+¢ Web testing, mobile testing, accessibility testing, cross browser testing experience
+¢ Basic technical knowledge of HTML, CSS and web publishing
+¢ Understanding technical briefs (user stories) and designs
+
+e
+
+EDUCATION COLUMBUS COLLEGE OF ART AND DESIGN
+Bachelor's in Computer Science
+
+SKILLS ¢ Able to understand the testing requirements
+¢ Execute testing
+¢ Track the results
+¢ Manage defects logging
+¢ Software Manual test Experience
+¢ Knowledge of C#, C++ or other object-oriented language
+¢ Knowledge of test automation methods, eg BDD, Specflow
+¢ Experience in non-functional testing, performance, security testing
+¢ A drive for quality
+¢ Experience in SQL Server and/or document databases

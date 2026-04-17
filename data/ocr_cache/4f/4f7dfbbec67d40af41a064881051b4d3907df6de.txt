@@ -1,0 +1,89 @@
+Antonette Dach
+
+3057 Cartwright Rapid, Chicago, IL @ Phone: +1 (555) 586 2256
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+LEAD DEVOPS ENGINEER, DESK.COM
+
+New York, NY
+
+12/2013 — present
+
+‘© The pursuit of continuous self-improvement, and technical achievement
+Making data driven decisions to improve resilience, and service quality
+Architecting, and building systems impervious to chaos and cloud weather
+Sharing knowledge and mentoring others
+Solving seemingly impossible challenges
+Avoiding unnecessary complexity, and simplifying complex methodologies
+Unencumbered freedom to innovate, and automate everything
+
+‘TECH LEAD DEVOPS ENGINEER
+Phoenix, AZ
+12/2006 — 09/2013
+‘© Maintain the R&D runtime environments by provi
+and public clouds
+‘* Develop and introduce the right tools to support the above
+
+‘© Design and implement the installation and deployment aspects of the product on private and public
+clouds
+
+ing environment provisioning automation on private
+
+‘* Maintain and optimize all of the product release pipeline phases: Build, Application deployment, Artifact
+promotion
+
++ Bea leading member of the R&D scrum teams, serve as a technical focal point and promote collaboration
+and knowledge sharing within your team and the team interfaces
+
+‘ Integrate, support and enhance the continues automatic testing of the products
+
+‘Serve as the team focal point for windows and Linux system administration
+
+LEAD DEVOPS ENGINEER
+‘San Francisco, CA
+01/2004 — 09/2006
+‘© Work closely with quality engineering, product management and other team members to develop, test and
+deploy high quality software
++ Attention to detail to ensure code management, code workflow, security and performance analysis
+standards are adhered to
+‘* Own the code promotion process, including source control management, branch management, and build
+‘management
+‘© Supporting and working alongside Agile development teams to ensure they have all the faci
+job done
+‘* ‘Support and improve our tools for continuous build, automated testing and release management
+‘* Monitor the SaaS environment and work with QA, Developers, Ops to identify and solve problems
+‘+ In conjunction with the project manager, develop technical project plans and timelines
+
+ies to get the
+
+RUTGERS UNIVERSITY
+Bachelor's Degree in Engineering
+
+‘+ Excellent team player, including the ability to work cross functionally in a fast paced environment
+
++ Ability to build strong relationships and influence others across the organization
+
++ Excellent written and verbal communication skills. Ability to read, write, and interpret business and
+technical documents
+
+Experience working in a high capacity, highly scalable mission-critical web serving environment
+
+Ability to troubleshoot issues in highly complex network setups
+
+Strong Knowledge of Build automation
+
+Knowledge of best practices and IT operations in an always-up, always-available service
+
+Extensive knowledge & demonstrable working experience with at least one prominent programming
+
+language such as Java, C or C++
+
++ Strong attention to detail
+
++ Ability to use a wide variety of open source technologies and cloud services (experience with AWS is
+desirable)

@@ -1,0 +1,71 @@
+Personal
+Information
+
+William Russell
+
+Phone number: 999-999-999 @ Email address: hello@kickresume.com
+
+(s) Education
+
+Bachelor in Electrical Engineering
+University of California
+
+© 09/2013 - 06/2016 © CALIFORNIA, UNITED STATES
+e GPA 4.0 (Top 1% of the Program)
+
+e The 2015 Academic Excellence Award winner
+
+(23) Work Experience
+
+Staff Physical Design Engineer
+
+Intel Corporation
+
+© 04/2020 - present ¢ NEW YORK, UNITED STATES
+
+e Leda team of engineers in the successful completion of multiple complex physical
+design projects, ensuring adherence to project timelines and quality standards.
+
+e Developed innovative methodologies and implemented advanced physical design
+techniques to optimize chip performance and reduce power consumption by 20%.
+
+¢ Collaborated with cross-functional teams to define design constraints and resolve
+critical issues, resulting in a 15% reduction in design iterations and improved overall
+project efficiency.
+
+e Utilized industry-leading EDA tools and scripting languages to automate design tasks,
+resulting in a 30% reduction in turnaround time for physical design implementation.
+
+Staff Physical Design Engineer
+
+Qualcomm
+
+© 07/2016 - 03/2020 ¢ NEW YORK, UNITED STATES
+
+e Leda team of junior engineers to successfully complete the physical design of a high-
+performance microprocessor, ensuring adherence to strict quality and performance
+standards.
+
+Utilized advanced CAD tools and methodologies to develop and implement complex
+floor plans, placement, and routing strategies, enhancing chip performance and reducing
+time-to-market by 20%.
+
+Conducted thorough analysis and optimization of critical paths, timing, and power
+integrity to ensure efficient design closure, achieving first-pass silicon success on
+multiple projects.
+
+- LANGUAGES
+English Spanish
+
+- COMPUTER SKILLS
+Cadence Virtuoso Tanner L-Edit Python
+
+SS
+
+Synopsys Design Compiler Mentor Graphics Calibre
+
+Certificates
+
+Certified Physical Design Engineer
+2019
+e First Class Honours (Top 5% of the Programme)

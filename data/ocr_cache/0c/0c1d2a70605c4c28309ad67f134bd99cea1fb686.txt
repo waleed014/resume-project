@@ -1,0 +1,161 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+‘TRAINING.
+
+Jessica Claire
+
+© 100 Montgomery St, 10m Floor (655) 492-1000 4 resumesample@example.com
+
+6+ years of experience as a Javali2EE Developer involved in requirement analysis, design, coaing testing,
+{debugging and maintenance of web applications. Experience in Agile methodologies ike SCRUM, Test Driven
+‘Development (TDD), Incremental and leration methodology within the Softare Development Life Cycle
+Proficient in Core Java concepts lke Inhertance, Abstraction, Encapsulation, Polymorphism, Exception
+hhanding and Collectons Framework Focused on accomplishing challenging development goals under strict
+<deadines, Anaiytical and resourceful problem. solver wih dlsciplined approach and skin producing clean,
+robust code. Proactive Java development professional bringing expertise in SQL, HTML, CSS, JavaScnpt and
+‘other programming languages.
+
++ Technical shits + Web Programming
+‘+ Language Java, Sal, J2EE, PUSQL, TSaL + Databases: Oracle, Mongod®
+‘+ Web Technologies HTMLS, CSS, JavaScript, + Design Pattems and Principles
+[AUAX, JSON, Angular, REST. SOAP. + APIDesign and Development
+‘+ Databases Oracle, MS SQL Server, MongoDB_ + SOAP and RESTIul Web Services
+‘+ AppiWeb Servers JBOSS, Apache Tomcal. IBM + Objec-Orlented Programming
+Websphere, BEA WebLogic + Software Devetopment Standards
+‘+ IDES Eclipse, NetBeans, ntlls
+‘+ Tools ANT, Maven, JUnit, Logi, TOAD, CVS,
+‘SWN, Rational, Clear Case
+
+JAVA FULL STACK DEVELOPER 06/2020 f0 CURRENT
+‘dpmorgan Chase & Co. | Glendale, AZ
+
+‘+ Worked wth business teams on requirements gathering and estimating the efforts for development
+Using Agie'SCRUM methodology to integrate business line of apps
+
+‘+ Developed Use Case Diagrams, Class Diagrams and Sequence Diagrams and Object Diagrams to
+‘model the detail design of ne application using UML
+
+‘+ Developed various batch jobs which process buk of data recelved from business partners using Spring
+eaten
+
+‘+ Used Hibernate as an ORM tool to store the persistent data and for communicating with Oracle
+atabase
+
+‘+ Implemented user interface for web-based customer application using HTMLS, CSS3, Typescript, !SON,
+‘AJAX and Angular 9
+
+“+ Used Angular 9 router and implemented module wide routing and created atferent forms using Angular
+data driven and template drven toms
+
+‘+ Implemented Custom Direcves, routing ogi, service, controllers, ters, and retrieval and posting of
+data wth AJAX using Angular
+
+“+ Created chet iorary that provided loa balanced and faut tolerant consumption of Spring Boot
+Miroservices trom monolthicappication
+
+‘+ Created POC of Authentication and Authorzation with OAuIn2 Spring Boot micoservice
+
+‘+ Uutved Java 8 features ike Lambda expressions and Stream API or Buk data operations on
+Collections whic would increase the performance of tne Application
+
+‘+ Set up Spring ana berate framework by adding configuration in the web 3m le
+
+‘+ Wrote Hibernate annotation for data mapping
+
+‘+ Configured the XML les for Spring Secufy injection to ensure he back-end secunty by alscriminating
+the role of users and access autho for the URIs and Server-side assets
+
+“+ Migrated he entre tractonal EC? Cassie environment to Private network in AWS Clous
+
+‘+ Configured AWS Identity and Access Management Groups and Users for improved login authentication
+
+‘+ Developed Java API to connect with Cloud Services for stoning and retrieving data stored inthe S3
+buckets
+
+‘+ Used Maven as bul and dependency management tool for creating WAR and JAR fles to be deployed
+In JBOSS application servers
+
+‘+ Created database backend for EJB project to connect and to query Oracle database
+
+‘+ Secured the Katka cluster with ACL for Katka cent, SSL for data transter and OAuth-Bearer for cent
+‘authentication process
+
+‘+ Used Karka Producer API to publish a stream of records to Karka topics
+
+‘+ Used Unit tramework for unit testing and SVN for implementing tne application,
+
+ACA FULL STACK DEVELOPER 12/2017 0 08/2020
+‘Ipmorgan Chase & Co, | Grass Valley, CA
+
+“+ Interact with the stakeholders and gather requirements ang business artfacts based on Agle/Scrum
+rmetnodology
+‘+ Designed Use Case & Class dlagrams using Rational Rose, documented design diagram
+“+ Invotves in gatnering requirements from business owners, mplemented, and tested using the Spring
+‘MVC pattern and Hibernate
+‘+ Used Core Spring Framework for dependency inection of components and injected Java Beans using
+‘Spring Dependency injection across the business layers
+“+ Uuzed AJAX to improve app performance and asplay data on frequently Visited pages
+‘+ Used Angular CLI to generate components, services, titers and compiled in alerent environments
+‘+ Validated forms using Angular 2 and regular expressions there by providing clent-sde vaidation and
+server validation
+‘+ Developed REST services to make web service calls simple and easy forthe cent to access it wth the
+help of standard HTTP URIs
+‘+ Used JAXB for marshaling and un-marshaling of work order, bling XML. documents, and JAXP for
+processing
+‘+ Used spring Batch to setup batch jobs to email the daly reports and that which run on Pivotal Cloud
+Foundry (PCF) wth Spring Boot as is MVC layer
+‘+ Developed MongoD8 Data Access Layer implementing Mongo Repostory interface trom Spring Data
+‘+ Performed CRUD operations tke Update, Insert and Delete data in MongoDB
+‘+ Deployed Docker contained Spring REST services into AWS EC2 container service using AWS admin
+console and used lambda to run applications in AWS console
+“+ Used Java 8 Lambdas to make anonymous inline funcon cals and used Streams fo work effectively
+with Colleton objects
+‘+ Used Ecipse IDE to convert the business logic into code and Websphere Application Server for
+ceploying the code
+‘+ Performed a POC on bulking a Spring Boot application and deploying as Docker containers to
+Kubernetes cluster in Cloud Patform
+‘+ Used Docker to implement a high-level API o provide ightweight containers that run processes isolation
+‘+ Deployed appications into Continuous integration environments ike Jenkins to inlegrate and deploy
+code on Cl environments tor development testing
++ Used Log to print the logging, debugging, warning, ino statements
+‘+ Invotved in sting up Test automation and developed cucumber feature fles and used Selenium for
+automated testing with TestNG.
+‘+ Used JIRA too for ssue/bug tracking, monitoring of work assignment in the system,
+JACAWS2EE DEVELOPER 017201610 1972017
+Conduent incorporated | Chicago, iL
+“+ Implementea Agie/Serum methodologies actively involved in technical meetings, requirements
+gathering, analysis, planning, estimations, development, and testing
+‘+ Participated in Anaisis, Design, implementation, UAT and Production of ne Application and developed
+UML diagrams
+‘+ Developed the applications using Spring MVC Framework by creating controls, validators, and
+request mappings
+“+ Invotved in design, development, and implementation of ron-end part ofthe web application using
+HTWLS, CSS3, JavaScript, AIAK, JSON, AngulariS and Bootstrap
+‘+ Developed JSF pages as per requirements used DOJO JavaScript Library with AIAK to add user
+functionalities, jQuery for client-side valdation
+‘+ Applied AIAX for couple of navigation screen lows for asynchronous cals
+‘+ Implemented routing logic and navigation from screen to screen and implemented login functionality on
+the client side in Angularss
+‘+ Used Spring Boot framework with Java to implement Microservices Architecture with JAX -RS as a web
+service
+‘+ Used Web Services fo creating rate summary and used WSDL for geting plans trom diferent module
+and used XML parsers for data retrieval
+‘+ Database development required creation of new tables PLISOL stored procedures, tuncons, views,
+Indexes and constraints, tiggers and SQL. tuning to reduce the response ime in the application
+‘+ Used Eclipse in development and debugging the application
+‘+ Using JMS to send email or notity companies or users who have subscribed particular services in our
+product
+‘+ Used Katka on pubish-subscribe messaging asa dstibuted commit log, have experienced ints fast
+and Python and Scalable
+‘+ Used SVN for version control of he application
+‘+ Developed the ANT scripts for preparing WAR fles used to deploy J2EE components on JBOSS Server
+‘+ Used Log for logging various information tke eror, info, and debug into the og Tes
+‘+ Developed s-Uni test cases for testing the application
+
+[Bachelor's Degree | Computer Science
+‘Minnesota State University, Moorhead, MN

@@ -1,0 +1,58 @@
+Robert Smith hone (123) 456 7899
+
+mall Infoguvikresume,com
+Website : wont quikr2stime, com
+Linkedin: linkedin.corn/qwikresume.
+‘Address; 1737 Marshuille Road, Alabarna
+
+Senior Java Developer
+
+SUMMARY
+
+Senior Java Developer with 12 years of Sold IT experience in Design, Development, and
+Maintenance of java and [2EE related applications. Highly proficient in developing and deploying
+Javall2EE applications on Application Servers - WebLogic, BM WebSphere, Bass, Glassfish,
+Proficient in Programming using J2SE and J2EE Technologies JDBC, Servlets, and JSP). Good
+experience in usage af version controls such as Git, SVN.
+
+SKILLS
+
+JAVA, Co-#, XML, HTML Web Technologies: Servlets, JSP, JOBC, Alax Framework: Springs,
+Hibemate, PA JSF Scripting: Java Script, JQuery, Angular JS
+
+WORK EXPERIENCE
+
+Senior Java Developer
+Lg - January 2015 - Present
+Involved In requirements gathering and requirements analysis and participated client
+eetings
+Involved in full fe cycle of the application development using agile’scrum,
++ Design and developed the sj using test-driven design end development methodology.
+* Implemented design patterns. singleton, factory, abstract factory, decorative and business
+delegate design patterns
+Developed the application using core java concepts like collections, multithreading, 00
+Concepts, exception handing for developing application modules,
+Extensively used hibernate validation framework has been used for front end validations:
+Designed and developed an application using representational stete transfer (rest) style
+architecture
+
+Senior Java Developer
+‘ABC Corp - 2007 - 2015
+Defined requirements, design, and timeline for proof of concept. Set up the environment ant
+implementation of the proof of concept
+Worked with vendors and offshore tearns,
+Enhanced product features.
++ Handled all aspects of production,
+Generated improvements to coding techniques and develop information technology staf to
+Implement improvernents
+Collaborated with ather engineering teams and provide leadership in the adoption of a
+Continuous delivery approach and platform that is Scalable, adaptable, and optimized for ever
+Changing requirements
++ Designed, developed and executed the development projects to meet the business needs,
+
+EDUCATION
+
+M.CA, In Master Of Computer Applications- 2010 S.\. University JB.Se. In Computers -(5.V.
+University )
+
+(0 This Fra Resume Tamblat is the copyright f Qvakesume com. Usage Guldatns

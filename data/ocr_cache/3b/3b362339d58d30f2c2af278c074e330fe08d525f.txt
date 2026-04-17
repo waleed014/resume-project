@@ -1,0 +1,51 @@
+ROBERT SMITH
+
+Information System Security Engineer
+
+Info@quikresume.com | https://Qwikresume.com
+
+To fully utilize my skills and experience as an IT Security professional by protecting
+confidentiality, integrity and availability of information, TechnicalSystems
+Experience,
+
+OCTOBER 2014 - 2019
+INFORMATION SYSTEM SECURITY ENGINEER - DATAWIZ CORP
+CONTRACTOR FOR USDA
+
++ Prepared, arranged and tested Splunk search strings and operational strings,
+
++ Created and configured management reports, dashboards and alerts in Splunk,
+
++ Installed, tested and deplayed monitoring solutions with Splunk services.
+
++ Maintained and managed assigned systems, Splunk related issues and
+administrators Resolved configuration based issues in coordination with
+Infrastructure support teams
+
++ [DS monitoring, analyzing network traffic, log analysis prioritize and
+differentiate between potential intrusion attempts and false alarms.
+
++ Conduct network vulnerability assessment using tools to evaluate the attack
+vectors, Identify system vulnerabllties and develop remediation plans and
+security procedure,
+
++ Create and track investigations to resolution
+
+2011 - 2014
+SECURITY ENGINEER - SUNGARD AS
++ Responsible for managing Sungards Managed Services offerings for both
+Internal IT and extemal clients.
+‘Subject matter expert on Macfee ESM (Nitro) SIEM product
+Handling initial security baseline findings far customer environments,
+Dacumented best practices, filtering and incident response.
+Working directly with assigned Project managers on implementation of MacAfee
+SIEM Conducting design and planning, sizing of MacAfee SIEM Implementation
+Providing training to intemal SOC team on hand-off of McAfee SIEM product.
++ Responsible for overall operations / maintenance of MacAfee SIEM environment
+Tor customer and intemal Sungard AS Lab network,
+
+EDUCATION
+
+Certificate in course completion - (Montgomery College Silver Spring, MD)
+
+(0 Tis Free Resume Template the copyright of Quine ane com, Usage Gublines

@@ -1,0 +1,86 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 ¢ resumesample@example.com
+
+Summary
+
+Senior-level Database developer and data engineer passionate about creating cutting-edge solutions. Strong work ethic and dedicated
+to quality development. Adept at working with teams or independently in fast-paced settings.
+
+Highly-motivated employee with desire to take on new challenges. Strong worth ethic, adaptability and exceptional interpersonal
+skills. Adept at working effectively unsupervised and quickly mastering new skills.
+
+Extensive experience working with ETL technologies like Informatica/SSIS. Proficient in reporting tools such as SSRS, Tableau
+Excellent writing skills, oral communication skills, strong process skills, and leadership ability Detail-oriented drive to investigate
+and dissect information with a strong focus on quality Commitment to quality highlighted by strong auditing capability Solid
+knowledge of the UNIX/Linux environment and expertise in developing shell scripts.
+
+Hands on experience on Big data technologies with in Hadoop eco system such as Hive, Spark, Pig, Kafka and Map reduce Ability to
+translate functional/high level design in detailed technical design Strong technical aptitude and ability to logically analyze and
+creatively solve complex issues independently Strong interpersonal skills and ability to work effectively with all levels throughout
+the enterprise Extensive experience in data analysis and/or reporting along with strong knowledge of database and related
+technologies (SQL, OLAP, etc.) Knowledge and experience working with cloud technologies.
+
+Skills
+« Strong Oracle PL/SQL knowledge and ability to code complex * RDMS Development and SQL
+queries + Analytical Thinking and Problem Solving
+* Amazon Web Services * Debugging and Troubleshooting
+* Data Storage and Retrieval * Cost Assessment
+* Software Testing and Validation * Process Improvement
++ Eagemess to Learn New Technologies « Requirements Gathering and Analysis
++ Teamwork and Collaboration * Data Warehousing and Analytics
+* Source and Version Control: Git, Github * Design Patterns and Principles
+* Continuous Integration Systems * Cross-Functional Collaboration
+
+* Databases: Oracle, MongoDB
+Experience
+
+ETL Lead Developer, 01/2016 to Current
+Carefirst - Fairfax, VA
+* Led an agile team that worked on multiple high profile ETL applications using Informatica
+* Attend technology design meetings and recommend security and data improvements — and will be empowered to work on those
+prioritized changes
+* Develop scripts to automate the execution of ETL using shell scripts under Unix environment
+* Providing routine process/operational control reports and/or Controls Dashboard support
+* Created PL/SQL stored procedures, functions and packages for moving the data from staging area to data mart
++ Worked on creating ETL solutions using Python on cloud (PCF)
++ Worked on database migration as well as Informatica upgrade
++ Involved in data loading using PL/SQL and SQL
+* Loader calling UNIX scripts to download and process files
+‘+ Assumed the responsibilities of SPOC for troubleshooting and communication with the stakeholders
+* Worked on implementing the Spark using Java as a custom ETL solution and worked with both product and business teams to
+‘work on converting various ETL jobs for Hadoop ingestion and extraction
+
+ETL Operations Support, 09/2012 to 12/2015
+Verizon - City, STATE
+* Gather business requirements, analyze the findings, and build new objects for data lake
++ Work with development teams to ensure proper transition and hand off on the production jobs and review run books before
+onboarding the level 2 support
+‘* Manage, mentor and develop onshore development resources and provide project related directions to offshore team
++ Work with Infrastructure team and the development teams to coordinate software upgrades and support application
+maintenance activities
++ Communicate effectively with the other external IT development teams and the local development manager
++ Work with other team members in establishing and sharing design and development techniques of the ETL process
+* Developed and supported Hadoop production jobs for data warehouse by monitoring Oozie jobs that comprise of various
+Hadoop tools such as Hive, Pig and Linux bash scripts for file loading.
+
+Reporting Analyst, 11/2009 to 09/2012
+BrownGreer PLC - City, STATE
+* Involved in Requirement gathering and Analysis
+* Created stored procedures to pass the initial loads into a single database
+* Designed ETL/SSIS packages to transfer data between servers, load data into database using various transformations and deploy
+the package on to servers; scheduled the jobs to do these tasks periodically
+* Creating, deploying and managing Reports through SQL Server Reporting Services (SSRS) and generating various sub reports
+and dashboard reports
+* Creating Fact Tables, Dimensions for various cubes to define the relationship between them
+* Migrating data from Staging to Production
+* Developed complex stored procedures, views, functions using T-SQL
+‘+ Implementation of SQL Logins, Roles and Authentication Modes as a part of Security Policies for various categories of users.
+
+Education and Training
+
+‘Masters: Computer Engineering
+Silicon Valley University - San Jose, CA
+
+Bachelor of Engineering
+Acharya Nagarjuna University

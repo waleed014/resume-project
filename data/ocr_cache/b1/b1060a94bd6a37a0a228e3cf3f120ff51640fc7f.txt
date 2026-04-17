@@ -1,0 +1,65 @@
+Jr. Python Developer Phone: (128) 456 78.99
+
+Ema: nlocquikrestame.com
+Website: uunw.qwikrestme.cm
+
+ROBERT SMITH Linkedin: lines com qwikrestime
+‘Address: 1797 Marshville Road,
+
+Alabama
+
+Objective
+
+Experienced Pythons backend developer committed ta maintaining cutting edge technical skills and
+‘uptodate industry larawledge. Has more than three years designing innovative appiatlons and
+‘achieving high ellent satisfaction,
+
+‘Skills
+
+Database. HTML, Python
+
+Work Experience
+
+Jr. Python Developer
+Dell Computers - May 2015 - Present
+
++ Managed, developed ated designed a dashboard control panel for customers and administrators
+using DJANGO, Oracle DB, PasigreS@L and VMWARE API calls.
+
++ Installation, configuration, integration, tuning, backup, erash recovery, upgrades, patching,
+menttoring System performance, system and betwork securty and troubleshooting of
+lnux/Unis servers
+
++ Querted MYSQL database queries from Python using Python- MYSQL Connector and MYSQL
+DB package lo retrieve information,
+
+© Developed wrapper in Python for instantiating mull-thteaded application.
+
++ Implemented a login module for user, regisiralion of the products, placing the order and
+braking the order.
+
++ Wrote Python rautines to log into the websites and fetch data for selected options.
+
+* Deslged emall markeling campaigns and created interactive forms thal saved data into
+database using DJANGO framework.
+
+Python Developer
+‘ABC Corporation - 2010-2015
+© Weole python scripts to parse xml documents and load the data in the database
++ Used pandas api to put the data as time series and tabular format for east timestamp data
+manipulation and retrieval
++ Was involved in the environment, code installation as well as the svi implementation,
+* Cleaned data and processed third-party spending data Inlo maneuverable deliverables within
+specie formats with excel macras and python Ubraries
++ Ensured high quality data collection and maintaining the integrity of the data
+© Collaborated with internal teams to convert tid User feedbacks nla meaningfal and improved
+solutions
+
++ This project also used other echnologles like quety for javascript manipulations, bootstrap for
+the ftont-end him layout,
+
+Education
+
+Bachelors in Computer Selence - 2009fWest Bengal University Of Technolgy )
+
+(Tas Pree Resume Template bse copyright of atkretmesom. Ukage Gudaines

@@ -1,0 +1,92 @@
+Bonita McCullough
+53148 Padberg Junctions, San Francisco, CA @ Phone: +1 (555) 823 8436
+
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+SITE RELIABILITY / DEVOPS CLOUD ENGINEER
+Houston, TX
+05/2014 — present
+‘© Implement application performance monitoring to ensure site uptime and performance
+Manage and track changes to web systems and monitoring platforms
+Constantly improve operational processes and efficiency
+Help support and manage a complex E-commerce infrastructure
+Automate, Automate, Automate
+Automate production operations processes
+Automate continuous integration and deployment processes
+
+DEVOPS ENGINEER CLOUD FOUNDATIONAL SERVICES
+
+San Francisco, CA
+11/2010 - 12/2013
+
+‘© Metric driven and focused on continual improvement.
+
++ Key focus on defining and implementing a logging strategy
+
++ Key focus on defining and implementing a IAM strategy (federated login, single sign-on, multi-factor
+auth, role based access control, etc)
+
++ Strong expertise in leveraging a wide variety of open source technologies
+
+‘+ Key focus on defining and implementing a monitoring strategy (metric collection, persistence, correlation,
+and use
+
+* Automation is in your DNA
+
+‘© System and IT Operations
+
+(CLOUD DEVOPS / OPERATIONS ENGINEER
+
+‘Houston, TX
+02/2006 ~ 06/2010
+
+‘Design, manage and maintain tools to automate engineering operations
+
+‘© Design, build, implement and support CUCD framework
+
+‘* Build monitoring, supervision and resiliency mechanisms to observe, react to, and maintain platform
+health and performance
+
++ Perform deployments, upgrades, configurations in a controlled, pre-production and production
+environment with tight operating perimeters
+
+‘* Manage, review and strengthen physical and logical security of the platforms systems, data and access
+points
+
+‘* Own and drive initiatives spanning multiple teams to automate engineering operations
+
+‘© Member of the 24x7x365 on-call support team
+
+WEST VIRGINIA UNIVERSITY
+Bachelor’s Degree in Computer Science
+
++ Ability to measure everything and look to improve engineering productivity and quality through
+
+automation
+
+Solid knowledge of at least one of the following programming languages: Java, JavaScript, C#t
+
+Experience designing and implementing RESTful services, good knowledge of HTTP specifics
+
+Attention to details, high standards for quality
+
+Good knowledge of various networking protocols and terminology (TCP/IP, gateways, routers, firewalls,
+
+etc.)
+
+‘+ Awareness of how scalable, enterprise-level software system is designed (both on code and infrastructure
+levels)
+
+‘* Comfortable inspiring and influencing leaders from the Bank IT of a new way of shipping software
+through Continuous Delivery
+
+‘* Knowledge of most common software design patterns
+
+* Comfortable working closely with a team of smart, passionate people to creatively solve complex
+problems
+
+‘© 34 years of experience designing and implementing software

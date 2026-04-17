@@ -1,0 +1,124 @@
+Robert Smith
+
+Dot NET Developer I
+
+PERSONAL STATEMENT
+DDot Net Developer | with around 7years of experience in [T industry with
+Software Development Life Cycle (SDL) including design, development,
+testing and implementation of the projects. Experience in interacting with
+business analysts, gathering project requirements and discussing
+Implernentation strategy with project managers,
+
+WORK EXPERIENCE
+
+Dot NET Developer |
+Sprint Comoration Overland Park - February 2009 - Present
+Responsibilities:
+
+Using model view controller (MVC 4) architectural design patterns for
+the development of the product
+
++ Understanding existing applications and accreditation business rules in
+order to accurately implement existing business rules in SharePoint
+portal.
+
++ Designing, developing and deploying the responsive web design (RWD)
+functionality in CGX using MVC 4.0 with Razor, kendo Ut, Knockouts,
+Jastnine, Ajax, JQuery, C#, HTMLS,
+
++ Implementing the client-side validations using jQuery and ASP.Net MVC
+validation implemented at controller level
+
++ Involving in migrating the data from SOA to restful services using
+ASPINet Web API
+
++ Implernenting the interface whenever possible to enhance usability,
+testability and to increase perfarmance.
+
++ Designing front end using Bootstrap, HTML, CSS, jQuery, Javascript and
+Angular
+
+Application Developer
+‘ABC Corp- 2007 - 2009
+Responsibilities:
+
+* Developed and prepared the docurnents for the general design of
+Solutions that met system and security requirements, including the
+selection of alternative approaches,
+
+* Developed the specifications for databases, cornmunication systems,
+hardware, network, security, storage and software configurations.
+
++ Developed structured diagrams for the specifications of databases,
+cormmunication systems, computer or storage area networks, security
+oF network programs,
+
+* Developed, compiled, maintained and dacurnented the configurations of
+the databases, servers, computers, security and network rnonitor
+systems, packaged programs, macros, utilities, and communication
+systems.
+
+Worked on developing rich uifux pages using jquery, java script. ajax
+
++ Developed myc web apis (rest services) a5 a service layer, asp. Net web
+forrns for front end,
+
++ This is Dummy Description data, Replace with job description relevant
+(© TW Etae Beaiime Template le he Copyright of Owhkinsime.con, Usage Gisaines
+
+CONTACT DETAILS
+1737 Marshville Road,
+Alabarna
+(223)-456-7899
+
+infog quikresume.com
+wwm.qwikresume.com
+
+SKILLS
+
+Gch ce stylus
+Studio\Ms-FrontPage,
+Zend Studio IDE,
+Dreamweaver 4.x, Flash
+cs4/cs3, Flex
+3.x/2.%16M Rational
+Modeler Web
+‘Eechnolagies/Tools MVC,
+‘ASPET, WCF, Web-
+Services, XHTML, HTML,
+HTMLs. css3, Signalk,
+Micrasot Active
+Directory, IIs, MVC Razor
+Scripting Languages
+XML, CSS, Javascript,
+Databases Ms SOL
+Server ORACLE, MS-
+‘Access,082 UDB V8.1,
+Vou, v9.5, v9.7, Vi0.1,
+“era Data-14, Natural)
+ADABAS Platforms
+Garp; Servers lls
+(internet infornation
+Server), Visual studio
+Windows
+INT/2KIXP,Unix APACHE
+34/2. X. Programming
+‘Area Web Applications,
+Desktop (Windows)
+Applications, Software
+Integration, Database
+Design Garp;
+Programming
+Components Web Mobile
+ASPNET, MVC, Web API,
+HTMLS.DHTML.CSS,
+Javascript, JQuery,
+Angular)s, SON, AJAX,
+Bootstrap, XML, XSLT,
+XAML, SOAP, REST
+
+LANGUAGES
+
+English (Native)
+French (Professional)
+Spanish (Professional)

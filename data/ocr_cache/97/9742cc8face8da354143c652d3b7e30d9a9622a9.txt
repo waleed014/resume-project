@@ -1,0 +1,113 @@
+J
+
+ESSICA
+
+CLAIRE
+
+ resumesample@example.com
+
+%& (555) 432-1000
+g Montgomery Street, San
+Francisco, CA 94105
+SKILLS
+
+‘SAP Project planning and
+development using ASAP
+methodology
+
+‘SAP Enterprise Data
+‘Management and cut-over
+planning
+
+knowledge of SAP Plant
+maintenance (PM), Procure to
+Pay (MM), Order to Cash (SD),
+Warranty, Supplier relationship
+management (SRM) and
+Customer relationship
+management (CRM)
+
+Team building
+
+Analytical
+
+Dependable
+
+‘Advanced understanding of SAP
+‘ABAP, WebDynpro, Fiori,
+Gateway, workflow, Batch
+scheduling, Adobe Forms,
+Parallel processing and
+performance tuning
+
+Excellent communication
+
+EDUCATION
+
+Cochin University Of Science and
+Technology
+Cochin + 2008
+
+Bachelor in technology: Computer
+science and engineering
+
+PROFESSIONAL SUMMARY
+
+have experience in multiple SAP projects and will have no trouble leading, planning and executing
+large SAP implementations. | am comfortable being the central focal point of what is going on around
+me and is someone who never loses attention to detail and always ensures a high quality of
+excellence. In my current role | frequently contribute to the development of new ideas and methods.
+Right now | would like to join a company where empowerment and rewards are the cornerstone of the
+career development model.
+
+WORK HISTORY
+
+Deloitte - SAP Senior Consultant
+City + 05/2008 - Current
+
++ Worked with multiple clients in manufacturing, life science, public sector and utility industry.
+Currently leading a SAP plant maintenance project for a forklift manufacturer in the US.
+
++ Directed all phases of SAP implementation projects, from project preparation to Go-live and
+support.
+
++ Developed the conversion strategy for migrating legacy data to SAP, Planned and coordinated the
+conversion Mock testing cycles, developed the cut-over strategy and facilitated the creation of the
+cut-over plans
+
++ Directed planning, budgeting, vendor selection and quality assurance efforts.
+
++ Defined clear targets and objectives and communicated them to other tearm members.
+
++ Monitored timelines and flagged potential issues to be addressed.
+
++ Supervised the work of 15-20 team members in multiple projects, offering constructive feedback
+on their work performance.
+
++ Coordinated design meetings and decisions across internal departments and teams.
+
++ Implemented a set of comprehensive tracking processes to monitor performance.
+
++ Responsible for weekly/daily FRICEW objects delivery associated with the business required
+functionality
+
++ Lead change request meetings to take key decisions on scope changes and its impact on overall
+solution and timelines
+
++ Help the client team set up the support structure post go-live
+
++ Facilitate organizational change management especially in training preparation and schedule
+
++ Set up platform for teams across the globe to collaborate
+
++ Resource planning and estimation
+
+ACCOMPLISHMENTS
+
++ Presented with the outstanding Award for leading the training effort in SAP ABAP and the process
+and methodologies
+
++ A Spot Award for providing outstanding value to clients
+
++ An Applause award for his efforts during the completion of UAT cycle testing and beginning pilot
+setup phase activities

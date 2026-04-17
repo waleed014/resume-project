@@ -1,0 +1,84 @@
+Derrick Barrett, Phone: (242)-624-9264, Email: derrick.barrett36@gmail.com
+
+DERRICK BARRETT
+
+Creative .NET Developer with 4+ years of strong experience in
+Single Page Apps, GOF Design Patterns & OOP areas with
+willingness to learn and master Web Servers Administration and
+
+Testing, DDD/TDD. DevOps practitioner.
+
+KEY SKILLS
+
+Phone: 0424713857
+
+Email: derrick.barrett36@gmail.com
+Linkedin: derrick.barrett
+
+GitHub: derrick.barrett
+
+Front End
+© Anguar 5/6, CSS3, HTMLS
+© JavaScript, ES6, REST
+© webpack, Grunt
+
+Back End
+
+@ —.NET Core 2/3, ASP.NET, ASP.NET MVC.
+
+Databases
+© Azure Data Factory, Azure Databricks
+ —MSSAQL Server
+© T-SQL, LINQ, Ling2saL
+
+DevOps
+
+@ = CI/CD, Jenkins
+
+@ = .NET Web API 2, WCF
+SDLC
+Testing
+‘© BRD, Gof Design Patterns, OOP
+© nUnit, BDD, TOD
+
+‘WORK HISTORY
+
+03/2014 — Present
+Noadam, LA
+
+Senior .NET Developer
+Dekker BV
+
+© Conducting requirements gathering and validation as a part of collaboration for the critical
+single page application that helped to address important UI/UX parts of the system's user
+interface before the active phase of development.
+
+© Creating mature, unambiguous coding standards resulting in overall code base unification
+and maintainability
+
+© Designing new databases and data schemas for the high-volume single page application
+improving data integrity and execution efficiency applying knowledge of NHibernate
+
+© Developing new and customization of the existing features for the high-volume single page
+application (.NET Core, ASP.NET and LINQ). As a result 8 bugs-free releases have been
+deployed just-in-time.
+
+‘© Documenting solution architecture for the mission-critical online service resulting in
+system's scalability improvements and reducing the cost of development by 37%
+
+01/2011 - 02/2014
+Mikeswaerd, IL
+
+-NET Developer
+Jansen Group
+
+© Assessing project requirements using Agile & Scrum principles related to the critical single
+page application resulting in estimation of Level of effort (LOE) and required working hours
+
+© Designing new databases and data schemas for the business-critical online service improving
+data integrity and execution efficiency applying knowledge of LINQ2SQL
+
+© Full Stack development of the high-volume customers-facing portal applying knowledge of
+Redux and GraphQL, resulting in consistent deployment of 10 major products updates.
+
+Derrick Barrett, Phone: (242)-624-9264, Email: derrick barrett36@gmail.com

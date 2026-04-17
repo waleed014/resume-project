@@ -1,0 +1,54 @@
+ROBERT SMITH
+Oracle PL/ETL Developer
+
+Phone: (0123}-456-789 | Email: infodquikresume.com | Website: Quikrestme.com,
+
+‘Over 7 years of experience in IT industry with expertise in MSSQL. Oracle, Informatica
+and ETL tools. 6+ years of experience in the Development and Implementation of Data
+warehousing with Informatica, OLTP and OLAP involving Data Extraction, Data
+‘Transformation, Data Loading and Data Analysis. Experience in all phases of the Data
+warehouse ll cycle involving Analysis, Design, Development and Testing of Data
+warehouses using ETL Logie,
+
+[CORE COMPETENCIES
+
+ROFESSIONAL EXPERIENCE
+
+Oracle PL/ETL Developer
+ABC Corporation - January 2009 - April 2010
+
+Key Deliverables:
++ Interpreted and comprehend business data requirements from upstream
+processes,
+
++ Documented technical requirement specifications and detailed designs for ETL
+processes of moderate and high complexsty
+
++ Created and documented source-to-taryet mappings and ETL specifeations
+Performed Root cause analysis and resolved complex issues
+
++ Involved all phases of the project life eyele such as analysis, design, coding
+testing, production and post-production,
+
++ Created detailed documentation Induding ETL souree-to-target mapping, hh
+level ETL architecture, ETL design. test cases, teat seripts, and code migration,
+
++ Extensively working on Repository Manager, Informatica Designer, Worklow
+Manager and Workflow Monitor.
+
++ Created complex mappings, complex mapplets and reusable transformations i
+Informatiea Power Center Designer:
+
+ETL Developer
+ABC Corporation - 2007 - 2008
+
+Key Deliverables:
++ Involved with project analysis te understand the business requirement
+specification and Implemented the ETL jobs using DataStage Server and Parallel
+Extender,
++ Extract Transform and Load legacy systems 1 core and datamarts
++ Read XML files as sourve then load 10 a table as data change event key
++ Monitored performance and statistics using DS Director:
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yaee Resume Template the copy of Quine com, Usage Guleinne

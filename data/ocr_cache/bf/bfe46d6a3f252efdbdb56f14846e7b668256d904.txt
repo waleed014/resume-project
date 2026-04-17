@@ -1,0 +1,144 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105. X2 (655) 432-1000 4 resumesample@example.com
+
+Senior SAP BASIS Consultant over 14+ years of Experience that includes new upcoming technology within
+SAP like SAP HANA Platform and their multiple tools to interact HCP and other RDBMS tool like Oracle &
+‘Sybase . Also Worked in mutiple Implementation , Upgrade & HA Project both on Application as well Database
+Management .Currently working on BPC , Success factor, ARIBA Integration , SDI & HCP Integration through
+different solution of Cloud Connectors for current client requirement . Already implemented FIORI Personas
+GRC ABAP and HANA Platform in customer location
+
+SAP HANA PLATFORM SAP BASIS
+‘SAP HANA CLOUD PLATFORM. Oracle Database Administration
+Unix Administration
+
+‘SAP BASIS ADMINISTRATION (0872002 to 02/2007
+Deloitte | Riverside, CA
+
+Description:
+Implementation of SAP to stream line there ERP related issue
+
+Responsibility
+
+Full One end to end implementation on ECC 5.0 (RIS, BW 3.5, EP 6.0)
+
+Installation of SAP R/S ECC 5.0 in three SystemLandscape on AIX 5.3 and Oracle 9.2 installation of SAP BW/
+SEM 9.5 in Two System Landscape on AIX 5.3 and Oracle9.2 Installation and Configuration of EP 6.0 on AIX
+5.3, Oracle 9.2 with KM Configuration
+
+‘SAP Router , Configuration Transport Management System , Support Packages Upgrade , Kernel upgrade
+SAP Notes Configuring
+
+‘System Monitoring and Generating Dally Monitoring Report,
+
+Load Balancing in R/S on Three Application Server SAP R/S ECC 5.0 1-full-cycle implementation under AIX
+5.3 SAP Memory Management. SAP System Client Concept User master records maintenance (creation,
+‘deletion, changes, etc.) Created roles and profes for the users Scheduling and Monitoring of background
+jobs Analyzing ABAP/4 Dumps Performance Monitoring Configured Printers and Mall Monitoring the Lock
+Entries Monitoring of cancelled and active background jobs Manage and administrator oracle database using
+BR* Too!
+
+Muttiple ORACLE Database related activity ike backup restore, re-org , inderxing , archiving etc that support
+the system for day to activities
+
+‘SAD SENIOR BASIS CONSULTANT & SME (SUBJECT MATTER EXPERT) 03/2007 to 07/2009
+‘SAP-TSYSTEMS-SHELL | City, STATE
+
+Description:
+Role is SME the Application Support & Upgrade team in day to escalation issues during my tenure inthis
+‘engagement
+
+Responsibilty
+
+EHP Upgrade from Enhancement Package Tool Database Refresh for RI/3,BW, CRM, SCM/APO Systems
+Disaster Recovery Tests Planning the installation of ECC. ,BW and EP SAP License administration Language
+Installation Kernel Upgrade CTS and TMS configuration Local & Remote Client Copy / Delete installation of
+SAP components, Patches andUpgrades SAP Note implementation Printer Configuration administration User
+‘administration in WAS ABAP and WAS JAVA CUA configuration and administration Monitoring WAS ABAP and
+WAS JAVA Perform WAS JAVA Administrationthrough Visual Admin & Configtool Applying Java patches
+through JSPM or SOM Creating Source system in B|.Monitoring the BI system through Administration
+‘Workbench and establishing the connection between Bl and othersystem for data loading Overview of BIA -
+TREX administration Importing SSO certificate & VeriSign certificates Configuring online documentation
+(SR13) SAP Router configuration TRAK installation Basic knowledge of Data Archiving, ITS and Web
+<ispatcher administration Basic knowledge of Solution Manager Maintenance optimizer and SMD. Resolved
+User issues on timely basis.
+
+Application of Support Packages /SAP Notes/Performing Kernel upgrades Scheduling and Monitoring of
+background jobs Analyzing ABAP/4 Dumps Performance Monitoring Configured Network & Local Printers
+Configuring Mails through SCOT Monitoring the Lock Entries Manage and Administrator oracle database
+sing SAPDBA and BR’ Tool. Supporting Database & OS level problem Monitoring WAS ABAP and WAS JAVA
+Logs Background Job administration Perform WASJAVA Administration through Visual Admin & Configtool
+‘SAP Router configuration Supporting the third party tool which is attached to their servers like PATROL , ESP
+Batch Scheduler and ControiM etc. Prepared Go-Live and Post Implementation Support activities. GRC
+Upgrade from 5.0 to 5.3 SAP Memory Management BI-TREX Administration Configuring EWA Certificate
+related problems Parameter change & recommendation as an when required
+
+‘SO BASIS SENIOR CONSULTANT 0872009 to 09/2012
+National Grid | City, STATE
+
+Description:
+SAP Front Office Implementation Project divided into 3 release and 3 waves
+
+Responsibility
+
+During my tenure in this project! did HIGH AVAILABILITY Implementation and Multiple upgrade lke EHP4,
+EHPS , Net Weaver ABAP & Portal for R/3,BW, CRM, SRM & Portals Systems . Implemented E2E Disaster
+Recovery and do two time Tests for all the SAP system in NG - UK landscape with the integration of Non-SAP
+‘System . Done multiple oracle upgrade from 10g to 11g on all SAP NG-UK landscape - ERP - EPS BW
+7.01, NW 7.0, NW 7.3, CE 7.2, PI7.11 on AIX & UNKX< Platform . BOE Upgrade BI 4.0 to 4.1 and Solution
+Manager Upgrade. Kernel & JVM Upgrade on AIX & UNIX CTS + and TMS configuration Local & Remote Client
+Copy / Delete Installation of SAP components, Patches and Upgrades SAP Note implementation & Printer
+Configuration administration User administration in WAS ABAP andWAS JAVA CUA configuration and
+‘administration Monitoring WAS ABAP and WAS JAVA Perform WAS JAVA Administration through Visual Admin
+& Configtool Applying Java patches through JSPM or SDM Creating Source system in BI Monitoring the 6!
+system through Administration Workbench and establishing the connection between Bi and other system for
+{data loading Importing SSO certiicate & VeriSign cerlficates TREK installation & Configuration Basic
+knowledge of Data Archiving, Web dispatcher administration Basic knowledge of Solution Manager
+Maintenance optimizer and SMD. Resolved User issues on timely basis when other team required for support
+
+‘SAO SENIOR HANA & BASIS CONSULTANT 10/2012 to CURRENT
+National Grid | City, STATE
+
+Description:
+
+Leading BASIS Team Onsite & Oftshore model under NG - US Project and also sometime taking the role of
+Project Implementation lead with E2E
+
+Responsibility
+
+Providing maintenance support for National Grid applications Resolve Business Critical Application Issues
+Responding to all Business Queries Prepare and submit regular status reports to stakeholders, reviews bugs;
+plans software releases/anticipates and reacts to change Performing System maintenance activities Creating
+Reports using Reporting tools to support business Work with problem and change management teams to
+reduce support cost and align the process for Micro strategy, Business Object, ERP, IBM Sterling Connect,
+Enterprise and File transfer Services of National Grid Trackand report the compliance of SLAS and KPIs for
+project teams
+
+Make recommendations to management about schedules,prioitization and resource allocation with input from
+team members Project Architecture SAP application Design, Build & Implementation System Build and
+Upgrades planning External application Design & Hosting Vendor Co-ordination Integration of New Upgraded
+systems Application Maintenance & Trouble shooting Database monitoring & Trouble shooting Support Patch
+& Stack upgrade Transport request Management System Retresh Using database tools or database
+Independent tools Development application Migration
+
+Master of Science | Computer Science 2002
+NICE Management College (Affilated CCS University), Meerut (UP) INDIA.
+
+Bzchelor of Science | Maths & Statistics 1998
+DUN, College (Affilated to CCS University), Meerut (U.P), INDIA
+
+‘SAP HANA Platform with SPO8
+E2E100 (SAP SOLUTION MANAGER)
+E2E200 (SAP SOLUTION MANAGER)

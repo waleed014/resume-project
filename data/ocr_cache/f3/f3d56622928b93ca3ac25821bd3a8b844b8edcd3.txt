@@ -1,0 +1,51 @@
+Alton Fallie
+.NET Developer Adept at Applying Programming Enhancements for Both Front End and Back End
+
+Innovative and seasoned professional with 5 years of experience in utilizing ASP.NET, VB.NET, and
+Microsoft Visual Studio 2019 for development. Proficient in troubleshooting problems through customer
+requests. Proven success in managing work items in Microsoft Team Foundation Server.
+
+Work Experience
+
+-NET Developer » Haptic Group, Chicago
+
+« Worked in the FUNDLinx team with key responsibilities related to in-house mutual fund processing -
+trade, settlement, and income processing.
+Converted MFC-based utilities to C#.
+
+Boosted the filtering capability of the company WFP Datagrid by utilizing the DataGrid Extension library
+from DataGridExtentions.
+
+Successfully developed 5 multi-step wizard dialogs in WPF with Test Driven Development for the
+associated ViewModel.
+
+Dec 2017 - May 2021
+
+-NET Developer » TECH.NO, Charleston
+
+* Developed 3 in-house Accounting applications that utilize SSRS Reports, C#.NET, and Telerik Controls
+
+« Leveraged AJAX and web services to set up autocomplete functionality for the company website.
+
+¢ Assisted the IT team with the maintenance and troubleshooting of all relevant activities, including 45+
+web applications, databases, and Adobe forms.
+
+Dec 2014 - Jan 2017
+
+Education
+
+Class of 2010
+B.A. in Computer Science
+University of South Carolina, SC
+
+Soft Skills Hard Skills
+
+* Communication Skills Unit Testing
+
++ Flexibility Native Applications
+
+* Problem-Solving Visual Studio IDE
+
+* Teamwork C# Language
+
++ Attention to Detail MSDN Documentation

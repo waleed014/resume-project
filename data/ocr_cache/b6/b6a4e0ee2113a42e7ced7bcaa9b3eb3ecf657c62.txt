@@ -1,0 +1,54 @@
+Robert Smith hone (123) 456 7899
+
+Email Infocauikeesume,com
+
+‘Address; 1737 Marshuille Road, Alabarna
+
+SUMMARY
+
+{an experienced SAP technical Consultant with 9 years of software development as SAP ABAP /CRM
+‘echnical Consultant, During this periad, Invelved in multiple phases of SAP lifecycle process such
+‘as Implementation, Support, upgrade and enhancernent projects, Good Experience on SAP ABAP-
+Data dictionary objects, Classical Reports, ALV Reports, Forms (Scripts and Smart forms), User
+exists, BADI'S, BAPI'S, CAMS, Function modules , Pricing Routines , Data Migration Techhiques ~
+LSMw (Legacy systems migration workbench) & BDC (Batch Data Communication), Module pool
+programming, RFCS ,Enhancernent framework, IDOC'S and Object Oriented ABAP.
+
+SKILLS
+
+SAP ABAP, SAP Workflow, SAP WebDynpro, SAP ALEJEDL
+WORK EXPERIENCE
+
+Sap Abap Developer
+‘ABC Corporation - April 2011 - December 2013,
+Worked on enhancements and developments, by getting requirements directly frorn the
+business users, and designing the Technical spect cations
+Worked on reports, BAPIS, ALE, IDOCs, Interfaces, Conversions, BDC, LSMW, SAP Script'SAP
+Smart forms and User exits Coordinated with basis team regarding O5S, Support Packs and
+Transport management.
+Expettised In Performance techniques S705, S712, SE30 and Ser
+Created clear technical documents with all the logic and methodologies used
+* knowledged transfer tothe dlientérsquo:s T team,
+* Optimized the code using Performance Analysis tools,
++ Responsible for creating and maintaining Sap security roles and users in sox environment
+using saps
+
+Sap Abap Developer
+Detta Corporation - 2006-2011
+Client Description SPP Pumps and systems are Installed In all continents providing valuable
+high integrity services for diverse industries, such as ol and gas production, water and waste
+water treatment, power generation, construction, mines and for large Industral plants
+Itistne wonder that since SPP Fire was formed in 2875, ithas bullt a reputation for quality and
+value that has made it unquestionably the leading supper of Approved Fite Protection
+Purnping Packages throughout the World
+Roles and Responsibilties Analyzing the Functional inputs and development of Technical
+specication documents for the developments assigned
+Object development and review of the development requests assigned
+Interacting with functional tearn to resolve the Issues in the given objects
+Designed the Unit test cases and done testing for other objects developed by the team,
+Resolving the tickets and Defects
+
+EDUCATION
+MS In T Managernent - August 2013(Universtty Of Texas At Dallas Dallas, TX)
+
+(0 This Fra esume Temata the copyright f Owakiesuine comm. Usagn Guidatins

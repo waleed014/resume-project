@@ -1,0 +1,57 @@
+ROBERT SMITH
+
+DevOps Engineer II
+
+Info@quikresume.com | https://Qwikresume.com
+
+TT Professional with about 5+ years of experience as a DevOps Engineer in
+Infrastructure automation, code migration, Configuration Management, and
+system administration, Experience in setting up the enterprise infrastructure on
+Amazon Web Services (AWS). Expertise in AWS, experlence in implementing new
+AWS instances and working with EBS and $3 storage.
+
+OCTOBER 2015 - PRESENT
+DEVOPS ENGINEER I! - ABC CORPORATION
+
+Involve in building and configuring red hat Linux servers using kick start server
+as required for the project.
+
+Maintaining maximum uptime and maximum perfarmance capacity for
+enterprise production, QA and UAT/staging
+
+Expertise in AWS, experience in implementing new AWS Instances and working
+with EBS and <3 storage; JAM
+
+Launching and configuring of amazon ec2 cloud servers using AMIS,
+(Linux/ubuntu) designed and implemented scalable, secure cloud architecture
+based on amazon web services
+
+Setting up the scripts for creation of new snapshots and deletion of ald
+snapshots in s3 worked on setting up the life cycle policies to back the data
+from AWS $3 to AWS glacier worked with amazon IAM console to create custom
+Users and groups worked with various AWS ec2 and 33 CL! tools
+
+Supporting an AWS cloud environment with 1000+ AWS instances and
+configured elastic IP and elastic storage.
+
+Cloud and system virtualization platforms and tools (AWS; Vmware, Docker,
+vagrant)
+
+APRIL 2014 - SEPTEMBER 2015
+DEVOPS/SR. LINUX SYSTEM ADMINISTRATOR - ABC CORPORATION
+
+Responsibilities installation, configuration, and upgrade of Redhat Linux 5,6
+operating systems.
+
+Setting up new development branches, merging branches, facilitating the
+feleases setting up the new REPOS, managing the permissions for various git
+branches creating Adhoc git stashes created post-commit and pre-push hooks
+sing python in svn and git REPOS setting up the svn and glt REPOS for Jenkins
+build jobs managing the database DDL, DML scripts In syn and ait write basic
+Powershell scripts.
+
+Hands-on experience in diagnosing, troubleshooting various networking,
+hardware &amp; Linux/ Unix servers services issies and performing preventive
+maintenance.
+
+(8 Tis Free Resume Template the copyright of Qwikne ane com, Usage Guelines

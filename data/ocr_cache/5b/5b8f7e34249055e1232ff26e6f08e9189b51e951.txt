@@ -1,0 +1,94 @@
+MAIA DUBUQUE
+
+‘972 Ruth Drive, Los Angeles, CA + +1 (555) 550 4925,
+
+‘WORK EXPERIENCE
+
+SENIOR HCM CONSULTANT (02/2018 - PRESENT
+San Francisco, CA
+‘+ Lead and manage the design, development and performance of Takeda’s Global HCM System and related business data and processes.
+Focus on identi
+
+ing trends, determining root cause of problems, predicting future implications and determining solutions to drive
+effective business decisions
+
+‘+ Support and manage the design, development and performance of Discover's core HCM System ({Workday) and related business data and
+processes. Focus on identifying trends, determining root cause of problems, predicting future implications and determining solutions to
+drive effective business decisions
+
++ Partner with configuration partners, BT, and other third party consultants as need be, in developing and deploying of data
+interfaces/systems integration
+
++ Create and manage requirements, design, configuration, testing, and support activities for core HCM solution
+
+‘+ Maintain assignment for Role and User-Based Security for employees and/or positions in the core HCM system
+
+‘+ Support release management, reviewing release summary and release readiness documents from solution vendors, identifying
+enhancements relevant to the core HCM domain, solution and impacts to downstream systems
+
++ Collaborate with functional COEs and technical consultants to coordinate application of upgrade features or break-fixes in the core HCM
+solution domain and associated processes
+
+‘+ Support and manage relationships with HR & business stakeholders to proactively identify and address issues and provide timely support
+
+‘+ Maintain relationships, and support governance and process cadence with vendors and consulting partners
+
+WORKDAY HCM CONSULTANT 12/2013 - 01/2018
+Phoenix, AZ
+‘+ Act asa point of contact for system or project-based development and enhancement requests. Engages HR COEs and other departments
+(eg. finance, business technology, corporate communication, legal, etc.) as need be, to understand current and future demands and ensure
+that HR is prepared to integrate with and support their initiatives, projects, and programs
+‘+ Support efforts to establish, document, and audit clear, consistent, and efficient processes for the maintenance, data integrity and security
+of HR-related information for workers including organizational structure management. Implement business process strategies for end-to-
+end HR processes to achieve efficiency, productivity and improved governance and control
+‘+ Support transition and decommissioning of legacy applications as required, ensuring future access needs, retention, and compliance per
+business requirements
+
+‘+ Strong understanding of all Master Data maintained in HCM system along with all other upstream and downstream business systems
+
++ Provide project management support for decentralized projects, programs, and initiatives
+
+‘+ Design and develop user procedures, guidelines and documentation to support change management
+
+‘+ Train users as need be on solution - processes/functionality
+
+‘+ Maintain awareness of current trends in HRMS with a focus on product and service development, delivery and support, and applying key
+technologies. Through classes, training, use of collaborative tools at work, cloud communities, continuously inerease both HR knowledge
+and HR Technology application/tools knowledge
+
+‘+ Seamlessly transition sold clients to designated client service team
+
+LAWSON HCM CONSULTANT. 05/2008 - 08/2013
+San Francisco, CA
+
+‘+ Serve as client's valued advisor, building a strategic and personal relationship with key client decision makers
+
+‘+ As appropriate, work with client service team to serve client and retain business
+
+‘+ Communicate with leadership, providing field input on market trends, competitor analysis and other business intelligence
+
++ Demonstrated industry consultative sales skills represented through proven sales results
+‘+ Strong skills in PeopleSoft Application Designer, PeopleCode ,Application Engine,PS Queries, Integration broker (App Messaging)
+‘+ Working knowledge of the full application lifecycle
+
+‘+ Strong SQL skills, at
+
+y to write and execute advance SQL (preferably Oracle database)
++ Have knowledge of PeopleSoft security
+
+Provide quality formal and informal documentation consistent with client standards
+
+EDUCATION
+
+FRANCISCAN UNIVERSITY OF STEUBENVILLE 2003-2008
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS.
+
+‘+ Strong project skills and/or team experience is desired
+‘+ Strong presentation, communication and listening skills are required
+
+‘+ Responsibilities include client identification through final invoicing for engagements requiring varied interpersonal and technical skills
++ PeopleSoft (or other ERP) HCM implementation experience or functional user Workday experience
+
+‘+ Language skills: fluency in (Swiss)-German and English

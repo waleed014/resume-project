@@ -1,0 +1,43 @@
+LUPE SATTERFIELD
+
+25268 Allan Roads, Chicago, IL
+
+PHONE
++1 (555) 612 4182
+
+EXPERIENCE
+
+Hilll, Bergnaum and Gleichner
+San Francisco, CA // Electrical Engineering // 02/2018 — present
+¢ Perform Voltage Drop Calculations, short circuit calculations and arc flash analysis calculations
+¢ Write and edit project construction specifications
+e Review shop drawings, equipment submittals, perform site observations
+¢ Coordinate on site with electrical contractor and Performs field inspections and provides professional field support as
+necessary during construction phases
+Proficient in the utilization of current electrical engineering theories and practices
+
+Stroman, Nicolas and McKenzie
+San Francisco, CA // Electrical Engineering // 07/2014 — 11/2017
+¢ Experience with Industrial Networks
+¢ Experience with of the following systems — HMI, PLC, MES applications
+¢ Proven hands-on experience in the design, control, and productization of complex equipment, machinery, and AC and DC
+power distribution
+¢ Proven hands-on experience in the design, development, and realization of analog and digital electronic circuits, from
+schematic to final released PCBA
+
+EDUCATION
+
+Baylor University
+Bachelor's in Electrical Engineering
+
+SKILLS
+
+Advanced understanding of Electromagnetic Compatibility (EMC) testing approvals
+Knowledge of Freescale and Atmel microcontrollers is desirable
+
+Working knowledge of CAN communiction (CAN Open and SAE J1939 standards)
+
+¢ Working knowledge of mechanical systems and hydraulic systems
+
+Highly proficient in planning, organizing, and managing multiple tasks and large projects
+Good knowledge of stage-gate development processes

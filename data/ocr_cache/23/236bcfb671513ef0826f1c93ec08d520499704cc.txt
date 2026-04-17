@@ -1,0 +1,51 @@
+Data Scientist Intern Phone: (123) 45678 99
+
+Ema: nlocquilrestame.com
+Website: uunw.qwikrestme.ce
+
+ROBERT SMITH Linkedin: linkeda.com/qwikrestme
+‘Address: 1797 Marshville Read,
+
+Alabama
+
+Objective
+
+‘As a Data Sclentist Intern, experience can include Good statistical and programming skills with the
+ability to work effectively with complex data. Strong programming skills In R, Pyihon, SL, Linux.
+Good Analytical, Interpersonal & communications skills ated proactive atitide
+
+Skills
+
+R, Tableau, SAS, OBIEE, Data Mining, Data Warchousing, Python, Oracle; MySQL, Unix
+
+Work Experience
+
+Data Scientist Intern
+‘ABC Corporation - January 2015-2015
++ Optimized EMS (Ambulance) placements so thal response time ean be reduced to less than 10
+minutes and thus potentially saving human lives.
++ Analyzed weather data tose impact on eal volumes ix R.
++ Used Monte Carlo stimulation techniques in R programming to delermie the maximum area
+that can be ewered by a gen number of Ambulances .c
++ Understood the business objectives n order to develop or established success eriteia metres
++ Translated business problems into ane or more data science projects or solutions
++ Worked on a data selence team lackling real busines Issues
++ Provided data-driven and machine learning solutions affecting our vacation rental platform.
+
+Data Scientist Intern
+‘ABC Corporation -2011 -2015
+* Exploratory data analysis and visualization using python anid Tableau
++ Participated in development of recommendation system using machine learning algorithms.
+Performed data analysis in distributed lle system using Hive and Spark,
++ expected) Independenly designed the automatle anomalies detection system for business
+metrics lime series data | Researched on atamaly detection
++ SelStorage Dynamic Pricing System Applled Regression Models using scils-leam and R19
+forceast Demand from street prices for self-storage,
++ Best Features selected by Recursive Feature Elimination model
+RMSE improved from 1,07 ta 0.20.
+
+Education
+
+Masters Degree - (National Insite of Technology - Kunaksbetra, IN)
+
+(Tas Pree Resume Template bse opie of Qatkretmesom. Dhage Guldaines

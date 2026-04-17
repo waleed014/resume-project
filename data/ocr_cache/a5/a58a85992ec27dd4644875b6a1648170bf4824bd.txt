@@ -1,0 +1,64 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+(CAREER OVERVIEW
+
+Tam a experienced computer programmer with expertise in web-based development and design. I am seeking for a position as a software
+engineer.
+
+Quaumications
+
+# Javascript & JQuery General programming
+HIML & CSS Web application development
++ PHP + Responsive web design
+
+“c Website maintenance
+
+«Java
+
+Trcunicat Sxnis
+
+Javascript & jQuery Veteran 2 years Recent
+HTML & CSS Veteran 3 years Recent
+PHP Familiar lyear Recent
+
+c Familiar 2 year Recent
+Java Familiar lyear Inhalf year
+Work EXPERIENCE
+
+01/2014 to 04/2014 Front-end developer
+
+Apex Systems — Bloomington, IL
+
+I got this job as a part-time internship with CPT application. Badger Innovations is a start-up company designing and
+developing websites for small businesses. During the intem period I joined a developing team, working together with
+developers to finish 3 complete websites. My proficiency in HTML and CSS significantly speed up the work flow of
+our team. Ileamed a lot about javaScript developing tricks, especially Ajax. I also got more experience about server-
+side scripts like PHP. This internship helped me understanding better about the needs and thoughts of the clients, and
+team working with other developers. I consider this internship a valuable experience in my career.
+
+06/2013 to 07/2013 Front-end Developer
+Apex Systems — Boulder, CO
+interned at Hangzhou Huizhi Technology Corporation during my summer break in 2013. I participated in a small
+project group of 4 people to develop a business calendar application, which was a plug-in for the company’s information
+management system. In the group, I designed and coded the interface of the application, and implemented basic front-
+end functionality using Javascript. I also worked with other developers on synchronizing data between the application
+and database.
+
+Epucation Np TRAINING
+
+2016 Bachelor of Science: Computer Sciences
+University of Wisconsin - Madison - Madison, WI
+* Applying for Computer Sciences and Computer Engineering double major.
+
+Portrorio
+
+‘Web Design
+* Otakism (http:/blog otakism ors): My personal blog based on Wordpress. I create the theme for this site
+ Rakugaki (latip:/ralcugaki. me): My experimental portfolio. This site is completely hand-coded and its every pixel is carefully designed
+‘Web Development
+© UWCourseHelper (hittp://mincho.org/courseInfo): This is a web application aims to provide better online academic experience for UW
+students. I team up with other 3 students (one of them is a developer) to design and implement this project. My job include the entire
+front-end functionalities, integration between front-end and back-end and server setup and maintenance.

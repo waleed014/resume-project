@@ -1,0 +1,38 @@
+Gertie Torphy
+
+02 Stehr Ridge, Chicago, IL
+
+ay Mobile phone:
++1(555) 630 9899
+
+(D EXPERIENCE
+
+Consultant — Dickinson Inc, Detroit, M/ 01/2018 — Present
+
+e Previous experience working within the government sector in any capacity
+
+¢ Hands-on experience with Elasticsearch, Logstash, Kibana (ELK) + Kafka
+
+¢ Deploying applications in Amazon Web Services (EC2, $3, auto scaling groups, etc)
+¢ Systems automation with languages such as Ruby or Perl
+
+Consultant — Lubowitz-Predovic, Detroit, MI 02/2015 — 09/2017
+
+¢ Hashicorp stack (vault, terraform, packer, consul)
+¢ Strong understanding of Technology stack mentioned in column D
+¢ Comprehensive experience with AWS including a solid understanding of CI/CD, Amazon $3, EC2, IAM, CloudFormation and
+
+Route 53
+
+Ti EDUCATION
+
+Rhode Island School of Design — Bachelor's in Business
+
+@ SKILLS
+
+e Experience in designing, deploying and supporting of Cisco, Juniper or equivalent network products
+
+e Able to develop network designs including security
+Able to troubleshoot network problems and outages, locate problem areas, isolating them for solutions
+
+¢ Have strong experience and understanding of IP routing protocols and routers

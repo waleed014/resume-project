@@ -1,0 +1,138 @@
+Jessica CLAIRE
+
+“Montgomery Street, San Francisco, CA 94105 © (655) 432-1000  resumesamplegexample com
+
+Professional Summary
+SAP Fl trained Chartered Accountant (Inter) with over 7+ years of experience in the areas of Finance, Accounts and Auditing with 4+ years of sap
+
+functional experience with 1 implementation. Involved in different phases like As-Is study, Business requirement collection, GAP analysis etc.
+Visa Status - HB
+
+Skills
++ Microsoft Office Suite proficiency + Customer Service
++ SAP RRS (FICO) + General Ledger Accounting
++ Account reconciliation
+‘+ Accounts receivable specialist
+Education
+CA Inter: 2003
+
+Institute of Chartered Accountants of India
+
+B.com: Commerce, 2000
+Kanodia College - Jaipur
+‘* Scored Second Rank in B.Com.
++ Distinction in Accountancy and Economics.
+
+Certifications
+
+* SAP FICO functional training - Apr. 2012 from Global SAP Institute
++ E-Commerce certification from SSI
+« Six Sigma Yellow Belt
+
+Experience
+SAP FI/CO Consultant/Business Analyst, 01/2015 to 10/2016
+Honeywell - Jacinto City
+
++ Served as liaison between business users and application service providers,
+
++ Conducted business process Gap Analysis between To-Be design and SAP standard Business Processes, and made recommendations for
+Process Improvement.
+
++ Translated business requirements into SAP functional requirements.
+
++ Financial Accounting- General Ledger: Configuration and Customizing G/L Account Master Records, Chart of Accounts, Field Status
+Group, Automatic Account Determination, Financial Statement Version, G/L Display Configuration.
+
++ Account payable and account receivable: Configuring and Customizing Vendor and Customer Master Data, Account Groups, Logistics
+Invoice Verification, Terms of Payment, Tolerance Group, Invoice, Payment, Configuration, Dunning, Interest calculation, Check
+Management
+
++ Cash and Banke Configuration and Customizing cash journal and other related area including Cash Management and Fund Management,
+Customizing of Bank, House Bank, Payment Method, Automatic Payment, Check Payment and all other related areas.
+
++ Asset Management: Configured Chart of Depreciation, Depreciation Areas, Asset Classes, Asset class Account Determination, Calculation
+Keys, Depreciation Keys Transaction Types, Acquisition, Retirement.
+
++ Controlling: Cost Center/Cost Element Accounting: Configuring and Customizing the Cost Elements/Cost Centers.
+
+SAP FI Analyst, 06/2013 to 2015,
+Jones Lange Lasalle Inc. - Kalamazoo
+Responsibilities:
+* Creation of Vendor and Customer records and loading of legacy data into system.
++ Define document types and number ranges, understanding the concept of posting keys.
++ Creating Bank Master data, House banks, G/L account for each bank account and creating reconciliation account for vendors and customer.
++ Designed General Ledger, which includes chart of Accounts, Account groups, Posting periods, and made settings for Fl entries, Recurring,
+Parking docs.
++ Vat Mase Veer groups naar args packing and ecuing ete, Spec GL tarsctions ie don payments ecivedinace,
+payment terms, and tax codes.
++ Financial: General Ledger, Accounts Payable, Accounts Receivable, Asset Accounting, Treasury, Bank Accounting.
++ Defined chart of accounts, account group and general ledger accounts for each company code, created bank master data, house banks and G/
+accounts in different currencies for each bank account and creating reconciliation accounts for vendors and customers and assets.
++ Created vendor master, customer master with screen layouts and configured the automatic payment program.
++ Worked on AP- Vendor transactions, Master data, Check management, house banks, payment program, payment terms, deduction
+‘management, Clearing Inter-company Vendor/Customer Open Items, Logistics invoice verification, Evaluated receipt settlement.
+«+ Designed structure for Cost center Accounting, Profit center Accounting and Internal orders.
+
+St. Finance Analyst, 2012 to 05/2013
+Aegis Sciences — Asheville
+Responsibilities:
++ Review & Preparation of monthly Reports.
++ Salary posting in SAP R3 & Clearing.
++ Assisting in preparation of the budget.
++ Posting of accruals in SAP & its reversals.
++ Cost Center Analysis — analyze the expense as per location, function, owner and source. Inter-company monthly balance comparison report
+jeneration.
+« Ehnancal reports by collecting, analyzing and summatizing account information and trend
++ Amortization — passing entries and it's GL recon.
++ Responsible for keeping Books of Accounts, Preparation of Balance Sheet and Profit and Loss Account on Monthly, Quarterly, Half yearly
+and Yearly basis.
+« Preparation of MS Reports ike Debtors & Creditors outstanding statements Budget Reports, monthly operational data et.
+‘+ Maintains accounting ledgers by posting account transactions. Reporting - Creation of Weekly and Monthly Reports.
++ Chairing CDB calls with client on weekly basis.
+
+Finance Analyst, 03/2010 to 11/2011
+Chemetall - Columbia
+Responsibilities:
++ Vendor payments through scheduled pay-cycles, handling rejection and refund of payments.
++ Co-ordination with bank for various quires.
++ Working with PCC (Payment clearing Centre) process for SAP Finance Account Receivables and Bank Reconciliation and involved in
+various reporting in Accounts receivables with the help of Sap and Excel reports.
++ Responsible for the end-to-end processing of the accounts payable function.
++ Processing of Purchase Orders and NON Purchase orders into SAP.
++ Posting Journal and Ledger Accounts.
++ Creation of Vendor maintenance Accounts.
++ Invoice Posting, approval and schedule payment to vendor.
++ Preparing Financial Analysis Reports.
++ Prepare month end Accounts Payable accrual and other reporting as needed.
++ Verification of Bank Reconciliation, Inter-company transactions, handling all other day-to-day activities in the Finance Department.
++ Conduct Root cause analysis for Open line items
++ End User Demo, Training and preparation of User Manual Document
+
+Process Analyst, 08/2009 to 02/2010
+Maersk Global Service India Pvt Ltd - City
+Responsibilities:
++ Daily reconciling Banking files received from HSBC, HDFC, Axis and Indian Bank with intemal General ledger balances.
++ InSAP (R/3) Managing Bank accounts reconciliation (Master, Disbursement, Collection and THB (In house bank) including Pass Book and
+Cash Book matching.
++ Working with PCC (Payment clearing Center) process for SAP Finance Account Receivables and Bank Reconciliation and involved in
+various reporting in Accounts receivables with the help of Sap and Excel reports.
++ Daily balance updating collection received from customer and payment made to vendor to manage working capital.
++ Preparing Weekly, Monthly, Quarterly and Yearly Bank Reconciliation report for all collections, Disbursement account and presenting them.
+in front of management for review.
++ Follow up of aging items from internal & External bank GL’s.
++ Investigation for Open line items.
+
+Trainee, 2000 to 11/2002
+Vyas & Vyas - City
+‘+ Books of accounts/management accounts are produced correctly & timely and are in sync with the accepted Accounting Standards, Taxation
+and Company Laws, Barlow’s Accounting Policy.
++ Budget Preparation, Coordination and effective follow up for implementation.
++ Toensure that the liquidity of the company is maintained by efficient collection of debt and in turn honor its commitment of payment to
+suppliers, govemment and financial institutions.
+«+ Supervision of day-to-day accounting functions.
++ Prepare journal entries.
++ Updates and reviews monthly account reconciliations.
++ Meets accounting close deadlines.
++ Communicated audit results to upper management through written reports and oral presentations.
++ Gather data for internal audits through interviews, financial research and downloads. Articulated audit findings, risks and detailed
+recommendations to senior management.

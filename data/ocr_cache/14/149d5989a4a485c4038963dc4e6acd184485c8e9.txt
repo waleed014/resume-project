@@ -1,0 +1,70 @@
+i
+
+. . . maria@novoresume.com
+Maria Hibisson orza.asd-roe
+
+Java Deve loper linkedin.com/in/maria.hibisson
+
+github.com/maria.hibisson
+
+u Os
+
+maria.hibisson
+
+Highly experienced, solutions-oriented professional with 10+ years of remarkable background in overseeing all aspects of the Software
+Development Life Cycle, from extensive analysis and design through execution and maintenance. Proficient in utilizing a wide variety of
+Programs and tools to provide high-quality and cost-effective applications/systems to boost organizational efficiency and productivity.
+Possess unmatched coding and testing skills to deliver client/business-specific programs.
+
+AREAS OF EXPERTISE
+
+Project Management Strategic Planning & Execution Team Leadership & Development. Scrum & Agile Methodologies
+System Architecture & Engineering Application Design & Development Continuous Process Improvement
+
+WORK EXPERIENCE
+
+Java Developer
+Clearwater Cloud Systems & Technologies
+04/2015 - Present Orlando, FL
+
+- Utilize Java, Enterprise Java Bean, Java EE, and Apache Struts Web applications to develop fully automated client management
+systems For the efficient maintenance of client accounts.
+
+- Enforce an innovative approach to improve the client’s web reporting system, which effectively reduced the financial tracking
+analysis time by 50%.
+
+- Supervise and lead a team of 10+ junior java developers to ascertain the successful completion of the 13 key projects of the
+company within budget and schedule.
+
+- Collaborate closely with the management, vendors, and associated third parties to guarantee the full Functionality and
+performance of the website financial transactions and database management applications.
+
+- Oversee all phases of the development of the new Java-based vendor application system for the Financial services industry,
+from conceptualization and design to progress and deployment.
+
+Back-End Java Developer
+Easy Stream International
+02/2011 - 03/2015 Tampa, FL
+
+- Took part in the scheduled development meeting to recommend relevant system modifications and project improvements.
+- Spearheaded the software product definition, requirements, analysis, and implementation for the new project designs.
+
+- Innovated the phone devices by deploying a system that integrated navigation, text messaging, and music playback via an easy-
+to-use and low cognitive load interface that is controlled by voice commands.
+
+Assistant Systems Engineer
+
+SwipeWire Inc.
+
+01/2008 - 01/2011 Tampa, FL
+
+- Aided in overseeing the transition of the commerce API to microservices that are running on a dockerized platform and ECS
+through other Amazon Web Services (AWS) such as Dynamo, SQS, and ElastiCache Redis.
+
+- Coordinated with the experienced Sytems Engineer and other professionals in the team in migrating the cost-efficient service
+that successfully reduced the operating costs by over 70% upon running the newly migrated service.
+
+- Provided expert support in developing and implementing effective technical solutions that enhanced the system's performance
+and subsequently boosted business efficiency.
+
+J novoresume.com Page 1 of 2

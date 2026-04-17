@@ -1,0 +1,113 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000  resumesample@example.com
+
+Professional Summary
+
+Tech-savvy BI Lead Developer and support project lead with 13 years of experience in the industry with reputed companies,
+managing Project Deployments, Software Development, Designing, successful execution & delivery of software projects using
+Microsoft BI on-prem and Azure Technologies.
+
++ Immense experience in Design, Development, and Backend Production Deployments of Information Systems for various healthcare
+applications & worked extensively in Agile methodology for 7+ years.
+
+* Well-versed with MSBI, SQL Server, KQL, Azure Synapse, ADF, ADBR, DevOps, and ADLS.
+
++ Well-versed in building positive relationships with customers and other stakeholders.
+
++ Manage projects to provide business solutions, and strong experience in requirements gathering, and scope development . Give the
+‘project team directions and maintain control of progress, quality and budget.
+
+* Monitor Service Quality and put proactive measures in place to improve it
+
+* Design, configure and administer support of on-going services and projects and execute change management activities.
+
+* An astute with a flair for adopting emerging trends & addressing industry requirements to achieve organizational objectives.
+
+* Proficient in grasping new technical concepts quickly and utilizing them in an effective manner.
+
+Skills
+
+MS-SQL-ETL, SSIS, SSAS, SSRS, DAX, KQL, Azure Data Factory,
+‘Azure Data Lake Store Gen 1 & Gen 2(ADLS),Azure Synapse,
+Azure DeltaLake Analytics(ADLA), Azure Data Bricks(ADB),
+Python (Basic)
+
+Work History
+
+BI Lead Developer and Project Manager, 03/2017 to Current
+Providence Health & Services - Simi Valley, CA
+
+Interactions with different Business Analysts and Functional experts to gather the requirements and converting into technical
+specifications.
+
+Designed and developed multiple DWH (Data ware House) models like ADM and ADS for Pre-Authorization, Member model and
+claims models.
+
+Designed and developed the migration models from on-prem DWH to Azure synapse.
+
+Developed different data extraction methods (ETL and ELT) using SQL Server Integration Services (SSIS) ADF (Azure data Factory)
+and ADBR (Azure Data Bricks)
+
+Involved in the design and development of the Delta Lake house model.
+Designed and implemented Automated deployment models using Azstre DevOps (CICD pipelines)
+
+Proposed new architecture using Azure tools to save cost and reduce manutal efforts for lower environment refreshes and other
+backup models.
+
+Automated all individual components from extraction of the data to reporting including data validation.
+
+Senior Bi Developer, 05/2010 to 03/2017
+General Electric - Lemoore, CA
+
+Worked on differ projects(MSN, CAPITA Management and KONGSBERG reporting) during the tenure
+
+Developed ETL Packages using SQL Server Integration Services (SSIS)
+
+Involved in the design, development and testing of the ETL and ELT strategy to populate the data from various source systems feeds
+using SSIS which included Transformation and loading into the target SQL Server databases using ETL tools, SSIS
+2005/2008/2012/2014/2016
+
+Involved in coding, designing and developing data sources along with reports in different reporting tools like Power BI, Power Pivot
+and Microsoft Excel
+
+Configured every aspect of SSIS 2008/2012/2014/2016, transformations like Execute SQL Task, Execute Package Task and conditional
+split, Script Component, Merge and Lookup while loading the data into Destination
+Provided Logging, Error handling by using Event Handler, and Custom Logging for SSIS Packages
+
+Wrote complex stored procedures and SQL Queries in SQL Server
+Involved in programming tasks including creating Stored Procedures, Triggers, Cursors, and User Defined Functions using SQL
+Server 2008/2012/2014/2016 with T-SQL.
+
+Developed reports in SSRS, Power BI, Power View, MicroStrategy, Tableau
+Prepared different documents as per client needs(Design Documentation, Transformation sheets, and Deployment documentation
+ete.)
+
+BI Developer Analyst, 02/2009 to 05/2010
+Gep - Tampa, FL
+
+Gathered requirements to load data into SQL DW from different source systems.
+
+Created SSIS packages, Configuration files (XML & Environment Variables), deployed packages by creating manifest files, unit
+testing and Issues fixing and moved packages to Production server
+
+Using Error Handling techniques to execute the packages without fail
+Loaded the exception records into exception tables and error files
+
+Supported existing data warehouse Integration and analysis services platform as well as SQL Server Database to ensure operational
+availability and scalability
+Carried Deployment activities in the UAT and Production environments
+
+SQL BI Developer, 03/2008 to 01/2009
+Accenture ~ City, STATE
+
+Analyzed exiting application code base and prepare requirement analysis document.
+
+‘Mapped existing application fields with MS Solve related DW solutions
+
+Documented set of design approaches for each application, to suggest remediation approach for existing applications.
+Designed ETL Packages in S515 2005 to populate data into database.
+
+Used different Transformations to upload data into database tables.
+
+Created Different reports using SSRS and Power Pivots

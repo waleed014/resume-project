@@ -1,0 +1,61 @@
+ROBERT SMITH
+Senior ETL Developer
+
+Phone: (0123}-456-789 | Emall: twotqutlresumne.com | Webstte: Qvekresume.com
+
+PSN |
+Senior ETL Developer with more than 6 years of professional experience in Saftware/I
+industry specializing in Data Engineering and Data Warehousing platform with expertise
+in Data Analysis, Design, and Implementation of Database and ETL processes using
+
+Informatica PowerCenter application. Proficient is writing, optimizing and tuning SQL
+queries, Domain Experience in major sectars such as Banking, Retail and Insurance.
+
+[CORE COMPETENCIES
+
+Informatica Power Center 9.%/8.x, Informatica Data Quality (IDQ), MDM Databases SQL
+Server DB2, MySQL, PostgreSQL Languages SQL. PL/SQL. C, UNIX Shell Scripting,
+Python Operating Systems UNIX, Windows Linux, Macintosh DB Tools TOAD, SQL Plus,
+SQL Developer. SQL Server Management Studia Other Tools Autosys. COGNOS, SSRS.
+APEX
+
+»ROFESSIONAL EXPERIENCE
+
+Senior ETL Developer
+‘Rabobank, N.A - June 2014 - Present
+
+Key Deliverables:
+
++ Involved in receiving web service calls from an extemal vendor and perform ETL to
+integrate it with banks internal host using Informatica data integration hub,
+Partnered with bi team on multiple
+
++ Parinered with cross-functional tears to implement advanced analytics on
+customers and products,
+
++ Working on integrating customer data from multiple data sources ta achieve
+consistency in'data and providing a single source of truth for business decision
+making.
+
++ Gathering the business requirements from the business users and performing an
+extensive data analysis on the internal host system
+
++ Working closely with the business analysts to create mapping documents,
+
++ Designing complex and custom ETL code based on the requirements of the
+‘external vendar and internal hast
+
++ Modifying the schema XSDS based on the changing requirements.
+
+Senior ETL/Data Engineer
+‘Mike, Ine - October 2012 - May 2014
+
+Key Deliverables:
++ Performed unit testing and support the business users during UAT by
+
+nalyzing,
+the issties raised and performing bug fixes.
++ Suscessfully integrated multiple web service sources, targets and web service
+
+2259 Oak Street, Old Forge, New York. 19420
+this Ere mente Template copyright of irene, Wage Guldeines
