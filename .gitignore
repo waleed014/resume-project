@@ -7,7 +7,6 @@ hireformer-env/
 .env
 .env.local
 
-data/
 
 # Data artifacts
 data/cache/

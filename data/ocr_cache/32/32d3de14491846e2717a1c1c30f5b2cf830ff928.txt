@@ -1,0 +1,17 @@
+632-358-9774
+Deon Nguyen Database Developer
+Peabody; MA
+cleon nguyeniremaillcom
+SUMMARY
+WORK EXPERIENCE
+Database Developer with [number of years] experience of [top 2-3 skills] Achieved [top achievement]: Expert at [X], [Y] and [z]:
+January 2014 January 2015 Database Developer Acme Corp Scheduled and managed Oracle Jobs using packages and procedures: Modified and provided service support for Business Object Reports: Conducted problem diagnosis and performed root cause analysis (RCA) for escalated incidents; Created Views; materialized views; and optimized database queries; jobs; procequres and packages; Verified DB Triggers and Table Indexes; Handled end-of-day (EOD) jop incidents and performed housekeeping activities; Developed utilities and scheduled DB jobs: Collaborated with DBA to improve production environment performance; Provided LZ and L3 support to end-users for applications and databases:
+SKILLS
+Data migration and convetsiom
+Data partitioning and sharding strategies
+Data warehousing conced and implementation
+Data backup and disaster rccover planning
+January 2016 - January 2017 Database Developer Acme Corp
+Database scripting and automation
+Designing; developing; and monitoring comprehensive reporting database that integrates data from multiple core banking systems and external sources: Proficient in writing complex queries (Scripts; SPs; Functions with focus on optimization and troubleshooting Collaborating with various departments within an organization t0 create an effective and streamlined database system: Ensuring the database system's performance; security, scalability; and availability: Creating ETL processes using SSIS for seamless data integration: Generating automated reports for business units utilizing SSRS_
+January 2023 Present Database Developer Acme Corp Designed, created and managed structured database objects such as tables views; sequences; triggers; packages; and stored procedures for the project Ensured that all change requests were addressed and implemented

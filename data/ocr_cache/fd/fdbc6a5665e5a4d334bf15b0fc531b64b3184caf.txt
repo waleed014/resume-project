@@ -1,0 +1,18 @@
+Jessica Claire Montgomery Street, San Francisco, CA 94105 (555) 432-1000
+resumesample@examplecom
+PROFESSIONAL SUMMARY
+A data analyst with 3+ years 0f experience in interpreting analyzing data for the business solutions Proficient knowledge in statistics and analytics_ Excellent understanding of business operations and analytical tools for eifective analysis of data_
+SKILLS
+Data Warehousing Data Visualization Business Intelligence Statistical computing methods Relational Database Data Administrator Data Analysis Data Management
+WORK HISTORY
+SAP HANA DEVELOPER 10/2013 t0 07/2014 Infosys Ltd Allen Park, MI Designed an effective database system and then successfully lead several data extraction, warehouse and analytics initiatives that reduced operating cost Accomplishments Integrated data from different data sources into Sap HANA using ETL replication Created visually impact dashboards and analyze data to identify key metrics_ Designed, developed and implemented new functionality: Written SQL scripts to manipulate data for data loads and extracts
+SAO BI DEVELOPER
+04/2013 to 10/2013
+Trissential Improved the design of Bl tools and reporting and assisted in the governance and management of master data_ Accomplishments Conducted reports for implementation of marketing strategies leading to 34% of growth in customer acquisition. Developed strategy and road maps including tactics, project plans, milestones and KPIs_ Built database cubes and design star schemas using ERiStudio and Visio_ Developed rich interactive graphics and data visualizations of large structured data in browser-friendly formats_
+DFCA ANALYST AND BUSINESS INTELLIGENCE DEVELOPER 06/2012 to 03/2013 P & G Consumer Village city; STATE, USA Developed methods and procedures that streamlined data analysis, improved the design of Bl tools and reporting and assisted in the governance and management of master data Accomplishment Worked with customers to design and implement effective business intelligence tools Analyzed data requirements, application and processing architectures data dictionaries and database schemas while designing; developing; amending; optimizing and certifying database designs to satisfy client needs_ Gathered functional and non-functional client requirements in order to optimize the design of Bl deliverables (reports , dashboards_ alerts , visualizations) using SAP Business Objects
+EDUCATION
+Master of Science Information Assurance
+2016
+Wilmington University; Wilmington
+BaChelor of Science Computer Science JNT University; Hyderabad
+2012

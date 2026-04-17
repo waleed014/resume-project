@@ -1,0 +1,10 @@
+JEFF FEENEY 19298 SUZI THROUGHWAY , NEW YORK, NY
+PHONE +1 (555) 498 8425
+EXPERIENCE
+EDUCATION
+Greenfelder LLC ~> 04/2018 present SAN FRANCISCO , CA II/ SYSTEMS SECURITY ENGINEER Participate as a member of a security engineering team that designs; develops, implements, evaluates and/or integrates security architectures, systems or system components Experienced in configuring audit logging on Linux systems Validates and verifies system security requirements definitions and analysis and establishes system security designs
+Fashion Institute of Design & Merchandising III Bachelor's in Computer Science
+{03
+SKILLS
+Work in a fast paced, e-commerce environment Apply an interdisciplinary; collaborative approach to plan, design, develop, validate and verify lifecycle balanced information system security solutions Leads a team of Product Security Engineers that will implement cybersecurity features on satellite vehicles and implement RMF processes for embedded computing systems Evaluates resilient network operations for a satellite system and implements effective crypto keying techniques
+Walter; Brekke and Hamill 06/2012 10/2017 SAN FRANCISCO , CA II/ SYSTEMS SECURITY ENGINEER Designs, develops, implements, and/or integrates IA and security systems and system components including those for networking, computing; and enclave environments to include those with multiple enclaves and with differing data protection/classification requirements Builds IA into systems deployed to operational environments Assists architects and systems developers in the identification and implementation of appropriate information security functionality to ensure uniform application of Agency security policy and enterprise solutions

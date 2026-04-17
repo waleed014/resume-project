@@ -1,0 +1,23 @@
+JEssIcA CLAIRE
+100 Montgomery St IOth Floor 555) 432-1000 resumesampleGexample.com
+Summary
+DevOps engineer with 3 years of experience managing and improving IT infrastructure using DevOps tools for applications. Expertise in area of software configuration,management,version control using github repository Proven ability to integrate CICD and tooling - for optimization and timeless release: Skilled in containerizationlarchitecture and its orchestration using docker and kubernetes_ Experience with built of CIICD pipeline using jenkins to automate builds,deploys, and testing: Building scalable resources using Terraform strategy and knowledge using Fython and Groovy Experienced in continuous deployment on digital ocean and AWS Hand-on continuous monitoring using splunk and creating aws services Such as IAM,EC2,53_ etc: Confidante in facing` troubleshooting by following the resolve path: Experienced and self-motivated to perform talk and follow required strategy also open up to adjust with industry standards regarding new tools. Skilled in Containerization/architecture and its orchestration using Docker and Kubernetes Proven ability in Terraform and cloud formation Strong ability to communicate and work in team environment Experience with ansible deployment using playbooks for CIICD _ Hands-on experience with Ubuntu servers
+Skills
+Cloud Technologies: AWS. Operating Systems: Linux, Ubuntu, Windows_ Automation Tools: Terraform; Vagrant; Ansible, Cloud Formation. Version Control Tools: Git;
+Monitoring Tools: Splunk, Cloud watch: Source Code Management: Git Package Management: JFrog: Build Tools: Maven, Npm. Continuous Integration: Jenkins Configuration management: Ansible Ticketing Tools: Jira
+Webs Servers: Apache Tomcat: Scripting: Groovy, Bash, Python, YAML Virtualization technologies: VirtualBox;, Vagrant
+Experience DevOps Engineer; 08/2022 to Current Foundation Capital Set up Kubernetes cluster and deployed Docker images using Jenkins and AWS ECR Successfully implemented fully automated CICD pipelines for Maven based application; resulting in faster and more efficient code deployment by integrating SonarQube and Dependency Checks: Set up ansible configuration for maintaining and controlled virtual machines Designed AWS services structure for faster application deployment on the server Helped teams implement infrastructure a5 code using Terraform Controlled and managed AWS Identity and Access Management (AWS IAM) of users Created and managed Docker images and containers
+DevOps Engineer; 10/2020 to 05/2022 Bechtel Ogden, UT created and maintaining Auto scaling IAM user roles, policies, EC2 container service (ECS) and load balancers. Configured AWS VPC with public and private Subnets, Security groups Configured Cloud Watch to monitor real-time metrics of all AWS services: Deploying to AWS with Terraform and ansible Maintained servers running windows servers Used GIT for source code version control and integrated with Jenkins for CICD pipeline with built tools Maven;
+Accountant; 01/2014 to 05/2016 Cognizant Technology Solutions - Rve Brook; NY The position will support the Controller and Senior Staff Accountant in carrying out the responsibilities of the Finance department
+Month-End Closing - journal entries APIAR Aging reconciliations retail deduction tracking
+Complete and support retail billing
+Sharepoint and claims processing
+Maintain the billing due list; create release documents and document reversals
+Creation of CreditDDebit Memos Supporting the Accounts Payable team
+Education
+Certified DevOps Engineering 02/2020 IBTLEARNING Texas City , TX76244
+Associate of Applied Science: Computer Science And Programming, 04/2019 Borough of Manhattan Community College of The City University of New York New York; NY
+English-Second-Language Education Certification, 02/2017 Spanish-American Institute New York, NY
+Accounting, 05/2012 ESAM Ivory Coast
+Certifications
+Certified DevOps Engineering: Certified AWS language french (native), English (second language) Remote

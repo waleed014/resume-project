@@ -1,0 +1,13 @@
+Ryan Edward SOFTWARE TESTING
+Summary Two years and Eight months of working experience in Manual Testing & Automation Testing Good Exposure on Mobile Apps, E-commerce apps Testing school software Billing software and college management software: Skilled in understanding Software requirement Specification and identifying the required Test scenarios. Professional Software testing Experience that includes Effective Test case Designing and Test case preparing: Hand on Experience on preparing Software Requirement Specification
+Contact
+info@resumekraftcom 202-555-0120 Chicago, Illinois, US linkedin com/resumekraft
+Skills
+Hands on Experience in Functional Testing, Integration Testing, System Testing: Requirement analysis and RTM Writing test cases, Executing test cases, Preparing test reports DefectIBug Tracking Automation Testing (UI) Selenium Web driver Defect Life Cycle Wireless Communication Good understanding of HTML DOM: Good knowledge on STLC. Have written efficient XPath to identify the locator in the DOM Good knowledge of coreJAVA (OOPS Abstract class & Interfaces)
+Experience Software Testing Engineer Online clump Jan 2016 - Mar 2018 Worked as a manual tester to write Test cases and Test scenarios Creating test case to cover the new feature testing: Reported defect in jira. Some time Used automation also. Created Requirement Traceability Matrix(RTM): Used selenium Webdriver to Automate to Regression Testcase: Creating Ul Automation script using selenium webdriver . Responsible for sending consolidated weekly report: Software Testing Engineer Ace Technologies Sep 2019 _ Present Worked as an automation engineer and identified the manual test cases which qualifies for automation: Used Selenium webdriver for Ul automation: Reviewing the user stories which are part of new feature testing Writing functional and regression test cases Creating test data request: Performing build verification(Smoke) testing Performing regression testing before the new release Writing test cases in JIRA. Participating in the scrum meetings: Involved in Defect triage meeting:
+Languages English French Arabic German
+FRAMEWORK & TOOLS
+Eclipse UI Automation Testing using selenium webdriver JIRA Defect Tracking Tool
+Projects
+School software testing Jan 2016 - May 2016
+Education

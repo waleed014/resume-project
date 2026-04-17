@@ -1,0 +1,5 @@
+Senior Blockchain Developer
+Experience Creation of web service to process payments from Blockchain wallets; to which Android and iOS apps can connect Development of backend service to pull transactions from Firebase database and execute corresponding Blockchain contract transactions using Web3 library Design and impi ementation of the security measures of Blockchain wallet system Integration of Blockchain payments for in-app purchases in an application
+Skills Microsoft SOL Server; Visual Studio, NET; MVC, AJAX, SQL; Ctt, C#, Javascript, Nodejs, JQuery; SOAP REST; FTP HTML, XML XSLT, XCod Neural-networks, Regression, Agile Scrum; MYSQL
+Uktdenion Dcucloomcni Mtein Mondacment Gioboi dclivcry
+Mobilurua

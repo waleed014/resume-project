@@ -1,0 +1,15 @@
+Mary O'Brien
+55 Elm Street; Staten Island, NY 10310 Available for relocation
+Phone: (555) 555-5555 resumepowersample@gmail.com
+ENTRY-LEVEL ORACLE DATABASE ADMINISTRATOR
+Profile
+Talented professionaE with extensive training Oracle database architecture administration; backup; recovery, and performance tuning_ Expertise hardwarelsoftware integration, reinforced proven ability develop business solutions that improve efficiency, productivity, and profitability: Enthusiastic professional with strong work ethic and company-first attitude
+Technical Summary
+Databases: Languages Tools: Software:
+Oracle 11g, Microsoft Access PLISQL and SQL C, Java; UML XML, HTML Microsoft Office Adobe Creative Suite
+Education & Training
+ABC UNIVERSITY, New York; NY Computer Learning Center, 2009 to 2011 Technical   Training Certificate: Oracle Database Architecture and Administration; Backup and Recovery Course Highlights: Gained experience range of Oracle database  administration functions; including: creating databases and dictionaries using backup; recovery maintaining data files; control files and configura ation; and export import redo log files techniques managing rollback segments tables; and optimizing sort operations indexes monitoring and detecting lock loading and reorganizing data contention ensuring data integrity and system resolving SQL and multi-threaded security server - tuning issues
+Experience
+ASSISTANT RETAIL MANAGER - ABC CO, Staten Island, NY (2010 to 2011) Trained and supervised personnel, provided excellent customer service, monitored and controlled inventory, and assumed leadership role in merchandising:
+WAREHOUSE ASSISTANT _ DEF CO, Staten Island NY (2007 to 2009) Prepared 100- time-sensitive shipments per day: Improved company database renaming client codes, eliminating inactive clients, and standardizing company names: Created training materials for use of FedEx software that was used company-wide_
+CUSTOMER SERVICE REP GHI CO, Staten Island; NY (2006 to 2007) Responded to information requests regarding unit prices, shipping and delivery dates; and other logistica) considerations_

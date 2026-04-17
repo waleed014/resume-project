@@ -1,0 +1,19 @@
+Allan Hills Dot Net Developer
+Contact Details
+Summary Experienced Dot Net Developer with S+ years of developing and implementing web applications. Skilled in C#, ASP.NET, HTML, CSS, and JavaScript: Proven track record of successful projects.
+allanhills@gmaiLcom
+(508) 001 6691
+New Jayde, 38184, Texas
+Work Experience Dot Net Developer, Shanahan O'Kon March 2023 Present Developed web applications using ASP NET, C#t, and SQL Server: Implemented user interface design using HTML, CSS, and JavaScript Assisted in the design and development of WCF services.
+Education
+Bachelor of Science in Computer Science University of California, Berkeley 2017 2021
+Dot Net Developer, Deckow Bode May 2021 February 2023 Created stored procedures and functions in SQL Server. Developed unit tests using NUnit and MSTest frameworks. Developed and maintained web services using WCF.
+Skills
+C#t programming Expert
+ASP Net Expert
+SQL Server Expert
+References
+MVC Framework Expert
+References available upon request
+Net Core Expert
+Web API Expert

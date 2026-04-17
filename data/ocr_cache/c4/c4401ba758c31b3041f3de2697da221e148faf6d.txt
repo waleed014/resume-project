@@ -1,0 +1,24 @@
+Kennedy Klekamp Python Developer
+Profile Python Developer with year of experience in designing; developing; and impe lementing software solutions using Python programming language. Proficient in creating web applications, integrating APIS, and leveraging data analysis libraries_ Adept = working in agile environments collaborating with cross-functional teams, and adapting to new technologies. Highly skilled in problem-solving, critical thinking: = and time management: Committed to delivering high-quality, efficient, and scalable software solutions for diverse industry needs_
+Details
+kennedyklekamp@gmailcom (254) 103-9272
+123 Aspen Lane; Boulder; CO 80301
+Links
+linkedin comlinkennedyklekamp
+Skills
+Employment History Senior Python Developer at Inceed, CO Mar 2023 Present Developed an optimized Python-based application for a major client; resulting in 30% increase in efficiency and 2590 reduction in processing time_ Implemented an automated testing framework that reduced code review time by 40% and increased overall code quality, leading to 159 reduction in reported bugs_ Spearheaded the migration of legacy - system to modern Python-based platform, which improved system performance by 50% and decreased maintenance costs by 20%. Mentored team ofjunior developers_ leading toal00% retention rate and 350 increase in team productivity within six months. Junior Python Developer at Techtonic Group, CO Aug 2022 Jan 2023 Developed an efficient data processing pipeline for major client; resulting 50%6 reduction in processing time and 300 improvement in data accuracy: Implemented an automated testing framework for critical applications; leading to significant decrease in software defects by 4090 and 250 faster release cycle: Optimized and refactored legacy codebase, enhancing overall performance by 35% and reducing maintenance costs by 209 for the company:
+Django
+Flask
+NumPy
+Pandas
+TensorFlow
+SQLAlchemy
+Jupyter
+Languages
+English
+Mandarin
+Hobbies
+Developing open-source projects Participating in coding competitions Exploring new programming languages and frameworks
+Education
+Bachelor of Science in Software Engineering with a focus on Python Development at University of Colorado Boulder; CO Aug 2017 May 2022 Relevant Coursework: Software Engineering Fundamentals, Python Programming; Data Structures & Algorithms; Web Development; Database Systems, Object-Oriented Design, Network Programming perating Systems, Artificial Intelligence and Machine Learning:
+Certificates Python Institute Certified Entry-Level Python Programmer (PCEP) May 2022

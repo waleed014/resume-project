@@ -1,0 +1,9 @@
+ELVINA STROSIN 89878 ISSAC TUNNEL , BOSTON , MA
+PHONE +1 (555) 699 2574
+EXPERIENCE
+RUNOLFSDOTTIR-PREDOVIC 11/2018 present Chicago, IL / / Senior Teradata Database Administrator Strong experience in developing database automation frameworks for complex systems Develop innovative, scalable, resilient and fault tolerant software/tools to support production database operations Knowledge of production database support tasks, such as Monitoring, Security, Capacity Planning, Troubleshooting, database patching, backup and recovery strategies Experience in deploying distributed apps with containers (Docker), Terraform & orchestration (Kubernetes, EKS, GKS)
+MCCLURE INC 10/2014 10/2018 Chicago, IL / / IT Database Administrator At least be fimiliar with one of the following DB systems MS SQL/Oracle Achieving IT-related training certificates is preferable, such as MS SQL/Oracle courses Strong analytical, problem resolving and multi-tasking skill Interested in database system maintenance and performance improvement Aggressive on skill learning and sharning Effective Chinese & English oral and written communication skill Demonstrate proficiency of web application development and relational databases Excellent data communication and people skills
+EDUCATION
+UNIVERSITY OF MISSOURI-COLUMBIA Bachelor's in Computer Science
+SKILLS
+Experience in GitHub management, AWS ElasticSearch Service Experience in any of the monitoring tools like Grafana, Graphite, Cloudwatch; etc Open source community contribution and involvement Deep experience with complex distributed systems, parallel distributed algorithms, and distributed consensus protocols Deep knowledge in one Or more of (concurrent B-tree access methods, ACID transactions, logging & recovery) Strong knowledge of Java, C, or C++ Strong knowledge of concurrent programming in distributed environments

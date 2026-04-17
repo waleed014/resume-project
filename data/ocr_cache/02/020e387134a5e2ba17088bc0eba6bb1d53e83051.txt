@@ -1,0 +1,18 @@
+PROFESSIONAL EXPERIENCE
+TONY ALMEIDA Rentel Software Development DevOps Engineer DevOps Engineer Jersey City, US +1 (333) 555 7777 Mar '15 Present AJersey based start-up offering VolP services. tony@hiration.com Technologies: Docker, GIT, Nagios, Linux; Apache; couchDB, load balancing; AWS, SF, US Android Java, Python Managing 30+ Linux servers & component provisioning & handling configuration & SUMMARY deployment of infrastructure & services
+7+ years experienced DevOps Engineer possessing in-depth experience of managing cloud based technology & effectively handling configuration & deployment of infrastructure & services: Gained hands-on experience in implementing core DevOps concepts such as containerization; virtualization; version control, cloud computing; database management & administration; load balancing; etc. by using a wide variety of technologies while working with multiple DBMS, Operating Systems & programming languages: Adept at learning and implementing new technologies very swiftly as demonstrated by the transition from an Android Developer to DevOps professional: Drives excellence in every project to deliver outstanding results.
+Cloud Technology Management Managed the infrastructure, avoided single point of failure, monitored RAM CPU space
+Virtualization Created server & components by application of Virtualization Concept using Docker
+Load Balancing Employed haproxy to steer load balancing for handling a constantly increasing user base & ensuring scalability & reliability
+Cloud Based Distributed Computing Played key role in establishing the entire cloud based distributed computing infrastructure for the VolP application Employed complex concepts & technologies including git, Docker, apache, nodes, networking; etc:
+Server Maintenance & Infrastructure Monitoring Setup Nagios server & installed Nagios Plugin on each running host machine a5 a client Constantly monitored the up-time of the infrastructure using status of all components sent by the Nagios client
+KEY SKILLS
+Dragon Embedded Technologies Android Developer SF, US Feb '14 Feb '15 A product design house with focus on consumer electronics, infotainment; surveillance; mobility solutions, wireless networking & semiconductors
+Containerization Version Control Database Management Database Administration Load Balancing - Virtualization Cloud Technology Management * Cloud Computing Server Maintenance Infrastructure Monitoring
+Technologies: Android Java, SIP Protocol, Linux Created an Android App using SIP protocol & integrated call management services for outgoing & incoming voice calls Developed an Android App for Android TV service which pairs with complementary call alerting service for Android phones Developed an efficacy dashboard for comparing product releases
+TECHNICAL SKILLS
+DBMS: MySQL, Couch DB OS: Linux, Windows Languages: JAVA ,Shell Script, Python Technologies: Linux Server Administration, SSH, Docker, GIT, CHEF, Jenkins, Apache Web Server, AWS, JAVA, HAProxy, Nagios, VBnet; Virtualbox, Cloud, Networking
+Bingway Solution Pvt: Ltd: Android Developer SF, US Mar '10 Jan '14 loT & Wearable Computing focused company which helps large companies to design wearable & payment terminal devices for emerging markets:
+CERTIFICATIONS
+Technologies: Linux; Board support Package, VB.net Android Java Board Supporting Package: Device Drivers for Tablet PC
+AWS Solution Architect '17

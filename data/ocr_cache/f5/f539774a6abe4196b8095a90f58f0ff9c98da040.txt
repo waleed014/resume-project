@@ -1,0 +1,25 @@
+Bradford Schmidt, Phone: 038.560.8163 x44207, Email: bradford32@gmail.com
+BRADFORD SCHMIDT
+DOT NET DEVELOPER
+Inspired Dot Net Developer with 12+ vears of professional experience in Infrastructure as a Service, Single Page Apps areas with willingness to learn and master RDBMS & SQL and UI/UX & Design: Scrum & Agile expert.
+Phone: 038.560.8163 x44207 Email: bradford32@gmail.com Linkedln: @bradford32 GitHub: @bradford32
+KEY SKILLS
+Front End
+Databases
+Aurelia, BabylonJS, CSS3 ExtS,JSP , LESS OOOCSS, Polymer, scSS Sass, Spring, Web Components
+CRUD, DynamoDB, ETL MariaDB, NHibernate, ORD
+DevOps
+Back End
+Ansible, CircleCl, Kubernetes Octopus, SVN, TeamCity Vagrant
+Bitrix, GlassFish, Iris, JVM Joomla, Magento, Rails/Ruby on Rails, SSRS Seneca, WebLogic, Zend SDLC
+Testing
+12 Factor App, Asana, Basecamp, GoF Design Patterns Jira, SOLID principles, Waterfall
+Blanket; Chai, Cucumber, Jest MStest; Nock, TestNG
+WORK HISTORY
+Senior .NET Developer Schmeler Crona
+03/2014 02/2017 North Floridaview, AL
+Collaborating with stakeholders as a part of implementation of the high-profile customers- facing portal that helped to develop clear, unambiguous technical requirements and establish consistent feed-back loop. Design and implementation of the 99.99% up-time REST API for the business-critical external web app, that provided critical connectivity channel for distributed functionality and increase system cohesion keeping manageable code complexity: Handling full stack programming tasks for the development of the high-profile external web app (Kubernetes, SCSS and Nock): As a result 10 bugs-free releases have been deployed just- in-time Improving product aesthetic and UX of the high-profile single page application, resulting in 83% increase in sales and product revenue: Performing unit & load testing for the critical single page application using Chai and Cucumber eliminating system's failure rate by 79%
+NET Core Developer Von Sawayn
+01/2011 02/2014 Nashmouth; CT
+Collaborating with stakeholders as a part of implementation of the mission-critical progressive web application that helped to develop clear, unambiguous technical requirements and establish consistent feed-back loop.
+Bradford Schmidt; Phone: 038.560.8163 x44207, Email: bradford32@gmail.com

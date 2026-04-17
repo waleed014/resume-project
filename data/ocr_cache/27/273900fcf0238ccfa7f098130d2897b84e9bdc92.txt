@@ -1,0 +1,14 @@
+Manoj Kumar
+Mobile +91-8892689290 EMAIL ID: Manopqahlot3389@qmalcn
+Network Security Engineer and Consultant Seeking challenging position in repute organization which provides opportunities for professional grokh and advancementWhere can utilize my experience and acquired skills toward becoming valuable team memben
+Professiona Oveiview
+3.5+ years
+years of experience in network security for India's leading private sector organizations_ Experience in planning; design implem entation and configuration of network: security setup Maintenance debugging ad troubleshootng of network: security architecture_
+Experience Summary Wipro InfoTech (Mysore) , as Security Management Engineer Compton Computers Pvt Ltd (Delhi) Network Engineer Baud Technologies (Gurgaon), as Network Support Engineer
+Feb 2014 Pre sent April 2013 -Feb 2014 Jan 2011-April 2013
+Projects
+First Gulf Bank (in Wipro InfoTech) (Designation: Securty Consultant) Managing_all International branches Ihe terms of data security by using Firewalls, VPNs, IPS, Mail gateway,FS-LTM ASM, RSA and Websense Crealing plan of actions for security policies and then Umpt ementing on different security products t0 harden the network from security threats Removing Ihe vulnerabilities found in security audits: Upgrading IPS and FS WAF signatures a5 new updates are released, Troubleshooting various issue related t0 security products Maintaining High availability through Clusters and Disaster recovery (BCPIDRPIset-up. Optimizing firewall rules: Taking, scheduling and storing backup o security producis
+Iunodala Isogen (in Compton Computers) (Designation: Network Security Engineer)
+Successfully deployed and managed Checkpoint 12200 Series UTM Firewalls in Load Sharing and High Availability mode. Managed Cisco ASA, Checkpoint and Juniper firewalls: Managed Site-to-Site VPNs and GRE over IPSec using OSPF for different branches Used Websense and Cisco Ironport for URL filtering creating custom filters, policies, exceptions whitelisting and block listing of URLS Configured stacking of switches Performed hardening ofrouters, swtches and firewalls
+Baud Technologies
+Upgraded Cisco ASA firewalls for various clients Configured and provided support for Routers, Switches, Firewalls VPNs

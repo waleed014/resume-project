@@ -1,0 +1,6 @@
+Middle Blockchain Developer
+Experience Set-up of healthcare company's online payment system with support for bitcoins and Blockchain wallets Provision of Blockchain wallet support proof-of-concept for implementation in clothing store Modification of existing application to add support for bitcoin Creation of dashboard to display bitcoin statistics from Blockchain website
+Skills SOL, HTML, CSS, JavaScript; React, jQuery; JUnit; Java, Maven; Blockchain; Cryptocurrency; Smart Contracts, Geth
+uktninicn @ecloamcnt
+Wceictn Mondacmcni Global Dclivery
+Toetun

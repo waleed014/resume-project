@@ -1,0 +1,23 @@
+Jessica Claire Montgomery Street, San Francisco, CA 94105 (555) 432-1000
+resumesample@examplecom
+OBJEC TIVE
+Data Science and Engineering eader looking for senior leadership position with the responsibilities to drive organizational KPIs through advance data analytics and use of artificial intelligence to guide development of modern soitware products and platforms_
+EXECUTIVE SUMMARY
+PrincipalDirector of Data Science and Engineering with 16+ years of professional experience and 7+ in management; am proficient in eading Strategic Product Thinking effort; Data Driven Decisioning; SDLC, Planning Cross Functional and Cross Team Coordination; Team Development, Tactical Reorganization; Consensus Building and Operations Management
+AREAS OF EXPERTISE
+Technology eadership and Innovation Product Planning and OKR Definition Leading MVP Definition and Development Strategic Annual and Quarterly Planning Fostering Strategic Partnerships Project and Resource Planning Managing Multiple Scrum Teams Product Architecture and Design
+Predictive Analytics Data Science and Engineering Machine earning and Distributed Computing High Performance Computing Optimization and Simulation Algorithms and Data Structures Java; Python; Spark; Map Reduce
+PRODUCT PORTFOLIO
+Data Science Data Quality Inspector; Recommendations Simulator; Al ChatOps Bot Retail Personalized Recommendations API, Rules Engine; Chatops, Feedback Data Collection, Impressions Analysis Operational Monitoring and SLA Alerting supply Chain Synchronization, Forecasting Recommendations Engine and Visual State Monitoring and Profiling Healthcare Orthotix Personalization, Customization and Recommendations Engine Storage Area Network Operational Control, Metrics Reporting and Analytics Recommendations Engine, Visualization and SLA Monitoring
+EXPERIENCE
+PRINCIPAL, DATA SCIENCE AND ENGINEERING 07/2014 to CURRENT Target | City; STATE Managing and eading Data Science and Engineering projects teams and roadmap; Driving KPIs and Delivering against OKRs
+PFCNCIPAL ENGINEERIPRODUCT OWNER
+02/2011 to 06/2014
+Hitachi Data Systems city; STATE Managing and eading teams on Converged Infrastructure and SAN Analytics, Reporting; Monitoring SLA Management and Visualization
+LECD SDK ARCHITECT Playfirst Inc. city; STATE Social Games SDK Design for Flagship Social Games Chocolatier and DinerDash
+04/2010 to 01/2011
+EDUCATION AND TRAINING
+Master of Science Electrical and Computer Engieering Carnegie Mellon University; Pittsburgh; PA
+2015
+BaChelor of Science Computer Science and Engineering Amravati University; Shegaon, Maharashtra
+2001

@@ -1,0 +1,17 @@
+EUDORA SCHOEN
+683 Trantow Summit; Dallas, TX
+(555) 173 4114
+WORK EXPERIENCE
+ETLADMINISTRATOR 10/2016 PRESENT Chicago, IL Provides oversite for documentation of formal project deliverables such high level Design document; detailed design document; test
+plan and implementation plan
+Consults with business and technical clients and application development areas in the design to implementation of small t0 medium projects Design and develop simple to highly complex ETL packages to meet the goals of the Student Data Governance Committee Interact and effectively communicate with the technology team and the data experts to collect and understand requirements Produce metrics, alerts, reports, and dashboards for UME administration, faculty and staff enabling them to gain insight into student succersano take appropriate actions
+Design presentation layer(s) Design quality metrics support and maintain existing data models
+ETL SOFTWARE ENGINEER Detroit; MI Experience working in a large data warehouse environment Experience intertacing with level employees Pentaho Informatica Datastage relevant ETL experience Javascript_ Python Shell scripting or relevant seripting/programming experience Windows and Unix platform
+01/2012 07/2016
+SQL server experiencer ETL experience working with SSIS
+ETL SOFTWARE ENGINEER INTERN 07/2007 07/041 Los Angeles, CA Expertise with QA Deliverables tool set - (Quality Center, SharePoint; Microsoft Project/Excel) Excellent interpersonal skills, Communicatec Effectively, builds relationships, Influences others Agile tools (Jira/ Rally) Makes eflective use of company collaboration and knowledge resource tools and resources Produces completed work requiring infrequent rework and little involvement of others to ensure quality Creates self monitoring processes and habits to ensure aCCuraCt of work Demonstrates expertise in variety of the field '$ concepts, practices, and procedures related to ETL/Data design and development
+EDUCATION
+WITTENBERG UNIVERSITY Bachelor'$ Degree in Computer Science
+2003 2007
+PROFESSIONAL SKILLS
+Analyze the feature requirements aS presented by the business analyst and the delivery team, in context of the overall project feature set existing implementation. Translate requirements to technical concepts Strong analytical skills; Solid interpersonal skills Software Engineering experience in client server and ETL environment that demonstrates exceptional design, coding; testing and debugging skills Strong analytical, planning, organization and time management skills with strong attention detail Signifieant practical experience in PowerCenter version 46 or greater, with strong technical and communication skills Excellent problem-solving skills; with demonstrated ability to identify and solve problems Three years Or mor experience in DataStage (9.1 or higher) administration with strong skills in installation, configuration & upgrade of software

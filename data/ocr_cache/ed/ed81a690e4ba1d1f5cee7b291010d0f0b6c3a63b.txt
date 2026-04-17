@@ -1,0 +1,17 @@
+James H. Watson
+Kubernetes DevOps Engineer
+Versatile Kubernetes DevOps Engineer with 6 years of hands-on experience: Proven ability to automate and optimize goal-based Kubernetes and Docker deployments for complicated infrastructure: Implemented Kubernetes, AWS, and GCP to automate application operation and reduced S250k costs annually At ZenCloud 
+(+413)-000-8120
+jameswatson@cakeresume com
+Atlanta, GA
+Work Experience
+02/2018 - 05/2021
+DevOps Manager ZenCloud, Atlanta Led an agile developing team of 5 engineers and SysAdmins to create solutions for 300k users Deployed and optimized applications to run on Kubernetes, AWS, and GCP and resulted in a S250k cost reduction annually: Monitored, analyzed, and revised tools installation specification documents for 20 developers. Reduced lead times by 30% using Puppet:
+07/2015 01/2018
+DevOps Analyst Noveltent; Remote, Atlanta Organized Kubernetes scheduler and collaborated with product managers and marketing teams to introduce seasonal varieties across 20+ product applications_ Identified major project obstacles and designed risk-mitigation plans, resulting in a 150 increase in the efficiency: Reduced deployment time by 30% by integrating existing operation structure with Docker and Kubernetes automation schedule to boost productivity:
+Education
+09/2010 - 05/2013
+B.S. in Computer Science
+Georgia Tech Minor in Business Administration
+Hard Skills
+Container Deployment & Automation: Docker; Kubernetes Configuration management: Puppet; Ansible, Chef CIJCD: Jenkins, Chef; Puppet, Git Languages: Python, Swift, C/C++, Java, Go, Shell, Linux Agile Methodologies: Scrum, Kanban
