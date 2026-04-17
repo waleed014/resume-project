@@ -1,0 +1,215 @@
+PROFESSIONAL
+
+SUMMARY
+
+ACCOMPLISHMENTS. ¢
+
+skies
+
+WORK HISTORY ¢
+
+Epucanion ¢
+
+Jessica Claire
+
+© 100 Montgomery St. 101 Floor ‘E (656) 492-1000 4 resumesample@example com
+
++ atyears of1T experience as a DevOps Engineer in 6 (Continuous integration), €D (Continuous
+Development) a strong background in Busd ana Release Management, and Cloud implementation, a
+‘thin the suit the needs ofan environment in a DevOps Culture.
+
+‘+ Extensive experience in troubleshooting various issues related to Linux OS in the ve
+lenwronment
++ Provcing solutons related to Google Email services, Gmal, Gale.
+
++ Working vith Linux AVS, Docker, Jenkins, Ansble. IT, Nagies, NRPE, WebLogi, JBoss,
+Docker, KVM, Vitare, ORAC servers, etc. Managing a team and working wi he team asa team
+payer.
+
++ Good knowteage of other Amazon web services, uhic include $3, ES, VPC, ELB, Route 83,
+‘Autoscaing, Secunty Groups.
+
++ aminvoWed in designing and deploying mutter applications utiing al the AWS services tke (EC2,
+RRoute53, $3, RDS, Dynamo DB, SNS, SAS, AM) focusing on high avalaity, fault tolerance, and auto
+scaing in AWS Cloud Formation.
+
++ Designed scalable and nigly avalable Domain Name System(ONS) win AVS Cloud to route trate to
+AWS Cloud from users connected using ANS Direct Connect for larger deployments.
+
++ Created scrips in Pytnon Which Integrated with Amazon API to contol instance operations.
+
+‘+ Buia server deployment on Cious(EC2) servers wh nelp of DevOps toos tke Chet
+
++ Created monitors, alarms, and notifications for EC2 hoss using Cloud Watch,
+
++ Opimizationicost reduction of Amazon ANS serces (EC2, 83, EBS, ROUTESS, VPC).
+
++ Conigured Apache web server inthe Linux AVS Cloud environment using Chet automaton
+
++ Implemented hight eesponsive mut-channel enhanced customer experience with Meroserices
+<eployed on Pivotal Cloud Foundry (PCF) for night scalable and agle backend infrastructure
+
++ Resolved produc sue through consumer testing,
+
++ Used mlcrosot Exel to develop inventory tracking spreadsheets,
+
++ Configured and installed Red Hat and CentOS Linux Servers on bath vital machine and bare metal
+
++ User account management and administaion, Troubleshooting User's login and home dectoryreates
+Issues, reset password and unlock user accounis
+
++ Perormed automated istatatons of Operating System using Kickstart for Re Hat Enterpaise Linux S
+
++ Implemented Shel, Per scripting using ksh lsh bash’SeaiAuk to ease administration tasks
+
++ Maintaining inventory ofa components including systems and other hardware performed User Account
+‘management, data backups, and user's logon support
+
++ Setup user and group login 1's, network configuration, password, resolving permissions Issues, user
+and group quota
+
+‘Creating and maintaining user accounts, profes, secur, rights, ask space and process montoring,
+
+Routine Activities -
+
++ Handing of new serves buds on-demand physical & VM servers.
+
++ Workng wth Nagios, Cac & GIT.
+
++ Creating €C2 instances and managing AM roles as per the requirement
+
++ Managing Route for managing ONS records.
+
++ Creating and managing $3 buckets to store data
+
++ Handing & troubleshooting fle system relate issues and alerts.
+
++ Troubleshooting Gmal Nginx, Docker and User Adminstration related issues
+
++ Sharing knortedge with newcomers in the organisation
+
++ Analysing network, ask, server load and processor performance, disk 0
+
++ Creating scripts and scheduling tem as Cron jobs to automate tasks/process.
+
++ Handing service management related tasks and other tasks.
+
++ Upgrading OS and other sotware as and when required.
+
+“Inston of Rea-hat, CentOS and Ubuntu Operation Systems.
+
++ Creating and managing objects ike Docker Container and LVM, Vgs and Pys etc
+
++ Managing snapshots, AMs and securly groups fr server securly and backup incase of
+
+asaster recovery
+
++ Handing and managing KVM! Fall Overs.
+
++ Servers neath monitoring ana generating servers neath report
+
+[Environment CICD, AWS, Jira net. ava, Ansible, Eagemess to Learn About New Technologies
+‘Splunk, WebLogic, Docker, Python, Apache MySQL,
+
+‘An Hadoop, Kubemetes, Sel, Git Kata,
+
+Terratorm, Azure, Alassian.
+
+DEVOPS ENGINEER 042021 to CURRENT
+Koch industries, ne. | Fremont, CA
+
+‘+ scanned and analyzed my experiencedeploying and maintaining muit-container applications through
+Docker
+
++ Worked on several Docker components tke Decker Engine, Hub, and Machine, creating Docker
+Images, Docker Regist.
+
++ Worked on PCF for effective deployment ofthe aplication inthecoud using Spring Boat
+
+‘+ Worked onthe deployment of REST Web services and microseries in PCF.
+
++ Experience in Blue-green deployment hat reduces downtime and rik by running to identical
+production environments.
+
+‘+ Worked on Docker container snapshots, attaching o running container, removing Images, managing
+ddcectory structures, and managing containers
+
+‘+ Managed buds and wrote bud scrips for JAVA and WebSphere based applications
+
++ Managed ana mentored the server and network nastucture using AppDynames, Splunk
+Performed system adminstration and operations tasks using Jenkins, AppOynamis.
+
++ Installed splunkin production servers for logging purposes. Bult Splunk dashboards for application
+‘monitoring, Conigured alerts fr operational purposes,
+
++ ScanneaiAnalyzed the buds using Sonarube for eftece cosing practices.
+
+‘+ ntertaced with a cross-tunctonal eam to determine comprehensive lst of requirements specications
+fornew appicatons.
+
+DEYOPS ENGINEER 072017 e 082020
+‘Koch industries, Ine. | Dallas, Tk
++ Monitored automated bud and continuous software integration process to drive bularelease flue
+reson
++ Wrote and updated documentation to outne tecnica design ofthe entire project,
+
+‘+ Worked itn software development and testing team members to design and develop robust solutions
+to meet cent requirements for tuncionaly, scalabity and performance
+
++ Experience in coniguration and adminstration of Splunk clusters and in-depth knowedge of analysis.
+and maintaining logs.
+
++ Experience in using Splunk, Appdynamics, Oynatrace, Nagios, IBM monitoring tols(TAM),
+
+‘+ Experience in Blue-green deployments/Zero doumtime deployments in production environments.
+
++ Good knowteage on otner Amazon web services vich includes $3, EBS, VPC, ELB, Route 53, Auto
+sealing, Secutty Groups
+
+DEYOPS ENGINEER 002014 to 0772017
+Koch Industries, Inc, | Brunswick, GA
+
++ Inave extensive Mesos experience, experience in a UNK environment, and expertise in several Ravors
+of Linux including Red Hat, CentOS, and Ubuntu
+
++ Expertin developing coud strategies, roadmaps, archtecting new cloud soluions or migrating
+enterprise applications tothe cloud
+
++ Experience working on several Docker components tke Decker Engine, Hub, and Machine, creating
+Docker inages, Docker Registry, and handing multiple mages. knowledge of Mesos, and marathon.
+
++ Extensively worked on Hudson and Jenkins for continuous integration and End-to-End automaton for
+al bulls and deployments.
+
+‘+ Excellent nands-on experience with coniguraton management tots ike Chef, Puppet, Ansile, and
+Docker
+
++ Experience n the aaminsation and maintenance of source contol management systems such as Git
+Hub and Subversion SVN. created tags, branches, fied the merge issues and administered sofware
+repostones.
+
++ Good knowtedge in creating and maintaining various DevOps-related tools fore team such as
+rowsoning scripts, deployment tos, and staged vitual environments using Decker and Vagrant
+
++ Automates processes wth custon-buit Python & Shell scrips
+
++ Experience in Blue-green deploymens/Zero Downtime deployments in production environments,
+
++ Good knowtedge of other Cloud based services Ike GCS, Mictoson Azure
+
++ Knowedge of using buid automation tools bke MAVEN, Bamboo, Gradle, and ANT forthe buling of
+<eployableartacts such as war & ear trom source code.
+
+[Master of Science | Management information Systems oats
+‘Christian Brothers University, Memphis, TN
+
++ Capstone Project
+Ccatfornia Housing Price System (Cafornia, [Development and
+| worked inthe data science fel. So we decided to go ith Pytnon and used to various modules avaiable in
+the market. We used various datasets to get the various features on which the pricing he house depends.
+‘Ais, by careful examined the data we got an dea of what. are the most valuable features are in deciding he
+rice of he house. Like geographic location, or crime rate or nearby facies,
+‘After the models bull and ready tobe hosted onthe local network we wl add ters inorder to tweak the
+‘model or tite out any unwanted resus}
+
++ 375GPA

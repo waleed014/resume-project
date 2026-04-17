@@ -1,0 +1,161 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+SKILLS
+
+WORK HISTORY
+
+Jessica Claire
+
+© 100 Montgomery St. tot Floor *& ($85) 432-1000 4 resumesample@example com
+
+Senior IT specialist with a total of 5+ years of experience as a System Administrator, Cloud Operations and
+DevOps Engineer with extensive knowledge of AWS cloud infrastructure provisioning and migration,
+‘automating CUCD pipelines and developed script for bulld and maintenance of tasks. Consistent team player
+vith exemplary multitasking skis,
+
++ Devops : Docker, Git, Githb, Jenkins, Ansible, + Cloud - Amazon Web Services (AWS) : EC2,
+Kubemetes, Terraform. routeSS, VPC, 1AM, ELB, $3 bucket, EBS, EFS,
+ROS with PostgreSQL. Auto Scaling
+‘+ Linux Admin : LAMP stack, Apache, MySQL.
+‘Network configuration, Servers, WordPress.
+
+DEVOPS ENGINEER (05/2018 to CURRENT
+pmorgan Chase & Co. | Bear, DE
+
+‘+ Monitored automated build and continuous software integration process to drive bulldirelease failure
+resolution.
+
+‘+ Wrote and updated documentation to outline technical design of entire project
+
+‘+ Researched and identified new technologies and tools helping to grow agile development environment
+
+‘+ Worked with software development and testing team members to design and develop robust solutions
+to meet cient requirements for functionality, scalability and performance.
+
+‘+ Collaborated closely with product development teams and other stakeholders, using effective
+communication and active istening skils,
+
+‘+ Worked closely with other business analysts, development teams and infrastructure specialists to
+{deliver high avaitabilty solutions for mission-crtical applications.
+
+LICUX SYSTEM ADMINISTRATOR 05/2016 to 06/2018
+Johns Hopkins Applied Physies Laboratory | Bear, DE
+
++ Experience withthe installation and maintenance of a Linux machine on virtual servers.
+
++ Worked on the installation, configuration, and hardening of Linux servers using the CIS Benchmark
+guidelines.
+
++ Provided planning and escalation troubleshooting on OSfapplication systems in Linux,
+
++ Created bash script for Linux system inventory which saved the company 80 hours of work.
+
++ Experienced with containerization (DOCKER)- building various Docker images.
+
++ Led in the building and troubleshooting of LAMP stack using Docker.
+
++ Userigroup administration, fle/airectory security, authentication, and access management (SSH, Firewalls)
+on a Linux server.
+
++ Participated in containerizing the Haproxy Server and | am experienced in installing and configuring a load
+balancer using the Haprory Software
+
++ Worked with different Linux favors lke Red hat, CentOS, Ubuntu,
+
++ Experience with tools ike awk, sed
+
+BICLOGY TEACHER 03/2012 10 02/2016
+State Of Indiana | Khonkaen, Thailand
+
+‘+ _ Established positive and encouraging relationship with students and helped to foster appreciation for
+biology and science.
+
+‘+ Prepared individualized lesson plans and educational materials to structure biology curriculum to needs
+of each student
+
+‘+ Kept classroom environments consistent and focused on learning by establishing and enforcing clear
+objectives.
+
+‘+ Developed materials for laboratory activities, homework assignments and handouts to faciitate learning
+
+‘+ Evaluated students’ academic and social growth, kept appropriate records and prepared progress
+reports to gauge performance.
+
+‘+ Assessed submitted class assignments, determined grades and reviewed work with struggling students
+
+to boost success chance.
+
+‘Taught subject matter based on information compiled from textbooks, online sites and other educational
+
+materials,
+
+Bachelor of Science | Biology Teacher Education 12/2005
+University of Buea, Cameroon
+
+‘+ DevOps : Docker, Git, GitHub, Jenkins, Ansibl,
+Kubemetes, Terraform.
+‘+ Cloud - Amazon Web Services (AWS) : EC2, routeS3, VPC, IAM, ELB, S3 bucket, EBS, EFS, RDS
+with PostgreSQL, Auto Scaling
+‘+ Linux Admin : LAMP stack, Apache, MySQL, Network configuration, Servers, WordPress
+
+DEVOPS ENGINEER (05/2018 to CURRENT
+DATA SERVICE GROUP INC.
+‘+ Monitored automated build and continuous software integration process to drive build/release failure
+resolution.
+‘+ Wrote and updated documentation to outline technical design of entire project.
+‘+ Researched and identified new technologies and tools helping to grow agile development environment
+‘+ Worked with software development and testing team members to design and develop robust solutions
+to meet client requirements for functional, scalabilty and performance.
+‘+ Collaborated closely with product development teams and other stakeholders, using effective
+communication and active istening skils,
+‘+ Worked closely with other business analysts, development teams and infrastructure specialists to
+‘deliver high availabilty solutions for mission-crtical applications.
+
+LIICUX SYSTEM ADMINISTRATOR 05/2016 10 06/2018
+Data Services Group Inc.
+
++ Experience with the installation and maintenance of a Linux machine on virtual servers,
+
++ Worked on the installation, configuration, and hardening of Linux servers using the CIS Benchmark
+guidetines.
+
++ Provided planning and escalation troubleshooting on OS/application systems in Linux
+
++ Created bash script for Linux system inventory which saved the company 80 hours of work.
+
++ Experienced with containerization (DOCKER)- building various Docker images.
+
++ Led in the building and troubleshooting of LAMP stack using Docker.
+
++ User/group administration, flle/directory security, authentication, and access management (SSH, Firewalls)
+on a Linux server.
+
++ Participated in containerizing the Haprony Server and | am experienced in installing and configuring a load
+balancer using the Haproxy Software
+
++ Worked with different Linux favors lke Red hat, CentOS, Ubuntu,
+
++ Experience with tools ke avk, sed
+
+BICLOGY TEACHER 03/2012 to 02/2016
+Jaturamit Wittayakom Schoo!
+‘+ Established positive and encouraging relationship with students and helped to foster appreciation for
+biology and science.
+‘+ Prepared individualized lesson plans and educational materials to structure biology curriculum to needs
+of each student
+‘+ Kept classroom environments consistent and focused on learning by establishing and enforcing clear
+objectives.
+‘+ Developed materials for laboratory activites, homework assignments and handouts to faciitate learning
+‘+ Evaluated students’ academic and social growth, kept appropriate records and prepared progress
+reports to gauge performance.
+‘+ Assessed submitted class assignments, determined grades and reviewed work with struggling students
+to boost success chance.
+‘+ Taught subject matter based on information compiled from textbooks, online sites and other educational
+materials,

@@ -1,0 +1,156 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000  resumesamplegexample.com
+
+Summary
+Salled Senior Database Administrator bringing more than 6 years of experienc in design and administration of databases, as well as
+key skills in modeling and warehousing of data, development of enterprise architectures and strategic collection and use of business
+intelligence. Proficient in technical software, languages and tools and learns new strategies quickly. Collaborative and team-oriented
+‘with first-rate oral and written communication, complex problem-solving and decision-making abilities.
+
+Skills
++ Data Conversion and Migration + Writing Queries
++ Microsoft PowerShell + Problem Resolution
++ Data Testing + Conflict Resolution
++ Microsoft SOL + Planning & Organizing
+Experience
+
+MS DATABASE ADMINISTRATOR, 09/2020 to Current
+World Wide Technology - Denver, CO
+
++ Manage infrastructure performance, data security and make recommendations for improvements
+
++ Manage infrastructure performance, data security and make recommendations fo improvements
+
++ Assist in the monitoring and review of Stoong analytical, planning, and organizational skills with ability to manage competing
+
+demands
+
+volved in the planing seta se implementation of mew sevens aces the entire energie
+
++ Involved in ensuring data recovery, maintenance, and dataintegsity and space requirements for physical database.
+
++ Planned and deployed monthly windows and SQL. server patches.
+
++ Planning and implementation of Database backup/estore and disaster recovery
+
++ Create and work on High Availability (HLA) and Disaster Recovery (DR) options for SQL Server
+
++ Wisitng basics T5QL serps stored procedures functions and triggers, data transformations using BIDS
+
++ Implementation of snapshot isolation and DDL triggers
+
++ Migration of SQL Server 2017 servers to SQL Server 2019
+
++ Stable Replication Topology
+
++ Installed SQL Server 2008 on advanced servers applied security fixes
+
++ SOL Server Upgrade
+
++ Installed and configured MS SOL Server 2008 R2, supported all Production and development severs
+
++ Maintained database response ies in 24X7 Production environments
+
++ Developing SOL scripts for maintaining administration tasks
+
++ Capacity Planing and resource allocation
+
++ Monitoring standby databases to ensure high availability
+
++ Troubleshoot resolve issues seated to computer software and hardware controling production equipment application
+
++ Production level suppor for onsite and offshore Clients
+
++ Suppor Patch Management
+
++ Integrated Temporal Tables
+
+Service Now Administrator, 06/2017 to 07/2020
+Silvergate Capital Corporation ~ City, STATE
+‘+ Customization and Administration of ITSM, Incident, Change, Problem and Knowledge management, Service Catalogs, CMDB
+and Workflow Management in ServiceNow
++ Asa part of support activity, resolve incidents by providing proper root cause investigation.
++ Performs core configuration tasks including system policies, business rules and client scripts.
+‘+ Managed users, groups and roles with user administration, data with Tables, the CMDB, and Update Sets.
++ Involved in requirement gathering and creating of technical documentation for development.
+‘+ Assisted with design and development of ServiceNow trouble ticketing and incident management systems to support the
+company
+Performed day-to-day administration of the ServiceNow Tool.
+‘+ Maintain business services and configuration item relationships in ServiceNow.
+«= Used data sources to migrate data to ServiceNow
++ Created notifications based on user requirements and configured inbound email actions to create incidents or requests in the
+platform.
++ Created schedules, reports and monitor performance of ServiceNow. Documented all implementations and best practices
+defined within the team
+
+SQL Server Database Administrator, 04/2013 to 05/2017
+DAIKIN DAIKIN ~ City, State
+
+‘+ Installed and configured SQL Server
+
++ Performed Backups, DBCC utilities, updated index statistics, monitored database and disk space
+
+‘+ Managed the migration of SQL Server 2012 databases to SQL Server 2016
+
++ Created and maintained databases, users, Logins, tables, indexes, stored procedures, roles, permissions, and other schema
+
+objects
+
++ Designed and implemented comprehensive Backup plan and disaster recovery strategies
+
++ Rebuilding the indexes at regular intervals for better performance.
+
+‘+ Responsible for Stored Procedures optimization, Performance tuning & index tuning,
+
+‘+ Used Performance monitor and SQL Profile to optimize queries and enhance the performance of database servers,
+
+‘+ Used log shipping for synchronization of database
+
+++ Implemented and maintained Database mirroring as a DR solution
+
+‘+ SQL Server 2005/2008/2012/2016/2017 Administration
+
++ Reviewing and optimizing virtual machines environment
+
++ Reviewing and optimizing storage
+
+«+ Responsible to monitor and troubleshooting Log shipping
+
+++ Used Data partitioning, Snapshot Isolation in SQL server,
+
++ Update statistics, database integrity check and backup operations
+
+‘+ Creating and Maintaining database maintenance plans
+
++ Configured High Availability Solution- Clustering, Always On, Database Microring and Log Shipping,
+
+‘+ Planning and implementation of Database backup/restore and disaster recovery
+
++ Installed SQL Server 2012 on advanced servers, applied security fixes,
+
+++ SQL Server Profiler, Extended Events, for performance.
+
+++ Implementation of snapshot isolation
+
+‘+ Configured and supported replication and log shipping in both SQL 2008 and 2012.
+
+“+ Maintained database response times in 24/7 Production environments
+
+‘+ Monitoring standby Databases to ensure high availability
+
+‘+ Automation of DBA Tasks and monitoring
+
++ Configured and managed Contained Database
+
++ Configured and supported replication and log shipping in both SQL 2008 and 2012.
+
+Education and Training
+
+Associate of Science: Computer And Information Sciences
+University of Buea - Cameroon
+
+Languages
+
+English: French:
+Negotiated: Negotiated:

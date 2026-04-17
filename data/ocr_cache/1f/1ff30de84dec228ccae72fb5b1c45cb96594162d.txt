@@ -1,0 +1,167 @@
+Jessica CLAIRE
+
+100 Montgomery St 10th Foor # (358) 432-1000 # resumesamplesexample.com
+
+Summary
+Cenified Microsoft SQL Server database administrator (DBA) with five vears of professional experience that sustains and develops
+diferent business systems in using Microsoft technologies, Versatile engagements in development testing and production
+‘environment with overshelming successes in accomplishing individual and team projects, is seking for Database Administrator
+Position
+
+Skills
++ Backup/Restore T-SOQL Scripting, PowerShell, CMD ‘+ Email, Troubleshoot
++ Database Performance tuning Cloud computing Azure (IaaS) + E-mail, Troubleshooting
++ Design and implement SQL Jobs. Create Databases and «+ Features, Upgrade
+‘Database Objects + Linux, Validation
+«+ Database Refresh Install/apgrade/Migration SQL Server + Managing
++ Database High availabilty Managing database security (login, + Meetings
+‘sser) + Access
++ SQLServer 2008 + Excel
++ 2012/2014, 2016, 2017, 2019 + Windows
++ Reporting Tools: Excel 2007, SSRS 2008/2012, Integration» Window
+Services: SSIS 2008/2012/2016 + Migration
+
++ Operating Systems: Windows Server 2008 2012, 2016,Limwx + Network
+Programming Languages: TSQL, PowerShell (PowerShell) + OS
+
++ Third-Party Tools: Ider, Jira Salesforce, service now + Operating Systeme
++ Ad Scripts + DBA,
+
+‘+ Automation, Scripting + DB
+
++ Backup, Shipping + Processes
+
++ Capacity planning SLA, + Programming
+
++ Clustering, MSSQL. + Reporting
+
++ Database, SOL + Servers
+
++ Databases, SQL Server
++ Designing, SQLServer
++ Disaster Recovery, Statistics
++ Documentation, TSQL
+
+Experience
+
+SQL Database Administrator, 10/2020 to Current
+‘Accenture Contractor Jobs - Havre De Grace, MD
+
++ Ensure Database are performing within their expected performance baselines.
+
+‘+ Monitor and schedule database backups per Operational Guidelines.
+
++ Proactively monitor and action DB alerts,
+
++ Configured and maintain database High Availability Features (Failover Clustering, Replication, Always on Availabilty group).
+
++ Designing. building, and maintenance of cloud environments in Azure, utilize Taa5, Pass, and SaaS Cloud Service model in
+
+Microsoft Azure
+
+‘+ Assist team with Migration from on-premises to on Azure, TaaS.
+
+‘+ Managing SQL Server Databases both on-prem and Azure using (laaS) for production environment.
+
++ Collaborate with other architecture teams ie
+
++ Applications, Network, Database, Infrastructure, Secuity ec
+
++ Perform ad-hoc backups and restores
+
++ Sanitize data before handing over the temporary restores.
+
+«+ Restore backups from Production systems periodically and validate RPO and RTO SLA’s are met.
+
+“+ Maintain and administer DB access for users and applications.
+
++ Revoke unused access periodically
+
+++ Monitor DB growth pattern and provide inputs for capacity planning,
+
++ Excellent in Performance Tuning including monitoring, troubleshooting, and optimizing performance ofthe databases as well as
+
+[high availability service.
++ 24X7 Production Database on Call Support.
+
+SQL Database Administrator, 11/2016 t 10/2020
+‘Accenture Contractor Jobs - Hines, IL
+
+«+ Every day Checks 05 Events Logs and SQL Server Logs for unusual events
+
++ Verifying that all schediled jobs have run succesfully,
+
+‘+ Regularly monitor and identify blocking issues, disk space usage,
+
++ Created SQL Server alerts to notify the potential problems and have sent an e-mail to the operators.
+
+«+ Regularly restoring backups to test server in order to verify that Ian restore them.
+
++ Performed Always on High Availability Group on Window failover cluster failover window in MSSQL server
+
+++ Used DBC to check and manage database consistency, index fragmentation, and statistic.
+
++ Wrote TSQL, Stored-Procedures and Functions, triggers.
+
++ Work with vendors in evaluating and implementing new technologies
+
++ Maintain SOL Serversin a Clustered Environment, including initial installation.
+
++ Assisted SQL developers to optimize SOL queries create Stored Procedures and Triggers.
+
++ Created and Managed users roles, schemas security at objects level
+
++ Automated Database tasks (Created jobs, alerts, and schedules for database maintenance tasks).
+
++ Deployed Databases in Test, Dev, and tothe Production environment.
+
++ Participate in on-call otation, Attended daily, weekly, and release planning meetings
+
++ Identified bottlenecks elated to databace, query, and server performance issues from slow running.
+
+«+ Resolve deadlocks, blocking/locking conflicts stemming from high resource utilization.
+
++ Troubleshoot application connectivity issues in availability groups.
+
+Database Administrator, 04/2015 to 1072016
+Northstar Financial Services Group Lle Bothell, WA,
+
++ Configured and maintained Log Shipping.
+
++ Follow Microsoft best practices for configuring and operating SQL Server.
+
++ Properly maintain Backup and Recovery methods.
+
++ Support SQL Database Operational of Developers and Business users.
+
++ Configured and maintain High Availability (HA) and Disaster Recovery (DR) options for MSSQL Server.
+
++ Implementing automation of reoccurring DBA tasks.
+
++ Good communication and documentation skills for processes and procedures.
+
++ Knowledgeable of Performance tuning atthe server and SQL Server database and Query level
+
++ Provide database production support of critical systems including backup recovery.
+
++ Designed and Developed SOL scripts to validate data,
+
++ Prepared Test data for various validation rules check.
+
+«+ Extensively used SQL to test backend functionality.
+
+«+ Troubleshooting various problems that arise in a day to day work and Fix the isue monitoring.
+
++ SQL Server Error logs and checking email Alerts,
+
+Education and Training
+Bachelor Information Technology, 2011
+or
+MARYAM University
+Certifications
+“+ MCSA: Microsoft Certified Solution Associate
+++ Microsoft Certified Azure Administator Trainings:
++ Training on databace High availability
+
+«Training on Database Performance tuning
+«Training on Azure Platform

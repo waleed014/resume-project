@@ -1,0 +1,129 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+EDUCATION
+
+Carleton University
+Ottawa, ON + 02/2022
+Bachelor of Science: Computer
+Science
+
+‘Minor in Mathematics
+
+CERTIFICATIONS
+
++ Certified Scrum Master, CSM
+issued by Scrum Alliance - Sept.
+2021
+
++ Level 2 / Secret Security
+Clearance
+
+SUMMARY
+
+Logical Database Analyst skilled in requirement analysis, software development and database
+management. Self-directed and proactive professional with two years of vast experience collecting,
+leaning and interpreting data sets. Natural problem-solver possessing strong cross-functional
+understanding of information technology and business processes.
+
+EXPERIENCE
+
+Bae Systems - Database Analyst
+Warrenton, VA + 03/2023 - Current
+
++ Oversee upgrades to system software,
+
++ Maintain data cleanliness and accuracy by adding custom validation rules and custom formulas,
+reports and dashboards in Salesforce platform.
+
++ Troubleshoot Salesforce program and system malfunctions to restore normal functioning.
+
++ Explore new technologies and tools to enhance current processes, productivity, and security.
+
++ Extract data from Salesforce using various programs and SOQL, to generate reports and perform
+data manipulation to later import the data back into the platform.
+
+Ally - Technical Analyst
+Remote, OH » 09/2020 - 03/2023
+
++ Provided tier 1/2 support to customers through email, phone, and Zendesk ticketing system in
+both English and Spanish, whilst following SLA agreements.
+
++ Maintained data integrity while applying changes to client databases using SQL with: select and
+alter statements, cursors, take backups and restore databases, creating publications, snapshots
+and replicated databases.
+
++ Created large SQL scripts with cursors to import and migrate client's historical data from their old
+system into our database matching our schema using Excel.
+
++ Occasionally provided tier 3 support by making code changes, commit such changes to source
+control (GitKraken) and deploy at a later date.
+
++ Updated client sites by running migration scripts, and deploy new code via Azure DevOps and
+
+Occasionally troubleshoot ETL jobs on client databases using Azure Visual Studios
+
++ Developed and maintain a data reporting system using SQL and Powershell to understand client
+usage and make educated business decisions for the progression of the product on Azure.
+
++ Built reports for clients with their data using a reporting tool: Tibco Jaspersoft/ Jasper.
+
++ Integrated new features onto the product with SQL queries, powershell scripts and Azure, such as
+‘Azure Active Directory.
+
++ Handled multiple implementation projects to onboard new clients by customizing their site,
+applying data changes onto database, importing client data through XML's and API's and set up
+automatic database jobs such as backups.
+
+Passionhr - Scrum Master
+Huntsville, AL + 02/2021 - 01/2023
+
++ Led a team of 8 individuals, implemented Agile methodologies and ran scrum ceremonies
+including, daily scrum, sprint review, sprint retrospective, and backlog refinements.
+
++ Assisted in team development by removing impediments, improving team capacity while holding
+the team accountable for their commitments.
+
++ Supported product owner in managing customer expectations for project deliverables and
+managing internal stakeholder communications.
+
++ Enhanced team performance by making appropriate commitments through story selection by
+enforcing the definition of ready and done.
+
+Fortinet Technologies - L1 Customer Service Representative
+City, STATE « 08/2019 - 08/2020
+
++ Handled incomming phone calls, create technical tickets for customers and transfer them to an
+engineer when needed.
+
++ Communicated with customers through the phone, chat and tickets /emails.
+
++ Resolved issues for customers in ticket inquiries, including working with other internal teams when
+necessary: device transfers/registration, support contract extensions and account changes.
+
++ Performed minimal troubleshooting on web filters/firewalls and GUL
+
++ Protected company brands and improved customer satisfaction by finding creative solutions to
+problems in four different languages.
+
++ Maintained industry knowledge through continuing education, training and monitoring of industry
+publications.
+
++ Communicated effectively with internal teams to obtain the correct information to provide to
+customers or to lead them in the right direction,
+
++ Participated in UAT Testing for new products and created proper documentation for proper steps in
+usage.
+
+LANGUAGES
+Englis Spanish:
+Negotiated: Negotiated:
+
+French:
+Negotiated:

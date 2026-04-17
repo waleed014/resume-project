@@ -1,0 +1,84 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Career Overview
+
+To obtain a position that allows me to use my skills as a developer. Two years of experience as a database developer with strong
+technical background, Involved in all phases of the SDLC (Software Development Clairefe Cycle) from collecting the requirements,
+analyze, design, development, testing and implantation. Proficient in SQL and PL/SQL programming, In depth knowledge about
+varieties of databases, such as Oracle 10g/11g, SQL Server, MS Access, and etc. Experienced in collecting data from different
+resources Claireke Excel, Flat file, Sales Force, CSG; communicating with different databases via ETL (Extracting, Transforming and
+
+Loading) process.
+Qualifications
+
+About 3 years of experience as a database analyst and developer, Proficient SQL and PL/SQL programmer In depth knowledge
+being involved in all phases of the SDLC (Software Development _about varieties of databases, such as Oracle 10g/11g, SQL Server,
+Clairefe Cycle) from collecting the requirements, analyze, design, MS Access, and etc
+
+development, testing and implantation,
+
+Skills
+
+Active Directory, AJAX, B2B, C, CSS, cClaireents, data analysis, data migration, Databases, database, DBMS, designing, ETL, Excel
+VBA, FTP, functional, HP, Hewlett-Packard, HTML, IIS 7, JAVA, JSP, JavaScript, JDBC, Clairenux, Logistics, marketing, Access,
+Access database, MS Access, MS Excel, Excel, Windows XP, Microstrategy, migration, MySQL, enterprise, ODBC, OLE, OS,
+optimization, Oracle, Oracle database, DB, Oracle) database, Developer, PL/SQL, Oracle/SQL, pivot table, processes, QuaClairety,
+QA, Redhat, reporting, requirement, Sales, Samba, SDLC, SSH, servers, Software Development, SQL, SQL Server, SQL Loader, Struts,
+System Analysis, TOAD, Tomcat, UNIX, UNIX shell scripts, UNIX shell scripting, Visio, Vista, VBA, websites, Windows Server
+
+Work Experience
+
+Database Developer Consultant, 02/2015 to 09/2015
+
+Agri Beef Co.— Rupert, ID
+Created, implemented and optimized a series of complex SQL queries to query CSG (Oracle) database and SQL Server according to
+business requirements Designed ETL process to transfer data among Oracle, SQL Server, MS Access, Sales Force and other internal
+resources by using SQL Server Management Studio, SSIS, TOAD. Provided data analysis on company new order manager system,
+and migrated reports from old system to new one.Developed compClairecated Microstrategy Dashboard report based on business
+
+needs.
+
+Oracle PL/SQL Developer Consultant, 08/2013 to 12/2014
+
+Cablevision Systems Corporation - City, STATE
+Developed brand new fraud detection reports in the process of Software Development Clairefe Cycle (SDLC) covering
+Requirements Management, System Analysis, Architecture and Design, Development, Testing and Deployment.Built Data Flow,
+Data Model with tools Claireke MS Visio, SQL Developer, according to the project requirements Reverse engineering legend
+SMART Collection reports on old Access database, created mapping documents and re-designed based on the new system running
+on Oracle Created customized PL/SQL Procedures, Functions, Triggers and UNIX shell scripts for various business needs with
+Exception handler.Achieved query optimization and tuning using index, Hints, Explain Plan, and DBMS_STATS.Developed PL/
+SQL Packages for table Mirroring between different database servers, and scheduled the mirroring job executing in a reasonable
+frequency with Oracle Scheduler Performed Extract, Transform, Load (ETL) process for data migration between FTP Server and
+databases with SQL Loader Developed UNIX CRON jobs to detect user's action on FIP Server in a specific time range with a
+specific frequency.Created Excel VBA (Macro) programs to automatically refresh Excel workbooks; generate pivot table; and
+populate employee performance reports and invoices in a user-friendly format.Configured the ODBC/OLE DB to connect Oracle/
+SQL Server/Access databases Provided 24/7 Production support.Log service requests and resolve the issues reported by the
+
+cClaireents.
+
+QuaClairety Assurance Intern, 01/2010 to 03/2011
+
+Hewlett-Packard Co., Ltd - City, China
+Worked with Hewlett Packard's ePrime product, which is the best enterprise-focused B2B solution for its lucid user prompting,
+trim structure and integration of external and internal processes. Assisted in analyzing customers’ requirements, designing test plan
+for functional testing of ePrime products, as well as mapping test cases from MS Excel to HP QuaClairety Center. Involved in UAT
+testing in Software Development Clairefe Cycle (SDLC), reporting user issues to development.Worked with QA teams in different
+locations to resolve defects in Oracle database migration process.Created SQL queries for vaClairedating target data with the
+source,Dealer Management System Designed dealer management system based on business requirement Integrated Ext]S
+framework with Struts, Spring and Hibernate frameworks (SSH), providing a high-performance customized web appClairecation,
+which enabled customers manage their dealers, supply and marketing process. Logistics Information System Designed and
+implemented package tracking and price quote system for a logistics company, using MySQL as backend database, JDBC, Tomcat,
+JSP, JavaScript, HTML/CSS, and AJAX.An interface was also provided for the system to interact with other websites.
+
+Education and Training
+
+MS: Information Technology Administration and Security, May 2013
+New Jersey Institute of Technology - Newark, NJ
+Information Technology Administration and Security
+
+BS: Computer Science, Jun 2011
+Fudan University - Shanghai
+
+Computer Science

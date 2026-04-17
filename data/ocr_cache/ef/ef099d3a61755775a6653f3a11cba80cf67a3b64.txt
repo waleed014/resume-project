@@ -1,0 +1,166 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Foor © (555) 432-1000 « esumesamplesexample com,
+
+Summary
+‘Asa AWS and Red Hat certified Architect witha background in cloud computing, networking and application development, have a
+proven track record of delivering succesful projects using my passion for leaning, problen-solving and collaboration. Thave
+
+‘experience i various technology domains and have led teams through system transformations Fm determined to deliver depth and
+
+agility on next-gen solutions
+Skills
+
+Cloud: Openstack, AWS, Azure
+
+Container: Docker, Kubernetes, KS, AKS, Podman, Openshift,
+Rancher
+
+Virtualization: KVM/oVirt, Red Hat Virtualization, OpenStack,
+LXCXD, VMware
+
+Databases: PostgreSQL, MySQL, MariaDB
+
+Monitoring: Prometheus, Grafana, ELK
+
+CUCD: Jenkins, Argo CD, GitHub actions
+
+Scripting Python, Bash
+‘Version Control: git, GitHub, GitLab, Gogs
+
+(0S: RedHat, Centos, Ubuntu, Fedora, Suse
+
+Storage: Ceph, GlustesFS, LVM, GFS2, NFS
+
+Networking: VLAN, LACP, OSPF, BGP, OVS, OpenFlow,
+VXLAN, OVN
+
+IAM: LDAP, Active Directory
+
+‘Security: WAF, CheckPoint, FortiWeb
+
+aCiConfiguration management: Teraform, Ansible
+Experience
+DevOps Engineer, 11/2022 to Current
+SJpmorgan Chase & Co. Oklahoma City, OK
++ Developed procedures to automate code builds and deployments
++ Collaborate with support team to asist cient stakeholders with emergent technical issues and develop effective solutions,
++ Coordinated installation of software systems and collaborated with user experince team on design and implementation of new
+features
++ Migrating infastructure data, and applications from existing datacenters into cloud and hybrid (public and private)
+‘Testing and troubleshooting migrated systems in virtualized achitecte.
++ Leveraged Agile methodologies to move development lifecycle rapidly trough inital prototyping to enterprise quality testing
+and final implementation
++ Monitoring both infrastructure and applications using Prometheus Grafana and Splunk for comprehensive and efficient
+monitoring
+
+«+ Deploying and managing highly available Kubernetes clusters in both on-premise and cloud environments
+
++ Developed company-wide technical stategy plans for Python-based assets, overseeing development, coding, debugging and
+Deployment.
+
+«+ Designing and implementing robust CI/CD pipelines utilizing industry-leading tools including GitHub Actions, CircleCl,
+Jenkins and Argo CD
+
++ Creating and managing Terraform modules for provisioning infrastructure on cloud providers such as AWS, and Azure
+
++ Expertise in utilizing various AWS services including VPC, EC2, IAM, ECS, EBS, RDS, $3, Lambda, ELB, Auto Scaling, Route 53,
+‘Cloud Front, CloudWatch, CloudTrail,SQ5, and SNS to design and implement scalable and highly available solutions
+
+DevOps Engineer/Cloud Engineer 1072019 to 1072022
+Deloitte & Touche LLP. San Jose, CA
+
++ Experience with continuous integration and continuous delivery (CCD) pipelines using tots suchas Jenkins, Travis Ck, and
+GitLab cue,
+
++ Strong knowledge of containerization and experience with Docker, Kubernetes and other container orchestration tool
+
++ Experience with cloud infrastructure and services such as AWS, Azure, or Google Cloud Platform (GCP).
+
++ Knovsledge of intrastructre as code and experience with tools such as Terraform and Ansibe.
+
++ Experience with monitoring and logging tools such a Prometheus, Grafana and ELK Stack
+
+«+ Experience with automated testing and test driven development
+wong understanding of security best practices and experience with security tools such as SELinux, AppArmor and Ist.
+
++ Experience with database administration and management (eg. MySQL, MongeDB, PostreSQl)
+
++ Strong understanding of networking concepts and experience with load Balancers, DNS, and VPN
+
++ Strong problem solving and troubleshooting sills for resolving issues related to the application and infrastructure
+
++ Installing and managing highly available opensource database clusters including PostgreSQL, MySQL, and MatiaDB, ensuring
+high performance and reliability for misioncritial applications
+
++ Ability in swifly resolving complex issues elated to AWS tansit gateway configurations, VPN connections, VC route-ables,
+‘Workspace, SS, and NACL/Security Groups, by zing in depth knowledge of AWS services, troubleshooting skills and strong
+analytical ability
+
++ Designs detailed migration plans for workloads fom any platform to AWS.
+Implemented P2V transformation project of 1000 Linux servers to VMuate farms and AWS cloud computing environments
+
++ Help our customer to migrate from on-premises resources to AWS/Azure and use AWS as disaster recovery stein some cases
+
++ Deploying and effectively managing highly-available Kubemetes/Openshift clusters in both on-premise and cloud environments
+
++ Ualiang the Operator Framevork, creating a Kubernetes operator and custom Hem plugins to automate complex tasks more
+cticiently
+
++ Implemented and integrated CU/CD pipeline with Terraform to automate infrastructure deployment
+
+Cloud Infrastructure Engineer, 03/2017 to 08/2019
+Empyrean Benefit Solutions ~ Lavergne, TN
++ Designed and built cloud service models including Infrastructure-as-2 Service, Pltform-as-a-Service, and Container As Service.
++ Baal, test, and deploy ccalable, highly available OpenStack Private and public coud environments using TripleO
++ Developed hybrid cloud delivery model allowing for customers to choose mix of public and private clouds to meet their
+individual needs
++ Container orchestration with docker swarm and Kubernetes building auto provisioning cluster and helping customers with,
+deploy apps in micro services architecture
++ experience in Design and deploy CUCD pipelines (CireleCl, Jenkins,)
+‘+ Worked in all areas of Jenkins setting up CI for new branches, build automation, plugin management and securing Jenkins and
+setting up masterslave configurations
++ Integrating various Version contol tools, build tools, nexus and deployment methodologies (scripting) into Jenkins to create an
+‘end-to-end orchestration build cycles.
+‘+ Maintain product release proces, including generating and delivering release packages, generate various metis for racking,
+‘issues against releases and the means of tracking compatibility among products.
+
+Software Engineer, 12/2014 to 02/2017
+Enthsquare ~ City, STATE.
+
++ Developing web applications implementing model view control architecture using Django, Django Rest Framework
+
++ Build high-pesformance web applications using Django, Celery, Redis
+
+‘+ Working with server-side technologies including database, estful API, and MVC design patterns
+
++ Working with continuous deployment using Jenkins and Travis-Cl
+
++ Build docker containers and deploy containers to docker-swarm clusters
+
+‘+ Managing internal GitHub and creating workflows to implement CUCD pipelines
+
+“+ Write Ansible roles to automate Linux servers patching and application configurations
+
++ Setting up ELK stack for cental log management
+
+Education and Training
+
++ Post Graduate Diplom:
+Acharya Nagarjuna University
+
+‘Computer Application: Computer Application , 2016
+
+Bachelor of Science: Computer Science, 2014
+‘Acharya Nagarjuna University,
+
+Certifications
+
+«Red Hat Certified Architect in Infrastructure
+
+‘© AWS Cenlfied Solutions Architect - Professional
+
+«Red Hat Certified Specialist in Server Security and Hardening,
+«Red Hat Certified Specialist in OpenShift Administration
+
+‘© Red Hat Certified Specialist in Ansible Automation

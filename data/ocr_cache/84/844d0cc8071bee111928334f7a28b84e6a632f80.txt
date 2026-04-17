@@ -1,0 +1,170 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Languages: Python, Java, Bash
+shell Scripting
+
++ Cloud Frameworks: Google
+Cloud Platform , Docker,
+Kubernetes Services
+
++ Web Technologies: Json,
+JavaScript, HTML,
+REST (Django)
+
++ Data Warehousing/ETL:
+Informatica 9/10, Abinitio 3.3
+
++ RDBMS: Oracle SQL
+
++ No-SQL: BigQuery, HIVE
+
++ Scheduling tools: Control-M,
+cay
+
++ Data Visualization tools:
+‘Congnos, Tableu
+
+EDUCATION AND
+TRAINING
+
+University of Mumbai
+B.E: Computer Engineering
+
+CERTIFICATIONS
+
+Linkedin Certifications:
+Apache Spark Essential Training
+Analyzing Bigdata with HIVE
+
+SUMMARY
+
++ Tyears of IT industry experience encompassing a wide range of skill sets working in Data analytics
+and Data integration fields and web application development.
+
++ Skillset includes ETL Development, Web development with REST -Django, GCP,Hadoop, Python,
+SQL-no SQL, Unix scripting, Data warehousing.
+
++ Experience with analysis, design, development and implementation of banking applications, Web
+applications
+
++ Worked on AGILE methodology with continuous integration (CI/CD) processes.
+
++ Searching for opportunity to bring 7 years of data engineering experience to efficiently contribute
+to the company’s growth and to grow in big data technologies, cloud platforms and data science.
+
+EXPERIENCE
+
+Syllable - Senior Software Engineer
+New York, NY » 07/2019 - Current
+
++ Developing REST-ful Web application using Python's Django Web Framework using Google Cloud
+platform.
+
++ Using multiple Google Cloud Platform python libraries to utilize cloud services such as Storage,
+Cloud build, Stack driver, Datastore, Cron jobs, Big query.
+
++ Creating automated code deployments with Docker and google cloud builds.
+
++ Deploying containerized web applications with Kubernetes.
+
++ Optimizing Big Query solution by creating mega schema for handling Keen analytics data archives.
+
++ Creating Big Query Exports services for Datastore import exports.
+
++ Using Big Query for complex queries for data statistics reports.
+
++ Working on Agile methodology using tools like JIRA for sprint planning.
+
++ Using GIT tagging with cloud build to create automated deployment.
+
++ Creating API test cases using Newman Test suit and integrate it with Google cloud.
+
++ Working on API Profile performance report by using python context manager and enhancement
+using in context cache.
+
++ Creating Google cloud project for development environment and making it ready with test data by
+exporting test data from datastore.
+
++ Using cloud functions to call build triggers.
+
++ Using Google cloud container registry to use built container images for Kubernetes engine.
+
++ Using Google cloud Kubernetes engine to create, monitor Kubernetes clusters , workloads.
+
++ Creating GCLOUD services like Geoimaging to handle map images for web applications in different
+formats and integrating them with GCP.
+
+Tsr, Inc. - Data Analyst
+Orlando, FL + 10/2015 - 06/2019
+
++ Understanding the business requirements to use data source applications like ALS, ACAPS for
+designing the ETL process building different Abinitio Graphs.
+
++ Implement the ETL process for these SunTrust’s consumer applications based on the design using
+Data Lake architecture.
+
++ Validating the data lineages using Meta data hub and EME dependencies.
+
++ Performance improvement of the ETL process by using resource pool.
+
++ Worked on Meta programming, Dependency analysis, PDL, Meta hub data lineage, control center.
+
++ Creation of the UNIX scripts to further accommodate the client requirement to manage the data
+controls.
+
++ Loading the data to Oracle tables and DB2 tables.
+
++ Using the Hadoop distributed file systems to load data using partitions into HIVE partitions.
+
++ Analyze the data loaded into Distributed systems using Interface like Hue.
+
++ Led the technical team both onsite and offshore in order to meet task deliverables.
+
+Clearesult, Inc. - Senior ETL Developer
+IL, State, India + 01/2014 - 09/2015
+
++ Modification of existing ETL graphs based on LLD design migration points.
++ Graph Enhancements using PDL and maintaining the version of EME objects.
+
++ Creation of the PSET's for generic object.
+
++ Dependency analysis (DA) for PSET created.
+
++ End to end testing(Manual) of graphs created based on the ETL process dependencies.
+
++ Developing test case documents for the unit testing.
+
++ Testing overall process by automated scheduling using control M scheduler in all environment.
++ Data validation using development and production data comparison.
+
+Jpmorgan Chase & Co. - ETL Developer
+Jackson, MS, India + 02/2013 - 01/2014
+
++ Extracting the data from mainframe.
+
++ Apply the transformation rules defined by various transform components using mapping documents
+using Graphs.
+
++ Generating load ready files and validate the results against the target data format.
+
++ Involved in end to end data validation by interacting with the business users (UAT).
+
++ Loading the data into appliance database like DB2 using ETL load utilities.
+
++ Defect handling by backtracking the ETL process using Ab> initio.
+
++ Creating generic shell scripts to add data quality checks.
+
++ Preparing or updating high/low level documents, mapping documents as per client requirements for
+any enhancement/defect.
+
+ACTIVITIES AND HONORS

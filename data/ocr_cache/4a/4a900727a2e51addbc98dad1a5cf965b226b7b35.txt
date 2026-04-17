@@ -1,0 +1,206 @@
+Jessica CLamE
+
+Mego Suet Sin Fenn CA 90 (552.100 + reeanpeceamplecon
+
+Professional Sammary
+
+‘Dependable and hiphyexpeience Bull and Rlese/DevOps Engineer with an exellent reputaton a suscesfl team play
+‘Broad and dep experi n all sean spe of engineering hrdrare and software Esperece i handing mle prow
+sseultaneusy and competing them wellhead of dni.
++ Curent soc with CISCO aa DevOps Engineer and primarily forse on CONTINUOUS INTEGRATION wing
+JENKINS and MAVEN fora et projets Alo ait in sft configuration management.
++ Was assosted ith Roberta Teco as as senor bulight rable enginer and woking forthe cet Cisco
++ Atechoocat with over 4a of ands on experince sl siping, Uni Sytem admiration Linux Adminceaon, Pel
+Progamaing MYSQL danbaseadminiseation
++ Hands on esperinc th SVN, FT and PERFORCE Cod knows of various development methodologies ie Wael,
+SDLC Ratna Ui Proce RUM.
++ experince nth conan ofcessaton stems configuration management andl nasa servi.
++ Hands on exper with CUCD tol ie eins, Hudson et
++ Working experience with poring series ke IRA and code reve ollie SonarQube, iti and Covey.
++ Worked on both windows and UNDULINUX aed systems.
++ Pefomed Object Ont Arla using UML
++ erga self motte nm lap bude. Fatt tam approach tachi onpanizational objects nee
+roduc and enhance employee more
++ Song communication inter penal nme tecnica nay problen solving nd nage sil,
+
+Skills
+
+Opeating Systems: MSDOS, UND Lint Windows 9598/2100 Programming Language: JaraCCSSFLSOL
+MEX NT. ‘Scripting Languages: M)SOL, SO, Fython ash Ant,
+SotatTool Java. JvaSrpt XML Hibernate Jenkin Ca Maven Anible
+
+Doser: Kubert, SonarObe Puppet Chet
+
+Work History
+
+DevOps Engineer 042019 Curent
+
+ivongo Health, Ine Sata Casa, CA
+
+‘TheAccounbbiltes
+
++ Analy and design sofware toto match he needs ofthe cater and nipport hesitant
+
++ Parte in customer matings to undersand hei requsements/p pins and gue te basins team accoringy
+
++ Developing a continous delivery ppt in the od envizoent
+
+Responsibilities
+
++ Deploy cde updates into tet nd producto erent and ecko al enorme fond
+
++ Implement nd manage montoring and rls ol
+
++ sab and runing the prowess orn gong merce mosong spp an secant patdng oa plato
+
++ Mata Git repostone for developers and promote ranch ws
+
+1 Help the casomers and support then th hc daly Sofware gs
+
++ Troubleshoot and seat gs fer ou Live server prot
+
++ Implemented Arco SonarCube and Jenkin support vais ine procs of Cao and atom th al proces.
++ Aste in developing Tables, Taggers Views, stored procedures and ped the SOL database,
+
++ Delo pimary/acondary nc duties to manage sls pager day and esl oe
+
++ Tena oqaisements pin posi dlvering sofas code oprofucon sera deployable packages Based on
+constant intracon with deeper and QA tam members
+‘vere etd adnan in bid rae enginerng ee.
+
++ vanguining Des Opes prac anata th adoption of DevOps mathodlogies aoe teams.
+
++ Work with Keres for baling Ferns ster and conti cesta
+
++ Ast withering an vadating reduction applications Improve the security and perfomance finest by working
+oth oth tat
+
++ Prod ohn for performance management dtr eatery menionig and acest management
+
++ Work wth product pertons teamto recive trouble chet deelping and reeng septs. and woubleshosting serie ih
++ Deloping an romoung standard opening presedires and eating process and toss for operation een
+
+Environment
+
+‘Seem Box Puppet SonsrOube, Jenkins Ansitle Python Maven? Arlactory, GI, Check ik UNIX Liu Tome
+
+Application Seve Puppet Sli Box LES, Gta Biche
+
+ul and Release Engineer 04201810 042019
+oor Allen Hamilton Inc ~Atington VA
+‘The Accountable
+
++ Aralving bustes euiement om Fanchonal Speiton|
+
++ Designing Teka peaton tse anand rqureret.
+
++ Leading the bse ans team and ging hemo the rose
+Responsibilities
+
++= Congr vas paps tothe connsosintepaton proses which grt helped in he roc Magee
+
++ Worked with Kubert for buding Jenkins masters and container xetation
+
++ Implemented Jenkin Pplne Pin developmental setup wokows for CUCD.
+
++ Astin developing Tbe, egg Vis, seed procedure and updating the SOL seve database and opined SOL,
+
+terversoved procedures singin anderen.
+
++ Implemented vaious ew fanctionaltes bald spt which grea supprtedin projet management ike SONAR
+
++ Used Jens forthe conaousneraton procs and assed in the code coverage and arals by generating repo
+
++ Implement AratacorySonrCube and Jenin spp vais neal projets ol Cisco and atom the bal roe
+
+‘her making the proces easy and ls tine consuming
+
++ Worked on Puppet Development to automate the host ootapmacharm,
+
++ Hands cutonie oppor ees th wane runing bulls, debug act ses with bud and arkact management ee
++ Experience sng Puppet and Anse System Configuration Tok ost automation.
+
++ Response driving the enhancement and aomuton ofa cntinuos integration and delivery ole fered
+
++ Resposblefor Python Shall Ray and Grory srt for ntvare bald cond nd management
+
++ Resposblefor runing web sale ervices on Amazon We Serie
+
++ Worked eth Bug tacking ol ke IRA Remedy.
+
++ Was report analyze complexbuil problems, les ues an environments in alt-componet eer
++ Caaon and maitnance ofa DewOps ontrng ad alert syste Teal GoTo reguding al igs CUB and Ala
+
+management (Desa implementation etc, valuation) ntgaton et neraton troubleshooting and err debug
++ Was espero tab ceo ranching merging and tagging fer owe code epostory
+
++ cle communicative interpersonal inte, arly and leadership hile wit th ably to workin inboth
+
+Independent al eamovork enconnents
+
++ Septet automation framework server for Fee an Sera and congue Hadion et ul jobs tose these ese fo
+
+aang tomate ot ep
+
++ roid utomizd cee eporingachanem, whichis aed o promt lds coe deren haces ia SDLC.
+
++ sep code covrage toa coe" and generate diferent packages or stented and non nsec bd fom he sane
++ setup MySOLDB to inplement ole aniston ihe Sone
+
++ Unertand and entance SOL and PLSOL DB queries in content bald spt ta generate equi content forgery
+
+appiaons
+nvitoament
+DL ANT, Maven esis, Arco GIT, SUN, UNI, SenasQute Line Tomcat Aplin See Puppet Sli,
+
+Bulan eee Engineer 127015 1904208
+Boor Allen Hamilton in ~ Chay VA
+
+The Acountabliter Managing and executing aplication deployment io unde of servers Managing and executing SCM or
+room organization Enforcing and inprong organizations lase process Responses Responsible for developing
+‘aang inert tools apport development,
+
++ Tented equrements or psn pons in deieringsftare cae protcton serves as deplevatepachages
+
++ Manage version contl ols SVN and ito version code changes ap developerspopraanersbancnergevet ode
+
++ Wot sit & mde reomenendatons techie cstemzton nul pe witen in At Maven
+
++ Ved Joa programming rated code les contig le & package machanian JAR WAR & EAR package) provide opti
+smechanise bald appaton packages
+
++ Sep configured Hudson JENKINS Tomcat servers stp continuous ington automation by promoting etifed
+package ough various stagesin SDLC
+
++ eat tes to monitor ono integeaton proces ob are ae, sk sage coded changes in SUN eases in
+Hiion
+
++ Sep code improvement ies ike Fisheye, Crue, Sonar to nip developers do pr cde reves identi esi
+
++ Sep defect teaching system in ea managed vaso requests efance wero feaddedaplated component ses
+permisions prec te
+
++ Sep package epotory with Nona plement Maven woo toe pula JAR Ses packages toh etal
+posite Weote ps in Pd Python Stl sxiping fo customize build promotion dees proses,
+
++ Working on Cloud server or depoyement wing AWS Dele and documented ranching tategy tbe sed Setup ode
+evi ol grt with IT and negate th Cyst to halp developers do peer code eis identi ein code
+‘extn he ye wing code analss Configured, usaned and adansered Lin syste hat hot ald and lease
+‘reoering apy constantly monitoring sen oad and mony consunpson|
+
++ Worked on he Webogi: Deployments Drie wei nteratontul reese patch proces Configured various liga to
+‘the contnsousintgeaton proces whah greatly helped the Fret manage
+
++ Solely ben espn for more than hee UNIX production bx setup and migration the nist project om the ld
+coer tothe nen
+
++ Responsible baling the projet ferent evizonments an then roublecooting and bug Sing
+
++ Envzonment XML ANT eakiwHudion, News GITSVN, UNIX Sonu Lux Tomcat Appleton Server GIT Maven
+
+Education
+
+Master of Sence: Nano Tchlogy|
+Mount Carmel Cllege- Bangalore, nin
+
+Mount Carmel Cllege- Sagar India

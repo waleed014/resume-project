@@ -1,0 +1,216 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
+Operating Systems
+RHEL/CentOS 5.x/6.x/7, Linux-
+Ubuntu, Windows 7/8/XP/10,
+AWS-Linux CLI
+
+Networking
+
+VPC, Route-53, LDAP, DNS, SSH
+Databases
+
+‘MySQL, Cassandra, PostgreSQL,
+SQL Server
+
+Backup/Monitoring Tools,
+
+83 (Simple Storage Service), Cloud
+watch, Splunk, Nagios
+
+Source Control
+
+GIT, SVN
+
+Configuration Management
+Ansible, Puppet, Chef
+Virtualization/ Containerization
+Technologies
+
+‘AWS ECS, Docker Container
+services, Pivotal Cloud Foundry
+Cluster Management
+Kubernetes, Docker
+
+Languages
+
+Shell scripting, Bash
+
+Build and Deploy Tools
+
+ANT, Maven, Jenkins, Bamboo,
+TeamCity, TFS, MS Build
+Infrastructure
+
+AWS, Azure
+
+Software Methodologies,
+Agile-SCRUM, Waterfall
+
+Project Management/ Bug
+tracking Tools
+
+JIRA, Confluence
+
+EDUCATION AND
+TRAINING
+
+Colorado State University
+Fort Collins, CO
+
+‘Master of Science: Computer And
+Information Systems
+
+CERTIFICATIONS
+
+AWS Solutions Architect- Associate
+
+SUMMARY
+
+7+ Years Experienced AWS/DevOps engineer with master's degree in Computer information systems
+and Extensive experience inAWS, DevOps, Build/Release Management, Configuration Management
+tools, GIT and Containerization along with database administration skills. Experience in setting up
+and build AWS infrastructure using various resources, VPC EC2, RDB, S3, IAM, EBS, Security Group,
+WAR, Auto Scaling, SES, SNS and RDS in Cloud Formation JSON templates, Routes3, Lambda.
+
+EXPERIENCE
+
+Paypal - DevOps Engineer
+Maryland, LA + 01/2019 - Current
+
++ Used Jenkins and pipelines to drive all micro services builds out to the Docker registry and then
+deployed to Kubernetes.
+
++ Managed and worked with various instances of EC2, creating AMI’s, managing EBS volumes and
+configuring security groups, elastic IPs etc.
+
++ Using AWS Lambda, running scripts /code snippets in response to events occurring in AWS Cloud
+and maintaining it.
+
++ Performed the automation deployments using AWS by creating the IAM roles and policies and used
+the code pipeline plugin to integrate Jenkins with AWS and created the EC2 instances to provide
+the virtual servers.
+
++ Designed, Architected, and configured build/deployment (DevOps) Automation tools Jenkins,
+GitLab, Artifactory and Ansible servers as part of platform engineering team to support across
+enterprise.
+
++ Using Bash and Python, included Boto3 to supplement automation provided by Ansible and
+Terraform for tasks such as encrypting EBS volumes backing Alls and scheduling Lambda functions
+for routine AWS tasks.
+
++ Worked with AWS Developer tools such as Code Commit, Code Pipeline, Code Deploy, Code Build
+etc.
+
++ Configured S3 versioning and life cycle policies to add backup files and archive files in Glacier.
+
++ Monitored and created alarms and notifications for EC2 hosts using Cloud Watch.
+
++ Developed Ansible playbooks/roles to deploy the applications artifacts to Tomcat, Apache, WSO2
+ESB and standalone jetty java applications from dev to Prod Environment using Jenkins-Ansible
+plugin.
+
++ Have worked on deployment automation of all micro-services to pull image from the private Docker
+registry and deploy to Docker Swarm cluster using Ansible
+
++ Worked with several Docker components like Docker Engine, Hub, Compose, and Docker Registry
+for storing Docker images and files, running multiple containers in staging and production
+environments.
+
+J.D. Byrider - AWS/DevOps Engineer
+Tyler, TX + 11/2016 - 12/2018
+
++ Migration to Amazon Web Services & cloud technologies from their current datacenter and virtual
+environments.
+
++ Designed and implemented AWS cloud-based instances for use on their current and upcoming
+projects.
+
++ Hands-on experience with Amazon Web services (AWS) and implemented solutions using EC2, $3,
+and RDS in cloud formation Json templates, EBS, Elastic Load Balancer, Auto Scaling Groups, Auto
+scaling Launch Configuration and Auto scaling Lifecycle Hooks.
+
++ Creating, Utilizing, Managing Policies and Glacier storage in S3 buckets on AWS.
+
++ Responsible for Design of different Release Environments for new projects and monitoring.
+
++ Performing updates and upgrades on the systems currently on the network for performance and
+auditing purposes.
+
++ Created Jenkins pipelines by coding pipeline as code in Groovy.
+
++ Assisting teams by developing ansible playbooks in YAML and used them in the process of
+automating the deployment of applications and establishing a complete CICD (Continuous
+Integration and Continuous Deployment) Jenkins pipeline written in Groovy.
+
++ Used Jenkins and pipelines to drive all micro services builds out to the Docker registry and then
+deployed to
+Kubernetes.
+
+General Dynamics - AWS Cloud DevOps Engineer
+Richland, WA « 08/2015 - 10/2016
+
++ Involved in designing and deploying large number of applications utilizing most of the AWS stack
+includes not limited to EC2, RouteB3, $3, RDS, DynamoDB, SNS, SQS and IAM focusing on high-
+availability, fault tolerance, and auto-scaling in AWS cloud formation.
+
++ Configured IAM roles for EC2 instances and assigns them policies granting specific level access to
+‘83 buckets by customizing YAML template.
+
++ Handled the configuration of servers for specified applications on Amazon EC2 Cloud Servers using
+Linux Amazon Machine Images (AMI).
+
++ Delivered solutions to improve the CI/CD pipeline process, cloud architecture, deployment for AWS
+Private and Public Cloud and automate the agile methodologies.
+
++ Implemented £C2 backup strategies by creating EBS snapshots and attaching the volume to EC2
+instances.
+
++ Installed Jenkins on Linux Machines and created the master/slave architecture,
+
++ Integrated Chef cookbooks into Jenkins jobs for continuous delivery framework by writing Chef
+cookbooks and recipes to automate the deployment process.
+
++ Installed, configured, and automated the Jenkins build jobs with AWS deployment pipelines using
+various plugins like Jenkins-EC2 plugin and Jenkins-Cloud Formation plugin.
+
+Leidos Holdings Inc. - Linux Systems Engineer
+Louisville, KY « 01/2013 - 07/2015
+
++ Performed standard system administration tasks such as patching, software and hardware
+upgrades, troubleshooting and problem resolution.
+
++ Responsible to solve technical Problems related to System administration
+
++ Configured Apache HTTP web servers for application deployment and maintenance.
+
++ Build servers using Kick Start, Red Hat Satellite Server, and VSphere Client.
+
++ Troubleshooting network administration, 1IS configuration, DNS setup and modifications, firewall
+rule sets, local and distributed director, connectivity, and supporting applications.
+
++ Used Logical Volume Manager for the management of Volumes including creation of physical and
+logical volumes on Linux.
+
++ Develop Linux/UNIX shell scripts to accomplish redundant tasks to simplify in distributed
+administration.
+
++ Writing shell/Bash scripts for Automated Back- ups and Cron Jobs.
+
++ Maintained Virtual servers in VMware environment.
+
++ Responsible for resolving network issues using network tools like ping, TCP traceroute and TCP
+dump. Managed security of servers.
+
++ Provided 24x7 on-call support in debugging and fixing issues related to Linux, Solaris, HP-UX
+Installation / Maintenance of Hardware/Software in Production, Development, Test Environment as
+an integral part of the Unix/Linux (RHEL/SUSE/SOLARIS/HP-UX) support team.

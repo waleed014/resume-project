@@ -1,0 +1,162 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS.
+
+WORK HISTORY
+
+EDUCATION
+
+(CERTIFICATIONS
+
+Jessica Claire
+
+© Montgomery Steet, San Francisco, CA 94106. t8 (556) 432-1000 4 resumesample@erample com
+
+£8 years of vera expenence in Design and Development of Web, Destop, Service and Cloud based
+pplcatons for smal and lage enterprise
+
+«4 years hands on expenence in Amazon Web Servers including, £02, VPC, $3, E8S, ELB, CloudFront, 1AM,
+ROS, CLous Wate, Aurora.
+
+{Good expertence o systems Administrator and DevOps enginer wit sokd experience n Compute, Network,
+‘Storage, Automation, loud and Vitualzation areas in
+
+1 Project experience of designing nd architect serveress web application using AS Lambda, AP, Gateway,
+‘bynamno bb ana Secuny Token Serice(STS)
+
+ands on expenence of BASH Shel scripting on Ubuntu Linux environment wih Amazon AWS CL
+‘Good understanding of Web application deployment and maintenance o IS 5.0 and 7 0, Apache on Amazon
+Web Serviceans)
+
+‘Demonstrated good understanding o ANS data migration tools and technologies including storage gateway,
+<atabase higraton and import Export services.
+
+Good understanding of networking concepts incuding TCP, VPN, NAT, Bastion, Hst, Subnet, DNS, Gateways
+‘and Routers
+
+‘Excelent knowledge of source control management concep suchas; Branching, Merging, Labesng Tagging
+and integration, wth tol ike GIT and TFS.
+
+{Good knowtedge of ul Sofware Development ite cycle(SDLC) stages in waterfall and Agile environment
+‘Good at Relational database design store procedure, agers, user-defined functons, SOL jobs.
+
+‘Active team payer, set-motvated inavdual wth good communication sil, fast eamer and a good Istener.
+
+> DevOps Tels: Chet, Pupp, Jenkins, Nox Vagrant, Network protocols: TCPAP. SMTP, SNMP. ONS,
+
+Docker DHCPICHPETP, TELNET, SSH, UDP, RIP. OSPF
+‘Operating Systems: RedHat, Lux Solaris, Ubuntu, Database: Orace 103 MySQL. SOL server
+(Open SUSE, Fedora, CentOS, Windows(XPVista, Languages: Linux Sel Scripting, Pe Pytnon, Ruby.
+
+78:10) ava, c++
+Wieb/Appicaton Servers: Tomcat, Apache, Web loi, Project panning
+Wie spnere ‘ituatzation tecnnologies
+Ettectve communication ‘Anaya Sis
+
+‘Meetng partopaon
+‘ous Piatorms: AWS, viware ESN, meroson Azure,
+Rackspace, Open Stack
+
+DEVOPS ENGINEER 05/2019 t0 CURRENT
+Zoom | Denver, CO
+
+‘Managing network secur using loa balancer, Autoscaing Secuty groups and NACLS.
+
+‘Suppor current migration of Datacenter to Amazon Cloud
+
+‘Document system configurations stance, OS, and AM bul practices, backup procedures, Youbleshooting
+(guides and keep inrastructure and archtecture cravings wth changes,
+
+Executes region to region data migration using Jenkins and Ng
+
+\Unlze AWS CL to automate backup of ephemeral data stores to $3 buckels, EBS and create nghty AMIS for
+mission cel producton servers as backups.
+
+Use Puppet and Chet automaton tools for configuration management in deren systems.
+
+‘Responsible for maintaining 45 deren Testng/GA environments and erection of the PROD environment in
+AWS
+
+Montoning Live trafic, ogs, Memory uitzation and varus oer factors wich are important for deployment
+‘Suppor of Applications ike Apacne Tomcat ad Java based applications runing on Linux mactines for
+‘multiple chen
+
+Instaaton, configuration and administration of Linu(Red Hat, Centos) Sun Solaris and HP-UX Servers
+Manage network using secuty groups NACLS, and AM. Use Amazon RO and MySQL to perform basic
+catapase administration
+
+Hands on expenence in Azure wth key sences tke VM, VNet, NSG, Load Balancer, Azure AD and Storage
+‘Recount
+
+‘AWD CLOUD ADMINISTRATOR 0172017 10 0472019
+‘carta, Ine | Spring Valley, NY
+Performed application server butt in €C2 environment and montoring them using cous watch.
+
+‘create Prvate networks and sub-networks bringing instances under them based on requirement
+‘created secunty groups for both incvidal instances and for group instances under a network
+
+‘uit ONS system n €c2 and managed all ONS relates tasks as wel as managing Ine configuration ofthe
+applications using chet
+
+Mahvtained al development toot and inastucure and ensue avalabaty for a 2477 development cycle wh
+
+‘Launcned amazon €C2 Cloud instances using Amazon inages (Linux Ubuntu) and contgurng launched
+Instances wh respect to specie appications.
+
+‘created Snapshots and amazon machine mages(AMs) of the instances fr backup and created clone
+instances,
+
+Pertormea Server configuration management va Puppet. Transparent Oata Encryption (TOE)
+Implementation
+
+‘oatabase Encryption for miored Database, SOL Web Replication implementation,
+Migrates over 2500 Appacations wih 3000+ Databases,
+
+‘Setting upscalaity for appication server using command ine ntertaceforseting up and administering
+[ONS s}stem in ANS using Routes9, managing users and groups using the Amazon Keny ana access
+
+managements),
+
+Instat ana contgure Amazon command ne Interace tools to perform migratons of vtual servers rom
+‘Upuntu open Vz physical servers to AWS EC2.
+
+Developed automation scrips using EC2 commands. Designing SOL server reporting Services (SSRS) High
+‘valany,
+
+[AYO CLOUD ENGINEER 017201510 1272016
+United kirtines Ine. | City, STATE
+
+‘Worked as team member within the team of oud engineers and my responses ince: Setup &
+‘Managed windous servers on Amazon using EC2, EBS, ELB, SSL, Secuty Groups, ROS and Att
+
+‘Managed VPC. Subnets, Make Connection between deren Avalabity Zones: Blocking suspicious Py
+‘Subnels Wa ACL.
+
+‘Managed Content Oevery Network on Amazon Cloud Froni(Orign Path: Server! $3) to improve ste
+perfomance
+
+‘created and Managed buckets on $3 and store Database and logs backup, upload mages for CON serve.
+‘Setup databases on Amazon ROS of EC? instances as per requirement.
+
+‘ult servers using ANS.mporing Volumes, Launching EC2, ROS, Creating secunty groups Auto-scaing,
+toad balances and SSH info the instance using Putt Gt Bash ina defined vitual private connection.
+
+‘iorked wth IAM sence creating new IAM users, Groups, defined roles, Polis and Menty providers.
+‘created alarms and ager poins in Cloudvatch based on threshols and monitored logs via merc ters,
+‘ea AWS Cloudwatc to mono he performance environment instances for operatonal ana performance
+‘metres dung fad testing,
+
+Managed AMUSnapshotsNolumes, Upgradeldoungrade AWS resources(CPU Memory 8S)
+
+‘creates POCs and architecture for upcoming engagements.
+[Bachelor of Science | Business Management
+Lagos State University, overseas
+
+(ME> | ternational Business
+University of Lagos, Overseas,
+
+> AWS Solutions Associate
+
+‘AWS Cloud Practitioner
+‘ANS DevOps Associate

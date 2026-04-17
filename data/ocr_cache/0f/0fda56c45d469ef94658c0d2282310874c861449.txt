@@ -1,0 +1,128 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 2 (655) 432-1000 4 resumesample@example.com
+
+Enthusiastic laboratory technician eager to contribute to team success through hard work, attention to detail
+and excellent organizational skills. Clear understanding of support specialist and trained in molecular
+biological technology. Motivated to learn, grow and excel in plant disease identification.
+
++ Microbiology * Solution preparation
++ Sequence genomes + Critical Thinking
++ Data management + MS Office
++ Attention to Detail + Time Management
+© BIOLOGICAL SCIENCE LABORATORY TECHNICIAN (GS7) 07/2020 to CURRENT
+
+USDA-Agricultural Research Service | City, STATE
+
++ Generate data, reports, and protocols that contribute to the characterization/detection of quarantine
+pathogens. Protocols include isolation of viruses, nucleic acids and proteins, detection of pathogens by
+serological assays (ELISA and Western biotting), nucleic acids by polymerase chain reaction PCR-
+based assays (conventional PCR/RT-PCR), and host symptomatology.
+
++ Adapt new technologies in RNA isolation, prepare cDNA libraries for high throughput genome analysis,
+and maintain Next-generation sequence (NGS) databases,
+
++ Apply molecular cloning methodologies (PCR/RT-PCR cloning and cDNA library construction) and
+perform basic sequence analysis such as quality trim, assembly, and BLAST search for viral genomic
+sequence, genetic diversity, and viral confirmation.
+
+* Record and document all testing in laboratory notebook and e-format as well as summarizing results
+using software such as Word, Excel, PowerPoint on a regular basis.
+
++ Apply standard Python and Bash scripts to manage and maintain NGS and Sanger sequence
+databases, additionally, regularly utilize CLC Genomics Workbench to analyze sequence data.
+
++ Propagate and maintain a variety of host plants in growth chambers, greenhouses, & screenhouses for
+collections and inoculations of viral plant pathogens.
+
++ Responsible for procuring laboratory, greenhouse, and office supplies, as well as, boosted team
+efficiency by maintaining inventory of chemicals, consumables, and equipment.
+
++ Research literature to keep abreast of molecular biological advancements, technology, and plant
+pathogens
+
++ Maintain equipment and instruments in top working condition, performing routine maintenance and
+calibrations, and reporting signs of matfunction and need for repair.
+
+BICLOGICAL SCIENCE AID (GS8) 08/2019 to 06/2020
+USDA-Agricultural Research Service | City, STATE
++ Coordinate and manage plant sample collection, preparation, and evaluation from greenhouse and field
+projects
++ Operate and maintain specialized laboratory equipment, instruments, and automated systems for
+recurring experimental procedures that aid in plant research.
++ Propagate and maintain experimental plants under specific greenhouse and growth chamber
+conditions.
+* Conduct regular viral and fungal inoculations and maintain viable cultures for experimental replication
+* Perform RNA/ONA extractions, (both conventional and real-time) RT-PCRIPCR, and gel electrophoresis.
++ Experience with Co-Immunoprecipitation to identify protein-protein interactions
++ Evaluated and prepared data for basic calculations and statistical analysis of experimental results,
+utilizing Rstudio.
++ Quickly learned new skills and applied them to daily tasks, improving efficiency and productivity.
+
+(STER’S GRADUATE RESEARCH ASSISTANT 08/2016 to 08/2019
+
+Of Nebraska-Lincoln | City, STATE
+
+‘+ Work involved plant material collection, viral and fungal ONA/RNA extractions, and performing
+conventional PCR/RT-PCR and serological assay (ELISA) tests for pathogen detection.
+
++ Managed multiple student workers to complete projects in a timely manner and maintain laboratory
+resources
+
++ Complete various projects in collaboration with multiple research groups.
+
++ Maintained fungal, viral, and nematode cultures as inoculum sources for experiments
+
++ Collected and maintained data from disease evaluations and organized data utilizing computer
+Packages such as word processor and excel spreadsheet.
+
++ Utilized computer programs such as RStudio and S.A.S for statistical analysis (i.e. ANOVA and means
+comparisons), and effectively communicate research findings through written and oral communication,
+
++ Maintained laboratory notebooks, recorded methods and procedures used, and noted any procedural
+
+modifications, observations, and results obtained from experiments,
+
+Univei
+
+PLONT & PEST DIAGNOSTIC CLINIC LAB ASSISTANT 04/2015 to 08/2016
+University Of Nebraska-Lincoin | City, STATE
+
++ Assisted in diagnosing plant pathogens and plant deficiencies based on symptom expression
+
++ Coordinated molecular diagnostics via DNA/RNA extraction and purification, conventional PCR/RT-PCR,
+gel electrophoresis, and BLAST-based analysis.
+
++ Performed serological tests for the identification of fungi, bacteria, and viruses (i.e. ELISA tests, lateral-
+flow chromatography).
+
++ Isolated and maintained fungal and bacterial cultures using classical techniques.
+
+‘+ Maintained sterile and clean work environment, operated autoclave to ensure sterilization when
+necessary.
+
++ Prepared a variety of media (i.e. NBY, H2O agar, PDA, and specialized media)
+
+‘+ Utilized microscopes (compound and dissecting) to provide morphological ID of plant pathogens in
+culture.
+
++ Kept data log of samples to monitor plant disease epidemiological trends in Nebraska.
+
+Master of Science | Agronomy — Specialization Plant Pathology 08/2019
+University of Nebraska — Lincoln, Lincoln, NE
+GPA: 3.23
+
+Bachelor of Science | Horticulture — Specialization Plant Science 05/2016
+University of Nebraska ~ Lincoln, Lincoin, NE
+GPA: 3.33

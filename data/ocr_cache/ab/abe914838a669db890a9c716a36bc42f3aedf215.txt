@@ -1,0 +1,133 @@
+Jessica CLAIRE
+
+100 Montgomy St 10 Four # (555) 432-100 # esamesampeeanple coe
+
+Sunny
+
++ Over 7+ years of professional IT experienc in Amalsis, Design, Developmen, Testing and Implementation of various Data Warehousing 2nd
+‘Software Applistions for Brokerage nd Telecom sectors,
+
++ Extensively involsed ia ETL Development using ICS and Informatica Power Center 95/10.
+
++ Wosked wit ICS in GCP exvzoameat using the connectors fr PostGreSQL to Oracle, Oracle to Bit Query at using hierarchy builder in
+TICS to coavert the structed dato son and tore it in Google Cloud Storage
+
++ Strong knowledge in Data Architect and Modeling concepts inching dsin of Concept, Logical an Physical data model, Eaity-
+Relationship concept, Fats an dimensions ables nd Dimensional Modeling (Str Schema 2nd Soow Flake Schem)
+
++ Worked wih slomly changing dimensions (SCD) Typet2 dimension mappings and change data caprre
+
++ Hands on experience indenting and resolving performance botenecks in varios levels ike mappings sessions.
+
++ Hands on experience in optiizing SQL serps and improving performance loading in data warehouse databases suchas Oracle, PostgreSQL.
++ Very song in writing SQL Joins, Nested Queries, Unions, Mulitbl join.
+
++ Good experienc in performing an supporting Unt testing, System Integration testing (SIT), UAT and prodocton support for issues raised by
+plication wes.
+
+semis
+
++ HCS, PowerCenter 910% * Serum, Agile Methods
+
++ Oracle, PosterSQL, Big Query, Google Cloud Storage + SQL Developer, DBesver
+
++ SQL, PLISQL, Python, UNIX Shell Scripting + CONTROL, Auouys
+
++ GCP (Google Cloud Plato) Tele, TRA
+
++ Erwin Data Modeler + Data Analysis
+EXPERIENCE
+
+‘SrETL Developer, 102019 - Curent
+‘Two9S International Ie. — Pasadena, CA
+Projet Deserpt
+‘Think of ProsReat asthe “Ube” of constton equipment From Port's nd dumpster to aril equipment llth way te Earth moving
+cquipment Theres a beter way to reat constuction equipment one that utilizes technology to bring teters and spies together to Jo
+snes fay
+Projet Scope:
+Primarily responsible to connect mull source systems (Orde Life Cycle Billing Management & Invice Ge, Soppie and Inventory
+“Management System, Notification Management Stem) into datawarehouse with the effective Design, Development, Validation and Sopport
+tities to assure that its producing values to our Busines
+Responsibities:
+‘+ Worked wi the business analysts and data analytes team fo ater business requtements tobe wanted into design considerations.
++ Weoifed and wracked the slowly changing dimensions (SCD cape the changes in eteropecows sources and worked on Informatica
+‘Change Data Captace
++ Enacted the data rom Orde Life Cycle Management Stem om PostGeSQ. and transformed the data in to Oracle database fr the
+Invoice Generator aplication to prodice atone invoice.
++ Through IIS, Converted mappings fom PowerCenter and Created new mappings fr Order Life Cle Management Sytem to ge the
+at fom PotGreSQL in GCP Clo to On Premines Oracle Datwarchowe,
++ Exuacted data from Oracle, PoutGreSQL ad loaded them into OraleBig Qury"Goosle Cloud Storage
++ Create various Transformations ike Ione, Agereatr, Expression, Loop Filer, Update Strategy and Router ee,
++ Monitored sessions that were scheduled, running, complete or file
++ Toretieve the data fom various tables to staging database, wrote SQL Queries and Optimized SQL seit to improve performance while
+loading into datawarehouse
+‘+ Worked on Documentation to describe propram development, lopc, coding testing. changes and corrections.
++ Portcipted in Enhancements meeting to distinguish betwen bgs and enhancements
+‘Worked wi scram maser in an Agile eam during development of data warebouse, ata ake and cloud technologies
+Environment: Informatica PowerCenter 101,11, Oracle 19, PostGreSQL, UNIX, SQL Developer, Flat Fils.
+
+ETL Developer, 022017 - 102019,
+(Chtdren's Place Brandon, FL
+Project Descript
+BriksHomei a proven leader inthe smart home secu indies, BriaksHome is commited to providing powerful and eelable smart home
+security witht alam
+
+Projet Seope:
+Responsible fo ersing bundled customer, inventory, lam noifcaton in single atawarchouse, Due to sui merger, BE has many
+coxering snd inventory systems to process the alas, ths we ae tasked to connect mulipl sytem in othe datawarehoure to moitr the
+lars, detect the dispatch workload and managing the inventory
+
+Responsibilities:
++ Worked on bung a datawarehoue logic for the sles, marketing, patch nd inventory management depareents ofthe eranization
++ Converted the busines reqiements nto technical peciications for ETL process by populating data into dataarchowse,
++ Developing aswell as modiiing existing mappings fr enhancements of new bsines equemens mappings to load ito staging ables
+ad hen to target bles ia DWH
++ Transfomed the data fom mutipe ordering alarm systems (oS, Order Manager, ADT Alarms) and loaded in to DWH to have the
+combine customer, inventory and ala information acres al the merged companies,
++ Responsible for loading data pused the alarms data and pushed the data ato tet bles.
+‘+ Worked with Session Logs, and Wodklow Logs for Etor handling nd
+‘woubeshoting.
++ Actively used JIRA to ack the stats ofthe tats, pancgated in code review with al intepation eam members and participated in
+‘review meetings with Engineering Manager to ensue thatthe development of projets meet busines and sjtem requements
+Environment: Informatica Power Cente 961, ORACLE 1g, Python. Unix, ContoIM
+
+ETL Developer, 01/2016 022017,
+(Citdren's Place Brows, NY
+Projet Deserpti
+Frontier is leading communications provider ofrng peat speed to empower and connect milion of consumers an businesses in 25
+states. This building critical digit infasrcture actos te country with its 100% fiber opi network an cloud based soltons.
+
+Projet Scope:
+Frontier aquisition of Vrizo's California, Texas and Florida properties for 37M voce, 22M Broadband and 2M FiOS video connections
+‘ought the bigest conversion program. The team of data mappers an ETL developers ha ben asignedto conver this data fom Verizon
+systems to Frontier system. I was responsible to convert the telecom provisioning data,
+Responsibilities:
+' Worked wi the data mappes to collect the business requirements and base SQLs tobe translated into Informatica mappings.
++ Responsible fr analysis of Verizon data and iterate into footie DP sytem,
++ Peformed Source Sytem Data analysis a per the Business Reqiement. Disuibted data residing in eterogenous datasources it
+consolidated ont target Eterpise Data Warehose database.
++ Developed Mappings, Sessions, Werflows and SQU's to extract, validate, an transform data according tothe osines rls
++ Create various Transformations like Joiner, Agoreator, Expression, Lookup Fier, Update Strategy and Router ee
++ Extensively worked on design, development and inplementation of plat IF Se loads such as IFLCS, ILD, IFSMALT ete
++ Building the necessary taping ables and wortables on oracle development environment
++ Souted the dt fom XME fle, at les nd Oracle tables,
+‘+ Made substantial contributions in smpliffing the development and maintenance of ETL by cating re-usable Maplets and
+‘Transformation objects. Patton the sessions to educe the
+oad ine
++ Implemented peformance using fr lnformatica Sources, Targets, Mappings, transformations, Sesion, Pushdown optimization and
+Panitiaing.
++ Implemented incremental load logic to improve the ime taken fr etre mock conversions.
++ oot sl queries on AS400 for esting Files.
+> Designed and enecited mock coersion oes every week wing integrated wekflons and paca crmmands
++ Monitored sessions that were scheduled, running, complete or filed
+Environment: Informatica Power Center 9.61, A400, ORACLE 11g, Python, Shell Scripting, CotolM
+
+EDUCATION
+
+Master of Computer Applications: Compute Science, 05/2010,
+Holy Cross College rch, India
+
+LANGUAGES
+
+Tami
+Negotiated: Negotiated:

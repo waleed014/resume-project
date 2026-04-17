@@ -1,0 +1,137 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesampledexample.com
+
+Professional Summary
+
+8+ years of professional IT experience in design, develop, build and deployment of web applications.
+34 years in practicing DevOps, Cloud Automation & Quality Engineering
+
+Dedicated DevOps professional with history of meeting company goals utilizing consistent and organized practices. Customer-
+focused with superior communication skills and expertise in various technical platforms, skilled in working under pressure and
+adapting to new situations and challenges to best enhance the organizational brand.
+
+Skills
++ Cloud platforms; AWS, Azure + Containers / Orchestration; Docker, Kubernetes
++ Source and Version Control; Git, Github, SVN, Git, GitHub, _* Databases; Oracle, SQL Server, MySQL, PostgresSQL
+Bitbucket, GitLab, Azure Git + Scripting & Other Tools; Groovy, UNIX Shell Scripts (Ksh,
++ IAC; Puppet, Ansible, Terraform, CloudFormation Bash), Git Bash, Putty, ‘Term
++ Framework/DevOps Tools; SonarQube, Nexus, Artifactory, _* Operating Systems; Ubuntu 18.0.4, Red Hat Linux, Windows,
+Jenkins, Slack, AzureDevOps HP-UX and Solaris 10
+Work History
+
+DevOps Engineer, 05/2019 to Current
+Radancy - Half Moon Bay, CA
+
+++ Set up CI/CD pipelines for Microservices and integrated tools such as Maven, Bitbucket, SonarQube, Nexus, Docker, Slack for
+providing immediate feedback to DEV teams after code check-in
+
+‘+ Wrote Ansible playbooks from scratch in YAML. Installing, setting up & Troubleshooting Ansible , created and automated
+platform environment setup.
+
+++ Set up Git repositories and SSH Keys in GitHub for Agile teams.
+
++ Integrated GitHub web hooks into Jenkins to automate the code check-out process.
+
+‘+ Implemented the setup for master slave architecture to improve the performance of Jenkins
+
++ Created Dockerfile and automated docker image creation using Jenkins and Docker
+
+‘+ Automated infrastructure provisioning on AWS using Terraform and Ansible
+
++ Created nightly builds with integration to code quality tools such as SonarQube , Veracode
+
+++ Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when conditions not met
+
+++ Rebuild of entire existing platform over to Docker containers,
+
++ Setup Kubernetes clusters using Amazon EKS
+
++ Collaborated closely with product development teams and other stakeholders, using effective communication and active
+listening skill.
+
+‘+ Worked with cross-functional design teams to create software solutions that improved overall functionality and performance
+
+++ Investigated new and emerging software applications to select and implement administrative information systems
+
+++ Teamed with business analysts to deliver high-availability solutions for mission-critical applications
+
+‘+ Automated and implemented system backup and recovery procedures
+
+AZURE CLOUD ENGINEER, 02/2016 to 03/2019
+Applied Information Sciences, Inc. - Arlington, VA
+
+++ Set up CI/CD pipelines for Microservices and integrated tools such as Maven, Bitbucket, SonarQube, Nexus, Docker, Slack for
+
+providing immediate feedback to DEV teams after code check-in
+‘+ Wrote Ansible playbooks from scratch in YAML. Installing, setting up & Troubleshooting Ansible, created and automated
+platform environment setup.
+
+++ Set up Git repositories and SSH Keys in GitHub for Agile teams.
+
+++ Integrated GitHub web hooks into Jenkins to automate the code check-out process.
+
+++ Implemented the setup for master slave architecture to improve the performance of Jenkins
+
+++ Created Dockerfile and automated docker image creation using Jenkins and Docker.
+
++ Automated infrastructure provisioning on AWS using Terraform and Ansible.
+
++ Created nightly builds with integration to code quality tools such as SonarQube, Veracode.
+
+++ Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when conditions not met.
+
+++ Rebuild of entire existing platform over to Docker containers.
+
++ Setup Kubernetes clusters using Amazon EKS.
+
+‘+ Drove operational improvements which resulted in savings and improved profit margins
+
+++ Received and processed stock into inventory management system
+
++ Proved successful working within tight deadlines and fast-paced atmosphere
+
+++ Resolved problems, improved operations and provided exceptional service
+
++ Resolved conflicts and negotiated mutually beneficial agreements between parties
+
+‘+ Maintained energy and enthusiasm in fast-paced environment
+
++ Identified issues, analyzed information and provided solutions to problems
+
+‘+ Improved operations through consistent hard work and dedication
+
+IT Technical Support Specialist, 02/2012 to 01/2016
+Highpoint Global Tysons Comer, VA
+
++ Resolved diverse range of technical issues across multiple systems and applications for customers and end-users across various
+
+time zones.
+
++ Provided Tier 1 IT support to non-technical intemal users through desk side support services.
+
++ Explained security measures in simple terminology to help users understand malware and phishing threats.
+
++ Provided documentation on troubleshooting of technical processes to support desk staff.
+
++ Promoted efficiency among departments with prompt resolution of system issues.
+
+++ Resolved escalated issues by serving as subject matter expert on wide-ranging issues.
+
++ Offered troubleshooting of connectivity issues across networks such as Wi-Fi and cellular
+
++ Collaborated with supervisors to escalate and address customer inquiries or technical issues.
+
+Education
+
+Certified: Technical Support, 01/2020
+Google Support Tech - Online
+
+Graduate: Hands On DevOps Training in AWS And Azure Cloud, 11/2015
+Devops Coach Inc. - Online
+
+Graduate: Hands On Class in Cloud Infrastructure And Design, 05/2015
+Cauchy-Tech - Baltimore, MD
+
+Bachelor of Science: Economics, 08/2010
+Anambra State University - Anambra

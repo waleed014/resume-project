@@ -1,0 +1,60 @@
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+ACCOMPLISHMENTS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA94105 2 (555) 432-1000 4 resumesample@example.com
+
+| am a digital forensic analyst with a passion for software development. During my time at Vestige and
+Defiance College | have gained great experience working in teams as well as taking on large projects
+individually in order to efficiently deliver the best quality product to the customer. | am a self-taught developer
+who loves to be challenged, and being a detail-oriented/selt-motivated individual | am confident | will be able
+to build and maintain strong, secure, and dynamic software to customers around the world
+
+JavaScript Driven by quality
+HTMLS & CSS3 Exceptional team worker
+
+Java & Python Great communicator
+
+DIGITAL FORENSIC ANALYST 10/2016 to CURRENT
+
+Rtx | Pico Rivera, CA
+
+As a digital forensic analyst | am responsible for:
++ Examining digital media for evidence of file access and movement, data destruction, USB usage,
+internet history, and more to determine what the activity was taking place
+‘+ Writing reports based on my findings
+‘+ Supervising and training data evidence specialists
+‘+ Presenting tech meetings on new artifacts
+During my time at Vestige | have taught myself how to program in order to automate many of the time-
+consuming tasks the analysts were forced to do on a day-to-day basis. A few scripts that | made are capable
+of
+‘+ Searching mobile device extraction data for keywords and formatting the data into spreadsheets that
+are easy to understand and ready to present to customers
++ Parsing obscure Mac LOG and PLIST files to present clear and readable data for analysts to quickly
+examine
+‘+ Parsing a Windows registry for USB usage, recent file activity, installed software, and more
+DACA EVIDENCE SPECIALIST 06/2015 to 10/2016
+Vestige Digital Investigations | City, STATE
+‘The major responsibilities | took on as a data evidence specialist included.
++ Securing and preserving any and every type of digital media including but not limited to CDs, SD cards,
+thumb drives, cell phones, computers, and servers
+‘+ Maintaining the inventory and chain of custody of all evidence
++ Backing up and archiving data
+‘+ Sanitizing and re-purposing media
+‘+ Preparing evidence for analysts
+‘+ Assisting in the analysis process
+
+Bachelor of Science | Digital Forensic Science 2015
+Defiance College, Defiance, OH
+
+‘+ Outstanding Senior in Digital Forensics
+‘+ Scholastic Excellence in Digital Forensics
++ Graduated Magna Cum Laude

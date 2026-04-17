@@ -1,0 +1,100 @@
+Jessica CLAIRE
+
+DevOps Encineer/Linux System ADMINISTRATOR
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 e resumesample@example.com
+
+Professional Summary
+
+Fertile Minded DevOps Engineer with background designing, testing and implementing infrastructure and applications.
+Experienced DevOps Engineer with over 4 plus years of experience and a demonstrated history of working in the information
+technology and services industry.
+
+A consistent team player with exemplary multitasking skills.
+
+Flexible professional with experience developing and building IT solutions.
+
+Looking to seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time
+management and problem-solving skills.
+
+Skills
+‘+ P>Developer collaboration * P>GitHub, Jenkins, Docker, Ansible, Kubernetes
+«+ P>Effective communication + PAWS EC2
+« P>Testing and maintenance # PoLinux
++ P>Solutions deployment « P>Performance Management
+© P>Virtualization * P>Infrastructure As A Code
++ P>Build releases + PoTerraform
++ P>Meeting participation + P>Maintenance and troubleshooting
++ P>CI/CD Fipeline + P>Git
+Work History
+
+DevOps Engineer, 10/2021 to Current
+Ibm Corporation — Greenwood Village, CO
+‘+ Worked with cross-functional design teams to create software solutions that elevated client side experience and significantly
+improved overall functionality and performance.
+‘+ Monitored automated build and continuous software integration process to drive build/release failure resolution. Introduced
+measures to fully automated CI/CD pipeline from 40% to 80% to help speed up code release and production.
++ Collaborated closely with product development teams and other stakeholders, using effective communication and active
+listening skills.
+‘+ Versed in complete software life cycle from preliminary needs analysis to enterprise-wide deployment and support.
++ Worked with software development and testing team members to design and develop robust solutions to meet client
+requirements for functionality, scalability and performance.
+
+DevOps Engineer, 07/2018 to 10/2021
+Tbm Corporation ~ Hartland, WI
+
+‘+ Monitored automated build and continuous software integration process to drive build/release failure resolution.
+
++ Coordinates work flow and code release between developers and IT staff working within our DevOps pipeline.
+
+‘* Concentration in CI/CD and work experience with popular continuous integration and continuous deployment tools like:
+
+GitHub, Jenkins, Docker, Ansible and Kubemetes.
+
+‘+ Experience with Shell Scripting.
+
++ Experience with AWS.
+
++ Versed in complete software life cycle from preliminary needs analysis to enterprise-wide deployment and support.
+Worked with cross-functional design teams to create software solutions that elevated client side experience and significantly
+improved overall functionality and performance.
+
+Linux System Administrator, 03/2017 to 08/2021
+Concurrent Computer Corporation - Duluth, GA
+‘+ Managed, maintained and troubleshot software and hardware issues with clients servers.
++ Troubleshot problems like: system errors, disc space management, boot issues, swap space issues, file system management
+issues. Errors were replicated and solved within multiple virtual settings.
+«+ Proficiency in: Sever Deployment, Server maintenance, and Server Configuration.
+‘+ Worked with OS system like: CentOs, Ubuntu, Redhat and Debian.
+‘+ Provided input on hardware and software purchasing, prioritizing return on investment to optimize IT spending.
+«Installed system-wide hardware components, confirming interoperation and compatibility with Linux-based software.
+‘+ Developed organization-wide administration policies to encourage continuity across multiple systems and facilities.
+‘+ Created and serviced administrator and user accounts on Linux-based systems, managing deployments.
+«Installed and allocated mass storage deployments, maintaining integrity of servers that had several terabytes of storage.
+‘+ Tuned system performance to optimize efficacy of new and existing hardware components.
+
++ Designed disaster recovery systems, enabling continuity in event of power outages.
+
+Program Coordinator, 07/2016 to 08/2021
+Danbury Health Systems ~ Westport, CT
+‘+ Organized and managed program development from conception through successful execution.
+‘+ Addressed and resolved technical, financial and operational concerns by working with team members and directors.
+* Set and oversaw yearly annual budget of $ 750,000 to cover 18,720 hours of staffing and program operations.
+
+‘Motivated and directed staff to align operations with organizational mission using my leadership experience.
+
+Orchestrated smooth and efficient program development and improvements by collaborating cross-functionally across
+departments.
+
+Scheduled and supervised staff meetings to discuss new ideas and update participants on program details and milestones.
+
+Provided ongoing direction and leadership for program operations.
+Assisted with community resources, including healthcare, mental health, appointment scheduling, insurance and food stamps.
+
+Education
+
+BBA: Business Management
+University of Liberia - Monrovia, Liberia. West Africa
+
+Associate of Science: Automotive Engineering Technology
+Quinsigamond Community College - Worcester, MA

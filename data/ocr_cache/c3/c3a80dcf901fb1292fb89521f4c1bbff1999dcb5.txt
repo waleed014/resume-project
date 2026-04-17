@@ -1,0 +1,192 @@
+PROFESSIONAL
+
+sxiuus
+
+WoRK HISTORY
+
+xis
+
+WoRK HISTORY
+
+Jessica Claire
+
+(© 100 Montgomery St 10h Floor tS ($88) 482-1000 4 resumesample@example com
+
+Detale.onented I protessional wih 7 years ot experience as a Cloud and DevOps engneeiLinu Systems
+"nave nands-on enperence supporting, automating, and opting appcaondeptoments mn AVS Dy
+butang an automated CUCD ppene witout forging secuny and performance, Heverape Tear to bul,
+‘mantai, and oreestateinratuctures in AVS a anal for coniguraten management. have led and
+worked on mt projects hvough the SDLC. 'am ver deta-cnented when comes to spting anomalies
+and nave excelent communication, problem sing, and decison mang sats
+
++ Operating Systems + Coniguraton Management: Anse
++ nur Rearat 8, Ueunty) Yandows. + Appleaton Deployment: Anse
++ Cloud Pato: AWS (1AM Role, EC2,EBS, + Contanerzaton Tol: Docker
+EFS, EKS, ECR, S3, VPC, Cloud watch NACLS) + Container Orenesvaon Tot: Kuberetes
+‘+ Senping Languages Bash Shel Scrgtng + Montonng Tool Promenes and Gratana
+{+ inrasttue Provsioning etatorm + Log Management and Oata Anais Toot ELK
++ Ostutea version convo too! Gt (Erasiesearen, ana Kana)
++ Source Code Management: Gato + SPLUNK
++ Bul Toots + Teketng tra
++ Maven + Feedback noticaton : Email noticatonstack
+‘+ Remote arttactoy Reposton News notion
++ Code QuatyAnatyss Tool: Sonaraube + teagent tegrated Environment: VS code
+Sonarcious + wee, mosty and mainan Anse playbooks
+“+ Appleaton sever Tomcat sng modes
++ CUD Tet: Jenkins +e, most and maintain YAM. es
+
+* Aaetale-onentedT professional
+
+DEVOPS ENGINEER (04/2019 © CURRENT
+Maxar Technologies Lid |Charottesviti, VA
+
+‘+ Implementesa tu automated CUCD pipeine using Jenkins & ito compete ne automation tom
+conmito deployment
+
+“+ Workes on GtiGinuo to manage source Code
+
+“Worked cosy tn development teams to mprove workows around DU, est, andeployment ot
+apptcatons
+
+‘+ Setup Anse control and save nodes and developed playbooks to automate the confgurabon ot
+‘seers across envonments
+
+‘+ Automates bul and deployment using Jenn to reduce human error ana speed up production
+processes
+
+“+ Automated ne inrasructure deployment for aerent sages suchas, OeWONStaperrod
+
+‘+ Deployed appicatons using Helm chars ino kubernetes Custers
+
+‘+ Created Dockets, but Docker images, and pushing knages to ECR for miroserces to run on
+uberetes pao
+
+“+ _mplementes containers on ANS using ECS ana complementary sence, cing
+
+‘+ Amazon Elase Conner Regist (ECR) + Contgure EKS to manage he Kubemetes management
+Infrastructure, mplementedaterentscneduing optons
+
+“+ Bult manages, and montor cous irastucure on AWS (EC2, ROS, $3, LB, et)
+
+‘Used trator to provision As services such as EC2. VPC. RDS, et
+
+‘+ Worked win project management too suchas Jra and Contence
+
+Uicux SYSTEM ENGINEER. 1272017 © 0372019
+Freshalrect| Brom, NY
+Instalaton, maintenance, adninstraton and oublesnootng ot Rea Hal Enterprise
+Un
+[RPM and YUM package nstaatons, patch and one server management
+Hands on experience of nastructure and Appicaton Aan, scripting using shel
+Expertise on wing sel scrips toprfom unmanned tasks
+‘Setup user ana group bs, prning parameters, network conturaton resting passuor and
+permission sues
+“+ Insta, conigue, and manage LAMP (UnuxApachentYSQLIPHP) sacks
+“Developed Cron obs and sel scripts for automating aansratve tasks the te stem management
+process management, Server reboots, ee
+“+ Worked on creating Vitual machines using VitulBox, Vagrant
+
+TECHNICAL SUPPORT SPECIALIST r2n01st0 012017
+‘nipsce | Boston, MA
+
+“+ Insta new sora an updates on customers’ PCs
+‘+ Type, eat, ana print documents for customers
+
+‘created nouny tne codes for customers fo use on computers tos the temet
+
+“+ Hancie several cats day to adress customer nqunes and concems
+
+| Patene Sotvare ana slates new versions to eminate seunty probes ana protec ata
+‘+ Fotlned up wi cents fo very opbal customer satistacton
+
++ Increased sales by 10%
+
+University of Abomey-Calav,UAC, Benin
+
+Coperatng Systems
+Lunar (ReaHat 8, Vounty) Vandows.
+‘loud Pato AWS (\AM Role, EC2, EBS. EFS, EKS, ECR S3, VPC, Cloud wah NACL)
+Scripting Languages Bash She Scripting
+Inrastucture Provsonng" Tertaorm
+‘Ostibutes Version cont tol Gt
+Source Code Management: Gato
+ul Toots
+Remote artfactory Reposton News
+‘+ Coge Quaty Anas Tol: Sonarube,SonarClous
++ Appleton sever: Tomcat
++ CUD Tel Jenne
+*Contguraton Management: Arsbie
+“+ Appleton Deployment: Ansble
+ Contaierzaton Toot: Docker
+Container Orenestraton Tol: Kuberetes
+entong Teel: Prometneus an Gratana
+{Log Management and Data Anatties Toot ELK (lastiesearc, ana kibana)
+SPLUNK
+Teketng ra
+Intengent ntegratea Envrenment VS coe
+ete mossy ana maintain Ansbleplaybooks using modes
+ite, moat and maintain YAM tes
+Adetaleg oentedT professional
+
+DEVOPS ENGINEER 047201910 CURRENT
+Data, Bear, DE Bear DE
+
+"+ plemented a fu automated CUCD ppeine using Jenkins & Git to compete he automation om
+commit to deployment
+
+“+ Workea on GtuGinud to manage source Code
+
+“+ Worked costy in development teams o improve workons around bul, et anddeployment ot
+appteatons
+
+‘+ Setup Anse control and save nodes and developed playboks to automate the contgurabon ot
+
+“+ Automates bul an deployment using Jenkins to reduce human error ana speed up producion
+processes
+
+1+ Automates ne intasructre deployment for aterent stages such as, DevQN'StaperProd
+
+"Deployed appicatons using Helm chars ino hubernetes Custers
+
+‘+ Crested Dockertles, but Docker mages, and pushing knages to ECR for mirosences to run on
+kuberetespatom
+
+“+ mplementea containers on ANS using ECS and complementary sence, Icing
+
+‘+ Amazon Elastic Container Regist (ECR) + Conigured EKS to manage he Kubemetes management
+inrastucture, mplementedcterentscneduing optons
+
+“+ Bult managed and montr coud inrastucure on AWS (EC2, ROS, $9, EL, et)
+
+1 Used teratorn to provision As series such a EC2, VPC, ROS, et
+
+“+ Worked win project management too suen as Jra and Contuence
+
+LUI SYSTEM ENGINEER. 1272017 0092019
+Data Services Group | Bear, DE
+“+ Instataion, maintenance, adminstaton and roubleshootng of Red Hat Enterprise
++ Unur
+“+ tt ana YUM package instaatns, patch and ther server management
+“+ Hands on expenence of inrastructure an Applcaton Aan, sping using shell
+{+ Experts on wing shel serps to perform unmanned tasks
+‘+ Setup user and group 0, prining parameters, netvrk configuration, resohingpassuord and
+permission sues
+“+ Insta, congue, and manage LAMP (LnuwApache/MYSQLUPHP) stacks
+‘+ Developed Cron bs ad sel Srp for automating adnate tasks he He ystem management
+process management, Server reboot, ec
+“+ Worteaon creating Vitual machines Using ituatbox. Vagrant
+
+TECHNICAL SUPPORT SPECIALIST t2n01st0 012017
+‘Oeeanix Sat| Cotonou, Benin
+
+‘Insta new setae an updates on customers PCS
+
++ Type, ea, ana pint documents for customers
+
+{created nouny tne codes for customers fo we on computers to sr the temet
+
+anatea several cats day to aacress customer nqunes and concems
+
+Patenea sofware and slated ne versions to ena secu problems and protect data
+Folored up wth cent overty opti custome satstacton
+Increased sles by 105

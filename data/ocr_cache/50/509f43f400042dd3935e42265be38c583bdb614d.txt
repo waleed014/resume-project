@@ -1,0 +1,76 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Detail-oriented Database Administrator with over 8 years of experience managing both SQLSERVER and Oracle databases in production
+environments. Maintain servers and systems to ensure smooth business operations, a passionate contributor to team success with a track
+record of empowering teams. A self-starter who is versatile with database technologies, always motivated to learn, grow and stay current
+
+SKILLS
+« Installed SQL in standalone/Clustered * Performance Monitoring & Tuning
+‘ Installed Oracle standalone and RAC * Data Modeling & application Design
+« RedHlat/Linux system administration + RMAN and DATA PUMP logical backups
+© Database migration to Microsoft Azure. © Oracle Database, Multitenant 12c, 18c &19¢
+« BastyUnix Shell scripting & Automation * Azure, Network, Storage & Disaster Recovery
+* Oracle Data guard & Golden Gate + Compiling data, Data audits, Running backups
+* Database Security, upgrade & Patching © Managed Instances, elastic pools, & Azure VMs
+* DNS, GRID/ASM&RAC, configuration * Management of Azure and services
+
+‘Work History
+
+SQL Server Database Administrator, 05/2019 - Current
+Jacobs Engineering Group Inc. — Billings, MT
+© Over 5 years of experience in Database Administration databases in SQL Server production environments; 2019,2017,2016, 2014, 2012
+«Set up and controlled user-profiles and access levels for each database segment to protect essential data, Creating, granting and
+monitoring user access rights and privileges through roles and profiles
+‘* Migration of SQL Server Databases to Microsoft Azure hosted DBs and Managed instances
++ Comprehensive knowledge of SQL Server deployment, migration, patching, troubleshooting, optimization, maintenance (modeling,
+High-Availability (HA) and Disaster Recovery (DR)).
+* Configured database backups and restoration, monitored and tuned database.
+* Configured High Availability Solution- Clustering, Always On, Database Mirroring and Log Shipping
++ Performed Database Migration from On-Premises SQL environment to Azure Database in cloud
+
+Oracle Database Administrator, 03/2017 - 05/2019
+C2 Essentials, Inc. — Kings Point, NY_
+« Installation, configuration and update of Oracle 11g, 12c &19c using OUI, DBCA, DBUA, Backup & Recovery using RMAN, Golden
+Gate & Data Guard administered for High availability; Disaster Recovery, Database upgrade from 11g, 12c, 18c and 19¢
++ Implemented backup strategy following company SLA; both physical cold and hot (incremental), and logical using RMAN and
+DATAPUMP utilities, respectively. Used block change tracking (BCT) which reduced backup time from Thrs down to optimum,
+performance
++ Championed database upgrade from 11g to 12c using Oracle data pump and DBUA respectively
+‘* Used Oracle Transparent Data Encryption (TDE) to encrypt tables Tablespaces, also implemented "triple-A" (AAA) and database
+auditing policies
++ Configured Oracle GoldenGate on Unix/Linux platform for both Unidirectional and Bidirectional replication following oracles,
+recommendations both for standalone and Multitenant architectur
+* Configured and administered DATA GUARD for high availability and disaster recovery solution,
+« Installing; configuring and administrating RedHat and other Linux Operating Systems
+« Providing instance level performance monitoring and tuning for event waits, sessions, physical and logical JO, memory usage with AWR,
+ADDM reports
+
+Oracle Database Administrator, 01/2013 - 01/2017
+C2 Essentials, Inc. — Quantico, VA.
+* Coordinated with project management staff on database development timelines and project scope
++ Administered Unix, Linux, Windows, DNS, Database migration using Exp/Imp/Data pumps, Monitoring and performance tuning using
+Oracle enterprise manager OEM Console, SQL Developer, Explain Plan, AWR, ADRCL ADDM, DRA,
+Virtualization: VMware vSphere and VCenter Deploy and manage databases in AWS
++ Administered, supported and monitored over 150 development, Test and production databases by proactively resolving database issues
+and maintaining servers.
+Created and implemented database designs and data models. Planned and implemented security measures to safeguard vital business
+data
+‘* Modified existing databases to meet unique needs and goals determined during initial evaluation and planning process
+«Set up and controlled user-profiles and access levels for each database segment to protect essential data,
+‘* Wrote and maintained technical and functional specifications to document database intentions and requirements.
+* Applied Oracle's quarterly Critical Patch Update (CPU/ PSU application) using Opatch utility to instal, test, and deploy patches to all
+database instances
++ Performed physical, logical full backup, incremental backups, media manager, archival backups, recovery files, compress and Encrypt
+RMAN backups
+‘© Managed tablespace and datafiles, creating, Altering and dropping tablespaces, moving and renaming online datafiles
+
+EDUCATION
+
+Bachelor of Arts: 05/2019
+y of North Dakota - Grand Forks, ND
+
+Universi

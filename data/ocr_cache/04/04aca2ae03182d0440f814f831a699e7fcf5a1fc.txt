@@ -1,0 +1,133 @@
+‘SUMMARY
+
+SKILLS ¢
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+ACTIVITIES AND
+HONORS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 tS (555) 432-1000 4 resumesample@example.com
+
+Solution-oriented Data Engineer with more than 8+ years of diverse career experience in IT systems:
+development and maintenance, systems and exploratory data analysis, quality assurance, project
+‘management and system implementation well versed in latest ETL Methodologies.
+
+‘+ Resuits-driven, Customer-focused, Team Player
+
+Informatica Power Center and Data Quality
+
+‘and Quick learner ‘+ Expert SQL Wrting and analysis skils
+
+‘+ Full Software Development Lite cycle expertise + RDBMS Teradata Load Utilities, Oracle,
+with strong experience in ETL Framework Netezza, Redshift
+Development ‘+ Shel Scripting with Unix and Pert
+
+‘+ Proficiency in Data Engineering, Data ‘+ Performance Tuning and optimization
+
+Migration , EDW Build and Maintenance
+
+Cloud implementation using AWS
+
+‘= Data Mart build and implementation ‘+ Big Data Technologies - HDFS, Sqoop, Hive
++ Performance Engineering ‘+ Machine Learning knowledge with R and Azure
++ Data Analytics and Automation Expertise «Front end web development using angular,
+‘+ Finance, Insurance and Telecommunications html 5, ess
+domain expertise ‘+ Reusable component development
+‘+ Reports and Dashboard build, analysis and» Dashboard development using Tableau
+troubleshooting
+‘+ Analytical, programming, and inter-personal
+skils
+DATA QUALITY ANALYSTIDEVELOPER (02/2016 to CURRENT
+
+Hp Inc | Atlanta, GA
+
+‘+ Identiying the anomalies in Data, doing the root cause analysis and applying the appropriate fix
+‘+ Provide Rapid Response Support for any production failures to ensure dally data delivery deadlines are
+met
+‘+ Co-designed the reconciliation process framework called ABC (Audt-Balance-Control) to ensure that
+the data delivered to the Business is correct.
+‘+ Work with the Marketing, Finance and Accounting Teams and ensure that their weekly, monthly and
+quarterly reporting needs are futiled
+‘+ Acted as Solution Architect and Subject Matter Expert for Legacy Data Migration Project
+‘+ Prepare the Design, co-ordinate with the Business Users, Development, QA and the Deployment Teams
+SCQUTION ARCHITECT 08/2016 to 06/2017
+Microsoft Corporation | Memphis, TN
++ Conducted anaiysis to address the CPNI data leak issue reported by the Security Team which led to
+the Encryption Solution in preventing data leak throughout the ETL. processes
+‘+ Planned and executed the Data Encryption Project where my responsibilities include attending Business
+Meetings, identify the Technical Work needed to meet their Needs to Designing, Developing and
+Deploying a Solution that is fooL-proof and doesn't impact the performance of the existing data
+Processing steps
+‘+ Work with the DBAs to provide Decryption Key to the Users who have a Business Case to access the
+‘CPNI data
+‘+ Review code, Test plans and Documentation and provide necessary support
+
+‘TEOM LEAD /ETL DEVELOPER 0772013 t0 01/2016
+Infosys Ltd | City, STATE
+‘+ Development and maintenance of Data warehouse that maintains the Commercial insurance Policies
+vision of Nationwide Insurance
+‘+ The business objective of the project is to have a centralized data repository that helps the users in
+their business development decision making
+‘+ End-to-end application development project involving requirements elaboration, design, build, testing,
+implementation, maintenance and support
+‘+ Designed Control Framework with Informatica and Teradata with benefits ike Trace abilty of Data
+Lineage from Source to Target, ,Row level audlting - Auait trails of how the data got to where itis,
+Standardized Code, re-usabilty, faster development using easily scale able architecture
+‘+ Building the Reconciliation process using SQL and Shell Scripting
+‘+ Designed and Developed a Code Review Automation Tool and Mapping Generator tool using VBA
+which greatly reduced the development and peer-review ettort
+‘+ Development is traditional waterfall as well as agile development methodologies
+‘+ Working with various source teams that deliver data in variety of formats — Flat Files, VSAM, XML Files,
+Oracle, 082 tables
+‘+ Delivering the data to heterogeneous targets ~ Teradata, Netezza, Oracle, Salesforce, Third Party tip
+locations, baintrames
+‘+ Review code, test plans and documentation
+‘+ _ SIS (System Information & Specification) documentation
+‘+ Support the QA team in their testing (iteration, System)Detect resolution
+SECIOR SYSTEMS ENGINEER (0672009 t0 06/2013
+Infosys Ltd | City, STATE
+‘+ Rewriting an entire application existing in Mainframe/Data Stage/DB2 to Informatica-Teradata
+‘+ Developing mappings and mapplets to transform the data according to the business rules
+‘© Created a hand-shake mechanism between UNX and Mainframe so that the audit reports can be
+transferred to external teams where validation is performed
+‘+ Worked on consolidation ofall the 17 existing biling systems for an Investments Client
+‘+ Created an Automated ETL Based Pick and Load Mechanism that helped to eliminate the manual
+intervention needed during History Catchup.
+‘+ Used Session parameters, Mapping variable/parameters and created Parameter files for imparting
+flexible runs of worktlows based on changing variable values
+‘+ Worked with Static, Dynamic and Persistent Cache in lookup transformation for better throughput of
+Sessions.
+‘+ Involved in Tuning the informatica objects to increase the Performance of the Informatica loads,
+‘+ Performed Tuning by identifying and eliminating the bottlenecks occurred for increasing the
+performance.
+‘+ Performed data quality analysis to validate the input data based on the cleansing rules.
+‘+ Performed unit testing on the Informatica code using the Informatica Debugger and by manually
+‘checking through Sql queries,
+‘+ Prepare the run books for testing environments,
+‘+ Prepare the Implementation Plan for Production Deployment
+
+Bachelor of Technology | Computer Sciences 2009
+Acharya Nagarjuna University
+
+CoArsework in Data Science and Data Engineering
+
+ne Learning using R and Azure - 5 Day Boot camp
+
+‘Trcned in Amazon Web Services
+
++ Received Awards of Excellence and The Most Valuable Player Award for Outstanding performance
+in tne projects information Management Team’ and “Alternate Investments’ at Charles Schwab,
+
+‘+ Received numerous Client Appreciations for my analytical sks in breaking down problems, driving the
+team through issues and arriving at solutions,
+
+‘+ Awarded a Bravo at Nationwide for my dedicated support in the continued Success of E-Product
+
+‘+ Received the Hereules Award for my dedicated support in the success of Data Migration Project at T-
+Mobile

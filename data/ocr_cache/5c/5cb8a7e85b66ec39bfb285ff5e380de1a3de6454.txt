@@ -1,0 +1,164 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 -resumesample@example com
+
+PROFESSIONAL SUMMARY
+
+‘Senior Data and IT Architect with 20 years of leadership experience in designing innovative business solutions. Skilled in cloud computing,
+Data strategies, information management, application development, and virtualization. Demonstrated mastery in evaluating requirements for
+‘business application integration and sevice activations. Proven mentor and training with expertise in communicating across organizational
+levels and with eoss-inetonal teams to drive shared vision and foster culture of excellence
+
++ Aws + Flume
++ oct + Flik
++ Busines process mapping + Spark
++ Team leadership + NosqL
++ Data analytics «+ Miro-services
++ DWH + Data Quality
++ Data Strategies = MPPDaa.
++ AIML + Oracle EBS
++ Serveress tech + Snowflake,
++ Data Viewalization + Databricks
++ Kubemetes + Bigdata
++ Docker HDS
++ oacs + Hive
++ Tables + 0029
+ETL + Airflow
+ELT
+Work History
+
+022005 te Curent Consultant
+Eversana~ Fort Walton Beach, FL
+
++ 1 and Data Architecture
+
++ People Analytics, HRIS and HRIT: Enabled Prism Analytics on Workday platform to ingest and deliver extemal
+ata entities into Workday ecosystem
+
++ Worked on Exteralizing Workday data for Data Science and Contact acing initiatives where in data was micro-
+batched and realtime ingestion into AWS platform for enabling acces the data thru extemal etites like Paxata,
+‘One Model, Data Science projects for predictive analytics for ight rik, Hiring succes and Associate contentment
+projects
+
++ Finance Technology:
+
++ Awesome Migrations: A mult-year‘mult-asset migration program to AWS Cloud
+
++ Thave onboarded services lke EC2 and Lambda for servecserverless computes, RDS, EBS, $3, Redsif
+_DynamoDB and snow family from a data persistence, Kinesis and Kafka for eal time streams, Athena, Glve and
+EMR for ETL, IAM for security, SQS and SNS for messaging
+
+«+ Thave also eld up lake formation to unveil Finance data lake
+
++ We started investing on MLOPS using Industry standard tooling ike Sage maker and AvtoML for Data Scientists
+to flourish in ther models
+
+‘+ Modem Finance integration Layer: AWS platform upliftment from an on-premise Java Application tat monitors,
+controls the quality of data and ensures completeness, correcness and Finance (GL) compliant data into Snowélake
+using AWS services (Lambda, $3, Athena, Glue, DynamoDB, Kafka, BFS), Snowflake, Databricks
+
+‘+ My responsibilities were to leada group of data and web engineers, Envision and architect the ene tool suite that
+‘enables cutting down of day-to-day tasks and thereby saving over $S00K in T/Maintenance spend each year
+
++ Finance Busines Intelligence: Leda sucessfil delivery of a massive scale data warehouse ffom on-prem Teradata
+to OCI - Oracle Cloud infastrcture
+
++ gy responsibilities included Creating a vision for Nest Gen dat platform and foundation, certfng the Cloud
+[Native products, set guidelines fr data migrations, elevate usage of on-pema Informatica to a cloud based EMR.
+and spark engine for ETL activites, Sting up micro services famewotk, embrace CNP capabilites like OACS
+and DV fr self reporting and data discoverabiliy, compose auditing and testing strategies, elping business invest
+in Machine learning capabilities discover capabilities of API and strategically retire legacy tools and technologies.
+
+(05/2004 to 02/2005 Data Technica leader and SME
+‘Toyota Motor Manufacturing NA ~ City, STATE.
+
++ Finance Technology
+
++ Ariba Implementation: A step towards legacy modernization, Ariba onboardng helped Nationwide consolidate 2
+busines etites
+
+‘+ My key activities included assessing products an their capabilities
+
++ Devise aplan of action of integrations (el time and batch) and help retire PeopleSoft'sE-Pro engine
+
++ dealt with identification of product loopholes and helped bridge the gap between Nationwide bes practices and
+levate our capabilites into modem ETL stack fom Informatica to Databrick(epark)
+
++ T worked extensively with multiple businesses data governance, IT Finance, SMS and Procurement to establish 2
+(COE and Operational excellence for BAI, Supplier management, spend management and helped visualize multi
+{old spectrum of data visualizations
+
++ Workday HCM: A step into Modem SaaS offerings, Workday provides Industry standard HM tooling
+
++ Tchampioned in aspects of frst in the industry of adoption of Prism, a ata Wrangling tool, to setting report
+‘writing Dashboarding, setting standards, initiatives on Workday Extends applications, Workday analytic,
+‘composing Data strategy and directing Predictive and prescriptive analytics
+
++ Personal Lines Transformation: A traditional legacy modernization effort, it involved Nationwide migrating to
+Guidewire's Policy center
+
++ Tas involved in Base architecture, Data migration and reconciliation framework
+
++ Tas also instrumental in in enabling 17 external rating engines to interface with Policy center thru APIS
+
++ Beacon: Day one leading and Day one deposit for Nationwide Bank, Iwas primarily responsible to architect an
+cnd-to-end warehouse product for reporting and analytics business needs
+
++ Timplemented a Data Vault 2.0 fora warehouse solution
+
++ Implemented the Full Truckload Ordering project at different sits of Toyota making changes to suit each ite,
+Designed Disaster recovery system called Provisional system, which in cae of any problem with egular ordering
+system, would send out the orders to suppliers,
+
+(0/2001 t0 03/2004 Database Technical Leader
+State Farm Insurance Companies ~ City, STATE
+
++ A lifelong leamer and appreciate every small to large scale projects that offer a prospects of learning and adapting
+
++ Thave accomplished cloud migrations, data migrations, rewrites and new application builds in my experience
+
++ Hands on with Cloud offerings on AWS and OCT
+
++ My primary responsibilty is to hamess the latest approved CNP into LOB and build new integration into the code
+pipeline
+
++ With over 15 years of experience in DWH tech stack
+
++ Able to deliver data management vision, goals, priorities, design principles, and operating polices in suppor ofthe
+business goals ofthe organization
+
++ Hands on leader wit experts in building data lake houses, data lakes, Data warehousing, (ETL and ELT), while
+helping the LOB upgrade ffom ETL developers to Data engineers
+
++ Extensive hands-on experience using Snowflake, DynameDB, NOSQL, Oracle, Netezza, Teradata, DB2 and SQL.
+<atabares and several ofits tools
+
++ Thave solid experienc translating business requirements into conceptual, logical, and physical data models
+
+‘+ Implement best practices and methodolopies in data analysis, design and modeling
+
++ Experience on Meta data definition, implementation and maintenance, ew busines ules identification and
+implementation to data ules, transformation program library maintenance, XML file generation and data quality
+
++ Design standards for using normalized data structures de-normalized structures, and dimensional structures
+
++ Defined common deson pattems for modeling various types of relationships
+
++ Provided guidance and work leadership to less-experienced staff members
+
++ Excellent teamwork sills, good oral, ttn communication, and presetation skills, Stated ftom a developer and
+row toa lead developer and offihore coordinator role
+
++ Involved in major redesigns an pilots to rollouts ike AIMS rewrite, to AERO rewrite, Enterprise Meta mart,
+Control M conversion and ADF toPLI Conversion.
+
+Epvcariox
+
+‘Master of Science: Data Analytics
+‘SNHU - Manchester, NH
+
+(Cermmicanoxs
+
+‘Magna-Cum-Lavde in Master of Science at SNHU Guidewite Policy Center Technical certification Guidewite Policy Center Functional
+‘certification Nationwide CIO award X 3 Nationwide IT Outstanding Contsbution X22

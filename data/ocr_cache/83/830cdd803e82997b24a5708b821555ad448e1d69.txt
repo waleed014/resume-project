@@ -1,0 +1,196 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ OPERATING SYSTEMS:
+
++ Sun Solaris 2.5, 2.6, 8, 9, 10,
+AIX5.1, 5.2, Mainframes MVS,
+Red Hat Linux RHEL 2.1, 3.x,
+4.x and Windows 95/98/NT/
+2000/XP.
+
++ RDBMS:
+
++ Teradata(V2R5.x/6.x/
+12.0/13.0/V14.0), Orade 11g/
+10g/91/8.x/7.x, Oracle 10g
+Real Application Clusters (RAC),
+sQlserver2005.
+
++ LANGUAGES:
+
++ SQL, PL/SQL, C#, C, C+, XML,
+UNIX Shell Scripting.
+
++ SOFTWARE/ APPLICATIONS/
+TOOLS:
+
+Teradata SQL Assistant,
+
+Viewpoint, BTEQ, FastLoad,
+
+‘MultiLoad, FastExport,
+
+‘TpumpORACLE 7.x/8.x/9i/10g,
+
+Real Applications Cluster (RAC),
+
+STATSPACK, ERWIN, Teradata,
+
+Clusters, EMC Storage, Trillium
+
+7.6/6.5,Developer 2000, SQL.
+
+Loader, TOAD 7.6/7.5, Orade
+
+Enterprise Manager, Informatica,
+
+Ab Initio (Co>Operating system
+
+3.0/2.15, GDE 3.0/1.15), Business
+
+Objects Suite. WEB TOOLSHTML,
+
+XML, Java Script, VB Script,
+
+JCL,Java, ASP, CGI with Perl and
+
+Java Servlets, Visual Age, Visual
+
+Cafe and Jbuilder, Apache and IIS
+
+40
+
+EDUCATION
+
+JNTU
+Hyderabad + 2009
+Bachelors of Technology:
+‘Computer Science
+‘Computer Science
+
+University Of Central Missouri
+2012
+
+Masters: Computer Science
+‘Computer Science
+
+PROFESSIONAL SUMMARY
+
+7 years of experience in the IT industry, coupled with extensive experience in Data Warehousing
+Teradata (V2R6/12.0/13/14) & UNIX Environment for Decision Support Systems. *Extensive
+experience in TeradataDatabase design, implementation and maintenance mainly in large scale Data
+Warehouse environments. *Extensive experience in Administration and maintenance of Dev, Stage,
+prod and standby databases for DSS and Data Warehousing environments. *Strong background in
+healthcareand Clinical insurance projects. *Experienced working with healthcare data. “Comfortable
+with both technical and functional applications of RDBMS, Data Mapping, Data management, Data
+transportation and Data Staging. *Hands on experience in Teradata RDBMS using FASTLOAD,
+MULTILOAD, TPUMP, FASTEXPORT, Teradata SQL and BTEQ Teradata utilities. *Expertise in Resource
+‘Management using TDQM *Expert in Coding Teradata SQL, Teradata Stored Procedures, Macros and
+Triggers. “Involved in full lifecycle of various projects, including requirement gathering, system
+designing, application development, enhancement, deployment, maintenance and support. "Expertise
+in Query Analyzing, performance tuning and testing. *Hands on experience in monitoring and
+managing varying mixed workload of an active data warehouse using various tools like Teradata
+Workload Analyzer, Teradata Dynamic Workload Manager and Teradata Manager. *Experience in writing
+UNDXshell scripts to support and automate the ETL process. “Scheduled the Shell scripts through
+‘Maestro Jobs to kick off the Batches. *Experience in different database architectures like Shared
+Nothing and Shared Everything architectures. Very good understanding of SMP and MPP architectures.
+“Experience in Oracle RDBMS Architecture. *Worked on Agile methodology. *Extensive experience in
+Logical and physical modeling using Erwin. Hands on experience in 3NF, Star and Snowflakescherna
+design and De-normalization techniques. “Involved in Unit Testing, Integration Testing and preparing
+test cases. *Proficient in converting logical data models to physical database designs in Data
+warehousing Environment and in-depth understanding in Database Hierarchy, Data Integrity concepts
+and Data Analysis. *Developed Power Bl reports using Power Query from SharePoint & different Data
+sources. *SSH TUNNEL, to allow compressed log transportation. *Experience in ETL tools like
+Informatica, Abinitio. *Experience with Teradata Unity system in the environment *Very good
+understanding of Reporting tools like Cognos and Business Objects. “Involved in production support
+activities 24/7 during on call and resolved database issues.
+
+WORK HISTORY
+
+Infosys - Teradata-Informatica Developer
+Irvine, CA + 2016 - Current
+
+: Teradata V13/V14, Teradata SQL Assistant, Informatica Powercenter 9.6, SQL Server.
+
+ies:.
+
++ Created tables, Shell Views in HealthSpring Teradata environment for the Staging, CurrentLoad and
+IDS layers.
+
++ Created Views on top of the final EDW tables in order to generate the reports.
+
++ Worked on Claims, Provider, Drug, Patient, Eligibility dimensions to build the structures and to
+process data.
+
++ Created a BTEQ script for pre population of the work tables prior to the main load process.
+
++ Involved heavily in writing complex SQL queries based on the given requirements.
+
++ Used FastLoad for loading into the empty tables.
+
++ Created reports using BTEQ scripts reporting functionalities and FastExport for the end user.
+
++ Used volatile table and derived queries for breaking up complex queries into simpler queries.
+
++ Responsible for loading data into warehouse from different sources using Muttiload and Fastload to
+load millions of records.
+
++ Developed MLOAD scripts to load data from Load Ready Files to Teradata Warehouse.
+
++ Performed tuning and optimization of complex SQL queries using Teradata Explain.
+
++ Created series of Macros for various applications in TERADATA SQL Assistant.
+
++ Worked in a roster manner for Level-2 support to solve the SDE tickets and job failures as per the
+protocol.
+
++ Created and Imported/Exported various Sources, Targets, and Transformations using Informatica
+Power Center 9.6.
+
++ Implemented the concept of Slowly Changing Dimensions (SCD) Type 1 and Type 2.
+
++ Used Active Batch to schedule the jobs from Teradata and Informatica using Windows Task
+Scheduler.
+
+Infosys - Teradata Developer
+Jersey City, NJ + 2015 - 11/2015
+
++ Environment
+
+Infosys - Teradata Developer
+Saint Louis, MO + 04/2013 - 11/2014
+
++ Environment
+
+Infosys - Teradata Developer
+Hillsboro, OR + 01/2012 - 03/2013
+
++ Environment
+
+Infosys - Teradata Developer
+Johnston, RI + 07/2011 - 2012
+
++ Environment
+
+Kroger - Teradata Developer
+
+City, STATE « 05/2010 - 11/2010
+
++ Ab Initio (GDE 1.13, Co>Op Sys 2.13), Teradata V2R6, UNIX, PL/SQL, Oracle 8i, IBM DB2, UNIX,
+Windows 2000.
+
++ Responsibi
+
+GE Healthcare - CS ETL/Teradata Developer
+City, STATE, India + 07/2009 - 02/2010
+
++ Environment

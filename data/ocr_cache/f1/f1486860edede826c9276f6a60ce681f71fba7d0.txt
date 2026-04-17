@@ -1,0 +1,130 @@
+SUMMARY
+
+PROFESSIONAL
+EXPERIENCE
+
+SKILLS
+
+EDUCATION AND
+TRAINING
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA94105 2 (555) 432-1000 4 resumesample@example.com
+
++ Experienced production support engineer, developer across multiple projects & systems distributed globally
+and spanning across multiple technologies like Java, J2EE, Unix, PLSQL, SQL, Rest Services, HTML, CSS
+etc.
+
++ Demonstrated ability in resolving software product support issues by applying thorough technical product
+knowledge, experience and troubleshooting techniques
+
++ Experience and ability to handle critical customer production issues and hot-line support issues
+independently.
+
++ Expert technical and functional knowledge of CRM based applications.
+
++ Knowledge and working experience in SQL Queries, PVSQL Oracle and MongoDB database.
+
++ Knowledge of REST/HTTP APIs, including JSON data formats and SOAP API's
+
++ Experience in automations using Unix shell scripting
+
++ Experience Building CVCD pipelines by integrating Git, Jenkins, Ansible
+
++ Knowledge of monitoring tools like Splunk, Nagios and ExtraHop.
+
++ Familiar with Docker for application containerization and Kubernetes for orchestration
+
++ Infrastructure knowledge of Networks, TCP/IP, UDP concepts, load balancers, Firewalls and WAF.
+
++ Knowledge & working experience on Web servers like Nginx and Apache
+
++ Strong ability to convey the right information verbally & in writing to optimize IT Solutions & meet customer
+requirements
+
++ Excellent Knowledge of Service Now Incident Management Platform and ITIL based Service Support process
+(Change management, problem management, event management and incident management).
+
++ Excellent team player with an ability to perform individually, good interpersonal and analytical skills
+
++ Excellent organizational & presentation skills with leadership experience
+
+SENIOR PRODUCTION AND OPERATIONS ENGINEER 10/2013 to CURRENT
+Tata Consultancy Services | City, STATE
+
+| have worked on enhancement and support of CRM platform including sales and service modules used by
+60K+ employees and millions of external customers.
+
++ Troubleshoot critical, high priority technical issues on a daily basis, isolating and diagnosing the problem,
+and resolving them
+
++ Analyze Java source code to identify the issue, test the fix in lower environment and communicate with
+internal teams for resolution.
+
++ Analyze SQL Queries, PLISQL procedures to identify bottleneck queries and fine tune them to improve
+application performance.
+
++ Database administration including issues with query performance, impact, data issues with upstream /
+downstream systems
+
++ SQL query tuning and fixing invalid objects for multiple DB schemas in Oracle. Working with AWR reports
+and other Database metrics reports for analyzing database query performance.
+
++ Automated application and information security and compliance activities using Ansible and custom scripts
+Was able to reduce manual efforts by 50%.
+
++ Setup and monitor product quality and performance using Splunk, Extrahop and AppDynamics. Was able to
+proactively identify and assist in fixing production bugs, leading to reduction of 25% application issues.
+
++ Work across multiple teams to co-ordinate and lead incident response and problem management, ensuring
+that incidents are resolved quickly, and root cause analysis is rock-solid and timely to avoid recurring of the
+problems.
+
++ Devise solutions, processes and documented SOPs to eliminate outages in conducting operational tasks
+
++ Drive mission critical initiatives, cross functional, high priority business problems to resolution.
+
++ Production release preparation including cutover and implementation plans, which involves pilot and
+production deployments and system health monitoring post release.
+
++ Review, planning and co-ordination of database and application upgrades and migrations.
+
++ Evaluated current processes and developed new procedures improving production work flow to increase
+efficiency and quality
+
++ Present system health & trending issues report to business and senior management, multiple feedbacks
+were incorporated, and my inputs were highly appreciated
+
+HEQOOPIETL DEVELOPER 03/2012 to 06/2013
+Tata Consultancy Services | City, STATE
+
+Worked with team of § members in developing and maintaining application based on Hadoop. Hive, HBase
+and Pentaho ETL tool
+
++ Worked on creating Pentaho jobs and transformations to process the large input data file and store the data
+in Hadoop HBase
+
++ Configuring Pentaho jobs with java source code, HBase and Hive environment.
+
++ Installation and maintenance of Hadoop cluster in various environment.
+
++ Application configuration and deployment on various test environments
+
++ Analyzing the High-level design documents provided
+
++ Development and unit testing of the requirements.
+
+‘+ Oracle DB, Mongo DB, PL/SQL + Linux, Unix Shell Scripting, Autosys
+‘+ Performance, Scalability & Optimization + Jenkins, Git, Ansible, Nginx, Apache Tomcat
+‘+ Networking, TCP/IP, Load balancing, CDN, WAF * DevOps, Release Management
+‘+ Monitoring tools - Splunk, Extrahop, Nagios + Docker, Kubernetes
++ Java\J2EE, JavaScript + Service Now, Customer Support
+Bachelor of Engineering | Electronics And Communications 06/2011
+
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, Madhya Pradesh, India
+
++ Oracle Certified Professional, Java EE 5 Web Component Developer (OCP)
++ Oracle Certified Professional, Java SE 6 Programmer

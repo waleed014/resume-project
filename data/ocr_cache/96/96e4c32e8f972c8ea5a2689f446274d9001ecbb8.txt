@@ -1,0 +1,101 @@
+PROFESSIONAL
+SUMMARY
+
+QUALIFICATIONS
+
+WORK EXPERIENCE
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor &2 (555) 432-1000 4 resumesample@example.com
+
+‘Accomplished, highly-adaptive, and quickly-rising professional with 5+ years of combined hands-on and
+leadership experience in Data Science and Experimentation. Possesses a versatile, encompassing, and
+strong interpersonal skillset having conceptualized, led, and implemented high-value solutions in a Fortune
+100 company as well as start-up and government environments
+
++ Leadership-level communication/interpersonal «Expert in full-cycle ABn experimentation for
+
+skills with strong passion for bringing marketing initiatives, new feature
+
+stakeholder groups together, empowering team implementations, customer retention/
+
+members, and leveraging relationships to engagement strategies, and other focuses
+
+facilitate best-case outcomes + Advanced mathematical and statistical expertise
+‘+ Certified Project Manager and Agile Leader with with extensive real-world machine learning
+
+3+ years in some type of leadership role applications: leveraging techniques such as NLP.
+‘+ Creating effective presentations for any regression, classification, clustering, and
+
+audience, whether it be RMarkdown outputs for forecasting to optimally solve business problems
+
+DS teams or high-level, super focused + Proficient with wide array of pertinent languages!
+
+PowerPoints for executive meetings platforms : R, SQL, Python, Spark, Scala, Hive/
+‘+ Ability to effectively collaborate with key players Hadoop, Git, and AWS tools (i.e Redshift, Glue,
+
+in every area of business from backend Athena, Sagemaker, EC2, and EMR)
+
+developers to C-suite decision makers
+
+PRINCIPAL DATA SCIENCE CONSULTANT 09/2020 to CURRENT
+Kpmg | Seal Beach, CA
+
++ Oversaw, and actively supported, creation of automated solutions for validating, QAing, and analyzing
+public facing resources for COVID-19
+
++ Working under umbrella of Governor's office to ensure various modeling jobs, data visualizations,
+survey data from hospitals and institutions, and other items pertinent to accurate representation of data
+are being standardized and approved for public consumption
+
+‘+ Responsible for supplying critical feedback to consulting teams, DOH employees, and other
+stakeholders to ensure data related initiatives are being completed according to scientific principles
+
+LEOD EXPERIMENTATION DATA SCIENTIST 03/2019 to CURRENT
+Yahoo! | Fort Collins, CO
+‘+ Spearheaded experimentation initiatives across several organizations with successful involvement in
+100+ experiments across 10+ product teams as their dedicated data science resource
+‘+ Played significant role in team's 500% YoY increase in product experimentation leading to revenue
+increases and better practices company-wide
++ Developed quarterly experiment roadmaps based on impact, effort and test coordinations, working with
+stakeholder teams to achieve short-term and long-term goals
+‘+ Expert on all company lines of business and products in order to best advise teams on how to design
+and launch experiments for new features, UX changes, and other components
++ Oversaw end-to-end development of automated statistical analytics readouts which gauge efficacy and
+performance of experiments
++ Performed several major business-impacting analyses which were presented to C-Level teams and
+contributed directly to business decisions at highest level
+
+IAGER, DATA SCIENTIST 04/2018 to 03/2019
+World Wrestling Entertainment Inc. | City, STATE
+
+‘+ Significantly increased visibility into long-term potential for millions of customers by creating actionable,
+personalized strategies as product owner and principal developer for Customer Lifetime Value model
+which forecasted revenue and other behavioral metrics
+
++ Provided coaching and mentoring to junior data scientists on real-world applications of data science
+principles in business cases
+
+‘+ Strongly impacted 'voice of the customer’ analysis by creating NLP models which scraped Twitter,
+Facebook, and product review data to help guide marketing, as well as product storyline initiatives
+
+‘+ Optimized marketing spend and resource allocation by creating marketing-mix models and look-a-like
+audiences, derived from internal and socioeconomic data, identifying ideal customers across LOBS
+
+DACA SCIENTIST 11/2015 to 04/2018
+Integrative Nutrition Inc. | City, STATE
+‘+ Identified, automated, and created server or cloud-based solutions for processes and workflows across
+several departments which had theretofore been managed in Excel Workbooks and other siloed tools
+‘+ Introduced machine learning to company by creating models to predict marketing campaign
+performance, forecasted sales, and customer service needs
++ Created BI dashboards using Qlik and Tableau to provide high-level, easy to digest visual
+representations of company performance and KPIs for C-Suite and other stakeholders
++ Reported directly to company President and collaborated to gain better understanding of company
+particulars to help develop more data-driven environment and bring in better technologies for business
+needs (i.e AWS Redshift database, Tableau)
+
+Bachelor of Science | Actuarial & Mathematical Sciences|Economics 12/2015
+University At Albany, Albany NY

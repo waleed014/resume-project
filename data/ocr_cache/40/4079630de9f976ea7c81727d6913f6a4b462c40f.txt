@@ -1,0 +1,169 @@
+‘SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© 100 Montgomery St. 10tn Floor *& ($55) 432-1000 4 resumesample@example.com
+
+‘As a AWS and Red Hat certiied Architect with a background in cloud computing, networking and application
+‘development, | have a proven track record of delivering successful projects, using my passion for learning,
+problem-solving, and collaboration. | have experience in various technology domains and have led teams
+through system transformations. 'm determined to deliver depth and agilty on next-gen solutions.
+
+Cloud: Openstack, AWS, Azure Scripting: Python, Bash
+Container: Docker, Kubernetes, EKS, AKS, Podman, Version Control: git, GitHub, GitLab, Gogs
+Openshitt, Rancher (8: Rediiat, Centos, Ubuntu, Fedora, Suse
+Virtualization: KVM/oVirt, Red Hat Virtualization, _ Storage: Ceph, GlusterS, LVM, GFS2, NFS.
+OpenStack, LXC/LXD, VMware Networking: VLAN, LACP, OSPF, BGP, OVS,
+Databases’ PostgreSQL, MySQL, MariaDB (OpenFlow, VXLAN, OVN
+
+Monitoring: Prometheus, Grafana, ELK IAM: LDAP, Active Directory
+
+UCD: Jenkins, Argo CD, GitHub actions ‘Security: WAF, CheckPoint, Fortiwed
+
+laciConfiguration management: Terratorm, Ansible
+
+DEVOPS ENGINEER 11/2022 to CURRENT
+Jpmorgan Chase & Co. | Clayton, MO
+
+‘+ Developed procedures to automate code builds and deployments,
+
+‘*  Collaborated with support team to assist client stakeholders with emergent technical issues and develop
+effective solutions,
+
+‘+ Coordinated installation of software systems and collaborated with user experience team on design and
+implementation of new features,
+
++ Leveraged Agile methodologies to move development itecycle rapidly through initial prototyping to
+enterprise-quality testing and final implementation,
+
+‘+ Monitoring both infrastructure and applications using Prometheus-Gratana and Splunk for
+Comprehensive and efficient monitoring,
+
+‘+ Deploying and managing highly available Kubernetes clusters in both on-premise and cloud
+environments
+
+‘+ Developed company-wide technical strategy plans for Python-based assets, overseeing development,
+coding, debugging and Deployment
+
+‘+ Designing and implementing robust CUCD pipelines utilizing industry-leading tools including GitHub
+Actions, CircleCl, Jenkins and Argo CD
+
+‘+ Creating and managing Terraform modules for provisioning infrastructure on cloud providers such as
+AWS, and Azure
+
+‘+ Expertise in utiizing various AWS services, including VPC, EC2, IAM, ECS, EBS, ROS, $3, Lambda,
+ELB, Auto Scaling, Route 53, Cloud Front, CloudWatch, CloudTrail, SQS, and SNS to design and
+implement scalable and highly available solutions.
+
+‘CLOUD SOLUTION ARCHITECT 10/2019 to 10/2022
+Booz Allen Hamilton Inc. | Buckley Afb, CO
+
+‘+ Designing, building, testing and deploying highly available and scalable OpenStack private and public
+Clouds using TripleO and Kolla-ansible, ensuring optimal performance and reliability
+
+‘+ Expertise in optimizing OpenStack for telecommunications by utlizing cutting-edge technologies like
+NFV, DPOK and Single Root VO Virtualization (SR-1OV), delivering high-performance and resilient
+solutions.
+
+‘+ Utllzed Python to handle debugging and automation scripting tasks.
+
+‘+ Developed system models using automated tools to analyze performance under various operating
+conditions.
+
+‘+ Expertise in designing and building cloud service models such as Infrastructure-as-a-Service, Platform-
+as-a-Service, and Container-as-a-Service, providing a flexible and highly available environment for
+meeting diverse business needs
+
+‘+ Installing and managing highly available open-source database clusters including PostgreSQL, MySQL,
+and MariaDB, ensuring high performance and reliablity for mission-critical applications
+
+‘= Ability in swifty resolving complex issues related to AWS transit gateway configurations, VPN
+connections, VPC route-tables, Workspaces, $3, and NACL/Secunty Groups, by utlizing in-depth
+knowledge of AWS services, troubleshooting skills and strong analytical ability
+
+‘+ Deploying and effectively managing highty-available Kubernetes/OpenShift clusters in both on-premise
+and cloud environments
+
+‘+ Utllzing the Operator Framework, creating a Kubemnetes operator and custom Helm plugins to automate
+complex tasks more erficiently
+
+‘+ Implemented and integrated CUCD pipeline with Terraform to automate infrastructure deployment
+
+‘CLOUD INFRASTRUCTURE ENGINEER (03/2017 to 08/2019
+Deloitte & Touche LLLP. | Los Angeles, CA
+
+« Designed and built cloud service models including Infrastructure-as-
+Container As Service.
+
+« Build, test, and deploy ccalabe, highly available Openstack Private and public cloud environments using
+TaipleO
+
+« Developed hybrid cloud delvery model allowing for customers to choose mix of public and private clouds to
+meet ther individual needs
+
+‘© Container orchestration with docker swarm and Kubernetes bullding auto provisioning cluster and helping
+‘customers with deploy apps in micro services architecture
+
+‘experience in Design and deploy CUCD pipetines (CircleCl, Jenkins.)
+
+« Worked in all areas of Jenkins setting up Cl for new branches, buld automation, plugin management and
+‘securing Jenkins and setting up master'slave configurations.
+
+« Integrating various Version contol tools, build tools, nexus and deployment methodologies scripting) into
+Jenkins to create an end-to-end orchestration build cycles.
+
+« Maintain product release process, including generating and delivering release packages, generate various
+metrics for tracking issues against releases and the means of tracking compatibilty among products
+
+Service, Platform-as-a-Service, and
+
+‘SCOTWARE ENGINEER 12/2014 to 02/2017
+Empyrean Benefit Solutions | Remote, AK
+
+‘+ Developing web applications implementing model view control architecture using Django, Django Rest
+
+Framework
+
+‘+ Build high-performance web applications using Django, Celery, Redis
+
+‘+ Working with server-side technologies including database, restful API, and MVC design patterns
+
+‘= Working with continuous deployment using Jenkins and Travis-Cl
+
+‘+ Build docker containers and deploy containers to docker-swarm clusters
+
+‘+ Managing internal GitHub and creating workflows to implement CUCD pipelines
+
+‘+ Write Ansible roles to automate Linux servers patching and application configurations
+
+‘+ Setting up ELK stack for cental iog management
+
+‘* Post Graduate Diploma in Computer Application | Computer Application 2016
+‘Acharya Nagarjuna University
+
+Bzchelor of Science | Computer Science 2014
+Acharya Nagarjuna University
+
+Red Hat Certified Architect in Infrastructure
+‘© AWS Certified Solutions Architect ~ Professional
+
+‘© Red Hat Cerfied System Administrator (RCSA)
+
+‘¢ Red Hat Certified Engineer (RHCE)
+
+‘© Red Hat Certified Specialist in Server Security and Hardening
+‘© Red Hat Certified Specialist in Virtualization
+
+‘* Red Hat Certified Specialist in OpenShift Administration
+
+‘* Red Hat Certified System Administrator in Red Hat OpenStack
+‘* Red Hat Certified Specialist in Ansible Automation.

@@ -1,0 +1,290 @@
+SKILLS
+
++ Use Cases
+
++ Defect tracking
+
++ Data formatting
+
+Data validation
+
++ ata profting
+
++ Actity diagrams
+
++ Data anass
+
+business needs ana
+
++ Technica Writing
+
++ Software Testing Life Cjle
+ene
+
++ TeehniaAnabss
+
+EDUCATION
+
+Northern India Engineering
+
+College
+
+Lucknow, india + 05/2009
+
+Bachelor of Science:
+
+Information Technology
+Coursework in Data
+Structures and Algorithms,
+Design and Analysis of
+‘Agorthms, Internet Web
+Programming, Software
+Engineering and Artificial
+Intetigence
+
++ Minored in Operating
+Systems (Unb
+Programming), Computer
+Networks , Simulation and
+Modeting
+
++ Literary and Hospitality
+Head of Abhyuday Colege
+Committee in year of
+7008-2009
+
++ Key member of organizing
+‘committee of annual fest
+that indude Sports,
+Literary and cutura in year
+‘of 2007-2008
+
++ lected as schoot house
+Captain of Team Peace
+
+CERTIFICATIONS
+
++ Oracle OCA Certification,
+Tata Consultancy Services -
+2012
+
++ Lean Six Sigma Green Bat,
+Tata Consultancy Services -
+2015
+
++ Basic Age Awareness on
+“Teams and Serums, Tata
+Constancy Services 2016
+
++ Digital: BigData and
+Hadoop
+Ecosystems Foundation,
+Tata Consultancy Services
+
+2016
+
+PROFESSIONAL SUMMARY
+
+Business and data analyst with 11+ years of experience across dverse industries.
+Expertise in anayss ad testing of business requirements to drive deployment of
+applications, business processes and system solutions. Highly analytical and detaled with
+documented track recordin fl software development life oye (SDLC) methodologles
+and Agile techniques. Detal-focused Data Analyst with knowledge in data warehousing,
+process validation and business needs analysis. Proven abit to understand customer
+requirements and trasate into actionable project plans. Dedicated and hard-working
+with passion for Big Data.
+
+ACCOMPLISHMENTS
+
++ | worked in two of the major projects for my dient GE Treasury Notiona/MTM Walk
+Reporting Solution & Third Party Debt to significantly improve workflow efficiency.
+
++ Established and enforced technical standards for dtverabes of ETL & 80 projects.
+
++ Supporting Synchrony Bank on various Banking Applications and Data Warehouse Uke
+Connected Teter, Aperio, Signature
+
++ Awarded with the ‘on The Spo tile for as fixing a ETL. data code on tve trade for GE
+treasury project during nightly data load cyte without delaying any data distribution
+to downstreams
+
++ Supervised team of 6 staff members as a Tecincal Lead
+
+WORK HISTORY
+
+Pearson - Senior Data Analyst
+
+Baltimore, MO + 03/2020 - Current
+
++ Callected data and developed detalled spreadsheets to Identify trends and create
+revenue, profitabity and expense forecasts.
+
++ Corrected any data entry error to prevent later issues such as duplication or data
+degradation.
+
++ Created and improved inteigence resources to faclitate consistent.
+
++ Synthesized curent business inteligence data to produce reports and posed
+presentations, highlighting findings and recommending changes.
+
++ Evaluated consistency and importance of different busines intetigence data against
+needs to determine optimal courses of action
+
++ Participated in requirements meetings and data mapping sessions to understand
+business needs.
+
++ Transformed project data requirements into project data models.
+
++ Created various Excel documents to assist with pulng metrics data and presenting
+them to give concise understanding of best placement for needed resources.
+
++ Developed database object, incuding tables, views and materialized views using SQL.
+
++ Compiled, evaluated and reviewed engineered data integrated system.
+
++ Researched and resolved issues regarding integrity of data flow into SQL databases.
+
++ Produced monthly Financial reports using advanced Excel spreadsheet functions,
+Spotfire, Microsoft ower Bl
+
++ Designed and developed schema data modes.
+
++ Recommended data standardization and usage for protection of data integrity.
+
+Cognizant Technology Solutions - Informatica Developer
+
+‘Adrian, MM » 11/2010 10/2021
+
++ Developed mappings, workflows and tasks using informatica.
+
++ Prepared technical design documents and specifications for Technical and Business
+Understanding.
+
++ Documented al software development methodologies in technical manuals to be used
+by Business Analyst’ in future projects.
+
++ Maintained existing applications
+
++ Authored code fixes and enhancements for inclusion in future code releases and
+patches.
+
++ Contributed ideas and suggestions in team meetings and detvered updates on
+eadtines, designs and enhancements.
+
++ Callaborated with developers and performance engineers to enhance supportabilty and
+‘dentify performance bottlenecks.
+
++ Used interpersonal and communication sks in ll interactions, enriching team
+calaboration, customer relationships and on ferent projects.
+
++ Translated technical concepts and information into terms al parties coud easly
+comprehend.
+
++ Worked closely with cents to estabish specifications and system designs.
+
+‘Comeast - Junior Data Analyst
+
+-Milvington, TN + 11/2017 - 02/2020
+
++ Evaluated consistency and importance of different busines inteigence data against
+reeds to determine optimal courses of ation
+
++ Developed flowcharts and dlagrams to describe and lay out logical operational steps.
+
++ Planned and conceived computer systems using information engineering, data
+‘modeting and structured analysis.
+
++ Estabished requirements and developed talored methodology to boster management
+<ecision support reporting.
+
++ Resolved malfunctions with systems and programs through troubleshooting.
+
++ Participated in internal audits regarding quality management system.
+
++ Mapped current business and operational processes and recommended areas for
+improvement.
+
++ Created workflow diagrams and Gantt charts to dearly demonstrate processes and
+timelines.
+
++ Reviewed files, records and other documents to obtain business information and key
+ata informing responses to development requests
+
+Cognizant Technology Solutions - Technical Lead Analyst
+
+Albambra, CA + 01/2016 - 10/2017
+
++ Evaluated current processes to develop improvement plans.
+
++ Leveraged on-site observation and personal interviews to identify team and individual
+strengths.
+
++ Collected, organized and modeled data using [Software].
+
++ Created and optimized records management strategies to coordinate and protect
+{nformation.
+
++ Evaluated diverse organizational systems to identify workflow, communication and
+resource utilzation Issues.
+
++ Compiled research data and gave professional presentations highighting finds and
+recommended optimizations.
+
++ Gathered, documented and modeled data to assess business trends.
+
++ Reviewed internal systems and organized training plans to address areas in need of
+improvement.
+
++ Carried out day: day-day duties accurately and efficent
+
+‘Tata Consultancy Services - ETL Informatica Developer
+
+City, STATE + 06/2010 - 01/2016
+
++ Designed data modets for complex analysis needs.
+
++ Documented and communicated database schemas using accepted notations.
+
++ Developed and detivered business information solutions.
+
++ Estabtshed and secured enterprise-wide data analytics structures.
+
++ Developed database architectural strategies at modeling, design and implementation
+stages to address business or industry requirements.
+
++ Colaborated with system architects, design analysts and others to understand business
+and industry requirements.
+
++ Actively Ustened to customers’ requests, confirming full understanding before
+addressing concerns.
+
++ Saved Thousands of doars by implementing cost-saving intitives that addressed
+long-standing problems.
+
++ Worked flexible hours; night, weekend, and holiday shifts
+
++ Used coordination and planning skis to achieve resuts according to schedule,
+
++ Completed minor preventative maintenance and mechanical repairs on equipment.
+
++ Planned and installed upgrades of database management system software to enhance
+database performance.
+
++ Gathered, defined and refined requirements, led project design and oversaw
+Implementation.
+
++ Managed identification, protection and use of data asets,
+
++ Demonstrated respect, friendliness and witlngness to help wherever needed
+
+‘Tata Consultancy Services - Livelink Team Member
+
+City, STATE + 03/2010 - 10/2010
+
++ Ibis Web-based colaboration and document management system
+
++ Leading and minting the the egal document in the System trough the tot
+Completed all paperwork, recognizing any discrepancies and addressing them in a
+timely fashion.
+
++ Developed and implemented treatment plans and modified according to presentation.

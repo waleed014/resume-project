@@ -1,0 +1,159 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
++ Methodologies/Issue Tracking:
+SDLC, Agile
+
++ Configuration Management
+Tools: Chef, Ansible
+
++ Infrastructure as a code:
+Terraform
+
++ Containers and Orchestration
+tools: Docker, Kubernetes
+
++ Cloud Technologies: AWS (EC2,
+ELB, IAM, $3, CloudWatch),
+Azure
+
++ CI-CD/Build Tools: Bitbucket,
+Jenkins
+
++ Scripting Languages: Python,
+Shell Scripting, Power
+Shell,Bash
+
++ Versions Control: GIT, GitHub,
+bitbucket
+
++ Operating system: Linux,
+Windows, Ubuntu
+
+EDUCATION
+
+University of New Haven
+
+West Haven, CT + 05/2020
+‘Master of Science
+
+Jawaharlal Nehru Technological
+
+University
+Hyderabad Hyderabad + 2017
+
+Bachelor of Science
+
+PROFESSIONAL SUMMARY
+
+DevOps Engineer with good experience in the IT industry comprising of DevOps, Cloud computing,
+infrastructure configuration management, Linux systems administration, and software
+configuration management (SCM). Automating, and optimizing mission-critical deployments in AWS,
+leveraging configuration management, CCD, and DevOps processes.
+
+WORK HISTORY
+
+Womble Bond Dickinson - Devops Engineer
+Greenville, SC + 10/2021 - Current
+
++ Monitoring automated build and continuous software integration process to drive build/release
+failure resolution
+
++ Working with cross-teams to help them with continuous integration process for their applications
+using Bitbucket CI/CD.
+
++ Implemented sonarqube from scratch in AWS ec2 and integrated with Bitbucket pipeline for
+continuous Analysis of code.
+
++ Also worked with DNS team to get $SO(Single sign On) for sonarqube and Jenkins.
+
++ Used Conan to download and upload required dependencies for building C++ code from Jfrog
+artifactory. Also integrated Conan in Bitbucket pipeline.
+
++ Involved in creating a platform for the code to build in bitbucket CI/CD using custom Docker
+images.
+
++ Also responsible for building and pushing the docker images to AWS ECR. Integrated AWS ECR with
+Jenkins and Bitbucket C/CD.
+
++ Implemented multiple environments like development and production for Devops.
+
++ Automated backup and recovery procedures for the AWS EC2 in AWS by creating snapshots.
+
++ Used Terraform to build the AWS infrastructure and responsible for writing terraform templates,
+modules, and maintenance of infrastructure.
+
++ Involved in setting up the automatic release pipeline in all environments using Jenkins.
+
++ Worked as a Bitbucket Administrator and responsible for all the activates in the Bitbucket.
+
++ Also developed a python script, Automatically download and upload the artifacts from GitLab to
+frog artifactory.
+
+‘Avantus - DevOps Engineer
+Fort Eustis, VA + 07/2020 - 10/2021
+
++ Worked with development/testing, deployment, systems/infrastructure, and project teams to
+ensure continuous operation of build and test systems on Agile methodology.
+
++ Worked on git branching strategies and maintained Source Code repository infrastructure using
+Git
+
++ Installed, configured, and administrated all UNIX/LINUX servers, including the design and
+selection of relevant hardware to Support the installation upgrades of Amazon Linux and Ubuntu
+operating systems
+
++ Used AWS components like EC2 instances, $3, Cloud Watch, Load Balancer, IAM, AWS Lambda
+through Terraform.
+
++ Used Terraform scripts to Automate Instances for Manual Instances that were launched before.
+
++ Designed, installed, and implemented configuration management systems using Ansible.
+
++ Worked on various scripting languages like YAML, Shell, Python,Bash and Powershell.
+
++ Worked on installing Docker & creating custom Docker container images, tagging, and pushing the
+images.
+
++ Managed Kubernetes charts using Helm, Created reproducible builds of the Kubernetes
+applications, managed Kubernetes manifest files, and managed releases of Helm packages.
+
++ Installed and Configured Jenkins to build various jobs for application deployment and test cases
+execution.
+
++ Also had good experience with setting up SQL and NOSQL database.
+
++ Involved in implementing the splunk and also responsible for monitoring using splunk..
+
+gi Group Inc. - AWS Cloud Engineer
+Arlington, VA + 07/2017 - 08/2018
+
++ Coordinated in building UNIX/ Linux platforms for different applications, troubleshooting, and
+creating technical documentation
+
++ Managed Ubuntu Linux and Windows virtual servers on AWS EC2.
+
++ Helped the project in creating the company’s DevOps strategy in a mixed environment of Linux
+(RHEL, Ubuntu) servers along with creating and implementing a cloud strategy based on Amazon
+Web Services (AWS)
+
++ Launched Confidential EC2 Cloud Instances using Confidential Web Services (Linux/Ubuntu) and
+configured launched instances with respect to specific applications
+
++ Written Chef Cookbooks for various DB configurations to modularize and optimize end product
+configuration.
+
++ Provided consistent environment using Kubernetes for deployment scaling and load balancing the
+application from dev through production, easing the code development and deployment pipeline by
+implementing Docker containerization with multiple namespaces.
+
++ Implemented and maintained the monitoring and alerting of production and corporate servers/
+storage using AWS Cloud Watch.

@@ -1,0 +1,131 @@
+PROFESSIONAL
+SUMMARY
+
+LINKEDIN
+
+CERTIFICATIONS
+
+WORK HISTORY
+
+SKILLS
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 82 (555) 432-1000 4 resumesample@example.com
+
+DevOps Engineer with good experience in the IT industry comprising of DevOps, Cloud computing,
+infrastructure configuration management, Linux systems administration, and software configuration
+management (SCM). Automating, and optimizing mission-critical deployments in AWS, leveraging
+configuration management, Cl/CD, and DevOps processes
+
+‘+ linkedin. com/in/Jessica-Claire-7696a0189
+
+‘+ AWS Solution Architect Associate: YS2CKH111111QC5
++ CCNA R&S: CSCO12009623
++ CCNA Voice: CSCO12009623
+
+DEVOPS ENGINEER 10/2021 to CURRENT
+Inmar | Lancaster, MN
+
+‘+ Monitoring automated build and continuous software integration process to drive build/release failure
+resolution
+
+‘+ Working with cross-teams to help them with continuous integration process for their applications using
+Bitbucket CI/CD
+
+‘+ Implemented sonarqube from scratch in AWS ec2 and integrated with Bitbucket pipeline for continuous
+Analysis of code
+
+‘+ Also worked with DNS team to get $$O(Single sign On) for sonarqube and Jenkins.
+
++ Used Conan to download and upload required dependencies for building C++ code from Jfrog
+artifactory. Also integrated Conan in Bitbucket pipeline
+
+‘+ Involved in creating a platform for the code to build in bitbucket CI/CD using custom Docker images.
+
+‘+ Also responsible for building and pushing the docker images to AWS ECR. Integrated AWS ECR with
+Jenkins and Bitbucket CI/CD
+
+‘+ Implemented multiple environments like development and production for DevOps
+
+‘+ Automated backup and recovery procedures for the AWS EC2 in AWS by creating snapshots.
+
+‘+ Used Terraform to build the AWS infrastructure and responsible for writing terraform templates,
+modules, and maintenance of infrastructure
+
+‘+ Involved in setting up the automatic release pipeline in all environments using Jenkins
+
+‘+ Worked as a Bitbucket Administrator and responsible for all the activates in the Bitbucket
+
+‘+ Also developed a python script, Automatically download and upload the artifacts from GitLab to Jfrog
+artifactory.
+
+DEQOPS ENGINEER 06/2020 to 07/2022
+Inmar | Tallahassee, FL
+
++ Worked with developmenttesting, deployment, systems/infrastructure, and project teams to ensure
+continuous operation of build and test systems on Agile methodology.
+
+‘+ Worked on git branching strategies and maintained Source Code repository infrastructure using GIT
+
+‘+ Installed, configured, and administrated all UNIX/LINUX servers, including the design and selection of
+relevant hardware to Support the installation/upgrades of Amazon Linux and Ubuntu operating
+systems
+
+‘+ Used AWS components like EC2 instances, $3, Cloud Watch, Load Balancer, IAM, AWS Lambda
+through Terraform
+
+‘+ Used Terraform scripts to Automate Instances for Manual Instances that were launched before.
+
+‘+ Designed, installed, and implemented configuration management systems using Ansible.
+
+‘+ Worked on various scripting languages like YAML, Shell, Python,Bash and Powershell.
+
+‘+ Worked on installing Docker & creating custom Docker container images, tagging, and pushing the
+images.
+
++ Managed Kubernetes charts using Heim, Created reproducible builds of the Kubernetes applications,
+managed Kubernetes manifest files, and managed releases of Helm packages
+
+‘+ Installed and Configured Jenkins to build various jobs for application deployment and test cases
+execution
+
++ Also had good experience with setting up SQL and NOSQL database
+
+Involved in implementing the splunk and also responsible for monitoring using splunk
+
+AVC3 CLOUD ENGINEER 09/2019 to 04/2020
+Convergeone | Bloomington, MN
+
++ Coordinated in building UNIX! Linux platforms for different applications, troubleshooting, and creating
+technical documentation
+
++ Managed Ubuntu Linux and Windows virtual servers on AWS EC2.
+
+‘+ Helped the project in creating the company's DevOps strategy in a mixed environment of Linux (RHEL,
+Ubuntu) servers along with creating and implementing a cloud strategy based on Amazon Web
+Services (AWS)
+
++ Launched Confidential EC2 Cloud Instances using Confidential Web Services (Linux/Ubuntu) and
+configured launched instances with respect to specific applications
+
+‘+ Provided consistent environment using Kubernetes for deployment scaling and load balancing the
+application from dev through production, easing the code development and deployment pipeline by
+implementing Docker containerization with multiple namespaces
+
+‘+ Implemented and maintained the monitoring and alerting of production and corporate servers/storage
+using AWS Cloud Watch.
+
++ Methodologies/Issue Tracking: DLC, Agile CL-CD/Build Tools: Bitbucket, Jenkins
+* Configuration Management Tools: Ansible Scripting Languages: Python, Shell Scripting,
++ Infrastructure as a code: Terraform Power Shell,Bash
++ Containers and Orchestration tools: Docker, Versions Control: GIT, GitHub, Bitbucket, SVN
+Kubernetes + Operating System: Linux (Ubuntu, Centos) ,
+‘+ Cloud Technologies: AWS (EC2, ELB, EKS, IAM, Windows
+3, Cloudwatch), Azure
+
+Master of Science | Computer And Information Systems Security 01/2021
+University of The Cumberlands, Williamsburg, KY
++ 38GPA

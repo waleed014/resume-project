@@ -1,0 +1,229 @@
+Senne
+
+Jessica CLAIRE
+
+100 Mengemery St. Ok Flee
+(655) 92-1000-renmerample@eranple com
+
+_AMAWS DevOps Engine with rund 7 year of experince in Visi platforms, Good racic sil with ineenting Tol and
+‘Teckzolopie. Exprince on Serer infarct, Migration, Mentoring, Automation nd Secu
+
+AWS, Clvd Migration, lod Cost Optimizsion, Instore
+‘Mocitoricg, Chef, ANSIBLE, Jes, GOCD,IBMISAM. GI,
+[NEWRELIC, SPLUNK, GRAFANA, DIVWY CLOUD,
+‘TERRAFORM, Shell sty, DOCKER,EKS, PACKER,
+
+Exrnusce
+
+2021 w Cunect
+
+2020 Curent
+
+on2017 9012020
+
+122012. 012015
+
+DevOps Engineer
+‘Koch Industries, Ine. - Marine, VA,
++ Autmited aplication ld od deployment, ving efleny of code develope rces.
++ Pesfrming Automatic deployments in Des. CT, PRE-PROD, PROD enviroment by daily and weekly basis
+tyrusing Anis ein.
++ Cesing mip jeakins bs fr yt day activites and alo plying new jails with version mbes ino
+the NensArifactey
++ Creing aed updating change equ lo handling change manager in diy bass,
++ Working wit developers and QA team for aiatig changes 2nd fixing sues.
++ Working with BM ISAM fr fer alidsting and deploying the new changes in ach india os.
++ Worked on SSL certificate pines and seeing expired ceria repr and enewig the CERTS wing
+VENA
++ Working with Anil scrips creating ne ecipes and sles as per the requenet
++ Bling new Cent server ad cooing ith Anil playbook
++ Amlyaing the rack tickets ad updating, and deploying changes ito vasious enviouent spr the request,
+
+AWS DevOps Engineer
+‘Management Decisions, In. Agoura Hills, CA
++ Responsible for uig aed misaiing nasucce ANTS
++ Worked cn secret manage nd SSH auteatcatonPOC's ike Teleport, asicep Vault
++ Automated AMI bull proces sing Anse roes and playtoks.
++ Insal nd configure Asble towers to Build servers ad deploy the configuration
++ Crewe plabooks fi tomcat delay tai and dam coteat
++ Creed plabooks fo sta stop estat operations ano manage da.
++ Crewe plabooks to crete erin ysl and LDAP
++ Crested enka pipelines for avtomating AM bul proces ato vais AWS accouats.
++ Attmited Teton of AMls ad snpet in periods
++ Worked co SSH KEYPAIR mechani fo scwel) maintaining ad sig sere,
++ Developed nd mission Haticrp Val fre? sh athenstion and secret tre
++ Involved in development of Graf and Global Praetose
++ Tove in Alo cotinine aaron ee
++ Bing and maintaining ENR vase! cher fr eas sing tatoo males
++ Bing and maintaining EKS clusters wing terafiem modules.
++ Worked co upgrading EXS clusters upgrades fom one vena to antes version.
++ Worked co updating Jenkins mater ad slaves fom amazon iat 19 amazon in
++ Knowledge an mole Aflow ontsinezaton
++ Sped some ime on IAM Role setup and wer atheatation and MFA,
+
+DexSECOps Enpater
+Rex These AZ
+
++ Suppor Applicaton ems te reat and mange thei apps and eave sues by woking alg wih tem,
+
++ Automating the infarct at much posible ing ear and sel
+
++ Builth POC fo Java and Node Js pplication deployment in ECS ané East beast wing tearm od
+Senki
+
++ Deploy and menitoriaastsnse tos ike AWS, Chef, BNEX(enin), GOCD, Seas, Newel, an Rundeck,
+SigalFX.
+
++ Automate instruct a cole fo ling AWS, new elie resources wing tear
+
++ Working on Ver cerfcats and upload t AWS cetfcate manages, fod Balance and Alana
+
++ calibers inthe atomaion of AWS infasrcte via era, wopoepbere, GOCD at Jenkins sofa nd
+series confguaton via che ootbocks
+
++ Working on migrating fom GOCD pipeline o Fens.
+
++ Configuring Chef to ld wp services ad pplication on the instance nce hey have Bee coniued wing
+load formation.
+
++ Experience in Akamai wer management and confewaoes.
+
++ xperene in verify certfcate management nd renewal and upload to AWS IAM, AWS crs manage and
+‘kama sh
+
++ Exesive experience in Maing instruct at ect and wpgrading version wing che, lio experience in
+‘beat Patching, Kemel upgrades,
+
++ Werke onSyten/Apache OpenSSL. isco version Upgrades sing Cookbooks,
+
++ Worked co mpl Web Applicaton services majorinior version uppraies like Java, Node, Apache
+
++ Working on sel scripting Ry Srping ad Python,
+
++ Provided secs and managed wer access apd quta sing AWS Mey and Access Managment (AM,
+‘acoding cet new Policies for usedtole manage
+
++ Automated dis proces sing Teafom log with Teraznt
+
++ Writing Chef cookbooks, recipes, roles and Daa Bags ad plating tem ono the che sever forth instances
+‘haar configure wth the changes pickup the tet code
+
++ Worked on cating SES mail and esting wit cl clients fr application teams.
+
++ Experience wth Docker ad Ts hichen for testing the chef cookbooks local ele deploying.
+
++ Worked cn itpecting et cae fo testing ANT td chef cooks.
+
++ Worked on Sp fr ogging application og fle fan instance tote Splunk
+
++ Responsible for guaely AMI paces, seca less
+
++ Poin ith GOCD fr continous interation an continous deployment and fr End t-Ead
+
++ Experience in source ool tens ike SUN, GITHUB.
+
++ Responsible for operating for Gib, Cental Nike Gib Ete.
+
++ Mositred sever lent wing Sese ad new Relic and seting pales al seers fo CPU menting. disk
+wage memory usage
+
++ Worked co migrating Afar dato cenal Ariicteyan lo response fr pplication, toca over >
+
++ Experience on atomatng inate sing Jens and Tear
+
++ Igvlved in evie, sams meting and cootdzted with team ener
+
++ Communicating wih dfereat pplication eam members and coming up with solwins fr problems.
+
++ Exyenence innings house stem lenin
+
+* Tania various application teams wi the coceps of DevOps se at ou nase
+
++ Worked na team whichis spose fr disaster ecosery by Inne lth pplicaon tack in dent,
+sesioes.
+
++ Worked On making POC's, best practices an re bl templates fr Sereess Application bil and ployment
+
++ Enroement AWS, eben, Nodes, Arto, sewebe,Kubenets, Teafoe,teagrnt,Gthb, Chef,
+Docker, Sens, Lambs, GOCD, Ctl SinglX, Jenkins, Rundeck, Dives
+
+Internde DevOps Engineer Linsx Administrator
+‘alli Information Technologies PUT LTD ~ Ci, STATE
+
+‘Tasted to design ad bud multiple RHEL x serves into OS hardening RHELS x6 x mision cites
+Oracle RAC Chaser, and VSF and make ay for App Test,
+
++ Used ava tle Plgiato suppet the elease of ais application snaps.
+
++ Insal-confgue maintain th Lins serves, DNS, DHCE, SMTP, SSHD.
+
++ Uses LA creating Volume Groups, Logical volumes a disk mirering in Lina
+
++ Seting up and wosbleshotng wer workstations sed on RedHat Lina
+
++ Account, wer and proup administration, Pemitsions policy management and quota inpementtion, User and
+(Group Adasnisation.
+
++ Worked on User management and group management,
+
++ System perfomance monitoring ning and lop management, TCP Networking twovblesboting a Lines
+‘Neoork Adminston
+
++ Assign Roles, manage Users nt groups ad asso policies sing IWS [eat and Access Management (LAND,
+
++ Hostile eaties, moat pit creation, ser scout unock ad ter ssbereselition.
+
++ Job schadlins for wer sing Coa
+
++ Worked on Jeekins ould and tet the applications.
+
++ Werke ca Jenkin pipeline sues
+
++ Monitring creation acknowledgment and categorization of kets,
+
++ Disk Space snd Logical Wohame manager (LVM) Management Li
+
++ tesalling coniguing ad weblesbootiag mai servers Post
+
++ DHCP Server coniguaion toms the eting up of, Name Serer and Gateway
+
++ Using LVM (Lopeal Volume Manag ols extend Linx Security Sees: IP ables, SELina, Few
+
++ (Accept & Reject dient ersces ike FTP, SH et).
+
++ Config era ameter oa Linx sees.
+
++ Yun pctige epic configuration on Lint server Backup and eto tng arching tol (1)
+
++ Configuring and alscisvaion of FT, NFS, SAMBA, APACHE servers
+
++ Configuring DNS, DHCP and MAIL sever,
+
++ Patching wine yuo and pen.
+
++ Troubleshooting the Booting sue
+
++ ate of mst ofthe booting ies and now howto iit
+
++ Preparing shell srs for atomaton of peered repeated process.
+
++ Pesfrming all Liou Administ tsk independent
+
++ Insllng physical sever and OS (RHELS, RHEL7) Environment Rel, Server confgutons, AWS, Git,
+Ceosoh LVM
+
+Epveanos asp Tranasc
+
+Bachelor of Science: Computer See
+
+ Engineving. NTU
+
+Jyothishimath Cllege of Eginerng Hyderabad
+
+Master of Science: Computer Seence & Information Technology
+‘Saered Heart Ualversity-Comseciut
+
+(Cermeanions
+
++ Ceited Red Hat Ceri System Engineer (RCE)
++ Ceied Re Hist Card System Administer (RCSA),

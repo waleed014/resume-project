@@ -1,0 +1,217 @@
+SKILLS
+
+v Excellent work ethic,
+professionalism, attention
+to detail, ability to work in
+a highly collaborative team
+environment
+
+¥ Excellent analytical skills
+with the ability to manage
+time, priorities, and
+requests. Excellent
+‘communication and
+interpersonal skils
+
+¥ Strong knowledge of
+database recovery models,
+high-availability (HA) and
+disaster recovery (DR)
+‘options for SQL Server
+
+¥ Ability to produce quality
+‘work products with
+attention to detail
+
+¥ Highly self-motivated and
+adaptable to learning and
+understanding new
+technologies
+
+¥ Good interpersonal skills;
+solid team player
+Experience with building
+a highly available
+environment (mirroring/log
+shipping/ Always on)
+
+¥ Ability to serve and
+‘communicate with diverse
+dient base
+
+¥ Effective time
+management
+
+¥ Work from Home:
+experience
+
+EDUCATION
+
+Catholic University of
+Cameroon
+
+Bamenda - 07/2018
+Bachelor of Science:
+Biochemistry
+
+Presbyterian Secondary
+‘School
+Bafut + 07/2014
+
+High School Diploma
+
+PROFESSIONAL SUMMARY
+
+Highly analytical and results-driven IT professional with over 5 years of working
+experience in database administration.
+
+Proven success in the deployment of effective IT roadmaps, processes, and procedures
+including setting up high availability and disaster recovery solutions in SQL such as Always,
+On availability groups, log shipping, mirroring, replication, and traditional failover
+clustering.
+
+Demonstrated history of successful execution of various processes including disaster
+recovery solutions, performance tuning, and monitoring.
+
+‘Advanced skills in IDERA and Solar Winds Monitoring Tools.
+
+Organized and dependable candidate successful at managing multiple priorities with a
+positive attitude. Willingness to take on added responsibilities to meet team goals.
+
+WORK HISTORY
+
+Asrc Federal Holding Company - SQL Database Administrator
+Stennis Space Center, MS + 01/XXXO - Current
+
++ Produced high-standard database solutions to meet stability, reliability, and
+performance metrics.
+
++ Created optimal technical solutions to user needs through research and in-depth
+system analysis.
+
++ Administered, supported, and monitored databases by proactively resolving database
+issues and maintaining servers.
+
++ Wrote and maintained technical and functional specifications to document database
+intentions and requirements.
+
++ Configured High Availability and disaster recovery solutions such as Always on,
+Traditional Failover Clustering, Replication, and Log shipping.
+
++ Setting up TDE and always encrypted
+
++ Setup, test and maintain business continuity/ disaster recovery infrastructure
+database and applications.
+
++ Migrating and upgrading SQL server 2012 to SQL server 2019
+
++ Planned and implemented security measures to safeguard vital business data.
+
++ Implemented BI solution framework for end-to-end business intelligence projects.
+
++ Upgrading SQL server by reviewing, planning, testing, and installing database securing
+patches and service packs.
+
++ SQL Server Profiler, Extended Events, Query Store, and Database Engine Tuning
+‘Advisor (DTA) for performance.
+
++ Implemented system enhancements to propose, design, and develop solutions to fulfil
+requests and address problem reports.
+
++ Administered, supported, and monitored databases by proactively resolving database
+‘issues and maintaining servers.
+
++ Supported multiple concurrent projects enabling delivery efficiencies and technical
+resolution.
+
++ Maintained complex T-SQL queries, views, and stored procedures in a multi-database
+environment with little supervision.
+
++ Managed workload independently but collaborated with colleagues to complete larger
+scale tasks in a distributed team environment.
+
++ Integrated Enterprise Business Objects infrastructure with SSRS (SQL Server Reporting
+service) for front-end reporting
+
+Chenega Mios - Database Administrator
+Winchester, VA + 10/2018 - 11/2019
+
++ Produced high-standard database solutions to meet stability, reliability, and
+performance metrics.
+
+- Installing and maintaining SQL Server database systems. Maintaining the database
+
+systems includes but is not limited to ensuring successful backups, resolving system
+
+‘issues, opening cases with vendors to resolve issues, monitoring success and failure of
+
+automated jobs, monitoring system availability, updating system documentation, system,
+
+and database recovery.
+
++ Wrote and maintained technical and functional specifications to document database
+intentions and requirements.
+
++ Implemented high-standard database solutions to meet stability, reliability, and
+performance metrics.
+
++ Followed standard practices for migrating changes to test and production
+environments and provided technical support to meet business requirements.
+
++ Coordinating with the Systems Administration team, in building virtual machines for
+SQL installation
+
++ Upgrading SQL Server by reviewing, planning, testing, and installing database security
+patches and service pack.
+
++ Maintained complex T-SQL queries, views, and stored procedures in a multi-database
+environment with little supervision.
+
++ Managed workload independently but collaborated with colleagues to complete larger-
+scale tasks in a distributed team environment.
+
++ Migrating and upgrading SQL server 2008 to SQL server 2016
+
++ Setup and maintenance of appropriate database and application monitoring using
+Idera monitoring tool
+
++ Implemented BI solution framework for end-to-end business intelligence projects.
+
+Select Medical Corporation - Junior Database Administrator
+Manchester, CT + 03/2017 - 04/2018
+
++ Administered, supported, and monitored databases by proactively resolving database
+issues and maintaining servers.
+
+‘* Perform all day-to-day aspects of MS SQL database and Administration such as:
+
+Installations, configuration, upgrades, security, user management, and Logins,
+
+performance tuning and monitoring, database Availability, backup and recovery,
+
+troubleshooting, and problem resolution.
+
+‘Perform tasks for data recovery, Maintenance, and promoting integrity. Creating and
+
+modifying tables, running stored procedures, views, indexes, and triggers just to name a
+
+few.
+
+‘* Work with the development team to resolve bug fixes and assist in relevant testing
+
+through various environments.
+
++ Set up and controlled user-profiles and access levels for each database segment to
+protect important data.
+
+Perform automated Jobs to run and resolve database issues.
+
++ Eliminated downtime by accurately implementing High Availability solutions such as
+Always-on mission-critical database.
+
++ Planned and implemented security measures to safeguard vital business data.
+
+‘* Respond promptly to user complaints regarding access to a database.
+
++ Set up and controlled user-profiles and access levels for each database segment to
+protect important data.

@@ -1,0 +1,145 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 82 (555) 432-1000 4 resumesample@example.com
+
+3 years of experience as a System Administrator/Cloud Operation/Devops Engineer Experience in technical
+trouleshooting in areas like Computer, Linux.AWS and Windows
+
+Able to deliver solutions using automation scripting and making decision quickly. Excellent reputation for
+resolving problems and improving customer satisfaction
+
+Critical thinking DevOps Engineer with extensive understanding of high availabilty architecture and concepts
+Purpose-driven professional with capacity to be strong team player plus work effectively independently.
+
+oo + Operating System:Linux, Windows
+CDJenkins, maven, Docker Ansible, Kubernetes Cloud computing:AWS, Azure
+‘+ Automation:Bash shell scripting Jenkins pipeline Configuration management
+
+‘+ Version control system:Git + Serverinetwork configuration
+‘+ Web servers: Tomcat.apache + Testing. debugging and deploying
++ Test and building :Maven and Jenkins + Tools customization (Jenkins plugings)
+
+‘+ Monitoring:Splunk, promethus
+
+DEVOPS ENGINEER 10/2019 to CURRENT
+Jpmorgan Chase & Co. | Newport Beach, CA
+
++ Standardized common developement tools and Infrastructure including ansible to achieve faster
+deliveries to production
+
++ Extensive knowledge in CD process using ansible,jenkins pipeline and kubernetes to deploy quicker
+and efficient production
+
+‘+ Built continous intergration enviroment (Cl andCD) using Jenkins.
+
+‘+ Using ansible to deploy to AWS by creating cloud compute instance (ec2), database by configuring
+Jenkins with parameters of dedeployment.
+
++ Collaborated with cross-functional development team members to analyze potential system solutions
+based on evolving client requirements.
+
++ Wrote code and developed tools and integrations to meet cross-platform user needs
+
++ Collaborate with developement team members to create and intergrate high availability solution for
+applications
+
+‘+ Experience in scripting in the Jenkins pipeline by using Jenkinfiles to automate build process.
+
+‘+ Creating containerized and customised software using Docker to manage and deploy applications
+
+‘+ Install monitorint software such as splunk to consistently check the health of our infrastructure to make
+sure health situation should does not interfer with critical process
+
+‘+ Tested and troubleshoot application and document issue resolutions for developement team.
+
+‘+ Cooperate with project partners to develope system analysis and new system base on client
+specifications.
+
+‘+ Researche latest tools and technologies to determine effectiveness in agile environment growth
+
+‘+ Automate application build and deployment driving efficiency of code developement process.
+
+‘+ Applied best practices at all times and encourage othersto do the same, which help to maintain
+efficiency and effective security.
+
+‘+ Identified areas of applications for regression testing following software update, system changes to avoid
+unnecessary downtime and recording
+
++ Devised automation,backup and recovery protocols to preserve and safeguard data
+
+‘+ Update software upon release of vendor patches to mitigate vulnerabilities
+
++ Leverage Agile methodologies to move development lifecycle rapidly through initial prototyping to
+enterprise quality testing and final impimentatiom
+
+‘+ Worked closely with other business analysts, development teams and infrastructure specialists to
+deliver high availability solutions for mission-critical applications
+
++ Worked closely with software development and testing team members to design and develop robust
+solutions to meet client requirements for functionality, scalability and performance.
+
++ Researched and identified new technologies and tools helping to grow agile development environment.
+
+‘+ Write code and supported architecture in high-throughput systems on cloud
+
+‘+ Designed and built automation tools and applications to deploy next generation platform
+
+Lic
+
+X SYSTEM ADMINISTRATOR 01/2019 to CURRENT
+Kratos Defense And Security | Huntsville, AL
+
++ Provided input on hardware and software purchasing, prioritizing return on investment to optimize IT
+spending
+
+‘+ Building Ha proxyl server
+
+‘+ Experience building LAMP stack server
+
+‘+ Interacted directly with users to diagnose and correct major system issues and address concerns.
+
+‘+ Maintained smooth operation of multi-user computer systems through collaboration with hardware and
+network engineers.
+
++ Resolved vulnerabilities by making improvements to network security.
+
+‘+ Created and serviced administrator and user accounts on Linux-based systems, managing
+deployments.
+
+‘+ Tuned system performance to optimize efficacy of new and existing hardware components.
+
+‘+ Resolved issues and escalated problems with knowledgeable support and quality service.
+
+‘+ Implemented, developed and tested installation and update of file servers, print servers and application
+servers in all departments.
+
++ Performed network security design and integration duties
+
++ Made recommendations regarding information technology infrastructure overhauls.
+
+‘+ Maintained flexible schedule and responded to after-hours and weekend emergencies
+
+TECCHER 09/2008 to 11/2018
+
+North Country Academy | Schertz, TX
+
+‘+ Incorporated exciting and engaging activities to reinforce student participation and hands-on learning
+
++ Graded and evaluated student assignments, papers and course work.
+
++ Evaluated and revised lesson plans and course content to facilitate and moderate classroom
+discussions and student-centered learning
+
++ Kept students on-task with proactive behavior modification and positive reinforcement strategies
+
+Master of Science | Computer Science 05/2023
+Universty Of Central Missouri, Missouri City, MO

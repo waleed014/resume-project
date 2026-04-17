@@ -1,0 +1,105 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 « (555) 432-1000  resumesamplesexample.com
+
+Summary
+Highly organized and detailed-oriented Analyst with 15 years of professional experience providing expert problem resolution and.
+customer support to U.S Navy, Marine Corp, and civilian customers.
+
+Highlights
++ Vast computer sills + Extensive technical knowledge
++ Fluent communicator + Proven Problem solver
++ Customer service expert + Deadline-oriented
+Experience
+
+Aviation Records Analyst, 06/2014 to Current
+Abb Ltd ~ Cincinnati, OH
++ Utilize the SkyBOOKs aviation maintenance tracking application to provide aircraft configuration and maintenance program
+‘compliance data to "build” aircraft electronic logbooks accurately and in a timely manner within a web-based software
+application (SaaS) providing an all-around complete product to the aircraft owner / operator ensuring a precise aircraft
+‘maintenance planning and tracking tool.
+‘+ Meticulously researched and accurately analyzed over 200 aviation logbooks and other forms of maintenance documentation
+provided by aircraft owner operators to determine compliance in accordance with specified maintenance requirements.
++ Expertly examined aircraft engine and aircraft specific component maintenance manwals and Instructions for Research
+Airworthiness documents to determine required maintenance actions and associated intervals
+
+Functional Analyst, 01/2014 to 05/2014
+Ebix, Inc. -Johns Creek, GA.
+
++ Provide information systems technical support inchiding numerous windows servers and two Linux servers supporting over
+1,000 military and civilian customers.
+
++ Diligently conducted vital daily server system checks ensuring 100% system availability 24 hours a day, performed nightly
+server back-ups, release and print batch reports, monitor and ensure continuous successful system interface with Navy ERP, and
+provide system maintenance and troubleshooting when required.
+
+«+ Responsible for ensuring the timely review and updates of the teams vital Standard Operating Procedure technical documents.
+
+‘Technical Support Representative, 11/2004 to 09/2013
+Longwave Inc, And BAE Systems - City, STATE
+‘+ SME for the web based Advanced Skill Management (ASM) application's day-to-day operations including the training of Naval
+[personnel in the use of ASM, electronic and paper record keeping, troubleshooting, resolving and documenting customer issues,
+soliciting enhancements, and verification of vital data entry requirements into the ASM application for use by the majority of the
+naval aviation community encompassing over 4500 military and civilian personnel.
++ Directed the design, development, quality assurance, implementation, and management of approximately 3000 mission critical
+technical documents within the ASM program.
++ Coordinated implementation of new systems, patches and other on-site upgrades, implementation and testing of enhancements
+to ASM to ensure maximum utility and functionality of the ASM system to meet customer needs and expectations.
++ Single point of contact for collecting and interpreting customer feedback on all problematic E-tool issues and data from all 19
+Naval and Marine sites and advised higher management as to suggested actions for immediate resolution.
++ Provided expert user support to the development team on customer needs and assist customers in articulating user needs and
+recommendations.
+
+Aviation Data Analyst E-6, 02/1999 to 10/2004
+United States Navy
+‘+ Proven Aviation Data Analyst for the U.S. Navy at Naval Air Station Jacksonville, FL. supporting numerous aircraft and types of
+_ground support equipment. Performed a variety of functional processes using NTCSS Desktop Il. Changes NTCSS passwords,
+-monitors and manages print request and printer configurations, monitors system information, changes application process
+limits, Maintained system security. Inputs, extracts, analyze and validate maintenance data; develops and interprets,
+‘management reports, monitor input of data and the parameters for up-line reporting and related interface requirements
+Performed analysis of aviation 3M data as directed and in support of the Naval Aviation Maintenance Program. Regularly
+prepared highly detailed data summaries and reports using SQL ad hocs, spreadsheet, graphical, narrative, and oral
+presentations.
+«Increased analytical focus on vital source documents led to a 50% decrease in component tumaround time from 7.4 days to3.7
+days and a 45% increase in corrosion man-hour documentation from 4,950 hours to over 9,000 hours
+‘+ Expert analytical ability allowed for the timely implementation and accurate management of the Aviation Financial Analysis
+‘Tool (AFAST) application which was directly responsible for saving the command over 37 million dollars.
+
+Education
+
+High School Diploma: 1984
+Downers Grove South High School - Downers Grove, IL
+
+Associate of Science: Computer Science
+Florida State College of Jacksonville - Jacksonville, FL.
+
+Seeking Degree in Computer Science and Information, 2011-2015 3.36 GPA; 55 Semester Hours completed. Courses completed:
+‘Computer Concepts, Intro to the Internet, Hardware Configuration, Software Configuration, Micro-Computer Applications,
+Database Concepts, Intro to Computer Programing, Oracle SQL and PL/SQL, Customer Support Operations, Project Management,
+Computer Networking, Web Technologies, Information Systems, and Internet Programing
+
+Accomplishments
+
++ One year experience as Aviation Records Analyst for Bell Helicopter
+
++ Four months experience as a Linws/Unix Functional Analyst at Naval Air Station Jacksonville
+
++ Nine years’ experience as a Technical Support Representative for the U.S. Navy's web based Advanced Skill Management (ASM)
+Naval Aviation maintenance training application
+
+« Five years' experience as a Data Analyst for the U.S. Navy
+
++ Very proficient computer skills. Experienced with Microsoft Word, Excel, Access, and Power Point, Outlook, Internet, and MS
+Project, SQL, hardware and software installations
+
+Certifications
++ Eamed Technical Certificate for IT Customer Support Specialist from Florida State College of Jacksonville.
+
+Skills
+
+Computers, Sl, Customer Support, Database, Networking, Oracle, Pl/sql, roject Management, Software Configuration, Aviation,
+
+‘Web Based, Technical Support, Data Entry, Documenting, Quality Assurance, Subject Matter Expert, Testing, Training,
+
+Analyst, Aircraft Maintenance, Saas, Crystal Reports, Excel, Linux/unix, Microsoft Project, Microsoft Word, Ms Project, Outlook,
+Python, Remedy, Scanning, Unix, Word, Enterprise Resource Planning.

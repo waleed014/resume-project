@@ -1,0 +1,131 @@
+Jrssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 # (855) 432-1000 @ resumesample@example.com
+
+PROFILE
+
+- Qualified Professional DBA seeking a position that includes projects requiring state-of the-art, software, and hardware components with a
+creative technology-driven organization in an environment encouraging innovative thinking, recognition, and career development
+
+- Versatile in establishing client relationships for understanding their business processes, user tasks & goals; analyzing and defining
+requirements to ensure efficient and cost-saving technological solutions to meet and exceed the client's needs
+
+- Results-driven Network Administrator with experience in back-end programming, relational databases and development maintenance of
+complex and critical systems
+
+- Personality Traits: Strong motivational and leadership skills; excellent communication skills in written and verbal; ability to produce the best
+result in pressure situation; ability to work in team as well as individual
+
+Core QUALIFICATIONS
+-Over SIX years experience within IT Industry working asa Experience in several tols management such as Oracle Enterprise
+Professional DBA in OLTP and DSS environments mainly using Oracle Manager (or EM), TOAD and SQL Developer.
+
+Database 11g/109/i. -Over FOUR years experience with Oracle RAC 10g/t1g
+-Excellent experience in Installation and Configuration of diffrent implementation and environment
+
+databases on Operating Systems UNIX and Windows platforms, _-Provision of 24x7 Remote/On-Call production support.
+-Successfully completed various projects involving ASM Setup, Known Technologies
+
+RMAN Backup and Recovery, Data Guard implementation for real timeSQL Language, PL/SQL, Oracle Data Guard, Oracle Flashback,
+
+‘Disaster Recovery, Installation, Configuration, Database Upgrades Windows OS, Linux Shell Scripting, Oracle ASM, GNU/Linux OS, C+
+
+using Data Pump utilities and quarterly Patching, Migration, Cloning, +, C and Java, DNS'Bind configuration
+
+and Performance Tuning by the usage of AWR, ADDM, SQL Tuning Tools, Utilities, and Applications
+
+“Advisor, indexes, tablespace compression, UO minimizations through SQL*Plus, Data Pump, AWR, SQL Loader, Oracle SQL Developer,
+
+hardware RAID and other load balancing techniques. Oracle Grid Control Management, TOAD, Oracle RMAN, Adobe
+Fireworks, Microsoft Office, Visio, Virtual Box, VMware
+
+TECHNICAL SKILLS
+
+Oracle 11gR2/109/9i, Agile Professional 6 April 2015
+
+PROFESSIONAL EXPERIENCE
+
+Oracle Database Consultant, 2012 - Current
+BIRIR Inc - City, STATE,
+
++ Installed and configured Oracle 11g R1 RAC using NetApp & NFS for storage, conducted bi-weekly cold backups using Linux Ivm snapshot
+and NetApp snapshot for disaster recovery to offsite location
+
+~ Configured Oracle database server to connect to non-Oracle systems like MS SQL server and MySQL databases in a fully heterogeneous
+environment
+
+- Upgraded Oracle 1gR to 11gR2
+
+- Performed disaster recovery and provided recommendations to senior management for implementation,
+
+- Performed database performance tuning activities using tools like ADDM reports and SQL tuning advisor
+
+- Supported research efforts in Oracle replication technologies like Data Guard
+
+~ Automated database administration routines, eg. backup and recovery, data pump export/import activities, schema reftesh from different
+sources, creation and disk usage monitoring
+
+- Designed and implemented Oracle user audit collection and led the DBA team by architecting data flows to the presentation tiers for senior
+‘management
+
+- Analyzed database research results and documented findings
+
+‘Mid evel Oracle Database Administrator, 2010 - 2012
+‘Chaveran Inc City, STATE
+
+Database Architecture and ASM (Initialization parameter setting for ASM database instances, ASM disk groups administration)
+ Recoverabilty configuration using multiplex archived log file destination, retention policies, Flash Recovery Area
+
+- Performing User- Managed Backup and Recovery (of contro file, redo log groups, password file, complete and incomplete database recovery)
+~ Utilizing RMAN for Backup and Recovery using Recovery Catalog and database duplication
+
+~ Managing resources using profiles, roles, privileges, and resource plans.
+
+- Managing memory by implementing AMM, ASMM, and configure SGA and PGA,
+
+~ Managing database performance using SQL Tuning Advisor and SQL Access Advisor
+
+~ Space management
+
+- Diagnosing the database using Automatic Workload Repository (setup, use of workbench, and perform block media recovery)
+
+EDUCATION
+
+‘BSS.: Health System Management, 2014
+‘University of Baltimore - Baltimore, Maryland
+BSS, Health System Management, University of Baltimore 2014
+
+‘B.A: Accounting, 2009
+University of Yaoundé - Yaounde, Centre
+B.A. Accounting, University of Yaoundé, Cameroon 2009
+
+MS.: Applied Information Technology, Software Engineering
+
+‘Towson University - Towson, Maryland
+
+‘MS. Applied Information Technology (Concentration in Software Engineering), Towson University (In Progress) expected graduation Dec
+2015
+
+(CERTIFICATIONS
+
+Oracle Centfied Professional 11g
+
+LANGUAGES
+
+English, French, German (Intermediate)
+PROFESSIONAL AFFILIATIONS,
+
+- Volunteer for American Red Cross Washington DC Chapter
+- Member of Jubilee Association of Individuals with Developmental Disabilities, MD
+
+‘SKILLS
+
+- Database Management Systems: process of database development, including data modeling, database design, and database implementation
+- Software Engineering: Software processes, requirement elicitation and analysis, system modeling, various aspects of software design such as.
+architectural and detailed, implementation issues, software testing, and evolution of large and complex software systems
+
+- System Development Process : Systems Development Life Cycle (SDLC) including analysis, design and implementation of information
+systems
+
+- Enterprise Architecture: enterprise-information system architectures including software systems, hardware, operating systems, databases,
+component technologies, networking, architecture pattems, and Unified Modeling Language (UML)

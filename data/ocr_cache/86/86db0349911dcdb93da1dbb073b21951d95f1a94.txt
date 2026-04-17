@@ -1,0 +1,252 @@
+JESSICA
+CLAIRE
+
+@ resumesample@example.com
+& (655) 432-1000
+
+(9 100Montgomery St. 10th
+Floor
+
+SKILLS
+
+«Administering relational
+Database in azure
+«Implement a Secure azure
+Environment
+«Deployment of Databases to
+awe
+« Perform Administration by Using,
+TsQL
+= Monitor and Optimize
+Operational Resources
+«Perform Automation of Tasks.
+= Database Installation and
+configurations
++ Microsoft SQL
++ SQL Server database
+troubleshooting and query
+‘optimization
++ Performing HA/DR techniques -
+‘Always On, Clustering, mirroring
+and Alvays on Availability Group
+= Data conversion and
++ Database administration
++ SQL Server Database
+Performance scalability and
+tone
++ Databases upgrading from lower
+to latest versions/migration/
+patching
+
+Continuous process improvement.
++ Replication and data
+synchronization among multiple
+servers
+
+Replication and data
+synchronization among multiple
+servers
++ Experience in SQL. Server
+Reporting Services (SSRS)
++ Experience in SQL Server
+Integration Services (S515)
+
+EDUCATION
+University of Dschang Cameroon
+Cameroon + 01/2014
+
+‘Master of Arts: International
+Trade
+
+University of Dschang Cameroon
+Cameroon + 06/2012
+
+Bachelor of Arts: Law
+
+CERTIFICATIONS
+
+‘Azure Database Administrator. (
+P.300)
+
+PROFESSIONAL SUMMARY.
+
+Certified Senior SQL Server/Azure Database Administrator. Have over 6years experience in the design
+and administration of databases, as well as key skills in the modeling, development of enterprise
+architectures and the strategic collection and use of business intelligence. Proficient in technical
+software, languages and tools, and able to learn new strategies quickly. Collaborative and team-
+oriented with first-rate oral and written communication, complex problem-solving and decision:
+making abilities.
+
+WORK HISTORY
+
+gi Group Inc. - SQL Server Database Admi
+‘Mansfield, MA» 01/2021 - Current
+“Perform and Monitor daily tasks such as Backups & Restores, maintenance jobs, handling developers?
+requests and user's permissions etc
+
++ Configure/setup Server Properties like Memory Options, Database parameter Settings etc.
+
++ Checking Database Consistency/health by using DBCC Commands DMs at regular intervals.
+
++ Administering relational Database in azure
+
+- Implement a Secure azure Environment
+
++ Deployment of Databases to Azure
+
++ Perform Administration by Using T-SQL.
+
+= Monitor and Optimize Operational Resources
+
+- Perform Automation of Tasks.
+
+= Schedule and monitor maintenance activities including database consistency checks and index
+fragmentation.
+
+Configure Database Maintenance Plans for Backups, Re-indexing, and Reorganization of indexes,
+Cleanup History, and Update Statistics.
+
+= Rebuilding indexes with different fill factors and updating statistics.
+
+* Relocation migration of Databases from one server to another using attach and detach database
+tasks of backup and restore.
+
+Maintained complex T-SQL queries, views and stored procedures in multi-database environment with,
+little supervision.
+
+Developed, updated and organized databases to handle customer data
+
+“Tested programs and databases to identify issues and make necessary modifications.
+
+-Set up and controlled user profiles and access levels for each database segment to protect important
+data.
+
+“Created and implemented database designs and data models.
+
+Modified existing databases to meet unique needs and goals determined during initial evaluation and
+planning process.
+
+Built useful reporting deliverables to property document analysis results and provide performance
+improvement feedback.
+
+-Followed standard practices for migrating changes to test and production environments and provided
+technology support to meet business requirements.
+
+Administered, supported and monitored databases by proactively resolving database issues and
+maintaining servers.
+
+istrator
+
+Kipp Houston Public Schools - Database Administrator
+Houston, TX + 06/2017 - 01/2021
+Developed and implemented security initiatives to protect important company data.
+-Installed SQL Server 2008/2012/2014/2016 in both Standalone V's and Physical dusters server to
+Support muttiple business applications
+ration of database mirroring Atways on Availability Group
+
+= SQL Server Database Performance scalability and indexing
+Database Replication and data synchronization among multiple servers
+“Worked as part ofa project to provide OBA support from VM spin off” installation configuration
+administration of SQL Servers for new applications (begin to end support).
+Experience in planning forthe backup and recovery strategy to meet the business SLA’s for RTO &
+RPO using SQL native backups tools to schedule (FULL, DIFF, translog backups) and other third-party
+tools lke Fog Light (Monitoring tool) and Litespeed (Backup too)
+Developed a few reports using MS SQL Reporting Services.
+= Develops, plans, and establishes database performance basetnes..
+Assessed customer needs and goals through communication and system evaluations to modify
+existing databases for personalized customization.
+“Tested and modified databases to determine and correct issues.
+« Specified user access levels for each database segment to protect database integrity and company
+information.
+- Communicated with data architects, programmers and engineers to keep projects on track.
+“SQL Server Stored Procedure Design and implementation skis.
+~ Coordinated ongoing performance assurance for software appications and automated performance
+test scripts.
+- Identified opportunities for provess improvements to decrease in support calls.
+= Detivered good number projects per year with consistent record of meeting timeline, scope and
+budget requirements.
+- Working with Maximo Change Request (Any changes in Production database need to Create Maximo
+Tickets this should be approved by Global OBA team after changes made in stage and development
+environment).
+“herkadsucsstily ith verse group of coworkers to accomplish goals and ass ses elated
+to our products and services.
+
+tized and organized tasks to efficiently accomplish service goals.
+Developed business continuity programs, procedures and contingency plans based on risk approach
+and proposed solutions to monitor, evaluate and enable resolution of safety and continuity of
+operations compliance.
+-Worked closely with the development team for performance enhancements, code reviews and
+provided vital inputs in terms of index optimization, schema structures, data changes, file layouts
+etc.
+- Extracted data from various sources like SQL Server 2008/2012/2014/2016/2017, Oracle, Teradata,
+€3Y, Excel and Text file from Client servers and through FTP.
++ Prepared and submitted positions and information response to enable business to maintain critical
+operations in event of major disruptions.
+= Identified business functions and information systems to maintain recovery time periods and
+resource requirements.
++ Improved operations by working with team members and customers to find workable solutions.
++ Exceeded customer satisfaction by finding creative solutions to problems.
+
+Kipp Houston Public Schools - Database Administrator
+Dallas, TX + 12/2014 - 05/2017
+
++ Providing 24/7 support for critical production databases
+
++ Providing Primary DBA responsibilities for around 100 applications.
+
+Migrated the SQL Server 2005 /2008R2 to SQL Server 2014/16,
+
++ Provisioning AWS EC2 instances and managing databases running in the coud
+
+= Maintaining 400+ SQL Servers with multiple instances in different environments (RTE, DEY, Pre:prod
+And Production) and proficiency in deploying new code base release to UAT and Production
+Environments.
+
+= Hands-on experience with installation/ Troubleshooting, Managing and Configuration of MS SQL
+Server2017/2016/ 2014/2012/2008R2/ 2008/ 2005 in standalone and cluster environments and
+applying service packs, hotfixes and cumulative updates.
+
+Implementation of automated jobs for database backup on a weekly and monthly basis, based on the
+volatile nature of database tables and indexes.
+
+= Troubleshooting and resolving day-to-day issues such as job failures, transactional log issues,
+blocking and deadlock issues, permission issues etc.
+
+- Migration, creation and configuration of databases based on the specifications sent by the client and
+meet the SLA (Service Level Agreement)
+
+= Administering database security by creating logins, users, groups and managing roles and privileges
+assigned to ther. Also, used database auditing in auditing for suspicious database activities.
+Implemented TOE on some critical database and database table with sensitive data to adhere with
+SOX and PCI compliance.
+
++ Experience and work as part of a team of DBA's to do monthly test of backups and restore and
+perform OR drilling scenarios.
+
+= Work on a project to review all server instances brings them update with service packs and also
+Upgraded most of old and legacy applications running on older versions to support SQL Server 2014.
+
++ Rebuilding / monitoring the indexes at regular intervals for better performance.
+
+= Created proper indexes on different tables that improve the performance of T-SQL queries on the
+database.
+
+Using TSQL for developing stored procedures to enhance the performance of the database system.
+
+= Recovering the databases from backup in disasters. Implementing Point-In-Time Recovery solutions.
+- Configured log shipping, database mirroring (Synchronous & Asynchronous) and replication
+(transactional and snapshot) for synchronization of databases.
+
+= Worked extensively on Extraction, Transformation, loading data from Oracle, DB2, Access, Excel,
+Flat Files and XML using OTS, SSIS. Created and deployed various reports using SRS.
+
+- Used SSIS jobs for importing data from the flat files that brings the data to the application tables.
+
+= Monitoring SQL server performance to find deadlocks and blocking to improve the performance.
+
++ Creation of logins, roles, assigning permissions and mapping users as per the client's request.
+«Analyzing database health and consistency by using DBCC Commands and DMVS
+
+Environment: Microsoft Windows Server 32/64 bit, DB2 10.5/11.1 Linux, IBM Data Studio, Windows
+Enterprise Server 2012/2014, SSIS, SSRS, PowerShell ISE, .NET, TSQL, SQL Server Enterprise Edition
+2014,

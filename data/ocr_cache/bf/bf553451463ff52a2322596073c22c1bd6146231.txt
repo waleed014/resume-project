@@ -1,0 +1,114 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Critical thinking DevOps Engineer with extensive understanding of high availability architecture and concepts. Purpose-driven professional
+with capacity to be strong team player plus work effectively independently.
+
+‘SKILLS
+‘+ DevOps Systems + Jenkins CI
+‘+ UNIX Shell Scripting + Teradata Database
+* Direct Server Support * Atlassian JIRA
+« Project Planning + Linux Environments
++ Version Control Systems + UUX
++ DevOps Principles * Configuration and Management
+Work History
+
+DevOps Engineer, 04/2022 - Current
+‘Management Decisions, Inc. — Burlington, MA
+* Create and maintain fully automated CUCD pipelines for code deployment using Jenkins Deploy and PowerShell.
+‘+ Actively manage, improve, and monitor cloud infrastructure on AWS, EC2, S3, and RDS, including backups, patches, and scaling
+‘+ Built and deployed Docker containers to break up monolithic app into microservices, improving developer workflow, increasing scalability,
+and optimizing speed.
+‘+ Managed GitFfub repositories and permissions, including branching and tagging.
+‘+ Automated build and deployment using Jenkins to reduce human error and speed up production processes
+
+DevOps Engineer, 07/2019 - 12/2020
+‘Camarillo, CA
+‘+ Monitored automated build and continuous software integration process to drive build release failure resolution.
+
+Management Decisions, Inc.
+
+© Worked with software development and testing team members to design and develop robust solutions to meet client requirements for
+functionality, scalability, and performance.
++ Worked with cross-functional design teams to create software solutions that improved overall functionality and performance.
+
++ Created secure custom coding to prevent network threats.
+‘+ Built automation tools and applications to deploy next-generation platforms.
+
++ Collaborated closely with product development teams and other stakeholders.
+
++ Documented project design for reference and future use cases.
+
+‘+ Wrote code and supported architecture in high-throughput systems.
+
+‘+ Automated and implemented system backup and recovery procedures.
+
+‘= Supervised software life cycle from preliminary needs analysis to enterprise-wide deployment and support.
+‘+ Managed testing cycles and coordination of user acceptance testing for software and applications.
+
++ Drove project lifespan from concept to final rollout in development and deployment.
+
++ Collaborated with team to analyze system solutions based on client requirements.
+
+‘+ Wrote code and developed tools and integrations to meet cross-platform user needs.
+
+Sunior DevOps Engineer, 02/2017 - 07/2018
+Dispel — New York, NY
+
+‘* Conducted data modeling, performance and integration testing
+
+‘ Tested and deployed scalable and highly available software products.
+
++ Documented software development methodologies in technical manuals to be used by IT personnel in future projects
+
+‘+ Designed and developed forward-thinking systems that meet user needs and improve productivity.
+
+‘+ Supervised work of programmers, designers and technicians, assigned tasks and monitored performance against targets.
+
+* Optimized dust, temperature and humidity controls for installed systems.
+
++ Created proofs of concept for innovative new solutions.
+
++ Investigated new and emerging software applications to select and implement administrative information systems.
+
+‘+ Rapidly prototyped new data processing capabilities to confirm integration feasibility into existing systems.
+
+* Coordinated deployments of new software, feature updates and fixes.
+
++ Inspected equipment, assessed functionality and optimized controls.
+
+‘* Designed and implemented scalable applications for data extraction and analysis.
+
+‘+ Corrected, modified and upgraded software to improve performance.
+
+Junior DevOps Engineer, 11/2014 - 02/2017
+Guidebook - City, State
+
+‘+ Conducted data modeling, performance and integration testing
+
+«+ Tested and deployed scalable and highly available software products.
+
++ Documented software development methodologies in technical manuals to be used by IT personnel in future projects
+Designed and developed forward-thinking systems that meet user needs and improve productivity.
+
+Supervised work of programmers, designers and technicians, assigned tasks and monitored performance against targets.
+Optimized dust, temperature and humidity controls for installed systems.
+
+Created proofs of concept for innovative new solutions.
+
+Investigated new and emerging software applications to select and implement administrative information systems.
+‘+ Rapidly prototyped new data processing capabilities to confirm integration feasibility into existing systems.
+Coordinated deployments of new software, feature updates and fixes.
+
+‘+ Inspected equipment, assessed functionality and optimized controls.
+
+EDUCATION
+Master of Science: Computer Science, 12/2022
+
+University of Dayton - Dayton, OH
+
+Bachelor of Science: Electronics And Communications Engineering, 03/2014
+Kakatiya University - India

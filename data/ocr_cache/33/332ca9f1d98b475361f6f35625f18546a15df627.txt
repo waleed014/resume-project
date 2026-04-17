@@ -1,0 +1,99 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL EXPERIENCE
+
+Oracle Database Admii
+
+rator
+Cognizant Technology Solutions — Annandale, NI
+
+Provides remote Oracle database administration for a wide variety of companies ranging in size from Fortune 500 companies to much smaller
+firms. 3 years of experience in remote Oracle database administration
+
+Manages customer environments, which includes: monitoring, tuning, backup and recovery, project planning, capacity planning, account,
+management, upgrades, patching, migrations, implementing best practices, and recommending solutions for client problems
+
+Manages integration of new clients into service support model. Main contact and coordinator for new customers
+
+Provides direction and mentoring to junior Oracle database administrators. - Project manager for evaluation and implementation.
+
+Software installation, patching, upgrading Oracle 8i, 9i, 10g, 11g, 12¢
+
+UNIX\LINUX (Solaris, Linux, AIX, HP-UX, Centos) and WINDOWS (2003, 2008, 2008R2, 2012R2) system administration
+
+Installation, configuration and support of Oracle RAC 11g, 12¢
+
+Configuration, support and failover of proprietary replication scripts.
+
+Installation and support of Oracle ASM
+
+Designing, implementing Oracle Backup and Recovery strategies using RMAN
+
+Performed several successful database restores and recoveries after disaster scenarios
+
+Installation, configuration and utilization of Oracle database administration tools including grid control, SQL Developer, and Enterprise
+Manager
+
+Strong database performance monitoring, tuning, proactive problem prevention, troubleshooting skills
+
+SQL performance tuning
+
+Excellent communication skills, responsible for clear communication, planning, contract management
+
+Ability to work well as a team member in fast paced, demanding atmosphere. Participated regularly in 24/7 on-call rotation.
+
+Utilized RMAN and Export/Import to perform database refreshes.
+
+Oracle Sr. Specialist/Oracle Supervisor, 11/2014 - Current
+Lineage Logistics — El Paso, TX
+* Piloted a program to achieve the company objective of distributing wealth of knowledge across the department which resulted in a 70%
+
+increase in overall billability Familiarized with upgrades and patching process of client environments.
+
+Tasked with ensuring key client data stores are continuously available.
+
+Train technicians and answer questions pertaining to functionality and configuration of monitoring checks and proper investigative
+techniques.
+Leveraged combination of resources and technologies to understand and tackle complex issues.
+
+Build spreadsheets of client servers to identify trends in server health as a proactive response to potential issues to report to client.
+
+Databse Operations Center Support Specialist
+Remote DBA Experts — City, STATE,
+
+* Working as part of a S-member team utilizing IT resources to perform analyses of issues for a varie
+
+of clients Monitoring of client servers,
+reactively and proactively to ensure stability and recoverability of business data Comprehensive documentation and communication skills
+regarding problems, troubleshooting, and overall resolutions with senior DBAs and clients Troubleshooting and resolving issues presented
+from monitoring or client in a timely fashion to meet and exceed SLA.
+
+« Proficient in time management and assessing priorities of tasks.
+
+* Highly adaptable with a strong ability to learn and demonstrate concepts rapidly.
+
+* Meticulous attention to detail while thriving in a fast-paced environment.
+
+Owner/Operator, 01/2004 - Current
+City, STATE
+* Construction of both high-end and economical Gaming PCs, workstations, and servers
++ Providing on-site and remote customer service: installation, networking, and troubleshooting.
+
+* Established and continue to maintain several commercial accounts for sourcing hardware and software.
+
+EDUucaTION
+
+Bachelor of Science: Industrial Engineering Mathematics, December 2015
+
+‘Youngstown State Univers
+Industrial Engineering
+‘* Minor in Mathematics
+* 6 Sigma Green Belt
+
+SKILLS
+
+Adobe Suite, ASM, attention to detail, AutoCAD, c, communication skills, Hardware, client, clients, customer service, documentation, fashion,
+fast, HTML, Linux, MacOS, Microsoft Excel, Windows OS, Windows, Microsoft Word, Minitab, Network, networking, Oracle, servers, Sigma,
+SLA, Software Troubleshooting, Solid Works, spreadsheets, MSSQL, time management, Troubleshooting, upgrades, VPN, Visual Basic

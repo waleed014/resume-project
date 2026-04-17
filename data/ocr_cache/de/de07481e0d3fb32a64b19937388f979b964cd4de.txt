@@ -1,0 +1,143 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Accomplished Digital Media Professional with 12-year background developing and managing online marketing campaigns, brand imaging
+and website development. Leads routine operations and special projects for new and established customers. Achievements include
+developing, revamping and strengthening campaigns to drive revenue growth, Bringing sharp business acumen and acute market sense with
+history of success identifying and capitalizing on new opportunities. Proficient in Back-end Systems Management, Adobe Products, and
+
+‘Microsoft Office.
+Semis
++ Administrative Support * Adobe Ilustrator
++ Hardware Installation + Issue and Resolution Tracking
+* Linux Debian * Microsoft Windows and Office
+* PF-Sense * Mixing and Mastering
++ Proxmox Virtual Environment * Project Management
+« Developing Creative Content * Digital Media Strategy
+© VMware * Media Performance Measurement
++ Adobe Photoshop + Research and Analytical Skills
+Worx History
+08/2010 to Current Digital Media & IT Agent
+
+06/2018 to 01/2021
+
+Chicago Bulls ~ Hoffman Estates, IL
+
+* Developed 1000+ graphic design projects on artwork, web designs, flyers, logos using Photoshop and Illustrator
+
+* Collaborated with 80+ artists/teams on various projects, leading design, development, and implementation
+
++ Analyzed media engagement and produced tracking reports.
+
+* Sold 3.3 ETH+ ($10,110) of NFT Artworks via Ethereum Blockchain in 2021 on Foundation/Opensea
+Marketplaces
+
+© Highest sold artwork was “Cheers Club” for 1.00 ETH ($3,073), November 22, 2021, via Foundation
+(TETRA ETH)
+
++ Onboarded 11 Artists in collective Ah! Hermes as in-house Vocal Engineer to Audis (Blockchain Music
+Streaming)
+
+* All 11 artists top-10K most active on Audius and airdropped 300000+ AUDIO ($334,257) in total early 2021
+
++ Developed and maintained courteous and effective working relationships.
+
+* Accrued 192,000+ music streams on singles/albums commissioning cover artwork since 2018
+
+* Desktop Computer assembly, mass OS imaging and deployment for over 30 clients locally/remotely
+
++ Troubleshooting softhardware of industrial Vinyl cutters/plotters for local screen-printing businesses (Charlotte)
+
++ Established Charlotte and Bronx home networks using UniFi APs wi full set-up of UniFi Controller.
+
+* Used coordination and planning skills to achieve results according to schedule
+
+Digital Marketing Director
+Delek Us Holdings - Mount Freedom, NI
+
+* Created solution-based execution plans to achieve business goals based on Google Analytics and intemal reporting
+data.
+
+Directed traffic growth strategies, SEO, content distribution, email marketing and trackbacks.
+
+Co-founded retail company in North Carolina as registered LLC
+
+Sold 250+ shirts within three months of opening off local purchases and via online Shopify store
+
+Designed three collections of merchandise which were released and sold out within 1 year
+
+Developed and executed multiple print and digital marketing efforts to enhance brand visibility
+
+Reached deal with Charlotte’s Bocao Sushi Restaurant to make Timeless shirts part of uniform policy
+Lear and demonstrate process of creating shirts; screen printing, burning emulsion, heat pressing designs
++ Organize photoshoots for collections on upcoming merchandise and post-edit using Lightroom/Photoshop,
++ Implemented weekly promotional and editorial strategies to improve customer engagement across channels.
+
+10/2013 to 10/2019 Computer Systems Administrator
+
+‘CloudCrux Network — City, STATE
+
+* Co-founded dedicated non-profit Minecraft Community with 12,000* unique members
+
+* Created, set up mods, and server-side plugins for Rust and Minecraft with knowledge in C#, Lua, MySQL, and
+Java
+
+* Created nightly jobs for database backups.
+
++ Supported day-to-day operations, monitoring and resolving client/server and storage issues.
+
+« Met server datacenter costs/server purchases on donations for 4+ years, met monthly expenses by up to 200%
+
+‘* Maintained e-mail server with proper DNS Records/SSL Certifications to create e-mails for domains
+
++ Organized development team for website design and creation using HTML, CSS, PHP, and JavaScript
+
++ Proxmox VM monitoring, maintained containers on Debian server for e-mails w/ Nginx, pf-Sense, and Windows.
+
+* Created patches and solutions to fix bugs in existing applications.
+
++ Comprehensively maintained stability of essential data backups on nightly basis,
+
+06/2017 to 06/2019 Computer Hardware and Network Technician
+
+Epucation
+06/2019
+
+Manhattan College — City, STATE
+
+* Worked on campus-wide network upgrade project installing 300+ access points in dorms and classrooms
+
++ Monitored operational and security procedures for numerous computers in network, related systems administration
+and maintenance protocols.
+
++ Responded to issued tickets via TeamDynamix, provided on-site assistance to campus of 3000+ students and staff
+
+* Participated in installing and troubleshooting servers, network switches, access points, and running new lines
+
++ Installed/Configured HP Access Points (Models 417, 430) and Aruba Access Points (Models 303h, 315, and 325)
+
+* Maintained technology equipment performance by configuring, diagnosing and repairing hardware.
+
+* Traveled to remote office locations to install nodes and implement client software rollouts.
+
+* Patched new network switches and assessed lines using LinkRunner (AT-1000)
+
+« Installed cabling, wireless routers and telephone systems for data communications networks.
+
+* Collaborated with networking personnel at providers and data centers to determine origination points for faults and
+recover from malfunctions.
+
+« Troubleshot hardware and software to determine and rectify network problems
+
+* Configured rack server network hardware considering rail depth, hardware mounting and cable routing.
+
++ Demonstrated strong knowledge of all types of electrical components, operations, specifications and proper testing
+methods.
+
+Bachelor of Science: Computer Science
+Manhattan College - The Bronx, NY
+Received Dean's Award Scholarship; Dean's List Fall 2017; Collegiate Science and Technology Entry Program

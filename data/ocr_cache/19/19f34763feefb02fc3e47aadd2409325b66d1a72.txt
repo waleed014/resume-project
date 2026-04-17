@@ -1,0 +1,140 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+CERTIFICATIONS
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor 2 (655) 432-1000 4 resumesample@example.com
+
+5+ years of professional IT experience in design, develop, build and deployment of web applications. 2+ years
+in practicing Cloud Computing, DevOps & Quality Engineering.
+
++ Extensive experience in setting up CUCD ‘+ Have good knowledge in setting up Kubernetes
+pipelines using tools such as Jenkins, Maven, clusters using Amazon EKS.
+Docker, Nexus, Artifactory, Slack and ‘+ Strong exposure to configuration management
+‘AzureDevops tools such as Terraform, Ansible and Puppet.
+
++ Extensive experience in distributed Agile and Strong knowledge on practicing TDD,
+‘Scrum methodologies to develop best practices. ‘automating Junit tests using Maven in Jenkins
+for software development and implementation» Strong knowledge in Tomcat, WebLogic servers
+
+‘+ Strong experience in migrating applications to on different Operating Systems like Windows,
+both AWS and Azure cloud platforms Linux VMware, UNIX and SJessicaris platforms
+
++ Strong experience in working with version control_+ Participated in the release cycle of the product
+systems such as Git, GitHub, Bitbucket, Azure which involved environments like Development,
+Git QA UAT and Production
+
+‘+ Experience working with developing scripts and. * Worked with project documentation and
+automation tools used for building, integrating documented other application related issues,
+and deploying software releases to multiple bugs on internal wiki website
+environments. ‘+ Ahighly motivated, energetic individual, a team
+
++ Strong hands on experience in scripting player with excellent communication and inter-
+languages such as Groovy, JSON, YAML, Ruby, personal skills
+
+Shell scripting
+
++ Strong experience in code quality and code
+coverage tools such as SonarQube, JaCoCo
+and JUnit
+
+‘+ Good knowledge of virtualization and container
+technology like Docker. Experience in creating
+Dockerfiles and working with Docker containers.
+
+DEVOPS ENGINEER 07/2020 to CURRENT
+‘JWo9 International Inc. | De, WA
+
++ One of top retailers in the United States,
++ Inthis project, as a Cloud DevOps Engineer, | am responsible for managing AWS resources in cloud
+and maintain Continuous integration and Continuous Deployment (CCD) pipeline for fast paced robust
+application development environment.
++ Contributions:
++ Rebuild of entire existing platform over to Docker containers.
+‘+ Set up CVCD pipelines for Microservices and integrated tools such as Maven, Bitbucket, SonarQube,
+Nexus, Docker, Slack for providing immediate feedback to DEV teams after code check-in
+‘+ Wrote Ansibie playbooks from scratch in YAML.
+‘+ Installing, setting up & Troubleshooting Ansible, created and automated platform environment setup
++ Set up Git repositories and SSH Keys in GitHub for Agile teams
+‘+ Integrated Gittiub web hooks into Jenkins to automate the code check-out process,
+‘+ Implemented the setup for Master slave architecture to improve the Performance of Jenkins,
+‘+ Created Dockerfile and automated docker image creation using Jenkins and Docker.
+‘+ Automated infrastructure provisioning on AWS using Terraform and Ansible.
++ Created nightly builds with integration to code quality tools such as SonarQube, Veracode.
++ Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when
+conditions not met.
++ Setup Kubernetes clusters using Amazon EKS.
+AZORE CLOUD ENGINEER 01/2019 to 06/2020
+Alvarez & Marsal | Atlanta, GA
+‘+ 1am responsible for managing Azure resources in cloud and maintain Continuous Integration and
+Continuous Deployment (CVC) pipeline for fast paced robust application development environment.
++ As. amember of onboarding team, my responsibilty is to implement DevOps transformation by working
+with Agile teams to migrate applications to Azure platform
++ Contributions:
++ Setup repos on Azure Git, merging code from develop branch to master branch and make it ready for
+
+deployment.
+
+‘+ Migrated legacy applications to Microsoft Azure Cloud PaaS by setting up CVCD pipelines on
+‘AzureDevops.
+
++ Created WebApps (Paas solutions) on Azure portal for deploying web applications using Azure DevOps
+pipelines.
+
++ Created nightly builds with integration to code quality tools such as SonarQube, Veracode.
+
++ Helped teams to reduce defects rate by 30% by introducing TDD in first 3 months,
+
+‘+ Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when
+conditions were not met.
+
+‘+ Set up the Sonart int plug-ins in developer's workstation for detecting defects early during development.
+
+‘+ Built and deployed Docker containers to break up monolithic app into micro services, improving
+developer workflow, increasing scalability, and optimizing speed.
+
+‘+ Implemented Release management workflow for QA, UAT and Prod environments.
+
+‘+ Prepared and presented SCM best practices for implementing continuous integration for the team.
+
+FIQLD ENGINEER 01/2016 to 11/2018
+Ocado Group Pic | Pleasant Prairie, WI
+
++ Supported Achor project.
+
+‘+ Worked on BBU upgrades when started the project.
+
++ Worked on L1900 2nd carrier, NR60O, L700, AAS - GSM, UMTS and LTE network troubleshooting
+
+‘+ Instaltation, integration & troubleshooting, Testing
+
+‘+ Installation and integration of the new Ericsson equipment, BB6630.
+
++ Installation and troubleshooting on the anchor cabinet on ptp.
+
++ Transport and Technical/Training support to fulfil mult-technology wireless network deployments and
+
+installations across customer markets.
+
++ GSM cascading and local maintenances and troubleshooting through OMT.
+
++ UMTS Export and Delete and local maintenance.
+
++ Conducted VIP Drive, E911and call and speed test using the SRS APP.
+
++ Performing cabinet swap, sector add, Antenna swap and Radio swap.
+
++ DUS to BBUGE30 Upgrades.
+
+Bachelor of Science | Business Education 2010
+University Of Lagos, Lagos
+
+AWS SOLUTION ARCHITECT

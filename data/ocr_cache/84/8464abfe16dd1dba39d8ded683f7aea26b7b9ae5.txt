@@ -1,0 +1,157 @@
+PROFESSIONAL
+‘SUMMARY
+
+SUMMARY OF
+
+QUALIFICATIONS
+
+PROFESSIONAL
+EXPERIENCE
+
+EDUCATION
+
+CERTIFICATIONS
+
+‘SAP UA STUDENT
+RECOGNITION AWARD
+COURSES
+
+COMPUTER SKILLS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105  ©& (555) 432-1000 4 resumesample@example.com
+
+‘Seasoned IT systems infrastructure project manager with 8 years of project management and design
+experience in state, federal, and private sectors. Providing a unique combination of business project
+‘management skills and IT design solutions. My goal isto integrate business processes through SAP ERP and
+
+help improve business decisions through Business Intelligence solutions.
+
+‘+ Ability to manage multiple projects at one time
+
+‘+ Strong organizational and time management
+skills with ability to effectively manage multiple
+priorities and meet established deadlines while
+keeping projects under planned budget
+
+‘+ Excellent communication skils and proven
+competence in working with others in a cross-
+functional team effort
+
+IT SYSTEMS DESIGNER/PROJECT MANAGER,
+
+Experienced in meeting with clients to determine
+project requirements and implementing those
+requirements in a useful and cost effective
+manner
+
+Ability to affectively negotiate pricing contracts
+with customers and suppliers
+
+Ability to analyze business processes and
+streamline for increased efficiency
+
+05/2007 to CURRENT
+
+Emcor Group, Inc. | Michigan City, IN
+‘© Gather, analyze, and implement project requirements for clients and business owners.
+‘+ Work with cross-functional design groups to develop integrated strategies that would be efficient in a
+
+variety of environments.
+
+‘+ Manage customer project expectations regarding scope, schedule, and budgetary parameters,
+‘+ Streamlined material usage tracking and labor processes which kept actual costs below planned costs
+‘+ Perform value engineering to adapt to clients changing needs throughout the design process.
+‘+ Overseeing systems verification testing processes and system sign off
+
+PROVECT MANAGER
+Network systems, Inc. | City, STATE
+
+11/2008 to 05/2007
+
+‘+ Project managed 50+ design build IT system infrastructure installation projects
+‘+ Interpreted RFQ's and estimated project costs
+
+‘+ Handled procurement and logistics of all materials for projects
+
+‘+ Attended project meetings for coordination between construction trades:
+
+‘+ Responsible for overseeing systems verification testing processes
+
+Minor | Information Systems with SAP 2014
+Georgia Southern University, Statesboro, GA
+
+‘SAP's primary focus is on Enterprise Resource Planning (ERP). The SAP University Allances program
+provides access to SAP products and solutions. This means that SAP UA institutions have the capability to
+{get gain hands-on experience with SAP products and solutions. This provides a realistic perspective on how
+‘SAP can help companies integrate their business processes. It also gives employees the skills to add
+Immediate value to the marketplace. An ERP modular software design enables a variely of programs to be
+‘added to improve the efficiency of the business,
+
+BEX. | Operations Management 2005
+Georgia Southern University, Statesboro, GA
+
+‘Operations management deals with the processes by which a company uses its resources to create those
+products and services in a way that maximizes their value. The operations management (OM) emphasis is
+designed to develop expertise in duties such as operations and supply chain strategy, production planning,
+strategic sourcing, inventory management, work scheduling, and quality management.
+
+SAP TERP 10 Certification
+‘+ SAP Certified Business Associate with SAP ERP 6.5
+
+ERP using SAP
+‘+ Knowledge of integrated business processes (Financial Accounting, Management Accounting,
+Enterprise Asset Management and Customer Service, Human Capital Management, Purchase to Pay,
+Material Planning, Manufacturing, Order to Cash, Inventory and Warehouse Management, Lifecycle
+Data Management, SAP Netweaver BWV)
+‘+ Understand criteria for high-quality information and applied these criteria to evaluate information
+‘+ Used an enterprise system to process key transactions
+‘+ Gained knowledge in various modules supporting integrated business processes
+Enterprise System Configuration
+‘+ Selup Fl, CO, MM, and SD modules to accommodate company structure, business processes, and
+master data
+‘+ Implemented SAP trom the ground up and tested configured system
++ Defined & Assigned the Enterprise Structure
++ Defined & Assigned the Rules & Parameters
+‘+ Defined & Created the Master Data
++ Tested & Executed the Business Processes
+Business Intelligence
+‘+ Created and populated star schemas in a database.
++ Created enterprise reports using SAP Crystal Reports and MicroStrategy
+‘+ Performed OLAP analysis using SAP BusinessObjects Analysis.
+‘+ Created an ETL process and associated mobile-ready dashboard application using Software AG
+webMethods Presto
+‘+ Used SAP Lumira to visualize and explore data for meaningful patterns and ad hoc querying. To
+facilitate collaboration, some insights were shared using SAP Streamwork
++ Created several basic predictive models (cluster analysis, association analysis) using SAP Predictive
+Analysis.
+‘+ Developed several dashboard applications using SAP Dashboard Design and SAP Design Studio, The
+«dashboard application developed in Design Studio was mobile-ready.
+‘+ Google Analytics was featured in a project to demonstrate advanced web analytics and visualization
+
+‘+ Microsoft Office (Word, Excel, PowerPoint, Access)
++ SAP ERP ECC 60
+
+‘+ SAP Crystal Reports
+
+‘+ SAP BusinessObjects Analysis
+
+© SAP Lumira
+
+‘+ SAP Streamwork
+
+‘+ SAP Dashboard Design
+
+‘+ SAP Design Studio
+
+‘= Google Analytics
+
+‘+ Software AG webMethods Presto
+
++ Autocad
++ ProjectNet
+= Proboards
+= Quickbooks
+
+‘+ Google Docs, Google Sheets

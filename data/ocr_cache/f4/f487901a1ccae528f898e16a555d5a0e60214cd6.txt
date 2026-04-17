@@ -1,0 +1,45 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
++ To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the
+organization objective. Profile Summary
+
++ An enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in Mechanical Engineering.
+
+‘ Expert in implementation of each step of project.
+
+Sms
+* AWS, GCP * CD, Configuration Management, CPU, Version Control, English,
+* CICD Tools : Jenkins GCP, Hindi, Linux, Memory, Middleware, DB
+
+* Configuration Management: Chef
+* Middleware File Systems
+
+# Version Control Systems : Git, English, Hindi, Telugu
+
+« Address : Flat no: G1, Shiva sai residency, Dwarakanagar,
+© Boduppal, Uppal, PIN: 500092
+
+Work History
+
+05/2016 to 05/2018 DevOps Engineer
+Cgi Group Inc. — Baltimore, MD
+© Completed Linux, Devops and AWS courses.
+* Technical knowledge on EC2, IAM, $3, VPC, RDS, Route 53, EFS.
++ Excellent exposure on Provisioning Systems, Automated Build Platforms.
++ Practical usage of Amazon Glacier for archiving data,
+‘+ Adaptive to Cloud Strategies based on AWS (Amazon Web Services).
+‘© Monitoring resources, such as Amazon DB Services, CPU Memory, EBS volumes.
+‘* Monitor logs for better understanding the functioning of the system.
++ Eager to lean new technologies and methodologies.
+‘ Always willing to innovate the new things which can improve the existing technology.
+‘* Managed firewall, network monitoring and server monitoring both on- and off-site.
+
+Epucation
+
+2013 Bachelor of Arts: Business Administration
+San Francisco State University - San Francisco, CA

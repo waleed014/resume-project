@@ -1,0 +1,86 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 # (555) 432-1000 © resumesampleSexample.com
+
+Professional Summary
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track
+record of driving increased sales, improving buying experience and elevating company profile with target market.
+
+Skills
++ R, Python, SQL + Data Science Skills: Machine Learning, Deep Learning in
+‘+ AWS, Apache Spark, RStudio, Canopy, Visual Studio, GitFiub, _Tensorflow, Scikit-learn
+Android Studio
+Work History
+
+Data Science Intern, 05/2016 to 07/2016
+Motorola Solutions ~ Lakeland
+
+‘+ Built a Machine Learning ETL Pipeline to filter bot-like users using Python and Spark on AWS Platform.
+
+* Performed EDA to analyze distributions, find correlations and gain understanding of data(SM rows per day), User Level Feature
+Generation to create features to distinguish bot and human behavior and lead to meaningful clustering results, Unsupervised
+Learning using K-Means Clustering to identify bot clusters and labelling bots, Supervised Model Building to predict bots,
+innovatively built Multiscale Bootstrap Logistic Ensemble, Stability Analysis to evaluate scalability and to deploy over a month
+of data.
+
+Analyst, Advanced Analytics, 08/2016 to Current
+Weg - Austin
+‘+ Worked on building a Big Data Analytics tool which to help general analyst to perform and visualize ad-hoc analyses of large
+datasets stored in AWS S3.
++ Performed standardizing of Ad-Hoc Analyses written in HIVE, Pandas and R-Shiny into unified Python code.
+‘+ Used Flask and Bootstrap CSS to build front-end.
+* Daily tasks included performing statistical analysis of client requests.
+
+Research Assistant, 01/2016 to Current
+Mdre
+‘+ Working on a research paper "Probabilistic Inference of Internet Node Geolocation with Anomaly Detection’, approved for 2016
+IEEE International Symposium on THS.
+‘+ We find which IP Addresses of a subnet are geographically close to each other.
+‘+ Our research revolves around the concepts of IP Geolocation and hierarchical probabilistic clustering using R.
++ PROJECTS
+
+Student, 05/2016 to 11/2016
+Beth Israel Deaconess Medical Center
++ Evaluated Autoencoder performance in 3 problems.
+* Clustering complicated graph networks in lower dimension for Anomaly Detection.
++ Unsupervised Pre-Training for achieving local minima as compared random initialization on MNIST dataset.
++ Imputing missing categorical data.
+
+Student, 11/2016 to Current
+Beth Israel Deaconess Medical Center
+
+« Built an easy to use Deep Learning Library using Tensorflow.
+
++ Library consists of Autoencoder, Convolutional Nets, Deep Classifier, Word2Vec with examples.
+
+Student, 2016 to 04/2016
+Beth Israel Deaconess Medical Center
+
++ Built backend of a Music Recommender by clustering music tracks based sound features like loudness, pitch, timbre.
+
+‘+ Manually verified the clusters and discovered similar sounding tracks in clusters. Observed similar sounding music in clusters.
+
+Student, 2016 to 04/2016
+Beth Israel Deaconess Medical Center
+‘+ Learned and applied Supervised Learning techniques like SVM, Logistic Regression, Random Forest.
++ Performed cross validation on varying sized training sets to understand training time and accuracy.
++ Achieved 98% accuracy.
+
+Student, 07/2015 to 11/2015
+Beth Israel Deaconess Medical Center
+‘+ Developed a dashboard application using R, Shiny and Bootstrap CSS which scrapes reviews of user specified products from
+Amazon.
+« Itthen performs Text Mining and Sentiment Analysis on the review and presents the results in the form of Word-Clouds and
+graphical charts to help customers with purchase decisions.
+‘+ Conducted lab experiments and surveys with participants.
+‘+ Compared the application with Amazon's review system.
+
+Education
+
+Master of Science: Data Science, Current
+Worcester Polytechnic Institute (WPI) - Worcester, MA.
+
+Bachelor of Engineering: Computer Science, May 2014
+University of Mumbai - Mumbai, Maharashtra
+‘Computer Science 3.4/4.0

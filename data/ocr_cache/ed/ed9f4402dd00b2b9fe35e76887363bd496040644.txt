@@ -1,0 +1,153 @@
+Jessica CLAIRE
+
+“Montgomery Suet, San Francisco, CA 94105 # (555) 432-1000 ¢ resumesample@example com
+
+Sugary
++ 1+ yeas of proven work experience as an IT professional in problem-solving, root cause analysis, data analysis and process automation at
+Infosys Limited. +A very good problem solver with suong analytical thinking, Proficient in Python, R, SQL, Data gathering, Data wrangling,
+ata analysis.
+
+semis
+
++ Python( Pandas, ScikitLeam, Nompy, Matplotib),R, SQL,PL/ + JavaScript
+SQL, C, C++, JavaScript, Linux, Shell Scripting, Hadoop, Spa, + Linx
+‘eb Scraping (Selenium, Beautiful Soup), Das, Ploy, OpenCV, + Maket
+
+scopandas + MATLAB
++ Machine Learning: Random Forest, XGBoost, Decision Tree,» Access
+
+SUM, Naive Bayes, Regression, KNN, Repression, Clstificaton,  » MS Excel
+
+Natural Language Processing, Sentiment Analysis, Topic + Microsoft Office
+
+‘Moseling, Time Series Analysis, prophet + Modeling
+«+ Deep Leamin: Keras, Convolutional Neural Network, Recutent + MySQL
+
+‘Neural Network + Naural Language Procesing
++ Tools: SAS, Tableau, Power BI, MATLAB, RStudio, Microsofl + Network
+
+Office, Jupyter Notebook, Spyder, Zep, Google Colsb + Near
++ Databases: Oracle RDBMS, MySQL, MongoDB, Snowiake —s PLISQL.
++ Technology: Blockchin, Business Intligence, AWS + Predict,
+
++ Centfcation: Machine Leaming A-Z: Hands-on Python and Rin « Process improvement
+Data Science (Udemy), Artificial Intelligence A-Z: How to build Process management
+an AI (Udemy) + Programming
+
++ APL SAS + Python
+
++ AatificialItelligence, Sexipts + Oracle RDBMS
+
+‘+ All Shell Seripting + Research
+
++ Automation, SQL
+
++ BL, Structured
+
++ Business Intelligence, Supply chain
+
++, Transportation
+
++ Grr, Workflow
+
++ Customer eations
+
++ Client
+
++ Database
+
++ Databases
+
++ Features
+
+EXPERIENCE
+
+Data Science Intern, 062020 - Curent
+Amita Health Mattawan, MI
+
+‘Working witha startop on building advanced analytics fr supply chain visibility and transportation management implemented ArcGIS to
+
+seocode the addresses and performed Geo-fencng to tack and map the load o their corresponding vehicles.
+
+«+ Performing daa cleaning, data transformation on 600K: rows of data.
+
+«+ Parse the map datasource using python to extract all the data elated to interstate highway rest areas.
+
++ Created a structured dataset of 1000+ records
+
++ Scraped data related to ll the gas stations in USA using selenium and geocoded the adress using ArcGIS to get the coordinates.
+
++ Created a structured dataset of 40000 records.
+
++ Access SQL databate to manipulate the dat, creat visualization and report o give insights about the data.
+
++ Accessed Google cloud to enable the Google maps distance matix API key.
+
++ Implemented ETA and distance prediction by making use ofthe google maps distance matix APL
+
++ Performing market intelligence analysis o gain insights on competitor products
+
+«+ Performing UAT to ensure the functionality ofthe product.
+
+Systems Engineer, 09/2018 - 052019,
+Spireon Chicago, L
+‘+ Designed, Developed and implemented process automation using scrips of Workflow model by collaborating with clint Goldman Sachs
+tw improve the efficiency of tasks done based on ret cause analysis of incidents.
+‘+ Achieved saving more than 200 hours of manual work done per month in resolving incidents benefiting the orpanization with minimized
+‘headcount and labor costs potentially worth more than SOOK USD per year
+«+ Facilitated process improvement and automation by gathering data, performing data wrangling and analysis to appropriately come vp with
+solution to solve the problems reducing 40% time spent by experts, and isl used by the team to solve problems.
++ (ery from the database to search for patterns as apart of Workflow implementation to resale incidents
++ Coached and Transfered knowledge to team members regarding the technical aspects and process management
+
+‘Systems Engineer Traine, 04/2018 0812018,
+Infosys Limited ~ City, STATE
++ Succesflly completed 4 months of traning on soft skills and hard skill Python, SQL, Lins.
+
+EDUCATION AND TRAINING
+
+‘Master of Science: Data Science and Analytics, 2020
+Georgia State University, J. Mack Robinson Collegeof Business Atlanta, GA.
+PA: 409183
+
+[Relevant Coursework/Projects: «Graduate Research Assistant at the Institute for Insight, Mack Robinson College of Business «Better
+Business Bureau Sprint Project Performed data cleaning/merzingprocesing onthe sale pattern, accreditation pattern of around 500K
+rows of data using Python. Analyzed the dataset and translated the insights and findings fo visualization using python and MS Excel to
+help predict, improve customer retention and attract new customers “House Price Prediction Preprocessed data cleaned it and added.
+feature engineering using Python. Implemented 1 Machine learning model using a voting regressor that combines XGboos, gradient
+‘boosting regresor, support vector regrescor, ridge regresor, and lasso regressr to predict the sale price of the house based on SI
+‘exploratory variables, Achieved a Mean Absolute percentage error (MAPE) score of 7.66. Hotel Recommendation Model Scraped
+hotel reviews from Trip Advisor using Beautifl Soup in Python. Performed topic modeling and sentimental analysis using NLTK and
+‘Vader sentimental analyzer on 3000+ reviews from diferent hotels to determine the best features of hotels using sentimental scores
+associated with them fo optimize hotel customer relatos
+
+‘Top performer during training at Infosys Limited “Best paper award at the Sth International Conference of Science and Innovative
+Engineering ~Runner Up ofthe Chess competition held in School “Successfully completed UCMAS course “Member of Leo Club
+
+ACTIVITIES AND Honors
+
+ACCOMPLISHMENTS
+
++ Deep Leaning Reseach Project Peprocessed ra text data by performing stop word removal, lemmatization, keyword match.
+
+‘+ Using the dataset, implemented various machine leaming models with 10 fold cross-validation ike Random Forest, Decision Tree, XGB.
+(Classifier, SVC, and deep learning modes like Recurrent Neural Network (RNN) sing LSTM to tain and classify the text
+
+1+ Achieved an accuracy of 83% in classifying the texts
+
++ Dell Sprint Project Administered a team of 4 to create visualizations using Tableau forthe Analysis of Diversity and Inchsion in an
+orzanization
+
++ Designed, Implemented, nd facilitated a Diversity and Inclusion Dashboard using Dath and Polly framework whichis used by Dell
+‘Technolopes as proprietary software forthe analysis of Diversity and Inclusion within an organization,
+
++ Ideaify Ships in Satelite Images Built a CNN model using keras in python to train and classify ships in 4000 satellite images.
+
+‘+ Validated the model accuracy of 99% wsing 5 fold cross-validation,
+
+‘+ This model could potentially help monitor port activity levels and soppy chain analysis
+
+‘+ Courses: Statistical Foundations for Analytics, Data Programming for Analytics, Data Management for Analytics, Data Visualization,
+‘Machine Learning for Analytics, Predictive Analytics, Deep Learning Analytics, Sealble Data Analytics Anna Uaivesiy Sti
+‘Venkateswara College of Engineering Chennai, TamilNado Bachelor of Engineering in Electonics and Communication May 2018 (Linear
+Algebra and Partial Differential Equations, Probability and Random Processes)

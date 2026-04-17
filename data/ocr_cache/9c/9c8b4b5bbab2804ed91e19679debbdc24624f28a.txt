@@ -1,0 +1,116 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+(6+ years of professional IT experience in design, develop, build and deployment of web applications.
+3+ years in practicing Cloud computing, Devops & Quality Engineering
+Expertise:
+* Strong experience in migrating applications to both AWS and Azure cloud platforms.
+«+ Strong experience in working with version control system such as Git, GitHub, BitBucket, Azure Git.
++ Extensive experience in setting up CU/CD pipelines using tools such as Jenkins, Maven, Tomcat, Nexus, Slack and AzureDevops.
++ Extensive experience in distributed Agile and Scrum methodologies to develop best practices for software development and
+implementation
++ Experience working with developing scripts and automation tools used for building, integrating and deploying software releases to
+multiple environments.
+* Strong hands on experience in scripting languages such as Groovy, JSON, YAML, Ruby, Shell Scripting.
+* Strong experience in code quality and code coverage tools such as SonarQube, Jacoco, Junit.
+* Good knowledge of virtualization and container technology like Docker, Experience in creating DockerFiles and working with Docker
+containers.
+* Strong exposure to configuration management tools such as Terraform, Ansible and Puppet.
+* Strong knowledge on practicing TDD, automating Junit tests using Maven in Jenkins.
+* Strong knowledge in Tomcat, WebLogic servers on different Operating system like Windows, Linux VMware, UNIX and Solaris,
+platforms
+* Participated in the release cycle of the product which involved environments like Development, QA UAT and Production.
+* Worked with project documentation and documented other application related issues, bugs on intemal wiki website.
++ A highly motivated, energetic individual, a team player with excellent communication and interpersonal skills.
+
+Tecunotocy SuMMARY
+* Cloud platforms: AWS, Azure * Database : Oracle, SQL Server, MySQL, PostgresSQL
++ Framework/DevOps tools : JIRA, SonarQube, Nexus, Jenkins,» Application/ Web Servers: Tomcat, WebLogic 9.x/10.x/12c,
+Slack, Azure DevOps Apache 2.x/1.3.x, JBoss 7.1
++ SCMs: SVN, Git, GitHiub, Bitbucket, GitLab, Azure Git * Operating Systems: HP-UX, Solaris 10, Ubuntu 16.0.4, Red Hat
++ IAC Tools: Puppet, Ansible, Terraform Linux, Windows
+* Containers: Docker + Programming Languages: Java
+* Scripting & Other Tools: Groovy, UNIX Shell Scripts (Ksh,
+Bash), Git Bash, Putty, ‘Term
+Worx History
+
+(03/2017 to Current DEVOPS ENGINEER
+Applied Systems, Inc. - Salt Lake City, UT
+« Rebuild of entire existing platform over to Docker containers
+* Set up CU'CD pipeline for microservices and integrated tools such as Maven, BitBucket, SonarQube, Nexus,
+Docker, Slack for providing immediate feedback to DEV teams after code check-in
+‘* Wrote Ansible playbooks from scratch in YAML.
+« Installing, setting up & Troubleshooting Ansible, created and automated platform environment setup
++ Set up Git repositories and SSH keys in GitHfub for Agile teams
+« Integrated GitHub web hooks into Jenkins to automate the code check-out process
+‘+ Implemented the setup for Master slave architecture to improve the performance of Jenkins
++ Created DockerFile and automated docker image creation using Jenkins and Docker
+Automated infrastructure provisioning on AWS using Terraform and Ansible
+Created nightly builds with integration to code quality tools such as SonarQube, Veracode
+Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when conditions not
+met
+
+01/2016 to 12/2016 Azure Cloud Engineer
+Alvarez & Marsal - Miami, FL
+Tam responsible for managing Azure resources in cloud and maintaining continuous Integration and Continuous
+Deployment (CI/CD) pipeline for fast paced robust application Development environment
+As amember of onboarding team, my responsibility is to Implement DevOps transformation by working with Agile
+teams to migrate applications to Azure platforms
+Contributions:
+* Setup repos on Azure Git, merging code from develop branch to master branch and make it ready for deployment
+‘+ Migrated legacy applications to Microsoft Azure Cloud PaaS by setting up CI(CD pipelines on AzureDevOps
+* Created nightly builds with integration to code quality tools such as SonarQube, Veracode
+* Created WebApps (PaaS solution) on Azure portal for deploying web applications using Azure DevOps pipelines
++ Helped teams to reduce defects rate by 30% by introducing TDD in first 3 months
+* Created quality gates in SonarQube dashboard workstation for detecting defects early during development
++ Set up the SonarL int plug-ins in developer's workstation for detecting defects early during development
+* Built and deployed Docker containers to break up monolithic app into micro services, improving developer
+workflow, increasing scalability, and optimizing speed
++ Implemented Release management workflow for QA, UAT and Prod environments
+* Prepared and presented SCM best practices for implementing continuous integration for the team
+
+07/2014 to 03/2015 Java Developer
+Securenet Technologies, Lle - Lake Mary, FL
+
+« Effectively engaged with full programming improvement lifecycle: from business frameworks investigation,
+through necessities gathering and practical detail composing, to advancement, testing and conveyance
+
+* Composed and created UI screens utilizing HTMLS, CSS3, JavaScript, JSON and AJAX
+
+* Created custom Angular JS mandates to assemble custom reusable segments to use over the application pages
+
+* Utilized Spring structure including Spring Beans, Spring AOP and Spring Boot
+
++ Utilized Spring Beans to embody business rationale and Implemented Application MVC Architecture utilizing
+Spring MVC
+
++ Planned and created Rewards API utilizing Spring Boot
+
+* Utilized Spring AOP for logging for crosscutting worries of the application
+
++ Created server-side application to associate with database utilizing Spring Boot and Hibernate
+
++ Included broadly in validation and approval utilizing Spring Security
+
+« Planned and created serene API and administrations utilizing best practices to cooperate inside the Microservices
+and with the front end
+
++ Utilized Spring XML setup for Dependency Injection
+
+* Created segments of REST web administrations end to end, utilizing distinctive Annotations
+
+* Created complex administration segments for Data Access Layer, DAO classes to communicate with backend
+utilizing Java and Hibernate Framework
+
++ Conveyed the application on WebSphere application server
+
+* Utilized Maven for assemble structure and Jenkins for persistent form framework
+
+Epucation
+
+Bachelor of Science: Computer Science
+Ajayi Crowther University - Oyo, oyo Nigeria

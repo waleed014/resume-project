@@ -1,0 +1,124 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Accomplished Marketing Specialist skilled in achieving operational efficiency and increasing revenue in the financial services, health care
+and manufacturing industries. Business process improvement, data analysis and IT asset management expert. Skilled marketing professional
+focused on exceeding revenue goals, driving high-volume new user acquisition and growing subscription-based businesses. Versed in all
+aspects of marketing campaigns from concept development to execution and launch.
+
+Hicuucats
+
+“Microsoft Office Tools - MS Office - Word, Excel, PowerPoint, + Excellent written and verbal communicator
+Microsoft Project. Microsoft SQL Server, SQL management Studio Customer service-oriented
+
+(SSMS), Integration (SSIS), Sequel Server Reporting (SSRS). SQL Deadline-driven
+
+Server Data Tools (SDT)! Visual Studio, Business Intelligent,
+
+Microsoft Office Tools, Report Builder.
+
+ACCOMPLISHMENTS
+
+Hired, trained and managed a team of 21 successful lower cadre staffs.
+Drove revenue generation to record-breaking levels by creating new new approach and strategies.
+Increased customer satisfaction 45% by revamping service protocols.
+
+EXPERIENCE
+
+04/2015 to Current Database Analyst
+Ameriprise Financial - Detroit, MI
+
++ Involved in the designing, developing and optimizing the database.
+
+* Designed table schemes, relation and permissions to ensure database integrity Wrote SQL queries to determine
+information and generate reports.
+
+* Creating Subqueries, quickly and efficiently.
+
+‘* Maintained the data integrity during extraction, transformations and loading process.
+
+© Creating packages (DTS) and running jobs using Visual Studio (SSDT) and management studio (SSIS) , developed
+and supported ETL (Extraction, Transformation and Loading components, which were used to move large amounts
+of data from source data ( Source: Excel, SQL Server, MS Word, Flat/CSV files etc.) Into an optimized operational
+databases, DataMart, data warehouse or into Excel, Flat/CSV file,
+
+* Created new tables, views and indexes Experience writing DDL and DML statements with multiple table joins and
+unions.
+
++ Created scheduled jobs for nightly backup of the database (SQL Server Agent) Use creative techniques to compare
+data with conflicting data types and resolve issues.
+
++ Contribute to project team efforts to ensure operational support requirements are implemented.
+
++ Responsible for generating reports, optimizing the database for the queries to run faster.
+
++ Proven ability to work independently and in small teams; handle multiple tasks simultaneously and adapt quickly to
+changes.
+
++ Generate Reports from different data source (SSRS).
+
+01/2014 to 04/2015 Assistant Manager CUSTOMER SERVICE MANAGER
+Air Products And Chemicals — TX
+
++ Successfully managed the activities of [number] team members in multiple locations. Addressed negative customer
+feedback immediately. Maintained standard by verifying applicants’ eligibility for licenses; administering and
+grading written examinations on traffic laws
+
++ Contributed to safety of lives and property by administering high level road tests to rate applicants’ driving ability;
+and processing reinstatement transactions.
+
++ Maintained 95% or better customer service flow using a lobby management system to ensure that customers are
+served in a timely and efficient manner.
+
+‘+ Motivated and guided employee performance, participates in employee discipline, and provides input into formal
+performance planning and evaluation
+
+« Achieved excellent operation and maintenance of a Customer Service Center (CSC), served as an assistant
+supervisor in a high volume center.
+
+01/2010 to 2014 Social Media Coordinator
+Almo Corporation — Saint Charles, MO
++ Published related content via top social media channels and Oversee company website for updates and increase
+community participation in content.
+‘+ Monitored conversation on social media properties Assisted editors and marketing managers to make the most of
+social media ROI Managed online contests and giveaways Identify opportunities on different social media sites like
+‘Twitter and Facebook Develop and manage relationships with different vendors Manage publishing at Twitter
+handle Consistently engage in two way dialogue with the community Measure success of activities and compile
+seports Foster relationships with bloggers and other related marketing teams.
+
+11/2009 to 2011 Logistics Specialist
+Federal Mogul - City, STATE
+
+‘+ Supported and managed Sales/Account Managers’ Staff Handled Inputs and updates of new hire information;
+Assisted new staff in the hiring process and completion of required forms.
+
++ Handled distribution of letters of agreement for staffs
+
+‘+ Monitored system for best sales performance Collaborated with National Account Executive to develop and
+implement Talent Management and Retention Programs Generated reports to track monthly sales goals for staff
+sales bonus Prepared memos and other correspondence and completed data analysis (reports) via Microsoft Excel,
+
+Epucation
+
+Bachelor of Science: Technical Management Human Resource
+DeVry University - Chicago, IL
+
+2002 Bachelor of Science: Marketing
+The Polytechnic - Kebbi
+Marketing
+
+Business Administration and Management
+Plateau State Polytechnic - Jos, Plateau
+Business Administration and Management
+
+Sms
+
+Agile, backup, Brand strategy, Competitive analysis, content, Customer Service, DATABASE ANALYSIS, data analysis, DTS, data
+warehouse, databases, database, designing, DML, driving, ETL, forms, hiring, letters, marketing, Microsoft Excel, Excel, Microsoft Office,
+‘MS Office, PowerPoint, Microsoft Project, Word, MS Word, Performance analysis, Product marketing, Quality control, Real-time, Reporting,
+safety, Sales, Microsoft SQL Server, SQL, SQL Server, supervisor, tables, Visual Studio, website, Excellent Communicator(Spoken and
+Written).

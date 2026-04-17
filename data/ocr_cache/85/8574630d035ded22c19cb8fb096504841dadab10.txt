@@ -1,0 +1,161 @@
+PROFESSIONAL
+‘SUMMARY
+
+‘CORE
+QUALIFICATIONS
+
+EXPERIENCE,
+
+EDUCATION
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA $4105 (655) 492-1000 <4 resumesample@example.com
+
+Proven success in deployment of effective IT roadmaps, processes, and procedures including setting up high
+availabilty and disaster recovery solutions in SQL such as Always On Availability Groups, Log Shipping,
+Mirroring, Replication, and Traditional Fall Over Clustering. Significant expertise in SQL Server Upgrade and
+Database Migration as well as Azure Databases, Elastic Pools, Managed Instance, and New Instances
+Installation. Highly analytical and results-driven IT professional with over 5+ years of working experience in
+SQL Server Database Administration and Microsoft, Security Backup and Restore, Hyper-V, VM Ware, T-SQL
+laas, SaaS
+
+* Systems administration * Self stater
++ Critical Thinking. Able to thinking beyond + Excellent Listener. have very strong listening
+measures under pressure skits
+SQL SERVER DATABASE ADMINISTRATOR 05/2022 to 07/2022
+
+Silvergate Capital Corporation | City, STATE, United STATES
+
+‘+ Developed and updated tables, stored procedures, views, indexes, user-defined functions, and triggers,
+in accordance with SQL Server
+
+© Environments
+
+‘+ Completed tasks prior to deadiine involving SQL installation and automation, setting up Azure SQL
+Databases, Manage Instances and
+
++ SQL Azure VMs with site recovery, and backup to ensure optimal performance and disaster recovery of
+database
+
+Migrate databases to
+
+‘+ Azure SQL using Database Migration Service, Replication, backup and restore
+
+‘+ Install and configure Microsoft SQL Server 2008 insert through 2019 following best practices
+
+‘+ Upgrade SQL server from SQL server 2008 to 2016 using both in-place and side-by-side upgrade
+
+‘+ Provide DBA support and technical expertise for multiple applications in Development, Test, QA, and
+Production environments and interacting with clients, application team and project managers to design
+Implement and support solutions to meet client needs
+
+‘+ Provide guidance and expertise for database Performance Tuning, Performance and Query
+Optimization using both SQL Server inbuilt and third-party tools (Query Store, Extended Event, SQL
+server Profiler, SQL Server turing Advisor
+
++ Manage and develop long-term strategies for data storage and capacity planning
+
+* Create and manage database backup and restore strategy following company’s SLA
+
+‘+ Refresh databases in Test, Dev Environment and manage users and permissions in active directory
+
++ Set Up and manage Disaster Recovery and High Availabilty solution (Always-On Availability Groups
+(AG), Log Shipping and Database
+
+Mirroring, Traditional Failover Clustering, Replication)
+
+‘+ Apply both SQL Server and Windows patches
+
+‘Upgrade and migrate databases from SQL Server 2008 to SQL Server 2016 using it
+by-side migration as well as Backup and
+
++ Restore, Detach and Attach
+
++ Enhancing performance by creating table partition files and file groups, table compression
+
+* Creating and managing logins and users following principal of lst privileges
+
+‘+ Creating and managing users in active directory
+
+* Building and configuring VMs in Hyper-V environment
+
++ Maintained and achieved high availabilty of database via coordinating with infrastructure teams to
+allocate system resources to database
+
+‘+ Migrating databases from On-prem to Azure (Azure SQL Database, Azure SQL manage instance and
+SQL on Azure VMs)
+
+‘+ Install and configure SQL SERVER SSIS and SSRS Packages.
+
+place and side-
+
+‘SC SERVER DATABASE ADMINISTRATOR 01/2018 to 03/2021
+Silvergate Capital Corporation | City, State
+
++ Managed over 112 databases
+
++ Planning and installation of Microsoft SQL Server, SQL Upgrade and Migration
+
++ Coordinate with vendors and end users to apply
+
++ Windows and SQL Patches
+
+‘+ Define and implement Backup and Recovery strategies and Capacity planning per company Recovery
+Point Objective (RPO), Recovery
+
++ Time objective (RTO) and SLA Retention policy
+
+‘+ Implement data security by creating users and assigning permissions per principle of least privilege
+
++ Implement data security operations like Always Encrypted, Transparent Data Encryption (TOE) and
+Dynamic Data Masking (ODM) to secure client's sensitive data
+
++ Leverage in-built software in SSMS (SQL Server profiler, Performance monitor, Extended Events, DMVs,
+Database integrity checks) to ensure database integrity, stabiity, system availabilty; and other Third-
+party software lke IDERA and SolarWinds Database Performance
+
+‘+ Analyzer to monitor system health and security
+
++ Configure High Availability (HA) and Disaster Recovery (DR) Solutions on productions systems using
+Clustering - Always On, Traditional
+
++ Failover Clustering (Windows Server Failover Cluster - WSFC), Database Mirroring, Replication such as
+peer-to-peer replication, merger replication and transactional replication and Log Shipping
+
+‘+ Provide end-to-end support and problem resolution for SQL Server databases through muttiple product
+lifecycle environments, such as development, testing to mission-critical production systems
+
++ Create and update database documentation about company standard procedures, technology features
+and production issue troubleshooting
+
++ Creating and monitoring maintenance plans and agent jobs that take backups and de-ragment indexes
+{for query performance
+
++ Troubleshooting of SAL Server service outages as it occur, including providing on call support during
+after-hours and weekends
+
++ Control and establish appropriate database user access control levels by provisioning and users based
+upon company policy to control access for each segment of Databases
+
++ Develops database security guidelines and performs audits
+
+wu
+
+JOR SQL SERVER DATABASE ADMINISTRATOR 08/2016 to 11/2017
+Credit Union, Cameroon | City, State
+‘+ Greatly contributed to increase in performance
+‘+ Drive end to end availabilty, performance monitoring, and capacity planning of Microsoft SQL
+architecture
+‘+ Support SQL Server and Application environments,
+‘+ Established multiple projects and deadlines in fast-paced environment independently
++ Managed 100 database performance issues and help to ensure security and compliance across all
+database systems
+‘+ Established day to day administration and Database Maintenance
+‘+ Monitor and optimize SQL Server performance through hardware upgrades, server configuration
+changes, or index/query changes
+* Collaborate with architecture and development teams in providing design recommendations
++ Manage Production and Operations readiness plans and documents,
+
+Bachelor of Arts 07/2015
+University of Buea, Buea Cameroon

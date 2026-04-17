@@ -1,0 +1,157 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
+Continuous Integration Systems
+
+management
+
+Operating System:
+
++ Linux (Red Hat. Centos and
+Ubuntu)
+
++ Window 7 and window 10
+
+Cloud Infrastructure:
+
++ AWS, G-cloud, Azure
+
+Network Configuration:
+
++ HTTP, HTTPS, SSH, TCP, DNS
+
+Script Maintenance and Updates
+
+Scripting Exposure:
+
++ Bash shell, HTML, YAML
+
+Containerization:
+
++ Docker Kubernetes
+
+Automation Tools:
+
++ Jenkins, Terraform and Ansible
+
+SSH Tools:
+
++ Powershell, MabXteam, Git,
+Virtual studio code
+
+Virtualizatio
+
++ Oracle Virtual Box
+
+Micro soft office
+
+Linux Administration
+
+Customer Relationship
+
+‘Management
+
+EDUCATION AND
+TRAINING
+
+University of Maiduguri
+
+Nigeria
+
+Bachelor of Arts: Business
+Education
+
+The Polytechnic of Ibadan
+Nigeria
+
+Bachelor of Arts: Business Studies
+
+SUMMARY
+
+‘an experience and skilled DevOps Engineer with strong Linux background. depth experience using
+DevOps tools to accompanied with supporting, automating and optimizing deployment in cloud
+infrastructure as well as on premise. Always eager to learn new methods and procedures that add
+valves to the organization. A adaptable team player, very friendly and problems solver - below are
+some of the skills process;
+
+EXPERIENCE
+
+Dish - DevOps Engineer
+
+Albemarle, NC + 07/2019 - Current
+
++ Building and maintaining fully automated CI/CD pipetine for code deployment using GitHub,
+Jenkins, maven, Ansible and Kubernetes
+
++ Automated the migration of thousands of servers from premise to AWS
+
++ Creating and modifying Ansible Playbooks for deployment and patching of linux servers
+
++ Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to
+enterprise-quality testing and final implementation.
+
++ Assembled and integrating Jenkins with Docker, installing packages, installing plugins, scheduling
+automatic build after modification across different platforms to meet complex user needs.
+
++ Developed strong communication, active listening and interpersonal skills, which were used when
+collaborating with product development team and other stakeholders.
+
+Partners Healthcare System - Linux System Administrator
+Salem, MA + 03/2017 - 06/2019
+
++ Configured, tested and managed software installations.
+
++ Autornated management tasks by creating users, password, groups, and given permission to
+‘ownership
+
++ Creating Users/Groups and managing access
+
++ Modify the server inventories
+
++ Modify bash scripts to automate system
+
++ Performed patch, update, configuration to meet Operating System performance mandates.
+
++ Cultivated Linux technology skills by maintaining technical familiarity with up-to-date standards.
+
++ Implemented network security improvements to resolve vulnerabi
+
++ Install and maintain LAMP applications
+
+Cargotec Solutions - Administration Officer
+Fenton, MO + 02/2011 - 04/2017
+
++ Set appointments and managed meeting and Trainings schedule by updating and upgrading
+machine for a successful training
+
++ Identified and resolved complex problems impacting operations management and screening
+individuals who are qualifies for specific trainings
+
++ Developed and strengthened relationships by delivering knowledgeable support and setting up
+venues and installing packages on Desktops and Laptops for specific events.
+
++ Established and enforced successful operational policies to strengthen team productivity while
+‘empowering individual staff to independently handle job tasks.
+
++ Advocated for staff training and spearheaded continuous development strategies to maximize
+team performance and a better outcome of the training
+
++ Generated and delivered daily outstanding payment invoices to customers.
+
+ACCOMPLISHMENTS
+
++ Promoted from Linux System Administrator to DevOps Engineer.
+
++ Recognized as Employee of the Month for friendly, efficient and outstanding performance and team
+contributions.
+
++ Led team to achieve writing Playbook to create Ec2 instance automatically, earning recognition
+from upper management.

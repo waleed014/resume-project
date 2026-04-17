@@ -1,0 +1,146 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Database design
+
++ Data backup and retrieval
+
++ Oracle
+
++ Mysql
+
++ PostgresaL.
+
++ Python and Ruby proficient
+
++ Java/C/C+*
+
++ Linux/Unix /AIX
+
++ Network maintenance
+
++ System upgrades
+
++ Excellent communication skills
+
++ Excellent diagnostic skills
+
++ Unix Shell Scripting
+
++ Oracle RAC,Data
+guard, RMAN, ASM.
+
++ Mysql Replication
+
++ Performance Tuning And
+optimization
+
+EDUCATION
+
+Sikkim Manipal University India
+‘Master In Computer Application +
+2011
+
+‘Master of Science: Computer
+
+Ewing Christian College
+Allahabad India Uttar Pradesh =
+2007
+
+Bachelor of Science: Electronics
+
+PROFESSIONAL SUMMARY
+
+strongly focused and knowledgeable Entry Level Database Administrator with a wide breadth of
+software installation and maintenance knowledge. Expert communicator of complex technological
+concepts to professional and non-professional audiences. Leader of independent workshops in
+computer software design and implementation in the broader professional community.
+
+WORK HISTORY
+
+Cognizant Technology Solutions - PostgreSQL Database Administrator
+
+East Rutherford + 2012 - 07/2012
+
+Administering large PostgreSQL databases ability to do performance tuning / index maintenance
+experience of backing up and restoring PostgreSQL database on a regular basis.
+
+Designing and Managing PostgreSQL database schemas experience in Security access control
+‘experience with testing experience with configuration management experience with version control.
+Knowledge of fault detection and resolution processes.
+
+Hands on position responsible for configuring, integrating, and maintaining, Development, Staging
+and Production PostgreSQL databases.
+
+Responsible for all backup, recovery, and upgrading of PostgreSQL databases.
+
+‘Monitoring databases to optimize database performance and diagnosing any issues.
+
+Barclays Bank - Oracle Database Administrator
+
+Wilmington « 04/2011 - 11/2011
+
+Conducted oracle production database analysis on a regular basis.
+
+Performed troubleshooting for LAN problems for individual client basic software.
+
+Provided customer assistance and support pertaining to database system queries and complaints.
+Installed administered and updated Oracle database tools and systems.
+
+Working Closely and Proactively With the Development Team to Identify and implement Areas of
+Improvement and Provide Guidance on Best Practices and Performance EnhancementsPerformance
+‘Tuning and Troubleshooting of Mission Critical Databases With the Help of Oracle Performance Tuning
+Tools Like Awr, Addm, Ash, Sqlt, Oradebug, Sql Trace, Sql Monitor, Oem, Sql Plan Management and Os
+Utilities Like Vinstat, Top, lotop, Sar, Netstat, Strace, lostat, Topdump, Wireshark.
+
+‘Managing Multiple Oracle Rac Clusters on Netapp Filer And EMC Storage .Upgraded Oem 12C Cloud
+Infrastructure Including Oms and Agent Upgrades.
+
+Setting up Oem 12C Database Lifecycle Management Includes Automation of Database Patching/
+UpgradesOracle Clusterware Rolling Upgrade and Rac Database Patching in Rolling Fashion.
+Responsible for Zero Downtime Migration of Very Large Databases (Terabytes of Data) Using Physical
+Standby, Golden Gate, Oracle Streams and Instantiating Database Using Split and Responsible for
+Reviewing and Approving Build/Test Blackout Plans for Installation, Patching, Upgrade/Migration of
+Databases Coming Under Maa Architecture.
+
+Administering the database security, creating users, granting roles, privileges to users, extending the
+database storage capacity and optimizing the performances.
+
+‘Monitoring and managing data files, undo segments, other segments and extents. Performing Logical
+backup using Export utility & recovering specific schema /object using Import utility.
+
+Configured 11G new DR feature ACTIVE Data guard setup for many PROD databases.
+
+Accenture India Pvt Limited - Oracle Database Tester
+
+City » 2009 - 04/2011
+
+Improved database performance using database normalization de-normalization techniques.
+Executed reverse engineering/schema generation and logical and physical layout designs using
+PowerDesigner CASE tool and entity relational diagrams.
+
+Worked on Test Planning, Test Cases Design, Test Environment Setup, Test Data Setup, Defect
+‘Management, Configuration Management.
+
+Execution of automated test scripts using Mercury Tools (Test Director /Quality Center, LoadRunner,
+and QTP), JMeterbased on business/functional specifications.
+
+Used Performance Center to define performance requirement like SLA in test.
+
+Involved in updating the whole Oracle based application on UNIX platform.
+
+Independently develop LoadRunner test scripts according to test specifications/ requirements.
+‘Added performance measurements for UNIX, Oracle, Web Logic server in Load Runner, controller and
+monitored online transaction response times, Web hits, TCP IP Connections, Throughput, CPU,
+‘Memory, Heap sizes, Various Http requests etc. Monitored Oracle database VS session and system
+table stats.
+
+Performed backend testing on Oracle, executed various DDL and DML statement.

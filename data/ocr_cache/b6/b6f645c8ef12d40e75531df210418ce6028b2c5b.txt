@@ -1,0 +1,186 @@
+Jessica CLAIRE
+
+Metgomery tet, San Francisco, A 94105
+(655) 432-1000 resumesample@example com
+
+Proms
+
+Around 5 years of experience in Gathering Requiemeats, design, development, testing and implementing solutions in SAP and mobile.
+‘Wosked as busines analyst in telecom, Ulity Industry. Good knowledge of Operations & Maintenance business process. Experienced i
+SAP EAM using Compatible units, Design and iteration of Design with Work orders. Experience in end 1o-end process using computable
+‘nits for GAS and Electric line of busines. Experienced in planning and executing scenarios for End. t-End Testing, Docimentaton and End
+‘User Training Performed Configuration fr Plant Maintenance module fr End to End proces in integration with Material Management
+‘Module Knowledgeable in Sales and Dstibution module. Extensive experience in documeatng reporting requirements to development ofthe
+same in SAP ECC and BW. Poses the ability to gasp quickly new concept and apply the same, the sil, which are typical equirement for
+‘working in large SAP R/3 inplementatons An excellent team player with a deep sense of commitment and ong dee to lea and grow.
+Sweats oclde Intellectual Abii, Abity to work under pressure, Excellent Communication, iterpetsonal, and presentation kills. Good
+understanding of Softare Development Life Cycles and its diferent phases. Deans Excllence Scholarship and Distinguish Scholar Awad at
+UT Dallas. EXPERTISE 5 year of experience in Information Techaslogy wih specialization in Gathering Business Requiements 2nd
+(Quality Assurance and Testing Configuration for Organizational Units and Master Data in Plant Maintenance Iincdes Plants, Work
+Centers, Functional Locations, Equipment, instalation Dismantling at Functional Locations, Equipment Hierarchy, Material, Serial Numbers
+and Serial Number Profil, Maiatenance Plans, Measuing Pins and Counters, Document Link Maintenance Processing, Cotectve and
+Preventive Maintenance Notification Types, Objects and Objet Information, Catalogs and Catalog Profiles, integration of Notation to
+Order, Order Types, Operation List and Activity Types, BOM, Costing Shets. Proficient in Testing and Change Management tos like
+HQC, QTP, SMC. Planning and Development of Test cases, Tes plans, Test cenaros to meet the product business equrements
+Experience in ERP applications, Excellest Commusication and Documentation skills and End Use Training Testing inching GUI Testing,
+Functional Testing, Performance Testing, Positive and Negative Testing, Secwity Testing, lnteration Testing, System Testing, Load Testing
+Interface Testing ad Repression Testing Design documents, Avs & To-Be process and Function Specifications
+
+Sums
++ Requirements Gathering + Configuration
+
++ Data Analysis + Design
++ Business Analysis «+ Functional speciation
+
++ Testing
++ Documentation
+
+Accommuisioesrs
+
+Requirements Gaterire
+‘ements and propse solution which azn with cureness
+
+Testing, Evaluation and Analyt:
++ Mastered engineering cura ess.equiements and propos solution which align wit the bosinesprogams, inching [Program Name}
+and [Program Name] ste equipment to ensure compliance.
++ Analyzed data and provided recommendations which resulted in adoption of new cost-saving equipment
+
+-Receved the "Deans Excellence Scholarship “and ‘Distngutsh Scholar Award” at UT Dales.
+Proressionat. EXPERIENCE
+
+(9620141 05/2015 Consultant
+‘Virtusa~ Albay, NY
+
++ Projects: ETGIS, Leak Rea, Cathodic Protection
+
+‘+ Requcements gathering and Data analysis.
+
++ Pesform Mapping of GIS to SAP.
+
+‘+ Working with Developers on creating Dashboard for Reporting and Asset Management Perform Interice Testing
+‘wing SOAPGUI, Functional Testing and UAT.
+
++ Data cleansing involving creating, dismantling and reconfgwing Equipment, Function Locations, Maintenance
+items initial environment,
+
++ Identiing data discrepancies comparing GIS and SAP Data by working with SME's Acting a singe point of
+contact betwen business users and testers,
+
++ ented and automated diferent processes to sigiicantly bing down the tne and resources.
+
+«+ Proving ectnicl and functional support in migration of GIS data to SAP,
+
++ Working on Conversion requirements speciation nd definition of data clement including cariestion ofthe
+meaning and purpose of SAP feds,
+
++ Working closely with Aset Suatepiss, Mappers, and GIS Engineers to identify the issues and resolving them
+
+‘Using LSMWAIBIP to create and update the Equipments, and Functional Locations.
+
++ Responsible for preparing training manals for En Uses.
+
+‘+ Using the PAR (Problem Actin Resolution), Quality Centr tool for defect racking.
+
++ Responsible for preparing Rquiements Document and Testing fr Enhancement for GAS and Compliance Team.
+
++ Confgwation fr Capacity Planning and Work clearance Management
+
+0420121905/2014 Business Analyst
+‘Maximus ne. Lubbock, TX
+
++ Southern California Gas involved inthe requirement gathering and designed specifications for business process
+and Interact with business users to model the requirements for Reporting Participated in JAD, Gap Analysis
+
++ Configuring Asset Life Cycle Management (CP10, Gas Storage and Riser Inspection end to end proces wing
+‘SAP PM module ia iategratin with NOM module Generated Maintenance Plans by Region fr Preventive
+Maintenance.
+
++ Design Bundling Program for generation of odes by Region, Disc, Steet, Section, Segment and House no
+
++ Design Exception Report cpr certain conditions which eques different proces
+
++ Ineration of GIS with SAP for devgn to be vat to SAP
+
++ Good Understanding of Conective and Preventive Maintenance.
+
++ Creation of Data using QTP fr raining in diffrent environments,
+
++ Scheduling through Click schedle and Click Mobile Preparing Functional Specification Involved in planing and
+‘preparing Test Plan, Test Cases and Test Scripts based on business requirements inthe areas ike Notifications,
+Designs, Work Ordts, Equipment’, Fusctioal Locations, Material Reservation, Material Master, Customer
+‘str, Purchase requisition and otber financial wansactons.
+
++ Created et serps for font end testing sing (GUI and Funsionaliy) QTP
+
+‘+ Maintain Requtements matrix in HPQC Managed HP Quality Cente for reatng, inking and tracing Defic
+
+“+ Writing and omning test rit in HPQC for diferent scene,
+
++ Providing Suppor after golive inching raining wer.
+
++ Preparing Job Aids for End User Training
+
+“+ Involved in User Acceptance Testing of Report nd Debuting
+
+«Design and et epet sing BEx Analyzer Define the reports for Compliance with Compliance group, Key
+Pesfomance Indicator, develop data model and worked cloely with development tam Worked in anslating
+‘business processes nto technical design documents for MAL proces
+
+«+ SanDiego Gas Electric Projects: Constrcton, Planing and Design Facilitated JAD sessions for Electric Feld
+‘Memo and Rise Inspection (DIMP) Process in SAP Plant Maintenance Module
+
++ Designed and implemented Electric Field Memo to improve Electric Gas and Transmission Field and Ofice
+Operations by automating the End to End process.
+
++ Designed complex Compatibility Search fr Electic field Memo Data Exation from Legacy sytem to SAP for
+‘ise Inspection Designed Process Flow and prepared Functional Spec Co-rdinated with Developers with
+‘Busines requirements Define est scenarios for Maile Application for Riser Inspection Performed End to End
+‘Testing of SAP to Mobile Aplication Provided taining to end wes Design proces for PMLite and mapped
+custom able wit Costing Sheet for Costing to generate ltrs inform of pt be sent to customers,
+
++ Tenn Adobe Forms for PML
+
+2014t00572014 Business Analyst
+Maximus, Ine. - Madison, WI
+‘+ Gathered requirement for implementing SAP Financial Supply Change Management process
++ Parcpated in Brain Storming sesions for Collections Management Business proces,
++ Defined Test Scenarios and documented Test scripts for End to End Testing Configure Company Segments,
+‘Company codes, Collection Grovps, Colleton Strategies Data Creation for Testing Preparing Job Aids for End
+‘User Training.
+
+(0820101901/2012 Business Analyst
+‘Maximus Ine. ~ Marion, IN
+
+‘+ Asset Management Life Cycle Responsible for gubering requirements, documentation an teting Worked in
+‘easlting business proceses into technical design documents Worked in creating quey wanforms ofthe ETL
+rocess Desian and validated epotsCo-tdinated with developer forthe requiements.
+
+‘+ Managed the Change Management Process
+
++ Uploaded scrips into HP Quality Centr fom Excel Tested Enhancements, Reports, Fuactinality and Conversions
+Pesformed te Shakedown and Ad-hoc testing before UAT Performed the Smoke, Whitebox, Black box testing
+‘before acl execution of tet cases
+
+“+ Reported the bugs and communicated withthe developers for tacking the defects.
+
++ Tracked, eviewed, analyzed bugs using Quality Cente,
+
+2010%00472010 Constant
+Virtus ~Chatanooga, TN
+"+ Condvctd market research and prepared busines plan for exploring new matket oppor,
++ lavolved in requiements gathering, cutent market wend evaluation, Snacial evaluation and comparative stay
+
+Epvcariox axp TRaranc
+
+aon Master of Scence: Information Technology Management
+‘Univesity of Texas - alls, TX
+(GPA: GPA: 3.78440
+GPA: 3.78440
+
+Amuunoxs
+
+Semes
+
+Asset Management, business pln, Business proces, Copaity Planing, Change Management, Conversion, Costing, Data analysis,
+‘Debugging, documentation, ETL, Foms, Functional, GIS, GUI HP, Excel, fice, migration, developer, pl, Design proces, processes, QTP,
+(Quality, Reporting, equrement, Reqicement gathering, SAP, Scheduling, Sri, Speciation, User Training, taining manvals

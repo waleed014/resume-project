@@ -1,0 +1,123 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+Summary
+
+Experienced DevOps and Cloud Engineer with a focus on Red Hat Linux and AWS Cloud technologies, Skilled in implementing and
+managing cloud-based infrastructure, automating deployment and monitoring processes, and ensuring high availability and
+scalability of applications.
+
+Skills
+
++ AWS,EC2 Fargate ELB, SES, SNS, VPC, Route 53, Confluence, + Linux Environments
+New relic, sumo logic, ops genie, octopus, ira, Git, Python,
+Git, Prometheus, docker, kubernetes ete
+
++ Source and Version Control: Git, GitHub
+
+Experience
+
+Devops Engineer, 07/2021 to Current
+
+Northstar Financial Services Group Lle—King Of Prussia, PA
+
+‘+ Monitored automated build and continuous software integration process to drive build/release failure resolution.  Provisioned
+AWS services using terraform for IAC.
+
++ Managed databases using SQL and NoSQL technologies, ensuring data integrity and security.
+
++ Utilized scripting languages such as bash, python, and Go to automate system processes and improve efficiency.
+
+‘+ Worked with version control systems like Git and Source Code Management tools like GitHub.
+
+* Built continuous integration pipelines using Gitlab Cl and Jenkins while integrating with other tools for end-to-end automation of
+builds and deployment.
+
+‘+ Supported applications on different platform AWS environment.
+
+‘+ Worked with monitoring tools such as Prometheus, New Relic, and Google Stackdriver to track system performance and identify
+potential issues.
+
+‘+ Managed Kubemnetes clusters and container orchestration to optimize application deployment and scalability.
+
+* Configured and managed highly available and scalable Docker cluster to manage containerized applications and exposing to end
+‘users using various services DNS, ELB, and Auto Scaling.
+
++ Used Terraform and AWS CLI to automate provisioning and configuration of infrastructure on AWS such as VPC, Subnets, EC2
+Instances, $3, et.
+
+* Troubleshot issues during builds and deployments of Kubemetes pods.
+
+Linux Engineer, 06/2019 to 05/2021
+Verizon - Riverside, MO
+‘+ Maintains and supports Data center operations including server hardware, systems software and all configurations modification
+required on Microsoft and linux server
++ Working knowledge of hardware products such as Dell, HP, cisco, IBM and other data center hardware platform
++ Perform virtual machine deployments and extensively use utilities and high availability tools
+‘+ Monitoring system performance of virtual memory, snapshot, managing swap space, disk utilization and cpu utilization
++ Disk configuration and managing file systems in rhel 5/6/7 environment using Ivm
++ Add and maintain users on the network, assigning application access, ensuring security and maintaining their configuration are
+within standards
++ Performed all system upgrades and patches for solaris, shel 5/6/7 server and data migration between domains
+«+ Performed real time incident troubleshooting for complex hardware, software and network problems as required by the IT
+supervisor and leadership.
+
+Cloud Engineer, 09/2015 to 05/2019
+Dish Network Corporation - Rocklin, CA
+
+«+ Implemented AWS solution using EC2, $3, RDS, EBS, ELB, Auto Scaling Group
+
+* Create and manage users, groups, roles, and policies through IAM
+
++ Create and manage $3 buckets and policies
+
++ Infrastructure architecting, configuration, and deployment with EC2
+
++ Troubleshooting operational and security incidents using CloudTrail
+
++ Implement cost saving measures such as elastic load balancer consolidation, automatic public IP updates using Route 53,
+managing instance runtime with AWS Instance Scheduler using CloudFormation
+
+‘+ Deployment and management of SSL Certificates using ACM (Amazon Certificate Manager) and IAM
+
++ Enacting a road map to eventually not have to use IAM keys on servers but instead using profiles (roles) attached to EC2
+instances, making things easier to maintain and more secure
+
+‘+ Automated infrastructure provisioning on AWS using CloudFormation for quick customization and deployment of resources on
+AWS doud platform
+
++ Configure VPC, load balancer, DNS, end point access
+
+‘+ Using Gitlab to create repository and create pipeline from a lower stage to development phase
+
++ Built and deployed Docker containers into micro services by using Kubernetes
+
++ Setting up load balancers with terraform for application deployment
+
++ Spun up EC2 machines with terraform/CloudFormation using customized templates
+
+‘+ Created Web Apps (PaaS solutions) on AWS EC2 for deploying web applications.
+
+‘System Engineer, 02/2013 to 12/2014
+A10 Networks - Denver, CO
+«+ Perform virtual machine deployments and extensively use utilities and high availability tools
++ Checking alert logs, trace file system and file system maintenance
++ Users account management
+‘+ Management of configuration files and users account, privileges and rights; also, troubleshooting of issues arising in the
+infrastructure setup
+‘+ Created bash scripting for crontab to check servers, Logins, system updates and WordPress
+« Installed, configure and support Apache, LAMP, My Sql and network on Linux Servers.
+
+Education and Training
+
+Master of
+
+snce: Engineering Technology, 05/2018
+East Tennessee State University
+
+Bachelor of Science: Business Management, 05/2012
+Madonna University
+
+Certification/Training; Python, Red Hat Enterprise training, CompTIA Linux+, AWS Cloud Practitioner, AWS Certified Solutions
+Architect, Microsoft Certified: Azure Fundamentals

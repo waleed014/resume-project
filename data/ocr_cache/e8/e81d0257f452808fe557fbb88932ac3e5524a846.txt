@@ -1,0 +1,177 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Experienced IT leader with top-notch implementation and project management abilities. Highly organized, methodical and skilled at building
+consensus across high-performance teams. Well-versed in :\gile planning and development. Skilled Project Manaver ready to bring 25+ years
+of experience and take on a challenging new role. Diligent, forward-thinking and adaptable to dynamic company, customer and project needs.
+‘Successful at motivating teams to meet demanding timelines, Well-versed in building positive relationships with customers and other
+stakeholders. Strong requirements gathering, scope development and inventory coordination abilities. Skilled at overseeing complex, high-
+
+value technical projects with excellent planning competencies.
+
+Semis
+
++ Project Program Management of complex software development
+projects
+
++ Virtualization
+
++ Identity Management, Backup and Disaster Recovery, Domain
+
+Name Services, IRAKS, SMTP, Remote Connectivity, et, in the
+
+datacenter environment.
+
+MS-Project
+
++ Account Management
+
+Content Creation, Training material
+Verbal and written communication
+Staff development
+
+Strategic planning
+
+Contract Management
+
+Business planning
+
+Budgeting
+
+Staff management
+
++ Agile development methods (Scrum, KanBan)
++ Business development,
++ Consulting
+
+Worx History
+
+01/2014 to Current Consultant
+Ascensus ~ Kansas City, KS
+
++ Engaged by Agilsys to develop creditcard processing functionality for their hotelieing solution.
+
++ Engaged by T-Mobile to improve the agile and scrum practices in their development environment and do a lift and
+shift of one of their key systems.
+
++ Engaged by Gilead to manage a variety of projects in the Pharmaceutical area.
+
++ Engaged by Microsoft to develop training material for Dynamics 365 solution.
+
++ Engaged by Starbucks to develop critical scheduling and workflow system to optimize mobile order preparation.
+
++ Conferred with existing and potential customers to assess requirements and propose optima telunical solutions
+
+‘+ Monitored project activities and verified team members adhered to project's budget and business standards and
+regulations.
+
++ Researched latest market trends to provide current knowledge to clients
+
++ Resolved any issues and problems arising ducing project execution.
+
++ Finalized project plans and obtained final approval from clients
+
++ Conducted meetings with clients to determine project intent, requirements and budgets,
+
++ Developed detailed work plans to meet business priorities and deadlines
+
+01/2011 to 06/2013 Director
+Panjiva ~ Houston, TX
+
+‘As the Director for Technical Services, Jessica was responsible for business development, account management
+and personnel management for engagements that require Business Intelligence expertise, Project Management,
+‘Technical Content Creation and specialist developer skills.
+
++ Delegated assignments based on site plans, project needs and knowledge of individual team members.
+
++ Built and strengthened productive and valuable industry partnerships to drive collaboration, engagement and
+revenue stream development,
+
+* Worked closely with organizational leadership, including board of directors, to strategically affect direction of
+operations.
+
++ Analyzed department and job-related functionality requirements to align technology priorities with business needs.
+
+‘* Developed impactful and strategic partnerships with decision makers clients to drive business development.
+
+01/2000 t0 01/2011 Software Automation Group Program Manager
+Microsoft Corporation — City, STATE
+
+‘+ Managed projects within the Azure cloud computing space, ranging from Edge Computing Virtualization to video
+delivery from blob storage through the Azure Content Delivery Network.
+
++ In these projects Jessica fulfilled the roles of Product and Project Manager.
+
++ Managed project portfolio within the Shared Services group of Windows Live through the PMO Jessica established
+
++ This entailed managing 13 project managers and more than 120 projects at any point to deliver functionality in 13
+areas such as DNS, Active Directory, Domain Management, Backup and Disaster Recovery, and Remote Access
+Services
+
++ Predominantly SCRUM used as methodology for Shared Services projects.
+
++ Took multiple teams through the Waterfall to Agile conversion.
+
++ Developed a virtualization proof of concept that allowed near-instantaneous deployment and instantiation of virtual
+machines
+
++ Founded, defined and managed development of the Microsoft Deployment Toolkit and its predecessor, Business
+Desktop Deployment. This solution was delivered through partner and Microsoft Service teams - it le to the
+creation of the deployment specialty in Microsoft Services.
+
++ As the Business manager for the South Affican Goverment Jessica managed all service engagements, such as
+Enterprise and Technical Consulting, Technical Account Management, and Operations Consulting, between
+Microsoft and the South Africa Government
+
+‘+ Asa Microsoft Services Consultant, Jessica analyzed extemal customers! business and technical environments and
+developed solutions to solve their business problems and provide them with a sustainable advantage.
+
+‘Expanded resume with international experience available upon request.
+
+Epucarton
+
+Masters of Business Leadership (MBL)
+University of South Africa
+
+BSc: Computer Science, Psychology
+University of South Africa
+
+BSc: Electronic Engineering
+Pretoria Technicon - Pretoria, South Africa
+
+ACCOMPLISHMENTS
+
++ Project Management Office - Created a number of PMOs, the latest managing more than 120 projects for one of the largest online
+infrastructures in the world, involving a team of 13 project managers as direct reports,
+
++ Scrum Master, Product Owner and Agile Development - As a licensed Scrum Master, Jessica has managed close to a hundred Scrum
+projects, either as Scrum Master directly, or as a manager and Scrum coach of managers that had to implement Scrum on their projects.
+
+«Jessica has acted as product owner on a number of occasions, often in a combined Scrum Maste/Product Owner role.
+
+« Jessica excels at migrating teams from Waterfall to Agile.
+
++ Software Development Methodologies - As an ISO 9000 Auditor for Software Development and Electronic Engineering, Jessica was the
+person responsible for taking a software development company through ISO 9001 certification
+
++ Jessica was also part ofthe international workgroup that authored the first ISO document concerning software development
+methodologies and processes.
+
++ Cloud Computing - Hands-on experience within the cloud computing paradigm assures that Jessica has a great breadth and depth of
+knowledge in this area
+
++ Jessica was also responsible for projects such as Static Content Acceleration on the Azure cloud computing platform.
+
++ When it went live, the user interface forthe Content Delivery Network functionality on Azure was based on Jessica's design work and
+wireframes created for the purpose.
+
++ Smooth Streaming Video - Developed a solution that allows Azure users to put their smooth stream encoded videos in Azure blob
+storage and distribute them across the globe with the click ofa button,
+
++ Enterprise Architecture - Expert inthe area of Enterprise Architecture, specifically on the Zachman Enterprise Architecture Framework.
+
+‘+ While working in South Africa, Jessica was the country representative for John Zachman and his framework

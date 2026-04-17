@@ -1,0 +1,95 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesample@example.com
+
+Summary
+
+Seasoned Linux/Cloud/Support Engineer with many years of experience managing virtually all aspects of distinct OS environment.
+Background generating custom code, patching and configuring unique Linux platforms and Project Support both Linux and Cloud.
+‘+ Excellent support to Multiple teams - Experience supporting multiple teams on several projects DevOps/Jira/QA/Appdynamics
+« Install, patch, upgrade and configure various Linux servers/flavors
+«+ Experienced in Shell Scripting {bash} to automate system administrative jobs.
++ Experienced with provisioning with Ansible
++ AWS
+‘+ Good knowledge of SLD and CI/CD DevOps Pipelines
++ Hands on with Docker, GitHub
++ Building of web servers using LAMP stack Good Virtualization concept | VmWare | Hypervisors | VDI
+* Good knowledge of networking | DNS | DHCP | IP | TCP/UDP protocols | Netstat
++ Experienced with Linux/Window servers | LinuxBatch | Windows DBO1&2
+Excellent technical analysis | Attention to detail | Critical Thinking | Teamwork | Emotional Intelligence | Flexible and Adaptable.
+RedHat Certification in Progress
+
+Skills
+Linux * Virtualization | VmWare
++ DevOps tool Ansible/Git/docker + Remote access | Team Viewer | Visual Studio Code | Vagrant
+‘+ Continuous Monitoring - Nagios / mREMOTENG. + Networking | Routing and Switching | DHCP | DNS | IPV4
++ Excellent Support to Dev/Prod, and Appdynamics- Testing and IPV6 | TCP/UDP
+and application of codes + Hardware and software configurations
++ Execution of simple and complex quarries + Open to new challenges and Ability to quickly grasp new
++ Use of Service Now (SNOW) Ticketing System. technical concept in a rapid pace environment.
+
+Experience
+
+Linwd/Cloud Engineer, 03/2021 to Current
+Alleare Consulting ~ Dallas, TX
+* Scripting - Automation of various tasks using Bash shell scripts
+« Installing, configuring and maintaining the Linux-based servers
++ Working knowledge of Vulnerability Management and Remediation
+« File ,user ,access and user account management(mounting/file transfer)
++ Knowledge of Vulnerability Management and use of logs to triage and Escalate issues
++ Troubleshoot/Inventory of Linux machine- Cpu | memory | kernel | Hard drive |
++ Created dynamic web apps using LAMP Stack -PHP and MySQL to suit individual client needs.
+* Install and Configure Apache web servers, Tomcat to meet customer's specific requirements
++ Experience with the use and navigation of Sharepoint to fix issues and carry specific tasks
+‘+ Monitoring tool- Nagios Use of Version Control tools - GIT | GitHub | Docker Containerization.
+* Jenkins: Used it as an Automation too to reliably and Continuously build, test and deploy in CI/CD pipeline | JAVA language.
++ Docker- Built multiple docker images and containers for clients,
+* Good knowledge of SDLC lifecycle (DEV-Release) Proficiency | Waterfall | Agile Methodology.
++ AWS : Worked on AWS VPCs, AMI and IAM roles
++ Daily (Triage) Support to Dev/Prod/L3 Teams | Ticketing System | Alerts System | Minimize Downtime |
++ Linux system management - Red hat, Centos
+* Daily usage of Network protocols to UDP/TCP in implementation of tasks.
++ Network configuration- DNS/SUBNET/GATEWAY
++ Excellent Team work and highly dedicated towards Target goals.
+
+App Dev/L2 Support Engineer Il, 03/2019 to 02/2021
+Integration Innovation, Inc. - Huntsville, AL
+
++ Production Job Monitoring - Ensuring all scheduled jobs run on time to completion
+Bulk File printing and Image extraction and use of XML
+worked with Multiple IT teams on developing EMR prototype as automation engineer
+Troubleshoot both Linux and Windows jobs with LinuxBatch and DB1 and DB2 servers.
+‘+ System Monitoring - Windows and Linux environments
++ Execution of SQL Queries From different Teams
+« Facilitate System Outages and Minimize downtime/Impact
++ Dismissed lots of Violation Tickets both Open and Paidpart
+* Played crucial part in Bridging and conflict resolution
+
++ Create/Manage/Resolve Escalation in Ticketing System
+‘+ Managed and monitored jobs using VDI | PCI
+* Service Now-Ticketing (SNOW) and Escalations
+
+Junior Linux Administrator, 01/2017 to 05/2019
+CMD International - City, STATE
+
++ User management
+
++ Troubleshoot Linux servers and Escalation
+
+«+ Resolved network issues through troubleshooting methods to promote smooth system operations.
+
+* Installed and configured hardware, applications, firewalls, storage devices.
+
++ Check Inventories for servers to be decommissioned
+
++ Checking website failure alerts and escalation to AppDynamics
+
++ Running quarries on Sql servers
+
+Education and Training
+
+Bachelor of Science: Computer Science, 02/2020
+Delaware Technical Community College - Dover, DE
+
+Bachelor of Science: Health, 05/2017
+Tbilisi State University - Georgia

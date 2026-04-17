@@ -1,0 +1,109 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Hybrid Cloud Engineer, with more than eight (8) years of experience working for several customers. Adept at developing solutions,
+procedures & service standards for project transformation and business excellence. Proficient in designing effective solutions for cloud
+deployment, transitioning multiple projects & ensuring seamless delivery of services. Exceptional hands-on experience in managing server
+infrastructures, database migration, and implementing upgradable, scalable infrastructure with AWS Cloud & Azure Cloud.
+
+Trcunicat Sxnis
+
+Cloud Technologies * Cloud Automation: Terraform, Ansible, CFT and ARM
+* Azure Services: ADF, ADB, Storage Account, VNET, Subnet, Templates
+Automation Runbook, ACR, ACS, AKS, Key-Vaults, Azure * DevOps : CI/CD, Jenkins, Ansible, Docker, Docker compose,
+Apps, Logic Apps Express Route, SQL instances, Azure Repo, Docker Swarm, Kubemetes, OpenShift, Grafana, Nagios,
+Azure Pipelines, Azure Boards and Azure Artifacts Bamboo, Nexus, Checkmarx, Ant
+
+«AWS Services : VPC, Subnet, VPN, Direct Connect, Cloud Trail, * Scripting: Python, Shell Script, PowerShell and Groovy
+Cloudwatch, $3,Code Commit, Code Deploy, Code Pipeline, APT
+Gateway, ALB, Auto-scClaireng group, EKS, Docker, AWS
+Control Tower, Terraform, Cloud Formation’s, Cloud Endure,
+Cloud Native, AWS RDS, ECS, Cloud Security, Landing Zone,
+‘Transit gateway, Control Tower, EKS, SNS, Cloud Networking,
+Load Balancer, Elastic cache.
+
+EXPERIENCE
+
+08/2020 to Current +DevOps Engineer
+Foundation Capital — Spokane, WA
+‘* Use proprietary technology, processes, and techniques to analyze customers’ AWS environments and identify cost
+saving opportunities
++ Implemented and configured security services to properly harden infrastructure.
+‘© Worked directly with customers to coordinate and implement cost saving strategies
+‘* Monitored customer environments daily for anomClairees, trends and savings opportunities
+‘© Met regularly with customers to review cost saving opportunities, trends, and other related analysis.
+‘* Handling an offshore junior team by use of Agile methodology, setting goals and resolving issues
+« Setting project estimates, participating in governance calls to determine project delivery with key stakeholders.
+
+02/2017 to 07/2020 Site Reliability Engineer
+Accenture Contractor Jobs — Tacoma, WA
+
+‘© Work with distributed teams to design and develop frameworks, solution accelerators, proofs of concept, and
+extemal customer facing products
+
+* Deployed AWS services to solve customer application issues such as latency and unavailability
+
+‘+ Managed AWS-provided portal account access credentials and privileges
+
+* Rotated IAM access keys regularly and standardize on a selected number of days for password expiration to ensure
+that data cannot be accessed with a potential lost or stolen key
+
+‘© Worked with engineers and development teams to ensure that architecture solutions are compliant with security
+frameworks.
+
+‘* Experience writing LAM policies to grant users and groups privileges to perform necessary business function
+
+‘© Designed and contributed to security architecture processes that enable the enterprise to develop and implement
+secure solutions and capabilities that are clearly Clairegned with the business, technology, and threat drivers
+
+«= Involved with the design and security oversight of next-generation firewalls, intrusion prevention systems, DDoS
+solutions, SSL-terminating load balancers, WAF, security groups and NACL
+
+‘© Encrypted data stored in EBS as an added layer of security
+
+‘* Encrypted Amazon RDS as an added layer of security
+
+« Restricted access to RDS instances to decrease the risk of mClairecious activities such as brute force attacks, SQL
+injections, or DoS attacks
+
+‘* Granted privileges to application users based on principle of least privilege
+
+03/2015 to 01/2017 DevOps Engineer
+Foundation Capital — Golden, CO
+
+‘+ Creating documentation, roadmap and oversee implementation
+
+‘© Curate Terraform modules on multiple services including: VM, Storage Account, ADF, Data Bricks, Automation
+Runbook. ete.
+
+‘ Set up DFS Algorithm to complement ADF Deployment Flow
+
+‘© Help to setup linked template to solve ARM Template Deployment issues
+
+‘* Deployment of solution by use of Azure DevOps, creating CUICD pipelines for end-to-end code testing and
+implementation, designing GIT hierarchy to enable optimal versioning for DataOps
+
++ Set up Deployment Pipelines for ADF, Data Bricks and SQL Instance
+
+* Explored and Configured DACPAC File Deployment pipelines for SQL instances.
+
+‘* Improved security in both by use of Key vault, security best practices procedures.
+
+‘© Handling an offshore junior team by use of Agile methodology, setting goals and resolving issues.
+
++ Setting project estimates, participating in governance calls to determine project delivery with key stakeholders.
+
+Epucation Np TRAINING
+
+01/2009 High School Diploma
+Nayabander B.1 High School - Bangladesh
+
+(CERTIFICATIONS
+
+AWS Certified Solutions Architect - Associate
+AWS Certified DevOps Engineer - Professional
+‘Microsoft Azure Fundamentals - Certified

@@ -1,0 +1,155 @@
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor *S (555) 432-1000 4 resumesample@example.com
+
+‘SUMMARY
+
+Results-focused DevOps Engineer professional with strength in automation, build, deploying and managing
+
+the releases across all the environments and managing Continues Integration (Cl), Continuous Deployment
+(CD) pipelines in Azure DevOps. Proactive leader with strengths in communication and collaboration.
+ProficienlSME in Azure DevOps, AKS, GitHub Actions, Docker, Bitbucket, Bamboo, IIS and GoAnywhere.
+‘Adept at managing concurrent objectives to promote efficiency and influence positive outcomes. Flexible hard
+worker ready to learn and contribute to team success.
+
+SKILLS (
+
+EXPERIENCE
+
+Cloud technologies: Azure, AWS + Logging and Monitoring Toots: Nagios,
+CIGD Tools: Azure DevOps, GitHub Actions, ‘Splunk, Azure Service Health, Azure Network
+Bamboo, Jenkins Monitor
+Containerization Tools: Docker, Kubernetes Operating Systems: Windows, Linux
+Source Code Management Tools: TFS, Scripting languages: Python, Powershell, Net
+BitBucket, GIT Java, ASPNet, VB.Net, C#, JavaScript
+
++ Bug Tracking Tools: Jira, Remedy, ServiceNow
+
+DEVOPS ENGINEER 02/2017 to CURRENT
+
+Saic | Remote Work, NE
+
+Integrated CUCD tools (Azure DevOps and GitHub Actions) with containerization tolls (Docker,
+Kubernetes) to the legacy desktop applications,
+
+Migrated over 130 Critical applications from On-Prem to Azure, Azure 2012 servers to Azure 2016
+servers, including the .Net framework upgrade from 4.6 to 4.7.2 and including security remediation
+changes by modifying all the applications to use integrated security methodology.
+
+Migrated over 20 application hosted on AWS EC2 services to Azure virtual machines,
+
+Deployed CVCD systems using Azure DevOps on Kubernetes container environment and for the
+runtime environment of CVCD system to build, test and deployment.
+
+Used Azure Resource Manger (ARM) to deploy update and delete multiple Azure resources, as well
+as migrated on-premises resources to Azure using Azure site recovery (ASR) and Azure backups
+Configured and maintained CVCD pipelines in Azure DevOps across multiple environments and
+enabling team to safely deploy in Azure Kebernetes Service (AKS) using YAML Scripts
+
+‘Worked with Azure Monitoring tools such as Azure Log analytics, Azure Network Watcher and
+‘Azure Service Health to diagnose and minimize service degradation
+
+Created and maintain scheduled jobs over Control-M and GoAnywhere MFT applications.
+
+Hosted weekly Go/No-Go call for production release activities, and maintain a release schedule for
+production deployments and communicate with the trading partners.
+
+BUCLD AND RELEASE ENGINEER 03/2016 to 01/2017
+
+Booz Allen Hamilton Inc. | Albany, NY
+
+Installation and Configuration and Testing of Team Foundation Server (TFS) 2010 and 2012,
+Upgraded various Team Project Collections in TFS 2010 to TFS 2012 and Configured 2012
+Environment along with Default Project Collections, Bulld Definitions, Work items, share point Services
+and Reporting Services Involved in TFS migration from 2010 to 2012
+
+Created and Executed Automated Coded UI Tests,
+
+Creating Instances on Octopus Server, Installing Tentacles, adding Users and Configuring
+Environments,
+
+‘Worked on Report Creation from TFS using SQL Server Reporting Services, Excel Reporting from Work
+Item Query and SharePoint Dashboard
+
+Migrated data from different sources (text-based files, Excel spreadsheets, and Access) to SQL Server
+databases using SQL Server Integration Services (SSIS).
+
+Used PowerShell script to deploy the package on the production.
+
+‘Wrote PowerShell Script for automating deployments and to StarvStop the Services,
+
+Worked on automating Configuration Management, Build Management and Release Engineering
+processes.
+
+Created Builds and deployed builds to different environments based on requests.
+
+‘Troubleshoot the automation of installing and configuring NET and C# applications in the test and
+production environments.
+
+Test case creation, Automation, and Execution.
+
+Maintaining Test cases in TFS and Microsoft Test Manager (MTM) System Integration Testing
+Environment setup.
+
+Designed the Release Plans while coordinating with Stake Holders including Project Management Lead,
+Development Lead, QA Team Lead and ClearCase Administrator.
+
+DCT NET DEVELOPER 05/2013 to 06/2014
+
+Cognizant Technology Solutions | Chevy Chase, MD
+
+Designed and developed the N- tier application using NET framework and used Java Script to do the
+client-side validations,
+
+Project was designed in three-tier architecture.
+
+Prepared the Use Case diagrams and class diagrams and developed the web forms using ASP.NET for
+the Ecommerce based application
+
+Displayed data in tabular form based on the criteria selected using Data Grid control
+
+Involved in Bug fixing and functionality enhancements for the intranet websites.
+
+‘Was responsible for connectivity of database using ADO.NET Components.
+
+Unit testing and integration testing of the development code.
+
+Used Agile SCRUM methodology and participated in sprint planning meeting for clearing the backlogs
+Created Stored Procedures in the SQL Server database.
+
+Developed stored procedures and views using T-SQL.
+
+Created SSRS reports representing performance charts, pivot tables, pie chart and report with local
+and global fiters,
+
+Created WCF Services and consumed web services from web client developed in ASP.NET.
+
+Involved in the creation of packages, data flow and control flow using SQL Server integration Services
+ssis
+
+Used TFS for Source control, Data Collection and Project Tracking and work items,
+
+Deployed the application on the production server by creating the Web Setup.
+
+EDUCATION AND © Master of Science | information Assurance 1272015
+TRAINING | Wilmington University, Wilmington, DE
+
+Bachelor of Engineering | information Technology 05/2013
+GITAM Institute of Technology, Visakhapatnam, Andhra Pradesh
+
+ADDITIONAL © +
+INFORMATION
+
+ACCOMPLISHMENTS
+
+‘Willing to relocate: Anywhere in the US (If required)
+
+Improved the existing configuration by automating the deployment process with Continuous Integrations (Cl),
+
+Continuous Deployment (CD) and Continuous Delivery (CD) systems leading to an improvement in time to
+ship new feature and releases by 26% and resulting an yearly savings of $161,000.
+
+CERTIFICATIONS .
+
+AWS Certified Solutions Architect - 2017
+AWS Certified Developer - 2017

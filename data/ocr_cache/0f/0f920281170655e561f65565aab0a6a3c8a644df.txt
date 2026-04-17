@@ -1,0 +1,288 @@
+JESSICA
+CLAIRE
+
+(© resumesample@example.com
+& (555) 432-1000
+
+9 120 Montgomery St.
+10th Foor
+
+SKILLS.
+
++ Server configuration
+
++ Database creation
+
++ Database Adminstration,
+Servers
+
++ Database Backup
+
++ Databases, Scripting
+
++ Mcrsoft SOL Server
+Distr recovery
+
++ Documentation, MS SQ.
+Sever
+
++ SQL Profiler
+
++ Vi Custering
+
+SQL falover clustering
+
++ NS SQL Server 2017, 2016,
+2014, 2012 (2008
+
++ SQL Jobs Automation
+
+Reitation, ETL,
+
+Performance Monitor,
+
+‘Activity Monitor
+
++ Third Party Too
+‘Seiagnstic manager, ght
+‘speed, Quest Spotight,
+‘Solar Winds, QL Safe
+
++ Programming: FSQL
+
++ PowerShl
+
+* nerosott: Microsoft office
+tools, SharePoint, TES
+
++ IDE Visual Studio
+2013/2012/2010
+
++ ETL, SOL
+
++ Das
+
++ Teradata
+
++ Managing, Troubleshooting
+
++ Mcrosoft offie, Upgrades
+
++ Optimization, Vk
+
+EDUCATION
+
+‘Addis Ababa University
+‘ts Ababa, Ethiopia
+
+‘Bachelor: Computer Science
+
+PROFESSIONAL SUMMARY
+
+Database Adminstrator Professional with 8+ years of experience in MS-SQL server and
+‘supporting skype and SharePoint servers. Well experienced on working on Viware and
+Hyper v environments
+
+“Through my experience Ihave had implement and maintain smooth operation and
+physeal design of databases, Conducts performance tuning of indexes and databases in
+‘general Provides backup recovery and makes recommendations regarding enhancements
+{and/or improvements. Maintains security and Integrity controls. Formulates poles,
+procedures, and standards relating to database management, and monitors transaction
+‘activity and tization. Oversees the schedutng of database projects and backups.
+Reviews technical designs, reports, documentation. Managing MSSOL servers in
+evelopment, testing, and production environments with performance monitoring,
+troubleshooting, security. Perform database migration, high valabity and DR selutions
+Lup to windows falver clustering and 59 server Aways On configuration.
+
+Excellent confidence in my work ethic and witngness to putin significant extra time a5
+needed. Along wit my strong Database Adminstration background, | have good
+‘communication sit, Works wel under pressure, strong team-oriented.
+
+Links,
+
++ hp /uotnkedin com in/hana-w
+Chair: 65031043/
+
+Work HISTORY
+
+‘Asre Federal Holding Company - SQL Database Administrator
+‘Oklahoma City, OK + 04/3000 - Current
+
++ Roles and resposibiies:.
+
++ Good exposure working on Microsoft SQL Server 2008 R2, 2012, 2014, 2016 and 2017
+Database Adminstration,
+
++ Deploys, patches, upgrades, and troubleshoot database platforms of a moderate
+comply
+
++ Supporting documentation that indudes architecture, configuration, security,
+‘maintenance, troubleshooting, and backup detals.
+
++ Working on security, Grant / denied permisions based on the rte they requesting and
+up onthe environment.
+
++ Backups and restore data bases.
+
++ Deployment to production environments and refreshing from prod to staging
+environment.
+
++ Troubleshoot SOL Server performance isues to induding Server configuration,
+Indexes, queries, a wel as being able to identiy network and sk related issues.
+
++ Working on SQL Server Reporting Services.
+
++ nplementing and supporting lg sipping, transactional replication, database
+‘mirroring and ways On,
+
++ Proficient in administration and management of hosted Windows computing
+‘environments
+
++ Performing on change, incident and problem management
+
++ Environment
+= Windows Server 2008/2012R2/2016, NS SQ Server 2005/ 2008R2/2012/2014/2016/
+2017, T-SQL, SQL Profler, Performance Monitor, Activity Monitor, High Avalabity/
+‘waysOn , Redgate, Jia, slarwind, Teradata, ETL, PowerShel, VMWare, Data
+Warehousing, , TFS, ServiceNow , password Vault and Others.
+
+‘Are Federal Holding Company ~ SQL Databaze Administrator
+‘Kirkland Afb, WM + 07/2018 - 1112019
+
++ Roles and resposiities:.
+
++ Insta, configure, and manage multiple SOL. server environments wth high avalabity
+and saster recovery.
+
++ Monitor & Manage Databases, Perform Database Heath Checks.
+
++ roviding SQL admin operation functions forthe lent related to the appiatons
+‘hype and SharePoint
+
++ Working onthe daly database related inidents\ requests and rote it.
+
++ Perform changes on production databases based on change order requests
+
++ Design, manage, validate and implement a backup & recovery sjstem.
+
++ Support the performance of funtons, such 36, applying patches, interfacing with
+application vendors, and assisting the application administrators
+
++ Testing and implementing changes or Perform Database Upgrade
+
++ Perform Platform Migration Project.
+
++ Performance tuning of Index rebuld setup, configuration, concepts, techniques and
+tol
+
++ Performed troubleshooting, root cause analysis, workaround, Inuting after-hours and
+weekends.
+
++ Deploy database change sripts prosded by Developers or third-party vendors
+
++ Working on Windows falover clustering and configuring AwaysOn SQL server 2016 and
+SQL server 2017.
+
++ Participated in monthly database patching maintenance.
+
++ Perform tests and evaluations regary to ensure data security, privacy, and integrity.
+
++ Advanced knowledge of I Integrated Ana}ytes System (IAS ) secur
+{implementation
+
++ Monitor IAS performance in adation to managing wsers and secu
+
++ Advance knowledge of BLUDB\Schema backup wth script and using conse
+Environment- Windows Server 2008/2012R2/2016, MS SOL. Server
+£2008R2/2012/2014/2016/ 2017, TSQL, SOL Profiler, Performance Monitor, Actity
+Monitor, SQLDIAG, ETL, PowerShel, Hyper-V, Data Warehousing, High Avalabity/
+‘AtwaysOn, TAS, Visual Std, SharePoint, 082 WLU.
+
++ AS and Others
+
+‘sre Federal Holding Company - SQL Database Administrator
+‘Orient Point, NY = 04/2015 - 04/2018.
+
++ Roles and responsibites:
+
++ Expert in performing instalation, configuration, optimization, server bulds, patches,
+service packs, upgrading and troubleshooting of SQ. Servers in Cstered and Now:
+Custered Environments
+
++ Routinely patched SOL servers using PowerShel scripts.
+
++ Worked with SOL server profler and generated traces to optimize the performance of
+the database
+
++ Automated server and database health checks using PowerShell Script.
+
++ Providing dedicated support fr production database servers.
+
++ Creating Backup and restore strategies folowing strict RPO and RTO guldetines
+
++ Configured and manage High Availabilty solutions (Clustering, database Mirroring,
+Loe shiping.
+
++ Experienced in Migrating fom SQL. server 2008, 2012 and 2014 and documented
+complete Upgrade Process.
+
++ Configured Atways‘ON for High avalabity asa disaster recovery (OR) sltions.
+
++ Malntained indexes at regar Intervals for beter performance.
+
++ Schedied Jobs to automate diferent database related activities incding backup,
+‘monitoring database heath
+
++ Designed and implemented SSIS package to migrate data from multiple datasources.
+
++ Troubleshoot and resolved issues performance, database integrity, security sues.
+
++ Participating in 24/7 ‘on-cal” support for SOL Server database systems.
+
++ Envronment- Windows Server 2008/2012R2, MS SOL Server 2012/2014, T-SQL, SOL.
+Profler, Performance Monitor, Activity Monitor, ETL, Quest Spt Light, PowerShel,
+Hyper-V, Data Warehousing, High Avalaity/AlwaysOn, TFS, Visual Studio, SharePoint
+and Others.
+
+Inova Health Systems - MSSQL Server DBA
+City, STATE + 03/2012 - 03/2015
+
++ Roles and resposibiies:
+
++ Managed databases, from planning and testing stages through implementation and
+‘reduction support.
+
++ Created login, groups, users, roles, databases, alerts checking for database
+consistency
+
++ Exper in creating automation for routine tasks and per need bas
+
++ Eager in ereating automation for routine asks and pe need bass.
+
++ igrated/uparaded SOL Server 2008/2008R2 to 2012
+
++ Applied service packs, extensive experience In migrating and new instalation of SQL
+Server on Hyper-V and VIWARE environments.
+
++ Configured, Scheduled and check SOL Server agent Jobs/ Aerts for Maintenance plans,
+‘Backup and Recovery pans, Database Mal Configuration, facets and Transparent Oata|
+Encryption
+
++ Check database condition, rebuling indexes and other database maintenance
+purposes 3s wel
+
++ Troubleshoot performance sues.
+
++ Applied performance tuning techniques and maintained the functionalities of ongoing
+databases.
+
++ Deployment administration and operatinalsupprt of production.
+
++ Rerformed day-to-day activites tickets induding fl, ferential and log backups,
+atabaserestores/ refreshes and proactive monitoring of SOL sever heath.
+
++ Worked with database developers to optimize SQL queries and stored procedures
+Environment: Windows Server 2008/2012R2, MS SQLServer 2008/2008R2, 2012/2014,
+SQL, SQL Profiler, Performance Monitor, Actvty Monitor, ETL, SCCM, Quest Spot
+Light, Powershel, Hyper-V, Data Warehousing, High Avalabilty/AvaysOn, TFS, Visual
+‘tuto, SharePoint and Others.

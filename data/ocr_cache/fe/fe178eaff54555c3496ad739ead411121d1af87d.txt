@@ -1,0 +1,156 @@
+JEssica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+A successful Database Administrator with nine years of experience in database administration and production environments. Looking for a
+position in SQL Server database administration. Areas of expertise include maintenance and security. Proactive in establishing backup and
+recovery processes and protocols to protect and retain valuable company data. Proficient in English.
+
+Sens
++ Automation + Database Design
++ Backup + SQL Server
++ Database analysis + Teradata DBA
+
+* Vendor management
+‘* Database Administration
+« Performance tuning
+
+CERTIFICATIONS
+
+Microsoft SQL Server Integration Services (SSIS)
+Disaster Recovery Planning
+Clustering
+
+MCSA SQL Server 2012, CompTIA.
+
+Worx History
+
+10/2019 to Current
+
+Sr. SQL Server DBA\Database Analyst
+Nbe Universal - Solon, OH
++ Working on analyzing different databases to develop and implement procedures to identify, prevent, and ensure
+non-recurrence of defective services
+‘+ Reporting to Group Manager for technical escalations, analyze top-issues and top call drivers for the week and
+provide action plans to streamline processes
+‘Independently analyzing, solving, and correcting issues in real time, providing problem resolution end-to-end
+‘+ Using SQL Server 2017 for database analysis
+‘+ Employing services of different third-party tools to analyze databases including CA, BMC Software, Quest
+Software, Embarcadero, Idera, Red Gate, GridApp, and Stratavia
+
+12/2018 to 09/2019 Sr. SQL Server DBA
+
+11/2017 to 12/2018,
+
+05/2011 to 11/2017
+
+Epucation
+
+Imagine Believe Realize ~ City, STATE
+
++ Configured Windows Server Failover Cluster (WSFC)
+
+* Configured SQL Server Failover for multiple nodes up to five
+
+‘+ Worked with Microsoft Excel
+
++ Configured AlwayOn High Availability Group with five replicas
+
+‘+ Used Ola Hallengren maintenance script for AlwaysOn Availability Group
+
+* Worked with PowerShell
+
+‘+ Worked with Remedy Ticketing Application
+
++ Performed SQL Server In-Place Upgrade from lower versions of SQL Server to higher versions
+
+‘+ Migrated databases from one SQL Server instance to SQL Server instance including all objects within the instance
+
+‘+ Worked with TSQL Scripts, Stored Procedures, Functions, Triggers and Automation of Jobs
+
+‘+ Worked with SharePoint Application including configuration of Aliases to connect to SQL Server named instances
+
+‘+ Managed SQL Server databases through multiple product life-cycle environments, from development to mission-
+critical production systems
+
+‘+ Configured and maintained database servers and processes
+
+‘+ Monitored system health and performance to ensure high levels of performance, scalability, availability, and
+security
+
+‘+ Worked with all versions of SQL Server including SQL Server 2000, 2005, 2008, 2008 R2, 2012, 2014, 2016,
+2017, and 2019
+
+‘+ Applied data modeling techniques to ensure development and implementation support efforts meet integration and
+performance expectations
+
+«+ Refined and automated regular processes, track issues, and document changes
+
+‘+ Assisted developers with complex query tuning and schema refinement
+
+‘+ Provided 24x7 support for critical production systems
+
++ Performed scheduled maintenance and support release deployment activities after hours,
+
+«* Experience with Performance Tuning and Optimization (PTO), using native monitoring and third-party
+‘troubleshooting tool
+
+Sr. MS Database Administrator II
+University Of Maryland Medical System — City, STATE
+
+«+ Installed, configured, upgraded and managed SQL Server 2008R2 and 2012 and upgrading Service Packs for
+
+moltiple instances
+
+‘+ Worked with TSQL Scripts, Stored Procedures, Functions, Triggers and Automation of Jobs
+
+* Worked on design, migrate and upgrade from SQL Server 2008R2 to 2012
+
++ Created Windows Server Failover Clusters
+
+* Set up AlwaysOn High Availability Group with three replicas
+
+‘+ Developed Standard Operating Procedures (SOPs), job aids, and hands-on training materials
+
+* Good interpersonal communication and problem-solving skills
+
+‘+ Worked with Data Warehouse
+
+‘+ Leaming experience Microsoft Azure
+
+‘+ Experience in leading projects in Reporting and vendor management
+
+‘* Worked with some third-part tools: Avamar, DDBoost, Solar Winds, SCOM, and IDERA
+
+SQL Server DBA
+Injured Workers Pharmacy, IWP — City, STATE
+* Installed, managed, monitor, and troubleshoot SQL Server 2000, 2005, 2008/R2, and 2012
++ Installed, upgraded, and configured patches hot fixes for SQL Server
+‘+ Worked with performance tuning, optimization, backup and recovery in SQL Server
+‘+ Worked with TSQL Scripts, Stored Procedures, Functions, Triggers and Automation of Jobs
+‘* Migrated from SQL Server 2008R2 to 2012
+‘+ Configured Transparent Data Encryption (TDE) using Advanced Encryption Standard (AES) 256
+* Configured Linked servers
+‘+ Worked with QS1 application to extract and convert data
++ Configured Database Mirroring, Log Shipping, Replication
+‘+ Worked with some ETL tools (SSIS, B.CP, Import & Export Wizard)
+‘+ Worked with REDGATE, Sentry One for complete performance solution for SQL Server and Windows
+‘+ Worked on call for 24/7
+‘* Worked with the IT team to establish and maintain security integrity controls in conjunction with the applications
+and security groups and assist in the design and implementation of development, testing, QA, and production,
+environments
+‘+ Designed and implemented TSQL queries for reporting and complex solution development
+‘+ Maintained excellent attendance record, consistently arriving to work on time
+
+IT Training School: Microsoft SQL Database Administration
+Strategic Intelligence Institute - Laurel, MD
+Advanced SQL Server Training - Strategic Intelligence Institute, MD.
+
+Bachelor of Science: Mathematics
+
+Obafemi Awolowo University
+
+= Ile Ife, Nigeria

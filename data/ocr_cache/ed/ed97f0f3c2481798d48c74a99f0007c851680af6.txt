@@ -1,0 +1,116 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 # (555) 4321000 # resumesamplesexample.com
+
+Career Overview
+
+Accomplished IT professional with 20+ years of proven management and technical performance in complex, technologically driven
+‘organizations. Able to work independently or lead teams in intricate, high-profile projects delivering dramatic improvements in
+productivity and bottom-line profitability. Strong data warehousing experience including ETL and end-user access issues. End.to-
+‘end data warehousing experience across full SDLC from inception to deployment. Experienced in both strategic and tactical of,
+‘Business Intelligence projects. Managed projects to ensure that deliverables are met within schedule, budget, & quality
+‘Demonstrated ability to bridge the gap between IT, Business Users, & Senior Management. Ability to develop & maintain effective
+‘clationships with stakeholders & business partners. Ability to effectively lead, build, deliver, and execute complex BI initiatives.
+Effectively managed teams of up-to 6 members.
+Qualifications
+«+ Relational and Dimensional data modeling for creating
+Logical and Physical Design of Database and ER Diageams
+‘using multiple data modeling tools like ERWIN, Visio.
++ Expert in CMS PPS government regulations and billing
+system methodologies
++ TECHNICAL EXPERTISE
++ Languages C?.NET, ASP.NET, HTML, Visual Basic 6, VBA,
+VBScript,
++ Java Script, PowerBuilder, SQL
+++ Operating Systems Windows NT, 2000, XP, 2003, Vista,7, 8,
+Citeix Metaframe
+‘+ Database SQL Server 2000 / 2005 / 2008, MS Access, Oracle $i
+& $i Sybase
++ Tools Reporting Services, T-SQL, Stored procedures, UDFS,
+‘Triggers, DTS, Data Warehousing, SSIS, Visual Source Safe,
+‘Team Foundation Server, MS Project, Agile development
+methodologies
++ Other Allegheny, August Systems (Visit Wizard), Cemer
+(Beyond Now), Care Centric Cache and Accura, Delta
+(Giemens), Home Care Home Base (HCHB), McKesson,
+MeditechyPtCt, Misys, NDSI-nHome, 3M, and Custom
+developed
+
+Technical Skills
+Accomplishments
+Work Experience
+
+Database Administrator, 10/2010 to Current
+Feed The Children ~ Phoenix, AZ
++ With over 30 years of experience and 15,000 employee's nationwide, Almost Family isa leading provider of home health nursing,
+in the country.
++ Design and architect data management strategies forthe enterprise Lead and champion data strategies and standards across the
+enterprise Oversee the engineering and management of production databases,
+‘+ Designed, developed and implemented an enterprise level billing system data warehouse Designed, developed and
+implemented an application to manage the CMS Accountable Care Organizations (ACOs) data and reporting o our customers
+++ Designed and developed a workflow process to track internal requests requiring electronic signature approval Developed an
+automated email alert process to identify data elements outside of predefined standards.
+‘+ Excellent analytical, organizational, problem solving and follow-up skills with the ability to meet time sensitive deadlines
+Environment: SQL 2008, MS Access, Data Warehousing, Reporting Services, TSQL, UDFs, Stored procedures, Triggers, SSIS,
+(C+NET, ASP.NET, HTML, Visual Basic 6, MS Project.
+
+Senior Software Engineer, 02/2004 to 10/2010
+‘The Hastford ~ New Milford, CT
+
++ Sandata Technologies, LLC isan information service company that assists home health agencies, private duty and medical
+staffing companies inthe effective and successful management ofthe clinical, operational, and financial performance oftheir
+business.
+
++ Provided overall strategic planning and direction of all IT-related initiatives and projects, utilizing enterprise project
+‘management methodologies and tools/resources for the Analyzer Business Division.
+
++ Manage technical staff of 4 programmer/analysts to develop efficient and cost effective solutions to diverse and complex business
+problems,
+
++ Collaborate with business and technical stakeholders to assess feasibility, prioritize projects, and develop and implement plans
+that address requirements and adhere to established strategic business objectives and systeme standards.
+
+«+ Full lifecycle development of the CMS PPS government regulatory reimbursement changes.
+
+‘+ This required reengineering of all reimbursement calculations, al billing interfaces and all SSIS/DTS packages on the SOL Server
+database.
+
+‘+ Designed, developed and implemented 15+ billing system interfaces using a variety of techniques depending on the source
+database platform.
+
++ Designed and developed Web Benchmarking product using Dimensional Data Modeling on a SQL Server and Reporting Services
+“Manage deployment ofall version seleases for a customer base of 250+ installations Environment: SQL 2000 / 2005 /2008, MS
+‘Access, Oracle Si & i, Data Warehousing, Reporting Services, T-SQL, UDFs, Stored procedures, Triggers, DTS, S515, C#.NET,
+ASP.NET, ASP 2, HTML, VBA, Team Foundation Server, MS Project.
+
+roject Manager, SQL Server Developer, 01/2001 to 01/2004
+Groupm ~ Saint Petersburg, FL
++ Environment: SOL 7 / 2000, MS Access, Data Warehousing, T-SQL, Stored procedures, UDFs, Triggers, DTS, ASP 2, HTML,
+Visual Basic 6, VBA, VB Script, Java Script, Visual Source Safe, MS Project.
+
+Senior Partner, 07/1999 t0 01/2001
+Honda Raymond, OH
++ Environment: SQL 7 / 2000, MS Access, Data Warehousing, ASP 2, HTML, Visual Basic 6, VBA, VB Script, Java Script, MS Project.
+
+Project Leader, 05/1998 to 01/2000
+UNITED VAN LINES, UNIGROUP, INC- City, STATE
++ Environment: Data Warehousing, MS Project, COBOL, Adabas, Natural.
+
+Education and Training
+
+Masters: Business Administration
+Fontbonne College
+Business Administration
+
+B.S: Computer Information Systems
+DeVey Institute of Technology
+‘Computer Information Systems
+
+Skills
+(CNET, ASP.NET, Adabas, Agile, architect, ASP 2, Benchmarking, billing billing system, Citrix Metaframe, CMS, COBOL, data
+‘management, Data Modeling, DTS, data warehouse, databases, Database, Data Warehousing, direction, email, ERWIN, financial,
+‘goverment, HTML, Java Script, Languages, Meditech, MS Access, MS Project, 2000, Windows NT, Misys, Natural, enterprise,
+‘nursing, Operating Systems, Oracle Si, organizational, PowerBuilder, problem solving, programmer, project management,
+
+reengineering, reporting, Siemens, Visual Source Safe, SQL Server, SQL, SQL7 / 2000, SQL Server 2000, SQL 2000, staffing strategic,
+strategic planning, Sybase, T-SQL, VBA, VB Script, Visio, Vista, Visual Basic 6, workflow

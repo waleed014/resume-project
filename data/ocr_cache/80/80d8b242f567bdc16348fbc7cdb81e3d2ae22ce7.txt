@@ -1,0 +1,297 @@
+JESSICA
+CLAIRE
+
+© _resumesample@example.com
+% (555) 432-1000
+
+{g 100 Montgomery st. 10th
+Floor
+
+SKILLS
+
+Expertise in Microsoft SQL Server
+
+‘Management Studio (2005-2019)
+
++ Microsoft Certified Professional
+Designation
+
++ Microsoft Database
+Fundamentals Designation
+
++ Temporary Tables, DLL
+statements, Loops, Schema
+creations, Common Table
+Expressions, View, Dynamic
+SQL scripts, Merge statements,
+Indices, Performance Tuning,
+Triggers, Functions, Store
+Procedures, Joins,
+Parametrization, Cross Apply
+Outer Apply, Automation, Job
+Creation, Scheduling,
+Environment Variable,
+Deployment, Variables, Store
+Procedures, Pivots,
+Performance Tuning
+
+Expertise in BIDS/Visual Studio
+
++ Extraction from various sources
+(e.g, flat files, DBs, XML, etc.),
+Dynamic SQL, Automation,
+Deployment, Parameterization,
+Looping, Program/Process,
+Executions, Custom coding
+using Script Tasking, Flat File/
+XML File Creation, UTF-8
+conversion, Merge/SCD
+implementation
+
+Adept Excel User
+
++ Pivots, use of Macros,
+Formulas, Charts, Tabular data
+from SSAS cubes
+
+Data Architecture and Modeling
+
++ Use of Star and Snowflake
+Schema, utilizing tools like
+Visio to create Flow Charts,
+using data modeting tools like
+SQLDB to create denormalized
+structures, creating business
+specific entities to create
+balance between efficiency and
+use case
+
+Oracle
+
++ Familiarity and use of PL-SQL,
+corroborated financial reports
+using Oracle Transaction
+Business Intelligence (OTB!) and
+the UCM as well
+
+Familiarity of Presentation La
+
+Tools
+
++ Salesforce, Tableau, Qlikview,
+SSRS, OTBI
+
+Subject Matter Expert
+
++ Deep IT derived knowledge in
+business operations including
+Finance, Accounting,
+Marketing, Underwriting,
+Compliance, and some Specialty
+Risk Programs
+
+Other Pertinent Skills
+
++ Agile Hybrid/ KANAN/ Waterfalls
+methodology, Familiarity with
+‘AzureDevOps, GitHub, TFS,
+Skilled Design Documentation
+
+Personal Skills
+
++ Diligent, Adaptive, Organized,
+‘Methodical, Analytical, Honest/
+Blunt.
+
+EDUCATION AND
+TRAINING
+
+Collin College
+Frisco, TX + 12/2011
+
+Associate of Arts
+
++ Summa Cum Laude Honors
+graduate
+
++ Phi Theta Kappa International
+Honor Society member
+
++ Sigma Kappa Delta National
+English Honor Society member
+
++ Student Leadership Academy
+graduate
+
+SUMMARY
+
+Seasoned Senior Data Engineer possessing in-depth knowedge of RDBSM environments, ETL
+techniques, architecture, data modeling, and integration between systems. Offering 10 years of
+background managing various aspects of development, design, and delivery of database solutions.
+Analytical, passionate, and aspiring leader bringing proven communication and organizational
+abilities. Seeking a full-time remote position.
+
+EXPERIENCE
+
+Crown Castle Usa Inc - Data Engineer Ill
+Salt Lake City, UT + 07/2016 - Current
+Development:
+
++ Utilized various IDEs including Visual Studio, SQL Server Management Studio, Astera Centerprise to
+build ETL solutions.
+
+Created dynamic SQL to drop/recreate objects
+
+Utilized ‘Activity Monitor -type tools such as FogLight and Solarwinds DPA tool for bottlenecks.
+
+Created technical and operational audits within process to better catch issues
+
+Performance tuned process cutting down an 8 hour process to 5 minutes.
+
+Created and ingested delimited files.
+
++ Created pivot structures within SQL taking data and transposing it in the other direction (e.g.
+horizontal data to vertical).
+
++ Utilized VB and C# languages to create custom Script Task components to use in ETL solutions.
+
+Integration:
+
++ Integrated claims personal and commercial lines products.
+
++ Extensively developed, piloted, and implemented integration solution between OLTP data and
+Salesforce; created API pipeline delivering quote details to business thereby allowing them to make
+key decisions with agents.
+
++ Created data consumption and delivery solutions for claims including (though not limited to):
+sending flat files to vendors containing company data, receiving, decompressing, unpacking,
+ingesting data, creating a wrapper shell on a program that was called by SSIS solution, dynamically
+recreating .dll with parameterized inputs.
+
+Analytics
+
++ Researched financial disparities between Oracle and T-SQL restructured format
+
++ Sequenced data dictionary from Oracle to extrapolate and originate data sources to better deliver
+solutions.
+
++ Created pivoted OLAP.Tabulated SSAS structures to help display intersection of trends and data.
+
+Reporting:
+
++ Created canned, subscription, and ad hoc reports for business stakeholders sectors including
+finance, claims, actuary, legal, statistical, statutory, marketing, and underwriting.
+
++ Substantiated differences between expected and actual results in control reports allowing business
+to see disparities.
+
+Architecture:
+
++ Architected a SCD Type 1 , 2, and 3 denormalized and normalized structures.
+
++ Created conceptual, logical, and physical data models by utilizing tools such as Visio, SysDiagram,
+and SQLDBM.
+
+Leadership:
+
++ Led and organized scrum/status meetings. Provided guidance and focused delivery tasks to
+colleagues whilst assessing for gaps.
+
++ Provided instructional and informational background on projects to new comers detailing them
+thoroughly on the historical and current SDLC processes, lessons learned, etc.
+
++ Piloted groups to create best practices and code vetting/review within organization.
+
+Organizational:
+
++ Incorporated various methodology including (though not limited to) Waterfall, Agile, KANBAN,
+Hybrid.
+
++ Created several detailed design documents, some serving as a standard and template for other
+developers
+
++ Coordinated project management updates to determine project scopes and limitations.
+
++ Managed performance monitoring and tuning while identifying and repairing issues within database
+realm.
+
++ Part of SWAT delivery service; a team designed to tackle high velocity and profile requests in
+company. Managed solution implementation for several high-profile projects from start to finish,
+
+Honeywell - Application Developer
+Deer Park, TX + 12/2014 - 07/2016
+Development
+
++ Created ETL solutions using Visual Studio and SQL Studio Management Studio.
+
++ Parsed and massaged data into Guidewire specific formats following tight edits
+
++ Promoted and automated ETL processes
+
++ Performance tuned existing queries to cut down on time, reducing overall process from 2 hours to
+8 minutes.
+
+Integration
+
++ Integrated commercial and personal tines Farm and Ranch insurance products into Guidewire
+Claims Center.
+
++ Worked closely with business stakeholders to understand data whilst also pushing for system-
+originated corrections where fixes could not be done via ETL.
+
+Leadership
+
++ Mentored colleagues and fellow testers in T-SQL scripting.
+Organizational
+
++ Utilized Agile Methodology and TFS to check in/out code from repository.
+
++ Created design documents detailing process and flow.
+
++ Worked closely with business stakeholders to understand requirements and provide deliverables per
+their specifications.
+
+Educational
+
++ Actively sought out areas to increase insurance domain of knowledge
++ Enrolled and successfully completed AINS 24 offered by The Institutes.
++ Informed and trained with Guidewire and SAP HANA software,
+
++ Became Farm and Ranch SME for data.
+
+American Homes 4 Rent - ETL Developer
+
+Cincinnati, OH + 03/2013 - 10/2014
+
+Development
+
++ Created complex integration solution to ingest and parse row-delimited flat files using the Fi-Serv
+Data model.
+
++ Ingested outputted files from FNMA and FHLMC.
+
++ Further refined this data using ETL based on business/end user requirements.
+
++ Participated in code review sessions with colleague to assess bottlenecks, strategize resource
+consumption, kill deadlocks, and tailor code to become more 1/0 efficient.
+
++ Created an SDLC lifecycle for process flow including environments for development, testing, and
+production.
+
++ Installed and Upgraded SQL Server Studio.
+
+Integration
+
++ Delivered outputs using webservice calls fetching unique system-originated keys from OLTP system
+to use within T-SQL.
+
+Leadership
+
++ Trained and mentored users on how to utilize T-SQL and create simple SSIS packages.
+
++ Cross-trained colleagues on ETL solution.
+
+Organizational
+
++ Created several design documents detailing pipeline of ETL solution, caveats/limitations, and
+future development requirements.

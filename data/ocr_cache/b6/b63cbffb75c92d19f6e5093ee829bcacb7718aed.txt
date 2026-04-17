@@ -1,0 +1,307 @@
+JESSICA
+CLAIRE
+
+© _resumesample@example.com
+% (555) 432-1000
+
+100 montgomery St. 1th
+9% Floor
+
+AREAS OF EXPERTISE
+
++ ETL Team Leader.
+
++ Informatica Power Center 10.x/
+9.x/8.x.
+
++ ICS (Informatica Cloud) Data
+Integration, App & APL
+Integration.
+
++ API/Web Services using
+application integration REST
+End point connecter.
+
++ Informatica Cloud Data
+Integration (IICS - CDI Service)
+For Google Analytics.
+
++ Application integration with
+EATON/Rockwell Suppliers /
+Delighted Survey(End point)
+using JWT and REST
+Connectors.
+
++ Experience with Informatica
+MET.
+
++ XML generator , XML parser,
+Java and HTTP transformation
+‘within informatica for realtime
+transfer of ActiveMQ messages
+
++ Scope and Roadmap for DW
+ETL and Bi.
+
++ Data Modelling, ETL High Level
+and Low Level Design.
+
++ Teradata, SQL Server and
+Orade(PL/SQL).
+
++ Strong knowledge on Teradata
+Architecture.
+
++ KPls and Reporting specific
+calculations.
+
++ Developing/Designing ETL
+Informatica processes/
+mappings .
+
++ Tuning ETL/Informatica
+mappings /processes.
+
++ Best practices for developing
+ETL jobs .
+
++ UNIX Shell Scripting and ETL
+automation.
+
++ Tuning of complex SQL.
+Queries Processes.
+
++ SCD 1, 2,3 and Change Data
+Capture (CDC).
+
++ Resolving production ETL.
+failures.
+
++ Optimal performance strategy
+in Teradata using indexes, joins
+indexes, partitioning, statistics
+ete.
+
++ Teradata Utilities (BTEQ,Mload
+» Fload & TPT)
+
++ Root cause analysis of business
+driven issues.
+
++ Experience on TWS, Cisco Tidal
+Enterprise and Ctri M
+Schedulers.
+
++ Big Data,Hadoop, Hive,Sqoop,
+Oozie and Spark
+
++ Strong knowiedge in Python
+Programming and Cloud(6CP)
+
++ Good team player, constant.
+learner, excellent analytical &
+logical skills.
+
+EDUCATION
+
+Southern Methodist University
+Dallas + 2018
+
+Graduate Business Analytics
+Certificate
+
+Tennessee Technological
+University
+
+Cookeville, TN
+
+Master of Science: Electrical
+Engineering
+
+PROFESSIONAL SUMMARY
+
+Highty skied professional with 17+ years of hands-on experience in analyzing, architecting,
+developing and designing solutions (ETL, Data Warehouse, Data Mart, ODS) in OLTP technologies using
+star and snowflake dimensional modeling. Hands-on exposure with Informatica Cloud(lICS) /ETL and
+Hadoop technologies. Self-motivated team performer with experience as Informatica Lead/
+Informatica cloud(1ICS)Developer/DW Architect/Hadoop/Sr. Teradata Developer.
+
+WORK HISTORY
+
+Rexel Holdings USA - Sr. Informatica/lICS Developer
+City, STATE » 04/2019 - Current
+
++ Interacted with Business partners to identify/understand requirements, design specifications,
+expectations, and vision in key projects like supplier integration, TNT (Track and Trace), item
+golden record creation.
+
++ Identify ETL specifications based on business requirements and creating ETL Mapping Documents,
+high level documentation for product owners and data managers.
+
++ Handled end-to-end Development and Implementation of Product (Item) Master Data and Supplier
+‘arts by taking into consideration business cases, objectives, optimization, and requirements.
+‘Which reduces loading timings 25 %.
+
++ Re-architected and developed product Golden Master Record project. This project was saving
+$100k/year licensing recurring costs to compat
+
++ Managed code reviews and ensure that all solutions and processes are aligned to architectural/
+requirement specifications, SLAs and standards.
+
++ App & API integration of informatica intelligent Cloud Services.
+
++ Extensively Worked on XML Parser/generator, HTTP (Post) and JAVA transformation as part of
+inventory synch and sharing between Micron, Eclipse systems through Realtime ActiveMQ messing.
+
++ Developing integrations using Informatica Cloud Data Integration (IICS - CDI Service) For Google
+Analytics.
+
++ Developing informatica Cloud Mappings, Ds task, Data replication and task creation.
+
++ Worked with API/Web Services using application integration for EATON Supplier (End point) using
+WT.
+
++ Worked with API/Web Services using application integration for Rockwell Supplier through REST
+End point connecter.
+
++ Worked on Delighted survey integration using REST API and pagination to pull survey messages.
+
++ Worked on informatica MFT (Managed File Transfer) for to exchange the files with external
+systems.
+
++ Provide resolution to an extensive range of complicated ETL-related problems, proactively and as
+issues surface,
+
+Verizon - Informatica ETL Lead| Architect | Hadoop Developer
+City, STATE + 08/2008 - Current
+FIOS Sates and compensation Mar
+
++ Reviewed BRO (Business Requirement Document) and create aligned technical interface design
+specifications for analytics, reporting and ETL.
+
++ Handled data profiling, source analysis and data quality analysis.
+
++ Prepared high level solution architecture Design and review with top management.
+
++ Performed project management on several business enhancements and work requests.
+
++ Managed team and assign tasks, review /validate code and help them to fix critical issues in
+testing and development.
+
++ Mentoring junior developers , providing technical domain assistance, troubleshooting and
+alternative development solutions
+
++ Coordinated with team to prepare design docs and flow specs.
+
++ Interacted with business, cross functional team, SMES and BI team on day to day basis for critical
+time tines requirements and any system issues.
+
++ Developed and enhanced complex informatica mappings, ses
+‘optimization.
+
++ Prepared high level test strategies ,plans and scenarios for ETL processes.
+
++ Provided solutions to production failures and ETL/DB performance enhancement.
+
++ Engineered analysis to identify data and count issues between source systems and final BI reports.
+
++ Developed UNIX shell scripts for pmemd, parameter file and file transfer automation.
+
++ Built data feeds and extracts with complex business rules sourcing from warehouse to different IT
+and Business Teams.
+
++ Developed various Adhoc reports quickly to find data-driven answers.
+
++ Developed processes for data extractions and loading into Teradata
+Load and TPT.
+
++ Worked on ETL process migration for various data marts from Oracle to Teradata
+
++ Tunned Teradata Queries by using Pis,PPIs, Indexes, joins indexes and statistics for FIOS Sales ETL
+and BI reporting .
+
++ Worked on Hadoop loading data into HDFS using Sqoop, created Hive tables for customer journey
+analytics.
+
++ Worked on Audit process to report enterprise dashboard metrics accurately and efficiently.
+
++ Implemented optimal ETL performance strategies which resulted in 30 & improvement in over all
+sales and real time data mart process times.
+
++ Helped manager to find out right resources by conducting interviews and filtering profiles.
+
++ Supported numerous escalations from business community regarding critical key rep compensation
+reporting.
+
++ Implemented processes for data lake solutions using Oozie and Hive for call metrics.
+
++ Coordinated with Operations team to resolve critical emergency incident reports (IR) related to
+data issues and load failures.
+
+HSV/FIOS Broadband Rate Changes (Price up):
+
++ Collaborated with business, SMEs and cross functional teams to finalize eligibility requirements,
+design strategies and implementation approaches.
+
++ Reviewed project documents to identify potential impacts.
+
++ Prepared high level design, development and flow preparation for end to end ETL processes which
+resulted estimated annual revenue grovith $10M to Company.
+
++ Built complex informatica mappings and DB/ETL processes for leads list and MOG process.
+
++ Created various forecasting, eligibility, actually priced up, and fallout reports to estimate revenue
+and profitability to company.
+
+5, worklets and workflows with
+
+ig BTEQ, Fast Load, Multi-
+
+‘Advansoft Consulting - ETL Consultant At Verizon
+City, STATE « 08/2004 - 08/2008
+HSI (High Speed Internet) Sales Mart :
+
++ Interacted with manager to understand enhancements, and modifications.
+
++ Designed data model and table structures, keys and indexes.
+
++ Build dimensions, fact and aggregate tables as per requirements and standards , identify slowly
+changing dimensions and determine hierarchies.
+
++ Created Complex mappings, sessions, and workflows for real-time migration of data from different
+sources like Legacy Systems, flat files and other Relational Sources.
+
++ Implemented informatica transformations like Joiner, aggregators, Connected & unconnected
+lookups, caches, Filters, Sequence generators, Routers, Update Strategy, Expression, Sorter etc.
+
++ Prepared CA (Change Activity), SRR (Software Release Request) documentation to migrate code.
+
++ Extensively tuned SQL queries by using hints and other tuning techniques.
+
++ Analysed data to make sure to match expected counts between source system and target system
+fix issues raised by Business
+
++ Involved in Informatica Administration to create users ,access and server restarts.
+
+Advansoft Consulting Inc - Data Warehouse/ Interfaces Developer At William Sonoma
+City, STATE » 05/2004 - 08/2004
+
++ Worked with business analysts, data architects and team leads to build infra structure of data flow.
++ Participated in integration test, system test, user acceptance and prepared test plans.
+
++ Documented entire DW process.
+
++ Developed/Enhanced UNIX shell scripts to load sales, inventory, and promotions rejections.
++ Handled production support for entire RDW batch processes.
+
++ Scheduled, and monitored all batch jobs using control-M scheduler.
+
++ Fixed and re-run failed jobs to complete batch jobs.
+
++ Identified and fixed FTP and merging failures in ROW batch process.
+
++ Worked on customized PL/SQL aggregations scripts to generate reports to business.
+
++ Fixed and raised TOR/POR (Test/Production Defect Report) issues.
+
++ Involved in data validations of DW data against RCOM, RMS, and Legacy flat file system.

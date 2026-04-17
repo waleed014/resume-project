@@ -1,0 +1,190 @@
+Jessica CLAIRE
+Montgomery Suet, San Fancico, CA 98105
+(635) 432-1000 -resumesample@examplecom
+
+Prom
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sles professional with tack record of
+<eiving increased sales, improving buying experience and elevating company profil with target market.
+
+‘Cone Quatartcarions
+
++ Expertise in Full project lif eycle development for
+tmplementaton and integration
+
+‘+ Motivational and coordination sis with ability to deliver
+systems on schedule
+
+«+ Analyze and dil data mart for Information Mining
+
++ Change Management Process for Data Quality
+
++ Experienced in Requirement Analysis, Test Design, Test
+Preparation, Test Execution, Defect Management, and
+‘Management Reporting
+
++ Experienced in developing Data Mapping, Pevformance Tuning
+and Identifsing Bottlenecks of sources, mappings, targets and
+
++ Experienced in development of ETL mapping and scripts,
+Understand , Debug of ETL jobs, for transforming data remove
+oplicates
+
++ Experienced with Batch systems scheduling and processing
+
++ JAD sessions o determine the requirements for Purchase Order
+‘Requisition Conceptual Model
+
++ Experience with large enterprise data warehouse (OLA)
+architecture design including logical nd physical model
+evelopment.
+
+‘+ Data models and enterprise data models
+
++ Expertise in extracting and transforming lage datasets;
+‘experience with ETL tools like IBM Infosphere Data Stage, SSIS
+
+«+ Experienced working with offshore vendors and establishing
+offshore teams and processes
+
+‘+ Demonstrated experience with database technologies (eg. Oracle
+[MS SQL Serve, Sybase, MySQL),
+
++ Move data fom Oracle to Sybase using Sybase gateway
+
+«+ Experience with hybrid clo platforms, Oracle VM Server
+
+‘+ Hands-on experience with production reporting and BI platforms
+
++ Setup Oracle RAC clusters for Production and Non. Production
+
+‘Tecmacat Sens
+
+‘Oracle 10g, 11g, 12¢ Oracle RAC, MSSQL
+Server 2012, Sybase ASE 12.5, IBM Infosphere
+
+PRoresstonat. EXPERIENCE
+
+12/1993 t 12/1994 Lead Data/Database Architect
+
+‘+ Worked collaboratively with team members using Microsoft Lye / Webex; Led coordinated meetings between
+multiple time zones with both o/ofshore team members.
+
++ Provided findings with questions to business analysts fr verification; provided metadata such as allowed values,
+defaults constraints, domain inconsistencies, data layouts fr Mat files ee
+
++ for reference to data modeling or ETL team.
+
+‘+ Worked on TXBase ERP sofirare for Inventory Systems atthe factory Worked on Shop Floor in understanding the
+movement of items from bis to factory flor Understand and identify data relationship for inventory of tems and
+automating of Tssus/Receips using scanser software Design and Creation of models for maintaining Product
+receivables and issues Generation of reports of stock ledge fr use by purchase department for ordering of new
+items Schedule of quotations and Bill of materials foreach items Building of lage database in Sybase System 10
+fr inventory and Materials Generation of Purchase Orders fom quotations.
+
+«+ Design and Creation of tables for each process Change Management Impact analysis of data
+
+11/1988 0 12/1993 Sr Programmen/Systems Analyst
+NA
+
+“+ JAD sessions to determine the requirements for Purchase Order Reuisition Conceptual Model Designed Logical
+and Physical Data Models.
+
++ Analyzed Source Data to determine what metadata was tobe included inthe Logical Data Mode Performed data
+‘mapping to determine where identified source data belonged in the Data Base
+
++ Created Forward Engineered SQL from Case Too, which was loaded to build and maintain the Data Base
+
++ Used Transact SQL to load data into Sybase MSSql Server to load Source Data int the Data Baze Designed tables
+for Bank reconciliation system , Purchase Order requisition System Identified Ateibutes, Entities and converted
+into Physical tables for different account head related to company Purchase Order Requisition System towards
+identifying of customers, supplier rates, deviation from scheduled delivery dats.
+
++ Designed tables related to generation of Max/Min Levels of Inventory’ in hand fo production Reports for cost of
+total stock in hand Installation of audit tal forthe system for changes made and a report to management about
+datetime of change Enforce data inteprity using Primary key , Foreign key and Composite Key Identifying Indexes
+on tables for optimum data retrieval Residency Status: United Sates Citizen.
+
+‘Senior Data Technical Solutions Architect
+
+‘+ Responsibilities at AIG: Provide production support to various Oracle Sybase Microsoft database envionment aross enterprise,
+
++ Developed Dump’Restore Scripts for Sybase
+
+‘+ RMAN backop scripts Hot Cold backup and Datapump script for Oracle.
+
++ Setup automated alerts for Disk Space monitoring, Database Server Uptime monitoring, thru CA ProNet
+
++ Orace/Sybase security patch updates on database home , when available trough scheduled Change Tickets
+
+“+ Atoays jb scheduler for scheduling jobs, viz Backup DumpDatapump Database Upgrade to Newer versions, in order to maintain
+supper fom Software vendor.
+
+‘+ Work with aplication teams on upgrade schedule,
+
++ Setup test servers databae for upgrade testing.
+
+‘+ Witten security stored procedures as required by compliance for password security
+
+«+ Server, query, application performance tuning when there is deterioration in query performance.
+
++ Reverse engineer physical database to logical models when needed using Powerdesigne/EmbarcaderolEc-win as needed for identifying
+table/data relationship.
+
+«+ Schedule time with Unix engineers for SAN migrate of datfile/databases between storage, if database needs to be migrated to anew
+host
+
+Epveanion
+
+‘Training from IBM in Datastage-Paralel Extender, Infosphere Datastage Training in LDOM , RAC , In-Memory Database from
+‘Oracle University Project Management Training towards Certification Masters In Administrative Management - Mumbai University
+
+AccomLisiMExTs
+
++ Coordinated with IBM's Warehouse Migration from Solaris to AIX Enterprise Data-warehouse DBA (EDW and Re-Insurance Databases
+) Data-warehouse Administration 7Tb to 10Tb Experience in building a sealable data warehouse (OLAP) databate Database and Data
+_migration between diferent technologies Proof of concept for Oracle LDOM architecture towards migration of services Compliance
+tools testing and POC , Imperva for Database compliance SQLServer Database migration to Sqlserver 2014 Logical and Physical Data
+‘Modeling ERWIN Performance appraisal during design of project.
+
++ These include the logical & physical database design covering database objects such as schema, ables, stored procedures, views,
+‘riggers, and defaults
+
++ Setting up of metric numbers for performance parameters
+
+‘Reverse engineer ftom databases (SybaselOracle),E_R diagrams.
+
+«+ Interaction with Data architects
+
+‘+ Estimation of table size & database size, euce space(CPU utilization.
+
++ Creation & maintenance of databases fr Test, Model, UAT, Production envisonments
+
+‘+ Maintenance of Fact Tables, e-org of large tables, identifying additonal partons Identifying tables which can used for parallelism for
+faster retrieval of data i a multicore host environment Mateialized views setup for consolidation and viewing of data,
+
+‘+ Menifying and setting of range patitions for large Re-Insurance Oracle tables ( Database size 3TB) Kom Shel Scripts to monitor
+database servers
+
++ Disk UO, File system space, process monitoring.
+
++ Usage of AWKISED for parsing data Perl mumeri/alphanumeric scripting Database Migration expertise Oracle * Sybase * Sqserver
+Data transfers using for two-tier and thee ter application using ODBC.
+
++ Data Classification and analysis Hands on ETL jobs to move data from DB? to OracleMSSQL databases.
+
+«+ Data consolidation using Data stage as ETL ffom Mainframe’ Oracle! MSSQL.
+
++ Enforce Change Management Process for Data Changes in Production MSSQL SQL Server Integration Services to move snapshot data
+fiom Mainframe Data provisioning updates, and outstanding issves that affected application and business Migrate Sybase System10
+database to Sybase ASE12,
+
+Suns
+
+Administrative, Backup, Bank reconciliation, BI, Case Too, Change Management, CA, data modeling, data warehouse, databases, DataBase,
+
+Database, Datastage, delivery, engineer, ERP, Er-win, ETL, gateway, IBM, Inventor, ledger, Management Reporting, Materials, Max,
+
+‘meetings, Memory, MySQL. enterprise, OLAP, Oracle, procestes, Project Management, Quay reporting, Requirement, SAN, scanner,
+
+scheduling, servers, Sripts, MS SQL Server, MSSql, SQL, Sybase, tables, Transact SQL, Unix, Upgrade, VM, Written

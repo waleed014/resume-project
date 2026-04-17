@@ -1,0 +1,167 @@
+J
+
+ESSICA
+
+CLAIRE
+
+&
+
+9
+
+resumesample@example.com
+
+(855) 432-1000
+
+4100 Montgomery St. 10th
+
+Floor
+
+SKILLS
+
+Implementing security
+measures
+
+‘systems administration
+Data management
+Written and Verbal
+‘Communication
+Database development
+Disaster Recovery
+Hardware Support
+
+EDUCATION
+DEVRY UNIVERSITY
+
+Alpi
+
+haretta, GA
+
+B.S. Degree: Information
+
+Systems/ Data Management
+
+2016
+
+Microsoft Certified System
+Engineer, Windows Server 2000
+
+PROFESSIONAL SUMMARY
+
+Offering many years as an experienced diversified technical professional Proficient with SQL Server,
+VMware and Active Directory Windows Server System Administration Excellent verbal and written
+communication skills; Organized, adaptable and a fast learner. Able to work independently, in a team
+setting or collaborating across business units. Strong problem solver; highly analytical and
+commitment to exceptional customer service A dependable resource highly motivated and driven to
+perform at a high level when meeting objectives.
+
+WORK HISTORY
+
+Feed The Children - Database Administrator
+Washington, DC + 07/2019 - Current
+
++ Responsible for the implementation, configuration, maintenance, and performance of critical SQL
+Server 2016 RDBMS systems within an application development lifecycle environment / Azure
+DevOps / Scrum Manage multiple local and remote SQL Server databases Monitor system's health
+and performance.
+
++ Ensure high levels of performance, availability, sustainability, and security.
+
++ Analyze, solve, and correct issues in real time.
+
++ Refine and automate regular processes, track issues, and document changes.
+
++ Provide deployment support for critical production systems.
+
++ Perform scheduled maintenance and support release deployment activities after hours.
+
++ Review developer SQL scripts in test prior to production launches within security compliance
+standards.
+
++ Perform SQL upgrades and migrations from on premise equipment to cloud based technologies such
+‘as Azure Strong documentation and analytical skills; Able to implement data models and database
+designs, file-store configurations, data access and table maintenance rules.
+
++ Disaster Recovery and high availability support.
+
+Feed The Children - Database Administrator
+Chandler, AZ + 12/2017 - 07/2019
+
++ Responsibilities include database maintenance and overall support, performance tuning to
+maximize server availability and meet SLA objectives.
+
++ SQL deployments, installations and configuration, upgrades, patching, security compliance, system
+monitoring and disaster recovery.
+
++ Proficient with Microsoft SQL, DTS, SSIS business intelligence, SSRS, Visual Studio and Office365.
+
++ Maintain remote site locations using SQL integrated replication tools; Transactional and merge
+publications /subscription and configure disaster recovery strategies using, clustering, mirroring,
+log shipping and always on high availability.
+
++ Working knowledge of change and configuration management methodologies, application life cycles
+and problem management tracking applications like ‘At Your Service” and ‘CMIS” Work well with
+developers.
+
++ Hardware support includes HP DL580G7 / DL380G8/G9 servers, MSA P2000G3/1040/D2700/2050
+FC Disk Arrays, 8/20 FC switch, HBA; Fluent with the procurement of SQL software licensing and
+hardware.
+
++ Review developer SQL scripts in test prior to production launches: Apply data modeling techniques
+to ensure development and implementation support efforts meet integration and security
+compliance standards.
+
++ Perform SQL upgrades and migrations from on premise equipment to cloud based technologies such
+as Azure/VMware.
+
++ Strong documentation and analytical skills; Able to implement data models and database designs,
+file-store configurations, data access and table maintenance rules.
+
+Asrc Federal Holding Company - VMware Administrator
+San Francisco, CA + 06/2015 - 12/2017
+
++ Design and implement server infrastructure that supports VMWare 6.7 ESXi hosts, VSphere veenter
+console and upgrade manager in order to support virtual environments used by the development
+team’s application lifecycle and test environments.
+
++ Provide technical support: Trouble-shoot all server, network and storage hardware and software
+problems in the Vware development, UAT and production environments.
+
++ Perform VMware administration using VSphere veenter console; update VMware tools, spin up new
+‘M's, patching updates, disaster recovery, system configuration modifications, maintenance and
+software upgrades.
+
++ Work with VMware vendors to resolve complex system issues and bug related fixes to ensure
+maximum system performance.
+
++ Installation of new VMware ESXi host and Console environments, patch management, upgrades.
+
++ Always looking for better ways to optimize the VMware environment for simplicity and future
+capacity planning.
+
+VERIZON ENTERPRISE - Windows Server / SalesForce Administrator
+City, STATE «12/1997 - 06/2015
+
++ Provide 2nd level support within a Windows 2012 Active Directory multi-domain environment;
+manage AD, DNS and group policies, user administration, management of OU’s, GPO deployment,
+LDAP object maintenance, maintain security compliance and regulatory configurations on Windows
+servers.
+
++ Ensure all enterprise environments, especially mission critical systems and applications are
+monitored, secure, available and performing optimally; Comfortable working with remote site
+admins, external business units or vendors to resolve authentication, network or latency issues.
+
++ Deploy disaster recovery strategies and manage backup services for user data, storage appliances
+and servers; Update service packs and patches along with maintaining the security compliance and
+asset management of the systems.
+
++ Buildout new virtual and standalone systems; and on occasion migrate on premise systems to the
+cloud; Responsible for all performance tuning and configuration for all Windows, SQL, VMware, and
+servers.
+
++ Assist with all technology recommendations for new projects; Design and implement highly
+available production systems and provide system and support documentation upon request.
+
++ Maintain server event logging systems and closely monitor server systems; Create and maintain
+necessary documentation on systems and processes.
+
++ Create system specifications for new installs and upgrades and test before deploying to production.

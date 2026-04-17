@@ -1,0 +1,233 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+1g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Windows 98/2000/2003/XP/NT/Vista/
+718/10
+
++ Reporting and OLAP Tools
+
+SSAS, SSRS, Power Bl, SAP
+
+Business Objects, Tableau
+
++ SQL Server Management Studio(SSMS)
+SQL Profiler, Query Analyzer, DTS
+Designer, Index Tuning Wizard
+
++ SQL Server Business Intelligence
+Development Studio, ER Studio, Visual
+Studio
+2005/2008/2010/2012/2013/2015/20
+
++ Source Control Tools Visual Source Safe
+2005, Team Foundation Server 2010
+
++ S$8IS, DTS, Import/Export Wizard
+
++ AGILE, automation, Business
+Intelligence, Business Objects, Charts,
+consulting, Data Conversion, data
+modeling, DTS, data warehousing,
+database design, Data Analysis, data
+quality, data integrity, ETL, XML,
+indexing, Loan Origination, logging,
+Word, Excel, PowerPoint, Visio, SQL,
+Data migration, OLAP, query
+optimization, performance tuning,
+project management, reporting,
+Fequirement, SAP, Power BI, SDLC
+
+EDUCATION
+
+Grambling State University
+Grambling, LA + 2014
+
+BSc.: Biology
+
+CERTIFICATIONS
+
+1. Microsoft Power Bl Certified in
+Data Analytics and Visualization
+
+2. microsoft Certified Professional
+3. Microsoft Certified Security
+Engineer Associate.
+
+PROFESSIONAL SUMMARY
+
++ 12,years of experience in role of a Microsoft Business Intelligence Developer
+
++ Microsoft Power BI Certified in Data analytics and Visualization
+
++ Microsoft Certified Azure Security Engineer Associate
+
++ Business intelligence experience in Development, Architecture, Data Quality, Data Integrity, Data
+Governance, Datawarehousing, Client Analysis, Database Design, Reporting and Presentation using
+SQL Server 2008R2/2012/2014/2016/2017, Excel, SSIS, SSAS, SSRS, SAP Business Objects, Power
+Bi, and Tableau.
+
++ Excellent at creation, support and maintenance of reports and dashboards in Power BI by using
+Dax, SQl databases and SSAS Tabular model cubes as data sources.
+
++ Excellent back end skills in creating SQL objects such as Tables, Complex Stored Procedures,
+Functions, Views, Indexes, Triggers, Rules and SQL Performance Tuning to facilitate efficient data
+manipulation and consistency.
+
++ Excellent at stake holder management with various departments, vendors and project managers in
+understanding and achieving good results based on the clearly defined goals.
+
+WORK HISTORY
+
+C.H. Robinson Worldwide, Inc. - BI Developer / Azure IAM Administrator
+Tucson, AZ + 09/2016 - 10/2019
+
++ Participated in the development of data marts and the enterprise roll out of Power BI.
+
++ Configured conditional access policies in Azure to assess sign in risks of corporate users
+
++ Participated in the implementation of Multi-Factor authentication for newly Azure users.
+
++ Implemented Azure policies to keep control over the types of resources that could be provisioned.
+
++ Created alerts and action groups in Azure that monitored CPU usage.
+
++ Knowledge of Azure Active directory and managed service identities,
+
++ Obtained Power BI certification and also trained end users on how to use Power BI in order to
+reduce their dependence on the IT department.
+
++ Built, maintained, and deployed SSAS Tabular model cubes that were leveraged by end users for
+self service reporting.
+
++ Built drilldown, drill through, Chart, and graph reports using Power BI, SAP Business Objects Web
+Intelligence, and Tableau.
+
++ Identified areas where automation could be implemented and came up with solutions that saved
+the business lots of time and Money.
+
++ Participated in the creation of a data dictionary that was used by the IT department to better
+understand enterprise data and ensure data consistency.
+‘Aided in the migration of ETL packages from Adeptia to SSIS.
+Participated in the enterprise migration of a loan origination system.
+
++ Implemented security granting users access to certain views while restricting the access to certain
+database tables.
+‘Aided in Query optimization by rewriting complex queries to help speed up the data retrieval
+process.
+
++ Participated in projects that involved the formation of Joint Ventures with builders across the
+‘country.
+
++ Work extensively with the project management office to deliver for the successful roll out of these
+Joint ventures.
+
++ Created several Data - Driven subscriptions that ran daily to send reports to End users in all 50
+states.
+
+Premier Auto Sales - Report Developer
+City, STATE + 07/2013 - 09/2016
+
++ Performed various Data Transformations using conditional split, data conversion, derived columns
+and lookups to source data to transfer data in a format as per organization needs.
+
++ Interacted with users extensively in gathering the requirements and analyzing the needs of the end
+users.
+
++ Worked with different Control flow tasks in creating SSIS packages especially For Loop and For
+Each Loop containers with Execute SQL and Script Tasks.
+
++ Developed and maintained Microsoft SSIS packages including database design, ETL and analysis
+integrations to meet business requirements.
+
++ Used SSIS to create ETL packages to validate, extract, transform and load data to data warehouse
+databases from multiple sources of data.
+
++ Created databases, tables and provide constraints and user defined rules and defaults.
+
++ Involved in writing various database objects like user defined functions, stored procedures, usage
+of indexes for accomplishing various tasks.
+
++ Created views to reduce database complexities.
+
++ Optimized the performance of queries with modification in T-SQL queries, normalized tables,
+established joins, and created indexes.
+
++ Designed and developed data warehouse and business intelligence using multi-dimensional models
+- star schema,
+
++ Worked with tabular, matrix, gauges & chart reports, drill down reports as well as interactive
+reports according to business requirements.
+
++ Added parameterized report functionality for the users with drill-down and dril-through features.
+
+Rent Loop - Microsoft Business Intelligence Developer
+City, STATE + 07/2010 - 07/2013
+
++ Gathered business requirements, definition and design of data source and data flows.
+
++ Worked on managing ETL process by pulling large volume of data from OLTP to a staging Database
+using SSIS for data transformation.
+
++ Performed data extraction, transformation and loading (ETL) between systems using SQL tools
+such as SSIS.
+
++ Analyzed source data to determine the data model and ETL solution that will meet business
+requirements.
+
++ Designed SSIS Packages to transfer data from various sources like Text Files, XML Files, Excel and
+‘Access to SQL.
+
++ Created complex SSIS packages using various transformations and tasks like sequence containers,
+for loop and for each loop containers, execute SQL package, file system, conditional split, data
+conversion, derived column, lookup, merge join, union all, flat file source and destination, OLE 0B
+source and destination, excel source and destination etc.
+
++ Designed complex packages with error handling and package logging that stores the logging results
+in SQL table and flat files on error, on warning, on task failed event types.
+
++ Participated in AGILE iterative development methodology that allowed upper management to see
+their product sales information through frequent delivery of product.
+
++ Wrote SQL queries and stored procedures to generate data for reports.
+
++ Generated daily, weekly and monthly reports for managers based on product sales reaching certain
+targeted demographics and business goals.
+
++ Used SSRS to generate Sub-Reports, Drill down reports, Drill through reports and Parameterized
+reports.
+
++ Created Dashboards, Tabular, Matrix reports (crosstab or pivot), Charts and graphs as per
+‘customer requirements Using SSRS.
+
+|-Ping Solutions - ETL Developer August
+
+City, STATE + 05/2008 - 07/2010
+
++ Formulated and documented ETL processes based on business requirements and system
+specifications, including source to target mappings, transformations, lookups, aggregations and
+expressions.
+
++ Designed SSIS packages to bring data from existing OLTP databases to the new data warehouse by
+performing different kinds of transformations like lookup transformations, merge joins, derived
+columns, merge join, conditional split, data conversion with multiple data flow tasks.
+
++ Transferred data from various OLTP data sources, such as Oracle, MS Access, MS Excel, Flat files,
+CSV files into SQL Server 2008 R2.
+
++ Created packages in SSIS with error handling as well as created complex SSIS packages using
+proper control flow and data flow elements.
+
++ Troubleshooting of processes, issues and errors in SSIS Packages to improve their performance.
+
++ Actively supported business users for changed requests.
+
++ Designed and developed dashboards and reports using SSRS on a week-to-date, semester-to-date
+and year-to-date to manage facility reservation requests easier.

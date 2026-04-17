@@ -1,0 +1,137 @@
+Jessica CLAIRE
+
+100 Mostgomery St. 10th Flo # (555) 432-1000 # resumesample@example com
+
+SusaRy
+
+‘+ 3 years of experience in the field of DevOps Engineer in application configurations, code compilation, packaging, building, automating,
+‘managing and releasing code ftom one environment to other and deploying to servers.
+
+‘+ 9+ years of overall experience working in Devops, Big Data and Datawarehouse Technologies.
+
+‘+ Experienced in Jenkins by installing, configuring and for purpose of continuous integration (CI) and for end to end automation
+{or ll build and deployments and creating Jenkins CI pipelines.
+
+‘+ Hands on experience with BC2, $3, RDS, VPC, ELB, EBS, Auto scaling.
+
+‘+ Experienced in branching, merging and maintaining the versions using SCM tools like Git and GitHub on windows and Linux platform.
+
+‘+ Experienced in Project Management and issue tracking tol lke JIRA.
+
+‘= Experienced inthe creation of Docker containers and Decker consoles for managing the application lifecycle.
+
++ Creating custom Docker Images using Docker fle for easier replication of DEV and QA Environments in local machines.
+
+++ Performed and deployed builds for various Environments like QA, Integration, UAT and Productions Environments Developed and
+eployed Chef, puppet based on their cookbooks, recipes and manifest
+
++ Configured and monitored distributed and multi-platform servers using Nagios
+
+‘+ Strong analytical and problem-solving skills and can work ether independently with litle or no supervision or asa member ofa team,
+
+‘Good written and verbal communication skills, stong organizational sis and a hard-working tam player, well practiced in attending
+phone calls and answering business team queries.
+
+Semis
++ Versioning Tools - Git + Languages - SQL, NO SQL
+
++ CI Jenkins, Chef, Puppet + Scripting Language - Shell, Python
+
++ Build Tools - Maven + Web server - Apache Tomeat
+
++ Ticket Tracking Tool -JIRA + Database - Oracle SQL Server, MySQL, Teradata, DB2, Netezza
+++ Containerization Tool - Docker + Big Data - Hadoop, HDFS, Map Reduce, Flume, Pig Sqoop, Hive,
++ Operating System - Windows , Unix ozie, MongoDB.
+
+‘+ AWS - Amazon EC2, $3, RDS, ELB, EBS, Auto scaling, + ETL- Ab iitio
+
++ Monitoring Toot - Nagios
+
+EXPERIENCE
+
+Devops Engineer, 01/2015 - Current
+Blackbaud - Chicago, IL
+
+‘+ Managed cookbooks in Chef and Implemented environments, roles, and templates in Che fr better environment management
+
+‘+ Used Shell scripts to day today activities and tasks for automating.
+
+‘+ Used Jenkins tool to automate the build process
+
++ Installing and configuring Jenkins master and slave nodes, Built CUCD pipeline and managing the infastructure as code using chef and
+
+poppet.
+«+ Have experience in cloud platform like AWS,
++ Created and implemented chef cookbooks for deployment and also used Chef Recipes to create a Deployment directly into Amazon EC2
+
+‘+ Worked in GIT to manage source code.
++ Setup Chef Server, workstation, client and wrote scripts to deploy applications
+++ Deployed the applications to Tomeat Application Server and static content to Apache web servers.
+‘+ Automated the continuous integration and deployments using Jenkins, Docker.
++ Installed, Configured, and Managed Monitoring Tools suchas Nagios for Resource Monitoring Network Monitoring.
+‘+ Worked on Docker container to create Docker images for different envionment.
+‘+ Responsible for taking the source code and compiling using Maven and package iin its distributable forma, such as a WAR file
++ Implemented proces for release management, automated code deployment, configuration management, nd monitoring
+Environment: Amazon EC2, $3, RDS, VPC, ELB, EBS, Auto scaling, UNECLINUX, Redhat Linux 6, CentOS, Jenkins, Windows, Apache
+‘Tomcat, Shell Scripts, Docker, Nagios, puppet
+
+Big Data /Datawarehouse Tech Lead, 03/2012 - 01/2015
+‘Chenega Corporation - Greenbelt, MD
+‘+ Worked with systems engineering team to plan and deploy new Hadoop environments and expand existing Hadoop clusters with agile
+methodology.
+‘+ Monitored multiple Hadoop clusters environments using Contrl-M, monitored workload, job performance and capacity planning using
+CCloudera Manages.
+‘+ Experienced with through hands-on experience in all Hadoop, Java, SQL and Python,
+‘+ Participated in functional reviews, test specifications and documentation review
++ Performed MapReduce programs on log data to transform into structured wa to find wser location, age group, spending time,
+‘+ Analyzed the weblog data using the HiveQl. to extract number of unique visitors per day, page views, visit duration, most purchased
+product on website,
+“+ Exported the analyzed data tothe relational databases using Sqoop for visualization and to generate reports by Business Intelligence tools,
++ Documented te systems processes and procedures for future references, responsible to manage data coming from different sources,
+‘+ Managed multiple projects as a Datawarehouse tech lead in Onsite - Offshore model,
+Environment: Hadoop, HDFS, Map Reduce, Flume, Pig, Sqoop, Hive, Pi, qoop, Oozie, MongoDB, Shell Scripting
+
+‘Systems Engineer, 022011 03/2012
+Infosys Ltd Grand Rapids, MI
+“+ Supported in Gathering requirement and understanding the business functionality incase of TPR (Techical Project Request) document
+++ Develop the graphs according tothe business requirements.
+‘+ Analyze source systems file layouts and write DML for extracting th data ftom various sources like fa files, tables, Mainframe Copy
+Books, Responder Layouts
+‘+ Involve in analyzing the data transformation logics, mapping implementations and data loading into target database trough Ab-Initio
+araphs.
+‘+ Developing UNIX shell scripts for automation processes.
+‘+ Involve in fixing the unit and functional test case/data defects,
+‘+ Analysis of Existing application and identifying improvements
+Environment : Ab Initio 303, Teradata 12, UNIX (Sun Solaris Korn Shell.
+
+Ab Initio Developer, 2009 - 02/2011
+Hewett Packard Global India Pvt Ltd, ~ City, STATE
+
+++ Develop the graphs according to the TPR document,
+
+‘+ Analyze source systems file layouts and write DML for extracting the data from tables.
+
+‘+ Ivolve in analyzing the data transformation logics, mapping implementations and data loading into target database through Ab-Iitio
+
+araphs,
+
+‘+ Developing UNIX shell scripts for automating processes.
+
+‘+ Involve in fixing the unit and functional test ease/data defects
+
+‘+ Analysis of Existing application and identifying improvements
+
+‘+ Prepare reslt analysis graphs to validate business tet case results.
+
++ Performance testing ofall graphs against huge volumes of data
+Environment: Ab Into 3.03, Teradata 12, UNIX (Sun Solaris Korn Shell), MOSS 2010,
+
+Epucarion
+
+Bachelor of Engineering: Electronics and Communication, 2008
+‘Anna University - Chennai, Tamil Nad
+
+(CERTIFICATIONS.
+
+‘+ Clovdera Certified Hadoop Developer (CCD - 410),
++ Centiied MongoDB Developer

@@ -1,0 +1,83 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Dedicated and cybersecurity professional with demonstrated strengths in Security Technology, time management, and trend tracking. Good at
+troubleshooting problems and building successful solutions. Excellent verbal and written communicator with strong background cultivating
+positive relationships and exceeding goals.
+
+Sens
+«Linux * Penetration Tester/Web Application Security
+© OWASP 10 * User Support
+
+‘Tenable Nessus
+Reliable and trustworthy
+
+‘# Network Security Technologies
+* Technical Documentation
+
+EXPERIENCE
+
+05/2020 to 07/2020 IT & Data Science Intern
+Central Lakes College — Brooklyn Center, MN
++ PC Building with companies’ standard for employees and created IT Documentation for global locations with
+SharePoint Online.
+
+‘* Use Sophos EndPoint Protection for encryptions/decryption, monitor real time data, secure Windows, Mac and
+Linux systems against malware and other endpoint threats and etc.
+SolatWinds MSP N-central software to manage remote monitoring and management solution plus network
+visibility, advanced security, and comprehensive control,
+Setting-up AI platform for Data Scientist and team.
+Installed Red Hat Linux using ISO image.
+Installed Python, Java, Julia, Jupyter Notebook, H20 AI, Octave and etc for Data Scientist.
+Using Oracle VMware; installed Kali Linux, debian based to use for Network scanning, metasploitable, and etc.
+Getting to know Network Security — Nmap, Nessus, metasploitable, IPS/IDS and etc.
+‘+ Use Auvik (cloud-based network management software) to keep IT network running with real time data
+
+06/2019 to 07/2019 Information Technology Intern
+Rutgers University — New Brunswick, NJ
++ Perform repair of desktops, laptops and other assigned equipment.
+« Performs installing, diagnosing, repairing, maintaining and upgrading all PC hardware and equipment to ensure
+optimal workstation performance (over 200 Microsoft surface laptops).
+‘* Evaluate inventory for quality and accuracy.
+‘© Manage PC setup and deployment for new employees using standard hardware, images and software.
++ Control inventory and quality audits, assign asset tags.
+* Resolve issues with devices with customer direction.
+
++ Join devices to customer's domain and encrypt hard drives.
+
+04/2016 to 05/2019 Assistant Manager
+Sherwin-Willi
+© Setup Network Security, configure routers, access points, switches, firewall protection, LAN/WAN and etc.
+‘+ Hands on experience with troubleshooting wireless network.
+‘+ Make sure that all equipment, including servers and the other network product, are well- connected.
+* Maintain a comprehensive and detailed record of all 46 rooms using InnQuest’s ROOMMASTER & GraceSoft
+Easy Inn- Keepings software.
+‘+ Responsible for ensuring guest satisfaction, responds to complaints, and ensures hotel profitability.
+‘* Supervised 2 hotel maintenance and property staff and assigned those duties whenever they were required.
+
+jams — Jenison, MI
+
+05/2015 to 07/2015 Chemistry Intern
+‘Sun Farm Corporation — City, STATE
+‘* Prepared samples using Standard Operating Procedures (SOP) for analysis.
+‘© Worked with the team to test and analyze samples using HPLC, GCMS, IR, and Mercury Instruments.
+* Performed Environmental and Bacterial tests.
+* Carried out administrative duties; sample logging, data entry, revising SOPs, and data analyzes.
+‘* Organized, analyzed and prepared data research reports in compliance with operations and record-keeping
+standards.
+
+Epucation Np TRAINING
+
+05/2021 Bachelor of Arts: Applied Computer Science, Security Minor
+Western Connecticut State University - DANBURY, CT
+
+Jun/2016 High School Diploma
+Norwalk High School - NORWALK, CT
+
+(CERTIFICATIONS
+
+Auvik Certified Professional Training (ACP), Advanced Google Analytics Certified, and others in progress.

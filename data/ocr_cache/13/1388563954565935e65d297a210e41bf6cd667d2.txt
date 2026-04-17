@@ -1,0 +1,156 @@
+Jessica CLAIRE
+
+Mexgemiry Stet, Son Fancio, CA 94105 # (55) 432-1000 esmesmple example com
+
+PROFESSIONAL SUMBARY
+
++ Over 6 years of experience in analysis acitectral design prteypng, development, ineratin and testing of applications sing Java and
+[REE Technologies 3+ yeas of extensive implementation experience in Mule ESB over Anypoiat Static, Anypoiat Patfom, Couitub, APL
+Gateway and Management smmensely experienced in wing SQL Quis, race PLISQL, DBA and JPA alongwith god knowledge on
+[NaSQL and MongoDB sStong experience in intepraion Technologies like Mule ESB integrating various thd party financial solutions with
+the eustons nde web aplication Design and develop enterprise services sing RAML and REST bated APIs Experi in web developeat
+plications wing Cote Jv, Serle, JSP EYB (Session Beans, Entity Bean), JDBC, XML, XSLT, RM INDI, ava Mai, XML Pasers
+(os and 64%), ava Beans, BMS and Web Services Proficient in working on Java slated Frameworks like MVC, Strut 12, Hibeate
+4.x. JSF and Spring Framewodk 23x Experience i implementing vais design pte lke MVC, Data Access Objet, Foot Contolle,
+Interceptng Filter, Service Locator and Transfer Object Extensive experience in SOA and experience in developing Web services, WSDL,
+SOAP and JAXBUAX +Experience using mule connectors like DB, HTTP, HTTPS, FTP FILE, SFTP, IMS, SalesForce et 25 pat of
+imegraton usage strong development experience with producing nd consuming Java Web Services sing WSDL, SOAP, JAX-WS, JAK RS,
+(CXF, AXIS, JERSEY, XML, WS-Security +Hands on experience in Dtaweate Expression Langage, MleSoft Expression Language (MEL) ‘©
+aces payload data, roperis and variable of Mole Message Flow Technical experienc inthe aca of Objet Oriented Analysis (OOA) an
+(Object Oriented Design (OOD) wing UML and SDLC of stituted applications. Hugely experienced in using MoleSft Sudo that integrates
+APIs, databases and SaaS applications and deployed MuleSoft ppliations to CloudHiub and on-premise servers Good hands on experience
+sing mule connectors ike Salesforce, Fle,Daabat, JMS, SMTP and oe connectors 2 pt of integration wage Proficient in developing
+vveb pages wing HTMLS,fvaSeit, JS, C553, AJAX, ISON, JQUERY, JSTL and Stts Talib Proieat in coding/Ssign guidelines and
+checking Check se, PMD defect Find Bugs Extensive experience with Web Lope 10, Bost 7.0, WebSphere 7.28 and Tomeat 7.0
+“Experience with Agile- Spit methodologies odo requiements gatbering analysis and planning, development & testing and documenting
+‘hem Suong application ntepation experience using Mule ESB with consectors,wasformations, Rowing, ActiveMQ, DMS and RAB
+“Experience with different version contl racking stems like CVS, Harvest, GIT, Clear Case & SVN Have experince i development and
+<epoying mle projects. on Clout Application ineration using Mole ESB, OSB and IBM Message Broker fer integrating and
+cchestatig the services “Good understanding of implementing SOAP based and Web Services “Good expose for Java DEE applications
+‘sng IDEs like MyEclipse & Eclipse, RAD & NetBeans, Anypoit studio lands on experience on developing loging framework wing
+KIBANA with ELK search Performed wait esting wing Unit tes cates and wed Mocito for sb, intepraion and deployment of plications
+done sing tol like ANT and Maven and dcbugeing through Logs “Experince on creating Flows, Sb Flows, Exception sategy, DataWente
+transfomations an the activites “Expertise in DB Design, DB normalization an writing SQL queries & PL/SQL- Stored Procedures,
+Functions, Tigges, Sequences, Indexes and Views et
+
+4 Mule ESB 3 82/4.1x Amypoiot Platform, Mule APIProxy, __¢ API.Java18, SQL Server
+
+Anypont Sti 17.5, IB, APE CONNECT, DatPower
+
++ Mostring: Splunk ITCAM, Dynatrace
+
++ Application Server: WAS, WebLogi, Tomcat
+
++ Protocols HTTP, MQ, FTE, SFTE, TCP, IDCO, BAPL, SOAP
+
+“Web serve: KML, WSDL, XSD, ISON, Swagge XSL
+
++ Automation: Jeakas, GIT, SVN, CVS, Antifcty, Ant, aves
+
++ Security: OAuth, SAML, LDAP, SSL, TLS
+
++ Operating Systems: Wintows, UNIX, Lins, DOS
+
++ Databases Tools: DB2,Syhase, MySQL, SQL Server and
+Orcettg2e
+
++ Other tos: UML, Altova XMLSpy, TOAD, SQL Developer and
+
++ Approach, 3SP1.2, SSL.
++ Automation, JavaScript, Ss 1.3
+
++ C.IMs, sybase
+
++ Clearer, LDAP, System Iteration
+
++ Content, Li, Tables
+
++ C85, Long 1214, PMP
+
++ Cet, Logie, TOAD
+
++ Merson contol, Windows, Tomcat
+
++ CVS, Windows NT, UML
+
++ DAO, MySQL, UNIX
+
++ Data Warehouse, Operating Systems, UND scripting
+
+SoaPUL + Datsbase, Optimization, WebLogic
++ SQL Developer, UNDX scripting, Windows NT, Informatica 8.1,» DOS,DB, Wien
+‘OBIEE, Erwin, Oracle 1g, SQL Server 2008, Flat files, SQL, + EJB, Processes, XSL
+pty, UltraEdit 32 shell Programming, Toad + ETL, Protocole
+Ant va, SOAP + Gatewy21, QA
+Apache, Java 17, SQL + HTTP, Routing
++ Databases, Oral, Worn + Tnfomatica 8.1, Scheduling
+«Eclipse, Developer, XML + EE, SLA
++ Eewin, Progamming, XSLT
++ FTP Proxy
+| HTML, Retinal database
+1+ DBD, SAS
++ Tafomatca, Stell Propramming
+Work History
+
+“MaleSo Developer (772018 - Cureat
+
+Electric Tne. ~ Atanta, GA
+
+“+ Worked on REST and SOAP bated Wel sence in WSSE standards for Mule ESB flows and SAMI and RAML for AP configuration
+slovoed in deploying applications into MuleSoft Cloud and Male Management Console Responsible in developing integration
+workflows using Mule ESB ffamework and implemented DutaWeave and content based routing using Mule ESB slovoed in creating
+HTTP inbound & outbound fous and orcheuaton using XPath using MULE ESB -Developed Nowslrchesaton fo iterating the
+component writen ontop of dierent internal platoons using Mule ESB -Configuing the Male proces fo ftching the data om opie
+and make servic call tothe Milde Tie Mule ESB for processing ‘Gathered equcement and plaasing on integration of bth SAS
+sppliations ving Mule ESB and integrated Mule ESB system while ving Rabbit MQ, HTT, Filesystem and SFTP transports Used
+Citas aversion an source coutling tol and deployed the application on premises as wellas on Clouds ‘Responsible for enshore and
+fibre coordination in working togeter to complete the tasks on time Eavronmest:Anypoat Salo 65/75, AML, Postnan, SVN,
+Jeans CludHvb, Logs 12.14, GT, JIRA, API Gateway21, Webservices, Bitbocket, Mule ESB 3.941, Jara 18, Eclipse ActiveMQ
+53, AWS, Apache Maven 339.
+
+MaeSott Developer, 102016. 082018
+‘NoeatElerieIne.—Balinore, MD
++ Tavoved in unittest of several deployed APIS in Mule CloudHuh Created several Jenkins obs to deploy mul plications in
+‘Clouitufor continuous deployment Used MUait for mocking nd wit testing mule flows and Implemented cluster-based approach
+ile deploying applicton in QA and PROD envionment Involved in development of APIs requiring intepaion of mobile
+sppliation Created mole Flow wsing End Pint, Connector and Component bean tsing Mole ESB to communicate clearer systems.
++ impecte ws and sub flows in cor handing and implemented eflcive exception handing tchnigues implemented RBbitN.Q
+message byoker fer communication between aplication Developed several apes in Male to consume messages fom Rabbi topic
+sing AQP protocol and send to differen applications “sked on fing many defects and design changes ia Mule lows fo several
+ADTs Weriied consistency of data when meting of data was dove frm Various sures by employing iteration pursing techniques
+‘Mule Message Flow Eaizoameat: Apache Maven 3.39, RAML, Webservices, GI, Postman, Java 7, clipe Jenkins, Aay pia Stadio
+50x MySQL, Mule ESB 373, ActiveMQ 53, AWS, Microsoft Azie
+
+ETL Developer, 0872014 -092016
+“Ipmorgan Chase & Co. Kiskland, WA.
+
++ Roles and Responibiites:Desigoedand developed processes to handle high volumes of ata and high volumes of data loading in cach
+SLA *Used debugger, session logs and worklw lost test mapping and fined bugs Analyzed dependencies betnen jobs nd scheduling
+‘them cordingly wing Werk Scheduler Created Informatica mappings, enabling extract, anspor and leading of data into tage tables
+-Weote complex SQL Queries involving multiple tables with joins Prepared eusable wansfomations to load data fom operational data
+seurce to Data Warehouse snprovedperfosmance of mappings sessions using Various optinization techniques “Schedules and an
+‘Woden in Workflow Manager and monitered sessions using Iafomatca Wodtlow Monitor <Developed lformatia mappings,
+zabling ETL process for lage volumes of data iat target ables Created Workflow, Worlets and Tsk to scale lads at equced
+fequencies using Workflow Manage
+
+Java Developer, 09/2013 -072014
+Lasoft=Monich, ND
++ Implemected Spring 10C, Spring Cotes methodlopies incl in fetching and sting jet fom DB using Hibernate
+‘Implemented pessence layer wing Hibemate ad configured Hibernate with Sping interac wth Daabuse fiom DAO Developed
+‘iberate mapping files for Object Relational Mapping while configuring Hibernate Coordinated with testing team in esoving sues and
+Sally moving to production Application suppor for System Integration Testing and User Acceptance Testing avoved in ceating test
+cases ‘Responsible for understanding clint equirements an coordinating with offbore team in successful inplemestation of project,
+aed CVS version contol o maintain different version of aplication “nplemened data persistence functionality of pplication by wing
+berate to peri Java dt object relational database
+“+ Tass inloded- configuring and maintaining Hibernate configuration fle Par of Issue Management Team involved in development nd
+fixing issues which were asd by Client “Developed Spring Aspect Oriented Programming (AOP) fr Exception handling logic
+Committed with Bsiess Analysts to resolve requirement sues for team ‘Coordinate wih eam in implementation of basines logic
+Eavirnment Sesion Bean (EIB), Oracle 103, Oricle ADF, JavaSerigt, IMS, Sts 13, HTML, CSS, selectors, prea classes, XM,
+XSLT, SOAR, Hibemat 30 4a, IEE, WebLogic 111,381.
+
+Epvcartox
+
+Bachelors: Computer Science, 102012
+Uaiersity of Aksum - Aksum
+
+Certied MalSon Developer

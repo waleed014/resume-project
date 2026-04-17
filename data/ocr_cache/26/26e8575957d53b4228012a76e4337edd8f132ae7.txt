@@ -1,0 +1,175 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+CERTIFICATIONS
+
++ Docker Certified Associate
++ AWS Certified Practitioner
+
+EDUCATION
+
+City Colleges of Chicago-Malcolm
+X College
+Chicago, IL + 12/2012
+
+Associate of Science: Business
+
+Northeastern Illinois University
+Chicago, IL + 05/2014
+
+Bachelor of Science: Accounting
+
+CORE COPETENCIES
+
++ Excellent communication and
+Interpersonal skills
+
++ Organizational skills
+
++ Project planning
+
++ Developer collaboration
+
++ Team andGoal Oriented
+
++ Maintenance and
+troubleshooting
+
++ Meeting participation
+
++ Time management
+
++ Excellent work Ethics
+
++ Adaptability
+
++ Problem solving - creating
+solutions
+
++ Documentation and Report
+
++ Positive, Energetic, and
+professional attitude
+
+PROFESSIONAL SUMMARY
+
+DevOps Engineer with several years of experience in the IT industry.
+Passionate and motivated by delivering exceptional results through emerging concepts and
+techniques.
+
+Proactively seek ways to incorporate new and creative ideas, while util
+containerization, SCM, CI/CD, cloud automation, and orchestrations.
+
+Displays an outstanding ability to plan, operate, multitask, organize, coordinate, manage incidents,
+and stays on top of current trends to implement practices that will contribute to company’s success.
+
+ng DevOps tools such as
+
+PROFESSIONAL EXPERIENCES
+
+‘Two95 International Inc. - DevOps Engineer
+Radnor, PA + 10/2017 - Current
+
++ Provisioned AWS services using AWS CLI/API, defining EC2, $3, VPCs, subnets, Auto-Scaling
+Policies /Groups, Security Groups and Routs 53 to ensure high availability and redundancy of critical
+resources
+
++ Maintained fully automated CI/CD pipetines for code deployment using Jenkins
+
++ Created and updated AWS AMI Images Using Packer
+
++ Experienced with installation and configuration of Kubernetes , clustering and managing
+deployments in Kubernetes
+
++ Experienced with microservices and containers, including Docker and applying this technology to
+continuous delivery
+
++ Increased productivity and reduced errors through the use of automation with Ansible
+
++ Built and deployed Docker containers to break up monolithic app into microservices, improving
+developer workflow, increasing scalability, and optimizing speed
+
++ Managed systems with Ansible; created custom roles and playbooks
+
++ Managed GitHub repositories and permissions, including branching and tagging
+
++ Actively manage, improve, and monitor cloud infrastructure on AWS, EC2, $3, and RDS, including
+backups, patches, and scaling
+
++ Implemented AWS Cloud platform with terraform, with its features which included EC2, VPC, EBS,
+AMI, Autos calling, IAM, $3, R53
+
++ Used Ansible Tower to run different tasks
+
++ Provided consistent environment using Kubernetes for deployment scaling and load balancing to the,
+application from development through production
+
++ Helped to maintain existing build/ deploy pipelines for both configuration management and
+application development, using jenkins
+
++ Reduced costs by ~$4,000 each month by eliminating unnecessary servers and consolidating
+databases
+
++ Experience utilizing Docker and creating Docker Images
+
++ Maintained Docker container clusters managed by Kubernetes on GCP (Google Cloud Platform)
+
++ In-depth understanding of the principles and best practices of SCM
+
++ Used Kubernetes for deployments, scaling and management of Pods
+
++ Configured and integrated NagiosXi with slack to constantly monitor instances and send
+notifications
+
+Kord Technologies - System Engineer
+Chantilly, VA + 11/2015 - 09/2017
+
++ Created and updated user and group accounts
+
++ Migrated Mysql database to AWS RDS using server migration service
+
++ Installed, configured, and maintained operating systems, and system management tools
+
++ Designed and deployed various applications, including Nagiosxi and backup systems
+
++ Troubleshooted performance of servers using tools such as top, traceroute, nslookup, netstat, etc
+
++ Worked with teams to design and build a highly available cloud hosting platform and incorporate
+the necessary automation and configuration tools that ensure agile and secure consumption of our
+infrastructure
+
++ Conduct performance monitoring, system health checks, trending analysis and capacity planning
+
++ Provided system engineering support for different IT projects
+
++ Implemented, developed and tested installation and update of servers in the departments
+
++ Regular Interaction with users to analyze and resolve the system and workflow errors
+
++ Ensured that test logs/ registers are kept up to date, and provided effective resolutions to issues
+
+Curtiss Wright - Customer Service Representative
+Milwaukee, WI + 04/2007 - 06/2014
+
++ Cultivated customer loyalty, promoted repeat customers and improved sales
++ Answered customer telephone calls promptly to avoid on-hold wait times
+
+PROJECTS AND ACCOMPLISHMENTS
+
++ Configured ELB on Cloud System
++ Assisted the senior developer regularly with various tasks, which advanced my learning experience
++ Migrated from Nagios to DataDog
+
++ Disaster Recovery - Rtsoft Backup
+
++ Deployed Ansible Tower on Linux
+
++ Successfully deployed new infrastructure with Terraform on test environment
+
++ Configured Nagiosxi to monitor instances and send notifications to slack

@@ -1,0 +1,114 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+
+Worked for HCL Technologies in India and having 3+ years of experience as a Database Analyst, iSeries Administrator Analyst followed by
+AWS Cloud administrator in IT infrastructure functions. Passionate to seek a challenging job that encourages continuous learning and provides
+
+exposure to new ideas towards Professional Growth.
+
+SKILLS
+
+Cloud: Amazon web Services
+Database: SQL, MYSQLS.6, Oracle, RDBM Web Designing: HTML, Xml, PHP
+
+Storage Backup Tools: BRMS, Native backup tool AS400 Ticketing Tools: BMC Remedy, SNOW
+
+Infrastructure Tool: StruxureWare, Scom, Platespin Solarwinds, Operating Systems: AS400 V7R1 to V7R3 / Windows XP/
+Netapp, Moogsoft, Nimsoft Console Ubuntw/Linux
+
+Application Tool: Revitas, Sterling, SOA, EBS
+
+Language: C, C++, Java
+
+EXPERIENCE
+
+DATABASE ANALYST - Sunovion Pharma, Marlborough, 07/2016 - 10/2017
+HCL Technologies — City, STATE
+
+Designed advanced SQL queries, stored procedures, triggers and scripts.
+Created, maintained, modified, and optimized SQL Server databases.
+
+Collaborated with other programmers on data modeling.
+
+Optimized query and table design with knowledge of database performance and capacity.
+
+Implemented Process Improvement Guidelines, Procedures, and Workflows.
+
+Implemented and modified physical database design
+
+Assessed database performance for a large database, including system utilization and user response time.
+
+Provided on-call support as scheduled and also provide support to other on-call support people for critical incident where expertise help
+would be required.
+
+ISERIES ADMINISTRATION ANALYST - Dean Foods, Texas, 10/2017 - 10/2018
+HCL Technologies — City, STATE
+
+Provided AS400 Admin support for the client Dean Foods US.
+
+Gained Knowledge about User Profile and User authority.
+
+Troubleshot QEDD replication, monitoring & controlling out queues & spool files.
+
+Performed tasks by Creating, starting & ending subsystems as per user requirements.
+
+Created & scheduled Robot jobs & troubleshot scheduler issues.
+
+Performed backups & managing media inventory using BRMS also restoring objects & libraries using BRMS.
+Performed initial program load IPL via HMC.
+
+Performed Health check post completion of backups also analyzed TCP IP, SMTP, MSF service status.
+Responsible for controlling and submitting the critical batch jobs via ROBOT & Native scheduler.
+
+Taken responsibility to dispatch for all high, medium, low severity issues within SLA.
+
+‘Worked with Jobs, Queues, Subsystems and Message queue.
+
+Performed Year end/Month end/Weekly/ EOD process based on client's requirements.
+
+Provided support to technical escalation from the team and Coordinated service calls and requests with team members whenever required.
+Involved in 24x7 support rotation for all production, test and development databases.
+
+Have built teams from scratch by providing appropriate in-depth knowledge transfer.
+
+AWS ADMINISTRATION ARCHITECT - Dean Foods, Texas, 10/2018 - 11/2019
+HCL Technologies — City, STATE
+
+Involved in migration and implementation of multiple applications from a premise to cloud using various AWS services like EC2, $3, RDS
+and EFS.
+
+Provided support and managed services within AWS and global IT infrastructure.
+
+Responsible for launching EC2 cloud instances using Amazon Web Services and configuring launched instances with respect to specific
+instances and regions.
+
+Responsible for $3 bucket creation, Policies and IAM role based policies
+
+Installed applications on AWS instances and configured the storage on $3 buckets.
+
+Built servers using AWS, importing Volumes, Launching EC2 instances, RDS, creating security groups, auto scaling, ELB load balancers
+in a defined virtual private connections.
+
+Responsible for creating notifications for EC2 host using Cloud watch.
+
+Worked with Security division to design and manage IAM roles for users and other third-party vendors.
+
+Worked with internal teams to create the migration process of legacy systems to the AWS cloud.
+
+Performed consolidation of enterprise backup environments in AWS to reduce backup and recovery time increasing backup success rate.
+Managed and configured AWS services as per the business needs.
+
+EDUucaTION
+
+Bachelor of Engineering: Computer Science, 04/2013
+
+Kings Engineering College
+
+‘Master of Technology: Software Engineering, 04/2015
+
+BS
+
+Abdur Rahman Crescent Institute of Technology - Chennai

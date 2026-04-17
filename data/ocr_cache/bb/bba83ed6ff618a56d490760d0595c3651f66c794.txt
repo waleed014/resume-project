@@ -1,0 +1,179 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+& (655) 432-1000
+
+9 Montgomery street, San
+Francisco, CA 94105
+
+SKILLS
+
+Microsoft SQL Server (7 years),
+Oracle 10,11
+
+EDUCATION AND
+TRAINING
+
+TOURO College University System
+New York, NY + January 2019
+
+‘MS: Information Technology
+Database Administration
+Information Technology Database
+Administration
+
+Bachelor
+
+University of Tirana
+Tirana + July 2006
+
+Bachelor & Master of Computers
+Science
+CERTIFICATIONS
+
+Albanian Advanced English
+‘Advanced Italian Advanced
+
+SUMMARY
+
+G (5 years), Oracle Data Integration (4 years), IBM DataStage (5 years), Miscrosoft SSRS (5 years),
+SSIS Package Administration (5 years), Oracle Financial Service Application (OFSA) (5 years), Active
+Directory (10+ years), ETL/ELT (Datastage, ODI, SSIS) Developing (3 years), Oracle 10, 11G (5 years)
+
+EXPERIENCE
+
+AtQT - Senior Database Administration
+01/2012 - 01/2017
+
++ Oracle Database (10g, 11g) Maintenance, Upgrade, Installing Patch SQL Server
+2005/2008/2012/2014/2016 Maintenance, Support, Upgrade, Applying Patch Analyze and setting
+Up SQL Server 2014/2016 Always ON and SQL Server 2014/2016 Active/Passive SQL Server and
+Oracle Performance Tuning in daily operation Migration Database from SQL Server 2005/2008 to
+SQL Server 2012 and 2014 Responsible for Building, Developing, Testing, Pre-Production and
+Production Environment for various projects Data Warehouse Maintenance (Creating new partition
+and compress existing, Manage the space for every datafile, daily backup) ETL Jobs (Datastage
+8.7, Oracle Data Integrator, SSIS packages).
+
++ Responsible for Daily Load from all Satellite Systems to Data Warehouse (Daily load from 20
+satellite system).
+
++ Upgrading and migration of Datastage from 7.5 to 8.7 Version in all Environment.
+
++ Team Member in: Upgrade Core Banking System (MIDAS to Bankfusion MIDAS, Upgrading about 200
+Data Warehouses satellite systems in Oracle and SQL Server Platforms).
+
++ Team member in Digital Banking and 24/7 Platform (one of the most important platform with over
+600000 customers, 15000 at the same time) Maintain security on all databases including (Active
+Directory and Database users) Managing, Upgrading (SSRS) SQL Server Reporting Server
+2008/2012 Experience in COGNOS application Writing query in SQL Server and Oracle Database
+Applying Disaster Recovery Plan for all Databases (SQL and Oracle) Applying SQL Server Transaction
+Log for Critical SQL Server Databases Upgrading Oracle Data Integration from 10 to 11G.
+
+Didi Hirsch Mental Health Services - IT Manager
+04/2007 - 01/2012
+
++ Planning, organizing, directing, controlling and evaluating the operations of information systems.
+
++ Developing and implementing policies and procedures for electronic data processing and computer
+systems operations and development.
+
++ Meetings with managers to discuss system requirements, specifications, costs and timetine.
+
++ Hiring and managing information systems personnel and contractors to design, develop,
+implement, operate and administer computer and telecommunications software, networks and
+information systems.
+
++ Controlling the computer systems budgets and expenditures.
+
++ Monitoring security of all technology.
+
++ Preparing, maintaining and testing technology for backups and having in place contingency plans.
+
++ Preparing reports for training workshops, seminars, conferences and meeting.
+
++ Managing and maintaining Microsoft Windows applications and systems including but not limited to
+Windows XP, Windows Vista, Windows7, Windows Server 2003/2008 and Microsoft Exchange 2007
+Server.
+
++ Managing and maintaining SQL Server 2005 and SQL Server 2008.
+
++ Managing and maintaining Active Directory.
+
++ Installing and maintaining Exchange 2007 Server SP1.
+
++ Design BlackBerry Enterprise Server 5.0 sp2 Infrastructure.
+
++ Installing, Inplementing and maintaining BlackBerry Enterprise Server 5.0 sp2.
+
++ Business analysis for the implementation of Microsoft Dynamics NAVISION.
+
++ Business analysis for the implementation of Pocket PC Windows Mobile Application,
++ Creating interface communication from Sales Application to Navision Application.
+
++ Developing Reports in Sql Server 2005/2008 Using Sql Server Reports.
+
+Baycare Health System, Inc - IT Specialist
+Sarasota, Albania + 08/2006 - 04/2007
+
++ Help desk for all system users.
+
++ Installing and configuring system's external users.
+
++ Hardware support (in charge of all company’s electronic equipments such as printers, servers, UPS
+ete).
+
+«Sire support for users of different levels.
+
++ Training system's users.
+
++ Maintaining Users in the Active Directory.
+
++ Maintaining MailServer and Antivirus Server.
+
++ Maintaining Data Base in Sql Server 2005.
+
+Pearson - Software developer
+Montpelier, Albania + 03/2006 - 07/2006
+
++ Interpreting written client's requirements and technical specification documents.
+
++ Oracle 91.
+
++ Analyzing and investigating reported defects.
+
++ Performing maintenance programming and correction of defects.
+
++ Creating and implementing unit test plans and scripts based on clients or company's requirements
+scripts.
+
++ CNIS Admin Software testing and implementation- as part of the computerization of Judicial
+(Court of Appeal and District Court) in different regions of albania.
+
++ Installing and configuring local servers.
+
+INTERESTS
+
+Hobby/ activities/ interest My interests include traveling, reading fictional novels, meeting and
+getting to know new and interesting people, | also take a keen interest in sports and music especially
+that of jazz.
+
+SKILLS
+
+Active Directory, Antivirus, backup, Banking, budgets, Business analysis, COGNOS, conferences,
+lient, clients, Data integration, data processing, Data Warehouses, Data Warehouse, Databases,
+Data Base, Database, Datastage 8.7, Datastage, directing, Disaster Recovery, English, ETL, Hardware
+support, Help desk, Hiring, information systems, Italian, Managing, Meetings, Microsoft Dynamics,
+Exchange, Microsoft Exchange, Microsoft Windows, Windows, Windows7, Windows XP, MIDAS,
+‘Migration, NAVISION, Enterprise, networks, Oracle 9, Oracle, Oracle Database, Oracle and SQL,
+organizing, personnel, s, printers, programming, Reporting, Sales, seminars, servers, scripts,
+Software testing, specification, Microsoft SQL Server, SQL, SQL Server, Software support,
+telecommunications, Upgrading, Upgrade, Vista, Windows Server, workshops, written
+
+ADDITIONAL INFORMATION
+
++ Sponsorship required to work in the US
+
++ Hobby/ activities/ interest My interests include traveling, reading fictional novels, meeting and
+getting to know new and interesting people, | also take a keen interest in sports and music
+especially that of jazz.

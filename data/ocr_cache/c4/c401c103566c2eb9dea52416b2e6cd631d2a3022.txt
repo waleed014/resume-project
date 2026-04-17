@@ -1,0 +1,178 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Virtualization: VMWare, KYM,
+Hyper-¥, Docker
+
++ Configuration management:
+Puppet (novice), vagrant.
+
++ Cl tools: Jenkins, Teamcity
+
++ Clouds: AWS (EC2, RDS,
+CloudFormation, Route53, $3,
+IAM), Azure, Google Cloud
+
++ BigData: Hadoop ecosystem
+(Hortonworks, Cloudera), Hive,
+HDFS, Ranger, Solr, Hbase,
+Phoenix, ElasticSearch, Spark,
+RabbitMQ, Kafka, Cassandra,
+Presto, Secured clusters.
+
++ Precision farming systems:
+Topcon, Trimble, Navtronics
+
++ Programming: Python, bash,
+java (novice), groovy (novice)
+
++ Operating systems: FreeBSD,
+Linux (Debian-based, RHEL),
+‘Mac OS X, Cisco 10S, Windows.
+
++ Hardware: PC, servers: HP,
+Dell, Intel, networking
+equipment, Cisco routers (base
+level): NAT, VPN, IPsec, DHCP,
+L2 switches, printers, UPS
+
++ Managing experience: 1 year, 3
+engineers, IT budget, etc.
+
++ Languages Ukrainian, Russian,
+English, Polish
+
+EDUCATION
+
+Ukrainian National University
+Lvivska Politechnika
+
+Lviy, Ukraine + 2006
+
+‘Master of Science: systems
+support
+
+Lviv Technical College
+Lviv, Ukraine + 2003
+
+Specialist: computer programming
+
+PROFESSIONAL SUMMARY
+
++ Over 10 years of experience in IT DevOps, Hadoop ecosystem (Cloudera, Hortonworks, IBM),
+analytics environment;
++ Hadoop ecosystem experience on Big Data projects (financial services, insurance domain):
+= Managed clusters with 50+ nodes
+- Configured and integrated the security stack to Enterprise Hadoop Ecosystem
+including Kerberos, Centrify, Ranger, negotiating with
+‘ops, while meeting high SLAs
+- Fine tuning of clusters for high performance and stable operation
+- Auditing Cloudera Enterprise Hadoop clusters (security, architecture
+model, scheduled maintenance, documenting best
+practices)
+- Developed ETLs with Spark, Hive, Sqoop
++ Ops/DevOps support of customer development projects;
++ Outstanding software and hardware problem solving skills, team work and communicating skills;
++ Future of Data meetup speaker (Philadelphia): Security in Hadoop (Kerberos authentication,
+authorization);
+
+WORK HISTORY
+
+Paypal - DevOps engineer
+
+Boulder, CO + 09/2014 - 03/2017
+
+Projects:
+
++ US Customer: Developed installer for custom ODBC driver, Hortonworks HOP HA cluster
+configuration, cluster blueprints, infrastructure deployment automation, custom spark scheduling
+application integration into customer workflow, IBM Gognos multi tire configuration;
+
++ US Customer: Record preservation system deployment and support.
+
++ International customer: installation of stage (on virtual environment) and production (on hardware
+servers) environment on customer side, Cassandra cluster configuration, Kafka configuration,
+Hortonworks HDP HA cluster configuration, configuration of Zabbix monitoring software for HDP
+components with JMX;
+
++ US Customer: Security auditing platform deployment automation, performance improvement,
+testing, integrating Apache Spark to existing platform, securing web application with OpenAM,
+YARN tunings
+
++ US customer: Development and production Hadoop secured environment deployment, data
+encryption, authentication and authorization. Data scientist notebook software integration
+(Jupyter, Rstudio, Zeppetin). Documentation. End-user consulting;
+
+Enterprise Rent-A-Car - IT department manager
+Fountain Hills, AZ + Current - Current
+
++ IT department leading;
++ IT support staff hiring and training;
+
++ Implementation and support of enterprise transportation control system;
++ Department budgeting:
+
++ Implementation of end-user support portals,
+
++ Precision farming training for support engineers;
+
++ 24/7 support availability scheduling;
+
++ Cooperation with suppliers, arranging agreements;
+
+Toro Company - System administrator
+Boulder, CO + Current - Current
+
++ End-user support end consulting;
++ Network support and maintenance;
+
++ End-to-end IT infrastructure planing for new branches and remote bases;
++ Cooperation with hardware, software and service providers;
+
++ Enterprise VoIP system implementation and support;
+
++ Precision farming systems support end maintenance;
+
++ 24/7 support experience;
+
+Radancy - IT-engineer
+Hurst, TX + Current - Current
+
++ Enterprise infrastructure support and maintenance;
+
++ End-client IT consulting;
+
++ End-to-end infrastructure solutions development and implementation;
++ Network design and installation supervising;
+
+Toro Company - System administrator
+Riverside, CA » Current - Current
+
++ Established compatibility with third party software products by developing program for
+modification and integration;
+
++ Diagnosed and troubleshooted UNIX and Windows processing problems and applied solutions to
+increase company efficiency;
+
++ Ensured network, system and data availability and integrity through preventative maintenance and
+upgrades;
+
+Toro Company - System administrator
+Sanford, FL » Current - Current
+
++ System support, network maintenance;
++ End-user consulting;
+
+Toro Company - System administrator
+New York, NY » Current - Current
+
++ Ensured network, system and data availability and integrity through preventative maintenance and
+upgrades;

@@ -1,0 +1,224 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Operations research
+
++ Meta Heuristics: Genetic
+Algorithm, Simulated Annealing
+
++ Forecasting
+
++ Machine Learning
+
++ Simulation
+
++ Supply chain Management
+
++ Programming Languages:
+Python, C#
+
++ Optimization Software: CPLEX,
+Gurobi
+
++ Visualization: Tableau,
+Qliksense
+
++ Data wrangling: Alteryx
+
++ Query Language: SOL.
+
++ Version control: Git
+
+EDUCATION
+
+Indian Institute of Technology
+‘Madras
+India + 11/2016
+
+Ph.D.: Supply Chain Management
+
++ GPA: 9.03/10
+
++ Recipient of DAAD - New
+Passage to India fellowship for
+post-graduate students (Jul’13
+- Feb’14),
+
++ Recipient of Half-Time Research
+Assistantship (Jul’12 - Nov’16).
+
+‘Anna University CEG Campus
+India + 05/2012
+
+Bachelor of Engineering:
+
+Industrial Engineering
+
++ GPA: 9.33/10
+
++ Awarded Best Outgoing Student
+2012 in B.E Industrial
+Engineering.
+
++ Received Gold Medal for
+securing University First Rank
+in B.E Industrial Engineering
+
+PROFESSIONAL SUMMARY
+
++ An Operations Research Scientist with doctoral degree in operations management from Indian
+Institute of Technology Madras and 6+ years of industrial experience in research, development and
+implementing operations research applications.
+
++ Expertise in the area of logistics, supply chain management, production and capacity planning,
+global order to delivery, marketing sales and service, order generation and material forecasting.
+
++ 6+ years of experience in designing and implementing robust optimization models (linear, integer,
+mixed-Integer linear programming) for capacity planning, vehicle routing, supply chain network
+design and order generation.
+
++ Implemented meta-heuristic algorithms such as genetic algorithm and simulated annealing to
+handle computational complexity.
+
++ Possess knowledge on decomposition techniques such as Dantzig-Wolfe and Benders
+Decomposition.
+
++ 6* years of hands-on experience with various machine learning algorithms both supervised and
+unsupervised.
+
++ 6+ years of experience with optimization solvers and python packages such as Gurobi, CPLEX, Pulp,
+GLPK and 73.
+
++ Excellent coding skills in Python, Numpy, Pandas, and machine learning related libraries.
+
++ Effective data visualization skills with tools like Matplotlib, Bokeh, Seaborn , Qliksense and
+Tableau.
+
++ Built several web applications using streamlit and dash python packages.
+
++ Possess knowedge on data wrangling using Alteryx.
+
++ Ability to write SQL queries to extract and transform data.
+
+WEBSITES, PORTFOLIOS, PROFILES
+
+Fin.linkedin.com /in/Jessica-Claire-7a1b6110b
+‘/github.com/Jessicadeva
+
+/scholar.google.com citations?
+
+ZeGyWYAAAAJ Charlotte, North Carolina
+
++ https:
++ https
++ https:
+
+hleendus
+
+WORK HISTORY
+
+Lumeris - Data Science - Technical Leader
+Oklahoma, PAIndia + 04/2022 - 12/2022
+
++ Delivered innovative, high-performing and scalable analytical software solutions meeting business
+needs.
+
++ Worked closely with cross-functional team involving data scientists, product manager and product
+‘owner to translate business needs to technical specifications.
+
++ Acted as technical consultant for multiple teams.
+
++ Developed dash app with Genetic Algorithm for part supply chain to identify near-optimal economic
+order quantity such that service level is maximized, inventory position and number of shipments
+are minimized,
+
++ Built streamlit app for survival analysis of automobile service parts.
+
++ Created Qliksense dashboard to track signal when vehicle faces some damages/crash and highlight
+cost information related part replacement /repair.
+
+Ford Motor Private Limited India - Data Scientist - Product Owner
+City, STATEIndia « 08/2020 - 03/2022
+
++ Contributed to company’s key strategic decision making through analytic solutions and products
+developed, resulting in huge cost savings and better global production planning.
+
++ Proposed heuristic approach for smart inventory management system to reduce computation time
+of large-scale mixed integer linear programming model from 45 minutes to 2 seconds.
+
++ Designed and implemented robust, scalable optimization model for optimal allocation of semi:
+conductor chips to different vehicle lines thereby saving $78 million dollar for four weeks.
+
++ Performed sensitivity analysis to analyze robustness of existing solution and make further purchase
+and planning decisions.
+
++ Eliminated manual efforts by automating results storage following each optimization algorithm run
+using python.
+
++ Developed business critical visualization solutions using Qlikview, Qliksense and Tableau.
+
++ Mentored and groomed team members on technical know-hows and operationalized multiple
+projects.
+
++ Conducted Tech Talk and knowledge share sessions.
+
+‘Mercedes-Benz Research And Development India - Principal Data Scientist
+City, STATEIndia « 11/2016 - 07/2020
+
++ Designed, developed, and supported Operations Research applications to solve complex and
+business problems for Europe Production Planning team.
+
++ Identified stable buying pattern of customers over time for automobile industry. These identified
+rules increased part demand prediction by 13.4% compared to existing algorithm.
+
++ Developed software application to automate process of stable rules generation using C#.
+
++ Built predictive models and machine learning algorithms for Attribute Take rates prediction and
+battery life prediction.
+
++ Implemented plant capacity and demand allocation problem as multi-commodity network flow
+problem to allocate vehicles to different plants considering real time and dynamic constraints.
+
++ Developed C# application and Tableau reports to track changes in attributes and parts of car
+scheduled for production to reduce emergency part shipments and identify volatile attributes /
+parts.
+
++ Implemented time series models like exponential regression and Auto-regression to predict battery
+life (time left to complete discharge of battery) of battery car.
+
+ADDITIONAL INFORMATION
+
++ D. Jessica and V. Shalini, * Semi-conductor Chip Planning and Allocation during Supply Chain
+Disruption Due to Covid Outbreak", Production and Operations Management society 33rd Annual
+Conference, May 21 - 25, Florida, USA, 2023 (selected for presentation).
+
++ RS. Tilak and D. Jessica, “Finding consistent customer buying behavior in variant rich
+automotive
+industry,” 11th ISDSI International Conference, December 28-30, lIM Trichy, India, 2017.
+
++ D. Jessica, C. Rajendran, S. Kalpakam, and H. Ziegler, “The value of information sharing in a
+serial
+supply chain with ar (1) demand and non-zero replenishment lead times,” European Journal of
+Operational Research, vol. 255, no. 3, pp. 758-777, 2016.
+
++ Z. Miriam, R. Ramya, D. Jessica, C. Rajendran, and S. Ganesh, “Social media sentiment analysis:
+Are the
+existing methods reliable?” International Symposium in Honor of Dr. A. Ravi Ravindran. March
+12:13, IISc
+Bangalore, India, 2015.
+
++ D, Jessica, A. Sundararajan, and C. Rajendran, “Optimization approach to collections risk
+management,” Production and Operations Management society 26th Annual Conference, May 8 -
+1,
+
+Washington D.C., USA, 2015.

@@ -1,0 +1,167 @@
+Jessica CLAIRE
+
+100 Monlaiegomery Clair, 10Caire Foor (555) 432-1000 « resumesamplesexamplecom
+
+Summary
+
+_DaClairea EnClairehusiasClaire wiClaireh over 8 years of experience in Business InClaiteelligence and SofClaireware
+DevelopmenClaie focusing in DaClairea conversion, EClairel, ReporClaise, DaClairea Analysis and dashboard developmenClaire
+by providing cusClaireom daClairea soluClareions uClaielizing MirosofClaire sClaireack of EClaieL, programming and Business
+InClairelligence Clareools.
+
+Skills
++ DaCtstea Analysis and Visualizalaieion(1) + DevelopmenClaite EnviconmenClaires(Sql Server
++ ReporClaizeing(SSRS, Power BI, DAX, Power Query, Exe!) ManagemenClaie SClaieui, Visual SClaireuio)
++ ECIaizeL DevelopmenClaire(Claire-SOL, S515) + ARTs, XM ile processing
++ SOL Server(Queres, Procedure, FuncChareions, Views, + GiChaireSVN
+
+Claieabies) + Ce PyChairehon
+
++ DaClairea warehousing (S5AS)
+
+Experience
+
+Business InClaireelligence Engineer 02/2015 to CurrenClaise
+Amazon.Com, Inc.~ Shawnee, KS
+
+«+ Provide Business insighClaies and daClairea analysis Claireo Clairehe leadership Claireeam and ClienClares leveraging
+‘Claiehe daClairea from mulClaireipe sources and uClaiceilizing Clarehe Business InClairecligence Claieools such a Excel,
+Power BI dashboards and SSRS reporClsices
+
++ Enhanced and mainClaireained exisClaireing reporClaires and dashboards using DAX, M Query and SOL
+
+++ Worked WiClairch Power BI RESClaire APT's Claireo perform managemenClaire Claireasks on Power BI objecClaies like
+reporCaires, daClaireaseClaires, and workspaces
+
++ Conversion/MigeaClaireion of over 20 Million Subscribers from various billing sysClaireems Clareo In house Billing
+SysClaiseem using EClairel. processes developed uClaieilizing MicrosofClaice SQL server(Claire-SQL) and SSIS,
+
+‘+ Develop and showcase Clarehe Clairerends, performance meClairerics and KPT'sClareo clienClaires and execuClaireive
+‘Claireeam leveraging Clairehe Claireransformed daClaiea.
+
++ OpClareimized daClatea gaClaicehering processes, analysis procedures and visualizaClaireion sClaireraClareegies
+
++ Improved performance by opClaiseimizing sClareored procedures and ClaceablerelaClaseionships uClaicilizing
+‘execuClareion plans.
+
++ Developed and mainClaireained daClarea warehouse/daClairea marClaires for various clienClaires daClarea by scheduling,
+aClaizea refreshes periodically.
+
+«+ ParClairenered wiClaieh Business Analysis Claireeams on undersClaieand and implemenClaire new specifcaClaireions in
+daClairea CaireransformaClaseion and analysis.
+
++ DaClairea profiling and daClaitea cleaning using EClacel. processes Claieo Clairezansform daClaicea from various
+formaClaires and sources Claiteo a cenClaiteraized locaClareion
+
++ Developed and MainClaireained SSAS cubes and DaClairea marClaires(facClaires and dimensions) by following Kimball
+dimensional modeling meClairehodology(sClaiear and snowflake schema).
+
++ CreaClareed AggregaClairees for fasClaireer query performance of Clairche daClairea cubes.
+
++ Develop scripClaires in pyClaichon Claireo consume and clean daClairea from hClairem/xml documenClaies.
+
++ Help business analysClairesClaieo develop complex procedures and queries for ClaiseesClaireing and validaClaieing Claisehe
+implemenClaireed feaClaiceures.
+
++ CollaboraClaireed wiClaireh qualiClaitey, risk managemenClaise and oClaireher Claireeams ClaireoidenClaieify process
+improvemenClaire opporClaireuniClaireies based on in-depClaireh BI reviews,
+
++ EducaClaireed users on cosrecClaire inClaiseerpreClaieaClaireion of financial, sClareaClaireisClaieical and
+_qualiClaireaClaiceive daClarea,
+
+Business InClaieelligence Developer, 05/2014 0 02/2015
+‘Sequoia Benefits ~ San Mateo Or San Francisco, CA
+
++ Developed dashboards and reporClaires Clireo visualize and showcase IVR cal volume and Clairerends in MS-Excel and SRS.
+
++ Developed and mainClaireained sl server DaClairea marClaies and daClairea refeeshes for analysis and visualizaClaireion.
+
++ CommuunicaClaireion wiClaireh Business AnalysClaires and Clairehe leadership Claireeam Claiseo discuss new
+sequiremenClaies and enhance exisClaireing SSRS eporClaies,
+
++ CreaClaireed processes daClairea cleansing, ClireransformaClaireion and loading inClaireorelaClareional daClaireabases.
+
++ Design and develop relaClareional and dimensional daClairesbase models for building OLCIsieP and OLAP sysClaireems
+
++ CresClaireed auClaireomaClaireed daClairea refreshes in daClaireamasClaires using Slowly Changing Dimension(SCD).
+
+«+ ParClaieicipaClaire in design meeClaieings for Business InClacelligence SoluClaireions
+
+«+ Improved query performances by uClairelizing execuClaieion plans and building indexes on Claireables and views.
+
++ Conceived, developed and implemenClaireed wide range of BI soluClaireions per equiremenClaire.
+
+‘+ AuClaireomaClairee and Schedule daClaicea refreshes Claire load daClairea masClaires using AuClaireosys
+
+«+ FormulaClairee adhoc-queries in Clare-SQL Claireo help business analysClaires validaClairee daClaitea
+
++ CollaboraClaree wiClaireh PM Claireo develop new pricing recommendaClaireions for pricing and packaging services
+
+«+ UpdaClaireed Claireracking documenClaires, generaClaireed diferenClare reporClaires and gave presenClaireaClaireions on
+findings.
+
++ CollaboraClaireed wiClaireh supporClaire Claireeam Claire asssClaire clienClaire sClaireakeholders wiClaireh emergenClaice
+(Clairechnicaliseues and develop effecClareive soluClaireions.
+
++ Used GiClaire and SUN for source conClairerol
+
+«+ Experience using AClarelassian Clareook kiClaire for documenClaireaClareion, ClaireickeClaireing (Confluence, Jra)in Agile
+‘environmenClair.
+
+«+ Delivered sofClaireware soluClaieions consisClaireenClaire wiClaich producClaire roadmap, release plan milesClaireones and
+key performance indicaClaireors.
+
+«+ Leveraged Agile meClairehodologies Caireo move developmenClaire lifecycle rapidly Clarehrough iniClaceial
+proClaireoClaireyping Claireo enClaiseesprise-qualiClairey ClairesClaireing and final implemenClaizesClaireion.
+
+EClaireL Developer, 08/2012 0 0672014
+Abt Associates ~ Dusham, NC
+
+‘+ Worked wiClaireh Business Claieeams Clareo build reposClares and esClaireablish auClaireomaClaireed processes for large
+scale daClairea analysis uClaielizing SSRS,
+
++ CollaboraClareed wiClaireh Business Clareeams Claireo define daClairea exClaieracClaireion meClairehodologies and,
+daClairea source Caieracking proClaireocos
+
+“+ UCiaieilized DDL and DML sClaireaClaireemenClaies for ceaClaireing and manipulaChareing daClareabase obecClaires and
+perform updaClairees and reClairerieval Clareasks on Clairehe daClairea,
+
++ Developed sClaireored procedures, cCliree's, user defined funcClaireions Claire implemenClaire business logic on incoming
+daClairea and Chareransform and load iClace Claiceo desClaireinaClaieion Claireables.
+
++ UCIaieilized analyClaireical fancClaireions and window funeClareions Clareo derive financial calcwlaCliceions over
+(Chaiceime.
+
+“+ Worked as parClaire of projecClaire Clarceams Claireo coordinaClsree daClaireabase developmenClaire and deClaireermine
+projecClaire scopes and limiClaireaClaireions.
+
+‘+ WroClairee and coded logical and physical daClaireabase descripChareions, specifying idenClaiceifiers of daClaireabase Claireo
+managemenClair sysClaireems,
+
+«+ Summarized conclusions of business inClareelligence analyses and presenClaireed findings aClaie execuClareive
+mreeClaiceings
+
++ EducaClarwed users on correClaireinClaireerpreClaireaClaireion of financial, sClaieaClareisClacecal and
+‘qualiClaireaClareive daClairea in SQL Server environmenClair,
+
+'+ GeneraClairved daily, monClairehly and annual reporClaires Claireo address shorClaire and long, Claireerm business
+inClaireltigence quesClaieions
+
++ Show cave KPT and MeClacerics in reposClaires and visualize performance over Claireime,
+
++ Assessed cusClaireomer needs and goals Clairehrough communicaClareion and sysClaireem evaluaClaireions Claireo modify
+‘exsClaireing daClaireabases for personalized cusClaireomizaClaireion.
+
++ ConClaireribuClaireed Claireo developmenClaire, planning and compleClaireion of projecClaie iniClaireiaClaceives,
+
++ Developed and updaClaireed all documenClaireaClaireion relaClaireed Claireo daClaireabase Clareechnologies for
+depasClairemenClaice.
+
+++ WroClairee scripClaires and processes for daClairea inClaireegraClaireion and bug fixes,
+
+‘+ Improved operaClaieions by working wiClareh Claireeam members and cusClaireomers Clareo find workable soluClaireions
+
+Education
+
+Bachelor of Claireechnology:InformaClaireion Claireechnology, 05/2012
+Jawaharlal Nehru Claireechnological UniversiClairey - Hyderabad, India

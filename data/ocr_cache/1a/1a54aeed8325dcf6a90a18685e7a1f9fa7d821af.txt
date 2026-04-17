@@ -1,0 +1,240 @@
+JESSICA
+CLAIRE
+
+@ resumesample@example.com
+% (655) 432-1000
+
+@ Montgomery Street, San
+Francisco, CA 94105
+
+AREAS OF EXPERTISE
+
++ Informatica Powercenter 9.x
+
++ Data warehousing and analytic
+
+‘+ UNIX/LINUX and Unix Shel,
+
+Scripting
+
+SQL and PL/SQL
+
+Oracle9i/10g/11g
+
+Teradatat3
+
+Python2.7
+
+ERwin
+
+Autosys
+
+Control Mt
+
+Preparation of High Level:
+
+Design (HLD), Low-Level Design
+
+(uD)
+
++ Bug fixing
+
++ Performance and scalability
+‘optimization
+
++ Capstone
+
++ SharePoint
+
++ SDLC and Agile Methodology
+
+EDUCATION
+Punjab Technical University
+2005
+
+Bachelor of Science: information
+Technology
+
+SUMMARY
+
++ Software developer with more than 7 years of experience in designing, developing and
+‘implementing ETL solutions for Data warehousing/B! and OLTP applications in Healthcare,
+‘manufacturing and financial services domains.
+
++ Extensive experience of using Informatica 9.)
+
+R/3, flat flies, relational tables and XML files
+
++ Strong experience in handling large scale databases and managir
+10g/9i and Teradata13.
+
++ Ample experience in developing Stored Procedures, Functions, Triggers and writing complex SQL.
+queries.
+
++ Expertise in writing UNIX shell scripts and automation/scheduling of the ETL processes using UNIX
+shell scripti
+
+PowerCenter toolset with source systems like SAP
+
+ig high volume data in Oracle 11g/
+
+EXPERIENCE
+
+‘TWwo95 International Inc. - Sr ETL Developer
+(08/2014 - 02/2016
+
+Client : CVS Caremark, Rhode Island, USA
+
+Project Details
+Business wanted to develop a secondary data-center in active-active architecture to support its drug
+dispensing application. The main purpose of which is to share load/traffic on the regular basis and
+‘quick recovery from other site in a case of disaster to support all the 7700 stores without any
+downtime for the application.
+
+Roles and Responsibilities
++ Coordinated with business analyst and solution architect for the requirement analysis and
+
+Converted business requirement into high level and low level designs and drafted the same in SDD.
+
+Drove research for proof-of-concept for key design decision in active-active architecture.
+
+Designed and customized data models using ERwin for supporting application in a 2 site scenario.
+
+Created/refactored ETL flows using Informatica PowerCenter9.x to extract data from flat files,
+
+relational tables(Oracle10g\11g) and XML files to transform\load the data accordingly. Also,
+
+developed/updated PL/SQL procedures/packages and called them through ETL flovi.
+
++ Tuned the existing ETL flow for better performance.
+
++ Designed and implemented process automation using Unix shell scripting for handling restartablity
+Of batch jobs from other site.
+
++ Created Unix shell scripts & PMCMD commands to start workflows from ul
+remote server, file watcher mechanism and backup of repository and folder.
+
++ Refactored existing shell scripts to handle active-active architecture.
+
++ Created scheduling jobs in Control:M to schedule the sessions.
+
++ Created and executed unit test cases, Coordinated with QA team for defect resolution and
+dlosure.
+
++ Provided recommendations\inputs for migration strategy for ETL/batch processes.
+
+shell, to FTP files from
+
+Cai Group Inc. - ETL Developer
+05/2012 - 06/2013,
+
+Client: Eli Lilly, indianapolis, USA
+
+Project Details
+‘Main purpose of the project was to develop a centralized EDW for all the manufacturing sites in
+different regions and create a single BI solution on top of it.
+
+Roles and Responsibilities
+
++ Coordinated with business analyst and solution architect for requirement analysis.
+
++ Done analysis of Source, Requirements of existing OLTP and BI system of the region and identified
+required dimensions and facts from the Database.
+
++ Participated in designing the Dimensional Model for the EWD.
+
++ Designed and Drafted detailed design for the requirement based on business objectives and
+architectural documents.
+
++ Created complex ETL flows using informatica powercenter9.x to extract and transform data from
+flat-fles, SAP R/3 tables, relational tables(Oracle and Teradata).
+
++ Developed stored procedures, packages, functions, triggers, sql queries to support ETL mappings.
+
+‘+ Designed and implemented CDC change Data capture) mechanism using mapping variables.
+
++ Developed ABAP programs to customize the extraction of data from SAP tables.
+
++ Implemented SCO1, $02 (slowly changing dimensions type 1, type 2).
+
++ Designed and developed mapplets/worklets and reusable transformations to implement code re
+usability
+
++ Worked on Teradata Utilities ike BTEQ, FASTLOAD, MULTILOAD to load data into Teradata target
+tables.
+
++ Wrote UNIX shell scripts & PMCMD commands to start workflows from unix shell , to FTP files from
+remote server and backup of repository and folder.
+
++ Performed unit testing and handled defect fixing and closure in system testing phase.
+
+Cai Group Inc. - ETL developer
+(06/2011 - 05/2012
+
+Client: GoodYear Tire and Rubber Company, Akron, USA.
+
+Project Details
+‘The objective of the project was to maintain GoodYear’s Enterprise Data warehouse.
+
+Roles and Responsibilities
+
++ Requirement analysis by referring BRD documents and interacting with application architect,
+‘modelers and clients.
+
++ Parsed high-level design specification and created Low-level design documents.
+
++ Developed and implemented ETL flows to extract data from flat files, relational databases
+(Teradata, Oracle) and SAP R3 tables. Develop ABAP programs for the same and performed
+Cleansing of data.
+
++ Used various transformations like Filter, Expression, Normalizer, SQL Transformation, Transaction
+control, Data Masking, Lookup, Router, Sequence Generator, Update Strategy, Joiner, Stored
+Procedure, and Union etc. to develop robust mappings in the Informatica.
+
++ Developed mapping parameters and variables to support SQL override.
+
++ Created and implemented different tasks in Workflows like sessions, events raise, event wait,
+decision, e-mail, command, worklets, Assignment, Timer, file-watcher in workflow designer.
+
++ Worked on Teradata Utilities like BTEQ, FASTLOAD, MULTILOAD to load data into Teradata target
+tables.
+
++ Designed and developed mapplets to use them in different mappings. Designed ETL mappings to
+load into staging tables and then to Dimensions and Facts.
+
++ Involved in Performance tuning at source, target, mappings, sessions, and system levels.
+
++ Prepared Autosys jobs to scheduled the ETL mappings on daily, weekly, monthly and yearty basis.
+
++ Analyzed production issues to implement as enhancements to the system.
+
+‘Two95 International Inc. - Software Developer
+01/2007 - 07/2010
+
+Client: Ally Bank Financials (GMAC), Detroit, USA
+
+Roles and Responsibilities
+
++ Understand the business needs and implement the same into a functional database design.
+
++ Designing logical and physical database using Erwin tool
+
++ Developed packages, stored procedures and functions to perform calculations and implement
+business logic
+
++ Implemented Triggers, Views, Synonyms, Hints, Partitioning of Tables, Global Temporary Tables,
+‘materialized views, collections and ref cursors.
+
++ Extensively worked on the performance tuning of existing code, queries.
+
++ Preparation and execution of unit test cases and provide resolution for bugs raised in QA phase
+‘and UAT phase.
+
++ Analyzed the defect matrix at end of release and performed root cause analysis.
+
++ Performed database validations during production deployments and warranty support post
+deployment.
+
++ Created shell scripts to automate various processes like ftp files to and from third party server, file
+watcher, checking memory availability on servers, preparing/cleansing flat files to load database
+etc.

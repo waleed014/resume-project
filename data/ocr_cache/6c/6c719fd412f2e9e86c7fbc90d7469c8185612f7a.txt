@@ -1,0 +1,164 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Talented Database Administrator with More than Six years of expertise and extensive knowledge of Relational Database Management System
+including Database Monitoring, Installation, Configuration, upgrade Management, High Availability, Disaster Recovery, Log Shipping,
+Clustering, Alerts, Operators and Agent Jobs. Well experienced in Performance Tuning, Security. Proficient in diverse range of development
+languages, including T-SQL. Excellent communicator with advanced presentation creation and delivery skills.
+
+‘Recognized consistently for performance excellence and contributions to success in IT, financial and health industry. Microsoft certified SQL.
+Server Database Administrator for SQL server 2012/2014 and 2016
+
+Sens
++ Reporting and documentation ‘+ Implementing security measures
+* Systems administration ‘© Microsoft NET framework
++ Running backups Data audits
++ Relational Database Management
+
+Work History
+
+07/2018 to Current SQL Server Database Administrator
+Jacobs Engineering Group Inc. — Skowhegan, ME
+
++ Installed, upgraded, configured and tuned SQL Server 2012/2014 and 2016 systems and all associated middleware
+in Windows environments
+
++ Performed deployment on testing, staging and production servers with different team
+
++ Worked in performance enhancement by running index tuning wizard for creating, rebuilding, and reorganizing
+indexes on various tables
+
+‘+ Monitored Performance and Fine Tuned Stored Procedures , SQL Queries and User Defined Functions to optimize
+performance and reliability
+
++ Built databases , tables, and various database objects per business requirement following SQL Server Database
+‘Modeler and ER Studio Data Architecture methodology
+
+‘+ Wrote and maintained technical and functional specifications to document database intentions and requirements
+
++ Monitored Daily backup jobs and automation of daily restores of development databases. (Using Red gate, Idera,
+and Native backups)
+
++ Modified existing databases to meet unique needs and goals determined during initial evaluation and planning
+process
+
++ Worked on performance enhancement by running index tuning wizard for creating, rebuilding, and reorganizing
+indexes on various tables
+
+‘+ Monitored and Troubleshoot Server performance and database activities of users using SQL Profiler, Performance
+‘Monitor, Extended Event, Trace flags, Activity Monitors, Store Procedures, DBCC, and DMVs
+
+* Tested programs and databases to identify issues and make necessary modifications
+
++ Designed and implemented TSQL queries for reporting and complex solution development
+
+* Monitored user accounts, created groups, granted necessary privileges to users and groups
+
++ Created various server and databases alerts that helps to take actions proactively
+
++ Created different SQL server Agent jobs as part of database automation
+
++ Supported multiple concurrent projects enabling delivery efficiencies and technical resolution
+
++ Followed standard practices for migrating changes to test and production environments and provided technology
+support to meet business requirements
+
+07/2016 to 06/2018 Database Admin and Developer
+Centene Corporation — Buffalo, NY
+
++ Evaluated, designed, implemented and modified databases and database applications
+
++ Designed, reviewed, and created database objects like views, indexes, stored procedures, functions, and triggers
+based on logical and physical design models and user requirements
+
++ Administered MS SQL Server security through access control mechanisms like creating accounts, roles, and
+providing privilege
+
++ Maintained proper security procedures by dropping and locking unnecessary logins
+
++ Authored and coded logical and physical database descriptions
+
+* Collected and reviewed database performance metrics and proactively address performance concems
+
++ Configured and monitored log shipping and Database mirroring on Disaster recovery Servers
+
++ Evaluate CPU, Disk UO and Memory related bottlenecks using Performance Monitor and improved SQL server
+performance
+
++ Rebuild clustered and non-clustered Indexes as part of performance tuning
+
++ Delivered complex business requirements without any issues by leveraging strong troubleshooting skills and
+extensive oversight
+
++ Planned and implemented security measures to safeguard vital business data
+
++ Identified issues within databases, performed troubleshooting and implemented effective solutions
+
++ Created technical documentation for database technologies, providing updates as needed
+
++ Coordinated with project management staff on database development timelines and project scope
+
+07/2016 to 07/2017 SQL. Database Administrator
+Secure-24— West Allis, WI
+
++ Designed and implemented TSQL queries for reporting and complex solution development
+
++ Developed and produced high-standard database solutions to meet stability, reliability and performance metrics
+
++ Participated and support Service Level Agreement (SLA) and operational performance monitoring and reporting
+
++ Participated in root cause analysis and problem management activities
+
++ Participated and coordinate in project to production integration
+
++ Led incident resolution efforts, participated in incident management activities and engaged appropriate resources to
+complete corrective actions
+
++ Enhanced performance by running index tuning wizard for creating, rebuilding, and reorganizing indexes on
+various tables
+
++ Set up and controlled user profiles and access levels for each database segment to protect important data
+
+03/2014 to 07/2016 SQL Server Database Consultant
+EPIC Systems INe— City, STATE
+
++ Participated in implementing database architecture and strategies, and in defining standards for database
+environment
+
++ Administered, maintained, developed and implemented policies and procedures for ensuring security and integrity
+of SQL Server databases
+
++ Implemented disaster recovery strategy
+
++ Developing and maintaining standards for documentation, database security, and audit compliance
+
++ Explained data results clearly and discussed how it can be utilized to support project objectives
+
++ Contributed to internal activities for overall process improvements, efficiencies and innovation
+
++ Respond to production incidents and address them with in Service Level Agreement (SLA) framework
+
++ Undertook Performance Tuning and Optimization (PTO), using native monitoring and troubleshooting tools and
+DMVs
+
++ Translated logical data models into physical database designs and developed physical databases
+
++ Addressed ad hoc analytics requests and facilitated data acquisitions to support internal projects, special projects
+and investigations
+
++ Performed on-call duties as required
+
+Epucarton
+06/2017 Master of Arts
+
+American University - Washington, DC
+2008 Associate of Arts: law
+
+Alemaya Universsity - Harar, Ethiopia
+(Cerrmicarions
+
+“Microsoft Certified SQL Server Database Administrator

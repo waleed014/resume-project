@@ -1,0 +1,83 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000  resumesampleGexample.com
+
+Professional Summary
+Working as DevOps engineer for automation of enterprise applications to achieve continuous integration and continuous Delivery
+
+Skills
+
+Containers / Orchestration : Docker, Microservices, Terraform » Linux,
+
+, Kubernetes , Ansible GitHub SOFTSKILS:
+* Amazon Web Services: EC2 , $3 , VPC , Elastic Load Balancer , Flexibility
+Route53 ,Cloud-Front , Cloud-Watch, EKS Self-Motivated
+* Scripting: Bash Excellent Communication
+
+DevOps Tools : Prometheus Grafana ,Maven, Jenkins , Git/ Teamwork and Collaboration
+GitHub Attention to detail
+
+Work History
+
+DevOps Engineer, 08/2020 to Current
+Bigbear.Ai— Bear, DE
+* Monitored automated build and continuous software integration process to drive build/release failure resolution.
+* Documented to outline technical design of entire project.
+* Actively manage, and monitor cloud infrastructure on AWS, EC2 $3 and RDS
+* Deployed docker containers to break up monolithic app into microservices, improving developer workflow ,increase scalability
+and optimize speed.
++ Worked with software development and testing team members to design and develop robust solutions to meet client
+requirements for functionality, scalability and performance.
+* Monitor existing CI/CD pipeline.
+« Install and configure Grafana &Prometheus to monitor server status.
+‘* Monitor K8s cluster with Lens tool
+« Using Docker to containerize application
+* Write Terraform code to create and maintain infrastructure in repeatable way
+* Automated build and deployment process with Jenkins for C/CD
+* Worked on Lambda
+* AWS services ,Lambda, Vpc , s3, Cloudfront, Ec2, Ecs , Eks
+« Involve in DevOps migration/automation processes for build Assist deploy systems
+* Support application developers in diagnosing and resolving performance issues
+* Developing Git hooks for local repository, code commit, and remote repository, code push functionality and worked on Github.
++ Configuring AWS cloud watch for application monitoring.
+
+* Develop, document, and support standard operating procedures that reduce errors and increase productivity
+
+Linux System Administrator, 08/2018 to 08/2020
+Bigbear.Ai— Bear, DE
+« Responsible for system admin tasks such as user/group management assigning permissions, managing disk space usage
+software and hardware upgrades troubleshooting issues, process monitoring, install upgrade and manage packages.
+Configured and maintained Load-Balancer and Firewall on servers across different platforms.
+Communicated status updates to affected parties when issues arose.
+Streamlined troubleshooting processes to improve system support and enhance.
+Performed building and installed multiple Linux machines.
+optimize system performance by tracking daily system utilization to determine if problems are imminent.
+Monitored, configured servers for any downtime.
+wrote bash scripts to perform bi-weekly server patches on-prem and cloud.
+* Monitoring log in Linux servers, including processes, crash and swap management, with password recovery and performance
+
+tuning
+
+Resolve technical incidents through use of experience, available documentation, and tools
+
+Create documentation for resolutions of technical incidents
+‘* Managing system processes and scheduling processes with Cron utility
+« Installing, Configuring and administering virtual box managed VMs (virtual server) and also involved in maintenance of virtual
+
+server
+
+Linux Assistant Intern, 07/2016 to 08/2018
+
+Information International Associates — Bear, DE
+
+Performed server maintenance on-prem.
+
+Tasked with doing monthly server patching and bi-weekly server reboots to clear logs.
+« Resolve technical incidents through use of experience, available documentation, and tools
+* Create documentation for resolutions of technical incidents
+
+‘* Managing system processes and scheduling processes with Cron utility
+Education
+
+High School Diploma: 01/2010
+Satung High - Lusaka

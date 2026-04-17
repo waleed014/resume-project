@@ -1,0 +1,165 @@
+JESSICA CLAIRE
+
+‘San Francisco, CA # resumesample@example com
+
+PROFESSIONAL SUMMARY
+
+CAREER SUMMARY Dedicated and loyal systems professional with 20+ years' of hands-on experience as a database administrator and
+application developer. Solid understanding of relational databases. Excellent design, coding, and testing skills. Known for ability to rapidly
+asses complex needs and develop solutions that simplify the work flow and increase productivity.
+
+SKILLS
+
++ C#, Java, JavaScript, Python, Ruby, Visual Basic, Visual FoxPro,
+squ
+
++ Web Technologies
+
++ ASPNET Web Forms, ASPNET MVC, CSS, HTML, JQuery,
+Json, XML, DevExpress MVC Extensions, Twitter
+
++ Bootstrap, Font Awesome, IIS, Ruby On Rails,
+
+* Desktop Technologies
+
++ Crystal Reports, MS Access, Visual FoxPro, WinForms,
+DevExpress WinForm Controls, DevExpress
+
+© XtraReports
+
++ Frameworks/SDKs
+
++ ADO.NET, StructureMap, AutoMapper, Devexpress XPO (ORM),
+Dapper, Entity Framework, VintaSoft
+
++ Twain
+
++ Operating Systems
+
+‘+ Linux, Windows 7, Windows 10, Windows Server
+
+* Databases
+
+‘+ MS Access, MySQL, PostgreSQL, Visual FoxPro . SQL Server
+
++ IDE Productivity Tools
+
+* Visual Studio, Visual Studio Code, Visual FoxPro, Git, Code Rush,
+‘WebStorm, Dreamweaver MX
+
++ Project Managment Tools
+
++ Software
++ MS Office, HCLL, SoftLab, Soarian Financials, OTR
++ NET, MS Access, Recruiting
+
++ ASPNET, C#, Spreadsheet
+
++ ADO, Excel, SQL
+
++ Dreamweaver, MS Office, SQL Server
+
++ Billing, MS Project, Statistical analysis
+
+« Crystal Reports, Windows 7, Technical support
+
+* CSS, Windows, User training
+
++ Databases, MVC, User manuals
+
++ XML, MVC3, Technical documentation
+
++ Financials, MySQL, Therapeutic procedures
+
++ Forms, Operating Systems, Typing
+
++ HTML, Pathology, Upgrade
+
++ IDE, Pdf, View
+
++ TS, PostgreSQL, Visual Basic
+
++ Java, Programming, VBA
+
++ JavaScript, Project Managment, Visual FoxPro 9.0
++ 3Query, Python, Visual FoxPro
+
+* Json, Quality, Visual Studio
+
++ Linux, QA, Windows Server
+
++ Mailing, Realtime
+
+© MS Project, Pivotal Tracker
+
+Work History
+
+‘Medical Technologist IIU/Application Developer (Database Administrator, 04/1997 - Current
+Rochester General Health System — Henrietta, NY
+
+* Solely designed, developed, implemented, tested and maintain a web application using ASPNET MVC3, C#, JavaScript, JQuery, JQuery
+Mobile, NET Framework 4.0, Structure Map (IoC Container), AutoMapper, DevExpress MVC Extensions, DevExpress XtraReports,
+Entity Framework 4 (ORM) and SQL Server 2014.
+
+‘+ The application allows users to view patient's test history, test results and reports.
+
++ Solely designed, developed, implemented, tested and maintain a Windows Desktop Application using Winforms, C#, DevExpress Winform
+Controls, DevExpress XtraReports, Structure Map (IoC Container), DevExpress XPO (ORM) And SQL Server 2014.
+
+‘+ The application records patient demographics and transplant histories, tracks patient orders, patient samples and patient test results,
+archives scanned documents in péf format, imports and exports patient data to and from various third party databases, performs data
+integrity analysis, generates various clinical and QA reports and prints mailing labels, sample labels, barcode labels, and lab worksheets.
+
+‘+ Recently had to rapidly create a pending reports module in response to COVID-19.
+
++ The module allows clinical staff to electroncially sign out reports remotely
+
++ Solely designed, developed, implemented, and tested a Windows Desktop application using Visual FoxPro 9.0.
+
+* The application records typing tray results and billing information, performs statistical analysis on tissue typing trays and generates QA and
+invoices reports
+
++ Solely designed, developed, implemented, tested and maintain a Windows Desktop Application using Winforms, C2, DevExpress Winform
+Controls, DevExpress XtraReports, Structure Map (IoC Container), DevExpress XPO (ORM) And SQL Server 2014.
+
+‘+ The application is used by the entire pathology department to track quality problems and issues.
+
+‘+ The application yields real time data that is used to address problems/concems in a timely manner.
+
+« Asa result of this project, I was nominated for the Sally Ann Shipley Quality Award in 2014.
+
+* Created an Excel 2013 spreadsheet utilizing VBA.
+
++ This spreadsheet interprets Flow Cytometry results and prints a detailed lab report.
+
++ Successfully worked with IT to migrate workstations from Windows 7 to Windows 10.
+
++ Install, maintain and uperade all vendor software used in the labortory.
+
+* Create user manuals and technical documentation for applications,
+
++ Provide departmental application user training and 24/7 technical support
+
++ Responsible for maintaining the data integrity for potential solid organ transplant patients
+
+* Create patient visits in Soarian Financials, create orders in SoftLab and answer incoming calls into the laboratory.
+
+Certified Technologist/Apheresis Technician, 09/1995 - 04/1997
+University Hospitals Case Medical Center ~ City, STATE
+‘+ Responsibilities included screening donors, recruiting donors, collecting platelets, and autologous whole blood from donors, and
+performing therapeutic procedures on patients.
+
+Medical Technologist, 01/1994 - 09/1995
+Lake Hospital System — City, STATE
+‘+ Worked as a generalist in the clinical lab.
+
+EDUCATION
+American Society of Clinical Pathologists: Medical Technologist: Current
+
+The Toledo Hospital - Toledo, OH
+
+‘Master of Science: Computer and Information Science
+Cleveland State University - Cleveland, OH
+
+Bachelor of Science: Medical Technology
+Bowling Green State University - Bowling Green, OH

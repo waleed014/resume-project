@@ -1,0 +1,112 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor © (555) 432-1000 © resumesample@example.com
+
+Summary
+
++ Having 7.8 years of working experience as DevOps Engineer and working on different levels of automation tools.
+'* Working on various version control systems like GIT, Build tools like Maven, Ant Continuous Integration Tools such as Jenkins,
+containerization tool Docker, Configuration management tool Chef, and Shell scripting.
+
+* Strong experience in Branching and Merging strategies.
+
+* Good knowledge of using Maven scripts to automate code compilation and deployments.
+
+* Coordinate/assist developers with establishing and applying appropriate branching and merging conventions using GIT source
+control.
+
+* Working knowledge on merging code lines in the GIT and resolving all the conflicts raised during merges.
+
++ Implemented & maintained the branching and build/release strategies utilizing GIT.
+
+‘ Initiated C. I process my project and set up the Jenkins tool from scratch. Created new build jobs, set up master/slave concepts to
+distribute the load, and run different builds with different configurations.
+
++ Created Pipelines using Jenkins file. Also worked on manual pipelines.
+
+* Configuring pre and post-build actions in Jenkins as per project requirements.
+
++ Automate the Build Process Using Jenkins jobs.
+
++ Experience in setting up and managing Docker private repository.
+
+‘+ Having experience in creating custom Docker Images using Docker files.
+
+* Experience working on several Docker components like Docker Engine, Hub, Container, and Docker Registry.
+
+* Automated application containerization by writing Docker file and creating images. The application environment will be
+automatically built with the given number of containers with application setup out of the box.
+
+* Worked on various tools which include Build Tools- Maven, Continuous Integration Tools Jenkins and Servers-Apache Tomcat,
+Automation Tool- Ansible.
+
++ Experienced in Build, Deployment, Configuration, and Release management.
+
+* Proficiency with build and continuous integration system concepts.
+
++» Experience in deploying artifacts like WAR and EAR into application servers Apache Tomcat and Web logic servers.
+
+* Setup Chef in the production environment. Good knowledge of end-to-end production Chef Environment.
+
+* Developed cookbooks for application deployments with tomcat, JDK, war file, and post deployment configurations.
+
+* Knowledge of AWS-EC2 instance, ELB, and Auto-scaling.
+
++ Responsible to install and configure Kubernetes in physical as well as cloud environments.
+
+* Well aware of the advantages, architecture, and complete workflow of Kubernetes.
+
+* Good knowledge of every component of Kubernetes.
+
++ Installed and configured K8S master and K8S nodes and established communication between them.
+
+Skills
+* Analytical Thinking and Problem Solving + Amazon Web Services
+* Object-Oriented Programming + Software Components and Libraries
+
+Experience
+
+DevOps Engineer, 01/2022 to Current
+
+Avantus — Harlingen, TX
+
+The project is about maintaining an e-commerce website of Sears 24/7. As a major part of Sears’s business is based on E-commerce
+sites that should available all the time, our team's job is to build and release code for deployment on appropriate servers to the
+Deployment team. The site will be developed in 4 stages- Integration stage, testing (QA) stage, staging (advanced testing) stage, and
+production.
+
+DevOps Engineer, 11/2019 to 11/2021
+Avantus ~ Houlton, ME
+* Excelity ESS Portal is a web-enabled integrated HR system that supports all the core HR functions which are used by Excelity
+
+onsite clients. The primary goal of this web application is to keep track of employee personal information, leaves & attendance
+information. The application features will be accessible by the user based on the role base defined by the system. This System
+provides capabilities and features that are critical to the organization with a smart workflow approach to ensure efficient and
+effective management of employees. The system is designed to make life easy for all types of users, with an integrated workflow
+to support all administrative processes and includes useful guides. Managers and supervisors can more effectively manage their
+subordinates
+
+DevOps Engineer, 08/2016 to 08/2019
+
+Avantus — Jacksonville, FL
+
+Ebates.com is an online shopping portal that gives cashback for the purchases of customers. This site is used to display different
+coupons and discounts available for the user and also the management of their accounts. Ebates is all about saving money and
+getting Cash Back whenever you shop online. When you become a member and shop through Ebates, you can save money every year
+on the things you're already buying. Once the user shops from the stores that are displayed on the Ebates.com site, cashback will be
+credited to their account.
+
+Jx DevOps Engineers , 01/2017 to 11/2018
+‘Tek Leaders ~ City, STATE
+
+Specsavers is an international company providing a trusted eye care service, affordable glasses and contact lenses to a number of
+countries in Europe and across the globe. Our expert opticians carry out professional eye tests using the latest optical equipment. Our
+range of glasses features an incredible variety of styles, including the latest designs from some of Europe's top fashion houses, and all
+our frames come with top quality PENTAX lenses. Specsavers is the UK's Most Trusted Optician with 1 in 3 people who wear glasses
+choosing our frames. These stores provide an outstanding eye care service, and now we can even buy glasses online with over 1500
+styles.
+
+Education and Training
+
+Master of Science: Technology Management
+Lindsey Wilson College - Columbia, KY

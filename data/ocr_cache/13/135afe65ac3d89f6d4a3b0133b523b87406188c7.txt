@@ -1,0 +1,190 @@
+Jessica Cramer
+
+100 Montgomery St. 100 Flor # 55) 422.1000 + renumesmplGeramplecom
+
+Summary
+Profile Summary Over years of T industry Experience with S3 years as DevOps Engineer Cloud Expert: IaaS/Pass sevice:
+
+Extensive experienc in developing coud solutions using IasSQaiastructure asa Service and PaaS (Platform a Servic), VPC
+Network: Experience in configuring secure VPC through Pivate and Public networks in AWS and Azuse
+
+Skills
+“Technica sills Platforms Li, Windows
+(loud Platforms AWS, CentuyLink, GCP, Azuze ‘We/Applicaton Servers Apache, Tomcat Nein
+DevOps services Git Jenkins, Maven, Ansible Zabbix ELK Stack Scripting Languages Sell,
+
+Doser fa
+DBs MongoD8, MySQL. Ora
+
+Experience
+
+‘Constant, 6/2021 9 01/2022
+plas Technology evi, CA
+
+‘TCS is Helping Clint Create the Future TCS combines tech expertise and busines inteligence to catayze change and deliver
+
+The primary responses inca
+
++ Inegeated Amazon Cloud Watch with Amazon EC2 instances for motoring the logfiles, store hem and tack metrics
+
++ Iregrated Cloud Front with for data secusity
+
++ Created AWS 5 buckets, performed folder management in each bucket Managed cloud al logs and objects within each bucket
+
++ Created Highly Available Environments wing Auto Scaling Load Balancers, and SOS
+
++ Crete Anaible Autounation tool and builds and doa overall process improvement to any ans procestes
+
++ Developed an maintained the continuous integration and deployment systems using Jenkins, Maven,
+
++ Configured Elastic Load Balances with EC2 Auto Scaling groups
+
++ Experience in building Docker image using CiLab-c build automaton runner
+
++ Automated deployment from GtLab-<to Openshit
+
++ Used Docker for sunning lower eniconment ike DEV and UAT
+
++ Created monitors, lems and notscations for EC2 hosts using Cloud Watch
+
++ Abily to design application on AWS aking advantage of Dasara recovery
+
++ Configured AWS lentity Access Management (IAM) Group and wsers for improved login authentication
+
++ Asa purtof fb also had responsibilty to maintain the networking form AWS coud back to On Primary connect and no
+liectinteme access from AWS oud VPC to thers ofthe world (tert)
+
++ Worked with Custom AMI, created AMI tags and mesified AMI permisions
+
++ Created Security Groups, configuring Intound /Outhound rules, resting and importing Key aie
+
++ Leveraged rg service as Build Artfact repository
+
++ Technologies: Lin, GtLab, Maven, Ansible, AWS, Oracle, Openshit fia, Servienow
+
++ Envsonment: AWS (EC. VPC ELB, 3, CloudFront Cloud Tal and Reate 5) Linwx(Ubunt), Amazon Lina, Cit version
+Conta, VPC, i. AWS Ato Scaling Maven.
+
+DevOps Engineer, 0872019 1905/2021,
+och Industies, Inc. Rana, NV
+
++ Neutarais US based technology company expertise in innovating loud end -commaescelt built several products and services
+fm the ana of ecommerce, loud, producti and enterprise collaboration
+
+The primary reponse incude
+
++ tregrated ClowdFront with 3 for data scusity
+
++ Created AWS 5 buckets, performed folder management in each bucket, Managed cloud tal logs and objects within ech bucket
+
++ Created Highly Available Environments wing Auto Scaling, Load Balances and SOS
+
++ Experience in AWS Cloud in various AWS Services such a Caster, RouteS3 Domain configuration
+
++ Create AnsibleAstomation tool and bulls and doan overall process improvement to any anual processes
+
++ Developed and maintained the continuous integration and deployment systems using Jenkins, Maven,
+
++ Tae implemented Ci pipsines on several omeumner facing applications nupporting Agile Project nd Ongring Relates
+
++ Configured Elastic Lond Balancers with EC2 Auto Scaling groups
+
++ Configured 53 test Static Web content
+
++ Bxperenced in $3 Versioning and hfecyle policies to and backup files and archive files in Glaser
+
++ Configured AWS deny Access Management (AM) Group and wsers for improved login authentication
+
++ Asa partf Job aloo had responsibilty to maintain the networking frm AWS cloud back to On-Primary connectivity and no
+iectinteme access rom AWS oud VPC to thers ofthe word (tert)
+
++ Worked with Custom AMI, created AMI tags and mesdified AMI permissions
+
++ Created Security Groups, configuring Inbound /Outbound rules, creating, and importing Key Pais
+
++ Leveraged AWS 53 service as Build Artifact epoitry and created release based buckets toS3
+
++ Technologies: Linu, Git Maven, Anable Jenkins, AWS CENTURYLINK(Clou,
+
++ ibaa, Zab Dock, fea
+
++ Envsonment: AWS (EC VPC ELB, 3, CloudFront, Cloud Tal and Reate 5) Linux (Ubunts), Amazon Lin, Git version
+Cont, VPC, AWS EC2, 3, Routes, EBS, IAM ELB fra, AWS Auto Scaling Maven,
+
+DevOps Engineer, 1072015 190472018
+
+Koch Industies, Ine. Troy, Mi
+
++ ayn alo a leading payment solutions provides to ecomuerceseschints using its RBI approved ser-loed wallet One?
+etivers noble content and cecerce services to lions of noble consumers through no's moet widely deployed telecom
+spplications cloud platforms
+
+The pear reponse incu
+
++ Created AWS 5 buckets, performed folder management in each bucket Managed cloud tal logs and objects within each bucket
++ Created Highly Avalable Environments using Auto Scaling, Load Balances, and SOS
+
++ Hands on Experience in AWS Cloud in varios AWS Sein such as Cluster, Routes Domai configuration
+
++ Defined branching labeling and merge strategies forall applications in Git
+
++ Configured Elastic Load Balances with EC2 Auto Scaling groups
+
++ Configured 53 test Static Web content
+
++ Experienced inS3Versioning and ifeeyle police to and backup fies and archive files in Glacier
+
++ Used Docker for unning different teting applications
+
++ Ability to design application on AWS aking advantage of Disaster recovery
+
++ Need Coniguring Acces for inbound and outbound traffic EBS volumes to ae alarms for notation or automated actions
++ Configured AWS ldentity Access Management (IAM) Group and wiers for improved login authentication
+
++ Asa part Job, Lalo had responsibilty to maintain the networking frm AWS coud back to On Primary connectivity and no
+liectinteme access from AWS oud VPC to thers ofthe word (ert)
+
++ Worked with Custom AMI created AMI tags and mosdified AMI permissions
+
++ Created Security Groups, configuring Inbound /Outbound rules, creating and importing Key Pais
+
++ Leveraged AWS 53 service as Build Artifact epoitry and created release based buckets toS3
+
++ Technologie: Linu, Git Maven Jens ANS, Docker
+
++ Envsonment: AWS (EC2 VPC ELB, 3, Cloud Tail and Rout 53), Linux (RHEL 61/66), Amazon Lin, Git version Consol
+LPC, AWS EC2, 53, Route, EBS, IAM LB, Ja, AWS Auto Scaling, Maven
+
+imax Engineer 062012 0092015,
+Verizon -Fushing, NY
+«The primary responsibesincude
++ Cetng Server with IP fe Based on the Requirements Ports wil be asigned.
++ Cestons of pools
++ Configuring Event for each port
++ asd onthe requicements shall eat OBD, SERVICE, PATCHING FLASH.
++ Configuring Beachoomber fr applications
++ Donntns configurations
++ Maoainng the runing ofthe applications
++ Monitoring the aplications
++ Troubleshooting the application
+
+Education and Training,
+
+Bachelor of Engineering: Computer Science
+awa Nehew Technological University INTU)- Hyderabad
+
+Additional Information
+
++ configuration: Configured auto satin poles to sale pido EC stances based on EB lth checks and rete lars
+tote wadin auto salingdeciton making poe Infaracure a code: Experience in ulding eionment on cloud with
+Terral too for bulding and changing infarct ally and tcl. SS access management Provision AWS SS
+bucks for backup of the appliaton ad yn contents with rernng SD backs, by reat entry or NWS SD SYNC in
+Crontab. And resi public acces with CloudFront service, Provided 2437 on-cl supports in debugging a ing omen
+seated to Clon Environment wing Amazon We Sersics (AWS) aed CenturyLink DevOps Expertise: SCM: Extensive
+expres in deploying and adnisring ia Gita, Configuration management to: Extensive experince in Anabe
+foe deploy conser inastrucre code sos lle envzonmentCICD: negated Jenkins with maven and docks, And
+stot sppication deploys on container wit pipelie. Cothinreton:Consicaising the pion sing
+Docketdeployment of Docker containers fo development. Montoring Experience ning and confguaonZA0 for
+server cure monitoring Ad Kana oc Appian loge nniteing Having ged Experience in conigoring and working
+‘sth FTP and NFS.Colltorate with applanon ones I opeasons and coud providers translate busines and fnconl
+seperti ieasracatsltons.

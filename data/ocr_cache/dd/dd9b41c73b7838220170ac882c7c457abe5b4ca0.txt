@@ -1,0 +1,101 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Partner with architects of different other engineering / application teams to engineer complex technical product in order to provide palpable
+business solutions to various business divisions as a part of DBA Engineering project activities.
+
+Oracle streams implementation/administration for live reporting server, database consolidation, zero downtime migration.
++ Architecting Oracle Fail safe environments for site critical databases, including configurations, failover testing, tuning, creating standards etc.
+
+Supervising application of One-Off, patchsets and PSU patches Oracle patches for 10g RDBMS and clusterwares.
+
+Designing processes and procedures, setting up standards, creation of scripts for installation of Oracle Server software, creation of databases,
+setup backup using RMAN, DR solutions using tape backup.
+
+Leading the efforts of performance tuning to scale up the test results in tune with the requirement of the application team,
+
+Optimizing the downtime for maintenance by coordinating with the different application teams involved in the maintenance activity.
+
+Strictly followed Change Control Change management procedures as laid down by the organization in a highly qualified environment.
+
+SKILLS
+
+© Operating Systems : Solaris, Linux, ATX, Windows © Replication Tool : Golden Gate
+o Languages : SQL, Shell Scripting [Bash, Kom], Java, C, Python 0 Backup tools : RMAN, Datapump, Commvualt, Netbackup
+
+© Database Tools : PostgreSQL, MariaDB Oracle (9i,10g,11g, 12c), _0 Other Tools : Oracle Clusterware, Data Guard, Oracle Enterprise
+SQL SERVER, manager
+
+Work History
+
+Database Lead, 10/2014 - Current
+L Brands — Portland, OR
+Environment: Oracle 12c/19RAC,Dataguard PostgreSQL MariaDB
+Position Summary
+
+Design and implement incremental and full backup policies and procedures for all the databases that includes Oracle/SQL Server/PostgreSQL/
+‘MariaDB.
+
+Applying Oracle Cluster ware Patches on Oracle RAC clusters,
+
+Apply Oracle Security Patches to databases on NonProduction Production Support, Production Oracle RAC Clusters
+
+Implementation of Oracle Audit Logs management for Production environment
+
+Move RAC databases across clusters.
++ Develop/Coach team members on problem solving techniques and manage the improvement initiatives for client/IBM(Lean and Six Sigma
+Projects)
+
+Implementing and managing database partitioning process for few mission critical applications.
+
+Preparing the impact analysis for all the data centre outages related to oracle and keeping respective application teams informed about the
+outages.
+
+Identifying problematic queries in the production databases and tuning them using sql tuning advisor
+
+Advisory IT Specialist, 10/2011 - 08/2014
+Infosys Ltd — Bolingbrook, IL
+Design and implement incremental and full backup policies and procedures for all the databases
+Incident/Problem management using BMC Remedy tool.
++ Regularly performing capacity planning for all the production databases and send the reports to NBN
+Applying Oracle Cluster ware Patches on Oracle RAC clusters.
+Installed Oracle Enterprise Manager 12c agents on all the non-production and couple of production environments.
++ Move RAC databases across clusters.
+Develop/Coach team members on problem solving techniques and manage the improvement initiatives for client/IBM(Lean and Six Sigma
+Projects)
+Identifying problematic queries in the production databases and tuning them using sql tuning advisor
+Reviewing Performance Reports for various databases and developing performance improvement plan.
+Migrated the Data ASM disk group on Oracle RAC cluster from 200 GB to 1 TB ASM Disks
+Implemented Database Encryption For Workforce Management Production Support environment
+
+Lead DBA, 12/2008 - 01/2010
+Zintech Software Ltd City, STATE
+
+Installing and maintaining SQL Server database systems. Maintaining the database systems includes but is not limited to ensuring successful
+backups, resolving system issues, monitoring success and failure of automated jobs.
+
+Migrating Databases from SQL Server 2005 to SQL Server 2008
+
+Provide scripts to do summations and query results that can useful for application developers
+
+‘Lead Consultant, 03/2003 - 12/2008
+Genpact — City, STATE.
++ Successfully carried out role of lead onshore DBA. Being onsite, Extensively involved in client interactions, various database related
+issues, new project strategies and implementations
++ 24/7 support for key mission critical shop floor databases hosting number of third party applications. Worked with application teams and
+third party vendors in applying new application patches and enhancements
++ Involved in upgrading production and development databases from 8.0.5/9.2.0.8 to 10.2.0.4
+« Involved in cloning of development and test databases from production using hot/cold backups/RMAN backups as well as transportable
+tablespace feature
++ Implemented performance scripts on all critical production databases
+* Successfully carried out responsibility of supporting very large mission-critical databases that are of sizes as large as 8.5 terabytes
++ Implemented Oracle advanced replication environment. Setup of master sites and snapshot sites,
++ Implemented multimaster replication between two master sites
+
+EDUCATION
+
+Associate of Science: Mechanical Engineering, 1997
+Sri Venkateswara University - Tirupati

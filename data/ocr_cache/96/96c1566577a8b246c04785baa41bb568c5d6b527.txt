@@ -1,0 +1,108 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+QUALIFICATIONS
+
++ DataClairese development
+
++ Microsoft Excel, Project and
+Visio
+
++ Working with large data sets
+
++ Software Development Life
+Cycle principles (SDLC)
+
++ T-SQL-programming
+
++ PowerShell
+
++ ETL
+
++ Strong communication skills
+
++ Managing tight deadlines
+
+EDUCATION AND
+TRAINING
+
+University Of East London
+London « 2010
+
+Clairechelor of Science: Business
+Information Systems
+
+University Of Wales Institute
+Cardiff
+London + 2013
+
+‘Master of Science: information
+Technology
+
+CAREER OVERVIEW
+
+DataClairese developer with 4 years in the software industry analyzing design, development and
+implementation of innovative business process and system solutions using the Software Development
+Life Cycle (SDLC) methodologies. Seeking a challenging position using strong analytical and problem-
+solving skills to facilitate healthy communication between the client and IT department.
+
+ACCOMPLISHMENTS
+
+‘Automated repeatable tasks where possible to increase efficiency.
+Increase Sales by
+
+WORK EXPERIENCE
+
+Apex Systems - SQL DataClairese developer
+
+Solon, OH + 05/2015 - Current
+
+Develop complex stored procedures, functions, triggers, views and queries in support of application
+development. Review and optimize existing stored procedures, functions, triggers and queries. Develop
+custom scripts to automate various dataClairese management processes. Occasionally write single-
+time reports on demand.Diagnoses, isolation and de-bugging of software and hardware problems and
+performs problem resolution. Ensures adherence to standards and best practices.
+
+Pinnacle Technical Resources Inc - SQL Server DataClairese Developer
+
+Seattle + 09/2011 - 04/2014
+
+Project: Project was to build a data warehouse and the data from various sources into SQL Server,
+design ETL, create complex cubes and develop analytical reports.
+
+Responsibilities
+
+Perform dataClaireses design, modeling and implementation of new dataClaireses both clustered and
+non-clustered environments on Microsoft platforms including MS SQL Server utilizing strong T-SQL
+experience. Ensure data quality and integrity in dataClairesesWrite complex T-SQl Code and design
+tables, stored Procedure, Functions and triggers, indexes and constraints to support development
+projects. Writing T-SQL scripts to manipulate data by using joins and sub-queries Participate in
+dataClairese design and architecture to support application development projects.
+
+Debug deadlocksAnalyze blocking and wait
+statsTroubleshooting blockingMonitor and troubleshoot SQL jobs using available tools such as SQL
+ProfilerCreate, edit, execute and debug Transact-SQL scripts.Claireckup and restore dataClaireses and
+define maintenance plans Design and develop SSIS packagesDevelop and manage data import and
+ETL(Extract , Transform and Load)
+
+Ally - Data Analyst
+
+Seattle + 03/2009 - 06/2011
+
+‘As a data analyst | was Responsible for collecting, cleaning and analyzing data using statistical and
+mathematical computation. Responsibilities Analyze data for trends and use data to drive
+insight to make better business decisions Analyze and validate data using statistical tools to answer
+product and business questions, to drive product and marketing actions. Analyze the various sources
+of data to ensure data quality and determine what can be measured.Organize, analyze and maintain
+the data collated from diverse sources Use data cubes to create new reports Design, code and
+optimize advanced data queriesDeveloping, testing and improving on BI capabilities to understand the
+product in depth and to provide key insights to shape product and marketing actions to improve
+customer experience and usage of the product. Writing T-SQL scripts to manipulate data by using joins,
+and sub-queries Worked on exporting reports in multiple formats including MS Word, Excel, CSV and
+POF

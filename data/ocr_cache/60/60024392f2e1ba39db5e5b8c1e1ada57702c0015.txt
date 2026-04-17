@@ -1,0 +1,107 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+EDUCATION
+
+University of Texas At Austin
+Austin, TX + 12/2023
+
+‘Master of Science: Data Science
+
+University of California Irvine
+Irvine, CA + 06/2020
+
+Certificate: Data Science
+
+University of California, Irvine
+Irvine, CA + 06/2015
+
+Bachelor of Arts: Business
+Economics
++ Minor in Statistics
+
+SKILLS
+
++ SQL- MySQL / HiveQL / Oracle
+SQL / PostGresQL
+
++ Data Wrangling- Pandas / Dask
+1 PySpark
+
++ Analytics: Tableau / Power Bi /
+Plotly
+
++ Webscraping - BeautifulSoup/
+Selenium/ Chromium
+
++ Statistical analysis - Scikit
+Learns/Stats Models /Numpy/ R
+
++ Machine Learning - Scikit
+Learns/ Tensorflow/ PyTorch
+
++ Job Orchestrating- Crontab /
+Prefect
+
++ Spreadsheet - Excel (formulas,
+pivots, macros) / Smartsheet
+
++ Version Control - Github /
+GitLab
+
+WORK HISTORY
+
+Cox Communications Inc - Lead, Performance and Insights
+Coffeyville, KS + 03/2022 - Current
+
++ Developed Tableau Analytics for analyzing key business metrics, viewed and used by C-Suite,
+Operational, and Field leadership. Total Unique User base: 500+
+
++ Utilized SQL and Python to wrangle data into useable tables as part of both ad hoc and ongoing
+data engineering efforts in Redshift.
+
++ Created Utilization performance Indicators based on descriptive statistics and SLAs; examined
+effectiveness of programs as well predicted performance.
+
++ Developed a Simulation of Fulfillment modelling, implemented in Anylogic Cloud and dashboarded
+with Plotly Dash.
+
+Kia Motors North America - Data Scientist
+City, STATE « 07/2020 - 03/2022
+
++ Transformed and preprocessed data using both Pandas and Dask, to maintain pipeline of data for
+‘Machine Learning.
+
++ Dashboarded Machine Learning Results of Auction Models for rolling 90 Days. Leadership and C-
+Suite usage: 40 Unique Users.
+
++ Webscraping articles from news outlet websites and social media (Reddit, Twitter) as well as
+proprietary Auction Sites (AutolMS.com)
+
++ Orchestrated data pipelines and model training runs using Prefect.
+
+Kia Motors America - Data and Operations Analyst
+City, STATE » 08/2015 - 07/2020
+
++ Responsible for leading Customer Experience Analysis projects to target JD Power Syndicated
+Customer Satisfaction. Used Python and R to complete randomized hypothesis tests
+(bootstrapping) on customer surveys.
+
++ Creates and maintained an internal tracking system for monitoring of sales satisfaction of
+customers. Developed using VBA for Outlook, Excel, with data stored in OracleDB.
+
++ Monitor and analyze KPIs (sales volume and customer retention) for parts and service data trends
+using time series charts and variance analysis. Used SQL and Python for extraction/aggregation/
+and routine reporting.
+
+ADDITIONAL INFORMATION
+
+US Citizen, Authorized to work in US.

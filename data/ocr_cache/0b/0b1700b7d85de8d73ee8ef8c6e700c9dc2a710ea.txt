@@ -1,0 +1,278 @@
+JESSICA
+CLAIRE
+
+resumesample@erample.com
+& (655) 432-1000
+
+‘9. Montgomery street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Orade, SOL Server, AL, MS
+access, D2
+
++ Informatica Power Center,
+Informatica 828, informatica
+Integration Cloud Service
+
++ SQL; PL/SQL, MY SOL, ¢, Coe,
+Ye sript, XML, HTML, UNIX
+Shel Sripting, C¥ net
+
++ Salesforce and Cloud Data
+Integration Patterns
+
++ Windows, Linux distributions,
+nix
+
++ Relational databases, Anaiysis
+and modeling
+
++ Agile and Waterfall
+methodlogies
+
+EDUCATION AND
+TRAINING
+
+University
+Bridgeport, CT + 2010
+‘Master degree: Electrical,
+asad + 2007
+
+Bachelor Degree: electronics and
+‘communication
+
+SUMMARY
+
+9+ years of experience in Software Design, Development, Analysis, Testing, Data Warehouse and
+Business intelligence tools.
+
++5» years of experience in Data Warehousing using various ETL tools primarily informatica
+Experience in informatica Integration Cloud Service to integrate on prem database with Salesforce
+cloud system,
+
++ Experience in informatica Developer tll to create or parse ED! fils using Libraries.
+
++ 2years of experience on Oracle Warehouse Bulder 103 R2
+
++ Extensive knowedge with Dimensional Data modeling, Star Schema/snowlakes schema, process
+‘mapping using the top-down and bottom-up approaches, Fact and Dimension tables.
+Experience on various development platforms Windows NT 4.0/2000/xp/9 and RDBHS and Master
+data management with Orace 18c/12c/11g/ 10/91/81, SQL. Server, O82
+
++ Experience werking with SDLC, RUP, Waterfall and Agile methodologies
+
+{Experience in working with data warehouses and data mars Using Informatica Rowercenter
+10:4,100,9.x, 8.x, 7-x (Designer, Repository Manager, Workflow Manager, and Workflow Monitor).
+
+“Experience in working with OW8 (Oracle warehouse builder).
+
++ Experience in working with Vertica database and Vertica tol.
+
+{Experience developing Complex mappings using varius transformations available in Mappings
+Designer also in setting up groups/users/permissins fr Informatica user in Repository Manager.
+
++ Experience with Type 1, Type2, Typed Dimensions
+
++ Experience with low changing dimension methodology and slowly growing targets methodologies.
+
+5 Salid experience with Database migration and data cleansing
+
++ Experience with writing and executing test cases for data transformations in informatica.
+
+1 Heavy experience in working wth COBOL files, XML, and Flat Files
+Expert in Oracle development (PL/SQL, Forms, Reports)
+Experience in performance tuning of large warehouse jobs (Database level fine tuning, Sql
+optimization, Workfiow/session/mapping optimization).
+
++ Betensve experiance with Unix/Linux environments and writing UNIX shel seipts
+
++ Abily to priovtize and execute tasks ina high pressure environment
+
+‘Experience in mentoring ad providing knowledge transfer to team members, supprt teams and
+customers.
+Comprehensive problem solving abtis with an ability to deal with people diplomatically
+ilingness to learn, team facilitator, quick learner and a hard worker with a postive attitude.
+
+EXPERIENCE
+
+‘Cox Communications Inc - Senior Informatica Developer
+
+utchinzon, KS » 04/2017 - Current
+
+Unique Project Achievements: Salesforce Data Integration
+
++ Oversaw deployment, configuration and documentation procedures of Salesforce Data integration
+using informatica Cloud and Power Center
+
++ Design the Patterns to load data from Oracle DB into Salesforce using IC.
+
++ Created Reusable Mappings and Templates to use Salesforce diferent types of Buk or Standard
+Batch Loads features.
+
++ Used Mapping and Synchronization Tasks based on use cases to support agile business process.
+
++ Used informatica Developer Tel to create JSON files and use webservice transformation to call.
+diferent webservices toad data into vendor system.
+
+Unique Project Achievements: B2B for EDI Files.
+
++ Review the Companion Guide and functional requirement to create the technical specifications
+Document for overall ETL/Informatica process.
+
++ Worked on process to generate 834 ED ile from relational database using 628 HO Libraries.
+
++ Involved in impact analysis of 837R transaction sets. and worked with lam data.
+
+{Created several mappings to load the other fles from the external vendor into the data
+warehouse.
+
+(ther Common ETUInformatica Tasks:
+
+Participated in requirement gathering, Identified integration points, created verification
+documents such a high level and lor-level documents.
+Participated in daly stand- ups fr status updates and knowledge transfer with both Offshore and
+On-site teams,
+
++ Fallow agite methodology and Scrum and was fnvlved in ETL. design and participated in technical
+meetings, Effort estimations, bacKog grooming et.
+
++ Designed Oracle Data Integrator ETL processes to cllect and summarize data for reporting.
+
+{Developed informatica mappings using various transformations lke update strategy, lookup, stored
+procedure, router, iter sequence generator, joiner, aggregate, and expression transformations in
+extracting data in compliance withthe business logic developed.
+
++ Experience in using informatica Werkflow Manager and Workflow Monitor to schedule and menitor
+session status.
+
++ Developed complex mappings also invlving SCO Type-t, Type! and Type
+Informatica to load the data from Various sources.
+Performed extensive Uit testing and worked with testers in testng support and User acceptance
+testing ofthe developed codes,
+
++ Analyzed the session and eror logs for troubleshooting Data mappings and sessions.
+Implemented efficient and effective performance tuning procedures. created and validated
+Aitferet store procedures or PL-SQL queries for performance tuning. Used explanation plan to
+improve performance of SQL.
+Extensively used the Informatica Debugger for debugging the Mappings to check the Business rules
+{implemented corrcty of not.
+Worked on shell scripts to create different scripts as per requirements,
+
+Salient Crgt- ETL Developer
+Houston, 1X = 12/2012 - 04/2017
+
++ Implemented various projects interfaces to production, lke Shared Heath Product, ORS,
+Datametrix, MVS, MV25, E Comm.
+Provider and Accumulator Claims warehouse bul
+Analyzed the requirements and framed the business logic forthe ET. process.
+Assisted in the creation and implementation ofthe business rules via stored procedures &
+database package.
+
++ Used different Transformations tke Lookup, Joiner, Rank and Source Qualifier Transformations in
+the Informatica Designer
+Created complex mappings using Unconnected Lookup, Sorter, Aggregator, nev changed dynamic
+Lookup and Router transfermations for populating target table in efficient manner
+
++ ite the ETL specification, create oracle procedure, Create mappings Using OWE 1072 to load
+data from multiple sources into the staging area.
+
++ Witten long SQL Hocks for verica database.
+
++ created rocess flow, scheduled & monitored session.
+Fixed specs defects, technical coding defects such that the data loads property as per business
+needs
+Extensively worked with valous Lookup caches Uke Static cache, Dynamic cache and Fersistent
+cache.
+
++ Worked with Session logs and Workflow logs fr Error handling and troubleshooting.
+
++ Responsible for Best Practices Implementation, Performance tuning at ll levels and Error Handing
+methods.
+
++ Developed Reusable Transformations and Reusable Mapplets,
+
++ Wrote complex Procedures incorporating Exception Handing.
+
++ Performed Data Analysis, Validation upon completion of the conversion as wel s various stored
+procedures.
+Created various Orace 08 objects such as Indexes, Materialized Views, Synonyms, Constraints,
+triggers, Packages.
+
++ Performed CDC and implemented SCO.
+
++ Participated in meetings, reviews, status updates with the Project Lead and Business Uses.
+
+{written Data Vaidation Test Serpts to verify the data a the Sources and the Target.
+
++ Designed and developed the ELT logic to Cleanse and transform the data in te target from various
+sources using Canonical tables.
+
++ Developed various Orace sub functions like Stored Procedures, Functions, and Packages using PL/
+SQL as per the Design Documents.
+
++ Assisted in Migration of code between diferent environments and Provided Support.
+
++ Created technical documents pertaining to ETL processes.
+
+Infonys td Informatica Developer
+
+‘eagle 00/2010- 11/2079
+Catered fuss equremnt frm the end ues and eprtig tar.
+Fartipated inthe eee ce ofthe poe, ich nvaved understanding scope ofthe
+proc, fonclnay, Ota modlng echnical Arcee dient, tele desig nd
+Conpetedevecpet.
+
++ Eensve used to dsign Loge Phys Data Hod, foward/reverse engineering,
+publching ata mode to acrobat Hes
+
++ Deslane ad developed Operatoal ata Ste, Soy Changing Dimension, Staging areas ete
+
++ Beste intermatin arate for development, integration nd stents entronment.
+
++ Inada extraction of data rom varius sures theft es, Ore and SQ) server
+
++ Ernie sed athe entire of nfomatie dng Osis, Worn manager Sn
+fepostory anager, Workflow mento
+fssocited vith eign nd deepen of round 4 mappings.
+
+* Etensve) worked wit 01 queries
+
++ rented Stored Mectines, pocages, ages, ws lng PL/SQL Pogramining
+
++ ptiaed he perenne ofthe natin mappa.
+
++ fad wh a transtormation Se sav astra, ranean Canto
+
+5 dated croc mappings nating Fler, Rutr, Exess, Loop, Ut Uae.
+Sequence generator er and aggregpe nsormatons.
+
+«Used duper to et the mopping fed te as
+
++ tented and ued Debugger eon to dabug seston and crete respons forte anal
+ot eppines.
+
+«Crete mapping vars ad paraneters and eed then apron napping
+
++ Extensa eat the fentire of formate 8 cng Sesgner Worn manager and
+fepontarynanager, Workfow mono
+
+«Denim and developed sever Et strpts sng Informatica scp,
+
++ Memented Sty Changing dnrson methadone 2 or wares aes.
+
+* biggrorer poctsen mipate formats objets tom aeveopnt 0 Qa and prodton
+tsi daoan pene
+said th serine, ad fsa ero tables for weblchootng mappings ad seas.
+ttvoednpertereance Tuning at various irl cing Trget sort, Napping a Session or
+tng dt es.
+Deveapd alton ures hich wereld to devel repr pci bythe ers
+
+«Worked wth the site of Healthcare spats such as Membership, Provides gy, rou,
+rod, exelent, rover, alms, caespondence ad Late, Fale, Costmtc
+
++ Aeoinvlvedincondating sd ladig the tam meetings nd providing status ep to project
+tranagee
+
+mappings in

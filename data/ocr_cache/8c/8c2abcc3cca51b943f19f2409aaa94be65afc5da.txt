@@ -1,0 +1,149 @@
+Jessica CLAIRE
+
+Montgomery Street San Francie, CA 9105 (55) 42.100 ¢ resumesamplesexamplecom
+
+Professional Summary
+
+Progressive IT Consultant with 14 years of experience in Banking & Finance industry, successfully diving product initiatives from
+inception through delivery. An analytical techcal sategst adept at defining documenting, and communicating objectives,
+requirements, and constants
+
+Deliver cross functional leadership and manage multiple efforts concurrently. Ability to quickly asess business landscape and apply
+learning and technical acumen to succeed in fast paced & high performing environment. Lead strategy discussions and actively
+Aevelop program roadmaps with stakeholders
+
+‘Offering exceptional collaboration skills & ability to interact with designers, engineers analyst, and cros-Functional teams to
+_generate amazing products, A passion for technology, an innovative perspective conductive to change able to meet pressure packed
+deadlines, and a self-starter.
+
+Skills
++ Data asa Service / Self Service Data Analytics ‘+ REST APIs (AZA /B2B /A2B)- Apigee, Swagger
+
++ Product Envisioning & Innovation «+ Web Services IBM Datapower
+
++ Cross functional team leadership ‘+ MYSQL / ORACLE / MONGO DB / Mainframe DB2
++ Communication Sill + PLSOL/ Hive Qt
+
++ Safe Agile Practitioner «+ Data Science & Machine Lesening
+
++ Tr strategy Design /Roadmaps + Big Data Analytics (Spatk, Hive, SQOOP)
+
++ Agile Development Methodologies + Tables - Reporting & Dashboards
+
++ Sofware asa Service S335) «+ Testing Tools-SOAPUL& Postman
+
+Work History
+
+Product Development Manager -Data Science &e ML, 08/2018 to Curent,
+Popular Ine~Caguas, PR
+
++ Big Data Analytics Platform - Successfully revamped data analytics & seporting model acoss American Express compliance
+domain by onboarding bigdatabaced analytics solutions, Enhanced report quality by 40% and reduced run ime taken by 60%
+
++ Machine Learning asa Service (MLaaS) - Established machine leaning based cognitive automation solutions hosted over
+Enterprise Cloud Platform to provide MI. solutions as RESTEal API - Reduced manal effort by 25000 person hours per yeu.
+
++ Data asa Service (Daa5) Initiated and succesfully delivered big data based reusable data reporting product that decreased
+“time to market" by 0% and response times by 50% for data inquiries submitted by analysts.
+
++ Successfully delivered Data Science & Machine Learning efforts in Text Classification, Record Linking, Named Entity
+Recognition, Time Series Forecasting, Churn Analysis, Natural Language Understanding (NLU) /chatbots.
+
++ tanovation- Envisioned and succesfully delivered a highly salable cross platform effort in Computer Vision (OCR), NLP
+‘techniques such as “Custom Entity Recognition” to identify parties of interest in Subpoena documents and automate post entity
+ata inquiry processes Deployed OCR efforts over Microsoft Azure lod for maximum scalability
+
++ Envisioned and pioneered product road mp fr migration data from legacy platforms to POA platforms and generate hey
+‘business centric reports and Tableau dashboards to support Regulatory reporting and data requests from AML bodies suchas
+FINCNEN,
+
++ Went curent business landscape, define multi-year product and I strategy for APIs / Realtime services, define Swagger
+specification document, and author test strategy for APIs.
+
++ Document ke groom Features, User stories for each Program increment by working with Product teams, cross functions teams
+and create API features and personas necessary for succesful APTjousney.
+
++ Own API Life yee, discuss with end wers and analyze user inputs / reviews and incorporate them into API features
+
++ Provide periodic updates to leadership and stakeholders, resolve road blocks with concerned pasties and ensure project
+readiness and deployment
+
+‘ashore Tech Lead, 1272012 08/2018
+American Express (consultant) ~ City, STATE
+
++ Successfully designed Softrare as a Service (Saas) strategy for Customer360 platform and led high performing team of engineers
+that completely modemnized legacy application into REST APIs and Web service over aul yea intative.
+
++ Uslized Enterprice Cloud Platform and succesfully created various Application to Application (AZA), Busines to Business
+(820) APIs with scalability to handle millions of transactions per day and provide extremely high throughput / performance.
+
++ Gathered business insights, drove operational improvements and data quality enhancement efforts which resulted in savings of
+around $ S00K and improved profit margins
+
++ Defined TT Strategy, solution architecture and succesfully delivered busines critical product across diverse technologies such
+as Servicing (S335, an), Machine Leaening, Big Data, Robotic Process Automation, CRM and Customer Experience,
+
++ Wosk with product owners de domain experts to quantitatively derive business insights and form technology strategy, solution
+architecture and soad-aap to achieve desired goal
+
++ Led cross functional team of data scientists and engineering teams in delivery of various Anti Money Laundering projects,
+resulting in complete automation of Financial Crime Analysis & Reporting
+
++ Successfully setup machine learning & digital analytics team from ground up, Recruit mentor, provide technical guidance
+perform validations fr team.
+
++ Piongered Natural Language Processing related efforts that monitored social media data, media articles and developed machine
+leaming based advanced cassification algorithms to derive refined business insights
+
++ Determined tools & sillsets needed for digital analytes platform and worked with IS&T, Infastructure, Product Owners 0
+sucesefully setup busines critical platform
+
++ Collaborate with analyst groups, end users and technology teams to proactively resolve post production issues, cost implications
+& avoidance delivered through digital analytics platform
+
++ Lead Program Incremental plans, Scrum & ensure delivery of projects for an international team co-located in thre different time
+
++ Excellent communication skills a providing status updates to leaders and stake holders on project activities and while
+collaborating with various team members Lead by example to constantly lear new technologies and reeasch IT trends to
+ensure solutions provided ae always on eting edge of technology.
+
++ Setup constant feedback pipelines and derive Key Process Indicators to ensure performance of data scence & machine learning,
+models
+
+Technology Lead, 092007 to 11/2012
+American Express (consultant) ~ City, STATE
+«Evaluate and suggest data quality tools such as Experian ~ QAS (Quick Address Search) which ave critical to organizational data,
+‘compliance initiatives (PO BOX Compliance)
++ Architect, design, build & deploy RESTul APIs and Web Service to convert legacy mainframe applications to POA solutions
++ Built Adeess compression routines o effectively truncate customer provided address to USPS data format resulting in saves of
+$800,000
++ Setup Monitoring and Dashboard for analyzing service logs for effective issue resolution and analyzing services availability
+product delivery across safe agile environment
++ Developed log term policies to support business growth though sustainable expansion and enhancement.
+
+Education
+
+Master of Science: Data Science, 05/2020
+Florida International University -Miami, FL
+
+Bachelor of Science Electronics fe Communication, 022007
+Siddaganga Institute of Technology - Tumkur, India
+
+Accomplishments
+
++ Asa succesful Data Science Solutions Manager &ML architect, pioneered the end to end “Machine Learning & Automation”
+Initiative for American Express Compliance domain.
++ Cognitive Automation strategy nominated for “Chairman's Award” at American Express
++ Lead the Amex Data Quality Management effort that is generating $2 MM in revenue and saved §SOOK in annual saves.
++ Championed the “Big Data Migration” efor for AmEx compliance domain and provided “Solution Architecture” for Big Data
+asa Service (BDaas)
++ Reverite Legacy application framework to POA services framevvork using salable RESTAul APIs
++ Piongered application migrations to Enterprise Cloud Platform (a5, SaaS and PaaS)
+« Specializing in iterative development of elegant solutions to provide efficiency and gain and an ability to accept end to end
+‘ovomership ofthe program fom inception through delivery
+Certifications
++ Certified Scrum Master
++ Conta Safe Agilst,
++ Oracle Certified Database Programmer
++ TBM Centfied DataPover developer
++ TBM certified DB2 Adminietrator

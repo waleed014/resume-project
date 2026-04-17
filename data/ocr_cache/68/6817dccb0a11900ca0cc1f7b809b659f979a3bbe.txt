@@ -1,0 +1,110 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 » (555) 432-1000 # resumesample@example.com
+
+Career Overview
+
+SAP FI/CO Business Analyst with more than ten years of professional experience that is both technical and functional with
+outstanding problem solving, analysis and design skills. Diverse industry experience in automotive, banking, healthcare, insurance,
+‘manufacturing and government. Professional expertise includes business analysis, configuration, documentation, process mapping,
+project management, problem resolution, testing and user training .
+
+Qualifications
++ Working functional knowledge in multiple SAP modules. + ABAP and debugging techniques
+including A/R, A/P. G/L, Finance, Assets, Project Systems, _* Microsoft Office Suit, including MS Project, VISIO
+Warehouse Management, Sales and Distribution, Purchasing, + Testing and defect tracking using HP QC
+Logistics, Materials Management and Treasury + SAP documentation tools -Infopak and Uperform
++ Configuration experience in multiple SAP modules + Process mapping and analysis
++ User education and training, + Mainframe analysis and programming
+Technical Skills
+Accomplishments
+Work Experience
+Consultant, 04/2011 to 01/2013
+
+Clifton Larson Allen
+
++ Leamed the client's system and processes related to their Quote and Purchase system to prepare to test the changes they were
+implementing.
+
++ Trained our offshore counterparts to provide 24/7 testing support.
+
++ Created and tested numerous System Integration and Operational Qualification test scripts covering many of the SAP modules.
+including A/R, A/P, Assets, Budgeting, Reporting, G/L, T & E, Month end, Sales Accounting, Project Systems, Purchasing and.
+interfaces.
+
++ Assured test scenarios were properly set up to provide smooth running of the test scripts. This included any configuration
+needed to create the test prerequisites like creating the appropriate master data (customers, vendors, G/L accounts, etc.) and any
+‘transactions (invoices and payment runs) needed to run the scripts.
+
++ Guided, trained and and supported users during testing.
+
++ Analyzed, configured, tested and documented the bank interfaces between the client and Citi and Bank of America using various
+‘payment methods. This included the data seeding, testing and verification of the payment process in the OTC area during user
+acceptance testing.
+
++ Worked on the interface between SAP and CONCUR (expense tracking system) to assure that files were created as expected by
+the receiving system.
+
+Sr Business Analyst, 06/2008 to 03/2011
+Relx Group
+
++ Provided on site support for the Army's 3rd Deployment of SAP at the Detroit Army Arsenal in Warren, MI.
+
++ Analyzed and handled trouble tickets from the client related to the new SAP release.
+
++ Did ad hoc training for the client on SAP finance issues and procedures.
+
++ Created requirements documents for SFIS Compliance for SAP BI Summary Reporting.
+
++ Created and executed multiple SAP test scripts for interfaces.
+
++ Created and executed multiple product data integration and Business Operations Testing scripts.
+
++ Ran the Business Operations Testing command center and resolved script issues.
+
++ Created the change requirements and change design documents for the new SAP budgetary ledger for ECC 6.0.
+
++ Created, executed and verified test scripts covering all modules where a financial posting could occur. The test scripts covered
+
+Acquisition, Assets, Sales and Distribution, Inventory Management/Warehouse Management, Purchasing and Project Systems.
++ Tested and validated the data migration for the new SAP principle of prudence.
++ Created presentation materials and training documents for the Business Development Workshop.
+
+‘Sr Business Analyst, 2005 to 03/2008
+Relx Group
++ Produced system flows (Visios) and workshop materials (PowerPoint Presentations) for the banking and cash management
++ Configured multiple areas to support Treasury on a demo system which was to be used to demonstrate Treasury functionality
++ Coordinated the efforts to track and document existing interfaces.
+‘+ Mapped data from various mainframe systems to SAP.
++ Created business process procedures for the A/R, A/P and G/L areas of SAP.
++ Executed and verified data loads of G/L accounts and balances and corrected any load errors as needed.
++ Analyzed and corrected configuration errors discovered during user acceptance testing,
++ Tested and documented the results from test script execution to verify SOX compliance and made suggestions as to what was
+needed to be compliant.
++ Prepared, updated and executed integration test scripts for the A/R and A/P modules and verified data extracts and reports to
+censure the correct data was being imported into SAP-BW.
++ Developed cutover plans and tracked activities to identify and resolve issues to ensure a successful cutover.
+
+Business Analyst, 04/2000 to 11/2004
+Tempur-Pedic
++ Provided support for the A/R, A/P and G/L modules of SAP release 4.58 which included enterprise-wide configuration IMG
+(implementation guide) support for those modules.
++ Provided the necessary configuration to set up new profit centers, cost centers, vendors, customers and G/L accounts
++ Did the analysis, project management and IMG configuration in support of the conversion from a calendar-based reporting
+system to a 4-455 reporting system,
++ Changed and tested multiple ABAP and Report Writer programs to satisfy user requests
++ Worked extensively with all levels of users in analyzing problems and change requests and suggesting solutions to them.
++ Wrote, tested and supported ACCESS data entry programs for the input of payroll data
++ Documented and charted current processes.
++ Converted the client's payroll system from DOS/VSE to MVS to make it Y2K compliant.
++ Supported the client's existing Legacy systems (A/R, A/P, cost, payroll benefits, and various manufacturing applications) in
+preparation to convert to SAP.
+
+Consultant, 11/95 to 05/00
+Clifton Larson Allen
++ Provided consulting services to Masonite Intemational which included the above listed duties.
+
+Education and Training
+
+BS
+Roosevelt University - Hinois

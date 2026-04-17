@@ -1,0 +1,84 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of
+
+diving increased sales, improving buying experience and elevating company profile with target market.
+
+SKILLS
+
+PROGJessicaMING: Java, R, Python WETLAB: qPCR, RT-PCR, Gel Electrophoresis, Plasmid
+
+DATA ANALYSIS: SAS, SPSS, MATLAB, SQL (MySQL. Preparation/Extraction
+
+PostgreSQL), STATA, SOFT: Public Speaking, Writing, Presentation, Leadership
+
+DATA Visualization: Tableau, Microsoft Power BI, geplot2, plotly + ML: MLR, Logistic Regression, Discriminant Analysis, KNN,
+
+PYTHON LIBRARIES: NumPy, Pandas, Matplotlib, Seaborn, SVM, Random Forest, K Means Clustering, Neural Nets
+
+SciKit-Leam SPECIALTIES: Machine Leaming, Bioinformatics, Clinical Data
+‘Wrangling, Time-Series Modeling/Forecasting, Medical Research
+
+‘Work History
+
+Data Science Intern, 06/2019 - 08/2019
+Amita Health — Colon, MI
+* Objective: Transferred data of patients and forms from over 110 registered sites from Syapse to a new platform in Rave EDC. Developed
+study cohorts and logic tracing differences of drug forms to fit into the infrastructure of the new platform
+* -SAS/SQL: Utilized Macro language and PROC SQL queries to develop a proglessica that parses through Syapse patient and drug data to
+create forms ensuring successful migration into the new data platform
+
+-ML: Developed and conducted logistic regression testing to evaluate factors of re-enrollment of patients in TAPUR cohorts
+
+-ProtocolTeam: Communicated with the Data and Protocol Teams in agile meetings to understand the work-flow of patient and drug forms
+in the Healthcare Industry and eamed a CITI certification
+
+Data Science Intern, 01/2019 - 05/2019
+Amita Health — Columbus, IN
+* Objective: Completed an immersive 10-week proglessica called Node that is centered on Data Science
+© Skills: Utilized Python to develop Web Scraping, Data Visualization, and Munging Techniques-
+* Packages: Worked with Python packages such as NumPy, Pandas, Matplotlib, SciKit-learn, and TensorFlow on Jupyter Notebook
+
+Undergraduate Research Assistant, 05/2018 - 12/2018
+Penn State University — University Park, PA
+* Objective: Worked in the Department of Pathology with a focus on cancer-based projects~
+# Research Skills: Mastered wet lab techniques such as PCR sequencing, gel purification, plasmid extraction, and DNA ligation
+* Technical Skills: Utilized dplyr, tidyverse, and other R packages to filter data and prepare updated Excel sheets with candidates for various
+projects related to chimeric RNA and inter-chromosomal fusions
+
+EDUucaTION
+
+Bachelor of Arts: Statistics & Mathematics , 05/2021
+University of Virginia - Charlottesville, VA
+
+ACCOMPLISHMENTS.
+
++ STAT 3220: Introduction to Regression Analysis EXPERIENCE STAT 4630: Statistical Machine Leaming MATH 3351: Elementary
+Linear Algebra Data Science Intern Alexandria, VA UDEMY(certification on Linkedln): American Society of Clinical Oncology June
+2019 to Present - The Complete SQL Bootcamp - Data Science and Machine Learning Bootcamp R - Objective: Transferred data of
+patients and forms from over 110 registered sites from Syapse to a new platform in Rave EDC
+
+* Developed study cohorts and logic tracing differences of drug forms to fit into the infrastructure of the new platform
+
+* ML: MLR, Logistic Regression, Discriminant TensorFlow on Jupyter Notebook
+
+Analysis, KNN, SVM, Random Forest, K Means Clustering, Neural Nets SPECIALTIES: Machine Learning, Undergraduate Research
+
+Assistant Charlottesville, VA Bioinformatics, Clinical Data Wrangling, Time- UVA School of Medicine May 2018 to Present Series
+
+Modeling/Forecasting, Medical Research - Objective: Worked in the Department of Pathology with a focus on cancer-based projects
+
+* Research Skills: Mastered wet lab techniques such as PCR sequencing, gel purification, plasmid extraction, and DNA ligation
+
++ EXTRACURRICULARS - Technical Skills: Practiced data filtering processes with R packages such as dplyr to prepare Microsoft Excel
+sheets on candidates for various projects related to chimeric RNA and inter-chromosomal fusions
+
+* Writer at https://medium.com/@rav3sa - Data Visualization: Used ggplot2 to visualize and present data generated for over 10 published
+
+AFFILIATIONS:
+
+Member of HackCville reports. - Member of Cryptocurrency Club - Member of UVA Debate - Social Chair of Indian Student Association

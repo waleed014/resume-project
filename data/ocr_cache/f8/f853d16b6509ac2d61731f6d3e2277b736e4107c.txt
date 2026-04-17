@@ -1,0 +1,125 @@
+Jessica CLAIRE
+
+100 Montgomery St. 108 Flor # (555) 432-1000 # resumesamplesexample.com
+
+Websites
+
++ huspsy/wwew linkedin com in Jessica-khac-Claise/
++ hutpsupwwwsesearchgatesetiprofile/Khac Jesica-Claire
++ hetps:/scholar google comvitations?user-qDW2XUAAAATEehIen
+
+Summary
+
+Hardworking and passionate jb seeker with strong organizational skills eage to secure entry-level Malessicane Learning Engineer
+positon. Ready to help team aessicaeve company goals,
+Skills
++ Hard sls: Model order reduction, finite element analysis, - CAD/CAE Solidworks, Abaqus
+america linear algebra, computational mechanics, data - Programming Python, Matlab, C++
+analysis, mafessicane learning, deep learning, data - Libraries: pandas, numpy,sipy, mysql, sqlAlchemy; matplotk,
+visualization, numerical optimization methods, simulation & Bokeh seaborn sklean, Keras,TensorFlow
+modeling, programming, debugging, image classification,
+natural language processing.
++ Soft hills: Excellent communication (speaking & veritng),
+collaboration, problem solving, creative cial thinking,
+active & fast leaenes, perceptivenes, judgement, interpersonal
+stalls
++ Computer sil:
+Work History
+R&D S&E Computer Science, 03/2019 t0 05/2022
+Rutgers University ~ New Brunswick NJ
++ Combine Majessicane Learning with Model Order Reduction techniques to build surrogate models fora fastener within a solid
+mechanics aystem subjected to various load regimes
++ Deploy Model Order Reduction techniques to build surrogate models for uncertainty quantification of nonlinear time-dependent
+heat transfer problems
++ Build Bayesian Neural Networks (BNN) to quantify uncertainties within the networks for given datasets
++ Use real-time data from a HPC (High Performance Computing) system to build a ML model to predictclassify which application
+run on. specific majessicane within clusters
++ Combine Majessicane Learning with spacetime Model Order Reduction techniques to build surrogate models for nonlinear
+time dependent partial differential equations
++ Published 2 top journal papers on these research topics
++ US Department of Energy (DoE) sponsors these research projects.
+
+Postdoctoral Appointee, 01/2016 to 02/2019
+Kansas State University Foundation —Salina, KS
++ Derive, develop and implement Domain Decomposition with Reduced Order Model techniques (DDROM) fo solve nonlinear
+parameterize partial differential equations
++ Investigate, evaluate and compare the performance (accuracy versus computational time) of various DDROM solvers for
+nonlinear parameterized partial differential equations
++ Develop the proposed methodology above for time dependent nonlinear parameterized partial differential equations
++ Perform domain decomposition on both spatial and temporal domains
+«+ Published 1 top journal paper and give 2 conference talks on these research topics
++ US Department of Energy (DoE) sponsors these research projects.
+
+Research Associate, 01/2015 to 01/2016
+Kansas Slate University Foundation ~ Garden City, KS
+‘+ Research, derive and implement Model Order Reduction techniques to solve strongly nonlinear molecular dynamics problems in
+material design
++ Propose, develop and implement anew error estimation for Model Order Reduction of thermo elasticity problems, apply the
+proposed method to solve material design problems
++ Publish 2 top journal papers and give 3 conference/seminar talks on these topics
++ US Naval Air Systems Command (NAVAIR) (STTR Phase Ibace period) sponsors these esearch projects
+
+Research Associate, 07/2012 to 122014
+Cardiff University ~ City, STATE
++ Develop and implement new goal-oriented error estimations for Model Order Reduction of liner elastodynamics problems,
+apply the proposed methodology to solve dental implant problems
++ Develop and implement anew Constitutive Relation Error for linear elasticity problems, apply to solve material design problems
+‘+ Publish 2 journal papers and give 5 conference/seminar talks on these topics
++ European Research Council (ERC grant agreement £279578) sponsors these research projects
+
+Education
+
+PhD. Computational Engineering, 06/2012
+National University of Singapore - Singapore
+«+ Thesis: Reduced basis approximation and inverse analyses for dental implant probleme
++ CPA:3540
++ Full fellowship (tution fee + living cost from National University of Singapore for S-years PRD course
+«+ Research work:
+Build 3 dimensional dental implant models in CAD/CAE software
+Develop and implement inverse analysis techniques to solve inverse problems that identify unknown material properties in the
+sievalation models.
+Develop and implement Model Order Reduction techniques to solve these large simulation models in seal-time
+Publish journal papers and give 3 conference/seminar talks on these topics.
+
+Bachelor of Science: Aeronautical Engineering, 04/2007
+Hofessicaminh University of Technology - Hofessicaminh City
++ GPA: 3.59/40, First Class Honor
+«+ Perform experiments for undergraduate research project “Aerodynamics of flapping wing in insect light”. Duties: setup a beetle
+ina wind tunnel, setup a smoke flow passed through the beetle, use ulra-high-speed camera to capture the aerodynamics flow
+passed through the beetle to investigate the mechanism of flapping wing, Full fellowship fortis research project.
++ Graduate with First Class Honor, receive Silver Medal forthe best students in the University (anked 15/3000 = top 0.5% students
+graduated in the batch. Scholarship forthe best stadent in the Department. Technology is one ofthe best engineering,
+‘universities in Vietnam
+
+Honors, Awards
+
++ 2007-2012: Singapore-MIT Alliance Graduate Research Fellowship, National University of Singapore.
++ 2008: CEA-EDF-INRIA Numerical Analysis Summer School Scholarship, Paris, France.
+
++ 2007: Odon Vallet Scholarship, Vietnam
+
++ 2007: Silver Medal for best students graduated from HoJesicaminh University of Technology batch 2002-2007, Vietnam,
++ 2004-2007; Hofessicaminh University of Technology Scholarship forbes students in the Department.
+
+Accomplishments
+
++ 2018 Data Scientist with Python, certificate number #35100 from datacamp.com
++ Data science project Reboot Box: Plots fr Education, a data scence competition organized on https: eww devendata.org/
+competitions /46foox-plotsfor-education-reboot/
+
+Journal Referees
+
++ Journal referee Advanced Modeling and Simulation in Engineering Sciences (AMSES)
+«+ Asia Pacific Journal on Computational Engineering (APJCE)
+
++ Computers and Mathematics with Applications (CMA)
+
++ Computer Methods in Applied Mechanics and Engineering (CMAME)
+
++ Intemational Journal of Computer Assisted Radiology and Surgery (CARS)
+
++ Intemational Journal for Numerical Methods in Biomedical Engineering (JNMBE)
+
++ Journal of Computational Surgery (COS)
+
++ Mathematical Problems in Engineering (MPE)

@@ -1,0 +1,215 @@
+Jessica CLAIRE
+
+100 Montgomery 18 Foe # (5) 4521000 # esumeanplesermptecon
+
+Professional Summary
+
+Positioned to apply leading technology to addres ral busines problems and collaborate globally to delve high quality, robust and
+sealable software systems we leaning and growing as an individual, Over 6» years experience as DevOps/Cloud Engineer
+supporting ore Tinvastactare
+
+Skills
+
++ strong experience in DevOpe Automation with configuration
+tools uch as Puppet, Ansible, and Chet
+
++ Containerization with Docker, Docker swarm Kubecnates
+
++ Continuous Integration and Continuous deployment with
+Jenkins, Teraform, GitHub Citta,
+
++ Source Control Management tals for versioning incude as GIT
+snd SVN,
+
++ Proficiency with Azure / AWS / GCP bare metal infastructure
+management optimisation production support and
+teoublechooting
+
++ Advanced Linux administration sills
+
++ Scripting using Python Ped of Bash
+
++ Experience configuring monitoring and alerting systems
+
+Work History
+
+DevOps Engineer 0320160 Curent
+Relx Group ~Forand, OR
+
++ Develop and manage CUCD proces for diferent types of application and automate as many processes as possible
+
++ Manage and support customer envionment in Microsoft Azure cloud
+
++ Consult customers on technical aspects of installation sizing saing
+
++ Support development eam in technical question of continous integration continous delivery, delivery organizations
++ Manage the fal release process
+
++ strong experienc in configusing.aintsining, and toubleshoting Microsoft based production eyteme
+
++ Micosoft Azure Cloud:
+
+(ARM templates writing stup automaton fr sesources provisioning (Azure PowerShell
+
+0 Azure services (Azure App Service, Azure SQL, Azure Service Fabric, Azur Storage Account
+
+0 Understanding of load balancers, DNS, viral networks and
+
+fell loud envionment
+
+Setup monitoring (peformance metrics, OMS)
+
++ Anute Active Directory bases:
+
+© Anute AD authentication
+
+Uses and groups
+
+Roles
+
+* CUCD for NET projects experience Manage, develop build CUCD pipeline including
+
+o.Chockcode quay
+
+0 Unit integration and functional test implementation
+
+Powershell scripting for custom tasks automation
+
+0 Enzonments tategy understanding
+
++ Customer rented, digent proactive, focused on ahiering customer busines objectives as top prtonty
+
++ Ableto work scceafally both individually and a team member
+
++ Easygoing fiend communicative positive in lations with colleagues in every situation stives to see opportunities rather
+than problems
+
+AZURE DEVOFS ENGINEER, 0720131005206
+‘Avanade~ Chote NC
+
++ Maiti Gi worlows for Version conto Source Code Management)
+
++ Developed and maintained automated CUCD pipeline for code deployment using Jkins
+
++ Proishned servers and deployed features sing puppet Anae
+
++ Buitand deployed Docker containers orimplementngmicosuvces Architecture fom monelihc ardtectue
+
++ Orcheseated docks container cluster wing huberntexDoske sae
+
++ Keowlege of Lins and xing languages (prton by nd Bash)
+
++ Proficient with various deeopmant eng and deployment ol (Git kine, Docker Kuberetes Puppet cht Anibl,
+
+Nagion
+
+(CLOUD ENGINEER, 022012 90572015,
+Merck & Coy Ine — Belgrade, MT
+
++ Dud coud ative applications using cloud resources and deploy to Azure Web Apps on Windows, Linx and Containers
+
++ Worked with Logic Apps, APIM, Azure Graph APL Azure Active Dicectory, WWD and other services to create unique solutions
+forctients
+
++ Evaluate Ansible framework and tots to automate the Cloud deployment and operations
+
++ implemented a production ready, loud balanced, highly avallabe, fault tolerant Kubemetesinastrucure
+
++ Created a pevate oud using Kubemetes that supports DEV, TEST, and PROD environments
+
++ Managed deployment automation using Teraform fo system operations
+
++ nwegrat CI pipeline with configuration management tools for continuous deployment
+
++ Built anew CI piping
+
++ Testing and deployment automation with Dock, Jens
+
+> Seppecting scttrane developmen data nimagerent projet that prepare lage datasets for daivery toa shave coud
+‘computing and storage envionment
+
++ Provide strategies and requirements for the seamless migration of apliations, web services, and data from foal and sever
+‘bse system to Azure cloud
+
++ The complete inatalltion and horting of cloud were automated with Azure cloud formation template and Ansible
+
++ Version contol through GIT
+
+> Wing sew pagina in Nagin to onitr reared
+
++ Working in an inplementation tam to build and engineer servers on Ubunts, Window's and CentOS
+
++ Troubleshoot aplication deployments deployed on diferent oud olen: ecreate customer ses, bald proof of concept
+applications focused on improvements to build and deployment ool
+
++ Developed bid cloud delivery model allowing for customers to chose the mix of pubic and private clouds
+
++ aC experience with Teraform and ARM templates Hen deployments and ability to work with YAML es fr coniguration
+
++ Experience of working on Azutjon-premises AD, authentication and authorization.
+
+LINUX ADMINISTRATOR, 0272011 19012012
+‘General Dynamic Colorado Springs, CO
+
++ talon configuration of RHEL 1/56 wsng kickstart Server and Windows 5
+
++ Creation Installation an administration of Red Hat Veta machines in VMeare
+
++ Designed Systm Requizements, Storage requirements, Configuration Management(Change cont/Reeace management
+
++ User adeiistaton e quota management
+
++ Lg ile was managed for troubleshooting and resolving esors
+
++ rslaton of patches and other software packages
+
++ Wrote Shel scrips for automation of obs, system monitoring and ero eporting
+
++ Performed the adainistration ofthe Domain Name Server and configuration ofthe Database Fes
+
++ Wrote bash sl septs for geting information about vious Linux servers
+
++ ral and Configured Send mail Uity on UNDX Servers
+
++ Modified scrips wing sh ksh and bash for day-to-day administration
+
++ Packages nd integrating servers to Active Dietary, ee
+
++ Maintain puppet envconment for automation across multiple servers
+
++ Worked on sting up Veritas dasteing
+
++ Worked with Oracle DBA’s for restore of Oracle Instance and Building Oracle RAC Custer
+
++ Worked on esting Vial machines using Vat software
+
++ Performed hardware, operating system, secant and application updates/patcheson these ystems aswell ab operating system
+
+dasdening based in industry standaeds
+
+«+ Experienced working on Datacenter Migration Projects
+
++ Worked with Enterprise Security Manager to get Security cetiction for servers beloce moving them in to production
+
++ Responsible for Failove/PreFailbackFaback and verication ofthe samen cas of outage in the high envionment sing VES
+
+(estas Chster Sever)
+
++ Working very lat with vendors (BM/HP/SurVEMC) in sessing any hardware Storage and Networkssues
+
++ Monitoring the system performance and doing the Kemal tuning to enhance the system performance
+
++ Troubleshooting Production Server Problems elated to web applications, Sendmail disk space, este, DNS and network
+
++ Experience with patching both mansally and automated
+
++ Provided 247 on-call support ona weehy basis,
+
+Education
+
+Bachelor of Science: Computer Engineering 0572010
+Univesity of Lagos- Lagos
+
+Certifications
+
+Azure Cerifed Slaton Architect,

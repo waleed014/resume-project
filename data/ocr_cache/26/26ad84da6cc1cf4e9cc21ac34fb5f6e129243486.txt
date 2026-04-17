@@ -1,0 +1,63 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Software Developer skilled at technical leadership, communication and presentations. Experienced in full project life cycle from design to
+
+implementation to integration
+
+SKILLS
+« PHPS « AWS
++ MySQL * Chef
+API development * Jenkins
+* Magento * SparkleFormation
+* MVC framework development using Symfony and Laravel # Rundeck
+Work History
+
+DevOps Engineer, 06/2016 - Current
+Computer Services, Inc. — Oklahoma City, OK
+‘* Working on solutions to move to an automated infrastructure using Chef, Jenkins and AWS.
+* Setting up environments on AWS using Rundeck, SparkleFormation and Chef policy files. Wrote chef cookbooks for PHP, Java and
+NodelS Applications
+* Setting up complex environments which include Load Balancers, Application Servers and DB servers using Chef and AWS.Using AWS
+security groups and iptables to keep the environments secure
++ Familiar with AWS services like EC2, ELB, $3, VPC, EBS, IAM ete Using knife and test kitchen to test cookbooks locally before
+deploying to AWS environments
+* Code reviews through github's PR feature.
+* Using Chef Repo to manage roles, environments and data bags.
+* Writng integration tests for chef recipes using serverspec.
+
+* Part of a team which planned and executed migration from a traditional data center to AWS cloud
+
+Lead Developer, 02/2016 - 06/2016
+Cambridge Associates Llc — New York, NY
+« Full stack development of the internal product system using Laravel
+* Worked with the team to add features to the existing system and migrated data and features from an old system to the new system.
+
+PHP Software Engineer, 07/2015 - 02/2016
+
+Shapeways — New York, NY
+
++ Responsible for scoping and developing client website using the enterprise version of Magento E-commerce platform.
+* Designed, built, tested and implemented stand-alone modules for Magento, including payment and promotion modules.
+* Customized Magento's inherent features based on client needs.
+
++ Built an internal product API using Silex and Mongo DB on the backend.
+
+Senior PHP Developer, 05/2010 - 07/2015
+Feedonomics — Phoenix, AZ
+* Developed the price tracking REST API using Symfony and Doctrine.
+The API used MySQL as the data storage.
+Created and maintained the backend tasks for the API which included various jobs for price calculation and feed processing.
+Developed on the internal SAAS platform built using LAMP stack.
+
+Developed client implementations.
+
+Developed code for SSO integrations using SAML.
+
+EDUucaTION
+
+Master of Science: Electrical Engineering, 2009
+University of North Texas - Denton, TX

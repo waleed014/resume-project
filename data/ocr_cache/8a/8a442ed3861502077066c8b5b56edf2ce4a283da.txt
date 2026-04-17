@@ -1,0 +1,119 @@
+JESSICA
+CLAIRE
+
+®3resumesample@example.com
+
+& (555) 432-1000
+
+g 100 Montgomery St.
+10th Floor
+EDUCATION
+
+University Of California - San
+
+Diego
+
+La Jolla, CA + 06/2022
+
+Bachelor of Science: Data
+
+Science
+
+Major GPA: 3.4
+
++ Coursework in Advanced
+Data Structures and
+Algorithms, Object
+Oriented Design, Digital and
+Analog Circuit Design,
+Supervised/ Unsupervised
+Machine Learning, Data
+Mining, Database
+Management, Data
+Visualization, Data Analysis
+and Modelling
+
+SKILLS
+
++ Java , Python, R, SQL,
+C/C++, Verilog, Swift,
+Matlab , Bash , Assembly
+
++ AutoCad , Revit ,
+Solidworks, Tableau ,
+Tensorflow , Git , Vim,
+React, Parse , MongoDB ,
+Pandas
+
+CERTIFICATIONS
+
+-Coursera Deep Learning Al
+Certificate
+
+-Codepath iOS BootCamp
+-JP Morgan Software
+Engineering Certificate
+
+PROFESSIONAL SUMMARY
+
+Driven Data Scientist ready to thrive in demanding digital intelligence processing
+environments. Well-informed on latest machine learning advancements. Ready to
+combine tireless hunger for new skills with desire to exploit cutting-edge data science
+technology!
+
+WORK HISTORY
+
+Amita Health - Data Science Intern
+Greenfield, WI + 07/2020 - 12/2020
+
++ Skills Learned: BeautifulSoup, Tensorflow, Keras, Pandas, Numpy, Rest APIs, Git,
+statistical modelling tools, Data Visualization techniques
+
++ Served as team lead for "TEAM GEO" by managing checkpoints on JIRA
+
++ Performed intensive wrangling for large-scale databases using Python and SQL to
+create effective datasets for projects.
+
++ Successfully developed 70 models using Random Forests, Logistic Regression and Neural
+Networks for the Movie Genome Project.
+
++ Implemented Gradient Boosting/Tuning algorithms to increase accuracies from 65% to
+oe.
+
++ Visualized and presented the best models to the C-Suite using Tableau dashboards and
+effective data storytelling.
+
++ Created daily reports of work on Confluence and authored 4 official technical reports
+for company use.
+
+Codepath - Tech Fellow
+City, STATE + 01/2020 - Current
+
++ Skills Learned: Swift, XCode, Parse/MongoDB, REST APIs, Webkit, Mapkit.
+
++ Teaching complex topics in iOS Development such as APIs, MVC Architecture, Database
+in Parse/MongoDB, WebKit, MapKit, and AVFoundation.
+
++ Design, develop and present class material to 45+ committed students on a weekly
+basis during the 10 week course.
+
+TheCoderSchool - Code Coach
+City, STATE + 03/2021 - Current
+
++ Skills Learned: Swift, Python, SQL, Java, C,C++, Scratch.
+
++ Teaching hands on project based coding classes for kids from ages 8-18.
+
++ Developing a bespoke lesson plan and teaching style to match each student’s learning
+capabilities
+
+Triton Engineering Council - Sponsorship Team Lead
+City, STATE + 01/2019 - 06/2019
+
++ Skills Learned: Office Suite-Excel Data Manipulation, Powerpoint, Formal
+Communication skills.
+
++ [had the responsibility of emailing/responding to company recruiters, sitting in phone
+calls with company representatives, updating existing documentation, and searching
+for additional sponsorship opportunities for UCSD's largest tech events such as SD
+Hacks, Decaf, and HackXX!

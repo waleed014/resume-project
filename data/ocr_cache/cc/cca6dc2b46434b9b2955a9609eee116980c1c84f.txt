@@ -1,0 +1,226 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
++ Programming Languages:
+G#, .Net, Python
+
++ Source and Version Control:
+Github
+
++ Code and Quality Standards
+
++ Amazon Web Services
+
++ Software Testing and Validation
+
++ Continuous integration Systems
+
++ Eagerness to Learn New
+Technologies
+
++ Strong Interpersonal and
+‘Communication Skills
+
++ RDMS Development and SQL
+
++ Databases: Oracle, MongoDB
+
++ Data Storage and Retrieval
+
++ Teamwork and Collaboration
+
++ Project Management
+
++ API Design and Development
+
++ Linux Environments
+
++ Cost Assessment
+
++ CRM Software
+
++ Web Programming
+
++ Scripting Languages: PHP,
+Python, Javascript
+
++ Performance Analytics
+
++ Debugging and Troubleshooting
+
++ Compatibility Testing
+
++ Design Patterns and Principles
+
++ Integrated Development
+Environment
+
+EDUCATION
+
+University of Houston
+Houston, TX + 05/2012
+
+Bachelor Of Science: Electrical
+Power Engineering Technology
+
+AMERICAN INTERCONTINENTAL
+UNIVERSITY
+Houston, TX + 03/2012
+
+‘Master Of Business
+Administration: Specialization in
+Project Management
+
+CERTIFICATIONS
+
++ AWS Solution Architect
+
++ Microsoft azure Architect
+Technologies
+
++ DevOps | | Platform Engineer
+I|| Cloud Engineer
+
+PROFESSIONAL SUMMARY
+
+Critical thinking DevOps Engineer with extensive understanding of high availability architecture and
+concepts. Purpose-driven professional with capacity to be strong team player plus work effectively
+independently.
+
+Reliable employee seeking Job Title position. Offering excellent communication and good judgment.
+
+WORK HISTORY
+
+Lockheed Martin - DevOps Engineer
+Dallas, TX + 02/2021 - Current
+
++ Monitored automated build and continuous software integration process to drive build/release
+failure resolution.
+
++ Wrote and updated documentation to outline technical design of entire project.
+
++ Researched and identified new technologies and tools helping to grow agile development
+environment.
+
++ Worked with software development and testing tearm members to design and develop robust
+solutions to meet client requirements for functionality, scalability and performance.
+
++ Building Complex Automated CI/CD pipelines using multiple interconnected tools.
+
++ Proposed and implemented the migration from monolithic architecture to microservices.
+
++ [have configured continuous monitoring using NewRelic, Prometheus and Grafana
+
++ Data Analytics and log management using EFK (Elasticsearch Filebeats and kibana)
+
++ Ihave installed and configured web/application Servers (JBoss/Wildfly, Nginx, apache, Tomcat)
+
++ Ihave configured, installed, resized and deployed Elastic Computers in AWS and Google cloud.
+
++ Strong experience in enhancing security configuration in Linux, Windows, Docker and Kubernetes.
+
++ Using Docker for containerization with Docker Swarm and Kubernetes for container orchestration.
+
++ Ihave configured hybrid cloud networks and transit gateways.
+
++ Building and configuring Kubernetes Clusters ensuring that nodes/ pods can auto scale and load
+balance.
+
++ Automating infrastructure provisioning and configuration using Terraform and Ansible with
+Dynamic inventory.
+
++ Experienced in using terraform, AWS SDK, AWS CLI/UI, kops and ansible to provision and configure
+
++ infrastructures in AWS Cloud including; VPC, RouteS3, Private and Public subnets, route tables,
+Iw,
+
++ ECZ Instances, IAM, ELB, Autoscaling, CloudWatch, EFS, NFS, EBS, $3, Databases, Lambda security
+
++ groups, NACLS, among others.
+
++ DBMS (MySQL, PostgreSQL, SQL, MongoD8).
+
+++ Build Release Engineering and configuration management which includes environment setup,
+build
+
++ automation, continuous integration, Scripting and deployments.
+
++ Good exposure to all phases of the Software Development Life Cycle ( SDLC ).
+
++ Writing, modifying and maintaining; ansible playbooks, and automation scripts.
+
++ Participate in recruitment, onboarding and training of new recruits.
+
++ Recommendation or introduce new technology, attend training or job-related seminars
+
+i-Vi Incorporated - Research & Development
+Port Richey, FL + 04/2014 - Current
+
++ Worked both independently and collaboratively in fast-paced laboratory environment.
+
++ Performed statistical, qualitative and quantitative analysis.
+
++ Attended seminars and symposiums to improve overall knowledge and understanding.
+
++ Gathered, arranged and corrected research data to create representative graphs and charts
+highlighting results for presentations.
+
++ Conducted visual mechanical inspection (VAl) on motors, mount and align to a dynamometer for
+
++ complete prototype testing which includes, lock rotor amps and torque test, performance load
+point, no
+
++ load saturation curve, stabilization heat run (1.00/1.15) etc.
+
++ Conducted tests, analyzed test data, and wrote test reports to record operating performance and
+provide
+
++ data to support product compliance with customer or internal specifications and
+
++ applicable third party
+
++ standards.
+
++ Working knowledge of AC and DC drives, operators interface terminals, etc.
+
++ Troubleshooted faults, breakdowns using Equipment: blueprints, manuals, manufacturer
+specifications,
+
++ and machine diagnosis...
+
++ Reviewed work orders and prioritized them for timely completion
+
++ Assisted in training other technicians in proper lab practice, organized their activities and
+provided support
+
++ to other company functions
+
+PERIPHERAL COMPUTER SUPPORT, INC &COMPUTER TECHNO - Failure Analysis Technician
+City, STATE » 04/2020 - 01/2021
+
++ Modified, maintained or repaired electronics equipment or systems to achieve proper functioning.
+
++ Responded to problems with processing and production equipment and completed timely repairs.
+
++ Inspected systems, diagnosed problems and developed optimal solutions.
+
++ Assembled electrical systems or prototypes using hand tools or measuring instruments.
+
++ Used information in technical diagrams, schematics and manuals to understand operations and
+make successful repairs.
+
++ Applied diagnostics and testing tools to systems, quickly identifying issues and implementing
+completing resolutions.
+
++ Maintained system logs or manuals to document testing or operation of equipment.
+
++ Performed regular maintenance and testing to service and optimize complex computer systems,
+applications and environments.

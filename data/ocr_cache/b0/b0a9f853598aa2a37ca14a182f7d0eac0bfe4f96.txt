@@ -1,0 +1,151 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10 Floor # (655) 42-1000 « resumesample@example.com,
+
+Professional Summary
+
+[A Value driven AWS/DevOps Engineer with over 6 years overall experience in TT and 4 years in AWS Cloud environments with
+proficiency in cloud orchestration, network, data protection, security, monitoring and event management, application delivery,
+govemance, and compliance in AWS cloud environments, Valuable in the review of proposals, making effective choices, and
+contributing to the entire development lifecycle, Excellent communication, planning, and decision-making skills
+
+Skills
+
++ Cloud Orchestraton/Automation: AWS Cloud Formation,
+AWS Lambda, AWS Systems
+“Manages, EC2, ELB, RDS, SNS, $Q5, SES Routes,
+(CloudFront, Service Catalog, AWS Auto Sealing, Trusted
+Advisor, loudWatch, ete
++ Network: VPC, TOW, NGW, AWS WAF, IGW, et:
+‘+ AWS Security: AWS Security Hub, AWS Shield, AWS
+Firewall (Security groups and NACLs) KMS Manager, AWS
+Inspector, AWS WAF, AWS Security Guardrail tc,
++ Cloud Security Visibility and Compliance: Checkpoint
+Domes, AWS Guard Duty, VPC Flow logs.
++ CUCD Pipeline: Kubernetes, DOCKER, GITHUB, Python,
+code Build, TERRAFORM, ANSIBLE, JENKINS.
++ Governance &e Compliance: AWS Cong Rules, AWS
+‘Organization, AWS Control Tower, AWSTausted Advisor,
+‘Identity & Access Management (IAM): AWS Organization,
+Active Disectory,
+AWS Workspaces, AWS Secrets Manager, etc
++ Database administration: RDS (Postgres, MySQL, Orade,
+Microsoft SOL Server, Data warehouse
++ Agile: Scrum Kanban, Backlog Refinement, Sprint
+Planning!
+Planning, Capacity Planning, Release lanning, Estimation
+‘Techniques, Risk Mitigation, Good Knowledge of SDLC,
+Scaled Agile Framework (SAFE).
+
+Work History
+
+DevOps Engineer, 01/2021 to Current
+BighearAi~ Huntsville AL
+
++ Implemented Security best practices in AWS, including multifactor authentication, acess key rotation role-based permissions
+enforced strong password policy and configuration.
+
++ Developed C1/CD Pipelines to standardize the infrastructure and automate DevOps processes, allowing customers to rapidly build,
+test and selease code while minimizing error
+
++ Implemented containers on AWS using ECS and complementary services, including Amazon Elastic Container Registry (ECR).
+
++ Built serverless architecture with Lambda integrated with SNS, Cloud Watch logs, and Amazon Glue,
+
++ Developed Baseline VPC and Network design including leveraging VPN Connectivity and Direct Connect.
+
++ Architeced Serverless Solutions using AWS Lambda and Amazon API gateway in event-driven pattems to power scalable and,
+secure servertes applications
+
++ Wrote Docker files, built images, and deployed Docker containers to break up monolithic applications into microservices to
+improve developer workflow, increased scalability, and optimize speed.
+
++ Defined methods for failure management, performance testing, and application auditing, within our serverless architecture, that
+uses managed services that are appropriate for our expected data flow and sealing requicements
+
++ Implemented AWS Systems manager Service capabilities to automatically collect software inventory, apply OS Patches, and
+automate administrators tasks and complex workflows across our environments.
+
++ Aschitected Dev/UUAT Prod environments by configuring VPCs, subnets, security groups, EC2 instances, load balancers, RDS, and
+Routess,
+
+‘Implemented and managed Ansible Tower,
+
+‘Implemented the setup for master and slave architecture to improve the performance of Jenkins.
+
++ Architected, built, and maintained cost-efficient, scalable cloud environment fr the organization
+
++ Migrated on-premises workflow into cloud infrastructure,
+
++ Designed and implemented highly available, salable and secure AWS infrastructure using LAAC tools such as Cloud Formation
+and Terraform,
+
+DevOps Engineer 022019 901/021
+Bigheas Ai Virginia Beach VA
+
+* Created and maintained flly automated CUD pipelines for code deployment using Jenkins for Cand Ansibefor Deployment
++ Acavely managed, improved, and monitored doud infrastructure on AWS, EC2, 53, and RDS including backups, patches and
+sealing.
+
++ Built and deployed Docker containers to break up monolithic applications into micocervices, improved developer worklow,
+increased scalability, and optimized speed
+
++ Architect build and maintain cost fice scalable cloud environment forthe organization
+
++ Architected Dev/UAT/Prod environments by configuring VPCs, subnets, security groups, EC2 instances, load Balancers, RDS,
+Routes3, ee
+
++ Designed and implemented hight avaiable, scalable, and secure AWS Inrastrctares using LAAC tools such as Terafora Cloud
+Formation
+
++ Use AWS direct connect to connect ent on-premises to AWS datacenter.
+
++ Wrote custom Lambda functions to enable automation in the environment.
+
++ lnplemented Security best pracins in AWS, ncuding multfactor authentication, accesskey rotation role-based permissions,
+‘enforced strong password policy and configuration.
+
++ Migrating on-premises based workloads into Cloud infastactare
+
+‘Scrum Master, 03/2016 to 12/2019
+Faturais Tech ~ City, State
+
++ Organized and faiitated all serum ceremonies and release planning, including daily serums, sprint planning, sprint reviews,
+backlog grooming, and sprint retrospectives
+
++ Mentored teams, sharing skills and expertise, and encouraged each member to bring forward ideas and suggestions for
+improvement
+
++ Coached scrum teams in agile best practices such as continuous integration, project transparency, code eview, ia ticket tracking,
+product visioning, sel organization, and pair programming.
+
++ Served asa scrum master to 3 enginecring teams (20+ people), helping build team consensus team discussions, promoting process
+improvements, and resolving impediments/ conflicts when needed.
+
++ Assisted development teams and Business Analyst to refine product functionality, communicating project progress risks, and
+iseues to product owners and stakeholders as needed.
+
+* Collaborated with product owners and team members to ensure product backlogs were consistently ordered and refined to
+achieve business needs.
+
+* Mentored teams, leading them tobe self-organized with strong decision-making, accountability, and conflict resolution traits.
+
++ Helped teams in estimating user stories to fit within capacity, keeping them focus during sprint planning ensuring team members
+“understand sprint priorities, and sprint goals and never over-commit to work,
+
++ Consistently reminded teams daily about updating JIRA tasks for more accurate seporting and analysis of project burndown charts.
++ Motivate teams to work towards continuous improvement and delivering shippable products that deliver business value in every
+sprint.
+
+Education
+
+MBA: Business Administration, 01/2019.
+Cyprus International University - Nicosia, Cypeus
+
+Bachelor of Aes: Economics, 12/2009
+University of Buea - South West Region,
+Certifications
+
+Certified Microsoft Office Specialist - Access 2016 (MOS) 07/2019
+(Oracle Certified Associate -OCA - 08/2021
+Certified Professional Scrum Master -06/2022

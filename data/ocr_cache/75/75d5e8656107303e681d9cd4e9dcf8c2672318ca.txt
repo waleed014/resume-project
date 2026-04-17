@@ -1,0 +1,221 @@
+JESSICA
+CLAIRE
+
+@ resumesample@example.com
+
+& (555) 432-1000
+
+9
+
+4100 Montgomery St. 10th
+Floor
+
+SKILLS.
+
+Programming Languages: Java,
+, Python
+
+Databases: Oracle, MySQL
+Continuous integration
+Systems: Jenkins
+
+Build Tools/Devops: ANT,
+‘Maven, Jenkins, Docker
+
+Cloud Computing: AWS (EC2,
+ELB, $3), Cloud Foundry, AWS
+KS, AWS data lake, bucketing,
+Lambda and Athena, Redshift
+‘Monitoring: Splunk, DataDog,
+
+EDUCATION
+Christian Brothers University
+‘Memphis, TN + 05/2017
+‘Master of Science: Engineering
+Management
+
+JNTU
+
+Hyderabad + 05/2012
+
+Bachelor of Science: Civil
+Engineering
+
+CERTIFICATIONS
+
+AWS solution architect associate:
+
+PROFESSIONAL SUMMARY
+
+DevOps Engineer with background designing, testing and implementing infrastructure and
+applications. Talented performer with over 5 years of experience using source control tools to identify
+and fix bugs in code. Consistent team player with exemplary multitasking skils. Certified AWS,
+Solutions Architect. Proficient in Jenkins, terraform, docker.
+
+WORK HISTORY
+
+Saic - Devops Engineer
+
+South Bend, IN » 11/2020 - 12/2021
+
++ Design roles and groups using AWS identity and access management (IA), and manage network
+using Security Groups, Network Access Control Lists with services provided by IAM.
+
++ Manage all aspects of end-to-end Bull Release Deployment process for mult-Project.
+
++ Used AWS services such as EC2, ELB, Auto-Scaling, $3, IM, VPC, ROS, DynamoD8, CloudTral,
+CloudWatch, Lambda, SNS, $QS, CloudFormation, CloudFront, Beanstalk, EMR, AWS Workspaces,
+{AWS Lake Formation, AWS Glue, AWS data exchange.
+
+Document system configurations, Instances, Operating Systems, and AM buld practices, backup
+procedures, troubleshooting guides, and safe keep infrastructure and architecture updated with
+appending.
+
++ Configuring and implemented Openstack SDN infrastructure to enable massive dynamic scaling of
+compute and storage resources.
+
+Creating alarms in Cloud watch service for monitoring servers’ performance, CPU Utilization, disk
+usage ete
+
++ Provisioned highly available EC2 instances using Terraform and cloud formation and wrote new
+plugins to support new functionality in Terraform.
+
++ Worked in 1AAS environment called Terraform, to manage application infrastructures such as
+storage and networking.
+
++ Used Bash and Python included 8oto3 to supplement automation provided by Ansible and
+Terraform for tasks such as encrypting EBS volumes backing AMls and scheduling Lambda functions
+for routine AWS tasks.
+
++ Manage and operate Big Data environment and Web applications.
+
++ implemented Hadoop clusters on processing Big Data pipelines using Amazon EMR and Cloudera
+‘whereas it depended on apache Spark for fast processing and for integration of API.
+
++ Configured Elastic Load Balancers with EC2 Auto scaling groups.
+
+< Work with my team to provide user stories and use cases of various modules of Openstack data
+center deployments.
+
++ Kafka messaging systems has been used for large scale message processing applications. Katka
+with apache Storm used to handle data pipeline for high-speed filtering and pattern matching
+
++ Used Katka Producer and Consumer API to push and read messages from topics.
+
+‘implementing a Continuous Delivery framework using Jenkins in Windows & Linux environment.
+
++ Developed build and deployment scripts using ANT/Maven as build tools and Jenkins as automation
+tool to move from one environment to other environments.
+
++ Built and Deployed Java/J2EE to a web application server in Agile continuous integration
+environment and aiso automated whole process.
+
++ Used Kubernetes for creating new Projects, Services for load balancing and adding them to Routes
+by accessing from outside, created Pods through new application and controling, scaling and
+troubleshooting pods through SSH.
+
++ Used Jenkins for continuous integration and Jenkins Master Slave Architecture to run Jenkins bull
+in remote RHEL servers. integrated Apache Kafka for data ingestion.
+
++ Integrating SonarQube in CI Pipeline for Coverage reports and Sonar Metrics.
+
++ Responsible for configuring apps to Openshift v3 and containerzation of apps using Docker.
+
++ Configured Splunk add-on including D8 Connect, Active Directory LDAP for work with directory and
+SQl. database and configured DataDog for monitoring servers.
+
+Installed and configured Nexus for artifacts repository. Published snapshot and release versioned
+artifacts into frog Artifactory.
+
++ Performed configurations from Apache tomcat and web logic to Jenkins.
+
++ Used Amazon Redshift SQL. based queries for managing database.
+
+30s Dassault Systems - QA Automation Engineer
+Johnston, RI + 08/2017 - 1112020
++ Determine test objectives and standards by studying Software requirements and writing test
+plans, test cases and test scripts.
++ Performed agile testing, review stories and participated in Daily Scrum, Iteration Planning and
+Release Planning meeting.
+Lead sub-teams, assigned project work to testers, provided input to Test Plan, point of escalation,
+‘SME within function or application, and provided status reports as needed.
++ Implemented automation framework for Smoke Test to determine that crucial functions of
+application work and implemented Regression Tests to make sure that existing functionality is not
+broken.
++ Performed Functional testing as per user stories and performed Integration Testing, System Testing
+using manual efforts.
+Participated in Review meetings, Retrospective meetings, and daily scrum meetings
++ Performed regression and integrated testing before and after every release using ALM tool and is.
+Used to save and update regression scripts and perform them for each release manually
++ Developed Java automation framework/scripts using Selenium WebDriver, TestNG and resolved
+{issues identified in automation.
+= Developed Selenium scripts to find, verify, select, edit and perform various operations on web
+elements. Used Select class to perform operations on dropdown list.
+= Developed scripts to navigate-to various iframes and to handle multiple windows and performed
+operations on web elements.
++ Identify software capability and reliability by conducting functional, system and performance tests.
+Handled multiple windows, Alerts and Pop-ups with Selenium WebDriver.
++ Implemented waits such as Implicit, Explicit Wait to achieve Synchronization between application
+and test scripts.
+“Took application Screenshots and copied images whenever exceptions occurred and at important
+checkpoints of application execution.
+Used FireBug, FirePath to debug, edit and locate objects based on ID, Name, XPath, Css Selector,
+Link, Partial Link, Attributes and Tags.
++ Configured Test Cases to receive input Test Data Sets for corresponding test cases using TestNG
+@DataProvider Annotation.
+« Performed BDD (Behavior Driven Development) with Data Driven Test Automation Framework using
+Cucumber Features, Scenarios and Step Definitions in Gherkins format.
++ Developed and Implemented Test Scripts using Ci Microsoft Visual Studio and Analyzed Test
+Results.
+Configured Jenkins build job for continuous integration and for Regression Testing.
++ Expertise in Project Management tools like Jira to prioritize, classify bugs and tracked defects.
+Scripted Test cases and managed framework dependency jars using Maver
++ Stored flow details of Selenium Automation in a log file using Logj..
+«Performed API testing of Soap and Restful Web Services using SOAPUI Tool. Used Assertions to
+verify response.
++ Performed Database Testing using SQL. Queries with multiple Databases Oracle, SQL Server, and
+‘MysQu.
++ Maintained code version using GIT and Bitbucket.
+
++ Tested Android mobile Applications using Appium with Selenium WebDriver.
++ Coordinated with offshore team and guided them with application functionality and technically when
+faced with issues.
+
+Isn Software Corp. - QA Tester
+Dallas, TX » 03/2014 - 04/2015
+
+“+ Understanding Functional Requirement Specifications and System Requirement
++ Specifications preparation of Test Scenarios, Test Cases and Test Data.
+
++ Provide review comments on Test Scenarios and Test Case.
+
+Created Test Plan Document based on Test Strategy Document.
+
+Execution of Test Cases and Test Scripts.
+
+Preparation of Requirement Traceability Matrix, Test Metrics.
+
+Performed system testing to ensure validity of requirements.
+
+Using QTP Delay performed QP synchronization.
+
+Performed User Acceptance and Regression Testing with UAT test scenarios.
+
+Find and report defects and subsequently validating fix, repeating process until done.
+Involved in Build deployment activities.
+
+Expertise in using Quality center (QC) for creating and executing Test Cases.
+
+Evaluated and suggested improvements to software development process.
+
++ Coordinate efforts betvieen development teams and offshore enterprise test team.
+
++ Monitoring Testing Activities within team and reporting regular progress to Test Manager.
++ Implemented required testing approaches to accommodate tight schedules and resource
+constraints including applying risk-based analysis to determine test coverage.
+
+Attended Project Domain and internal Project Functionality Training Session.
+
+Worked closely with software engineers to ensure successful, high quality releases.
+\erified integration of various components in application and executed end-to-end testing.
+Participated in Release Review/Requirement Analysis and Design review meetings.

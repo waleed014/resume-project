@@ -1,0 +1,298 @@
+JESSICA
+CLAIRE
+
+=
+&
+
+resumesample@example.com
+(555) 432-1000
+
+100 Montgomery St. 10th
+Floor
+
+SKILLS
+
+18M Netezza Technical Mastery
+Professional
+
+IBM Certified Specialist -
+Netezza Platform Software v6,
+w
+
+IBM Netezza Database
+‘Administration with Subject
+‘Matter Expert Handling Large
+database (OLTP) in TBs.
+
+IBM Certified Solutions Expert
+DB2 Database Administration
+for UNIX, Windows and 0S/2
+IBM DB2, Netezza, Oracle,
+MsSQLServer DBA
+
+‘AIX, Windows
+
+VERITAS Backup, TSM Backup
+Capacity planning
+
+‘COBOL
+
+‘COGNOS
+
+Good communication skills
+Client, Problem solving
+
+Data Warehouse, Processes
+Database, Programmer
+Databases, Project
+management
+
+Database Administration
+DB2, Quest
+
+Designing, Quick learner
+Editor, Self-starter
+
+Erwin
+
+UNIX/LINUX Shell scripting
+FTP
+
+solaris
+
+Websphere, SQL.
+
+IDS, System Administrator
+Oracle DBA
+
+Informatica
+
+Informix 7.x
+
+Informix 9.4
+
+INFORMIX, TSM
+
+Jel
+
+Korn Shell, UNIX
+
+Job control language (CL)
+Database analysis
+
+Database administration
+Data testing
+
+Writing queries
+
+Microsoft SQL
+
+‘Microsoft PowerShell
+Continuous process
+improvement
+
+Data conversion and migration
+Root cause analysis
+
+EDUCATION AND
+TRAINING
+
+Juniata College
+Huntingdon, PA + 1996
+
+B, S: Computer Science/Math
+
+‘Completed professional
+development and training in
+IBM DB2, Netezza
+
+EDS Systems Engineer.
+
+CERTIFICATIONS
+
++ IBM Certified Solutions Expert
+B2 Database Administration for
+UNIX, Windows and 0S/2
+
++ IBM Netezza Technical Mastery
+Professional
+
+IBM Cer
+
+ied Specialist - Netezza
+
+Platform Software v6, V7
+
+SUMMARY
+
++ To obtain a posi
+Administrator.
++ 21 years of experience as a St. DB2 DBA on LUW (Linux, AIX, Solaris, Windows) (1997 - current)
+15 years of experience as a St. NPS (Netezza Performance Server) DBA/Admin (2006 - current)
+8 years of experience with Websphere Information Integrator MQ and SQL replication (2005 - 2013)
+8 years of experience as an Informix DBA on Unix (Solaris) (2006 - 2014)
+5 years of experience as Oracle DBA on Unix (2013-2018)
+Focused Database Designer with 21 years of experience in full lifecycle development. Adaptable in
+understanding businesses changing needs and objectives when creating and redesigning databases.
+Collaborative team player with strong interpersonal and communication skils useful when working
+with project managers to define project timeline and scope. Self-motivated with excellent task
+management abilities. Proactive Database Administrator with 21 years of experience in database
+development and production environments. Proven skills in security management, database
+maintenance and establishing backup and recovery processes to safeguard data. Well-versed in
+various programming languages, including Shell-scripting and PowerShell . Strategic Database
+Architect with 21 years of experience in design, architecture and data modeling. Track record of
+successfully managing all phases of software development lifecycle (SDLC). Analytical problem-solver
+skilled at identifying and resolving technical issues. Multi-talented Database Administrator with 21
+years of expertise in designing, testing and coding database solutions in various environments. Highty
+skilled in multiple technologies such as IBM DB2, Netezza Oracle and MSSQLServer. Motivated self-
+starter consistently meets deadlines and succeeds in high-pressure environments.
+
+in the areas of Data Warehouse/VLDB Architect, Database Engineer, Database
+
+EXPERIENCE
+
+Tiaa - Sr. Database Administrator
+Middleton, WI + 10/2003 - Current
+
++ Established hardware requirements and devised storage capacity solutions for DW systems.
+
++ Defined database design specifications based upon project requirements.
+
++ Performed quality assurance processes to support data warehouse improvements.
+
++ Designed, built, implemented and maintained DW systems (DB2 and Netezza)
+
++ Partnered with project management teams on development of scope and timetines.
+
++ Handled all DBA tasks such as database’s logical and physical design, DB objects creation,
+
++ Installed, maintained, implemented, and upgraded databases on various platforms.
+
++ Administered, maintained, and implemented policies and procedures for ensuring the availability,
+security and integrity of all databases.
+
++ Developed and administered reorg, backup, and recovery procedures including DR solution.
+
++ Designed and implemented data structures and databases on multiple platforms.
+
++ Created database monitoring tools/scripts and proactively monitored database Performance,
+Buffer Pools, Critical alerts, and database Space & index Utilization to meet all database expected
+goals.
+
++ Provided DBA support for applications.
+
++ Participated in 24x7 ONCALL support rotation.
+
+Worked together with ETL and BI team to develop the best efficient way to load and extract data.
+
+strong analytical ability and good communication skills.
+
+Effectively working with multilevel personnel and project management.
+
+Self-starter, quick learner who can figure out the inner workings of existing systems.
+
+Willing to work overtime and provide high quality production 24/7 pager support.
+
+Expert in trouble shooting, and production problem solving.
+
+Alvays work with efficient, confident, thorough, optimistic and positive attitude.
+
+Perform and play a backup role for various SA(System Administrator) tasks ({.
+
+Create and mount filesystems, raw devices, create and reset UNIX userids, monitoring filesystems,
+
+CPU, memory and paging usage, etc..), Lead DBA team at the BCBSMA(Healthcare) account to
+
+design and implement the MQ replication project where the source is DB2 on z/OS and the target is
+
+DB2 UDB on AIK.
+
++ EDS Innovation award winner, design an automatic program to sync-up replication when load utility
+is used with log based replication (MQ replication)
+
++ Design and Review for ALL DW projects, performance and tunning for the Enterprise Data
+‘Warehouse (EDW).
+
++ Provide ongoing production support including creating and updating D82 instances, DB2 databases ,
+performance and tuning, backup and restore, planning and install software and fixpaks for DB2,
+NETEZZA, INFORMIX and ORACLE.
+
++ Designed and implemented automatic database monitor(tablespace usage, invalid object, db2 log
+‘and temp space, etc), database alerts(run away query), server alerts (CPU, Memory, 1/0 usage)
+using UNIX korn shell scripting, AIX and DB2 commands, and DB2 table function and SQL.
+
++ Perform logical to physical data object translation.
+
++ Participate in hardware capacity planning.
+
+‘Mentor junior DBAS and Application DBAS.
+
+Provide DBA support for applications.
+
+Participate in 24x7 pager support rotation.
+
+Participated on IAS training and migration process from current NPS platform onto IIAS platform.
+
+Environment: DB2 UDB V10.5,V11, IDS 11, NPS ,NPS 7.x.x Oracle 9i, 10G and 11G, Informatica,
+
+Oracle Data Integrator(OD!), Korn/Bash Shell scripting, Perl, AIX, crontab, TSM, EMC, Solaris,
+
+windows.
+
+Tiaa - Sr. Database Administrator
+‘Mount Laurel, NJ + 03/2001 - 10/2003
+
++ Designed and implemented the Enterprise Data Warehouse.
+
++ Provided ongoing support for all corporate UDB EE/EEE databases including: backup / restore;
+performance tuning; creating instances; automating database maintenance activities.
+
++ Mentored junior DBAS
+
++ Tested and implemented software upgrades.
+
++ Provided DBA support for applications.
+
++ Helped in designing ETL processes for the DW project.
+
++ Participate in 24x7 pager support rotation.
+
+‘Square Trade - Database Administrator
+San Francisco, CA + 09/1998 - 03/2001
+
+Responsible for the development and execution of loads, exports, runstats and reorgs.
+Led in backup and recovery design for the Enterprise Data Warehouse.
+
+Performed logical to physical data object translation.
+
+‘Maintained security; performance tuning.
+
++ Participated in hardware capacity planning.
+
++ Tested and implemented software upgrades to multiple database environments.
+
++ Implemented of a large dimensional warehouse.
+
+EDS - System Engineering/DB2 DBA
+City, STATE + 04/1996 - 09/1998
+
++ Completed and graduated the, System Engineering training program.
++ COBOL, ACL and JCL programmer and a DB2 DBA.
++ Environment: COBOL,ACL, JCL, MVS, TSO, DB2,
+
+ACTIVITIES AND HONORS
+
++ Math and Computer tutor at the local library WFL (Wareham Free Library) (2009 - 2011)
++ Helped in the Soup Kitchen at the Boston Food Bank. (1991 - 1992)
+
+ACCOMPLISHMENTS
+
++ Obtained 18M 082 and Netezza certification.
++ Recognized as EDS MVP for outstanding performance and team contrit
++ EDS Innovation Award winner.
+
++ Consistently maintained high customer satisfaction ratings.
+
+WEBSITES, PORTFOLIOS, PROFILES
+
++ https://wwwa.linkedin.com/in/Jessica-Claire-0889453

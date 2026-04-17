@@ -1,0 +1,116 @@
+JEssica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Seasoned enterprise data warehouse architect with over 14 years’ experience in system design and development.
+
+Hicaucats
+
+« EDW/BI Development supervisor with 6 years’ technical lead &
+‘managerial experience in enterprise data warehouse and
+
++ business intelligence system design and development using
+agile(Scrum/Planning Poker) methodology.
+
+« Highlights
+
++ Dimensional model design Erwin/Visio
+
++ Logical/Physical model design Informatica PowerCenter/Data
+Quality/Data Explorer
+
+« ETL architecture and design OBIEE Repository(RPD) design
+
+« Inmon and Kimball Architecture Hyperion Interactive Reporting
+
++ Agile methodology SQL Server and Oracle
+
++ Accomplishments
+
+EXPERIENCE
+
+12/2012 to Current Enterprise Data Warehouse Architect and EDW/BI Development Supervisor
+Madison Metropolitan Sewerage District — Madison, WI
+
++ Established EDW as enterprise data integration hub and source of single truth for Direct Operations - accounting
+relies on EDW for report on opening, closing, and revenue; investor relationship relies on EDW for quarterly
+earings release Reduced available Jessicae for key reports that Agency Operation executives rely on from weeks
+to just one day by designing and implementing underwriter data mart Designed change data capture framework to
+support near real-Jessicae reporting of data from over 800 source databases
+
++ Reduced 70% of effort on working day related dashboard and report development by designing abstract working
+calendar dimension to meet business reporting requirements by working day Reduced staffing cost through smart
+staffing for busy/slow season by integrating staffing working Jessicae information from HR into data warehouse
+Software development supervisor overseeing on-going maintenance and enhancement to Stewart data warehouse.
+
++ Manage a team of ETL developers and BI developers Member of Stewart Enterprise Architecture team responsible
+for data architecture and data integration Enhanced/redesigned dimensional model and created mapping specs for
+order analysis data mart to support migration of reports/dashboards from Hyperion Interactive Reporting to OBIEE
+Created initial draft of OBIEE repository(RPD) design and involved in on-going enhancement/maintenance of the
+RPD Implemented process for quarterly and annual data warehouse design and operation review to proactively fix!
+enhance design and plan for growth.
+
+11/2009 to 11/2012 ETL Architect/Team Lead
+Covance ~ Hartford, CT
++ Technical lead for data modeling, ETL design and development Lead on requirement gathering and analysis for
+underwriter data mart Designed dimensional model for underwriter data mart Designed dimensional model for
+customer analysis mart Developed customer cleansing and matching data quality plans Improved performance of
+several ETL mappings dealing with large data sets by 70% through manual query push down Designed ETL
+operation and data quality monitoring framework
+
+05/2008 to 10/2009 ETL Architect/Developer
+‘Stewart Professional Solutions — City, STATE
+* Lead on dimensional model design and ETL design/development.
+* Created Stewart ETL development standard Created first release of Stewart Enterprise Data Warehouse business
+continuance plan and operation monitoring procedures Enhanced order analysis mart to support reporting of lock-
+down view and current view.
+
+11/2006 to 04/2008 Senior Programmer/Analyst
+‘Stewart Transaction Solutions — City, STATE
++ Participated in ETL/BI tool selection and dimensional model design in creating the first data warehouse for Stewart
+Designed high-level workflows Developed mappings, sessions, and workflows for type 2 change data capture and
+Essbase export ETL.
+* Assisted in development of data warehouse architecture policies and processes Created deployment document
+‘template for Hyperion Interactive Reporting reports/dashboards and Informatica PowerCenter ETL objects.
+
+04/2005 to 10/2006 Applications Developer
+Landata Inc. Of California ~ City, STATE
+© Developed two-way electronic policy generating, delivery, and reporting system between Stewart and.
+* Countrywide, eamed lead technology contact designation for Stewart and Countrywide application integration.
+* Designed and developed a series of accounting and management reports for Stewart Title of California using.
++ crystal reports
+
+11/2001 to 04/2005 Senior Software Engineer/DBA
+‘CMAX. Inc - City, STATE
++ Designed database schemas, prepared backup plan and set up maintenance jobs.
++ Lead the effort in creating off-site disaster recovery strategy and migration from Oracle to SQL Server.
+‘© Developed web service based application on J2EE platform supporting hundreds of payday loan stores.
+
+Epucarion
+
+‘Master of Science: Computer Science
+‘Maharishi University of Management - Fairfield, IA
+Computer Science
+
+Bachelor of Science: Computer Science
+Civil Aviation University of China - Tianjin
+Computer Science
+
+CERTIFICATIONS
+
+Data Warehouse/Business Intelligence Lifecycle in Depth - certificate of completion, Kimball Group, 2014 Dimensional Modeling in Depth -
+certificate of completion, Kimball Group, 2012 Informatica PowerCenter8 Level II Developer - certificate of completion, Informatica, 2007
+Hyperion System 9 BI+ Interactive Reporting - certificate of completion, Hyperion/Oracle, 2007 Microsoft Certified Database Administrator
+- SQL Server, Microsoft, 2005 Oracle Certified Database Administrator, Oracle, 2003 Sun Certified Java Developer, Sun Microsystems, 2002
+Microsoft Certified Solutions Developer - C#, Microsoft, 2005
+
+Skis
+
+accounting, Agile, Agency, backup, BI, Business Intelligence, closing, crystal reports, data modeling, data warehouse, data warehouse,
+databases, Database, delivery, designing, disaster recovery, Erwin, Essbase, ETL, hub, HR, Hyperion, Informatica, Explorer, J2EE, Java,
+managerial, C#, Microsoft Certified Database Administrator, Microsoft Certified, migration, Modeling, Enterprise, Oracle, Developer,
+policies, processes, Quality, real-Jessicae, reporting, requirement, Software development, SQL Server, staffing, strategy, Sun, Sun
+‘Microsystems, supervisor, system design, type 2, view, Visio

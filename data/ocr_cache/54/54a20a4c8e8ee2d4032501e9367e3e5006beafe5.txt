@@ -1,0 +1,114 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 © resumesample@example.com
+
+Summary
+Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on
+
+added responsibilities to meet team goals. My goal is to seek and maintain a full-time position that offers professional challenges
+utilizing interpersonal skills, excellent time management and problem-solving skills within the diverse world in the cloud.
+
+Skills
+
++ Cloud technologies: AWS
++ CUCD Tools: AWS DevOps, GitHub, Jenkins + Logging and Monitoring Tools:
+
+« Infrastructure: Terraform Operating Systems: Linux, UNIX, Ubuntu, RHEL, Debian
+* Containerization Tools: Docker, Kubernetes Scripting languages: Bash
+
+Source Code Management Tools: GIT, github
+
+Experience
+
+DevOps Engineer, 02/2017 to Current
+Amazon.Com, Inc. ~ Richmond, CA.
+
+«Integrated CI/CD tools (Azure DevOps and GitHub Actions) with containerization tolls (Docker, Kubernetes) to the legacy
+
+desktop applications.
+
+‘+ Migrated over 130 Critical applications from On-Prem to Azure, Azure 2012 servers to Azure 2016 servers, including the Net
+framework upgrade from 4.6 to 4.7.2 and including security remediation changes by modifying all the applications to use
+integrated security methodology.
+
+Migrated over 20 application hosted on AWS EC2 services to Azure virtual machines.
+
++ Deployed CI/CD systems using Azure DevOps on Kubernetes container environment and for the runtime environment of Cl/
+
+CD system to build, test and deployment.
+
++ Used Azure Resource Manger (ARM) to deploy update and delete multiple Azure resources, as well as migrated on-premises
+resources to Azure using Azure site recovery (ASR) and Azure backups
+
+‘+ Configured and maintained CI/CD pipelines in Azure DevOps across multiple environments and enabling team to safely deploy
+in Azure Kebernetes Service (AKS) using YAML Scripts.
+
+‘+ Worked with Azure Monitoring tools such as Azure Log analytics, Azure Network Watcher and Azure Service Health to
+diagnose and minimize service degradation.
+
++ Created and maintain scheduled jobs over Control-M and GoAnywhere MFT applications.
+
+‘+ Hosted weekly Go/No-Go call for production release activities, and maintain a release schedule for production deployments and
+communicate with the trading partners.
+
+Build and Release Engineer, 03/2016 to 01/2017
+Faithlife — Bellingham, WA
+
+«Installation and Configuration and Testing of Team Foundation Server (TFS) 2010 and 2012.
+
+‘+ Upgraded various Team Project Collections in TFS 2010 to TFS 2012 and Configured 2012 Environment along with Default
+Project Collections, Build Definitions, Work Items, share point Services and Reporting Services Involved in TFS migration from
+2010 to 2012.
+
+* Created and Executed Automated Coded UI Tests.
+
++ Creating Instances on Octopus Server, Installing Tentacles, adding Users and Configuring Environments.
+
+‘+ Worked on Report Creation from TFS using SQL Server Reporting Services, Excel Reporting from Work Item Query and
+SharePoint Dashboard.
+
+‘+ Migrated data from different sources (text-based files, Excel spreadsheets, and Access) to SQL Server databases using SQL Server
+Integration Services (SSIS)
+
+‘+ Used PowerShell script to deploy the package on the production.
+
+‘+ Wrote PowerShell Script for automating deployments and to Start/Stop the Services.
+
+‘+ Worked on automating Configuration Management, Build Management and Release Engineering processes.
+
++ Created Builds and deployed builds to different environments based on requests.
+
+‘+ Troubleshoot the automation of Installing and configuring NET and C+ applications in the test and production environments.
+
+«+ Test case creation, Automation, and Execution.
+
+Maintaining Test cases in TFS and Microsoft Test Manager (MTM) System Integration Testing Environment setup.
+‘+ Designed the Release Plans while coordinating with Stake Holders including Project Management Lead, Development Lead, QA.
+‘Team Lead and ClearCase Administrator.
+
+Dot Net Developer, 05/2013 to 06/2014
+Standard Motor Products Inc - Fredericksburg, VA
+‘* Designed and developed the N- tier application using .NET framework and used Java Script to do the client-side validations.
+* Project was designed in three-tier architecture.
++ Prepared the Use Case diagrams and class diagrams and developed the web forms using ASP.NET for the Ecommerce based
+application.
+‘* Displayed data in tabular form based on the criteria selected using Data Grid control.
+* Involved in Bug fixing and functionality enhancements for the intranet websites.
+‘+ Was responsible for connectivity of database using ADO.NET Components.
+* Unit testing and Integration testing of the development code.
++ Used Agile SCRUM methodology and participated in sprint planning meeting for clearing the backlogs.
+‘+ Created Stored Procedures in the SQL Server database.
+‘+ Developed stored procedures and views using T-SQL.
+‘+ Created SSRS reports representing performance charts, pivot tables, pie chart and report with local and global filters.
++ Created WCF Services and consumed web services from web client developed in ASP.NET.
++ Involved in the creation of packages, data flow and control flow using SQL Server Integration Services SSIS.
++ Used TES for Source control, Data Collection and Project Tracking and work Items.
++ Deployed the application on the production server by creating the Web Setup.
+
+Education and Training
+
+No Degree: Information Technology, 05/2025
+UC Berkeley - Berkeley, CA
+
+High School Diploma: 08/2017
+Midwood High School - Brooklyn, NY

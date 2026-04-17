@@ -1,0 +1,428 @@
+JESSICA
+CLAIRE
+
+© rexumesampletexampl.com
+(688) 452-1000
+
+‘9. Montgomery street, San
+Francisco, CA 94105
+
+CORE QUALIFICATIONS
+
+2008/2005 200, HS Bess
+2003 8200,
+
++ ata Matin: SOL server
+2000 € 2005 to 208R2, rade
+terest Sat Sere
+
++ Spurting Sten: Windows
+Windors 0/40, S005,
+
++ Brogramming: Sa
+SG JOM, Store rocedures,
+
+“Tiger, Functions
+
+Eros 5815/0TS
+
+1 Databae Reporting Toot SSRs
+(6aL Server Reporting
+Services), Crystal Report
+
++ Data adeling $00 (Sa.
+Server batabase agra),
+fond
+
++ SQL Tots: ery Anata,
+Profiler, Quary Exeaton Pan,
+
++ Over 5 yeas of SQL Server OBA
+professional experience In
+Production, test and
+‘evelopment environment
+
++ instal, configured &
+‘Maltaned MS SOL Server
+2000, 2005 and 2068 on 2
+$andalone and Cstred
+Servers [acive/Active and
+dative Passive Custer Design)
+
++ Applied SP (Service Packs), and
+ot es
+
++ Performed Upgrade of SOL
+Server 2000, 205, ard 2008
+
++ Experened sing
+Configuration Tels suchas SOL
+
+Server Configuration Manager
+
+ad SOL Server surface ea
+
+Configuration
+
+Managed Security
+
+1 ied Data ating tot using
+Data Moelr and Toad,
+Forward and Backward
+
+Engineering
+
++ Experienced in Database
+Backup, covery and Disaster
+acovery procedures.
+
++ Worked on Database igh
+‘Avalablty Solitons
+
++ Mord o Linked an rote
+Servers trun queries between
+SQL servers and other data
+Seurces sing O08C, OLE D8
+‘Severe
+
++ Database Monitoring and
+Performance Tuning
+
++ Experienced la One index,
+Query Optimization,
+Perfomance Tuning and
+Database Conitensy Checks
+ing 08 commands
+
++ Configured and maintained SOL
+Server Rapetng Services,
+
+[ssesy
+
++ Experienced in creating and
+Schedng SSIS/OTS packages
+Ink Server to transfer data
+between various DANS ad es
+
++ Good experince In dbugaing
+SQL Server stored procedures?
+triggers and documenting
+Ives /resolitons of SQL
+Server applications
+
++ Experienced wth creating
+alerts, schema management,
+<atabase reorganization, data
+leading, database malntonance
+aed eptimization
+
++ Sefmetivated: proactive: 2
+team player; able to
+
++ manage om projet efficent
+foren time delivery
+
+EDUCATION
+University Putra Malaysia
+
+Bachelor of scence: Computer
+Seence
+
+cre
+mcrozotCertited fessor
+Meroste Certified Technology
+Specs
+
+merosoft SOL Server 208,
+Implementation and Maintenance
+
+PROFESSIONAL SUMMARY
+
+A mirosot Certiied SQLServer DBA (ands on profesional experience on SQL Serve Database 35.
+Samintrator
+
+(Dax) with over years of progressive profesional working experince asa SQL Server OBA i ll
+aspects of SQL
+
+Server Databses 2000 205, and 2008). Roesslonal weckng experience in managing large
+databases in processing
+
+environment inuding backup recovery performance tuning, developing and managing reports wing
+SQL Reporting
+
+Servis (SSR), Monitoring, Performance Tuning, stored procedures, triggers, functions, constraints
+nd views ee
+
+‘Working experience ental strong knowedge on using database thi party tos ERWin, and Toad
+Data Medler
+
+{ackup/Recovery: Strong nowedg and working experience in Database Backup and Disaster
+ecovery Experienced
+
+th oi iT Recovery Restored Database frm backup Used DEC to check database conten,
+abuiding
+
+Indes andoter database Maltenance purposes as wel Strong working experience in creating,
+modifying tables,
+
+Tex (Csterion. Clster),Constralats Unique Check), Wes, Developed bifeent Maintenance
+Pans for databace
+
+‘monitoring Monto Server Atty and slvng problem as needed
+
+PROFESSIONAL EXPERIENCE
+
+COX Communication - Mirosoft SOL. Server Database Adminstrator
+(0272009. corent
+‘ecomplishments and Responsbiiies
+
++ testa, Conflguced, and nanaged SQLServer 2008 R2, 2005 & 2000 development, tst, and
+production enviroment
+
++ lesa nd Configured SQL. Server 2012 for testing siferet features and stabi
+
+{Database High avail
+
+1 nal, Conigueed and Maintained Fait Over Clstring using SQLServer 2008/2005.
+
+1 instal, Configured and antalned Eatabase Mimering lng automat fal-overeption o SQL
+Server 2008
+
++ Congured Log Shipping as Standby database tom frodction database fr Reprtng purposes
+
++ Configured and maintained epications (Transactions)
+
+Report evelopment
+
+{tna configured, and administered SQLServer Reporting Services (S585)
+
+Developed Roports using SSRS
+
++ Deployed Reports
+
+5 Developed Ao Raports using Report ulder 3.0, 2.0
+
+{Database Upgraded (Gevelopment, testing and production envionment)
+
+{SQLServer 000 to 2008/2008
+SQL Server 2005 to SQLServer 2008
+
++ Database migated (evelopment, testing and production environment
+
+1 ns access 2000/200097 stabs ito HS SQL. Server 2000, 2005, and 2008
+
+1 Oracte10g databases to SQLServer 2006
+
+5 mySGQ41.0/5.0-1 databases to SL Server 2005 and 2008
+
+1 Data Melng:
+
++ Worked on Data Modeling project and generated ER Diagram
+
+{ata Medtng toa used using Toad Oata Modeler and SQL Server Data Diagram
+
+1 evar @ Forward Engineering wth data medting tos mentioned above
+
+{atch Management
+
+{Applied S (Service Pack) on SQL Server 2000, 2005, 2008
+
++ Applied HOT Fines on SQLServer 2000, 2005, 2008
+
+{Appi atch on Windows Server 200 Emterprze Elton
+Database Montoing/ erfermance Tuning
+
+{Strong on database Monitoring and Performance tuning
+
+1 Sehedled jobs to stemate diferent databace related atte nding backup, meitorng
+database healt, esk space, backup verfcation
+
++ Mevitr SOU Server Error tog, space usage
+
+1 batabaserosramming”
+
++ writing SOL, Trigger and Stored rocedires
+
+{assisted Dtakase Developers to optimize SQL queries and stored Procedures
+
+1 orsissis
+
+1 Export import data from Fat fe, CSV fe to/from SQLServer Database sing OTS, SIS, and
+
++ Export import data from/to databases the Oracle, MySQL, and Aces to/fam SQL Server
+Backup Recovery
+
+{Strong knowledge and working experience in Database Gackup and Disaster Recovery
+
+1 experenced with Plt Tie aeovery
+
+1 estore Ontabace trom backup
+
+1 Used D0cc to check database condtons, ebulding indexes and other database Maintenance
+poses as wal
+
++ Strong working experience ocean, modiyng tates, Index (ster Non Ctr), Constants
+
++ (Uniqe/ check), Views, Developed Offerent Maintenance Plans fr database monitoring
+
+{ Menitr Server activity, and sling pote as needed
+
+{BM - Microsoft SQL Server Database administrator
+iy, STATE » 04/2008 2008
+
+Responsibilities
+Insta, Conigred, ané Managed SQL Server 2008, 2005 & 200 in development, test, and
+production envifonnent
+
+Insta and Configured SOL Server 2008 fo testing sitferet features and stabity
+SachuprRecovery:
+
+Strong knowledge and working experience in Oatabase Backup and Disaster Recovery
+
+Experencea with Finn Time Recvery
+
+Restored Uatabsse from backup
+
+Database High avalabiiy:
+
+Insta, Configured and Malntained Database Mirroring incng automatic al.overeption a OL
+Server 2008
+
+Contgued Log shipping 2s Standby database from rodction database fr Repeting purposes
+Nalntined Fat Ove Clastring using SQLServer 2008/2005
+
+Confgwed and Maintained fepications
+
+beecr
+
+‘sed 8c to check database conan, fhe database corruption, rbul indxes and other database
+Naintenane purposes 35 well
+
+epee Develapent|
+
+Instat, configured, and administered SQLServer Reporting Services (SSRS)
+
+Developed Reports for ditferent purposes ke BA Reports, User reports using SSRS and Report Bulder
+30820
+
+Deployed Reports and managed security of report server ncn Feder evel
+
+Database Upprade:
+
+SOL Server 2000 to 2005/2008/2008 2
+
+SQL Server 2005 to SQ. Server 2008/2008 R2
+
+Database igation:
+
+1S Acces 2003/200/97 databases ito MS SQL Sever 2000, 2005, and 2008.
+
+(race 10gR2/119R2 databases to SOL Server 2008 2
+
+‘ypSQL 41.0/5.0-15 databases to SQL Server 2005 and 2008 2
+
+Data iad
+
+Worked on data modeling projects, generated scrips, and E Diagram
+
+acovard& Frvard Engineering fr logical and physical model respectively
+
+ata Medelng tools used using ERwin, Toad Osta Modeler
+
+Created and managed indexes, Constants
+
+atch naragemet
+
+‘applied 3 (service Pack on SQLServer 2000, 2005, 2008, 2008 2
+
+‘Applied atch on Windows Sever 2002, 2003 R2
+
+Database Monitoring erormance Trig:
+
+‘Strong on database hontring and erfermance tung
+
+Scheduled jobs to automate diferent ste eh monitoring database hth, ik pace, Job
+let, index monitoring, stats monitoring etc
+
+Database Ropramming:
+
+‘TOL, Tage, and Stored Mecedues
+
+Assisted Database Developers to optimize SL queries and stored Procedures
+
+Export @ import data from Flat fle, CSV fe to/from SQL Server Database using OTS, SIS, and BCP
+Export import data foto databases ike Ore, Hy SQL, an acess totem SQLServer
+
+ele via opt An Hts Cre nse Mex SO Server Database Adnitrator
+Sinise ovo rsa
+
+retin, oni, ad anaes SQL Server 20 & 200i deepen a editon
+cmiermert
+
+iret an oniared Sal Server 20 fr eigen fetes an stabi
+
+tated, configured eid Ft Over ustrig sng 6 Serr 205
+
+Ista ogres and hsiaine tate Minn ing aba aoe penn SOL.
+Sever ties
+
+eigredLog Siping Stand entabsce om Raton tabs or Repti pores
+ctgred and aaa epics (sata)
+
+‘etal: Contig, ara arte Sse oor Saves (585)
+
+eves Rpts nine SRS
+
+Sepa rps
+
+SeropedsinsRpas sing pr Ble 3.02.0
+
+Emabave pases eveopmet ering ad proton enone)
+
+Set seer 60508
+
+tabavehigate (Sven, eig an recto envionment)
+
+{aces 303 tooo? cts 3 See MED, Sn 30 My SOL 4.07504
+abstr 0 Serer
+
+‘ered on mare han 0 data ming rots rd gnrated Olga
+
+ener toe sn ing Cin so oa Ets day SS Oats Oa
+Sscivard Fora enneig wth ta aseng te menene sve
+
+‘pled Gere Pc) on 5S 20,208
+
+‘pid HO Fes on Server 0, 2008
+
+‘ped rath on winds Sve 200 repr ton
+
+‘Sng on dtsase nntring sa Peromare tng
+
+Sched te to sutoate dre xabace elated aves nding cap, mentoring
+Stare at di
+
+Spe, chip vertienton
+
+entire. Serer or Log, sce ge
+
+‘ete SSO Weg, and Stored ents
+
+‘sete uate Ooops to optnte quran Stared Mecdines
+
+Exp npr ata Fat i 3 oom se Sever xaos ing TS, SSS, an CP
+xp pur ata roto athe te orc, Sa and ces tron Sk Serer
+Sang note rer exper Gta xh ar Rey
+Expand th pine Roe
+
+Sted ota om aap
+
+Urabe ta conch tba Cnttons, eblsng inees nd ter tabs antes
+purer st
+
+Sen orig experience net, moan tats, index (Ctr ton cst), Constants
+ign Cc
+
+rove Dercope erent ineance Plans fr database mostring
+
+Mont Sere sing pel 3 nde

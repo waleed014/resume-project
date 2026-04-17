@@ -1,0 +1,126 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+PREVIOUS
+EMPLOYMENT
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+Montgomery Street, San Francisco, CA 94105 2 (555) 432-1000 <4 resumesample@example.com
+
+Multifaceted Leader of Programs and Technology Solutions with over 18 years in strong technical
+leadership and program management in High Technology, Energy and Fast Food industry, a with most
+recently handling $240M revenue generating IT infrastructure programs for eybersecurity companies.
+impeccable track record of leading with agility to meet strategic goals for the organization
+
++ Software As a Service (SaaS) + Planning And Execution
++ Portfolio and Program Management + Vendor Management (RFP, Costing and Pricing)
++ Technology Planning using Agile Methodologies ‘Team leadership and direction
+
++ Router, IT infrastructure and Software Delivery Compliance (PCI DSS, SOC2, 1027001)
+
++ Technical Leadership (HTTP/HTTPS, * Cloud and Security Implementation (Katka,
+Networking, IDS/IP, Monitoring) Hadoop, Cassandra, AWS)
+‘CONSULTANT 06/2022 to CURRENT
+
+Infosys Ltd | Juno Beach, FL
+
++ Leading the Transformation program of Cisco Secure for new acquisitions
+
++ Enabling change within the Strategy and Planning group of Cisco Secure along with transformative
+processes to improve planning, execution and delivery of various products (Network Security, Zero
+Trust, SASE)
+
++ Responsible for Long Range Strategic Planning (LRSP) for the year
+
++ Responsible for the Earnings Highlights and MD8<A for the GM
+
+‘SECIOR MANAGER? DIRECTOR, PROGRAM MANAGEMENT 02/2012 to 08/2021
+Ecs Federal | Bethesda, MD
+
++ Portfolio leadership in enabling efficiencies across consumer business by creating models for
+prioritizations for project inputs, budget consolidation, resource allocations and roadmap delivery for
+over 150 programs per quarter. Also let the Long Range Strategic Planning (LRSP) for the group
+
++ Responsible for operational excellence and programs within IT Infrastructure, Platform, Partners and
+DevOps across consumer organization, with a charter to deliver on time and budget with lazer focus on
+risk and dependency management
+
++ Led the program management team of 10 program managers for DevOps, VPN , Cloud Platforms and
+‘Secure Home Platforms across ISP/Telco partners like Telefonica, Verizon, T-Mobile and CenturyLink
+{or total revenue generation of $140M, with particular focus on partner commitments and managing
+external expectations by delivering related infrastructure with planned SLAS
+
++ Delivered Data center migration programs across 65 sites for revamp of on-prem server stacks to AWS
+cloud serving close to 2 Billion devices as part of a strategic focus to transition into a laaS / PaaS model
+for the consumer division
+
++ Created, executed and sustained the next gen Cloud Services Platform (CSP), with close to 300 Mi
+transactions per day, for about 2 Billion devices across all McAfee consumer products that provides
+services like enrollment, analytics, pipeline management for product usage and mutti-endpoint
+availability of subscription using multiple technology integrations like Katka, Cassandra, Hadoop,
+MongoDB and MySQL over an Hybrid infrastructure (On-prem and AWS)
+
+‘+ Led multiple network rack-and-stack programs for above CSP platform over the course of 4 years that
+included installation programs, migration efforts from DC to DC, deployment and asset and server
+sizing, configuration, support, fault detection, incident management and monitoring using agile
+methodology and transition CVCD model using Jenkins
+
++ C-Suite and Senior Leadership stakeholder management for program and portfolio tracking using KPI
+
+and OKRs with tools ike Monday.com, Smartsheets and Jira for added visibility into project deliveries
+
+and team performance against Goals set for the year
+
+‘+ Led muttiple product compliance efforts that needed Security Audits, Compliance and follow through on
+Security DLC (SDLC) based on the CIA triads of SOC 2 and required design and execution of PCI and
+Pil
+
+SEQIOR MANAGER 04/2003 to 03/2010
+‘Smartbridge | City, STATE
+
+‘+ Executed delivery of various technical infrastructure and site deployment projects from Strategy to
+Implementation and Support for various clients across southern United States.
+
++ Consulted with network engineering staff to evaluate hardware and software requirements for
+‘revamping IT systems including ERP. Infrastructure and Data Center migration from on-prem to a
+hosted DC (Rackspace) for large Fast Food chain with strong alignment with leadership
+
++ Planned and executed installation and revamping of over 500 POS and BOS systems (1 per location)
+across southern United States for large Fast Food company in a span of 6 months, thus integrating all
+sales, employee and payroll data for a cohesive view of revenue and expenses. Each site needed a
+
+DICECTOR, PROGRAMS AND PRODUCT SOLUTIONS 09/2024 to 05/2022
+‘Aura | City, STATE
++ Own the ISP/Telco solutions programs, a S40M revenue generating division, where primary focus is
+to deliver custom product solutions from concept to delivery and support across all Aura’s product lines
+(Aura Suite, Aura Privacy, Aura Password Manager) working closely with sales, engineering, marketing,
+legal, security and other stakeholders
++ Launched the Aura Suite product for Lumen, a customer base of 5 Million
+‘+ Build a team of 8 program managers and 1 product manager to engage and deliver programs from
+concept to support.
++ Readied product requirements and research for Verizon's Digital Secure Pro for a customer base target
+of 15 Million
+‘+ Set up governance structures for portfolio and program planning and execution for the partner group
+along with Sales, Product and Engineering
+
+KPMG, Arthur Andersen
++ IT Strategy, Business Consulting to Energy companies (Halliburton, Reliant Energy), Technology
+Revamp programs
+
+MBA | Strategy 05/2008
+Arizona State University, Tempe, AZ
+
+Bachelor of Technology | Instrumentation And Control Engineering
+University Of Calicut, India
+
++ Project Management Professional (PMP)
++ Certified Safe Agile Practitioner

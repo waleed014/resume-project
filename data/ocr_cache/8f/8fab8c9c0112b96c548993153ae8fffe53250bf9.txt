@@ -1,0 +1,142 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+LANGUAGES
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor €& (655) 492-1000 <4 resumesample@example.com
+
+Highly analytical and result-driven IT professional with over 5 years of working experience in SQL Server
+Administration. History of successful execution of various processes including disaster recovery solutions,
+Performance tuning, and monitoring. Proven success in deployment of effective IT roadmaps, processes, and
+procedures including setting up high availabilty and disaster recovery solutions in SQL such as Always On
+availability groups, log shipping, mirroring, replication, and traditional failover clustering. Significant expertise
+in SQL server upgrade and database migration as well as Azure Databases. Professional Summary Working
+as a part of team and providing supports on a Production database and system support environment
+Experience in managing databases under various environments. Storage management and Strong at
+Database Backup and Recovery Implementation and maintaining Database Security (create and maintain
+Users and roles, assign privileges). Upgrading and patching the Windows and SQL Server. Setting HD and
+DR Solutions (Always on, replication and database log shipping) Database Migration, Windows and SQL
+patching Responding to ticket queue (refreshing databases, creating logins and users) Technical
+Proficiencies MS SQL Server 2005-2019|PowerShell |SSIS|SSRS| Security |Backup and Restore | Hyper-V |
+\VM Ware | T-SQL laas | SaaS | Paas | Always on Availability Group | [Replication | Log Shipping [Failover
+clustering | Azure SQL Databases |Azure SQL Manage instances | SQL on Azure VMS| Azure Database
+Migration Service. Perform automated Jobs
+
+‘+ High Availability (HA) and Disaster Recovery SQL Server Monitoring - inbuilt monitoring tools,
+
+(OR) solutions; Traditional Failover Clusters, like SQL Server Profiler, technical
+Always on Availabilty Groups, Replication, documentation, metrics communication skis,
+Database Mirroring and Log Shipping Active directory.
+
++ SSAS SQL Server integration services + Consistent Leadership, Hands-on engagement,
+
+technical, SQL Replication, Reporting, SQL DBA, Healthcare experience, Hands-on
+
+SQL SERVER DATABASE ADMINISTRATOR 02/2020 to CURRENT
+Silvergate Capital Corporation | Memphis, TN
+
+‘+ Planning and installation of Microsoft SQL Server, SQL Upgrade and Migration
+
++ Coordinate with vendors and end users to apply Windows and SQL Patches
+
+‘+ Implement Backup and Recovery strategies and Capacity planning per company's SLA
+
+‘+ Implement data security by creating users and assigning permissions following the principle of least
+privilege
+
++ Implement data security operations like Always Encrypted, Transparent Data Encryption (TDE) and
+Dynamic Data Masking (DDM) to secure client's sensitive data
+
++ Leverage in-built software in SSMS (SQL Server profiler, Performance monitor, Extended Events, DMVs,
+Database integrity checks) to ensure database integrity, stability, system availability; and other Third-
+party software like IDERA and SolarWinds Database Performance Analyzer to monitor system health
+and security
+
++ Configure High Availabilty (HA) and Disaster Recovery (OR) Solutions on productions systems using
+Clustering - Always On, Traditional Failover Clustering (Windows Server Failover Cluster - WSFC),
+Database Mirroring, Replication such as peer-to-peer replication, merger replication and transactional
+replication and Log Shipping
+
+‘+ Provide end-to-end support and problem resolution for SQL Server databases through multiple product
+lifecycle environments, such as development, testing to mission-critical production systems
+
+‘+ Troubleshooting and resolving Database issues
+
+* Creating and monitoring maintenance plans and agent jobs that take backups and defragment indexes
+for query performance
+
+‘+ Troubleshooting of SQL Server service outages as they occur, including providing on call support
+‘during after-hours and weekends
+
+‘+ Granting user access to control levels by provisioning and deprovisioning users based upon company
+policy to control access for each segment of the Databases
+
++ Develops database security guidelines and performs audits
+
+‘SC SERVER DATABASE ADMINISTRATOR 04/2017 to 11/2019
+Silvergate Capital Corporation
+
+‘+ Installing and maintaining SQL Server database systems
+
++ Ensuring successful backups, resolving system issues, opening cases with vendors to resolve issues,
+monitoring success and failure of automated jobs, monitor system availability, updating system and
+database recovery
+
+‘+ Coordinating with the Systems Administration team, in building virtual machines for SQL installation
+
+‘+ Migrating and upgrading SAL Server 2016 to SQL Server 2019 by reviewing, planning, testing, and
+instaling database security patches and service packs
+
+© Design, documentation, and promote security best practices, policies, standards
+
+‘+ Setup and maintenance of appropriate database and application monitoring using IDERA and Solar
+‘Wing monitoring tools
+
+‘+ Setup,test and maintain business continuity/disaster recovery infrastructure database and applications
+
++ Setting up TDE and always encrypted
+
+= Configuring and monitoring HA/DR solutions
+
+‘+ AG, Log shipping, Replication, Failover clustering
+
+MOSQL SERVER DATABASE ADMINISTRATOR 03/2016 to 03/2017
+Leidos Holdings ine. | City
+
+‘+ Handled customer inquiries, complaints, billing questions and payment service requests
+
++ Secure patience information
+
++ Expand market share of influence
+
++ Coordinated internal transport to all company events and markets
+
+‘+ Maintain a healthy and friendly work environment
+
+MOSQL DATABASE ADMINISTRATOR 02/2010 to 05/2012
+‘Community Credit Union, ¢.¢.CPLC
+‘+ Perform all day-to-day aspects of MS SQL database and Administration such as
+‘+ Installations, configuration, upgrades, security, user management and Logins, backup and recovery
+‘+ Created new database objects like Tables, Procedures, Functions, Indexes and Views using T-SQL in
+‘and Production environment
+‘+ Creating and modifying table, running stored procedures, views, indexes, and triggers just to name a
+few
+‘+ Provide solutions for database issues including capacity, redundancy, replication, and performance
+‘+ Respond promptly to user complaints regarding access to database.
+
+B.Sc. | computer science
+University of Yaounde Cameroon
+AsCociate degree | Database Administration
+
+Digitech Cameroon
+
+English French
+Negotiated Negotiated

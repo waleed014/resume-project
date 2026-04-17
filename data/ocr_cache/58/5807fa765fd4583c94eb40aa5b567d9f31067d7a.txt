@@ -1,0 +1,131 @@
+JESSICA
+CLAIRE SUMMARY
+
+4+ years of experience as a DevOps Engineer | cloud operations | system administrator
+
+Experience in developing CI/CD pipelines, maintaining infrastructure, configuration management, and
+
+application containerization.
+
+Experienced in technical troubleshooting and subject matter expert on Server, Computer, Linux, AWS,
+
+and Windows.
+
+%& (555) 432-1000 The ability to analyze complex technical information | Detail oriented | Excellent problem-solving |
+Critical thinking | Flexibility | communication | team playing | Creativity | Decision making.
+
+ resumesample@example.com
+
+g 100-Montgomery St. 10th
+
+Floor
+SKILLS LINKS
++ Versioning Tools - Git + linkedin.com/in/cyprien-carlos-Claire-1a6337234
+
++ Cl- Jenkins, SonarQube
++ Build Tools - Maven
+
++ Ticket Tracking Tool - JIRA EXPERIENCE
++ Containerization Tool - Docker,
+Kubernetes Alleare Consulting - Devops Engineer
++ Operating System - Windows , Other South Georgia, GA + 01/2020 - Current
+Linux Environment: Amazon EC2, $3, RDS, VPC, ELB, EKS, Auto scaling, UNIX/LINUX, RedHat Linux 6,
++ AWS - EC2, $3, RDS, ECR, CentOS, Jenkins, Windows, Apache Tomcat, Shell Scripts, Docker, Prometheus /Grafana.
+Route 53.
+
++ Managed playbooks in Ansible and Implemented Ansible for configuration management such as
+deploying applications and provisioning servers.
+python + Utilize Shell scripts to day to day activities and tasks for automation and configuration.
+
++ Web server - Apache HTTP + Integrate Maven and SonarQube in Jenkins for automation build and ensure code quality.
+
++ Database - MySQL + Provisioned infrastructure in cloud platform like AWS using Terraform.
+
++ Monitoring Tool - Prometheus/ + Created Virtual Private Cloud VPC on AWS that supports Dev, QA, and PROD environment.
+Grafana + Working with Git/GitHub for version control including Branching strategy.
+
++ IAC tool - Terraform, Ansible + Deployed applications to Tomcat Application Server and static content to Apache web servers.
+
++ Installed, Configured, and Managed Monitoring Tools such as Prometheus/Grafana for Resource
+
+‘Monitoring/Network Monitoring.
+
++ Worked on Docker container to create Docker images for different environments.
+
++ Responsible for taking source code for compilation using Maven and package it in its distributable
+format, such as WAR file.
+
++ Collaborate closely and regularly with various teams like Dev, QA, Ops to ensure that all test and
+
+Associate of Science: production environments are functioning property.
+
+Computational Mathematics
+
++ Scripting Language - Shell,
+
+EDUCATION
+
+University of Dschang
+Dschang, Cameroon + 2009
+
+L3harris Technologies, Inc. - Linux System Administrator
+Nashville, TN + 10/2018 - 01/2020
+Environment: RedHat Linux 6, CentOS, Ubuntu, Windows, Unix/Linux, Shell scripts.
+
++ Managed Bash Scripts to automate tasks as needed.
+
++ Preserved system documentation accuracy via regular data updates and graphical refreshes.
+
++ Resolved trouble tickets to reduce backlog from 20 to 15.
+
++ Managed Users and files to ensure smooth operation.
+
++ Installed, configured, maintained, and upgraded various Linux distributions like Centos, RedHat,
+Ubuntu, and Debian.
+
++ Performed servers patching to ensure proper update of Operating System and Software.
+
++ Interacted directly with users to diagnose and correct major system issues and address concerns.
+
++ Experience installing, monitoring, and configuration of Linux machine on VMware as needed.
+
++ Managed and installed software packages on various Linux distributions.
+
+Cook County Sheriff - Correctional Officer
+Chicago, IL + 12/2016 - 10/2018
+
++ Maintained custody and control of 3,250 inmates housed in maximum-security unit.
+
++ Searched building and grounds, living quarters and work areas for contraband.
+
++ Made rounds frequently to ensure safety and security of assigned building or areas.
+
++ Conducted routine and emergency head counts and roll calls.
+
++ Supervised and directed inmate's daily activities, including vocational trainings, meals, visits and
+recreation.
+
++ Prepared, processed and maintained forms, reports, logs, records and activity journals.
+
++ Escorted inmates to and from cells, court, hospitals and medical appointments.
+
++ Addressed inquiries from general public, other staff, inmates and visitors to resolve concerns.
+
+Trek Bicycle Corp - Sales Manager
+San Diego, CA + 07/2011 - 10/2016
+
++ Established and cultivated solid business relationships with new or existing customers.
+
++ Attended industry shows, conventions, and other meetings with primary mission of expanding
+market opportunities.
+
++ Coached employees in successful selling methods and encouraged cross-selling to drive revenue.
+
++ Resolved customer issues quickly to close deals and boost client satisfaction.
+
++ Generated many customers account and increased sale by 10% within first year as sales manager.
+
+LANGUAGES
+
+Englis French:
+Negotiated: Negotiated:

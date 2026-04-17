@@ -1,0 +1,96 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 # resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Astute Technical Data Architect/Analyst with data-driven and technology-focused approach, specializing in healthcare domain. Come with over
+12 years of successful experience in Data Warehousing and Analytics. Organized and dependable candidate successful at managing multiple
+priorities with a positive attitude, Expert Sql programmer with end-to-end knowledge about all facets of data architecture, Excellent reputation
+for resolving problems and improving customer satisfaction. Motivated to learn, grow and excel,
+
+SKILLS
++ Data Analysis ‘+ Databases Netezza, DB2, Oracle, Teradata, MS SqlServer
++ Data Warehousing + SAS Analytics and Enterprise Guide with experience in Base SAS,
++ Sql programming Macros, Loading data from external files like CSV, Hadoop(Hive),
++ Tableaw/Business Intelligence program developer Oracle, Sql server, Oracle, DB2 into SAS metadata environment.
++ Excellent MS excel report developer using data slicers & complex * Data Architecture
+formulas + SAP PowerDesigner
+‘+ Unix shell & Python scripting + Data Mapping
++ Extensively use Hadoop utilities Hive, Sqoop ‘+ ETL programming in InfoSphere Datastage and Talend Studio.
+Work History
+
+‘Technical Data Analyst/Architectural Engineer, 01/2019 - Current
+Fugro - Gainesville, FL
+Consulting for a leading US Healthcare client,
+‘+ Thorough knowledge in SAS programming, SAS Data integration, SAS data formats, storing and managing data in SAS.
+«+ Improvised data and reports availability across team by automating weekly/monthly SAS projects, resulting in 24/7 execution without
+‘manual intervention.
++ Extensively develop Hive Sql logic to transform data for projects, write shell scripts to automate and schedule Sql batches, load data into
+Hive warehouse. Code Sqoop scripts for data transfer across Hadoop and all other relational databases,
+‘+ Create and publish Tableaw/Qlik View reports, administer user level access.
++ Develop complex MS Excel reports using extemal data sources, extensively use formulas, Pivot Tables and data slicers.
++ Excellent understanding of data management principles such as joining, aggregation of data, concatenating, sorting/merging. Expert in
+‘complex relational database design, combining data from different sources, querying and working with large tables.
+«+ Established quality control processes for data verification, data integrity, Data file and report results to streamline results for all reports at
+account level.
+* Create, document, validate, process, and maintain programs and macros that generate analysis, datasets and tables and graphics for
+reusability.
++ Established and head Data operations team to maintain database and file system health check, perform data cleanup. Monitor batch runs
+followed by QA and communicate to team upon data availability
++ Revised, modularized and updated old code bases to modem development standards, reducing operating costs and improving functionality
+‘+ Monitor batch runs followed by QA and communicate to team upon data availability.
+
+Lead ETL Developer/Data Warehouse Architect, 06/2016 - 12/2018
+‘Hulu ~ San Antonio, TX
+‘Consulting for leading US Banking corporation,
+
+‘+ Developed and established high level data flow diagram, data standards and naming conventions and evaluated consistency and integrity of
+
+‘model and repository.
+
++ Analyze and design new Database objects such as tables, indexes, triggers ete.
+
+‘+ Worked with Database administrator on designing data architecture, create Logical and Physical Data Models using PowerDesigner.
+
++ Coordinated with project management staff on database development timelines and project scope.
+
++ Strong analytical and problem-solving skills, willingness to troubleshoot issues and work at detailed level.
+
+‘+ Collaborated on all stages of systems development lifecycle from requirement gathering to production releases
+
+‘Trained and Mentored team of developers and discussed issues in order to provide resolution and apply best practices.
+
+Project Lead, 10/2010 - 05/2016
+Syntel Ine — City, STATE
+Consulted for leading US financial services firm,
+‘+ Datawarehouse development, Data migration, database migration, BI & reporting platform development.
++ Executed projects involving Database migration from DB? to Netezza, large scale data migration projects for SAS based analytics
+platforms, Datastage version upgrade.
+‘+ Modeled Datawarehouse around schemas (Star, Snowflake), design database changes. Review database changes with Data architecture
+team and coordinate deployment in development and production environments.
++ Extensively used Datastage Designer to develop ETL jobs for extracting, transforming, integrating and loading data from various sources
+into Data Warehouse, automate jobs using tools such as ControlM, Autosys.
+«+ Executed other project responsibilities such as QA of developed ETL projects, coordinate with business on UAT, project deployment into
+production environment,
+‘+ Lead big offshore team (around 15 resources) for numerous projects and kept track of performance of every associate
++ Revised, modularized and updated old code bases to modem development standards, reducing operating costs and improving functionality
++ Collaborated on al stages of systems development lifecycle from requirement gathering to production releases.
+
+Software Engineer, 10/2007 - 10/2010
+‘Capgemini — City, STATE
+Consulted for US Insurance firm,
+‘+ Analyze different components of Policy management system and document it.
+* Writing low level design specifications followed by Design/develop transformed modules from MVS to VSE, followed by unit testing and
+SIT.
+
+EDUCATION
+
+Bachelor of Engineering: 06/2007
+‘Madhya Pradesh - India
+
+CERTIFICATIONS
+
++ Certified Talend Big Data programmer
++ IBM Infosphere Datastage developer
++ Data Engineering on Microsoft Azure

@@ -1,0 +1,117 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 @ resumesample example com
+
+PROFESSIONAL SUMMARY
+
+Seasoned Database Adminstrator with 10+ years of extensive experience designing, coding and testing database solutions in 20S, Windows
+and Linux environments Proficient in working with diverse technologies such as Db2 fo 2/0S, DB? for Limux, MySQL, Apache Cassandsa,
+MongoDB and PostgreSQL. Exposure to Amazon RDS, Aurora, DynamoDB & DAX, Redshift, Document DB, Neptune, QLDB, Easticache ,
+Timeseres and Athena Database technologies. Exposure to AWS services such as AM, EC2, BC? instance storage(EBS,, EFS, EC? instance
+store), Elastic Load Balancing, Auto Sealing, Rowe 53, $3, Cloud Front, Global Accelerator, SQS, SNS, Kinesis, ECS, FARGATE, LAMBDA
+Function, API Gateway, Cloudwatch, CloudTrail, AWS Config, KMS encryption, SSM Parameter store, Shield, WAF, VPC configuration,
+Internet gateway, NAT instance, VPC Peering, VPC End Point and Database migration services, Experienced in performance monitoring,
+Database object modeling, maintenance, backup , recovery , DR maintenance, analyzing performance report and providing solution
+Experienced in Informatica Power Exchange to do Extract, Transform and Load (ETL data across diferent databases in multiple platforms,
+Motivated to stay informed of latest industry innovation to provide users with most up-to-date solutions. Gal-oiented team player succeeds
+working with various colleagues and clients by maintaining communication. Succeeds in high-pressure environments while meeting business
+needs and project expectations
+
+sxmis
++ Db2 20S, Db2 LUW, MySQL, Aurora, RDS, PostgreSQL. + Unix, Linux, Windows, Shel, Ped, ICL, REXX,COBOL, Java,
++ Apache Cassandra, MongoDB, DynamoDB, Athena, Redshift, Python, VSAM.
+
+Elasticache, CICS, IMS. ‘AWS services, IAM, BC2, EBS, EFS, Instance store, Elastic Load
+
+balancing, Auto scaling, Route 53, $3, Cloud ffont, Global
+accelerator, QS, SNS, Kinesis, ECS, Fagate, Lambda, API
+Gateway, Cloudwatch, Cloud Trail, KMS, WAF, Shield, VPS,
+DMs,
+
+‘Work History
+
+‘Senior Database administrator, 10/2014 - Current
+-Mantech International Corporation ~ San Diego, CA
++ REsponsible for Db2 Database (DDL) Desig, implementation and maintenance.
++ Responsible for SQL or sytem performance (UO, CPU, DASD delay tuning and resolution, Database security,
++ Implemented Automated backup strategy, Script to Monitor & Notify Cost consuming SQL, Weekly automated maintenance schedule
+Db? wiles),
++ Implemented automated Database reftesh ftom production to non production systexn,
++ Implemented Db2 Version Migration or upgrade and exploring features from New version.
++ Setup user access to objects based on RACE standards
++ Implemented REXX scripts to simplify manval task and save execution time.
++ Implemented Cross System CDC (Change Data Capture) between DB2 2/0S and Oracle to support 247 data replication.
++ Implemented informatica power exchange workflow to extract, transform and load (ETL) data across diferent database in multiple
+platforms.
++ Provided 24" 7 support
+Cassandra POC:
++ Installed, configured and Tested Datastax Apathe Cassandra multi-node cluster
++ Estimated chster sizing and configured cassandra yam file to modify, update configuration to improve performance.
++ Configued CQL to perform CRUD operations with Read and write consistency level (Quorum mode),
++ Created Cassandra keyspaces with replication & compaction strategy and nodesyne, Created Column families, Implemented partitioning
+and clustering sing primary ky.
++ Implemented node configuration and performed Cassandeastes test
++ Monitored and performed database operations Cassandra sing top, dat, ndetool commands, system & output log, VM garbage
+collection log, OpsCenter and lifecycle manager GUI tol.
++ Performed Node addtion/removalreplace, Node bootstrapping, Node repair, stablesplt, CQL copy stabledump,stableloader,Dsbuk,
+Backup
+MongoDB POC:
++ Installed and configured multi-node mongodb cluster
++ Configured mongodb configuration ile to modify custer configuration and improve performance.
++ Implemented replicas and performed addition femoval of nodes
++ Executed mongodb query language to create database, collection, indexes, collations, read/write document with read/write concem, CRUD
+operations
++ Implemented sharding with effective sharding keys. performed operations on confgdb o get to know cluster configuration and logs.
++ Executed mongosat, mongotop, mongoreplay, mongo profiler, compas, mols to monitor performance of cluster, schema , query and to
+resolve them,
+
+Senior Database Administrator, 042012 10/2014
+‘Mantech International Corporation ~ Suitland, MD
++ Maintained multiple Qa, DEV and Prod Db2 subsystems in 10S , designed & created Objects including Database, Tables, Stored
+procedure, Tigges, User defined fonctions, Aliases , MOT, Temporal Tables, referential intepiy, constants, Programs and plans
++ Automated Data migration, Replication, Unused storage relat, BackupSnapshot and Recovery
++ Analyzed peeformance reports to proactively identify long running SQL queries optimize and redesion SQL qty
++ Executed Stand alone and online utes to perform Load, Unload, Export, import, Mysqldump, reorganize the dat, backup, restore,
+repaie,bulkcopy, explain, bind, client/server connectivity & database consistency’ check
+MysoL:
++ Performed MySQL server installation, maintenance, upgrades for QA, Test and Production on Linus and windows environment, Handled
+security, schema changes, buffer tuning and data integrity
++ Experienced in coding REXX for Db2, Shell & Ped scripting and general system administration skills on Unix, Linux, 20S and windows
+environments
++ Effectively ued MYSQL Config changes, multiple instances, hardware upgrades, tuned innodb bul, log bule to improve DB
+performance
++ Replicated data into Dataware houte environments, established High availability replication environment, master-maste and master lave
+setup environment
++ Ability to carry out security tasks at network level such as block/unblock TCP/IP ports through fewall on both Linux and windows and
+block‘unblock remote access to MySQL server
++ Performed CPU, UO & Memory test using Sysbench and utilized mysalslp benchmatk too to capture mysalid performance
+
+_Db2 Database Engineer for Z/0S & LINUX, 062008 - 08/2009
+‘Tata Consultancy Services Lid~ City, STATE.
++ Installed smaintained and performed upgrades on Db? for 20S, Db? for LUW, and IMS databases engines.
++ Created and implemented Database logical & physical database object design including (tbls, indexes, functions, stored procedures,
+QT, views, aliases, triggers and temporal tables), data models, Database Backup and Recovery strategies,
++ Created Automated script using REXX & SHELL to reduce man hous to implement regular tasks.
++ Performed capacity planning resource management, SQL tuning reactive monitoring , report analysis and notification
++ Executed Online & standalone uilites to perform Export, Import, LOAD, UNLOAD, Reorganze data, Repair Tables, backup snapshot,
+Recovery updatelollect tatstics, ind programs & plans,
++ Scripted to perform Auto data migration between Production and Test Regions.
++ Setup and controlled user profiles and acess level foreach database segment to protect important data
++ Resolved SQL extor codes, Locking conflicts and performed Disartrous recovery setup, SQL replication, Qreplication, BLU acceleration
+and HADR setup,
+
+Epucarion
+
+Bachelor of Technolog: Informational Technology, 0622008,
+PSG COLLEGE oF TECHNOLOGY - COIMBATORE
+
+(CERTIFICATIONS
+
++ Db2 VS foe 108 cetication
++ MongoDB 4.2 certified DBA (Associate level License #602-850-608
+
++ Cassandea Administrator Certsiation (Associate Level)
+
++ AWS Centfied Cloud Paritioner (Validation Number OEQ2NIML2EVEQS9D )
+
++ AWS Cestfied Solutions Architect - Associate (Validation Number MTHHNEHLGEIQQSCR )

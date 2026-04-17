@@ -1,0 +1,284 @@
+JESSICA
+CLAIRE
+
+© _resumesample@example.com
+% (655) 432-1000
+
+9 Montgomery Stret, San
+Francisco, CA 94105
+
+SKILLS
+
++ Technical skils:
+
++ DevOps Tools
+
++ GIT, Docker, Jenkins,
+
+Terraform, Kubernetes
+
+Source Code Management
+
+Git, Bitbucket.
+
+Cloud Platforms
+
+‘Azure, AWS and On-Prime
+
+Middleware /Application
+
+servers
+
++ WebSphere Application Server
+6.x, 7.0, 8.0, Tomcat
+
++ Web Servers:
+
++ Apache Web Server
+Protocols
+
+TCP/IP, HTTP/HTTPS, LDAP
+
+Operating Systems
+
+Windows and Linux
+
+Infrastructure as code
+
++ Terraform
+
++ Monitoring tools
+
++ Check Mk, Datadog,
+Cloudwatch
+
++ Repositories
+
++ Nexus Repository, Harbor
+Registry
+
++ Ticketing Tools
+
++ HPSM, JIRA, AZURE BOARDS
+
+EDUCATION AND
+TRAINING
+
+Jawaharlal Nehru Technological
+University
+
+Kakinada
+Bachelor of technology
+
+SUMMARY
+
+‘A dynamic professional with 10+ Years of experience multiple technical teams, architects, managers
+and business users, reviewed and documented workloads, system dependencies and business
+requirements. Mapped workioads to the capabilities of Microsoft Azure for public, private and hybrid
+clouds and curentty working in DevOps environment. Expertise in Build and Deployment of C1/CD
+pipelines, managing projects often includes tracking multiple deployments across multiple pipeline
+stages (Dey, Test/QA staging and production). Experienced in Azure App services, AWS and On-prime
+Environment Setup for Pipelines. Experienced in writing infrastructure Automation modules via
+Terraform. Proficiency in doud-based DevOps practices, specifically in Terraform. Expertise in
+containerization with Docker /Kubernetes and configuration tool Puppet. Deployed and managed
+applications running on Kubernetes. Set up and managed Docker containers, running Python, DotNet
+and PHP applications, for deployment into Kubernetes Pods. Experience in Azure Container Registry.
+‘Working experience in Git, GitHub, Docker, AWS Repos, TFS. Administration of Azure VMs, Docker
+containers, IS, WebSphere, Tomcat & Apache servers. installation and Configuration of WebSphere
+‘Applicaton Server, IHS, II, Apache Web Server on Windows Platforms. Good understanding and
+experienced of ITIL processes. Skilled to work within environment of Change Request, Incident
+‘management, building the environment and prioritizing solutions forthe business continuity as per
+the ITIL process. Experience in Automation, installation, configuration. Troubleshooting of Red hat
+Linux, Ubuntu and Windows platforms and in DevOps tools lke GIT, Docker, MS Build, Maven, CICD
+and Azure cloud. Troubleshoot any application issues raised by DEV'@ QA Team Responsible to make
+sure that application is always up & running. Hands-on experiance on As resources: S3 buckets, IAM,
+Load Balancer, VPC, ECS, ECR, RDS, Cloud watch, AWS Autoscaling and AWS Security groups.
+Maintained Git and GitLab Repositories for source code management. Involved in setting up a
+clustered environment like Vertical Custer and Horizontal Cluster. Experience in writing scripts for
+build, deployment, maintenance, and related tasks using Jenkins, Docker, Maven, and Bash. Worked
+‘on AWS DevOps pipeline settings for different line of @usiness teams based on their requirement.
+Strong analytical, problem solving and organizational abilities. Strong communication and people
+skis, both written and verbal.
+
+EXPERIENCE
+
+Radius Ai - DevOps Engineer
+Alpharetta » 04/2018 - 12/2022
+
++ Worked as Azure DevOps (ADO) Engineer to setup required infrastructure on Azure
+
++ Used Kubernetes to deploy and orchestrate microservices
+
++ Implemented cluster services using Azure Kubernetes services (AKS) to manage local deployments
+in Kubernetes
+
++ Implemented Datadog agent on AKS cluster to monitor the services
+
++ Knowledge on Azure Networking Core components and Load Balancing
+
++ Implemented the infrastructure as code using Terraform across multiple services
+
++ Worked on creating Build and Deployment of CI/CD pipelines, managing projects often includes
+tracking multiple deployments across multiple pipetine stages (Dev, Test/QA staging and
+production)
+
++ Worked on Git, GitHub, Docker, Kubernetes, TFS
+
++ Troubleshoot application issues raised by DEV & QA Team and to make sure that application is
+always up & running
+
++ Ability to understanding develop, test, and deploy Python: based applications in variety of cloud
+platforms
+
++ Worked on ITIL concepts for best practice implementations of change management, continual
+service improvement, problem management, business continuity, and incident management
+
++ Worked on high availability infrastructure and application design and disaster recovery techniques
+
++ Automated the Backup techniques for taking the backup of Azure services
+
++ Work seamlessly with Engineering, QA, and Operations teams to effectively manage application
+code
+
++ Experience with Azure Cloud Services, Azure Virtual Machines, Azure storage
+
++ Environment: Azure DevOps, JIRA, GIT Repo, TFS, VSS, Self-Hosted Linux Agent, Kubernetes.
+
+Kroll - AWS Administrator/ Azure DevOps Engineer
+(08/2015 - 04/2018
+
+Installing, Configuring and Administering Jenkins Cl tool on AWS Environment
+
+‘Analyzing and Resolve conflicts related to merging of source code for GIT
+
+Implemented the setup for Master Slave architecture to improve the Performance of Jenkins
+
+Configured and automated the Jenkins build jobs for continues integration
+
+Integrate Git repository's webhooks with Jenkins to trigger Continuous Integration
+
+Installed/ Configured and Managed Nexus Repository
+
+‘Managing Backups of Instances in the form of Snapshots
+
++ Promotion the code based on different environments like QA, UAT and Prod
+
++ Hands-on experience on Aws resources: S3 buckets, IAM, Load Balancer, VPC, ECS, ECR,RDS, Cloud
+watch, AWS Autoscaling and AWS Security groups
+
+‘Managing application upgrades and Server patches weekly and monthly basis
+
+‘Worked on Tickets to solve bugs/tracking within time and assigning corresponding teams
+
+‘Monitoring all systems health status and reacting based on issues
+
+Experienced in Infrastructure Development and Operations involving Azure and AWS Cloud
+
+platforms
+
++ Ability to identify and gather requirements to define a solution to be built and operated on Azure
+‘and AWS environments
+
++ Develop Kubernetes manifests to deploy applications into Kubernetes Clusters
+
++ Utilize container-based technologies like Docker to support microservice based architecture
+
++ Ability to design and implement automated testing and deployment processes to ensure that
+applications are deployed with high quality and reliability
+
++ Strong understanding of cloud computing and containerization technologies, and experience with
+deploying applications to cloud platforms such as AWS and Azure
+
++ Ability to troubleshoot pipeline failures, resolve problems, and optimize pipeline performance
+
++ Coordinate with the development, Database, QA and IT operations teams to ensure there are no
+conflicts
+
++ Provided Configuration and Build support for different applications, built and deployed to the
+production and lower environments
+
++ Worked with development team to deliver an end-to-end continuous integration/continuous
+delivery product in an open-source environment using Jenkins
+
+By using Jenkins pipeline launching instances in cloud and Virtualization environments
+
+‘Terraform Parameterization based on requirement
+
+‘Automating Patching, scheduling patching windows every month for both Windows and Linux boxes.
+
+Creating branches to developers to keep their environmental code secure
+
+Worked on performance issues in daily basis
+
++ Familiarity with software development methodologies, such as Agile and DevOps, and experience
+with implementing them in a pipeline development context
+
++ Environment and Tools: AWS, YAML, Linux, windows, Git, Jenkins, Scripting, Terraform,
+Kubernetes.
+
+TechVibes Info Systems - Infrastructure Engineer
+State + 10/2012 - 08/2015
+
++ Open cases with Hardware and 0S Vendor to replace faulty Hardware and fix OS issues
+Increase System Drives and App Drives for all Guest OS
+
+Preparing SOP and Instruction Guide documents,
+
+Closely monitoring Memory and CPU high utilization tickets
+
+‘Monitoring, managing, and reporting daily, weekly and monthly system status
+
+Installing services patches, server patches
+
+Installation and configure Local and Network printers
+
+Creating Virtual Machines from Template and ISO.
+
+\VM Reconfiguration Activities (Disk add / resize, Memory, CPU)
+
+‘VMotion and SVMotion Tasks
+
+\VeiTools installation and Hardware Upgradation
+
+Good Knowledge on HP and Dell hardware’s.
+
+‘VM Hardware upgradations.
+
+‘Monitoring vCenter Events and Alarms
+
+Configuring data store to ESXi server using SCSI, iSCSI, Vins, Nfs
+
+Configuring and Managing VMware clustering like HA and DRS.
+
+Upgrading patches for ESXi Using update manager
+
+‘Center & ESXi Upgradation from ESXi 4.1 to 5.5
+
+Creation of network port groups at Standard switches
+
+‘Managing Host Maintenance as on required
+
+Responsible to maintain the SLA for Project, Tasks and Tickets, as per Customer need
+
+‘Windows servers commissioning based on requirement
+
+Knowledge in Active Directory Services as installing DNS and DHCP servers
+
+Working on incidents and Change Tickets
+
+Experience on HPSM, BMC Remedy and JIRA
+
+Follow the Escalation Matrix during P1 Cases
+
+‘Open cases with Hardware and OS Vendor to replace faulty Hardware and fix 0S issues
+
+Increase System Drives and App Drives for all Guest OS
+
+Preparing SOP and Instruction Guide documents.
+
++ Closely monitoring Memory and CPU high utilization tickets
+
++ Monitoring, managing, and reporting daily, weekly and monthly system status
+
++ Environment: VMware ESXI, vSphere, Windows Server Windows XP/Vista, Active Directory 2003,
+SQL Server HP ProLiant Servers, HA/DRS.

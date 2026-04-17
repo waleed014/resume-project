@@ -1,0 +1,56 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Eager Data Scientist committed to working hard and collaborating with others. Talented individual known for having terrific time
+‘management, organizational and service traits. Seek to take on full-time position assisting with data analysis and assessment.
+
+Semis
+
+* LANGUAGES-Python, R, Pyspark, SQL, Java, C,C++,HTML.  * SOFT SKILLS-Team Management, Problem Solving,
+* FRAMEWORKS, DB & OS-Flask, AWS (Ec2), MySQL, Mongo _ Interpersonal and Organizational Skills
+
+DB, Windows, Ubuntu. + ANALYTICAL TECHNIQUES- Linear Regression Logistic
+* TOOLS-Excel, Eclipse, Jupyter, Anaconda, Atom, IntelliJ, Visual Regression, Randon forest, Decision trees, KNN, SVM, Bayes,
+studio, Tableau, Docker. K-means, Hierarchial clustering, Bagging, Boosting
+EXPERIENCE
+
+06/2020 to Current Data Science Intern
+Motorola Solutions — Columbia, MD
+Performed data preprocessing on MIMIC3 dataset using Natural Language Tool Kit to transform unstructured data to a
+state where the features of the data can now be easily interpreted by the algorithm.
+Trying to find meaning full insights from the text (prescriptions) and connect them to ICD9 codes to find high risk
+patients,
+
+01/2020 to Current Data Science Intern
+Motorola Solutions — Fort Myers, FL
+
+Extracted Data from cloud by API calls to the AERSMIne- a novel framework for FAERS data mining by
+analyzing 13+ million Patients records.
+
++ Selected Preprocessed and transformed the data related to Type 2 diabetes mellitus patients into a form( X-Y
+matrix) that can be used to train a Machine learning algorithm.
+
++ Calculated the feature importance score for all the features and eliminated the features with least importance to
+avoid the over fitting problem.
+
++ Built a regression model that could predict the cause for the adverse events in these patients- co-indications and
+drugs.
+
+07/2018 to 05/2019 Program Analyst Trainee
+Cognizant Technology Solutions ~ City, STATE
+* Developed a Machine learning model using Linear SVC classifier that predicts the Obligation Category for the
+statements in a Statement of Work document with 87.79 percent accuracy. First the pre-processing is performed
+where stop words are removed followed by normalization and then model is built using Linear SVC classifier.
+‘© Written complex queries using Oracle SQL
+
+Epucation Np TRAINING
+
+12/2020 Master of Science: Computer Engineering- Data Science
+University of Cincinnati - Cincinnati, OH
+© 3.92 GPA
+* Completed coursework in Intelligent Data analysis, Machine Learning, Natural language processing, Deep
+Learning, Cloud computing and Advanced algorithms

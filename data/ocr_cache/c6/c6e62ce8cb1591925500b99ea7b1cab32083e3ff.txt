@@ -1,0 +1,166 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Guest services
++ Inventory control procedures
++ Merchandising expertise
+
++ Loss prevention
+
++ Cash register operations
+
++ Product promotions
+
+EDUCATION
+
+NP University
+fremont + 2016
+Master of Science: EE
+
+KKR&KSR Institute of Technology
+guntur » 2014
+
+Bachelor of Science: EC
+Electronics and Communication
+Engineering
+
+CERTIFICATIONS
+
+‘AWS Associate Developer
+
+PROFESSIONAL SUMMARY
+
+Over 6+ years of experience of solving complex problerns with Creative solutions, Supporting
+Development and Operations environments, Automation and Maintenance of On premise and Cloud
+based Applications and Services. *Strong working experience in Linux and Windows environments.
+Working knowledge on Cloud automation using AWS Cloud Formation templates. *Expertise in Amazon
+Web Services (AWS) cloud administration which includes services: EC2, $3, VPC, ELB, Route 53, Cloud
+Formation and Cloud Watch. “Expertise on using Amazon AWS API tools like: Linux Command line,
+Puppet integrated AWS API tools. “Experience in installing and administrating Cl tools like JENKINS /
+Hudson, Bamboo, Sub-Version, GIT. Good experience in automating deployment pipelines. *Performed
+integration of Code Quality Analysis Techniques like Check styles, Find Bugs with Cl tools like JENKINS,
+Bamboo. *Extensively worked on JENKINS for continuous integration and for End to End automation for
+all build and deployments. *Experienced with Configuration Management Tools: Chef, Puppet. Managed
+servers on the Amazon Web Services (AWS) platform instances using Chef, Puppet configuration
+management. “Involved in configuring and integrating the servers with different environments to
+automatically provisioning and cresting new machines using CM/Provisioning tools like CHEF, Puppet.
+“written Chef cookbooks and recipes to provision several pre-prod environments consisting of
+Cassandra DB installations, weblogic domain creations and proprietary middleware installations. “Good
+understanding of Docker Configuration Management tool and used as a new level of simplicity to
+defining and creating applications or services by encapsulating them in containers. *Strong hands of
+experience with scripting languages like Python, Ruby, Shell. "Experience with monitoring and
+management tools like NAGIOS, Splunk. *Hands on experience in configuring and maintaining the web
+servers like Apache, Tomcat and App servers like Weblogic, WebSphere. *Strong ability in knowledge
+of network and web related protocols like TCP/IP, HTTPS along with the routing protocols.
+
+WORK HISTORY
+
+Applied Systems, Inc. - DevOps Engineer
+Lincoln + 01/2014 - 03/2015
+
++ Role is that of a DevOps Engineer responsible for support and admit
+used for automation of builds, deploys and testing.
+
++ Responsibilities:.
+
++ Created automated build and deployment process for J2EE applications and built the workflow for a
+continuous integration system for all our products.
+
++ Created automation scripts using devops tools (Python, Docker, Json, Bash and Chef) and
+implemented AWS cloud Formation template stacks to automate building new instances using Json
+and custom Chef scripts.
+
++ Optimized volumes of EC2 instances and created AWS VPC instances and used IAM to create new
+accounts, roles, users, groups.
+
++ Configured $3 versioning and lifecycle policies for backup and archive files.
+
++ Created GIT configuration record for builds using derived objects generated during build audit
+process.
+
++ Implemented and maintained the branching and build/releases strategies utilizing GIT.
+
++ Coordinate/assist developers with establishing and applying appropriate branching, merging
+conventions using GIT source control.
+
++ Used Jenkins for enterprise scale infrastructure configuration and application deployments.
+
++ Configured and automated the Jenkins Builds jobs for Continuous Integration and Setting up
+Jenkins master, adding the necessary plugins and adding more slaves to support scalability and
+agility
+
++ Used Chef to manage web applications, Configure files, Database, Users, Mount points and
+packages.
+
++ Developed Chef Recipes to configure, deploy and maintain software components of the existing
+infrastructure.
+
++ Setup and maintenance of automated environment using Chef Recipes and Cookbooks within AWS
+environment.
+
++ Bootstrapping instances using Chef and integrating with auto scaling.
+
++ Managed the configure-tions of multiple servers using Chef recipes and also customized facts for
+efficient management of the Chef clients.
+
++ Used Nagios as a monitoring tool to identify and resolve infrastructure problems before they affect
+critical processes and also worked on Nagios Event handlers in case of automatic restart of failed
+applications and services.
+
++ To achieve Continuous Delivery goal on high scalable environment, used Docker coupled with load
+balancing tool Nginx.
+
++ Created and maintained the Python deployment scripts for Web Sphere web application.
+
++ Implemented a Python module to query data from a PostgreSQL table to display aggregated data
+from Map Reduce jobs.
+
+stration of the DevOps tools
+
+Deloitte - Devops/AWS Engineer
+New Edinburg + -1 - Current
+
++ As a DevOps Engineer, managed and automated operations of a high-availabil
+server infrastructure and performing in depth maintenance tuning.
+
++ Enhanced the current process to a new process which would be more stable and more process
+oriented for the teams of work.
+
++ Responsibilities
+
+yy, high scalability
+
+Engility Corporation - Cloud Operations Engineer
+Albuquerque + 02/-1 - Current
+
++ AS an experienced engineer, developed cloud infrastructure and software strategies to full fill the
+needs of global customers.
+
++ Many of those solutions included AWS (Amazon Web Services) offerings that we offer through our
+‘Amazon partner status.
+
++ Responsibi
+
+General Dynamics - UNIX/LINUX Administrator
+‘Neptune Beach + Current - Current
+
++ AS a Unique Linux Administrator, participated in installation, configuration and administration of
+Redhat Linux, tuning, upgrading and loading patches, troubleshooting both physical and virtual
+server issues.
+
++ Responsit
+
+Protek - Linux Administrator
+City + Current - Current
++ Asa Linux administrator, responsible for new user support and maintenance as well as basic Linux
+
+5 patching and troubleshooting network issues and installation of new CentOS /Redhat Linux.
++ Responsibi

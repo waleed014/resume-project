@@ -1,0 +1,97 @@
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 82 (555) 432-1000 4 resumesample@example.com
+
+LINKS + https:/github.com/Jessica-S1
+
+‘+ https:/hwww linkedin. comviniJessica-s-4b288612b/
+
+PROFESSIONAL © Innovative and Meticulous Professional with expertise in Data Science, Machine Leaming and Blockchain Technology .
+SUMMARY | Machine Leaming Engineer with Insatiable curiosity and drive to solve complex problems.
+
+‘+ Astute, calculating and attentive to specific business requirements. Successful history of identifying patterns, making
+interpretations and producing reports. Skilled in creating different models ,retraining systems and transforming data science
+prototypes to production-grade solutions. Experienced in employing Mathematical concepts and Python Programming skills
+to yield real gains from model changes. Well-Versed in design optimization and improving real- time prediction systems by
+evaluating strategies . Enthusiastic Blockchain Engineer skilled with developing blockchain building blocks with python and
+Creating smart contracts with Solidity Programming
+
+WORK HISTORY © DATA SCIENCE CONSULTANT - PROCESS LOGIC LLC 12/2019 to 01/2022
+Sanmina Sci
+
+‘+ Applied advanced Mathematical topics like Calculus, Business statistics and algebraic techniques to interpret key points from
+large datasets.
+
++ Utilized python to implement unsupervised machine learning techniques for time series anomaly detection on 1.4 TB of
+unstructured data, which reduced total process time by 17%.
+
++ Classified insurance claims and developed models for fraud detection when it comes to Renters/homeowner's insurance,
+
+‘+ Developed polished visualizations with Tableau to share results of data analyses.
+
++ Compiled, cleaned and manipulated data for proper handling
+
++ Devised strategies for reducing daily assessment load of Insurance claims
+
+‘+ Contributed to CIICD pipeline and production ready deployment of Machine learning models to Cloud environments. (AWS and
+H20)
+
++ Set up SQL database on cloud servers to store client data for query analysis.
+
+‘+ Applied loss functions and variance explanation techniques to compare performance metrics
+
+‘+ Used SQL to merge and clean data into conceptual, logical and physical data models
+
+‘+ Mined data and categorized customer data for Insights regarding life insurance policies.
+
+DATA SCIENCE CONSULTANT - PROCESS LOGIC LLLC 01/2018 to 11/2019
+Client : Capital One
+
+‘+ Modeled data and performed forecasting based on customer data
+
+‘+ Gathered insights regarding customer demand for used cars.
+
+‘+ Worked with bank's auto navigator department. Developed and trained machine learning models for risk analysis for Auto
+Loans.
+
++ Helped to create A/B testing frameworks to test model quality.
+
++ Utilized advanced querying, visualization with Tableau to analyze and process complex data sets.
+
+‘+ Used Spark Framework for batch processing and leveraged it to find bias in model's training data
+
+‘+ Employed feature engineering on Large datasets to pinpoint useful variables and excluded outliers and unrelated data points.
+
+ENGINESRING INTERN 04/2017 to 09/2017
+Safran Electrical & Power ( Safran Group ) | City, STATE
+
+‘+ Performed data analysis of information provided by customers to obtain metrics
+
+‘+ Provided engineering support to production team during commissioning phase of project.
+
++ Collaborated with senior engineers on projects and offered insight.
+
++ Drafted 2D and 3D designs, using both Revit and AutoCAD software.
+
+EDUCATION ©  Specialization- Financial Technology 1272024
+Miami Herbert Business School, University of Miami, Coral Gables, FL.
+Master Cf Science | Environmental Science And Engineering 012017
+University of Houston, Houston, TX
+CERTIFICATE © Eintech Professional - Trilogy (2U Inc. )
+Data Scientist, Machine Leaming - Dataquest
+PROJECTS © Successfully completed numerous advanced projects with real world problems with large data sets wi
+various industries. Kindly checkout my Github repository. Following are few examples.
++ Credit Card Fraud Detection ( Machine Learning )
+- Developed machine learning models to effectively and efficiently detect credit card fraud transactions,
+- Language and tools ( Python,Matplotlip, Pandas, Numpy, Scikit-earn, Tensorflow, Matplotlib)
+‘+ Blockchain Smart Contracts
+- Created three complex smart contracts including Tiered profit splitter and deferred equity plans.
+- Language ( Solidity Programming)
+
+‘+ Natural Language Processing (NLP)
+
+- Used NLP and advanced statistics to perform sentiment analysis of crypto market . Employed NLP to understand the sentiment in
+the latest news articles and online posts featuring Bitcoin and Ethereum. Including common words, phrases ,organizations and
+entities mentioned in the articles and their effects on coin prices.
+
+- Language and tools ( Python .spacy, NLTK, Newsapi , Jupyter Notebook )

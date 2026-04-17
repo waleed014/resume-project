@@ -1,0 +1,143 @@
+Jessica CLAIRE
+
+100 Montgomery St. 1th Floor © (555) 432-1000 @ resumesampleexample.com
+
+Professional Summary
+
+Proactive Database Administrator with 5 years of experience in database development and production environments. Proven skills in
+security management, database maintenance and establishing backup and recovery processes to safeguard data. Excellent
+presentation and communication skills, Motivated self-starter consistently meets deadlines and succeeds in high-pressure
+environments.
+
+Skills
++ TSQL + Data conversion and migration
+Share script * Database analysis
++ Visual Studio + Data testing
++ Microsoft Azure + Database administration
++ Microsoft SQLserver + Document management
++ ETL/OLAP/OLTP + Root cause analysis
++ DATAWAREHOUSING + Presentations
++ SSMS / SSRS /SSAS / PowerBI + Customer needs assessment
++ Microsoft PowerShell + Microsoft SQL
+
++ Writing queries
+
+Implementing security measures
+Work History
+
+SQL Server Database Administrator, 01/2019 to Current
+Jacobs Engineering Group Inc. — Long Island City, NY
+
+++ Specified user access levels for each database segment to protect database integrity and company information,
+
+‘+ Assessed customer needs and goals through communication and system evaluations to modify existing databases for
+personalized customization.
+
++ Developed and implemented security initiatives to protect important company data.
+
+‘+ Wrote scripts and processes for data integration and bug fixes.
+
+++ Tested and modified databases to determine and correct issues thereby minimizing downtime.
+
++ Defined database design specifications based upon project requirements.
+
+‘+ Created data verification and testing methods to resolve updates and patches issues and prevent glitches.
+
++ Upgraded SQL Server 2012 servers to SQL Server 2019 with both In-place and Side By Side Upgrade for new applications in the
+company
+
++ Created and managed database reports, visualizations, and dashboards.
+
++ Developed processes for optimizing database security.
+
++ Configure and setup High Availability and Disaster Recovery, database mirroring.
+
++ Interface with developers, network, virtualization, storage and systems operations teams to resolve problems with applications
+and database systems.
+
++ Responsible for taking and maintaining database backups for recovery in the event of disasters.
+
+++ Diagnose and troubleshoot database errors.
+
++ Created and managed database reports, visualizations, and dashboards.
+
++= Design, develop, test, deploy and maintain databases, database objects, database security and database recovery solutions.
+
++ Develop, manage and test back-up and recovery plan.
+
+‘+ Maintained database response in a 24/7 production environment
+
+‘+ Mentored newly hired employees, offering insight into job duties and company policies for easier transition to job position.
+
+SQL Server Database Administrator, 11/2016 to 01/2019
+Jacobs Engineering Group Inc. Loveland, CO
+
+‘+ Assessed customer needs and goals through communication and system evaluations to modify existing databases for
+personalized customization.
+
++ Installation of Microsoft Windows Server 2005, 2008R2, 2012, 2014, 2016, 2019, building, designing, Configuration, Install and test
+new version of the database management system (DBMS).
+
++ Upgrade, Migration and application of Windows and SQL Patching during scheduled database downtimes after hours to ensure
+databases are up to date in Virtualized environments.
+
++ Setting up and defining a good maintenance plan for Backup and Recovery strategies and Capacity planning following the
+company’s Recovery Point Objective (RPO) and Recovery Time objective( RTO) and the Retention policy.
+
++ Set forward authorization, audit plans and data security by creating users and assigning permissions based on the company
+SLA, established and monitored users access and security.
+
+‘+ Monitored performance and manage parameters in order to provide fast responses to frontend users.
+
++ Successfully Configured High Availability (HA) and Disaster Recovery (DR) Solutions on productions systems using - Always
+‘On, Database Mirroring, Replication, Log Shipping to make sure the databases were always available and running,
+
++ Successfully Implemented capacity planning, Managing and providing end to end support and problem resolution for SQL
+Server databases through multiple product lifecycle environments, such as development, testing to mission-critical production
+systems.
+
++ Performed capacity management as & when required.
+
++ Reviewed logs for compliance issues with people attempting to access the database
+
+‘+ Monitored query store for database performance and report problems.
+
+Oracle Database Administrator Support, 07/2016 to 11/2016
+Home Depot City, STATE
+
++ Developed and implemented security initiatives to protect important company data.
+
++ Successfully installed and configured Oracle 11.1.0.7, Oracle 10.2.0.5 databases on AIX platforms.
+
+‘+ Monitored different databases and application servers using Oracle Enterprise Manager (OEM) Grid Control.
+
+‘+ + Refreshing Dev and Test instances with data from Production on a regular basis.
+
+‘+ Creating and assigning appropriate roles and privileges to users depending on the user activity.
+
++ Defragmentation of tables and indexes for improved performance and effective space management.
+
++ Responsible for support of Oracle Databases of sizes ranging from 100 GB to 12 TB.
+
+‘+ + Part of DB support team, providing 24/7 support for Production databases.
+
++ Loading data from flat files to database using SQL*Loader, External Tables.
+
++ 24/7 technical support of Oracle 12c/ 11g, 10g databases, on Development, Test, QA and Production environments.
+
++ Implemented proactive monitoring using Tuning Pack, Diagnostics Pack, and STATSPACK, SQL Trace & TKPROF, EXPLAIN
+
+PLAN.
+
++ Documented the Standard Processes for peers to follow.
+
++ Applying upgrade patch, maintenance and interim.24 X 7 Production & Development database support and administration.
+
+‘+ Successful in applying RDBMS patches, security patches for improving the security and functionality of the databases.
+
+‘+ Achieved optimized performance for the databases by rebuilding indexes, on tables and indexes.
+
+Education
+
+Master of Science: Accounting And Finance
+UNIVERSITY OF DOUALA - CAMEROON - WEST AFRICA

@@ -1,0 +1,106 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Education and Training
+
+Bachelor of Science: Management Information Systems, Minor Accounting, 2016
+The University of Tulsa - Tulsa, Oklahoma
+
+Certificate : Spring 4 and Spring MVC Training, 2017
+Hands On Technology Transfer - Houston, TX
+
+Experience
+
+Mobile Banking Developer, 01/2016 to Current
+
+Act Second - City, STATE
+
+- Make design and functional enhancements to consumer facing Android and iOS mobile banking applications, utilizing MVC best
+practices
+
+- Fetch and parse JSON data from SOAP web services for iOS applications using Core Data framework
+
+- Lead iOS developer for StartRight, a 401k retirement planning and investment tracking app, with 1000+ monthly active users
+
+- Utilize Jenkins for build automation and HockeyApp for test
+
+- Set up Swift 3 and Objective C interoperability
+
+- Experience with third-party libraries and APIs
+
+- Run Fortify scans to verify application security protocols met
+
+- Alleviate potential problems before they become bottlenecks with solutions that put our customer's best interests first and foremost
+- Made case for and helped initiate integrating agile practices into the digital banking team’s daily operations to improve
+communications, reduce time to market and increase overall efficiency
+
+- Experience merging branches using svn and use Versions subversion client for version control
+
+Project Management Intern, 09/2015 to 2016
+
+Gateway Mortgage Group — City, STATE
+
+- Gathered requirements for developing and integrating a custom Collections Tracking System that will utilize custom APIs, SQL
+Server database and automation to replace manual processes, reduce risk of exceptions and track productivity metrics
+
+- Aided in the phasing and sprinting of Collections Tracking System project- Created a data dictionary that included 500+ data
+elements
+
+- Developed use case and workflow documentation for the new system- Worked closely with Project Management team, learning
+from their expertise in the Mortgage industry and best Project Management practices
+
+- Created efficiency and accreditation assessment model for use by executives and managers
+
+~ Interviewed collections team to gather business requirements for new system workflow
+
+IT Intern - eCommerce, 05/2015 to 07/2015
+
+GameStop - City, State
+
+- Implemented a continuous integration pipeline for GameStop native mobile applications
+
+- Created automated build and deploy configurations for iOS and Android apps using TeamCity platform specific plugins (Xcode
+Project, Gradle Runner etc.), making appropriate configurations to files as needed- Integrated automation with existing tools, such as
+GitHub, TeamCity and HockeyApp, to improve time to market, visibility, crash reporting and reduce the possibility of human error
+- Set up development environment on VM configuring and using IIS, SQL Server, Google Chrome plugins and Visual Studios to
+analyze code associated with front-end of website
+
+- Solved platform specific CI process obstacles through meticulous research and proposing said conclusions to software developers,
+leading to successfull automation of build and deploy build steps
+
+- Filled business analyst role for the internal Game Informer team, gathering requirements and creating stories that documented
+reasoning and needs to solve technical issues with global impact
+
+- Gathered data on 10,000+ webpages using Google Analytics, benchmarked data against previous year's page views, unique page
+views, adding potential click-through revenue per page, for use by senior managers in strategic decision making for Game Informer
+website
+
+- Made Excel spreadsheet linked to a Game Informer TFS backlog query I created for easier filtering and prioritizing of backlog items
+by management
+
+- Analyzed bugs relating to Omniture site catalyst and C# code, taking initiative to gather internal marketing team’s data needs,
+backing them with potential enterprise benefits
+
+- Worked with the database administrators on audit of RFCs in order to align with SOX regulations
+
+- Set up testing framework and ran different QA tests against UI and services provided on company website
+
+Skills
+* Native Android, Native iOS and Web Development * Git, SVN, Versions, GitHub
+* Objective C, Swift, Java, XML, HTML, CSS, JS, Ruby, SQL, * Jenkins, TeamCity, HockeyApp, Xcode, Android Studio,
+Python SalesForce
+
+Activities and Honors
+
+Social Media Chait, Oklahoma Women in Tech June 2017 - Current
+
+IT Volunteer, Dress for Success (Tulsa) June 2017 - Current
+
+Teaching Assistant, RailsBridge January 2017 - Current
+
+Dean's List, The University of Tulsa
+
+Best Runner Up Freshman Delegate, Oklahoma Intercollegiate Legislature Spring 2016
+
+Held many leadership roles and chartered an organization while attending TU

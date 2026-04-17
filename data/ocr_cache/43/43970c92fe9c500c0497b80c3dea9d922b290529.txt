@@ -1,0 +1,148 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 ¢ resumesample@example com,
+
+PROFESSIONAL SUMMARY
+
++ Over 14+ years of IT experience in Database Administration and Support of MS SQL Server 2016/2012/2008R2/200S in Production, Tet,
+Development Environments
+
++ Experience in implementing high availability using Server clustering (Active-Active, Active Passive) in Windows 2008/2012/2016
+environment.
+
++ Experience in RDBMS database design, performance tuning, optimization, backup and recovery in SQL Server 2008-2016,
+
++ Experience in Disaster Recovery Planning.
+
++ Migration experience from MS SQL Server 2008 to 2016 Along with Datacenter move.
+
++ Master in performing database files management, backuptestore, security management, Database Mirroring, data integration, data
+compression and synchronization
+
++ Extensive use of DTSISSIS in SQL Server, Performance Tuning & Index Tuning, Disaster Recovery Planning, Security Management,
+Managing server and clients
+
++ Extensive experience in Capacity Management and assigning storage for cloning environment
+
++ Extensive experience in setting up Cloning environment and troubleshooting issues.
+
++ Expert in configuring/ Migrating SQL server 2012 ~2016 with Always on.
+
++ Hands on experience in Metal 3.1 and Informatica 9.0/9.1 a data warehouse tools used in EDW for the ETL flow.
+
+‘SKILLS
+
+Cloning, Mirroring, Clustering, Replication Always ON, Web Services, -SQL, PowerBuilder, Power Shell, VB Script, Python Jupyter ,
+ETL, SSIS, SSRS, SSAS, Siebel 7.7, Informatica Metal, SQL Azure. Spyder,Anaconda Java,C/C++
+
+Work History
+
+Senior Database Administrator, 07/2015 - Current
+Honeywell - Rocky Mount, NC
+
++ Increased overall database performance, reduced fragmentations, and minimized failures by implementing various upgrades and migrations
+
+strategies.
+
++ Performed Datacenter migration ffom scratch in minimal downtime
+
++ Consolidating environments to save cost on licensing.
+
+‘+ Migrated all SQL servers from one datacenter to another with minimal downtime.
+
++ Planning and migrating data to another storage which is optimal and cost saving
+
++ Maintained, restructured, and optimized databases by removing performance bottlenecks, devised and integrated solutions
+
++ Troubleshot and resolved technical issues; alleviated bottlenecks to ensure optimal functionality
+
++ Develop and monitor standards and procedures for database environment Perform database software installs, configurations, patches, and
+
+upgrades
+
++ Performance management of the application using various tools like New Relic and Data Dog.
+
++ Created alerts to keep the environment up and running 24 /7
+
++ Performance tuning for the SQL server queries and optimizing
+
++ Developing scripts for refreshing Test environment with production data.
+
++ Effectively migrating SQL server MDS environment to MDS 2016 which effectively improved performance of the systems.
+
++ Setup and controlled user profiles and access levels for each database segment to protect important data,
+
++ Tested programs and databases to identify issues and make necessary modifications,
+
++ Wrote and maintained technical and functional specifications to document database intentions and requirements,
+
+‘+ Planned and implemented security measures to safeguard vital business data
+
++ Developed and implemented performance improvement strategies and plans to promote continuous improvement.
+
++ Led projects and analyzed data to identify opportunites for improvement.
+
++ Working on planning Azure migration for section of databases
+
+SQL DBA /Module Leader (Client Microsoft), 09/2007 - 0622015,
+(2S Technologies ~ City, STATE
++ Implementing high availabilty sing Server clustering (Actve-Active, Active Pasiv).
++ Setting up HLB for IS servers for load balancing wsing Active — Active clustering
++ Implementing alerting systems forthe applications
++ Creating customized monitoring tool using PowerShell scrips
++ Used SSIS as an Extract Transform Loading (ETL) tool of SQL Server to populate data from various datasources, reated packages for
+Afferent data loading operations for application,
++ Incident Management and problem management
++ Performed DBCC utilities and fixed data corruption in application database
++ “Monitored and modified Performance using execution plans and Index tuning.
+Ensued the packaging processing deliverables are completed on time
++ -Automation in monitoring servers and databases
++ Seting up cloning & mount pint forthe aplication.
++ Uporading SQL server katmai to CTPS, CTPS , RTM
+‘+ “Tuning quesies which are runing slow using Profiler and Statistics Toby using diferent Methods in terms of evaluating joins, indexes,
+updating Statistics and code modifications.
++ Setting up environments with cloning infastructure and troubleshooting
++ Work with business to accommodate maintenance window with minimal downtime dve to application eicality
+
+‘Siebel Administrator (Client : Microsoft), 08/2004 - 02/2006
+Wipro ~ City, STATE
+
++ Build Support for Dev teams to triage build issues.
+
++ Create schedules for applying builds and rffeshing the environment with the production backups.
+
++ Consult production team to understand the risks before any release.
+
++ Tracking issues that come across during the build through product studio,
+
++ Managing the source code control aspects of windows releases.
+
++ Installing and configuration of SQL Server and Siebel 75.2
+
++ Applying the development code to test environment
+
++ Restoring the Databases after every Phase of testing
+
++ Configuration of Siebel environment and setting up Siebel gateway, Enterprise servers.
+
++ Troubleshooting the Job related, Siebel administration and IIS related issues.
+
++ Upgrading the Siebel Database using Siebel configuration tools
+
++ Upgrading SQL 2000 to Yakon (SQL 2005)
+
+EpUucATION
+
+Bachelor of Engineering: Computer Science
+BLDE A's - Kamataka India
+
+(CERTIFICATIONS
+
++ Data science University of Washington
++ Azure Database Administrator Associate (Microsoft)
+
+Traini
+
+8:
++ Completed training in DP-OSOTOO Migrate SQL workloads to Azure
++ Completed training in DP-100TO1 Designing and Implementing a Data Science Solution on Azure

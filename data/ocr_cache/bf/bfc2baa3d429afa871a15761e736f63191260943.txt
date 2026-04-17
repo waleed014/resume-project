@@ -1,0 +1,179 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ ASP .Net
++ CH
+
++ Azure DevOps
++ CI/CD workflow
++ Angulards
+
++ JQuery
+
++ Powershell
+
++ SQL
+
++ SSRS
+
++ Jenkins
+
++ Git, TFS
+
+EDUCATION
+
+Jawaharlal Nehru Technological
+University
+Hyderabad + 04/2010
+
+Bachelor of Science: Electronics,
+‘Communication Engineering
+
+PROFESSIONAL SUMMARY
+
+10+ years of professional work experience in C#, .Net, Angularjs, DevOps, jQuery, SharePoint.
+Hands-on Experience on CI/CD workflows using Azure Devops, YAML pipelines, jenkins, git.
+Worked on integrating code quality analysis tools such as Fortify, Blackduck, Checkmarx, Threadfix
+to the pipeline.
+
+Efficient Database skills in Microsoft SOL Server. Worked on Database Design, Developing
+Queries, Views, Stored Procedure, Packages and Functions, SSRS.
+
+Extensive experience in designing and developing the applications using core web technologies like
+C#, ASP .Net, WebForms, ADO .Net, WCF, Web API, MVC, LINQ.
+
+Expertise in developing applications using AngularJS, HTML5, CSS3, jQuery and Bootstrap with
+responsive design framework.
+
+Developed and integrated applications implementing SOA based architecture with REST web
+services.
+
+Good Understanding of Object-Oriented Analysis Design (OOAD), Design Patterns, Architectural
+Patterns, MVC and .NET framework.
+
+Experience working with project teams delivering software through various Software Development
+Life Cycle (SDLC) phases like Requirement Gathering, Analysis, Designing, Coding, Testing and
+Implementing software and deployment using Agile Scrum methodology.
+
+Experienced in using code repositories like Team Foundation Server (TFS), Git to maintain
+different versions of the application to keep track of changes and perform peer code reviews.
+Proficiency in Code analysis tools such as JSHint, StyleCop, FXCop, CSSLint, CSSCop etc.
+
+‘Good work experience on SharePoint development like SharePoint Webparts, Designer Workflows.
+Proven effectiveness working independently and collaboratively in teams.
+
+Excellent communication and interpretation skills enabling effective interaction with application
+Developers, End Users, Project Managers and Business Analysts to review the requirement
+specifications.
+
+WORK HISTORY
+
+Xylem Inc. - DevOps Engineer
+Rock Hill, SC + 11/2019 - Current
+
+‘Azure DevOps to include Git Repos, CICD Pipelines, Artifacts.
+
+Wrote YAML files to automate the Build & Release definitions. Also created YAML templates to
+automate the process.
+
+Worked on integrating the pipeline with different tasks like Nuget, IIS, MSAzure, Copy files.
+Worked on automating the pipeline by writing C# code to create the YAML files for all the
+applications that use the pipeline.
+
+Worked on Integrating Blackduck, Fortify, Checkmarx, SCA tools to the pipeline. | have written
+Groovy code to integrate the portal. We created Jenkins tool to create and run the pipeline jobs.
+We used Jira tool to log and track our work.
+
+‘The code repositories are stored in github and we used git as the version control to maintain our
+code.
+
+Worked in agile model with daily scrum meetings.
+
+Used Azure DevOPs for Continuous Integration and Continuous deployment in Lower Environments
+
+Transwestern - Lead Engineer
+Phoenix, AZ + 03/2016 - 05/2019
+
+Development using C#, WCF and Windows Services.
+
+Setting up WCF application in IIS
+
+Setting up and configuring windows services
+
+Setting up SMTP to send email messages to the user in case of any failure
+
+Creating installation and update guide documents for the deployment team
+
+Developing monitoring tool for tracking the orders and results using jquery, hml and css
+Writing complex queries and stored procedures to perform CRUD operations on Sql Server 2008R2
+Participating in daily standup to provide everyday status to the team
+
+Performing peer code reviews in TFS
+
+Creating RestFul Web API to perform required CRUD operations on Database
+
+Used JSON for data exchange between client and server.
+
+Hewlett Packard Enterprise - Senior Software Engineer
+El Paso, TX + 09/2013 - 02/2016
+
+Designed a Web application using Web API with AngularJS
+
+Developed muttiple POCs to create a user interface in Angular JS
+Implemented angular services, directives.
+
+Implemented ng-repeat to display tabular data and utilized CRUD features such as sorting,
+filtering, paging and data manipulation using AngularJS
+
+Utilize JQuery AJAX library to call Web API to populate dropdown list
+
+We used Team Foundation Server to maintain our code.
+
+Performing peer code reviews in TFS
+
+Creating RestFul Web API to perform required CRUD operations on Database
+Used JSON for data exchange between client and server.
+
+Worked on Sharepoint Libraries, Lists, Workflows.
+
+Pepco Energy Services - Software Engineer
+Elgin, IL « 09/2010 - 08/2013
+
+Understanding business requirements and created necessary technical specifications and design
+documents
+
+Creating dynamic content for the web applications using Active Server pages
+
+Ensuring the technical feasibility of UI/UX designs using aspx Webforms and CSS and developing
+new user-facing features, building reusable codes and libraries
+
+Building Custom software using .NET for Retailers and Sales Managers which include sales,
+purchase, and reporting and Dash board; building an application for the sales force to capture the
+field surveys with Restful JSON
+
+Designed and built survey pages using HTML and JavaScript and save user information into the
+database
+
+Involved in Development, Coding and unit-testing the applications
+
+Performed testing and analysis throughout software life cycles
+
+Providing support for Go-Live and troubleshooting the bugs encountered in production environment
+Peer reviews on code developed by other developer
+
+Participate in weekly reviews and meetings and provide updates on project progress
+
+‘Complete responsibilities and decision taking for successful project implementation in the
+scheduled timeline
+
+Regular status update to ensure no delivery slippages and i
+
+ime mitigation of issues and risks

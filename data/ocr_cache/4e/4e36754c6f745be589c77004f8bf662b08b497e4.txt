@@ -1,0 +1,203 @@
+Jessica CLAIRE
+100 Moctgomery St. 10% Floor
+(655) 432-1000 -esumesanple@example com
+
+Scone
+
+Avell organized, gol cried highly motivated effective eam member wih excellent analytical, woubesootng, and problem ving
+skill,
+
++ RDBMS /Daabases-MS SQL Serer2017 201420122008, + Reporting Tels - SQL Server Reporting Services (SSRS), Crystal
+MS-Accss 97-2007 Reports 810
++ Languages TSQL, Vial Basic 60, HTML, C, Cr, Visual» Integration Services - SQL Server Integration Series (SSIS),
+‘tao 2013201, 3S SharePoin, MS Team Foundation Server Dita Transformation Services (DTS)
+(F5), (RDBMS & SQL) + Daubave Tole MS SQLServer Eterprite Manager SQL
++ Operating Systems - Windows Sere 2008XP2000NTI98S, Pole, Query Analyzer, OLTP, OLAP, Date Engine Tuas
+MSDOS62 Advsoe DTA)
++ Modeling Tools - Microsoft Visio 200, Erwin 3x + nee Tools Internet Infomation Server (IS 5.0/6.0), FT,
+Toe
+Exenuesce
+
+(032021 fo Cutest SQLIETL Developer
+Apex Systems ~ Doser, NH
+
+* Created SIS packages to migrate ata om ferent dat sources to data warebose
+
++ Sosceasfilly exacted anfermed and oad dt iat data warehouse
+
+«+ Created packages by testing and cleaning the Standardized Data by tsing tos in Data Flow Transformations (Data
+Conversion, Expt Coun, Mere oi, Sot, Union al, Conditional Split and moe) for existig/new packages
+and nge CSV file igor on dfleet data seurces nd eter ongoing task or napping
+
++ Scheduled SSS packages fr runing monthly and weely feds om ais guarantors and malig serves nd
+
++ lvolved in enkancing and deploying the SSS Packages from development server to poduction server,
+
+«+ Responsible forthe Peformance tuning ofthe SQL Commands withthe wse ofthe SQL. Profiler and Database
+“Engine Toning Advisor
+
++ ised and Configured SQL Server ActvelActive and Active Passive cose
+
++ Monte Scheduled jobs sn lets
+
++ Designed and developed ETL solutions fr wanfomtion of data om suse wansactionl systems ooh dat
+feeds inte a dimensional dative, o ote destinations
+
++ Created, Scheduled, Generated 08 opin’ ETL jobs
+
++ CretedUpéaed Stored Procedres, Tigges, Futons, Cus, Views, and Indexes wth extensive we of SQL
+
++ Created, documented and inplemented wit et plans, sip, nd tet eases
+
++ Created nd maintained elas documentation wing deine ela documentation templates
+
+*+ Contd ote ceation of slid coding ehniqus and recommended and reviewed coding tars
+
++ Brahe database performance a performed mastenanc dts such as Tung Backup, Restoration 2nd
+Disaster Recovery forthe data
+
++ Wote documentation, data warehouse aft and data lineage for ETE tools
+
++ Envtonment MS SQL Server 20122008R2/2008/20052000, Visual sida 20102008 (SSASSSIS'SSRS),
+‘Microuft Access 2007203, Micosot Excel Pivot Table), OLAP and OLTR, Outlook, MS SQL Profiler, SQL.
+server Query Analyae, Indes Tong Wiad, OF
+
++ Ceystal Repos 8 910, Frame Wosk 20, C, Dash Board by Cesta ep, Envia87 385 Windows 200772010
+Advanced ServerPrfesional, Window XP, MS Aces, My SQL
+
+(072018 9022021. SSRSIETL Developer
+(Cigna Health Benefits ~ Cty, STATE
+
+* Created ETL package to vate cera wanafiem and lad data to data warchose databases, data mast
+abuse
+
++ Developed SSIS Temples tht can be used to develop SSIS Packages
+
+‘+ Worked on development implementation nd suppor of ETL processes for lage sale Data Warehouses using
+ssIS and DTS
+
++ Created Sts process design architetng he low of a fom various sources to target
+
++ evolved in extracting the data using SIS fiom OLTP to OLAP
+
++ Responsible for Deploying Scheduling Jobs, Aleing nd Maintaining SSIS packages
+
++ Developed SQL Queries tfc complex data om diferent ables ia emote databases sng joins, database inks
+ad formated the rests into reports and kept Togs
+
++ Created SIS packages to retieve data om Lepay sources to etieve wer data fom the Fat ison moth aod
+wee bss
+
+«+ Responsible for data anasis, loading dra from Data feed to Data Wareboose ables
+
++ Uaedtecaiques like backups, eto replistion, and standby databases tense higher aablity Production
+
++ Pefomed database asters and quis tune-up, intepity verification, data cleansing asst and iterpetation
+
++ Developed, montred an dynamically deployed SSIS packages into Des. Tes and Production Eaionment
+
++ Responsible for maintaining cubes sing SSAS and populate the cokes wth tbe ata
+
++ Created Tabor Mati reports, Carts an graphs sper cstmer requirements Using SSRS
+
++ Good understanding oF SRS wh Report authoring, Rept management Report delivery and Report ecty
+
++ Created eepons with Analysis Services Cbe asthe datasource using SSRS 20082008
+
++ lvoved in designing he physical database models on SQL Server RDBMS wsing DML/DD. implementing
+
++ Extensively wel T-SQL to manpuite and architect produce ets fr were,
+
+«+ Feed incerate dt fom lepaey system sing complex SQL statements, 2nd mpemete various constants
+sd wigers for data consistency
+
++ ented tread ecveddatabave performance issues (ceitrng ad ann) to enre dtbate
+‘puezaton
+
++ Created incremental data load ak sng SQL Server Intestin sevies
+
+«+ volved in project stat repr updates creation of ise ites fr reviews! updates of tcc and
+‘wanfomaton ils on tie basis
+
++ Pefomed efficient tring of SQL source queries for data load! Usage of stored procedures for perfomance
+
++ Worked on Transactional Replication and eeplicated thousands of bls om various Databases odlrent
+‘rodeton Server
+
++ Worked wih development teams i the design of physical databases andia madison
+
++ tvoved in migration rom SQL Server 205 to SQL Server 2008
+
++ Created Quick View les updated on timely basis as datas updates
+
++ Developed QuickView Function and Report as busines needs
+
++ Envzonmeat MS SQL Saver 20162014, SSRS, SSAS, SSIS, SQL Query Analyze, SQL profiler, 1S 60,
+(Orato, 1g, Eerie Manazer,ERWIN Data Modeler, Winds Server 203/208, DS, shar Poit Pot
+Server, HTML, XML, CH, Net, ASPNET, Vinal Sadi 2005, MS Acces, Cystal Reports, MS Excel 2007
+
+(03201640 062018 SQL Server BL Developer
+
+Humana HeaihCare~Ciy, STATE
+
++ Designed SQL SSS Pakazes in Business nteligence Developmen Stadio (BIDS), to exact at fon various
+da sources such Acces database, Excel speeasbet and tes ito SQL Server, fo futher Data Analysis
+ad Reporting by using mullewarfermations provided by SSIS such a Data Conversion, Conitogl Spit,
+Bull inet, mere and union all
+
++ Created complex Stored Pocedues, Tigges, Futons, ldets, abe, Views, SQL joi ad other FSQL code
+to implement busines rules
+
++ Created SOL server Reports using SSRS 2005 forthe mange nthe brokers involved and formated the eeport
+layout forthe eqisement ofthe end wes
+
++ Generated report for end user equiements sing SSRS
+
++ Deployed developed rept ono he sere fo the end wees
+
++ Expert ia leaning data fo data consistency whee the datasource i single system or mull dispate
+
++ Expert ia Merge Jin tansfornation, which can ake two diffe inputs and merge them together by comparing 2
+setofkey columns, wich perfoms different ype of joins
+
++ Experience in Bent Loeing Resource management, Logfiles, File and File Group, Sei, Backup and
+Recovery
+
++ Designed SQL SSS Packaze in Burnes inteligence Developmen Stadio (BIDS), to exact at fom Yarious
+ata sores such as Acces database, Excel spreadsheet, and at files into SQL Server 2008, 2005 for farter Data
+Analysis and Reporting by ong multiple wansformations provided by SSIS suchas Data Conveson, Conditional
+Split Blk nse merge and union al; Scheduled and maintained nigh and week loads of ata by creating the
+corepooding jb tank in Vinal Stadio
+
++ Supported Application Development eam with any athe issues, updates or ew releases
+
++ Support inched deadlock sues, best pacts in suri SQL Queries, debugsing unexpected SQL ress,
+
++ Envtonmeat MS SQL Server 2014, SQL Server Reporting Services (SERS). MS Acces, MS Excel, SSIS,T'SQL,
+(race Estes edition, Oracle Enterprise edn, Tableau Desktop, Power BI, Visual SoueeSafe, Win 2008,
+Avance Sever, Power
+
+Epvesmto axp TRAINING
+
+Bachelor's Degree
+Appmoxat Inronstarion.
+
++ 67 yeas of TExpeince in Busines Intligence ‘Data Wuchowse|SSIS'SSRS) MSSQL Server 2017/201/2012/2006R2 Database &
+‘Visual Stadio 2013 SRS Worked on al phate of data warhowe development eye, fom gathering requsemests to design
+implementation teting 2nd support data warehouse and daa arenes, Bung 2 DW fom the ground yp. Demoastated expertise
+sting ETL tots, inloing SQL Serer Intepraion Series (SSIS), Data Transformation Services (DTS), and Data Stage and ETL
+package design, and RDBMaytens ike SQL Servers 2012/2014, Wok with developers, DBAs, and ystems supp peel
+‘lesating and automating succesful coe te production have very good financial and heath ae experince in my previous projets in
+‘seating Chr repos, Drill down and Drill through Reports by passing parameter in SQLServer Repring Services (SSRS) Expertise
+‘Daa Exaction, Transforming nd Loading (ETL) wing SQL Sever letegraton Service (SSIS), Worked on Tablas, development of
+asboards and publishing the reports cn 90 and 93 Tableau Server Extensive knowledge in Tuning SQL queries nd proving te
+uery pafoomance. Point in cresing Index, Views, Complex Stored Pocedtes, appropiate incon, sp ele experienced i
+‘plementation of tog feel stepity and suditng bythe we of riggrs and SQL. Srp. Expet in reting taditonl a well at
+‘Web-based neracve eps wing SSRS, In-depth knowledge of Transact SQL (DDL and DML). Experience in optimizing the
+<aate by creating various Chstered,Noncutered indexes. Expet in resting Chat ers, Dill down an Dail ough Reports by
+sng parameters in SQL Server Reporting Services (SSRS). Experienced wih converting excel and Crystal reports to SSRS reports
+ad mgt cystl reports to higher versions. Eepertin Database Normalization, Opinization and Tuning, Backup Restore, Data
+Inport por, Troblesbooig, ad Database Objet aubeition. Experience in cresting Jot, Alt, SQL Mal Agen ad
+Scheduled SSIs Packages. RDBMS experience, iacoling SQL popramming, data arlsi and data venation and validation
+Keowledgable i planning and implementing MS SQL Sever Secu, DBA and database Permissions. Self motivated and poses
+stay fr ete thikig, nay, good iterperonal nd commaication sills.

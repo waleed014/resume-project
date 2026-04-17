@@ -1,0 +1,380 @@
+JESSICA
+CLAIRE
+
+‘© resumesample@example.com
+& (655) 422-1000
+
+9 190Aontgomery St. 10th
+Floor
+
+SKILLS,
+
++ Technical Skis
+
+{performance monitoring and tuning
+tools:
+
++ Database Engine Tuning Advisor, SQL.
+Server
+
++ rofl, Extended Sessions, activity,
+Monitor,
+
++ Statistics 10/TIme, Execution plan and
+
++ Performance Monitor, OM, System
+stored
+
++ Procedures.
+
++ ROMS and tools: MS SQL Server
+
++ 2019/2017/2016/2014/2012/2008/20.
+sau
+
++ Loader, import and Export, and
+Powershal,
+
++ Third-party tools: IDERA Diagnostic
+
++ Manager, System Center Suits /SCOM,
+scsi,
+
++ Modulator, SolarWinds, Redate,
+spotight., SQL
+
++ Sentry. Apex SQL, Microsoft systems
+Center
+
++ 2012 (SCOM), Litespeed,
+
+Operating System: Windows Server
+2019,
+
++ 2012R2/2012/2008R2 2008/2003.
+
++ Backup software: SQL backup, Lite
+Speed,
+
+Rad Gate, IDERA, and backup Exec.
+
+ETL Toals: Ss, (BIDS and SSOT)
+
+Scripting tool: Powershel
+
+‘Virtualization: Vnware and Hyper-V
+
+Language: T-SQL, begging CF, Power
+
+‘shell,
+
++ ASPNet.
+
+‘+ Web Development: Good understandin,
+of HTML,
+
++ CSS, JSON
+
+1S SharePoint adm
+2016/2013/2010/
+
++ Source code repository: TFS, GIT
+
++ Backup software: SQL backup, Lite
+Speed, Red Gate,
+
++ IDERA, and backup Exec.
+
++ Reporting and audit tools: SSRS, repor
+bullder and
+
++ IDERA SQL compliance manager, and §
+
++ Cloud computing: Microsoft Azure.
+
++ Database Nodelng tools: Power Bi
+desktop, Erwin
+
+Data modeler
+
+SQL Transactional Replications
+
+Security Protocols
+
+Enterprise Information architecture
+
+Warehouse Models
+
+SAN Technologies
+
+Quality Analysis
+
+Deep Learning
+
+Data mining
+
+Reverse Engineering Skits
+
+‘Microsoft Office
+
+Data Management
+
+Critical Thinking
+
+Friendly, Positive attitude
+
+Team Management
+
+Relationship Building
+
+“Training & Development
+
+Computer skis
+
+Problem Resolution
+
+‘Active Listening
+
+‘Good Work Ethic
+
+‘Maintenance & Repair
+
+Team Building
+
+Database Analysis
+
+‘Microsoft Powershell
+
+Microsoft Sat.
+
+‘Continuous Process improvement
+
+Weting Queries
+
+Data Conversion and Migration
+
+Data Testing
+
+Coding Data
+
+Information systems Management
+
+Database Administration
+
+Document Management
+
+‘Agile Methodology
+
+Planning & Organizing
+
+PPE Use
+
+Project Management
+
+“Amazon Web Services
+
+Programming Languages: Java, C#,.N
+
+Python
+Souree and Version Contra: Git, Githul
+Databases: Orade, MongoDs.
+
+ROMS Development and SQL.
+
+‘Software Testing and Validation
+‘Continuous integration systems,
+‘Analytical Thinking and Problem Solvin
+Data Structures and Algorithms
+(Object-Oriented Programming
+
+Data Storage and Retrieval
+
+Software Documentation Control
+Debugging and Troubleshooting
+Scripting Languages: PHP, Python,
+Javascript
+
++ Performance Analytics
+
+SharePoint
+
+EDUCATION AND
+TRAINING
+
+University of Maryland -
+Baltimore County
+Baltimore, MD + 12/2020
+
+‘Master of Sclence: Data Science
+Bahir Dar University
+o7r2013
+
+‘Bachelor of Science: Chemical,
+Engineering
+
+Administering Microsoft SOL
+Server 201212014 databases
+certification. 3 | Page
+
+SUMMARY
+
+Microsoft Certified DBA with 7+ years of practical experiance in Database Administration for large and
+‘complex databases in development, test, production, and cloud environments. | have strong
+{ntepersonal, communication, and problem-solving skils withthe ability to effectively interact with a
+‘technical and non-technical staff at all levels. withthe ability to work independently as well 35 in a
+team environment. Professional summary Over 7 years of experience working in information
+Technology. A proven track record of working in a fast paced environment,
+
+EXPERIENCE
+
+Caciinternationa Inc. - Sr. Database Engineer
+V+ 0472021 - Current
+
++ Installing, configuring, and managing Server 2019, 2017, 2016, and 2014 both in production and
+lower environments
++ Responsible for providing SQL server problem resolution and provide 247 production support and
+server outages
+‘create Users and assign permissions based onthe level of database access the user would need
+‘Monitor backups, ensuring they are being performed regularly
+Responsible for large-scale database migration from SQL Server 2008R2 to SQL Server 2014 and
+2016
+‘creating and monitoring Azure SQL. Server databases
+Configuring and Maintaining Elastic 08 pocls
+-Migrating the on-premise database to Azure Cloud and from cloud to on-premise using multiple
+methods
++ Writing, testing, and maintaining T-SQL, stored procedures triggers, views, functions
+{Working with change control and ticketing systems to coordinate changes with other infrastructure
+teams
+Implementing HADR solutions, alvays-on, replication, Clustering, and log shiping
+From time to time recover the databases toa specific point of time, as per the requests
+‘Troubleshoot various problems that arise in day-to-day work and fx the issues
+(Monitoring SQL Server
+Error Logs and checking email alert (i there is one configured), failed jobs, avallable disc space,
+log sizes)
+Developing and deploying SSS, and SSRS
+‘Monitoring and Performance Tuning; Physical Server Level, Oatabase level (Oatabase settings and
+‘options, and query tuning
++ Applying Service Packs & Cumulative updates
++ Implemented a robust backup strategy across production and non-production environment to meet
++ RTO RPO
+{Document all changes that were made to the environment that includes: istllations Upgrades,
+Service packs / Hotfixes applied new databases added, Logins \ Roles added/removed,
+Infrastructure changes,
+Process improvements
+‘Created Backup jobs for diferent types of backups: ful, differential, and transaction log
+4 | Page?
+Citigroup, New York, United States January 2018: May 2021
++ SQL Server 088
+Responsibilities:
+Installed, configured, and monitored SQL server 2017, 2016, 2014, and 2012 versions with
+diferent editions
++ Monitored and troubleshoot performance issues of the database and optimized TSQL queries,
+‘stored procedures, functions, etc
++ Managed Azure SQL database and Azure managed instance
++ Involved in day-to-day activities such as Agent Jobs, Backups and Recovery Index, Database
+‘growth, health, and consistency check
+Performed various data migration tasks for mission-critical databases,
+Implemented HADR solutions, always-on, replication, and Clustering
+‘Monitored and tuned all aspects of SQL Server infrastructure like Disk, CPU, Memory, SQL Code,
+‘etc, by using erfmon, Profiler, Dynamic management views, and dynamic management function
+‘Monitored the complete server environment for resource utilization and to avoid any bottlenecks
+‘Configured and maintained transactional, snapshot, and merge replication
+‘Created Backup jobs for diferent types of backups: fl, differential, and transaction log
+Created Jobs for database maintenance index fragmentation, rebuild, database statistics.
+
+Pinnacle Technical Resources In - SQL Server DBA
+‘Carlsbad, CA + 01/2016 - 05/2021
+
++ Installed, configured, and monitored SQL server 2017, 2016, 2014, and 2012 versions with
+diferent editions.
+Nenitored and troubleshoot performance issues ofthe database and optimized T-SQL queries,
+Sored procedures, fnctions, ee
+Ianages azure SQL database and Azure managed instance.
+Invlved in day-to-day activities such as Agent Jobs, Backups and Recovery, nde, Database
+tronth, heath, ad corssteny check
+«_Ferfome varius data migratlon ats for mission crcl databases
+{Implemented HabR solaion, abajo, repaton, and Cstrng.
+{Monitored and tuned all aspects of SQL ever infrastructure ke Disk, CPU, Memory, QL Code,
+‘ey, by using Peron, tier amie management views, ad namie management oneten.
+Ieritored the compete server environment or esource itaation and toad ay btlneck.
+Configured ard matanedwansactiony saps, andre eptcation,
+‘reated backup jobs for diferent ypesofbacaps fu, dfferentl, and wanscton og.
+‘Created Jos for stabae maintenance inde ragenttion, rebuild, database statisti.
+Froided suport for copies ses related to sotvare toa, sppleatons and databases.
+‘Created and monitored performance matric to heep databases funtonng st optima capa.
+Defined smcvoiztion pan fr patch management.
+Selved complex anata problems using statistical modes fom data.
+Established seer contrat tot protect cent systems,
+{Supports planing for saftvare development and purchases and cooiated implementation.
++ Calabrate with stakeholder o gather business requirements fr enhancements and change
+rest.
+Commoniate with data architects, programmers and engineers to keep procs on track
+Developed data modes and database Ceigns to plan projets,
+ote sits and processes fr data iteration and bug ies.
+Defined databace design speifieations based upon projet requirement
+Ferformed aly assurance processes to spar data varehouse improvements.
+Salyzed and developed tecnica and funciona specifications fr databases.
+
+Pinnacle Technical Resources Inc - SOL Server DBA
+TH 12/2014 11/2017
+
+Installed SQL. Server 2016/2014/2012 Instances
+Worked on change request, permissions requests, and refresh requests
+
+‘create Users and assign permissions based onthe level of database access the user would need
+‘Configured and maintained Log Shipping, sways ON, and SQL Clustering
+
+Create Linked Servers to SQL Servers and other databases
+
+‘Monitor backups, ensuring they are being performed regularly
+
+From time to time recover the databases toa specific point of time, as per the requests
+‘Troubleshoot various problems that arise in day-to-day work and fx the issues
+
+(Wonitoring SQL Server
+
+Error Logs and checking email alert (if there is one configured), failed Jobs, available dice space,
+{og sizes)
+
+Writing, reviewing, and optimizing ad-hoc T-SQL code, Stored procedures, View trigger indexes,
+‘Tables, Statistics, and Functions
+
+‘Monitoring and Performance tuning: Physical Server Level, Database level (Database settings and
+‘options, and query tuning
+
++ Documenting major changes to the SQL Servers
+
+1 Applying Service Packs, cumulative updates and hotfixes
+
+ADDITIONAL INFORMATION
+
+Experience in instaling, configuring, and managing Microsoft SQL. Server 2019,2017, 2016, 2014,
+2012, and 2008 overproduction and lower environments. Managing SQL Server databases through
+‘multiple product lifeeyte environments from development to mission-critical production systems.
+Experience in writing, reviewing, and optimizing ad-hoc T-SQL code, Stored procedures, View,
+‘rigger Indexes, Tables, Statistics, and Functions. Capacity planning: analyze the past, present,
+‘and predict the future data growth, isk usage trending, recommending, and troubleshooting
+Memory, CPU, and storage-reated sues. High Availablity and Disaster Recovery solutions
+Experience in managing HADR including Backup & recovery, Replication, Log shipping, Database
+mirroring, SQL dustering, and Alvays-on availabilty groups. Performance monitoring and tuning:
+‘Ability to proactively monitor the application and database environment to optimize performance,
+troubleshooting the performance-rlated issues by using built-in SQL server and third-party tools.
+Backup and recovery: Implementing a robust backup and recovery strategy across production and
+rnon- production environment to meet an RTO & RPO. Data security: Implementing server and
+database level security and making sue that servers and databases are highly secured,
+Implementing server and database level encryption solution; incuding TOE, always encrypted, and
+Dynamic data masking. Database migration: Experience in migrating Server databases from lover
+‘to higher version and on-premises environments tothe public private cloud. automation:
+‘Automate and run regular database maintenance tasks backups, integrity checks, index rebuild and
+re-organization, file purges. and implementing Azure elastic pool Hands-on Experience in Working
+with SSI, SSRS, and SSAS to serve company needs. Azure: Configuring Azure Services PaaS, and
+TaaS Experience in creating and monitoring Azure SQLServer databases. Experience in Managing
+and monitoring azure virtual machines Experience in Implementing and managing Azure
+networking Configured and Maintained Elastic OB pools. 2 | Page Experience in configuring and
+‘monitering Geo-Repication and Synchronizations using HUB-MEMBER Topologies. Slanning and
+Implementing storage, backup, and recovery services, experience in configuring backups, and
+restoring a database from the recovery vault. Configured alvays on Availabilty groups using Cloud
+‘ms. Strong experience in designing and implementing the backup and disaster recovery strategies
+sper RPO and RTO values. Experience in migrating the on-premise database to Cloud and from
+oud to on-premise using multiple methods. Experience in PowerShell scripting. Provide 4X7
+‘dedicated on-call support for SQL Server production databases

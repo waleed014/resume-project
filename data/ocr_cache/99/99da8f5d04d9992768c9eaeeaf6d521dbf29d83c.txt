@@ -1,0 +1,178 @@
+Jessica CLAIRE
+
+100 Montgomery St 10 Flor
+(555) 452-1000 -renmesample@examplecom
+
+Proressionat-Stanany
+
++ PowsCenter Client tools - Mapping Designer, Repository manage, Workflow Manager Monitor and Server tos Iformatica Serve,
+‘Repository Server manager
+
++ Experts in Data Wateboose Data mar, ODS, OLTP ani OLAP implementations tamed with project scope, Analysis, requirements
+sathrig, data modeling, Efe Estinaton, ETL Design, development, S)stem esting, Implementation, nd prediction support
+
++ Developed Stored Procedures, Functions, Views and Tigges, Complex SQL queries sig SQL Serve, TSQL and Once PLSQL.
+
+«+ Prepared UNIX sll scripts and automation of the ETL. proceses sing UNIX sel scripting.
+
+«+ letegratd vations datasources wth ipl reltioal databases ike Oracel ig /OracelOg i, MS SQLServer, DBD, Teradata, VSAM.
+Sles and Flat Files iat the staging aren, ODS, Data Warehouse and Daa Mast
+
++ Experienced on Automation Scheduling tools ike Aus and Coatol NE
+
++ Hands-on experience aos ll tages of Sofiare Development Life Cle (SDLC) including busines resutemeat aalss, data
+mopping ul, wit testing, systems interation, nd ser aceptance esting.
+
++ Excellent interpersonal and communication kl, andi expesenced in working with enc level manages, businesspeople, and
+
+Seveopers.
+Sunes
+‘Wipro Feb 2018. Current + Testing Tols QF, Wine, LoadRuaner, Quality Cese, Test
++ Operating Systems: Windows 2008/20072008.NTI, UNIX, Director
+‘MS-DOS [BML July 2012 Fed 2018,
+“+ ETL Tools: Informatica Power Center 91/868 518.171 + CRM TOOLS: Salesforce.com
+(Designs, Wosklow Manager, Weellow Monier Repository + SALESFORCE TECHNOLOGIES: Apex Clases, Test Cass,
+manager and Informatica Servet) SOQ, SOS, Visual Force, Lighning pages (Pages, Component
++ Databases: Oracle 1g/10Q9i8, MS SQL Server 20082005, & Contes), ETL, S-Contos, Triggers, Custom Objects, Web
+DBP 81, Tends services, Validation Rules, Wokows, Dashboards, Repos,
++ Data Modeling tol: Eri, MS Visio Sandbox development nd Testing
++ OLAP Tels: Cognos 808.118.285.470, Busines ObjetsXI__+ SALESFORCE APITOOLS: Eclipse, Apex Explorer, Offline
+‘2i6x/5x, OBIEE 101.34/10133 Edition, App Exchange, ata Loader
+‘+ Languages: SQL, PLSQL, UNIX, Shell scripts, Co + LANGUAGES: C, Java, PLSQL, Apex, Aas, CF
+1 Autor, Coot M (Cognizant ~ Apr 2009 tl Ape 2012
++ Jas, JP, Seve, EIB, Sous, Spring, Hibermate, AJAX,
+SaaS, JavaBean JB) AXIS Framework for Webservices
+| SOAP, WSAD, IBM Websphere Planet Web Server, HTML,
+HTML, XML, Oracle, DB2, SQUPL-SQL, Unit Pet kb, i
+dior, Windows NT, Rational Rowe, UML, MS pest,
+Planview, PVCS, HP Quality Center, and SCCS.
+Exrennxce,
+
+(022015 to Curent
+
+ovn012.6 002015,
+
+03720080 032012
+
+072005 032008
+
+‘Constant
+Benefitfocus — WY, State
+Projects worked: Catholic Health Inkiatves & Mlerseft
+
++ Developed PorerCenter Weriows ad Sessions and set up Power Exchange connections to database and
+‘aif Sle,
+
++ Developed logical and physical data ow models for ETL applications.
+
++ Profceny in developing SQL ith variour elation database ike Oral, SQL See,
+
++ Provided Sytem ad Application Adminstration for iforatica PowerCenter and Power Exchange,
+
++ Designed develope, atomate, and supported coiples aplication to ext, wanton, sd load at
+
++ Experience with dimensional modeling using sta schema and snowflake models,
+
++ Understand the busines rales completely based on High evel document specications and implements the ta
+transformation methodologies,
+
++ Created UNEX shell serps toro the Informatica work lows and conllng the ETL fw.
+
++ Developed OLAP applications using Cognos SBI - (Framework Manager, Cognos Conneton,Repor Stadio,
+(Query Sti and Analysis Sti) and exacted data from the eaters dara warehouse to soporte analytical
+and epoting for Corporate Business Units
+
++ Stong wih estiona taba design concepts.
+
++ Extensively worked with Informatica performance tuning involving source evel, target evel and map level
+teenies
+
++ Vecifed and managed interices, sence eel, standad, and configurations
+
++ Strong Data Warehousing ETL experince of wing Ifosmatia 918 61/8/81
+
+Operations Manager
+Gardaworld Eas Saict Louis, IL
+Projects Worked: APMM, DAMCO, Sefmarine
++ Extensive experience withthe Salesforce.com development fe cyl, application dsin puters integration
+‘patems and deployment planning
++ Experience working in Cros functional teams, eating busines requiements and supporting ales masking
+eff,
++ Experience in SFDC Development implementing the APEX Clases, APEX Trigges, Visual Force pages, S-
+Contos, Force oan DE, Eclipse with SOQL, SOSL an Pops.
++ Core experience in CRM busines processes like Forecasting, Campaign Management, Leal Management, Pipliae
+‘Management, Order Management, Account Management, and Case Management
+‘+ Worked wih Pardot Functionality PardotAB Testing, Auto responder email and Pardot Email Rendering.
+«+ Proficient in dealing with unctonlies elated a sales cloud service cloud, Making cloud, Communi Cloud,
+Custom Clad and Anais Cloud.
++ Developed and secommended CRM toadnap fo customers inthe Fiancal Domain
+«+ Experience woking in Agile methodology, Scrum methodology, Waterfall mode nd Test driven developeat.
+«+ Created test scenarios on Sandbox and production enviroment and migrated code to deployment pon sucessful
+testing
++ Exensve expos to Blak Box ting, Smoke testing, Usability testing, End-to-End esting, Stem testing
+Repression esting and Use Acceptance testing (UAT).
++ Crete eutemiznd Ua per he client and aplication requirement uring Viele,
++ Experts in Burnes Analysis methodologies and iterative Software Development Life Cycle (SDLC) in elton
+‘wth al the phates of Rational Unified Process (RUP).
++ Experience in data migration fom ACT, Excel, MS oulook wing Data Loader, Data Import Wizard, SFDC Data
+Export Mass Delete, Infomatica,
+«+ Experience in Cresing page layouts, search yout to organize Gels, custo inks, related its and ter
+component on a record det
++ Working wih different sipct of Web Services QML, WSDL, SOAP, REST).
+
+Senior System Execative
+cs Federal Indianapolis, IN
+Projects Worked Sears, Kmart, Bridgeter
++ Good understanding of rodocton IT Envtoament and IF Operation such s,DBA/ Unit / Windows OS!
+Exchange and Remote Server Managemeat dons
+«+ Serves at single point of contr to fo service delivery Sr all Service ine/Teeologet.
++ Manages delivery communications wih sending Geo snd end custome
++ Ennue relevant governance sntelok with Sending Goo an echnical sevice ines Define, Own Service Quality
+npeovement plan
+«+ Responsible for sevice quali sersice livery perfomance and drives sence excellence
++ Real Time & continoous felo-op wih lbs sopport teams for Critic incident resolution.
++ Manage and cowdinate activities ding over cet ie cele
++ Collaborates with per Operation lea Ester Systems, Networks, Infomation Security and other Os leads)
+to deliver customer fcuted service
++ Chairs the Change Advisory Board (CAB) and Emergency Change Advisory Board (ECAB) mecigs,
++ Obrains authorization for submited change requests rom the Change Author
++ Ensues pst review of exception changes to evaluate ifthe change assed a eal ora perceived exception
+condition,
++ Uulizes the Change Management reporting system to moniter and wack changes.
++ Supported web bated applications sing JSP, Servlets, JavaScript, AJAX, Ss Framewtk, HTML, XML. and
+pan.
++ ltracted with End Users to answer ther questions ia day to day operation of brokerage Acoust Opening and
+Maitenace Work Flows,
++ Designed developed and inpemeced code wing ata, CORBA, Oracle and JDBC fo Fou major modules.
++ Worked on Fll Software Development Life Cycle (SDLC) using Rational Unified Process (RUP) Methodology
++ Soppoted iteration testing and UAT on various smal and big nities for mumber of wes.
+‘+ Worked on Windows Seer, IIS Serer, SQL Server nd net plications super nd administration,
++ Worked on instaling Windows Severs OS, IS, SQL Servers and deployed net pliations wing PowerShell,
+(Octopus and Release Manage.
++ Suppoted, deployed, maiatined, and uoubeshact various Net plications and web services hosted on various
+‘versions IS web servers (7.07.58 08.5), SQL Server and Azure in prodctionevioamen
++ Use deployment tos like Octo! VSTS Release Manager fr deploying aplication ani provide working
+‘eavtonments(SQATUAT Per ts teams and alo performed e0 dowatine predoctondeploymeas.
+
+‘Subject Matter Expert
+HCL ~ City, STATE
+Projects Worked: ATAT, British Telecom
+Handled a team of 18 Technician,
+Provided Suppot fer SOHO Networking Enszoamest
+_Azlyzed softarehadare and nes sstems fr various anemia stem.
+(Conige and installed rosters itches and wiles contllers,
+Evaluated complex computer systems to assess vulnerability ands
+Develop and admanster disaster secover plas.
+Responsible for analyzing. testing. oiting and repaiing network and customer iss,
+Standard network serices is expected (ONS, DHCR, NTP, TFTR, HTTP, FTP, SMT, SSL, SNMP, ee)
+Establish connectivity via dia. op modem, DSL of Cable modem
+Deployed and maintained LAN, WAN, serves, sitces routes, and witless nework systems
+Resolved voice and data based itses and MPLs circuit eee
+(Configued VPN conection and dynamic routing protocols, network tency, an internet connection
+
+Epucaniow an TRaInine
+
+032007
+
+Bachelor of Science: Mechanical Engineering
+‘Tagore Engineering College - India

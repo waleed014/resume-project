@@ -1,0 +1,91 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000  resumesamplegexample.com
+
+Professional Summary
+
+Innovative Data Scientist with 12 years of experience in analytics and education. Highly accomplished in influencing decision-makers
+and promoting data driven initiatives across multiple divisions in both the Business & Education settings. Strong collaborator and
+team player with excellent communication skills and expertise in analytical problem-solving.
+
+Skills
+
++ Analytical skills + Interpersonal Communication
+
+* Critical thinking * Data Visualizations
+
+* Collaboration * Database Programming Specialist
+Work History
+
+Decision Science Analyst I, 09/2019 to Current
+HEB - Dripping Springs, TX
+Successful completion and production of the analytical dashboard created to monitor impact of IMCO Sales to high wealth depositor
+cohorts,
+* Collaborated across multiple functions to enable delivery while reflecting the USAA Standard of Trust and creating success
++ Worked closely with business stakeholders to ensure data visualization tools were both relevant and impactful for the end user
+Successful completion of the 13 dashboards requested for the CFPB Consent Order Reporting
+* Led the conversion of manual and non-existent processes into automated processes to support monitoring necessary for the
+CEPB Consent Order. All requested dashboards were completed and provided to the business stakeholders for validation on
+schedule.
+* Researched, coded queries and built 13 dashboards, including Closure Letters, Reopen Letters, Fees Assessed During the
+Reopened Window, Closed Eligibility Rules, Requests and Reasons for Account Closures (non-exhaustive list).
+* Partnered with stakeholders and Gabriel Urrutia to develop ways of monitoring required metrics for the CFPB Consent Order.
++ Co-Led development of a CFPB Consent Order Reporting solution to mitigate data gaps caused by upstream dependencies and
+delays
+‘Mentored multiple new members to the Deposits Team
+* Partnered with new members to the team to acclimate them to their new positions and ensure they had the tools and resources
+needed for their success.
+« Initially met with mentees daily until as needed meetings were more appropriate. Part of our meetings were used to observe
+their strengths and help as needed.
++ Ensured a seamless transition for our new team members, allowing them to serve our business stakeholders effectively as soon
+as possible.
+* Provided guidance on business intelligence tools, techniques, processes and best practices.
+Successful completion and production of analytical dashboards and datasets created for DAD Horizon 4 Testing
++ Researched, coded queries and built dashboards for the DAD Horizon 4 effort
++ Identified inconsistencies in USAA’s ATM Service Fees, ATM Surcharge Rebates and Wire Fees
++ Partnered with business partners to create monitoring tools to help guide the efforts to identify root causes and rectify the issues
+
+caused by these inconsistencies.
+
+Director of PEIMS and Data Systems, 06/2012 to 09/2019
+Bremen High School District 228 - Midlothian, IL,
+Provide decision support via custom data reports
++ Provide analytical support to ensure accurate interpretation of data research and encourage data-driven decision making
+* Create innovative data views using various mathematical and/or statistical techniques to influence data based decisions
+* Deliver effective presentations to cross-functional teams conveying data and technical concepts in both a clear and easily
+understandable manner for non-technical audiences
+* Generate data to enable and encourage school district leaders to focus on key questions, draw conclusions, and make
+recommendations that inspire systemic changes
+* Research and adopt new or emerging technology and techniques to ensure SWISD achieves our data goals
+Manage and maintain the implementation of the district data warehouse and data sharing/migration
+* Design, code, implement, maintain and document custom databases and web services
+* Gather and organize relevant data sources
+* Created and maintained a data reporting website making automated data reports possible
+* Created and maintained an address data reporting website making the automation of student school assignments and the
+education of our community about campus enrollment assignments possible.
+* Created and maintained an attendance data reporting tool and methodology making automated attendance-related funding
+implication reports possible
+* Created and maintained a data reporting tool making automated economic disadvantage reports possible. This tool ensures the
+correct students are being aided with free lunches while maximizing state economic disadvantage funding.
++ Oversee the PEIMS (Public Education Information Management System) Depart. of SWISD
+* Created and maintained an error reporting system to increase data integrity
+
++ Provided a customized data reporting platform to increase cross-divisional data entry efficiency and reliability
+
+Mathematics Teacher, 08/2007 to 06/2012
+Antonian College Preparatory High School - City, STATE
++ Taught AP and Dual Credit Math Courses
++ TAPPS Academic Coordinator and Mathematics Events Coach
++ 2010-2012 TAPPS Academic District President
++ Marching Coordinator for Band Program
+
+Education
+
+Master of Science: Applied Mathematics, 12/2006
+Texas Tech University - Lubbock, TX
+
+Bachelor of Science: Applied Mathematics, 05/2004
+University of Notre Dame - Notre Dame, IN
+
+Successful Completion of Math in Moscow Program: Mathematics, 12/2002
+Independent University of Moscow - Moscow, Russia

@@ -1,0 +1,136 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 2 (555) 432-1000 <4 resumesample@example.com
+
+Seasoned IT Professional with extensive experience in Database Administration, Change Management and
+CyberSecurity. Proficient in a diverse range of database platforms, including on-prem and cloud databases
+Demonstrated skill in identifying risk and compliance issues and finding solutions. Skilled in working under
+pressure and adapting to new situations and challenges to enhance the organizational brand. Highly
+organized and motivated to learn new skills and technologies.
+
++ Database Support + Production Work
+‘+ Implementing Security Measures ‘+ Multiple database platform support
++ Writing Queries + Risk Mitigation Plans
+
++ Running Backups * Developing Security Plans
+
++ Risk Management Framework + Monitoring Tools
+
+* Compliance with Security Requirements + Change Control Documentation
+
+SENIOR INFRASTRUCTURE OPERATIONS ANALYST (DATABASE ADMINISTRATOR) 01/2017 fo 09/2022
+Republic Financial | Byram, MS
+
+‘+ Working knowledge of multiple database platforms (DB2, Oracle, SQL Server, PostgreSQL, mySQL,
+Sybase and Snowflake).
+
+‘+ Review and execute simple to complex database changes (DDL and DML) for production and lower-
+level environments. Prioritizing diverse tasks to meet critical deadlines.
+
+‘+ Modify multiple relational or object-oriented databases including Oracle, DB2, PostgreSQL, mySQL,
+Sybase, SQL Sever and Snowflake
+
+‘+ Utilized RDBMS tools and utilities to monitor, tune and optimize system performance
+
+‘+ Utilize ITIL Data Governance standards for data privacy and data masking
+
++ Extensive ServiceNow experience, assisted with development and testing as well as helping with
+customizing out-of-the-box features.
+
+‘+ Work with application development teams to develop or modify database architectures.
+
++ Evaluate change requests and deployments to ensure all relevant information required is included
+
+‘+ Proficient use of database tools such as Visual Studio, DB Visualizer, SQL Server Management Studio,
+PG Admin 4 and DataGrip.
+
+‘+ Wrote and maintained technical and functional specifications to document database intentions and
+requirements.
+
+‘+ Administered, supported and monitored databases by proactively resolving database issues and
+maintaining servers,
+
+‘+ Worked with business and technical partners to develop and implement procedures to prevent data loss
+and maximize system availability
+
+CHANGE & INCIDENT MANAGEMENT ANALYST 01/2014 to 01/2017
+T. Rowe Price | City, STATE
+
++ Acted as a point of contact for critical and time sensitive production issues.
+
++ Coordinated weekly change management activities with multiple support groups.
+
+‘+ Assisted with compliance and security issues across various platforms and support groups.
+
+* Controlled risk and minimized production down-time through scheduling and timed production releases
+
+‘+ Worked with multiple vendors to resolve production impacts and coordinate activities.
+
+‘+ Utiized ITIL framework and strategy to effectively manage change throughout technology porttolio.
+
++ Handled off-hours production issues and scheduled releases to ensure efficient implementation and
+reduce down-time.
+
+‘+ Created technical documentation for policies and procedures related to Change Management.
+
+‘+ Strong customer service skills, provided service to all levels of management and client base.
+
+‘+ Point person on sensitive issues — both client and vendor supervisor escalations,
+
+‘+ Handled tier 2 escatations, acting as Subject Matter Expert on various applications and systems.
+
++ Assuring all priority issues were addressed within correct SLAS.
+
+‘+ Assessed critical situations to assure proper downtime procedures were taken.
+
+‘+ Notifying and providing updates to impacted customer bases as needed
+
+‘SECIOR HELP DESK ANALYST 01/2009 to 01/2014
+T Rowe Price
+‘+ Provide internal support to all T. Rowe Price associates supporting three major call centers and
+international offices,
+‘+ Troubleshot and diagnosed issues with over 400 applications in Windows/UnivMac enterprise
+environment.
++ Properly documented and escalated issues using Remedy Ticket Tracking system and ServiceNow.
+‘+ Proficient ability to multi-task and track various tickets to resolution.
+‘+ Member of Order Processing Team following strict procedures to appropriately purchase and distribute
+softwarefhardware
+‘+ Using technical writing skill, maintained Help Desk Remedy and ServiceNow Knowledge Database;
+updating and documenting new procedures
++ Providing technical assistance to firm's client base; troubleshooting various types of media to ensure
+availabilty of all T. Rowe Price financial applications,
+
+TEOHNICAL SUPPORT ACCOUNT EXECUTIVE 01/2006 to 01/2009
+Comeast
+
+‘+ Performed Tier 1 technical support for Comcast customers for Internet related services and technology.
+
++ Assisted with network troubleshooting for wired and wireless network services.
+
+‘+ Point-person for supervisor and management escalations on technical matters.
+
+‘+ Assisted customers with reviewing and configuring Internet security software (Norton, McAfee).
+
+‘+ Worked with Tier 2 support on advanced and complex Internet and VOIP configuration issues.
+
++ Provided technical support on VOIP and telephony issues, specifically ARRIS and Motorola platforms.
+
+‘+ Frequently led new-hire classes to train and develop new-hires for Comcast Technical Support
+
+Bachelor of Science | Cybersecurity 05/2014
+University of Maryland, University College, Maryland
+
+‘AsCociates | Information Technology Support 04/2011
+University of Phoenix
+
+Hic School Diploma 05/2003
+Baltimore Polytechnic Institute, Baltimore, MD

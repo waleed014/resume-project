@@ -1,0 +1,184 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Dedicated DevOps Engineer with 3 years of technical experience, having potential on CUCD pipelines, Linux system administration, and
+AWS infrastructure design. Consistently stay abreast of modem technological advancements to serve enterprise's needs, Self motivated and
+goal-oriented with proven team communication skills, task organization, and prioritization to deliver outstanding results in every project.
+Seeking a challenging opportunity within a company for sustainable growth, and business continuity by implementing new and emerging
+technologies with next-generation tactics, through dedicated and efficient work abilities
+
+Semis
+
+‘Version Control System (VCS) : Git, GitFfub,
+Containerization/Container Registry : Docker, Docker-Compose,
+Docker Hub
+
+Artifactory : JFrog
+
+Continuous Integration (CI) : Jenkins.
+
+Continuous Deployment (CD) : ArgoCD.
+
+Build Tool for Automation : Maven.
+
+Artifactory/Package Manager : Helm for Kubemnetes, Yum, Apt
+Infrastructure Monitoring : Datadog,
+
+Infrastructure As Code (IaC) : Terraform,
+
+Configuration Management : Ansible.
+
+Container Orchestration : Kubemnetes.
+
+‘Multi-Cluster Management : Rancher.
+
+EXPERIENCE
+
+Web Servers for Deployment : Apache, Nginx, Tomcat
+‘Ticket/Bug Tracking and Documentation : Jira, Confluence.
+SDLC : Agile, Scrum.
+
+Continuous Inspection of Code Quality : SonarQube.
+
+‘Linux Distributions : CentOS, RHEL, Debian and Ubuntu.
+Scripting Languages : Bash Shell, Groovy, YAML.
+
+SSL certificates management : OpenSSL, Keystore,
+
+Amazon Web Services (AWS) : VPC, EC2, $3, IAM, EKS, ECS,
+RDS, ELB, EBS, Autoscaling, CloudWatch, Lambda,
+CloudFormation, Autoscaling,
+
+‘Networking/Protocols : TCP/IP, SCP, SSH, DNS, HTTPS, VPN
+Databases : MySQL, DynamoDB, Postgres, Redis, PeAdmin,
+Communication Tools : Slack, Microsoft Teams.
+
+Password Security/Secret Management : Base64, Sealed Secret,
+AWS Parameter store, AWS Sys. Mer
+
+03/2021 to Current DevOps Engineer
+
+Palantir Technologies — Charlotte, NC
+
+‘+ Maintaining constant communication with developers, and testing teams to understand their needs, participating in
+supplying and maintaining folly automated CU/CD pipelines using integrated tools like Git, Jenkins, Maven,
+Docker, Kubernetes, Argo CD, Helm, Datadog, SonarQube, ...
+
+‘+ Troubleshoot emergent issues encountered on CUCD pipelines to ensure product delivery on time. Participate in
+‘troubleshooting meetings and brainstorm with technical working groups to solve low-urgency and production-
+
+related issues.
+
+‘+ Invoke Maven and SonarQube on CI/CD pipelines using on-demand containers managed by the Docker agent.
+Good understanding of Maven build life cycle, and Maven's main configuration file POM.XML
+
+‘+ Enable Jenkins to pull the source code from GitHub automatically when there is a new commit. Use Maven and
+other automation tools to compile, test, review, package the source code and store artifacts into JFrog Artifactory
+
+or AWS $3 bucket.
+
+‘+ Maintaining and improving Terraform modules and deploying those modules using Terragrunt.
+
++ Develop standard operating procedures (SOP) around common CUCD failure scenarios.
+
+‘+ Automate Jenkins to send all build related messages to the appropriate Slack Channel,
+
++ Complete 100% with my team, the migration of a client on-premises-based application to AWS/GCP Cloud
+services to cut down the client-elated bill due to the maintenance of the on-premises infrastructure,
+
+‘+ Experience in designing comprehensive Cloud Computing solutions on the AWS platform using EC2 (EC2
+instances, ELB, EBS, Autoscaling, Target group, AMI..), $3, IAM, VPC, RDS, Route 53,
+
++ Experience in managing Ansi
+the continuous deployment.
+
+le Playbooks with Ansible roles and creating Ansible inventory file to automate
+
+«+ Use of Kubernetes to orchestrate the deployment, scaling and management of Docker containers,
+
+‘+ Automate deployments of Helm charts into the K8s clusters with ArgoCD using AutoSync option.
+
+‘+ Troubleshoot pod misbehavior in Kubernetes, manage and maintain all clusters accesses and roles.
+
++ Using Datadog to monitor all clusters and push notifications to Opsgenie for on-call rotation.
+
+‘+ Experience in managing SSL certificates in IKS, PKCS12, PEM, and PFX formats using OpenSSL, Keystore,
+
++ Extensively working with Docker images like creating images from Dockerfiles and containers. Create Docker
+‘volumes to provide high availability of data even if Docker container goes down.
+
++ Knowledge of Agile methodology for project management and product continuous delivery.
+
+‘+ Commitment, results-oriented, zeal to adapt to new technologies and undertake challenging tasks.
+
+* Effective communication skills, ability to interact with stakeholders and clients.
+
+02/2020 to 03/2021 Linux System Administrator
+
+L3harris — Clifton,
+
++ Proven experience installing and maintaining Linux servers (CentOS, Ubuntu, Debian) and software installation.
+‘Managed Linux systems” processes and task scheduling with the Linux Cron utility.
+
+‘+ Monitored and troubleshot server issues/warnings/alerts/logs and performed server health checks.
+
++ Performed data backups and disaster recovery operations on Linux servers for business continuity.
+
++ Compiled and debugged Bash Shell scripts daily to automate tasks such as server configuration, and Linux servers’
+
+inventory (CPU, hard drive, kernel, ..),
+
+resulting in increased productivity and efficien
+
+« Performed patch, update, security scanning, and configuration to meet OS performance mandates/ up-to-date
+
+standards with the latest releases.
+
+‘+ Oversaw Linux system administration and configuration maintenance governing uset/group authentication,
+
+access management, permission attribution, file/directory security, privacy and data integrity.
+
+07/2017 to 01/2020 Warehouse Automation Engineer
+Hani — Powder Springs, GA
+
++ Involved in managing projects related to the design and performance improvement of automated warehouse
+processes and equipment such as autonomous guided vehicles, carts, racks, and location-tracking devices.
+
++ Delivered troubleshooting support for the maintenance team. Developed and improved SOPs related to all
+automated equipment in the warehouse. Identified quality issues on equipment and wrote reports.
+
++ Collaborated to implement database connectivity of IOT devices with SAP and MES for real-time process
+
+monitoring by using digitalization.
+
+‘* Designed and programmed a controller and established communication between the sensors (inputs), actuators
+
+(cutputs), and controller.
+
++ Programmed, troubleshot, and repaired/improved robotics and other automated equipment such as electric
+‘motors, starters, valves, and sensors to maximize production efficiency.
+
+12/2014 to 04/2017 Mechatronics Engineer
+ORANGE CAMEROON - City, STATE
+
+‘+ Designed, developed, and implemented control circuits/algorithms for electromechanical systems and
+mechatronic devices by using sensors, gears, solenoids, springs.
+
+‘+ Monitored, calibrated automated systems, and industrial control systems to maximize production efficiency.
+Contributed to the analysis of existing manufacturing procedures to suggest improvements.
+
+‘+ Engineered detailed, comprehensive and well-structured test plans and test cases to identify and correct system
+
+errors in electronic parts and systems.
+
+Epucarton anp TRAINING
+
+11/2013 Master of Science: Mechatronics Engineering
+University of Yaounde I - Yaounde
+06/2010 Bachelor of Science: Physics and Chemistry
+
+Le Mans University - Le Mans

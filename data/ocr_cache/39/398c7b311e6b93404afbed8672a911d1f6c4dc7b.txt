@@ -1,0 +1,201 @@
+Jessica CLAIRE
+
+100Monigomery't 1th oor # (355 43.100 + resumetmpeseramplecom
+
+Professional Summary
+
+Bilingual DevOps Engines with background designing testing and implementing ifasteacute and applications Talented
+perform with over yes of experience sing source contol toto identify and fx bugs in code, Consistent tex player with
+exemplary multitasking sls,
+
+Skills
++ Amazon Web Services + Docker containsization.
++ Source and Version Control Git ith + Monitoring and analytics,
++ Comins Integration serves. + CCD pipes
++ Deployment astomation.
+
+Work History
+
+DevOps Engineer, 02/019 to Current
+Livongo Health, Ine. - Washington, DC
+
+Highly motivated and commsttad DevOps Engineer experince in Automating, Configuring nd deploying instances on AWS and
+Datacenters
+
+Performed version control adeinisteaton using CVS.
+
+‘Used Jenkins for Continuous Integration and deployment in Joss Application Server
+
+‘Worked with the Architects on SDLC proces being the owner of pst development environments
+
+Esperince in sing bug tacking systems ike JIRA, Remedy, HP, and QualityCenter
+
+‘Conigured JDBC Connection Fools/Multi Poos/Data Sources with backend Oracle 1/tIg RAC DB's
+
+‘tong experience in configuring and administering Connection Pool for JDBC connections and JMS Queves in WebLogic and JBoss
+Ear.
+
+Performed Load Functional testing using Mercury Load runner and HP QTP.
+
+Hands on experience with using Linux, Amazon Web Services, and supporting AWS infeastrcte
+
+Experience with orchestration template tecnologes such as, AWS Cloud Formation, AWS OpstVork.
+
+Assign a builtin policy tan existing Resource Group by using ARM template.
+
+Provision ARM template for Server managed by Desired State Configuration sevice
+
+Experience with configuration management and astomatontols such as, Chet, Puppet and Ansible,
+
+Experience with server vistualzation technology, VMI.
+
+Devops Engineer, 01/2018 01/2019
+ivongo Health, ine. — Astin TX
+
+Created and maintained continuous integeation (CD using tots enkns/Maven over df enviconments to acitate an agile
+development process whichis automated and epeaable enabling teams to safely
+
+Aeplay code many mesa day while ensuing operational best practices ate supported.
+
+Design and document CUCD tools configuration managenent.
+
+Responsible for orchestrating C/CD processes by esponding to Git tigers, aman input and dependency chains and envizonment
+sate,
+
+Build and Deployment CUCD Pipelines
+
+Performed SVN to GITBit Bucket migration and managed branching strategies using GIT How wore.
+
+Manage User access contol, Tigges worlows hooks, secu and epository contol in Bitbucket
+
+vst, Configured and Adinisered Jenkins servers with Master lave configurations as needed
+
+Experience with basen al configurations ia De, QA, Ut pro.
+
+Implementing and Configuring AppDynamice APM tool fr various Net and Java applications
+
+alized hubemetes and Docker forthe runtime envionment forthe CUCD system to build et, and deploy.
+Deploying EC2 instances, ELBs by using Cloud Formation in AWS.
+
+Managing 5 buckets and bucket police.
+
+Leverage Docker Engine to ran Maliple Tomcat Instances as Containeized AppServers
+
+‘Orchestration of Docker images anc Containers using Kubemates by cvating whole master and node,
+
+Created Continuous Integration and Continuous Delivery Pipeline forthe build and deployment automation in place
+
+Performed deployment of Amazon EC? instance in AWS envionment. Performed EC? instances provisioning on AWS environment
+nd implemented secuity groups administered VPC
+
+Devops Enginner, 01/2016t0 122017
+ivongo Health, In.— Quine, MA
+
+Develop, manage and improve the C CD pipeline tools scripts and processes to automaticaly build quality, release and
+continuous deploy “known high quality” Big Data analytics software products
+
+Paricpate inthe configuration and mathods of deployment in DevOps envionment (protorpe, development Cand production)
+and the processes and toos required to execute those deployments.
+
+‘Automate the development qualification an documentation proces using serps and other appropriate tools.
+
+Devise and develop analytical mthods and oo to measure the efficiency of product and processes
+
+‘Champion changes totols and processes to improve theefcenc ad efetiveness ofthe analytics development team from pid
+prorotping to production code deployment
+
+‘Work closely with igh aber analytics developers, data sini platfoum, QA and engineering operations tam members
+
+‘Ava DevOps Engines using Linux Python, GIT, Maven, Jenkins, Ansble, Nagios, Docker Kubemets, CUCD a tone for dayto-
+day build amp; release yes
+
+‘Working on Linas enviconments and sping experience (eg Shell Python, iLjextensive experience working with continous
+integration continaous delivery (Jenkins Hudson) buldofARS eg Maven, Nenu epostory) and quality (eg. Sonat) oo
+to configure build and maintain CI pipelines.
+
+Using Jenkins or continous integration / continous delivery, configuring jos with Maven properties and Sonar properties in
+Jenkins obs to automate the proces.
+
+Using Maven to build, package and compile projects in maven epostory and uploading maven packages into Newus Repository
+@eployabe ARS.
+
+nang Jenkins feetyle job to automate the proces fom Continues integration to conte deployenent.
+
+Converting feetyle Jenkin jobs to Pipeline jobs (sing Jenkins file,
+
+‘working eth DevOps and automation deployment damp: configuration tools (eg. Docker, Kubert.
+
+(Good understanding of Openshit platform in managing Docker containers using Kuberetes
+
+‘Used Fython scripts to automate the Build and deployment proces
+
+Research and implemented ne tool such at Kuberetes with Docker to assist with autoscling, continuous integration cling
+pdates with no downsiene.
+
+Experience with Docker image management amp: containers as part of product build and release
+
+Experience on Kubernetes and docker forthe runtinw environment of the CUCD system to bildseet amp: deploy
+Deepundersanding of SCM (eg Git SVN et), and branching and merging stages
+
+Supporting for Gt version contro system merging, hooks, branching the files and creation of repos.
+
+Developer Git branch using for development branch once we completed with development work this branch going to merge into
+master branch
+
+"Experince with basic DB administration experience (PostgreSQL, Oracle) and REST.
+
+Experince with bugisue tacking tol (eg Alassian Ja) and integration with other products such a Confluence, it
+Experience with agile methods and ability to leverage this for fas umaround peje
+
+"Experience in deploying and configuring Apache Zepplin or other Data Scence notebooks (eg Jupite) for Cl environment a well
+as development envionment
+
+Supporting Apache Zeppelin implementation and integrating with Continues Integrations environment
+Creatingconiguring Jenkins jobs to automate the manual process of Zepplin Cl environment for DEV and PROD enviconments.
+
+Devops Engineer, 01/2014 t0 122015
+Macronix Serening Services Pt. Lt. City, STATE
+
+‘Administer and Maintain Source Code Repositories including GIT and Gittub
+
+Suppor concurent development process with standard Branching and Merge of application source code.
+
+Created and maintained several build definitions and publish pois to handle automated bul ina Agile/SCRUM envionment
+Implemented CD pipeline involving Jenkins, Chef to complete the Automation frm coma to Deployment
+
+Responsible for managing and maintaining the DevOps CD/CI pipeline sing DevOps suite which includes Continous integration
+of GitHub, Jenkins, Jxog Aracory.
+
+CContigured and monitored ditabated and mul platform servers wing Nagios Edit the Nagios host eto include 100+ node in the
+hosts ty eof he stomaton Nagios ae a too to monitor the heslth check of nodes
+
+plemented Shel and Python sexipt for CD/CIpiptline and deployment of artifacts on aplication environments
+
+Responsible for onbourding applications on to DevOps mite and creating GtLab groups for development eu and sting up
+cess contol states,
+
+Automated and connected the Jenkins jobs with Sonargte to generate and publish the uit test
+
+Inaplenented and mintined maven ils for generating artifacts requiced by java and windows based applications.
+Experinct in DevOps pncples and mathodoogies using SCRUM, Agile and related rapid application development approach.
+Responsible for cresting and maintaining the repositories in Jog Arlactry to secure the generate artifact from Jenkins
+Build septs wing MAVEN build tools in Jenkins to move from one entzonment other envizonenents.
+
+‘Working on Manage Che and SAP Hybris application.
+
+‘Waittn enstrn Chef cookbooks for handing prereisies to et up mew environment for pricing application.
+
+Aatomated th proces of deployment of pricing application.
+
+‘Worked on Che cookbooks to intl tol ike new relic and Sumo ogc for both instrumentation and enabling and dssbling log.
+‘Working on various tasks on Apache Hips server like Enabling Disabling Node, Draining Nodes, Apache Operational Commands,
+Cookbook, Ceriate Management
+
+Performing user management lice SH, SFTP and Jenkins accessor evoke though Chef
+
+Designed and Developed Jenkins builds deployments
+
+Education
+
+Master of Science: Computer Science 0572017
+Kent State University -Kent OH

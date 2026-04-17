@@ -1,0 +1,127 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 ¢ (555) 432-1000 # resumesample@example com
+
+PROFESSIONAL SUMMARY
+
+«+ Hardworking Sr, Software Quality Assurance Analyst, ofering 7 years’ experience and expertise necessary to take on dynamic and
+‘complex software systems. Strong background in both manval and automation testing. Desie to bring abilities othe new role with room
+for advancement
+
++ Proven skills in completing blac, white and grey box tests. Background writing and implementing test cases, design and developing
+testing plans and identifying use cases. Fully versed in complete SDLC.
+
++ Quality expert with success reviewing features and assessing functionality to identify common and complex software problems. Special
+experience in Alteryx and Tableau software illustrated over 3 yeas of experience, Collaborates with cross-functional team members to
+‘enhance software package quality
+
++ Senior Software Quality Assurance Analyst and outstanding performer in Data Analysis and Validation within the organization. Proven
+success in leadership, operational excellence and organizational development with keen understanding of elements of busines.
+‘Recognized for inspiring team members to excel and encouraging creative work environments
+
+TecHNicat Skis
+
++ ETL Tools Informatica Power Center (Repository Admin + RDBMS: Oracle 11G/10G, IBMDB2, MS SQL Server, My SQL,
+‘console, Repository Manager, Designer, Workflow Manager, ‘Netezza, Oracle 12 C, MS Access
+‘workflow Moniter), DVO(Data Validation Option) + Programming Languages : SQL, PL'SQL, UNIX Vi, Python
+
++ Software Tools: TOAD, CITRIX, HP-QC, CA Workload, Putty, + Software Packages : JIRA, HP-QC, MS-Offic, PowerPoizt,
+‘Win-SCP, Alter, Tableau, Anaconda, Jupyter Notebooks, ‘Word, Excel, Outlook, Beyond Compare, Visual Studio,
+Spyder SharePoint, Conifuence, ServiceNow
+
++ Operating Systems: Windows 7, Win NT 40, UNIX, LINUX,
+and MS-DOS
+
+«+ Software Methodologies: Wsterfll, Agile
+
+Worx History
+
+Senior Software Quality Assurance Analyst, 06/2016 - Current
+Wolters Kluwer VA, State
+Responsibilities:
+‘+ Tateracted with Business Analysts and Product Owners during requirement gathering
++ Led and drove Test planning meetings and ensured all Feature were covered and corresponding User stories were created
++ Participated in In-print grooming sessions and Sprint Recon session atthe end ofeach Sprint
++ Played key ole in planning team providing suggestions and feedback to create new updates for clients proprietary tool DTF (Data Test
+Framework)
++ Perform upstream downstream impact assessments to application and work as POC forall co-ordination efforts
++ Led Repression Test Automation effort and successfully delivered complete suite of workflows which helped cut down regression ime
+by 80%
+«+ Participated in several Knowledge and brainstorming sessions to understand and draw requirements to build anew tool to Automate
+‘Regression Test.
++ Worked diligently and proactively to find areas where testing can be automated and successfully employed several procedures to cut
+down total Progression test execution time by atleast 20%
++ Built complex queries using SQL and wrote stored procedures wsing PLISQL.
++ Creation of database objects like tables, Views, Stored Procedures, Packages using Oracle tools like Toad & SQL* plus.
+«+ Used Autosys to create Jobs and attach sequences so thatthe data load into UAT environment is automated
++ Created and Maintained database backups in Delphix database for UAT Team.
++ Provided support to Report testing and suggested fx defects in varios stages of Testing ie, SIT (System Integration Test), Itepration
+‘Test and UAT (User Acceptance testing).
+«+ Performed code review and made changesimprovements a required
++ Responsible for providing migration documents to business team,
++ Responsible for development ofall Regression Test Suites using Alteryx Designer for Legacy applications
+‘+ Handle team and guide with maintenance of legacy Alteryx workflows for Regression Test.
+«+ Responsible to gather relevant impacted ser stories and build automation workflows to asist business validation
+‘+ Held multiple demo sessions to train peers in Alteryx Designer
++ Held multiple brown bag sessions per the request of different teams and suggested ideas to fit their requirement
+‘+ Assisted in Tableau Dashboard Report Developments for Business Users.
+‘+ Working on building new Automation tool to ease regression et process between SLS (Sub Ledger System) and EDW components.
+‘+ Working on sing python to build UI component of Automation tool (Gandalf.
++ Proactively Monitored user interaction with system and make improvements to tune applications for shifing business and user needs
++ Created Epics, Features and User stories in JIRA and worked with Serum Master to make sure all Use stories are properly assigned.
++ Created Test cases and Executed them in JIRA.
+
+Software Quality Assurance Tester, 04/2014 - 05/2016
+Nes Associates Fort Smith, AR.
+Responsibilities:
++ Created Test Scripts by analyzing requirements and mapping specifications.
+«+ Responsible fr creating Tet Strategy for New Data Warehouse,
++ Performed informatica and DVO (Data Validation Option) installation and created use-fiendly manval for team members. This helped
+decrease tmaround time by aiding team members to efficiently download, install and request appropriate roles/accesses by at leat 50%
++ Developed Test Scripts using Informatica DVO for use during SIT (System Integration Test)
++ Created complex SQL queries for we in DVO SQL views
++ Extensively used LTRIM, RTRIM, ISNULL, ISDATE fonctions
+«+ Created Test Cases and Requirement Traceability Matrix. Mapped Test Cases to Requirements in HP-Quality Center, Developed detailed
+‘Test Coverage report.
+‘+ Managed and conducted System testing, Integration testing, Functional Testing and Repression Testing
+«Interact with take holders and Development team to get requirement to failtte UAT testing
++ Performed test case execution and defect lifecycle using HP QC
++ Prepared status summary reports with details of Executed, assed and Failed test cates fiom HP QC using excel and sent them out
+‘everyday to tracklelay team's progress
++ Validate defect aed during testing eyele,
++ Ensured that proper severity and priority has been assigned to defects and follow up for its resolution with development team
++ Handled daily defect riage cals efficiently and followed company standards in creating and tacking defects,
++ Prepared test plans for various custom applications resulting in delivery of more seamless and user-friendly application
+‘+ Worked with ross funcional teams to align work, priorities, and practices and to determine if planned enhancements and changes are in
+line with companys standards.
++ Provided valuable insights and always setp brainstorm sessions with all eam members while building Test Swategy.
+‘+ Managed team of 2 onshore and 3 offshore resources.
++ Eiciently handled and provided individuals goals to team.
+
+Sunior ETL Developer , 01/2013 - 03/2014
+Kemper ~ Bowersville, GA
+Responsibilities:
++ Tnteracted with end-users to identify and transform business requirements into logical and technical requirements
++ Worked with source databases like Oracle, SQL Server and Flat Files.
++ Developed Mappings to implement business rules using complex logic.
++ Used Informatica Repository Manager to create Repositories, User Groups and Users based on ther roles.
++ Converted PL/SQL Procedures and SQL*Loader scripts to Informatica mappings
+‘+ Analyzed data in pe existing tables and presented best practices fr expected outcomes.
++ Tuned performance of informatica session for large data files by increasing block size, data cache size and target based commit interval
++ Used Informatica Designer to create complex mappings wsing diferent transformations to move data to multiple databases.
++ Generated UNIX shell scripts for automating daily load processes.
++ Created Unit Testing Scenarios and followed thorough Unit Testing practices
+
+Epucarion
+
+Master of Science: Electronics And Communications Engineering, 08/2012
+‘Southern Tinos University Carbondale - Carbondale, IL
+
+CERTIFICATIONS
+
++ Databases and SQL for Data Science
+Innps/coursera.or/share!7Te4c206787a82ea4dd078368803643,
++ Data Science Methodology
+Innps/coursera.or/sharl028%266572267531450Sea232e424b6
+«+ Python for Data Seience and AI
+Innps/eoussea.org/share!1342396dc7c011c378364695316178.

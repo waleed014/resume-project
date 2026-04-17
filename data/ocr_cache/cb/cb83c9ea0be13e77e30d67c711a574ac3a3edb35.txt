@@ -1,0 +1,116 @@
+PROFESSIONAL
+SUMMARY
+
+TOOLS AND
+
+ENVIRONMENT
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor &2 (555) 432-1000 4 resumesample@example.com
+
+Over 6 years of IT experience in Microsoft SQL Server Database Installation, Configuration, Administration,
+Maintenance and Performance tuning, Backup/Restore, and disaster recovery in SQL Server
+2019/2016/2012/2008R2. Solid working experience in managing large databases, backup/recovery,
+configuring and managing HA solutions, managing reports using SQL Reporting Services (SSRS), Monitoring,
+Performance Tuning, stored procedures, triggers, functions, constraints, views, etc.
+
+‘+ Microsoft SQL Server + Solarwinds
+2019/2017/2016/2014/2012/2008R2 + SolarWinds, ServiceNow and RedGate,
+
++ SQL Query Analyzer GoldenGate
+
+‘+ Enterprise server and platforms + Performance Tuning
+
++ PowerShell + Database Security
+
+‘+ Microsoft Visual Studio
+
+SQL SERVER DATABASE ADMINISTRATOR 08/2020 to CURRENT
+Kemper | Jacksonville, FL
+
++ Administered, supported and monitored databases by proactively resolving database issues and
+maintaining servers.
+
++ Conducted tests to identity issues and make necessary modifications.
+
+‘+ Set up SQL Server database configuration parameters for optimum performance
+
++ Managed SQL Server logins, user account, and passwords along with database object permissions
+
+‘+ Migrated databases along with users and logins.
+
+‘+ Designed and implemented a comprehensive backup plan and disaster recovery strategies.
+
+‘+ Implemented and scheduled replication processes for updating parallel servers.
+
+‘+ Created and managed database maintenance plans for various database consistency checks
+
+‘+ Used log shipping technique for a warm backup solution for SQL Server databases including AlwaysOn
+Availability Solutions
+
++ Managed SQL Server database mirroring and clustered environments
+
+‘+ Identified and resolved the query performance using SQL Profiler and index tuning wizard.
+
+‘+ Installed software upgrades and service packs for SQL Server.
+
+‘+ Monitored connections, locks, and performance of SQL Server
+
+‘+ Worked with complex stored procedures, triggers, cursors, views, tables, and other SQL joins and
+statements for applications
+
+‘SCQ DATABASE ADMINISTRATOR 12/2016 to 08/2020
+
+Computer Aid | Saint Paul, MN
+
+‘+ Designed, tested, and deployed, database changes, stored procedures, SSIS packages, and other
+data migration processes
+
+‘+ Monitored system's health and performance and ensure high levels of performance, availability,
+sustainability, and security.
+
++ Refined and automated regular processes, tracked issues, and documented changes.
+
++ Provided database support, responded to user questions, and resolved problems.
+
+‘+ Organized data and implemented analytic data marts and business intelligence views for performance
+monitoring, measurement, evaluation vs. forecasts, and financial measures.
+
++ Planned and implemented robust Backup and Restore strategies
+
++ Configured SQL mail, scheduled tasks, and managed alerts.
+
+‘+ Monitoring SQL Server performance using 3rd party System Monitors and SQL profiler.
+
+‘+ Automated DB maintenance tasks by developing scripts for providing consolidated reports over mail for
+
+daily full and transactional log backups across all production servers, generic job failure reports of the
+
+important application-related jobs.
+
+Ensured weekly index rebuild and updated statistics, checked jobs run fine on production systems
+
+SCD SERVER DATABASE ADMINISTRATOR 11/2014 to 12/2016
+Kemper | Phoenix, AZ
+
+‘+ Installed and Configured MS SQL Server instances
+
+‘+ Installed new software or upgrade existing software for various tools or systems utilized by marketing
+
++ Capacity planning for new and existing SQL Servers to manage database files.
+
++ Managed SQL Server database mirroring and clustered environments
+
+‘+ Provided database support, responded to user questions, and resolved problems.
+
+‘+ Created and managed database maintenance plans for various database consistency checks
+
+‘+ Configured SMTP Server for database mail setup and received alerts for the threshold values
+
+Bachelor of Science | Computer Sciences 70/2009
+Unity University, Ethiopia

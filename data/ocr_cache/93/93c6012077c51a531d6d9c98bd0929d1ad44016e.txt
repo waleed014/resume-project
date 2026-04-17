@@ -1,0 +1,90 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 © resumesamplegexample.com
+
+Summary
+
+Lead Data Engineer with 13+ Years of Experience. Highly Skilled in ODI,Oracle and Python.Always open to learn and work in other
+tools and technologies. Strong work ethic and dedicated to quality assurance. Adept at working with teams or independently in fast-
+
+paced settings.
+Skills
++ Total 13+ Years of Experience in BI as Data Engineer/ETL + Knowledge of Cloud concepts and experience of working in
+Developer/ETL Lead/ETL Architect. Azure, AWS and Oracle Cloud Domain.
++ Total 8+ Experience in ODI11g and 12c:Implemented + Knowledge of other ETL Tools like ADF and PDLHave
+
+Solutions specific to Flat Files, Oracle DB, Oracle ADB, XML's, _ worked on various POC's in ADF.
+Webservices, BIAPPS in ODLWorking Knowledge of OAC. _* Stronghold in Managing Teams and working with them to
+
+(Overall Good Knowledge of Oracle BI Stack. implement solutions. Attitude of a Team Player.
+‘+ Stronghold in SQL and PL-SQL.Worked on various Databases» Served as ODI Subject Matter Expert in various
+like Oracle, MS SQL Server and MySQL. Organizations.
++ Worked with various scripting languages in ETL Solutions + Good Analytical and logical Capability along with willingness
+like Shell Scripting and Python. tolearn.
++ Worked with various Ticketing tools like JIRA and
+ServiceNow.
+Certifications
+
+* Certified in ODI 12c-2020
+# Certified in OAC-2022
+‘© Certified in Azure Fundamentals and Azure Data Fundamentals-2022
+
+Experience
+
+Lead BI Consultant, 03/2022 to Current
+‘Two95 International Inc. - King Of Prussia
++ Managed end-to-end operations of ETL data pipelines using ODI in BIAPPS 12.2 environment.
+* Collected, outlined and refined requirements, led design processes and oversaw project progress.
++ Created and implemented complex business intelligence solutions using Python.
++ Promoted high customer satisfaction by resolving problems with knowledgeable and friendly service.
+* Designed customized technical solutions to meet POC specifications using ODI and ADF.
+‘+ Subject Matter Expert in ODI in the Organization.
+
+Senior ETL Consultant, 02/2015 to 03/2022
+Epam Systems Inc Seattle
+* Designed customized technical solutions to meet functional specifications in Oracle Database Environments.
+* Collaborated with Client to define data extraction methodologies and data source tracking protocols.
+‘+ Managed end-to-end operations of ETL data pipelines using ODI.
+* Designed and documented ODI ETL data mapping plans using Python or shell scripting engine wherever necessary.
+
+Analyzed code and corrected errors to optimize output.
+Recommended improvements to facilitate team and project workflow.
+
+Reviewed project requirements to identify customer expectations and resources needed to meet goals.
+
+Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
++ Analyzed user needs and software requirements to determine design feasibility.
+* Coordinated testing and validation procedures through software development lifecycle.
+
+Senior ETL Developer, 04/2014 to 02/2015
+Children's Place - Baltimore
+«* Assisted in User Acceptance Testing for customers, verifying ETL jobs complied with assigned parameters, achieving expected
+results.
++ Managed end-to-end operations of ETL data pipelines using PDI.
++ Analyzed code and corrected errors to optimize output.
+* Defined and documented ETL data mapping plans using shell scripting engine.
+« Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
+
+ETL Developer, 07/2010 to 04/2014
+Persistent Systems - City
+‘+ Designed customized technical solutions to meet functional specifications outlined by customers.
+‘+ Managed end-to-end operations of ETL data pipelines.
+‘+ Assisted in User Acceptance Testing for customers, verifying ETL jobs complied with assigned parameters, achieving expected
+results.
+
+Education and Training
+
+B.Tech: Computer Science And Engineering, 05/2010
+Visvesvaraya National Institute of Technology - Nagpur
+
+High School: 03/2004
+Kendriya Vidyalaya Army Area - Pune
+
+High Secondary School: 03/2002
+Leonard High School - Jabalpur
+
+Languages
+
+Hindi, English:
+First Language
+Negotiated:

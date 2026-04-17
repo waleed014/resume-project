@@ -1,0 +1,172 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Programming: Python, SQL,
+HTMLS, CSS3, Javascript, C++,
+c
+
++ Data Science: Machine
+Learning, Data Mining,
+Statistical Analysis, Data
+Analysis, NLP, Image Processing
+Analytical Tools: R Studio,
+Jupiter, NumPy, Pandas,
+Matplotlib, Seaborn
+
++ Business Intelligence Tools:
+Tableau, Microsoft Power BI
+
++ Methodologies / Frameworks:
+Agile, SDLC / Waterfall, Scrum
+
++ Change Management Tools:
+JIRA
+
++ Databases/RDBMS: SQL Server,
+PostgreSQL, MongoDB
+
++ Operating Systems: Windows,
+Unix, Linux
+
++ Business Tools: MS Excel, MS
+Visio, MS Word, MS PowerPoint,
+‘MS Access
+
+EDUCATION
+
+Indiana University Purdue
+University
+Indianapolis, Indiana « 2020
+
+‘Master of Science: Data Science
+
+Visvesvaraya Technological
+University
+‘Mysore, Karnataka + 2014
+
+Bachelor of Engineering: Electrical
+and Electronics Engineering
+
+CERTIFICATIONS
+
++ Certified Python Programmer
+
++ Certified Tableau Analyst
+
++ C+ Programming (NIIT
+Certified)
+
++ C Programming (NIIT Certified)
+
+PROFESSIONAL SUMMARY
+
++ Curious and Self-Motivated Data Scientist with 6+ years of experience in transforming business
+requirements into actionable DATA models, prediction models and informative reporting solutions.
+
++ Industry experience, coupled with domain expertise, in consulting best-practices and client-facing
+engagements. Constantly leans in towards solving difficult data challenges, providing clear paths
+forward, and strives for a high standard of excellence.
+
++ Brings a vagabond and adventurous spirit based on a passion for international travel and culture.
+
+WEBSITES, PORTFOLIOS, PROFILES
+
++ ttps://www.linkedin.com/in/JessicaClaire/
+
+WORK HISTORY
+
+Carpenter Technology - Data Scientist Intern
+Elyria, OH + 06/2020 - Current
+
++ Interpret data, analyze results using statistical techniques and provide ongoing reports of target
+groups affected by COVID-19 in Akron, Ohio area.
+
++ Develop and implement databases, data collection systems, data analytics and other strategies
+that optimize statistical efficiency and quality for volunteer systems.
+
++ Acquire data from primary or secondary data sources and maintain databases /data systems to
+track volunteer activities.
+
++ Identify, analyze, and interpret trends or patterns in complex data sets for dynamic tracking.
+
+Amita Health - Data Science Intern
+Lathrup Village, MI, USA » 01/2020 - 05/2020
+
++ Automated and enhanced 30+ analytics dashboards using Tableau to support nationwide health
+charity, strategic projects, and campaigns of varying sizes and complexity (impact on lives of 2h
+users)
+
++ Translated benefits of machine learning technology for non-technical audiences, including cost/
+benefit analyses.
+
++ Supported launches of strategic initiatives, such as AWACS, and COVID-19 Emergency Fund
+resulted in growing number of donations by 94% and annual average revenue per user by 52%
+
++ Designed, developed, and maintained complex Tableau reports for scalability, manageability,
+extensibility, performance, and re-use.
+
+Alakaina Family Of Companies - Data Science Research Assistant
+Edgewood, Usamricd + 08/2018 - 05/2020
+
++ Developed data-gathering and reporting structures from ground up and strategized methods
+capitalizing on system features.
+
++ Applied statistical and algebraic techniques to interpret key points from gathered data.
+
++ Leveraged analytics to drive business development, productivity and process improvernent and
+marketing strategies, including customer lifetime modeling, acquisition, retention, win backs and
+monetization.
+
++ Coached, developed and motivated team members, providing coaching and mentoring to junior
+data scientists on Machine Learning and data mining techniques increase data literacy by 15%.
+
+Alight - Data Analyst
+NE, State, India « 07/2017 - 07/2018
+
++ Achieved 90% success in automation by analyzing claim operations, data, and system issues to
+identify discrepancies for troubleshooting and corrective action.
+
++ Involved with Data Analysis primarily Identifying Data Sets, Source Data, Source Metadata, Data
+Definitions, and Data Formats.
+
++ Used interpersonal and communication skills in all interactions, enriching team collaboration,
+customer relationships, and AI/RPA Implementation on Financial shared services project.
+
++ Built library of models and reusable knowledge-base assets to produce consistent and streamlined
+business intelligence results.
+
+Sonata Software - Systems Analyst, Software Development
+City, STATE, India « 01/2016 - 05/2017
+
++ Data Analysis using Tableau- Design, analyze and evaluate data trends and mining insights to study
+sales, profits, losses based on region, category, location of superstore and its products on business
+to increase 10%.
+
++ Take part in software development life cycle (SDLC) of tracking systems Requirements, gathering,
+Analysis, Detail Design, Development, System Testing, and User Acceptance Testing.
+
++ Created Ul using HTML, CSS, JavaScript, AJAX, JSON, and JQuery.
+
++ Collaborated with UX designers to integrate UI features complying with prescribed code standards
+and technical design guidelines.
+
+Global Enterprises - SOL Developer
+City, STATE + 09/2014 - 12/2015
+
++ Prepared memory management for database systems.
+
++ Documented and analyzed business reports for prompt communication, follow-up and ongoing
+support.
+
++ Reviewed and interpreted business report requirements to address user needs.
+
++ Devised high-quality database solutions ranging in size and complexity, increasing productivity and
+improving data sharing.

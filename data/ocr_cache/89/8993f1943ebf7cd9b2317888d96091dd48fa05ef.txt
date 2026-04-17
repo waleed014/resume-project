@@ -1,0 +1,159 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+HIGHLIGHTS
+
+DB2 * SQL * COBOL 2 * MS SQL
+Server * JCL* SAS * Chrystal
+Reports * MS Office Suite * MVS *
+ISPF/TSO * Electronic Data
+Interchange (ED!) * IBM Utilities *
+UNIX® Shell * C * Informix
+Connect:Direct * FTP * Visual Basic
+* Oracle * ChangeMan * Syncsort
+
+EDUCATION
+
+DeVry Institute of Technology
+atlanta, GA
+
+Bachelor of Science: Computer
+Science
+
+‘Computer Science
+
+SUMMARY
+
+A creative, resourceful and flexible professional offering a broad range of IT experience with proven
+abilities in PC, mid-range, and mainframe systems design and implementation; legacy system
+conversions; Database development/management; strategic planning; installations and support.
+Principal strengths include analytical, technical, team building and problem solving. Offering excellent
+communication, interpersonal, and research and planning abilities.
+
+ACCOMPLISHMENTS
+
+EXPERIENCE
+
+The College Of William & Mary - Programmer/Analyst/Database Administrator
+Williamsburg, VA + 01/2008 - 01/2009
+
++ Analyzed, created, and installed 3 new Microsoft SQL Server 2000 databases to replace 6 existing
+databases for the ATET Treasury Operations group reducing database management cost by 50%.
+
++ Drafted new reports using Crystal Reports for a returned mail application.
+
++ Collected and composed requirements for new client/server web application working directly with
+programmers from India, tracking progress with internal tracking system.
+
++ Production support, maintenance, and new development of COBOL II / DB2 mainframe application.
+
++ DATABASE MANAGEMENT: Performed maintenance for 27 Microsoft SQL Server databases used by
+all 6 of the AT&T Treasury Operations applications.
+
++ Result: Databases that were stable, efficient, and reliable 100% of the time during non-
+maintenance periods.
+
+The College Of William & Mary - Programmer/Analyst/Database Administrator
+Williamsburg, VA + 01/1997 - 01/2008
+
++ Created 100% of the new tables, columns, indexes, and table loads for 5 IBM DB2 databases used
+for development, testing, and production.
+
++ Continuously provided subject matter expertise to 65 banks, billers, and other financial
+institutions using Connect: Direct to ensure an uninterrupted flow of transactions to/from
+Remittance Resolution System.
+
++ Planned, coded, tested, and debugged 35 COBOL II / DB2 application programs to redirect lost
+payments while maintaining legacy PL/1 application.
+
++ Designed and implemented a large IBM DB2 database consisting of 60+ tables using normalization
+methodologies and techniques resulting in a stable, efficient database requiring minimum
+enhancements.
+
++ SOFTWARE DEVELOPMENT: Created, designed and implemented a solution for corrupted data in the
+largest consumer billers by writing 3 COBOL II programs to correct data and report to upper
+management daily for 6 months.
+
++ Result: Customers’ accounts 100% accurate saving AT&T over $8M, obtained one of the highest
+honors - "The Circle of Excellence award".
+
++ Daniel Claire Page 2 PROCESS DESIGN / AUTOMATION: Developed a weekly archive process to
+reduce the amount of production data stored in 31 DB2 tables.
+
++ Result: Data was moved successfully saving time and cost reducing production data storage by 85%,
+and increasing data retrieval time by 60%.
+
++ DATABASE DEVELOPMENT: Planned, created, and installed 100% of the new tables, columns,
+indexes, and table loads for 5 IBM DB2 databases used for development, testing, and production.
+
++ Result: all tables, columns, and indexes created or updated in a timely manner for the applications,
+supported by the databases.
+
++ TROUBLE SHOOTING: Investigated several long running batch jobs to determine the root cause by
+creating and testing new indexes for 7 key DB2 tables.
+
++ Result: The job run time was reduced from 5 hours to 3 minutes.
+
+Lucent Technologies - Programmer/Analyst
+City, STATE « 01/1996 - 01/1997
+
++ Successfully cloned and implemented all EDI processes from AT@T Financial Services Organization
+for Lucent Technologies giving Lucent Technologies a state-of-the-art EDI system, allowing Lucent
+Technologies to conduct Electronic transactions on the first day of business.
+
++ COST REDUCTION / AVOIDANCE: Utilized existing resources, and developed a process to receive
+100 of electronic files using Connect:Direct from 3 different trading partners, then sent electronic
+files back to the trading partners.
+
++ Result: $50K savings in cost avoidance, plus over 480 man hours in development time.
+
+ATAT, Inc - Programmer/Analyst
+City, STATE » 01/1984 - 0111996
+
++ Streamlined the production EDI processes for ATET Financial Systems Organization saving ATT
+over $100k annually.
+
++ Designed and Developed entire host interface for the AT&T Transfer System to interact with
+Conversant Script Builder establishing the largest Conversant system ever for ATT HR systems.
+
++ Implemented 10 and 12 hour shifts in the AT&T Hourly Manufacturing Payroll System.
+
++ Contributed in the development of the ATET Customer Network Design Tool replacing the manual
+method of system engineers increasing the efficiency of the work flow, and operations by 500%.
+
++ PROGRANWMING / CODING: Participated in an EDI Pilot Program with the IRS by designing,
+developing, and coding the processes required to file quarterly payroll taxes electronically.
+
++ Result: all major corporations use a variation of this trial to report payroll taxes electronically to
+the IRS.
+
+INTERESTS
+
+Database Administrator, Programmer, Analyst, DB2 DBA, MS SQLServer, ETL, SQL, Cobol, SAS, MVS,
+Excel, Powerpoint, Word, Access, RPG, EDI, JCL, File Transfer, FTP, Connect:Direct, Coding, Software
+Development, Cost Reduction, team building, Crystal Reports.
+
+ADDITIONAL INFORMATION
+
++ Awards Circle of Excellence Award for exceptional Software Development Star of Excellence award
+for outstanding Cost Reduction / Avoidance Star of Excellence Award for outstanding Process
+Design / Automation Award for Patriotic Service from U.S. Department of Treasury Keyword:
+Database Administrator, Programmer, Analyst, DB2 DBA, MS SQLServer, ETL, SQL, Cobol, SAS,
+MVS, Excel, Powerpoint, Word, Access, RPG, EDI, JCL, File Transfer, FTP, Connect:Direct, Coding,
+Software Development, Cost Reduction, team building, Crystal Reports.
+
+SKILLS
+
+art, AUTOMATION, C, client/server, COBOL II, COBOL 2, COST REDUCTION, Crystal Reports,
+Databases, database, DATABASE DEVELOPMENT, database management, designing, Electronic Data
+Interchange, EDI, Financial, FTP, HR, IBM, DB2, MVS, Informix, ISPF, JCL, mainframe, mail, MS Office
+Suite, 2000, Network Design, Oracle, Payroll, PL/1, PROCESS DESIGN, processes, CODING,
+PROGRAMMING, progress, SAS, Shell, Script, SOFTWARE DEVELOPMENT, MS SQL Server, Microsoft
+SQL Server, SQL, Syncsort, tables, taxes, Treasury, TROUBLE SHOOTING, TSO, UNIX, IBM Utilities,
+Visual Basic, work flow

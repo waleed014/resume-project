@@ -1,0 +1,182 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor
+(655) 432-1000 -resumesample@example.com
+
+‘PROFESSIONAL SUMMARY
+
+Highly motivated and Successful SQL Database Administrator with 7 years of experience in database development and production
+‘environments. Areas of expertise include maintenance and security. Proactive in establishing backup and recovery processes and protocols to
+protect and retain valuable company data. Average in {T-SQL] language. Have administered and provisioned SQL servers 2005, 2008, 2012,
+2014, 2016,2017, and 2019 in Production, Test Development, and Clustered Environments. Iam a Highly motivated self-starter with strong
+interpersonal and persuasive communication, outstanding problem solving, and active listening skills. Having worked in several agile
+‘environments as the only DBA and with teams. Experience spans: Installation and Configuration of SQL Server, Performance Tuning, High
+Availablity and Disaster Recovery/Disaster prevention, Database Refresh, SQL Server Upgrades and Patches, Active directory, and other
+Windows server features
+
+Sxuxs
+‘+ Database Optimization ‘+ SQL Server Reporting Services
+‘+ Data Conversion and Migration ‘+ Implementing Security Measures
+‘+ Performance Tuning ‘+ Backup and Restoration Procedures
+SQL Automation Active Directory
+‘Database Security ‘+ “SQL & Windows Cluster Development
++ SQL Server HA and DR ++ Complex Conflict Resolution
++ Team Building & Leadership + ESQL Writing Skill
+
+‘+ Database Mirroring
+
+‘Worx History
+
+(01/2021 to Current SQL Server Database Administrator
+
+Adt Security Services, Ine~ Tempe, AZ
+
++ Produced high standard databace solutions to meet stability, liability, and performance metrics.
+
+‘+ Managed workload independently but collaborated with colleagues to complete larger-scale tasks ina distributed
+team environment
+
++ Administered, supported, and monitored databases by proactively resolving database issues and maintaining
+
++ Responded to and resolved all database access and performance issues
+
++ Oriented other database administrators on SQL Server management including upgrades and migration.
+
++ Ensured databases adhere to corporate standards and policies, including database auditing,
+
++ Installed and upgrade SQL Server 2012 or greater and, applied security fixes
+
++ SQL Server Profiler, Extended Events, Query Store and Database Engine Tuning Advisor (DTA) for performance.
+
+«+ In charge of Server Lease Replacement, Server Decommissioning forthe entire Datacenter
+
+‘+ Management of Azure and services
+
++ Provision of Azure databases, Managed Instances, elastic pools, and Azure VMs
+
++ Performed Database Migration from an On-Premises SQL environment to Azure Database in the cloud
+
+«+ Installed and configured MS SQL Server VM in Azure Database,
+
++ Build and configure Window Clusters for diferent HA Solutions
+
+‘+ Management of Azure and services
+
+‘+ Managed and reduced cost by effectively monitoring the databases elastic pool
+
++ Used Azure Active Directory authentication, Temporal Tables
+
++ Performed all day-to-day aspects of MS SQL database administration. Responsibilities include database design,
+installation, configuration, upgrades, security, managing users and login, performance monitoring and tuning,
+atabase availabilty, backup, and recovery, troubleshooting and problem resolution
+
++ Configured High Availabilty Solution- Always On Cluster, Traditional Failover Clustering, Database Mirroring
+and Log Shipping,
+
++ Involved in ensuring data recovery, maintenance, and data integrity and space requirements for physical database.
+Creating and Modifying Tables, Stored Procedures, Views, Indexes, User-defined Functions and Triggers ete. a8
+requirement on SQL Server Environments.
+
+(02/2017 to 12/2020 MSSQL Database Administrator
+
+‘Texas Department Of Criminal Justice — City, STATE
+
+«+ Setup security and access profiles and procedures for database system administrators.
+
++ Implemented MS SQL Cluster (Active Passive & ActivelActive)
+
++ Created, administered & maintained SQL Server Databases for Production, Development, Tes, and Staging
+Environment for various groups such as Developer, QA, BA, and User.
+
++ Managed security by defining roles and rights
+
+‘+ Handled Fine-Tuning Operating System in coordination with Server and Network Administrator to utilize
+maximum resources for Database and Applications.
+
+‘+ Monitored database server performance and if required go for tuning TSQL queries, Stored procedures.
+
++ Configured database software, associated database tools, and performance monitoring software.
+
++ Performed databace infrastructure physical design, database upgrades & applied software patches to databases 2
+per application/lient requirements.
+
+‘+ Developed & maintained scripts, utility jobs, or implement needed software for database maintenance.
+
+‘+ Implemented & managed database clustering, failover, and load balance technologies as per client requirements
+
++ Developed, tested & implemented a robust database backup and recovery strategy with client assistance
+
+‘+ Monitored data activities such as database status, logs, space utilization, extents, Checkpoints, locks, and long
+transactions
+
++ Suggested Application-level tuning changes for code, queries, and SQL object that may not be performing up to
+‘optimum database performance standards
+
++ Adhered to Change Control Procedures and developed & executed scripted change requests in accordance with
+change control procedures.
+
+(03/2015 to 04/2017 Jr. SQL Server Database Administrator
+
+‘Camel Cameroon Tne. ~ City, STATE
+
++ Use documented procedures to implement common fixes fr production issues
+
++ Support portfolio of products using Microsoft SQL Server 2008 through 2016, standard and enterpite editions, and
+installed on-premises and inthe cloud
+
++ Use templates to apply data fixes and report
+
++ Use Agile tools and ticketing ystems asa queve for work
+
++ Use monitoring dashboards and alerting to adress and communicate issves proactively
+
++ Able to judge when help is needed and escalate using provided incident rezponse tool
+
++ Participate in database release management processes for development, testing, production envionment, and an
+auray of products.
+
++ Help identify documentation opportwties fo senior staf
+
++ Review, update, and create quality documentation of processes and environments within the purview
+
++ Depending on the final schedule, may be expected to participate in an onal rotation.
+
++ Monitor pefosmance of database systems resouces and query thoughput
+
++ Optimize SQL Code as necessary
+
+‘+ Monitor and maintain database storage resources
+
++ Monitor and maintain datatase maintenance plans for backups, index rebuild fragment, and database statistics
+
++ SQL Server Installation, Upgrades, Migrations and Configuration
+
++ Install database software service packs and cumulative updates as necessary
+
++ Maintain database documentation as required
+
++ Maintain and administer database security access
+
++ Perform databate Ad-hoc backops and restores
+
++ Trouble shoot and resolve database connectivity issues
+
++ Follow Change Management processes to implement database configuration changes
+
+«Follow Problem Management processes o troubleshoot and resolve recurring issues
+
++ Proactively monitor and respond to MSSQL database Alert
+
++ On-call reguitements to ensure 24x 7 support of database operations
+
+Epucarion
+ovao1s Certificate: Microsoft SQL Server Database Administrator
+KiawitechIT Academy -Tx.
+12/2006 Bachelor of Science
+University of Buea - Cameroon
+‘Laovaces
+english: French:
+‘Negotiated: ‘Negotiated
+ApprmioNat INFORMATION
+
+Reference | Upon Request

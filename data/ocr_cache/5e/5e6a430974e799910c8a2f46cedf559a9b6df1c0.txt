@@ -1,0 +1,247 @@
+JESSICA
+CLAIRE
+
+© _resumesampleexample.com
+%& (555) 432-1000
+
+9 Montgomery street, san
+Francisco, CA 94105
+
+SKILLS
+
++ Databases: Teradata,
+Snowflake, Oracle, SQL Server
+
++ Programming: Python, PL/SQL,
+SQL; Hive
+
++ Data warehouse Tools: Ab
+Initio, Informatica
+
++ Reporting Tools: Tableau
+
++ Others: Radar, Chorus, JIRA,
+Confluence, MS Office (Word,
+Power point, Excel, Visio), SVN,
+Control-M, SQL Assistant, SQL.
+Developer, TOAD, Move IT
+
+EDUCATION AND
+TRAINING
+
+Northern Illinois University
+Dekalb, IL + 08/2007
+
+M.S: Computer Science
+JNTU
+
+05/2005
+
+B.Tech: Computer Science
+
+SUMMARY
+
++ 12+ years of professional IT experience as ETL developer and Functional Analyst.
+
++ 5 years of experience in manual testing in SDLC and Agile (Scrum) methodologies.
+
++ Hands-on experience and strong understanding of Software Development Life Cycle (SOLC),
+Datawarehouse concepts and Big Data Ecosystem.
+
++ Experience collaborating with product management, development, source systems and external
+vendors for meeting the business requirements and testing/alidating new product features.
+
++ Strong data skills, and working experience in Oracle, Snowflake and Teradata to build, analyze and
+contribute to the better understanding of the business.
+
++ Performance tuning of SQL queries and Tableau Dashboards.
+
++ Prepared approach and ETL specifications and analyzed ETL code for business requirements to
+technical architecture.
+
++ Worked with developers and quality engineers, offshore teams in doing design reviews, code
+reviews, testcase reviews and problem solving
+
+Actively involved in Integration testing and user acceptance testing.
+
+Expert knovdedge in creating test suites, test plans, test cases, test scenarios and test strategies.
+
+Defect management to ensure quality assurance and to test all the business scenarios.
+
+Proficient in troubleshooting database issues and RCA for production failures.
+
+Followed the company’s quality guidance document and testing best practices to ensure safety of
+
+customer data.
+
++ Experience working in fast-paced environment and multiple projects/stories at any given time.
+
++ Excellent team player self-motivated with good communications skills.
+
++ Work experience in Retail, Healthcare, Insurance.
+
+EXPERIENCE
+
+Datto - Functional Analyst/Technical Project Manager/ Business Analyst
+‘New York, NY + 12/2019 - Current
+
++ Lam currently working in GBI GDPR privacy compliance group which ensures customer data privacy
+Apple Privacy Portal
+
++ Responsibilities:
+
++ Work with cross functional teams to ensure the data integrity from IDMS to downstream G8
+Privacy compliance i handled correctly
+
++ Extensive data analysis on GBI GOPR tables for IDMS signals validation and generating data
+extracts from ICM database on a regular basis
+
++ Work with application teams to ensure Nulification, GDPR Delete and Machete activity is
+completed on their tables and supporting the teams on questions related to classification of tables
+cm
+
++ Wiite requirements to enhance CANON Engine to add data quality checks to ensure signals are
+received on in a timely manner from IDMS and applied correctly in CANON
+
++ Worked on privacy portal reporting project as functional analyst and project manager
+
++ Responsibilities included managing project timelines, writing functional requirements, functional
+test plans and testing
+
++ Prepare Requirement Traceability Matrix to map the privacy portal dashboard business
+requirements to functional requirements and test cases
+
++ Write requirements for ICM tool to implement enhancements for user search, PAW templates and
+validating table metadata
+
++ Work with Privacy Legal team to review the Privacy Impact Assessment radars raised by application
+teams
+
++ Follow up with application teams for any additional/incomplete information to adhere to privacy
+compliance framework process
+
++ Extensive functional documentation on privacy compliance products such as CANON and ICM Rule
+Engine
+
++ Work on issues related to Rake ICM raised by users related to tables verification, PAW uploads,
+backend metadata updates
+
++ Build and monitor operations dashboards in Tableau and report any discrepancies in data to source
+teams or engineering teams
+
++ Work with 3 offshore resources to coordinate functional testing and perform validations
+
++ Lead the inclusive language Initiative changes effort in the privacy compliance area
+
++ Update the GBI Privacy compliance Chorus and GBI Portal pages on the regular basis
+
++ Worked extensively on preparing test plan, test scenarios, test cases and test data to test the
+requirements
+
++ Execute the test cases during UAT phase by running test data in UAT portal and validating the
+expected and actual results
+
++ Captured the resuits and bugs and assigned them to appropriate teams for code fix/bug fix.
+
+Benefitmall Inc. - Data Quality Engineer
+West Conshohocken, PA » 04/2014 - 11/2018
+
++ Loyalty Rewards Project: Customers are enrolled to become a loyalty rewards member, which
+contains unique loyalty ID, address attributes and loyalty data
+
++ Cross Brand Gift Registry Project: Allows customers to create cross brand wish lists and to shop
+across multiple brands with one gift registry customer account
+
++ Responsibilities:
+
++ Work with Product Management, Technical Marketing and Engineering during the development,
+launch and optimization of new customer and transactional processes
+
++ Collaborate across teams (i.e., ecommerce, retails store and brand marketing) for creating test
+plans and testing strategies for data warehouse application to assure a stable reporting
+infrastructure for customer targeted campaigns
+
++ Provide accurate estimates for conducting functional testing, system integration testing and user
+acceptance testing
+
++ Work with management to meet those estimates
+
++ Develop and execute ETL test scripts based on the product requirements and technical
+specifications
+
++ Write SQL queries/scripts for validating backend database systems
+
++ Created ETL automation framework for regression testing of all applications before go-live
+
++ Work with enterprise QA team to test enterprise applications for creating and initiating test
+orders/transactions and ensuring they are successfully loaded into target databases
+
++ Work with DBa\s to analyze and identify any SQL performance issues and bottlenecks
+
++ Work with offshore quality engineers in test case reviews, test data prep and implementing test
+standards
+
++ Extensive documentation on Confluence and JIRA for Test results, SIT execution and Regression
+testing.
+
+Benefitmall Inc. - ETL Developer
+Woodbury, NY » 12/2011 - 03/2014
+
++ Content Personalization: Improving personalized content and customer recognition
+
++ Campaigns are built by storing cookie-cookie relationship data in customer warehouse
+
++ Responsibilities:
+
++ Develop scalable ETL solutions for Williams-Sonoma's marketing customer data warehouse
+
++ Collected and analyzed the user requirements and designed logical and physical data models
+
++ Designed and develop generic and complex transformations to load data into stage/target tables
+by using SQL and datawarehouse tool such as AbInitio and Informatica
+
++ Implemented SQL tuning techniques to improve performance using EXPLAIN PLAN
+
++ Created Oracle tables, procedures, functions and triggers
+
++ Work with enterprise quality engineers to validate the test cases/scenarios as per the business
+requirement and data design
+
++ Providing extensive support to production support team during job failures by identifying the
+‘issues and proposing temporary/permanent fixes.
+
+Healthways, Tivity Health Inc - ETL Developer
+City, STATE » 12/2007 - 11/2011
+
++ Embrace project extracts data from various source systems such as Clinical Information
+System(ClS), Harris Health Trends(HHT) and MyHealthiQ(MHIQ) to merge into a single Consumer
+Data Store(CDs)
+
++ Discovery project maintains legacy healthcare data for consumers and data from various source
+systems is loaded into Datawarehouse for reporting
+
++ Responsibilities:
+
++ Worked with source systems business analysts in requirements phase to analyze and identify
+patient information in each of the respective feeds
+
++ Write high level design documents and source to target mapping documents for uniquely
+{identifying patient records
+
++ Performed extensive gap Analysis between source system table and warehouse tables
+
++ Responsible for development, support and maintenance of the ETL. (Extract, Transform and Load)
+processes using Informatica Power Center
+
++ Write ad-hoc SL's for identifying Data quality issues and troubleshooting them
+
++ Developed SQL queries /scripts to validate the data such as checking duplicates, null values,
+truncated values and ensuring correct data aggregations from source to target tables
+
++ Performed unit testing, user acceptance testing and regression testing
+
++ Assist quality assurance team in developing test plans and create test data for patient records for
+various source systems
+
++ Development and validations were performed by following Internal Quality Regulations Policy to
+ensure patient information records were secured.

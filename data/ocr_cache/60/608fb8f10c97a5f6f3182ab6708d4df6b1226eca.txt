@@ -1,0 +1,219 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (655) 432-1000
+
+9 Montgomery treet, San
+Francisco, CA 94105
+
+EDUCATION
+
+Nitte Meenakshi Institute of
+Technology
+
+Bangalore, Karnataka + 2009
+Bachelor of Engineering: Computer
+Science and Engineering
+
+Indian Institute of Science (ISe)
+Bangalore, Karnataka - 2009
+Project During Graduation: Optical
+CCharacter Recognition (Using
+Neural Networks)
+
+TECHNICAL SKILLS
+
+‘Tools and Technologies: Jenkins, Docker, AWS, Kubernetes, Vault, helm, GCP, GKE, maven, splunk,
+prometheus, SonarQube, RHQ, GitHub, SVM, SQL Developer, Apache Directory Studio, Pivotal Cloud
+Foundry, LDAP, Okta, incapsuia, Ant, Maven, uDeploy, BPPM, Workioad Control Cente, Siteminder,
+Connect Direct, Doubletake, Fiddler, DynaTrace, Sitescope, MQMonn, Procmon. Confluence, Rall
+Scripting & Programming Languages: Groovy, Terraform, YAWNL, JSON, GoLang, Python, Batch, PHP,
+Ped, shel
+
+PROFESSIONAL SUMMARY
+
+Cognizant Technology Solutions - DevOps Architect
+
+Austin, TX + 04/2010 - Current
+
++ 10 years of experience working on DevOps Structure and Methodologies.
+
++ Hands on experience in Docker, Kubernetes, GCP and Terraform coding.
+
++ Worked on Airflow design and Setup for a retail client using - Glusterfs, heketi, GKE, GCS,
+Terraform and MySQL.
+
+“+ Hands on experience on setting up Vagrant and Concourse Cl pipetine for a project.
+
++ Hands on experience working on setting up AWS infrastructure for Web Services/Applications/
+Databases for a client,
+
++ Good experience in defect tracking tools like JIRA/ALMYTeamforge and integrating them with GIT
+and Jenkins.
+
++ Gained expertise over the years in analyzing and troubleshooting the issues with the application or
+the infrastructure.
+
+“+ Performed DevOps for Windows (more than 600 servers), Linux platforms.
+
+‘+ Worked on setting up MySQl. on a LINUX machine and also created a relational database model for
+a project.
+
++ Worked on DevOps operations for Consuiting/Setup of .net, JAVA, Batch applications.
+
++ Historic data analysis of Environment Availability and suggesting possible remediations & process
+improvements.
+
++ Prepared estimates for effort involved and resource count for W2K3 to W2K8 migration project
+within the insurance domain,
+
++ Networking experience in configuring ACE/F5 LAP & Layer 7 URI redirection and host file
+redirection.
+
++ Worked on Leading the Development and DevOps team to design and develop the applications
+required to grab and process the Market data from different stock exchanges all over the world and
+provide the same to customers in real-time.
+
++ Good experience in application tune up to meet capacity needs using tools lke vTune, gdb,
+valgrind.
+
++ Hands on experience in seting up the bulld environment for a project from scratch.
+
+“+ Hands on experience working on puppet and have done an end to end integrtion of an environment
+stack from the Infrastructure provisioning stand point til the application delivery.
+
++ Experienced in setting up Jenkins for an project and also used the Jenkins command line features
+and the REST API within an automation. The Jenkins REST API xml output was integrated with
+MySQL databace using Shell script, PHP and PHP-nySQL.
+
++ Part ofthe application architecture and Solution architecture connects to learn about new
+requirements coming along our way and also proposed viable solutions related to continuous
+integration and deployment available in the market to accommodate the clients requirement.
+
+“+ Hands on experience in tools/utilities lke: Fiddler /Bladelogic/ DynaTrace/SPLUNK/Puppet Labs/
+‘Autosys Workload Control Center /Procmon/BPPM/Sitescope/Siteminder/MQMonn/SQL 8 Oracle
+Client
+
++ Proposed a branching and release strategy fora large scale project (both pre & post MVP release)
+
+{Suggested framework changes to a major Market data cient, to avoid incorrect data calculations
+‘when lost data was recovered and processed
+
++ Worked on setting up airflow for a big retail cient for processing their daily batches. The
+technologies incorporated in the setup are kubernetes, docker, helm, gep, glusterfs, heketi, ke,
+terraform, maven, splunk, prometheus
+
+“+ Hands on experience in setting up Jenkin pipeline for an entire project which includes Micro
+services, Mule APIs, Database, Ul & Infra (RMQ, Redis Cache & Dynatrace)
+
++ Hands on experience automating build breakers for code quality, code governance, API governance
+checks
+
+PROFESSIONAL EXPERIENCE
+
+Client: Insurance Domain client
+Position: Onshore Team Lead
+‘Work Location: Hartford, CT, USA
+April 2010 - January 2016
+
+Responsibilities:
+
++ Responsible for Environment and Infrastructure provisioning for both Windows and LINUX
+platforms.
+
++ Lead the Incident management team to effectively resolve the open issues and also find the
+pattern for the recurring issues and provide a permanent solution.
+
++ Worked with architecture team/application development teams to get the requirement for the
+application to run on the requested infrastructure and provision the same.
+
+“+ Managed complex Production Release activities on time with no delay caused.
+
+‘Managed an offshore team with a headcount of 10 resources, and also mentored everyone for
+efficiently delivering the dient needs.
+
+“+ Worked within more than 8 Agile project teams with Architects and Development teams, a5 a
+Infrastructure and Configuration management expert.
+
++ Performed DevOps for Windows (more than 600 servers), Linux platforms.
+
+“+ Worked on scripting languages - Shell, Batch, PHP.
+
++ Historic data analysis of Environment availablity and suggesting possible remediation’s & process
+‘improvements.
+
++ Prepared estimates for effort involved and resource count for W2k3 to W2K8 migration project
+‘within the insurance domain.
+
++ Completed load balancing and proxying of systems, servers and components.
+
++ Collaborate with Network/Security/Middleware/application/Design/Architecture/Testing teams to
+provide the one stop shop experience.
+
+Client: Telecom Domain client
+Position: Onshore Team Lead
+‘Work Location: Seattle, WA, USA
+January 2016 - August 2016
+
+Responsibilities:
+
+“+ Hands on experience in setting up Build region/servers for a project from scratch,
+
+“Experienced in end to end setup of Jenkins for build and deployment.
+
++ Experienced working on setting up AWS infrastructure for Web Services/ applications /Databases
+for aclient.
+
+“+ Good understanding of how Chef works and where the services of Chef can be implemented. Also
+did an analysis of how to do an end to end integration of an infrastructure from the infrastructure
+provisioning stand point till the application deivery.
+
++ Experienced in setting up Jenkins for an project and also used the Jenkins command line features
+And the REST API within an automation. The Jenkins REST API xml output was integrated with
+MySQL database using Shell script, PHP and PHP-MySQL.
+
++ Worked on scripting languages - Shell, Batch, PHP.
+
+“+ Worked on setting up MySQL. on a LINUX machine and also created a relational database model for
+a project.
+
++ Worked in Devautomation for C1/co/CT
+
++ Managed an offshore team of 6 resources.
+
+Client: Health Care client
+Position: Technical Lead
+
+‘Work Location: Dublin, OH, USA
+September 2016 - Till date
+
+Responsibilities:
+
+“+ Experienced in setting up a build pipeline for a project.
+
++ Hands on experience in integrating Team Forge with GIT.
+
++ Experienced in laying out the design to include Release Management processes in the C1/CD
+approach.
+
+“+ Working on setting up a DevOps Framework for enterprise wide consumption in the organization by
+performing POC's and analysis on various tools involving the DevOps concepts.
+
+ACCOMPLISHMENTS
+
++ Completed AWS Certified Solutions architect - assoctate traning.
+
++ Promoted to Infrastructure Senior Analyst after 2 years of employment.
+
++ Developed several internal tools to automate mundane tasks that were quickly adopted by the
+team.
+
++ Created automation for metrics creation using MySQL, Jenkins Rest APIS, Shell, PHP on LINUX
+platform in order to assess the success rate of Continuous delivery operations.
+
+“+ Worked on DevOps operations for Consulting/Setup of net, JAVA, Batch applications.
+
++ Gained expertise in Autosys and also did a large scale cetup for a project with the insurance Client.
+
++ Completed ITIL V3 Certification

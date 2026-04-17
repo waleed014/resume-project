@@ -1,0 +1,97 @@
+JESSICA
+CLAIRE
+
+= resumesample@example.com
+
+& (655) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
+Programming Skills: Python,
+SQL, Java, C/C+ Tools: R,
+WEKA, MS Project Professional
+Computers: PC, Mac, Microsoft
+Office Professional Skills: Strong
+math, analytical, and. problem-
+solving skills Language Skils:
+English, Chinese, and Uyghur
+Language
+
++ Business development
+
++ SQL and databases
+
++ Data mapping
+
++ Creative
+
+EDUCATION
+
+Ilinois Institute of Technology,
+College of Science
+Chicago, IL + May 2017
+
+‘Master of Science: Computer
+Science (Data Analytics)
+
+Donghua University
+Shanghai, China + Jun, 2013
+
+Bachelor of Science: Electrical
+Engineering
+
+Donghua University
+Shanghai + Jun. 2013
+
+Bachelor of Science: Electrical
+Engineering
+Electrical Engineering
+
+PROFESSIONAL SUMMARY
+
+trong skills in statistical analysis, data mining and statistical programming using R and Python to
+solve business problems
+
+WORK HISTORY
+
+Illinois Institute Of Technology - Database Design Project
+City » 08/2014 - 10/2014
+
++ Database Design Project (SQL) Developed a management system for cinema to store, manipulate
+and search movies and tickets by customers and staff Designed an ER-model and translated the
+model to relational schema for a management system of cinema Created and implemented a
+desktop application using JAVA Swing, JDBC and ORACLE.
+
+Illinois Institute Of Technology - Advance Data Mining (R)
+
+City « 2015 - 04/2015
+
+Developed a new feature that can decompose the simple stars into several grades related with a
+particular topic in which customers show interest based on the reviews from Yelp academic datasets.
+Used Python to preprocess the dataset from Yelp. Used R to do Latent Semantic Analysis and Latent
+Dirichlet allocation. Used machine learning, data mining and other algorithm to improve the ranking
+on Yelp.
+
+Illinois Institute Of Technology - Pairs Trading Strategy (Python)
+
+City » 2016 - 03/2016
+
+Developed the pairs trading strategy for EWABEWC using 6-year daily data Reconstruct time series by
+using Fast Fourier transform Generated dynamic beta by using Kalman Filter Controlled the risk by
+setting target profit, stop loss, and trailing stop to exit the position at the best time Optimized the
+performance by Genetic Optimization Algorithm Examined the result by the back testing, taking into
+account commission Generated intraday signal, and connected to IB
+
+Illinois Institute Of Technology - NYC Subway System Analysis (Python & R)
+
+City » 08/-1 - 10/2016
+
+Collected the data from the real time feed (MTA) and did data cleaning and interpretation to build the
+historical data Used Dijkstra’s algorithm to find shortest path from start point to end point
+
+LANGUAGES
+
+English, Chinese, and Uyghur Language

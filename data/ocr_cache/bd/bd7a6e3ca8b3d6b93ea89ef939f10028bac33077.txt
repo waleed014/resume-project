@@ -1,0 +1,116 @@
+Jessica MakanjuJessica
+
+© 100 Montgomery St. 10th Floor && (555) 432-1000 <4 resumesample@example.com
+
+PROFESSIONAL
+
+Diligent professional for Syears possessing hands-on experience eliciting, analyzing,
+
+SUMMARY | documenting, and fufiling complex functional and business requirements of stakeholders
+and business users through interviews and JAD sessions. Vast experience in all phases of the
+Software Development Life Cycle (SDLC), including agile and waterfall methodologies
+Strong knowledge of SQL for data analysis and validation. Also leading the effort to effectively
+communicate and collaborate with external and internal stakeholders to analyze information
+needs and requirements and deliver the following artifacts as needed.
+
+SKILLS © + Application Configuration + Ability to adapt to new ideas
++ Role and Access Management + Time management
++ Custom saved searches, reports and + Software Process Management
+Dashboards + MS Office Suite
++ User Testing & Training + Confluence, Jira, Visio, DrawiO, Snagit
++ Team Leadership & Relationship Building + Databases
++ Stakeholder Communication * SQL, SQL Server, Oracle, MySQL, Tableau,
+= Data Modelling Power BI, Advanced Excel, MS Access (VBA),
++ Problem Solver MS Excel (Pivots), (VBA), Visual Basics for
++ Agile & Scrum Application
++ Presentation + Data Mining
++ Microsoft Visio + Data Compiling
+‘+ Work Planning and Prioritization + Spreadsheet Development
++ Process Improvement
+EXPERIENCE © BUSINESS DATA ANALYST 07/2018 to CURRENT
+
+Infor | Nashua, NH
+
+Elicits requirements through Joint Application Development (JAD), interviews, questionnaires by working
+with stakeholders to define and document customer requirements
+and translate business requirement to detailed user functional, and system requirements.
+Collaborates with business users to define scope, clarify Functional and Non-functional
+requirements to translate them into application and operational requirements
+Translates stakeholder requirements into different deliverables such as functional
+specifications, user stories, use cases, use case diagrams, workflow diagrams, data model
+diagrams, mock-ups, and activity diagrams
+‘Works with the Business users to understand what reports were critical, non-critical and not
+needed
+Develops user stories, acceptance criteria, assist product owner with managing and
+prioritizing Sprint backlog, planning releases, while seeing project from inception to
+‘completion using the Agile/Scrum and waterfall development methodologies,
+Assists the scrum team to create the project deliverables agreed upon for the sprint and
+update the scrum board and impediment log.
+Provides end user support, leadership, and team collaboration, create training materials, and provide
+post-implementation user support for software launch.
+Develops and enhanced skills and abilities of interns within enterprise operations team
+through effective mentorship.
+Determines tradeotts between usability and performance needs and foster technical vision
+via collaboration of developers and subject matter experts.
+Ability to dril down data and understanding various Levels of Detail in the report.
+Configuring interactive reports with filters and parameters in Tableau.
+Created intuitive Dashboards using Tableau and Power BI
+Writes complex SQL queries for data analysis and validation
+‘Administers Requirement change Request process (RCR) and Software Change Request (SCR) for
+effectively managing all software change requests.
+Conducts user interviews, gathered requirements, and analyzed the requirements for existing
+application.
+Creates Use cases, process flow diagrams, screen mock-ups using various tools such as Snag IT,
+Drawio.
+Etfectively prioritizing project deliverables by developing product and sprint backlog
+
+‘Acts as a liaison between the business line, operations, and the technical areas throughout the project
+cycle
+Collaborates with Software developers, and IT teams to ensure clarity of requirements,
+Created intuitive Dashboards for Power-point presentations, using VBAS, Excel, and Microsoft
+Access.
+Data migration and Data validation/Testing through MS Access and MS Excel
+Imported data to Access and SQL Server from flat files and Excel spread sheets
+Facilitated Regional and Zonal meetings with Executives and internal teams to ensure proper
+understanding and clarification on Market Trends and areas that require utmost attention,
+interests as backed up by Data
+
+REDORTIDATA ANALYST 01/2017 to 07/2018
+Apex Systems | Celebration, FL
+
+EDUCATION
+
+Creating Excel based Analysis and reports using VLOOKUP, Pivot tables and complex excel formulas
+per business needs
+
+Facilitating meetings among providers and internal teams to ensure proper understanding and
+clarification of special projects
+
+Creating ODBC connection, ADO DAO objects to connect Oracle SQL Server databases
+
+Writes VBA codes to refresh reports weekly and automatically email reports to users
+
+Developing reports in Excel and Access from datasets as per business needs
+
+Data migration and Data validation/Testing through MS Access and MS Excel
+
+Importing data to Access and SQL Server from flat files and Excel spread sheets
+
+Performing gap analysis for dataset using Data Analysis Expressions
+
+Maintaining Access database for the purpose of extracting reports
+
+Developing interactive Microsoft Excel dashboards for presentations purpose
+
+‘Working with the Business users to understand what reports were critical, non-critical and not needed.
+‘Writes basic queries using SQL, created tables, and extracted data from database
+
+Environment: MS Access (VBA), MS Excel (VBA), SQL Server, Visual Basics for Application, Tableau, T-
+SQL Basic
+
+Bachelor of Arts 012012
+
+Obafemi Awolowo University, Ile-Ife
+
+CERTIFICATIONS © Certified Scrum Master (CSM)
+Certified Scrum Product Owner (CSPO)

@@ -1,0 +1,194 @@
+Jessica CLame
+
+10 Monegamey Sth lor «(5542000 + reumenmpeseaplecom
+
+Professional Summary
+‘DevOpe Engines with ve 6 year fT experience Lam happy tel connect vatou teams to achieve ou goals in contol
+improving our products ensuring high performance, ellnc, nd ears. Hand on experience in design, implting
+and managing complex cloud infarc and automaton frameworks Skilled programming scripting and aC too sch at
+“erator and CloudForna on with dep understanding of conanezation and montoring tol Proven tack rene of
+amprovng softwar delivery speed, ety and quality trough colaberason wth ross-uncional ams, tong proble
+selving and communication shils witha passion or continous laming and innovation
+
+Skals
+Techical ile + Routs3, ACM Clot Accelerator, Teast Catey, 1AM,
++05 Secrets Manger, 9, EBS EFS.
+
++ Lise Debian Rad Hat SUSE Ubu famien MacOS. + Azure: blo Storage, Virtual Machines, Continence,
+Windows. ‘Viral Networks, AKS, SQL Databases
+
++ Sexptng/ Programm: Advanced: ‘1a Terraforn (HashiCorp Cerin), Cloud ormaton
+
++ Bash Python. HCL. Itemadiate Raby Co, JavaScript Java + Configuration management Arable
+
++ VCS: Cit Gab, Btbucet, AWS CodeComanit. "+ CICD: Jenkins, Gita Actions, Bamboo ArgeCD.
+
++ AWS (Solutons Architect Cried) Athens le + Contineriaton Docker, Kberntes (AWS EKS, Azure
+Eveniidge SOS, SNS EC2, Aut-Sealing Ee AKS) ANSECR, Frog, AWS ECS
+
++ TeBesnstlk Lama, ECR ECS Farge EKS Aurora, + Monitoring Alain: DataDog, Prometheus, Grafana, New
+Reds RDS with MySQL and PostgresQ, atic SumoLogic Rapid” (sightOps, Lo
+
++ DynamaD8, EasCache with Reis, APT Gateway, + Ceri, PageDuty, Opscenie
+
+‘Coudiateh, Cloud, VPC CloudFrot
+Work History
+
+Devops Engineer 0520200 Current
+
+‘ioeTechne~ Cleveland OH
++ ourkie provider of supply cain vty saatons fr shippers, brokers, and hid party legit companies
+
+colleges data rom GPS devices on ecks eaiscralt ndship, or platform provides ended visi
+
+into the locaton and stat of hipeents enabling customers optimize heir operations improve delivery nes and enhance
+“aston servic allowing business ache grater cnc, transparency, and conta arose apply chan
+
++ My oleinvobe faltating deployment dough Jenkins by automating and seaming the procs allowing development
+teams toetcent deploy changes to prodaction
+
++ Taccompls ds by seting up and configuring Jenkins pipelines smplemenng best paces or continous tegration ane
+ater, an woublshooing any sues that may ase
+
++ Futermore werk doy with development ems tense that our deployment pipelines re seule integrated with or
+ineastucte while also meeting our performance and availabilty objectives
+
++ Tato manage and configure an assist deployment to EKS chstes wing Hele and ArgoCD
+
++ Ths andes deponng and managing conanenzedappiaons on Kuberets casters opting the process wih
+Infastrcure-a Code ols and automating deployments though Helm and AzgeD
+
++ Tate ensure the igh ability and poco our ste byinpleentngmeitoring ae lering using tol he
+Neve Rec and Rap?
+
++ Teosbocate ose with developennt testo ensure that any changes are sooty integrated with ue production
+
++ aiding and maintaining AWS and Aurel nese wing Infatracture a» Code ols ike Teralorm Anse
+
++ Developing and automating deployment pipelines wing tol ise Jenkins and Gita Actions
+
++ Implemenng mentoring and alerting ystems wing tol he Prometheus, Gran, Nev Relic to ensure high ata and
+perforce of eur syste and aplcatons
+
++ Troublshooung and resolving neds and sues that ane preducon working dose th development teams tently
+se ads oot cansen
+
++ Designing and implementing dnt recovery plans to minimize system downtie in the tent of an outage o distr
+
++ Collaborating with development teams to design and deploy seaate and reset systems and applatons negating DeOps
+nips nto the developmen iecyle
+
++ Continous proving our system and processes through suomution montong and testing promoting aclu
+aisbity nd eficincy accont the ngtition
+
++ Paripting in ew-clrtations to provide 27 sopport or ures and applctions
+
++ Staring knowedge and experi wth calleagues trough documentation taining and mentoring opromete continuous
+smpeovement and upsilng aco the organization.
+
+DevOps Engineer 0920181007200
+
+BiorTechne = Dale PC
+
+«Involve in developing and implementing ratio improve the elt, alabity, and perfomance of the tomers
+systems and applications
+
++ Worked dos wth ross fancional team to esr athe castes cod nastractares are secure an high avaable
+Beane managed (asin aC too sch Teron, CoudFocmation loud infarcts for cstomers CMS (Conte
+Managemen Sytem) such s Adobe Experience Manage (AEM ~ Content
+
++ Management Tol where ou ets web appicaions, web ar blo)
+
++ Helped sutomersto astonish deployment process
+
++ Consulted clients on our bs prationsfor systems and oud platoems
+
++ Daptoday tas include automating deployment anc monitoring process troublehooing sytem and network,
+developing tol streamline and opine worlows
+
++ Adaivonally responsible for designing and inpementing disaster ecovery plans to mini system dovtne in the event of
+anutage ce diate
+
++ Caliaborating with development teams to ensure products and services ae designed with lability and rabiity
+
++ Staring hnowedge with coleagues promote continous smproveent
+
++ Led the provisioning and management of AWSinfarucures for multiple pre production and production envzonents sing
+“erafoem
+
++ Contbued to customer migration to AWS projects, providing expert in insure setup and management
+
++ Leveraged Anite for centralized configuration management encuring consitency and saat acossemsirneents
+
++ Provision and managed cstomer EKS chters using Tran, enabling theo deploy and sale containerized
+appliatons
+
++ Inplemened Kubert Eternal Secrets wing AWS Sees Manager enabling secure management of sensitive dat
+Bul CUCD pines wing Jenkins automating deployment proceses and reducing mana nervetion
+
++ Developed server funtion sing AWS Lambda to automate complex erp and reduc tll
+
++ Configured AWS CloudFront CDN dstsibton for customers improving latency and enbancing the performance of ate
+
++ Setup and configured DataDog and NewBlc monitoring actos diverse server and serscs providing el ime inighs into
++ Paripate in rotational on-call system maintenance and support outside of normal dat hous, providing tial and efetive
+supporto maintain atm ava andrebaby.
+
+{inex Systems Engineer 07201610 0972018,
+
+‘Apex Systems Fail 1
+
++My primary responsi waste desig, deploy. and main Las systems and inasrctre 6 ensure the elabity
+and secant of stems applications and network nessa
+
++ Tork collaboratively eth cos functonal east ensure hat the Linu ikastuctare was anconing optimally
+
++My day-to-day tsk involved seting up and configuring Lins servers performing sytem updates and patches,
+‘oubleshootng sem and nerk sss, and developing automation fool to opine and sreanineproeses
+
++ tas alo respon for monitoring system prormanc. setting and aren sues proach and orig
+prrfonmance and aan
+
++ Tmaddtion teallaborated with developers to tgeate apa’ and services seamlessly wih the Lane instr
+owe eth my coeagues
+
++ Led he operation and constant derelopeent ofthe itera etvor rsuing high avait and eat ta systems
++ Adeiitre Lic chter caging sm ena todas of server providing msstnanee, eigen ane support at
+reqaied
+
++ Keptsystems propery configured pated, ety, and scaled to meet th need ofthe busines, proaelyening and
+Adseting ison bon they impacted wee
+
++ Deployed and maintained production Linu operating sstemsin accordance wihestblaha IT policies and guidelines,
+cmsing adberence to scury and compliance standards
+
++ Coordinate an prone intlatons and upgrade to laered software packages minining compat and abit of
+cst applicatons
+
++ Conway monitored and tuned systems to achive optional pefoemanc lvls sing sstem and sofware performance
+metro capture trends and ently ares for provement
+
++ Pexormed ytem backup and estore tsk, ensuring ata ites and avait the event of system faze
+
++ Resale operating vem ues, appving technical experi and prcblem slrng sls to minimize doves and rere
+sericea qui as posse
+
++ Maintained a ute of tandard operating procure to support production operations, suring consistency and eepeatablty of
+‘tcl processes
+
++ Acatyand system and software paformance metic providing insights and commendations to improve sytem performance
++ Proacively collaborated in an intendcipinary team envionment working cosy with developers aetwerk engines nd
+othr tahoe to ence sae system ntgeaton and operation
+
++ Poorized and ected asks na constant changing enviconet managing competing ponte and dads with focus
+‘on delivering high-quality es
+
++ Paraipate in rotational n-all sytem maintenance an support outside of normal duty hours, providing tinal and tetive
+supporto main system avait and rei
+
+Education
+
+AWS Cute Solutions Arhitet Associate, HashiCorp Cited Teron Associate,
+
+‘Bachelors Degree Telecommanicatons Engineering 2014
+‘University of Power Engineering and Telecommunicatons-Alaty

@@ -1,0 +1,86 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Cand C+
+
++ Java
+
++ Active Directory
+
++ Perl
+
++ Linux Development and Sys
+Admin
+
++ Networking
+
+EDUCATION
+
+The University of Akron
+
+‘Akron, Ohio + May 2013
+Bachelor of Science: Computer
+Engineering
+
++ Minor in Applied Mathematics
++ Honors College
+
+PROFESSIONAL SUMMARY
+
+‘Systems Engineer with expertise in all aspects of the software development life cycle, including
+requirements analysis, design, development and production support.
+
+WORK HISTORY
+
+Deloitte & Touche L.L.P. - Devops Engineer
+Baltimore, MD + 04/2013 - Current
+Designed a development suite of open source, cross platform tools
+Jenkins, Gitlab, Bugzilla, Reviewboard, Mediawiki, artifactory
+‘Migrated existing teams to new dev enviroment (100+ users)
+CVS, SYN, P4 to git conversions
+Documentation and Training
+Build server setup and maintenance
+Puppet, Vagrant, Docker, JUnit
+Production Support
+‘Main contact and support for medium size AWS deployment
+
+Legacy support for C# and Microsoft SQL application.
+
+Collins Aerospace - Systems Engineer
+Anaheim, CA + 04/2013 - 04/2015
+Windows CE Driver and App Development
+Improved reference Wifi driver
+Wrote MFC C++ GUI
+Embedded Linux Development
+‘system Design and Bring-up
+Buildroot and Backports integrations
+
+Baxter - Engineering Co-op
+Aibonito, PR » 2011 - 07/2012
+
++ Improved build server compilation of multi-layer software project Implemented Obfuscation
+solution Created Install Shield msi Troubleshot compilation problems VBscript and Perl scripting
+Greatly reduced manual compilation steps Preformed daily ATM software and equipment setup,
+general bug testing, and code review
+
+Eurofins Scient. - Technician
+Durham, NC + 04/2010 - 2011
+
++ Prepared documentation and calculations for renewal of A2LA accreditation. Calculated uncertainty
+statistics for calibration equipment, theoretical and practical
+
++ Wrote VB application for simplified user calculations linked to calibration sheets and mySQL.
+database
+
++ Verified hundreds of calibration equipment. Precision oscilloscopes, multi-meters, pressure gauges,
+torque wrenches, dimensional equipment, scales, temperature baths and meters.
+
++ Passed AZLA accreditation audit for ISO/IEC 17025:2005.

@@ -1,0 +1,160 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of driving
+increased sales, improving buying experience and elevating company profile with target market.
+
+SKILLS
+
++ Microsoft SQL Server 2012, Microsoft SQL Server 2008, Microsoft
+SQL Server 2005, Microsoft SQL Server Integration Services (SSIS)
+
+* Oracle 106, Oracle 11G
+
+‘Toad for Oracle, Toad Data Modeler
+
+‘* Microsoft Visual Studio 2005, 2008
+
++ Erwin data modeler, Microsoft Visio 2005,2007
+
++ SAP BusinessObjects Data Services
+
+‘+ Configuration Management - IBM Rational 6 and Rational 7, IBM
+Rational Team concert
+
++ PeopleSoft CRM, PeopleSoft Student Administration, Epiphany
+Campaign Management & Analytics, Association Management
+Software
+
++ Windows 98/NT/XP/2000/2003/2008
+
+++ Experienced in the use of agile approaches for a software
+development project, including test driven database development and
+scrum. Oracle 10g PL/SQL programming
+
+* Oracle Application development and tuning
+
+« Introduction to Oracle Database 10g for Experienced SQL users
+
++ Oracle 10g Database Administration
+
+‘+ Microsoft SQL Server 2000 Administration
+
++ PeopleSoft PeopleTools Foundation (Tools I and II)
+
++ Epiphany Campaign Management and Analytics
+
+Work History
+ETL Developer, 10/2014 - Current
+Salient Crgt - Goldsboro, NC
+
+‘+ Develop, maintain, and troubleshoot SSIS packages using SQL Server Business Intelligence Design Studio (BIDS) and T-SQL scripts to
+develop ETL processes that include process logging, data validation and data integrity checks.
+
+* Write, debug and modify T-SQL queries, views, stored procedures, user-defined functions, and other database entities Create and manage the
+physical and logical data models in support of data warehouse Perform data analysis and mapping document on the source system to design data
+‘models and create data marts to satisfy business processes and technical requirements Write ETL design documents to develop SSIS packages to
+implement technology best practices, coding standards and guidelines for repeatable processes.
+
++ Conduct peer reviews of ETL design documents to develop ETL processes.
+
++ Perform code review of the SSIS packages.
+
+‘+ Work with requirements analyst to interpret technical requirements for iterative design/build/test cycles using an Agile development principles
+and practices Follow process and procedures using Agile methodologies including daily scram meetings to provide project updates Design,
+implement and maintain code in development, test and production environments.
+
++ Create deployment plans and notes to support systematic promotion between environments,
+
++ Perform configuration management and change controls in Team Foundation Server (TFS) and create deployment plans to implement SSIS
+packages and T-SQL scripts from development environment to test and production environments.
+
+‘+ Automate ETL processes with SQL Agent jobs.
+
+Database Administrator, 08/2014 - 10/2014
+‘Chenega Mios ~ Arlington, VA
+‘+ Supporting and managing SQL Server 2005 and 2008 production database servers Installing SQL Server 2008R2 Maintaining data replication
+‘options such as log shipping, mirroring, and replication Monitoring and managing database backups Troubleshooting database errors and
+connectivity problems Diagnosing and addressing database performance issues (Performance Monitor and SQL Profiler) Capacity planning for
+database scalability Backup and recovery strategy planning.
+
+‘Unemployed, 08/2013 - 07/2014
+Applied Systems, Inc.
+
+Lead Database Engineer, 03/2007 - 08/2013
+‘URS Federal Services, Inc — City, STATE
+
+«+ Served as the lead Database Engineer/Developer for multiple projects based on SQL Server and Oracle database for Department of State
+contract. Write/modify SQL Server database scripts (DDL and DML) for the production deployment of passport systems software.
+
+‘+ Wrote/modified PL/SQL scripts in Oracle 11g database using Toad for Oracle and PL/SQL database scripts for (DDL and DML) for the
+production deployment of passport systems software.
+
++ Worked on SQL Server database migration to Oracle 10g/11g database.
+
+‘+ Converted, modified and compiled SQL Server database tables, triggers, functions and stored procedures to Oracle.
+
+* Created functions, stored procedures and T-SQL scripts in SQL Server 2000 and SQL server 2005
+
+‘+ Modified the transact SQL code as needed to support SQL Server 2005 SSIS packages and SQL Server 2000 Data Transformation Services
+Packages (DTS).
+
++ Also briefly used SQL Server 2005 SQL Server Analysis Services (SSAS) to build a proof of concept for a data warehousing project.
+
++ Perform code review of stored procedure, functions and t-sql Worked on database migration from SQL Server 2000 to SQL Server 2008
+database Worked on a proof of concept for a project using SAP BusinessObjects Data Services.
+
++ Performed database reviews to ensure the database development guidelines/standard are followed by application developers for various projects
+of the state department contract Collaborated with application developers in designing, building and modifying database schemas,
+
+‘+ Worked on data modeling, database design and data dictionary during software development phase.
+
++ Performed backup/restores and performance tuning databases for passport systems Troubleshoot and resolved frequent production database
+issues and assist the production support team as needed.
+
+‘+ Wrote database installation guides and perform unit testing, code reviews, peer reviews, software and design specification reviews for
+deployment of software application.
+
+* Assisted QA team with database deployment scripts during the software testing phase and database related tasks and issues.
+
++ Served as a backup Database Administrator/developer for the database development group for each project as needed.
+
+« Serve as the primary database administrator/developer for configuration management teat,
+
+‘Unemployed, 06/2005 - 02/2007
+‘Unemployed
+
+Business Applications Director, 03/2000 - 05/2005,
+Envision EMI LLC - City, STATE
+«+ Led and managed team of seven developers and database administrator in the ongoing development, operation, maintenance and integration of
+PeopleSoft CRM, Student Administration and Epiphany Campaign Management applications.
+‘+ Worked with third party vendors, consultants and offshore resources for ongoing maintenance, support and enhancements of PeopleSoft
+application.
+‘+ Worked with the project manager in vendor selection, requirements gathering, architecture design, implementation and roll out of PeopleSoft
+CRM 8.8 and Student Administration 8.14
++ Participated in all phases of the software development lifecycle.
++ Led and managed data migration from a Fox Pro based legacy system (OLTP system) to PeopleSoft CRM and Student Administration.
+‘+ Responsible for managing implementation of Epiphany to support the PeopleSoft CRM as the data source.
+‘+ Worked on customization of Epiphany Star Schemas and extractions to support PeopleSoft as data source.
+
+Senior Database Administrator ‘Developer, Current - Current
+Envision EMI, Inc - City, STATE
++ Performed ETL tasks using T- SQL to publish data with Epiphany campaign management software Developed data models, design and build
+star schemas to customize extraction of data for data analysis and mining Performed import, export backup and recovery, performance tuning
+and maintenance of SQL Server databases Provided end user support for Epiphany campaign management software Worked with data quality
+software- Sagent and Group 1 Research potential new software applications to improve processes to format and standardize International data
++ Available upon request.
+
+EDUCATION
+Bachelor of Science: Economics, 1988
+University of Pittsburgh - Pittsburgh, Pennsylvania
+
+Master of Science: 1999
+University of Maryland University College - College Park, Maryland
+‘Computer Systems Management
+
+ADDITIONAL INFORMATION
++ Security Clearance -Secret SECURITY CLEARANCE Secret CITIZENSHIP United States of America

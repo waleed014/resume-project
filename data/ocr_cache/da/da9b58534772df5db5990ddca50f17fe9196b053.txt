@@ -1,0 +1,116 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor * (955) 432-1000  resumesamplegexample.com
+
+Summary
+
+‘Asa highly skilled DevOps engineer with more than 3 years of experience, Iam adept at architecting, automating, configuring, and
+optimizing critical mission deployments across large infrastructures. I am a dedicated team player with a proven track record of
+multitasking and successfully managing projects throughout the full software development lifecycle, from requirements analysis to
+deployment and implementation. My ability to organize, prioritize, and adapt to shifting priorities is complemented by my positive
+attitude and willingness to take on additional responsibilities to ensure the success of the team.
+
+Skills
++ Cloud Technologies: + MySQL, DynamoDB Containerization/Orchestration Tools:
++ Amazon Web Service(AWS), Microsoft Azure Cloud Docker, Kubernetes CI/CD Tools: Jenkins.
++ Scripting Languages: Bash. Groovy + Operating System: Linux, Windows.
++ Source code management tool: Git Distribution control + Automation Tools: Maven, Ansible, Terraform, Kubemnetes.
+system: GitHub Methodolo; + Monitoring Tools: Prometheus, Grafana.
++ Artifactory: Nexus. + Bug Tracking Tools: Jira.
+* Database:
+Experience
+
+DevOps Engineer, 05/2021 to Current
+Palantis Technologies - Palo Alto, CA
+
++ Partnered with 12+ agile team memibers to roll out micro service infrastructure development feature releases based on 85% of
+
+client requests
+
++ Designed and implemented Kubernetes-based infrastructure for microservices architecture to support the deployment of,
+multiple applications.
+Worked with development teams to ensure that the infrastructure meets their needs and requirements,
+Set up and managed Prometheus and Grafana to monitor the health and performance of the Kubernetes cluster and applications,
+improving incident response time by 40%.
++ Engineered continuous integration (CI) and continuous deployment (CD) with Jenkins and other tools to automate builds, tests,
+
+releases, and deployments in development, UAT, and production environments while maintaining security and DevOps best
+practices at all levels.
+
++ Collaborated with teams for architectural designs, and infrastructure provisioning to create fault-tolerant, secured, and highly
+available cloud-based infrastructures on AWS.
+
+Implemented Docker-based infrastructure for the deployment of multiple applications, reducing deployment time by 50%
+Developed and maintained CI/CD pipelines using Jenkins and GitHub for continuous integration and deployment of code to the
+Kubernetes duster.
+
++ Provisioned and maintained infrastructure as code using Terraform, improving the consistency and reliability of deployments
+and reducing human errors and reducing deployment time by 30%
+
+DevOps Engineer, 06/2019 to 03/2021
+Palantis Technologies - New York, NY
+
+* Designed, built, and maintained highly scalable and fault-tolerant multi-tier AWS infrastructure across multiple availability
+
+zones using Terraform, ensuring high availability and reliability of the system.
+
+‘+ Created and maintained a fully automated CI/CD pipeline for code deployment using Git, GitHub, Jenkins, Terraform, Maven,
+Ansible, Kubemetes, Docker, MySQL, Apache, streamlining the software development lifecycle and reducing time-to-market.
+Monitored Kubernetes resources using Prometheus and Grafana, creating dashboards for system performance, identifying
+issues, and ensuring timely resolution to prevent system downtime.
+
++ Provisioned AWS services using AWS CLI/API, defining EC2, VPC, Auto-Scaling Policies/Groups, Security Groups, EKS, RDS,
+$3, ELB, IAM, Route53, and CloudWatch, ensuring that the AWS environment is secure, stable, and scalable.
+
++ Built and managed Docker containers, including Dockerfile creation, image creation, and Docker networking, enabling rapid and
+consistent deployment of applications.
+
++ Designed, built, and maintained a container orchestration framework based on Kubernetes clusters to allow flexible yet
+
+consistent infrastructure in the AWS environment, improving deployment speed, scalability, and reliability.
+
+Provided infrastructure, cloud, networking, and security support, ensuring that the AWS environment is optimized, secured,
+
+and well-maintained.
+
+Serum Master, 01/2017 to 04/2019
+New Balance - Saint Augustine, FL
+* Led and coached the Product Owner to improve story writing, feature discovery, and requirements gathering process which led
+to an increase in customer satisfaction and a decrease in time-to-deliver by 30%
+‘+ Organized and improved agile practices and values which increased productivity and overall team satisfaction by an average of
+8%
++ Responsibilities:
+‘+ Guided Agile principles and facilitation skills to ensure 2+ teams worked in an Agile mindset and utilized Scrum practices
++ Provided a vision and strategy for Agile practices and led the teams’ efforts toward continuous improvement
++ Plan and implement Agile best practices to boost team productivity and remove Impediments to the team’s ability to perform,
+using direct and influencing skill
++ Ensured that inter-team risks, impediments, and blockers were identified, communicated, and resolved.
+
+Linux System Administrator, 02/2013 to 08/2016
+L3harris Technologies, Inc. — Waco, TX
+
+‘+ Maintained and monitored 10 Linux servers running on RHEL and CentOS
+
++ Installed and configured software and applications as required by the users and clients
+
++ Set up and maintained web servers using Apache, Nginx, and Tomcat
+
++ Configured virtual hosting, SSL/TLS, and web server security
+
+‘+ Maintained network infrastructure, including TCP/IP, DNS, DHCP, NAT, firewalls, and routing
+
++ Sot up and managed VPNs for remote access
+
++ Developed and maintained Bash scripts for automating routine tasks and improving operational efficiency
+
+* Created Ansible playbooks for automating system configuration and management.
+
+Education and Training
+
+B.Engr. Civil Engineering Technology, 01/2002
+EnuguState University of Science And Techonology - Enugu
+
+Certifications
+
+2023-01 AWS Solution Architect 2022-07 Google Cloud Professional Cloud Architect, 2022-02 Certified Scrum Master (CSM), Scrum.
+Alliance.

@@ -1,0 +1,146 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+QUALIFICATIONS
+
+SQL Server 2000-2012; Orade
+10g-11g; SQL Server Integration
+Services and Data Transformation
+Services; SQL Server Reporting
+Services; Visual Studio 2005-2010;
+Microsoft Access 2003-2013;
+Crystal Reports 8.5-12; Microsoft
+Excel 2003-2013; creation of SQL
+queries, views, functions, and
+stored procedures. Proficient in T-
+SQL, PL/SQL, Jet SQL, VB.NET,
+and VBA; some experience with
+Linux shell scripting, Python, R,
+VBScript, ASP.NET, HTML, and
+XML.
+
+EDUCATION AND
+TRAINING
+
+University of Pittsburgh
+Pittsburgh, Pennsylvania. + June
+2007
+
+‘Master of Library: Information
+Science GPA: GPA: 3.8
+Information Science GPA: 3.8
+
+Rutgers University, Douglass
+College
+
+New Brunswick, New Jersey + July
+2004
+
+Bachelor of Arts: History GPA:
+GPA: 3.6
+History GPA: 3.6
+
+CAREER OVERVIEW
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing
+sales professional with track record of driving increased sales, improving buying experience and
+elevating company profile with target market.
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+
+Northwest Bancorp, Inc. - Senior Business Intelligence Developer
+09/2013 - Current
+
++ Develop, deploy, and maintain complex financial reports using SSRS and Excel.
+
++ Work closely with business analysts to gather report specifications and build queries, functions,
+and packages in Oracle SQL Developer to provide decision-guiding business intelligence to
+investment managers.
+
++ Support investment management data warehouse and analysis cube and improve existing ETL
+processes for warehouse and mart population using SSIS and Linux shell scripts.
+
+Frontier Technology Inc - Intermediate ETL Developer
+08/2011 - 09/2013
+
++ Develop and automate interfaces between clients and their insurance carriers using primarily SSMS
+and SSIs.
+
++ Write complex T-SQL code to transform EBenefits data to conform to carriers’ specifications (using
+both proprietary and HIPAA EDI 834 layouts).
+
++ Globalize processes and create efficiencies wherever possible to streamline development of future
+file feeds.
+
++ Accomplishment
+existing feeds.
+
++ Globalized processes for use among multiple feeds and conducted ongoing performance tuning to
+maximize efficiency.
+
++ Assigned as primary developer of inbound census and outbound payroll files.
+
++ Designed interface tracking database to replace existing spreadsheets; created corresponding user
+interface and reporting tool.
+
++ Speatheaded initiative and led task force to evaluate and select project management softwares
+created company-wide project management and documentation standards and trained staff in
+compliance.
+
++ Acted as mentor to summer intern and trained intern in database design and querying.
+
+reated over sixty-five new file feeds and inherited responsibility for over fifty
+
+Carnegie Museums Of Pittsburgh - Intermediate Database Administrator
+10/2010 - 08/2011
+
++ Supervision of two employees (Database Analyst and Software Support Specialist); coordination of
+organization-wide collections management systems migration; data warehousing; business
+intelligence analysis, including corporate dashboard creation and maintenance.
+
++ Primary database point person for Carnegie Museum of Art, Carnegie Museum of Natural History,
+‘Andy Warhol Museum, Carnegie Science Center, and Powdermill Nature Reserve.
+
++ Accomplishments: Created corporate data warehouse incorporating data from numerous disparate
+systems and platforms; created corporate dashboard using SSRS to provide high-level business
+intelligence to executives and trustees; coordinated initiative to migrate all museum collections
+data and digital asset management systems to a single, centralized platform.
+
+Carnegie Museums Of Pittsburgh - Associate Data Architecture Analyst
+01/2008 - 10/2010
+
++ Database administration; report design and implementation; database design; user interface
+design; evaluation, updates, and integration of existing data management systems.
+
++ Primary database point person for Carnegie Museum of art, Carnegie Museum of Natural History,
+‘Andy Warhol Museum, Carnegie Science Center, and Powdermill Nature Reserve.
+
++ Accomplishments: Designed and implemented several databases and corresponding user interfaces
+for purposes including contact management, advertisement budgeting and tracking, and
+institution-wide volunteer assignment and management; wrote extensive documentation on newly
+created databases and provided end-user training; using SSIS, automated previously manual
+processes such as visitor ZIP code tracking, mailing list generation and formatting, and
+synchronization between disparate database platforms; migrated existing Crystal reports to SQL
+Server Reporting Services and created numerous new business intelligence reports, receipts, and
+confirmation letters on request; researched and wrote Carnegie Museums of Pittsburgh Information
+Technology policy manual.
+
+SKILLS
+
+VB.NET, ASP.NET, streamline, Analyst, Art, asset management, automate, budgeting, business
+intelligence, contact management, Crystal Reports 8.5, Crystal reports, clients, customer service
+skills, data management, data warehouse, Database administration, databases, Database, database
+design, data warehousing, Detail-oriented, documentation, EDI, ETL, financial, HTML, Information
+Technology, insurance, investment management, letters, Linux, mentor, Microsoft Access, Microsoft
+Excel, Excel, migration, Natural, Oracle, developer, PL/SQL, Oracle SQL, payroll, problem-solver,
+processes, project management, proofreading, Python, Quick, reporting, shell scripts, shell scripting,
+spreadsheets, SQL Server, SQL, SQL Server 2000, Supervision, Software Support, user training, T-
+SQL, user interface design, user interface, VBA, VBScript, Visual Studio, well-organized, XML, ZIP

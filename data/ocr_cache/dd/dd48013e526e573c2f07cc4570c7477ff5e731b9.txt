@@ -1,0 +1,198 @@
+Jessica CLAIRE
+
+Wo Montgomery St 1 Flor © (55)482.1000 © esumesampletecample com
+
+Professional Summary
+
+An ardent profesional with an experience of years in I industry comprising DevOps Engineering Sytem Administration
+softvare development Bald Release Management Automation Deployment, Cloud computing Platforms ike AWS, Microsoft
+‘Azure and GCP and Containeszation in the complete Software Development Life Cyede(SDLO), watefal, Age enwironment and
+
+server side deployment in the aplication middleware avers
+Skills
+‘Cloud Services: AWS -EKS, ECS, EC2, 3, ELB, Resi EMR,
+[RDS, S085 SNS, Cloud Watch Cloud Ta ELK, Elstiseach,
+“Aue, Azute DNS, GCP
+Operating Systems: Lin (RHELS/7, Cent05), Ubants
+Debian, Windows
+‘Container Orchestration Toots: AWS ECS, EKS,
+Docker Kuberetes, Docker Sear
+‘Automation / Build Jenkins, Bamboo, Ansibe, Chet Team,
+‘Maven, Ant Grade, News, Astifactory,Teraform
+
+Monitoring Tools: Splunk, Nagios Cloud Watch Kibana
+Scripting Languages: PowerShell, Bash Ped, Ruby, Groovy and
+Python
+
+Databases MySOL, PostgreSQL, MongoD8, Cassandea, SOL
+Server, Oracle DB2
+
+‘Networking: DNS, DHCP, TCP, SMTP, LDAP
+
+‘Ticketing Tools Ja, Rally, BM Clear Quest Fishese
+
+“Vovare: wSphere, VMware SX 3.5 and 60, Virwal center
+server25 and 40, VMware
+
+Version Contra Toos: ita GitHub, Bit Bucket, Subversion
+TES, ClearCase
+
+APP! Web Servers Tomcat We sper, Web Loge Boas
+Nine Oracle Tuxedo
+
+Work History
+
+Devops Engineer 0720200 Curent
+Paypal Michigan, ND
+
++ laplemente highly avaiable and fault tolerant application and utlzing orchestration technologies such a Kubeenetes and
+Apache Mesos working on Amazon Web Services (AWS).
+
++ Developed Python serps to automate AWS services which ndudes ELE, Cloud Front distbution EC2, Route, Auto sealing,
+ECS, Secu groups, Arora and 53 bucket
+
++ Setup databases in AWS using RDS, storage wing 53 bucket and configuring instance backups to bucket.
+
++ Prototype CUCD system with Gib on AWS wing Kubernetes and Docker fo untime envionment for CUCD systems to
+‘build and test and deploy
+
++ Worked on Setting up AWS Firewall ules to allow or deny traffic to and from VMs instances based on specified configuration
+and used AWS cloud CDN (content delivery network to deliver content rom AWS cache locations dasticlly improving user
+experience and lteney.
+
++ Automated various nfastrucure activities ike Continuous Deployment, Applicaton Server setup using Anaibleplaybooks and
+has Integrated Ansible with Jenkin
+
++ Refined automation components with scripting and configuration management (Ansible).
+
++ Wrote Ansible Payooks with Python SSH as Wrapper to Manage Configurations of AWS Nodes and Tet Paybooks on ANS
+instances using Python
+
+«+ Run Aaibe Scripts to provision Dev servers
+
++ Worked with installation, configuration and administration of Amazon web services cloud windows Seve.
+
++ Used AWS Kubermetes Service to deploy managed Kuberetes caster in AWS and created EKS caster in AWS, with AWS CLL
+sso used tenpate diven deployment options such a Rarer Manager templates end Teale
+
++ Managed Kubernetes using Helm charts Created reproducible builds of Kuberntes application, managed Kubernetes manifest,
+files and Managed releases of Helm packages
+
++ Created Teraform templates to ceate custom sized VPC, NAT subnets, for deployment of Web aplication and database,
+
++ rte and configured RabbitMQ and HashiCorp Vault as docker containes.
+
++ Maintained bil related scrips developed in shell for Maven builds.
+
++ Craated and modified build configuration ils inching POM
+
++ Used MAVEN as bil tool on java projets for development of build artifacts on source ode
+
++ tale and configured Nagios ab monitoring tol for disk sage, CPU utzation list of open es ee
+
++ And sending alerts to teams baced on same
+
++ Working with Lins /UND\ envionment and bash & Shall Scripting for cating projects in Jenkins an ro atactory a past
+frei proces.
+
++ Environment Amazon Web Services (AWS) Hel ELK, Teraform,Ansible, Kuberetes, Docker, Hashicorp Vault RabbitMQ,
+Jenkins, Groovy, Git Prometheus Galan, Ui in environment, Maven JFrog Artfactory, Shell sexipting.
+
+Devops Engineer, 0/201 0 062020
+
+Paypal-Ontatio, CA
+
++ Designed, planned and implementation for existing On- Prem applications to Azure Cloud (ARM), Configured and deployed
+Anae Automation Scripts uizing Azure stack Compute, Web and Mobile, Blobs, Resource Groups Azure Data Lake,
+"HDinsight Clusters, Azure Data Factory, Azure SOL Cloud Service and ARM) Services and Ualies focusing on Automation
++ Deployed and configured Azure Web App and Hosting Plan for ASP.NET web application with SQL database.
+
+1+ This alto inched configuring web app and database backups sting up DNS records, purchasing and configuring SL.
+ceticaions ete
+
++ Azure AD Implemented Azure AD using AD connect configured SSO and mult Authencation
+
++ Also configured SSO from Window 10 based computer whichis joined to Azure AD.
+
++ lanplemented and managed AD synchronization.
+
+«+ Migrated Microservice Based applications from Viral Machines to Docker containers and managed cused containers using
+Kabemetes,
+
++ Managed Kabernetes wing Helm charts, Crested seproducile bud of Kuberntes application, managed Kubecnetes manifest,
+‘ies and managed releases of Hel pacages.
+
++ Worked with Chef to manage Web Applications, Configure Fes, Database, Uses, Mount Points, packages and responsible for
+crstng/managing Chef Cookbooks.
+
++ Configured, maintained and Sed application builds, automated tld process and designed applications inatallersto tin
+somite builds enviconcent.
+
++ Implemented CLC pipeline wing Jenkins and extensively worked for end:to-end automation for ll bud and deployments
++ Implemented BiueGreen pattern deployment methodologies and rollbacks with aro downtime to deploy process in Tomcat
+sd AKS AP server and worker node upgrade
+
++ rutalled and configured Splunk as monitoring tol for disk wage, CPU wikzation ist of open ils et
+
++ And sending alors to teams tare on same
+
++ Reporting windows event logs frm remote machines to Splunk using Spink univers foreasde.
+
++ Alsoran query from Splunk U to aces data from Microvot DB using Splunk DB Connect.
+
++ Deployed and configured Git epositores with branching forks, aging and notifications.
+
++ Environment Azure, Jva/ DEE, JavaScript, Jeo cel, Azuze Devops, Kubernetes, Helm, Docker, Splunk, Golang, GI, Uniay
+Linx envionment.
+
+DevOps Cloud Engineer 062015 0 042018.
+(Chenega Corporation Middle River, MD, India
+
++ Manning deploying, monitoring, and maintaining AWS coud infrastructure consisting of multiple EC2 nodes and VMware
+‘Vasa required in envizonment
+
++ Designed AWS Cloud Formation templates to create custom sized VPC Subnet, NAT to ensure succes deployment of Web
+applications and databace templates.
+
++ Managed bit bucket and Amazon Web Services like EC? and assigned oles and polices via JAM trough AWS Management
+console
+
++ Performed automation deployments using AWS by ceating IAM roles and policies and used code pipeline plugin tointegate
+Jeans with AWS and created EC2 instances to provide virtual servers
+
++ Consigued Atv Vital Ptvate Cloud (VPC) and Database Subnet Group fr islation of resources within Amazon RDS Aurora
+DB duster
+
++ Leveraged AWS dud services such as EC2; auto scaling: and VPC (Vital Peitat Cloud) to build secure, highly sealable and
+Aesle systems that handed expected and unexpected load busts
+
++ Developed Python serps to automate AWS services which ncudes ELE, Cloud Front ditbution EC2, Route, Auto sealing,
+ECS, Sect groups, Arora and 53 bucket
+
++ Wrote Docker ies fom scratch to crete new images sed on working environments ik SIT & QA.
+
++ strong experience in ceaing Pods using Kubernetes and worked with Jenkins CLC pipelines to deve all ico services buds
+‘out to Docker registry and then deployed to Kuberets
+
++ Worked with Chef to manage Web Applications, Configure Files, Databae, Users, Mount Points, packages and responsible for
+cestng/nanaging Chef Cookbooks.
+
++ Worked on writing Jenks pipeline seips using Groony and Jb DSL Plugin for cesting common texnplaes of pipeline be
+
++ Expesenced with insx/UNDX environments and Pel & Shall Scripting for creating projects in Jenkins and rog atlactory as 8
+at of else proces
+
++ Used GIT as sourcecode management oa, crested local repo, clone rep and performed add commit push, stash, branching,
+ested tage operations.
+
++ Defined branching, labeling and merge strategies forall applications in GT.
+
++ Environment AWS, Jva/EE, PowerShell sxpt Maven JFrg, Che, Jenkins, Kubemates, Docker, GI, Uni Line
+
+Education
+
+Master's Degeee
+Univesity of Central Missouri - Lees Suma MO
+
+Bachelor's degree
+Andhea University Inia

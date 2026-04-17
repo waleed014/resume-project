@@ -1,0 +1,123 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Hypothesis Testing (4 years)
+
++ Linear/ Generalized Linear
+Regression (4 years)
+
++ Bayesian (2 years)
+
++ ANOVA/ ANCOVA (4 years)
+
++ Survival Analysis (2 years)
+
++ tTest/Chi-squared Test (4
+years)
+
++ SQL (4 years)
+
++ SAS (4 years)
+
++R (2 years)
+
++ Python (1 year)
+
++ MS Access (2 years) MS Office
+Word, Excel, PowerPoint (10+
+years)
+
+EDUCATION
+
+University of Michigan
+‘Ann Arbor + 05/2014
+
+Master of Science: Biostatistics
+
++ 3.7GPA
+
++ Coursework in statistical
+inference, linear regression,
+logistic regression, ANOVA,
+survival analysis, Bayesian,
+large sample theory, categorical
+data analysis
+
+Bowling Green State University
+Bowling Green, OH + 05/2012
+
+‘Master of Arts: Applied
+
+‘Mathematics
+
++ 3.8GPA
+
++ Coursework in advanced
+calculus, partial deferential
+equation, linear algebra,
+matrix, numerical analysis
+
+PROFESSIONAL SUMMARY
+
+Dedicated and motivated data analyst and SAS programmer. Perceptive and logical data analyst with
+the proven ability to communicate with education policy makers to identify and translate educational
+requirements and design models. Offer 3 years of experience lead teams of talented professionals to
+develop valuable process solutions to meet education objectives.
+
+WORK HISTORY
+
+Lutheran Immigration And Refugee Service - Education Research Analyst Ill
+CA, State + 09/2014 - Current
+
++ Extensive data manipulation using SAS, SQL, Excel and Access.
+
++ Developed database objects, including tables, views and materialized views using SQL.
+
++ Analyzed relationships of various indicators and draft research reports for education policy makers
+using statistical techniques such as linear regression analysis, logistic regression, ANOVA analysis,
+T-test, Kappa test, and other emergent methodologies in educational statistics.
+
++ Summarized, interpreted and presented results from statistical analysis. Drafted research reports
+for a variety of audiences, including education policy makers and practitioners.
+
++ Presented at meeting with policy makers and superintendent of LDOE.
+
+Allina Health Systems - Programmer and Student Consultant
+Fridley, MN + 08/2013 - 04/2014
+
++ Designed analysis based on the requirements of investigator
+
++ 2years experience in developing programs to perform statistical analysis and descriptions of data
+with logic reasoning
+
++ Summarized, interpreted and presented results from statistical analysis
+
++ Served as consultant regarding analytical methodology and programming
+
++ Projects : Analyze the Cohort Difference in different demographic group by comparing rate of
+Cognitive Dectine; Comparing Ann Arbor Al Grading Scheme and Gluckberg Grading Scheme by
+simulation; Survival Analysis for HPV* impact on Head and Neck Cancer; Detecting effect of
+Helmet Law Modification in Michigan by Logistic regression; Detecting Biomarkers Associated with
+Engraftment Syndrome
+
+University Of Michigan - Teaching Assistant
+City, STATE + 08/2013 - 2014
+
++ Instructed small groups of students in statistical inference
++ Graded test and homework
+
++ Help professor prepare exam paper by LaTex
+
+Bowling Green State University - Instructor
+City, STATE « 07/2010 - 04/2012
+
++ Gave lecture in Pre-Calculus and College Algebra for a class of 30 college student
++ Graded homework and test

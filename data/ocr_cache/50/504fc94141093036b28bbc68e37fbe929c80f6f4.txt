@@ -1,0 +1,175 @@
+Jessica Cramer
+
+100 Montgomery St. 100\ For « (55) 4821000 + renestmpeeenanple co
+
+Professional Summary
+
+Experienced Data Architect well ese in defining requirements planing solutions and implementing data stactres atthe
+‘enterprise level on a data warchouseensinment Analytical problem solver with a detal-oriented and methodical approach
+‘Background inches devign/maintenanceof conceptual. Logical Physical and Dimensional Stat Schema data model. Prepared 0
+
+lies over 10 yor of rdited experince toa hm oe pon with room fo advancement
+
+Skills
++ Eevin 73 modeling tol IBM Rational System Architect + Staging tables
+(SA), Mirorft Ofc (Excel Word PowerPoint Outlook), + Verbal and writen commanication
+
+ata Governance tol Coli, TF Service Alerting ol (TSA), Analytica hills
+‘Confluence, JIRA, Rocha Metfesiata Repository, COBOL
+Programing
+
++ Report generton
++ Seuctue designs
+
+Work History
+
+Database Consultant 01/2010 0972020,
+‘Amazon.Com, In. West Jlleron, OH
++ Transtoned ta dual ole (Mitjssicata Analyst ogial data modeler to peform Enterprise Relaonal Data Moding for
+banking industry sing CA ERwin too fllowing the IBM Banking Data Warehouse (BOW) standards
++ Responsiiies included the reaorsmainenance of ConcepualLegial/Physicaltar Schema data models for diferent
++ Worked clovly with busines stakeholder, business analyst, data analy, ystems analysts to tralate data roguirements into
+dina adel design using 3d form of ormaiation.
++ During an interes process worked with end users, business analysts, techie artes and developers to deny and
+understand projec requirements and data from diferent source systems.
++ Pevfcmed data pobling/analpsis activities to lp ertablish, modily, and maintain the data models forthe diferent business
+
+ines using Exel prendheets
+
++ Asisted teams in Hong Kong UK and Mexico to ensure logics modeling standards were followed.
+
++ Single handed a project with over 2000 data clement neded o research forthe Risk tea,
+
++ Single handed the logical modeling effort and standardized over 300 data elements to comply with UK team equiements fora
+ew creditcard vender,
+
++ Spenthended the delivery of 000 data clement i 10 weeks (as oppose tothe normal delivery ine of 6 months) by using an
+iterative process tha spit the work across multiple metesiaaanalsts and logical data models
+
++ Created and maintained data mart Dimensional Sar Schema models for the Mortgage busines ne
+
++ Cested conceptual data model to dent key busines entities nd vinsalize ther relationship,
+
++ Crete and maintained deed logical data model dentin ll dhe nites, tributes and thei relationships to comply with
+snes requirements
+
++ Worked cosly with ETL and DBA teamsto create a best it physical data model derived rom the logical data modelo facitate
+‘he DDL scripts for databace implementation
+
++ Worked clovly with ETLIDBA tame during testing of the DDL scripts to ensure the model were deployed tall tet
+environments with no sus,
+
++ Provided updated data dicionaries and reports from the data model to busines users
+
++ Performed data validation by querying the datain SOL, sewer to ensure the accuracy ofthe data model design,
+
++ Documented data ineage and source to aget mapping while developing data warehouse dels
+
++ Implemented the waching of changes overtime at attibte levels forthe purpose of taceabity
+
++ Responible for taining/deelopment of other tam members onthe dul role of logical modelerimetescata analy.
+
++ Asistein per evn change to logical dat oda.
+
++ Une Viel Paradigm tol to upload XML les rom Ervin models in an effort conver the data modes nto anew modeling
+took
+
++ Used Juriper RX too to prepare and load data into GCP storage bucket.
+
++ Cllaborated with system architects design analyst and others to understand business and industry sequicements,
+
++ Documented and communicated databave schemas using accepted notations.
+
++ Actively stened to customer requests, confirming fll understanding before addressing conce,
+
++ Ceeated plane and communicated deadlines to ensure projects were completed ont.
+
++ Gathered defined and fined requiements led pret design and overs implementation.
+
++ Developed database architectural strategies at modeling design and implementation stages to address busines or industry
+sequiveent
+
++ Actively listened to customers handled concerns quichly an escalated major sues to superior
+
+Matjsscata Analyst 01/2005 100972020
+Joha Wiley Sons, ine. — Saint Louis Pack MN
+
++ Hired asa Mafessicata Analyt withthe main objective to ensure the aplication of data standards with esponibiites that
+inctudd gathering of busines and techaial equizemens documentation of data lineage and source target mapping,
+snsittned data dictionaries ad oes eves data management ction.
+
++ Prepare an loaded busines glosaies and techaical metjesiata to the metfesiata epositor too (ASG-Rochade
+smefessicata maragemen?
+
++ Colaborated with T stakeholders to support implementation of metessicta to Collibra Data Management tool
+
++ Worked covely with Data Stewards in the identification and documentation of al critical data elements (CDE) in preparation to
+load toColibr,
+
++ Use the IBM Rational Sytem Architect (RSA) tol to query the business data model in Collie for he dileent systems.
+
++ Createdmaintaned JIRA story board to track ssues/requiemens to facilitate the engagement of different IT teams on agile
+Projets
+
++ Cretedimaitsinod Condluence pages and ITA JIRA event for applications that were discovered as being deployed nto
+production without the proper development operations worl tht complies with sec evel agreements
+
++ Assited on research, development ad implementation of spec projets as need.
+
++ Maloained data glossary, business definitions, calculations busines ules, column names, dataineage, impact analysis,
+‘business mtfessicta and tech mefessicata
+
++ Led global metjestaa ffs on multiple projects with over 1000 data elements with the purpose of ening redundancies,
+data defraonsdeficenses, and naming convention dscrepanses.
+
++ ened and seslved problems tough oot cause anal and research
+
++ Generated seport detailing findings and recommendations
+
++ Valiated ers and pects quality assurance to asees sceurcy of data,
+
+Business System Analyst 1/2000 01/2005
+American Dental Partner In. ~ Menomonee Fal WI
+
++ Hired as a COBOL DB2 programmer to work on projet for diferent busines lines
+
++ Responsible for writing nedfying batclon tne COBOL programs to populate DBMS database segments that would interact
+
+‘with Power Buldersceens
+
+Assisted in the conversion of CI (DMS System) COBOL programs to pont to rew DB2 tables on the eiement of IMS segments
++ Assisted with he analysis, design ad implementation of batch interface process or data conversion from ASA00 t0 0590
+‘Wrote the tech specications that tanlated RP programs frome cstet proces
+Wrote new DB2 programs to epiate current AS400 process
+Fasoomad dat nai to erase no inact to thea proces
+‘Wrote new DE2 programe which replaced curvent mamualproceses
+‘Wrote data conversion programs on ies recevedjent to vendors
+Assisted withthe analsisidesigw/implementation ofthe on-line EZPAY application
+Asis with data conversion fom SOL server ta DBZ/IMS/CICS environment
+‘Wrote the nightly bach process to retieverupdatefinert delete transitional data from DB2 ables,
++ Responsible for supporting the system afer implementation.
++ died loaded dat to ensure data quality
++ Wrote program as part ofa monitoring process for ontine transactions tat ensured federal compliance
++ Helped deploy system enhancements to improve field operations
++ Coordinated data migration and conslidation efforts.
++ Gathered reviewed and epoted on findings
++ Collected, defined and analyzed business equiremen
+
+Education
+
+[North Park Univesity - Chicago, IL
+
+nline Cloud related courses Creating New Big Query Datasets and Visualizing Insights, Applying Machine Learning to your
+Data with GCP, Achieving Advanced Insights with Big Query, Exploring and Preparing you Data with Big Query
+
+Big Data and NoSql Program - Mongo and Cassandra DB Computer Carer Program (CCF) Cesifiation (Cobol, JCL, CICS, DB2)
+DePaul University
+
+Continuously working on updating sills, Online Courses in Progress Data Warehouse Developer SQL ServerETUSSISISSAS/
+SSRS(T-SQL Microslt Power Bi Desktop fo Business Intelligence Microsoft Exel Data Analysis and Dashboard Reporting
+
+1DOS Taining (Microsoft SOL Server Data Quality Services for Data Cleansing Data Dedupliction with Data Quality Client
+4 8SIS tools) Mar 2021 MySQL Database Administration - Beginner SQL Database Design Feb 2021 SQL MySQL for Data
+Analytics and Business lntligence: Google Clo Pion (CCP
+
+Data Engineering Specialization

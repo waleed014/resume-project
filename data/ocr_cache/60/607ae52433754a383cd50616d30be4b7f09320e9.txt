@@ -1,0 +1,99 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 © resumesample@example.com
+
+Summary
+
+Detail-oriented and result-focused professional with substantial experience devising and implementing strategic operational plans
+and procedures as well as managing products with a focus on increasing business productivity and software development
+Automation
+
+Skills
++ Computer and Technical Skills ‘+ Application/Web Servers: Tomcat, Nginx, Apache
+* Cloud platform: Amazon Web Services, Microsoft Azure + Operating Systems: Ubuntu, Red Hat, Linux, Windows
++ Framework/DevOps tools: SonarQube, Nexus, Attifactory, + Databases: SQL Server, MySQL, PostgreSQL
+Jenkins, Slack, JIRA. * Programming Languages: PHP, Java, YAML, Python
+
+* Build Tools: Maven
+
+Scripting & Other Tools: Git Bash, Shell Script, Groovy, iTerm
++ SCMs: Git, GitHub, Bitbucket Monitoring Tools: Datadog
++ IAC Tools: Ansible, Terraform Network: TCP/IP, Routing and Switching, Ethernet, Wireless,
+* Containers/Orchestration: Docker, Kubernetes LAN, VLAN, DCHP, DNS
+
+Experience
+
+DevOps Engineer, 08/2020 to 06/2021
+Jpmorgan Chase & Co.
+* Responsible for managing resources in AWS cloud and maintain Continuous Integration and Continuous Deployment (CI/CD)
+pipeline for fast paced robust application development environment
++ Set up CI/CD pipelines for Microservices and integrated tools such as Maven, Bitbucket, SonarQube, Nexus, Docker, Slack for
+providing immediate feedback to DEV teams after code check-in
++ Wrote Ansible playbooks in YAML.
+« Installing, setting up & Troubleshooting Ansible, created and automated platform environment setup
+
+* Set up Git repositories and SSH Keys in GitHub for Agile teams
+* Integrated GitHub web hooks into Jenkins to automate the code check-out process
+
++ Implemented the setup for master slave architecture to improve the performance of Jenkins
+
+Created Dockerfile and automated docker image creation using Jenkins and Docker
+
+Automated infrastructure provisioning on AWS using Terraform and Ansible
+
+Integrated code quality tools such as SonarQube into pipeline
+
+Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when conditions not met
++ Rebuild of entire existing platform over to Docker containers,
+
++ Setup Kubemetes clusters using Amazon EKS.
+
+DevOps Engineer, 01/2019 to 05/2021
+Jpmorgan Chase & Co.
++ Automated provisioning of AWS dowd infrastructure using Terraform and application configuration and deployment using,
+Terraform and Ansible
+‘+ Wrote Ansible playbooks from scratch in YAML,
++ Installing, setting up & Troubleshooting Ansible, created and automated platform environment setup on AWS cloud
+Set up CI/CD pipelines using tools such as Jenkins, Maven, Docker, SonarQube, Nexus, Artifactory, Slack, Datadog
+Setup repos on Bitbucket, merge code from develop branch to the master branch and make it ready for deployment
+Set up Jenkins multibranch pipelines for multiple applicators and set up build triggers
+Created Dockerfile and automated docker image creation using Jenkins and Docker
+* Dockerized Springboot app by creating Dockerfile and automated docker image creation, image push into docker registry
+* Created Bash Scripts for process automation
+* Converted java projects into Maven projects by creating POM file and ensured all the dependencies are built
+‘+ Worked across multiple phases of the software development lifecycle (SDLC) including build, test, operations using an Agile
+methodology and tools
+‘+ Managed and maintained IAM policies for the organization in AWS to define groups, created users assign roles, and define
+rules-based access to AWS resources
+* Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when conditions were not met
++ Enforced Test Driven development for the DEV teams for every sprint
+
+IT Support Specialist, 06/2019 to 08/2020
+Bioagilytix
+* Provided customer support and solved technical and computer issues using Microsoft CRM software
+* Configured, installed, and performed troubleshooting of modems, routers, and switches in LAN & WAN networks
+« Installed, upgraded, maintained, and performed troubleshooting of computer software (operating systems, antivirus software,
+etc.) and computer hardware installation
++ Performed regular files and data backup to the cloud and on extemal storage devices as directed
+
+Network Engineer, 05/2017 to 03/2019
+Landry's
+* Performed quick network troubleshooting with PUTTY, WINBOX and VNC Viewer in order to investigate the root cause of its
+outages
+‘+ Monitored base stations using network monitoring tools (Paessler, PRTG, Fully Automated Nagios, Zabbix) as well as access
+points and automated teller machines
+‘+ Updated the ticketing system to track and document every issue and resolution in detail
++ Provided feedback and update on ongoing maintenance actions to clients via proper feedback channels
++ Appraised for having diagnosed network problems promptly, thereby prevented costly downtime
+
+Education and Training
+
+Master of Engineering: Cybersecurity, 05/2023
+University of Maryland - College Park, MD
+
+Bachelor of Engineering: Mechanical Engineering, 02/2014
+University of Nigeria - Nswkka
+
+Certifications
+
++ [AWS Certified Cloud Practitioner], Amazon Web Services - 2023,

@@ -1,0 +1,160 @@
+Jessica CLAIRE
+
+100 Montgomery St 10th Floor # (555) 432-1000 # resumesample@example-com
+
+PROFESSIONAL SUMMARY
+
+ACTIVE SECURITY CLEARANCE INTRODUCTORY PROFILE Quality-driven IT professional, Oracle Database Administrator and retired
+US Amy Veteran enjoying over seven years of experience providing Oracle database administration with a strong focus on optimising
+{information management across diverse operational environments. Accomplished database design, development, configuration, and
+‘maintenance specialist with a successful background impacting organisational performance. Equipped with Secret Security Clearance and
+hhands-on experience across private and goverment sector. Experience highlights include: Oracle ASM disk Groups (Mirroring, Compatibilt
+‘and Configuration) with Oracle ASM Configuration Assistant (ASMCA), including installation of Oracle ASM library modules. Deployment of
+active data guard standby on 11g database for test and production environments; switchover drills for immediate availablity.
+
+Semis
+
++ Guest services + Loss prevention
+
++ Inventory control procedures + Cash register operations
+
++ Merchandising expertise + Product promotions
+Work History
+
+‘Oracle Database Administrator, 07
+‘Cognizant Technology Solutions ~ Columbia, TN
+
++ Install, configure, upgrade, monitor, and administer 10g, 11g, 12 in UNIX/ LINUX (RHEL) and Windows Server 2008 /2012 as well
+
+12¢ container databases on standalone servers / cluster on Windows and UNIX platforms,
+
++ Support production, test and development databases,
+
++ Hands on STIGS, SSO, and SQL server implementation.
+
++ Engage oracle support by submiting and monitoring the status of an oracle service request
+
++ Create, update, configure, manage and administer database for oracle 11g, 12¢ and 19
+
++ Refieshing Dev and Test instances with data from Production on a regular bass
+
++ Thorough knowledge in setting up infrastructure for databases in huge datacenters
+
++ Developed compliance reports and performed auditing at higher levels.
+
++ Monitor and resolved databases performance issues using explain plan and AWR.
+
++ Scheduling repetitive activites lke gathering schema statistics, exports, table space usage report using crontab
+
++ Performing monthly and annual performance reports for trend analysis and capacity planning,
+
++ Migrate and upgrade 11g to 12c to cloud using customized scripts.
+
++ Update and create SOP for database creation and project management
+
++ Install ava on Linux platforms and patch oracle WebLogic servers.
+
++ Configure JDBC data source, INDI, WLS, web server proxy and repository creation for oracle WebLogic.
+
++ Involved in datacenter migration with Limux, windows servers and oracle databases.
+
++ Application server and network security
+
++ Educate RDS-CLIENT customers of all sizes on the value and proposition of AWS and participate in deep architectural discusions to
+
+‘ensure solutions are designed for successful deployment inthe clovd.
++ Resolving complex technical problems at a pre ~ or post levels, working with support personnel,
+
+2017 - Current
+
+‘Oracle DBA, 07/2014 - 06/2017
+‘CaciInternational Ine ~ Reston, VA,
+
++ Performed installation, configuration, and maintenance of databases, including backups and recoveries.
+
++ Select Highlights:
+
++ Installed, configured, and maintained Oracle 11g Real Application Cluster (RAC) / ASM on Redhat Enterprise Linux 5x boxes.
+
++ Implemented 11g DataGuard Physical using DG Broker.
+
++ Contributed to Golden Gate 12 replication configuration.
+
++ Completed Data Guard switchover / failover in alignment with requirements.
+
++ Drove database expansion, monitoring, and optimisation of space management and capacity planning
+
++ Launched Oracle TDE to provide transparent encryption of stored data to support submission efforts with release of Oracle 11g R2.
+
++ Modified database structures, including tablespace, tables, views, triggers, and stored procedures.
+
+* Formulated backup procedures using daily hot backups and weekly cold backup.
+
++ Established ASM environment and migrated databases from NON-ASM to ASM.
+
++ Enhanced use of Oracle support in resolving the SRS,
+
++ Improved database performance having reorganised / optimised databases, schemas, and tables.
+
++ Uilised import/export utilities for cloning and migration of small databases and data pump import/export to move data between Si and
+
+10p/11g environments.
++ Speatheaded table space expansion, monitoring data files additions and extent growth.
+
+Oracle Database Administrator, 06/2012 -06/2014
+‘Cognizant Technology Solutions — Compton, IL
+
++ Install, configure, upgrade, monitor, and administer 10g, 11g, 12c in UNIX / LINUX (RHEL) and Windows Server 2008 /2012 as well a,
+12¢ container databases on standalone servers / cluster on Windows and UNIX platforms,
+
++ Produce AWR (Statspack), ADDM, Explain Plan, TKPROF, SQLTRACE, and ORADEBUG reports for performance tuning and
+introduced new tools for 12c for security.
+
++ Clone non-multtenant container database to pluggable database in 12c using PDB Metadata clone, PDB Remote Clone, and PDB Snapshot
+cloning featur.
+
++ Duplicate tablespaces and databases from production server to test server in alignment with client requirements
+
++ Install, upgrade, and resolve issues with GoldenGate.
+
++ Evaluate database performance to identify and target areas in need of changes / improvements.
+
++ Played an instrumental role in large-scale datacentre migration into multiple platforms,
+
++ Launched two types of standby databases supported by DataGuatd, logical standby, and physical standby databases in 11gR2 on two-node
+RAC.
+
++ Implemented Active DataGuard, creating Logical / Physical Standby databases in 10g, 11gRAC, and 12C environment for production
+atabases (ranging from 50GB to STB).
+
+‘+ Migrated 12c Non-CDB databases to pluggable databases
+
++ Created Oracle Wallets and implemented Tablespace level TDE security
+
++ Enhanced information security through network data encryption upgrades.
+
++ Developed new database services for distribution of applications across multiple nodes.
+
++ Delivered backup strategies (Cold, Hot, RMAN with Flash Recovery Area and Logical Backups EXPDP / IMPDP).
+
++ Established and enforced security forall Oracle Databases.
+
++ Boosted database uptime via reorganisation, implementing SQL access and expert recommendations.
+
++ Standardised application design /code to ensure optimal integrity, security and performance.
+
+EDUCATION
+
+‘Master: Business Administration
+
+Bachelor: Business Administration
+
+AWS Certified Solutions Architect ~ Associate (SAA) 2020 OCA Certification 2017 Comptia Security Plus: 2018
+Business and Management University - Geneva
+
+‘MBA: 2010
+
+BBA: 2008
+Academie de Langue et de Commerce - Geneva
+
+Diploma: Management / Accounting, 2004

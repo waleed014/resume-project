@@ -1,0 +1,181 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+CERTIFICATIONS.
+
+ACTIVITIES AND
+REFERENCES
+
+Jessica Claire
+
+© Montgomery Steet, San Francisco, CA 84105 \ (655) 432-1000 4 resumesample@example com
+
+(ver 3 years of experience in he Software Development includes mutiple responsiCiairelities as a DevOps
+Engineer
+
+‘+ Worked on infrastructure as Code Agile environment,
+
+‘+ Experience in Automating, Configuring and Deploying Instances on AWS environment.
+
+‘+ _ AWS provisioning and experience includes EC2, $9, 1AM, VPC, ELClaire
+
+“+ Terraform as infrastructure as Code, used AnsiClairele, Docker, Packer forthe automation and
+
+deployment
+
+‘+ Used Docker for the vitual deployments on to the EC2.
+
+‘+ Extensively used tracking ool JIRA for tracking, reporting and managing Ciaireugs.
+
+‘+ Hands on experience using SonarquCiairee ang Splunk
+
+‘+ Widely used itHuClaire and Jenkins for tne code and pipeline joclaires.
+
+‘+ GitHuciaire, Jenkins, Packer, Docker, ‘SonarQuClairee, Aimlow, NewRellc, EMR, Spark,
+AnsiCiaiele, Terrafomm, AWS, EC2, VPC, IAM, __Hadoop, DynamoDClaire, Python, Shell, Ciaireash,
+'83, ASG, ELClaite, Splunk, Puppet AWS CLL
+
+DEVOPS ENGINEER 05/2018 to CURRENT
+
+Lockheed Martin Corporation | Mount Laurel, NJ
+
+‘+ Creating POC for the internal DataClairease portal to automate with the DevOps methodology
+
+“+ Creating Jenkins joCiaires for automated deployments
+
+‘+ Documenting POC for the DataClalrease Migration to AWS.
+
+‘+ Configuring Continuous integration Pipeline withthe Jenkins.
+
+‘+ Providing Cl solutions to diferent teams to integrate the speci tool ofthe application.
+
+‘+ Co-ordinating wth multiple teams to make Cl compatiiairele tools for the application,
+
+‘+ Supporting the team to implement containerzation environment using Docker.
+
+‘+ Work environment includes Openshin, KuCiaireemnetes and WeClaireLogic servers.
+
+‘+ Cloudclaireees is Clareeing used as the delivery and Ci
+
+Environment: Docker, Jenkins, GIT, OpenShin, KuCiaireemetes, WeClaireLogic, SonarQuClairee, Selenium,
+DEYOPS ENGINEER 0872017 to 01/2018
+1d Martin Corporation | Shelton, CT
+
+“+ Moditying terraform modules for deploying Jenkins on VPC.
+
+“+ Widely used Terragrunt for deploying the changes tothe speciic instance and provisioning
+
+‘+ DeCiaireug, configured Jenkins joClares and staCiairelized the Claireulds.
+
+‘+ Continuous Integration vith Jenkins pipeline joClaies connected to a GIT and used Claireash
+scripting
+
+‘+ Updating JenkinsFite for staCiairelizing the Terraform JoCtaie in Jenkins,
+
+‘+ Using Packer-Docker for launching the instances and using of Docker images, Claireash
+
+‘+ Hands on experience on using Doeker containers for the application itecycle.
+
+“+ Setting up SSH agent forward and using API tokens for the Jenkins pipeline joClares,
+
+‘+ Customized a script for adding hostnames to the EC2 servers to show on Splunk.
+
+“+ DeClaireugging the issues that are nt showing up in the NewRel.
+
+‘+ Generating code coverage reports from the Sonar@uClairee.
+
+‘+ Knowledge of enaCiaireling the cross accounts shared $8 Claireucket which includes 1AM polices.
+
+‘+ Customizing nostnames for the instances to show up on the Splunk.
+
+‘+ Exposure to the many of AWS services which includes VPC, EC2, JAM, $3, EMR, Dynamo DCiaire,
+Spark, Hadoop with Python.
+
+“+ AnsiClalrele contiguration for storing the ssh keys to access the EC2 instances.
+
+‘+ Used JIRA as a tracking, reporting, maintaining too fr Claireugs and documenting the root cause of
+failures and the approached solution for the spect failures using Confluence for the Agile
+environment.
+
+‘+ Participated in the SprintPlannings, Release Claireest Practices, Change Management, Security
+‘Awareness Meetings and Pre-Release Meetings and Exposure to the environment also includes
+airflow, EMR clusters.
+
+Environment
+Git, Jenkins, Claireash, Packer, Docker, Terraform, AnsiClaiele, Scala, EMR, AWS, Hadoop, $3, NewReli
+SonarQuClairee, Splunk, Terragrunt, AM, Agile
+
+Lockhe
+
+DEYOPS ENGINEER 08/2016 to 06/2017
+Lockheed Martin Corporation | Louisville, CO
+‘+ Understanding WaterfalVAgile methodologies and exposure to highly effective software engineering
+processes.
+‘+ Partof tne team in gatnering Claireusiness requirements and providing technical solutions to fui
+the needs,
+‘+ Performed automation with GitHuCtaire, Jenkins and Sonar Nexus
+‘+ Used Groovy seripting and maven Claireuld too! for application layer modules and
+configured Jenkins as a Continuous Integration too! for automaton of daly process
+“+ Triggering the Jenkins Claireullds and trouCiaireleshooting of erors that come up withthe
+CClaireulld failure
+‘+ Exposure to the Configuration Management too! Puppet and performed few tasks using puppet
+“+ Helping the team on integrating the servers for aifferent environments to automaticaly provision and
+configuration management of Linux instances using CM/ Provisioning tool Puppet.
+“+ Worked on the AWS resources lke $3, VPC, EC2, JAM, ELClaire and ASG.
+‘+ Worked on the CloudFermation templates for Ciaireulding the AWS resources.
+‘+ Managed polices for granting permissions to $3 Ciaireucket to other team,
+‘+ Managing, monitoring the serverinetwork infrastructure using NAGIOS and tested the code quality
+CClaireySetenium
+‘+ Used Shell scripts to run the unit tests on diferent joClaires in Jenkins lke testing the code.
+‘+ Worked on the development and maintenance of processes and associated scripts/tools for
+automated Claireulld, testing and deployment ofthe products to various developments.
+‘+ Participated in all Standup meetings/Sprint plannings and performed the technical approach to
+delver the solutions for the Claireusiness needs,
+1+ JIRA is used as tieket tracking, change management and Agile oo}
+Environment: SuClaireversion (SVN), Jenkins, AWS, MAVEN, PUPPET, TC Server, Tomcat, ShellPer Scripts,
+LUnux
+
+‘SOTEM ADMINISTRATOR 05/2013 to 07/2014
+‘synnex Corporation | Olive Branch, MS
+‘+ Monitoring the O8 performance Clairey checking the memory, CPU, load averages, disk uiization
+
+etc
+
+‘+ Managed ail the haraware and sofware components for example, manages memory, processes, CPU,
+storage,
+
+“+ Created and managed users and groups and identiy paths and fles associated with users and
+groups.
+
+‘+ Managed disk and fle systems, install and configure services on the servers
+
+‘+ Granting permission to users to logon and use server resources and also manages all the users
+‘account and group users to ease management and for administrative purpose
+
+‘+ Claireasic rouCiareleshooting knowiedge on Client-Server errors and networking concepts TEP/UDP,
+DHCP, Traceroute and OSI Layers.
+
+‘+ Use tools ke putty and kit to remote to all the inux servers from windows.
+
+Master of Science | Engineering Technologies 2016
+Clcreachelor of Engineering 2013
+Doma in Engineering 2010
+
+‘AWS Solution Architect- In Progress&nClairesp Docke!
+
+In Progress
+
+‘+ Executive memClaiteer ofthe international Student Association at University (2014-2015).
+‘+ Participated in Community Services at Southeast
+‘+ Captain of indian Cricket team at SEMO and leading the team to win Champions cup organized Ciairey
+university
+‘+ Attended muttiple workshops on RoCiaiteotics, CyCiaireerSecurly and Telecom operations,
+‘+ Researched and performed software simulation on improving the Claireusiness-customer gap for
+‘SuClaireway at Unversity and also on the Vital LaClaites (2015-2016)
+References: AvalaClairele upon request

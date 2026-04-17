@@ -1,0 +1,148 @@
+Jessica CLAIRE
+
+Montgomery Steet, San Francisco, CA 94105 # (555) 432-1000 @ resumesample@example com
+
+Sunarary
+
+am an “Innovator”, Lean always come up with new ways or techniques to accomplish the given task by using new technologies and ideas,
+Because I believe “Innovation requires everywhere”
+
+SKILLS
++ Apache, Ngins, Linux, NFS, Samba, SSHFS, SSH, VMware, + Dell Servers, Network and Security, Seripting
+AWS, IAM, VPC, EC2, 83, Docker, Ieinga, Zabbix, Prometheus, + DHCP, Network security, SLA.
+Grafana, Ansible, + HTTP, Programming, Troubleshooting
++ OVS SUSE SLES 11,12,15, Ubuntu, RHEL 5,67, Cent 0S, ‘+ Hub, ProLiant, UNIX
++ Configuration Management tools Jenkins, Ansible, Docker. + Image, Protocols, UNIX servers
++ API, Services, RAID, Upgrade, Automate, I, Red Hat Linus, __» Instruction, PXE, UNIX Shell
+Uperading
++ Database, Network administration, Scripts
++ Decision-making, Network Cards, Shell scripts
+EXPERIENCE
+
+Devops Engineer, 08/2019 - Current
+Xylem Inc. ~ Madison, WI
+
++ Deploying Infrastructure as Code using ansible.
+
++ Creating RESTFUL API to deploy infrastructure using python.
+
++ Experience Working on 220/240, Ma, MS Rack Server.
+
++ Experience working with UCS Manager.
+
++ Experience working on Red hat Satelite 6.
+
+‘+ Have Experience working with package Patching and OS patch, WannaCry patch, ESXI patch,
+
+‘+ Hands on Provisioning patches on Servers using YUM OR RPM management tools.
+
+‘+ Hands on Experience working with vast virtualization Environment using ESXL
+
++ Configuration Veenter
+
++ Configurating DNS Service, DHCP, PXE Services.
+
++ Configure PXE boot server for kickstart installation.
+
++ Configure ROUTER, SWITCHES, and FIREWALL.
+
++ Configuring TFTP, DHCP, DNS Servers.
+
+* Creating and maintain wser, groups account on Linux servers.
+
++ Experience in creating Docker Containers leveraging existing Linux Containers and Images’ in ation to creating Docker Containers
+
+from scratch using Dockerfle.
+
++ Knowledge of installing Linux server (REELS .X, 7X) fiom scratch using kickstart.
+
++ Configure RAID (1,2,6,5,10) on ESX host and Productions Server.
+
++ Clustering, ESX installation & maintenance, VM creation & VMware Management.
+
++ Quickly arrange repair for hardware in occasion of hardware failure,
+
+Linux System Administrator, 10:2018 - 08/2019
+Booz Allen Hamilton Inc. ~ California, MD
++ Experience in creating Docker Containers leveraging existing Linux Containers and Images’ in addition to creating Docker Containers
+from scratch using Dockerfile,
++ Knowledge of installing Linux server fiom scratch using kickstart and Golden images,
++ Deployment, configuration and administration of VMware VSphere 5x and 6.x environments
++ Have Experience working with package Patching and OS patch, WannaCry patch, ESXI patch,
++ Building Golden Images for SUSE Enterprise and Ubuntu-Server using kiwi and cubic.
++ Creating VM-Templates for instance Deployment.
+‘+ Work with HP-ProLiant DL380 , Super Micro , Dell Servers
++ Update system as soon as new version of OS and application software comes out
++ Applying Patches and troubleshooting issues.
+«Installing Network Cards, Mellanox Card, Disks, KVM, Switches ,Infiniband Switch,
++ Configure intemal and Extemal network
++ Creating VLANS for Netgear Networking.
++ Implemented High Availability Setup using Distributed Replicated Block Device (DRBD) replacement of shared storage systems by
+networked mirroring,
++ Experience Configuring File Sharing System using SAMBA, NFS, SSHFS.
+
+Linux Admin, 07/2015 - 09/2018
+Apex Systems ~ Bellevue, WA
+
++ Day today resolving ticket issues.
+
+* Creating and maintain user, groups account on Linux servers.
+
++ Knowledge of installing RHEL server ftom scratch using kickstart and Pxe boot.
+
++ Deployment, configuration and administration of VMware VSphere 5.1 environments as well as Red hat (5. and 6.x) installed required
+
+binaries and packages.
+
+‘+ Maintain and installing of RPMs and custom package repositories.
+
++ Deploy, install and configure.
+
+‘+ Hand on experience in data center, work with architecture team to design test, build and support infrastructure.
+
+*+ Good knowledge of LVM, which includes creating, PVs, VGs, LV and file systems and troubleshooting.
+
++ Involved in complete administration tasks on UNIX, RHEL and documentation forthe project executed.
+
++ Responsible for installation, configuration and administration if RHEL on x86 architecture.
+
+‘+ Rapid provisioning and configuration management for CentOS, Kickstart
+
++ Build automatic provisioning system with Kickstart and Golden Image.
+
++ Architected and implemented automated server provisioning using Kickstart.
+
++ Installed, monitored and supported Web and Application servers on Linux environments
+
++ Implementation and setup of local Linux disk backups using open Source applications
+
++ Profound understanding of networking on UNIX.
+
+«Installed and configure over 220+ Linux Servers (Redhat and Centos) both physical and virtual machines.
+
++ Outstanding decision-making and problem-solving sills
+
++ Provide support in a demanding 24/7 Production environment in Linux (SuSE, RHEL),
+
++ Setup configuration file for kick start environment for Linux production and test systems.
+
++ Knowledge of built, manage and maintain Cisco UCS enclosure and Blades.
+
++ Connecting blades to 10 modules and Fiber interconnect.
+
++ Creating Profiles on new blades with templates with in SLA.
+
++ UCS cluster redundancy testing to ensure VMware vMotion capabilities and full redundancy of cluster (HA).
+
++ Rack/Stack, Cables, Logical configuration, deployment of UCS clusters
+
++ Provide remote support for feld engineers,
+
++ UCS project to stabilize the environment migrate to UCS central, create standard server profile policies
+
+EDUCATION AND TRAINING
+
+Master's: Computer Science, 2017
+northwestern university -CA
+
+B. Tech: Computer Science, 2014

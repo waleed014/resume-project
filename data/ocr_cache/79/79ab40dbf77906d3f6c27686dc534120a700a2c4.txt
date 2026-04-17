@@ -1,0 +1,130 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor XS (555) 432-1000 <4 resumesample@example.com
+
+‘Smart DevOps Engineer with career spent in IT designing and planning, Talented leader with extensive
+knowledge of high availabilty architecture and concepts, Ready to tackle new challenges in project planning
+and development capacity.
+
+= Guest services ‘= Loss prevention
+‘+ Inventory control procedures ‘+ Cash register operations
+
+‘+ Merchandising expertise ‘+ Product promotions
+
+DEVOPS ENGINEER (01/2021 10 CURRENT
+
+Koch industries, Inc. | Mefariand, Wi
+‘+ Automated application build and deployment, driving efficiency of code development
+
+process Performing Automatic deployments in Dey, IT, CT, PRE-PROD, PROD environments by daily
+‘and weekly basis by using Ansible and Jenkins. Creating muttiple jenkins jobs for day to day activities
+‘and also deploying new jar files with version numbers into the Nexus Artifactory Creating and updating
+‘change request also handling change management in daly basis Working with developers and QA.
+team for validating changes and fing issues Working with IBM ISAM for for validating and deploying the
+new changes in each individual host Worked on SSL certificate updates and generating expired
+certiicate report and renewing the CERTS using VENAFI Working with Ansible scripts creating new
+recipes and roles as per the requirement Building new CentOS server and configuring with Ansible
+playbooks Analyzing the Itrack tickets and updating, and deploying changes into various environment
+‘as per the request.
+
+AVC  DEVOPS ENGINEER (02/2020 to 10/2021
+‘Management Decisions, Inc. | Aliso Viejo, CA
+
+‘+ Responsible for building and maintaining inrastructure AMI's Worked on secret manager and SSH
+‘authentication POC's like Teleport, hashicorp Vault Automated AMI bull process using Ansible roles
+‘and playbooks Install and configure Ansible towers to bulld servers and deploy the
+configuration Created playbooks for tomcat to deploy static and dynamic content. Created playbooks for
+starv’stop/restart operations and to manage data Created playbooks to create users in mysql and
+LDAPCreated Jenkins pipelines for automating AMI build process into various AWS
+accounts Automated Termination of AMIs and snapshots in periodically Worked on SSH KEYPAIR,
+‘mechanism for securely maintaining and storing secrets Developed and maintained Hashicorp Vault for
+‘€c2 ssh authentication and secret store Involved in development of Grafana and Global
+Prametose Involved in Airflow containerization from amazon ec2. Building and maintaining EMR transient
+Cluster for teams using terraform modules Building and maintaining EKS clusters using terraform
+‘modules. Worked on upgrading EKS clusters upgrades trom one version to another version Worked on
+Updating Jenkins master and slaves from amazon linux 1 to amazon linux2. Knowledge and involved
+Airflow containerization Spend some time on IAM Role setup and user authentication and MFA.
+
+DESECOPS ENGINEER (02/2017 to 01/2020
+
+Rtx | Catalina, AZ
+
+‘+ Support Application teams to create and manage thelr apps and resolve issues by working along with
+them Automating the infrastructure as much as possible using terraform and shell Bulld tne POC for
+Java and Node Js applications deployment in ECS and Elastic beanstalk using terraform and
+Jenkins, Deploy and monitor infrastructure tools like AWS, Chef, BMX(Jenkins), GOCO, Sensu, Newrelic,
+‘and Rundeck, SignalFX Automate infrastructure as code for building AWS, new relic resources using
+terraform Working on Venif certificates and upload to AWS certificate managers, load balancer and
+‘Akamai.Collaborate in the automation of AWS infrastructure via terraform, troposphere, GOCD and
+Jenkins - software and services configuration via chef cookbooks, Working on migrating from GOCD
+pipetine to Jenkins. Configuring Chef to bulld up services and applications on the instances once they
+have been configured using cloud formation Experience in Akamal user management and
+configurations. Experience in verity certificate management and renewal and upload to AWS IAM, AWS
+certs manager and Akamai flush Extensive experience in Maintaining infrastructure as secure and
+Upgrading versions using chet, also experience in vulnerabilly Patching , Kernel upgrades Worked on
+‘System/Apache OpenSSL minor/major version Upgrades using Cookbooks Worked on multiple Web
+‘Application services major/minor version upgrades like Java, Nodejs, Apache. Working on shell scripting,
+Ruby Scripting and Python. Provided security and managed user access and quota using AWS Identity
+‘and Access Management (WAM), including creating new Policies for user/role management Automated
+this process using Terraform along with Terragrunt Wrting Chef cookbooks, recipes, roles and Data
+Bags and uploading them on to the chef server for the instances that are configured with the changes
+pick up the latest code Worked on creating SES mail and testing with local clients for application
+teams.Experience with Docker and Test kitchen for testing the chef cookbooks locally before
+‘deploying Worked on inspecting test cases for testing AM's and chef cookbooks Worked on Splunk for
+Jogging application log files of an instance to the Splunk Responsible for quarterly AM! patches, security
+and releases Proficient with GOCD for continuous integration and continuous deployment and for End-
+to-End Experience in source control systems like SVN, GITHUB Responsible for upgrading for GitHub,
+Central Nike GitHub Enterprise Monitored server alerts using Sense and new Relic and setting up alerts
+{or all servers for CPU monitoring, disk usage, memory usage Worked on migrating Artitactory data to
+central Artfactory and also responsible for applications, to cut over to new one-Experience on
+‘automating infrastructure using Jenkins and Terraform Involved in review, status meeting and
+coordinated with team members. Communicating with afferent application team members and coming up
+vith solutions for problems. Experience in maintaining in-house system administration Training various
+application teams with the concepts of DevOps used at our infrastructure. Worked in a team which is
+responsible for disaster recovery by launching all the application stacks in diferent regions. Worked On
+‘making POC’s, best practices and pre-bulld templates for Serverless Application build and
+deployment Environment: AWS, Cerberus, Nodes, Artitactory, newrelic, Kubemnetes, Terraform,
+terragrunt, Github, Chef, Docker, Sensu, Lambda, GOCD, CircleCl, SingleFX, Jenkins, Rundeck,
+Diwycloud
+
+INCERNIJR. DEVOPS ENGINEER! LINUX ADMINISTRATOR 1212012 10 01/2015
+Waltair Information Technologies PVT LTD | City, STATE
+
+‘+ Involved to design and bulld multiple RHELG.x servers to include OS hardening RHELS.x/6.x mission
+critical Oracle RAC Cluster, and VSF and make ready for App/DB Team Used Maven release Plugin to
+‘Suppor the release of various application snapshotsinstal-configure-maintain the Linux servers, ONS,
+DHCP, SMTP, SSHD Uses LVM creating Volume Groups, Logical volumes and disk mirroring in
+Linux Setting up and troubleshooting user workstations based on RedHat Linux Account, user and.
+‘group administration, Permissions policy management and quota implementation, User and Group
+‘Administration Worked on User management and group management System performance monitoring,
+tuning and log management, TCPP Networking troubleshooting and Linux Network
+‘Administration Assign Roles, manage Users and groups and assign policies using AWS Identity and
+‘Access Management (IAM) Host file entries, mount point creation, user account unlock and other issue
+resolution Job scheduling for users using Crontab. Worked on Jenkins to build and test the
+applications Worked on Jenkins pipeline issues Monitoring, creation, acknowledgment and
+categorization of tickets. Disk Space and Logical Volume manager (LVM) Management in Linux installing
+Configuring and troubleshooting mail servers Postfix DHCP Server configuration automating the setting
+up of IP, Name Server and Gateway Using LVM (Logical Volume Manager) tools extend Linux Security
+‘Services: IP tables, SELinux, Firewalld (Accept & Reject different services lke FTP, SSH etc.). Configure
+kernel parameter on Linux servers. YUM package repository configuration on Linux servers Backup and
+restoration using arching tools (tar), Configuring and administration of FTP, NFS, SAMBA, APACHE
+‘servers. Configuring DNS, DHCP and MAIL server Patching: using yum and rpm, Troubleshooting the
+Booting issue Aware of most of the booting issues and know how to fix it Preparing shell scripts for
+‘automation of generalized repeated processes Performing all Linux Administration tasks
+independentl.instaling physical server and OS (RHEL6, RHEL7) Environment: Rhel, Server
+configurstions, AWS, Githu, Cronjob, LVM.
+
+Master of Science | Computer Science & information Technology
+‘Sacred Heart University, Connecticut
+
+Bachelor of Science | Computer Science Engineering, JNTU
+Jyothishmathi College of Engineering, Hyderabad

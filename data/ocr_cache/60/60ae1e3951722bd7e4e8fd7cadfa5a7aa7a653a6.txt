@@ -1,0 +1,215 @@
+Jessica CLAIRE
+
+Montgomery Sweet, San Francisco, CA 94105
+(535) 432-1000 resumesample@example com
+
+PROFESSIONAL SUMMARY
+
+‘Resourceful Solution Architec’DevOps with 8 years of customer relationship management and implementation support. Highly skilled in
+‘managing database performance and upgrades for ongoing eficiency and achievement of corporate objectives.
+
+5 Yeas of hands on experience in Amazon Web services including EC2, $3, VPC, EBS, ELB, Cloud Front, JAM, RDS, Cloud Watch, Auto
+Scaling, Cloud Formation, Docker, Cloud Endure,
+
+1 project experience of designing and architect server less web aplication using AWS Lamba, API Gateway, DynamoDb and Security
+‘Token Service (STS).
+
+Critical thinking DevOps Engineer with extensive understanding of high availablity architecture and concepts. Purpose-riven professional
+‘with capacity to be strong team player pls work effectively independently.
+
+Hands on experience of BASH Shell scripting on Ubuntu, Linux envionment with Amazon AWS CLL with Good understanding application
+‘of Web Applicaton deployment and maintenance of IS 5.0 and 7.0, Apache on Amazon Web Services (AWS).
+
+‘Knowledge of avtomatin/configuration management using Chef recipes and cookbooks.
+
+Demonstrated understanding of AWS data migration tools and technologies including Storage Gateway and Routers.
+
+“Hands on experience of CI CD automation tols; Git, Jenkins, Selenium, Maven, Docker, Chef, Puppet, Kuberetes, Nagios.
+“ands on testing and releasing with Git, Jenkins and Docker
+
+Excellent knowledge of networking concepts including Juniper, Plo Alto Neworks, Pulse Secure, TCP, VPN, VPC, NAT, Bastion Host,
+Subnet, DNS, Gateways and Router
+
+Excellent exposure on Provisioning systems, Automated built Platforms.
+
+‘Monitoring resources, such as Amazon DB Services, CPU Memory, EBS volumes,
+
+“Excellent understanding of Storage and file systems, VMWare Virtual SAN (¥SAN), ZFS, XFS, LVM, NFS, Clustered storage.
+
+Innovative DevOps Engineer with in-depth understanding of software deployment and system design illustrated over years of experience in
+similar roles.
+
+Sens
+
++ Jenkins, Linux, CeO, + Project planning
+
++ Vata, Vitual SAN, ZFS.NFS, + Contsinerzation
+
++ Tomcat, Apathe, Web Logic. + Docker
+
++ Juniper Palo Alto Netwodks. + Python
+
++ Oracle 10x, MYSQL, SQL Sever «Database performance
+
+«+ Effective communication + Busines solution
+
++ Performance Management «+ Keatity Management Provisioning Systems
+‘Worx History:
+
+01/2020 0 Current DevOps Engineer
+Livongo Health, Ine.— Reston, VA
+
+‘+ Worked wih Developers and production team in bth testing and releasing,
+
+‘+ Enabled and built esilient CUCD Pipeline for Orchestrating and automating software,
+
+‘+ Hands on experince in Configuration Management tols; Chef, Puppet, and Ansble
+
+‘+ Manage Network Security using load balance, Auto scaling Security sroups and NACLS.
+
++ Suppor current migration of Data Center to Amazon Cloud using AWS Server migration service, Cloud Endure,
+and Snowball.
+
++ Installed and Setp Web Servers (Apache and Tomcat), DB Server (MySQL),
+
++ Installed and Setup MySQL (Master and Slave) Server, Multiple MySQL Instance with different port.
+
+‘+ MySQL Database backup (HotlCold) and recovery, epair and optimize tables,
+
+‘+ MySQL Database security, crating users and managing permissions
+
++ Server's, Domain's and Database’ migration on Amazon We Services.
+
+‘+ Installed and Setup Nagios Server monitoring tools, Pogging, NRPE,
+
+‘+ Installed and Setp Git SVN Repository (Version Control System) at cient side
+
+‘+ Worked on Virualizaton (LVM, Bridge, KVM, Disk, Ram, CPU, Swap) on Superb DC.
+
++ Log Analysis, Maintaining documents of production server enor lg's report
+
++ Providing data for weekly and monthly report to senior management
+
+“+ Monitor Production Server Heath of diffrent parameters (CPU Load, Physical Memory, Swap Memory, Hard
+disk, MySQL service, Hp service and response time) via MRTG, Nagios.
+
+‘Design and build advanced antomated build test, release and operations inffastructore
+
+‘+ Collaborate with customers and intemal stakeholders to help gather requirements, build uit and fonctional testing
+capabilites and ensure well written and maintainable code
+
+‘+ Monitored automated build and coninvous software intepration process to drive buildelease failure resolution,
+
++ Developing and iterating over new and exiting elements of platform to maximize site availability, ibility, and
+maintainability.
+
+‘+ About 3 years hands on Docker, Docker Swarm and Kuberetes, Confluence, Unit Testing, Terraform
+
+‘+ Tnterficed with cross-functional tam of busines analysts, developers and technical suppor professionals to
+<etermine comprehensive list of equiement specifications for new applications.
+
+‘+ Worked closely with sofware development and testing tam members to design and develop obust solutions to
+meet client requirements for functionality, sealabiity and performance
+
+122018 t001/2020 AWS Cloud Engineer
+Carfax, Ine. = Indisnapolis, IN
+
+‘+ Managed Physical and cloud infastructure running RedH¥t\CentOS\Solaris on AWS cloud and x86, SPARC
+hardware,
+
++ Configued/ategrated Jenkins wth Git wo pull codes and Maven to push arifacts to AWS 83.
+
++ Source Code management with Git hub, Git labs to add, commit, push codes to various branches and setup Jenkins
+for aut pulling
+
+‘+ Experience with configuation Management - Puppet, which includes creating, modifying manifesting for various
+applications, Inside Modules, Apache installation and configuration
+
++ Installed and configured Apache and MySQL database via Chef pr requirement
+
++ Built Puppet eavconment inside AWS custom VPC and working knowledge of Chef.
+
++ Day today management monitoring uoubleshooting of multi-tier applications Using Puppet and Nagios in Dev,
+A, Prod envionment
+
++ Developed Prof of Concept (POC) for Linux users home directory migration between data ceters.
+
+‘+ Tavolved in development of AWS POC that inches creating VPC, IAM Users, EC2 instances, BS, 3 resources,
+
++ Created Cloud formation templates to deploy esources in HA, FT, Auto-scaling environment in lbs.
+
+«= Extensively wed native UNIX commands ike AWK, SED, ind, prep, cut, past in bash scripting per requirement.
+
+++ Documenting project and operational related resources.
+
+‘+ Environment, Limux Solaris, Puppet, AWS, Git hb, Windows, Sun Directory server, VMware, EMC VMAX,
+ISILION
+
+“+ Implemented network security equipment, including firewalls, two-factor authentication, and antvius sftare for
+networks supporting users.
+
+«+ Resolved issues related to operational components for LAN, WAN and voice systems.
+
+0120120 122018 AWS Cloud Administrator
+‘TeleWorld Solutions ~ City, STATE
+
++ Peeformed application sever builtin BC2 environment and monitoring them wsing Cloud Watch
+
+*+ Created Private networks and sub-networks and bringing instances under them based on requtement
+
++ Creating security groupe fr both individual instances and for eroup of instances under network,
+
+«+ Built DNS system in EC? and managed all DNS related tasks. Managed configuration of applications using Chef
+
+“+ Maintained all development tols and infrastructure, ensuring availablity for 24/7 development cycle with teams.
+
+‘+ Launched Amazon EC? Clové instances using Amazon Images(Linux/Ubunts) and configuring launched instances
+‘wih espect to specific applications
+
+‘Created Snapshots and amazon machin images(AMIs) of instances for backup and crated clone instances,
+
+«+ Performed Server configuration management via Puppet. Transparent Data Encryption (TDE) implementation.
+
++= Database Enryption for mirrored Databases, SQL Web Replica implementation,
+
+‘+ Migration of over 2500 Aplications with 3000+ Databases.
+
+«+ Setting up private networks and sub-nerworking Using vital private cloud (VPC) and created security groups to
+aocite with networks
+
+«+ Setting up seaability fr application servers using command line interface (CLI for setting up and administering
+[DNS system in AWS using Routes3 managing wsers and proups using amazon identity and access management
+Gano,
+
+‘+ Installed and configured Amazon command line interface to perform migrations of virtual servers from Ubunts
+‘open VZ physical servers to AWS EC2
+
++ Developed automation scripts sing EC? commands, Designed SQL reporting services (SSRS) high availablity
+
+‘+ Managed configurations and instances using Ops code Chef, Wrote and modified various cookbooks/recepts for
+beter management of system.
+
++ Environment:
+AWS EC2, VPC, EBS, Windows AD, MS WSFC-MS SQL 2012, SQL Server Always on Availabilty Group, SQL
+Server Reporting services, SQL Web Replication, LB, Routes3, Auto Sealing, Windows Sever 2008 R2, SQL.
+Server Minring, Active Ditectory, DES.
+
++ Analyzed complex project server issues and worked on large enterprise and businss-critical applications
+
+Epvcarion
+
+082013, ‘MBA: International Business Mi
+University of Lagos - Overseas
+
+agement
+
+sont Bachelor of Science: Business Administration And Management
+Lagos State University - Overseas
+
+(Ceramicartons
+
+AWS Certified Cloud Practitioner.
+
+‘AWS Solutions Architect Associate
+
+AWS DevOps Associate

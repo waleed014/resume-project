@@ -1,0 +1,111 @@
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+JESSICA CLAIRE
+
+Executive Summary
+
+Junior Database Administrator skilled in database installation, configuration, performance monitoring and troubleshooting. Expert knowledge
+with Microsoft systems and Cisco equipment. Proven ability to quickly learn, apply new technologies and translate client requirements into
+valid technical solutions.
+
+Summary oF QUALIFICATIONS
+
+MS SQL Server * Technical help desk experience
+SQL Server Management Studio * Database server, (SQL)
+
+MS Active Directory + Remote systems support
+
+DHCP/DNS Ethemet and Firewall proficient * Proficiency in TCP/IP protocols
+
+Direct Access and VPN configuration * Structured Query Language (SQL), intermediate level
+‘Network configuration! support * Strong collaborative skills
+
+Operation of IP data networks * Customer needs assessment
+
+Oracle VM Virtual Box ‘* Windows Operating Systems
+
+Windows Servers * IP routing technologies and services
+
+IP addressing IPv4 and IPv6
+Network Device Security
+
+PRoresstonat DEVELOPMENT
+
+‘MCSE (Server Infrastructure) CCNA (Routing and Switching)
+
+CCNA (Security) MCP (Microsoft Certified Professional)
+CompTIA A+ (Technician) CompTIA Network+
+Work EXPERIENCE
+
+08/2015 to Current Junior Database Administrator/Analyst
+
+Rockwell Automation, Inc. — Eden Prairie, MN
++ Plan, install and configure MS SQL server and have working knowledge of SSMS
++ Familiar with database backups and recovery strategies, assists with writing SQL scripts
++ Immediate knowledge with creating and understanding relational databases and designs
+* Routinely review security protocols to maintain data integrity
+‘* Tasked with importing and exporting data between different systems and platforms
+‘* Responsible for creating inner and outer joins
++ Ability to work with peers and other departments to provide quality services to intemal and external customers
+
+05/2015 to Current Remote Support Engineer
+
+Uniti Group — Metairie, LA
+‘* Remotely assists customers with software and license reloads, troubleshoots down ports on Cisco switches
+‘* Review system logs to determine root cause of error, analyze network statistics to diagnose and repair problems
+« Identify and detect customers needs to resolve software and hardware issues rapidly
+‘© Answer over 400+ calls per month with an 90% resolution rate for all of North America and Canadian customers
++ Escalate customer product issues for evaluation to the field service engineer when issues cannot be resolved
+remotely
+‘* Assist customers with equipment setup and file configuration for HP laser printers, components and drivers
++ Coordinate sending damaged equipment to the bench for repair
+
+08/2014 to 08/2015 Windows Systems Engineer
+
+Sungard Public Sector — IN. State
+
+« Insialled and configured servers, server roles and features, hyper-V and active directory
+Configured file and print servers, group policy objects, network services and policies
+Configured file and storage solutions, design and implement network access services
+Designed and implemented MS Active Directory infrastructures (logical and physical)
+Configured Direct Access and VPN connections
+‘* Handled technical troubleshooting while utilizing various remote support tools to resolve issues
+
+08/2011 to 05/2015 Quality Assurance Coordinator IV
+
+Philips Healthcare — City, STATE
+
+Regularly evaluated service records to determine if events warrant a formal complaint or incident report
+
+‘* Demonstrated superior analytic skills by providing thorough review of service events completed by field personnel
+
+© Strong regulatory background includes knowledge of current federal guidelines, FDA CFR: 820.100 and 820.198
+and 820.200 regulations
+
+‘ Ensured service records for service on medical equipment is maintained at the quality level and standard prescribed
+by the organization
+
+* Diagnosed problems, applied effective solutions and determined follow-up actions with minimum direction
+
+‘+ Assisted Tier 2 and Applications support teams to resolve issues remotely using tools such as RSN (remote service
+network)
+
+09/2006 to 08/2011 Product Support Rep IT
+
+Philips Healthcare — City, STATE
++ Provided technical remote support for Philips Medical Computer Tomography Equipment
++ Troubleshot network connectivity issues via PRS custom software
+‘* Utilized Clarify CRM, Lotus Notes, SAP, internal information and solution databases
+‘* Effectively communicated procedural changes, updates and provided written documentation for point of reference
+as a member of the communications team
+* Led, Managed and Trained Life Solutions Quote Desk team in Siebel CRM and updated configurations
+‘* Handled 30+ technical/mission-critical calls daily and consistently met high service standards
+
+Epucation Np TRAINING
+
+‘Master of Business Administration: Technology Management
+American Intercontinental University - Dunwoody, Georgia
+
+Bachelor of Science: Computer Information Systems
+‘Herzing University - Atlanta, Georgia

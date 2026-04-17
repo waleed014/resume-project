@@ -1,0 +1,139 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor ¢ (555) 432-1000 # resumesample@example com
+
+PROFESSIONAL SUMMARY
+
++ Experience working on Monolithic and Microservices oriented architecture.
++ Experience in creating, configuring and maintaining Amazon EC? instances
+
++ Experience working with version control systems like Subversion, GIT, Bitbucket
+
++ Implemented a CUCD pipeline involving Git, Jenkins, Chef, Docker, Nexus and Ansible for complete automation from commit to
+eployment.
+
++ Experience in using Chef as a configuration management tool to automate infrastructure provisioning by writing various chef recipes and
+cookbooks.
+
++ Hands-on experience using Maven as build tool for building of deployable artifacts from source code.
+
++ Experience working with Load balancers to route incoming traflic to number of downstream servers.
+
++ Experience working with microservices by using Docker.
+
++ Deployed various web-based applications using Git and Jenkins to Apache Tomeat and JBoss servers.
+
++ Experience in Bug/Issue tracking tools like HP Quality Center, Jira
+
+SKILLS
+
+‘© DevOps Tools: Jenkins, Ant, Maven, Docker, Kubemetes, Grafana_ # Configuration Management Tools: Chef, Ansible
+
+‘Scripting Languages: Python, Shell, Bash © Cloud Platforms: Amazon Web Services, Google Cloud Platform
+‘© Version Control Tools: Gittfub, BitBucket, Gitlab ‘¢ Databases: MySQL
+«© Artifactory: Nexus, JFrog © Operating Systems: Red Hat Enterprise Linux, CentOS, Ubuntu,
+‘© Methodologies: Agile, Waterfall Macos
+
+‘LiNKeDIN ID
+
+«+ hitps://eww linkedin comv/in jayadev-Claire-126769107/
+
+Work History
+
+DevOps Engineer, 10/2020 - Current
+Bae Systems — Fort Gordon, GA
+‘+ Managed Chef cookbooks implemented rules and templates in Chet for beter environment management.
++ Experience using Bash and Python scripts for day-to-day activities and automated various tasks
++ Responsible for automating CUCD build pipelines via GitHiub and Jenkins and setting up master and worker node by following DevOps
+practices.
++ Developed Chef cookbooks for automatic provisioning and installation of various packages in SBX/Prod servers.
++ Experience in writing various Docker files and built container images to create Docker containers for each environment and further pushed
+them to Amazon ECR for storage
++ Experienced in setting up Kubernetes dashboard and worked on creating pods, replica sets, services, deployments, health checks and
+ingress by writing YAML manifests.
++ Involved in maintaining, managing and improving cloud infrastructure on AWS by creating EC2 instances, Auto Scaling Groups, LAM,
+‘VPC's, ClovdFront.
+‘Experience in preparing and maintaining documentation for changes build and release management process and also sharing the Root cause
+analysis with the team in case of PI issues.
++ Technologies Used: AWS, Gitffub, Maven, Jenkins, Docker, Kubemetes, Chef
+
+Release Engineer, 02/2018 - 102020
+Zoom ~ AZ, State
+
++ Planned and executed the SAAS releases to all the SBX and PROD customer instances hosted across multiple regions,
+
++ Used Jenkins asthe build server and integrated it with GitHub for daily CT activities.
+
++ Experience in using RightScale as a Cloud Management service and created various deployments and Linux servers where the customer
+instances are hosted
+
++ Used Grafana dashboard atively asa monitoring tol to check the load on deployments for an efficient unecring release
+
++ Experience in using AWS services like EC2, $3, SES, IAM, CloudFront, CloudWatch, RDS for instance management, backup storages,
+‘mail service, access management, CDN and logging eapectvely.
+
++ Responsible for troubleshooting various issues in the Linux systems for various deployments
+
++ Experience in using Docker in a Linux environment for delivering the application into various environments
+
++ Worked on supporting the SRE related activites for troubleshooting serverdeployment issues across multiple regions
+
++ Managed all the releases using an internal tool Contol-Next which acts asa dashboard to track the progress on the releases
+
++ Worked in migrating the customer instances to updated MySal deployments upon the dependency of ES sack.
+
++ Experience in using Application Load balancers with a good knowledge of taflic patterns, usage of dependency services, security, load,
+responsiveness and durability in the event of failure and route them to downstream servers.
+
++ Experience is writing documentation for runbooks on new release strategies and various major incidents occured as att of releases
+
++ Experience in using Rundeck for upgrading microtervices as pat of on-going SAAS releases.
+
++ Primary contact for all standard and of cycle enterprise releases throughout the entire organization.
+
++ Communicated and collaborated with the CVM team and the customer support for rleate related queries and rollbacked the SBXUPROD
+instances tothe previous version incase of any issue.
+
++ Worked closely withthe development team to integrate new deployment processes and strategies to meet our feature requirements.
+
++ Directly report all he daly release activites tothe Senior Manager inthe Release Management and further discusses the oot cause ofthe
+cxcalation flues with the SRE team,
+
++ Technologies Used: AWS, Github, Maven, Jenkins, RightScale, Rundeck, Docker, Chef
+
+DevOps Engineer, 06/2017 - 02/2018
+Bae Systems ~ Manassas, VA
+
++ Implemented the CUCD pipeline cycle for multiple teams from scratch in all environments
+
++ Experience on using Bitbucket with Admin privileges and created various repositories to integrate them with Jenkins.
+
++ Experience in setting up Jenkins jobs for the respective projects and completely involved in the build process.
+
++ Experience in using pipeline jobs in Jenkins for various projects
+
+‘+ Monitored the overall build process and responsible for maintaining the code coverage results in SonarQube dashboard.
+
++ Experience in using Jfrog and Nexus repository in Cl pipeline for pushing the build artifacts for future process
+
+‘+ Experience in pushing the Docker images from Jenkins to Nexus and maintaining the various versions of it
++ Worked closely withthe development team for resolving the issues occurred due tothe build process.
+
++ Experience in using Docker compose file forthe communication between multiple containers.
+
++ Knowledge on implementing the bluelgreen deployment techniques using Docker and Kubemetes for zero down time achievement
+‘Written Ansible scripts for picking up the Docker images and deploying them onto the target serve,
+
++ Experience in using SQL server for maintaining, pulling or inserts records into the database,
+
++ Technologies Used: Stash’Bitbucket, Maven, Jenkins, Docker, Kubemnetes, Ansible, MYSQL Workbench.
+
+EDUCATION
+
+Master's: Computer Science
+University of Central Missouri - Kansas City, Missouri
+GPA: 3.4/4.0
+
+Bachelors: Electronics and Communication Engineering
+JINTU- Hyderabad
+GPA: 3.0/4.0

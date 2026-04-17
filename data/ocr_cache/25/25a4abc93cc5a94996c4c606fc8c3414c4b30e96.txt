@@ -1,0 +1,183 @@
+Jessica CLame
+
+Mongar Stet, San Franc, CAH (5) 22.1000 + reumenmpleseanplecon
+
+Summary
+
+_Ecllent platform knowlege ith Lina, Automation nd Opensource software tosh around 6 years of experience nce
+‘DevOpe, ld Release Engine nd Lincs Adminstration. Experience indude th oud management AWS a wells DevOpe
+development in Windows, Linux and Mac OS systems. "Managed entionments DEV, ST, QA, UAT and PROD for various leis
+apd designed inctanceseatapes. “Reporte fo the managemant of loud eric AWS Ay work cel with eas £9
+‘xsi high unity and nly delivery of bss and releases. tong abi to tobleshoot ny sues generated whi bldg,
+deploying and in production suport. "Good interpersonal Skil tame working aude, kes tates and very proactive
+solving problems and providing bet oution.
+
+Skals
++ Amazon Web Services AWSEC2, 53, VPC EMR-SPARK, + Container Management Docker
+ames + CUCD tools: GF, SVN, fenkins News Maver At
++ Languages: RUBY, SHELL, BASH PYTHON + Lie Reda Cent
++ DevOps tools CHEF, FUFPET, ANSIBLE, Packers Teraorm, + MySQL, SQL, RDBMS, DynamaDB
+See + Monitoring ols: Splunk NAGIOS,CloudWach NewRatc
++ Operating Systm Linas, UNDULINUXMACOS, + JIRA, Contuence
+1 Age Scam
+Experience
+
+Devoe Engineer, 082017 t0 Curent
+Seie— Stand MD
++ Worked th Jenin under the CUD pipeline ponding contnseus provement tape software development es
++ Experienced i astute as Code and wing mostf the ANS series ike ECD S3,IAM ELB, VPC et
++ Expeencein Seting up the build and deployment automaton for Teaform sits wing Jens
++ Worked on Ansble sued YML pacages or inwtaling, configuring push o make changin tine,
++ Involved in DevOps automation prose fr build and deployment of Serb architecture
++ Monitored RDS with Pstresastances and Haste Load Balancer for performance and avait.
++ Esperencein troubleshooing ay ies generate while uid and deployments.
++ Deployed configuration management and provsoningt AWS using Packer Docker and Terafor intoled in auto-mate
+_Aeploymnent of EBS onto the AWS Cloud? instance sever and automated the compete deployment envicoenent on AWS.
++ Crested multiple erafom modules to manage coniguratons, application serices and atomute instalition process for Web
++ Insale Doce, cate Dacre cet container and integrated Dachrwith nine to dob on Docker ontainere
+and achieve Continuous Delivery goalon high aie eonment
++ Managed deployment automation sing Packer Docker, Teraform to sutomate system operons Handled work om nti
+tage of developnent to cate branches, ake devlopers follow standards csing bud script, bling automating th ld
+Proce and deploy proess basing enki pig.
+«+ Experience with rays of logs ad performing rot caus ana fr various ees coming up on diy baie
++ Used New Relic for the infatucure mono Worked fr mip nvzonmants,induding non preducton and production
+
++ Insaled and configs the motoring too SPLUNK for acing the logs and mained the ode qulty by wing SemarQube
+
++ Implement and Enhance Scripts hich are developed in Shell Pe Ruby and Python
+
++ Ali the envionment ines Hadoop,DynamioDB, SPARK, EMR and fe other.
+
++ Experience wth I (Continuous Integration) and CD (Continuous Deployment methodologies using Jenkins
+
++ Creaing the containes by sing Docker
+
++ Implemented and maintained the mortoring and alerting of production and corporate serversistorage aig ClowdWateh,
+
++ Esperence with Bug tacking ole IRA
+
++ Having good xperence in Confguation Management tos ike
+
+ep of St bac yes
+
+Envonment GIF, JENKINS, eile, nis Pipe project Packer, Doses, Teraoem, EMR, Hadoop, SPARK, DyramaDB,
+Aitow, Anse IRA, AWS, 58 IAM, ANS, EC, ANT, PUTTY, CONFLUENCE. MAVEN,
+
+efor teansering and runing the modes wth the
+
+Devops Engines 1020150072017
+
++ Responsible for automation with Enterpse GitHub, Jenkins and Soar News.
+
++ Imported and manage maple application ito GT.
+
++ Designed, developed implemented, nd ita cstonn Grae tsk in ava snd Groory bid tol for pplication yer
+‘modules nd configure Jenkins sa Coninsus Integration toa for automation of daily proces.
+
++ Wate gooey siping os up Job DSL within Jenkins.
+
++ Aly to este rer Jenkin jobs apy and allows configuration of obs tobe rein sure contol
+
++ Implemented Infeastruture as Code La) uring CloudFormation templates and Puppet.
+
++ Designed and inplemented Cotisous Delivery (CD) pipeline wing Pupet or Configuration management, deployment and
+server atomaton automated the setup and teardown of soited staging ensonment for automated tng,
+
++ Werke on creation of Pape manifest les tonal Tet intace and to manage configurtion le fr mile
+applcaons
+
++ Congres negated the servers for dere evirnments to automaticly provision and cenigraton management of
+Ln stances using CMY Provisioning tol Puppet
+
++ uit Puppet nai al boop srp to allow ws to boop instances to vais ole without having to main
+
++ Deploying the content cloud phtfom on AVS wing EC2, 9, and EBS, also evaluated FUFPET Framework and tos to
+sutomate loud deployment and operations
+
++ Conigured mast ofthe serves of AWS stack and Developed ew python scrpts or AWS secs.
+
++ Managing ac monitoring the server and network infastescise wing NAGIOS and tested the cde quay sing Seen
+
++ Develop Shelton the un tnt on differen in enki Eke testing the code,
+
++ ened and maaied the Shell deployment sxipts for ServeTomea web application vers
+
++ Develop Fe and shell scp for automaton ofthe bud and elas proces.
+
++ Migrated on Premise MySQL database fo Mal Araby Zone RDS instances
+
++ Responsible forthe development and maintenance of processes and associated srpstoos for automated bull testing and
+eployment ofthe products to various development.
+
++ tne) Conga and Managed Nex Repstory Manage anal the Repositories,
+
+1 JIRA sewed ache tacking change management and Agil/SCRUM toa,
+
++ Environment Subversion (SVN) Jenkins AWS, MAVEN, PUPPET, TC Server, Tomest Shella Scripts Lie.
+
+‘Build and Release Engines 0920140 092015.
+‘oor Allen ait nc. - aye NC INDIA
+
++ Managed and eine the Deelopnet code folowing the Software Development Lif Cycle Model
+
++ Maintained SVN repositories for DevOps envzonmentsuomution code and configuration
+
++ Experencein wting maven porn and ant ull for bud ips.
+
++ Developed ld and deployment septs wing ANT and MAVEN sud tolsn Jenkins to mov rom one eniconent
+
++ Sting up continuous integration and formal bis uring Bamboo with Arfacorysepstory.
+
++ Developed seit in Ruby to package logfiles and send them treet sere,
+
++ resteand Maintain Subversion Branching Merging and Tagging across ach Production leases and perform bul wing
+Jenkins Continous Integration wing Maven Sci
+
++ Setug up and taling dedicated Jenkins serves foreach roc
+
++ Pamary dates inch ud and Deployment ofthe java appiaons onto dlerent envionment ike Dev, QA, UAT and Prod.
+
++ Worked on the tanto poet which involves gation acts rom Ant to Maven standardize the ld arose athe
+appiaions
+
++ tale in stalin Jenkins ona Linux machine and crete amuse nd sae
+
++ Configuration to iempleent mip pale ls teough a Bld fem
+
++ Consumed vasious SOAP and REST web sevice lated to requirement
+ld arcs (ar and se) ae deployed ino Web Logic ap sever by integrating the WLS expt Shel Seip
+
++ Canad An Pel and UNI cits for bul actes in QA, Saging and Production einen
+
++ Mainaned configuration files fr each aplication for ld purpore and ntl on diferent environments
+
++ Deployed JAVAE aplication through WebLogic WebSphere Applicaton servers.
+
++ Werke ool wth the eum to serie code for comput sues, resolve esa they arse and inlement deployment
+rocines nd mprovements on aconinaous asi
+
++ Environment Windows Bama, Shel Selenium, Python, Cola, Web Logi Server 1g SOL REE, Shall UDC Windows NT
+‘2000 and webSphere SVN Jenin, Maven GIT
+
+‘ina Adenia, 0320129072014
+aterion Systems Reston, VA India
++ Administered, maintained RedHat 0,50 Trowbehooting Hardware, Operating Sytem Application & Network sues and
+formance issues Deployed latest patches fo, Linx and Applicaton servers Performed Red Hat Linx Kena Taig.
++ Experencein implementing and configuring network services suchas FTP, HITE, DUC, and TET,
++ Adminctred Linacre for aver functions including managing Apache/Tomcst server, al ever and MySQL
+<acabase nb development nd prediction
++ Migrated databace applications rom Windows 200 Servet Lin eve.
++ Installing and xing up Oracle on Linu forthe development tam.
++ Linu hemel memory upgrade and sap ara and Reda Linux Kickstart Inetaliston,
++ Capacity Pang, Intestate design and nding syste,
++ Crested wees, manage wer pemsions maintain User File Sten quota on Reha Lin
++ Bash sheets to automate routine aces.
++ Monitored uouble cht queue to ated wer and system cls
++ tended team meetings. change conto meetings to update staan progress, and for upcomang changes in ennsnent
++ Updated data in inventory management package for Sfeare and Hardvae product.
++ Worked wit DBAS on installation of RDBMS database, stration and og generation.
++ Enicnment Red Hat Linx 4050 ASES Oracle 0g, Subs, VMware Tomcat Ax Apache Set
+
+Education and Training
+
+Dachlor of Engineering

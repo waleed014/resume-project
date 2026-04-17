@@ -1,0 +1,182 @@
+Jessica CLAIRE
+
+100 Mongar S08 For + (38 52100 « eumenpeaplse
+
+Professional Summary
+
+tae vend peso with? yar experienc at Cloud and DevOpr engine Syren Ihawhand-on
+_expeencesuporing automating and optimizing eplction deploymentsn AWSby bul sn automate CUCD piping
+‘without forging scanty and performace everage Terao tbat manana chest iastacse in ANS and
+arable or conlguraion management. hase lo and erkacon mule ejects hough the SDLC. am very detained when
+‘Ree sponing noes and hve exalt ceneanctonprbleselvng and con aking sl,
+
+skills
+
++ Opeating Syne + Conguntion Management: Astle
++ Linu at bun Windows + Appiaton Deployment: Arable
+
++ Cloud Porn: AWS (IAM Role EC. BS, EFS EKS.ECR, + Contention Too: Docker
+
++ Seiping Languages: Bash hal Siping + Motoring Tel: Prometheus and Grafan.
+
++ tnesrctre Proving: Teor + Log Management ar Data Analy Too ELK
+
++ Diauted Version ona toot: (Chesca and Kiana)
+
++ Sure Cade Mangement Gita + seuuNK
+
++ Bud Toot 1 Tktng fea
+
+Mase + Faedbacknotiction Emu noticaon Sack notction
++ Remote aacryRepostory Nenss + elie nepated Eniore VS code
+
++ Cade Quay Anise ool SoarQube SonarCioud + Wet moda maintain Awl payooks wing
+
++ Appcaion serve: Tomest modules
+
++ CUCD Tet: feins + We med and ait YAM es
+
++ A deta vei T professions
+
+Work History
+DevOps Engine, 0420190 Cant
+
+Masa Technologies Calero pings, CO
++ inplemeneda fly automated CUCD pipeline sing eis Gt to complte the astomution oe comet dplyent
++ Worked on Gi/Ghu to manage source Code
++ Worked ony with dewlopment teams fo improve workdow round uk et andeployment of plications
++ Setup Anse corr and save noes and deeapes playbook tomate the conigraton of serves ass rte
++ Atomute bland deployment ing jeri truce aman rand peed up profacton process
++ Aomated theaastrscut deployment fo diferent sags sch as DevONSagePiod
++ Deployed apicaons sing Hen charts eo habe Chasers
++ Crate Doce, bt Docker imager, and pushing nage to ECR for microversicstrunon berate ptr,
++ Implemented containers on AWS using ECS and complementary sri nding,
++ Amazon Este Conner Registry (ECR + Congr EKS to manage the Kubert management ineasrctre
+plemented diferent scheduling opens
++ Bul manage nd eer dod nasa om ANS (C2 RDS, SELB 0)
++ Used tezfoem o provision Aes serves such at EC2 VPC, RDS te.
++ Work with prot management too suchas ia and Confluence.
+
+{in Syste Engine 1272017 t908 2019
+Freie Hashes
+
++ tsalaon strane admission and wobleshoong of Re Hat Eepase
+
++ Rea and YUM paige installations pat and other server management
+
++ Hands on experience fasts and Appiaion Adin scxping ing hl
+
++ Exper on sing sellers to perfor unmanned sks
+
++ Setup user ned grup ID printing pret meter cnigton retcvng perenne avs
+
++ fsall configure and manage LAMP (ina/ApucYSQUPHF) sacks
+
++ Develop ion bs and shel scp for atoning mst sh hee stem management proes managenent
+
+Sever eots ete
+
++ Work on ting Vial chine wing Vso, Vagrant,
+
+‘Technical Suppo Specialist 1220159012017
+‘Churchill Doves Incorporated Desi MD
+
++ ts ne software and updates on cstomes PCS
+
+‘Type eit an print document fortes
+
++ cheated hou ine coves foresters owe on computers os he internet
+
++ Paced software and ictal ew versions to imine scutes and protec deta
+
++ Followed up within to ely opi custome sats,
+
++ Tce ser bo 10%
+
+Education
+
++ Operating Sten
++ Lina dat bun Windows
+
++ Cloud Porn: AWS (IAM Role, EC. EBS, EFS EKS, ECR, 5, VPC Cloud watch NACLS)
++ Sciping Languages: Bath Shel Scping
+
++ Inascure Poisoning: Terao
+
++ Dist Verso oto to:
+
++ Source Cade Mangement CH
+
++ Coe uty Anas Tot: SonarOube, Snsscoad
+
++ Applicaton serve Tomcat
+
++ UCD Telia
+
++ confguation Management: Anse
+
++ Applicaton Deployment: Ane
+
++ Contier Onsen Tool Kubert
+
++ Monitoring Tel: Prometheus and Graft
+
++ Log Management an Data Alyce Too ELK (ances and Kans)
++ SPLUNK
+
+Tht fia
+
++ Teedbaknetiction mall noconSlack notion
+
++ ltteer Environ: VS code
+
++ Wate med and maintain Ani paybeoks wing modules
+
++ A det ented T profesional
+
+Work History
+
+Devos Engines 042090 Curent
++ Implemented fly automated CICD ppt sing Jenkins & Gt to complete stomation om const deployment
++ Worked on GiGi to manage source Code
++ Worked don wath dewlopment teams tinge ors around bal et anddeployaent of appt
++ Setup Anse control and sae noes and deeope playbook to tomate the conigraton of server acs ners
++ Automated bul an deploys sing bis orden rand sped up potion process
++ Automated the nascar deployment fo diferent sages sch as DeVONSageP.od
++ Deployed aplicaonsing Heim carte haters haste
++ Crate Docheres, bt Decker igen pushing nage to ECR for microversicesru.on uber pltors,
++ Implemented conte on AWS wing ECS and complementary seri ncn
++ Amazon Etc Conner Registry (ECR + Congr EKS to manage the Kubert management inesrctare
+‘pleco deen shading options
++ ak, managed nd motor doud instru on ANS (EC2 DS, SELB)
++ Used term to provision Aes serves uch at EC2 VPC, RDS te.
++ Worked with projet management too such sia and Cone
+
+ix Syston Engine 1272017 19082019,
+Data Seizes Group Bea DE
+
++ tsalaion tena adniseaton and wobleshosting of Re Hat Enerpse
+
++ Rand YOM package inaliaions patch andthe rer management
+
++ Hands on experene ol nastacre and Appiaon Adin seping wing shal
+
++ Expert on ring shell cpt perform unmanned sks
+
++ Setup wer and group ID printing parameters stork conga resalvng peor and permiion ie
+
++ tsi congue and manage LAMP (Lina/ApuchYSQUPHF) sacks
+
++ Developed Cron ir and shells for automating adminis ask ke eye management oes manages
+
+Seve ects te
+
++ Worked on rating Vl machine wing Vso, Vagrant,
+
+“Technical Support Specialist 1220159012017,
+‘Ocenia Cotoon Bein
+1 val new softer and updates on customer PCs
+{Type ei an prin document or tomers
++ Cited ey ne cds er exes toute cpr sur he iteret
++ Pac sofware nine everson to sina acy problem and protec ta
++ Flo up with et ety opis estore stisticton

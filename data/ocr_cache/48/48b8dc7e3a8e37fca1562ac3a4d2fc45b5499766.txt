@@ -1,0 +1,127 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor ¢ (555) 432-1000 @ resumesample@example com
+
+SUMMARY
+
+A self motivated and organized SQL Database Administrator with 5 years of success designing and implementing database solutions. My
+experience includes SQL Servers (2005/2008/2012/2014/2016), SSIS, Clustering, DB mirroring, Clustered environments and High Availability
+solutions. I am proficient in Database Backup, Recovery, Performance Tuning, Replication Maintenance tasks, Security and Troubleshooting.
+
+TECHNICAL SKILLS
+
+* Database analysis, + Backup and Restore
++ Writing queries + Disaster Recovery
+
++ Database Maintenance + Data Migration
+
++ Microsoft SQL + Database Upgrade Patches
+
++ TSQ + Replication, Log Shipping, Mirroring, Always ON Availability
+‘+ GUT and tools Groups, Fail-over Cluster
+
++ Performance Tuning + Data Conversion
+
++ Conflict resolution
+
+EXPERIENCE
+
+Remote SQL Server Database Administrator, 02/2018 - Current
+Dr Cz Open Classroom City, STATE
++ Developed and implemented security initiatives to protect important company data
++ Principal DBA responsible for 50 servers with database sizes ranging from SGB to ITB
++ Responsible for administering and maintaining over 150 database servers of Production and Test environment
++ Analyzes the current database environment to determine recommended database maintenance, security, and Microsoft SQL Server best
+practices
++ Develop and create stored procedures, advanced queries, triggers, views, indices, and functions for databases
++ Migrated databases from SQL Server 2000/2005, SQL Server 2005/2008 and SQL Server 2008R2 to 2012
++ Responsible for supporting the SQL Server databases and ensuring their performance, availabilty, and security
++ Involve in performance testing and optimization of a 2B OLTP Database
++ Updating Service packs and Security patches for the Servers
++ Create and re-evaluate Indexes and made needed modifications for better performance
++ Establish standards and schedules for database backups by making sure thatthe backup schedules meet the recovery requirements on a
+daily, weekly, as well as monthly basis, Using the RESTORE VERIFY option when creating backups
++ Partner with project management teams on development of scope and timelines
++ Periodically restores backup files in test environment to check for corruption
++ Assists application team inthe creation of databases, construction of queries, modification of database tables, and troubleshooting data
+
+Database Administrator (Graduate Assistant), 01/2016 - 12/2017
+~ City, STATE,
+
++ Developed and implemented security initiatives to protect important company data,
+
++ Resolved incident tickets for Database related issues.
+
+‘+ Maintenance, upgrade, and support of Microsoft SQL Server databases
+
++ Merged replications, Snapshot, Transactional and extensive knowledge in Merge replication, creating jobs, alerts, SQL server login,
+
+East Tennessee State Universit
+
+database user and define server soles
+‘* Database Mirroring, Cold Standby, Warm Standby, Log Shipping, and Replication
+
+‘+ Wrote scripts and processes for data integration and bug fixes
+
+« Proactively monitored the database systems to ensure secure services with minimum downtime.
+*#* Developed data models and database designs to plan projects
+
+‘+ Analyzed, conducted and implemented physical database designs
+
+‘+ Documented and maintained current database patches,
+
+Database Administrator (Junior), 01/2012 - 12/2015
+Cocharis Motors — City, STATE
+
++ Installed and configured multiple SQL Server instances in production environment
+
++ Performed, database upgrades & applied software patches to the databases as per application/client requirements
+
++ Partnered with project management teams on development of scope and timelines
+
+‘+ Worked to ensure all data are recovered, systems and data integrity are maintained
+
+‘+ Wrote scripts and processes for data integration and bug fixes
+
+‘+ Updated Service packs and Security patches for the Servers
+
+‘+ Created and re-evaluated Indexes and made needed modifications for better performance
+
++ Created and Reviewed Security features for all the servers
+
++ Documentation of Server Builds specifications and Security features. Participating in process, application and database audits
+
++ Proactively responding to database alerts by installing, upgrading, migrating and configuring SQL servers to resolve issues,
+
+‘+ Managing duties like troubleshooting, tuning inpuv/output to enhance database performance
+
+‘+ Worked with DBA team members to provide client requirements, and suggestions to the developer team related to databases,
+
+‘+ Worked as a team member with other DBAs to ensure 24x7 day a week support ofall corporate databases
+
++ Supported SQL server developers working on different projects with various request
+
+‘Assessed customer needs and goals through communication and system evaluations to modify existing databases for personalized
+
+customization
+‘+ Worked in team responsible for managing and administering SQL server instances installed on Windows operating system
++ Performed duties associated with multiple databases related to consistency checks, and took responsibility to do regular data backups on
+the server
+
++ Created database objects like tables, views, indexes, stored-procedues, triggers, cursors using T- SQL
+
++ Delivered an exceptional level of service to each customer by listening to concems and answering questions
+
++ Increased sales by 17% over a two-year period
+
+EDUCATION AND TRAINING
+
+Master of Science: Engineering Technology, 2017
+East Tennessee State University - Johnson City, TN
+
+Bachelor of Science: Geology, 2010
+University of Port Harcourt - Nigeria
+
+REFERENCE
+
+Available on request

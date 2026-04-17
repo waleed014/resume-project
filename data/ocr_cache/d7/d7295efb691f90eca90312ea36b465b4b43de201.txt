@@ -1,0 +1,213 @@
+Jessica CLAIRE
+
+10 Montgomery St 10 Floor
+(655) 482-1000 -resumesample@examplecom
+
+Scary
+
+«+ To obtain a postion inthe ates of Data Warehouse/VLDB Architect, Databave Engines, Database Adasnstato.
+
++ 21 yeas of experience a a Se DB DBA on LUW (Linu, AIX, Solaris, Windows) (1997 ~cure!)
+
+“+15 years of experience as a Se NPS (Neteza Peformance Servet) DBAAdauin (2006 coment)
+
+1 Syeas of experince with Websphere Infrmaton Integrator MQ and SQL replication (2005-2013)
+
+«8 yeas of experience as an Informix DBA on Unix (Solaris) (2006-2014)
+
++ Syeae of experince as Oracle DBA on Uni (2015-2018)
+Focused Daubase Designer with 2 year of experince infil fcyle development. Adapble ia understanding busineses changing neds
+and cbecives when creating and redesigning databases. Collaborate team player with rong interpersonal and communication sil wef
+when working with project manazers to define projet timeline and scope. Se motte wit excellent task management bilities. Proactive
+Database Administrator with 1 years of experience in database development and production envitoamens. Proven sili secuity
+management, database mactenance 2a eablubng backup apd recovery processes to safepuad data Well ened ia various programming
+Ianguags,inloingStll-scriping and PowerShell Strategic Datbase Architect wih 21 yeas of experince in design, architecture an
+daa modeling. Track ecod of sccessflly managing ll phases of aware developeatfecyele(SDLO) Analytical problen-soler
+lille atdenifjng an resolving tech ieses, Mui talested Database Administrator with 1 year of expense in desing eng
+and coding datakase solutions in varios environments, Highly skilled in multiple ecologies sch as IBMDB2, Netezra Oracle and
+MSSQLServer Motivated self starter consistently meets deadlines and soceeds in hgh pressure envroaments
+
+Sens
+
+“IBM Neteza Techical Mastery Profesional +7
+1 IBM Ceriied Speciast~Netzza Platform Softexe v6, V7 + Solaris.
+
+‘+ BM Neteza Database Adminstration wih Subject Mater, + WebSphere, SQL
+
+Expert Handling Large database (OLTP) in BS. + 1DS, System Administrator
+“+ TBM Ceniied Solutions Expert DB2 Database Adminsration for + Oracle DBA
+
+UNDG, Windows and 0872 + Informatica
+
+‘+ MDB, Neeza, Oracle, MSSQLServer DBA, 2 Iafmic7t
+
++ ATK, Windows Taf 94
+
+«+ VERITAS Backup, TSM Backup + INFORMIX, TSM
+
++ Capacity planing ect
+
++ cono. + Kom Shel, UNIX
+
++ cocNos + ob contol anguage ICL)
++ Good communication ils + Datsbase analysis
+
++ Client, Problem sling + Datbate administration
+
++ Dara Warehouse, Processes + Data tesing
+
++ Database, Prograzamer Wing ues
+
++ Databases, Project management + Mirosoft SQL
+
++ Database Adminitation + Mito PowerSbell,
+
+1 DB2, Quest + Continuous process improvement
++ Designing, Quick lamer + ata cocversion and migration
++ Editor, Selftaer 4 Root eause analysis.
+
++ Ewin
+
+++ UNDOLINUX Shall seiting
+Exrenner
+
+1012005 to Curent Sr Database Administrator
+Qualey Custom Dicrbution— Wet Valley Cy, UT
+
+«+ Exalted hardvarerequtement and devised storage capacity sluions fr DW systems.
+
++ Defined database design specifications bated upon projec requzements.
+
++ Peformed quality ssrance process to support data warchoos improvement
+
++ Designed, bil, implemented and maintained DW systems (DB2 snd Netz)
+
++ Parmered wth project management teams on development of cope ad ilies,
+
+‘+ Handled all BA tasks such as datas’ logical and physical design, DB objets creation
+
++ lnslled, maintained, implemented, and upgraded databases on varios platforms.
+
++ Adainstered, maintained nd implemented plces and procedures for ensuring the avaisbily, ecuty and
+Inept of all databases.
+
++ Deseloped ad administered erg, backup, and recovery procedures iclding DR soliton
+
++ Designed and implemented data srt nd databases on mule patos
+
++ Create database monitoring toosscrps an proactively monitored database Peformance, Bulfer Pools, Cia
+lets, and database Space & index Utlzaton to meetall aabase expected goals
+
++ Provided DBA support for applications,
+
++ Panticipted in 247 ONCALL support oation.
+
+‘+ Worked together with ETL and BI team to develop the best ficient way to load and extract data
+
++ Strong aalcal abit and good communication ils.
+
++ Efetvly working with multlselpertonnel and project management
+
++ Selfstarr, quick ame who can figure ou the ine workings of existing systems.
+
++ Willing to work overime and provide high quality reduction 247 pager support.
+
++ Expert in trosble shooting, and production problem sling,
+
++ always work with efficient, confident, through, optimistic and postive atinde.
+
++ Peform and playa backup ole for various SA(Sstem Adastra) tasks (Le
+
++ Create and mount iesjtems, a devies, create and reset UNDX weds, monitoring filesystems, CPU, memory
+and paging wage, te.) Lead DBA team at the BCBSNA (Healthcare) acount o design and implement the MQ
+teplcation project where the source DB2 on 20S and the tage is DB2 UDB on AIX,
+
+‘+ EDS Imovatin award wine, design an automatic rogram to sync-up replication whe load wily is wed with
+log based seplcation (MQ epiation).
+
++ Design and Review for ALL DW peoec, performace and tuning fer the Enterprise Data Warehouse EDW)-
+
++ Provide caging production suport including rating ad updating DB? instances, DB? databases, performance
+‘nd unin, backup and eestor, planing and install software and Sxpks for DB2, NETEZZA, INFORMIX and
+ORACLE,
+
++ Designed and implemented automatic database montrtablespace wage, invalid object, b2 log and temp space,
+2), database ale(run anay ques), server ales (CPU, Memory, 'O wage) using UNIX korn shel siting,
+‘AIX and DB? commands and DB2 ble function and SQL.
+
++ Pefo logical to physical data object transation.
+
++ Pantie in ardare capacity planning
+
++ Mestor josie DBAS and Application DBAS.
+
++ Provide DBA supper for applications
+
++ Patcipat in 2487 pager supper rotation.
+
++ Parcipted on AS taining and migration proces fom cutest NPS platform oto TAS platform.
+
++ Envoument:DB2 UDB V10.5VIl, IDS 11, NPS NPS 72x Oracle i, 106 and 116, lfoomatica, Oracle Data
+Integratoq( ODD, KornBath Stall scripting, Pe, AUX, conta, TSM, EMC, Soli, Windows
+
+(032001 10102003. Se. Database Adminstrator
+
+Quality Custom Distribution — Fontana, CA
+
+Designed nd implemented the Enterprize Data Warehouse
+
+Provided ongoing support foal corporate UDB EEVEEE dasbass including backup / etre; pefoomance iin:
+renin instance, atomatingdatakase maintenance activities.
+
+Mestre junioe DBAS
+
+Tested and implemented software parades.
+
+Provided DBA support fe application.
+
+Helped in designing ETL. processes forthe DW project.
+
+Patipate in 247 pager sopor rotation,
+
+09/1998 0 032001 Database Adminstrator
+‘Two Inermationl Ine — Tampa FL
++ Responsible forthe development and exci of loads, expos, rusts and ers.
+Lod n backup and recover desien fr te Enterprise Data Warehouse.
++ Peformed lpia to physical data object transation.
++ Maintained secu; perfermance tuning.
++ Patcipatdin hardware capacity planing
++ Tested and implemented software upgrades to mule database envionment,
++ Implemented of a arg dimensional warehouse
+
+041996 0 091958. System Enginering/DB2 DBA
+EDS - City, STATE
+*+ Completed an graduate he, System Engineering raining program.
++ COBOL, ACL and JCL programmer anda DB2 DBA.
++ Envoument COBOL, ACL, ICL, MVS, TSO, DB2, Windows.
+
+EpucaTion an TRAINING
+
+1996 B.S: Computer Sclencea
+
+Juniata College - Huntingdon, PA
++ Conspleted professional devlopmest and waning in IBM DB2, Neterza
+1 EDS Sytems Engineer,
+
+Acrvmees asp Hoxons
+
+‘+ Math and Computer tr atthe local ary WEL (Weham Free Library (2009-2011)
+«+ Helped inthe Soup Kitchen at the Boston Food Bark (191 -1952)
+Accomprssimes
++ Obtained IBM DB2 and Netz certification.
+«+ Recogize a EDS MVP for ousting performance and tam contributions.
+“+ EDS Innovation Aad winner,
++ Consistently maitaine high customer satisfaction aings
+
+Wessrres, Portrouios, Prorntss
+
+«+ per inkedin confi Fesia Cai 0889853
+Cenrmcartoxs
+
+[BM Cenifed Solutions Expert DB2 Database Adanstation for UNDX, Windows and OS!2
+[BMC Neteza Technical Mastery Professional
+[BM Cerifed Specialist ~NetezaPatfoo Software v6, V7

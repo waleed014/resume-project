@@ -1,0 +1,176 @@
+Jessica CLAIRE
+
+100 Meocgomery St. 108 Flor # (55) 452-1000 # esamesampeexanple com
+
+Susman
+
+Lopical Data Analyst skilled in requirement analysis, software development and database management Self dvected and proactive professional
+‘ith 10 years of vast experience collecting, cleaning and interpreting data ets, Natural problem-sclver possessing song cros-fnctional
+understanding of information technology and business proceses, Qualified Business Intelligence Analyst versed in data mapping and wer
+acceptance testing to solve complex problems in igh pressure environments, Activates song analytical silt investigate trends in large
+amount of data and formulae conclusions bated on findings. Excels at clivating, managing and leveraging client relationships to foster
+extended engagements and business opportunities. Responsible and motivated stodent ready to apply edocation in the workplace. Offers
+excellent echnical abilities with software and applications, ability to handle challenging wotk and excellent ine management sill
+
+Sunuts
++ Compatibility Testing + Runing backups
++ Query Tools + Data ait
+‘+ Analytical Problem Solving + Vendoriparmerelatonships
+«+ Data Visualization and Presentations + Infastcture development
++ Configuration Management + VMware
++ Data Integrity Validation + Product development and improvement
++ Attention Detail, + Tomeat
++ Sequence Diagrams + Cybersecurity frameworks
++ Data Mining + Backup testing
++ Data Analysis + Serveinetworkconfigwation
++ Statistical Analysis + Cie
++ Data Quay + Application stacks
++ Clear nd Concise Communication + Ost nenwek ayers
++ Bosiness Intelligence Systems + Documestaton and technical articles
++ Budgeting and Forecasting + Coaching and taining
++ Data Compiling + Data Modeling
++ Process Improvement + Website analytes tools
++ Busines Analysis. + Wirefames
++ Database analysis + Analyte
++ Troubleshooting + Software Development Lifecycle
++ Performance Monitriag + Mutiasking
+EXPERIENCE
+
+Data Analyst 07/2006 - Curent
+Spencer Gifts, Lle~Chalote, NC
+
++ Worked witha team of database administrators to designed and implement Mutt
+
++ Analyzed competitive market strategies though elated product, markt or share ends
+
+‘+ Managed timely fw of busines intelligence information to users.
+
++ Communicated with customers, competitors and supplies to stay abreast of industy or basines tends.
+
++ Assessed programs to identify risks or problems to determine appropriate responses,
+
++ Managed diverse projects for data capt storage and forecast analysis
+
++ Mainained library of model document, templates o other reusable knowledge ase
+
+‘+ Auuite internal data and processes to identify and manage initiatives, improving business perfomance
+
++ Provided supporting informatio to substantiate research ndings.
+
++ Assisted imeration of intemal and extemal data tols and products, maintaining stability and performance across sytem
+
++ Actively participate in all phases of system development ie cele inching planning and analysis, design, development, and testing
+
++ Maintain application performance & scalability wit focus on (PTO)
+
++ Performance Tuning & Optimizing SQL quis, table design, indexing, quey plan analysis, databases & SQL servers.
+
++ Provide support for architec designs to enhance complex subsystems ike analytics engines
+
++ Design and implement Continuity of Busines solution, data warehouse slutions for SQL Sever databases inclding replication strategy
+and Active Active and Active Passive chusteing.
+
++ Create alerts, notifications, and email for system errs, atulicien resources, atl database ears, haar eos, and secusty
+teaches
+
++ Expoempor dat from che datasources like at les using SSISIDTS packages.
+
++ Setop Database Security and maintain accounts and acess levels by ceating suitable Logins and Roles and assigning object evel
+permissions.
+
++ Manage Dis space, Memory, and User Connections.
+
++ Schedule and moniter maintenance activites including database consistency checks and index fragmentation.
+
++ Schedule weekly jobs and Maintenance tsk for beter peeformance and created alerts with Database Mail SMTP,
+
++ Generated eports and obtained data to develop analytics on key performance and operational mts,
+
+‘+ Assisted with effors to tack, evaluat and sept on impact of proprams using multiple datasources
+
++ Synthesized business inteligence or end data to sopprt recommendations for ation.
+
++ Conducted data analysis to prepare forecasts and identify tends.
+
++ Leveraged software to compile and model data
+
++ Wentied neds of customers promptly and efficient
+
++ Analyzed and wacked data to prepare forecasts and identify trends.
+
++ Went and analyzed industry or geographic tends wit business statepy implications.
+
++ Wentiied or monitored current and potential customers using business intelligence tools
+
++ Collected business intelligence data fiom industry reports, public infomation or purchased sources.
+
++ Created or reviewed technical design documentation to ive accuracy of reporting sltons,
+
++ Analyzed and developed technical and functional specifications for databates serving upto 1000 employes.
+
++ Parmered with project management teams on development of cope and timelines.
+
++ Tested programs and databases to identify issues and make necessary modifications,
+
++ Administered, supported and monitored databases by proactively resolving database inses and maintaining servers.
+
++ Crested and implemented database designs and data models
+
++ Created scripts and proceses for data integration and maintenance
+
++ Maintained comples T-SQL. queries, views and stored procedures in mult database environment with ite sopervsion.
+
++ Followed standacd practices for migrating changes to test and production environments and provided techslogy suppor to meet business
+requirements
+
++ Implemented system enhancement to propote, devin and develop soktions to lil equets and address problem reports.
+
++ Produced highstandard dtaave solution o meet abil, elisbilty and performance metre.
+
+‘+ Wrote cits and processes for data iteration and bugfixes.
+
++ Tested and modified databases to determine and correc issues.
+
++ Developed data madels and database design o plan projects.
+
++ Partnered with data sient to support ongoing research and analytics initiatives,
+
+Data Analyst, 0672012 062016
+Wells Fargo — Evanston,
+
++ Partnered with data sient to support ongoing research and analytics initiatives,
+
+‘+ Auuited internal data and processes to identify and manage initiatives, improving business perfomance
+
++ Provided supporting informatio to substantiate research ndings.
+
++ Assisted ineration of internal and extemal data ols and products, maintaining stability and performance across systems
+
++ Tnteracted with nontechnical stakeholders to delve analyses and answer questions on deliverables.
+
++ Recommended metice and models based on observed trends.
+
++ Auuited intial datasets to confi validity of imported data, contoborating changes against updates in data taps,
+
+‘+ Worked with nteral teams to understand business neds and changing stategies.
+
+‘+ Assisted with efforts to tack, evaluat and sept on impact of proprams using muliple datasources
+
++ Generated teport and obined daa to develop azalstis on key performance and operational mets
+
++ Uilze data analysis to moniter process efficiencies and identify datainterity exceptions.
+
++ Collected, wacked and reviewed data to evaluat business and market wends
+
++ Synthesized business intelligence or tend data to support ecommendaton for ation.
+
++ Gathered and organized data to analyze cutentindsty tends
+
++ Wentfied and analyzed industry or geographic tends wit business statepy implications.
+
++ Collected business intelligence data fiom industry reports, pubic infomation or purchased sources.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Industrial Chemistry, 10/2010
+Abia State University Uraew

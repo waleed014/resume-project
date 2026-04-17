@@ -1,0 +1,77 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesample@example.com
+
+Professional Summary
+
+Results-driven Database Administrator with cyber security, relational databases and development/maintenance of complex and
+
+critical systems.
+
+Skills
+* Windows and Linux * System backups
+* System upgrades * Monitoring and performance tuning
+
+* Data backup and retrieval
+Work History
+
+Database Administrater, 2011 to Current
+Mantech International Corporation - El Paso
+« Installing Oracle software
+«Creating Oracle databases Start up and shut down the Oracle database
+«Managing the database's storage structures - tablespaces and redo logs Managing users and security
+* Managing schema objects, such as tables, indexes, and views
+* Making backups, performing restore and recovery when necessary
+* Proactively monitoring the database's health and taking preventive or corrective action as required
+«Monitoring and performance tuning Performing upgrades of the database and software to new releases,
+* Served as part of team of database administrator for Oracle and MS SQL running on various operating systems like windows,
+‘Linux and Unix.
+* Coordinated with systems partners to finalize designs and confirm requirements.
+* Diagnosed and troubleshooted UNIX and Windows processing problems and applied solutions to increase company efficiency.
++ Implemented company policies, technical procedures and standards for preserving the integrity and security of data, reports and
+
+access,
+
+Logistician, 03/2008 to 11/2010
+
+Northwell Health — Middle Island, NY
+* Reviewed new customer orders and requests and manually entered data into a centralized database.
+* Manually created shipments, assigned carriers and dispatched shipments.
+
++ Conducted qualitative and quantitative analysis of logistics operations using simulation models and other tools.
+
+‘Completed and followed up on all registration and traffic documents.Coordinated rush orders and order changes.
+
+Produced bills of lading and updated shipment status information.
+
+Guard, 03/2007 to 04/2008
+Cole Haan - Boca Raton, FL
+« Patrolled the facility and served as a general security presence and visible deterrent to crime and rule infractions Reported all
+incidents, accidents and medical emergencies to law enforcement.
+« Responded quickly to medical emergencies, bomb threats and fire alarms. Answered alarms and investigated disturbances.
+« Patrolled industrial and commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows
+and gates.
+« Issued security badges and visitor passes to all guests.
+* Checked passes and credentials of persons seeking to enter the property.
+« Performed thorough X-ray screenings.
+
+Sales Associate, 2005 to 08/2009
+Bed Bath And Beyond - City, STATE
+* Computed sales prices, total purchases and processed payments Described merchandise and explain operation of mechandise to
+customers
+* Placed special orders and called other stores to find desired items.
+
+* Recommended merchandise based on customer needs.
+
+Operated a cash register to process cash, check and credit card transactions.
+
+Guided customers in choosing items that reflected personal style and shape
+
+Replenished floor stock and processed shipments to ensure products availability for customers.
+Education
+
+Associate of Science: Cyber Security, Current
+
+University of Maryland University College Largo - Md
+
+Certifications

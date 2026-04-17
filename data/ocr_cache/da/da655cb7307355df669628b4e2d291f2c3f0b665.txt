@@ -1,0 +1,236 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Project Management
+
++ Scrum Master
+
++ Agile & Waterfall methodologies
+
++ Software Development Lifecycle
+‘Management
+
++ Scrum and Kanban Process
+
++ PEGA Business Process
+‘Management tool
+
++ JIRA & Rally Project
+‘Management Information
+system
+
++ Confluence Documents,
+‘Management tool
+
++ Splunk Log Analysis tool
+
++ ALM Defect Tracking tool
+
++ Oracle SQL Developer to use
+Oracle Database
+
++ MS Excel
+
++ Product Development , Process
+Optimization and Automation
+Digital Transformation ,Digital
+User Experience and Continuous
+Performance improvement.
+
++ Leadership , Strategic Planning,
+‘Meeting facilitation
+Requirement Gathering
+)Requirement Analysis and Root
+cause analysis
+
++ Resource and Schedule
+management
+
++ Excellent Communication and
+Analytical skills
+
++ Life Science, Banking and
+Finance domain
+
+EDUCATION AND
+TRAINING
+
+University Of California - Los
+Angeles
+Los Angeles, CA + 2021
+
+GRADUATE CERTIFICAE: PROJECT
+MANAGEMENT.
+
+Rajasthan Technical University
+Rajasthan « 2012
+
+BACHELOR OF TECHNOLOGY:
+ELECTRONICS AND
+‘COMMUNICATION
+
+CERTIFICATIONS
+
++ PEGA CERTIFIED SENIOR
+SYSTEM ARCHITECT
+
++ PEGA CERTIFIED BUSINESS
+ARCHITECT
+
++ PEGA CERTIFIED SYSTEM
+ARCHITECT.
+
+SUMMARY
+
+Customer-oriented and strategic-thinking leader with Project Management Certificate from University
+of California, Los Angeles and 8 years of experience in the Software Development Industry with deep
+understanding of Agile practices in the SDLC environment. Well-versed in all aspects of project
+management from inception to completion. Managed stakeholders from different industry domains
+and cross functional teams and successfully delivered projects in both Agile and Waterfall SDLC model
+for Large Enterprises. Managed Digital Transformation projects by proficiently being at the
+intersection of Business and Technology, providing intelligent automation solutions to resolve business
+and technology challenges and devised innovative solutions to optimize business processes.
+Possessing excellent communication, organizational and analytical capabilities and always eager to
+advance business goals through careful team management.
+
+EXPERIENCE
+
+Ibm Corporation - Technology Consultant (Contract))
+Costa Mesa, CA + 01/2020 - Current
+
++ Demonstrated excellence in leading the Production Support Process for the Allegation Platform and
+devised strategic solutions to optimize the entire process.
+
++ Delivered multiple small projects in both waterfall and agile SDLC models.
+
++ Managed Successful Agile Transformation of teams (Waterfall to Agile delivery model).
+
++ Collaborated with key stakeholders and product owners to develop project milestones, set the
+prioritization of deliverables and drove decisions necessary for on time delivery.
+
++ Lead kickoff meetings, conduct customer interviews, generate user stories & project
+requirements, manage communication with stakeholders, and run product demos.
+
++ Generated technical requirements from business needs and communicated it to the technical
+teams.
+
++ Collaborated with product and engineering tearn members to define and develop new product
+workflow models.
+
++ Established key performance metrics and manages team to take action outside their comfort zone
+to ensure program success when metrics deviate from Plan of Record.
+
++ Maintained vital business function throughout unexpected events, defects and managed
+remediation activities.
+
++ Managed Post Production Change Requests.
+
++ Utilized JIRA to manage product backlog for the creation, grooming, and prioritization of user
+stories.
+
++ Defined project plans and timelines, managed workflow and resources spread across the globe and
+achieved completion deadtines on schedule.
+
++ Managed road map for Support Portal product design and development.
+
++ Collaborated with cross-functional teams to draft project schedules and plans.
+
++ Updated and managed Project repositories in Confluence.
+
++ Oversaw workforce schedules and allocated resources in collaboration with Lead Architect in order
+to achieve project goals.
+
+Veritas - Business Technology Consultant (Contract)
+Dallas, TX + 03/2019 - 12/2019
+
++ Managed Digital Transformation of Business Processes.
+
++ Identified bottlenecks in processes and implemented new and improved procedures and poli
+ease friction and improve efficiency.
+
++ Collected and defined customer requirements to produce product scopes.
+
++ Managed Stakeholders including cross functional teams, application users and product owners.
+
++ Responsible for Business Process’s Workflow Optimization on PEGA platform.
+
++ Participated in Program Increment planning for the Agile Release Trail
+
++ Facilitated Sprint planning and User Story Grooming sessions.
+
++ Decompose business requirements into User Stories.
+
++ Facilitate meetings and troubleshooting sessions involving different cross functional teams.
+
++ Worked with Product Owners and Lead Architects to shape digital transformation strategy,
+architecture and processes.
+
++ Collaborated with internal technology teams and third party partners to define, design and deliver
+on user stories and customer demand.
+
++ Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to
+enterprise-quality testing and final implementation.
+
+ies to
+
+TATA CONSULTANCY SERVICES - Application Architect
+City + 09/2015 - 09/2018
+
++ Designed and Developed application for ZIMMER BIOMET (US-Based Global Medical Device
+Manufacturer) to track manufacturing process of medical devices.
+
++ Migrated legacy .NET based applications for AMERICAN EXPRESS (Banking and Finance) to PEGA
+Platform.
+
++ Created proof-of-concept prototype applications for demonstration and evaluation purposes.
+
++ Conducted Requirement gathering and analyses of business needs.
+
++ Devised intelligent automation solutions to resolve bottlenecks and optimize the process.
+
++ Supervised offshore development team.
+
++ Conducted product demos and functional knowledge sharing sessions.
+
++ Conducted full life-cycle software development in multiple software environments.
+
++ Communicated with stakeholders and gathered feedback from customers about progress updates
+and worked to resolve specific concerns.
+
++ Collaborated with development team members to create and integrate high availability solutions
+for PEGA applications.
+
++ Performed functional, non-functional, regression and performance tests for updated systems.
+
++ Conducted root cause analyses to formulate countermeasures to business missteps and improve
+operations.
+
+ACCENTURE - Software Engineer
+City + 12/2012 - 09/2015
+
++ Post Production project maintenance of application for COVANCE (US bases contract research
+organization) built on the PEGA platform to aid in conducting research on various drugs.
+
++ Implemented enhancement features to improve product functionality and extend performance.
+
++ Conducted root cause analyses for Production issues and either formulated workarounds and
+solutions or suggested Change Requests.
+
++ Communicate status updates to stakeholders and close issues as per agreed SLAS.
+
++ Maintain quality by perform testing activities (Functional, System Integration, User Acceptance).
+
++ Provided input on deadlines, designs and enhancements.
+
++ Documented technical specifications and project testing methods for future reference and other
+assignments.

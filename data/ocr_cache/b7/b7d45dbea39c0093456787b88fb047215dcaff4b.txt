@@ -1,0 +1,117 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Experienced Data Professional with over 25 years of experience in Information Technology and 12 years in Data Integration and Data
+‘Warehousing applications. Excellent reputation for designing, developing , troubleshooting, improving customer satisfaction, and driving
+overall operational improvements with strengths in DataStage, DB2 ZOS and LUW, SQL, Redshift, Aurora PostgreSQL, Data Modeling,
+Cobol 185, ete.
+
+Good Knowledge of AWS cloud infrastructure with implementation of Data Integration and Data Warehousing applications in the AWS cloud
+during the last 2 to 3 years.
+
+Looking for Lead or Managerial Role in Data Warehousing and Cobol-DB2 Applications.
+
+Semis
+‘* Data Integration, Data Warehousing Management * SQL Proficiency, Programming, Shell scripting
+* DataStage Versions 11.7 & 11.3,8.7&7.5 * Cobol, CICS, DB2, VSAM, JCL,
+* Data Modeling, Technical Analysis, Process Improvement © TSO/ISPF, SPUFI, QMF
++ RDBMS (LUW DB2 and ZOS DB2, RedShift, PostGreSQL) * Customer Service, Meeting Deadlines, Communication Skills,
+* Agile, Jira, SVN and GIT Organizational Skills
+* DB2 ZOS and DB2 LUW © Leadership, Teamwork, Quality Assurance, Process
+« AWS, S3, Presto, Hive Improvements
+‘© Workflow Management and Process Scheduling
+* Python and Java Batch Programming
+Worx History
+
+01/2017 to 07/2020 Lead ETL Developer
+Adp — Seattle, WA.
+
+‘* Designed, developed and implemented data integration applications to combine data from multiple, varied data
+sources such as RDBMS, SQL, flat files, CSV files, and data sources from legacy installations. Designed,
+developed and optimized complex SQLs
+
++ Also, maintained Cobol and DB2 Applications and automated build of control cards and maintained DB2 Plans and
+Packages for DB2 SQLs
+
+‘© Designed and developed applications flows using DataStage sequences and/or enterprise workflow scheduler
+(UCA) to achieve high-degree of efficiency and utility
+
++ Collaborated with business users, other teams & with team members and produced customized and superior ETL
+solutions for specific goals
+
+‘* Managed and lead the team using superior technical and business knowledge
+
+© Mentored other team members in use of SVN, GIT, DB2/SQLs, DB2 Views, DataStage, Cobol, etc
+
++ Verified performance and reliability of ETL and data transformation solutions via extensive testing, found solutions
+for performance issues and fixed issues
+
+‘© Utilized code versioning systems such as SVN and GIT to reduce development times
+
+«Interpreted data models for conversion into ETL diagrams and code
+
+‘* Designed and created ETL/ data integration applications aiding in transitions from one data warehouse to another
+
++ Consulted with DBAs, data architects and users to determine system loads and develop data extract and load
+improvement plans
+
+* Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements
+
+‘* Authored code fixes and enhancements for inclusion in future code releases and patches. Managed data quality
+issues during ETL processes and addressed them based on priorities and user needs
+
+‘© Worked closely with business users to establish requirements, specifications and data mappings. Evaluated project
+requirements and specifications and developed ETL applications that surpassed client expectations
+
+‘* Developed next generation integration platform for internal applications
+
+01/2011 to 12/2016 Senior Application Developer
+Caterpillar — Westmoreland, KS
+
+‘© Designed , developed and implemented ETL solutions and Data Warehousing solutions of company that met and
+exceeded process and operational requirements of business users
+
+* Designed and Developed Cobol, DB2 and CICS Applications and automated build of control cards and SQL binds
+for different environments. Maintained DB2 Plans and Packages for DB2 / SQLs
+
++ Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases
+
+© Lead and migrated ETL Applications from 8.7 to 11.3
+
+‘* Also, developed batch Java applications for couple of years
+
+09/2006 to 12/2010 Application Developer
+Ibm Corporation — Cincinnati, OH
+
+‘* Designed , developed and implemented ETL solutions to read and transform data from mainframe and LUW DB2
+databases and provide data in XML/ FIXML to external and internal users.
+
+‘* Designed and Developed Cobol, DB2 and CICS Applications and automated build of control cards and SQL binds
+for different environments. Maintained DB2 Plans and Packages for Cobol-DB2 Program SQLs
+
+‘* Maintained and supported ETL applications.
+
+‘* Provided excellent support for Production installs and Production teams
+
+04/1998 to 09/2006 Programmer Analyst
+Genesco Inc — Chapel Hill, TN
+* Designed, developed, and maintained software applications at client installations using Cobol, DB2/SQL, CICS,
+IDMS, ADSO, JCL, ISPF, etc.
+‘* Responded to and remedied critical issues that could not be addressed by junior members of team.
++ Documented program development and revisions and followed SDLC.
+‘© Worked in team-driven environments and communicated effectively with all stakeholders.
+
+Epucation
+
+ov/i991
+National Institute of Information Technology - India
+Diploma in Systems Management
+
+1985 GED
+
+AU. College of Engineering - Vizag, India
+BSS. in Electrical and Electronics Engineering

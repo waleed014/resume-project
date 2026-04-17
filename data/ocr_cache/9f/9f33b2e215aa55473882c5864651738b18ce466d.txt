@@ -1,0 +1,186 @@
+Jessica CLAIRE
+
+‘in Francisco, CA 94105 © 555 42-100» renumesampleeexamplecom
+
+Professional Summary
+
++ Over 8 yeas of experienc in Information Technology aba Ed Datatage developer inthe areas including ETL design,
+development, Production support and Maintenance
+
++ Extensively worked on Dimensional modeling, ata migration, Data cleansing, ETL Proceses for data warehouses.
+
++ Worked in Agile and waterfall models, Onshore Otshove project envizonments.
+
++ Extensive knowledge ofthe most advanced tools and applications aiding the execution of datastage design and development
+functions
+
++ Good understanding of the principles of Data Warehousing using fac tables, dimension tables and star/snowflake schema
+modeling.
+
++ Extensively used Ascental DataStage Desgnes fr creating Datatage Jobs and created Shared Containers for reusability.
+
++ Extensively Used Datastage (ETL Tool), Oracle PLSOL, UNIX, MS Products to Exteact, Cleanse, Transform an load data to
+target systems wit right format and level of detail.
+
++ Having experience in trouble shooting existing datastage applications, testing migrations and ob scheduling tasks.
+
++ Good Knowledge on Data Warehousing Concepts, data modeling and other concepts
+
++ Ability to pevform under deadlines, good individual and team player
+
++ Possess exceptional written and verbal communication sil
+
++ Able to work on oven initiative and as part of team and ability to acquire product knowledge and improving the knowledge
+‘through selfearing,
+
++ Sound domain knowledge of testing banking and e-commerce modules.
+
+Skills
++ ETL Tools IBM Infosphere Datstage, SAPBODS + ABAP, IBM AIX. AIX, APL banking, C, Cet, change
++ Data Modeling Tools Star & Snow-Flake schema Modeling, __ management, ClearCase, Cognos, hardware, Crystal Reports
+Fact and Dimensions, Physical and Logical Data Modeling, 70 clients, Data Integration, Data Modeling data
+Enwin,Cognos QuikView + validation, data warehouse, Data Bases, database, database,
++ Data Bases Oracle, MS SQL Server, Manfesscae, DB2, DataStage, debugging, Dimensions, DHTML, Ervin, ETL,
+Teradata XML, features, financing, Forms functional, gateways,
++ Languages/Scriptng C, C-,PLISQL, UNDX Shell sits, _goveenment, Graphics, GUL HP-UX, HTML, IBM, DB2, DB2
+HIML, DHTML, XML. 94, insurance, Lin, logic, Director, Mainfesica, meetings,
++ CUI Developer 2000 Forms, Graphics, Reports and Report WINDOWS, Windows XP, migration, Modeling Enterpric,
+Server), Ceystal Reports 70 navigator, Operating Systems, Oracle 9, Developer 2000,
++ Other tools TOAD, SQL navigator, DB grip, Teradata SQL Oracle, DB, PL/SQL, PERL, project management, Qa, ead,
+Assistance retail SAP BW, SAP, SAP 5.1, Scheduling, ULC shell cpt,
++ Operating Systems IBM AD Linux, SOLARIS, HP-UX, Shalt
+wINDows + Scripts Scripting SOLARIS, MS SOL Server, SQL, tables,
+phones, Teradata, Test Director, TOAD, Transformer, HP-
+UNIX, UNDX, UNDC shell seripts, UNIX sxipting upgrading
+Work History
+
+(QA Tester, 05/2016 t 062018,
+Ger Incorporated - Covington, LA
+
+«+ Project: Commerce Description - Verizon Wireless commerce application provides enhanced features to its customers,
+
++ Ieprovides ability to shop phones, plans, features, and accessories online.
+
++ This Data Integration project which consolidates data from different zones into one single Enterprise Data warehouse.
+
++ Responsibilities.
+
++ Designed and developed jobs for extraction of data from diferent dataeeds into IBM DB? database
+
++ Coded many shel script for efficient job scheduling
+
++ Worked on preparing the test cases and testing ETL jobs and data validation
+
++ Developed parallel jobs using various Developmentdebug stages and processing stages (Aggregator, Change Capture, Change
+Apply, SAP ABAP Extract tage, [Dec Stage, BAPI Stage, Fite, Sort de Merge, Fann, and Remove Duplicate Stage),
+
++ Wosked on change management system on code migrations from Dev to QA to Prod environments.
+
++ Performed debugging on thes jobs using Peck stage by outputting the data to Job Log ora stage
+
++ Extensively worked on building ETL interfaces to ead and write data from DB2 databace using DB2 Enterprise tage and DB2
+API Stage
+
++ tavolved in funtion and technical meetings and responsible for cresting ETL Sousce - to - Target aps
+
++ Modifying the existing jobs and Hash ile according to the changing business rules.
+
++ Loading the Historical data into the Warehouse,
+
++ Developed jobs for transforming the data and stages lke Join Merge, Lookup, Funnel, Transformer, Pivot and Aggregator.
+
++ Experience with Scheduling tool Autosys for automating the ETL proces.
+
++ tnvolved in developing a Control Module forthe complete process using PERL and UNDX scripting.
+
++ Worked on documenting technical design documents and source to target (STD) documents,
+
++ Involved in Unit Testing Inegration testing and UAT Performance Testing.
+
++ Worked with Embarcadero to interact with DB2
+
++ Envizonment IBM Information Server 85 (Designer Dicector and Administrator), QualityStage, Test Diector, ClearCase,
+AutoSys, K Shel Scripts, SAP ECC RS, SAP BW, DS Extract PACK for SAP 5:1BMDB29.1, ADX5.3, Embarcadero for DB2.
+
+(QA Teste, 12/2014 062016
+Ger Incorporated -Heatheow, FL
+
++ Project: Project One Description - Insight provides technology solutions including hardware software to business and
+_government lions in North America, Europe, the Middle East, ica and Asia-Pacific.
+
++ This project involves Extracting the data from heterogeneous source system transform them using busines logic and load into
+data Reeponsiiies Involved in all phases of DLC.
+
+«+ Responsible for cresting detailed design and source to target mappings.
+
+«+ Responsible to communicate with business users and project management to get business requirements and translate to ETL
+specifications.
+
++ Used DataStageQualtyStage Designer to imporexportjobs table definitions, Custom Routines and Custom Transformations.
+
++ Created Extract Transform and Load (ETL) interfaces and gateways for backend database
+
++ Designed Mappings between Sources to operational staging targets using Star Schema, Implemented logic for Slovsly Changing
+Dimensions (CD)
+
+«+ Extensive hand on experience on design and developing Parallel and server jobs,
+
++ Extensively worked on building datastage jobs using various stages lke Oracle Connector, Funnel, Transformer stage, Sequential
+fle stage, LookUp, Join and Peek Stages.
+
++ Extensively used Sort Merge, Agsregator, Peek, DataSet and Remove Duplicates stages
+
+«+ lnvolved in the migration of DataStage jobs from development to QA and then to production environment
+
++ Created shared containers toute in tiple jobs.
+
++ Hands on experience upgrading datastage from v7.5 to Information Server 81.
+
++ Imported and exported Repositories across DataStage projects using datastage designer
+
++ Extensively worked on DataStage Job Sequencer to Schedule Jobs torn jobs in Sequence
+
++ Envizonment IBM Information Server 81 DataStage and QuaityStage Designer Dizectory and Administrator), Oral 10g,
+‘Cognose v0, PLISOL, HP-UNDK 11 Tead for Oracle
+
+ETL Developer, 042013 to 1272014
+‘Austin India
+
++ Bank of India provides commercial banking retail banking various insurance schemes, consumer financing mortgage banking
+and investment services.
+
++ The project involved enhancing web banking, web Bll pay and web investment services.
+
++ The modified web banking module greatly reduced the response time and show up-to-date transactions activity ina secure
+‘environment thats available at any time
+
+«+ Roles & Responsibilities:
+
++ Gathered and analyze the business requirements
+
++ Designed and developed ETT jobs using various Active and Passive stages in parallel obs using Designer.
+
++ Extracting data from source systems ike oracle flat ies and transforming them using business logic and loading the data tothe
+‘business tables
+
++ Extensively used Datastage Designer to develop vasious obs to extract, cleanse, transform, integrate and load data into data
+warehouse database,
+
++ Extensively used processing stages like sort. aggregator, transformer Stages in developing jobs
+
++ Created and implemented datastage routines.
+
+«+ lmproved performance ofthe jobs
+
+«+ Involved in Design Source to Target Mappings between souses to operational staging targets
+
++ Performing unt testing on the jobs developed
+
+1 Keni source systems, thei connectivity, elated tables an fields and ensure data suitably for mapping.
+
++ Envizonment IBM-Datatage-.(Pazallel Jobs), Oral i, Windows XP/UNDX
+
+Education
+
+‘Bachelor of Engineering (B.E): Computer Sdence and Engincering
+Hyderabad

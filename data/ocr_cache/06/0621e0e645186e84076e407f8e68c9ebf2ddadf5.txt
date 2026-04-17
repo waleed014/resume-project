@@ -1,0 +1,184 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ PL/SQL, Oracle PO, INV, |
+PROC, Sourcing
+
++ Others: MS Word, MS Excel, MS
+Power Point
+
++ Ticketing Tools : Service Now/
+JIRA
+
++ Implementation, Support,
+Testing
+
+EDUCATION AND
+TRAINING
+
+Graphic Era University
+Dehradun + 06/2016
+
+B.Tech: Computer Sc. And
+Engineering
+CGPA: 8.6
+
+R.D.M Saraswati Public School
+Haryana + 03/2012
+
+HSC(XI)
+CGPA: 7
+
+R.D.M Saraswati Public School
+Haryana + 03/2010
+
+ssc(x)
+CGPA: 8
+
+SUMMARY
+
+Having 6+years of IT experience that includes Oracle Apps SCM Functional Consultant and SAP APO
+Associate Consultant. Strong familiarity with purchasing applications, Sourcing, Iprocurement and
+Oracle Apps Inventory. Extensive work experience in Oracle R12 Production Support and
+Implementation. Worked on P2P Cycle, O2C Cycle, | Procurement and | Supplier. Knowledge in AOL
+activities like Defining Responsibilities, Value sets, Flex Fields, Reports, Request Group and
+Concurrent programs. Impressive ability to perform setups along with deploying the development
+changes in Oracle Applications. Experience in SAP Demand Planning, Supply Network Planning, Core
+Interface (CIF). Comprehensive communications skills
+
+EXPERIENCE
+
+Infosys Ltd - Consultant
+Redmond, WA + 07/2021 - Current
+
++ Client : vMware
+
++ Project : Oracle Testing Project
+
++ Module : Order Management
+
++ Responsibilities & Skills:
+
++ Assigned to work on Custorn Modules - Bookings & Commissions
+
++ Prepare the test cases and scenarios as per the requirement from business in given Sprints and
+perform UAT Testing
+
++ Doing execution in OM and Custorn Modules - Bookings & Commissions
+
++ Handling basic testing queries related to Order Management functionality
+
++ Responsible to upload and execute Test Cases in ALM (Application Lifecycle Management)
+
++ Raising the Defects in Jira
+
++ Good understanding of Order Management module
+
++ Hands on experience in PL/SQL to perform basic technical requirements.
+
+Healthstream - Associate Consultant
+San Diego, CA + 01/2019 - 07/2021
+
++ Client : Airtel Africa
+
++ Project : Oracle EBS Production Support
+
++ Platform : Oracle Applications Release 12.1.3
+
++ Module : INV, PO, Sourcing, Iprocurement Responsibilities & Skills:
+
++ Responsible to provide SCM functional support to 12 African Countries in day-to-day activities
+
++ Interacted with clients and end-users to resolve issues
+
++ Coordinated with technical consultants, DBAS and Oracle support team
+
++ Strong experience in functional modules: Inventory, Purchasing, Iprocurement, Sourcing and
+analysis on Oracle Financials Modules
+
++ Involved in Item Creation Process, Supplier Creation Process and Quality Plans and some custom
+processes
+
++ Fully involved in P2P cycle and along with knowledge of O2C cycle , IR-ISO process
+
++ Identify areas for business process improvement and efficiencies, make recommendations to
+improve existing processes or system functionality
+
++ Working on incident based on agreed Service Level Agreements
+
++ Provide the period close support for the SCM modules
+
++ Defining Buyers, Positional hierarchies, approval routing, and receiving options
+
++ Detailed knowledge in overall process of Bids, Auction, Quotation, RFQ’s
+
++ Hands on experience in PL/SQL to perform basic technical requirements.
+
+Healthstream - Associate Consultant
+Louisville, CO + 01/2018 - 12/2018
+
++ Project : Oracle Implementation
+
++ Platform : Oracle Applications Release 12.1.3
+
++ Module : Inventory and Purchasing, Involved in Go live Phase and support at ERP life cycle
+implementation
+
++ Covering Requirement, Setups, Testing, User Training & Post Implementation support
+
++ Extensive experience in requirement gathering facilitation, preparation of use cases and business
+requirement documents, business process mapping
+
++ Analyzed and designed custom objects like Forms, Reports, Interfaces to meet the business
+requirement
+
++ Designed Custom Process for Creation of Items and its approval process
+
++ Different level of Quality Plans are implemented in Production to approve Items having different
+Category and Locations
+
++ Responsible for creating new Inventory Organizations, Approval Hierarchies for PR, create or
+change profile options, lookup codes, Hierarchy Rules, Conditions etc
+
++ AS per business requirement responsible for creating new Responsibilities and assigning Request
+Groups as per requirement
+
++ Conducted UAT Sessions and configured UAT Instance for entire scope of implementation.
+
+Wipro Technologies - SAP Associate Consultant
+City, STATE « 07/2016 - 12/2017
+
++ Client : Electrolux
+
++ Project : SAP Plan to Manufacture
+
++ Platform : SAP ECC, SAP APO, SAP BW
+
++ Module : SAP APO DP,SNP, Worked in APO Demand Planning and Supply Network Planning for EMEA
+and USA geographies Production Support that include more than 31 sales organizations in Supply
+Chain Process
+
++ Removing inconsistencies of Transactional data via Reconciliation Report (CCR).
+
+ACCOMPLISHMENTS.
+
++ Extensive work experience in Implementations , Support and Testing Projects
++ Oracle Certification & Workshop
+
++ Oracle Cloud Infrastructure Foundations 2021 Certified Associate
+
++ Oracle Cloud Inventory Management Implementation Workshop
+
+WEBSITES, PORTFOLIOS, PROFILES
+
++ www.linkedin.com/in/Jessica-Claire

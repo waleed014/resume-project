@@ -1,0 +1,149 @@
+Jessica Claire
+
+© morigomery Steet San Francisco, CA #105 1S (85) 432-1000 4 resumesanple@exarpte com
+
+PROFESSIONAL © Successtl database acmintator wih seven (7) years of experience In atabase development and
+SUMMARY |  producon enarorments Proven sks nsecurty management database mantenace ad estabtsing
+Backup ana recover processes to sateguar dala. eb-versed n varus preparing languages, Nuss
+‘FSaL and SOL Enthutaste OBA eape fo contut eam success hough haré wok atenton to dela
+and excelent organzatona sa. Expenencen databace development and production enwronments, Areas
+Ct erpertse incuse mantenance and secunyProactve in estatsting backup and recovery processes and
+roto to potect and retan valuable company data
+
+SKILLS + Database creaton ‘+ Data comersion and migration
++ Backup and recovery “+ eroson Powersnet
+4 Montonng and Perfomance ting + attesting
++ atabase porace. pacing and Migraten + Database anayis
+1 sonwarestaaion and Waitenance + Woubiestectng
+1 atabase Bacryp ana Recovery + Petomance Montorng
+capac Paning Database development
+*atabase Tung + sa Poversutser
+soo contotanguage IL) ‘implementing secuty measures
++ wing uenes ‘+ Reatena Database Management
++ Contrucus process provement Rung baauss
+{ata xacton. Transformation and Loading + Osta aust,
+2 secty
+WORK HISTORY (> OATABASE ADMINISTRATOR ‘272017 @ CURRENT
+‘chenegs Mos Klean, TK
++ Eperencea tn desing. managing and developing SOL Serer endronment or erent
+appicatons on an eterpie scale
++ satasoncontguration of SOL SERVER 20088R2, 20122014, 20168 2017, 2019 Bah UATIDEV
+PROD servers
++ Perform ana Monitor day ass suchas Backups & Restore matenance obs, handing
+developers requests and users persons et
++ mplemerteg, and manana (HA) igh Avalaatyconiguratons ke Log Sipping, Catabase
+rong, Repieaton and Falover Cusenng as apart of HADR Plan.
++ lore win team of database agmntators to desgned and implement MUste
+1 aver custenng For eaeal production database i ateret datacenter ene on PREM and the ner
+Im AZURE for DR purposes.
++ Eipenence ad very knowledgeable in seting up SOL. server and aay on AG for business crcl
+appicaons ang databases.
++ Experience mn troblesootng ays on flower ess, making sue replications happening between
+primary and secondary repcasin he alras-on sup
++ Sone streamate sie apeaonsare abe comed eames ne ee the
++ Contgureisetup Serer Propertes tke Memory Opbons, MAXDOP. CTOP, Database Setings ete
+1 Checking Database Consstencyneath by using DBCC SConmands DMVS a eguar eas
++ Actively patcipate in at phases of sjstem deveopnentte cyceIncuang planing and aah,
+design, deveopent an estng.
++ Marian appicaton perfomance & scalabty wna focus on (PTO)
+1+ ertormance Tuning & Opting SAL ques able cesgn indexing, query lan ana, databases
+S01 seners
++ Prowse suppor tor arentctral sesso ennance comple subsystems ke ans engines.
++ Design and implement Contry f Busnes scutes, data varenouse olor fr SOL Serer
+databases incingrepcaton stategy ana Actve-Actve and Acne Passive csterng
++ create alerts, notions, and ema for system ers, nsutientresoures, fatal database eres
+haronae eto ana ecury beaches
++ porumpod data rom oer data Sources ke fates wig SIS pactapes
+{setup Database securty and mann accounts and acces eves by creating sable Logis ana
+oles and assigning object eve permissions.
++ Manage Os space. Meron, ana User Connectors
++ Schedule and menor maintenance ates meus database consistency checks and index
+tragmentaton.
++ Baensiety won on Perfomance Monor SOL Prose, OMS, OMFS and OTA o tune the databases,
+servers ana quer tig
++ Utzed ne query store ne fealure mn SOL server 2016 and 2017 troblesootng database quan
+perfomance relate sues and created baselnes and ganing insight into query ans.
++ Senedule wee jobs ana ainierance tasks for beer perfomance and creates ales wh Database
+at suTP
++ Contgure database mantenance plans for backups, reindexng ana reorganization of indents,
+Cleanup istry. ad update statistics. rebcaonimgraton of databases tom one server fo anotner
+Using atach ana each database tasks o backup ana restore
++ Maton of aS SL sere astabases toe company’s Goud irate
++ Anatyaed ana developed tecnnical aa uncial spectcatons for database Serving upto 1000,
+employes.
++ arnere wn project management tears on development of scope and nein.
+‘Testes programs and databases o Went issues and make necessary moacatons
++ amnstered, supported ana mentored aalaases by proactive resolng database ssves and
+manianng severs
++ Creates ana mplemertes database dsins ana data models
+1 create snp ana processes or dala eegraon and maintenance
+‘+ MartanescomplexT-SOL quenes, ves ad stored procedures m mu database enonment vith
+ie superson
++ Flore standara practices migrating changes oes ana production environmen and provided
+tecnnoiegy supporto meet business requrements
++ mpemertea system enancement to propse, design and develop solitons out requests and
+adress problem repr
++ Produces high -standaré database stitons to meet sabi relay and perfomance mets.
+ote sets ana processes for data negation and bg hes.
+SGD SERVER DATABASE ADMINISTRATOR oxn01sto 102017
+acobs Engineering Group in. Charleston, $C
++ Martane complex -SOL quer, views ad stored procedures mut database envionment wih
+ite spersion
++ Flore standarspractes or migrating changes oles ana production environmen and provided
+tecnnoogy supporto meet business equremens
++ Designed ana nplenented TSOL quenes for eparing and comple soliton development.
+{reduces ngh-standard databace solitons to meet ably, relabiy and perfomance mets
+1 rote sents ana processes for datainegraton and bg aes.
+{estes and moses databases oaetemine and caret tues
+{eveloped doa modes and daabase designs to plan poets
+1 Deveope septs or nex and tale anatssacons.
++ Pertormes quaty assurance processes to suport data warehouse mprovenents
+1 Setup ana contoted user prties ana acces eves or each database segment to protect portant
+a
++ Aamnsterea, supped ana mentored databases by proactive fesohing database ssues and
+maitaneg sever.
++ Moatesexstng aatbases to meet unque needs and goals delemined dung lial evauaton and
+panning process
+‘S00 SERVER OATABASE ADMINISTRATOR 8 2019t0 042018
+acobs Engineering Group In. Chester, PA
+‘+ Martane complex -SOL ques, views ad stored procedures mi mu database erionment vith
+ie superson
++ hanagea wenona ndependenty bt cotaorated wh caleagus to compete ager Scale tasks a
+dstiotes tam enwonment
++ Flore standara practices or mating changes oes ana production enviroments and provided
+tecnnoiegy supper 9 meet business requrements
++ Designed ana implemented TSI quenes foregoing and complex soliton development
+create optima tecnica! solitons to use needs trough research andin-depth system ana
+‘Planned and implemented secury measures o safeguard vial business dl.
+‘Tested programs and databases to dent sues and make necessary moadcatons.
++ Cooranated wen projet management iat on datatase development tenes and project Scope
+1 pementea 6 soitn tamewark fo: endo-en business inetigence projets
+‘+ -Aamnsered, supported and rontores databases by proacve resing database sues and
+mamtaneg seners
++ Setup and contoted user proties and acces levels or each database segment to protect mportant
++ Creates and plement database designs and data models
+{ote and marae techincal an unchnal specications to document dalabase mentors and
+requrements
+ircacHCUN 082011 032013
+Denaitek| Anchorage, AK
++ Setupharoiare ana sonwarein opal contguratons to meet network perfomance equremenis.
++ Managed syste operating system ana sotvare deployment, s wel as related sotware
+upgrade protien
++ Deivered near tecnology traning tno team menbers and end-users, emnancng
+‘ronegebase ana team produc
++ Estapaned, repared and optmaea netvrs by istaing wong, caing and devices
+1 broke doun an evaluates ser poten, Ug test crs, personal experise an proting questons
++ Configured haravare, devices ana sofware ost up work stator for empoyees.
++ Patened sotvare and isa new versions to eamnate secury problems ana protect ta.
++ Mariaines ana montored sever rom, wiless network and oer server rastuctre, KEEPING
+systems runing erecwvey ana eon
++ Creates suppor documentation at empowered and enabled user conmunt) extend Sis, erage
+system features ana rescions to quesons witout merventon fom supper tam
++ Removed maiareransomware and one heats rm laplops ana aes systems.
+‘+ Respondeato support equests om end users ana patent wake nda ough base
+troubleshooting tas,
+EDUCATION <> Bachelor of Science | Compute And infomation Scences 102010
+
+‘Abia State University, Utara
+
+CERTIFICATIONS MCDBA

@@ -1,0 +1,128 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
+Java, Matlab, Python, TensorFlow,
+Oracle, HTML/CSS, AWS,
+JavaScript, teamwork,
+‘communication time-management,
+presentation skills, customer
+service, language fluency Projects
++ Code reviews
+
++ HTML and XML
+
++ Javascript
+
++ Python
+
++ A/B testing
+
++ JDBC
+
++ JSP
+
++ Tomcat
+
++ Advanced critical thinking
+
++ Superior time management
+
+EDUCATION
+
+Florida Institute of Technology
+‘Melbourne, FL + Current
+
+‘Master of Science: Computer
+
+Engineering
+
++ Emphasis in Machine Learning
+
++ Advanced Computer Science
+courses
+
++ Data structures coursework
+
++ Trained in Algorithms
+
+CERTIFICATIONS
+
+Diploma in Java, NUIT
+Achiever of the Month, Oct 2014
+AINS 24 - General Insurance for IT
+and Support Professionals,
+
+PROFESSIONAL SUMMARY
+
+‘Advanced knowledge of Java and Matlab Self-directed and motivated Software Engineer who works
+effectively in a dynamic environment. Fluent in Java, Matlab and Python,
+
+WEBSITES, PORTFOLIOS, PROFILES
+
++ Jessica.azurewebsites.net
+
+ACCOMPLISHMENTS
+
++ Neural Network Using Different Descent Methods 3-layer neural network is implemented using back
+propagation algorithm.
+
++ Iteration count required to converge is found using 3-fold cross validation Weight parameters are
+updated using batch and stochastic gradient descent methods.
+
++ Effects of using variable learning rate to attain faster convergence rate is also observed.
+
++ Accuracy of the neural network is computed using two datasets, iris, and car evaluation.
+
++ Decision Tree Using ID3 Algorithm Decision tree is generated using ID3 algorithm to classify data.
+
++ attributes with higher information gain is placed on top of the tree.
+
++ Pruning is implemented to improve the accuracy of the decision tree.
+
++ Accuracy of the rules generated before and post-pruning is computed using two datasets, iris, and
+car evaluation.
+
+WORK HISTORY
+
+Xylem Inc. - Devops Engineer
+Lexington + 03/2015 - 10/2015
+
++ Designed HA infrastructure for web based applications.
++ Supervised monitoring of load present on EC2 instances.
+
++ Performed storage of data in cloud using EBS, Glacier, and $3.
+
++ Coordinated site level DR deployment for DNS failover in multiple regions with Route 53.
+
+Software Developer
+
+10/2013 - 03/2015
+
++ LOT InfoTech, Navi Mumbai Performed CRUD database operations.
+
++ Presented functionality changes to peers.
+
++ Customized, debugged and tested Java code.
+
++ Reviewed and submitted code versions to version control hub Coordinated code reviews with the
+programming team that involved remote members.
+
+INTERESTS
+
+Diploma in Java, NIIT Achiever of the month award, L&T InfoTech AINS 24 - General insurance for IT
+and Support Professionals Co-curricular Activities Belaku, NGO Cultural Committee, KS Institute of
+Technology Jessica. azurewebsites.net
+
+ADDITIONAL INFORMATION
+
++ Honors and Awards Diploma in Java, NIIT Achiever of the month award, L&T InfoTech AINS 24 -
+General Insurance for IT and Support Professionals Co-curricular Activities Belaku, NGO Cultural
+Committee, K S Institute of Technology Jessica.azurewebsites.net

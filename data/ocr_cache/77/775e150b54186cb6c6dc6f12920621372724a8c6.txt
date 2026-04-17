@@ -1,0 +1,166 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Flor # (585) 4321000 # resumesampleseample.com
+
+‘Summary
+
+Experience and expertise in Database Design, ETL, Data Warehousing (DWH), and Reporting Development using MS SOL Server
+2017 to 2012, SRS and Power BL. Worked with all phases of Software Development Life Cycle (SDLC).Collaborated and worked
+‘with business users and development staff like business analysts, data architects, back-end solutions developers, testers, DBA and
+application developers to understand/determine requirements for on time delivering and with scalability, Worked extensively with
+‘T-SQL and building OLTP/OLAP databases at conceptual, logical and physical design levels, normalizing and de-normaizing
+database tables for efficient relationships operation and analytic though ER diagrams and Erwin Strong RDBMS concepts and
+‘experience in creating and maintaining database objects, views, stored procedures, triggers, functions, indexes, and constraints. Wide
+‘expesionce in building static, dynamic and interactive seports; dashboards and story, report templates and formatting using BIDS
+and Report Builder. Experienced in data cleansing, accuracy and completeness validation, analysis, and modeling relationship.
+Experienced with full evelopment cycle of a DWH, including requirements gathering design, implementing, and maintenance.
+Experienced in ETL solutions that extract data from heterogeneous sources like Access, Excel, and CSV; flat files using connectors,
+tasks and transformations provided by SSIS, Proficient in creating dynamic SSIS packages for Incremental Loads and used change
+data capture (CDC) contol task that makes efficent data loading, Experienced in Configuring Batch Logging. Error Logging. event
+‘handlers and Connection Managers in $515. Developed, configured, deployed and monitored SSIS packages for development, testing
+‘and production with parameter and environment variables and scheduled job in SOL Server Agent. Experienced in designing
+Enterprise Star Schema, Snowflakes, and OLAP cubes. Experienced in database server performance tuning and optimization of
+‘Complex SQL queries. An excellent team player and technically strong person who has capability to work with business users,
+roject managers, team leads and architects, thus maintaining heathy environment inthe project and diligence helping business on
+‘unleashing technological power for decision making, Fleuble and versatile to adapt new environment, team player, flexible and
+work on any project.
+
+Skills
++ Tools and Technology + Reporting: SOL Server Reporting Services (SSRS), Report
++ RDEMS: Builder, and Power BI
++ SQL Server 2008/2008R2/ 2012/2014/2016 + Languages: FSOL
++ Database/ETL Tools: SSIS, + MS-Office: Microsoft Office Tools
+
++ Operating Systems: Windows Server 2012/2016
+
+Experience
+
+‘SQUDashboard Developer, 01/2021 to 02/2022
+[Neogenomics Laboratories - Fresno, CA
+
++ Involved in creating functional and technical specification documents (TKD)
+
++ Involved in requirement gathering with client and various vendors
+
+«+ Perform SSRS and Power BI Dashboard data load in all environments
+
+«+ Perform data validation against Production Dashboard data
+
++ Troubleshoot ETL error for production data load
+
+«+ Designed and developed ETL to pull data from source such as flat files and load it tothe destination databace using multiple
+
+‘eansformations
+
++ Unit tested $818 package natively and with a master package
+
++ Deploy SSIS package tothe server
+
++ Modified and enhanced existing SSRS reports
+
++ Worked with OLAP, Data Warehouse application, and star schema dimensions
+
++ Developed T-SOL Queries and SQL Scripts for data migration/schema change
+
++ Extracted data from various sources like SOL Server and Excel file and perform extensive data analysis,
+
++ Created and modified database objects like Tables, DML, DDL, Views, Stored Procedures, Functions, triggers, and Indexes in T-
+
+SQL based upon the functional specifications
+
++ Involved in data analysis and design session for KPI Reporting
+
++ Collaborating with other Developers
+
++ Navigate Healthcare financial data
+
++ Environment: MS SOL Server 2012, Microsoft Visual Studio 2010 and MS Excel
+
+‘SQUBI Developer, 08/2018 o 11/2020
+‘Vanderbilt Medical Center!NTT Data Service - City, STATE
+
+«+ Involved in creating functional and technical specification documents after gathering requirements from business
+
++ Created database objects like Tables, DML, DDL, Views, Stored Procedures, Function, Join, and Indexes in T-SQL based upon
+the functional specifications
+
++ Developed complex T-SQL Queries and SOL Scripts for efficient data load based on complex business rules
+
++ Designed complex ETL strategies to pull data from different sources ike SOL server, and flat files and load it tothe destination
+database after using multiple transformations
+
++ Extracted data from various sources like SQL Server, Flat files, XML and Web services from Client servers and through FTP.
+
++ Extensively worked on developing database objects like Stored Procedures, Views, Indexes, Triggers and Functions using T-SQL
+and performance tuning of SQL Queries
+
++ Developed SOL queries using stored procedures, common table expressions (CTES), temporary table to support Power BI and
+SRS reports
+
++ Wrote T-SQL procedures to generate DML scripts that modified database objects dynamically based on Inputs, scheduling the
+51S packages using SQL Server Agent Services
+
+‘+ Worked with OLTP, OLAP, Data Warehouse application star schema dimensions
+
++ Exact dataset from different data source including SQL Server, excel and flatfile and prepare datasets for Power BI
+
+«+ Designed and Developed Reports using Report Builder to easly generate reports by the user
+
++ Setup ETL Jobs using SSIS to run daily in SQL Server Agent
+
++ Configuring SSIS packages using package configuration wizard to allow Packages run on different environments
+
++ Created PL/SQL stored procedures, functions and packages for moving data from staging area to data mart
+
++ Used SQL Profiler and Query Analyzer to optimize DTS package queries and stored procedures
+
++ Created SSRS Parameterized, Drill Down, Drill Trough, Sub, Chart, Dashboard and Scheduled Reports, with expressions to
+Calculate, Group and Filter data; some with XML data sources
+
++ Generated multiple reports from SQL Server Database (OLTP) and multidimensional data model (OLAP)
+
++ Environment: MS SOL Server 2016/2014,2012,2008 Microsoft Visual Studio 2015,2010, MS Access, MS Excel, MS Visio, SQL Server
+Profiler, Windows Server 2008
+
+MS SQUETL Developer, 02/2016 0 0772018,
+Ford Credit - City, STATE
+
++ Worked closely with SME's end usersfinternal customers to understand project/equirement scope and involved in providing
+solution to implement or support production issues
+
++ Involved in the logical and physical data models of databases and prepased test cases for existing solution and new solutions to
+validate the solution met requirements
+
++ Created Stored Procedures, Triggers, Functions, Indexes, Tables, Views, SQL joins and other T-SQL code to implement business
+rales
+
++ (used CTE, temporary tables, user defined table types)
+
++ Performed T-SQL tuning and optimization of queries for reports that take longer execution time using MS SQL Profile, Index
+‘Tuning Wizard and SOL Query Analyzer
+
++ Exwacted data from heterogeneous sources and transformed, processed the data sing SSIS
+
++ Scheduled jobs for SSIS packages to run monthly/weekly/daily feeds
+
++ Created SSIS packages to load data into Data Warehouse using Various SSIS Tasks like Execute SQL Task, bulk insert task, data
+flow tas; file system task, send mail task, active seript task, xml task and various transformations
+
++ Deployed various types of SSIS Transforms in packages including slowly changing dimension, aggregate fuzzy lookup,
+conditional split, row count, derived column ete
+
++ Used TFS for source code management of developed codes/version contol
+
++ Migrated SSIS 2012 version to 2014 and used custom created DLL for transfer files using SFTP connection
+
++ Debug through Cr NET code to troubleshoot production isaues and created unit tet methods for validation of codes developed
+
++ Created Alerts/log entries for successfully completed and failed jobs
+
++ Environment: SQL Server 2008/ R2/2012/2014, BIDS, Visual Stadio 2010/2013, T'SOL, MS Access, MS- Excel, SIS, SRS, SSAS,
+Windows Server 2008R2
+
+Education and Training
+
+Bachelor of Science: BBA: Computer Information System, 12/2015
+Middle Tennessee State University -Musfresboro, TN

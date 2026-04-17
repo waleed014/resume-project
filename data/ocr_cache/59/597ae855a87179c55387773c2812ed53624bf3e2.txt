@@ -1,0 +1,219 @@
+Jessica CLAIRE
+
+‘Montgomery Stee, San Francisco, CA 94105
+
+(655) 452-1000 resumesanple@evample com
+
+Provessionat SUMMARY
+
+SQL Developer wih yeas rotssve experince in esl roblems wah application and database tems, databases nd aplication
+‘wing. Self ve popramsoe with song aptitude fr nterfice with developers, nevork,vituazaton, storage and systems operations
+team to ese problems with plication and datbare ye, Serve a oppor for dtbare aminiain tats and Adair a
+rote 247 applications a jem, developing atomated ales o wa of fle to bul appropriate and fil deliverables, Cris
+‘hiker ofeing high performance in SQL management sto and rata plication in database to deliver and prodcea god es
+
+‘The in of tpt job want isa
+sah develope,
+
+Seaor Sl Server Dabase Administ
+salarchtere
+
+s
+
++ Mcrosot SQL Server SQL undetanding, tong ability 0 wodk
+‘independently 2nd manaze co's ine Strong knowledge of
+‘compute software, such 5 SQL, Visual Base, ral, et
+
++ Am proficient wi SQL Server 200520082008 R2 2012 &
+2014 optimisation, nen an scalability echnigns wih
+Sngledge of SIS Strong knowledge of MS Office produce
+
+1+ SQL Server Server Manapemest
+
++ Abily to aply dened knowledge of ergasizatonal procedures
+to mak independent decision and serve a credible resource
+{ora enor management team
+
++ Strong interpersonal sil, wien and verbal communication
+Strog decison making, pobem solving sil, cia thiking
+and esting kil
+
++ Strong kowedze of computer sftare, sch SQL, Vis
+‘Bai, Oracle, ete management Systm (RDBMS), MS SQL
+Server 2000 SQL development
+
++ Strong kowedge of computer software, sch 2s SQL, Visual
+Basic, Oracle ete
+
++ Koowlege of High Avablty (HA) and Dieter Recovery
+(8) option fr SQL Saver
+
+Wort History
+
++ SQL Server proficiency SQL and databases
+
++ Good knowledge of High Avalabty (HA). Always On and
+Disaster Recovery (DR) options for MSSQL Server
+
++ SQL Serve, Tera DBA, Micros Sl Serve Iteration
+Sere (SSI5)
+Disaster Recovery Planing
+tusering
+
+1 Nexo server management
+
++ Suppor Ticketing Systems
+
++ Teal Teas Communications
+
++ sytem Standards Documentation
+
++ Organization
+
+112018 001/2020, SQL Database Adminstrator
+
+Asre Federal Holding Company ~ Denver,
+
++ Creed opin wee solusions tower ees ough esearch and depth system analysis
+
++ Provides teil diction fr RDBMS software delivery. Design, ecommends, and implements backup aed
+recovery policies and procedures, Prcipatsin business contin design & implementation plas. Establish
+<abte standards, plc, nd procedure nd drives fo team to adere to standards
+
++ Setup and coatlled wer profile and acces level fr ech ataave spent to poet impo ats.
+
++ Perfo: abtanced daaseadmiseatonmaitenance tasks (cules danced leisvation such
+replication, encryption cistern. parioning creating & reviewing complex wor plas)
+
++ Modified existing databases to meet weique neds ad goals determined ding inital evaluation ad planning
+ocess.
+
++ Hey and resolve complex database nus independently in a nel manne, atanced woubleshootin. Opens
+& wok tickets with RDBMS vendors; bls ote team members ve vendors to rescition
+
++ ets loa problems an drives to stantadiae and coret eos the econyem,Inpleniets & docsmete
+rocedesto ae ie ues
+
++ Makes recimmendaton fo dal operational check; evens eve! manazemet let and mal, and aise
+signing ats of vector and process.
+‘Writes complex shell powersbel, REXX, or ote srps
+
+‘+ Werks with cos functional ens on designing hgh performance database slton for projective
+‘Understands lst an appli level concep conponent fra given aplication,
+Paro aabcetuang and performance analysis, sat application level consultation a requzed
+
++ Thorough knowlge of mainiame storage administration
+Proficeny in mainframe performance monitors (RMF, Omegamen, Siew)
+
++ Thewough udertning of dtabane eltonal modeling, sign concerts, & npleenttos
+
++ Nanaia database serves and processes, inching mnstorig of system ath nd perfomance tent bigh
+levels of pefomance,avalaby, nd seu
+
++ Apply da modsingtchaique to ensue SQL mpemtatons & iterations meets or excend performance
+Tndpentetly analyze, solve, and conection eal tin, providing poten rxton eno
+
++ Papa in migrations for ostomers
+
++ Paice in vprades.
+
+1 Keep time en pt date within 24 hous
+
++ Advise customers oa hada ad ceasing questions
+
++ Ensure that eustorners rave appropriate maintenance in pac inching backups, index maintenance,
+coasistency checks and satis maintenance
+
++ Suppor SSIS, SSRS,SSAS solutions fr customs
+
++ Performance ing
+
++ Adninisers SQL databases, monitoring backups, pace wiztion, and softrare upates.
+
++ Weeks with Operations Lead to matin solid backyp and secoery ate fr allobal datas
+
++ Reviews backup ad ecovery sratepy quarters and works with Operations o maintain nd tet sate ecoery
+dacs
+
+042017 0092018. Sql Server DBA,
+
+[Nbe Universal = Phoenix, AZ
+
+«+ Perform SQL administrative aks inten installing and perading SQL. server rods, ceating maintenance
+ans, and creating database objets
+
++ asl configu and deploy MS SQL Servet Pevfm capaci planing, perfirmance using. montrng,
+twobleshooting and otiization of daabases
+
++ Prepares wets by conducting taining; providing information; esobing problems
+
++ Desgngg and using system oad sess esting exalating plicaon problems vendors
+
++ Standardize and manage Database Adina procedure or monitoring Gb perfomance texting,
+sxchving, 2nd optimizing
+
++ Maintenance and sport of SQL server Miorng, Log shiping, Cheng, and aber methods of disse
+secotery
+
++ Built useful reporting dtverabls to property dotmes analysis ress and prove perfomance improvemeat
+feoftack for more thn 30 times
+
++ Creed opis tecnica aluions ower ads ough esench and i depth system analysis
+
++ Developed and produced hih-standarddatabave solos to met stably reliability and perfomance meice
+
++ Response forall Dabase Operations inclog planing configuato, woube shooting, monitoring. ecty
+configuration and miprions
+‘Build & Manaze SQL Server datas ia mip enticement, fom development to mision-crical production
+systems
+(Configure and mairnin database serves 2d processes, nlding monitoring of stem health ed performance, 1
+ase high eves of perfomance avait, and sey
+Apply data modeling ehnigues to esue SQL inplemenatins & inteprations meets or exceeds peeermance
+requiements
+Independently anal, sole, nd cores ee in eal ine, providing problem reson co 0-8
+Design and implement reduants:tem, polices and pocedues fr dtr recovery and data aching
+caste fete pete nd step of dataset
+‘Monitor, pimize an allocate pial aa torage fr database ystems,
+
+(0120161032017 Junior SQL Server Database Developer
+
+“Ama Health Spara, IN
+‘+ Taceasedcostme satisfaction by escting sues wit mangement stsios
++ Supping duster ecoveryincling database mioing and repiation|
++ Resled backups problems improved operations and proaded exceptional cet sport
++ Creing and maicaining jobs
++ Designing an creating SQL. Server tables
++ Astin in SQL Serve pinion incodingindening and query optinizaion
++ Creed Stored Procedures, User Defined fonctions & Triggers
++ Creuad SSIs Packages ia BIDS
++ Created and Deployed SSRS Reports in BIDS
++ Devoted special emgbasisoponcaly an worked to maintain oustanding atedance ect, consistently
+sntving to work ready to start immediately
++ Drow operational inprovemeat which reed in savings and improved prof mange
++ Resolved conflicts and neotited mutually beneficial areements between partis more than 20 consecutive tie
++ an, coordinate and manage data migrations an replication between systems.
+etl, pleat, and eit change cond and texting process Sr meiicaias to dtbuns,
+Parcipted in 2247 On Call Rotation,
+Experience with HADR technology for RDBMS mentioned above,
+
+(01/2014 112014 Application Support Analyst
+
+DC Logistics Ciy, STATE
+* Conducted and sopperted implementation delivery wih client an ineraldeparents
++ Colsborated with developers, aly and project managers to expedite incident soins.
++ Provided 247 suppor for web- and client based application, lean data feeds and batch processes to prevent
+inpacto basics
++ Analyzed and woublesotategraton nus related o system configuration, ats, map and wed
++ Tasted, configued and provided ongoing configuration management fer 10 exstom applications
++ Accommodate delivery challenge specific o SiS delivery envionment
++ Performed sate aplication and duater recovery testing to puaratee busines readiness fllowing floss
++ Led an ated iterations sess an operatna proeses io itiznte ks
++ Demonstated advanced knowledge of satwae delivery lifeycle and varied delivery metndoogy,
+
+Epvesntox
+os01s DATABASE ADMINISTRATOR
+
+‘THE TECH EDGE - Peaches Inui Bd, Adana, GA 30360
+Information Technology
+
+Central Georgia Teenlcal College Macon, GA

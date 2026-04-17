@@ -1,0 +1,159 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor
+(855) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+DevOps Engineer with 6+ years of hands-on experience in architecting/ automating and optimizing mission critical deployments over large
+infrastructure. Proficient with configuration Management tools, and in developing CU'CD pipelines.
+
+Semis
+
++ Experience in migrating applications to both AWS and Azure
+cloud platforms.
+
+« Extensive experience in setting up CI/CD pipelines using tools
+such as Jenkins, Maven, Docker, Nexus, Artifactory, Slack and
+Azure pipelines.
+
+* Strong experience in automating infrastructure setup on AWS
+cloud and Azure Cloud using Terraform.
+
+« Extensive experience in distributed Agile and Scrum
+methodologies to develop best practices for software development
+and implementation.
+
+« Strong experience in working with version control systems such
+as Git, GitHub, Bitbucket, Azure Repos.
+
++ Experience working with developing scripts and automation tools
+used for building, integrating and deploying software releases to
+multiple environments.
+
+* Strong hands on experience in scripting languages such as.
+Groovy, ISON, YAML, Shell scripting. Strong experience in code
+quality and code coverage tools such as SonarQube and JaCoCo.
+
+Worx History
+
+* Good knowledge of virtualization and container technology like
+Docker. Experience in creating Dockerfiles and working with
+Docker containers.
+
+* Have good knowledge in Kubemetes and have setup clusters in
+Amazon EKS, Azure AKS Strong exposure in Ansible for
+‘managing software installations, patch management to servers
+
+* Strong knowledge on practicing TDD, automating Junit tests
+using Maven in Jenkins.
+
+* Strong knowledge in Tomcat, WebLogic servers on different
+Operating Systems.
+
+« Participated in the release cycle of the product which involved
+environments like Development, QA UAT and Production.
+
+* A highly motivated, energetic individual, a team player with
+excellent communication and inter-personal skills.
+
+11/2020 to Current ~DevOps Engineer
+
+Centric Consulting ~ Seattle, WA
+
++ Monitored automated build and continuous software integration process to drive builditelease failure resolution.
+* Worked with software development and testing team members to design and develop robust solutions to meet client
+requirements for functionality, scalability and performance.
++ Tam responsible for migrating applications into AWS
+cloud by creating CU/CD pipelines using Jenkins.
+« Set up CUCD pipelines for Microservices and integrated tools such as Maven, Github,
++ SonarQube, Nexus, Docker, Slack for providing immediate feedback to DEV teams after
+
+code check-in,
+
+« Provisioned Dynamic Jenkins Docker slaves using DockerHost for CICD Pipelines
+* Wrote Ansible playbooks from scratch in YAML.
+
++ Installing, setting up &amp; Troubleshooting
+
+Ansible, created and automated platform environment setup.
+« Set up Git repositories and SSH Keys in GitElub for Agile teams.
+
+* Integrated GitHub web hooks into Jenkins to automate the code check-out process.
+
+«+ Implemented the setup for master slave architecture to improve the performance of Jenkins,
+
++ Imported existing infrastructure into Terraform using Terraform Import command.
+
+* Created Dockerfile and automated docker image creation using Jenkins and Docker.
+
++ Automated infrastructure provisioning on AWS using Terraform and Ansible.
+
+* Created nightly builds with integration to code quality tools such as SonarQube.
+
+* Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds
+
+when conditions not met.
+
++ Rebuild of entire existing platform over to Docker containers.
+
+* Setup Kubernetes clusters using Amazon EKS.
+
+07/2018 to 10/2020 DevOps Engineer
+Centric Consulting - Boston, MA
+
++ Monitored automated build and continuous software integration process to drive builditelease failure resolution.
++ Tam responsible for managing Azure resources in cloud and maintain Continuous Integration and
+Continuous Deployment (CU/CD) pipeline for fast paced robust application development environment.
++ As amember of onboarding team, my responsibility is to implement DevOps transformation by
+working with Agile teams to migrate applications to Azure platform.
+«# Setup repos on Azure Git, merging code from develop branch to master branch and make it
+
+ready for deployment.
+
++ Migrated legacy applications to Microsoft Azure Cloud PaaS by setting up CU/CD pipelines on
+
+AzureDevOps.
+
+* Created WebApps (PaaS solutions) on Azure portal for deploying web applications using
+
+Azure DevOps pipelines,
+
+* Setup AKS clusters in Azure using Azure CLI.
+
++ Created nightly builds with integration to code quality tools such as SonarQube, Veracode.
+* Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds
+
+when conditions were not met.
+
+* Set up the SonatL int plug-ins in developer's workstation for detecting defects early during
+
+development.
+
+Built and deployed Docker containers to break up monolithic app into micro services,
+improving developer workflow, increasing scalability, and optimizing speed.
+
++ Implemented Release management workflow for QA, UAT and Prod environments.
+
+«Prepared and presented SCM best practices for implementing continuous integration for the
+
+team.
+
+06/2016 to 06/2018 Java Developer
+Charles Schwab Corporation — Plantation, FL
+
+* Collaborated in team-based, Agile environment to accomplish objectives by deadlines.
+* Participated in requirements gathering and design development meetings.
+
++ Developed robust Java code for Netbeans, Eclipse applications.
+
+* Designed, developed and implemented software applications for website based on analyzed requirements and
+
+understanding of industry technical standards.
+
+Epucation
+
+08/2008
+University Of Ibadan - Nigeria
+
+Bachelor of Science: Human Kinetics And Health Education

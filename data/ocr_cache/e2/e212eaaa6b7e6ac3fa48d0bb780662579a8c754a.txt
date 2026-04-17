@@ -1,0 +1,158 @@
+‘SUMMARY
+
+SKILLS
+
+EXPERIENCE.
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor *& (655) 432-1000 4 resumesample@example.com
+
+65 years of experience in the field of DevOps Engineer in application configurations, code compilation,
+Packaging, building, automating, managing and releasing code from one environment to other and
+deploying to servers.
+
+44+ years of overall experience working in DevOps, Atlassian Administrator and tools lke Trello,
+TeamCity and WhiteSource
+
+Experienced in Jenkins by installing, configuring and maintaining for purpose of continuous integration
+(Cl and for end to end automation for all build and deployments and creating Jenkins Cl pipelines.
+Hands on experience with EC2, $3, RDS, VPC, ELB, EBS, Auto scaling
+
+Experienced in branching, merging and maintaining the versions using SCM tools like Git and Gitkiub on
+windows and Linux platform,
+
+Experienced in Project Management and issue tracking tool like JIRA,
+
+Experienced in the creation of Docker containers and Docker consoles for managing the application life
+cycle.
+
+Creating custom Docker Images using Docker file for easier replication of DEV and QA Environments in
+local machines.
+
+Performed and deployed builds for various Environments like QA, Integration, UAT and Productions.
+Environments,
+
+Configured and monitored Kubernetes Cluster on Prometheus and Grafana
+
+Strong analytical and problem-solving skills and can work either independently with litle or no
+supervision or as a member of a team,
+
+Critical thinking DevOps Engineer with extensive understanding of high availabilty architecture and
+concepts. Purpose-driven professional with capacity to be strong team player plus work effectively
+independently.
+
+Good written and verbal communication skills, strong organizational skills and a hard-working team
+Player, well-practiced in attending phone calls and answering business team queries.
+
+To seek and maintain ful-time position that offers professional challenges utilizing interpersonal skil,
+‘excellent time management and problem-solving skills,
+
++ Version Control Systems - Git ‘+ AWS - Amazon EC2, S3, RDS, ELB, EBS, Auto
+
+© Cl-Jenkins scaling,
+
++ Build Tools - Maven ‘+ Scripting Language - Python
+
+‘+ Ticket Tracking Tool - Atlassian JIRA ‘+ Web server - Apache Tomcat, Nginx
+
+‘+ Containerization Tool - Docker + Database - Oracle SAL Server, MySQL
+
++ Orchestration Tool - Kubemnetes ‘+ Monitoring Too! - Prometheus and Grafana
+
+‘+ Operating System - Windows , Unix + Configuration Management - Ansible
+DEVOPS ENGINEER 08/2019 to 12/2022
+
+Bio-Techne | Houston, TX
+
+DE:
+
+Used Jenkins tool to automate the build process
+Installing and configuring Jenkins master and slave nodes. Built CUCD pipeline and managing the
+infrastructure as Ansible.
+
+Have experience in cloud platform like AWS.
+
+Worked in GIT to manage source code.
+
+Deployed the applications to Tomcat Application Server and static content to Apache web servers.
+‘Automated the continuous integration and deployments using Jenkins, Docker and Kubernetes,
+Installed, Configured, and Managed Monitoring Tools such as Prometheus and Grafana from various
+‘systems and applications.
+
+‘Worked on Docker container to create Docker images for ditferent environments.
+
+Responsible for taking the source code and compiling using Maven and package It in its distributable
+format, such as a WAR file.
+
+Implemented process for release management, automated code deployment, configuration
+management, and monitoring,
+
+JOPS ENGINEER 11/2018 10 07/2019
+-Techne | Kansas City, KS
+
+Worked with cross-functional design teams to create software solutions that improved overall
+functionality and performance.
+
+Monitored automated build and continuous software integration process to drive build/release failure
+resolution.
+
+Collaborated closely with product development teams and other stakeholders
+
+Drove project itespan from concept to final rollout in development and deployment.
+
+Documented project design for reference and future use cases on Confluence.
+
+Worked with software development and testing team members to design and develop robust solutions
+to meet client requirements for functionally, scalability, and performance.
+
+Implemented best practices to protect data and assets.
+
+‘AVS DEVOPS CONSULTANT 12/2016 to 11/2018
+Unisys | City, STATE
+
+Collaborated with cients to target issues and uncover methods that would increase operational
+efficiency.
+
+Supervised client meetings to disseminate proper information and encourage participants to share
+ideas.
+
+Implemented processes and procedures to improve overall efficiency in operations.
+
+‘Adapted quickly to changing project priorities and job speciications with analytical thinking and task
+priotization skis,
+
+Conducted research and analysis to develop model-based solutions to complex operational problems,
+Developed written documents and reports related to programs and operations
+
+Participated in team projects, demonstrating an abilty to work collaboratively and effectively
+
+‘Assisted with day-to-day operations, working efficiently and productively with all team members
+Selt-motvated, with a strong sense of personal responsibilty
+
+Masters | Information Systems 05/2023
+Stevens Institute of Technology, Hoboken, NJ
+
+3.97 GPA
+Teaching Assistant for Cloud Computing Jan 2022 - May 2023,
+
+Pcot Graduation Program | DevOps 05/2023
+Purdue University, United states
+Certification
+
+Post Graduation Program from Perdue with association with Edureka
+
+Masters | Computer Science 07/2016
+Dayananda Sagar Institutions, Bangalore
+
+Jz helors | Computer Science 72013
+
+K.LE Society $. Nijalingappa College, Bangalore
+
+AWS Cloud Practitioner
+AWS Cloud Foundations
+mya

@@ -1,0 +1,177 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+QUALIFICATIONS
+
+Languages: SQL, UNIX Shell
+Scripting, XML, PUSQL
+
+Databases: MS SQL Server, MS
+‘Access, Oracle 108/9i/8i
+
+Tools: MS Office Suite, Word
+Perfect Operating Systems:
+Windows XP/2007/8, Sun Solaris
+9.0/8.0, Linux 8.0
+
+Business Intelligence: Crystal
+Reports XI and XIR2 Web Design:
+Vignetter, Dreamweaver
+
+EDUCATION
+
+University of Monroe (Formally
+Northeast Louisiana University
+Monroe, LA + 1989
+
+Bachelor of Arts: Fashion
+‘Merchandising/Marketing
+Fashion Merchandising/Marketing
+
+National Center for Paralegal
+Training
+Atlanta, GA + 1995
+
+Associate of Applied Science
+
+PROFESSIONAL PROFILE
+
+Talented IT professional specializing in leading high-performing and multi-disciplinary teams from
+product development through successful product launches. Accustomed to managing multiple projects
+and priorities in fast-paced environments.
+
+SKILLS
+
+administrative, content, client, clients, client interaction, excellent customer service, customer
+service, customer support, databases, documentation, features, leadership, marketing, messaging,
+processes, programming, progress, quality, safety, UI design, websites
+
+* good communication skills with excellent leadship qualities** strong analytical skills and logical
+thinker * able to multi-task and still provide through and accurate results detail oriented"* fast
+learner and adaptable to changing environments** good orginizational and problem solving skills
+
+EXPERIENCE
+
+Crowe Horwath - Database Developer
+Costa Mesa, CA + 2015 - Current
+
++ Worked on large enterprise and business critical applications.
+
++ Gathered and analyzed performance metric data.
+
++ Microsoft Visual Studio (strong experience)
+
++ S8is
+
++ SRS
+
++ SSAS
+
++ Created cubes, dimensions and business critical KPIs using SQL Server Analysis Services
+
++ Developed detailed and summary reports using SQL Server Reporting Services
+
++ maintenance and support for existing reporting
+
++ database maintenance, deployments and performance monitoring
+
++ writing T-SQL, writing stored procedures, SSIS packages for batch jobs
+
++ Designed, developed, and implemented SQL Server database used for reporting, along with
+procedures to extract, transform and load data from production OLTP databases. Developed T-SQL
+stored procedures, user-defined functions, views and ad hoc queries to support reporting
+requirements. Supervised two other developers and streamlined processes to greatly increase the
+group's efficiency, resulting in fewer resources needed to support the same workload. Worked with
+other departments to assess and support their reporting needs, maintaining good relationships
+with department heads to continuously support changing report requirements. Created and
+maintained geospatial data using Mapinfo for all localities in the contiguous 48 states and
+automated mapping processes using MapInfo MapBasic. Developed reports for new databases often
+with little or no application or database documentationDesigned reports using Crystal Reports, SQL
+Server Enterprise Manager and Reporting ServicesDeveloped software applications to facilitate and
+automate common data extraction tasks and printing Crystal reports. Proactively identified and
+resolved data quality issues in production databases, where appropriate.
+
+Weyerhaeuser Company - Site Operations Manager.
+Santa Clarita, CA + 2008 - 11/2014
+
++ Created innovative and intuitive product features such as [Example].
+
++ Completed an average of [Number] personal UI design, code reviews, and programming projects
+each quarter.
+
++ data feeds from inception to over 300 feeds
+
++ created process
+
++ worked with developers worked with product team and 3rd party providers.
+
+‘Motorola Solutions - Product Manager
+Kentucky, AR + 2006 - 11/2007
+
++ Partnered with the marketing team to translate product features into customer value propositions
+to be used in consumer messaging.
+
++ Led the development team that created the web and mobile user interfaces for [Product name].
+
++ Translated technical specifications into detailed product requirements.
+
++ Led communication with stakeholders regarding product goals and progress made.
+
++ Translated business goals, feature concepts and customer needs into prioritized product
+requirements and use cases.
+
++ Created innovative and intuitive product features such as [Example].
+
++ Established criteria for each milestone within the product roadmap as a means to measure
+developmental progress.
+
+Walkme - Professional Services Manager
+Denver, CO
+
++ Managed wide variety of customer service and administrative tasks to resolve customer issues
+quickly and efficiently.
+
++ Developed reputation as an efficient service provider with high levels of accuracy.
+
++ Investigated and resolved customer inquiries and complaints in a timely and empathetic manner.
+
++ Provided an elevated customer experience to generate a loyal clientele,
+
++ Worked closely with product team to develop and maintain content.
+
++ Assumed ownership over team productivity and managed work flow to meet or exceed quality
+service goals.
+
++ Facilitated inter-departmental communication to effectively provide customer support.
+
++ Met all customer call guidelines including service levels, handle time and productivity.
+
++ Managed more than 10 customer service staff
+
++ Optimized client interaction and followed through on client issues which increased client
+satisfaction and earned a reputation with clients for providing excellent customer service.
+
+Adient - Production Manager
+West Point, GA
+
++ Developed training materials and procedures.
+
++ Recommended and executed quality improvements for production and product quality.
+
++ Drove daily production activities with effective communication and leadership.
+
++ Managed documentation of and training on production procedures and work instructions.
+
++ Implemented performance, quality and efficiency measures to achieve aggressive production
+goals.
+
++ Designed new processes that increased the overall production of the team by 25% in one year.
+
++ Worked closely with developers to create applications for clients and internal users to update the
+content on the websites.

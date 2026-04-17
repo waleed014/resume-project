@@ -1,0 +1,85 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000  resumesampleGexample.com
+
+Summary
+
+Proactive Sr. ETL Developer with 13+ years carefully handling and transforming data loads to suit customer needs. Versed in all
+dominant information modeling designs and mapping technologies. Dedicated to flawless ETL integrity and impeccable data
+
+security during all database maintenance and modification tasks.
+
+Skills
+* Informatica Powercenter (9.x,10.x) * SQL Server
+« Hadoop - Hive, Impala, Pyspark JIRA
+* AWS Services - $3, Athena, Redshift, Glue, Spectrum etc. * Confluence
+* Alteryx * Bitbucket
+
+Tableau, Hyperion
+Oracle Exadata (SQL)
+Database modelling (Star/Snowflake)
+
+Unix Shell scripting
+
+Service Now, Winscp, Putty
+
+Experience
+
+Lead Data Engineer, 10/2020 to Current
+Cox Communications Inc- Elkridge, MD
++ Worked with business analysts to gather and define project requirements.
+* Deployed business logic frameworks for model implementation.
+* Coordinated system installations, testing and code corrections.
++ Supervised team of developers in analysis and creation of mappings.
+* Defined technical integration strategy and developed integration plans.
+* Migrated the data from on-prem to AWS services.
+« Assessed code during testing stage to determine potential glitches and bugs.
+* Collaborated with support team to assist client stakeholders with emergent technical issues and develop effective solutions.
+
+Sr.ETL Developer/A pplication Development Team Lead, 04/2017 to 09/2020
+Kemper — Bordelonville, LA
+* Coordinated specifications and requirements for project technical needs.
+« Participated in team meetings and provided input on deadlines, designs and enhancements.
+* Developed and implemented Spark (Python) code while observing coding standards.
++ Recommended improvements to facilitate team and project workflow.
+* Reviewed project requirements to identify customer expectations and resources needed to meet goals.
+* Analyzed code and corrected errors to optimize output.
+* Used Informatica BDM 10.x to create mappings, workflows and tasks.
++ Worked with business analysts to gather and define project requirements.
+« Identified, debugged and fixed system bottlenecks and problems.
+
+ETL Lead Developer, 12/2009 to 03/2017
+Toyota Motor Sales - City, STATE
+« Participated in intra-organizational staff meetings to coalesce company-wide efforts around meeting prescribed business goals
+
+and addressing client concerns
+
+Worked as part of project teams to coordinate database development and determine project scopes and limitations.
+
+Trained non-technical users and answered technical support questions.
+
+Developed and managed enterprise-wide data analytics environments.
+
+Exceeded customer satisfaction by finding creative solutions to problems.
+
+Created and implemented complex business intelligence solutions.
+
+Junior ETL Developer, 07/2007 to 11/2009
+Cognizant Technology Solutions, CTS - City, STATE
+* Designed customized technical solutions to meet functional specifications outlined by customers.
+« Assisted in User Acceptance Testing for customers, verifying ETL jobs complied with all assigned parameters, achieving
+milestones.
+* Defined and documented ETL data mapping plans using Informatica Power center.
+
+* Developed and managed enterprise-wide data analytics environments.
+
+Education and Training
+
+Bachelor of Electronics and Communication Engineering: 2007
+Anna University - Chennai
+GPA: 81
+
+Certifications
+
+* Certified in Alteryx Designer Core.
+* Certified Agile/Scrum methodology.

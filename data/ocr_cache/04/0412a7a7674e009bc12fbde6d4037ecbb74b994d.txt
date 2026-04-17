@@ -1,0 +1,163 @@
+SUMMARY
+
+SKILLS.
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+Montgomery Street, San Francisco, CA 94105 _&2 (555) 492-1000 4 resumesample@example.com
+
+Over 3+ years of IT experience in build and deployment automation through tools like Jenkins, Puppet and
+GIT. Worked on Software Configuration Management and DevOps. Extensive experience includes Build
+Release support and Change/Incident Management support.
+‘+ Excellent communicative, interpersonal, intuitive, analysis and leadership skills with ability to work
+efficiently in both independent and team work environments,
+‘+ Experience on working with VMware Workstation and Virtual Box.
++ Experience with Version Control Systems like GIT and SVN (Subversion).
+‘+ Maintained build scripts using Apache ANT, Maven and Gradle to perform builds efficiently,
+‘+ Worked in implementing entire CVCD using Groovy scripting
+‘+ Extensively worked on Configuration management tools like Puppet and Chet.
+‘+ Worked in agile projects delivering end to end continuous integration/continuous delivery pipeline by
+integration of tools lke Jenkins, Chef and AWS for VM provisioning,
++ In-depth knowledge of mobile Android and 10S applications.
+‘+ Experienced in defect tracking system like JIRA,
+‘+ Capable of supporting and managing multiple projects simultaneously, comfortable troubleshooting and
+debugging and able to work under pressure.
+
+Scripting
+Python, Groowy, Java, Shell, Ruby
+
+Operating system
+
+Linue'Unix (Redhat (6,6,7), Ubuntu (14.10.4), Centos
+(6.6.7), Windows xP.7, Mac
+
+Build Tools
+
+Maven, Grade, Ant
+
+Cl Tools
+
+Jenkins, AHP, Bamboo
+
+Configuration Management
+
+Puppet, N1, Chef
+
+Web Servers
+
+‘WebLogic, Tomcat, Apache
+
+‘SCM Tools
+
+SVN, GIT, CVS
+
+Repository Tools
+
+Nexus, Artifactory, Archiva
+
+Atlassian tools
+
+Jira, Confluence, Fisheye, crucible
+
+DEVOPS ENGINEER 08/2016 to CURRENT
+Zoom | San Jose, CA
+
+‘+ Actively involved in AGILE/SCRUM Methodologies while executing the project.
+
+‘+ Extensively worked on version controls like Git and SVN.
+
+‘+ Used Groovy scripts for CUCD pipeline builds, and actively involved in the entire Pipeline setups and
+Jenkins configurations,
+
++ On boarded and supported several mobile iOS and android applications onto Jenkins CUCD pipeline.
+
++ Various Git Webhooks and SVN commitnooks were configured for continuous integration operations.
+
+‘+ Expertise in Atlassian Confluence created and developed multiple pages, captured various information
+nan organized manner.
+
+‘+ Hands on experience in installing and administrating tools like Jenkins, Puppet and Artitactory.
+
+‘+ Supported Production and Pre-production environments in resolving issues on demand.
+
+‘+ Provided support for Puppet upgrades and agent installations for several number of servers
+
+‘+ Worked and supported on several Java applications migrations to Jenkins Pipeline.
+
+‘+ Involved in providing Demo to customers on product (CVCD pipeline) and its features
+
+‘+ Supported monthly product feature releases and also involved in testing the feature and reported bugs
+before delivering to the costumers.
+
++ Managed AWS EC2 instances along with EBS and $3 services.
+
+‘+ Maintain services hosted in AWS managing EC2 instances, Auto Scaling groups, EBS, ELB, $3, Route
+53, IAM account management and AWS code deploy.
+
+‘+ Supported product development team in bug fixing and service pack releases.
+
+‘+ Developed and maintained Product release notes and feature enhancements on confluence.
+
++ Worked with Development, Quality Assurance and Management teams to ensure cross communication
+and confirmed approval of all production changes.
+
+‘+ Wrote various shell scripts to automate Build and Release process.
+
+DEVOPS BUILD & RELEASE ENGINEER 05/2016 to 08/2016
+Hendricks Berkadia | Indianapolis, IN
+
+‘+ DevOps Engineer for a team that involved different development teams and muttiple simultaneous
+software releases
+
++ Responsible for build, design and maintain the platform automation infrastructure using Chet.
+
+‘+ Implementing Test Driven Development (TOD) approach for writing Chef Cookbook using Test-kitchen,
+‘Vagrant, Berkshelf, FoodCrtic and ChetSpec.
+
+‘+ Launching fully chef configured and build management system to deploy servers with the proper
+configuration on a per role and per environment basis.
+
+‘+ Installed Jenkins and slaves on Docker containers,
+
++ Supported server/VM provisioning activities, middleware installation and deployment activities via chef.
+
+‘+ Integration of Configuration Management Systems like Chef with AWS for code deployment
+
+‘+ Setup OSS Sonatype Nexus on AWS for private repository management of in house developed libraries,
+
+‘+ Worked on simple storage services, simple notification service and cloud watch.
+
+‘+ Creating $3 buckets and restricting access to buckets and directories to specific IAM users.
+
++ Setting up Continuous delivery framework using Jenkins, Gradle, Maven.
+
+* Worked on each phase of lifecycle of build system - from analysis, development, implementation and
+Support of builds, unit testing and deployments.
+
+‘+ Worked with Logical Volume Manager for fle system management, data backup and recovery.
+
+‘+ Configured various Cron jobs and other scheduler jobs in servers.
+
+‘S)OTEMS ENGINEER 06/2013 to 01/2015
+Ramky Infra | City, STATE
++ Updated and automated Release reports for Change Management
++ Analyzing and installing hardware and software needs,
+‘+ Worked on redhaticentos 5.x and 6.x and automated daily tasks using Cron scheduler.
+‘+ Wrote shell scripts for taking data backups, cleaning junk content and updating software regulary
+‘+ Worked in building project branches, merging them and releasing them using version control tools like
+Git and SVN,
++ Deployed jar files using Ant and Maven scripts to the WebLogic servers,
+‘+ Wrote many pom.xmi fles, published the artitactories using Maven-publish and released using Maven
+release plugin.
+‘+ Worked with Logical Volume Manager for fle system management, data backup and recovery.
++ Performed weekly and on-call deployments of application codes to production environments.
+* Worked on each phase of lifecycle of build system - from analysis, development, implementation and
+Support of builds, unit testing and deployments.
+
+Master of Engineering MAY 2016
+University of Hartford, Hartford, CT

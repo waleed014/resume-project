@@ -1,0 +1,221 @@
+‘SUMMARY
+
+SKILLS
+
+EXPERIENCE ¢
+
+EDUCATION AND ¢
+
+‘TRAINING
+
+Lancuaces ¢
+
+weesiTes,
+PORTFOLIOS,
+PROFILES:
+
+‘CERTIFICATIONS
+
+Jessica Claire
+
+© 100 Montgomery St. 1 Floor tS (855) 432-1000 4 resumesample@example.com
+
+Hight-motivated employee with desire to take on new chalenges. Sirong werth etic, adaptability and
+exceptional interpersonal sks. Adept at working eftectvely unsupervised and quickly mastering new skits
+Organized and motivated employee eager to apply ime management and organvzatonal skis in various
+environments, Hardworking and reable
+
+[Hob Tie] with strong abilty n Task), Ortering [Skil] and [Skil]. Highly organtzed, proactive and punctual with
+team-oriented mentay
+
+Diigent (Job THe} with [Number] years of experience. Known for effective [Type] systems improvements and
+careful attention to infrastructure and operational procedures. Excelent dlagnostic ables wih advanced
+technical expertise. Proficient in [Software] and [Tp] resources. . Intends to develop professional work
+‘experience uiizing excellent communication and time management skis,
+
++ sofware Management ‘+ Source and Version Controt Git, thud
++ Disaster Recovery ‘+ Continuous integration Systems.
+
++ Team Cotaoration “+ Time Management and Organtzation
++ Data Backup ‘+ Analytical Thinking and Problem Solving
+‘+ Performance Monitoring and Optimization ‘+ Task Prontzation
+
++ Verbal and Witten Communication ‘+ Unux environments
+
+‘+ Vitual Macrine Operation + CRM Sotware
+
++ SetfMotivation ‘+ Debugging and Troubleshooting
+
++ Vibvare and Oracle VMt ‘+ Software Deployment
+
++ Permissions and Access Control ‘+ Data Warenousing and Analytics
+
++ Teamwork and Collaboration ‘+ Amazon Web Services
+
++ AgilesScrum Metnodology
+
+DEVOPS ENGINEER (07/2022 to CURRENT
+Centric Consulting | Miami, FL
+
+‘+ Engaged consistent with mentees through designated contact points using various methods.
+
++ Assisted in connecting students and famies to community-based support resources and other services
+
++ Prepared students fr later educational experiences by encouraging to explore learning opportunites
+
+‘and persevere with challenging tasks
+
+‘+ Launch EC2 servers using AMs and configuring servers for specied applications
+
++ Used CUCD tools to buldicontinuous deployment automation using Jenkins
+
++ Managed deployments in Kubernetes, creating clusters and deploying applications into containers.
+
++ Integration terraform wn kudernetes cluster, creation deployment on cluster.
+
+‘+ Manage and automate environments with tools ike AnsibiePlaybooks.
+
+‘+ Experience with Automation and Configuration Management Tool tke Ansibe.
+
+‘+ Work an improvements including the development, automation, and integration,
+
+‘+ Developed and maintained CUCD pipelines for code deployment
+
+‘+ Bull and maintained Kubermetes cluster on Google Cloud using Helm and Terraform.
+
++ Upgraded Kubernetes DevG/Prod environment 1 newer version,
+
++ Uiilzes Hashicorp Packer to create necessary type of machine Images.
+
+‘Implemented Packer scrips for golden mages
+
+‘+ Designed and implemented scalable and highly avaiable Cloud Architecture on Amazon Web Services.
+
++ Contigured Routess ONS hosted zones to serve users on the web,
+
++ Maintained static web sites using $3 bucket and Routes
+
++ Deployed a production ready, load balanced, highly avaiable, fault tolerant, auto-scaled infrastructure
+
+leveraging Terratorm,
++ Created aiterent container Images wth Dockertle.
+
+CLOUD ENGINEER ‘osr2021 to 0272022
+Pearson | Dallas, TX
+
+‘+ Provided status updates to keep upper management informed and to reach goals
+
++ Bull and oversaw network infrastructure comprised of various vitual products
+
++ Verted stay, securty and scalaity of system architecture
+
+‘+ Oversaw team in completing job tasks quickly and accurately with appropriate use of instruments and
+two's.
+
+‘+ Planned, tested and supported high-avalabity infrastructures.
+
+‘+ Performed data backups and disaster recovery operation.
+
++ Analyzed equipment performance records to determine need for repair or replacement
+
++ Created AWS Ais using Packer
+
++ Managed WAAC through Terratorm
+
++ Containerzed most of company applications
+
++ Hands on experience of ANS and coming trends inthe Cloud space
+
++ Partipated in planning and arcitecting of our infrastructure on Amazon Web Services
+
++ Actively managea, improved, and monitored cloud infrastructure on AWS
+
++ Used Terraform for creating subnets, secunty groups, route tables and ACL's
+
+‘+ Created and updatea AWS AM images Using Packer
+
++ Experienced in working with $3, DynameDB, API Gateway, IAM, and her core AWS technologies
+
++ Developed continuous delvery pipe in Cloud
+
+‘+ Designed and implemented scalable and secure Cloud Architecture on AWS
+
++ Leveraged VPC (virtual Private Cloud) to bul secure, highly scalable and flexible systems that handle
+‘expected and unexpected load bursts
+
+‘+ Experienced on AWS EC2 Instances creation, setting up VPC, launching EC? instances on private and
+public subnets based onthe requitements fr each of he applications
+
+‘+ Worked on AWS ASG proving high avalabity of ppicatons and EC2 instances based on the oad
+
+‘+ Experienced in arcitectng and supporting highly avaiable and highly scalable infrastructure
+
+COISULTANT 40/2017 1 04/2021
+Livingston International | Fremont, CA
+
++ Contnbuted to requirements gathering and design development meetings
+
+‘+ dentited opportunites for process improvements to decrease in support cals
+
+‘+ Collaboratea with support team to assist cent stakenolders wth emergent technical issues and develop
+cettecve solutions.
+
++ Maintained data cleantiness and accuracy by adding custom validation rues and custom formula,
+reports and dashboards,
+
++ Provised technical qusance for system development ang troubleshooting,
+
++ Coordinated and ennanced existing databases and estabshed new databases as part of intatve.
+
+‘+ Provided status updates to keep upper management informed and to reach goals.
+
+‘+ Compared ontine data wth source documents and made corrections or consulted information sources
+linen errors were found
+
+‘+ Used statistical sotware to analyze and process large data sets.
+
+‘+ Followed industry innovations and emerging trends through scientiicartces, conference papers or
+sett-avectea researen,
+
+‘+ Cleaned and manipulated raw data
+
+‘+ Maintained schedule of cass assignments to meet deadines.
+
+‘+ Worked with team members and leadership to ent and develop process improvements.
+
+‘+ Provided leadership, insight and mentoring to newly hired employees to supply knowledge of various
+‘company programs.
+
+‘+ Researched and prepared reports required by management or governmental agencies.
+
+‘+ Processed and sent invoices, adjustments and credit memos to customers,
+
+‘+ Reviewed vendor documentation to comply wth payment guidelines.
+
++ Managed numerous client accounts to track and colect money owed,
+
++ Increased protessional knowledge and taining to remain focused on longterm objectives
+
++ Supported stat traning, development and evaluation
+
+Master of Science | Administrative management
+NTUU KPI, Kyiv
+
+Mo3ter of Science | Pubic Administration
+‘Municipal Academy, Kyiv
+
+Bxchelor of Science | Sociology
+
+NTUU KPI, Kyiv
+
+Ukrainian Russian
+
+Negotiated Negotiated
+
+English teatian,
+
+Negotiated Negotiated
++ Unkeain
+
++ [Area of ceriication), (Company Name] - [Year]
+‘+ [Area of certiation), (Company Name] - [ear]

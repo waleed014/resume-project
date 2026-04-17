@@ -1,0 +1,183 @@
+WEBSITE, PORTFOLIO,
+PROFILES
+
+PROFESSIONAL
+SUMMARY
+
+ACCOMPLISHMENTS.
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS:
+
+Jessica Claire
+
+© 100 Montgomery St. 1tn Floor 'S (655) 432-1000 <4 resumesample@example.com
+
+‘+ ntps:/matinkedin comindsessica-clare!
+
+> Experienced Database Adminstrator vith over 8 years of experience in Database Administration. Excelent
+
+‘eputation for resolving problems and improving customer satisfaction
+Experience in setting up maintenance plans, creating jobs, and automating processes. Experience in
+‘monitoring SQL Server with Solar Winds, Reg Gate, Sentyone, Rubrk and Commvaut. ra for Agile
+‘methodology, Service Now or ticketing and confluence for documentation. Experienced with PowerShell
+‘automation of repetitive task. Experience in setting up maintenance plans, creating obs, and automating
+processes,
+
+“+ Recelved certifications n AWS - AWS Cloud Practitioner, Mlcrasomt Azure - Azure Adminstration and
+‘Microsoft Certiied Solutions Associate.
+
+‘+ Automated Database retresh process to reduce worktlow by 24 nours.
+
+‘+ Optimized existing procedures to improve performance by 90%
+
+‘+ Colaborated wth team of 8 in the Migration of Database trom Sql Server to Azure and AWS.
+
+‘+ Agile Methodology + Data Synchronization
+“+ Microsof SQL Database Adminstration + SQL Transactional Repications
+
+‘+ Running Backups and Database Optimzation «Change Data Capture
+
+‘+ SQL Server integration Services (SSIS) ‘+ Mlerosof SL Server Reporting Services
+
+“+ Mcroson Powersne!
+
+SENIOR DATABASE ADMINISTRATOR (05/2022 0 CURRENT
+ally Sandy, UT
+
+“+ Experienced with using Service now Ticketing system
+‘+ Managing High availabilty (Atways-On) SQL Server solutions, including Replication Models (Snapsho
+‘Transactional, Miroring, HADR Setup Configuration based on RPO/RTO objective of organization
+
+‘+ Performance tuning, optimization, backup and recovery
+
+‘+ Setup maintenance plans, creating jobs, and automating processes
+
+‘+ Develop Basic ETL processes ike SSIS and SSRS
+
+‘+ Implementation of SAL Logins, Roles & Permissions for SOL Server and MongoDB
+
+‘+ Support of MS SQL Server 2005 to 2022
+
+‘+ Setup and controled user profes and access levels fr each database segment to protect important
+ata
+
+‘+ Tested programs and databases to entiy Issues and make necessary modifications.
+
++ Good Knowledge of System Administration 2008,2012 R2 and 2016 Windows Server
+
+‘+ Support Releases and assist Developers in Deployment of codes to Production
+
+‘+ Migration of Databases to AWS EC? Instances
+
+‘+ Migrated Databases from On-Prem to Azure SAL. Azure Managed Instance and Azure VM
+
+‘+ Database Retresh Automation using PowerShell
+
+‘+ Administered, supported and monitored databases by proactively resolving database issues and
+‘maintaining servers.
+
+‘+ Eliminated downtime by accurately implementing maintenance of database,
+
+SESIOR DATABASE ADMINISTRATOR 0172019 to 0372022
+Ally | Washington, DC
+
+‘+ End Clients: Chevron, x Sport Fitness, Kodiak Gas, CDW, Technologent, Sanford G)
+
+‘+ Monitoring of database miroring as part of dlsaster recovery solution
+
+“+ Monitoring o Server Acti, Error Log, space usage, and solved problems as needed, Maintaining
+Fall-Over Custering, Replication and Database Mirroring
+
+‘+ Performs backup and recovery on Database Management System
+
+‘+ Restoring Database trom database backups and fle backups
+
+‘+ Experienced with Point.n-Time Recovery
+
+‘+ Supports Reporting Servers (SERS), Integration Services (SSIS), Analysis Services (SAS)
+
+‘+ Using SSI, bung high performance data integration solution, including extraction, transformation,
+‘and load (ETL) packages for data warehousing
+
+‘+ Ran DBCC statements to check physical and logical consistency of database and rebuild indexes
+
+‘+ Schedules and automates maintenance plans using SOL. Server job agent
+
+‘+ Responsible in Configuring, Maintaining and troubleshooting Log shipping, Miroring, Always on
+‘Avalailty Groups, SQL. server Fallver cluster on Same and multiple subnet
+
+‘+ Carrying out performance tuning task on regular basis on issues ranging from query tuning to index
+‘optization, Temp DB issues, 1010, High CPU usage, severe blocking, and long running query, aways
+(0n out of sync, mirroring out of syne, and log shipping aut of syne
+
+‘+ Maintaining SOL Server Cluster setup and configuration
+
+‘+ Weekly Patching of Standalone and Cluster instances
+
+‘+ Migrating ana Upgrading SQL server from Legacy to 2014, 2016, 82017
+
+‘+ Managing permissions and securty
+
+‘+ Monitoring diy, weeky, Monthy, and quartery Maintenance Task
+
+‘+ Carrying out regular heath checks across servers using PowerShell script
+
+“+ Maintaining database space issue, resolving excessWe log growth issue, and Normalzation of DBS
+
+‘+ Comprehensive Backup plan and disaster recovery strategies working wth company SLA,
+
+‘SC2 SERVER DATABASE ADMINISTRATOR 0172013 0 0172019
+Kemper| Houston, MN
+‘+ Instaation, configuring, and maintaining SOL allover clustering for Production Environment
+‘+ Implementation of SAL Logins, Roles and Autinentcaton Modes as part of Secunty Policies for various
+users
+‘+ Weekly Retreshing Database for analysis and Developers Update
+‘+ Using T-SaL stored procedures to automate task
+‘+ Migrated SOL server 2008 to SOL Server 2012, In MicrosoR Windows Server 2012 Enterprise Eaton
+‘+ Migrated database trom on premise to Azure Cloud
+“+ Installed and aaminstered 2-Node cluster Active (Passive on Microsoft Windows Server
++ 2012 Enterprise Eaton
+‘+ Securing Database with Transparent Data Encryption TOE
+‘+ Rebuilding indexes at regular intervals for better performance
+‘+ Designed and implemented comprehensive Backup plan and disaster recovery strategies Implemented
+‘+ Involved in trouble shooting and fine-tuning of databases forts performance and concutrency
+‘+ Monitored and modiied Performance using execution plans and Index tuning
+‘+ Perform SQL Server service pack and Windows Service pack patches and upgrades
+‘+ Working with customers on Appication roots and server migrations
+‘+ Extensively worked on Enterprise Manager for managing database
+‘+ Troubleshoot performance problems and e-tuning of databases
+‘+ Environment: SQL Server 2008, SAL Server 2012, windows server 2012 R2, 2014, 2016, 2017
+‘+ Designed and implemented TSQL queries for reporting and complex solution development
+‘+ Maintained complex T-SQL queries, views and stored procedures in mult-database environment vith
+tte supervision.
+‘+ Managed workioadindependenty but colaborated with coleagues to complete larger scale tasks in
+distributed team environment
+‘+ Folwed standard practices for migrating changes to test and production environments and provided
+technology support to meet business requirements
+‘+ Administered, supported and monitored databases by proactively resolving database issues and
+‘maintaining servers.
+ITCUPPORT ENGINEER 0772010 t0 1272012
+‘Arrow Electronics |All Cities, AR
+‘+ Wentited and resolved network issues within organization and clients.
+‘+ Installation of sofware, antivirus and troubleshooting tickets
+“+ Work closely with ctferent teams and vendors when required
+‘+ Setup of emails for statt
+‘+ Proactively monitor systems, software, and narduare.
+‘+ Provided Tier 1 IT support to non-technical internal users through desk side support services.
+‘+ Used ticketing systems to manage and process suppor actions and requests
+‘+ Documented transactions and suppor interactions in system for future reference and adattion to
+knowledge base
+‘+ Resolved escalated isues by serving as subject matter expert on wide-ranging issues.
+
+Bachelor of Science | Computer Science 172009
+University of Agriculture Abeokuta, Ogun State Nigeria
+
+‘+ MCSA Database Administrator
+“+ AWS Cloud Practioner
+‘+ Aaure Fundamentals

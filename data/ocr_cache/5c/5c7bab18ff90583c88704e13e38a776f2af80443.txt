@@ -1,0 +1,91 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Detailed-oriented IT professional with 7 years of experience as a Cloud and DevOps engineer/Linux Systems. I have hands-on experience
+supporting, automating, and optimizing application deployments in AWS by building an automated CU/CD pipeline without forgoing security
+and performance. Ieverage Terraform to build, maintain, and orchestrate infrastructures in AWS and ansible for configuration management. I
+have led and worked on multiple projects through the SDLC. I am very detail-oriented when it comes to spotting anomalies and have
+excellent communication, problem-solving, and decision-making skills
+
+Sens
+© Operating Systems * Configuration Management : Ansible
+« Linux (RedHat 8, Ubuntu) Windows. + Application Deployment : Ansible
+* Cloud Platform : AWS ( 1AM Role, EC2, EBS, EFS, EKS,ECR, —_* Containerization Tool : Docker
+$3, VPC, Cloud watch NACLs) © Container Orchestration Tool : Kubernetes
+«Scripting Languages : Bash Shell Scripting + Monitoring Tool : Prometheus and Grafana
+« Infrastructure Provisioning : Terraform + Log Management and Data Analytics Tool: ELK (Elasticsearch,
+* Distributed Version control tool : Git and Kibana)
+‘© Source Code Management : GitHub « SPLUNK
+* Build Tools * Ticketing : Jira
+© Maven « Feedback notification : Email notification/Slack notification
+« Remote artifactory Repository : Nexus « Intelligent integrated Environment : VS code
+* Code Quality Analysis Tool : SonarQube, SonarCloud * Write, modify and maintain Ansible playbooks using modules
+«© Application server : Tomcat * Write, modify and maintain YAML files
+* CUCD Tool : Jenkins * A detailed-oriented IT professional
+Worx History
+
+04/2019 to Current +DevOps Engineer
+Maxar Technologies Ltd — Buckley Afb, CO
+
++ Implemented a fully automated CU(CD pipeline using Jenkins & Git to complete the automation from commit to
+deployment
+
+‘© Worked on Git/Github to manage source Code
+
+‘© Worked closely with development teams to improve workflows around build, test, anddeployment of applications
+
++ Set up Ansible control and slave nodes and developed playbooks to automate the configuration of servers across
+environments
+
+‘* Automated built and deployment using jenkins to reduce human error and speed up production processes,
+
+‘* Automated the infrastructure deployment for different stages such as Dev/QA/Stage/Prod
+
+* Deployed applications using Helm charts into kubernetes Clusters
+
+* Created Dockerfiles, built Docker images, and pushing images to ECR for microservices to run on kubemnetes
+platform
+
+‘+ Implemented containers on AWS using ECS and complementary services, including
+
+‘* Amazon Elastic Container Registry (ECR) + Configured EKS to manage the Kubemnetes management
+infrastructure, implemented different scheduling options
+
+© Built, managed, and monitor cloud infrastructure on AWS (EC2, RDS, $3, ELB, etc)
+
+© Used terraform to provision Aws services such as EC2, VPC, RDS, etc.
+
+‘© Worked with project management tool such as Jira and Confluence.
+
+12/2017 to 03/2019 Linux System Engineer
+Freshdirect — Capitol Heights, MD
+‘ Insiallation, maintenance, administration and troubleshooting of Red Hat Enterprise
+«= Linux
+© RPM and YUM package installations, patch, and other server management
+‘* Hands on experience of infrastructure and Application Admin, scripting using shell
+‘© Expertise on writing shell scripts to perform unmanned tasks
+‘* Set up user and group ID's, printing parameters, network configuration, resolving password and permission issues
+Install, configure, and manage LAMP (Linux/Apache/MYSQL/PHP) stacks.
+‘* Developed Cron jobs and shell scripts for automating administrative tasks like file system management, process
+management, Server reboots, etc
+‘© Worked on creating Virtual machines using VirtualBox, Vagrant.
+
+12/2015 to 01/2017 Technical Support Speci t
+
+Churchill Downs Incorporated — Oak Grove, KY
+« Insiall new software and updates on customers’ PCs
++ Type, edit, and print documents for customers
+* Created hourly time codes for customers to use on computers to surf the internet
+‘© Handled several calls daily to address customer inquiries and concerns
++ Patched software and installed new versions to eliminate security problems and protect data
+« Followed up with clients to verify optimal customer satisfaction.
+‘Increased sales by 10%
+
+Epucation
+
+2010 Bachelor of Science
+University of Abomey-Calavi,UAC - Benin

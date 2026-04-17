@@ -1,0 +1,120 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Languages: Python, R, Matlab
+
++ Database: SQL, MongoDB
+
++ Libraries: Scikit-Learn, pandas,
+numpy, matplottib
+
++ Software: Microsoft SQL Server,
+Git, Jira
+
++ Data Vizualisation: ggplot,
+‘Matplotlib, dimple.js, Tableau,
+¢3.js
+
++ Web: HTML, CSS, JavaScript
+
+EDUCATION
+
+Udacity
+
+online + 2017
+
+Data Analyst Nano-Degree
+
+University of Maryland
+College Park + 2015
+
+‘Master of Science: Systems
+Engineering
+
+Sharif University of Technology
+Tehran + 2013
+
+Bachelor of Science
+
+PROFESSIONAL SUMMARY
+
+SQL programmer with expertise in database design and development. Proven ability to understand
+requirements and translate into actionable project plans in deadtine-oriented environments. Dedicated
+analytical thinker with a passion for Data Science.
+
+WORK HISTORY & PROJECTS
+
+Apex Systems - SQL Database Developer
+Bentonville, AR + 10/2015 - Current
+
++ Develop complex SQL scripts to query data across multiple databases and feed the website and
+APIs
+
++ Build, test, and deploy scalable machine learning system with an accuracy of 99% to classify more
+than 20,000 non-profit groups based on political activity
+
++ Design and deploy a data quality assurance system to ensure data accuracy across staging and
+production environments, lowering the error rate by 18%
+
++ Set up and maintain automated ETL processes, reducing the data processing time by 12%
+
++ Create Indexes and optimize queries using Query Execution Plan
+
++ Identify requirements, design Entity-Relationship (E-R) models for various applications, convert E-
+R models into relational schemas, and create a SQL scripts to implement models
+
++ Develop ad-hoc SQL queries to analyze and troubleshoot data errors
+
+‘The Mentor Network - Student
+Pocatello» 08/2016 - 2017
+‘Machine Learning
+
++ Designed and implemented a learning algorithm to identify fraud in Enron data, using Python's
+libraries such as numpy, and Scikit-Learn
+
++ Performed feature scaling, recursive feature selection, and parameter/algorithm tuning,
+resulting in 15% increase in precision/recall
+AVB Testing
+
++ Designed an experiment to evaluate a proposed change on Udacity's free trial feature
++ Analyzed data to determine metrics, sizing, exposure, and duration
+
++ Made recommendations based on sanity checks, sign tests, and significance
+Data Wrangling
+
++ Assessed the quality of the data for validity, accuracy, completeness, consistency and uniformity
++ Parsed and gathered data from various file formats such as .json, .xml, and .csv
+
++ wrote queries to aggregate data using MongoDB or SQL
+
+Exploratory Data Analysis (EDA)
+
++ performed EDA on individual contributions to ‘16 presidential election using R
++ Visualized the analysis using ggplot to detect outliers, and discover patterns
+
+Arrive Logistics - Research Analyst
+Austin, TX + 08/2013 - 09/2015
+
++ Collected and analyzed 170 requirements for a facility and its security system via industry standard
+analysis techniques including workflow analysis and functional analysis
+
++ Developed an integrated data model with more than 200 elements using UML
+
++ Performed various data analysis techniques such as regression analysis to evaluate system KPIs
+
++ Published a paper on Elsevier Procedia Computer Science journal
+
+New Jersey Institute Of Technology - Programmer Analyst
+Newark » 11/2012 - 07/2013
+
++ Wrote an optimization algorithm in Matlab for conceptual design of a microturbine engine
++ Followed Agile/Scrum methodology to accomplish the project
++ Conducted parametric analysis to evaluate engine performance using Matlab

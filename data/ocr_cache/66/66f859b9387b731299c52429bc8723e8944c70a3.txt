@@ -1,0 +1,102 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 # resumesamplegexample.com
+
+Professional Summary
+
+Tam Enthusiastic IT professional, eager to contribute to team success through hard work, attention to detail and excellent
+organizational skills, Critical thinking DevOps Engineer with extensive understanding of high availability architecture and concepts.
+Purpose-driven professional with capacity to be strong team player plus work effectively independently. I am focused on continuous
+improvement, i enjoy learning new skills /technology. I am dedicated to progress my career in IT where i will use hands on
+experience gained in intensive training and technical troubleshooting to contribute to the active growth and productivity of the
+company.
+
+Tam authorized to work in the united states for any employer.
+
+Skills
+* Version control system: Git, github * Containerization: docker
+* Continuous integration : Jenkins * Database ‘MySQL & PostgreSQL.
+* Scripting Bash shell * Ticketing system: Jira, kanban board
+* Continuous monitoring : splunk + Web server: Apache
++ Automation/deployment: Ansible * Customer service
+* Platforms : Linux, centos 6&7, Red hat 6&7,ubuntu windows — * Storage: LVM
+server 2008 and windows 2016 * Virtualization: oracle virtual box
+
+Orchestration: kubernates
+
+Work History
+
+DevOps Engineer, 05/2018 to Current
+Bae Systems - Plymouth, MA
+* Monitored automated build and continuous software integration process to drive build/release failure resolution
+* Collaborated closely with product development teams and other stakeholders, using effective communication and active
+listening skills
+* Creating new Ansible YAML playbooks for application and roles and bash shell scripts for application deployment
+* Working with Development team making modifications of code using Git, vertion control system to clone ,add,commit and
+push codes from local to master branch then to central repositories
+* Verify and troubleshoot failed maven builds on Jenkins, verify artifact id, troubleshoot ,document and communicate failed builds
+to development team
++ Participate in daily scrum to improve system performance and automation capacities
+* Used kubemates to check application deployment
++ Ensure all Jira tickets are completed on time
+* Collaborate with Development and Production team to ensure smooth running of pipeline
+* Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client,
+
+requirements
+
+Help Desk Technician, 02/2019 to 03/2020
+Chenega Corporation - Middle River, MD
+
+* Assessed system hardware and software and suggested modifications to reduce lag time and improve overall speed
+
+* Followed up with clients to ensure optimal customer satisfaction following support engagement and problem resolution
+
++ Responded to support requests from clients and patiently walked them through basic troubleshooting tasks
+
+* Testing and troubleshooting new applications
+
++ Remained up-to-date on latest technologies and solutions applicable to company products in order to provide best support to
+
+end-users
+
+* Collaborated with vendors to locate replacement components and resolve advanced problems
+
+Linux System Administrator, 08/2018 to 12/2018
+Criterion Systems — Alexandria, VA
++ Enhanced availability of infrastructure through enterprise-wide planning, thorough testing, efficient implementation and
+comprehensive support
++ Analyzing and interpreting system application log files
+‘+ Maintained flexible schedule and responded to after-hours and weekend emergencies
+Utilized bash shell scripting to assist with assigned tasks
+
+Configuration and management of network services HTTP
+
+Resolved vulnerabilities by making improvements to network security assessments, performing upgrades and patching
+* User/group administration file/directory security, authentication and access management (SSH, firewalls)
+
+« Installation and configuration of Linux servers
+
+* Configure system to send log messages to centralized host
+
+* Resolved issues and escalated problems with knowledgeable support and quality service
+
+System Administrator, 09/2016 to 12/2017
+Ami Expeditionary Healthcare — Little Rock, AR
++ Planned and implemented upgrades for system hardware and software
++ Implemented, developed and tested installation and update of file servers, print servers and application servers in all
+departments
+
+Provide technical assistance and support for incoming queries related to computer software and hard ware
+
+Worked with customers to understand needs and follow up to make sure problem is solved
+Troubleshoot system and network configuration issues
+Worked with users to determine areas of technology in need of improved usability
+
+Resolved issues and escalated problems with knowledgeable support and quality service
+Education
+
+Associate of Science: Nursing, 2017
+Biaka University Institute of Nursing - Cameroon
+
+High School Diploma: 2012
+Government Bilingual High School Etoug-ebe - Cameroon

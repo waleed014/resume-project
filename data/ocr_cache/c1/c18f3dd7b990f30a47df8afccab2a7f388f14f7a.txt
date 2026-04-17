@@ -1,0 +1,126 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+© 100 Montgomery St 10tn Floor *& ($55) 432-1000 4 resumesample@example com
+
+Hardworking and reliable health informatics professional with strong ability in health information system
+improvement. Offering solid background in data science and healtn informatics and . Highly organized,
+proactive and punctual with team-oriented mentality.
+
++ Data Management ‘+ Enterprise information Architecture
++ Database Management and Administration ‘+ Security Protocols
++ Business Requirements Gathering ‘+ Deep Learning
++ Information Systems Management ‘+ Statistical Analysis
++ Microsoft SaL ‘+ Information Classification
++ Data Analytics ‘+ Patient Data Abstracts
+DATA SCIENCE FELLOW 0872022 to CURRENT
+
+Fhi 260 | Washington, DC
+
+‘+ Conduction business process analysis to define requirement for redesign of mortality surveillance
+system in Zambia,
+
+‘+ Conduction of systematic desk review to assess mortality surveillance systems as well as identity
+‘mortality data sources in developing countries to make recommendation for data integration and
+Interoperability of siloed health information systems in Zambia
+
++ Development of guidance for mortality surveillance data dashboard to inform near real time decision
+‘making in developing countries
+
++ Used statistical R software to analyze and process large data sets,
+
+‘+ Built compeliing data stories and visualizations using R to influence decision makers.
+
+‘+ Built collection, analysis and reporting frameworks from scratch and devised techniques for maximizing
+system usefulness,
+
+* Applied data reduction and exploratory analysis techniques to manage large amounts of data.
+
+‘+ Conduction of interoperability assessment to identity barriers faced by jurisdictions in the United States
+cof America in exchanging Fast Healthcare Interoperabilly Resources (FHIR) based data between the
+electronic death registration system at the jurisdictional level and National Vital Statistics System at the
+CDC National Center for Health Statistics
+
+DACA MANAGER AND ANALYST 11/2019 to 06/2022
+Fhi 360 | Durham, NC
+‘+ Created procedures for data sharing and managed incoming and outgoing data files,
++ Managed data gatekeeping by receiving information, translating and overseeing documents within fle
+management system,
+* Documented work processes, project initiation, production and updates to assist creation of change
+management policies.
++ Resolved information access issues, troubleshooting to improve internal data entry and access,
++ Assisted with upholding and forttying digital security systems to protect valuable and confidential
+Information,
++ Analyzed workflows and established priortes for daily operations,
++ Detected and resolved data quality issues and discrepancies for integrity and quality contro,
+‘+ Wrote python scripts and processes for data integration and bug fies,
+‘+ Partnered with project management teams on development of scope and timelines,
+‘+ Identified data anomalies and worked with business units to perform root cause analysis and resolve
+Issues.
+‘+ Developed predictive mode's using machine learning, natural language and statistical analysis methods
+using pyhton and R.
+MCNITORING AND EVALUATION SPECIALIST 07/2020 to 02/2022
+Corteva, Inc. | College Station, TX
++ Collaborated with program and senior teams to develop critical qualitative and quantitative data
+collection methodologies.
+‘+ Supervised data collection, data quality, analysis, evaluation and dissemination for research projects
++ Strategized with leadership to improve decision-making and deliver recommendations for successful
+‘program, policy and planning,
+‘+ Evaluated program service delivery operations, goals and impact on portfolios with surveys and
+assessments,
++ Analyzed and reported statistics to support budget development and program evaluation,
++ Synthesized leaming and insights from research and evaluation into reports for delivery to key
+stakeholders.
++ Trained project and field staff members in evaluation, data collection, analysis and reporting strategies.
+* Documented research findings and prepared polished reports highlighting results and potential
+improvement strategies.
++ Led valuation, due diligence and contracting as part of acquisition process,
+
+MCNITORING AND EVALUATION SPECIALIST 01/2018 to 12/2018
+University Research Co., LLC, URC | City, STATE
++ Collected, tracked and evaluated current business and project implementation trend data.
++ Researched and led investigations into various areas to drive improvements and devise new processes.
++ Performed research and analyzed content of records to make informed decision,
+* Conducted record searches and coordinated with other units on procedural problems involving complex
+cases.
++ Devised new and improved records management programs to organize and protect data
++ Performed research and analyzed content of records to make disclosure determinations.
++ Evaluated intemal systems and prepared training initiatives to mitigate ongoing problems.
+‘+ Documented research findings and prepared polished reports highlighting results and potential
+improvement strategies.
++ Participated in frequent staff meetings to add strategic perspective to day-to-day conversations and
+programming decisions.
+SECHOR BIOSTATISTICIAN 09/2012 to 12/2018
+Ghana Health Service | City, STATE
+‘+ Monitored statistical programmer outputs and provided quality control by validating statistical models.
++ Compiled lists, calculated figures and generated data tables to present statistical findings for public
+health programs.
++ Drafted statistical sections of study protocols outlining information such as rationale, objectives, design
+‘and methodology.
+* Created study designs by selecting appropriate statistical methodologies,
++ Determined sample size based on pre-specttied level of statistical power.
+* Conducted exploratory data analysis to summarize characteristics of data and presented to scientific
+team,
+‘+ Devised programs to produce analysis datasets with graphs, tables, queries and targeted reports.
+* Supported diagnostic test development by reviewing data and performing statistical analysis.
+‘+ Responded to clinical team needs and questions regarding study-speciic reports and deliverables,
++ Prepared complex datasets using R Software statistical software, SQL databases and Power BI for
+{graphics creation
+‘+ Communicated study results to stakeholders in easy-to-comprehend terminology.
+
+‘Master of Science | Public Health Epidemiology 122018
+University of Ghana, Acera
+
+(MaAter of Science | Applied Statistics 1172018
+Kwame Nkrumah University of Science And Technology, Kumasi, Ghana
+
+Bachelor of Science | Health Informatics osr2012
+Catholic University of Ghana, Sunyani

@@ -1,0 +1,123 @@
+Jessica CLAIRE
+
+Montgomery Set, San Francisco, CA 94105» (555) 432-1000 » resumessmplegexamplecomn
+
+Career Overview
+
+‘Senior Naval Tactical Command Support System (NTCSS) Database Developer Supervisor and Systems (UNIX / LINUX)
+Administrator.
+
+Qualifications
++ Strong analytical skill + Technical help desk experience
++ Database management + Programming and design skills
++ Structured query language (SQL) expert + Information security
+«+ Network asset management + Testing
+«+ Project management + Server Maintenance
++ UNDYLINUX + Content management systems
++ Document management + Customer needs assessment
+
+«+ Excelent problem solving skills
+Accomplishments
+
+‘Twenty-five (25) years experience in leading a broad range of waterfront-based Fleet Introduction initiative and activities in the
+building of New Construction and In Service CG 47, DDG 51, LPD 17 and LHA Class ships databases. Expertise includes a working
+
+knowledge of several programming languages, familiarity with a diverse assortment of operating systems and hands on experience
+
+associated with many SPAWARSYSCEN hardware platforms utilizing the NTCSS database suite, A quality communicator, confident
+and proficient in team building as evidenced in leadership skills,
+
+Work Experience
+Project Manager / Database Developer Supervisor, 09/2000 to Current
+
+Fiserv Inc. Massachusetts, MA,
+
+Fully responsible forthe waterfront management of database development, hardware and network engineering teams supporting the
+LPD 17 and DDG 51 NTCSS programs.
+
+Serves as NTCSS technical support and management focal point for:
+
+Liaison role with contractor and government agencies for NTCSS hardware, network and software suppor.
+
+Coordinates and disseminates Installation / Familiarization FOAMS for SCT thru PSA database evolutions
+
+Coordinates, scheduling and providing RADM, RSUPPLY, OMMS-NG familiarization to shipboard personnel.
+
+Initializes, updates and maintains the NTCSS database suite until the hips evolution reaches SCN-OWLD.
+
+Responsible for installation of government-provided NTCSS updates aboard ship.
+
+Management of program for PCU/PCD NTCSS systems to include hardware configuration and software,
+
+‘Technical liaison to Ships Force on issues concerning Relational Administration (RADM), Organizational Maintenance Management
+‘System ~ Next Generation (OMMS-NG) and Relational Supply (RSUPPLY).
+
+Coordinates with shipboard personnel to establish Ships’ Organizational File information for RADM database initialization
+
+Ensures PreComm crew taining databases are converted and migrated into the NTCSS Relational Admin (RADM) database prior t0
+scr.
+
+Responsible for transfer of the inital installation NTCSS database to SPAWARSYSCEN AMlantic associated with crew move aboard
+evolution.
+
+Provides daily contact with, and status reports of system familiarization to, Ships Supply Oificer and Ships Material Maintenance
+Management (3M) Program Coordinator.
+
+Coordinates with Ships’ 3M Coordinator and Supply Officer to ensue proper NTCSS procedures ar followed from Poe-
+« ag through the end of Post Shakedown Availability (PSA) and until the ship reaches SCN-OWLD.
+
+Coordinates the updating ofthe Ships’ OMMS-NG database with missing COSAL data,
+
+Coordinates with shipboard supply personnel concerning the establishment of sue and receipt procedures for the period between
+crow move aboard and sail away.
+
+Coordinates quality assurance and validation of the ships RSUPPLY database
+Assists Supply Department personnel in identification of frustrated material
+
+Cceetes and updates basic users manuals asocated with RADM, OMMS-NG and RSUPPLY.
+Coordinates AST information between Supervisor of Shipbuilding and ships force.
+
+Project Manager Principal Programmer, 1996 to 08/2000,
+‘Technology, Management And Analysis City, STATE
+
+‘Team Lead in suppor to the Supervisor of Shipbuilding located in Pascagoula, Ms, Bath, Me and PEO TSC forthe scheduling and
+development of New Construction SNAP databases
+
+Familiarized shipboard personnel concerning the functionality ofthe SNAP databases,
+Managed the hardware and software suite fr the News Construction database build team.
+
+‘SNAP Task Leader / Principal Programmer, 08/1993 t0 11/1995,
+PRC, Ine~ City, STATE
+
+‘Team Lead and manager in support tothe Supervisor of Shipbuilding located in Fascagoula Ms, Bath Me and the Aegis Program
+(fice Washington D.C. for the scheduling and development of New Construction SNAP databases
+
+‘Analyzed and designed programming code in support database build processes.
+Managed the hardware and software suite fr the New Construction database build team.
+
+‘Computer Programmer 08/1987 t0 07/1993,
+Ingalls Shipbuilding, In. ~ City, STATE
+
+Provided support services to the Supervisor of Shipbuilding Pascagoula MS, Bath Maine and the Aegis Program Office concerning
+the development of New Construction SNAP databases.
+
+Analyzed and designed programming code in support database build processes.
+
+Education and Training
+
+Bachelor of Science: Computer Science, 1987
+University Of Southern Mississippi - Hattiesburg, MS
+Certifications
+
+Microsoft Certified Professional (MCP)
+
+CompTIA LINUX + Networking Professional
+
+CompTIA Security+ Certification - DoD 8570.1-M requirement
+Skills
+
+Project Manager
+
+Principle Programmer
+
+NTCSS Database Developer

@@ -1,0 +1,132 @@
+Jessica CLAIRE
+
+100 Montgomery St. 18h Foor © (555) 432-1000 # resumesamplesexample.com
+
+Professional Summary
+
+A Senior Manager in information technology and software engineering with expertise in diverse range of technologies within
+multiple lines of business settings. 15+ years of demonstrated excellence in leading teams and projects across Automation, Software
+design, Quality assurance, product development and innovation . Well organized, results oriented individual with proven ability to
+implement standards, procedures and processes that improves business functionality. Solid management skill, capable of leading
+and motivating individuals to maximize levels of productivity, While forming cohesive team environments. Exceptional
+communicator, focused on building strong client relationships, commitment to quality and service excellence with aptitude for
+launching new technology operations, including client relationships, policies and procedure, business processes, and SLAVS,
+
+Accomplishments
+
++ 10,000+ hours of project management
++ Consistently Exceeding in performance ratings year over year
+
++ Excellence awards (Platinum/Gold) recognition on projects
+
++ Implementation of standards that helped division in many successful OCC exams.
+
++ Showed 60% Year over Year increase by driving and implementing 700+ automated solutions In 2020.
+
+Skills
++ Project Management «+ Stakeholder Communications
++ Team Leadership + Problem Resolution
++ Solution Design + Training and Mentoring
++ Technology Integration + Requirement Analysis
++ Strategic Planning + Implement Best practices and Standards
+Work History
+
+Senior Audit Manager, 01/2017 to Current
+Hea ~ Richardson, TX
+‘Currently managing a high performing team of technical auditors/consultants and maintains an extensive technology infrastructure.
+‘The core responsibilities include
+
++ Provide end to end astomation solstion for the business auditors.
+
++ Is responsible for cost analysis and establishment of various tools and technology for the audit division and pilot use cases in
+
+‘those platforms.
+
++ Guide organizational technology strategy and roadmaps,
+
++ Adjusted project plans to account for dynamic targets, staffing changes and operational specifications.
+
++ Contributed to polices, proceduses and manuals governing internal IT use,
+Current Key Projects:
+‘Technology Roadmap: This is a multi-year initiative to enhance our technology, providing needed technology and personnel
+esources to accomplish prioritized projects
+
+‘Senior Application Consultant (team lead), 04/2012 to 09/2017
+Cognizant Technology Solutions ~ San Francisco, CA,
++ Supervised team of developers for creation of new codes as per requirement inthe system,
++ Interfaced with cross-functional team of business analysts, developers and technical support professionals to determine
+‘comprehensive list of requirement specifications for new applications,
++ Worked closely with other business analysts, development teams and infrastructure specialists to deliver high availability
+solutions for mission-critical applications.
++ Rapidly prototyped new data processing capabilities to confirm integration feasibility into existing systems.
++ Stored, retrieved and manipulated data for close analysis for audit teams to perform point in time audit
++ Tested troubleshooting methods, devised innovative solutions, and documented resolutions for inclusion in knowledge base for
+support team use,
++ Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client
+sequirements
++ Worked closely with software development and testing team members to design and develop robust solutions to meet client
+requirements for functionality, scalability and performance.
++ Researched, designed and implemented scalable applications for data extraction, analysis, retrieval and indexing.
+
+ETL Informatica Developer, 01/2009 to 04/2012
+Alight NM, State
+
++ Reviewed project requests describing database user needs to estimate time and cost required to accomplish projects.
+
++ Designed data models for complex analysis needs.
+
++ Developed database architectural strategies at modeling, design and implementation stages to address business or industry
+
+requirements
+
++ Developed team communications and information for meetings.
+
++ Led projects and analyzed data to identify opportunities for improvement.
+
++ Developed and implemented performance improvement strategies and plans to promote continous improvement,
+
++ Performed duties in accordance with all applicable standards, policies and regulatory guidelines to promote safe working
+
+‘SQL Developer, 01/2006 to 10/2007
+Bank Of America ~ City, STATE
+
++ Devised high-quality database solutions ranging in size and complexity, increasing productivity and improving data sharing.
+
++ Developed custom database objects, stored procedures and delivered application support.
+
++ Prepared memory management for database systems.
+
++ Built useful reporting deliverables to properly document analysis results and provide performance improvement feedback.
+
++ Analyzed existing SQL queries to identify opportunities for improvements
+
++ Performed regular database backup,
+
++ Reviewed and interpreted business report requirements to address user needs,
+
++ Maintained complex T-SQL queries, views and stored procedures in multi-database environment with litle supervision.
+
+* Generated, debugged and enhanced existing reports with introduction of new system features,
+
+Education
+
+Associate of Applied Science: Engineering Technology
+Bharathidasan University -Trichy, India
+
+Additional Information
+
+Recent Projects
+Data Lake implementation
+Audit Laboratory
+‘Technology Roadmap
+Horizon Platform integration
+(Operational Excellence and SIM ideas
++ Solid understanding of code design principles on various tools and technology.
++ Extensively worked on high end ETL tools like Informatica Power Center
++ Extensively worked on data analytics tools like Informatica data quality and sometimes Alteryx
++ Sound understanding of Data Warehousing concepts and Dimensional Modeling (stas/snowflake Schemas)
+‘Strong analytics and conceptual skills in database design and implementation of RDBMS concepts.
+‘Well experienced in Oracle / SQL Server database development using PL/SQL, Stored Procedure, Triggers, Functions and Packages
+Lead and implemented Hadoop, SQL Server, Oracle platforms and other storage and database solutions for the audit division.
+Lead and implemented ETL and reporting tools like Informatica Power center, Informatica Data Quality , SSRS and other technology
+platform.

@@ -1,0 +1,154 @@
+Jessica CLAIRE
+
+100 MontgomeClairey St. 10th FlooClaire © (555) 432-1000 # resumesamplesexample.com
+
+Professional Summary
+
+AClaireound 10 yeaClaires of hands-on expeClaireience in SoftwaClairee ConfiguClaireation Management (SCM), Build,
+Deployment and Claireelease Management, InfClaireastClaireuctuClairee Management and SoftwaClairee development
+‘enviClaireonment.
+
+Skills
+
+GITHUB, Jenkins, JFClaireog, ClaireLM, Agile, JIClaire, TFS,
+Build & Claireelease, ALM, CI\CD
+
+Work History
+
+DevOps EngineeClaire, 09/2018 to CuClaireClaireent
+Lockheed Martin - Lexington Park, MD
+
+‘© Managing Git and ClaireTC SouClairece Code ClaireepositoClaireies
+
+© CClaireeating stClaireeam and components in Claireational Team conceClairet
+
+(© On boaClaireded Jenkins pipeline builds
+
+(© CClaireeation of pipeline files foClaire onboaClaireding Jenkins builds
+
+(© WoClaireked on JfClaireog AClairetifactoClairey.
+
+(© Manage infClaireastClaireuctuClairee upgClaireades, expansion, scaling, tClaireoubleshooting and debugging foClaire
+snumbeClaire of tickets peClaire day/week/yeaClaire on the most challenging complex enviClaireonments,
+
+© WoClaireked with developeClaires, QA and PClaireoduct suppoClairet teams to identify and Claireesolve build pClaireoblems.
+© Claireeview build Claireesults, debug and optimize complex builds, and discuss technical issues with developeClaires,
+aClairechitects, and manageClaires.
+
+© Logging the defects and Claireesolved issues in ALM
+
+© Execution of legacy Claireuby automation test cases in the C/CD pipeline
+
+© CClaireeating and managing Templates in ClaireL M(Claireelease Life Cycle Management).
+
+‘© PeClairefoClairemed SCM tasks, such as check-in, checkout, bClaireanching, tagging and meClaireging code fClaireom
+development bClaireanches to main bClaireanch and main bClaireanch to development bClaireanches.
+
+© Assisting development team in Claireesolving issues with build, enviClaireonment, SCM and tools.
+
+O Involved in Agile ScClaireum model with PODs and pClaireovided the WBS foClaire the UseClaire stoClaireies.
+
+© Good undeClairestanding of the pClaireinciples and best pClaireactices of SoftwaClairee ConfiguClaireation Management (SCM)
+in Agile, ScClaireum, and WateClairefall methodologies.
+
+(© CustomeClaire seClairevice by Claireesolving the tickets Claireaised foClaire the devops and deployment Claireelated issues.
+
+(© Exposed to all aspects of softwaClairee development life cycle (SDLC) such as Analysis, Planning, Developing, Test Automation,
+implementing and Post-pClaireoduction analysis of the pClaireojects,
+
+Build & Claireelease EngineeClaire, 03/2015 to 02/2017
+Paycom Software, Inc. Atlanta, GA
+
+© Installed/ConfiguClaireed/Managed TFS CI Automation.
+
+© Claireesponsible foClaire the Plugin Management, UseClaire Management, Build/Deploy Pipeline Setup and End-End Job Setup of
+all the pClaireojects.
+
+© Implemented TFS bClaireanching and meClaiteging opeClaireations foClaire NET SouClairece Code in the Agile Development
+Methodologies.
+
+( Jenkins is used as a continuous integClaireation tool foClaire automation of daily pClaiseocess.
+
+(© Implemented customizations in TFS
+
+© IncoClairepoClaireated all Agile, CMMI ScClaireum PClaireocess Template into one single custom pClaireocess template in TFS
+2010,
+
+© MentoClaire the Development and QA team with the souClairece contClaireol pClaireocess and assist with the build and.
+deployment tasks
+
+(© SuppoClairet and impClaireove tools foClaire continuous integClaireation, automated testing and Claireelease management
+‘ODay to day management of the build pClaireocess in deliveClaireing continuous builds
+
+(0 StClaireong in-depth knowledge of database design and development using T-SQL
+
+© Designing and implementing a build automation {ClaireamewoClairek
+
+‘© Developing and integClaireating build system with TFS system
+
+(O IntegClaireated with TFS souClairece contClaireol to automatically tClaireiggeClaire Builds and publish Claireesults back to TFS.
+© Co-cooClairedinating builds and Claireelease cycles on the Claireequest of business with development, testing and pClaiseoject
+management teams.
+
+© Automated Continuous IntegClaireation builds, nightly builds, deployments and unit tests acClaireoss multiple diffeClaireent
+enviClaireonments (DEV, QA, TClaireaining, PClaireoduction) each constituting diffeClaireent types of seClaireveClaires (DB, App,
+Web) and diffeClaireent numbeClaire of seClaireveClaires of each type (foClaire load balancing and such) using TFSBuild,
+PoweClaireShell, XML and MS Build, MS Deploy.
+
+(O Setting up the SecuClaireity, Claireoles & Claireesponsibilities foClaire diffeClaireent GClaireoups foClaire Team PClaireojects|
+‘using TES 2012,2013 Admin Console,
+
+Build and Claireelease EngineeClaire, 02/2011 to 03/2015
+Compulink Management Center, Inc ~ Remote: Los Angeles Area, CA
+
+© PClaireimaClairey Claireesponsibilities include Build and Deployment of Net applications onto diffeClaireent enviClaireonments
+O CVS AdministClaireatoClaire Claireesponsible foClaire cClaireeating Tags, BClaireanches and BClaireanch MeClaireges.
+
+© Claireesponsible foClaire the Code FClaireeeze and Stage FClaireseze Activities
+
+(© Used MClaireT Mighty Claireelease Tool to tClaireack the bugs and to cClaireeate tClaireacking ClaireepoClairets.
+
+© 24/7 on Call SuppoClairet foClaire emeClairegency site maintenance and immediate build and install Claireequests.
+
+(0 Used Maven foClaire Automation Build pClaireocess.
+
+(© Used MS PClaireoject foClaire Complete PClaireoject Management.
+
+(0 Used Claire to tClaireack the bugs and to cClaireeate tClaireacking ClaireepoClairets
+
+(© Used Visual Studio 2008 foClaire .Net PClaireoject
+
+(© Done BVT Build VeClaiseification Test befoClaisee deploying the Build on to QA seClaireveClaires
+
+(© WoClaireked with the automated scClaireipts foClaire the Build and Deployment of the applications
+
+(© Used Unix CClaireon jobs foClaire the Automation of Build and Deployment.
+
+© Claireesponsible foClaire Build and Install Schedules using CClaireon jobs.
+
+(© Maintained configuClaireation files foClaire each application foClaire the puClairepose of build and install on diffeClaireent
+enviClaireonments
+
+© Claireesponsible to push the fClaireont end code to Dev., QA and Stage PClairee PClaireOD enviClaireonments.
+
+(0 Used MClaireT Mighty Claireelease Tool to monitoClaire and maintain the EBFs' status
+
+(© CClaireeated the build instClaireuctions docs and install deploy instClaireuctions docs foClaire each application foClaire
+diffeClaireent enviClaiseonments
+
+(© The above docs aClairee being used as the guide foClaire manual build and deployment pClaireocess, in case the automated
+PeClairel scClaireipts bClaireeak emeClairegencies
+
+‘© CClaireeated a complete Claireelease pClaireocess doc, which explains all the steps involved in the Claireelease pClaireocess
+(© DistClaireibuted and paClaireallel development using SeClaireina
+
+(© Made the docs available foClaire the team membeClaires by uploading onto Twiki using html
+
+© Claireeviewed pClaireoduction Claireelease doc foClaire Claireecommendations
+
+(0 Used SecuClaireeCClaireT to connect to vaClaireious Unix boxes
+
+Education
+
+MasteClaire of Science: ComputeClaire And InfoClairemation Sciences, 06/2012
+JNTU

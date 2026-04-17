@@ -1,0 +1,195 @@
+Jessica CLAIRE
+
+Meaaenary Steet Sn Fano, CA9H0S @ (5) 432-1000 # esmesnpleenane cont
+
+Seamiary
+
+7 years of profesional 7 experience with Masters dec in computer applications; woked mainly wih Java JE) programming languages
+Pasinste abot Clean coe programming sills and Emergent desin techniques, Hands on experince with Test-ven development (TDD)
+and Behavior divendeelopseat (BDD) with test automaton scrips to liver high quality product. Good java perfomance provement and
+reibilty experience God knowledge to ache high avalblty and Continous Iteration. Good understanding of Relational and NoSQL
+dnatase. Experienced wi development processes wing Asie, Serum. Well versed wit Deutsch cute and waitin, wtked with Deutsch
+clients and colleagues for more tan ive years and stayed in iat location (Blin, Germany) around for vo years. Passed German AL
+language centfcton exam and cueaty pursuing A2
+
+Honors
+
++ Sova JEE (Web Serves, JSP, Serve, Sts, JDBC, IMS, MDB,
+N00) Spring oe, Spring MWC (REST), Spring Sees, Spring
+Remoting. Spring AMG?
+
++ Hitemte MyBat, Maven, Moco, WeeMock JMeter, Gata,
+sunt
+
++ Rabbit, IBM gS
+
++ Service Oriented Azcitectre (SO)
+
++ Enterprise Sersice Bus (OSB), Busines Process Execution
+Language, Soap
+
+"+ BPEL), Web sence, XML, XSD, XSLT, XPATH, gery, SOAP.
+
+‘+ Spring MVC - RESTFUl series with JSON and XML.
+
++ Web Server Toots
+
++ Tomcat - clipe Spin tol uit (STS), Maven ety login
+
++ Oracle Weblogic tlg- SOA Server-Hevelopper 11x
+
++ Oracle Weblopct - Oracle Sence Bus (OSB) (OEPE)
+
+«+ Webiphere Application Server WAS 70°WAS 60-RSAGEN)
+
+«+ Rational Application Developer RAD 6 008M)
+
++ Dati:
+
++ Oracle 1g, JAVADB - DERBY, HSQLDB, Mat
+
++ Sciing langage
+
++ SeaSerit HT,
+
+«+ Version cout
+
++ Gir rash Subversion (SV)
+
++ otter wits
+
+“+ UML EnterpneArchtet 75 (EA) LDAP explores,
+MgEsplore,Alasian stack. JRA, Bamboo and Coen,
+Porpet
+
++ Development Platform
+
++ Operating Systems
+
+“+ Mac 0, Windows 2000°XP windows, Liu
+
++ Quality Assurance and Robustness
+
++ Sona, pefomance improvement sing Jroier and ViselVM
+
+“ELK stack and ata melody for API mesitoring
+
+Acconpuistness
+
+Exeouesee
+
+02013-02015
+Expeaitrs Iterations OF Washington, Ine. — Choe, aia
+
++ Project ety an acces management (LAM) ADP Dele services provide services to Automotive dealers withthe ep of various web
+
+tad aplication
++ ent and acess management proidesAubenicaton Authorization woe management wer potion, Size Sin On (SSO),
+Federation Services ad OA o these applications
+
+«+ Desined& developed RESTFUl APIs sing Spring mewerk.
+
++ Secued APIs with Ont? 0 and Basic Autentcationpotocal
+
++ Implemented Rabbit for API etegation tru Spring AMP an Spring Iteration
+
++ Implemented pvt Genre (l Memory datas) to achieve high perfrmsnce ad to andl high aden Authorization sevice
+
++ Implemented Mya a persistence amewodk for ent sence
+
++ Used Oracle RDBMS as wer store, implemented Ligibase for identity and autorization
+
++ Improved meaning wait est coverage tll 0+
+
++ Orzaized QA snd Wie integration tet ans an performance et aves wing Meter an Gating (Seals eeapetvely.
+
+“+ Used Mockto an WirMock 5a mocking framework
+
++ improved API performance by 200%.
+
++ Worked mevies monitoring wl ike ELK (astiseach lost ibn) stack for APL Dasbosd
+
+“+ Used A Siteminder fr Authentication and 25 SSO provide.
+
++ Implemented several Java Utes as part ofanovaton which helped tam,
+
++ Many tines Showcased working softer o Product mazagemeat and stack elders
+
++ Batti boot aig ow eb echoologis nd train team nit
+
+Senior Astocate Software developer, 102010127012
+Sas Institute Orlando, Germacy
+
+‘+ System Gabi a software sm of Dec Telekom (Icom) it eosids vast arty flac outions
+
++ Copnizant nd TSystens a sates business partes
+
++ Soin i tloor provisioning sytem.
+
++ lisdevloped to peoside a manazement console to manage ios clement manager ike CUCM, Novatec and Cico Woe Gateway.
+
++ Soi provisioning tem gets odes rom varios external sytem
+
++ According o ede, Sofia prosining stem delegates thse eres to respective modules,
+
+«+ implemented SOAP web service tisngOricle SOA site,
+
++ Implemented MDS as repository fr Schema and WSDL.
+
++ Used Jevelope to inplement Business process execution language (BPEL),
+
++ Used Oracle Sersice Bus (OSB) for sevice intepration.
+
++ Implemesed various sevice oI phones ke al wating, Call Forwarding, Speed Dial nd Change PIN
+
+1 These services are exposed as XML RESTFul services wing OSB.
+
++ Worked on Spring MVC aplication for Soa UL.
+
++ Created Database adapters ontop of datahase Objet in OSB.
+
+«+ Implemented aii fr data syncronization to sych data bernen ais extemal systems and Sofa datas
+
++ Learned completly ae teclogy ike OSB ad presided taining and cosching tothe tam member
+
++ Project- Busnes logic Technique (BL-T)
+
+Associate, 107007 - 102010
+Advent Software ~ Meas, India
+
++ BL-Tis an OSS stem om THome to inesigae and Reeve DSL connection tthe any place in Euope oa the bass of parameter like
+
+telephone nuaber
+
++ acts aan iatliget interce beeen the NonbBoud ystems andthe SouiBound systems
+
++ implemesed senses SI, $2, 3, $4
+
++ for NomBound tems.
+
++ Eathofthe above mentioned services are seanto cay out pci proces in the reOrde,
+
++ The ead rest of the ete process a PreOrder tobe updated in EXE.
+
++ Implemented series integration using (MS) and MDB i the form of XML messages over BMMQ Seis.
+
++ Vaal XBEAN fir message tanfiemation
+
++ inplomested BL-T Adin conse using HTML, IR, avScripand Struts Frame
+
+Epvcarion
+“Masters of Computer Applications: ane 2004
+ROPY University
+Bachelor of Commerce: one 2001
+Vikram University
+LANGUAGES
+
+leat in English and Hind, Basic German).
+
+si
+
+ADP, APL Architect 75, Automotive, Basic, Business Process, Cisco coahing. com, CA, Vasion conto, Database, DSL, Eclipse, Feat in
+English, XML, Gateway, German, Hin HTML, IBM TBMM Series, BM NESeries, novation Java, IMS, ISP JavaScript, DBC,
+JSON, LDAP, Linus, lpi, Mae OS, Memory, acess, windons7, Windows 200, MVC, MS. steps, Operating Systems, Oracle
+Developer, 05S, Product management, QA, Quality Assurance, RAD 60, Oracle RDBMS, Seve, Scripting. SOAP, strate Sts, telecom,
+telephone, phowes, Tomat, UML, Uses, Web Severs, Welopc,Webspbere, XSLT

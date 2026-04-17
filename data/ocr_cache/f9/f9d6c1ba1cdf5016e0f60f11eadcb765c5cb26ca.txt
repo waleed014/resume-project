@@ -1,0 +1,161 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS ©
+
+WORK HISTORY
+
+EDUCATION ©
+
+CERTIFICATIONS
+
+ACCOMPLISHMENTS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 '2 (555) 432-1000 4 resumesample@example.com
+
+Aniighly motivated Database Administrator with over 5+ years of comprehensive experience managing system
+and user databases. Strengths in troubleshooting and maintaining servers, systems and security to support
+‘smooth business operations. Proactive in establishing backup and recovery processes and protocols to
+protect and retain valuable company data
+
+‘+ Excellent work ethic, professionalism, attention + Work from Home experience
+
+to detail, ability to work in highly collaborative «Implementing security measures
+team environment Highly self-motivated and + Microsoft Visualization
+adaptable to learning and understanding new «Good listening skills
+technologies
+
+* Good interpersonal skills; solid team player
+‘+ Database development
+‘+ Implementing security measures
+
+‘SQL DATABASE ADMINISTRATOR 01/2020 to 06/2021
+
+Asre Federal Holding Company | White Sands Missile Range, NM
+
++ Performed all day-to-day aspects of MS SQL database administration,
+
++ Responsibilities include database design, installation, security, managing users and logins,
+performance
+
++ Created optimal technical solutions to user needs through research and in-depth system analysis,
+
++ Produced high-standard database solutions to meet stability, reliability and performance metrics
+
+Configured High Availability Solution- Always On Cluster, Traditional Failover Clustering, Database
+Mirroring and Log Shipping Installing and maintaining SQL Server database systems,
+
++ Maintaining database systems includes but is not limited to ensuring successful backups, resolving
+system issues, opening cases with vendors to resolve issues, monitoring success and failure of
+automated jobs, monitor system availabilty, updating system documentation, system and database
+recovery.
+
++ Used SAL Server Profiler, Extended Events, Query Store, Activity Monitor and Database Engine Tuning
+Advisor (DTA) for performance.
+
++ Followed standard practices for migrating changes to test and production environments and provided
+technology support to meet business requirements, upgraded SQL Server 2012 to SAL Server 2016.
+
+‘+ Responded to and resolved all database access and performance issues,
+
++ Setup and maintenance of appropriate database and application monitoring using IDERA monitoring
+tool
+
++ Setting up TOE and always encrypted Responded to and resolved all database access and
+performance issues Responded to and resolved all database access and performance issues.
+
+‘+ Experience with agile environments and others,
+
+MOSQL DATABASE ADMINISTRATOR 08/2019 to 02/2020
+Leidos Holdings Inc. | Schenectady, NY
+
+‘+ Perform all day-to-day aspects of MS SQL database and Administration such as: Installations,
+configuration, upgrades, security, user management and Logins, performance tuning and monitoring,
+database Availabilty, backup and recovery, trouble shooting, and problem resolution.
+
++ Produced high-standard database solutions to meet stability, reliabllty and performance metrics,
+
++ Created optimal technical solutions to user needs through research and in depth system analysis.
+
+‘+ Involved in ensuring data recovery, maintenance, and data integrity and space requirements for
+physical database.
+
++ Creating and Modifying Tables, Views, Indexes, Triggers etc as requirement on SAL Server
+Environments.
+
+‘Planning and implementation of Database backup/restore and disaster recovery.
+
+‘+ Automation of DBA Tasks and monitoring using both SQL inbuilt tools and third party tools.
+
+‘+ Responded to and resolved all database access and performance issues.
+
++ Configured and supported replication and log shipping in both SQL 2014 and 2016.
+
++ Oriented other database administrators on SQL Server management including upgrades and migration.
+
++ Respond promptly to user complaints regarding access to database,
+
+‘+ Managed workload independently but collaborated with colleagues to complete larger scale tasks in
+distributed team environment
+
++ Planned and implemented security measures to safeguard vital business data.
+
+‘+ Set up and controlled user profiles and access levels for each database segment to protect important
+data,
+
+sq DBA 04/2016 to 04/2019
+Apex Systems | Seal Beach, CA
+
++ Planning and implementation of Database backup/restore and disaster recovery.
+
++ Created optimal technical solutions to user needs through research and in-depth system analysis,
+
++ Produced high-standard database solutions to meet stabil, reliability and performance metrics
+
+‘+ Installed SQL Server 2008 through 2016 on advanced servers, applied security fixes and patches,
+
++ Documented processes for installations, clustering, availabilty group setup, and patching,
+
+‘© Maintained database response times in 24/7 Production environments Capacity Planning and resource
+allocation.
+
+‘+ Monitoring standby Databases to ensure high availabilty Setup Database Mail and Operator to alert
+when ever any automated job fails.
+
++ Used Azure Active Directory authentication.
+
+‘+ Performed Database Migration from On-Premises SQL environment to Azure Database in cloud.
+Implementation of snapshot isolation and DDL triggers Followed standard practices for migrating
+changes to test and production environments and provided technology support to meet business
+requirements.
+
+Bachelor of Arts | History 07/2015
+University of Bamenda , Cameroon
+
+HICn School Diploma 07/2010
+Saint Mary's Catholic Comprehensive High School, Cameroon
+
+‘+ Certified Microsoft Technology Associate
++ Certified Microsoft SAL Server
+
++ Certified Microsoft Office
+
++ Certified Professional Scrum Master (PSM 1)
+
++ Knowledgeable in QlikView and Qlik Sense Developer
+
+‘+ Increased efficiency 25% by providing optimum database performance with efficient backup and restore
+processes.
+
++ Recovered data during a disaster to a point in-time using Database Backup and Recovery model.
+
++ Documented and resolved down time using the company SLA which led to less downtime in the
+production environment and high productivity.
+
+‘+ Improve performance and grant access to database users using the principle of lease privilege.
+
+‘+ Advanced skils in IDERA Tool
+
+‘+ Used Microsoft Excel to develop inventory tracking spreadsheets.

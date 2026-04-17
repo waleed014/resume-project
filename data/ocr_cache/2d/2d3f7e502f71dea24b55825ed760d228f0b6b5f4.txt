@@ -1,0 +1,130 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+DevOps Engineer having around 8+ years of experience Configuration Management using ansible, CI/CD using Jenkins/GitHub/Azure
+DevOps etc. Experience in Content Delivery network and Implementation of Akamai Property Manager, GTM, Cashing, Redirects and
+Failover logic. Akamai SPA Configurations for Covid Vaccine on Pharmacy - Configuration of Visitor Prioritization Cloudlet for Pharmacy.
+Due to high traffic, management had required to build SPA for pharmacy pages. VP Policies, Desktop & Mobile, Pharmacy, Covid.
+Experience with container systems like Docker, container orchestration tools like Kubemetes. Good knowledge of version control tools like
+Gittiub. Experience in merging, branching, and maintenance of an organization's information system. Experience in Network Management
+like DNS, fip, SSL, SSH, HTTPS and system troubleshooting skills. Installation and configuration of Apache Web server and App server
+including SSL configuration and proxy plug-in for application server. Ability to quickly leam and adapt to the rapidly emerging Technologies.
+Exceptional analytical, troubleshooting, and problem-solving skills. Hands-on experience with Infrastructure as Code, using Terraform and
+Ansible, Good understanding of Shell Scripting.
+
+Sxms
+* Technical Skills + Azure Kubemetes Service, Azure Pipelines, Azure Firewall.
++ Programming Languages * Code management
+* Shell Scripting, Python, lua + Git, Gitttub, GitLab.
+* Continuous integration * Operating Systems
++ Jenkins, GitHiub Action, Azure DevOps, GitLab. + Linux, MacOS, Windows
+*cDN + Networking Protocols
++ Akamai & Torbit + TCP/IP, Telnet, HTTP, HTTP2, HTTPS, FTP, WS, DNS.
++ Automation and Management * Monitoring
++ Ansible, Python, Terraform * Graphana, Splunk
+
+* Cloud Services
+
+EXPERIENCE
+
+12/2022 to Current Devops Engineer
+Amazon.Com, Inc. ~ Nashua, NH
+
++ Onboard new applications on to Akamai CDN and route to the backend host to establish connection
+
++ Build Dev, QA, Preprod and PROD Platform AKS cluster environments to support platform related workloads
+
++ Automating Edge Platforms Akamai | Torbit | TM
+
++ Enabling Dev teams to self-provision changes on lower environments
+
+«+ Fix security vulnerabilities which allow unauthenticated attackers to exploit services
+
++ Following the Agile methodology and Scrum to manage the full life cycle development of the project
+
++ Built and maintained high availability and fault-tolerant infrastructure using Ansible and Terraform
+
+* Created and maintained fully automated CL/CD pipelines for code deployment using Maven and Jenkins
+
++ Used various features of Azure like Notification Hubs, MySQL and Blob Storage for backups and scaling
+
+* Configured and maintained Kubernetes clusters for deploying and managing the Microservices
+
++ Reduced costs by ~$2,000 each month by eliminating unnecessary servers and consolidating databases
+
++ Used Jira for project management
+
+* Epics, tasks, and subtasks are created to track the progress
+
+‘Used Gitkfub to maintain the version of the files and took the responsibility to do the code merges from branch to
+trunk and creating new branches when new feature implementation starts
+
++ Splunk upgrade from 8.2.4 to 9.0.1 in dev, QA and production with automation scripts
+
+* Disabled THP in all vm where splunk enterprise is installed and increased the ulimits for stable and improve
+performance of splunk
+
++ Environment: Akamai, Maven, Jenkins, Ansible, Linux, Azure, Microservices, Docker, Kubemetes, Git, Gitkfub,
+Jira, Python, Splunk.
+
+01/2019 to 10/2022 DevOps Engineer
+Amazon.Com, Inc. — Northborough, MA
++ Implemented complex rules to route traffic based on headers and cookies
++ Implemented Rate-limiting to block bot traffic
+* Created terraform modules to provision AKS cluster
+* Configure Firewall rule on azure for Nat-Rule, Network rule & Application rule
++ Build splunk cluster by configuring HED, Indexers, SH and DMC
+* Increase the parallel ingestion pipelines to open more more connection to increase the performance of splunk
+* Configure internal logs to monitor splunk blocked events
+« Install, maintain and monitor SSL certificates for Lower environments and Production
++ Involved in all phases of the project from analysis and requirement phase to delivering the project
+* Created and maintained fully automated CL/CD pipelines for code deployment using Maven, Jenkins and Ansible
++ Used a Microservices architecture with Spring Boot based services to build, test, containerize applications and
+deploy identity Microservices
++ Used JIRA for resolving bugs/defects in application by coordinating with team members of the project
++ Used Bitbucket for version control and code management
++ Provided technical guidance and mentorship to junior team members
++ Environment: Akamai, Java, Jenkins, Ansible, Maven, Microservices, Docker, Kubemetes, JIRA, Git, Linux
+Splunk
+* Project
+
+12/2013 to 11/2018 Devops/Middleware Engineer
+Putnum Investments ~ City, STATE
+* Install and configure Web and App servers from Dev to Prod environments
+‘© Managing and Administrating Linux Servers in Web Hosting Environment
+‘© Migrate Netscalar load balancers to F5 Load balancers from Akamai GTM
++ Constantly interact with the client and understand their needs and make sure everything is done to their satisfaction
+© Configuring and Tweaking web server Apache and Jboss app server
+‘« Involved in monitoring the performance and troubleshooting bottlenecks of Memory, CPU, /O Devices and
+Network using ifconfig, ps, vmstat, iostat, netstat, uptime, Isof and sar commands.
+
+EpUucation AND TRAINING
+
+Bachelor of Technology: Computer Science
+
+ACCOMPLISHMENTS:
+
++ SSH public key authentication and secure password less login
+
++ Troubleshooting day-to-day server related issues and problems
+
+* Update maintainable, and well-documented code to ensure the quality of the software
+
+* Collaboration with cross-functional teams, including product managers, designers, and QA engineers, to ensure the project is delivered
+on time and within budget
+
++ Troubleshooting and fixing bugs in the software to improve its reliability and performance
+
+* Conducting thorough testing of the software to identify and resolve any issues before release
+
++ Keeping up to date with the latest advancements in cloud computing and Python development to continuously improve the software
+
++ Participating in code reviews and working with senior developers to continuously improve your coding skills
+
++ As a Team Member of support desk, responsible for providing timely and accurate 24X7 supports
+
++ Environment: Akamai, Python, Apache, Jboss, Splunk, Netscalar, Oracle DB, JIRA.

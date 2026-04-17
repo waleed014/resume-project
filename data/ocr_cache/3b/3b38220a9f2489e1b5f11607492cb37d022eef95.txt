@@ -1,0 +1,53 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Epucation
+
+Junior, 2019 Bachelor of Science: Computer Science
+University of Minnesota - Minneapolis, MN
+Specializations in Progress
++ Software Engineering, Programming Languages, and Data Systems Development
+‘* Theoretical Computer Science
+* Big Data and Databases
+Relevant Coursework Completed
+* Algorithms and Data Structures, Formal Languages and Automata Theory, Program Design and Development,
+Advanced Functional Programming Principles with Clojure, Discrete Structures, Machine Architecture and
+Organization, Introduction to Algorithms and Data Structures, Probability and Statistics, Programming Concepts
+with Python, Calculus 1 & 2
+
+Work History
+
+08/2016 to Current Computer Science Teaching Assistant
+
+Datawatch — Troy, MI
+
+Courses Taught:
++ Introduction to Algorithms and Data Structures
+* Introduction to Programming in Java.
+
+Responsibilities include:
+‘© Weekly meetings with course staff to discuss improvements to the course
+* Updating weekly labs and projects.
+‘* Holding weekly office hours where students may get help on homework, labs and any course concepts.
+‘© Leading weekly labs and providing assistance to students.
+Grading labs, homework, projects, midterms and final exams
+
+04/2016 to 07/2016 Software Developer Intern
+Rightpoint — City, STATE
+Full stack ASP.NET internal software development for Rightpoint. Projects Include
+A webpage for employees to select customized data involving employee project assignments and hours using SQL,
+ASPNET MVC, Javascript and C#, which increased the decision making productivity of project managers by
+allowing them to download the data as a CSV file for further analysis
+‘* A web page which centralized the process of creating new clients and projects by pushing new client/project
+information to both the OpenAir server and Salesforce server, both of which store client and project data.
++ Functionality allowing project managers to move team staffing hours by a selected number of weeks, effectively
+being able to extend/shorten project timelines. Updated the display grid real time using HTML, Javascript and
+KnockoutJS, and committed the changes to the backend server upon saving.
+
+Sms
+* Languages: C, C#, C++, Clojure, Java, Python, HTML, * Tools: ASPNET MVC, Entity Framework, Git, Visual Studio,
+Javascript, KnockoutJS ‘Unit, CxxTest, SQL Server Management Studio, Team
+
+* Operating Systems: Linux Ubuntu, OS X, Windows Foundation Server

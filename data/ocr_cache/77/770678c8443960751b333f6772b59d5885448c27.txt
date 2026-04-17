@@ -1,0 +1,172 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
+Operating Systems/Platforms:
+SUN Solaris 9/10, SCO UNIX, IBM
+AIX 4.x, RedHat Linux 7/6
+Languages: SQL, PL/SQL, Java
+ERP: Oracle applications,
+Peoplesoft
+
+Case Tools: ER/Win 7.x, ER/Studio
+Database: Oracle 12c/11g, DBZ
+UDB 8.x, MS SQL Server 2000
+
+RAD Tools: Oracle Forms/ Reports
+(IDS 91/6i/6), Power Builder 5
+
+DBA Tools: Oracle Enterprise
+manager/DB console, Embarcadero
+DB Artisan 7.x, Quest Central
+5/4.5/TOAD 9, UNICENTER SQL-
+Station 7.x, STATSPACK,
+SQL*Loader, RMAN, NETWORKER/
+Legato Storage manager, VERITAS
+Volume Manager for Solaris 8.x
+
+DB Technologies: Oracle
+‘Materialized View and Advanced
+Replication, RAC/Grid Computing,
+Dimensional Modeling
+Miscellaneous Tools: Unix Shell
+Scripting, Exceed, PVCS, VSS, FTP,
+Telnet
+
+Applications: Airline Crew
+Resource Management, Finance,
+Transportation, E-commerce,
+Retail, Telecommunications,
+Healthcare, Mortgage Management
+
+EDUCATION AND
+TRAINING
+
+Punjab University
+Lahore, Pakistan
+
+Bachelor of Science: Mathematics
+And Statistics
+
+Punjab University
+Lahore, Pakistan
+
+Post Graduate Diploma:
+‘Management Information Systems
+
+CERTIFICATIONS
+
+AWS Certified Cloud practitioner,
+OCP 7.3/9, IBM Certified DBA UDB
+8.1, BrainBench certified Oracle
+DBA, RDBMS Developer, Oracle
+Programmer (PL/SQL)
+
+SUMMARY
+
+Veteran Database Architect with 24+ years of experience employing comprehensive technical and
+problem-solving skills to tackle challenging new tasks. History of leading and collaborating with DBA
+teams to architect a diverse array of comprehensive OLTP and BI solutions. An out-of-the-box thinker
+with a track record of employing innovative solutions to automate processes and optimize workflows
+across departments. Adept at learning new database-related technologies and best practices, and
+ready to bring a growth mindset into a challenging new role.
+
+EXPERIENCE
+
+Honeywell - Senior Database Administrator
+Colonial Heights, VA + 04/2014 - Current
+
++ Lead DBA team and spearheaded management of Oracle database architecture to ensure business
+continuity and high availability.
+
++ Oversaw successful upgrade of Oracle databases from Version 12.1 to 19c. Migrated SDB and RAC
+databases to virtual on-premises cloud using KVM.
+
++ Ensured maintenance of database architecture through continuous troubleshooting, performance
+tuning, disaster recovery testing, ongoing patching for Oracle clusterware and databases, and
+management of standby databases.
+
++ Collected information by meeting with team database architects and administrators to determine
+system limitations for capacity and load for UMASS database architecture.
+
++ Proactively resolved issues by monitoring DBs through the Oracle Enterprise Manager 13c, and used
+insights to implement effective solutions.
+
++ Managed IDM, PeopleSoft, Data Warehousing and OLTP databases to maintain a robust data
+environment.
+
+Ricoh Americas Corporation - Senior Technology Specialist
+Rochester, NY + 04/2009 - 05/2014
+
++ Analyzed intricate database issues and identified performance bottlenecks. Worked with DBA team
+to develop comprehensive solutions.
+
++ architected a single-console enterprise monitoring solution using Grid Control 10gR5 and
+Enterprise Manager 12c.
+
++ Oversaw management of database infrastructure, including DI40/ROR/Flexframe, physical standby
+databases and 100+ GI/RAC clusters.
+
+L3harris - Senior Systems Engineer
+‘New York, NY * 02/2007 - 03/2009
+CONTRACTOR, Fujitsu Consulting
+
++ Oversaw development lifecycle environments for a BI/DWH application, managed 2+ TB of
+production environment data and 25 Oracle instances that needed to be monitored on a 24/7 basis
+to ensure business continuity.
+
++ Streamlined monitoring and management procedures by architecting an automated system to
+generate performance reports, in addition to consolidating previously siloed monitoring and fine-
+tuning procedures into one global logical model used across teams.
+
++ Conducted code review for high performance and scalability to meet SLA, in addition to mentoring
+team developers for coding best practices and performance.
+
++ Architected and implemented an application high-availability solution using Oracle Data Guard 10g
+as a Physical Standby on a remote server.
+
++ Developed an ETL solution to optimize the process to parse text files and load them directly to the
+Oracle Database for performance.
+
+Wells Fargo Bank - ERP System Database Analyst
+City, STATE « 09/2006 - 01/2007
+CONTRACTOR, Fujitsu Consulting
+
++ Lead group of DBAS as a technical subject matter expert, and established integration of various
+enterprise systems within the department.
+
++ Converted existing legacy system architecture to upgraded Oracle-based systems serving up to
+260,000+ employees.
+
++ Designed, built, implemented and maintained an automated system to generate regular BI reports
+based on configurable metadata.
+
++ Designed and presented on the logical and physical data models for Wells Fargo’s integrated HBS
+(Healthcare and Benefits Systems).
+
+Visionet Systems - ERP System Database Architect
+City, STATE « 07/2005 - 08/2006
+
++ Designed ERP solutions and implemented a workflow system in Oracle and SQL server for Liz
+Claiborne Inc.
+
++ Supervised development of a number of applications being developed using Oracle, SQL Server,
+Java, VB and .NET technologies.
+
++ Led research on database architecture and provided recommendations on emerging database
+management and design tools, offering input on upgrade options.
+
++ Mentored team DBAS/Designers/Developers in technical concepts and coding best-practices.
+Developed robust documentation for coding standardization and technical specifications.
+
++ Performance tuned slow-performing SQL and all DB code in multiple tiers including Applet, Middle-
+tier and DB.

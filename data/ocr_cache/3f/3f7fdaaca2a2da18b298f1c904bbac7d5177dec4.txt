@@ -1,0 +1,234 @@
+Jessica CLAIRE
+‘Mtg Stet Sa Fasc, CA 05 55) 12100 eumeanleBeanee com
+
+Accommtisineents
+
++ Experience in Elaste Search Engine Luce ade based search, ELK lg aac tol, Elastic Seach Log Stash, Kibana Experience it
+wing Kata ZooKeeper a a dstrbted pols sbscrter messaging system ivelved in implementing data ceasing ow wang Ales
+
+Design and smplemented REST eb Senices ig Spang MVC wich ta male aero communes betwen ongoDB seb
+
+aplication Used Meneached which advocates web ap nodes tobe independent and slfsuicient (Shred Nothing Architects) Profiet in
+
+SAVA. Olet Oriented Nethodlopes Good tans on experience working wth Spring Data trae, native Mong araSerip and shel
+
+‘oman Worked on InfaaDB to eable performance erste anaes on scl media oss
+
+ands on experience in NoSQL. technology lik MengoDB (CRUD Ops, ndeing. Replication. Agerestion, hardig, varios ope manager
+
+stay) Expeence in using Alchny API ealclte th sentient fe Saial Mia Post
+
++ Hands en espsence of wring ISON Rest series nd creating bth job wing Mule ESB Woeked on Quart scheduler wing ering ttc to
+‘Schedule the data rocening wok ow in ole ESB nvlted ia all phase of ffwae fe cle ike rans, desis, develope,
+‘es. nstaling configu aed mating applications Hands on experience in aralyan. oping. ad tag the performance of be
+‘Sepliction wing Java Profiler Your JASon) Expenene in evening project ang Aple Methodology Experience npc cloo ike
+‘Amazon (AWS EC2) RDBMS experince inlndes Once, DBD, PosreSQL, MySQL and programming wing PLSQL, SQL Expeince in
+dutoeaton ad integration lke Chef, enki Good understanding in wing Python Srps and Shel cps Hands on expence in op
+‘ontoring ol ke Suck, Galo.
+
+PROFESSIONAL SUMEMARY
+‘Over 10 Yes of exesive experience in JAVAREE ining 3 yeas in Big Duta and Analytics “Experience in fil text seach and eae
+‘Siplementton wah al tay ning Else such and ata BS AP Cieaed dt acqustion Noe wing Aya Talo downlad ea ISON
+fle fom AWS S3 and ingested tina NongDB.
+
+sents
++ JAVA: RSE: 00D, Thread, Collectio, nit, a, JAVA Mai
+‘REE; Sping MVC, Stus MVC, JDBC, Jackson, Tomes, ISP,
+
+Serie Memesche
+1 HaoopEeowyten: Kala, Zookeeper, MapRedice
+1 Web seracs: Spang REST Apache AXIS, Mole ESB REST
+
+SQL DB. Oracle MjSQL, PostgreSQL, DBE, lfinDB
+1 NoSQL DB: MongoDB, Elasicsewch
+1 Web Technology C88, ava Serip, JQuery, HTML, AJAX, Free
+
+sie teat
++ Toole ANT Maven, GT, Meter, Chef, Jenkins, LopStb, Kiana,
+
+Chef Sense
++ Metodlory: Wael, Agile Ralls)
+05: Linu (Centos, Ubua), Widows
+
+Work History
+
+‘MongoDB DBA, 082016-Preseat,
+‘To9 International Ie —Phowsis, AZ
+
+"A360 isa collaboration ol ht eps eginers an designers ie, she review, and nd 2D and 3D design ad poet Ses in one cea
+workspace
+
+1 Keep your projects, les, and teams uptodate, whether youre athe office onthe id
+
+1 APAAS tard apication alld "Nitope” i being nd oc al les mages meta which ves MongoDB a primary dt source.
+
+* Responses Experience in performing Mongo DBA opeatioal vines NIMS configuration expesene Cofiuig aol eating
+replica sets Opiminng database guy performance Maintn MongoDB instances an infrastruc for amas, high irouppat
+‘tisactonal stem Toulesoot perfomance optimization in MongoDB Backup an estore rocefes fer MongoDB database wing
+‘rious backap states Pati nan oneal tation In deth experience wath MongoDS, replica set, shard, and dsibued databases
+Upate and manta oagoDB Chef or coniusion changes Used Seas for alerngmechanism Created scr eat missing Conti
+ties, cable sable balancer dung balancer window Opinzed Back scrips Maraged 9 Shards having moe an 10TB of na Lop
+‘pontong ands depth aml wn Spl
+
+‘Bigdata ETL develope, 022015082016
+‘Coyalant Technology Solutions ~Waresvll Highs,
+
+1152 Signals is anextgen teligece platform achieve Fase, Scalable, Sa base we bse ed platform,
+
++ Asa parof te development we ae doin Gt extacon text mining avomated octology bung. cresing data repository and bing BI
+‘tealnton.
+
++ Responsibly: Implemented ily to download JSON fies fom AWS S3 buckets to MongoDB Desi and Implemented REST web services
+(Sprig, JAXCRS, Joey) whch db to SOA (Sere Oneted Artest).
+
+‘Trough which ech ETL pipeline process communate wh each the.
+1 mplemented competion analyer sn las search or fers sgaet Integrated Kibana wih Elatcach to aalze indexed ata and pt
+
+Sept no he data in il ferme
+
++ Developed Map Reduce jobs in Prion for data leaning and data processing Responsible fr cntinsous monitoring an manaping Elastic
+
+‘Sher ong Marvel Fteating wing Mongo Projection aggregation Waites ob of clean od normalizing contact fhe rm Linked
+
+‘Asocaton an Graph modsing ofthe costa wh te company sing Allerys ows Responsible fr indexing processed data to MongeDB
+
+Slane Seach be ted in WE APP
+
++ Pesfrmance Toning of th ETL sep ar) ntScrg optimization load snl sized Mong olen in memory Perfermance Tong
+of Elastie Seach dering Created bch processing tenable pletion Optimized coset index parallel wing MoageDB Bulk APL
+
+(Gertie) Used 1Query'D3 jt implemen Funcon Ory chart which sce eanzatonherchy afrm of sun busca
+
++ Bet code eve wig batt Anas of he team code sing Sona Lit Used GIT fo cent and masta code epsitry ad to work
+feels th tea stig at erent locaton
+
+Used emcarhed sa Cate aye to soe wer nfoemation to improve web ap epense
+
++ Used Chet autre deployment of propery files on ll Processing servers and Orchester serves Weed on creating Python Srp 0
+
+‘esertupte dati lasteseach Used Python sept o validate opt of ETL steps Used Java Executor ramewerk to mpleweat
+
+‘tein wl indexing data it Elaricreareh Comprehensive knowiedge and experience i rman de normalion, 38
+
+‘evarton, data lansing Log monstrig aed depth sass sing Gralog Excoment JAVA, Hasse Seuch Kiana, Log Sta.
+
+‘MongoDB, Spring Mongo emplt, GI, Spins MVC, REST sevice, Altay, JavaScaptJQU, lel, Jes, Che, unt Lo,
+
+habia, Som Lit Grajog Cheat American Big Daa wirwambigstacom,
+
+Big data developer, 012013 -002015,
+“8 Socal Media tal provides vertinent and weadng of keywords
+
+1 Teprovies bili to wert serch ny keywords by specifying cetera and pet poss, ser deta source infomation
+
+1 elevance with that piven keyword
+
+1 Talo allows wer to montor sertnent tending of ay keyed his boze for wich system wil coativuslycllect dat wing batch
+proces and process the at,
+
++ Response Pata inthe egiement anaes nd prove inputs on th tecicl fatty
+
+1 taste in inporing the real tine posts tweets om vaou aa source lik FB, Tote, Goople Paro MosgeDB wing Kala peodicer
+ceosumer mosel
+
+‘+ Tvlved in creating Mle ESB ayer fer the dtferetcomponeat ofthe roduc naledin resting Spring Quart bach program which ches
+dia fom the Social AP ora given seo keywoeds Response for tepraingdlleent modules lie Liferay, MoagoDS, Ache, asDB
+‘wing ISON Rest secs
+
++ Bet code review sing Sos ode analyzer Automated build dployanen! sing Jenks Stat Monitoring Duta exact peocesing jobs and
+‘ing the blocker oes on peony basis Extesveexperiece sing MongoD Bulk JAVA API fr inser pate Extensively wie Mongo
+Azaestion API fr seatineat analytes Peformance Tung ofthe application using ara profiler Used Yes rofl slowe
+‘ends Opumized Mule ows to we multe dens using ata Execute Framework Developed and mai seer bth obs 0
+Suomancaly depending on busines fequceneat import and Expr ISON data ing MopaeD tol mongonpor, monsoexp Bult
+‘elvan of dts ne MongaDS tet etch enctonalty Used Shell spn fer eins asomaton Performance Taming ofthe
+pplication using Java profiler Emronmeat Core AVA, le ESB, REST sence, ven Terie SUN, MongoDB, Alber APL,
+TisDB, Ay SQL. Eclipse, D3, Jelis Cet Rate Ad Pharmacy wed com.
+
+Jaya Frontend Backend developer, 072012082013,
+‘otal offers its lint afc to enol in ferent types of popranslike Welles, Pharmacy, Shop, Po, Load2Card et.
+1 iallows wert lect store elie ad ellis pesos eine
+
+1 He ca alos dalferent pes beeline th programs old by Cet
+
+1 User ean lo puchase mein products offered by Amazon rogh his poral covet tell
+
+1 Resposttis volved in daily let Commonicisees and encing aplication the chat on weekly bai
+
+1 Incl in working ll he reales tat ae found sn tne
+
+1 Detsered modaer tht mest bape te nes, podartity sandra process saad
+
+1 Viste cht sn Phisdelpa PA, USA to understand underlying back-end sersices of te apliction nd ranted knowledge tthe team
+win shor tie.
+
++ During ost st, as responsible fr gathering infomation abut he eat existing back end secs ad ein dally update the
+fore tum inveved iz provigsluton othe ct fv ay ses being fneated dus deelopent the Hea ed appicaton ©
+Ssteprating sith tbe bac ed ere.
+
++ Enrnmeat Liferay 54, Spring MVC Portes, Freemae, JSP, Serves, Java Sct, JQuery, TAX, HTML, Tomcat 60, MYSQL 5, ANT,
+clipe 34, GIT Chet Global Compliance Sersics, le wore glbakcompliance com.
+
+Java Frontend Backend developer, V2011-062012
+‘Comcast,
+"Glatal Compliance lading prover of iterated ees od compliance soca.
+
+1 Global Compliance (GC) oes st cents a robe tht iterates LAS administrate functionalist a aleay deployed ebis and
+eoplince poral pod
+
++ Product enpowers managers to ceate ainng programs, sgn employees tthe programs and wack he proges of aden agin tone
+
+‘raining proerans
++ Iavlved in development of LMS(Learning Managemeat Syste) module by ceating new ports wing login eevtoamest
+* taelved in analyz te equsements, ant ieied the atea whee all estoization i eged
+5 chin evga ng perio perks suai mpg la ot i Ley etl ae
+1 Extensively evolved in ceting Web serie to integrate module with lens pot
+1 Used SQuey and Aja in deveopmet of ores.
+1 tale ia working lth rial tes ae found in esting
+Delivered modules that met betel tne, prodotti tanduds and proces stands
+1 son ut eving to eet poet quly requirement peed
++ Emitment Tomeat 60, SQL Server DB 2008, Java Sept, 1Query. IST, AJAX, ANT, Sts 13 Pros, JSP, Srl, Spring 30,
+‘iterate 3.0, HEME, SOAP series, Eclipse 34, SUN, JIRA Cle Bila Su Life Insurance wblasule com Project RWS - Receipt
+‘Weg System,
+Java Deteloer, 012009 - 122010
+"RWS issn application by which gets do the reciting of rious policies
+Diet Types of transactions ie apation ny, eit upload of dat, change fr recep ining st ranches ee:
+1 we doe roe RWS,
+1 leo conins master module fer giving acca sgh of various tanacton and reports tothe fen ranches.
+*tmaesthe pole aking proces fst forthe poli bode.
+1 Responses volved n analyzing the requements, ad iene the area wheal customization is required
+* Exeasivey involved in enhancing the aplication spt queen
+* Developed application sersice compooets nd conigured teas wing Sting TC, ceaton of Hibernate mopping les and generation of
+<nabane schema Pepa eta and fnctoeal documents, dsin and developmen of th pian,
++ Dever programs tht meet Bodgeted timelines, pods stands ad proces stands
+* Coutigted Hiberate framework with Seng MVC wo provide moe today in tems of DAO layer implementation Inplemested an
+synchronous, AZAX (JQuery) tae ich cet o improve cstomer experince Enaonment. JAVA, Spang MV, Hibernate, ISP, Sere,
+(race, DB Elie 3, Tomcat 6, 1Queryd Project Spool files penerton of Noses and Leta
+Java Deselper, 102007 -03 2008
+As the patiog of eters and nsics is being dove by Thid Pay we are proving spo! ies ofall letesnsics wo them.
+1 peo ies att ile which s generated as exp ofthe ropa
+* contin details foreach policy in snl ine separated by pipeline characte.
+1 peo eis being gente fo ais letersi Policy Aecout Sateen, Reminder Notice, Lapin Notice, Pending Policy Lett,
+Renewal Leta, Oveadue Leto
+Respoaibies Invlied a anljzing he equiement, designing ad developing he appiaion|
+1 Have wed LOG for debusing purpose
+4 Iavlved in unit esting andere ba ig.
++ VEnginering Softare Pt
+ai
+1 Cheat: nC Wien, Concorde General Agency, ntrance House, American Undervtng Manages, Distal Group (DART), USA
+‘Software Engineer, 122005 -092007
+= This is at clite web asd application providing iewance tothe Customers tough Agents which are the codes of the application booked
+to pata Insurance Apency and proiders colin quotation.
++ Responses Deliver poprams hat meet budgeted ine ses, rodctiity standards and proces Have used LOGS) fo debupsiag pup
+1 Responsible for wing SQL Quai.
+{Tavelved in weting POJOs ad hve wed Java cit o hand cient side alin.
+¢ Tvl in unit esting and ric bag ing
+1 sewicignexcom 6 winter com Sw cigne com 6 wintcgnee com
+
+Epucaniox
+Bachelor of Selene: Computer Scene, 2005
+
+Compute Science
+
+BYM,
+
+‘Sardar Patel Univesity “GI

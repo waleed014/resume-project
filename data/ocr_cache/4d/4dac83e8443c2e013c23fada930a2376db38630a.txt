@@ -1,0 +1,130 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000  resumesample@example.com
+
+‘SUMMARY
+
+I would like to work in an organization that will give me a platform to utilize my technical skills and my expertise in the process of growing the
+organization and myself with good initiatives. Professional Summary:- Hands on experience with Systems, Functional, Integration , Regression
+and end to end testing. Problem Solving Quality Assurance Analyst skilled in analyzing functional ,user experience ,and technical requirements,
+during the complete software life cycle. Certified Manual testing and Automation Testing . Experience working closely with developers and
+stakeholders to effectively design test cases for web applications.
+
+‘SKILLS
+* Concepts on core JAVA and writing Script + Database Testing Using WebDriver
++ System Testing Life Cycle(STLC) * Postman, soap API-REST
+* Selenium WebDriver + Data Driven Framework Development Using TestNG and
+* Verification and Validation Process WebDriver.
++ TestNG Framework « Languages:- C,C++ Java,C#.netJavaScript, HTML
++ Performance Testing Using HTTP Watch Tool ‘+ Manual Testing Techniques
+* Configuration management tool-SVN ‘+ Database:-MySQL
++ Bug management & Tracking Tool- MANTIS ‘+ Web Application Testing
+* Build Automation Tool- MAVEN + Operating System:-Windows
++ Test management Tool-TestLink + Database analysis
++ Data Driven Testing + Writing queries
++ Load Testing Tool-JMETER Basics + Root cause analysis
++ Apache ANT + Customer needs assessment
+
++ Automation Testing tools-Jenkins.BDD Tools- Cucumber,Github _* Presentations
+
+EXPERIENCE
+
+Database Administrator, 07/2020 - 04/2021
+Deloitte & Touche L.L.P. - Midland, MI
+
+* Performed Excel sheet works and some basic Microsoft Office Suite.
+
+* Ability to work in a fast paced Environment,
+
++ Expertised work on SQL related to the books publishing data
+
++ Performed Manval Testing, Automation Testing and Selenium
+
++ Tested and modified databases to determine and correct issues.
+
++ Developed data models and database designs to plan projects
+
++ Assessed customer needs and goals through communication and system evaluations to modify existing databases for personalized
+
+customization.
+
+* Defined database design specifications based upon project requirements
+
+* Communicated with data architects, programmers and engineers to keep projects on track,
+
++ Performed quality assurance processes to support data warehouse improvements
+
+* Designed, built, implemented and maintained [Type] system for [Type] client.
+
+* Created data verification and testing methods to resolve [Type] issues and prevent glitches.
+
+* Converted imaging and data workflows into [Software] from [Software] and [Type] servers to [Result]
+
++ Planned, engineered, configured and deployed [ype] and [Type] solutions while supporting software in [Type] environment.
+
+Software Automation Engineer, 04/2018 - 08/2020
+Altair—Glen Burnie, MD
+
++ Performed black box and white box testing, both manual as well as automation testing for e-commerce domain.
+
++ Automated smoke, sanity, regression and functional test cases for web application using selenium web driver with Java and Testing.
+
++ Implemented BDD Testing using Cucumber and created Feature files in Given , When, Then format
+
++ Utilized HP ALM for creating test cases, defects and recording Test Execution.
+
++ Worked directly with software developers, test engineers, product owners,business analysts, Project leads.
+
++ Strong SQL query writing and troubleshooting skills.
+
++ Responsible for testing any SQL, LT or Product updates taking place in.
+
++ Production along with running of all automation test cases.
+
++ Have good experience of Testing REST api using PostMan.
+
+* Managed, troubleshot and improved automation programs.
+
+* Automated all functional and regression testing approaches to streamline software production.
+
+Quality Assurance Engineer, 11/2017 - 12/2018
+Centene Corporation - Ozona, FL.
+
++ Developed and maintained Automated Test cases using Selenium Web driver, core java and Maven,
+
++ Utilized TestNG framework for generating Test Report, parallel Test execution & setting priorities.
+
++ Attended grooming and planning sessions with product owner and team to understand Feature requirements, User Stories and Acceptance
+
+Criteria,
+
++ Created a proof of concept for executing test cases from Jenkins and generating Test Report.
+
++ Planned test strategies depending on the project scope, environments and milestones.
+
++ Performed Functional, responsive, integration, end-to-end and regression testing for the new Features and existing features.
+
++ Strong understanding of SQL to perform Backend Testing.
+
++ Communicated release risk to release manager and product team on a daily basis,
+
++ Provided Demo to ProductOwner/StakeHolder at the end of Sprint and Release cycle,
+
++ Environment: Selenium Grid, WebDriver, 2.0, Java, SQL, Eclipse, UNIX, ANT, TestNG, XPath, Jenkins, Bugzilla, Web Services.
+
++ Designed and updated test cases to complete consistent manual tests.
+
++ Tracked software bugs and detailed all information regarding findings and resolution techniques in documentation for [Job tile}.
+
++ Provided continuous process improvement and preventive and corrective actions to facilitate operational efficiency.
+
+* Communicated with [Type] and [Type] departments regarding defects and [Type] issues and implemented effective solutions.
+
++ Used [Type] and [Type] tools to document project features, capabilities and requirements.
+
+EDUCATION AND TRAINING
+
+Bachelor's Degree: Computer Engineering, 01/2015
+Narnarayan Shastri Institute and Technology
+
+Certified course in Manual Testing and Automation Testing

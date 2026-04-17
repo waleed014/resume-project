@@ -1,0 +1,126 @@
+JrEssica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 ¢ (555) 432-1000 # resumesample@example com
+
+SUMMARY
+
++ Overall 15+ years of IT experience with a prime focus on Analysis, Design, Development, Customization, Data Modelling, Gap Analysis,
+Performance Testing, Administration, Documentation, and Maintenance of Web Based Client/Server Applications, Data Warehouse/Data
+Marts, Business Intelligence, AWS, and Snowflake. Strong background in Analysis, Design, Development, Implementation of Data
+Warehousing in ELT/ETL &¢ BI, including 3 years of experience in Snowflake Cloud Datawarehouse. In-depth experience with Snowilake
+architecture and cost management principles. Hands-on experience in implementing Snowflake Data Warehousing table loads using
+Snowflake utilities, SnowSQL, Snow Pipe, Tasks, and Streams, In-depth experience with Snowflake architecture and Cost Management
+principles. Experience working with applications developed in JAVA, VB.Net, ASPNet
+
++ Expertise in Load and Performance testing using LoadRunner, with different host systems and also configured the test environment.
+Knowledge in Delta Lake and Data Lake platforms. Testing experience with E-Commerce, GUI based client/server applications using
+‘Manval and Automated testing tools. Has proven ability to multi-task and work on multiple projects and thrive in a fast paced, deadline-
+oriented environment. Sophisticated analytical skills to solve technical and business-related issues. An energetic individual with good work
+ethics, excellent interpersonal, writing, communication skils ability to handle projects independently, detail oriented and an effective team.
+player.
+
+SKILLS
++ Cloud Data warehousing : Snowflake/SnowSQL. DataStage. '* Databases : Oracle, MS SQL, SQL Server, Snowflake,
+‘© Methodologies: : Agile (Scrum, Kanban), Waterfall ‘© Web Servers : Microsoft IIS, Sun One
+‘ Operating Systems : Windows family, UNIX, Red Hat Linus «Scripting : Shell Script, SQL, PL/SQL
+‘* Programming Languages : C, C++, ‘Testing Tools : LoadRunner, Performance Centre, Quality Centre.
+
+Defect Tracking : HP QC, IBM CQ, Service Now, Jira.
+
+‘EXPERIENCE
+
+Data Engineer, 04/2011 - Current
+‘Cognizant Technology Solutions — Franklin, TN
+
+‘+ CMS V3 is a Case Management system which manages Civil, Small Claims, Probate and Mental Health cases
+
++ Itpermits the electronic filing of Cases and is accessible at public computer kiosks in courthouses
+
++ Itis basically a statewide application supporting Superior Courts of Sacramento, San Joaquin, Ventura, San Diego, Los Angeles, and
+Orange
+
+‘Analysed the business requirements, participated in technical discussions, and provided detailed estimates forthe projects
+
++ Collaborated with internal and extemal personnel, including system architects, software developers, database administrator, design
+analysts and information modelling experts to determine project requirements and capabilites, and strategize development and
+implementation timelines
+
++ Having good hands-on Continuous Data Protection using Time Travel and Change Data Capture (CDC) using Streams and Tasks
+
++ Designed RBAC solutions for snowflake environment
+
+* Created views, materialized views, and secured views as per the business needs
+
++ Load data from the different source (esy, json, Oracle, MySQL) to snowflake DW
+
+‘+ Automating ETL Data Pipelining in Snowflake Data Warehouse using Streams and Tasks
+
++ Experience with Snowflake cloud data warehouse and AWS $3 bucket for integrating data from multiple source system which include
+loading nested JSON formatted data into Snowflake table using Python wrapper scripts
+
++ Identifying the business scenarios for doing Scale-up in Snowflake for best performance of clusters,
+
+‘+ Helped performance tune the application by experimenting with different combination of Garbage Collection algorithm parameters
+
+++ Zero Copy cloning - Cloning Objects in the account (Within the account)
+
++ Created buckets, snow pipes and stages and SQS (Simple Queve Service) on $3 for continuous data loads
+
++ Implemented Secure Data Sharing and Data Replication between two Snowflake accounts,
+
+ETL Developer, 12/2007 - 04/2011,
+Avantus ~ Fort Meade, MD
+
+‘+ Understanding the business needs and implemented the same into a functional database design
+
+‘* Extensively used all the stages and transforms of DataStage for various types of data conversions
+
+‘+ Worked on programs for scheduling data loading and transformations using DataStage from legacy system to Oracle
+
+‘Identify business rules for data migration and perform data administration through data models and metadata
+
++ Performed the Unit testing for jobs developed to ensure that it meets the requirements
+
++ Designed, developed, and monitored DataStage Server & Parallel jobs using DataStage 8.1
+
+‘* Tuning the DataStage repository and jobs for optimum performance
+
+‘= Was involved in performance testing each major release and making sure the application meets the SLAs
+
+‘+ Used Data Stage Director to run and monitor the jobs for performance statistics
+
+‘+ Worked closely with Project Architect in resolving Production Issues using my Performance Testing expertise
+
+‘Involved in the performance benchmarking after analyzing the load and response time and suggested for improvements to what level of
+
+performance can be achieved after tuning
+
++ Involved in all levels of testing right from Unit Testing, System Testing, Regression Testing to Performance Testing
+
+‘+ Used DataStage Manager to export and import jobs in different environments of development and production,
+
+‘+ Created different LoadRunner scenarios based on the end user requirement and feedback from client.
+
+ETL Tester/Performance Engineer, 01/2007 - 11/2007
+‘Commerce Energy ~ City, STATE
++ Overall expertise in all aspects of Performance testing including Planning, Design and Development, Execution, and Issue Resolution
++ Generated Vuser Controller Scenarios and Analyzed results Using Load runner for the client-server, web-based application
++ Involved in the performance benchmarking after analyzing the load and response time and suggested for improvements to what level of
+performance can be achieved after tuning
+‘+ Created low-level design and developed various jobs and performed data loads and transformations using diferent stages of DataStage and
+pre-built routines, functions
++ Created performance reports on doc and html formats and reported via email to team lead
++ Identified the critical test scripts to be automated, created automated test scripts using QTP and developed Batch Test
++ Analyzed system requirements, developed & executed detailed Test plans and Test cases
++ Performed back-end integration testing to ensure data consistency on front-end by writing and executing SQL queries on an Oracle
+database
+‘+ Smoke testing the new builds for QA-acceptance
++ Responsible for Planning UAT Testing and PAT testing.
+
+EDUCATION AND TRAINING
+
+Bachelor of Technology: Computer Science
+INT University - Hyderabad
+
+‘Master of Information Technology
+Latrobe University - Melbourne

@@ -1,0 +1,91 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000  resumesampleGexample.com
+
+Professional Summary
+
+Senior IT specialist with a total of 5+ years of experience as a System Administrator, Cloud Operations and DevOps Engineer with
+extensive knowledge of AWS cloud infrastructure provisioning and migration, automating CI/CD pipelines and developed script for
+build and maintenance of tasks. Consistent team player with exemplary multitasking skills.
+
+Skills
+* DevOps : Docker, Git, GitHub, Jenkins, Ansible, * Cloud - Amazon Web Services (AWS) : EC2, route53, VPC,
+Kubemetes, Terraform. IAM, ELB, S3 bucket, EBS, EFS, RDS with PostgreSQL, Auto
+Scaling.
+* Linux Admin : LAMP stack, Apache, MySQL, Network
+configuration, Servers, WordPress.
+Work History
+
+DevOps Engineer, 05/2018 to Current
+Jpmorgan Chase & Co. - Bear, DE
+* Monitored automated build and continuous software integration process to drive build/release failure resolution.
+* Wrote and updated documentation to outline technical design of entire project.
+* Researched and identified new technologies and tools helping to grow agile development environment.
++ Worked with software development and testing team members to design and develop robust solutions to meet client
+requirements for functionality, scalability and performance.
+* Collaborated closely with product development teams and other stakeholders, using effective communication and active
+listening skills.
+* Worked closely with other business analysts, development teams and infrastructure specialists to deliver high availability
+
+solutions for mission-critical applications.
+
+Linux System Administrator, 05/2016 to 06/2018
+
+Kratos Defense And Security — Bear, DE
+
+* Experience with the installation and maintenance of a Linux machine on virtual servers.
+
+* Worked on the installation, configuration, and hardening of Linux servers using the CIS Benchmark guidelines.
+
+* Provided planning and escalation troubleshooting on OS/application systems in Linux.
+
+* Created bash script for Linux system inventory which saved the company 80 hours of work.
+
+* Experienced with containerization (DOCKER)- building various Docker images.
+
+* Led in the building and troubleshooting of LAMP stack using Docker.
+
+* User/group administration, file/directory security, authentication, and access management (SSH, Firewalls) on a Linux server.
+* Participated in containerizing the Haproxy Server and I am experienced in installing and configuring a load balancer using the
+Haproxy Software,
+
+* Worked with different Linux flavors like Red hat, CentOS, Ubuntu...
+
++ Experience with tools like awk, sed.
+
+Linux System Administrator, 03/2012 to 02/2016
+
+Kratos Defense And Security - Douala Cameroon.
+
+Responsible of installing, configuring, hardening, optimizing, backup, monitoring, maintaining the Linux servers and workstations.
+‘Made mission-critical administration and initiatives including user management, group administration, files and directories, logs
+monitoring, network configurations as well as Firewall and SSH authentication access management.
+
+- Wrote bash shell scripts for automation, deployments, server configuration, system tasks, Kemel updates, package installation,
+system resource inventory, resulting increased productivity and efficiency.
+
+- Users and Group Administration and giving special permission using SUID/SGID, ACL and Sticky bit.
+
+- Monitored Linux CPU utilization, memory utilization, disk utilization and services using IOSTAT, VMSTAT.
+
+- Maintaining the Linux Firewall for network traffic and report any issue found to the security team.
+
+- Built, installed, bridged, configured, and tested virtual services including RHEL 6, 7, and 8; Centos 6 and 7 and 8, in VMware
+Workstation.
+
+- Responsible for creating, modifying and deleting users, groups, resetting account password and assigning the permissions to users
+and groups.
+
+~ Installation and configuration of web Servers on Linux platforms. Troubleshoot access log files for errors and web access traffic.
+
+- Wrote shell scripts for day-to-day system administrations, configuration and system hardening,
+
+- Provided Customer support, help/troubleshoot server issues, network issues and other wide system related issues.
+Education
+
+Bachelor of Science: Biology Teacher Education, 12/2005
+
+University of Buea - Cameroon
+Certifications
+
+Certified Kubenetes Associate (CKA)

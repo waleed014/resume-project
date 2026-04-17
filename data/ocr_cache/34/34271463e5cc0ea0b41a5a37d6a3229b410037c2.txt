@@ -1,0 +1,143 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+PROFESSIONAL
+EXPERIENCE
+
+EDUCATION
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor &2 (555) 432-1000 4 resumesample@example.com
+
+7+ years of experience in Database Administration for large databases in SQL Server 2005, SQL
+Server 2008,2008 R2,2012,2014 and 2016.
+
+Systematic and organized SQL DBA trained in database systems management using a variety of
+technology platforms
+
+Qualified SQL DBA committed to data integrity
+
+Experienced Database Administrator on Production Servers using SSCM,SSMS, performance tuning
+tools such as profiler, DTA.
+
+Hands on experience on SQL Server Replication, Backup/Restore, Disaster recovery and planning
+Having hands on experience in Log Shipping and Database Mirroring.
+
+‘Troubleshoot performance problems, fine-tuning of databases and index Analysis.
+
+Excellent communication skill, critical thinking and problem solving skils.
+
+Experience in Batch processes, Import/Export, Database Monitoring tools and Application support.
+24/7 Production Database on Call Support.
+
+Microsoft PL-300 Certified
+
+SQL Server + Replication
+MySQL. + Mirroring
+
+SQL Server Integration Services (SSIS) + Backup and recovery
+SQL Server Reporting Service (SRS) + Ensuring data integrity
+Power Bl, DAX + Data security
+
+AWS Redshift, S3 bucket
+
+SQL SERVER DATABASE ADMINISTRATION 12/2020 to CURRENT
+
+Qsronline.Com, Lic | Corpus Christi, TX
+
+Responsible for installation, configuration and complete administration of different versions of SQL
+Server (2008 to 2014)
+
+Apply Service Pack (SP) and hot fixes on SQL server 2008R2,2012 ,2014
+
+Configure log shipping for multiple databases as a part of Disaster Recovery.
+
+Configure Replication and Database mirroring
+
+Application support for front end feeds and Resolved Application connectivity issues like connection
+timeouts, connection pooling issues and memory leaks
+
+Extensively work with SQL Profiler, Activity monitor, DMVs, DMFS and DTA to tune the databases,
+queries, performance related issues like memory CPU and I/O issues
+
+Analyze long running slow queries and tune the same to optimize application and system performance.
+Configuring and maintaining Log-Shipping and troubleshooting the issues.
+
+Reorganize/Rebuilding the indexes at regular intervals for better performance
+
+Implementation of SQL Logins, Roles and Authentication Modes as a part of Security Policies for
+various categories of users
+
+Involved in troubleshooting and fine-tuning of databases for its performance
+
+Improve the performance of SQL Queries and stored procedures using SQL Profiler.
+
+Implemented company policies, technical procedures and standards for preserving the integrity and
+security of data, reports and access.
+
+Database Backup Procedures, Restoration Procedures, Disaster Recovery procedures and
+Contingency plans. Testing and implementing these procedures
+
+Provide 24/7 technical database support for SQL Database systems
+
+SQ SERVER DBA 11/2016 to 12/2020
+Verizon | City, STATE
+
+Installation, configuration and upgrading of SQL Server 2008/2008R2,2012 with service packs and hot
+tixes.
+
+Upgrading SQL Server 2008/2008R2 to SQL Server 2012 (Side by side upgrade).
+
+Providing On-Call support during business hours
+
+Monitoring Daily backup jobs and automation of daily restores of development databases
+
+Monitoring the Disk Space of all the Servers
+
+Configuring and Monitoring log shipping and Database mirroring on Disaster recovery Servers.
+Database snapshot creation for the synchronized databases for Reporting Purposes.
+
+Capturing the events using sql profiler for poor performing queries, deadlocks and blocks and studying
+the execution plans and fine tuning the applications
+
+‘Automating Server Side Tracing in SQL Server and identifying SQL Server performance issues, by
+analyzing Profiler output
+
+Disaster Recovery setup and testing it in regular intervals
+
+Reporting and resolving serious SQL Server alerts.
+
+Implement and Maintain database Security (Create and maintain users and roles, assign privileges)
+Working with workflows for any changes on staging and development environment. Involved in the
+internal and external audits and participating in the business continuity plans of the company.
+Implemented company policies, technical procedures and standards for preserving the integrity and
+security of data, reports and access.
+
+Designed strategic plan for component development practices to support future projects.
+
+JLCIOR SQL DBA 11/2015 to 11/2016
+
+Mr.Cooper | City, STATE
+
+Administered database and server security by creating and maintaining SQL server logins, permissions
+and privileges.
+
+Worked with Developers and QA team to resolve any database or application issues
+Provided ongoing maintenance and administration of assigned systems
+
+Configured and validated database backup routines and recovery of lost or corrupted data
+Maintained data security and integrity through user authentication and authorization
+Optimized database performance through database performance tuning
+
+Developed test sets for monitoring database functionality through 24x7 monitoring systems.
+Solved the request raised by user support.
+
+Participated in implementation of new releases into production
+
+Involved in Day-to-day administration of live SQL Servers.
+
+Bachelor of Science | Computer Science
+Hindustan University

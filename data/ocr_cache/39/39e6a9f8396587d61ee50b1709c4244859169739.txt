@@ -1,0 +1,209 @@
+JESSICA
+CLAIRE
+
+@ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery st. 10th
+Floor
+
+SKILLS
+
+ETL Tools
++ Talend Data Integration, Talend
+Cloud, Talend Real Time Big
+
+Data platform, DataStage 11.5,
+8.5 (Designer, Manager,
+Director), Informatica.
+
+Databases & Tools
+
++ Oracle (11g), Teradata v12,
+Hive.
+
+Operating Systems
+
++ Linux, Windows
+
+Scheduling
+
++ DataStage Director, Zena, TMC,
+Control
+
+Scripting
+
++ Unix, SQL, PySpark
+
+Reporting Tools
+
++ Tableau
+
+EDUCATION AND
+TRAINING
+
+‘Acharya Nagarjuna University
+05/2013
+
+Bachelor of Science: Electronics.
+‘And Instrumentation
+
+New York Institute of Technology
+Old Westbury, NY + 05/2016
+
+Master of Science: Computer
+Science
+
+SUMMARY
+
+Dedicated IT professional with 5+ years of experience in System design, development and delivery of
+enterprise software. Around 6 years of ETL experience in Database programming for creating Data
+Warehouse with IBM InfosphereDataStaget 1.5/8.5. (Manager, Designer, Administrator, Director),
+Parallel Extender, Talend and Teradata 14.10/13.10/12/10, DB2 UDB. Experience in working with
+Talend open source, Talend Enterprise version and Talend cloud. Experience in working with Standard
+jobs, Batch jobs and streaming jobs using Talend for Bigdata and Talend for real time Big Data.
+Experience with SDLC including analysis, design, construction, testing, and implementation. Extracted
+data from multiple operational sources and implemented SCDs (Type 1/Type 2/ Type 3) using Talend.
+Extensively used Talend components like tfileinputdelimited, tparquetinput, tspakrow, tSetGlobalVar
+tap, tReplicate, tJoin, tFileList, tSortRow, tBufferinput, tBufferOutput, tDenormalize, tNormalize,
+tParseRecordSet, tUniqueRow, tS3put, tS3get, tS3FileList, tRedshiftinput, tRedshiftOutput,
+tRedshiftRow,tsnowflakeinput, tsnowflakeoutput, tsnowflakerow tKafkainput, tkafkaOutput,
+tazurestorageput, tazurestorageget, tazureStorageConnection, tAzureStoragelist. Extensively worked
+on Error logging components like tLogCatcher, tStatCatcher, tAssertCatcher, tFlowMeter,
+tFlowMeterCatcher. Experience in Debugging, Error Handling and Performance Tuning of sources,
+targets, Jobs etc. Well knowledge and experience in Hadoop ecosystem (HDFS, YARN, Hive, SQOOP,
+HBASE,) Data pipeline, data analysis and processing with hive SQL. Strong SQL experience in Teradata
+from developing the ETL with Complex tuned queries including analytical functions and BTEQ scripts.
+Experience in Importing and Exporting data using Sqoop from Relational database system to HDFS,
+Hive tables, and vise-versa Implemented various projects on Agile Development &Waterfall model and
+hybrid model. Enhanced the design of current systems to improve system capabilities to meet the
+changing needs of the business. Modified application systems and procedures to optimize functional
+requirements including capacity, operating time, response time, and form of desired results. Strictly
+followed Title II of HIPAA, known as the Administrative Simplification (AS) provisions, security and
+privacy of health data. Expertise in writing UNIX shell scripts and hands on experience with scheduling
+of shell scripts using ASG-ZENA. Excellent experience in Relational Database (RDBMS) and ODS , Oracle
+11g,10g,9i, Teradata Load and MultiLoad, SQL, PL/SQL, TOAD. Created Business Requirement,
+functional, technical, and mapping design documents. Experience in designing Job Batches and Job
+Sequences for scheduling server and parallel jobs using DataStage Director, UNIX scripts. Experience in
+creating Indexes and Partition tables to improve query performance. Experience in writing and
+implementing UNIX shell scripts in Talend using the tssh component.
+
+EXPERIENCE
+
+Cook Children's Health Care System - ETL Developer
+Grapevine, TX + 11/2020 - Current
+
++ Designed various jobs for extracting data from various sources involving flat files and relational
+tables
+
++ Worked with the Data Team to understand the source to target mapping rules
+
++ Analyzed the requirements and framed the business logic for the ETL process using Talend and
+involved in the Talend jobs design and its Development
+
++ Developed jobs using Talend for data loading, importing Source/ Target tables from the respective
+databases and flat files
+
++ Created complex mappings in Talend using components like: tMap, tJoin, tReplicate,
+tAggregateRow, tDie, tUnique, tFlowTolterate, tSort, tFilterRow, tWarn, tContextLoad
+
++ Utilized Big Data components like tHDFSInput, tHDFSOutput, tHiveLoad, tHivelnput,
+tHiveOutput, tHiveRow, tHiveConnection
+
++ Worked on Talend ETL and used features such as Context variables
+
++ Worked on Context variables and defined contexts for database connections, file paths for easily
+migrating to different environments in a project
+
++ Implemented Error handling in Talend to validate the data Integrity and data completeness for the
+data from the Flat File
+
++ Used different database related components like tDbConnection, tDbinput, tDbOutput
+
+Cook Children's Health Care System - Informatica IDQ Developer
+Lewisville, TX + 08/2020 - 11/2020
+
++ Performed the roles of ETL Informatica and Data Quality (ID) developer on a data warehouse
+initiative and was responsible for requirements gathering, preparing mapping document,
+architecting end to end ETL flow, building complex ETL procedures, developing strategy to move
+
+ing data feeds into the Data Warehouse (DW), perform data cleansing activities using
+various IDQ transformations
+
++ Extensively used Informatica Data Quality (IDQ) profiling capabilities to profile various sources,
+generate score cards, create and validate rules and provided data for business analysts for
+creating the rules
+
++ Used Informatica Data Quality transformations to parse the “Financial Advisor” and “Financial
+Institution” information from Salesforce and Touchpoint systems and perform various activities
+such as standardization, labelling, parsing, address validation, address suggestion, matching and
+consolidation to identify redundant and duplicate information and achieve MASTER record
+
++ Extensively worked on performance tuning of informatica and DQ mappings
+
++ Hands on experience using query tools like TOAD, SOL Developer, PLSL developer and Teradata
+SQL Assistant
+
++ Built UNIX Linux shell scripts for running Informatica workflows, data cleansing, purge, delete, and
+data loading and for ELT process.
+
+Blue Cross Blue Shield - ETL Developer
+City, STATE » 09/2016 - 07/2020
+
++ Involved in the Analysis of the functional side of the project by interacting with functional experts
+to design and write technical specifications
+
++ Worked on the Architecture of ETL process and design document, and by using the Architectural
+design created the source to target mapping from source to target mapping documents that
+involves source file, ODS Member match, Teradata tables, Transforming the data into 837
+institutional and professional files and XML's
+
++ Coordinated with Business Users for requirement gathering, business analysis to understand the
+business requirement
+
++ Designed data flow, workflow diagrams and prepared technical documents
+
++ Performed analysis, design, development, Testing and deployment for Ingestion, Integration,
+provisioning using Agile Methodology
+
++ Extensively used components like tWaitForFile, tlterateToF low, tFlowTolterate, tHashoutput,
+‘tHashinput, tMap, tRunjob, tlava delimiter components and Db components to create Talend
+jobs
+
++ Developed jobs to move inbound files to HDFS file location based on monthly, weekly, daily and
+hourly partitioning
+
++ Created Data stage jobs (ETL Process) for populating the data into the Data warehouse constantly
+from different source systems like ODS, flat files, scheduled the same using Data Stage Sequencer
+for System Integration testing
+
++ Extracted data from sources like Flat Files, DB2, Oracle and Teradata
+
++ Developed technical infrastructure designs, data mappings, flows and report dissemination
+mechanisms by architecting Data Warehouses and Marts
+
++ Designed and developed parallel jobs, server and sequence jobs using DataStage Designer
+
++ Experience in using different types of stages like Transformer, Aggregator, Merge, Join, Lookup,
+and Sort, remove duplicate, Funnel, Filter, Pivot, Shared containers for developing jobs
+
++ Developed various bulk load and update procedures and processes using SQL
+
++ Loader and PL/SQL and Teradata SQL Assist
+
++ Developed various data connections from data source to Tableau Desktop for report and dashboard
+development
+
++ Created Schedules and Extracted the data into Tableau Data Engine
+
++ Exported data from Hive to Teradata and using Sqoop export and created the reports using the
+Tableau
+
++ Involved in working with various kinds of data sources such as Teradata
+
++ Successfully loaded files to HDFS from Teradata, and load loaded from HDFS to HIVE and exported
+to Teradata based on business requirement
+
++ Involved in the Documentation of the ETL phase of the project
+
++ Documenting business process, lesson learned & best practices for the project

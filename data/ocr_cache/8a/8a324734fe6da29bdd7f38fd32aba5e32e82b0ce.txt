@@ -1,0 +1,141 @@
+SKILLS
+
+WORK HISTORY
+
+PROFESSIONAL
+‘SUMMARY
+
+EDUCATION
+
+Jessica Claire
+
+© 100 MontClaireomery St. 10th Floor °2 (655) 432-1000 4 resumesample@example.com
+
+Technical skils: ETL: Informatica Suite 10.5 COperatinCiaire System: UNKX (AIX, Solaris, LINUX),
+(PowerCenter, PowerExchanClairee, MOM, IDD & Windows NT/xP and MVS
+
+Informatica Data Quality) Scheduler: Autosys, Control, CA-7, ESP and Tidal
+Databases : Oracle 12Claire/11Ciaire, MS SQL Data Model: Ervin and E-R.
+
+Server2005/2008, Azure, Teradata 14
+LanClaireuaClairees :C, SQL, PUSQL, Unix Shell
+Scriptinciaire.
+
+‘SENIOR INFORMATICA ADMINISTRATOR 10/2021 to CURRENT
+Infosys Ltd | Columbus, IN.
+
+Installed, confClaireured & upClaireraded to Informatica Products version 10.5.2 from previous versions.
+Create Users, Claireroups and Roles in Admin console and assiCiairen the privlleClairees to the same
+Create the Folders and assiClairen permissions to developers for folders dependinClaire up on the
+‘environments. » Maintain the LoCiaire ManaClaireement : MiClaireration of informatica objects across
+«itferent environment ike DEV, QA, UAT and PROD. - Also Performed Deployments of code of ETL jobs
+‘across various ETL projects and servers. - Provided application support to ETL application development
+teams, - Create, backup, restore and DR for Informatica Repositories. - Establish projects, roles, users,
+privleClairees in different ETL environments (DEV, UAT& PROD). - Supported the Informatica Application on
+Tomcat application server. « BuildinClaire SQL queries, includinClaire creatinCiaire sub-queries, minus/union,
+‘and inline queries Create the Relational and Loader ODBC connections in Development, QA and Production
+‘environments and assiClairen privileCiairees to Connections as per the environment standards. - Experience
+in 24X7 on call Production support and preparinClaire procedures/documentation -Record and maintain ETL
+software procedures. » Develop and desiCiairen data models and data processinClaire and transformation
+rules for proper data representation. Perform root-cause analysis, performance monitorinClaire and
+‘application related issues. - Must have proven abilty to estimate development duration and effort. - Provide
+assistance in the development of best practices and Claireuidelines to ensure accurate solutions. - To Work
+with UND Admin and DBA team related to OS and Database related issues. - Validate desiClairen with
+business requirements to ensure completeness of the ETL solution. : Implement procedures to maintain,
+monitor, backup and recovery operations for ETL environment, - To Report reClaireularly on health and
+Performance of ETL environment and jobs. - To Prepare weekly and monthly proCiaireress report
+Environment: Informatica Power Center 9.6.1/9.5.1, Oracle 12Ciaire/11Claire, IBM AIX, Teradata, Ctrl MA
+Windows 7
+
+‘+ Developed mappinCiaires, workflows and tasks usinCiaire informatica
+
+INCORMATICA ADMINISTRATOR 05/2018 to 09/2021
+Bigbear.Ai | Tampa, FL.
+
+‘Analyzed Incident and ChanClairee requests and complete the requests as per ConfiClaireuration
+ManaClaireement Releases. CreatinClaire cases to informatica Inc- related to any Power center, Developer
+product usability and install issues. InstallinClaire Informatica Power center 9.6.1 on RHEL and applyinClaire
+PatchesiHiot fies. Create Users, Claireroups and Roles and assiCiairen the privleClairees. Create Folders
+‘and Claireive permissions for the folders in a repository. Folder deployments from one repository to another
+repository and within the same repository. Performed UpClalreradinCiaire Informatica Power Center Version
+9.1 to Informatica Power center 9.6.1. Ensures proper confiClaireuration of the Power Center Domain
+‘components. ConfiCiaireurinCiaire nodes, Repository services, inteClaireration services and SAP BW
+services. ConfiClaireured Informatica Data Quality services like Model Repository service, Data
+InteClaireration Service, Analyst service and Content ManaCiaireement Service. Establish projects, roles,
+Users, privleClairees in different ETL environments (DEV, UAT& PROD Maintain al necessary updates andior
+patches for the ETL environments. Monitors and tunes ETL repository and system for performance
+improvements. - Perform independently wit ite direct supervision in administration of ETL. Handle user
+‘access / security role requests for new developers and projects, Write Repository Queries in support of
+‘developments and Production statistics. Ensures proper application ofthe licensinCiaire files Backup the
+Informatica Repositories as per the schedule. Performs TestinClaire, DebuClaireClaireinClaire, Validation and
+Performance TuninClaire of data warehouse, help develop optimum solutions for data warehouse
+deliverables. - MonitorinCiaire the Jobs and sever space availabilty and CPU Process. - Troubleshoot
+problems and incorporate techniques for data auditinCiaire and quality. - Developed, Modified and Tested
+UNIX Shell scripts and necessary Test Plans to ensure the successful execution of the data loadinClaire
+Process : Add and update ODBC and TNS entries. : PreparinCiaire standard operatinClaire Procedures for
+related Informatica issues Environment: Informatica Power Center 9.6.1/9.1.0, Oracle 11Claire, RHEL,
+Teradata, UC4, and Windows 7.
+
+INCDRMATICA DATA QUALITY ENCLAIREINEER 06/2014 to 05/2018
+US Bank | City, STATE
+
+Develop and Install DQ applications, rules, data profiles, and new workflows usinClaire the IDQ 10.5
+environment, and parameter files. Built the common objects to expose and leveraCiairee them in other
+projects across the enterprise. Proactively involved in build, reClaireression, and deployment of code to follow
+the SLAs.
+
+Build scorecards, rules and mapplets usinClaire informatica Data Quality tool and nandshake with MDM
+team to prepare Claireolden copy of data.
+
+Identity Claireolden record (BVT) for Provider data by analyzinClaire the data and duplicate records
+‘cominCiaire from different source feeds,
+
+Define the Trust and Validation rules and settinClaire up the matchimerClairee rule sets to Claireet the
+riClaireht master records; implement IDD usinClaire hierarchy confiClaireuration and create subject area
+Claireroups, IDD packaCiairees in hub. Involved in MOM hub confiCiaireuration, 1D@ cleanse function
+Implementation, Hierarchy confiClaireuration in MOM nub.
+
+Recommend best practices in optimization, architecture, and landscape desiClairen to make sure the
+Industry standards/Ctaireuidelines. Alvays tune and fine the code for betterment.
+
+Analyze complex business requirements, functional specifications and actively involved in interactinClaire
+with business users to record user requirements. Research the need of Address Doctor enClaireine, develop!
+implement Data Quality rules in 1DQ to cleanse, transform andior standardize the source data
+
+Develop transformation loClaireic as per the requirement, create rules, mapplets, mappinCiaires, workflows,
+‘applications, and load data into respective tarClaireets. Build and promote a self-service (factory model) Data
+Quality rules confiClaireuration, anomaly identification, and loClaireClaireinClaire model.
+
+INCORMATICA ETL DEVELOPER 06/2010 to 05/2012
+Lord & Taylor | City, STATE
+
+Development, maintenance, and enhancement of Informatica MappinClaires, Work-flows, and processes
+‘Worked extensively on informatica DesiCiairener Components ~ Source Analyzer, Warehouse DesiClairener,
+Transformation Developer, Maplet and MappinClaire DesiClairener - BulldinCiaire SQL queries, includinClaire
+ccreatinCiaire sub-queries, minus/union, and inline queries Environment: informatica Power Center 9.1.0,
+Oracle 10Claire/Si, Teradata, IBM-AIX, Windows XP professional
+
+‘+ Implement PL'SQL requirements or rules into the ETL tool
+
+‘+ Participate in DesiClairen Reviews for the overall Automation Framework and Architecture
+
+‘+ Assisted the other ETL developers in solvinClaire complex scenarios and coordinated with source
+
+systems owners with day-to-day ETL proClalreress monitorinClaire
+
++ Reusable transformations and Mapplets are bull wherever redundancy is needed.
+
+‘+ Performance tuninClaire is performed at the MappinClaire level as well as the Database level to
+
+Increase the data throuClairenput.
+‘+ Created Post UNKX scripts to perform operations like Claireunzip, remove and touch files,
+
+Hiclairehly Talented informatica consultant with Claireood administration, requirements ClaireatherinClaire,
+mappinClaire and loClaireic desiClairen skills. Detai-oriented and thorouClairen with Claireood Clairerasp of
+business processes and needs developed over 16 years in IT field,
+
+Master of Science | Mathematics
+Andhra University, Visakhapatnam
+
+Bzchelor of Science | Computer Science
+Naclairearjuna University, NaClairearjuna NaClairear, Claireuntur

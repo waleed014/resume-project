@@ -1,0 +1,100 @@
+JEssica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 # (555) 432-1000 @ resumesample@example.com
+
+CAREER OVERVIEW
+
+4 years of extensive experience in the areas of Manual Testing and Database Testing.
+
+‘+ Banking Operations (ICICI Bank Ltd) - 2.5 yrs of live working experience within Banks handling front end and back end operations from
+Teller Fixed Deposits, Savings, Current, Forex, Gold deposits to Tax managements
+
+‘+ Banking IT (NIIT Tech) - 2 years of extensive experience in Testing Banking software project including all the Banking operation system
+from scratch, Client- SEI Investments
+
+‘+ Airlines (NITT Tech) - 6 months of Airline domain experience that includes testing of complete Airline website, Client - British Airways
+
+‘+ Content Management (HCL Tech) - Worked 1.7 yrs in front end and back end of Content management tool that includes data migration
+‘using sql queries. Client - Pearson Education
+
+AREAS OF EXPERTISE
+
+‘+ Testing Tools Test Director, DCS, Amadeus, Sharepoint ‘+ Project Document Preparation and updating of Business
+‘+ Bug Reporting Tools PVCS Tracker ‘Requirement Document and Test Document
+++ Databases SQL server 2000, Oracle Database server + Environment WINDOWS 7/XP/ 2005/2000Work
+‘+ DB Tools SQL Server Management Studio, SQL plus, SQL,
+Loader, TOAD
+
+Work EXPERIENCE
+
+‘Test Engineer- Manual and Database, 04/2010 - 11/2011,
+HCL Technologies (Pearson Education) ~ City, STATE
+‘+ Manual Testing: Define and document test strategy, test plans, and test cases by evaluating functional and non-functional requirements
+dentify, create, execute and manage test cases Manage the status of defects/enhancements in the change management system and provide
+‘updates to the team on a regular basis Coordinate with other team members and vendor to accomplish testing goals Help troubleshoot
+issues that arise during project lifecycle and operations Participate in meetings with the IT teams, business teams, and vendors to discuss
+testing updates Create metricsteports to capture test progress for projects and releases Communicate ideas and information tailored to the
+style and needs ofthe audience (technical and non-technical) Handle testing efforts for multiple projects/releases concurrently Proactively
+identify ways to improve testing processes and techniques Build strong and sustainable relationships with internal and external
+stakeholders Identify quality risks and issues that impacts project deliveries
+‘+ Database Testing: SQL Query writing and optimization Preparing migration testing scenarios and creating, executing queries to test the
+mapping of the databases. Constraints testing to validate the unique constraints, primary key and foreign key Relationship between the
+tables. Security testing through SQL Injection, Session Hijacking and Session prediction. Creating views, stored procedures, transactions
+for data accuracy Expertise in Data mapping, testing and making Business Objects reports.
+
+‘Test Engineer - Manual and Database, 02/2008 - 01/2010,
+‘NIT Technologies (SEI Investments) — City, STATE
+
++ This is a core banking project. We have 11 different Strataweb banking applications. Iam the Module lead of “The CAFE Strataweb UI
+team’ whose task isto test the integration of 11 applications used by SEI for 151 banks in Europe toa single application called CAFE.
+(Customer access front end). This major task involved developing a new Ul of CAFE which will directly access to different banks through
+a single user interface with variant login ids of banks that is created through LDAP server.
+
+‘+ Tworked as a module lead handling a team of 2 testers. My task started from the intial stage of testing from preparing Test plan and.
+‘writing Integration test scenarios since it was majorly to the integration testing project. The testing of application involved to check all the
+functionality of old Strataweb application in the new CAFE application. This application has in total 31 reports related to customer
+accounts. Now to access the Strataweb application a user profile id is created through master application called SAM. This same user
+profile is then pointed through LDAP to access CAFE application server. Hence testing involves checking same functionality in old
+Strataweb application and in CAFE to find thatthe integration is done well
+
+‘Test Engineer (Manual), 06/2007 - 01/2008
+NIT Technologies (British Airways) — City, STATE
+‘+ The main purpose of British Airways Dot COM testing isto give the quality Intemet application where there are multiple ways of
+passengers booking, Changes in the booking and booking with a shopping basket functionality. It Includes ‘Flights and More Manage my
+Booking, Information and Executive Club Booking’
++ In BA.com site, the current online redemption availability application has limited functionality. Availability data is retrieved from Amadeus
+(live data) by Phoenix (Summary data) and output to the user as a number of calendars, which display redemption availability by day in the
+arrival and departure month selected. The user is often required to move backward and forward to find the availability that might suit them.
+
++ Iworked in Redemption Availabilty Phase-2 testing that deals with Widen search coverage forthe executive members on the guide page
+by allowing queries spreading over several months (up to one year) and a range of destination cities/counties'zones, Address questions like
+“where can I fly?” and highlight routes with high availability in both City List and Map page.
+
+Oftficer-Operations, 09/2004 - 05/2007
+ICICI Bank Ltd — City, STATE,
+
+‘+ ICIC bank is India's number one private bank with its operations in Branch and investment banking.
+
+‘+ I worked in ICICI bank Ltd as Officer in Operations.
+
+‘+ Thandled Customers saving, current, investment, NRI, Overdraft and Forex accounts.
+
+‘+ My job also inctuded preparing and sending income tax report for accounts deposits more than 10 lacs to RBI, creating Preparing audit
+
+books for RBI and intemal audits, handling gold deposits, fixed deposits and creating interest reports for customers.
++ Talso handled Private banking customers with various queries.
+
+EDUCATION AND TRAINING
+
+Bachelor of Arts: Economics and Entrepreneurship, 2000
+Delhi University - New Delhi, Delhi
+Economics and Entrepreneurship
+
+Advance Diploma in Computers, 2002
+APTECH - New Delhi, Delhi
+
+OTHER INFORMATION
+
+‘* Date of Birth - April 3rd, 1980
+‘© Work Status -EAD
+‘= Location - Bakersfield, CA, USA.

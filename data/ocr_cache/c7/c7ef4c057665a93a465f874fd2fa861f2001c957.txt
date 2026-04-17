@@ -1,0 +1,164 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+EDUCATION AND
+TRAINING
+
+University of Houston
+Houston, Texas
+
+Bachelor of Science: Economics
+
+Organizations & Accomplishmen
+
++The Cyvia and Melvyn Wolff
+Corporate Entrepreneurship
+Certificate
+
++ Association of Information
+Technology Professionals (AITP)
+
++ Student Economics Society
+(SES)
+
+PROFESSIONAL SUMMARY
+
+Oracle Database Administrator with a Top Secret Clearance and 5 years of experience designing,
+installing, upgrading, and maintaining 11gR1/R2 databases in large-scale UNIX/Linux environments.
+Professional skills include Backup and Recovery methodologies (RMAN), Performance Tuning, Security
+and User Management.
+
+TECHNICAL SKILLS
+
++ Oracle Enterprise Manager (OEM)
++ Database Configuration Assistant (DBCA)
+
++ Database Upgrade Assistant (DBUA) / MetaLink
++ UNIX/Linux Shell Scripting & PL/SQL
+
++ SQL*Plus / SQL Developer
+
++ SQL Loader / Data Pump
+
++ AWR /-ADDM Report Analysis
+
+PROFESSIONAL EXPERIENCE
+
+2 Essentials, Inc. - Oracle Database Administrator
+Columbia, MD + 11/2014 - Current
+
++ Assisted in planning and implementing Disaster Recovery and High Availability strategies.
+
++ Perform ongoing database maintenance, patching and upgrading for Oracle 11gR1/11gR2
+databases.
+
++ Utilize Oracle diagnostics tools like Explain Plan, SQL Trace, TKPROF, and the AWR to analyze
+timing & execution plan for tuning. Also use TOP and VMSTATS to understand the impact on
+memory & CPU processes.
+
++ Design and implement standard and advanced security enhancement and monitoring policies using
+Fine Grain Access Control (FGAC) and Fine Grain Auditing (FGA).
+
++ Provide guidance and recommendations for efficient use of database resources using various
+Resource Management techniques.
+
++ Plan and implement backup and recovery strategies using RMAN.
+
++ Utilize Oracle support to troubleshoot and solve critical database issues.
+
++ Work with clients, information architect, system admin, and developers to define information flow
+helping to transform business requirements into environment specific databases.
+
++ Attend bi-weekly / monthly meetings to understand business needs and provide suggestions for
+enhancement.
+
++ Assist in the design and implementation of several databases using Data-Flow Diagrams (DFD's)
+and E/R Models.
+
++ Provide database maintenance using SQL Developer and OEM.
+
+Best Buy - Oracle Database Analyst (Contract)
+City, STATE « 04/2014 - 11/2014
+
++ Utilized Metalink for opening tickets, downloading and applying patches.
+
++ Monitored and administered numerous databases in UNIX/Linux environments on Oracle 11gR2
+databases.
+
++ Responsible for the creation and management of users, roles, profiles, and privileges.
+
++ Troubleshooted and resolved user connectivity and account lockout issues.
+
++ Planned and implemented backup and recovery strategies.
+
++ Performed capacity planning for efficient database growth.
+
++ Configured Oracle Enterprise Manager (OEM) to automate and monitor numerous databases.
+
++ Responsible for creating and managing tablespaces and datafiles.
+
+Lowes - Oracle Database Administrator (Contract)
+City, STATE + 01/2014 - 04/2014
+
++ Performed initial installation /creation of numerous 11g databases.
+
++ Implemented conceptual database designs and logical models.
+
++ Planned and implemented backup and recovery strategies.
+
++ Performed capacity planning for efficient database growth.
+
++ Configured Oracle Enterprise Manager (OEM) Grid Control to automate and monitor numerous
+databases.
+
+Jackson & Company - Oracle Database Administrator (Contract)
+City, STATE « 07/2013 - 11/2013
+
++ Developed, tested, and managed backup and recovery plans.
+
++ Responsible for performing routine checks of a certain number of assigned databases to ensure
+maximum efficiency and availability.
+
++ Supporting database management by utilizing upgrade, tuning, and monitoring techniques.
+
++ Utilize Metalink for opening tickets, downloading and applying patches.
+
++ Assisted in database design and implementation.
+
+Home Depot - Oracle Database Engineer (Contract)
+City, STATE « 01/2013 - 04/2013
+
++ Implemented and monitored RMAN backup jobs
++ Utilized Oracle support to troubleshoot and solve critical database issues.
+
++ Performed ongoing database maintenance, patching and upgrading.
+
++ Provided guidance and recommendations for efficient use of database resources.
+
+USA Parking Systems - Oracle Database Administrator (Contract)
+City, STATE » 05/2012 - 11/2012
+
++ Administering, troubleshooting and debugging Oracle databases.
++ Developing and maintaining operational standards / procedures for Oracle.
++ Performing ongoing database maintenance, patching and upgrade.
+
++ Optimizing database uptime/availability and performing database audits.
++ Managed users, passwords and account lockouts.
+
+Reliant Energy - Junior Oracle Database Administrator
+
+City, STATE + 07/2011 - 03/2012
+
++ Installed, configured, and managed databases in UNIX/Linux environments.
++ Assisted in database design and modeling.
+
++ Maintained and updated the database schemas as requested by the Lead Oracle DBA.
++ Created roles and users and managed their privileges.
+
++ Performance tuned assigned databases.

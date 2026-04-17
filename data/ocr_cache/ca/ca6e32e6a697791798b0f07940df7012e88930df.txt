@@ -1,0 +1,105 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 @ resumesample@example.com
+
+‘SUMMARY
+
+Practical Data Science Engineer possessing in-depth knowledge of data science & analytics with 7+ years of expertise in data manipulation!
+pipeline techniques and analyzing large data sets. I love to drive business value by evaluating metrics, analyzing data and providing self-serve
+BBI solutions for better understanding of user behavior, product growth and in targeting right audience for achieving the relevant business
+‘outcome of the AJB tests. Futuristic tech-savvy and result orientalis independent professional bringing outstanding communication and
+organizational abilities.
+
+SKIS
++ Data Engineering - SQL (advanced), Hive/Presto, Python, + Data Pipeline Automation - Shell Scripting, crontab, Autosys,
+Informatica, SSIS. Oozie(basic)
++ Business Intelligence - Tableau, Adobe Analytics, Power BI ‘© Others - Data Analytics & Transformation, Data Modeling, SQL
+(Basic), Salesforce. transactional replications, Git(Source Tree), Product Growth,
++ Data Science - AB Test(estimation, results & impact), Pandas, Analytics, metrics definitions & visualization,
+snumpy, Jupiter.
+EXPERIENCE
+
+Data Science Engineer, 05/2019 - Current
+Blue Cross Blue Shield Of Florida ~ Tampa, FL.
++ Applied multiple data models to build robust ETL pipelines for quantitative & qualitative KPI analytics and AUB tests users base data assets
+fora central Data Science and Engagement Analytics Team forall adobe creative cloud products
++ Reviewed business areas, Identified the gaps among existing data sts & trends, proposed creative solutions to optimized processes and
+self-serve tools for AB tests volume check, growth journey estimation, KPI tracker to predict relevant business outcome; and Educated
+users on correct integpretation that helped reducing the ticket request significantly
++ Gathered, organized, tracked and evaluated data to perform in-depth analysis of A[B tests & its ARR impact, curent industry trends,
+‘product heath, user engagement and user retention trend to drive results
++ Worked alongside Product Growth, Product Management and Campaign infastructure teams to identify process improvement
+‘opportunites, intended features data collection, and analytical sequirements for large-scale product data analyses,
++ Summarized conclusions of business intelligence analyses of new users journey and product crash health desktop product error moniter,
+in-app tutorial Search usage & product funnel traffic for sustained users and presented findings at executive meetings.
++ Mentored newly hited employees/intems by offering insight into job duties and company polices; and encouraged to enhance data mining,
+‘management and analysis techniques.
+
+‘System Analyst, 01/2019 - 03/2019
+Galaxy Solutions — Whippany, NI
+‘+ Explained data requirements to customer and Implemented End-to-End Data lake and BI solution for US pharma client
++ Collaborated with solution architects to define database and analytics engagement strategies for operational territories and key accounts.
+‘+ Maintained data integrity, performed routine data audits and resolved discrepancies for integrity and quality control.
++ Planned and conducted studies on areas such as Zip-to-terr & ter-to-userserep alignment, Call Sample Validation, users segmentation; and
+implemented BI solution,
+‘Assisted offshore team in implementing dynamic partitions, functions, procedures, triggers to meet the business requirements and
+‘modifications in all areas,
+
+Sr SoftwareEngineer, 01/2015 - 04/2018
+Covance — Whippany, NI
++ Promoted pharmaceutical customer success in building and migrating Data Lake on cloud infrastructure ftom relational Data Warehouse.
++ Provided global thought leadership in analytics solutions to benefit customers in market segment and industry verticals such as Teritory
+alignments, Reps roster, Sales, Incentive Compensation, and Field-users data
++ Collaborated with third party cent and architects to perform end-to-end PoC implementation by defining data extraction methodologies
+and creating BRDS for dev team
++ Automated depended ETL pipelines through Autosys and worked as informatica admin.
++ Recommended anomaly detection solution for monitoring data integrity in Call-sample, Roll-up TRx & NRx Data and built end-to-end
+model sing shell scripting.
++ Captured and shared best practice knowledge and Business concepts involving Pharmaceutical market, Sales Data and Split week concept,
+Customer Alignment, Segmentation, Reach and Territory Alignment at company level to assist new joinees
++ Identified opportunites for process improvements and automations to decrease in support calls
+
+Application Developer, 01/2015 - 04/2018
+IBM India Pvt Ltd — City, STATE.
+‘+ Managed end-to-end operations of ETL data pipelines, and implemented complex business intelligence solution for E&U domain client
+and Credit card mart client.
++ Created innovative solutions forthe automation of multiple manual tasks of Meter Data Management suchas Missing LSEs, LSE Daily
+Count Report using shell scripting.
+‘+ Worked as part of project teams to coordinate database development and determine project scopes and limitations by performing Reverse
+Engineering of existing datasets,
++ Defined and Documented data mapping, defect fixes, performance tuning and code enhancement.
++ Collaborated with Meter Reading team and DBA team to help on implementing end-to-end system to fix the meter reading and report the
+‘mismatch on automatic generated bills. And provide a genuine estimation on reading correction.
+‘+ Avtomated the manual email task of incorrect count reporting to regulating on-site partner team.
+
+EDUCATION
+
+Bachelor of Technology: Information Technology, 05/2012
+Banasthali University - Rajasthan India
+
+(CERTIFICATIONS
+
++ Data Engineering Nano Degree - Udacity
+
++ Python Data Structures -Coursera
+
++ Advanced SQL for Data Scientists - LinkedIn
+
++ Leaming Python - LinkedIn
+
++ Tableau Essential Training - Linkedin
+
++ Programming for Everybody(Python) - Coursera
+
+ACCOMPLISHMENTS
+
++ Spot bonus Avvard -2021 - Led team to collaborate and developing self-serve tool for growth product managers, eaming mid-term
+‘promotion & recognition from upper management and financial reward.
+
+* Spot bonus Award -2020 - Identified missing platform linkage in User joumey funnel
+
++ Innovation & Customer Excellence (ICE) 2017 - Automated the data analysis for key business area for pharma client
+
++ Innovation & Customer Excellence (ICE) 2016 - Automated ETL jobs in autosys and aut-generated emails for process failures.
+
++ Untkarsh Award- 2015 - Automating Meter Reading missing LSEs,

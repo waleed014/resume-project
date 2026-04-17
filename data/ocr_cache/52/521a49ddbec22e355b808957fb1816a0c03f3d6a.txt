@@ -1,0 +1,213 @@
+Jessica CLAIRE
+
+“Montgomery Steet, San Francisco, CA 94105 # (555) 432-10 # resumesamplegexamplecom
+
+Summary
+
+DevOps Engineer Cloud professional with 6+ years of experience in various roles as Cloud / DevOps / Production Support /Build
+and Release engineer with top-notch experience in automating configuring and implementing services on cloud environments and
+data centers. Experienced in CUCD tools, namely Jenkins, Docker, Kubernetes Azure DevOps Services as well as Linx/Windows
+
+‘Administration and in configuration management and infrastructure
+
+sa code tool, namely, Ansible, and Terraform Extremely
+
+passionate about Cloud computing and its future with extensive experience on Microsoft Azure Cloud
+
+Education
+
+Bachelor of Science: Computer Science, 05/2016
+Leeds Beckett University - West Yorkshire, England
+
+Skills
+
++ Cloud Technologies: Microsoft Azure Cloud, Amazon Web
+Services (AWS)
+
++ Scripting: Bash, Powershell, YAML, Python, HCL, Groovy.
+
++ Source Control Tools: GitHub, Alassian Btbucket, Azure
+Repos, AWS Code Commit
+
++ CUED Tools Jenkins, CircleCi, Bamboo, Azure DevOps
+Pipelines, AWS CodePipeline
+
++ Anifact Repository Management Tools: Nexus, Azure
+DevOps Artifacts, AWS CodeAstifact, Frog
+
++ Automation Tools: Maven, MSBuild, Gradle, ANT, Ansble,
+(Chef, Terraform, Kickstart, Kubernetes
+
++ Containerization/Orchestration Tools: Docker, and
+Kubemetes
+
+Experience
+
+DevOps Engineer, 1072020 to Cussent
+Radius Ai— Chattanooga, TN
+
++ Monitoring Tools: Azure Monitor, Azure Application
+Insights, and Log Analytics Workspace Splunk, Prometheus,
+Salesforce, Grafana, CloudTrail, Dynatrace
+
++ Operating Systems: Linux (RHEL, Cent05, Ubuntu), and
+Windows (XP/7/8/10/1/2016 Datacente2019 server), MacOS:
+103 Lion -10.15 Catalina, 1 Big Sur
+
++ Web Servers: Nginx, Apache, Tomcat, WebSphere, JBoss,
+Nodes
+
++ Middleware Technologies: Apache Tomcat, Jooss/ Wildly,
+and WebLogic
+
++ Databases: MS SQL Server, Oracle 12¢/19e, Postgresql,
+‘Cosmos DB, MongoDB, DB2
+
++ Networking Protocol: TCP/IP, VPC, FIP/SFTP, SMTP, HTTP/
+HTTPS, NDS, DHCP, NFS, WAN,
+
++ Bug Tracking Tools: Rally, ia, and Azure Boards
+
+«+ Experienced in migrating three applications from on-prem to Azure Cloud
+«+ Participated with the dev team as well as architects team to identify necessary Azure resources and automate their provisioning
++ Setup a POC Oracle 19 database in Azure VMs for potential migration of one of the applications from on-prem to Azure Cloud
+
++ Created and set up Postgres DB in Azure Cloud
+
++ Automated the monthly golden image upgrade proces fortwo of the applications across all ts environments
++ Partnering as an administrator on Microsoft Azure and part ofthe DevOpe Team for internal projects automation and build
+
+configuration management
++ Involved in configuring virtual machines, storage accounts, and
+«+ Provisioned servers through Terraform configuration files
+
+other Azure resources
+
++ Experienced in writing Teraform files and reusable modules to setup cloud Resources
++ Developed YAML Scripts for Azure Pipeline automation purposes
+
++ Provisioned custom images for application and web servers using
++ Responsible for build and deployment (C1/CD) of 10 microservie
+
+application servers
+
+ng Packer and Azure DevOps Pipelines
+25 and 24 Java applications into Kubernetes, WebLogic nd Jooss
+
++ Used Jenkins to drive all Microservices builds out to the Docker Centra, then continuous deployment to Kubernetes pods using
+
+Ansible for creating/ updating pods, config Maps, deployments
+
++ Responsible for documenting deployment plans and change release plans for changes going to Production environments
+
++ Created and managed Azure Container Registry to store private
+automate deployments
++ Created Docker Images using a Docker file
+
+Docker Images, which are deployed using Azure Pipelines to
+
++ Worked on Docker container snapshots, removing images and managing Docker Volumes and was experienced with the Docker
+
+central repository
+
++ Worked with development team and key stakeholders to create plan for monitoring Azure and On-Prem Resources
+
++ Utilized Azure Monitor to collet metrics and logs
++ Configured Monitor to track performance and maintain security
+
++ Used Kiana and Grafana for monitoring and logging with Kubernetes on the on-prem side
++ Responsible for mitigating coud inspec, software and configuration vulnerabilities across thee applications hosted in Azure
+
+loud
+
++ Responsible for mitigating and documenting device and application vulnerabilities across four On-Prem applications
+
++ Utilized Azure Boards as atcket tracking and workflow tool.
+
+DevOps Engineer, 02/2018 to 09/2020
+Radius Ai—City, State
+
+‘+ Managed Amazon Web Services ot limited to JAM, EC2, 53, RDS, EBS, VPC, ELB, Cloud Watch, SNS
+
++ Used IAM to create new accounts, roles, and groups
+
++ Deployed and configured different types of EC2 instances
+
++ Created $3 buckets and maintained and utilized the policy mana
+ws
+
+ugement of 53 buckets and Glacier fr storage and backup on
+
++ Implemented and maintained the monitoring and alerting of production and corporate serversstorage using AWS CloudWatch
+
++ Configure, monitor, and automate Amazon Web Services as well
+Amazon Web Services sing EC2, $3, and EBS
++ Worked on the realtime data using Amazon Kinesis stream and
+
+as being involved in deploying the content cloud platform on
+
+teiggered with AWS Lambda
+
++ Ceeated monitors, alarms, and notifications for EC2 hosts using CloudWatch
+«+ Patching environments with the latest updates of OS on the servers to keep the servers healthy
++ Involved in an automation project, to move the manual deployments to automation using AWS CLI
+
++ Developed Tereaform templates to create loa balancers (EL), Et
+Aiffeent environments such as QA, SIT, stage which will zn on
+
+C2 instances with auto sealing, monitoring on the fly for
+different VPCs
+
+«+ Developed Terraform modules for automating the provisioning ofthe AWS infrastructre
++ Integrated defect tracking tol JIRA with Jenkins CI server for identifying, logging, tracking & documenting defects/issues in
+
+real-time
+
++ Worked on Setting up Chef Server/Workstation and Bootstrapping Nodes
+«+ Provisioned the highly available EC? Instances using Terraform and cloud formation and wrote new plugins to support new
+
+functionality in Terraform
+
++ Created Jenkins job to build the Artifacts using maven, deploy the Terraform templates to creat the stack
++ Worked on Kubemetes to manage containerized applications wsing its nodes, Config Maps, selector services and deployed
+
+application containers as Pods
+
++ Managed Clusters using Kubernetes and worked on creating pods, replication controllers, services, deployments, labels, and
+
+health checks
+
++ Designed and worked with the team to implement ELK (clastic search log stash, and Kibana) Stack on AWS
++ Developed Python scripts fr automating the generation of weekly reports
+
+Net Developer, 042016 01/2018.
+Cogaizant Technology Solutions ~ City, State
+«+ Collaborate with project development team and business team ds
+
++ Involved in the System Analysis, Functional specification documents and used ASP.NET,
+
+and develop the ste and web based solutions
+
+jung the development lifecycle
+, JavaScript and jQuery to design
+
++ Prepared design and installation documents for the system and worked on the process improvement of core modules)
+
+functionalities to make process more effective
+
++ Developed MVC pages, Layout pages, user controls, WCF, Web APIs, and DLLs using ASP.NET and jQuery
+
++ Used third party components ABCPDF for handling various I9 Form data collection requirement
+
++ Involved in development of data access, business and application layer using LINQ, C#.NET and Asp.NET
++ Designed, developed and enhanced the aplication in Net Framework
++ Participated in writing complex SQL Statements, Views and Stored Procedures, Indexes to validate data and ensure system.
+
+integrity and secusity written LING functions for data access
+
++ Version controlled by using Microsoft TFS and handled the release management forthe project in different environments
+«+ Involved in the code reviews, testcase reviews and gave feedback on various design aspects and implemented and tested the
+
+security features atthe applicaion/services/database past
+
++ Involved in Unit Testing, Documentation, Support for entire application, documented the User Manwal | Page

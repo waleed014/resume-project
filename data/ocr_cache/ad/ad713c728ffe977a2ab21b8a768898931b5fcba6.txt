@@ -1,0 +1,109 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesample@example.com
+
+Professional Summary
+
+Data Scientist leader experienced in identifying opportunities using data and strategizing methods for improvement. Skilled in
+predictive modeling, statistics and hypothetical testing. Experienced working with large data sets to break down information, gather
+relevant points and solve advanced business problems. Offering over 7 years of experience in the data industry.
+
+Skills
+* SQL (GnowFlake, Hadoop Hive/Impala, MS SQL, Teradata) _* Cloud computing experience on AWS, including AWS
+* Statistical Analysis, Text Mining, Unsupervised Leaming Sagemaker, AWS EC2, AWS S3
+* Data Quality Assessment + Python (top libraries: Pandas, SciKit-Learn, NumPy, SciPy,
+* Dashboard Creation: Tableau, SAP Lumira Matplotlib, XGBoost, BeautifulSoup, Gensim, Flask, ...), R
+
+‘+ Web Analytics: Adobe Analytics (omniture), Google
+Analytics, Snow Plow Analytics, Parsely
+
++ Data Robot, SAS EM/EG, SAS Text miner and Content
+Categorization, SAP Business Objects
+
+Work History
+
+Data Science Manager, Data Scientist, 01/2018 to 07/2022
+Shutterfly, Inc. — Bronx, NY
+
++ Managed data science initiatives to respond to various business needs: Marketing (customer acquisition, engagement, retention,
+win-back), Newsroom (Predictive and descriptive analysis on text and user interaction data), Sales (identifying and measuring
+audience for better ad targeting and sales)
+
+* Led a data science team of two, hired and trained team members.
+
+* Coached and mentored junior data scientists and analysts on analytical storytelling and statistical learning techniques.
+
+* Directed and supported the team through technical, client relationship, and communication challenges while fostering a strong
+team spirit, and maintaining no employee turnover
+
++ Utilized advanced querying, visualization and analytics tools to analyze and process complex data sets, and create reports and
+dashboards
+
+* Developed a scoring model for a real-time content scoring, Partnered with data architects and engineers to launch it. The
+editorial used this product to drive digital subscriptions
+
++ Iwas the main solution consultant from the data team for a Customer 360 designed for Real-time Digital Campaign. We
+provided signals in a low latency data environment, accessed by API, during page load to customize marketing offers. We
+enabled the same data points for use across many channels for campaign consistency
+
+* Led the data team’s partnership with the product team on web analytics tagging (Adobe Analytics). This was a major overhaul of
+some existing tagging to integrate different website. Provided consultation and testing that resulted in no disruption of existing
+data products
+
++ Formalized and established user and engagement and revenue metrics for different business stakeholders, launched
+accompanying interactive Tableau dashboards to track them
+
+* Counseled the business on data requirements, data limitation, and analysis consideration. This was necessary during launching
+new data sources, products, and selecting vendors
+
+« Identified and resolved data-handling errors and data privacy conflicts to maintain reporting integrity and governance
+
+* Briefed changes with executives and business stakeholders
+
++ Revisited processes, investigated data nuances, provided solutions
+
++ Partnered with data engineers to put in place solutions and improve documentation
+
+* Clarified business needs, and counseled data modelers and architects on solutions, My efforts improved team efficiency, analysis,
+results, and reduced rework
+
+* Assessed ML practices including feature stores, model development, testing, deployment, monitoring, and re-training
+
+* Devised an end to end plan for an integrated ML Operations platform
+
++ Organized intemal training sessions, advocated for team participation in the training, led change management practices and
+digital transformation within the team and leaders
+
++ Managed aspects of digital transformation and executed change management.
+
+Business Intelligence Analyst , People Analytics, 01/2017 to 01/2018
+BELL CANADA - City, STATE
++ Navigated sessions with HR leads of 9+ departments in the corporate, located in different cities to gather each team’s unique
+requirements for employee survey analysis
++ Led multiple working sessions with team members across Canada to analyze results. Presented a comprehensive analysis and
+findings to HR nd business leaders and recommended solutions for improving work experience
++ Built an analytical framework using NLP for categorization of anonymized employee comments into topics. Proposed and
+prioritized recommendations based on findings to reduce major employee pain-points. Executing on the recommendations
+resulted in 5% increase in overall employee engagement and satisfaction YoY
++ Identified main factors contributing to high-attrition teams, by carefully selecting measurable features and implementing
+regression analysis.Collaborated with HR team members and technical managers to devise a plan to address the attrition
+problem
+
+Business Intelligence Analyst, 01/2015 to 01/2017
+Bell Mobility — City, STATE
+* Led the process of building a scalable data solution for a major business problem
++ Translated business needs to the technical team, formulated data processes and ensured the alignment between engineering and
+business parties
+* Launched a dashboard to enable the Loyalty & Retention team to track offer adoption accurately. The adoption of the dashboard
+by the team increased timeliness of response to market and reduced error which led to 20% reduction in the operation costs
+* Created customer segments based on price sensitivity. Drafted recommendations for strategies addressing each segment
+* Launched a Tableau dashboard for TV programming user metrics. The dashboard was used to design programming bundles and
+it increased user engagement and retention
+
+Education
+Master of Arts: Information Systems & Technology, 06/2014
+
+YORK UNIVERSITY - Toronto, ON
+
+Bachelor of Science: Industrial Engineering, Planning & Analysis of Systems, 06/2011
+UNIVERSITY OF TEHRAN - Tehran, Iran

@@ -1,0 +1,182 @@
+‘SUMMARY
+
+skies
+
+EXPERIENCE
+
+EDUCATION AND
+‘TRAINING
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105. ($55) 432-1000 4 resumesample@example com
+
+12+ years of professional T experience as ETL developer and Functional Analyst. § years of experience in
+‘manual testing in SOLC and Agile (Scrum) methodologies. Hands-on experience and strong understanding ot
+‘Softare Development Life Cycle (SOLC), Datawarenouse concepis and Big Data Ecosystem. Experience
+colaborating win product management, evelopment, source systems and extemal vendors for meeting the
+business requirements and testing/vadatng new product features. Strong data sls, and working
+‘experience in Oracle, Snowflake and Teradata to bua, anatyze and contnbute to the better understanding ot
+tne business, Performance tuning of SAL queries and Tableau Dashboards. Prepared approach and ETL
+specifications and analyzed ETL code or business requirements to technical architecture. Worked with
+developers and qualty engineers, offshore teams in doing design reviews, code reviers, est case reviews
+‘and problem soling. Actvel involved in integration testing and user acceptance testing, Expert knowedge In
+‘reaing test sutes, test plan, tet cases, test scenarios and test strategies, Detect management to ensure
+‘qualty assurance and to test al he business scenarios. Proficient in troubleshooting database issues and
+RCA for production faures, Folowed the company's qualty guiance document and testing best practices 10
+ensure safety of customer data. Experience working in fast-paced environment and multiple projects'stones at
+‘any given time. Excellent team player selt- motivated with good communications skis. Work experience In
+Reta, Heattcare, Insurance.
+
++ TECHNICAL SKLLS ‘+ Reporting Toos: Tableau
++ Databases: + Otners: Radar, Chorus. IRA, Confuence, MS
+‘+ Teradata, nowtake, Oracle, SQL Server Office Word, Powerpoint, Excel, Visio), SVN,
+‘+ Programming Python, PUSOL, SQL. Hive Contr, SAL Assistant, SOL Developer,
+
++ ata warehouse Tools: Ab nto, ntormatica TOAD, Move TT
+
+FUNCTIONAL ANALYSTITECHNICAL PROJECT MANAGER! BUSINESS ANALYST 12/2019 f0 CURRENT
+
+Dtto | Richmond, VA
+
+‘+ 1am current working in GBI GOPR privacy complance group utich ensures customer data pracy
+‘Apple Privacy Portal
+
++ Responsibities
+
+‘+ Work wth cross functional teams to ensure the data integty trom IOMS to downstream GBI Privacy
+compliance is handled correctly
+
+‘+ Extensive data analysis on GBI GOPR tables for IDMS signals validation and generating data extracts
+‘tom CM database on a regular basis
+
+“+ Work with appiaton teams to ensure Nulicaton, GDPR Delete and Machete atv s completed on
+thelr tables and supporting the teams on questions related to classiication of ables ICM
+
+‘+ wie requirements to enhance CANON Engine o ada data qualty checks to ensure signals are
+recewed on in atimely manner from IOMS and applied corecty in CANON
+
++ Worked on privacy portal reporting project as functional anayst and project manager
+
++ Responsibities nuded managing project tmelnes, wring funcional requirements, unetional test
+plans ana testing
+
+‘+ Prepare Requirement Traceabilty Matrx to map the privacy portal dashboard business requirements to
+funcional requirements and test cases
+
+‘+ We requirements for ICM tool to implement enhancements for user search, PAW templates and
+validating table metadata
+
+‘+ Work th Privacy Legal team to review the Privacy Inpact Assessment radars rased by appcaion
+teams
+
+‘+ Follw up with application teams for any adatonalincomplete information to adere to privacy
+compiance framework process.
+
+‘+ Extensive funcional documentation on privacy complance products such as CANON and ICM Rule
+Engine
+
+‘+ Work on issues related to Rake ICM raised by users related to tables vercation, PAW uploads,
+backend metadata updates
+
+“+ Bula and momtor operations dashboards in Tableau and report any ascrepancies in dala to source
+teams or engineering teams
+
+‘+ Work ith offshore resources to coordinate functional testing and perform valations
+
+‘+ Lead the incisive language intiative changes ettortin he privacy complance area
+
+‘+ Update the GBI Privacy compliance Chorus and GBI Portal pages on the regular basis
+
+‘+ Worked extensively on preparing test pan, test scenarios, test cases and test data fo test he
+requirements
+
+‘+ Execute tne test cases curing UAT phase by running test data in UAT portal and vaidating the expected
+‘and actual resuts
+
+‘+ Captured te rests and bugs and assigned them to appropriate teams for code fevbug fe
+
+DOA QUALITY ENGINEER 04/2014 0 1172018
+Avantus | Huntsville, AL,
+
++ Loyaty Rewards Project Customers are enraled to become alyaly rewards member, which contains
+unique leva 10, adress attnbutes and lyaty data
+
++ Cross Brand Git Registry Project: Aows customers to create cros brand wish sts and to shop across
+‘mutiple brands win one gf egisty customer account
+
+‘+ Responstities
+
+“+ Work th Product Management, Technical Marketing and Engineering during the development, launch
+‘and optimzation of new customer and tansactonal processes
+
++ Collaborate across teams (Le, ecommerce, eta store and brand marketing) for creating test plans
+and testing strategies for data warenouse application o assure aslable reporting infrastructure for
+customer targeted campaigns
+
+‘+ Prove accurate estimates for conducting funcional testing, system integration testing and user
+acceptance testing
+
+‘Work win management to meet tnose estimates
+
+Develop and execute ETL test serps based on the produc requirements and tecnica specications
+
+‘rte SAL queres'scrips for vaisating backend database systems
+
+(Created ETL automaton tramework for regression testing of al applications before go.Wve
+
+‘ork with enterprise QA team to test enterprise appications for creating and inating est orders!
+
+transactions and ensuring they are successtuly loaded ito target databases
+
+‘+ Work wth BA's to analyze and dentty any SQL performance issues and botlenecks
+
+‘+ Work with offshore qualty engineers in testcase reviews, est data prep and implementing test
+
+standaras
+‘+ Extensive documentation on Contuence and JRA or Test results, SIT executon and Regression
+testing
+ETODEVELOPER 122011 9 0372016
+
+‘Avantus| Springtield, VA
+‘+ Content Personaization: Improving personalzed content and customer recognition
+‘+ Campaigns are but by storing cookie-cooke relationship data in customer warehouse
++ Responsibities:
++ Develop scalable ETL solutions for Wilams-Sonoma’s marketing customer data warehouse
+‘+ Collected and analyzed the user requirements and designed fogcal and physical data models
++ Designed and develop generc and complex transformations to load data ino slagertarget tables by
+using SOL and datavarenouse too such as Abo an informatica
+‘+ Implemented SaL tuning tecnniques to improve performance using EXPLAIN PLAN
+1+ Created Oracle tables, procedures, unctions and tigers
+“+ Work wh enterprise quatty engineer to valdate te test cases/scenarios as er he business
+requiement and data design
+‘+ Provaing extensive support to production support team during job fasures by dentying the issues and
+‘Proposing temporarypermanent hes.
+ETODEVELOPER 1272007 to 1172011
+Heattnways, Tvity Health Ine | City, STATE
+‘+ Embrace project extracts data trom various source systems such as Cncal information System(CIS),
+ars Heath Tends(HH) and MyHeattvQQatia) 0 merge into a single Consumer Data Store(CDS)
+‘+ Oiscovery project maintains legacy neattncare data for consumers and data from various source
+systems i loaded into Datavarenouse for reporting
+‘+ Responsiities
+‘+ Worked win source systems business analysts in requirements phase to analyze and ientty patent
+Information in each ofthe respecte feeds
+‘+ wie nigh feet design documents and source to target mapping documents for uniquely Kentying
+patient records
+‘+ Performed extensive gap Analysis between source system table and warenouse tables
+‘+ Responsible for development, support and maintenance of he ETL (strat, Transform and Load)
+processes using Informatica Power Center
+‘+ Wit Ad-noc SQLs for denttying Data quay issues and troubleshooting them
++ Developed SOL. queries /scrpts to validate the data suchas checking duplicates, null values, truncated
+values and ensuring correct data aggregations trom source to target tables
+‘+ Pertormed unt testing, user acceptance testing and regression testng
+‘+ Assist quality assurance team in developing est plans and create test data for patent record for
+various source systems
+‘+ Development and validations were performed by folowing intemal Quaity Regulations Policy to ensure
+patient information records were secure.
+
+Ms | Computer Science 0872007
+Northern ilinois University, DeKalb, IL
+
+B.Lach | Computer Science 0872005
+ontu

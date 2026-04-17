@@ -1,0 +1,103 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+CAREER OVERVIEW
+
+3+ years of experience with a diversified background in Microsoft technologies, Network Engineering, System Analysis, Technical
+troubleshooting, Architecture/configuring and escalations. Two master's degree in Networking and Information System Management and also
+CCNA R&S certified
+
+‘Work EXPERIENCE
+
+‘Merging student database to generate combine single database, 05/2016 - 06/2016
+Cse — Lewisville, TX
+‘* Manipulating student database using MYSQL 5.6 server and MS Visio.
+Installed DBMS and Uploaded student database on MYSQL server.
+Created and executed SQL queries using MYSQL server of a given database.
+
+Developed a data model using MS Visio 2010 for a same database.
+Created and populated a SQL database based on E-R diagram.
+
+Business Plan - Wolf Power Company, 09/2014 - 2015
+Ametek, Inc. - Mahwah, NJ
+© Team member as a Chief Information Officer
+
+‘© Greet customers and ascertain what each customer wants or needs
+
+Researched market to gather information related product, website design and marketing material
+
+Developed strategy to identify risk associate with the infrastructure devices and implement policies based the problem
+
+Evaluated and design technology plan of company for production department
+
+Created technology plan and keep tracking all task using MS Project
+
+Technical Support Intern, 01/2014 - 11/2014
+Sigma Prepaid LLC — City, STATE
+« Involved with hardware troubleshoot/repair desktop, laptop, printer malfunctions and also provided system software support.
+« Installed network hardware based on design and configured it as per business requirement.
+« Installed and Configured Windows server 2012/2008 for domain controller to provide end user support
+«Supplemented other IT staff for network maintenance, administration, troubleshooting, and security help desk functions in all area of IT
+including desktop
+* Contributed in IT customer base support, department knowledge base and IT documentation
++ Maintained domain and service administration through Active Directory and also troubleshoot issue with all the MS Office 365
+
+applications
+
+Network Admi
+3i Infotech — City, STATE, INDIA
+© Configured and administration of Cisco Switches and Routers.
+
+strator, 08/2009 - 11/2012
+
+* Developed and planned new strategy to upgrade routers, switches, servers, wireless access controllers and firewalls by new hardware
+within an organization.
+
+* Configured L2 switching technologies including new VLANs, VTP, STP, Inter-VLAN routing, HRSP/VRRP, ether-channel,
+
+« Installed, configured and administrated network hardware and software.
+
+* Maintained information of design and standardization based on the company policies
+
+* Maintained user account information using Active Directory and also provide security through AAA using ACS server.
+
++ Reconfigured DHCP and DNS server during downtime within Active Directory
+
+‘© Worked with team members to implement dynamic routing protocol including RIPv2, EIGRP, OSPF, and BGP.
+
++ Documented and designed IP addressing, sub-netting, VLSM, route summarization and route redistribution.
+
+* Maintained uninterrupted server and backing up or upgrading IOS to or from TFTP server.
+
++ Monitored and troubleshoot firewall, ACL, TACACS+, RADIUS, IDS/IPS and other network security features.
+
+# Secured networks and remote access using encryption via Remote Access or Site-to-Site VPN tunnels on routers and firewall.
+
+« Installed & configured primary & backup domain controllers, file sharing & print server and granting LAN printer access.
+
++ Provided customer support including daily backup procedures, testing network connections, equipment installation and tunning-up, and
+remote assistance.
+
+* Managed Microsoft Azure sync, Active directory and Microsoft exchange for cloud service to the end users.
+
+* Undertook Network performance, providing daily operational support and system administration for core network infrastructure.
+
+EDUCATION AND TRAINING
+
+Master of Information System Management, Dec - 2016
+
+DeVry University - Chicago, IL
+
+Masters of Network and Communication Management, Jan - 2015
+DeVry University - Columbus, OH
+
+Bachelor of Engineering in Electronics and Communication, June - 2009
+Sardar Claire University - Gujarat
+
+CCNA R&S, Oct - 2016
+
+SKILLS
+
+Active Directory, Microsoft Exchange, Microsoft Azure, NPS, Federation tools, Window server 2012/2008, SQL server, MS Office suite, MS
+‘Visio, Microsoft Project, Window 10,8.1,8.XP, Linux ,C,C++

@@ -1,0 +1,223 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+TECHNICAL SKILLS
+
++ Six steps of the RMF
+
++ FISMA
+
++ AILNIST applicable documents
+
++ Ticketing systems (ServiceNow,
+RemedyForce)
+
++ Plan of Actions and Milestones
+{POARM)
+
++ Reviewing Security documents -
+name and acronyms
+
++ Drafting and updating Security
+documents - name and
+‘acronyms
+
++ Developing and updating SOPs
+
++ Developing and updating Risk-
+Based Decisions
+
++ Cloud computing Security for
+FedRAMP Authorization System
+
++ 18027001 and PCI DSS
+
++ Network monitoring
+
++ Vulnerability management
+{scanning and analyzing report)
+
++ The OSI model
+
++ Change Management
+
++ Performing ISSO tasks to obtain
+ATO
+
++ Perform Assessor tasks
+
++ Tenable NESSUS
+
++ XACTA (Governance, Risk and
+‘Compliance (GRC) tool)
+
++ CSAM (Governance, Risk and
+‘Compliance (GRC) tool)
+
++ HP Webinspect
+
++ Splunk or any SIEM tool
+
++ Wireshark
+
++ Nexpose
+
+EDUCATION AND
+TRAINING
+
+Online
+
+07/2017
+
+CompTIA Security+ : Certification
+Colaberry, School of Data
+
+Analytics
+Plano, TX + 11/2015
+
+SQL Server, SSIS, SSRS, SSAS/
+Power BI Certified
+
+University of Lome
+
+Togo + 01/2010
+
+Bachelor of Science: Statistics
+
+PROFESSIONAL SUMMARY
+
+Highly experienced Senior CyberSecurity Analyst with over five years of experience in conducting risk
+assessments, penetration testing, and security audits. Seeking a challenging role where | can leverage
+my expertise in security architecture and design to protect critical information assets and maintain
+compliance with industry standards.
+
+PROFESSIONAL EXPERIENCE
+
+Carle Foundation Hospital - Assessment & Authorization Analyst
+Bridgeport, IL + 11/2019 - Current
+
+* Conduct comprehensive security assessments and reviews of information systems to ensure
+compliance with NIST and other industry security standards.
+
++ Provide guidance to system owners on security controls and best practices to meet regulatory
+requirements.
+
++ Review security documentation including system security plans, risk assessments, vulnerability
+scans, and other security-related documents.
+
+* Develop and maintain the Plan of Action and Milestones (POAGM) for assigned systems.
+
++ Conduct vulnerability assessments and penetration testing of information systems to identify and
+mitigate potential security risks.
+
++ Review and analyze vulnerability scan results to identify and prioritize vulnerabilities for
+remediation.
+
++ Develop and maintain system security plans and documentation to ensure compliance with federal
+and industry regulations.
+
++ Participate in system security engineering efforts, including reviewing and assessing security
+requirements and specifications.
+
++ Work with system owners to develop and implement security controls to meet regulatory
+requirements.
+
++ Develop and maintain relationships with system owners, stakeholders, and other security
+professionals to ensure successful completion of A&A processes.
+
++ Coordinate with security engineering and technical teams to ensure system security controls are
+effectively implemented.
+
++ Provide support to security incident response activities as required.
+
++ Participate in continuous improvement activities to enhance the A&A process.
+
+* Conduct assessments of third-party vendors and service providers to ensure compliance with
+security standards and requirements.
+
++ Conduct periodic reviews of security controls and risk assessments to ensure continued compliance
+with regulatory requirements.
+
++ Stay current with industry trends and best practices related to information security and A&A.
+
+City Of New Orleans Police Department - Information Security Analyst
+City, STATE « 10/2017 - 11/2019
+
++ Audited networks and security systems to identify vulnerabilities.
+
++ Analyzed system risk to identify and implement appropriate security countermeasures.
+
++ Installed system updates, patched programs and optimized functionality.
+
++ Provided training and support to users for both hardware and software needs.
+
++ Updated virus protection systems based on computer virus reports.
+
++ Designed and implemented plans to secure computer files against breach, destruction or accidental
+modification.
+
++ Built firewalls and encrypted data to secure confidential information.
+
++ Managed user authentication and authorization of data access.
+
++ Monitored server event logs to identify and resolve performance and security issues.
+
++ Duplicated and backed up data to preserve availability and security in event of data breach.
+
++ Collaborated with stakeholders to implement and update disaster recovery plans.
+
++ Mentored junior employees in departmental activities and procedures.
+
++ Updated computer security policies and procedures upon learning of new risks.
+
++ Worked closely with fellow security personnel to remedy and alleviate technology issues.
+
++ Investigated information security breaches to identify vulnerabilities and evaluate damage.
+
++ Used penetration testing tools to identify weaknesses in security systems.
+
++ Analyzed security procedure violations and developed plans to prevent recurrence.
+
+Prime Lending - BI/ETL Developer
+City, STATE » 05/2015 - 10/2017
+
++ Maintain existing and future report distributions
+
++ Generate data extraction, summarization and ad-hoc query requests as required by the business
+reporting environment
+
++ Enhance existing processes utilizing best practices and the latest technologies
+
++ Manage technical issues, tasks, and timelines
+
++ Perform troubleshooting and provide resolutions to reporting issues
+
++ Implementation and delivery of MSBI platform solutions to develop and deploy ETL projects
+
++ Design and develop Extract, Transform, and Load (ETL) mappings, procedures, and schedules,
+following the standard development lifecycle
+
++ Perform installation, administration, and configuration of SSIS servers in production, pre-
+production, and development environments
+
++ Provide Level 2 support and fulfillment of service requests for ETL packages, acting as the primary
+escalation point for the Service Desk and NOC
+
++ Perform testing and Q&A to ensure the accuracy of data
+
++ Develop and maintain operating procedures and support documentation for ETL packages and the
+SSIS infrastructure
+
++ Design and develop data warehouse database schemas
+
++ Write queries to pull data from WMP systems and analyze it to better understand data quality
+
++ Strong experience with ETL tool (SSIS, AWS GLUE...)

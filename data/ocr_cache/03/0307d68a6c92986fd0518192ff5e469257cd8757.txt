@@ -1,0 +1,196 @@
+Jessica CLAIRE
+
+Mongar Stet Sn Fann, CA HIS © (55) 124000 + renmesanpleterample com
+
+Professional Summary
+
+Highly shed profesional with 17+ years of hands-on experience anazingartecting developing and designing sltons
+(ET_Deta Warehouse, Data Mart O05) in OLTP technologies wing tar and swab dimensional modeling. Handson xponure
+‘with Informatica lou ICSVETL and Hadoop ichoologie Sl motivate eam prfonmer with experience a Informatica Lead)
+
+Informatica clo 1CS)DeveoperOW Axchteciadoop/Se, Teradata Developer
+
+Areas of Expertise
+
+“ETL Team aad.
+
++ Informatica Per Center 10488
+
+‘CS dfomasica Cloud) Data tegration App & APL
+Integration
+
+{+ AUWeb Services using pplication negration REST End
+pein comcte
+
++ Informatica Cloud Data ltegration (HS — CDI Src) For
+Google Analytics
+
++ Applicaton integration with EATON Rockwell Supls /
+Dalghtd urvey(End point) using JWT and REST
+Conners.
+
++ Experience with efornatia MFT
+
+‘XML generator OL parser, Java and HIT tasformation
+‘within Infor or elie transfer of ActiMO
+ney
+
++ Scope an Roadnup fr DW ETL and
+
+«Tang ETLnformatia mappingwprocesces,
++ Best practice fo developing ETL abe
+
++ UNDX Stel Siping and ETL automaton.
+
++ Tengo complex SOL Ques Process,
+
++ ScD 1, 2,3 and Change Data Capture (CDC)
+
++ Resoting production ETL fares
+
++ Optimal fortunes tring in Teradata ing indi
+‘dees parsiuonng taste ee
+‘Teradata Uses @TEOMload,FLoad & TPT)
+
++ Root case analy of busines driven se,
+
++ Experience on TS iso Tidal Enterpric and Cu M
+sheer,
+
++ Big Data Haoop,HiveSgoop, Cosi and Spark
+
++ Stongnowledge in Python Programming and Cloud\GCP)
++ Good team player, constant are, excllent analytical
+logical ls
+
++ Data Modeling ETL High evel and Low Level Design
++ Teradata, SOL Serve and OradePLSQU-
+
++ suong knowledge on Teradata Architects
+
+‘+ HPs and Reporting specications
+
++ Developiny Designing FTL Informatie procseymappings
+
+Work History
+
+Se Informatica ls Developer, 420190 Curent
+Revel Holdings USA ~ City, STATE
+
++ erated with Basins partners to enti fanderstand reqaiements, design specons expectations and soni ey
+Projets ke supple ttgeation, TNT (Tack and Trace) tem golden feo creation.
+
++ ently ETL specications based on busines equicrents and creating ETL Mapping Docuents, high level documentation for
+rode ever ee date mages.
+
++ Handled endo-end Development and implementation of Product item) Master Data and Supplier Mats by taking ito
+coneideration busines cases, objectives optinizaton and reuiements. Which reduces Ioading ining 25%
+
+«+ Reacts and developed product olden Master Record project. Ths projet as saving SOUL Sear eens en
+
+“+ Manage code eiews and ensue that aloo and processes are aligned to achtecuralequirement specifications SLAS
+
++ App & APL ntgeaton of format intligent Cloud Services
+
++ Extensively Worked on XML Fasergeneate, HTTP (Pst) and JAVA tansormaton a parol ventory sych and sharing,
+beeen Miron Eclipse stn through Reatie AciveO messing
+
+«+ Developing integrations using Informatica Cloud Data Integration (ICS ~ CDI Service) For Google Analytic.
+
++ Developing Informatica Cloud Mappings Ds task Data replication and ask creation
+
+«+ Worked sth APIO Services using application integration for EATON Supplier (End poi axing WT.
+
++ Worked with APUUEd Services using appiation iteration fr Rockwell Supplier tough REST End point connecter.
+
+«+ wodked on Delighted survey ntegeaton using REST APL ad pagination to pal survey messages.
+
++ Worked on Infomatia MFT (Managed Fle Tease) for to exchange the es with extemal syste.
+
++ Provide esslution tan extensive rage of compat ETL elated problems, proce and as sues surface,
+
+{afoumatica ETL Leal Architect! Hadoop Developer, 0872008 0 Current
+10S Sales and compensation Mart
+“+ Revised BRD (Business Requirement Docent) and crete aligned echnical interface design specications for anal,
+porting and ETL.
++ Hanled data potting source analysis and data quality nals
++ Prepared high level solution architecture Design and ee eth top management
+«+ Performed peojct management on several busine enhancements and work request,
+“+ Manage team and asign tas, review alidate code and ep the occlu in sting nd development
++ Mentoring junior dewlopers protding chal domain asstance, uoublehooing and atematve developmen solutions
++ Coordinated with eam to prepare design docs and low specs.
++ Insracted with busines, ros fanctonl tam SMEs and Beam on day to day basis for rca tie lines rouse and any
+system issues.
++ Developed and nunc complex Informatica mappings sessions, works and workflows with optimization
++ Prepared high level test strategies plans and scenario fr ETL processes
++ Provided slatons to production aires and ETLDE performance ewhancement
++ Engine nay to dnt data and cous sues between source pts fal sports
++ Developed UND hal script for pend parameter lead leaner automaton.
+«+ it data fends and extrac with complex busine ales sourcing frm warehouse fo diferent IT and Busines Teams
++ Developed vaousAdhoc reports qukchly to find datedeven answers
+«+ Developed processor dat extractions and lading ino Teradata sing BTEQ Fast Load, Mult-Load and TPT,
++ Worked on ETL process mga fo vais data arts rom Orade to Tea.
++ Tuned Teradata Quers by wing FISFPs, Indes jis indents and stasis for HOS Sales ETL and Bt eprtig.
++ Worked on Hadoop lading data into HDS using Sop, ceted Hive tbls for customer jourey analytics.
++ worked on Act pros to sept enterpse dashboard mts accurately and licen
++ Implemented optimal ETL peformanc strategies which rented in 30% improvement in overall sles an real ime data art
++ Helped manager to ind out ight rerource by conducting intervenes and ering profiles,
++ Supported merous eatin fom business comsnaret egarding etal ey rep compensation seportng
+«+ implemented process for data lake solitons using Oone and Hive fo cll metic
++ Covent with Opecations tea to resolve cal emergency indent opr (IR) rated to data ses an oud fares.
+LHSUFIOS Brondband Rate Changes (sce wp
++ Callsborate with busines, SMEs and os functional teams to naz list requirements, design strategies and
+Aenplementation appecaches
++ Reviewed project documents to dently potential spats
+«+ Prepared high level design development and ow preparation fr endo end ETL processes which resulted estimated anal
+even growth 10M to Company
++ Dat complex lvormatia mappings and DE/ET proces for lads it and MOG proces
++ Created various forecasting igi, actualy priced up and alot reports to estimate reverse and profitability o compan:
+
+ETL Consultant At Verizon 08204 to 0872008,
+Advanslt Consulting City STATE
+"HSI (High Speed Intent Sales Mat:
++ nerd wth manages to understand enhancements and modieatons
++ Designed data model and ble structures keys and inden.
++ Bud dimensions fact and aggregate ables sper requiements and standards deny slowly changing dimensions and
+eerie each
++ Coat Compl napping sens and works for ln gation data on illest ououik Lagury Stes,
+‘efile another Relational Soares
++ implemented informatica tasformatons ke fomner, aggregators Connected le unconnected lookups caches. Filters, Sequence
+generators, Routes Uae Strategy Expression Sorter
++ Prepared CA (Change Acti SER oftware Release Request) documentation to migrate code
+«+ Extensis tuned SQL queries by wing ints and other ting tecigue.
++ Analynd data to make sure tomtch expected counts tween source sytem and target pte fe ue aed by Business
+«+ void in vormatica Adminstration t create wets aces and seve testa
+
+‘Data Warehouse! Interfaces Developer At Wiliam Sonoma, 05720040 0/2004,
+Advansft Consulting Inc ~ City, STATE
+
+“+ worked sth busines analyts dat architects and nam least bul ine trace of ate
+
++ Paige sn tegration test system Wt user acceptance and prepared test plans
+
++ Documented ete DW procs
+
++ Deveoped/Eshanced UNDX sel sits tad sles inventory, and promotions rections
+
++ Hana prducon support or ntise RDW batch processes
+
++ Scheduled, and monitored ll batch jobs using contol M scheduler
+
++ Foxe and renun failed job to complet batch oe,
+
++ Werte and a FTP and merging faire in ROW batch proces
+
++ Worked on customized PLS aggregations Srp o generate reports to business
+
+«+ Fed and asd TOR/POR (TesvProduction Defect Repo) issues.
+
++ Inve in dit validations of DW data against RCOM, RMS, and Legacy at fle system,
+
+Education
+
+Southern Methodist University Dale
+
+Master of Sconce: Electrical Engineering
+‘Teanesee Technological University -Cookevile TN

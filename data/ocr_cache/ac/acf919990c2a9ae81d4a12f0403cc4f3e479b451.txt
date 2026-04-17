@@ -1,0 +1,122 @@
+JEssIcA CLAIRE
+
+100 Montgomery St. 10th Floor # (355) 432-1000 # resumesample@example.com
+
+‘SUMMARY
+
+over 7 years of hands-on experience as an Oracle database administrator and have completed life cycle knowledge including installation.
+database upgrade and patching , database refreshes and database migrations across different platforms , on my recent assignment i have gained
+some basic knowledge in MYSQL and SQL server
+
+configured and maintained physical/active data guard for oracle disaster recovery and performed switchover/switchback from primary database
+to standby database for testing purposes whenever required,
+
+designed and implemented backup and recovery strategies using RMAN (full and incremental) point in time , media recovery and data pump
+(expdplimpdp) for logical database objects. used crontab to automate some of them without manval intervention.
+
+automated monitored of heart beat
+
+remote administration and support of production and development databases sizing 10TB
+
+developed database monitoring check/health check alert scripts for database uptime/downtime status , and sizing issues using grid control (
+(OEM 12c and 19¢)
+
+experience in extracting , transforming, loading (ETL) data using SQL loader utility.
+
+SKILLS
++ Database administration ‘+ Writing queries
+«+ Data testing ‘+ Microsoft SQL (basic)
+‘+ Data conversion and migration + MYSQL (basic)
+EXPERIENCE
+
+Service Desk Oracle Database Administrator, 01/2022 - Current
+Edward Jones — Des Moines, TX
+
+* Created and altered database storage structures to meet user needs,
+
+« Prioritized and organized tasks to efficiently accomplish service goals.
+
+‘+ Worked closely with team members to deliver project requirements, develop solutions and meet deadlines.
+
+‘+ Worked successfully with diverse group of coworkers to accomplish goals and address issues related to our products and services.
+
++ updated and inspected database security features and protocols
+
++ Promoted high customer satisfaction by resolving problems with knowledgeable and friendly service.
+
++ Developed and ran autonomous database backups.
+
+Oracle Database Administrator, 06/2020 - 10/2021
+Edward Jones — Dover, NY
+
++ performing housekeeping task like checking log and trace files.
+
+* Created program backups and information recovery systems.
+
++ Created and altered database storage structures to meet user needs,
+
++ Analyzed workflows and established priorities for daily operations.
+
+‘+ Wrote scripts and processes for data integration and bug fixes.
+
++ Developed redundant systems and procedures for disaster recovery and archiving to maintain data protection.
+
+‘+ monitoring scheduled backup procedures and database reffeshes( from PROD to DEV or TEST on daily basis using crontab)
+
++ created and monitor user access rights and privileges through roles and profiles.
+
++ used database configuration assistant (DBCA) Database upgrade Assistant for upgrading Oracle 11gR1 to 11gR2 then latest Oracle 12C to
+19C and applied patches (CPU & PSU) as required using the Opatch Utility.
+
+« installed 12C and 19C software on several linux boxes then migrated and upgraded 11g database to 12C and 12C to 19C using data pump.
+
++ upgraded from 12.1.0.2 to 19.3.0 and successfully implimented data guard,
+
+‘+ migrated CDB to non-CDB using data pump
+
+‘+ was in a team of DBA who installed and configured Golden Gate for data replication accross same platform,
+
++ backup database using RMAN
+
++ cloning 11g,12C and 19¢ databases using RMAN duplication (with and without backup)
+
+* provide instance level performance monitoring and tuning for wait events, sessions, physical and logical 1O and memory usage with the
+help of AWR and ADDM reports, explain plan, sql developer and oracle enterprise manager.
+
+‘+ was on a team of DBA who developed PL/SQL packages, DML, DDL, Oracle tables, stored procedures, functions, cursors, triggers and.
+linux shell scripts for reports
+
++ performed databases refreshes , migration and performance tuning at the OS.
+
++ setup and maintenance of physical standby database using data guard broker and active data guard for faster disaster recovery.
+
+* installed and configure OEM grid control for maintenance administering the database.
+
+‘+ mentoring junior database administrators on cloning , patching, rollback, upgrade and dataguard.
+
+‘have some experiance in shell/perl scripting for production databases.
+
+‘Oracle Database Administrator, 05/2017 - 07/2020
+Dexmedia — City, TX
+* Created program backups and information recovery systems.
+‘* developed RMAN cold backup script to take backups automatically every week 200 databases vary in size from 200GB to 2TB and
+automated the process through crontab
+‘used RMAN duplicate and HOT/COLD backups to migrate the data from 11.1.0.7 to 11.2.0.3 and from 11g to 12¢
++ responsible for creating RMAN catalog database and registering the database in catalog DB
++ monitored production database using automatic workload repository (AWR) , automatic database diagnostic monitor (ADDM) and active
+session history (ASH)
++ performed RMAN backups (full incremental and cumulative) and recovery , incomplete recovery and disaster recovery using standby
+database or data guard,
+* installed and configured maintained Enterprise manager,
++ worked closely with the Oracle developers for better performance in applications in writhing the packages, triggers, and indexes on the
+tables.
+‘+ Wwas on a on call rotation for production and development database support and administration.
++ implementing data pump , conventional exportimport utility of Oracle 11g and 12c for re-organizing databases/schemasitables to improve
+the performance.
++ configuring data guard to ensure high availability , data protection and disaster recovery.
++ clone database from production to test and devlopementusing RMAN ( Active cloning)
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Information Technology, 09/2015
+University of Douala - Cameroon

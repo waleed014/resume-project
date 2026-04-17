@@ -1,0 +1,110 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Foot © (555) 432-1000  resumesamplesexample.com
+
+Summary
+
+Jessica is a highly skilled BI developer with a strong work ethic and extensive experience in software development, data engineering,
+and python development. He has successfully implemented machine learning models using H2O across various industries and
+consistently adds value to his clients and employers,
+
+His expertise in data integrity, security, and governance measures ensures the utmost care in handling sensitive information. Jessica's
+excellent communication skills allow him to work effectively with senior leaders and non-technical users, developing tailored
+solutions that address specific needs.
+
+Jessica holds a Bachelor of Engineering and Bachelor of Science Degree from Macquarie University and a Graduate Diploma of Data
+‘Science. His experience includes working on projects utilizing Python, SQL, C++, and Java. He excels in cleaning and processing data,
+data visualization, and creating interactive reports and dashboards. His problem-solving skills drive informed decision-making, and
+he is comfortable working in both Linux and Windows-based environments
+
+Skills
+
+Python, Collibra, R, SQL, Tableau, Alteryx, C, C++, Java, NoSQL,
+AWS, VMware, Linux, Windows, Debugging, Algorithms,
+“Machine Learning, Software Development, Agile, IDE, JavaScript,
+SQL, Git, Jira
+
+Experience
+‘Consultant - Data Insight/Data Science, 07/2021 to Current
+Credit Suisse
+Thave had the privilege of working with renowned clients such as APRA AMCOS and Macquarie Bank, where focused on.
+implementing data-driven solutions and deploying sophisticated models to drive business outcomes
+‘My responsibilities included assisting with the deployment of the H2O tool, managing data ingestion, overseeing model generation,
+and handling testing and reporting to ensure accurate and reliable results
+Experience:
++ For APRA AMCOS, I collaborated closely with their team to implement and deploy models developed using the H2O auto-ML
+tool for predicting royalty distributions over a yearly timeframe
+‘+ While working with Macquarie Bank, I contributed to the development of Collibra workflows, Collibra service tasks, and
+CCollibra integrations in Python
+«+ Iprovided consultation on Collibra best practices, development methodologies, and workflow requirements gathering, design,
+and coaching
++ Tengaged with both business and technical users to enhance their understanding of Collibra functionality and processes,
+fostering strong relationships within the wider Macquarie Bank group, the Collibra and data governance team, and with other
+technical and business team members.
+
+Java Developer, 02/2021 to 07/2021
+‘Cushman & Wakefield Inc~ Bayonne, NJ
+Asa dedicated professional, I was responsible for developing solutions using Corda, Java/Kotlin, and SQL Persistence DBs,
+successfully delivering backend functionality and business logic. My work involved the utilization of the MVP model, Spring
+development, and REST API development and implementation in both Windows and Linux-based virtual environments.
+Responsibilities:
++ Acted as a backend developer, responsible for delivering APIs that exposed Cordapp functionality and seamlessly integrated
+swith the frontend.
++ Collaborated with frontend developers to design and develop relevant APIs, ensuring efficient data delivery to portal features
+and providing a smooth user experience.
++ Developed test cases and actively participated in functionality testing to guarantee the quality and performance of developed
+solutions.
+«Assisted with the deployment and development of data structures, ensuring optimal organization and accessibility of
+information for efficent system operation.
+
+Project Engineer, 01/2019 to 07/2020
+Delivere
+‘As a key team member, Iwas responsible for supporting the project team in the successful completion of highly complex and,
+technical multi-million dollar projects
+My role involved designing, planning, integrating, and testing domain-specific software systems, utilizing my expertise in scripting
+(G Python, and Shell), databases, data warehousing, schema, and implementations in Windows and Linux-based virtual
+environments
+Responsibilities:
++ Developing customer-specific configurations in C, Python, and Shell (scripting and configurations) and creating comprehensive
+documentation
+* Understanding and documenting customer system and service requirements, as well as building customized systems to address
+their needs
++ Performing hardware, software, and system installation, integration, and testing for projects to ensure optimal performance and
+functionality
++ Customizing software, hardware, and network configurations based on customer requirements, including servers, networking
+‘equipment, and application suites
++ Creating, migrating, and designing schema for databases based on SQL (MS SQL Server 2012/2016) and NoSQL (MongoDB,
+‘Cassandra DB) technologies to cater to project specific data management needs.
+
+IT Administrator, 01/2017 to 03/2018
+BCS Technology
+Pharmaceutical company located in Macquarie park
+It was my responsibility to address all implementation and IT queries for staff members as well as any IT changes that came from
+head office at our site
+‘These tasks included including server maintenance, remote access and VM Management, as well as operating system management
+Responsibilities:
+
+‘+ Maintenance of windows servers, devices, and network systems
+
+‘+ Communicating with staff and head office regarding IT issues and providing solutions
+
++ Diagnosing, identifying and rectifying IT faults
+
++ Preparing and requisitioning new equipment including the purchase of IT equipment and installation,
+
+Education and Training
+Graduate Diploma of Data Science: 2022
+
+James Cook University - Townsville, QLD
+
+Bachelor of Engineering and Bachelor of Science Degree: 01/2020
+‘Macquarie University
+
+Higher School Certificate: 01/2008
+Australian International School
+Certifications
+
+‘*Collibra Workflow Engineer
+
+‘Alteryx Designer Core
+‘Tableau Desktop Centfied Associate

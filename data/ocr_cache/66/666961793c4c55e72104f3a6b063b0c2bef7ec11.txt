@@ -1,0 +1,70 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+SUMMARY
+
+Dedicated DevOps engineer with experience leading multiple development and operational projects to successful completion
+
+HIGHLIGHTS
+
+* Extensive knowledge of Amazon Web Services (AWS)
+
+Operational management of mission critical platform components
+
++ Linux Systems Administration
+
+Leadership of Scrum activities to assign responsibilities and tasks
+* Windows Systems Administration to developers,
+
+* Configuration Management and Automation (Chef, Puppet) * Willingness to leam and adapt in any situation
+
+* Ability to serve in any function on a team
+
+Ability to communicate technical material effectively
+
+ACCOMPLISHMENTS.
+
+© Drove down AWS costs by optimizing $3 storage and EC? reservations
+* Served as sole operations engineer for standing up multiple cloud environments within AWS and Microsoft Azure
+* Successfully drove operational and project management of key platform components that are utilized by thousands of users
+
+* Lead an effort for large scale adoption of various DevOps competencies for project management and deployment
+
+EXPERIENCE
+
+DevOps Engineer, 11/2016 - Current
+
+Bae Systems ~ Manchester, NH
+* Lead a DevOps model for the Data and Analytics organization
+* Develop automation to reduce all forms of manual effort
+* Create monitoring and alerting procedures
+
+# Manage large scale Hadoop / Spark clusters
+
+Arkansas Fellow, 03/2015 - Current
+Accenture — Jacksonville, FL
++ Promote intrapreneurship within my host company
+
+* Work with a core group of talent to act as a voice for entrepreneurship in the state of Arkansas,
+
+Site Reliability Engineer, 01/2013 - 11/2016
+
+Acxiom Corporation — City, STATE
+‘* Support a DevOps model for all of Acxiom's infrastructure (cloud and internal)
+‘* Manage incidents that cause impact to Acxiom's clients
+* Develop automation of deployment procedures to reduce manual effort
+
+«Lead operational side of several projects to maintain reliability and stability
+
+Technical Support Group - Member, 07/2011 - 01/2013
+EAST Initiative — City, STATE
+* Provide technical support to over 175 EAST schools
+* Create tutorial content for EAST students and facilitators
+* Configure and maintain Windows servers and student labs
+
+EDUucaTION
+
+Bachelor of Science: Information Science, 2015
+University of Arkansas at Little Rock - Little Rock, AR
+GPA: 3.62

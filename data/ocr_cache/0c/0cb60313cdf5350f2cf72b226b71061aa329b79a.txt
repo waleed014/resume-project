@@ -1,0 +1,123 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor &2 (555) 432-1000 4 resumesample@example.com
+
+Experienced data scientist proficient in leveraging the Elastic Stack for data extraction and transformation
+Skilled in Python and Jupyter Notebook for data analysis, utilizing Teradata SQL for targeted searches.
+Automation of monthly reporting using Azure cloud environment, including Databricks, Azure Data Factory,
+and Azure Storage Container. Effective communicator, presenting findings through clear visualizations and
+reports to drive data-driven decision-making. Strong background in customer service and sales, providing
+exceptional support and issue resolution. Previous experience includes roles in customer service and sales.
+
+‘+ Ability to present solutions clearly and concisely Word, Excel, PowerPoint and Google Apps
+
+Great research skills including the collection, (Google docs, Google Sheets, Google Slides,
+analysis, and + Google Forms)
+
+‘+ Interpretation of data + Facilitate group work on an environmental
+
++ Ability to quantity and analyze data project in a group of 5 people: participate and
+
+‘* Ability to work independently or as part ofa team —_ propose guidelines for
+Analytical and problem-solving skills + The progress of the work
+
+‘+ Ability to apply mathematical principles to the + Languages: Python, SQL, R,
+collection, analysis, and presentation of + Web Skills: Microsoft Azure (Databricks, Azure
+numerical data Data Factory (ADF), Azure Storage Container,
+
+‘+ Ability to design surveys and experiments, and. and
+to interpret and summarize data + Azure Logic App)
+
+‘+ Ability to apply statistical analysis to business, * Data Manipulation and analysis: Pandas, Numpy,
+scientific and social ideas. getpass, datetime,
+
+‘+ Perform data entry and database management,
+create tables and graphs on Excel
+
+‘+ Excellent research, management, and
+
+organizational skills of information on the
+
+Internet.
+
+Extensive knowledge of
+
+Database: Teradata, ELKStack.
+
+SUMMER STUDENT DATA SCIENCE, ADVANCED ANALYTICS 05/2023 to 08/2023
+Select Express & Logistics | Windsor, CT
+
++ Leveraged Elastic Stack to extract and transform data for analysis. Converted data into CSV format and
+performed analysis using Python within Jupyter Notebook.
+
++ Developed tables and conducted targeted column searches to extract relevant data for analysis using
+Teradata SQL.
+
+‘+ Automated monthly reporting using Azure cloud environment, specifically Databricks, Azure Data
+Factory (ADF), Azure Storage Container, and Azure Logic App.
+
+‘+ Communicated findings effectively through clear and concise visualizations and reports, enabling data-
+driven decision-making
+
++ Collaborated with cross-functional teams to gather requirements, design data pipelines, and implement
+end-to- end solutions.
+
+CLOTOMER SERVICE REPRESENTATIVE 12/2022 to 04/2023
+Personal Capital | Atlanta, GA
+
++ Handled inbound customer chat conversations from various websites
+‘+ Asked open-ended questions to determine which products or services would be best fit for customer's
++ Needs
+
+‘+ Documented all customer information accurately in computer system, providing dated notes for future
++ Reference
+
+‘+ Worked closely with each customer to carefully resolve issues within timely fashion
+
+‘+ Assisted department with email-based and phone support when call center was busy or short-staffed
+
+SAQES ASSOCIATE 11/2021 to 12/2022
+Ingleside At Rock Creek | Washington, DC.
+
+‘+ Served customers by suggesting articles that suit their needs
+
++ Responded to phone calls from customers related to any inquiries about available products
+
+‘+ Kapt the store clean in respect to governmental COVID-19 protocols and procedures (ensure
+customers are wearing masks, respecting physical distancing rules)
+
+‘+ Ensured UOSU (University of Ottawa Student Union) policies about sustainability, accessibility,
+inclusivity, and bilingualism are enforced
+
+‘+ Helped customers locate products and checked store system for merchandise at other sites
+
+Provided positive first impressions to welcome existing, new and potential customers
+
+SEQVER 05/2020 to 04/2022
+Chartwell Retirement Residence | City, STATE
+‘+ Prepare food for residents in accordance with Chartwell's cooking policies
+‘+ Ensure client satisfaction service by making sure residents are satisfied with meal service
++ Address the concerns of residents or their family members and ensure that appropriate action is taken
+within the decision-making authority and/or bring them to the attention of the Director of Food Services,
+the Director of Food and Beverages
+‘+ Perform mount and disassembly services during reserved restore events
+‘+ Communicate and interact effectively with residents, family members, visitors and volunteers in a
+courteous and professional manner.
+
+Bachelor of Science | Statistics 04/2025
+University of Ottawa, Ottawa, ON
+
+Received the UOttawa Refugee and international student Bursary Fund-Word University Service of Canada
+Received the university Of Ottawa Financial Aid Scholarship for
+
+HeQours Bachelor of Commerce | Finance, Statistic 06/2023
+University of Ottawa, Ottawa, ON

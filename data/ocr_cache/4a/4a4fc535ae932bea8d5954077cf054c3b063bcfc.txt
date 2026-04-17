@@ -1,0 +1,199 @@
+Jessica CLAIRE
+
+100 Mecgemery St. 108 Flee
+(655) 452.1000 renmengle@exanplecom
+
+Proressionat Seaman
+
++ Ove 7 eae offen experience in fll SDLC development nsring eens analy, ein development, ening ed
+implemen of aus appt
+
++ Expeneneis Sener infect development ox AWS Cle, extensive wage cf EC2 IAM 8, EBS, Rout ECS, YPC Cloud
+Formatos, Chad Watch Lambda SNS, $Q5,Clud Tra, AWS Conti
+
++ Bul seers sag AWS, poring elute, ug ECZ RDS, creating secu groups Ato-selia, East
+(LB) ated sia eae conecion
+
++ Expeiene in Ansble manage AWS eeioemees and auth ld poces fe cote ANS we byl application deplymees
+‘elig Aut sealing 204 Cond formation pt
+
++ Named Deployment maton ning Packer Decar an Terafn noe in onal deployments of EBS ont the AWS.
+‘loo er instance sere a asomted te complete deplyat ensounent oe AWS.
+
++ Woe Terraform sgt om sath fr balding De, tpg. road DR enouents
+
++ perience with Cogan Mange Atomatins ol Ambler ttorating Anil YAML Seip
+
++ Wosing expert all spec of Amie concept ike Cox Noe, Managed Node, ints, Moly, Ts, Paybooks
+
++ panei th coafquation ofthe AWS SDK (Bata), 4S CL
+
++ Goo Expose ot Vagrant & Ducer based coir deployments 1 ear eves dev tas a coninraton of
+‘rsrenment delves frees
+
+1 Expnene with cooing ecologies ke Ducks Kaberees
+
++ Usd Docket inlemet igh ee API topside wight otaie than process ilaton nd waked on cen of
+‘tomizel Deke ontaner images, oe od psd he mats othe Desks bb
+
++ Hans o experince Ope Shit cuter, ising ods od eanagig Kubert in oeating eloymet, aig 20d
+mangement of Cocaieize apbeaton,
+
++ Estey worked wih source cde Vion Catl ol ike SVN (Stes), GIT GH, Bucket,
+
++ Exar sig ba tos ike Am, Maven and Gra forthe Dg deployable ais oh as a, Wa, aan ip extesion
+fie.
+
++ Worked with Docker and Kubernts on leon rovers, om ling deeop bl nd oni ti apie (CU
+(CD) deploying eter on pair pe clo
+
++ Esaively worked on cetig ICD pipelines ing kis fo baling valding nd ein the lod formation tegite,
+Anble Pyosis
+
+‘+ Impleneted CUD paces wing CD pees oa develope team lowing er dozens of oe ups pour wih 29
+oven
+
++ Crete CCD pipelines and stp ao gg, bi! and so dpoymen withthe of te CCD tool ite Jenin.
+‘seating pt bids ewe tig Pekin bl ance tc
+
++ Ely mingle with ely evled echelon te met,
+
++ Cone with Agile Mathodsopy Ensue Sram Nate
+
+1 Gsed Kenda of ceding the a i els, Linx eve ing Como.
+
++ Prey welll on eb serves ie Apache a apcaion serves ke Web lp, Tomeat, Websphere to pay cole
+
++ Congued te Jenkins il to shee pst jobs aly ad ep oth tea incase of ald ale.
+
++ Rebytethe ANTof ihe tances eke in QA and PROD enrounents
+
+1 Wot experince on WebSphere Dat poner Aesage Que
+
++ Hae geod lnonloge of Baking Doma tat make me cma undertad te bine 2 nc requiem of
+arpa |
+
++ Hrsg sound knowledge on vey proce of Datapomer spine ie SSL certifeate management, Rain FTSC request
+ose SL certificates, Domain backup 2d sere Doe
+
++ East eam tecnologia wrk ude pee
+
++ tole i anton and oe fnconalegitenet eaten wth boss aa
+
++ Worked ca desl the Web Series Mult Protea stews, XML Firewalls DataPowe.
+
+1 Faia th ANA, SSL proxy prof SIAL.
+
++ Security oncpt (iglesia sgt, encryption eyo PRE SSL)
+
+1 dg of Wob Serie tnd (WSDL, SOAP 11,12) XSD, XPATH, WSDL, XSL, and SQL
+
++ Ged expe ia Datapemer XESS IDG 7. develope neuer sels, equteren gring. Dein, Bal Ut
+totes a plometton pies of be poet
+
++ Tubes addon secs sing the pclen determitog os ps, ed eobes vied with be Dato
+
++ terested owas the new etlopies wich ae raise else make
+
+‘evops Tok Puppet, Che, Ase, Vagrant, Docker and Splak Database: Once, SQL, Eneite NOSQL Castanea
+‘load Technsnger Auszca Web Sense, Opec, Opes Vern Contra Teo TFS, SV, GI, GITHUB, Perce.
+Programming Languages: a (Cr, HIMLHTILS aero: Cyber SringBoo en, bert, Ore, Ore DB,
+
+(Csscss3 an Sing SQLDevlope ISON. Reset
+‘Seripting Languages: PERL Ry. Pye, hell Propanaig Bull Reese Enlnerng DevOpst MAKE, ei, Case
+‘Websapp Serves: pace, Tees, 1088 oxo Remedy Pape Fh ee, AWS, Nag, Ney, al Chef,
+‘Operating Stems: UNDE Lia MS DOS, Widows 2012, 2008 Ant, sve, Gale, HUDSON, MS Bld Docker, ANTHILLPRO,
+server snd BAMBOO.
+Montoriag ToatsSpank, Nal Vision Contin nr,
+Docks, VMare
+
+Won Histone
+
+012019 Cutest DevOps Engineer
+"toed in desing deploying mote splicatons zing mot al ofhe AWS stack Gnciig ECD,
+Routes, 53, KD, Dynamo DB SNS, SQS, 1AM) fron oabiph asia, fl lence, an osc
++ Bu buckets al mamped plies or 8 buckets and wed 89 bucket 2d Gade rsp a ack ce
+avs.
++ tld cone caf sve worst an nde is CLI tlt AWS nodes
++ Wong eb eb ad elie codein Python & ats
++ Worked oa JIRA fr defect aes loping & tacks ad doves ll my work wing CONFLUENCE.
+1 tmepnte seeks Gila, ANS CodPipeie, eine sd AWS Ea Beato cee eplymst
+—
+Cad wes op ning TAM nd siged nil poco ach ty.
++ cheated SNS oc ad asigond ARN to 83 fr jet os teats
+1 carted lend alincers (ELE) and wed Rete with aloe od ney optns for high rail dal
++ Expaienein set phe Coatinuous Integration (CI) and Continas Deplymet (CD) ae foe
+Rekese Automation of fat and Oral Fes dene Appiatins (rate ADF, Oral SOA, OSB)
++ Seo eae eros sd eb tore ie il ate lod (VC) and ening sect Bp ©
+toc th he networks
++ Deiga AWS Cloud Formation emp oente cist sized VPC, bade, NAT 1 ene ace
+“rloymentof We ppeaion an date omnes
++ Cooke asisdeveloes wien and ering tose anc. beg amin ceverton
+sig GT source cool
+
+(1201719102018 Rik Amst
+Mechanics Bak Anoye Grade, CA
+
+1 Amlen rt ciated hao deans ywliing bth item an extemal casemate?
+ao itera os models: ast ing steps acorn to ascated risk foes, Resoig kes
+elated csome or echt es,
+
++ terce ith mile bones meetings calle rie ad aa te mow opted esi ration
+
+1 teste cuenderting atest tale, opine and etl ne thus ool poo
+peroneal ede kof deep deft Pret ik aber ose management oni mas
+cree
+
++ Conde cones tsi ath ti pool racking ri anaye ad infty end ad opted
+
++ Das Gathig 2 Anite data fn alain ofthe case
+
++ Supported asesment of pty of fleet poutions of he oti bse on pad tem sop
+(sem of wrocede a te porate
+
++ Patel alss ete aplicacions ad ponte perfomance ends (Ge, cg fad
+“dingo ie Exe eel ed teal ols
+
++ Tracom ca new ten fr KT (know tant),
+
+1 ewid hetrd pate, sie company and mecha husk of lls.
+
+0/201619032017 Human Resources Manager
+MoT TE
+* alse th eal and compliance eas reve paper, cin estas proce stibe
+tnforato for ew eae pees,
++ Conde tines paces inlining seeing a ew i oer
++ Noster an hand al enploee cms cline peomance beds harsmet nets
++ Dyed coool vanes benefit potas, cing retest pein las, mea deta and sia
+packages
++ Discovered an rose comple employee ius teed manage a sie cies,
++ Mastin 100% rotcl ad pocelualaccry ough HIS mazenent ols
+1 hanced eam wor nt employe so staan ycorating communcton ences mange
+cnplovees
++ Pres yell sem only nd ely eapoyes
++ Proceed al HR inet, emits, elosaon ad omen
+
+sat ‘MIA Management Information Stems
+‘Concora ners Wiens Agia,
+Pret
+1. Dua Communication snd Neweing
++ Condced rk asesment on etock engin perme ofl mamagenee.
++ aid cmon er een and ceca etd.
++ Toeoveal proceso designing and implementing a eter
++ Liking te pleon lye semen, nd even mangemest
+2 Feacal Maapenet
++ rane he importance ofaltheepaizaton keller inthe le popson
++ Olid Seas tt he ancl mange sold unestnd and pty eo ete negation
+andincene i ale. Several lH town and ooo jet based finial dcitons "pote pil vets,
+sock eons and stock tac
+1 Buhne te ed for apa in an xpaiztion ad dsibed he ioc betwee te dad egy kes
+
+osaois ‘Bacher: of Techaslog: Computer Sac And Eagiaeriog
+DRKCET-Hydeabd ida
+1 AUTOMATIC TEST PACKET GENERATION (ATPG)
+{+ ATRG ir oo ie the ewok Same tan poet et packets
+Tet packet ae inode io eto ie edge ac at
+1 ATIC op fine ek ayes eons adn Gg srr coanecions
+* once to packets recede can hoe the ote send iil othe ata wuld’ be
+lomo sole
++ Deal ith Nemo Seay an Eatance High nel Confraton

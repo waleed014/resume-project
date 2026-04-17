@@ -1,0 +1,163 @@
+PROFESSIONAL
+SUMMARY
+
+ACCOMPLISHMENTS
+
+SKILLS
+
+PROFFESIONAL
+BACKGROWN AND
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© 100.Montgomery St. 10In Floor 2 (855) 432-1000 <4 resumesample@example.com
+
+Detail-oriented Database Administrator with over 7 years of experience managing SQL Server databases in
+production environments. Maintained servers and systems to ensure smooth business operations, a
+passionate contributor to team success with a track record of empowering teams, A self-starter who is
+versatile with database technologies, always motivated to leam, grow and stay current
+
+‘+ Automated processes to reduce workfow by creating maintainance plan that runs daily to reorganize,
+rebuild and update statistics, Backup, and Cleanup task in my environment
+
+‘+ Migrated SAL Databases from On-prem to AZURE, configure Geo-replication for High availabilty
+Manage database on Elastic pools and Manage instances
+
+‘+ Setup and Manage Alvays-ON High Availabilty for HA/DR; High availabilty and Disaster Recovery
+Setup and manage Log shipping to automate and Synchronize Backups and restore to a Secondary
+servers for Disaster recovery as an addition secunty for Mission Critical databases In our environment.
+
+‘+ Create Data Models for new and modernized legacy Databases, implement database design following
+best recommendations to maximize performance and reduce data redundancy and inconsistencies. In
+{doing so, | understand the need for a Business requirement document that outlines the business needs
+from the conceptual to the logical, and a good strategy for the physical model and design ike
+normalization in OLTP vs OLAP.
+
+‘+ Maintain Database Security and Consistency in Sql Server Databases by Running database validation
+Checks and database consistency checks to proactively resolve data corruption and inconsistencies
+
+Installed SQL in standalone/Clustered + Auure, Network, Storage & Disaster Recovery
+Database migration to Microsoft Azure + Managed instances, elastic pools, Azure VMS
+Log Shipping, AWways-On High Availabilty Managed Azure compute and services
+Traditional Failover, Mirroring, Replication On-<call 24/7 rotation, Production Support
+
+‘+ Performance Monitoring & Tuning + ETLwith Pentaho data integration, SSIs
+
+‘+ Data Modeling & application Design
+
+SENIOR SQL SERVER/AZURE DATABASE ADMINISTRATOR 08/2019 to CURRENT
+‘dt Security Services, inc | Oldsmar, FL.
+‘+ Produced high-standard database solutions to meet stabilty, reiabilly and performance metrics.
+‘+ Administered SQL Server databases in production environments, ranging from 2012 to 2019 versions.
+Install and configure SQL Server database in standalone/cluster environment with availabilty groups.
+‘+ Set up and controlled user profiles and access levels for each database segment to protect essential
+‘data, Creating, granting and monitoring user access rights and privileges through roles and profies.
+‘+ Involved in Administering the servers by creating User logins with appropriate roles, logins, monitoring
+the user accounts, creation of groups, granting the privileges to users and groups.
+‘+ Configured SQL Server 2016 Always On Availabilty Groups. Involved in Analyzing and Upgrading SQL.
+Server 2008 to SQL Server 2016.
+‘+ Performed Database Migration of SQL Server Databases to Microsoft Azure hosted DBs and Managed
+instances.
+‘+ Comprehensive knowledge of SL Server deployment, migration, patching, troubleshooting,
+optimization, maintenance (modeling High-Availabilty (HA) and Disaster Recovery (OR).
+‘+ Configured High Availabilty Solution- Clustering, Always-On, Database Mirroring and Log Shipping,
+‘+ Manage database security and users in Active Directory, ensure Database Integrity and setup
+maintenance plans via SQL Agent.
+‘+ Involved in planning, setup and implementation of new servers across the entire enterprise.
+
+‘S@2 SERVER DATABASE ADMINISTRATOR (09/2018 to 08/2019
+Adt Security Services, inc | Brookiyn Park, MN
+
+‘+ On-call 24/7 SQL Server Production Database Administration, Support and Monitoring for proactive
+problem resolution. Involved in planning, setup and implementation of new servers across entire
+enterprise
+
+‘+ Minimized downtime by optimizing and monitoring High Availabilty for SQL Server, applying Database
+Mirroring, Log Shipping, Traditional Failover Clustering, and Alvays-On Cluster methods.
+
+‘+ Performance monitoring and SQL Profiler to optimize queries and enhance database and server,
+performance.
+
+‘+ Provide DBA support and technical expertise for multiple applications in development, test and
+production SQL Server 2016,2017 environment,
+
+‘+ Responsible for working on 2008, 2012, 2014 and 2016 versions of SQL involved in building out new
+secondary data center servers by configuring SQL 2008/2012/2016 with DR strategy.
+
+‘+ Performed Log shipping, replication, mirroring and implemented as high availabilty techniques and
+setting up and automaticitorced fall over for production servers.
+
+‘+ Audting of database for Logins, Users transactions, and database activities and resolving orphan.
+
+‘+ Troubleshoot Blocking and Deadlocking issues by making appropriate changes to Transaction Isolation
+levels and the types of locks being held; avoid keeping transactions open for long durations, breaking
+large transactions to smaller ones.
+
+‘+ Scheduling and monitoring SQL agent jobs. Designed and developed script to refresh selective data
+‘rom production to development, and implementing to support business needs and deadlines,
+
++ Work with Server/SAN team to diagnose IO latency occurring with several V's, configured HADR,
+techniques such as log shipping and Always-on,
+
+‘SQ SERVER DATABASE ADMINISTRATOR 06/2015 to 04/2018
+Pike Solutions | City, STATE
+
++ Worked on migrating SQL Server from SQL Server 2012 to SAL Server 2014/2016.
+
+‘+ Design and implement the appropriate database maintenance for database systems (Index
+maintenance, update statistics, Backup strategies)
+
+‘+ Work with application teams on tuning queries which causes extended blocking, deadlock and locking
+
++ Developed automated tasks for daily, weekly and monthly database maintenance such as database
+backup, database integrity verification and indexing using control-M agent and SQL server agent
+
++ Developed complex T-SQL script and stored procedure to improve performance, preserve referential
+integrity and provide application functional
+
++ Worked on tinked server to run distributed queries between SQL server and Oracle databases.
+
+‘+ Periodically apply the required service packs and cumulative updates on database servers.
+
++ Configured Transparent Data Encryption (TDE) and backup/restore strategies on encrypted databases.
+
+‘+ Followed standard practices for migrating changes to test and production environments,
+
+‘+ Developed custom database objects, stored procedures and delivered application support
+
+‘+ Created and updated database designs and data models,
+
+‘+ Set up and controlled user profiles and access levels for each database segment to protect important
+ata
+
+‘+ Maintained complex T-SAL queries, views and stored procedures in mult-database environment with
+litle supervision
+
+‘+ Designed and implemented TSQL queries for reporting and complex solution development
+
+‘+ Bult databases and table structures for web applications.
+
+‘+ Implemented system enhancements to design and develop solutions to address problem reports,
+
+‘+ Administered, supported, and monitored databases by proactively resolving database issues and
+maintaining servers.
+
+‘+ Worked with staff to develop and implement procedures to prevent data loss and maximize system
+availabilty
+
+‘+ Determined database structural requirements, working with business stakeholders to identity optimal
+database specifications.
+
+‘+ Implemented Bi solution framework for business intelligence projects.
+
+Bachelor of Science 0472015
+Jawaharlal Nehru Technological University, Hyderabad, INDIA
+
+Microsoft Certiied: Azure Administrator Associate AZ~104
+Microsoft Certiied: Azure Database Administrator Associate OP-300

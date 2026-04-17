@@ -1,0 +1,156 @@
+Jessica CLAIRE
+
+Montgomery Steet, San Francisco, CA 94105 ¢ (555) 432-1000 @ resumesample@example com
+
+PROFESSIONAL SUMMARY
+
++ Data engineer with 7+ year of experience in data ingestion, processing pipelines and storage tetrieval optimized database systems to
+provide solution for data analytics
+
++ Experience in conversion and build of database programs and objects in Snowflake, Oracle, and Teradata
+
++ Worked on projects for wide range of data projects including data warehouse, software services and data migration
+
++ Ability to build processes using snowsql command line interface and Javatcrpt stored procedures for near real time bulk batch loads.
+
++ Knowledge in creating Snowflake user defined functions, materialized views, Merge statements, quety optimization using profiler
+
++ Created Snowpipe for continuous data load from AWS 33 buckets and Azure blob storage
+
++ Good knowledge in Snowilake virtual warehouse, intemal and external stages, materialized
+defined functions, transient tables, advanced DML like merge and common table expressions
+
++ Good knowledge of various dimensional models like star schema and hybrid models
+
++ Strong experience in Extraction, Transformation and Loading (ETL) data from various sources into Data Warehouses and Data Marts using
+Informatica Power Center (Repository Manager, Designer, Workflow Manager, Workflow Monitor, and Metadata Manges)
+
++ Created complex mappings using mapplets and new transformations lke sql, transaction control
+
+‘+ Worked on data migration processes from files to database and across relational databases
+
+* Good experience working with various type of facts and slowly changing dimension (SCD) tables
+
++ Hands-on experience across all stages of Software Development Life Cycle (SDLC) including business requirement analysis, data
+
+zero copy cloning, query profiling, user
+
+‘mapping, build, unit testing, systems integration and user acceptance testing
+
++ Worked on scheduling tols like Autosys and Tivoli workload scheduler.
+
++ Well developed verbal, writen & communication skills,
+
++ Ability © work cooperatively ina team environment to design, construct and deliver high quality deliverables
+
+SKILLS
++ Database: Snowflake, Teradata, Oracle + Languages: Shell Scripting, SQL. JIL (Autosys), DOS
++ ETL Tools: Informatica Power Center + Operating Systems: Windows & Linux
+
+Worx History
+
+Data Engineer, 09/2021 - Current
+Lockheed Martin Corporation — Wilmington, DE.
+
++ Developed batch process using SnowSQL scripts and automate it using shell script and Tivoli batch schedule.
+
++ Converted Mload Teradata seripts to Snowflake compatible SQL scripts and incorporated user defined functions for commonly used
+
+transformations
++ Converted BTEQ seripts to Snowflake compatible scripts and utilized intemal functions and created stored procedures for looping
+structures
+
++ Create materialized views for faster data retrieval for reports.
+
++ Created continuous dataflow using Snowpipe from Azure blob storage and change data capture using streams.
+
++ Optimized copy statements for performance and built process using advanced DML like Merge statements.
+
++ Created queries using common table expression for recursive data and window functions
+
++ Created and manage code versioning using Code Cloud and GIT cli tool
+
++ Performed unittest for data validations and supported quality assurance teams for defect resolution and performance optimizations
+CCollaborated with database administrators to optimize virtual warehouse sizing, reduce redundancy, manage cluster keys and query
+performance optimization.
++ Integrated batch loads with Tivoli workload scheduler for batch process with schedule daly, weekly, monthly and on demand cycles.
++ Created documents for data flow, production support run books, best practice documents, naming standards and unittest results.
++ Conducted daily stand up, updated trackers, mentored Junior developers, participated in retrospect, phase planning and other team_
+
+activities
++ Environment: Snowflake, Azure, Snowsal, Red Hat Linux/Shell Scripts, Tivoli Workload Scheduler
+
+‘Sr ETL Developer, 05/2019 - 0812021
+‘Two9S International Inc. - Suitland, MD
+
++ Create batch jobs to load data using AWS s3 external stages and transformed data using Javascript stored procedure
+
++ Developed jobs to load files to intemnal stage using put commands and used copy scripts to bulk load to tables
+
++ Developed shel scripts using SnowSQL CLI utility to automate loads using Autosys
+
++ Designed and developed Python programs to load data from S3 to Snowflake using connector for dimensional model for warehouse
+
++ Collaborated with databace administrators to create data shares between multiple accounts in Snowflake within the organization
+
++ Evaluated virtual warehouse for usage and resizing based on compute requirements
+
++ Analyzed dataflow and business transformation to document the process
+
++ Performed data profiles using SQL and Informatica data analyst tool
+
++ Designed and developed extraction, transforming and load process using Informatica power center
+
++ Optimized query performance using query profiler tool to remove bottlenecks
+
++ Integrated the existing systems within new RMS systems builtin AWS cloud platform and Snowélake database
+
++ Back feeding the data using Informatica power center and other necessary tools to POM systems
+
++ Extracting, staging data, apply necessary transformation and supplying the data tothe supply chain management report systems
+
++ Extract and transform data from various heterogeneous sources like Mainframe, Oracle, DB2, others to the target environment using
+
+Informatica
++ Worked on defects issues, change requests, interface implementation in Agile methodology using Jira
++ Created technical design document, Unit Test Results, Release Notes, Review Status and other project related documents, code versioning
+using SYN
++ Environment: Informatica 10.6, Oracle 11g, Red Hat Linus, ESP, Snowflake, SnowSQL., SnowSight
+
+ETL Consultant, 07/2015 - 04/2019
+ING ~City, STATE
++ Prepared technical design specifications for data Extraction, transformation and load like source to target mapping documentation
++ Worked on informatica Utilities Source Analyzer, Designer, Mapping Designer, Mapplet Designer and Transformation Developer to
+create re-usable objects
+
++ Developed complex mappings such as Slowly Changing Dimensions Type I1-Time stamping
+vsing Informatica powercenter designer
+
++ Used various transformations like stored procedure, connected and unconnected lookups, Update Strategy, Filter transformation, Joiner
+transformations to implement complex business logic
+
++ Used Informatica Workflow Manager to create workflows, database connections, sessions and batches to nun the mappings
+
++ Used Variables and Parameters inthe mappings to pass the values between mappings and sessions
+
++ Created mapping to read data fiom Mainframe EBCDIC files with copybook layout using normalizer and applied business logic to load
+to Oracle data warehouse
+
++ Implemented restart strategy and error handling techniques to recover failed sessions
+
+Informatica using change data capture
+
++ Used Unix Shell Scripts to automate pre-session and post-session processes
++ Enhanced performance to improve execution time for data extraction, data process using prallelzing techniques and others
+
++ Played a key role in upgrading Informatica version 8.6 to 9.1 with minimum disruption to busines process
+
++ Scheduled jobs using Infacmd through shell crits using Autosys boxes and Jobs
+
++ Implemented best practices as per the standards while designing technical documents and developing Informatica ETL process
++ Environment: Informatica § 69.1, Oracle 10g, Red Hat Linux, Autosys
+
+EDUCATION
+
+Master of Science: Computer Applications, 10/2008
+‘Manonmaniam Sundaranar University - India

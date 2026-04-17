@@ -1,0 +1,105 @@
+JEssica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Professional, detail-oriented DevOps Engineer motivated to drive projects from start to finish as part of a dynamic team with exemplary
+expertise in routine application maintenance tasks, Code Pipeline, Scripting and Provisioning Infrastructure.
+
+‘SKILLS
+Cloud Infrastructure- AWS, GCP ‘+ Operating Systems: Linux
+‘+ Framework/Build tools - Jenkins, Bamboo ‘+ Programming Language: Shell/Bash, Yaml, Groovy, Python,
+‘+ Versioning Tools - GIT, GitHub, Bitbucket Golang
++ TAC Tools - Terraform, Terragront ‘* Monitoring Tools: Cloudwatch, Cloudtrail, AWS X-
+‘+ Configuration Management tools- Ansible Ray Datadog Prometheus
+‘+ Containerization- Docker, Kubemetes ‘* Other Tools- Maven, Nexus, Sonarqube, Airflow, Tailscale, Slack,
+Loki, Jumpcloud.
+
+* Effective communication
+
+Work History
+
+DevOps Engineer, 03/2021 - Current
+Computer Services, Inc. — Franklin, TN
+
+‘+ Implemented, developed and tested installation of DCV and update RLM and Nimble streaming servers and application servers.
+
++ Resolved metrics issues with k8s , and upgrades Upgrading Cluster API metrics service
+
+Familiar with managing and setting up Tailscale
+
+‘+ Automating use of JumpCloud using Golang and auto adding servers to device group utilizing the JumpCloud Api
+
+‘* Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client
+
+requirements.
++ Corrected, modified and upgraded Certbot to improve ssl connection and setup automated renewal
+
+Strong Familiarity with GCP services, cloudfunctions, pubsub, instance manager, etc
+** Strong exposure to IAC scripting eg Terraform, and also utilizing boto in python for automating tasks.
+‘+ Strong exposure to AWS services and serverless/event driven architecture eg CloudFront, ApiGateway, Lambda, $3, Dynamodb.. ete
+
+DevOps Engineer, 12/2019 - 02/2021
+Computer Services, Inc. —Lexington, KY
+
+‘+ Worked closely with software development and testing team members to design and develop robust solutions to meet client requirements
+for functionality, scalability and performance.
+‘Wrote code and developed tools and integrations to meet cross-platform user needs.
+
+Building and maintaining tools, solutions and microservices associated with deployment and our operations platform, ensuring that all meet
+‘our customer service standards and reduce errors,
+Wrote code and supported architecture in high-throughput systems on AWS cloud.
+
+‘Wrote and updated documentation to outline technical design of entire project.
+
+Actively troubleshoot any issues that arise during testing and production, catching and solving issues before launch.
+
+‘Wrote terraform code for managing the infrastructure and programmed clean, re-usable and simple codes.
+Automated monthly system patching to keep machines up-to-date, stable, and safe from security threats
+
+Jr DevOps Engineer, 10/2016 - 11/2019
+Apex Systems - Twinsburg, OH
+
+‘+ Managed access to git repository for teammates
+Wrote code (IAC) and supported architecture in high-throughput systems on AWS cloud
+‘Worked in an Agile environment, using JIRA for ticket tracking and Github for version control
+
+‘+ Managed user access by setting up minimum allowed permissions to AWS resources for teammates and services
+Improve the performance of the system with continuous monitoring with Cloud Watch
+
+Troubleshoot and handle technical issues and recurring problems that impact production applications
+
+Ensures uniformity of environments by writing Dockerfiles and Docker-compose files
+
+Set up CCD pipelines for Microservices on AWS using App services
+
+Automated infrastructure provisioning on with Ansible
+Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when conditions are not met
+‘Worked on integrating GIT into the Continuous Integration (CI) environment along with Jenkins
+
++ Developed strong communication, active listening and interpersonal skills, which were used when collaborating with the product
+development team and other stakeholders
+
+Technical Specialist, 01/2015 - 09/2016
+‘Homeserve Usa — Bethel Park, PA
+« Patched software and installed new versions to eliminate security problems and protect data
+« Installed and updated computer hardware and software
+‘+ Helped streamline repair processes and update procedures for support action consistency
++ Explained technical information in clear terms to non-technical individuals to promote a better understanding
++ Engaged end users and answered questions via email, phone, website live chat and in forums
+
+EDUCATION
+
+Graduate Certification: General Studies / Marketing
+
+University of California - Los Angeles Extension - Los Angeles, CA
+
+Bachelor of Science: Accounting
+Lagos State University - LAGOS, NG
+
+CERTIFICATIONS
+
+AWS Cloud Practitioner Certification
+Oracle Cloud Infrastructure Foundation Certified Associate
+AWS Solutions Architect Associate Certification

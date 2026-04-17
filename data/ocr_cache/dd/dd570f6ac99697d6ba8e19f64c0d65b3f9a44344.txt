@@ -1,0 +1,174 @@
+Jessica Claire
+
+© tooMonigomer St 10m Foor 1S (555) 452-1000 4 resumesamplegerample com
+
+SUMMARY © + OverT+ years ofprotessonalIT exenence m Anat, Oesgn, Development, Testing, and
+Implementation of vaous ata warenouse
+
++ Stans ineved in ETL Development using ICS and itormata Power Cente 9.010
+
+1 Hawng eeience wong wth format iCS tol eect eg or daa tegation (On
+premises and cous-base) and data migration tom mute sure syste
+
++ Epenence wn 1S (Datalneraten, Aaastate, Mento Sewces
+
++ Expenence n Bulang Serice connecter or Rat Tne integration wih Th party applications tke
+‘Geogle ous Strap. Bipauer
+
++ tong technical exerience bung data eration processes by constructing mappings sks, task
+tows schedules, ane parameters
+
++ Used tomate designer components - source anayzr ansomaton developer, apple and
+maging dese:
+
++ Were eens wn comple appings using mule trastomatons tke source qualers
+expressions, ites, ners, ues, union, unconnected / connected lookups an areas
+rearny bulge ana hierarchy parser, stored procedures rank and nomataer sequence and SQL
+
+‘+ Expenence im perfomance tuning os. Song in tang ot ne totenecks and ing them sing
+‘arous tung metneds ke Session parsoning,feduang te wokup Sues Using persistent caches and
+pushoun optmgaton et
+
++ Expenence i imlenentabon of COC an scowsco2
+
+‘+ gn Experience n ROMBS (race) incuang complex SOL const nd ODL generation, te ting
+the SOL quer thal are used a ateren places me source over pre SOL and post SL at source
+ana target an athe ookup overt
+
++ Expenence nlx shel Sepang fr ceatng st Hes, cleansing hemp es, ang arc te
+
++ Pertrmed Unt tenga varous levels ofthe ETL and ace ivoed in team cade reviews
+
++ perience nnocing in Age metNoslogy and ive a Age Meetings, Feature Bacog
+‘Grooming Retnements, Day Stand-up, Rettospecten, SOS (Scrum of Serum), Spin Pinning, Spit
+Intra! Demo’, Spat Exteral Dera
+
++ Hands on Expenence in ratContuence Tos for Project Management, Spent Management. Detects
+
++ Abny to leam new ecology ana qu adapt ecology changes nave willng fo work amtuge
+
+SKILLS + 108, Ponercenter 9x10 + CONTROL, Auos}s
+‘+ Oracle. PostreSal, Bip Quen, Google coud + Emin Data Modeler
+storage + aR sence now
+‘+ SOL, PUSOL, UNO Stet Scaping,vandows + ‘Serum. Age Methods
+‘Batch Programming + ata nays
++ cp
+2 Gwe
++ SAL Developer saver
+EXPERIENCE SR ETLDEVELOPER (es) 02010 © CURRENT
+
+Wels Fargo Spars, NV
+
++ Tink ot ProsRnt as the “Uber f constuction equpment tom Poo and dumpsters o aerial
+‘equpment ane way o Ear mong equpent heres abet way to et contucion equipment
+‘one ta utes technoog fo bang eres ang supers togener to do business ay
+
+Project Sop:
+
+‘rear response to coonet mute source systems (Order Life Cyl, Bing Management &
+Invoice Gen, Supe and iver Management System Ntcabon Management Stem) nto dla
+warehouse wth the etecive Design, Developmen, Yailabon and Suppat aches assue tal RS
+roavang values ecu Business
+
+Responsbiies:
+
+‘+ Werke win the business anahsts and data anaes team o gather business requrement be
+\ansateaino design conieratons
+
++ Useafomate igen! Cloud Sence for TL) eaten transtomation and lading daa tom
+neerogeneous source syste io target aatatase
+
++ Prepare Various mappings to oad te data into erent tages tke Lanang, Stang and Target
++ Though sc creates mappings fr Order fe Cyl Management System ogee data tom
+PosireSat in GOP Cloud fo On Premises Cradle Datavarenuse
++ aracta data tom Oracle, Postgres and aded hem io 8g Query/Gaogi Cous Storage
+{creates ana mantaned SCO-t ana mappings o mantan her om source o target or accessing
+tensor of Oger Ute Cycle ntomaton.
++ tracted ne data rom Order ite Cycle Management system anaranstomed the data using ICS and
+leadea tito Orace database fr he oie General’ appcaten to produce automate voce
++ Developes vanous mappings wing Cau Mapping Desgner and works wh Aggregator, Loot,
+Fer Routt Janer Souce ater Expression, Soe, and Sequence Generator Vanstomatons
++ Were on Parameteeaton of al vale and connections aa eves.
+‘creates eusale vansomation objets such as maples, User dened functions to avo upcaion
+ofmetadata ana redung tne deveopment tine
++ ten Sak quenes and appted at erent levels ke Souce query, pre SAL. post SOL and
+‘Optmzed SOL Sept to mprove peromance
++ Epenence i partoning and pusndoen opmzaton
+1 woe on Documentation to deserteprogiam development ge, coding. testing, changes ana
+corrections
++ ParecpatesnEmnancements meeting to singush beeen bugs and enhancements
++ Aten ne can scrum cas and prove my updates and bring to te ntie any botenecks a werking
+ony user stones.
+Environment:
+1 ICS, Auosy, tte, GCP Google cus storage Bloque, Oral 19, PostgreSOL. Unk Sever,
+SOL Developer RA,
+‘hitrons Pisce | Austin, Tx
+Project: Cigna Cla Management - Medak
+‘Cigna is ateazng heath serve company commited to help Medare and Medcal benef achieve
+eaare Aavantage, Medicare Pesci Ory Coverage. Medea and oer heath Serie reduc
+Project sop:
+The scope ofthe Cigna Cia Management Medcald OW projects to hold Medal cls by heatcare
+ronders she anu reiraurseaby connecting mutipe source systems ana het he data oOrace
+OW
+Responsibities:
++ Gathered Requrements an Design ne data ead specications based on Business res
++ sea nfomatea PowerCenter 10:1 fr exracton,asing and tanstomaton (ETL) inthe data
++ Designed ana aeveloped ETL Mappings to exact aaa rom fat ts, csv and race oa ne data
++ Creates and cantgures Worktous, Wores and Sessions to wanspr the data target warenouse
+(race ables using nfomatca Wortow Manager (Workow Manager Tels Task Developer,
+Workow & Wore Designer
++ Develop several conpex napings in ntomatca aval of PowerCenter Vantomatons, Mapping
+
+Parameters, Maping Vales, Mappes& Parameter Nes Mapping Designer weg niormatea
+
+‘+ Tmemapgings voted enensie us of Agaregaior, Ft, Rowe, Expression, Jie, Union,
+Nomatzer ana Sequence generator vanstomatons
+
++ Impemeriea perfomance tuning techniques to optmae ETL worktovs ana reduce processing tie,
+resutng aster data deter 10 endsers
+
++ Examine ne wc og es ana assigning the teksto the production suppat based on the ear
+
+‘Support maton of EL code trom development to QA and QA to production envonments
+
++ Designed and cevelope Uni Shel Sept, FTP sending eso Source recor & managing session
+tes.
+
+Environment:
+‘+ Ifomasca Power Center 10, Oral 11g, PUL SOL Server UNK Shel Scptng, toys.
+Frontier Communications | Cty, STATE
+Project Desorption:
+‘rote ia eaing communications prover ofemng galt speds to enporer ana connections
+otconsumers and businesses in 25 tates, tis uig crcl dita inasraure across the county
+‘wan 5 100% foer-ope network and cous bases solaens.
+Projet Sop:
+ont caution of Versons Calor, Texas and ld propetes for 9 7Mvoce. 22M
+‘sreacband ana 1 24 FIOS we comnecons brought he Begest conversion program, The team ot
+ata mappers and ETL developers nas been assigned to convert ths aa tom Vrzn stems to
+rover system. vas response o covert he econ proven data
+Responsiotes;
++ Wore wih te ta mapper to colt he business requrements and base SU's o be tansited
+ino iomatca mappings
++ Response fo anasto Vrzon data an ineprate nto rons OP sytem
+1 Pertomes Source 9)stem Osta ana spe he Business Requreent
+
+‘+ Ojstibtes data resin neterogeneous datasources is consoled ono target Enterprise Data
++ Detelopes appings, Sessions, Workons and SQLS io exact valle, and wansom data according
+‘+ creates various Tanstomatons ke, Agpregatr Expression, Lookup Fi, UpdateSatey an
+Router et
++ tense worked on design, development an mpleentabon olan Fe ads such 35 FLCS,
+FLO, FSMALT ete
++ Bung the necessary stapng tales an werkales on race development envronment
+1 sourced te data fom ev tes, fat es and Oral tables
++ ade suostantalconeoas i sinpyng he aevelopment and mantenance of ETL by creating re-
+usable Mapp ad eusabeTanstrmatonebjecs|
+1 mpementespetomance tng for omata Sources, Targets, Mappings transformations.
+‘Sessions, Pushobwn optimization ana Parbboning
++ mpemerte incremental oad go prove he ne taken for ene mock conversions
++ Designed ana execute mock conversion uns evry week using grated worktons and pan
++ Hontore sessions nat were sneses runing, completes o fate
+‘Environment
+‘+ Ifomatca Pore Center 961, ORACLE 11g.Unx Shel Srptng, Conon
+
+EDUCATION AND Master of Computer Applications | Computer Scence
+TRAINING Hoty Cross College, Tiehy

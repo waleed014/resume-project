@@ -1,0 +1,228 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
++ Strong Interpersonal and
+‘Communication Skills
+
++ Software Testing and Validation
+
++ Project Management
+
++ Data Storage and Retrieval
+
++ Security Planning
+
++ Cost Assessment
+
++ Debugging and Troubleshooting
+
++ Customer Relationship
+‘Management
+
+EDUCATION
+
+Wichita State University
+Wichita, KS + 05/2013,
+
+‘Master of Science: Electrical And
+‘Computer Sciences Engineering
+
+JNTU Kakinada
+Andhra Pradesh + 04/2011
+Bachelor of Science: Electronics
+‘And Communications Engineering
+
+CERTIFICATIONS
+
+‘Comptia Security Plus- 601
+‘AWS Solutions Architect Associate
+AWS Sysops Administrator
+Associate
+
+‘AWS Developer Associate
+
+Docker Certified Specialist
+Associate
+
+PROFESSIONAL SUMMARY
+
++ Flexible professional with 8+ years of experience developing and building IT solutions. Confident
+DevOps Engineer with exemplary expertise in routine application maintenance tasks, including
+‘troubleshooting and testing.
+
++ Critical thinking Engineer with extensive understanding of high availability architecture and
+concepts. Purpose-driven professional with capacity to be strong team player plus work effectively
+independently.
+
++ To seek and maintain a full-time position that offers professional challenges utilizing interpersonal
+skills, excellent time management and problem-solving skills.
+
++ Been a part of audit and governance teams in top FinTech firm.
+
++ Experienced in multiple computational, security and other AWS services like VPC, Amazon EC2, $3,
+Cloud Formation, IAM, Elastic Beanstalk, Inspector, KMS, Config etc.
+
++ Well versed with monitoring tools like Datadog, Splunk, Nagios and Amazon Cloud watch to monitor
+major metrics like Network logs, CPU utilization, Load Balancer logs etc.
+
++ Experience in handing resiliency as well as disaster recovery activities.
+
++ Highly skilled in deployment, data security and troubleshooting of the applications using AWS
+services.
+
++ Experienced in migrating applications from On-Prem to Cloud and containerize them using Docker/
+Kubernetes.
+
++ Descent knowledge as well as experience in using Python, Terraform and JSON scripting.
+
+WORK HISTORY
+
+Xylem Inc. - DevOps Engineer
+Lansing, IL + 01/2020 - Current
+
++ Worked with software development and testing tearn members to design and develop robust
+solutions to meet client requirements for functionality, scalability and performance.
+
++ Maintained consistent security to effectively implement best practices and protect application
+data.
+
++ Maintain RabbitM@ infrastructure with continuous upgrades for improved functionality as well as
+security .
+
++ Implement and maintain Prometheus in firm as part of establishing SRE stature.
+
++ Install, configure, operate, and maintain AWS environments and related software
+
++ Evaluate, configure, and implement new technologies, methodologies, and architecture design
+patterns to build new AWS automation and pipelines
+
++ Work towards migrating CloudFormation templates to terraform
+
++ Update frontend and Java certificates to maintain security in environment. Perform migration
+from utilizing public certificates to private certificates
+
++ Implemented Newrelic automated synthetic monitor reporting regarding performance of web/
+zeus/sip applications which saved ton of reporting and troubleshooting time
+
++ Led design of resilient, secure, high availability cloud infrastructure in AWS support of long-term
+engineering goals
+
++ Improved application performance speed by 8% by reducing unnecessary redundancies and
+improving organization of backend
+
++ Mentored newly hired engineers in offshore for bringing them up to speed to support devops
+activities and perform release deployments.
+
++ Implemented security of RDS by automating creation of encrypted read replicas in cross region
+fashion.
+
++ Fostered culture of robust documentation as it pertained to release processes and CI/CD.
+
+‘Motion Recruitment - AWS Dev Operations Engineer
+Horsham, PA + 10/2014 - 01/2020
+
++ Worked on setting up cloud infrastructure using AWS services- VPC, EC2, Auto Scaling, $3, Cloud
+watch, SNS etc
+
++ Tested, automated and whitelisted software to be used in secure environments.
+
++ Performed gap analysis procedures and detailed data reviews to optimize implementation.
+
++ Configured custom AMIs, created AMI tags, modified AMI permissions, Created Security Groups,
+NACLS.
+
++ Experienced in working as operational point of contact for cloud operations in technology
+‘operations center for whole Capitalone
+
++ Deployed and maintained bastion servers for complete Capital One cloud infrastructure.
+
++ Incorporated usage of AWS inspector to maintain compliance of EC2 instances.
+
++ Performed internal audit for cloud teams using artifacts and reports from trusted advisor.
+
++ Worked with multiple application teams in migrating them from on premises to Cloud environment
+as well as orchestrating them if needed.
+
++ Developed automation and deployment utilities using Go, Python
+
++ Coordinated with developers in establishing and applying appropriate branching, labeling
+conventions using GIT repositories.
+
++ Integrated Datadog cloud monitoring tool with PagerDuty for triggering real time alerts to POCs
+
++ Experienced in deployment of applications on Apache Webserver, Nginx and Application Servers
+such as Tomcat, JBoss.
+
++ Created AWS Cloud formation templates for different environments (DEV/stage/prod) to autornate
+Infrastructure (ELB, Cloud watch alarms, ASGs, SNS topics, RDS etc) on click of button
+
++ Designed custom policies for S3 buckets/ objects for default encryption, user restriction, CP Data
+compliance regulations etc,
+
++ Implemented custodian policies on whole AWS infrastructure for maintaining compliance and
+monitored metrics on daily basis for cost optimization.
+
++ Carried out day-day-day duties accurately and efficiently.
+
++ Maintained Resiliency for all migrated applications and successfully recovered them during manual
+disaster recovery exercises (X-TREX).
+
++ Engineered, consulted and up skilled other engineers on cloud solutions and DevOps to include
+distributed version control and trunk based development practice, infrastructure automation,
+automated CI/CD pipelines, monitoring and operations.
+
++ Worked on RPM and YUM package installations, patch and other server management.
+
++ Virtualized servers using Docker for test environments and dev- environments needs. And also
+configuration automation using Docker containers, Mesos, marathon and microservices.
+
+Catholic Health Initatives - AWS Cloud Admi
+City, STATE « 08/2013 - 10/2014
+
+istrator
+
++ Delivered solutions to improve Cloud architecture, deployment for AWS private and public cloud.
+
++ Created and maintained documentation of build and release processes and application
+configuration to comply with audit requirements and industry best practices.
+
++ Analyze and resolve conflicts related to merging of source code for GIT, BitBucket.
+
++ Rehydrate AMIS of all servers to latest release every 60 days.
+
++ Worked on DR strategy by Failover to US-WEST from US-EAST and failing back to US-EAST.
+
++ Automated backups by shell for Linux to transfer data into $3 bucket.
+
++ Automated Start/Stop of non-prod instances to reduce cost using lambda functions.
+
++ Experience with setting up Jenkins, C1/CD builds for all releases on windows and Linux Debian.
+
++ Implementation of OAuth server for client apps to access internal cloud resources along with OWIN
+‘OAuth 2.0 Authorization Server.
+
++ Experienced in analyzing and monitoring performance bottlenecks and key metrics to optimize
+software and system performance.
+
++ Expert in troubleshooting system connectivity issues using VPC flow logs
+
++ architected and performed migration of domain control servers to AWS production environment.
+
++ Migrated SQL databases which are running several varieties of applications like digital dining,
+EPIC, PACS, Cerner, Apollo, Laser Arc etc.
+
++ Worked on installation of HP DL380P G8 rack server from scratch. Enabled network cabling for
+server.
+
++ Successfully migrated virtual machines from Hyper-V environment to Vware cloud environment.
+
++ Created test environment and installed voenter converter in test machine to convert and migrate
+virtual machines

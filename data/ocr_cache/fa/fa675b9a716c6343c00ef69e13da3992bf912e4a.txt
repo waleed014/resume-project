@@ -1,0 +1,92 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 © (555) 432-1000 © resumesamplegexample.com
+
+Professional Summary
+
+A quick learner, front-runner and a passionate Data Engineer. My practical experience lies mostly in Oracle, MySQL databases and I
+am interested in more exciting and challenging positions in Big Data Analytics and Cloud Computing platforms.
+
+Core Qualifications
+
+HP-UX, Linux, Solaris, Windows server 2003/2008, AIX, Sun OS
+Databases: Oracle 9i, 10g and 11g RAC, MS SQL, MySQL and
+Oracle 11i Apps Programming Languages: C, C++, Lisp, Julia,
+PHP, Java, Shell Scripting, VB, HTML, CSS, R, Scala Technology:
+Hadoop, Hive, Spark, Amazon Web Services, Data guard, Golden
+Gate, MapReduce Tools: Tableaty, GitHub, Oracle Enterprise
+Manager, TOAD, SOL Developer, Winscp, Putty, HPSM, HPOM,
+VNC, Commvault, SQL*Plus, FOGLIGHT, Remedy, Microsoft
+Visual Studio, Microsoft Project and other MS Office Tools
+
+Experience
+Database Engineer, 01/2013 to 01/2015
+Rix
+* Worked as an Oracle (8i,9i,10g and 11g), MySQL and 11i applications Database resource.
+« Taken transition.
+* from the customers, providing primary/secondary support and driven to the stable production support within.
+‘+ a short period of time in all aspects of the database including Support, Infrastructure Engineering, Database.
+« refreshes, upgrades, Patching, etc.
+
++ in various genres.
+
+Oracle Database Administrator Period, 01/2011 to 01/2013
+Ohsu
+« Design, configuration and implementation of Databases both on cluster and non- cluster standalone system.
++ Implements and enforces security for all oracle databases and will check whether desired standards are.
+* being maintained.
++ Generating capacity planning and database performance report using various scripts and.
+* Disk utilization reports using custom scripts.
+
+Graduate Teaching Assistant
+
+University Of North Carolina
+* Introduction to Computer Science - Programming in Java Period: Aug 2016 Dec 2016.
++ Worked under the guidance of Professor for helping the students understanding the concepts and assist.
+« them with Lab and Lecture activities
+
+Education
+
+Master of Science: Computer Science Data Science and Management, December ‘16
+
+The University of North Carolina - Charlotte Charlotte Trivandrum Trivandrum, NC
+
+‘Computer Science Data Science and Management 4.0 Cloud Data Storage, Visual Analytics, Cloud Computing for Data Analysis,
+‘Computer Communication & Networks, Algorithm and DataStructures, Software System Design and Implementation, Survey of
+Programming Languages, Information Technology Project Management, Knowledge Based Systems, Database Systems
+
+Bachelor of Technology: Computer Science, May’ 11
+‘Computer Science 4.0
+
+Algorithm Analysis and Design, Data Structures and Programming Methodology, Computer Architecture and Parallel
+Processing, Internet Technology, Wireless Networks, Cryptography and Network Security, Systems Programming, Computer
+Networks, Compiler Design, Advanced Microprocessor and interfacing, Computer Communication, Theory of computation,
+Operating Systems, Database Design
+
+Professional Affiliations
+
+Accomplishments
+* Certifications: Oracle Database 11g Certified Associate, ITIL V3 Foundation and CCNA.
+
+Skills
+
+AIX, C, C+, capacity planning, Computer Networks, Cryptography, CSS, Data Analysis, Databases, Database, Database Design, Dec,
+
+HP-UX, HTML, PHP, Information Technology, Intemet Technology, Java, Linux, Lisp, Microprocessor, MS Office, Microsoft Project,
+
+MySQL, Network Security, Networks, Operating Systems, Oracle (8i, Oracle 9, Oracle Enterprise Manager, Oracle, Developer,
+
+Programming, Project Management, scripts, Shell Scripting, Solaris, MS SQL, SQL, Sun OS, System Design, Tableau, TOAD,
+upgrades, VB, Microsoft Visual Studio, Windows server
+
+Additional Information
+
+‘+ Awards and Achievements Winner of Spring 2016 Innovation Computing Project Competition conducted by UNCC College of
+Computing and Informatics. May’ 16 Lead a team in a teal time project to create a dynamic relational database system with
+robust user friendly GUI for Organized Chaos Dragon Boat, a relatively small 501(c)(3) registered non-profit sporting
+organization that supports Olympic level athletes in the sport of dragon boating May’ 16 Member of Star Team from TCS Feb’ 13
+Received On the Spot Award from TCS Oct’ 13 Event Head for "Tantra" and "Sudoku" in "COLLOQUIUM 10’, a national level
+technical symposium conducted at Mohandas College of Engineering, Trivandrum, Feb’ 10 Held the position of Executive
+committee member for National level technical event "Insurgo” conducted by Indian Society of Technical Education (ISTE) and
+cultural fest ILLUMINATI conducted at Mohandas College of Engineering (MCET), Trivandrum. Nov’ 10 Received scholarship
+for the excellence in studies from MCET ‘08-09 Jessica Claire

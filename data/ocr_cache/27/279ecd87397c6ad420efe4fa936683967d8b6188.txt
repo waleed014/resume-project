@@ -1,0 +1,205 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Fluent in PTC Creo, SolidWorks,
+ANSYS, PTC Windchill,
+Teamcenter
+
++ Project Management
+
++ Research & Development
+
++ Geometric dimensioning and
+tolerancing
+
++ Drawings standards compliance
+
++ Data collection and analysis
+
++ Testing and troubleshooting
+
++ Blueprint design
+
++ Manufacturing process controls
+
++ FEA and failure analysis,
+
++ SharePoint
+
++ Lean principles knowledge
+
++ Multidisciplinary exposure
+
+EDUCATION
+
+University of Illinois At Chicago
+Chicago, IL + 05/2018
+
+‘Master of Science: Mechanical
+
+Engineering
+
++ Graduated with 3.77 GPA
+
++ Received Dean of Students
+Leadership award and UIC
+Chancellor's Student Service
+and Leadership Award.
+
++ Majored in Design, Finite
+Element Analysis, Product
+Development
+
++ Elected to Vice President for
+UIC Graduate Student Council in
+2017-18.
+
++ Coursework in Finite Element
+Analysis, Design of Micro-
+systems and Product
+Development
+
+University of Pune
+Pune, Maharashtra, India +
+05/2015
+
+Bachelor of Science: Mechanical
+
+Engineering
+
++ Coursework in Mechanical
+Design, Dynamics of Machinery
+and CAD.
+
++ Member of ISHRAE, ISME
+
++ Thesis: Design of Thermo-
+acoustic engine
+
+CERTIFICATIONS
+
+Six Sigma Green Belt Certification,
+Council of Six Sigma, USA
+(Ongoing) Certified SolidWorks
+Professional (CSWP), USA.
+(Ongoing)
+
+Diploma in Product Design and
+Analysis, India (Mar 2016)
+
+PROFESSIONAL SUMMARY
+
+‘Mechanical Design Engineer with 2+ years of experience in CAD modeling and product development.
+Collaborative team player with proven track record of delivering multiple, concurrent projects in fast-
+paced environments. Drives production efficiency through qualitative analysis and process redesign.
+
+LINKS
+
++ https: //wow.linkedin.com/in/Jessica-Claire/
+
+WORK HISTORY
+
+Partners Healthcare System - 3D Designer/Modeler
+Concord, MA + 05/2019 - 02/2020
+
++ Worked on-site at ENERPAC doing contract work assignments with Caterpillar inc.
+
++ Provided technical engineering support and project management for design, engineering and
+development of mechanical products.
+
++ Modified Bills of Materials (BOM) and certifications through Windchill. Generated engineering
+change notices (ECNs) for any changes to maintain design consistency and accuracy for both client
+and supplier needs.
+
++ Re-created CAD drawings using PTC Creo to convey manufacturing and production configurations
+with modifications.
+
++ Maintained an on-going list of product assemblies and parts with design specs and, tracked
+design/print changes in Excel worksheets. Managed design process documentations.
+
++ Addressed client issues related to design, assembly or associated projects under minimal
+supervision of an on-site supervisor.
+
+Ametek, Inc. - Research Assistant
+Richmond, CA + 05/2018 - 05/2019
+
++ Worked with the department of mechanical engineering regarding the ergonomics and human
+factor project on development of EEG circuit for detection of spatial disorientation in the pilots.
+
++ Developed macros, special formulas and other actions to produce reliable and consistent statistical
+reviews.
+
++ Conceptualized and designed a 3D model of Human Machine Interface (HMl) helmet for a pilot
+using SolidWorks, which would be used for developing a working prototype in the next phase of the
+project.
+
+Ultra Electronics 3Eti - Product Development Engineer
+Austin, TX + 05/2017 - 08/2017
+
++ Researched and recommended improvements to product development plans.
+
++ Worked with marketing and service managers to understand customer desires and obtain
+feedback.
+
++ Determined project costs, timelines and limiting factors.
+
++ Applied concepts of GDAT and FMEA during the design process to obtain a superior product.
+
++ Used PTC Creo and SolidWorks to re-design, develop concepts for dashboard components as per
+customer needs.
+
++ Recorded data, analyzed test results and prepared experience maps with possible scenarios based
+on the findings
+
++ Developed team communications and information for brainstorming sessions.
+
+Caterpillar Inc - Mechanical Design Engineer
+City, STATE » 08/2016 - 05/2017
+
++ Researched production processes, environmental reports, facts, permits and, laws pertaining to
+specific cases.
+
++ Coordinated project scheduling, planning, and management.
+
++ Developed a concept to connect strategically with localize businesses to increase profits and
+acquire customer base.
+
++ Designed new product concepts and created improved iterations of existing products for safety and
+quality using SolidWorks and ANSYS WorkBench for concept designs.
+
++ Applied concepts of GD&T and FMEA during the design process.
+
++ Responsible for the feasibility study, concept development, prototype implementation and, field
+testing.
+
++ Projected revenue forecast of first three years to be 27M USD and 35% increase in brand loyalty.
+
+ACADEMIC PROJECTS.
+
++ "Processing Magnetic Resonance Elastography (MRE) experiment” Dec 2017 Determined the
+complex wave images for each displacement projection and spatially filtered complex wave
+images. Calculated region of interest average values of storage modulus and the loss modulus for
+brain tissues.
+
++ "Design of The Electrostatically Actuated MEMS Switch for RF Applications” May 2017 Studied a
+‘MEMS switch with six strip membranes to understand its working principles. Modified the MEMS
+switch to achieve a shorter actuation voltage range. Performed static and vibration analysis on the
+
+3D model of the switch using SolidWorks and ANSYS WorkBench.
+
++ “Analysis of Automobile Steering System” Dec 2016 Applied the knowledge to understand the
+working principle of an automobile steering system. Performed a static structural and dynamic
+
+nalysis on the automobile steering system using ANSYS Workbench.
+
++ "Design of Thermoacoustic Engine” May 2015 Developed a thermoacoustic engine, which comprised
+of different parts- regenerator, heat-pump, and heat-exchangers. Designed a 3D CAD model of the
+engine in CATIA and performed for system analysis.

@@ -1,0 +1,202 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ SQL Server installation,
+Implementation and Migration
+
++ Database Security, Backup and
+Recovery
+
++ Performance Tuning and
+Capacity Monitoring
+
++ HADR Configurations: Log
+Shipping, Mirroring, Clustering,
+Transactional Replications,
+AlwaysOn Availability Groups
+
++ Standby/ Failover
+Administration
+
++ ETL Processes (SSIS, SSRS,
+SSAS)
+
++ SQL server Tools: SSMS, SQL
+Profiler, PerfMon, SQLCMD,
+Database Tuning Wizard, SQL
+Server Upgrade Advisor
+
++ Monitoring Tools: Solarwinds,
+Redgate SQL Monitor
+
++ TSQL
+
++ Database Maintenance
+
++ Cloud Migration using Azure
+
++ Powershell
+
+EDUCATION
+
+University of Lagos
+Bachelor of Arts: Linguistics
+
+CERTIFICATIONS
+
++ Certificate of Completion; SQL
+Server Database
+Administration, Complete
+‘Computers - Jul 2014
+
++ Certificate of Completion;
+AZURE Fundamentals, Tekypro -
+‘May 2020
+
++ Microsoft Certified Solution
+Associate (MCSA) - SQL
+Database Administration 2016
+Server
+
++ MD-101 Microsoft Modern
+Desktop Admin
+
++ AZ-104 Microsoft Certified
+‘Azure Fundamentals
+
++ DP-300 Microsoft Certified
+‘Azure Database Administration
+Associate
+
+PROFESSIONAL SUMMARY
+
+A SQL Server Database Professional with over 7 years of experience managing critical databases both
+‘on-Prem and in the Cloud (Azure), with extensive experience in administration and support of next-
+generation SQL Server databases in production, test, development, stand-alone and clustered
+environments.
+
+‘¢ Have substantial expertise in Performance Tuning, Maintenance, High Availability and Disaster
+Recovery (HADR) Strategies.
+
+¢ Hands on experience in setting up and troubleshooting Always On, Clustering, Database Mirroring,
+Log Shipping, including Replication (Snapshot, Transactional/Merge and Peer to Peer).
+
+‘* Database Backup and Restore/Recovery, Query Optimization, Security, SQL Server Installation,
+Configuration of Stand-alone and Clustered environments.  Migration/Upgrade, applying service
+packs and routine/emergency DBA operations like database health check, index optimization,
+updating statistics, client/server connectivity and capacity planning.
+
+‘¢ Responsible for securing SQL Server, User Management, assigning permissions and roles.
+
+© Using Query Store, Extended Events, Database Engine Tuning Advisor (DTA), SQL Profiler, Scripts,
+and other third-party tools to resolve bottlenecks, deadlocks, and slow running queries.
+
+Database security through configuring dynamic data masking.
+
+‘© Experienced with Active Directory (AD) objects and user permissions.
+
+WORK HISTORY
+
+Rr Donnelley & Sons - SQL Server Database Administrator
+Nashville, TN + 06/2019 - Current
+
++ Develop and Create Stored Procedures, advanced queries, triggers, views, indexes and functions
+for databases
+
++ Provisioning Databases and configuring appropriate HA/DR strategy based on the RTO/RPO
+objectives of the organization
+
++ Manage over 1100 databases and VLDB across multiple data centers
+
++ Enhance database performance, perform system backup and restores, implement recovery
+procedures and conduct regular health checks
+
++ Carry out performance tuning tasks on a regular basis on issues ranging from query tuning to index
+optimization, TempDB issues, to IO, High CPU usage, severe blocking, long running query etc
+
++ Collaborating with cross functional teams in making Technical decisions, capacity planning and
+upgrading of SQL Servers for business requirements
+
++ Configuring, Maintaining, and troubleshooting Log shipping, Mirroring, AlwaysOn Availability
+Groups, Replication, SQL server Failover cluster and High Availability Disaster Recovery Solutions
+
++ Configuring DR solution with Transaction Replication from Distribution Server with multiple update
+table subscriptions
+
++ Migration of SQL Server from on premises to Azure SQL Database and large-scale database
+migrations on various versions of SQL Server
+
++ Schedule and monitor daily, weekly, Monthly, and quarterly Maintenance Task, ensuring that its
+successful and resolves any issues when it fails
+
++ Performs Database consistency checks with DBCC, Defrag, Index tuning and monitored error logs
+
++ Using ETL packages for data warehousing
+
++ Weekly Patching of Standalone and Cluster instances
+
++ Performs Physical and Logical Data Modelling for databases of varied sizes including VLDBs
+
++ Configure DR solution with Transaction Replication from Distribution Server with multiple Update
+table subscriptions
+
++ Manage the products and development databases including performing tuning, capacity, SQL server
+clustering, database security configuration and database continuity
+
++ Manages permissions and security, performs security tasks like Grant, Revoke permissions for
+security tasks
+
++ Provides On-Call support to Mission critical Environments
+
++ Expert in using DBC trace flags, handling blocking and deadlock situations
+
++ Use tools like Solarwinds, Fog Light, Red Gate for monitoring my environment.
+
+Rr Donnelley & Sons - SQL Server Database Administrator
+San Antonio, TX + 11/2014 - 06/2019
+
++ Installed and configured edition of SQL Server 2005/2008 like Enterprise edition
+
++ Successfully migrated from SQL Server2005 to SQL Server 2008 on Development and Testing
+Environment
+
++ Migrated new database structures, such as tables, indexes and stored procedures from
+development to the production environment
+
++ Monitored database system details within the database, including stored procedures and execution
+time and implement efficiency improvements
+
++ Development of automated daily, weekly and monthly system maintenance tasks such as database
+backup, replication verification, Mirroring, database integrity verification, indexing and statistics
+updates
+
++ Designed New Reports and Customized existing reports of older version to New version
+
++ Implemented transactional replication to enhance the failover capabilities increased over all
+database manageability and improved performance
+
++ Implementing different Development and Test Server instances for the Application Development
+‘Team and to co-ordinate Development and Testing Environments and keep them updated
+
++ Daily support, troubleshooting, monitoring, optimization and tuning of server and SQL server
+environments
+
++ Creating logins and roles with the appropriate permissions
+
++ Responsible for resolving blocking and locking issues
+
++ Successfully implemented database mirroring between Primary server and Mirror Server
+
++ Implemented log shipping in standby mode to support DR servers
+
++ Provided 24 X 7 dedicated supports for SQL Server production server

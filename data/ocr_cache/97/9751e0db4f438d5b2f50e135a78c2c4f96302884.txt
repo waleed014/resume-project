@@ -1,0 +1,127 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 ¢ (555) 432-1000 # resumesample@example.com
+
+SUMMARY
+
+10 years of overall experience working as technical lead, architect, subject matter experts and developer to deliver value to the business
+Experience in working with data warehouses. Implementing and developing solutions enabling Development and Operations teams to build,
+deploy, monitor and test applications and environments. Experience in the design and implementation of fully automated Continuous
+Integration, Continuous Delivery, Continuous Deployment pipelines and DevOps processes. Experience in AGILE Scrum environment based
+project development. In depth experience working on cloud computing Infrastructure. Experience in Big Data Analysis, Data management, Data
+‘migration, Data governance and handling data warehouse.
+
+SKILLS
++ NoSQL DB: Dynamo DB + Deployment Tools: Ansible, Jenkins, Terraform
++ RDBMS: Oracle 9i/10g, Teradata + ETL Tools: Informatica 8.6
++ Big Data: Spark, Elasticsearch, HIVE, pig, Apache NiFi, Kafka + Management Tools: Jira, Confluence
++ OS: UNIX/Solaris, AIX, Windows + Version Control: Visual SourceSafe, CVS, GitHub
+EXPERIENCE
+
+Senior DevOps Engineer, 01/2011 - Current
+Rtx- Allen, TX
+
++ Expertise in creating AWS infrastructure from scratch like VPC, private subnet, NACL, Security rules, VPC peering
++ Worked on Jenkins, Ansible playbook, Cloud formation templates, Docker
+
++ Hands on experience in handling critical AWS resources like VPC, EC2, EC2 Container
+
+Services, EBS, $3, lambda, Dynamo DB, ELB, Auto Scaling, Route 53, Cloud Watch,
+
+Cloud Trail, IAM, SQS, SNS ete.
+
++ Hands on experience in creating Multi-Region Architecture on AWS
+
++ Expertise in implementing DevOps culture through CICD pipeline for one of stack
+
+‘component automated delivery.
+
++ Building/Maintaining Docker container clusters managed by Kubernetes Linux, Bash, Git, Docker
++ Involved in scaling MVP product to working multinodes architecture,
+
++ Very good experience at Product and production support for elastic stack.
+
++ Designed/Created on demand AWS cloud EMR for Data Analytics and Real time
+‘monitoring/alerting Elasticsearch architecture. (web’streaming)
+
++ Experienced in writing python and Unix scripting for administration and automation
+
+tasks.
+
++ Very good knowledge in elasticsearch, Spark, Kafka, HIVE, pig Hadoop Big Data
+
+technologies.
+
++ Built distributed in-memory applications using Spark and Spark SQL to do analytics
+
+efficiently on huge data sets.
+
++ Troubleshoot data issues, validated result sets and implemented process improvements.
+
++ Created functions, stored procedures, Triggers, views using PL/SQL Programming.
+
++ Developed and modified UNIX korn shell scripts to meet the requirements after the
+
+system modifications and was also involved in monitoring and maintenance of the batch
+
+jobs.
+
++ Participated in Design, Development and Implementation of a Reporting system for
+
+Business Management.
+
+Informatica Developer, 06/2010 - 12/2010
+‘Cognizant Technology Solutions — Angier, NC
+
++ Developed logical and physical dimensional data models using ERWIN Designed, developed and improved complex ETL structures to extract
+transform and load data from multiple data sources into data warehouse and other databases based on business requirements.
+
++ Created reusable Mappings, Mapplet, Transformations and Parameter files for Data Quality Plan Worked with SQL queries.
+
++ Provided Knowledge Transfer to the end users and created extensive documentation on the design, development, implementation, daily loads
+and process flow of the mappings.
+
++ Schedule and set dependencies for the job on Tidal to automate the daily process as per the business requirement,
+
++ Performance tuning of the Informatica mappings using various components like Parameter files, Variables and Dynamic Cache.
+
++ Involved in logical and physical data models that capture current state/future state data elements and data flows.
+
+ETL Informatica Developer, 06/2009 - 05/2010
+‘Cognizant Technology Solutions — Ann Arbor, MI
+
++ Worked as an ETL developer to implement business logic into ETL and export data into flat files for the business.
+
++ Collaborated with EDW team to understand the mapping document and the extract, transform rules and load ETL process data dictionaries,
+‘Metadata descriptions, file layouts and flow diagrams.
+
++ Designed and developed end-to-end ETL process from various source systems to Staging area, from staging to Data Marts
+
++ Analyzed the source data coming from Oracle, Flat Files, and DB2 coordinated with data warehouse team in developing Dimensional Model
++ Implemented parallelism in loads by partitioning workflows using Pipeline, Round- Robin, Hash, Key Range and Pass-through partitions.
+
++ Implemented daily and weekly audit process for the Critical data to ensure Data warehouse is matching with the source systems for critical
+reporting metrics.
+
++ Performance tuning and Optimization of sessions, mappings, sources and targets, Production support, trouble shooting and solving migration
+issues, and identifying errors during data loads and transformations.
+
+Project Engineer, 01/2008 - 05/2009
+Emcor Group, Inc. - Winston Salem, NC
+
++ Worked as a member or leader of new product development design team. Participation in development of product Specification.
+
++ Good in Create and maintain project schedules and manage project to meet schedules.
+
++ Produced conceptual designs drawings, design reviews meetings, creating detailed design
+
+to meet business requirement.
+
+* Worked with product process development and sales team on the technical aspects of the
+
+new product line. Provide periodic report of project status and stay abreast of development in technical field to maintain technical knowledge.
+
+EDUCATION AND TRAINING
+
+‘Master of Science: Mechanical Engineering, 08/2007
+Lamar University - Beaumont, TX

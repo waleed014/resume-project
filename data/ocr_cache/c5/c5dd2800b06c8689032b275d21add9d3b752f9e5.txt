@@ -1,0 +1,113 @@
+JEssica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Dedicated Director of Information Technology with over 19 years” experience that is well-versed in analyzing and Mitigating risk and finding
+cost-effective solutions. Excels at boosting performance and productivity of projects and staff by establishing goals and enforcing deadlines.
+Demonstrated success managing. Networking, software sales support, strategic Planning, project management, and network administration. A
+personal commitment to education and Self-improvement, and a firm belief in the value of practical knowledge and hands-on experience
+
+HicHucets
++ Information Technology * Vendor Management
+‘+ Management « Project tracking
++ Project Management + Product requirements & documentation
+‘* Budgeting and resource management Performance criteria tracking
+EXPERIENCE
+
+07/2014 to Current ITS Manager / Database Administrator
+Bellingham City Of - Bellingham, WA
+Responsible for the complete redesign of the of intemal IT infrastructure, data collection process & database
+infrastructure. Oversee vendor and extemal contractor relationships, IT budget and strategic planning for the Local
+Management of staff, product requirements documentation of new infrastructure, database collection and management.
+‘+ Reduced IT expenses by 40% with infrastructure redesign
+‘+ Migrated infrastructure to Cloud based Services to reduce hardware expenses
+
+09/2008 to 01/2014 Information Technology Ser
+Amentum — Charlottesville, VA
+Director Information Technology Services within a $10 million company providing Water Resource Management and
+Services to clients in multiple states. Oversaw Network engineering, Desktop support, Security, Telecommunications,
+Disaster Recovery planning and documentation and client services. Management and supervision of intemal support
+staff, contractor and vendors.
+
+Director
+
+‘+ Maintained company's effectiveness and efficiency by Defining, Delivering, and Supporting strategic plans for in
+TT infrastructure
+
+‘* Developed and Maintained IT Budget to support company growth
+
+‘+ Designed contractor & staff development plans to meet the company's strategic vision and core values.
+
+‘+ Implemented Security Operations procedures; implemented tracking guidelines and procedures to ensure all
+employees were following entry and exit protocols.
+
+‘+ Managed access control documentation for outside contractors,
+
+‘+ Designed & deployed intemal Windows & Linux network based on User community current and future needs.
+
+03/2002 to 09/2008 Manager of Information Technology Services and Support
+
+Toshiba Business Solutions — City, STATE
+Oversaw internal infrastructure for a $8 million company providing office products and services in the copier industry.
+Developed support structure for integration techs to support the install of client office equipment and software to meet
+Toshiba's standards. Created local support groups for training on Toshiba client software open to both staff and Toshiba
+clients.
+
++ Designed & deployed intemal Windows network
+
+‘+ Implemented Security Strategy to secure internal network
+
+‘+ Managed integration staff development plans
+
++ Project Manager for all Client software integration
+
+‘+ Mange and Maintain contractor and vendor relations
+
+09/2000 to 09/2001 Technical Services Manager
+BusinessE dge Solutions City, STATE
+Technical services manager for BusinessEdge Solutions for the Western regional offices. Managed IT budget and
+procurement of IT infrastructure for both Denver and Dallas locations. Managed implementation teams for internal
+client test environments and production environments.
++ Designed an Deployed network environment for both Denver & Dallas Offices, Included Electrical, Network, and
+Telecom facilities MS Exchange 2000 Admin MS Sql Server 7.0 Admin Database Administration
+‘* Configuration and maintenance of all project based hardware including SUN Enterprise Servers & HP UNIX
+‘Workstations.
+‘* Trained Junior System staff and Consultants on basic Unix & NT System administration and configuration.
+«+ Served as configuration advisor for regional consulting staff on NT, UNIX, & Oracle.
+
+05/1997 to 02/2000 System and Database Administrator
+Great-West Life And Assurance - City, STATE
+
+Responsible for network operations including file, print, resource servers for Investments division at Great-West
+Life. Served as primary backup to Senior D.B.A Assisted in database administration including: Nightly backups, Table
+space and File system management, Tuning, User and Policy management, Database Design and Implementation.
+
+Other duties include:
+‘+ Project Lead for Oracle Migration
+* Project Lead Intranet Development team
+‘+ Designed and Developed Intranet site for disaster recovery.
+‘* Created Intranet Documentation Standards.
+‘+ Diagnose and resolved network issues using standard networking utilities.
+‘+ Documented standard configuration for all division workstations for storage on division Intranet.
+
+Epucation
+
+Master of Science: Information System Management
+Marymount University - Arlington, VA
+Information System Management
+
+Bachelor of Arts: Economics
+University of New Mexico - Albuquerque, NM
+Economics
+
+Certifications
+ITIL Foundations Certified MCSE (NT) certified Docuware Questys Pro eCopy
+
+Skis
+
++ Project Management
+‘* Business Solutions and Integration Services
++ Network Design and Deployment

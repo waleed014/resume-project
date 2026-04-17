@@ -1,0 +1,100 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesample@example.com
+
+Summary
+
+DevOps engineer with 3 years of experience managing and improving IT infrastructure using DevOps tools for applications.
+Expertise in area of software configuration, management,version control using github repository . Proven ability to integrate C/CD
+and tooling for optimization and timeless release. Skilled in containerization/architecture and its orchestration using docker and
+kubernetes. Experience with built of CI/CD pipeline using jenkins to automate builds deploys, and testing. Building scalable
+resources using Terraform strategy and knowledge using Python and Groovy Experienced in continuous deployment on digital
+ocean and AWS.Hand-on continuous monitoring using splunk and creating aws services such as IAM,EC2,S3, etc...
+Confidante in facing troubleshooting by following the resolve path.
+
+‘+ Experienced and self-motivated to perform talk and follow required strategy also open up to adjust with industry standards
+
+regarding new tools.
+
+++ Skilled in Containerization/architecture and its orchestration using Docker and Kubemetes .
+
+* Proven ability in Terraform and cloud formation .
+
++ Strong ability to communicate and work in team environment.
+
++ Experience with ansible deployment using playbooks for CI/CD .
+
++ Hands-on experience with Ubuntu servers
+
+Skills
+* Cloud Technologies: AWS. + 8) Monitoring Tools: Splunk, Cloud watch.
++ [Bl Operating Systems: Linux, Ubuntu, Windows. + Bl source Code Management:
++ [B) Automation Tools: Terraform, Vagrant, Ansible, Cloud .
+Formation. + [Bl Build Tools: Maven, Npm.
+« [Bl Version Control Tools: Git. + |B) Continuous Integration: Jenkins
++ [Bl Webs Servers: Apache Tomcat. + [Bl Configuration management: Ansible
++ [Bl Scripting: Groovy, Bash, Python, YAML + B) Ticketing Tools: Jira
+« [Bl virtualization technologies: VirtualBox, Vagrant.
+Experience
+
+DevOps Engineer, 08/2022 to Current
+Foundation Capital
+‘+ Set up a Kubemetes cluster and deployed Docker images using Jenkins and AWS ECR
++ Successfully implemented fully automated CI/CD pipelines for Maven based application, resulting in faster and more efficient
+code deployment by integrating SonarQube and Dependency Checks.
++ Set up ansible configuration for maintaining and controlled virtual machines
+Designed AWS services structure for faster application deployment on the server
+Helped teams implement infrastructure as code using Terraform
++ Controlled and managed AWS Identity and Access Management (AWS IAM) of users.
+
+‘* Created and managed Docker images and containers
+
+DevOps Engineer, 10/2020 to 05/2022
+Bechtel - Ogden, UT
+
+‘+ created and maintaining Auto scaling ,AM user roles, policies, EC2 container service (ECS) and load balancers.
+
+* Configured AWS VPC with public and private subnets, Security groups.
+
+‘+ Configured Cloud Watch to monitor real-time metrics of all AWS services.
+
+* Deploying to AWS with Terraform and ansible
+
+‘+ Maintained servers running windows servers
+
+* Used GIT for source code version control and integrated with Jenkins for CI/CD pipeline with built tools Maven.
+
+Accountant, 01/2014 to 05/2016
+Cognizant Technology Solutions - Rye Brook, NY
+
+The position will support the Controller and Senior Staff Accountant in carrying out the responsibilities of the Finance department
+Month-End Closing - journal entries, AP/AR Aging reconciliations, retail deduction tracking
+
+Complete and support retail billing
+
+Sharepoint and claims processing
+
+‘Maintain the billing due list, create release documents, and document reversals
+
+Creation of Credit/Debit Memos supporting the Accounts Payable team
+Education
+Certified DevOps Engineering, 02/2020
+
+IBTLEARNING - Texas City, TX76244
+
+Associate of Applied Science: Computer Science And Programming, 04/2019
+Borough of Manhattan Community College of The City University of New York - New York, NY
+
+English-Second-Language Education Certification, 02/2017
+Spanish-American Institute - New York, NY
+
+Accounting, 05/2012
+ESAM- Ivory Coast
+
+Certifications
+
+* Certified DevOps Engineering.
++ Certified AWS
+
+* language french (native), English (second language)
++ Remote

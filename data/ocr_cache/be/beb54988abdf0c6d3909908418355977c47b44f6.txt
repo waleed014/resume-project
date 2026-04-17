@@ -1,0 +1,156 @@
+Jessica CLAIRE
+
+Montgomery Street San Franco, CA 94105 © 5542100 + serumenmplegenamlecom
+
+Profile
+
+Highly motivated Sales Associate with extensive customer service and sles experince. Outgoing sales profesional with tack
+cord of deving incensed sales sprang buying experience and elevating company’ profile with target market,
+Core Qualifications
++ esa Chair isa senior Tingrastuctre specialist an Jessica
+‘haus fished an nterational project for a cient ais
+ooking for roe specializing in the Solutions management.
+“He has aMastersin Computer Applications (MCA) andisa
+szasoned technical specialist providing business
+Infrastructure solutions, services and support according to
+eb processes
++ Fis expense indades,
++ Peject Management
++ implementation Speci “WebLogic Server Adstiniststion
++ Incident Management
++ Database administration ‘race Cloud operations
++ People Management
+{+ TIL Service Management
++ Oracle Enterprise Manager
++ Operations Management
++ Change Management “AWS
++ Process capability
++ Tecuical suppor for 207 systems
++ Database Administration: Bradata 5-2, X42, X82, Orde
+Database 10g/g
++ Middleware Administration: Oracle WebLoge Server 103.5
+103.5, Oracle Application server, Oracle Management Server,
+Primavera
++ Operating System: Lis, HP-Uni, Solaris, Windows
++ Database Tools EM, RAC, RMAN, Data Guard, AWR/ADDM,
+‘TKPROF, SQLDeveloper
++ Other tools Eee, MS Projet, Visto, FS Bigip, Global Tele
+Manager
++ Testing tole: Win runner, Quickest pro
+
+meee
+Professional Experience
+Consultant, 072016
+Infor
++ Collaborate with Clients, customer to ensure successful implementations which includes.
++ Implement OEM 12 setup, Apply BP, Pugin, performance monitoring, notification setup,
++ istallpgrade/patch Oracle Database performance tuning.
++ Isallupgrade/patch Oracle WebLogic servers, deploy applications
+
+Project Manager, 12/2016 9 062016
+Control Teo Kokomo
++ Led teams across broad technical financial and business dsipines,
++ Focused tam on busines objectives and tracked progres to ensure projct ulestones were completed on tie, on budget and
+‘with he desired elt.
+
++ Migated sk factors though careful analysis of financial and statistical dat
+
++ Anticipated and managed change effectively in rapidly evolving global business envionment.
+
++ Defined proesses and tools best suited to each projec.
+
++ Moved tetween agile and wateral approaches depending on project specics and client goal, resting detailed project road
+
+‘maps, plans, schedules and work breakeven structures.
+
+«+ Execute and implemented and managed multiple projects inching, Upgrade database rom 10g to 1120/1204 Upgrade
+_databace/Gri rom 11204 o 1c Migrate databace from race Virtual Machines to Oracle Exadata Machines Move database
+from normal filesystem fo ASM disk groups Apply database PSU patches, and one of patches othe enironment for multiple
+‘Building OEM frm scratch to go ve Upgrade Oracle WebLogic from 103.5 to 1036 Upgrade Ora Web Tier rom 111.130
+11..16 Apart from managing projects other daily tasks include Managed tea for Enterpaise manager dowd
+<contoCloudens129 for Ora Public Cloud ha supports and faites end to end monitoring salutions fr Orade cloud,
+“Manage global tam for Cloudem administration (OEM Itg,20) Deploy/implement OEM 12 sits fom end tend Deploy
+agents 1003 of agents thru mass deploy Deploy/onfgure management plugins Troubleshoot Oracle Management sever iss
+“Troubleshoot Agent issues and make sure they are healthy and uploading al the time Create IP reports to meritor the health of
+targets Notification Alerting setup for target avaabilty issues Upgrade OMS and Agents forever neve release Follow up with
+evelopment on bugs and apply fxs as appropiate Maintain atest bed for testing al fies Administration of aces for users
+‘the oles privileges Automate EM administration thes command lin interface “EMCLT Create plans, work with eam to
+execute the project plan in building new EM sts fr Cloudem customers and administer them,
+
+Recut work wath nes team members toring them on board in quick ime Waiting technical documents to hep team members
+invexecuting new project Provide tec guidance throughout he prject life eye Process developenentin a continual
+manner and provide trouble shooting assistance
+
+Principal systems Consultant 0272005912014
+
++ Fart of Oracle Public Cloud's Mentoring Soltion eam -CloudEM Operations tar
+
++ Monitoring included 20000 Database + double the numberof Fusion Middleware targets + ZFS targets and making Enterprise
+Manager the source of wath fo ay monitoring and inventory storage solution in Ora Public Cloud
+
+«+ The CLOUDEM Operations team supports tiple EM sites across allf the oracle let
+
++ This an ever growing portfolio as Oraceis constantly adding new datacenters.
+
++ When anew sts added ts the ob of our team to bud out the new EM envionment
+
+«+ Operations tem provides the physically installed servers both exadata and exalogic and we go on to bud out the Enterprise
+Manager sit
+
++ Thisincludes building ri and database instaling OMS & agents configuring EM fo SL and SSO and working ose up TAS
+and SDI provisioning services,
+
++ Each of ou stes monitor SAAS (Software asa Service) and/or PAAS (Patfonm asa Service) envzonments
+
++ Projects varying from bling nes envionment in diferent datacenters, bulding disaster recovery environments, Onde
+management server upgrades (new Releases), database upgrades applying crtal Bundle patches and pats ensuring high
+avait forthe customers Installation of Oracle softwae/databases Upgrade gi, database fom 10g to 1103/1204 411g to
+12c Apply database PSU patches, and one ff patches tothe environment for every possible database bugs Responsible for
+“Tuning the Oracle Applications Database that run onthe UNIX server to achiewe opti performance
+
++ Proficient Knowledge of RAC, Configuration Implemented building 20 different OEM sites in varous Oracle Cloud Data Centers
+Deploy OMS, Upgrade OMS plugins, Appling BF ontop of OMS infrastructure Implement backup and recovery procedures
+‘using RMAN for Oracle databases and test regularly in conjunction with Operations.
+
++ Admiisterhipgrade/patch Oracle WebLogic servers
+
+Associate Consultant 0/2016 0022016
+Allstate
+
++ natallation of Ora sftrare on Linux boxes Creating tablespaces and database files based on the OFA model,
+
++ Managing database security and ceting and assigning appropiate role and privileges a equiced bythe application
+
+Adainisuation of Oral 10g Applicaton Server
+
++ Peformance tuning of wing Explain Plan, SQL Trace, TKFROF, RDA, and STATSPACK,
+
++ Applying Patches for backend Changes Monitoring Backup Schedule.
+
++ Provided 2407 on eal production support Database Reorgaizatios to reduce fragmentations
+
++ Monitoring alert logs tac les to chack Database health and compton.
+
+Education
+
+"TRAININGS AND CERTIFICTAIONS Six Sigma Green Blt - certified ITIL V3 Foundation certified Oracle DBA 10g/t1g Admin
+‘Workshop Iand I (OCP) Oracle WebLogic Served Application Server 1g Administration Oracle 10g/11g RAC DBA Training,
+‘Baadata and Database Machine Adaiistraton Workshop FMP - Project Management Profesional Training Pursuing AWS
+Solution Architect Associate cesifistion BSc Math
+
+(MCA, Madurai Kamara University Univesity of Mads -RKM Vivekananda College
+
+BSc Math
+
+Skills
+
+golive agile Architect, ASM, Automate, Backup budget «Change Management, Strong interpersonal sil excellent
+communication, Computer Applications, client, liens, Database Adminstration, DBA, databases, Database, disaster recovery,
+
+‘nancial ventory, IP TL, Linux, People Management. Managing, access Excel, MS Project Windows Middleware Enterpise,
+Operating System, Operations Management, Oracle Applications, Orae Application server, Oracle Enterprise Manager, Orde,
+Once DBA, Orade Database, organizational kill, People sil, Eellent presentation sil, Primavera, Process development
+
+rocesies, progres, Project Management. Quick server, Sx Sigma Solaris, SOL SSt, Technical support, Troubleshoot, trouble
+
+shooting troubleshooting H-Unix, UNDX upgrades, Upgrade, Visio, WebLogic Win runner

@@ -1,0 +1,166 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Technical skills
+
++ Database:
+
++ Microsoft SQL Server
+
++ Cloud Computing: Microsoft
+‘Azure, Azure Data Factory, AWS
+
++ Scripting: SQL, PowerShell, T-
+SQL
+
++ Performance Monitorin:
+Redgate, SQL Profile, Query
+Store, Idera, Activity Monitor,
+SolarWind, Power BI, SSRS.
+
+EDUCATION
+University of Phoenix
+Tempe, AZ + 08/2016
+
+Bachelor of Science: Database
+‘Administrator And Technology
+
+PROFESSIONAL SUMMARY
+
+A Microsoft Certified Database Administrator with experience in administering and supporting SQL
+Server in production, development, and test environments. Have strong interpersonal skills with
+ability to work independently as well as in a team environment and highly skilled in problem solving.
++ Expert in MS SQL Server Installation, Configuration, Upgrading of Microsoft® SQL Server™
+2012/2014/2016/2017/2019.
+
++ Experience in regularly patching and upgrading, evaluating database technology, security updates,
+hot fixes, and version releases to ensure architecture stability.
+
++ Ensured disaster recovery using backup, log shipping, mirroring, replication and AlwaysOn; and high
+availability using log shipping, mirroring, failover clustering and AlwaysOn high availability groups.
+
++ Proficient in T-SQL Programming in writing Stored Procedures, Functions and Triggers.
+
++ Run and automate maintenance tasks backups, integrity checks, index rebuild and re-organization
+using SQL job agent or Ola script.
+
+WORK HISTORY
+
+Ally - Senior Database Administrator
+Dayton, OH + 08/2019 - Current
+
++ Managed Database access, performance tuning of database systems and capacity planning ina
+VMWare environment
+
++ Use optimization tools such as SQL Profiler, Dynamic Management Views (DMVs) and Windows
+Performance Monitor for monitoring and tuning SQL Server Performance in a global content
+environment
+
++ Automate tasks through PowerShell for managing database infrastructure
+
++ Monitor maintenance jobs such as automated backups, index optimization, statistics update,
+database integrity check in SQL Server
+
++ Design Database objects and queries as required to optimize performance and scalability
+
++ Experience working with ServiceNow, SolarWinds, SQL Sentry to resolve tickets
+
++ Making technical decisions for business requirements, interaction with BA, Client team,
+Development team and capacity planning
+
++ Resolve SQL Server issues including SQL Server architecture, connectivity, replication, security and
+continuous improvernent in conformance with SLA's
+
++ Support Reporting Services (SSRS), Integration Services (SSIS) and Analysis Services (SSAS)
+
+Tpicap Group - Database Support Engineer
+Paris, TxPlano, TX » 12/2016 - 08/2019
+
++ Deployed changes and rolled back changes from production
+
++ Performed weekly patching of Standalone and Cluster Instances
+
++ Migrated and Upgraded SQL Server from legacy to 2014, 2016 & 2017
+
++ Performed regular health checks across servers using PowerShell scripts
+
++ Fixed Database space issues, resolving log growth issue and normalization of DBs
+
++ Monitored daily, weekly, monthly and quarterly maintenance tasks and troubleshooting when
+necessary
+
++ Configured Transparent Data Encryption (TDE) using Advanced Encryption Standard (AES) 256 to
+secure DB and backup files
+
++ Increased Server availability time with optimum level of Database recoverabil
+Differential backup and TLOG backup
+
++ Carried out performance tuning tasks on a regular basis on issues ranging from query tuning to
+index optimization, Temp DB issues, High CPU usage, blocking, long running queries, Mirroring,
+Logshipping and AlwaysON out of sync
+
++ Provisioned Databases and configured appropriate HA/DR strategy based on the RTO/RPO of the
+business division
+
++ Setup Windows Server Failover Cluster (WSFC)
+
++ Configured and installed AlwaysON High Availability Group with up to 7 replicas
+
++ Performed SQL Server in-place Upgrade from lower versions of SQL Server to higher versions
+
++ Built clusters 2node and 3 nodes with Active - Passive
+
++ Configured, Maintained and troubleshot Logshipping, Mirroring, AlwaysON Availability Groups,
+Replication, FCI on same and multiple subnets
+
++ Executed Disaster Recovery (DR) exercises on the DR servers.
+
+ty by incorporating
+
+The Active Network - Database Administrator
+Remote, NH + 06/2015 - 12/2016
+
++ Configured HA/DR strategies (AlwaysON, Failover Clustering, Mirroring, LogShipping, Replication)
+
++ Resolved performance bottlenecks via tuning and query optimization using stored procedures,
+Redgate
+
++ Created SQL objects, Tables, Views, Stored Procedures Constraints and User Defined functions
+
++ Migrated physical servers, VMs and databases from on-prem to Azure using Azure Migrate/DMA
+
++ Maintained high level data security to ensure SOX and HIPAA compliance
+
++ Migrated, Upgraded and applied SPs and routine DBA operations like DB health checks, index
+optimization, Statistics update, Server Connectivity and Capacity planning
+
++ Performed DB consistency checks with DBCC, Defrag, Index tuning and monitored error logs
+
++ Performed backup, restore and disaster recovery in MS SQL Server environments
+
++ Migrated SQL Server 2008 to several editions of SQL Server 2012,2014 and 2017
+
++ Installed and administered 3-Node cluster Active/Passive 2012 on SAN Environment
+
++ Migrated SSIS packages from SQL Server 2008 R2 to 2012
+
++ Migrated database from on-prem to AWS cloud (Managed- Instance)
+
++ Worked with Development team to optimize schema and performance
+
++ Created reports in SQL queries using SSRS for Business Intelligence Development Studio (BIDS)
+
++ Used Indexes to enhance performance of individual queries for fast and efficient reporting.
+
+ACCOMPLISHMENTS
+
++ MS Certified Azure Database Administrator Associate
++ MS Azure Solutions Architect Expert

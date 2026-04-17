@@ -1,0 +1,267 @@
+JESSICA
+CLAIRE
+
+@ resumesample@example.com
+%& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105,
+
+QUALIFICATIONS
+
+Excellent database developer with
+8 years of experience working with
+‘Microsoft SQL Server databases,
+Highly skilled in healthcare
+information systems
+
+Experience working in all stages of
+the software development life
+
+yde
+
+‘Adept at understanding user needs
+
+and communicating at all business
+
+levels
+
++ Track record for creating
+applications and jobs that
+‘automate task and improve
+business processes
+
++ Excellent understanding of SQL.
+Server performance tuning and
+‘query optimization
+
++ Highly skilled SQL Server
+Integration Services developer
+(ssis)
+
++ Microsoft Certified Professional
+
+EDUCATION AND
+TRAINING
+
+Pragmatic Works Master SSIS
+‘Workshop (Brian Knight)
+Reston, WA + 2013
+
+Select One: Pragmatic Works
+
+aster SSIS Workshop (Erian
+
+Kaight)
+
+Course outline:
+
+Day
+
++ Loading a Dimension Table
+
++ Loading a Fact Table
+
+{Creating an incremental Load
+Pattern
+
++ performance Tuning SSIS
+
+Scaling Out ssis
+
++ Restartability Patterns in SSIS
+
+Day2
+
++ Scripting in ssis
+
++ Data De-Duplication with Fuzzy,
+Grouping and Lookup
+
++ Term Extraction and Lookup
+Patterns
+
++ Upgrading to SQL Server 2012
+ssis
+
++ Integrating Data Quality
+Services (SQL 2012) into SSIS
+
++ Creating a Master Package
+Pattern
+
++ SSIS Integr
+
+into ssas
+2013
+
+Select One: Microsoft SQL Server
+Certification
+
+Querying Microsoft SQL Server
+2012
+
+Microsoft SQL Server PASS
+Summit
+Seattle , WA 2012
+
+Select One: Microsoft SQL Server
+
+PASS Conference
+
+Course Outline:
+
+Day 1
+
++ 10 Extraordinary Things to
+
+Achieve with Integr
+Services 2012
+
++ Adapting Your ETL Solutions to
+Use sis 2012
+
+‘+ Using SSIS 2012 for Data
+Warehouse ETL
+
++ Data Model-Driven Database
+Design in the Real World
+
+Day 2
+
++ Data Cleansing with SSIS 2012
+
++ Enterprise Data Mining
+
++ T-SQL Tips and Tricks
+
++ Improve Query Performance by
+Fixing Bad Parameter Sniffing
+
+Day 3
+
++ Dashboard Design: Making,
+Reports Pop
+
++ Wen ETL Goes Bad: Handling.
+Errors and
+
++ Data Anomaties in SSIS
+
++ Building Your Professional
+Development Plan
+
++ Writing your own SQL Best
+Practices Document
+
+University of North Carolina at
+Greensboro
+Greensboro, NC + 2010
+
+‘Master's: Information Technology
+and Management
+
+Beta Gama Sigma - International
+Honor Society of Collegiate Schools
+of Business
+
+Upsilon Pi Epsilon - international
+Honor Society for the Computing.
+and Information Disciplines
+
+University of North Carolina at
+Greensboro
+
+Greensboro, NC + 1999
+Bachelor of Science: information
+Systems and Operations
+‘Management
+
+CAREER OVERVIEW
+
+Experienced Database Analyst with diverse industry experience in healthcare, insurance, and financial
+systems. Developer with a track record for designing, implementing and deploying apy
+automated processes and reports that improve efficiency, lower cost and deliver valuable information.
+
+SKILLS
+
+SQL. Server 2012 (SSIS, SSRS, SSAS), MySQL, Oracle, Access, FoxPro,
+SQL Server Data Tools, Redgate SQL Developer, SQL Sentry, Pragmatic Works Task Factory Pro,
+
+C#.NET, VB.NET, ColdFusion, FoxRro, PHP, PowerShell, html, css, Visual Studio.NET, Dreamweaver, Net
+beans, Excel, Fireworks, Microsoft Office, Microsoft Project, Microsoft Vi
+
+WORK EXPERIENCE
+
+Cornerstone Health Care - Lead Database Analyst
+City, STATE + 07/2005 - Current
+
++ Optimized long running queries by analyzing execution plans, implementing proper design and
+creating appropriate indexes.
+
++ Designed SQL Server Integration Services (SSIS) packages to securely transfer data from various
+data sources including MySQL, MS Access and various file formats including Excel, Text and HL7.
+
++ Used Fuzzy logic to match patients form external systems and to identify and clean duplicates
+patients.
+
++ Optimized queries and helped design ETL process that created and sent data files to Teradata
+Warehouse.
+
++ Migrated Company's integration Service packages from SQL Server 2008 to 2012, which included
+training the other members of our development team.
+
++ Saved organization $10,000 annually by creating a process to perform vendor code updates in EMR
+system.
+
++ Improved the quality of patient care by designing and implementing a system that exports data
+from Allscripts Enterprise system to provide point of care patient information on Quality Metrics.
+
++ Developed patient demographic data import tool for merging medical offices.
+
++ Created Integration Services package to update Active Directory accounts based on PeopleSoft
+database
+
++ Created ETL process and reporting solution for Shoretel phone system.
+
++ Located and delivered information from various undocumented vendor database system including
+Allscripts Enterprise EMR, Allscripts Practice Management, MAS500, PeopleSoft, RIS Imaging,
+SOAPware, OneApp, Shoretel, Phonetree and Connect.
+
++ Developed application to generate revenue projection spreadsheets based on medical charges and
+insurance payer mixes
+
++ Developed a task management system that automated the HR, IT, Risk Management and
+Accounting setup for new hire, transfer, termination and mergers.
+
++ Developed IS ticket tracking system that coordinated IT outages and issues
+
++ Created Intranet Site with content management tool.
+
+Penn Western Benefits - Systems Service Consultant
+City, STATE + 11/1999 - 07/2005
+
++ Responsible for administration, design and modification of Fox Pro Insurance Database System
+Developed applications using Visual FoxPro language and report designer Developed ASP.NET Web
+Applications for clients that enabled them to view information about Enrollment, Benefits,
+Eligibility and Claims.
+
++ Maintained provider data from Preferred Provider Organizations Created Extract Transform and
+Load routines for medical claims, eligibility and accumulation data.
+
+University Of North Carolina - Computer Help Desk Analyst
+City, STATE + 09/1998 - 09/1999
+
+Provided level one telephone support for the UNCG faculty and staff.
+Resolved software, hardware, and network problems for end-users.
+Documented and tracked calls using a client support database.
+Forwarded level two jobs to the UNCG technical staff.
+
+US Air Force - Television and Intrusion Detection Systems Techn
+City, STATE + 03/1993 - 06/1996
+
++ Performed repairs and preventative m:
++ Responsible for training and pager response to emergency outages.
++ Ordered parts and documented maintenance.
+
++ Scheduled calibration of test equipment.

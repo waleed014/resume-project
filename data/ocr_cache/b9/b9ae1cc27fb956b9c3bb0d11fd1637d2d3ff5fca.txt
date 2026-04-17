@@ -1,0 +1,190 @@
+Jessica CLAIRE
+
+Oates S108 # (59 182.100 «remanence
+
+Prorissiona SURBIARY
+
+ore 6 ya of ne expec in aniston of Relational Dashes, xen ei il an wdetig of Poses
+1S SQL Sener Distant cloud nd on rem. Se calls an tam plae theless ad eapris it
+‘ese pblensshon Key para dy meine cus tutte ey ashe mene steps Bakes adres
+tela caf pe ue ae eid ews Expenses ae ae ewes es, PC
+esting 2 cniging il PoigeSQL ules eg EF ppc pol bods ake pe repack ec. sting nd
+ceafping MS SQL Sener 2017, 2014 2071 (and el enters eon) otgeSQL 0, 1112 1308 AWS RDS snd
+EC Intl cowed pated rated (snes) ad matin severities Tel epcion cometni an
+ayo Extensive wa epriceo edtin aha,
+
++ PosareSQL, EDB Foes, DS Pnares MS SQLSERVER, + Releaion uprae,mipin
+
+aes, + Pabouncer pepo EFL
++ Lint (Cea-08 Dein Ua), Ket 1 SE pe daa Greene Deployment Pe spade
++ AIVS RDS, 3, C2 Lambda Pema Inighs, Clndach, paso pote conf.
+sas + Anse Tefen AW,
++ Hagin And + Polen Song Mataking Abs Artz an ites
++ Danse deepen Rela Dash Naapencat ‘Tee,
++ PosgeSQL xeon (on, ese pba + Daeaver eAdin Dyas ph ising te.
+Past steae ee)
+Won Histon
+
+‘Coe Database Adminstrator PostgreSQL, MS SQL), 072022 -Cunet
+Copan Techsloy Slatons Meine. TX
+
+Taking Bak of PoneS QL Dabs ning on AS RDS wing dom, AWS Lamba & AV Baca,
+
++ Coninsed MS QL Save Opie pou elle Nate cap reste” bakap MS SOL dates uring AWS RDS se
+ass tacee
+
++ Nain colibri ithe SRE Tea ore monn,
+
++ Monit ny dates wing Dyce, Permanence mesg. loach a rete
+
++ Compared? difiet schema nd to ities ahs find he mingle wig Adin
+
++ ting a cotgwing Postel & MS SQL Des aig oe ANS RDS, emis
+
++ Contin of png sayeth rer foal eings norte ae ies,
+
++ Sundup pod dash with astpsotf be sapiens shared om dle AWS ao.
+
++ Molen ft RDS cuts ese mare fee ie prc igh enced motor, ela ptt
+
++ Upped muiplePongeSQL datas om 10x 2 a1
+
++ Honopem mine of Poster dase funn emt ANS RDS wig damp pretend
+
++ Assn delves eas by ig danse ss (MDL, DDL, TCL ete) ying boca of pes ae eas
+
++ Assn deployment eam th se elated ack sree ee
+
++ Need th DEVOPS Team aren the dae ean sera deployment
+
++ Tele ging & potion dh snd tae wih comp qui sn Date
+
++ Chen Sagmectson, tue egy cote dash pert
+
++ seyret ad od tt magn bal geen
+
++ Coxiatin of PxgrSQL & MS SQLSERVER Parmeter upto ates pis ature ben te ent for
+monn
+
++ Progra othe DBA aminoacid anes, pil ote potion does
+
++ Coats ono asonst cr ies as ie VACUUM ANALYZE, REDDEX, CLUSTER
+
++ Rese wi abe mid, empl, deals, ds, eet checkin ner cot iaeny doo ble
+sg fl arg, xen ot pee al. eins ghCPU wage
+
++ Continee spk alate an Whines ine
+
++ Scheduled SQL apn teste with agmenatn il sping proce ca MS SQLSERVER Sashes
+
++ ed aa Kater comin od emai ae bss eee
+
++ Pring repos forall yt dots son M7 schberespnting 1 cael an sittin otis wk
+
++ Monte he aah fr Inde pritonng Menor nd 10 ition,
+
++ Conseco RDS MS SQLSERVER wing MS SQL Masgenet
+
++ ed EXPLAIN sed EXPLAIN ANALYZE wien and Sine ie SQL gies or pen improves
+
++ Sted te Dash fom Raion Tsing a Teng Wo Peden
+
++ Prepac ten ues ena thew adhe forte potion of Date adit
+
++ Fanny ith Parmer tor, Role 3, ES, Lats
+
+PostgreSQL Daas Adminrt
+“Te Ate Network Rete. DE
+
+* Cree AM wer aout ead police fr ace to AWS Poo Both RDS an EC? instance, Cap tn ad
+et pate 5p
+
++ Def AWS Secu Groups with acts ital eal ht celled he ae aloe reach cee ae AWS 2 ites
+
++ Mange ie Space ad Song of Dashes aoagh ato Shel Si sce inthe con pnd epar itera,
+
++ Pate danse Reta moneda dels
+
++ Mighty epseedinContiguaton Inlet an Mintranc of Lo tig:
+
++ Cree ew cae ao grated te csr eter Poel se
+
++ Dantane sity with Row el sc ach pa pa Hoo an postr cnt
+
++ tld aod cafe MTK fr mgs om Ore psa a EDB lve ee
+
++ Nannie ogre wih PrAdin Pg,
+
++ Crete bogs, tae nets ving dt, gaming a cea ree ion snd EDB aan see 9.68
+
++ Pein tackp ete, ance ates wing PeAdin 4. dig ape.
+
++ Crete Tepes Schema, Ue poles ad inplenening Yau jenn porte cn ean pra wer od
+epitome trophont
+
++ Ting aoroau rans et pa ables ase ac cosa y dea pls
+
++ Provided pe fl yd no 247 ceeding ci ve sed sims uel we
+tea
+
++ Naked ith development nd operons tote production gi opin pea,
+
++ Prose manning sandy een metals ike Semi eatin aot sandy fr date eae
+
++ Contes mosis lr beter pence ie PEM, Clock Parse nih Poste
+
++ Prosi inupig te es eur pce dtu, wich ae rove by Pose ope source omy
+
++ Contnzed sn Dias intalitcn eing te cea
+
++ Monitored be ase de paring Menor 200 wizaton
+
++ Contnze nee Fale Manager ft ae ur, inte at th poo Ir aeecion posing ead
+tatoo ree ioe wtheks an etek
+
++ teplenetdccting epic fr ude ing ca ECD
+
++ Und EXPLAIN anf EXPLAIN ANALYZE Wide and fo une qui prfomance ingovenet,
+
++ Naima dete ei document of tne cece sd modeng per bans eget
++ Priddis fr epanto of els os aoe:
+
++ Contacte compete sis of atu pay ad pounce oie
+
++ teplenatelpocedies fats conan aie of
+
++ Inpenetl a dust repesion rps nots
+
++ cog pe. oun od cnc poling
+
++ Updates om 9 6t 10x ad ing oper
+
++ Petuneldatne maine aks kero a,c ll inde, ctr, cee ide ee
+
++ Monte sng Dat:
+
+ede ny br ig rm
+
+Junor tase Adminstrator QU)SQL & PesiereSQL) 012015112017
+Trader Joe's Ci, STATE
++ Reyne cofging. iter. dining a Deeopet. QA Stig ad Pedcton Poe dates win
++ teplemet, cos, wobec databace opin, aka, pos, ry, ed aces
++ Ses ee thin and code he date eae om ep Bh cel
++ Miao f Dison Reps ently rau eas ita PxreSQL Dae ing Pons QL png Pres:
+1 amg Spaces Storage oft Dates oth ais Sel Sos chalet eta peal ep tona
++ igo f aso Reps exalts een PrreSQL Dae ing Pons QL Exp ngn Procees:
++ Devine edo need onc nd su tention ies
++ Adin, spread oat aaks by pce esoing date ies and maining ves
++ pump, beac XTRA buh foe MVS,
++ eed SQLs PoteSQL- Dates:
++ Pamiiy wi pg DML. DDL. DCL
++ Paste VSO diy Nitenanc tas
++ rode be lege oe rat te
++ sae, stopped ad eat ey des.
++ Danan scary with el sey sch ph pHa con an Posen
+
+Ceriicaton ot PosgeSQL-12 Cetin Asx 09/2122
+Entre USA
+
+‘achbr ofSence: Computer cece, 082014
+‘Unherty of Daala- Doss, Canon

@@ -1,0 +1,74 @@
+PROFESSIONAL
+SUMMARY
+
+EDUCATION
+
+SKILLS
+
+WORK HISTORY
+
+LANGUAGES
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105 2 (655) 432-1000 <4 resumesample@example.com
+
+Senior Scientist at ag-tech startup with MS degrees in Agronomy and Data Science. 4 years of experimental
+design and statistical analysis experience working primarily in SAS and Minitab and familiar with Python, R,
+and gretl. Team-player with broad leadership experience. Seeking position in a challenging and rewarding
+environment that marries my passions in agriculture and data science
+
+Master of Science | Data Science CURRENT
+Indiana University, Bloomington, IN
+‘+ Recipient of Data Science Scholar Fellowship
+
+Miter of Science | Plant, Environmental Management, and Soil Science AUGUST 2014
+Louisiana State University, Baton Rouge, LA
+‘+ Thesis "Effect of Water Management on Greenhouse Gas Emissions in the Main and Ratoon Rice
+Crops Grown in a Crowley Silt Loam Soil"
+‘+ Honor Society of Phi Kappa Phi
+
+B
+Harvard University, Cambridge, MA
+‘+ Thesis "Reduced Mycorrhizal Interactions in Tomato Plants A Pilot Experiment"
+
+elor of Arts | Environmental Science and Public Policy MAY 2011
+
++ SAS + Experimental Design
++ Minitab + Statistical Analysis and Modeling
++ gret! + Basic MongoDB
++ Tableau + Basic Python
+* sci2 + BasicR
++ Weka + Basic SQL
+R&D MANAGER / SENIOR PLANT SCIENTIST 07/2014 to CURRENT
+
+Massachusetts General Hospital | Waltham, MA
+
++ Leading 10-person R&D / Horticulture team and overseeing all aspects of plant health and nutrition
+
+‘+ Analyzed 20MB of environmental sensor data to predict optimum microenvironment for each crop.
+
+‘+ Developed predictive growth and yield models for each crop using imaging data and regression
+analysis
+
+‘+ Designed split-plot experiments that have improved yield performance by 14% in the last two months.
+
+GFODUATE RESEARCH ASSISTANT 07/2013 to 07/2014
+Alamo Group | Geismar, LA
++ Performed yield-scaled evaluation on the effects of water management on rice greenhouse gas
+emissions
+‘+ Analyzed 11.5MB of yield and GHG data
+FAQULTY RESEARCH ASSISTANT / AGRICULTURAL ECONOMIST 03/2012 to 04/2013
+University Of Maryland / Economics Research Service - USDA | City, STATE
+
++ Headed the update of the USDA's 2010-2011 organic acreage and livestock database
+‘+ Teamed with other agricultural economists to assess coexistence of GE, conventional, and organic
+crops.
+SUOTAINABILITY INTERN 09/2011 to 03/2012
+Ingleby Farms & Forests | City, STATE
+
++ Authored and implemented sustainable management guidelines on all company farms worldwide
+‘+ Compiled, analyzed, and reported experimental data from agro-ecological field trials at Ingleby-
+Romania
+
+Fluent in French | Working knowledge of Danish, American Sign Language, and Turkish

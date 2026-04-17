@@ -1,0 +1,163 @@
+J
+
+ESSICA
+
+CLAIRE
+
+&
+
+9
+
+resumesample@example.com
+(555) 432-1000
+
+‘Montgomery Street, San
+Francisco, CA 94105
+
+SKILL STRENGTHS
+
+Kubernetes/Helm/Docker
+Expertise
+
+JavaScript /NodeJs /Python/
+Bash
+
+Software architecture; design
+and creation
+
+GCP Experience - GKE,
+AppEngine, Cloud Functions,
+etc,
+
+‘Making multiple applications
+work together
+
+EDUCATION
+
+Drexel University
+
+Phil
+
+ladelphia, PA + 06/2006
+
+Bachelor of Science: Computer
+Engineering
+
+Stanford University
+Palo Alto, CA
+
+‘Computer Science And
+Programming
+
+SUMMARY
+
+‘A team-first, easy to work with, engineer - that is self-driven and flexible. Experience in a wide range
+of technologies and roles: a combination of an experienced developer and programmer with tested,
+strong skills and experience in Linux Hosting/ Administration and Operations. A DevOps Engineer
+focused on automating everything possible. Thrives on sharing knowledge and making the impossible
+work.
+
+EXPERIENCE
+
+Paypal - DevOps Engineer
+Charlotte, NC + 01/2019 - Current
+
++ Deployed the Connect/Harmony Suite of products (https: //explorer.factorn.com) to Kubernetes,
+‘App Engine and leveraged other GCP tools to build distributed, scalable systems.
+
++ Administered and maintained the Blockchain network for FactomD - including working to resolve
+pauses; made changes and additions to manage any issues on the network
+
++ Redesigned and created the “DevNet” which is a tool for developers to quickly spin up small
+FactomD networks, with working blockchains - in order to test the protocol
+
++ Developed a restart interface through AWS, leveraging proper security groups, EC2 instances, load
+balancers and Google oAuth authentication within a lua-openresty image that would track requests
+and regulate the frequency of blockchain network restarts.
+
++ Developed helm charts that deployed automated backups for the blockchain - to stop followers that
+were synced with the blockchain, and copy the database to a GCS bucket.
+
++ Deployed and maintained a distributed monitoring system (the Factom Overview)for all the nodes
+in the blockchain, using websockets, React and NodeJS and required successful routing between
+networks in multiple providers and instances.
+
++ Developed an automation in kubernetes for the Ephemeral Sandbox - this scales down the pods
+using the blockchain, wipes the database of the blockchain from the leader nodes, restarts the
+network from the first block, and starts the Connect API pods so it’s available for use.
+
+Legalzoom - Staff Systems Engineer
+Casper, WY + 11/2017 - 12/2018
+
++ Started quickly and learned by “drinking from the firehose” - to quickly become a key figure in
+supporting an enterprise Container as a Service infrastructure: a self-service system for customers
+to request containerized Redis instances that are load-balanced, and highly available within a
+luster of ephemeral VMs. Architect for the automation of the ephemeral refresh. Added APIS to
+interface with Splunk logging.
+
++ Acted as architect and created a ground-breaking application for self-service provisioning of open
+source databases. Using NodeJS and Python | created “DBaaS” (Database as a Service) which
+allows self-service for developers to provision and manage a plethora of DB types from a single
+pane of glass.
+
++ Lead the implementation of a UI that would activate Terraform modules built for the DBaas
+platform to provision the requested elements.
+
++ Driving force for adding features for self-service database service - provisioning, password reset,
+and user maintenance. Responsible for engineering the solution for each requirement.
+
++ The DBaaS platform uses NodeJS, Mongo, and Redis that handles requests from users, provisions
+the requested databases on multiple platforms, tickets the requests in Service Now (adds notes for
+provisioning on failure/ or closes on success), enters tracking information to a MariaDB repository
+- and then pushes the data to a graphical interface on the frontend. A Redis PUBSUB channel and
+lists are used for each microservice to synchronize with each other, and pass data along to each
+modular stage of the process. Very expandable, robust, and highly available,
+
++ Team subject matter expert for Kubernetes, Docker, automation and coding - always willing to help
+and provide tools for my teammates.
+
++ Akey member of the “Store of the Future” Home Depot team: to re-architect a new micro-service
+approach to all retail store data-services: using Kubernetes, Helm and a number of container
+applications to maximize work for application teams.
+
+IPSoft, Inc. - Linux Platform Engineer
+City, STATE « 12/2016 - 11/2017
+
++ Resolved a wide array of monitoring alerts over multiple clients and numerous hosts
+
++ AS Technical Lead for a client - focused on improvement of customer’s monitoring/Ops
+
++ Used Python, Javascript and system APIs to automate monitoring operations.
+
++ Solved issues with company Java monitoring daemons - monitored and addressed Garbage
+Collection issues, resource overusage, connectivity issues, and others
+
++ Developed tools and automations for day to day operations- daemon restarts, freeing up memory,
+managing disk space, connectivity issues, and all day-to-day issues.
+
++ Deployed monitoring checks on enterprise hosts and configured server monitoring.
+
++ Focused on automations and developing tools in NodeJS and Python that serve as productivity
+multipliers for Operations Engineering.
+
+‘A Small Orange/Hostgator - Integrations Technical Support/ Junior Admin I
+City, STATE « 01/2015 - 12/2016
+
++ Responsible for hosting servers, account restores and service critical issues.
+
++ Took ownership of escalated issues for CentOS /Apache/cPanel webhosting servers
+
++ As team lead - handling upper tier technical issues through chat, phone and ticket contacts.
+‘Mentored and assisted dozens of front line co-workers.
+
++ Responsible for the integration of newly acquired brands into the existing technical support process
+- learning new platforms and systems and training junior agents on these systems.
+
++ Customer Service contact for VIP Clients or Priority issues escalated from Social Media
+
++ CPanel/WHM Administrator and cPanel WHM System Administrator Certified
+
+REPOSITORY, LINKS
+
++ https://github.com/mClaire464
++ https: //wwwalinkedin.com/in/Jessica-Claire-O88b3b8b

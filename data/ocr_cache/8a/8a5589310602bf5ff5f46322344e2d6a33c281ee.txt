@@ -1,0 +1,152 @@
+Jessica CLAIRE
+
+‘Montgomery Street, San Francisco, CA 94105 # (S55) 432-1000 # esumesample example com
+
+‘PROFESSIONAL SUMMARY
+
+‘6 yeats of experience in fll Software Development Life Cyele (SLC)
+5 yeas of experience in Developing and implementing SQL server Databases including Creating Database, Tables, Views, Store Procedures,
+Functions, Indes, Triggers, Cursors, Constrains, Transactions and Relationships sing both T-SQL Queries as well as user interface
+(Management Studi).
+
+5 years of experience in Administering SQL server Databases Including preparing Maintenance plan and implementing Security ofthe database.
+Alo experienced in SQL Performance optimization and sting up different High availability options.
+
+5 yeas of experiences in Designing, Testing, Deploying and Administrating different kinds of reports such s Tabula, Matrix, Sub report,
+Linked Reports, Graph based, and Ad-hoc report using different kinds of reporting tools such as SSRS, BIRT, Crystal Reports, Report Builder
+30.
+
+5 years of experience in Extracting, Transforming, and Loading importing/exporting data from different sources to different destinations Using
+‘SQL Server Package Integration (SSIS). Experience in using Configuration Variables for Package deployments for QA and Production Servers.
+
+5 years of experience in Agile methodology using JRA.
+Excellent academic record, better analytical and problem solving ability
+
+Core QUALIFICATIONS
+
++ Databases: MS SQL Server 2014/12/08/R205I00, Oracle 10g + ‘Language: C#, C, ASPNET, Java, VB, WCF, WPF, HTML,
+
+IBMDB2 V9.5, MYSQL, MS Access 85, XML, JavaScript
++ Platform: Windows NT/ XP /2000/2003/2008/2012/Vista + Tools: Rational Rose, Visio, TFS VS2012, VS2010, Tortoises
+Windows7, UNIX SVN, SOAP UL JIRA,
+
++ Report: SSRS, Crystal Report, Report Builder}. 0, BIRT
+
+EXPERIENCE
+
+Database ETL Developer, 042013 - Current
+Maleda Tech ~ City, STATE
+
++ Worked with Business Analysts to understand the requirements.
+
++ Analyze different business requirements and provide time estimate for all SDLC phases (Analysis, Design, Coding, Implementation, UAT,
+and Production Move).
+
++ Developed and exported custom documents using Business Intelligence and Reporting Tools (BIRT) and SQL server reporting service
+(SSRS) in various formats suchas PDF, DOC, PPT, and more
+
++ Perform ETL processes using SSIS tool for SQL Serve,
+
++ Design’Develop complex queries efficiently as pr the given business requirements
+
+‘+ Created database fac/dimension tables, views, stored procedures, functions and wiggers as require.
+
+‘+ Develop views, sub-queres and joins for complex queries involving multiple tables.
+
+«+ Used various transformation tasks to create ETL packages for data conversion,
+
++ Loaded fa files and Excel data into database using SQL Server Integration Services (SSIS) after applying various transformation like
+Lookup, Merge join, Agaregation, Derived column, Data Conversion, Script Task
+
++ Created Transact-SQL (stored procedures, views, triggers, sub-queies, joins).
+
++ Used advanced features of TSQL inorder to design and tune TSQL to interface with the Database and other applications inthe most
+efficient manner and created stored Procedures forthe business logic wing TSQL,
+
++ “Involved in daily batch loads (Full & Incremental) into Staging in and Staging Out areas, troubleshooting proces, issues and erors using
+SQL Server Integration Services (SSIS).
+
++ Scheduled Jobs and Alerting using SQL Server Agent
+
++ Worked on Table Partitioning to load current and historical data
+
++ Greatly improved performance in daily transforms by identifying and reorganizing indexes on major tables.
+
+'+ Performed space estimation and calculation, application installation, performance tuning, database monitoring, configuration, and
+‘troubleshooting
+
++ Technologies: Microsoft SOL Server 2005/2008/2012/2014, Microsoft Visual Studio 2012, Microsoft SOL Server Reporting Service, SSIS,
+Red Gate
+
+Database Report Developer, 02/2012 - 04/2013,
+Data Group LLC - City, STATE
+
++ Analyzed and interpreted business requirements and transfered into applicable System
+
++ Generated reports using SQL server reporting services (SRS).
+
++ Research, design and develop software enhancements to
+
++ Designed a relational databace Using MS SQL Server 2012, Wrote stored Proceduse, riggers, view and Functions,
+
+‘+ Migrated Mainframe SQL Server 2008 database to Microsoft SQL Server 2014 Databases.
+
++ Created Databases Maintenance plan forall the databases based onthe each application requirements
+
++ Prepared System Design Document, Operational Manval and Disaster Recovery Plan.
+
++ Reviewed operational issues with Senior Management an suggested posible solution with curent technologies
+
++ Technologies: Microsoft SOL Server 2005/2008/2012/2014, Microsoft Veual Studto 2012, Microsoft SQL Server Reporting Service,
+
++ Project: MCC Advertisement System The system is an integrated software system designed specifically forthe business needs of cutting
+‘edge newspapers, magazines and other media providers keep tack of customer data, credit history payment information, ads, lasified
+ads, sales reps and schedule across the organization. The system also send emails PDFs of invoices or statements to customers, or send
+‘blk email campaigns to customers and prospects. Schedule ads, check past activity, enter payments, change a sizes, and add more run
+dates on the fly. Use realtime reports to show revenue and space usage for future issues
+
+«+ Responsibilities:
+
+«+ Designed a relational databace Using MS SQL Server 2012, Wrote stored Proceduse, riggers, view and Functions,
+
++ Designed and implemented Business logics (BLL) and data access (DAL) components in C#, ASPaet.
+
++ Developed reports using SQL Server Reporting Service (SSRS).
+
++ Used recordset, SQL commands to Retrieve and update data from and tothe database (SQL Server 2005).
+
++ Created ETL Process to move data fom different sources to different destinations
+
++ Technologies: 7360, ASP.Net, C, SSRS, Crystal Report, MS SQL Server 2005/2008, US
+IQuers Aas, CSS.
+
+grate with existing products.
+
+Rational Rose, Visto, JavaScript, HTML,
+
+Database Report Developer (Internship), 08/2011 - 02/2012
+Data Group LLC ~ City, STATE
+«+ Involved with fll development cycle ofa Data Warehouse, including requirements gathering, design, implementation, and maintenance.
++ Collaborated with network operators, application developers, and DBAS to enhance end user experience
++ Involved in Installation, Configuration, Development, Deployment and Troubleshooting Reporting services using SSRS across various
+‘environments
+‘+ Worked on Client requirement and wrote Complex SQL queries to generate Reports.
++ Created different reports (Tabula, chart, dashboard and et.) based on the requirements and retrieved data using stored procedures that
+accept parameters using SSRS.
++ Technologies: Mcrosoft SQL Server 2005/2008/2012/2014, Microsoft Misual Studio 2012, Microsoft SQL Server Reporting Service,
+
+Help Desk Assistance, 10/2009 -07/2011
+‘Sound Hospitality - City, STATE.
+«+ Assisted in developing a more efficient way to track user calls and extract user information frm them
++ Responsible for tracking my calls through a log system and submit a daily log to management
++ Responsible for cresting a support ticket and then making sure to close that ticket out when the issue was resolved,
++ Worked with customer service representative on more complex or volatile customer issues
+Technologies: MS Office Word, Excel, Outlook, Access); nstant messaging sofware; VMware applications
+
+Epucarion
+
+Bachelor of Science: Accounting, 2012
+Strayer University - Alexandra, VA.
+
+Associate of Applied Science: Business Administrations, 2010
+Northern Virginia Community College - Alexandra, VA

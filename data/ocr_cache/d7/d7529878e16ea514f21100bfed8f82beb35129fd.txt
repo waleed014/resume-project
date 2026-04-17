@@ -1,0 +1,64 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 # resumesample@example.com
+
+SUMMARY
+
+Around 3 years of experience in the field of Information Technology, with extensive experience in analysis, design, development, data
+conversion, Data Warehouse, Unit testing and documentation and Business Intelligence using Tableau, Qlikview, Informatica, SSIS, Teradata
+Oracle, Hadoop Hive and other BI Tools and Databases.
+
+TECHNICAL SKILLS
+
+© Informatica Power Center, Informatica IDQ, Informatica MDM, Teradata, Amazon Redshift, $3, Oracle, Pl/SQL, MySQL, MS-
+
+SSIS, Informatica Cloud, Informatica B2B Data Exchange SQL Server, TSQL, DB2.Hadoop Hive
+* Tableau, QlikView, SSRS * Java, C, C#, C, UNIX, Linux, Shell scripting Web Technologies
++ HLT, Jason, XSD, XML CSS, HTML
+
+« TCP/IP, UDP, HTTP, DNS, DHCP, FTP, SFT
+
+‘Work EXPERIENCE
+
+Informatica Developer. 05/2016 - 11/2016
+
+Infosys Ltd — Saint Paul, MN
+
+Worked on extracting data from different sources including different RDMS databases, HL7 files and flat files, transformed the data applying
+data validations using Informatica IDQ and Informatica Power center, loaded data on to the database for building reports
+
+Informatica developer, 2015 - 05/2016
+Infosys Ltd — Ashburn
+
+Handled extensively the development of Informatica Mappings to support Data Extraction, Transform and loading.
+
+Specialized in Database Design, QlikView, Informatica, Data Integration Workbench Tool.
+
+‘Worked on integration of Informatica with Teradata Hadoop Hive, Amazon Redshift, $3, and Sales Force.
+
+Mastered in Oracle, SQL Server, MySQL, hive and the performance and query tuning of the Database
+
+Developed automated UNIX scripts to run the Jobs and to load data into the report layer.
+Designed and Developed the End user reports using the QlikView
+
+ETL Developer, 2013 - 11/2013
+Cgi Group Inc. — Hartford, India
+
++ Translated business requirements into data warehouse design.
+
+Designed and maintained logical and physical enterprise data warehouse schema using Erwin.
+
+Worked extensively on Informatica Power center including Installation, Upgrade, development and Migration
+
+Executed and monitored Informatica workflows to load data from various sources and performed data validations
+
+Worked extensively on teradata, oracle SQL server and unix shell Scripting
+
+EDUCATION
+Master of Science: 2016
+‘McNeese State University - Lake Charles, LA
+Bachelor of Science: 2013
+INTU - Hyderabad
+CERTIFICATIONS
+
+Cisco Certified Network Associate (CCNA)

@@ -1,0 +1,189 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++R (Statistical Programming)
+
++ Data Visualization
+
++ Data Mining
+
++ Statistics / Statistical Modelling
+
++ Experimentation and
+Hypothesis Testing
+
++ Python
+
++ SQL
+
++ Dashboard Development
+
++ Pyspark
+
++ Cloud Computing (azure and
+AWS)
+
+EDUCATION AND
+TRAINING
+
+Bells University of Technology
+Ogun + 11/2020
+
+Bachelor of Science: Management
+
+Science
+
++ Dissertation:- Management
+Intelligence: Quantitative
+Analysis and Decision Support
+Systems for Management.
+
+CERTIFICATIONS
+
+1, Microsoft Data Scientist
+Associate
+
+2. Microsoft Azure Al Engineer
+Associate. (Andela and Microsoft
+‘Scholarship 2021)
+
+3. Data Engineering Nanodegree,
+Udacity
+
+4, Deep Learning Specialization.
+DeepLearning.ai
+
+SUMMARY
+
+Highly motivated Data Professional experienced in gathering, processing and analyzing relevant
+business data. Advanced understanding of statistical modelling, machine learning and other analytical
+methodologies. Passionate and diligent with significant experience in leveraging machine learning and
+loud technologies to solve business problems.
+
+EXPERIENCE
+
+Avanade - Analyst - Data Science
+Columbia, SC + 03/2023 - Current
+
++ Hiring and managing qualitative researchers.
++ Designing surveys and data collection tools
+
++ Analyzing behavioral data
+
++ Conducting randomized control trials and A/B tests.
++ Statistical modelling
+
+Kbr - Data Scientist
+Point Mugu, CA + 04/2022 - 02/2023
+
++ Built segmentation algorithms for marketing optimization.
++ Built and deployed machine learning models as Flask API
+
++ Built internal web apps for Machine Learning Applications such as Sentiment Analysis.
+
++ Experimented on forecasting algorithms.
+
++ Deployed Transformer models for highly efficient execution of Natural Language Processing tasks.
+
+‘Motion Recruitment - Session Lead - Python Data Analysis
+Oxnard, CA + 04/2022 - 01/2023
+
++ Coached and Mentored 125 students on Python Data Analysis
++ Helped debug and solve technical challenges encountered by students.
++ Created Python-based tutorials and projects.
+
+Tech Air - Data Analyst
+Ventura, CA + 04/2021 - 03/2022
+
++ Built an OCR tool automate data extraction from documents.
+
++ Determining data sources for reports and projects.
+
++ Producing data driven publications using statistical modelling and data visualization.
+
++ Collaborating with internal stakeholders to identify and gather analytical requirements for
+customer, product and projects needs.
+
++ Developed a dashboard for operations team to enhance data mining, management and analysis
+techniques.
+
++ Designing and engineering data gathering solutions such as surveys and web scrappers.
+
+Omdena - Junior Machine Learning Engineer
+City, STATE « 11/2021 - 02/2022
+
++ Identifying, researching and evaluating relevant Machine Learning applications and papers,
+distilling the details in technical but easy to read reports.
+
++ Implementing state of the art architectures in code.
+
++ Co-designing a method to estimate the depth of water bodies(Bathymetry) using satellite
+imagery.
+
+First Marina Limited - Project Manager
+City, STATE + 06/2019 - 09/2019
+
++ Collaborated with teams of technicians to execute chains of activities on a large real estate
+project.
+
++ Designed policies to mitigate costs due to foreseeable errors, injuries and loss of materials.
+
++ Delivering at about 20% under budget.
+
++ Forecasted, scheduled and monitored project timelines, personnel performance and cost
+efficiency.
+
+Olayinka Oyebola & Co - Data Analyst/ Consulting Intern
+City, STATE + 06/2014 - 10/2018
+
++ Tracked, analyzed and reported findings in business data.
+
++ Completed audits on financial data for over 5 client accounts.
+
++ Supervised data capturing project for an ecommerce giant, ensuring completion before
+scheduled time and hence 10% under budget.
+
+ACTIVITIES AND HONORS
+
++ Engineering Project Manager (intern) on a large construction site.
+
++ Class representative. Provided much needed organization for digital learning.
+
+Virtual Experiences with:
+
+1, Australian and New Zealand Banking Group. Built Machine Learning models with Linear
+
+regression and decision trees.
+
+2. Quantium Consulting - Developed customer centric data science strategy using customer analytics
+
+and association mining.
+
+3. Boston Consulting Group (BCG gamma) - Built customer churn models with logistic regression.
+
+Publications:
+
++ Getting Started with Computer Vision on Microsoft Azure. Published in CodeX 2021 (https://
+dolucodes.medium.com)
+
+WEBSITES, PORTFOLIOS, PROFILES
+
++ https: //linkedin.com/in/dolu-Claire
++ https://github.com/donClaire
++ https: //dolucodes.medium.com
+
+CONFERENCES AND WORKSHOPS
+
++ Open Data Science Conference West 2021.
++ Nvidia GPU Technology Conference 2021.
++ Data Science Nigeria Al Bootcamp 2021.
+
++ AfroTech Conference 2021

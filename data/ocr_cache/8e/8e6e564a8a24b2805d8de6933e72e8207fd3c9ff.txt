@@ -1,0 +1,202 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+%& (555) 432-1000
+9
+
+4100 Montgomery St. 10th
+Floor
+
+SKILLS
+
++ Programming Languages: Java,
+G#, .Net, Python
+
++ Microprocessor-Based Systems
+
++ Arduino
+
++ Raspberry Pi
+
++ MATLAB
+
++ Sonic Visualizer
+
+EDUCATION AND
+TRAINING
+‘Arunai Engineering College (Anna
+
+University)
+Tiruvannamalai + 11/2009
+
+‘Master of Science: Applied
+Electronics
+
+Kamaraj Engineering College
+Virudhunagar + 06/2003
+Bachelor of Science: Electronics &
+Instrumentation
+
+VSVN Polytechnic
+
+Virudhunagar + 07/2000
+
+High School Diploma
+
+SUMMARY
+
+Strategic Software Engineer skilled in application development, testing and optimization. Excels at
+coordinating ground-up planning, programming and implementation for core modules. Maintains
+strong object-oriented and software architecture fundamentals.
+
+EXPERIENCE
+
+University Of Utah - Visiting Scientist
+Ogden, UT + 07/2018 - 01/2023
+
++ Drove technically and scientifically diverse research projects to completion while meeting budget
+guidelines.
++ Coordinated with project managers to meet development timelines and plan testing.
+
+Wilkes University - Assistant Professor of EEE
+Wilkes Barre, PA + 06/2011 - 06/2018
+
++ Engaged students in lectures by encouraging sharing of opinions and group interactions.
++ Evaluated student progress, graded assignments and provided students with feedback.
+
+P.T.Lee Chengalvaraya Naicker College Of Engg. & T - Assistant Professor
+City, STATE + 05/2010 - 05/2011
+
++ Administered and graded tests and assignments to evaluate student performance and monitor
+progress.
+
++ Developed custom course syllabus outlining standards, material, grading and progression for
+students,
+
+‘Arunai Engineering College, Tiruvannamalai - 60660 - Lecturer, Electro
+City, STATE + 05/2007 - 01/2010
+
++ Created instructional and lecture plans for classes in compliance with course objectives.
++ Delivered course lectures using modern technology to enhance student comprehension.
+
+s Engineering
+
+LANGUAGES
+
+English:
+Negotiated:
+
+ACCOMPLISHMENTS.
+
++ Consistently maintained high customer satisfaction ratings.
+
+ACTIVITIES AND HONORS
+
++ Member- Indian society for Technical Education(2009-present)
+
+WEBSITES, PORTFOLIOS, PROFILES
+
++ https://www.linkedin.com/in/Jessica-Claire-3182a7148/
+
+ADDITIONAL INFORMATION
+
+Project Details
+
+M.E. Applied Electronics -2009
+
+Title- Area Efficient FIR Filters For High Speed FPGA Implementation
+
+Description : A new algorithm that synthesizes multiplier blocks with low hardware requirement
+
+suitable for implementation as part of full-paralel finite impulse response (FIR) filters is presented.
+
+Although the techniques in use are applicable to implementation on application-specific integrated
+
+circuit (ASIC) and Structured ASIC technologies, analysis is performed using field programmable gate
+
+array (FPGA) hardware.
+
+B.E, Electronics & Instrumentation Engineering-2003
+
+Title - High Speed Data Acquisition system for Military Purpose (Real time
+
+Implementation of “High speed voltage variations”)
+
+Description - The emphasis is laid on voltage variations. It is achieved the efficiency of the sonobouy
+
+battery using a micro controller chip and give the user Correct state of sonobouy.
+
+Done at - Orbit Controls & Services Pvt Ltd. Chennai.
+
+Visiting Scientist : Jul 2018 to Jan 2023
+
+Title : Fully automatic system for measuring broiler body temperature
+
+Hardware\Software : Arduino, Raspberry pi, Python, MATLAB
+
+Application : This real-time temperature monitoring system can provide alerts or notifications to the
+
+poultry farm manager or veterinarian if any significant deviations from the normal temperature range
+
+are detected.
+
+Title : Tree cooling system
+
+Hardware\Software : Datalogger/ ThermaCAM Researcher v2.10
+
+Application : The automated system ensures that the trees receive adequate moisture, contributing
+
+to their growth, vitality, and overall well-being.
+
+Title : Cow database and analysis
+
+Hardware\Software : Python
+
+Application : Specialized Python software platforms are designed to handle this data efficiently and
+
+provide analytical tools for extracting valuable insights like Performance Monitoring, Reproductive
+
+Management and Operational Optimization.
+
+Title : Semiautomatic rumination detection
+
+Hardware\Software : Python
+
+Application : Python programming to detect rumination in audio data received from a cattle's colar
+
+equipped with sensors that can detect the movements and sounds associated with rumination, such as
+
+chewing and swallowing.
+
+International Journal or Magazines
+
+> S.Jessica’, Prof. Dr-A.Sivabalan and Prof. Dr.Chandan Madzundar, 2013. FPGA Design & Simulation
+‘Modeling of BaseBand Data Transmission System. IOSR Journal of Electronics and Communication
+Engineering (IOSR-JECE), Volume 6, Issue 6 (July-Aug. 2013), PP: 06-10, p-ISSN No. : 2278-8735.
+
++ S.Jessica’, Prof. Dr.A.Sivabalan and Prof. Dr.Chandan Madzundar, 2013. Novel Approach to Farrow
+Structure and Multiple Rate Techniques for Correct Minute Delays in FIR Filters. Wulfenia Journal
+KLAGENFURT, AUSTRIA, Volume 20, No 6 (Jun. 2013), PP: 179-182, P-ISSN No.: 1561-B82X.
+
++ \iN.Ganesh, S.Jessica* and D.Sivakumnar, 2013. “Proposal technique for an static var
+compensator”. 1OSR Journal of Electrical & Electronics Engineering (IOSR-JEEE), Volume 7, Issue §
+( Sep-Oct. 2013), PP: 1-7, p-ISSN No. : 2320-3331.
+
+Short term courses and Workshops attended:
+
++ Attended a workshop on “Matlab/Simulink” conducted by VIT, Coimbatore, during Dec 2010.
+
++ Embedded system and 3D VLSI Design, organized by Vee Eee Technologies Solution Pvt Ltd, at
+~Arunai Engineering College on August 2009.
+
++ National Level Workshop on Network Simulator (NS2), organized by Arunai IEEE Student branch held
+at Arunai Engineering College on April 2009.
+
+Paper presentati
+
++ Attented National Conference in” Multi Media Image Processing and Machine Vision” at
+Rajalakshmi Engineering College Chennai.
+
++ attented National Conference in” Area Efficient FIR filter for high speed FPGA implementation at
+‘Anand Institute of Higher Technology Chennai.

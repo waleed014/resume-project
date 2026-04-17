@@ -1,0 +1,175 @@
+JESSICA
+CLAIRE
+
+®3resumesample@example.com
+& (555) 432-1000
+
+100 Montgomery St.
+
+9% toth Floor
+
+CERTIFICATIONS
+
++ Certified Kubernetes
+Application Developer
+CKAD
+
++ AWS Certified DevOps
+Professional
+
++ AWS Certified Solutions
+Architect Associate
+
+SKILLS
+
++ Kubernetes
+
++ Amazon Web Services/
+Azure
+
++ LINUX Shell scripting
+
++ IBM MQ Series, IBM
+WebSphere
+
++ Operating Systems- Red
+hat Linux, AIX
+
++ Git, GitHub, Jenkins
+
++ Ansible
+
++ Databases- mysql,
+Db2,Orade 10g,9i/8i/7.x
+
++ Docker
+
++ Terraform
+
+EDUCATION
+
+Texas A&M University
+Kingsville, TX + 2013
+Master of Science
+
+GPA: 3.5
+
+Jawaharlal Nehru Tech Unv
+Kakinada, AP « 2010
+
+Bachelor of Science:
+Electronics & Communications
+
+PROFESSIONAL SUMMARY
+
+An IT professional with over 8 years of experience, performing various roles such as -
+DevOps/ Cloud Engineer, Linux Administrator & Middleware Administrator.
+Linkedin: https://www.linkedin.com/in/Jessica-Claire-6a2913194/
+
+WORK HISTORY
+
+‘Two95 International Inc. - DevOps Engineer
+Arundel, MD + 11/2020 - Current
+
++ Part of the design team that is re-architecting VIOLA CSE application into
+microservices. Working to deploy an test application using Kubernetes in the Cloud
+using EKS.
+
++ Setup logging using ELK stack, monitoring using Prometheus and Grafana
+
++ Experience in using multiple AWS services such as - VPC, EC2, ELB,
+
+ASG, S3, IAM SNS, DynamoDB, API Gateway, Lambda, Elastic
+Beanstalk, RDS, Route53 etc
+
++ Worked on configuring ACL's , Firewalls, WebSeal and Load Balancers.
+
++ Installation of SSL certificates Linux servers as well as installation of certificates in
+the middleware infrastructure like WebSphere
+
++ Installed various software, Updates and patches using packet manager (yum and rpm
+packages) in RHEL
+
++ Configured volume groups and logical volumes and configuration changes across a fleet
+of Linux servers in the organization using Ansible
+
++ Working on setting up Terraform to fit into our CICD pipeline at the organization
+
+‘Two95 International Inc. - DevOps Engineer
+Cleveland, OH + 12/2019 - 10/2020
+
++ Implemented and maintained services running on linux and server platforms deployed
+on the Cloud instances
+
++ Performed data migration across multiple linux and windows servers
+
++ Involved in setting up CICD pipeline
+
++ Responsible for Working on day to day Production Issues/Aborts/ Incidents
+
++ Leveraging GitHub as a version controlling tool for maintaining, reviewing the source
+code.
+
++ Setup and utilized CloudWatch to monitor AWS resources
+
++ Creating, troubleshooting and mounting NFS File systems on different OS platforms
+
++ Utilized ssh-keygen to make a connection without a password from a remote Linux
+loud server to a external agencies.
+
++ Developed Korn and Bash shell-scripts to automate routine activities
+
+Cae - System Software Specialist Il
+Pueblo, CO + 09/2014 - 11/2019
+
++ Maintenance/administration of the IBM WebSphere application Server suite of products
+on AIX and deploying enterprise JAVA/J2EE Applications and administration of
+resources in all environments
+
++ Maintaining different software components such as IBM MQ, IBM Http Server, IBM
+Tivoli Access Manager, Oracle Hyperion, IBM Content Manager, IBM Info print manager,
+IBM Clearcase, IBM Clear Quest, Build Forge, IBM WebSphere Process Server, Pitney
+Bowes Finalist, Tivoli workload scheduler and CA Wily Introscope.
+
++ Applying patching across all servers every quarterly using ansible
+
++ Document system configurations, AMI build practices, backup procedures and
+troubleshooting guides
+
++ Installed various software's using packet manager (yum and rpm packages) in RHEL
+
++ Creates partitions, file systems, mounted/unmounted file systems
+
++ Experience with remote software install and updates using Ansible
+
++ Installing and maintaining security tools across all Linux and AIX servers across all the
+environments
+
++ Applying Security findings on Linux and AIX servers as per IRS remediation
+
++ Participate ceremonies and meetings, including daily Stand-Ups with Scrum master
+and Product Owner on User Story Workshops, Story Point Estimation, Tasks, Sprint
+Reviews and Planning in CA Agile Central
+
+Kord Technologies - System Engineer
+Columbus, OH « 10/2013 - 08/2014
+
++ Involved in creating and configuring profiles, clusters, nodes, node agents for
+WebSphere Application Server 7
+
++ Experienced in troubleshooting, applying patches for WAS 7.0
+
++ Experienced in deploying code on prod and non-prod environments, setup cron jobs
+and modifying data source configurations by jython script
+
++ Created multiple configuration instances of WAS base and federated them to multiple
+configuration instances of WAS-ND, Base and ND on different platforms with security
+enables and verified installation, Applications Server instance creation, node
+federation, enterprise applications installation and execution work correctly
+
++ Installed, configured and managed tomcat v7/v8 for small scale applications
+
+Leidos Holdings Inc. - Storage Administrator
+Renton, WA + 03/2013 - 09/2013
+
++ Part of a team who upgraded the Walmart storage system from DMX to VMAX

@@ -1,0 +1,110 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor # (555) 432-1000 # resumesample@example.com
+
+‘SUMMARY
+
+Highly skilled IT professional with a background in systems administration, maintenance and end-user training. Accomplished in designing
+solutions to achieve software compatibility and streamline system upgrades and installations. Talented in administering and maintaining
+complex avionics systems, including Microsoft operating systems, servers and specialized logistics software. Seeking to leverage
+comprehensive IT experience to take the next career step in systems administration with a respected organization that values hard work,
+strategic thinking and results.
+
+13 Years of IT experience as a System Administrator, Citrix System Admin, Windows System Administration and Technical Support and 6.4
+years of experience in Onsite (USA),
+
+‘SKILLS
+Database Administration * Customer Service
+* Citrix Administration * Supervision & Team Building
+‘+ Windows and VMware Admin + Training & Development
+* End User Support
+EXPERIENCE
+
+AWS Database Engineer, 05/2022 - Current
+Bitgo —Palo Alto, CA
+« Provisioning RDS instance with Security Group. parameter group and private group).
+‘+ Administration and Supporting Database ( Aurora, PostgreSQL, MySql. MariaDB, Oracle and Microsoft SQL Server)
+++ Performing month RDS patching as per schedule
+Restoring database backup in SQL Database Engine and Analysis services.
+Taking db backup from AWS $3 bucket and performing restoration.
+Installing and configuration of SQL. in the server.
+Creating Availablity group (AlwaysON) and Availability listeners,
+
+Setting up the DAG from different accounts
+Worked with software vendors to analyze and resolve software installation and ongoing support issues.
+Created and monitored performance metrics to keep databases functioning at optimal capacity.
+Provided support for complex issues related to software tools, applications and databases.
+
+Assistant Consultant, 06/2014 - 05/2022
+Branch Metrics - Austin, TX
+Managing & Support Xendesktop5.6, Xendektop7.6 and Provisioning services 6.0
+‘Supporting migration level issue on XendesktopS.6 to Xendektop7_6 migration.
+Performing health check Xendesktop 7.6 using Desktop director and Power shell commands,
+Troubleshooting user based and machine-based issues on Xendektop 7.6 environment.
+Generating performance reports of applications and servers using Desktop director.
+Providing access on machines to new users.
+Managing and support provisioning services 6.0 for Xendesktop environments.
+Performing V-disk assignment for PVS environments for software/patches upgrade.
+Create Virtual desktops & configured users on project requirement.
+Performing server-based health checks on Provisioning servers.
+Handling Software Rollout for entire Xendesktop environment.
+Working on Incidents and Changes Request.
+Supporting EUC desktop for Laptop/Desktop assignment and troubleshooting user login issue.
+
+System Administrator, 01/2013 - 05/2014
+IBM - City, STATE
+
+Installation & configuration of Xenapp 6.0 & 6.5, License server, Web interface, Edgesight, Data Store.
+
+Troubleshoot Xenapp severs, User session & application issues.
+
+Installation, Monitoring & Troubleshooting of Edgesight server 5.4 for Xenapp 6.5.
+
+Installing Citrix Xenapp Hot fixes, security updates & windows 2008 R2 server updates.
+
+Responsible for Incidents & Implementing change requests.
+
+Installation & configuration of Xendesktop 5.6, Desktop delivery controllers.
+
+Creating Xendesktop sites & publishing Xendesktops to users.
+
+Creating different types of catalogs & Assign groups
+
+Monitoring & Troubleshooting issues through Citrix Studio & Desktop Director.
+
+Responsible for Server Hardware and Temperature related issue in Data Centre.
+
+Monthly patching of the servers according to schedule.
+
+Responsible for the Service activation and decommission for new/old servers.
+
+Responsible for Creating User account and groups.
+
+Support Engineer, 12/2010 - 12/2012
+Wipro Technologies — City, STATE,
+
+Installing and publishing applications in Citrix Servers
+
+Creation of new Virtual Machines (Windows Server 2008, 2003, Win? and XP) and publishing through Citrix,
+
+Maintaining 800 XP VDI's in VM ESX and published through Citrix
+
+Installing and configuring Citrix Secure Gateway and Web Interface
+
+‘Monthly and quarterly performing the audit based on applications
+
+Performing the weekly reboot all servers across all the four forms
+
+Performing the VDI daily reboot through script on daily basis
+
+Executing Ica listener status script on daily basis to avoid the connection failure
+
+‘Working on Tickets (Incident/Service RequestProblem) on priority basis
+
+EDUCATION AND TRAINING
+
+‘Master of Computer Applications: Computer Science, 07/2010
+Priyadarshini Engineering College - Vaniyambadi, Tirupattur, Tamil Nadu, India
+
+Bachelor of Science: Mathematics, 06/2007
+Islamiah College - Vaniyambadi, Tamil Nadu, India

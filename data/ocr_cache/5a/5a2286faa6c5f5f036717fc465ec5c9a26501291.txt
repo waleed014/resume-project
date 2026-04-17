@@ -1,0 +1,133 @@
+Jessica CLAIRE
+
+‘Montgomery Suet, San Franco, CA 94105 # (555) 432-1000 ¢ resumesample@example com
+
+Sugary
+
+"have 6 yeas of ETL experience and extensive experience in business and system analysis across multiple platforms using the ill oftware
+evelopment life cycle. Ihave worked in the role of Data Warehouse Specials, ETL Datastage developer and Production Support Analyst
+eqn subject matter expertise when dealing with mainframe sources with COBOL/ASCI File structure Distributed sources (RDBMS) and
+‘handling business intelligence data with DBZ, Neteza, Oracle, SQL Server and Hadoop Hive Data Warehouses .Thave worked on developing
+and soppoting major Banking Credit card conversion and Member Debt solutions project for Unites Services Automobile Association. These
+projects involved Requirement analysis, Risk assessment and management, Data planning and driving, Process Implementation, Team
+‘management, Project tracking, Customer interaction, Release Management, Deféc tracking, Deliverable and Warranty support. Over this
+peti, Ihave established an exemplary record of providing successful system support and delivering business vale for mid-level to large
+‘busines intelligence applications. Thave demonstrated excellent leadership skills in handling multiple offshore, nearshore project assignments
+‘with multiple resources and have delivered ll requirements on time,
+
+ACCOMPLISHMENTS
+
++ IBM Centfied Solution Developer-Infopere Datastagev8.5
++ IBM Cente Solution Developer-Infosphere Datastage v9.1
+‘+ Cetfed in Oracle Database 11g: SQL Fundamentals
+
+semis
+
+«+ Expertise in IBM Datastage (8.5 9.1 and 11.5 versions) to perform ETL & ELT operations on data
++ Proficiency in Unix Shell Scripting
+
++ Proficiency in writing and debugging complex SQL.
+
++ Informatica ETL Support experience (Version 9.1)
+
+‘+ Hands on experience on IBM DB2 /Netezza/ SQL ServerOracle
+
++ Data archival into IBM BIGINSIGHTS with HIVE tables
+
++ Experience in Control M Scheduling Tool
+
+EXPERIENCE
+
+DATASTAGE ETL DEVELOPER, 2016 Curent
+Amerihome Mortgage Company ~ Irving, TX
+/MEMBER DEBT SOLUTIONS PROJECT
+Project involved the conversion of un-salable SQL sandbox data into sealable Netezza Collections data capable of doing large seal analytics
++ Developed Datastage Jobs to load Collections data fom multiple sources Aspect,CACS Strata FICO Fidelity and FDR tothe respective
+Dimensions and Fact tables with required business transformations
+
++ Involved in all phases of SDLC, created detailed Analysis-Design documents wih source to target mappings.
+
++ Developed and maintained accurate project documentation and data model diagrams to provide management wit proper understanding of
+‘organizational needs
+
+«+ Prepared technical dataflow proposal for enhancements and integration of existing third-party data Communicated with business users
+and project management to gt busines requtements and translate to ETLIELT specifications
+
++ Provided technical supporto both business team and wser departments forall projects.
+
+‘+ Handled multiple offshore, nearshore resources during the project and delivered all requirements on tie.
+
+BIGINSIGHTS DATA ARCHIVAL
+
+‘+ As part of aw data archival Thad worked in a project developing a Samework to loa all aw files into foundation layer. Coding was
+
+done on Unix Shell Scripting. All data were loaded into foundation layer with a BIGSQL compatible Hive tables built ontop oft The
+“Hadoop datas read through Hive query language and is being used for discovery purpose.
+
+DATASTAGE 11.5 MIGRATION PROJECT
+‘+ Worked on migrating Datastage jobs fiom InfoSphere Information Server, Version 9.1 to InfoSphere Information Server, Version 115. My
+‘primary task was to gather migration requirements, design topology/paybook, test jobs in QA server ver 11.5 and production
+implementation suppor.
+
+DATASTAGE ETL DEVELOPER, 01013-2016
+UNITED SERVICES AUTOMOBILE ASSOCIATION - City, STATE
+
+CREDIT CARD CONVERSION PROJECT
+Large project to integrate the single entity credit cards to dual entity creditcard. This migration enabled acros-border portfolio view fo all
+creditcard applications and enabled maintaining same plastic number across history for analytics usage.
+
++ Developed Datastage jobs to do ETL transformation with the requiement provided and load respective Dimensions and Fact ables,
+
++ Lead Offthore team throughout he project and created detailed and accurate project documentation
+
+‘+ Application SME (subject mater experts) to the project implementation frm ofshoe.
+
+INFORMATICA TO DATASTAGE ETL CONVERSION
+‘+ Migrated 180 mappings ftom Informatica ETL tool to Dtastage tool as part of ETL conversion project. Analysed each Informatica
+‘workflowimapping and converted it to Datastage jobs with Industry standards. Performed testcase scenario(producton implemestation and
+support
+
+DATAWAREHOUSE MIGRATION TO IBM NETEZZA
+‘+ Migrated over 100 7B of Data to IBM Netezza platform fiom multiple DB2'SQL and Oracle warehouses. Involved in Requirement
+eathering Table design, ETL Design testing and implementation.
+
+DATASTAGE SERVER MIGRATION PROJECT.
+‘+ Worked on migrating 1000+ Datastage jobs from InfoSphere Information Server, Version 8.1 to InfoSphere Information Server, Versions
+85 and 9.1 overthe years.
+
+PRODUCTION SUPPORT ANALYST, 2012 - 01/2013,
+
+UNITED SERVICES AUTOMOBILE ASSOCIATION - City, STATE
+
+DATA MANAGEMENT RETURN TO SERVICE
+
++ The primary objective ofthe project isto maintain Extract Transform Load (ETL) potfolio of project at enterprise level In production
+
+support role, provided quick problem resolution to daily, weekly, and monthly procesing cycles executing in DatastageTnformatica. Over
+‘his period, Thave established an exemplary record of providing successful system support and delivering business value for mid-level to
+large business intelligence applications. Also worked on Service Requests developing ETL Datastage jobs fr small business
+requirements.
+
+EDUCATION AND TRAINING
+
+[BACHELOR OF TECHNOLOGY, 2011
+[ANNA UNIVERSITY - COIMBATORE, TAMIL NADU
+
+[BUSINESS INTELLIGENCE TRAINING, 2011
+‘TATA CONSULTANCY SERVICES - CHENNAI, TAMIL NADU
+
+SEPTEMBER 2011 - DECEMBER 2011
+
+‘This course provides an overview that gives busines and information technology professionals the confidence to dive right into their business
+intelligence and data warehousing activities. Hands-On training proved on ETL tools Informatica Datastage and data warehowsing
+‘environment for 90 days,
+
+DATASTAGE TRAINING, 2012
+GREENS TECHNOLOGIES - CHENNAI, TAMIL NADU
+
+‘This couse is designed to introduce ETL developers to Datatage Development, Data Warehousing and Data Modeling tainig’s with eal-
+world ETL process implementations
+
+A s AND Honors
+
+DISTINGUISHED ACHIEVER AWARD- TATA CONSULTANCY SERVICES [FEB 2015]

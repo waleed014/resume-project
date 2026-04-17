@@ -1,0 +1,157 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+
+Floor
+SKILLS
++ Agile
+
++ Engineering standards
+
++ Building dashboards for logs/
+reports
+
++ Version control
+
++ Continuous integration servers
+
++ Configuration management
+
++ Deployment automation
+
++ Containers
+
++ Infrastructure Orchestration
+
++ Monitoring and analytics
+
++ Testing and Cloud Quality tools
+
++ Network protocols
+
++ Node JS, Bash and Python
+
+EDUCATION
+
+University of The Cumberland’s
+Williamsburg, KY + 12/2020
+
+‘MBA: Entrepreneurship/
+Entrepreneurial Studies and Project
+‘Management
+
+Northwestern Polytechnic
+University
+Fremont, CA + 05/2015
+
+‘Master of Science: Electrical &
+Electronics Engineering
+
+Jawaharlal Nehru Technological
+University
+
+Hyderabad, India « 04/2012
+Bachelors in Technology:
+Electronics and Communications
+Engineering
+
+CERTIFICATIONS
+
++ AWS Certified Develop -
+Associate
+
++ AWS Certified Solutions
+Architect - Associate
+
+PROFESSIONAL SUMMARY
+
+Bilingual DevOps Engineer with background designing, testing and implementing infrastructure and
+applications. With extensive understanding of high availability architecture and concepts. Purpose-
+driven professional with capacity to be strong team player plus work effectively independently.
+
+WORK HISTORY
+
+Saic - DevOps Engineer
+Albuquerque, NM = 06/2021 - Current
+
++ Worked with cross-functional design teams to create software solutions that elevated client-side
+experience and significantly improved overall functionality and performance.
+
++ Monitored automated build and continuous software integration process to drive build/release
+failure resolution.
+
++ Wrote code and supported architecture in high-throughput systems on AWS cloud.
+
++ Automated and implemented backup and recovery procedures for cloud systems.
+
++ Researched and identified new technologies and tools helping to grow agile development
+environment.
+
+Saic - DevOps Engineer
+Fort Meade, MD + 05/2017 - 06/2021
+
++ Designed, configured and implemented C1/CD workflows for leading Salesforce Product.
+
++ Designed and implemented CI/CD process using AWS CodeBuild.
+
++ Migrated Jenkins /Jira/Splunk and Nagios from standalone setup to Docker setup.
+
++ Used continuous integration and continuous deployment tools to automate and re-architect existing
+production applications.
+
++ Implemented systems, resources, and infrastructure solutions, using automation and laC
+technologies.
+
++ Converted AWS infrastructure to IaC using AWS CDK.
+
++ Provided system administration support, including new system configuration, software
+installations, and code deployments.
+
++ Proactive system monitoring and maintenance; backup and recovery as well as disaster recovery
+procedures.
+
++ Developed microservices to support routine system admi
+
++ Developed Dashboards for internal reports and logging.
+
++ Responsible for day-to-day build and deployments in pre-production and production environments.
+
+stration activities.
+
+Northrop Grumman - DevOps /Build and Release Engineer
+Tallahassee, FL + 06/2016 - 02/2017
+
++ Delivered centralized software configuration management for enterprise application projects in
+multi-tiered high-availability environment.
+
++ Good understanding on Application Lifecycle Management (ALM), Continuous integration (Cl),
+Continuous Deployment & Delivery (CD), Continuous testing (CT), Software Configuration
+‘Management (SCM).
+
++ Java and Node JS built applications deployment using Jenkins and Chef Environment.
+
++ Used Chef to configure and manage infrastructure.
+
++ Wrote cookbooks to automate configuration setups.
+
++ Implemented AWS solutions using EC2, $3, RDS, EBS, Elastic Load Balancer, Auto scaling groups.
+
++ Installing security and software patches to all application servers using Chef.
+
++ Managing high availability, low latency applications.
+
++ Focus on security best practices to ensure assist in security and compliance activities.
+
+Techvensys - Build & Release Engineer
+City, STATE « 12/2012 - 07/2013
+
++ Worked on Java/J2EE Coding for Portal Applications.
++ Worked on Tomcat Web server for hosting web apps.
+
++ Used Perforce version control system to manage different builds for system.
+
++ Involved in working with WebSphere App server admin console for deploying applications.

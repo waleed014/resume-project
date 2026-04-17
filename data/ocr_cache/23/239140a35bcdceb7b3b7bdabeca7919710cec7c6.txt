@@ -1,0 +1,72 @@
+JESSICA
+CLAIRE
+
+& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
+Programming Languages -
+‘Competent in C#, Java, Python
+
+Web Development - HTML/5, CSS/
+3,
+
+Javascript, JSON, node.js,
+mongoDB
+
+Development Tools - git, Visual
+studio,
+
+Eclipse
+
+‘Adobe Products - Photoshop,
+llustrator, InDesign
+
+EDUCATION
+
+University of Texas at Austin
+‘Austin, TX + Current
+Bachelor of Science: Computer
+Science, Turing Scholars
+Cistercian Preparatory School
+Irving, TX + 2016
+
+High School Diploma
+Valedictorian
+
+PROFESSIONAL SUMMARY
+
+Knowledgeable student with work experience in data collection, analysis and management. Works well
+under pressure and consistently meets deadiines and targets while delivering high quality work.
+
+WORK HISTORY
+
+Amita Health - Data Science Intern
+West Lake Hills, TX + 05/2015 - 07/2015
+
++ Created scripts in javascript and python to facilitate data collection from professional matches of
+video games, including designing and developing schema data models.
+
++ Sorted and analyzed large datasets.
+
++ Created data visualizations using python, d3.js (in conjunction with HTML and CSS), and Adobe
+Photoshop and illustrator.
+
+Cleveland Clinic - Lifeguard
+Rootstown, OH + 04/2014 - 08/2014
+
++ Monitored swimming area for any sign of a dangerous situation or a distressed swimmer, providing
+life saving care and rescue when necessary.
+
++ Communicated with differing age groups to ensure facility regulations were being followed at all
+times.
+
+State Of Oklahoma - Counselor
+OK, State + 05/2016 - 07/2016
+
++ Supervised large groups of children and provided first aid when necessary.
++ Coached basketball skills in a clear, safe manner.

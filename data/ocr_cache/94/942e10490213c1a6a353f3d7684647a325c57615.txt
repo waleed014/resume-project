@@ -1,0 +1,53 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+As aDevOps Engineer, I intend to narrow my interest and deepen my knowledge in Enterprise Operations. I seek to learn and gain a global
+exposure, knowledge of research methodologies, and the latest industry developments in the field. Industry Experience in Configuration
+‘Management Build and Release Infrastructure Automation and System Administration. Master's degree in Electrical Engineering specialised
+in Systems Engineering
+
+Sens
+* Linux * Tomcat, Nginx
+« AWS «© GIT
+« Shell Scripting * Maven
+‘* Ansible, Puppet, Chef * Jenkins, Bamboo
+* Docker * Internet ProtocolSuite
++ Kubemetes © Python
+Worx History
+
+04/2016 to 2017 DevOps Engineer
+Cgi Group Inc. — Houston, TX
+‘* Responsible for Maintaining and reducing the downtime of the local environments.
+‘* Responsible for creating a new environments with the desired services,
+‘* Developed automated processes that run daily to check disk usage and perform cleanup of file systems using shell
+scripting and Cronjobs.
+‘* Monitoring system performance,Backing up and restoring files , Troubleshooting Linux network and security
+related issues
+* Developed and Maintained multiple Shell scripts to Automate the Daily Jobs
+‘© Written Shell scripts and Ansible playbook to manage the alerts of the running services.
++ Assisted in creating the environment for Docker Migration
+‘© Designed and developed automated deployment and scaling processes based on Docker and Ansible for all the
+Services.
+‘* Deployed the Docker containers to vagrant boxes using Ansible.
+‘* Dockerized all the service and applications.
+Implemented testing environment for Kubernetes and administrated the Kubernetes Clusters,
+Deployed and Orchestrated the applications with Kubemetes.
+Installed and Configured NGINX for the running Services
+Involved in setting up Jenkins for continuous integration and continuous builds by polling the repositories.
+Configured the Jenkins jobs and supported teams on build and release related issues.
+Used Bamboo to automate every day builds, testing and deployments.
+‘* Documented the process and steps required to spin a whole new environment for testing purpose.
+‘* Provided on-call support to the offshore teams.
+
+Epucation
+
+2015, Master of Science: Electrical Engineering
+Texas A&M University Kingsville
+
+(CERTIFICATIONS
+
+AWS Certified Solutions Architect - Associate Level ( AWS-ASA-35787)

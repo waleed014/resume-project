@@ -1,0 +1,155 @@
+EXPERIENCE
+
+EDUCATION
+
+SUMMARY
+
+HIGHLIGHTS:
+
+SKILLS.
+
+Jessica Claire
+
+@ San Francisco, CA94105  & (555) 432-1000 4 resumesample@example.com
+
+SENIOR DATABASE ADMINISTRATOR, CBS TEAM LEAD 10/2013 to 03/2018
+Northstar Financial Services Group Lic | Tajikistan
+
+‘© Administration of 100+ servers running on SUSE/Red Ha/AK/Windows with Oracle Database/RAC/
+DataGuard/GoldenGate/”ASM, MSSQL, MySQL, VCS 5.1/6.0, Huawei SMDB.
+
+‘© Supported my manager's idea to discontinue vendor's technical support and took all responsibility for
+the correct operation of CBS/CRM platforms,
+
+‘© This led to a saving of more than 250K USD per year.
+
+‘+ Decreased a response time of Payment Systems SQL queny/transactions from 60+ seconds to less than
+1 second.
+
+‘+ Migrated 1.3+ million customer's data to a new SCP platform with Oracle/SMDB Databases,
+
+‘© Optimized applications and servers of CBP/CRM systems
+
+‘Increased the server's capacity by 5-7%,
+
+‘+ Decreased the CPU overload from 95% to 65%.
+
+‘+ Installed and configured Oracle GoldenGate to replicate transactions from some of production DB
+tables to MSSQL 2008/2012, and to the Developers platforms with MySQL.
+
+‘+ Restored some partially destroyed data in ARC platform's Oracle Database.
+
+‘+ Designed and implemented HAVDR by using DataGuard Standby DBs/RAC+ASM.
+
+‘+ Optimized Oracle DBs, SQL Queries and instance Performances.
+
+‘+ Restored fully destroyed development CBP platform processes and DBs.
+
+‘+ Restored production CBP server after a crash of VCS and some SMDB/CBP processes,
+
++ Generated ADDM/AWR reports to show difference before/after performance tuning and implemented
+solutions on the Databases.
+
+‘+ Performed ongoing capacity planning and expansion to meet requirements of Databases growth,
+
+‘© Created and managed CBS team within the Automation Department.
+
+‘+ Developed solution to charge 3 milion subscribers, it was 30 times more than was recommended by the
+system vendor.
+
+‘+ Solution saved 100K USD for the company and eliminated the risk of the government fines,
+
+‘© Collaborated with Huawei Engineers to add additional CBP/CRM servers with Oracle Database/RAC/
+ASM, SUSE/AIX and SMDB,
+
+D/CABASE ADMINISTRATOR 11/2010 to 10/2013
+Kord Technologies | Tajikistan
+
+‘+ Administration of 75+ servers running on SUSE/Red HatWindows with Oracle Database/RAC/
+DataGuard, Huawei SMDB, VCS 5.1/6.0.
+
+‘© Created triggers, stored procedures, materialized views, tables, indexes, users, roles, partitioned tables,
+views etc.
+
+‘+ Troubleshoot customers issues related to the Databases and/or OS.
+
+‘+ Developed workflow and scripts for subscriber notification functionality that would send "Plan Fee Due
+Date" notification to all subscribers few days in advance.
+
+‘+ The functionality drastically decreased the number of calls to Call-Center.
+
++ Collaborated with Huawel engineers from the beginning of a Billing migration project.
+
+‘+ Prepared technical specification documents describing all existing services and business processes.
+
++ Participated in Functional Request Specification preparation for the new billing system.
+
+‘+ Automated and implemented Backup and Recovery procedures.
+
+‘+ Participated in preparation and migration of all Customer's (2.+ million) data and Price Plans (45+)
+from MSSQL to Huawei Billing System with Oracle Database.
+
+‘+ Developed SQL scripts for fixing Customer's issues in CBS/CRM applications with Oracle Database and
+‘MDB
+
+‘+ Provided technical requirements for improvement of Online Roaming charging.
+
+‘+ Launched improved online roaming with more than 230 mobile operators in the world
+
+‘+The improvement saved for the company more than 125K USO.
+
+‘© Collaborated with the development team and performed application performance tuning,
+
+‘+ Identified 200+ issues and bugs before and after the commercial billing launch,
+
+‘SYOTEMS ENGINEER (06/2008 to 02/2006
+Babilon-T| Tajikistan
+
+‘© Configured and troubleshoot customer's ADSL modems, switches, Wi-Fi, LAN and WLAN,
+‘+ Troubleshoot hardware, software, and network issues.
+
++ Performed routine system upgrades, patch and driver installations.
+
+‘+ Added and changed hardware resources on servers with Windows and Linux
+
+‘+ Monitored resource utilization and system performance on servers with Windows and Linux.
+‘+ Provided 24x7 technical support by participating in an on-call schedule.
+
++ Processed customer requests submitted to the Technical Support Center.
+
+‘+ Prevent servers with Windows and Linux OS from virus infection,
+
+Bachelors of Computer Science (BS) JUNE 2009
+Technological University of Tajikistan
+
+Oracle Certified Associate (OCA) & Huawei Certified Professional with 12+ years of experience in
+‘Telecommunications. Hands-on experience in administering 100+ servers with Oracle Database and Linux!
+UNIX. Excellent troubleshooting and analytical skills. Good team player and can work with minimum
+supervision. Authorized to work for any employer in the US.
+
+| RMAN | RAC | ASM | OLTP | OLAP | DataGuard | OEM
+(Oracle Enterprise Manager) | GoldenGate | EXP/IMP |
+DataPump | SQL*Loader | AWR | ADDM | Data
+‘Warehouse | Flashback | SQL Query Optimization |
+‘Tablespace Management | Database Schema (Logical)
+and Physical Design | Database Performance Tuning |
+Oracle 11gR1 | Oracle 11gR2 | Oracle 12c | PUSQL |
+Oracle Manual Backup/Recovery | Oracle DBA |
+SQL’Plus | SL Developer | PLISQL Developer |
+TKPROF | MySQL | SMDB | MSSQL 2008 | MSSQL
+2012 | SUSE Linux 10/11/12 | Red Hat Linux | Oracle
+Linux | AIX | Windows 7/10 | Shell scripting | Python |
+PHP | JS | HTML | AWS | TCP/IP | FTP | LAN | DHCP |
+DNS | VCS (Veritas Cluster Server) | ViVM (Veritas.
+Volume Manager) | Linux LVM (Logical Volume
+Manager) | CBS (Convergent Billing Solution) | CRM |
+SDLC (Software Development Life Cycle) | JIRA | HP
+Qc | Scrum |
+
+ADSL, AIX, ASM, Automation, Backup, Biling, Biling System, business processes, c, Call-Center, capacity
+planning, hardware, CPU, CRM, Data Warehouse, Databases, Database, DHCP, DNS, FTP, Functional
+government, HP, HTML, PHP, LAN, Linux, Linux OS, Windows 7, Windows, migration, modems, MySQL,
+network, OLAP, OS, Optimization, Oracle Enterprise Manager, Oracle, Oracle DBA, DB, Oracle Database,
+Developer, PLISGL, processes, Python, Red Hat Linux, Red Hat, Scrum, SDLC, servers, scripts, Shell
+scripting, Software Development, Specification, MSSQL, SQL, SQL"Loader, switches, tables, TCP/IP, technical
+support, Troubleshoot, upgrades, Veritas Cluster Server, Veritas Volume Manager, workflow

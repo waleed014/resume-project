@@ -1,0 +1,108 @@
+Summary
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Strategic data science and analytics professional versed in distilling and analyzing large data sets. Develops and delivers presentations
+detailing data findings. Articulate and collaborative with expertise in algorithm design and data collection
+
+Sms
+Programming: SQL and Python Big Data: Hadoop, Spark, Hive, SQL data bases (MySQL)
+Python Libraries: Scikit-leam, pandas, numpy, geopandas, flask Cloud: AWS (EC2, $3, RDS, Athena, Lambda, Sagemaker)
+Machine Learning: Supervised and Unsupervised, Regression, isualization: Tableau, Power BI, Python (Seaborn, Plotly,
+Classification, Clustering, Parameter Tuning, Feature Engineering, — Matplotlib), Folium
+Scikit-leam, Ensemble Methods, XGBoost, Decision Trees, Data Processing: ETL, Web scraping (BeautifulSoup, Selenium)
+
+Segmentation, NLP, NLTK, data scraping
+Methodology: Agile
+
+EXPERIENCE
+
+05/2022 to Current
+
+05/2019 to 01/2022
+
+09/2018 to 05/2019
+
+Data Science Consultant
+Accenture Contractor Jobs — Los Angeles, CA
+© Created a recommendation engine for an educational Startup with job descriptions from Indeed, Glassdoor and
+Linkedin using content-based filtering methods, reaching more than 200 users when writing their resume
+6 Using python libraries pre-processed and cleaned more than 1 million records of sentences to build a MongoDB
+database: resulting in 30% reduction in preprocessing
+o Applied DistillBert to generate contextual word embeddings for job description and the sentences, which lead to 60%
+improvement in speed when compared against BERT, while retaining 97% of the semantic capacities of BERT
+0 Successfully filtered correct sentences for each missing skill in a resume with cosine similarity score range of 0.87 to
+0.98
+© Converted sentences into their past tense using pyinflect NLP library in Spacy and achieved 80% grammatical
+accuracy using gingerit
+© Collaborated with team members within an agile framework for increased efficiency
+
+Twitter Image Extraction
+© Designed an algorithm for a digital marketing company that leverages the power of Tweets to achieve marketing, and
+branding goals for their clients; increased ROI by 45%
+© Built and automated a pipeline using twitter API tweepy to extract tweets, location, images, and videos from twitter
+based on a particular hashtag; a 50% sise in tweepy performance by error identification, debugging and filtering
+o Launched an AWS RDS database for storing the scraped twitter information in form a table using PostgreSQL.
+© Deployed the algorithm on the AWS server using $3 bucket triggered lambda function which would run the python
+script to collect information on a requested hashtag
+
+Analytical Chemist
+Curaleaf — Ocala, FL
+* Created analytic reports leveraging advanced statistical methods, organized and managed other analytic work in the
+department (managed data, data ingestion and analysis, delivery of results to senior managers and supervisors,
+‘managed junior team members)
+‘Instructed Undergrad Lab Technicians on laboratory instrumentation operation and chemical preparation
+‘* Designed and presented safety training programs to researchers, students, visiting scholars, and technical staff
+‘* Demonstrated how to prepare solutions, calibrate instruments, resolve issues, and maintain chemical inventories
+‘* Inspected and confirmed equipment in the undergrad teaching chemical engineering lab was properly calibrated
+
+Geochemistry Data Analyst
+Activation Laboraties — City, STATE
+‘* Built compelling data stories and visualizations to influence decision makers.
+‘+ Applied data reduction and exploratory analysis techniques to manage large amounts of data,
+‘Interpreted and analyzed data using exploratory mathematic and statistical techniques based on scientific methods.
+‘+ Produced in-depth analyses and proposed solutions to meet complex business needs.
+‘+ Applied mathematical techniques to solve complex problems and develop quantitative based assessments.
+Partnered with functional teams to evaluate new data sources and advise on data format and data dictionary.
+Identified data anomalies and worked with business units to perform root cause analysis and resolve issues.
+
+Collaborated with other scientists, ML engineers and program managers to execute data science roadmap.
+
+Created quarterly plans centered on meeting short- and long-term objectives by maximizing impact and
+coordinating tests in collaboration with stakeholders.
+Cleaned and manipulated raw data.
+‘© Used statistical software to analyze and process large data sets.
+‘© Developed new functions and applications to conduct analyses.
+* Created graphs and charts detailing data analysis results
+Conducted trace elemental analysis using inductively coupled plasma mass spectrometry for environmental samples
+Performed acid digestion using HF for soil, sediments, and sludges for complete dissolution of the analytes into
+solution and ensured perfect accuracy and execution as mistakes could cause serious harm
+Performed lab procedures such as automated titration to examine iron oxide content in rock and soil samples
+
+Leveraged visual basis macros to calculate the trace metals concentration by considering external calibration
+standards, internal standard and matrix interference
+
+Interpreted environmental data including control charts and range ratios according to company’s standard operating
+procedures and quality control guidelines
+
+Evaluated non-conformance reports by identifying root cause and applying corrective actions
+
+Epucation Np TRAINING
+
+04/2022
+
+11/2017
+
+08/2016
+
+Associate of Applied Science: Data Science
+Toronto Institute of Data Science - Toronto
+
+Master of Science: Chemical Engineering
+University of Toronto - Toronto, ON
+
+Bachelor of Science: Environmental Chemistry
+University of Toronto - Toronto, ON

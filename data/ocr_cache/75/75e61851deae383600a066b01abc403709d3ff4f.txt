@@ -1,0 +1,188 @@
+Jessica CLAIRE
+Montgomery Suet San Francie, CA XXX05
+(655)452-1000-resunesanple@exanpl com
+
+Canezn Ovenvies
+
+‘Highly mosivated Sales Associate with extensive customer sence and sales experience. Outgoing sales profesional wth wack eced of
+ng increased sale, mproving buying experienc and elevating company profile with gt market,
+
+Quaturtcanions,
+
++ Tecnica Sil: Microsoft SQL Server 7, 2000, 2005 and 2008,
+aon
+
++ Oracle, 8, Sand
+
++ MSDE
+
++ Gopia SQLBase 75 ea ~ SQL Diagnostic Manager
+
+1+ SQL Litespeed
+
++ Oracle Enterprise Manager
+
++ TOAD Windows N72000/2003/20082012 Sever (32-664)
+
+«+ Windows 8.17/VistaXP 20009895. Microvat Office
+
+«+ Microtof Visal Studio
+
++ Rational Rove
+
++ Erwin
+
++ Visio
+
++ SouceSafe
+
+1 MKS Source Integrity
+
++ StrTeam
+
++ vate
+
++ Lowe Note
+
+wis
+
++ SharePoint Services
+
++ Business Object PowerShell,
+
+sc
+
++ NET
+
+sc
+
+or
+
++ Visa Basic
+
++ Pe
+
+1 BaaSeript,
+
++ MB Sept
+
++ DOS Batch Scripting
+
+1 Trasact SQL
+
++ PLISQL Net
+
++ MIscome
+
++ Chen Server
+
++ NTier
+
+HTML
+
+xu
+
+son
+
+Trewacat Sens
+
+Acconprisineesrs
+
+‘Uilzed prcetzaton and scheduling silo reduce the average numberof eustandng change requests by 20 percent, while serving the
+‘Change Request Manager ofthe architecture group
+
+Worx Exrmurscr,
+
+(01/2005 012015 TT Director /Database Administrator
+Bae Systems Arma, MO
+‘Responsible for implementing and maintning mule SQL Server database servers wed to support the ania
+peations forthe Glotal Sane operations ofa sntiaational busines, Theve environments wie combination of
+lserig. eplcaton: log shipping and datakase msorng to provie he eqied hgh avaabiity an dara prteton
+Crested a database server tandud/ specification tat provides fora robust and redundant ata envircament. This
+allowed forthe consolidation of mukiple smaller tbat servers reducing operating cost and increasing reliably,
+Prosided database and aplication development supe tthe iteral application development team including design
+review, database perfomance review release and configuration management Responsible fr te implementation of
+secu intiatives a prescribed by or slot data secuity group. This as iochded various Stat lw, PCL
+‘compliance and oversea equemens. Create and implemented a datbase server, network inastctre and
+applizaion admins change lg process cde to comply ith eternal and extemal aur geal computer
+eotrol,Resonuible fr the oterll IT operations of mulple business operations in Noth America. Thee aces
+ince TF departmental budgeting, eles operations, pove system Suppo, serve feom management and hardase
+software purchasing. Managed an 8500-seat Microsoft Enterprise agreement that ince providing cunt cesing
+infomation tal Global business unis that allows fr cost fective ad proper lensing.
+
+01/2004 10 012005, Senior Systems Engineer
+Best Buy ~ Round Rock, TX
+Application! Architecture Development Responsible Accomplishments Proj tam leader responsible forthe
+tecnial project defition ad planing ofan te enterprise oply chain management portal website wing
+‘Microsoft NET technologies (C#, IS, ASPNet, SQL Serve) Mile tier develope for an mtr eterprise soppy
+‘chain mangement portal website responsible for business bjt, data access, and database design and coding (C# I,
+‘Net Removing nd SQL. Serves) Re-enginered the build proces wsed by the NET development eam wing NAnt nd
+CuseCoatel. NET famewod to cea 3 continous build proces reducing quality asuance and pedoction bud
+related errors and increasing uptime. Team member responsible forthe implementation of Star Team version contol
+system spar ofan over software development if cycle methodology implemeataton ving StarTeam, Mercury
+Test Disector nd CalberRM. Database Adainisration Development Responsibilities Accomplishmeats Responsible
+for DaubaseAdninsuatin of day-to-day operations for yrodvction, quality asurance and development databases
+locate inthe main data cater and in remot prodcton locations, This incades the primary databare serve sing 2
+SQL Sever 64-bit 2-node hse sytem and 8 remote SQL Server database servers. Duties inl backup estore, wer
+secu, transactional replication, space management, monitoring 2nd tuning. Responsible for developing processes and
+rocedes relating tal areas of daabas administration iecding day-to-day operational task, server aout, back!
+‘estore, seeiy, database creation and datatase maintenance, Developed, plemented and citer SQL coding
+standard used by the NET development team to ensure code consistency and reduce SQL perfomance isses.
+
+01/1998 1011 Product Developer
+Verte, ne ~ Ci, STATE
+Sarzota, Florida (Formerly Arthur Anderson LLP - Tax Technology Estep, arson Fld) Experienced
+Application Deselopneat Manager, 2002-2004 Application Development Manager, 200-2002 Respoaible for
+<eveloping standards, procedures, processes, and tools to simplify thedefiton, constuction conversion and suport
+‘of products rquiag elational atahases, Database Adminstration Developent ead th need fo and
+cstblshed a dtabare standards commite consisting of members from al fnctionl areas (eg. development testing.
+<eployment, etc) 0 ensure that standards and procedures were adhered to thoughout the organization. [enified the
+ed fer a cormon installation ofthe desktop database engine used by the organizations various product rps.
+Cathredrequzement fom eachof thse groups and exablshed a single common standad insallatin. Developed and
+implemented standards ad procedures, bse onthe SQL-92 standard, to ensue tat one code kav would uppet
+smile DBMS platoons. Developed nd implemented a single template based automated proces to build and convert
+Oracle, Microsoft SQL. Serve, nd Gupta SQLBase databace, Developed and implemented 3 standard methodology for
+‘converting SQL Server stored procedures to Oracle PLSQL stored procedues. Reduced processing tie 50% fran
+tie online application, by analyzing and implementing SQL tuning enkancements. Application Architecture
+Development Defined the standards and pocese tlize to transform the organization fom a cent server tanner
+evelopment organization, as member ofthe Software Engineering Management Team. Uilized priotization and
+scheduling skills to redoethe average number of oustanding change requests by 20 pecet, wile srving 25 the
+(Chang Request Manager ofthe rchtecture group. Developed ad inplementedeaancements fr acer server
+aplication wich provided fo thtr data security in an oline environment. Lethe scitectie group o the sign
+of the architecture and application dvelopnent build proces sed asa model fr ll ew development projects.
+Developed and implemented changes ta ctiat-server application prod to support the Oracle DBMS patfon in
+‘cierto secur the organization's Iagest cet.
+
+01/1987 10011995. Senior Constant
+KPMG LLP - City, STATE
+‘Responsible for developing implementing, supporting, nd marketing software products forthe im’ healthcare
+indy practi
+
+Epvcanion ax TRAINING
+
+‘Master of Accountancy Accountaney
+‘Unlversityof West Florida - Pensacola Florida
+University of West Flori, Pensacola, Farida Master of Accountancy
+
+‘Bachelor of Ars: Accounting Information ystems
+Bachelor of Art, Accounting Infomation Systems
+
+Cexmmicatons
+
+CeifiodPobic Accountant CPA Oracles Cerf Profesional Database Administrator Microsoft Cerf Solusion Developer Ctifed
+System Professional CSP Oracle Mast for Database Administration, Oracle?
+
+s
+
+Applicaton Development, Dtabase, Ms Sal Server, Seer, Se, Sl Server, Operations, Replication, Blgeting, Business Operations,
+‘Buying pocuemet, Change Manageme, Clsterng, Configuration Mazagemeat, Data Protection, Database Administ, Design|
+‘Review, Financial Operations, Helpdesk, Payment Cad Industry, Pi Peformance Review, Phone System, Purchasing Shipping. And
+‘Maskeing, Maketing, Artec, Database Adainistatio, Daabases, Nir, Bzb Softnae, Client sere, Database Engine, Database
+‘Management System, Doms, Deployment, Engineering Management, Gupta, Microsoft Sal Server, Oral, Pl Scheduling, Software
+“Engineering, toed Procedures, Testing, Access, Asp, Aspat, C#, Caliber, Coding, Data Center, Database Design, Eine, is,
+Internet Information Services, Life Cycle, Maintenance, Metcury, Micosof. et. Ms. net. Ms Asp, Quality Assurance, Software
+Development, Software Development Life Cycle, Str Team, Ststean, Suuctued Software, Supply Chua, Soply Cais Management,
+systems Engineer, Version Contel, Accountant, C+, Cried Public Accountant, Const, Cpa, Do, Ewa, Hi, avacrp, Lows Notes,
+‘Management Consulting, Microsof Office, Microsoft Sharepoint, Microsoft Visual Stoo, Ms Offic, Me, Oracle 7, Ped, Pres, Rational,
+Rational Roe, Scripting, Sharepoint, Sourcesfe, Ul, Visio, Vial Basic, Vinal Stato, Vira, Windows, Xml, Accounting,
+Accounting Infrmation Stems

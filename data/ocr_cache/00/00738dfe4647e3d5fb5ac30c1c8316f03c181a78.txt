@@ -1,0 +1,93 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+‘PROFESSIONAL SUMMARY
+
+‘DevOps Engineer with 3 years of experience obtained multiple certifications. Expert in designing and building effective Continuous Integration
+and Delivery (CUCD) pipelines using containerization, orchestration, monitoring, infrastructure automation tools, configuration management
+tools, and AWS solutions. Passionate about automation of IT processes. Capable of using Jira as a project management tool and Agile
+methodology as a project management method. Successful in teamwork studies and have strong empathy where difflessicat aspects including
+body language and leadership skills ae used. Experienced in multicultural environments and armed with notable communication, time
+‘management, and problem-solving aptitudes.
+
+Work History
+
+DevOps Engineer, 06/2021 - Current
+Bighear.Ai - Laurel, MD
++ Deployed multiple tools (Jenkins, Grafana, Nexus, Prometheus, Ingress Controller) on EKS using Terraform and Helm Charts
++ Built and deployed Docker containers to break up monolithic apps into microservices, improving developer workflow, and optimizing
+speed.
+‘+ Set up event monitoring and alerting in Prometheus and create monitoring dashboards using Grafana for Kubemetes
++ Designed, built, and maintained AWS infrastructure with Terraform and Jenkins for diftTessicat stages such as Dev, QA, and Prod
+environments.
+‘+ Used Jenkins pipelines to drive all microservices builds out to Docker registry and then deployed to Kubernetes, created Pods on EKS.
++ Built CUICD pipelines while incorporating automated testing and vulnerability scanning,
+‘* Created Ansible playbooks to automatically install packages from repository, to change configuration of remotely configured machines,
+* Used Terraform to build and manage AWS infrastructure and services including VPCs, Subnets, Internet Gateways, NAT, Route Tables,
+ASG, ELB, EC2, RDS, ECS, and $3 buckets.
+‘+ Deployed applications using automation and orchestration throughout the entire software development lifecycle.
++ Deployed production-ready, load-balanced, highly available, and fault-tolerant three-tier applications with Terraform while utilizing AWS
+Fargate.
+
+Cloud Engineer, 07/2020 - 06/2021
+Pearson ~ Champaign, IL
++ Utilized code and modem cloud-native deployment techniques to design, plan and integrate cloud computing,
+‘+ Supported technical solutions to fulfill business needs, resolved issues, and enhanced the company's efforts to define, analyze, and
+documenting requirements
++ Provisioned AWS services using AWS CLU/API, defining VPCs, Security Groups, LBs, Auto-Scaling,$3,DynamoDB,EC2,RDS ECS, IAM
+Policies/Groups, and Routes3.
+«Identified, analyzed, and resolved infrastructure vulnerabilities and application deployment issues
+‘+ Used a wide variety of technologies, including open source technologies, cloud services (AWS, Azure), CCD, Terraform, Git, Ansible,
+Jenkins, Packer, Docker, and Kubemnetes
+‘+ Used metrics to monitor application and infrastructure performance using Prometheus and Grafana
+
+Intern, 11/2019 - 07/2020
+Arizona State University — Tempe, AZ
++ Sorted and organized files, spreadsheets and reports.
+‘+ Analyzed problems, identified solutions and made decisions.
+‘+ Worked directly with the development team to implement and improve Cloud applications.
+‘+ Implemented the applications and components through cloud application development
++ Documented designs, built, automated test and deployed cloud applications
++ Attended project team meetings with cloud application team as appropriate.
+‘+ Participated in data collection, analysis, and recommendations.
+
+TT Support Specialist, 02/2018 - 08/2018
+
+‘Aza Seattle, WA
++ Created help desk tickets, troubleshot and resolved desktop issues.
+++ Prepared new computers and mobile devices according to internal policies on standardized software and security deployments.
++ Performed scheduled service work, installations, testing and repairs.
+
+‘+ Maintained on-prem servers for e-commerce website
++ Executed troubleshooting and server support in both in-person and remote situations.
++ Provided secondary training to personnel struggling with technological tools and systems.
+
+CERTIFICATIONS
+
+= CKAD:
+
+‘ertified Kubernetes Application Developer The Linux Foundation
+‘© CKA: Certified Kubernetes Administrator The Linux Foundation
+
+‘* HashiCorp Certified: Terraform Associate HashiCorp
+
+‘+ AWS Certified Solutions Architect Associate Amazon Web Services (AWS)
+‘+ AWS Certified Cloud Practitioner Amazon Web Services (AWS)
+
+SKILLS
+‘© DevOps Systems ‘© Jenkins / GitLab
++ Kubemetes ‘Nexus / Maven
+© Docker Products Prometheus / Grafana
+ Terraform * Git/Gitkiub
+‘+ Amazon Web Services (AWS) Python / Linux / Bash
+© Helm / Ansible * SQL / HTML / Css
+EDUCATION
+Bachelor of Arts: Economics, 06/2020
+University of Illinois At Chicago - Chicago, IL
+Associate of Science: Finance, 06/2020
+University of Illinois At Chicago - Chicago, IL
+LANGUAGES
+
+English:
+Negotiated:

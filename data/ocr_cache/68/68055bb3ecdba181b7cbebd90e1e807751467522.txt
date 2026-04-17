@@ -1,0 +1,115 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 (555) 432-1000 ¢ resumesampleGexample.com
+
+Professional Summary
+
+Bilingual DevOps Engineer with background designing, testing and implementing infrastructure and applications. Talented
+performer with over 5+ years of experience using source control tools to identify and fix bugs in code. Consistent team player with
+exemplary multitasking skills.
+
+Skills
++ Agile © Scripting skills
+* Database programming « Network infrastructure administration
+* Virtualization technologies « Infrastructure planning
++ Build releases + DNS implementation
+
+= Network security
+
+Work History
+
+DevOps Engineer, 04/2020 to Current
+Saic— Remote Work, FL
+‘+ Leads the creation of DevOps standards, patterns, and optimizations to enable teams to deliver high performance.
+‘+ Use best practices and tools to help automate the infrastructure, configuration, and deployment of systems in both public/private
+cloud like AWS, GCP (Google Cloud).
+* Collaborate with the DevOps teams to establish and collect KPI’s and help drive decisions using analytics.
+* Create and maintain users’ access policies using AWS IAM, LDAP, Active Directory, OKTA.
+‘+ Wrote code and supported architecture in high-throughput systems on the AWS cloud.
+«+ Interfaced with a cross-functional team of business analysts, developers and technical support professionals to determine a
+comprehensive list of requirement specifications for new applications.
+‘+ Monitored automated build and continuous software integration process to drive build/release failure resolution.
+* Designed and built ansible, terraform automation tools, and applications to deploy next-generation platform,
++ Worked closely with other business analysts, development teams and infrastructure specialists to deliver high availability
+
+solutions for mission-critical applications.
+
+Network Analyst / Architect , 03/2019 to 04/2020
+Staxa Technologies LLC, Atlanta, GA - City, STATE
+
++ Kept up-to-date on new developments in computer and network vulnerabilities, data hiding, and encryption.
+
+« Visually inspected temperature sensors to maintain the health of servers and network devices.
+
++ Benchmark, analyze, report on, and make recommendations for the improvement and growth of the IT infrastructure and IT
+systems.
+
+‘+ Worked on AWS service like EC2, Reserved Instance, Spot instance, ELB, Cloud Watch, RDS(Oracle, MySQL, PostgresSQU),
+Elastic cache (Redis), Route53, Network (VPC, Route table, Subnets, VPC peering, VPN, NAT gateway)
+
+* Configured, installed, and tuned reservation platform-based systems for performance in Oracle databases.
+
+* Responsible for developing and maintaining data management and analytical information technologies such as data warehouse,
+data lake, Big Data, data warehouse appliances, and data virtualization.
+
++ AWS cloud network service like managing VPC, subnets, Route tables, Route53, DNS management, SSL certificates
+management, Analyze the network issues across the VM's on EC2, creating and analyzing the Security group for the
+applications, Relation Databases creation and maintenance.
+
+‘+ Administration of various tools and DB's like Tableau, Oracle, MySQL, SQL, PostgreSQL, Dremio, Drools.
+
+‘+ Evolution and support of the Kafka integrations including topics, producers, consumers, and streaming applications.
+
++ Implemented monitoring and alert solution for modem applications and Infrastructure to overcome on the highly distributed,
+dynamic, and noisy environments using ELK (Elastic Search, Logstash, Kibana), Instana APM, Dynatrace, PagerDuty.
+
++ Install, implement, configure, manage, and support Virtual Machines with VMware.
+
++ Participated in regular 24x7 on-call rotations and coordinated with the offshore team for night-time scheduled activities.
+
+* Scheduling snapshots of volumes for backup and find root cause analysis of failures and documenting bugs and fixes; schedulled
+downtimes and maintenance of cluster.
+
+DevOps Junior Network Engineer, 10/2017 to 03/2020
+Veridic Solutions LLC - City, STATE
+
++ Perform DevOps on AWS to ensure resiliency, availability, security, and HA/DR. Release Engineer for a team that involved
+different development teams and multiple simultaneous software releases.
+
++ Maintained and coordinated environment configuration, controls, code integrity, and code conflict resolution.
+
++ Installing, configuring, and administering the Jenkins CI tool in Production, Spinnaker CD tool configuring, and created
+deployment pipelines to deploy in the Kubemetes cluster.
+
+* Coordinate/assist developers with establishing and applying appropriate branching, labeling/naming conventions using
+Bitbucket source control.
+
+‘+ Used Jenkins for Continuous Integration and Spinnaker as Continuous Deployment. Supported and developed pipelines for
+Integration, Automated Testing, and Release Management.
+
+‘+ Administered Salesforce cloud deployment across the environments QA, training, UAT, Prod Core CRM, Community Pages,
+First mates.
+
+‘+ Written Ansible, terraform scripts to provision the Infrastructure in AWS service like Ec2, Created Custom AMI of ec? instances
+to provision new environment-based application.
+
+* Created Kubemetes cluster using the KOPS cluster using Ansible in production, stage, and QA,DEV environment.
+
+‘+ Used Nginx as a reverse proxy server and enabled the authentication for the application on the Nginx level for secutity.
+
+‘+ Worked on multi-cloud (AWS, Vultr, Linode, Google Cloud Platform, Digital Ocean) in both production and staging
+environment done production support for various services.
+
+« Establish a connection between on-premise and hosted multi-cloud (Linode, Vultr, GCP, Digital Ocean) environments using
+Direct Connect.
+
++ Developed Chef Cookbooks, Recipes, Resources, Data bags and Run lists, managing the Chef Client nodes, and upload the
+cookbooks to chef-server from Workstation using Knife and converge the changes by running on chef-client based on role.
+
++ Worked on PostgreSQL detected DB replication lag between the main database and replica read-only databases and encountered
+lag to retrieve data from the archive.
+
+Education
+
+‘Master of Science: Computer Science, 12/2015
+New York Institute of Technology - Old Westbury, NY

@@ -1,0 +1,159 @@
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor *2 (655) 432-1000 4 resumesample@example.com
+
+SUMMARY © aman experienced cloud/DevOps engineer bringing in over 6years of professional IT expertise in build and
+deployment automation using open source tools like Jenkins, GIT, Terraform, Ansible, Docker and kubemetes.
+Worked on Software Configuration Management and infrastructure provisioning. Extensive experience
+includes Build/test and deploy while also monitoring the logs and metrics of the infrastructures . | have
+extensive knowledge on AWS services like JAM , AWS cloudwatch, s3, RDS. Lambda, API gateways, Route 53,
+Elastic load balancers, VPC, AWS KMS, cloud formation, NAT, ECS,EKS, FARGATE
+
+‘+ Excellent communicative, interpersonal, intuitive, analytic and leadership skils with ability to work
+efficiently in both independent and team work environments,
+
+‘+ Experience on agile methodologies of software development life cycle and microservices
+
+‘+ Experience with Version Control Systems like GIT and SVN (Subversion).
+
+‘+ Maintained build scripts using Apache ANT, Maven and Gradie to perform builds etticiently
+
+‘+ Worked in implementing entire CUCD using java scripting to release jar.war,ear packages.
+
+‘+ Extensively worked on Configuration management tools like Ansible, AWS patch manager, AWS System
+manger.
+
+‘+ Worked in agile projects delivering end to end continuous integration/continuous delivery pipeline by
+Integration of tools like Jenkins, maven, sonarqube, nexus to efficiently build and release the application
+software.
+
+‘+ Experienced in defect tracking system lke JIRA,
+
+‘+ Capable of supporting and managing multiple projects simultaneously, comfortable troubleshooting and
+debugging and able to work under pressure.
+
+SKILLS © Scripting Puppet, Ansible
+Python, Java, Shel, Ruby Web servers
+Operating System ‘WebLogic, Tomcat, Apache
+LinwxUnix (Redhat (56,7), Ubuntu (14.104), Centos SCM Tools
+(66,7), Windows XP7, SVN, GIT, CVS
+Build Tools Repository Tools
+Maven, Gradle, Ant Nexus, Artifactory, Archiva
+C1 Tools Atlassian tools
+Jenkins, AHP, Bamboo sira, Confluence, Fisheye, crucible
+
+Configuration Management
+
+EXPERIENCE © DEVOPS ENGINEER 07/2018 to 0272019
+Dish Network Corporation | Las Vegas, NV
+
+‘+ Actively involved in AGILE/SCRUM Methodologies while executing the project.
+
+‘+ Extensively worked on version controls like Git and SVN.
+
+‘+ Used JAVA scripts for CCD pipeline builds, and actively involved in the entire Pipeline setups and
+Jenkins configurations,
+
+‘+ On boarded and supported several mobile iOS and android applications onto Jenkins CVCD pipeline
+
+‘+ Various Git Webhooks and SVN commithooks were configured for continuous integration operations.
+
+‘+ Expertise in Atlassian Confluence created and developed multiple pages, captured various information
+in an organized manner.
+
+‘+ Hands on experience in installing and administrating tools like Jenkins, Puppet and Artfactory
+
+‘+ Supported Production and Pre-production environments in resolving issues on demand,
+
+‘+ Provided support for Puppet upgrades and agent installations for several number of servers,
+
+‘+ Worked and supported on several Java applications migrations to Jenkins Pipeline.
+
+‘+ Involved in providing Demo to customers on product (CVCD pipeline) and its features.
+
+‘+ Supported monthly product feature releases and also involved in testing the feature and reported bugs
+before delivering to the costumers,
+
+‘+ Managed AWS EC2 instances along with EBS and $3 services.
+
+‘+ Maintain services hosted in AWS managing EC2 instances, Auto Scaling groups, EBS, ELB, $3, Route
+53, IAM account management and AWS code deploy.
+
+‘+ Supported product development team in bug fing and service pack releases,
+
+‘+ Developed and maintained Product release notes and feature enhancements on confluence
+
+‘+ Worked with Development, Quality Assurance and Management teams to ensure cross communication
+and confirmed approval of all production changes.
+
+‘+ Wrote various shell scripts to automate Build and Release process,
+
+DEVOPS BUILD &RELEASE ENGINEER 03/2016 to 12/2016
+Arrow Electronics Inc, | Whitewater, WI
+
+‘+ DevOps Engineer for a team that involved different development teams and multiple simultaneous
+software releases.
+
+‘+ Responsible for build, design and maintain the platform automation infrastructure using Terraform,
+cloud formation
+
+‘+ Defined and integrated roles, responsibilities and processes for business team and data management
+organization.
+
+‘+ Develop, manage, and enhance deployment infrastructure to ensure systems are scalable, resilient,
+and reliable
+
+‘+ implemented infrastructure monitoring by collecting, processing and analyzing the metrics of our
+application using tools such as cloudwatch, prometheus and Gratana, Datadog, New relic
+
+‘+ Ensured software release was confirmed from client servers before deploying to production servers
+
+‘+ Supported server/VM provisioning activities, middleware installation and deployment activities via
+Ansible
+
+‘+ leveraged container orchestration tools Docker and kubernetes to deploy our containerized
+Application to staging and production servers with the help of the helm chart using AWS EKS
+
+‘+ leveraged networking experience on Aws services, VPN, security, loadbalancing, and RDS
+
+‘+ Worked on simple storage services, simple notification service and cloud watch
+
+‘+ Creating $3 buckets and restricting access to buckets and directories to specific IAM users.
+
+‘+ Setting up Continuous delivery framework using Jenkins, Gradle, Maven.
+
+‘+ Worked on each phase of lifecycle of build system - from analysis, development, implementation and
+support of builds, unit testing and deployments,
+
+‘+ Worked with Logical Volume Manager for fle system management, data backup and recovery.
+
+‘+ Configured various Cron jobs and other scheduler jobs in servers.
+
+SYOTEMS ENGINEER 02/2014 to 01/2015
+Cleverbridge | City, STATE
+
+‘+ Updated and automated Release reports for Change Management.
+
+‘+ Analyzing and installing hardware and software needs.
+
+‘+ Worked on redhaticentos 5.x and 6 x and automated daily tasks using Cron scheduler.
+
+‘+ Wrote shell scripts for taking data backups, cleaning junk content and updating software regularly
+
+‘+ Worked in building project branches, merging them and releasing them using version control tools like
+Git and SVN.
+
+‘+ Deployed jar files using Ant and Maven scripts to the WebLogic servers.
+
+‘+ Wrote many pom.xm! files, published the artifactories using Maven-publish and released using Maven
+release plugin
+
+‘+ Worked with Logical Volume Manager for fle system management, data backup and recovery.
+
+‘+ Performed weekly and on-call deployments of application codes to production environments,
+
+‘+ Worked on each phase of lifecycle of build system - from analysis, development, implementation and
+Support of builds, unit testing and deployments,
+
+EDUCATION AND © Bachelor of Science | Computer And information Sciences ozzor4
+TRAINING | University of Bamenda, Bambili- Cameroon

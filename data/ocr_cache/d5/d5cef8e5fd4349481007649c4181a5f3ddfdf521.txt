@@ -1,0 +1,155 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
++ Source and Version Control:
+
++ Git, GitHub
+
++ Strong experience with Cl/CD
+pipetine tools such as Jenkins
+for Cl, and Maven for build and
+SonarQube for scanning of our
+artifacts
+
++ Strong experience with
+automation tools such as
+Ansible, Terraform, Puppet, and
+Datadog
+
++ Bash shell Script Maintenance
+and Updates
+
++ Cross-Functional Collaboration
+
++ Strong experience with cloud
+platforms such as AWS, Azure,
+and GCP
+
++ Strong experience with
+containerization and
+orchestration tools such Docker
+and Kubernetes,
+
++ Strong knowledge of Linux/Unix
+administration
+
++ Strong experience with
+monitoring and logging tools
+such as Prometheus and
+Elasticsearch
+
++ Strong understanding of agile
+methodologies
+
+EDUCATION AND
+TRAINING
+University of Dschang
+
+Bachelor of Science: Technology
+Organizations
+
+SUMMARY
+
+Highly experienced DevOps Engineer with 7 years of experience in implementing and maintaining high
+automation build and deployment pipelines. I have an amazing experience configuring AWS, Azure,
+GCP cloud- based infrastructure using Terraform as my infrastructure as code tool to automate the
+provisioning of reusable resources of my continuous build, continuous test and continuous testing
+environment. | have a proven track record to be able to launch Vis instances on AWS, Azure and GCP,
+install docker or use ECS to build customized images push to our docker hup, use the images to run
+containers to host our application. Capable of provisioning fully managed Elastic Kubernetes Services
+‘on AWS, Azure, GCP to automate our continuous deployments CI/CD processes. Proven track record of
+improving software development efficiency and scalability. Strong background in Linux/Unix
+administration, automation tools, and cloud technologies. Excellent problem-solving and
+‘communication skills, able to work collaboratively with cross-functional teams.
+
+EXPERIENCE
+
+Abbott Laboratories - DevOps Engineer
+Baton Rouge, LA + 03/2021 - Current
+
++ Implemented and maintained automation pipelines using Ansible, Terraform, EKS resulting in a 50%
+reduction in manual errors
+
++ Experienced in implementing and automating cloud infrastructure on GCP using Kubernetes for
+container orchestration, Docker for containerization, Terraform for infrastructure as code, and
+Jenkins for continuous delivery and automation
+
++ Led the migration of company’s infrastructure to AWS cloud environment eliminating on prem
+servers and up to about 30% cost reduction
+
++ Implemented and maintained C1/CD pipelines using Jenkins for Cl, and GitHub for src mgt,
+resulting in a 40% reduction in release times
+
++ Collaborated with Dev and Prod teams to implement containerization and orchestration services
+using Docker and Kubernetes
+
++ Implemented monitoring and logging solutions using Prometheus and Elasticsearch build on Apache
+
++ Leverage this for data liberal search, scalable, and highly available search infrastructure that can
+handle large volumes of data
+
++ Did planned and implemented SQL server’s component migration, scaled, secured and maintained
+the infrastructure
+
++ Implemented the rolling update, the blue-green and the canary deployment strategies that
+protected a down time of the existing application
+
++ Implemented a high security measures and credit card data protection using encryption software to
+encrypt sensitive data, as well as utilizing two-factor authentication to add an extra layer of
+security
+
+Abbott Laboratories - DevOps Engineer
+Bismarck, ND + 05/2017 - 03/2021
+
++ Led the migration of company’s infrastructure to AWS environment, resulting in a significant cost
+reduction
+
++ Designed a distrusted architecture for configuration across multiple nodes, which allowed for large
+volume data search, data encryption and data replication for best data disaster recovery strategies
+
++ Implemented and maintained automation pipelines using Ansible, resulting in a reduction in
+manual errors and time saving
+
++ Implemented and maintained C1/CD pipelines using Jenkins and GitHub
+
++ Collaborated with development teams to implement containerization and orchestration using
+Docker
+
++ Autornated application builds and deployment, driving efficiency of code development process
+
++ Implemented monitoring and logging solutions using Nagios and search Logs for monitory tools to
+track search performances, identity issues and troubleshooting issues that may arise and fixing
+them ina timely manner
+
++ Scheduled ongoing performance quality assurance checks for software applications and automated
+performance test scripts
+
++ Additionally, did implemented a RESful API, which makes it easy to integrate with other
+applications and services
+
+Charles Schwab Corporation - Agile Scrum Master:
+Greensboro, NC + 06/2013 - 04/2017
+
++ Facilitated daily Scrum meetings, Sprint Planning, Sprint Reviews, and Sprint Retrospectives
++ Coached development team members on Scrum values, principles, and practices
+
++ Worked with stakeholders to manage expectations and communicate progress
+
++ Removed impediments that were blocking the team’s progress
+
++ Continuously improved the Scrum process through retrospectives and experimentation
+
+ADDITIONAL INFORMATION
+
++ Member: , Cloud Native Compute Foundation Websites, Portfolios, Profiles, Others US Permanent
+Resident /Green Card Holder and Open to work for any Employer https: //github.com/Jessica-
+njuabeh /Portfolio- Certifications AWS Certified DevOps Engineer - Professional Azure Certified
+DevOps Engineer Professional Scrum Master Certification

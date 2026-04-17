@@ -1,0 +1,179 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
++ Databases : Orade, Teradata,
+Netezza, SQL Server &
+‘MongoDB
+
++ Big Data Ecosystem : Spark,
+Hive, Impala, HBASE,
+‘MapReduce, Flume, Sqoop,
+Oozie
+
++ Tools \Utilities : SnapLogic,
+Sqoop , Informatica
+powercenter, Informatica Data
+Services, Informatica Data
+Integration Hub, SSIS, Sql
+loader, Nzloader, Teradata BTEQ
+, Teradata Parallel Transport
+(eT)
+
++ Programming Languages :
+Scala, Python, C, C++, PL/SQL,
+SQL, Unix Shell
+
++ Scheduling : Oozie , Crontab,
+ESP , Dollar Universe & other
+Native Schedulers
+
++ Quality Assurance : HP Quality
+center , SQUIDS
+
++ Operating Systems : AIX, Red
+hat Enterprise Linux
+
++ Change Control : Tortoise SVN
+1[Page
+
+EDUCATION
+
+Visvesvaraya Technological
+University
+
+Belgaum, KA + 2009
+Bachelor of Engineering:
+‘Computer Science
+‘Computer Science Pa ge
+
+PROFESSIONAL SUMMARY
+
+Hadoop Developer and Technical Lead at Tata Consultancy Services with 6.9 Years of Experience in
+Design, Development, Implementation and support of Big Data and Business Intelligence solutions in
+Insurance and Healthcare domains. Specialize in Big Data Management and Consumer Data Analytics
+with strong work experience in Hadoop Eco-system Like Hive, Impala, Spark, Sqoop, HBase, Pig,
+Flume, MapReduce, Oozie etc Currently leading the development and Implementation of Humana’s
+Digital Data Analytics Environment on Hadoop cluster. Have successfully led the design & development
+of various Predictive Analytics data mart, Enterprise data warehouse, Data Integration and Server
+‘Migration projects. Extensive experience in building Data Warehouse and BI solutions using SSIS ,
+SnapLogic, Informatica Power Center, Informatica Data Ingetration Hub, MongoDb, Oracle, Netezza,
+Teradata ,SQL Server , Qlikview and Unix shell scripting. Experience in leading Agile/Scrum
+development team of 15-30 developers to develop Big Data and Bl Solutions.
+
+WORK HISTORY
+
+Wipro Ltd. - Hadoop Developer
+Woodland Hills, CA + 03/2014 - Present
+
++ Designed and developed Humana’s Big Data Analytics platform that supports next gen analytics of
+structured and unstructured data.
+
++ Reduced the Data Preparation, Data management effort and helped derive insights that increased
+Humana’s overall digital foot print.
+
++ Developed ETL and ELT components for processing high latency web activity logs (site viewing,
+member preferences, cart item purchases, abandonment, additions etc) , IVR activity logs , Mobile
+app and traditional call logs and multi-channel survey logs using Scoop, Snap logic , Spark.
+
++ Currently developing Flume and Kafka components to ingest real time low latency data from IVR
+and Web APIs Developing components to integrate high latency batch data with the real time data.
+
++ Design and develop Oozie workflows for executing Spark, Hive, Sqoop, shell and HBase actions.
+
++ Developed jobs to Sqoop data from Netezza, SqlServer, Teradata & Oracle databases to HDFS
+Implemented recursive execution\looping and conditional execution of actions in oozie Developed
+jobs to load Partitioned tables(static and dynamic ), External and Internal tables Developed data
+‘Aggregates, roll-ups and cubes to support dash boarding, reporting and ADHOCS analytics using
+hive.
+
++ Tuned Hive queries to enhance Performance Automated the end to end ETL & ELT process via
+Cozie and Crontab Developed multiple POCs of project's Major features & use cases on Hadoop to
+demonstrate functionality.
+
++ AS Team Lead, performed responsibilities of task allocation, technical support to resolve
+roadblocks and discuss plan of action with onshore and offshore team members.
+
++ Troubleshoot data issues, validated result sets, recommended and implemented process
+improvernents.
+
++ 2IPage.
+
+Guide One Insurance - Data Warehouse Specialist
+Phoenix, AZ + 02/2014 - 03/2016
+
++ Designed Humana’s Consumer 360 Hub that ingests, computes and publishes member demography,
+Interactions, Insights & Product portfolio information to various subscribers of data via a Pub-Sub
+model.
+
++ The data is made available for real time and Batch consumption.
+
++ Integrated data from over 15 applications\data sources ( salesforce.com ,IVR, IBM Coremetrics,
+KBM Amertink, SilverLink, Eliza etc) Developed Informatica mappings, SSIS packages, Nzloaders &
+SQL Loader scripts, SQL scripts and Shell Scripts to ingest data from Heterogeneous sources and
+load it to analytics datamart of oracle Developed Custom Publications using Informatica DIH to
+Publish C360 data for Campaign Management.
+
++ Developed Custom Subscriptions to load member product info and interactions to MongoDB using
+Snaplogic.
+
++ Developed Custom Subscriptions using Informatica DIH and Sqoop to load member interactions
+data to Hive Partitioned Tables.
+
++ Developed COT validation, error handling and notifications components and strategies.
+
++ Designed and developed Data Archival and purging strategies on DEV ,QA & PROD environments,
+Evaluated Current And Emerging Technologies to Consider Factors Such As Cost, Profitability,
+‘Compatibility Or Usability Optimized codes used in Informatica , Unix scripts, Sql Queries and
+worked on ETL Process Improvisation.
+
++ Designed and developed Scheduler programs on Dollar Universe , contab and other scheduling tools.
+
++ Project: Aviva North America CanadaUSA separation.
+
+ETL Designer
+Portland, OR + 06/2012 - 11/2012
+
++ The Aviva North America business segment was divided into USA & Canada.
+
++ This project was aimed at.
+
++ segregating shared IT infrastructure, services and data to create country specific environment &
+platforms Was Responsible for the separation of Aviva’s North America business segment Identified
+contingent resources and data to perform impact analysis Developed, Modified and implemented
+components for server and data migration.
+
++ Provided warranty support and performed Post production data verification 31Pa g e.
+
++ Project: Aviva North America Finance Transformation and Enterprise Data Warehousing.
+
+Data Warehouse Specialist
+City, STATE « 12/2009 - 01/2014
+
++ Worked with business users to finalize requirements and prepare mappings specs Was part of the
+architecture team that designed the overall ETL solution for ODS, EDW and PADM Developed &
+implemented ETL components to consolidate Financial and Non- Financial policy/poticy holder data
+coming from 25 Source systems onto an Integration layer (i.e ODS Operational datastore ) called
+IAS (Insurance and Annuity Schema ).
+
++ Developed ETL components (Informatica mappings, Web services , Teradata B-teq & M-Load
+scripts , SQL Loaders , Shell Scripts etc) to move data from Operational data store to EDW(built on
+Teradata) and General ledger (built on Oracle R12 e-Business suite) Developed & implemented ETL
+‘components to combine financial premium data, policy data and agent commission information in
+order to report agent profitability targeted sales and compare target sales vs actual sales Was
+Responsible for Data quality, Performed Final Checks on the Deliverables and Worked on code
+Deployment Activities Designed and developed processes to handle errors and reconcile data
+between various interacting systems.
+
++ Designed & developed the automated mail notification process and scheduling process for ODS and
+EDW.
+
++ Developed code that capture SCDs (slowly changing dimensions ) Migrated Financial reports from
+Oracle-R12 to EDW Created Unit test plan, test cases and conducted unit testing.

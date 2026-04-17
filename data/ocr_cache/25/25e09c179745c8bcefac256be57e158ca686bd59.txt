@@ -1,0 +1,174 @@
+PROFESSIONAL
+‘SUMMARY
+
+TECHNICAL SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© Montgomery Street, San Francisco, CA 94105. t& (855) 492-1000 4 resumesample@example.com
+
+‘+ Hardworking Sc Sofware Quality Assurance AnaWyst, offering 7 years’ experience and expertise
+necessary to take on dynamic and complex software systems, Strong background in both manual and
+automation testing Desire to bring abies to the new ole with room fr advancement
+
+‘+ Proven sks in completing black, white and grey box tess. Background wing and implementing test
+‘cases, developing testing plans and denttyng use cases. Fully versed incomplete SOLC.
+
+‘+ Quatty exper itn success reviewing features and assessing unctonalty to ident common and
+‘complex sofare problems. Special experience in Alleryx and Tableau sofware lustrated over © years
+‘of experience, Collaborates wth cross-functional team members fo enhance sofware package qualty
+
+‘+ Senior Sofware Quality Assurance Analyst and outstancing performer in Data Analysis and Valation
+within the organization. Proven success in leadership, operational excellence and organvzational
+‘development vtn keen understanding of elements of business. Recognized for inspiring team members
+toexcel and encouraging creative work environments
+
++ ETL Tools: Informatica Power Center ‘+ RDBMS: Oracle 116/106, 16M DBZ, MS SAL
+(Repostory Admin console, Repostory ‘Server My SOL, Netezza, Oracle 12.C, MS
+Manager, Designer, Worktow Manager, workiow Access
+Monitor), BVO(Data Validation Option) + Programming Languages Sat, PUSAL,
+
++ Software Tools: TOAD, CITRIX HP-C. CA ‘UNE, Python
+‘Workioad,Putly, Win-SCP. Aller, Tableau, + Software Packages : JIRA, HP-AC, MS-oMce,
+‘Anaconda, Jupytr- Notebooks, Spyder PowerPoint, Word, Excel, Outlook, Beyond
+
+‘+ Operating Systems: Windows 7, Win NT 40, ‘Compare, Visual Studio, SharePoint.
+
+UN, LINUX. and MS.008 Confluence, Servicetow
+
++ Software Methodologies  Viatertal Agile
+
+SENIOR SOFTWARE QUALITY ASSURANCE ANALYST 0672016 10 CURRENT
+Wolters Kluwer | Monsey, NY
+
+Responsibilities:
+‘+ interacted itn Business Analysts and Product Overs during requirement gathering,
+“+ Ledand drove Test planning meetings and ensured all Features were covered and corresponding User
+stores were created
+‘+ Participate in n-sprint grooming Sessions and Sprint Recon sessions atthe end ofeach Sprint
+‘+ Played key role in planning team proving suggestions and feedback to create new updates for clent's
+Proprietary tool DTF (Data Test Framework)
+
+‘+ Perform upstream/dounstream impact assessments to application and work as POC for all co-ordination
+cettors
+
++ Led Regression Test Automation effort and successtuly delvered complete sue of werkRows whieh
+helped cut down regression time by 60%
+
+‘+ Participate in several Knowledge and brainstorming sessions to understand and draw requirements to
+bola new tol to Automate Regression Test.
+
+“+ Workea aiigenty and proactively to ind areas where testing can be automated and successfully
+‘employed Several procedures to cut down total Progression test executon tie by at east 20%
+
+‘+ Bult complex queries using SQL and wrote stored procedures using PUSQL.
+
+‘+ Creation of database objects ike tables, Views, Stored Procedures, Packages using Oracte tols tke
+Toad & SAL" pls
+
+‘+ Used autos} to create Jobs and attach sequences so tha he data load info UAT environment is
+‘automated
+
+‘+ Created and Maintained database backups in Delphic database for UAT Team,
+
+‘+ Provided support to Repor testing and suggested fu defects in various slages of Testing |e, SIT
+(System integration Test, Integration Test and UAT (User Acceptance testing).
+
+‘+ Performed code review and made changesimprovements as required
+
+‘+ Responsible fr providing migration documents to business team
+
+‘+ Responsible for development of all Regression Test Sues using Alteryx Designer for Legacy
+applications
+
+‘+ Handle team and guide with maintenance of legacy Aeryxworfows for Regression Test
+
+‘+ Responsible to gather relevant impacted user stories and bull automation workflows to assist business
+validation
+
+“+ Hela mutiple deme sessions to train peers in Aleryx Designer.
+
+‘+ Held mutiple brown bag sessions per the request of aferent teams and suggested ideas to ft their
+requirement
+
+‘+ Assisted in Tableau Dashboard Report Developments fr Business Users
+
+‘+ Working on busing new Automation tol to ease regression test process between SLS (Sub Ledger
+System) and EOW components.
+
+‘+ Working on using python to buld UI component of Automation tol (Gandalf),
+
+‘+ Proactively Monitored user nteracton wi system and make improvements to tune appications for
+shiting business and user needs
+
+‘+ Created Epics, Features and User stores in JRA and worked wth Scrum Master to make sure all User
+
+stories are property assigned
++ Created Test cases and Executed them in. JRA,
+
+‘SCIPTWARE QUALITY ASSURANCE TESTER 0472014 19 05/2016
+Nes Associates |E! Segundo, CA
+
+Responsibilities:
+‘+ Created Test Senpts by analyzing requirements and mapping specications,
+‘+ Responsible fr creating Test Strategy for New Data Warehouse
+‘+ Performed informatica and OVO (Data Validation Option) instalation and created user-tenaly manual
+‘or team members. This helped decrease tunaround tine by aiding team members to eticienity
+‘dowmload, install and request appropriate roles/accesses by a east 50%.
+‘+ Developed Test Scripts using Informatica DVO for use during SIT (System integration Test)
+‘+ Created complex SOL queries fr use n DVO SOL views
+‘+ Extensively used LTRIM, RTRIM, SNULL, ISDATE functions
+‘+ Created Test Cases and Requirement Traceabity Matrix. Mapped Test Cases to Requirements in HP-
+‘Quaity Center Developed detaied Test Coverage reports
+“+ Managed and conducted System testing, integration testing, Functional Testing and Regression
+Testing
+‘+ Interacted with Stake nolders and Development team to get requirements to facitate UAT testing
+‘+ Performed testcase execution and detec itecycle using HP QC.
+‘+ Prepared status summary reports with detais of Executed, Passed and Falled test cases rom HP QC
+using excel and sent them out everyday to trackrelay team's progress.
+‘+ Valate detects raised during testing cyte.
+‘+ Ensured hat proper severly and pronty has been assigned to detects and fotow up for is resolution
+wth development team
+‘+ Handled daty detect tnage cas efcienty and fotowed company standards in creating and tracking
+detects
+‘+ Prepared test plans for various custom applications resulting n delivery of more seamless and user-
+tenaty application
+‘+ Worked wath cross functional teams to align work, pres, and practices and to determine i planned
+‘enhancements and changes ae n tne wih company's standards
+‘+ Provided valuable insights and alvays setup brainstorm sessions wth al team members while bulding
+Test strategy
+‘+ Managed team ot 2 onshore and 3 offsnore resources,
+‘+ Eficenty handled and provided individuals goals to team,
+‘JUDIOR ETL DEVELOPER 017201310 0272014
+‘Kemper | Blanchard, OK
+Responsibilities:
+‘+ Inleracted wi end-users to identity and transform business requirements into logical and technical
+requirements,
+“+ Workea with source databases tke Oracle, SQL Server and Flat Fes.
+‘+ Developed Mappings to implement business rules using complex logic
+‘+ Used informatica Repository Manager to create Repostones, User Groups and Users based on thelr
+roles.
+‘+ Converted PLSAL Procedures and SAL"Loader scnpis to Informatica mappings.
+‘+ Analyzed data in pre exsting tables and presented best practices for expected outcomes,
+‘+ Tuned performance of informatica session fo large data Tes by increasing block se, data cache size
+‘and target based commit interva
+‘+ Used informatica Designer to create complex mappings using ferent transformations to move data to
+multiple databases.
+‘+ Generated UND shel senpts for automating daly load processes.
+‘+ Created Unit Testing Scenarios and folowed tnorough Unt Testing practices
+
+Master of Science | Electronics And Communications Engineering oseo12
+Southern ilinois University Carbondale, Carbondale, IL
+
++ Databases and SOL for Data Science
+Intps:coursera org'share/77e4c206787a82ea4dd07836880C3643
+‘Data Science Methodology
+Intps:icoursera.org'share!028'¢266572¢e753 14505eaa32e42006
+‘Python for Data Science and Al
+Intps:eoursera.org'share/12428196dc7c011c3783bd6515316178

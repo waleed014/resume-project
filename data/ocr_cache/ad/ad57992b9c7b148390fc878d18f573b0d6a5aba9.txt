@@ -1,0 +1,152 @@
+CAREER OVERVIEW
+
+QUALIFICATIONS
+
+ACCOMPLISHMENTS:
+
+WORK EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+SKILLS.
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 &2 (555) 432-1000 4 resumesample@example.com
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales
+professional with track record of driving increased sales, improving buying experience and elevating company
+profile with target market.
+
+‘+ Lama senior IT infrastructure specialist and
+have 7 years of OEM administration and 6 years
+of DBA administration. have Masters in
+‘Computer Applications (MCA) and a seasoned
+technical specialist providing business
+infrastructure solutions, services and support,
+according to defined processes. With an overall
+‘experience spanning 12 years and having
+worked for Oracle for a period of 11 years, |
+have a tremendous track record in IT support
+area for multiple products and applications with
+‘a great level of consistency and excellence. My
+expertise includes,
+
++ His expertise includes,
+
++ Project Management
+
+* Oracle Enterprise Manager
+
++ Implementation Specialist “WebLogic Server
+Administration
+
++ Incident Management
+
++ Database administration “Oracle Cloud
+operations
+
++ People Management
+
++ ITIL Service Management
+
++ Operations Management
+
++ Change Management "AWS.
+
++ Process capability
+
++ Technical support for 24X7 systems
+
+‘CONSULTANT o772016
+Clifton Larson Allen
+
++ Collaborate with Clients, customers to ensure successful implementations which includes.
+
++ Implement OEM 12c setup, Apply BP, Plugins, performance monitoring, notiiation set up
+
++ Instalvupgrade/patch Oracle Database, performance tuning.
+
++ _Instalvupgrade/patch Oracle WebLogic servers, deploy applications.
+
+MINAGER 12/2014 to 06/2016
+University Of Tennessee Medical Center| Knoxville
+
++ Managed a team for Enterprise manager cloud control(Cloudem2c) for Oracte Public Cloud that
+supports and faciitates end to end monitoring solutions for Oracle cloud services.
+
++ Manage a global team for Cloudem administration (OEM 11g,12c) Create plans, work with team to
+‘execute the project pian in building new EM sites for Cloudem customers and administer them.
+
++ ecru, work with new team members to bring them on board in quicktime Wrting technical documents
+{o help team members in executing new projects Provide technical guidance throughout the project ite
+cycle Process development in a continual manner and provide trouble shooting assistance
+
+PFCNCIPAL SYSTEMS CONSULTANT 02/2005 t0 11/2014
+
++ Part of Oracle Public Cloud's Monitoring Solution team - CloudEM Operation’s team.
+
+‘+ Monitoring included 20000 Database + double the number of Fusion Middleware targets + ZFS targets
+‘and making Enterprise Manager the source of truth for any monitoring and inventory storage solution in
+Oracle Public Cloud.
+
++ The CLOUDEM Operations team supports multiple EM sites across all of the oracle fet.
+
++ This is an ever growing portolio as Oracle is constantly adding new data centers
+
++ When a new site is added itis the job of our team to build out the new EM environments
+
++ Operations team provides the physically installed servers both exadata and exalogic and we go on to
+build out the Enterprise Manager site.
+
++ This includes bulding grid and database, instaling OMS & agents, configuring EM for SSL and SSO
+and working o set up TAS and SDI provisioning services.
+
++ Each of our sites monitor SAAS (Software as a Service) andor PAAS (Platform as a Service)
+‘environments
+
++ Projects varying from building new environments in itterent data centers, building disaster recovery
+‘environments, Oracle management server upgrades (new Releases), database upgrades applying
+crtical bundle patches and updates, ensuring high availabilty for the customers installation of Oracle
+softwareldatabases Upgrade grid, database from 10g to 11203/11204 & 11g to 12c Apply database
+SU patches, and one off patches tothe environment for every possible database bugs Responsible
+{or Tuning the Oracle Applications Database that run on the UNIX server to achieve optimal
+performance.
+
++ Proficient Knowledge of RAC, Configuration Implemented building 20 diferent OEM sites in various
+Oracle Cloud Data Centers Deploy OMS, Upgrade OMS plugins, Applying BP on top of OMS
+infrastructure Implement backup and recovery procedures using RMAN for Oracle databases and test
+regulary in conjunction with Operations.
+
++ Administertupgrade/patcn Oracle WebLogic servers.
+
+ASOOCIATE CONSULTANT. 04/2016 to 02/2016
+Control Risks
++ Installation of Oracle software on Linux boxes Creating tablespaces and database files based on the
+(OFA model
++ Managing database security and creating and assigning appropriate roles and privileges as required by
+the application Administration of Oracle 10g Application Server.
+‘+ Performance tuning of using Explain Plan, SQL Trace, TKPROF, RDA, and STATSPACK
++ Applying Patches for backend Changes Monitoring Backup Schedules.
+* Provided 24x7 on call production support Database Reorganizations to reduce fragmentations.
++ Monitoring alert logs, trace flles to check Database health and corruption.
+
+TRAININGS AND CERTIFICTAIONS Six Sigma Green Belt - certified ITIL V3 Foundation certified
+Oracle DBA 10g/11g Admin Workshop | and II (OCP) Oracle WebLogic ServeriApplication Server 11g
+Administration Oracle 10g/11g RAC DBA Training Exadata and Database Machine Administration
+Workshop PMP - Project Management Professional Training Pursuing AWS Solution Architect -
+Associate certification | BSc Math
+
+‘MCA, Madurai Kamaraj University University of Madras - RKM Vivekananda College
+
+BSc Math
+
+Architect, Backup, c, Change Management, Strong interpersonal skis, excellent communication, Computer
+‘Applications, Clients, Database Administration, OBA, databases, Database, disaster recovery, inventory, IT
+‘Support, ITIL, Linux, People Management, Managing, Excel, MS Project, Windows, Middleware, Enterprise,
+(Operating System, Operations Management, Oracle Applications, Oracle Application server, Oracle
+Enterprise Manager, Oracle, Oracle DBA, Oracle Database, organizational skits, People skis, Excellent
+presentation skills, Primavera, Process development, processes, Project Management, Quick, servers, Six
+‘Sigma, Solaris, SQL, SSL, Technical support, rouble shooting, troubleshooting, HP-Unix, UNX, upgrades,
+Upgrade, Visio, WebLogic, Win runner

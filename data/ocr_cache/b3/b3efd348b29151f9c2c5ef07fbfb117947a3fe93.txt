@@ -1,0 +1,197 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Classic Rave, iMedidata, Cloud
+Admin EDC
+
++ Oracle Clinical TMS
+
++ Inform Architect
+
++ Shared Investigator Platform
+
++ JIRA Systems
+
++ SDTM
+
++ Clinical GxP Process
+
++ MS SQL Server, SQL Databases,
+ce
+
+EDUCATION
+
+Anna University Affiliated
+04/2010
+
+Bachelor of Engineering
+
+CERTIFICATIONS
+
++ Certified Rave Study Builder
++ Certified in IT Service
+‘Management - EXIN ITILF ITIL®
+
+PROFESSIONAL SUMMARY
+
+Well-qualified in Life Science Industry in various phases of Clinical Trial implementation and Subject
+‘Matter Expert responsible for Clinical Data Management applications like iMedidata, Cloud Admin, EDC
+Medidata Rave, Shared Investigator Platform, Oracle Clinical/TMS, Inform Architect. Skilled and
+pragmatic with strong attention to detail and methodical approach. Prepared to offer 11 years of
+experience to fast-paced position with room for advancement.
+
+WORK HISTORY
+
+Upme - Software Engineer Technical Lead
+Aliquippa + 04/2016 - Current
+
++ Primary Point of Contact for CDM applications like Oracle Clinical/TMS 4.5.1, EDC Medidata Rave,
+iMedidata, Cloud Admin, Shared Investigator Platform
+
++ Provided clinical data management leadership within the study team to align on and drive data
+collection requirements for one or more complex clinical development projects from study start-up
+to study close-out
+
++ Generated and maintained all required documentation including the development of specifications,
+coding, and validation efforts in support of eCRFs, database creation, coding setup, edit check
+procedures, import/export setup and processing, listings, and custom reports
+
++ Performed major dictionary upgrades MedDRA and WHODrug in Oracle Clinical/TMS 4.5.6
+
++ Elicited requirements and business needs and translated into functional specifications using
+business analysis tools and methodologies
+
++ Interacts with clients and internal stakeholders, provide guidance to team members and execute
+projects through the course of coding, quality control, deployment, maintenance and support in
+order to deliver the project on time by ensuring maximum application uptime within the limits of
+SLAS
+
++ Helped business in performing User Acceptance Testing during study migration and product
+releases
+
++ Produced detailed and relevant GxP reports for use in making business decisions
+
++ Enhanced project management skills reviewed internal systems and organized training plans to
+address areas in need of improvement
+
++ Interviewed and observed clinical end users and business stakeholders to understand workflows,
+processes, business rules and systems in use
+
++ Provided listings, missing page reports, discrepancy management reports
+
++ Managed study team of 20 employees, overseeing hiring, training, and professional growth of
+employees
+
+Cognizant Technologies Solutions, India - Clinical Data Management Lead
+City + 11/2013 - 03/2016
+
++ Primary point of contact of CDM systems like Oracle Clinical/TMS, Medidata Rave, JReview Rave,
+JIRA Systems, Data Management Plan
+
++ Worked with programming to coordinate Study Data Tabulation Model maps
+
++ Built and deployed plans, reports, validation procedures and entry processes for data management
+needs
+
++ Development of reports using Business Objects
+
++ Collected, reviewed and analyzed data from diverse departments for business needs integration for
+EDC system
+
++ Upheld critical security standards when managing user access actions such as setting up and
+removing accounts, configuration of elearning
+
++ Wrote work instruction manuals, data capture guidelines and standard operating procedures
+
++ Saved $300K by implementing cost-saving initiatives that addressed long-standing problems
+
++ Participated in risk assessment analysis for COTS products to minimize inherent liability in
+software releases
+
++ Involved in change control process and supported client in post go live activities.
+
+Cognizant Technologies Solutions, India - Senior EDC Programmer
+City + 01/2013 - 10/2013
+
++ Designed new/modify eCRF for clinical studies assigned in Oracle Clinical
+
++ Programmed validation and derivation procedures for clinical studies assigned in Oracle Clinical
+
++ Performed technical review of requirement specifications and provide review comments
+
++ TNS and laboratory Data module Setup in Oracle Clinical
+
++ Created listing as per requirement in SQL Developer and provide to TDM
+
++ Responsible for all other study setup development activities. Track all activities performed daily in
+appropriate systems
+
++ Performed the assigned activities to yield timely and high-Quality deliverable
+
++ Ensured completeness and correctness of all training records and adherence to SOPs, iDMA SWP’s,
+Productivity and Quality targets
+
++ Contributed to Root cause analysis and Process improvements. Adhere to the communication and
+risk/issue escalation pathways
+
++ Prepared good quality document relevant to the study development
+
++ Analyzed the findings from QC and UAT and perform the update as required
+
++ Organized knowledge sharing sessions and impart knowledge gathered from earlier studies.
+
+Cognizant Technologies Solutions, India - EDC Programmer
+City » 04/2014 - 12/2012
+
++ Created business intelligence applications and tools to capture and exploit clients’ requests data
+points and metrics.
+
++ Worked with software development and testing tearn members to design and develop robust
+solutions to meet client requirements for functionality, scalability and performance.
+
++ Handled both Inform and Clintrial studies using InForm Architect
+
++ Used C# for form Design and XML scripts in Inform Architect
+
++ Performed CTA activities on the assigned project in a timely and efficient manner
+
++ Understand the client's requirements and review the trial functional specifications
+
++ Presented Protocol Understanding slides of the study during Study Kick off Meeting in order to
+understand the client Specification for the study and also Interacting with the client team on trial
+timelines, standards and Technical study/ program related issues (if any)
+
++ Deployed the designed and developed study setup deliverables in client's environment and validated
+the same
+
++ Performed Peer review before study setup activities are delivered to Data Manager/Client
+
++ Involved in Post UAT changes for study setup activities
+
++ Trained the tearn members on Sanofi Pasteur processes, tools, and clinical study as and when
+required
+
++ Point of contact for the CTA subgroups and work with them on a day to day basis
+
++ Managed the overall quality of deliverables including closure of all open QA issues
+
++ Managed day to day activity including planning and work allocation
+
++ Monitored daily deliverables and assured overall quality of deliverables and SLA adherence
+
++ Performed defect analysis for the study and identify root cause for the issues and escalate it to
+Project Lead to incorporate the preventive actions across studies
+
++ Attended the weekly/monthly status call with the client/offshore/DM.
+
++ Involved in effort estimation prior to development

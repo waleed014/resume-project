@@ -1,0 +1,174 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
++ TSQL
++ SQL Server Integration Services
++ SQL Server Analysis Services
+
++ SQL Server Reporting Services
++ Python
+
++ JIRA
+
++ HTML
+
++ css
+
+EDUCATION AND
+TRAINING
+
+Southeast Missouri State
+University
+
+Cape Girardeau, MO + 12/2017
+‘Master of Science: Technology/
+Industrial Management
+
+GPA: 3.75
+
+CMR Engineering College
+Hyderabad, Telangana + 05/2015
+
+Bachelor of Science: Electronics
+and Communication Engineering
+
+SUMMARY
+
+44+ years of experience in Database development and other BI roles. Results include:
+
++ Improved the performance of at-least 5-10 stored procedures or large running queries per quarter
+to reduce the load on production servers.
+
++ Involved in POC on migrating to PostgreSQL from SQL Server and developed Python code to
+automate the creation of databases in PostgreSQL as a part of it.
+
++ Involved in evaluating various BI application software vendors and proposed solution in creating an
+ad-hoc reporting feature.
+
+EXPERIENCE
+
+Crowe Horwath - Database Developer
+New York City, NY » 04/2019 - Current
+
++ Focused on the analyzed system/business requirements for feasibility.
+
++ Participated in business meetings and communicate with the other tearn members to gather the
+requirements, analyze business challenges and provide the technical specifications regarding the
+code changes and enhancements.
+
++ Worked on the different software and hardware applications and make necessary changes to
+increase the productivity of the organization.
+
++ Installed and configured SQL Server Management Studio 2016 and Visual Studio 2019.
+
++ Gathered, organized and sorted the operational data of restaurant clients using the qualitative
+analysis techniques.
+
++ Identified the slow performing queries and objects that hinder the operational efficiency and
+propose possible solutions using problem-solving skills.
+
++ Made code enhancements to get the data requested by front-end developers.
+
++ Developed new database exports and reports by writing SQL queries to provide the data requested
+by the clients,
+
++ Participated in performance tuning and optimizing the database objects with high CPU, reads and
+duration for smooth and efficient functionality.
+
++ Designed and developed .NET console applications to create SSAS tabular models in Azure Analysis,
+Services server.
+
++ Provided database user access to the admins based on their roles using SQL Server Analysis,
+Services.
+
++ Performed the UAT testing and prepared the test cases when new database objects are developed
+‘or when there were code changes.
+
++ Participated in code review meetings to go through the code changes made by other developers
+and provided necessary feedback.
+
+Environment: SQL Server 2016, SQL Server Management Studio, SQL Server Profiler, Visual Studio
+
+2019, SQL Server Analysis Services, .NET
+
+Crowe Horwath - Database Developer
+Columbus, OH + 04/2018 - 04/2019
+
++ Focused on enhancing the functionality of the applications used for business operations on day-to-
+day basis
+
++ Participated in gathering the Business requirements and Legacy requirements by attending
+meetings with the Product Owners, Subject Matter Expert’s and other business users
+
++ Worked on creating a technology-driven Automation Payroll System to make changes to the
+existing manual tax calculation process
+
++ Installed and configured the SQL Server Management Studio 2017 and Visual Studio 2017 with SSDT.
+
++ Created new databases and participated in integrating those into the existing structure with
+critical thinking abilities by comparing the outcomes
+
++ Created entity relationship diagrams to help other developers understand the structure of the
+database and the relation between the data
+
++ Developed database objects such as stored procedures, triggers, views, Indexes, CTEs etc., and
+created dynamic SQL queries to improve the performance of the database
+
++ Created SSIS packages to extract the data from various sources, performed necessary
+transformations like Data Conversions, Conditional Split, Derived columns, SCD’s etc., to convert
+the data into a useful format and loaded the data into the database tables
+
++ Performed the UAT testing, deployed the SSIS packages into SQL Server Integration Services
+Database Catalog, and configured the log into different environments like Test/Prod
+
+Environment: SQL Server 2017, SQL Server Management Studio, Visual Studio 2017, SQL Server
+
+Integration Services, SQL Server Profiler, Excel, NET
+
+Infor - Junior SOL/MSBI Developer
+City, STATE » 06/2015 - 12/2015
+
++ Interacted with the Business Users and attended the business meetings to gather project
+requirements and legacy requirements
+
++ Installed and configured SQL Server Management Studio 2014 and Visual Studio 2012
+
++ Worked on DDL/DML queries along with dynamic run time queries and created new databases
+
++ Worked with T-SQL joins, Temporary tables, CTE’s etc
+
++ Created Tables, Stored Procedures, Functions, Triggers, Views and Indexes
+
++ Troubleshoot small issues while performing SSIS operations
+
++ Created traces using SQL Server Profiler to find the long running queries and modify those queries
+as a part of Performance Tuning
+
++ Managed fragmentation of indexes by reorganizing them to achieve better performance
+
++ Created SSIS packages by using ETL operations
+
++ Extracted data from various sources like OLE DB, ADO.NET, Flat file connection managers,
+performed built-in transformations like Data Conversion, Audit, Derived Columns etc
+
++ And loaded data into SQL Server database
+
++ Gained knowledge about the Data modeting (Dimensional & Relational) concepts like Star-Schema,
+‘Modeling, Snowflake Schema Modeling
+
++ Created Fact and Dimension tables
+
++ Generated various Monthly, Quarterly, Bi-Yearly, Yearly reports by different type of reports using
+SSRS
+
+Environment: SQL Server 2014, SQL Server Management Studio, Visual Studio 2012, SQL Server
+
+Integration Services, SQL Server Reporting Services, SQL Server Profiler, Excel

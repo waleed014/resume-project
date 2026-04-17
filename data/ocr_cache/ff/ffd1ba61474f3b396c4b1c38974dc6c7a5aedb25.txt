@@ -1,0 +1,129 @@
+EDUCATION
+
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+PROJECTS
+
+PROFESSIONAL
+DEVELOPMENT
+
+EXTRACURRICULAR
+PURSUITS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 82 (555) 432-1000 4 resumesample@example.com
+
+Master of Science | Computer Science 2024
+Ilinois Institute of Technology, Chicago, IL
+‘+ Graduate Pathway Scholarship Recipient
+
+ExCcutive PG Programme | Machine Learning And Al 01/2023
+International Institute of Information Technology, Bangalore, India
+
+B
+Govt. Model Engineering College, Kochi, India
+
++ Central Sector Scheme Scholarship Recipient
++ GPA-7.9/10
+
+elor of Technology | Electronics and Communication Engineering 09/2020
+
+Machine Learning Engineer skilled in Neural Network Models and NLP with 2+ years of experience creating
+machine learning models and retraining systems and transforming data science prototypes to production-
+grade solutions. Consistently optimizes and improves real-time recommendation systems by evaluating
+strategies and testing changes. Consistently employs statistical methods and designs to yield real gains from
+model changes.
+
++ Technical skills: Python, CNN, Data + Areas of Interest: Machine Learning, Data
+Visualization, C++, NLP. KNN, SQL, OpenText Science, Deep Learning, Chatbot Development.
+Exstream, Flutter, HTML, CSS, Facility + Areas of Interest: Machine Learning, Data
+Inspections, Software Installations, End-User Science, Deep Learning, Chatbot Development.
+Support, Service Delivery, IT Support, Risk
+Assessments.
+
++ Data Science Tools/Libraries: NumPy,
+Pandas, TensorFlow, Keras, Pandas, Seaborn,
+Matplotlib, Scikit-Learn, NLTK.
+
++ Areas of Interest: Machine Learning, Data
+Science, Deep Learning, Chatbot Development.
+
+DATA SCIENCE ANALYST 11/2020 to 07/2022
+Castleton Commodities International Lic | Stamford, CT
+
++ Developed revenue model based on Machine Learning and enhanced productivity of client by 30%
+
+‘+ Implemented and evaluated artificial intelligence and machine learning algorithms and neural networks
+for diverse industries
+
++ Documented procedures and business processes and shared information with appropriate
+
+stakeholders.
++ Researched and recommended process improvements designed to mitigate operational and financial
+risk,
+MiCUHINE LEARNING INTERN 06/2019 to 07/2019
+
+Exact Sciences | Armonk, NY
+
+‘+ Created chatbot that books doctor appointments for a Healthcare Company by using NLP.
+‘+ Trained and developed algorithm that used NLP for implementing a bot that deals with customer
+communication.
+
+M.CCHINE LEARNING INTERN 06/2018 to 07/2018
+Exact Sciences | Boise, ID
+
++ Developed basic board game with the help of Reinforced Learning ML Algorithm.
+‘+ Worked with developing a website for implementing the board game.
+
++ Emotion Detection in Speech using CNN
++ Developed an algorithm which identified emotions (Happy, sad etc.) from speech signal
+
++ Leveraged technologies like CNN, Python, MFC Feature Extraction
+
++ Housing Price Prediction
+
+‘+ Predicted whether or not to invest in the potential assets based on their actual value predictions.
++ Utilized technologies like Python, Regression, RFE.
+
++ Bike Sharing Demand Prediction
+
+‘+ Modeled the demand for shared bikes with the available independent variables.
+
+‘+ Used tools/techniques like Numpy, Pandas, Sklearn, Regression
+
++ Neural Networks and Deep Learning - Coursera MOOC by deeplearning ai
+
++ Improving Deep Neural Network: Hyperparameter tuning, Regularization and Optimization -
+Coursera MOOC by deeplearning ai
+
++ Structuring Machine Learning Projects - Coursera MOOC by deeplearning ai
+
++ Introduction to FPGA Design for Embedded Systems - Coursera MOOC by University of Colorado
+Boulder
+
++ Internetwork Security - NPTEL MOOC by Indian institute of Technology
+
++ Beginner and Intermediate Pandas Python Library for Data Science - Coursera Project Networks
+
++ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning -
+Coursera MOOC by deeplearning ai
+
++ Co-founded of a food chain named Frito!
+
+‘+ Secured 2nd position in state and achieved 104 Olympiad rank in the International Olympiad of
+Science.
+
+‘+ Secured 6th position in state and achieved $26 Olympiad rank in the International Talent Hunt
+Olympiad
+
++ Mentor of MEC LABS, Technical Project Competition
+
++ Core member of IEEE during Undergraduate studies
+
+‘+ Hosted the Robowar Event held at Govt. Model Engineering College, Kochi

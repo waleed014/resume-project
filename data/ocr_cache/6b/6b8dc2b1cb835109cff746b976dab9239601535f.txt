@@ -1,0 +1,176 @@
+JESSICA
+CLAIRE
+
+ resumesample@example.com
+%& (555) 432-1000
+
+g 100-Montgomery St. 10th
+Floor
+
+SKILLS
+
++ Containers/ Orchestration :
+Docker, Microservices,
+Terraform, Kubernetes
+
++ Aws Services: EC2, EKS, $3,
+VPC, Cloud Watch , 1AM,
+Lambda, API Gateway, Cloud
+Front.
+
++ DevOps Tools: ansible,
+Terraform, Git hub, Git,
+Jenkins, Docker, Prometheus
+
++ Monitoring: Prometheus,
+Grafana, Cloud Watch
+
++ Scripting: Bash
+
+EDUCATION
+
+Satung High
+Lusaka + 2009
+
+High School Diploma
+
+PROFESSIONAL SUMMARY
+
+Organized and dependable candidate successful at managing multiple priorities with a positive
+attitude. Willingness to take on added responsibilities to meet team goals.
+
+WORK HISTORY
+
+‘Management Decisions, Inc. - DevOps Engineer
+Gaithersburg, MDCarolina, NC + 12/2022 - Current
+
++ Monitored automated build and continuous software integration process to drive build/release
+failure resolution.
+
++ Wrote and updated documentation to outline technical design of entire project.
+
++ Researched and identified new technologies and tools helping to grow agile development
+environment.
+
++ Worked with software development and testing tearm members to design and develop robust
+solutions to meet client requirements for functionality, scalability and performance.
+
++ Spin up infrastructure through code using Terraform, for easy maintenance and replication which
+eliminated manual work.
+
++ Configure 40 servers with use of Ansible by writing some playbooks to assist with task.
+
++ Create Aws serverless applications Lambda Api Gateway $3 CloudFront Dynamo Db CloudWatch with
+terraform.
+
++ Developing Docker images to support Development of application.
+
++ Build monitor and Maintain C1/CD pipelines to fast deployment.
+
++ With use of Grafana and Prometheus monitor application performance ,to eliminate longer
+downtime.
+
++ Wrote code and supported architecture in high-throughput systems on Aws, EC2 EKS, ECS , $3 VPC
+loud.
+
++ Collaborated with team to determine application requirement specifications
+
++ Documented project design for reference and future use cases
+
++ Wrote code and developed tools and integrations to meet cross-platform user needs
+
++ Utilized Cloud Watch to monitor resources such as EC2 RDS DynamoDB set alarms for notification ,
+monitor logs for better understanding and operation of system.
+
+‘Maxar Technologies Ltd - DevOps Engineer
+Chantilly, VABear, DE + 03/2020 - 12/2022
+
++ Monitored automated build and continuous software integration process to drive build/release
+failure resolution.
+
++ Researched and identified new technologies and tools helping to grow agile development
+environment.
+
++ Worked with software development and testing tearm members to design and develop robust
+solutions to meet client requirements for functionality, scalability and performance.
+
++ Collaborated closely with product development teams and other stakeholders, using effective
+communication and active listening skills.
+
++ Automated build and deployment process with Jenkins for Cl/CD
+‘© Worked on Lambda function to aggregate data from triggered functions.
+‘© AWS services, Lambda, Vpc, 53, , Cloudformation, Cdn, Ec2, Ecs , Eks
+‘ Involve in DevOps migration /automation processes for build and deploy systems
+‘¢ Responsible for monitoring Kubernetes cluster
+
++ Developing Git hooks for local repository, code commit, and remote repository, code push
+functionality and worked on GitHub.
+
+Designing application layer of product with ec2, Rds., and elastic cache, and configuring AWS
+loud watch for application monitoring.
+
++ Wrote and updated documentation to outline technical design of entire project.
+Actively manage, and monitor cloud infrastructure on AWS, EC2 $3 and RDS
+Deployed docker containers to break up monolithic app into microservices, improving
+developer workflow ,increase scalability and optimize speed.
+
++ Developed code and supported architecture in high-throughput systems
+
++ Implemented C1/CD process using Jenkins for global development teams , allowing for dozens of
+code updates with zero downtime.
+
++ Re-wrote, Modified kubernetes manifest to deploy kubernetes cluster.
+
++ Set-up Prometheus and grafana for application monitoring.
+
+Kratos Defense And Security - Linux System Administrator
+Fair Lawn, NiBear, DE + 03/2019 - 03/2020
+
++ Installed system-wide hardware components, confirming interoperation and compatibility with
+Linux-based software distros.
+
++ Provided input on hardware and software purchasing, priori
+IT spending.
+
++ Developed organization-wide administration policies to encourage continuity across multiple
+systems and facilities.
+
++ Resolved trouble tickets to reduce backlog from 25 to 12.
+
++ Tuned system performance to optimize efficacy of new and existing hardware components.
+
++ Responsible for system admin tasks such as user/group management .assigning
+permissions, managing disk space usage software and hardware upgrades troubleshooting
+issues, process monitoring, install upgrade and manage packages via apt and yum package
+management
+Configured and maintained Load-Balancer and Firewall on servers across different
+platforms.
+
++ Communicated status updates to affected parties when issues arose.
+
+‘Streamlined troubleshooting processes to improve system support and enhance.
+Performed building and installed multiple Linux machines.
+
+optimize system performance by tracking daily system utilization to determine if problems
+are imminent.
+
+‘Monitored, configured servers for any downtime.
+
+wrote bash scripts to perform bi-weekly server patches on-prem and cloud.
+
+ing return on investment to optimize
+
+‘Monitoring log in Linux servers, including processes, crash and swap management, with
+password recovery and performance tuning
+
+‘¢ Resolve technical incidents through use of experience, available documentation, and tools,
+‘Create documentation for resolutions of technical incident.
+
++ Managing system processes and scheduling processes with cron utility
+
++ Experience with Virtualization technologies like installing, Configuring and administering
+virtual box managed VMs (virtual server) and also involved in maintenance of virtual server
+
++ Install,configure, maintain and administer linux operating systems and components.
+
++ Administer local and remote servers on daily basis providing weekly status report to management

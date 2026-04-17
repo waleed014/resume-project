@@ -1,0 +1,126 @@
+PROFESSIONAL
+‘SUMMARY
+
+SKILLS AND
+CAPABILITIES
+
+WORK HISTORY
+
+EDUCATION
+
+AFFILIATIONS:
+
+CERTIFICATIONS
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor 2 (555) 492-1000 4 resumesample@example.com
+
+Flexible professional with experience developing and building IT solutions. Confident DevOps Engineer with
+exemplary expertise in routine application maintenance tasks, including troubleshooting and testing.
+Enthusiastic technical professional with complete understanding of entire software development lifecycle.
+Highly trained in Kubernetes, Docker, AWS, Jenkins, Helm Chart, Terraform, Prometheus and other Devops
+tools.
+
+‘© Strong Communication and Interpersonal Skills Terraform and Ansible
+
++ Continuous integration Systems ‘+ Maven Installation and integration
+‘+ Continuous Deployment + Sonaraube,
+
++ Jenkins CI + Nexus,
+
++ DevOps Systems + Nginx Ingress
+
+‘+ Version Control Systems (Git and GitHub) Prometheus and Grafana
+
+‘+ Docker and Kubernetes ‘+ Elastic search, Logstast, Kibana ( ELK)
+DEVOPS ENGINEER 08/2017 to CURRENT
+
+Radancy | Asheville, NC
+
+‘+ Monitored automated build and continuous software integration process to drive bulld/release failure
+resolution.
+
+‘+ Wrote and updated documentation to outline technical design of entire project.
+
+‘+ Researched and identified new technologies and tools helping to grow devOps development
+environment.
+
+‘+ Worked with software development and testing team members to design and develop robust solutions
+to meet client requirements for functionality, scalability and performance.
+
+‘+ Worked in team of 12 engineers to build and deploy changes to client application using Jenkins
+pipeline
+
+‘+ Managed several client and system tickets
+
+‘+ Drove project lifespan from concept to final rollout in development and deployment
+
++ Collaborated with team to determine application requirement specifications
+
+‘+ Built automation tools and applications to deploy next-generation platforms
+
+‘+ Deployed and manage both self managed and managed kubernetes cluster
+
++ Collaborated with team to analyze system solutions based on client requirements
+
+PACIENT ACCESS REPRESENTATIVE 02/2017 to 08/2017
+Williamsburg Physical Therapy | Chantilly, VA
+‘+ Performed patient scheduling and registration functions to serve as initial contact point for medical
+office visits.
+‘+ Resolved more than 150 patient financial problems with guidance from documented guidelines and
+procedures.
+‘+ Followed document protocols to safeguard confidentiality of patient records.
+‘+ Facilitated communication between patients and various departments and staff
++ Applied administrative knowledge and courtesy to explain procedures and services to patients.
+‘+ Collected and entered patient demographic and insurance data into computer database to establish
+patient's medical record
+
+OFGRATIONS MANAGER/HEAD BRANCH IT 05/2005 to 01/2017
+Ace Hardware | Pacifica, CA
++ + Established positive and effective communication among unit staff and organization leadership
+reducing miscommunications and missed deadiines.
+‘+ + Identified and resolved unauthorized, unsafe or ineffective practices
+‘+ + Set enforced and optimized internal policies to maintain responsiveness to demands.
+‘+ = Devised processes to boost long-term business success and increase profit levels.
+‘++ Supervise and worked with branch IT team
+‘++ Managed and deploy various update to branch server.
+‘+ + Supported top-level decision-making and strategy planning, forging productive relationships with top
+leaders and serving as key advocate for various personnel issues
++ + Delivered business strategy and developed systems and procedures to improve operational quality
+and team efficiency
+‘+ + Managed and supervise more than 80 employees
+‘+ + Prepared annual budgets with controls to prevent overages
+‘++ Worked in matrix management environment with oversight of division level managers, operations,
+sales, finance, human resources, safety and compliance
+‘+ Implemented process improvement to shape organizational culture, optimize procedures for higher
+efficiency and help company evolve and grow
+‘+ Implemented process improvement to shape organizational culture, optimize procedures for higher
+efficiency and help company evolve and grow
+SYOTEM ADMINISTRATOR 01/2003 to 05/2005
+Applied Underwriters | Omaha
+‘+ Installed important security and functionality patches to maintain optimal protections against intrusion
+and system reliability
+‘+ Worked with users to determine areas of technology in need of improved usability
+‘+ Established network specifications and analyzed workflow, access, information and security
+requirements.
+‘+ Implemented corrective plans of action for network availabilty, utiization and latency.
+‘+ Provisioned new software and hardware for use according to internal business and security policies.
+‘+ Managed more that 50 system and two on-prem server
++ Established network specifications and analyzed workflow, access, information and security
+requirements
+‘+ Managed onboarding and offboarding of employees
+
+Bachelor of Science | Business Management 11/2009
+Ahmadu Bello University, Zaria
+
+Bzchelor of Science | Business Administration And Management 05/2002
+Nuhu Bamali Poly, Kaduna
+
+‘+ AWS Certified Architect Community
+‘+ Nigeria institute Of Management
+‘+ Member StackOverfiow
+
+‘+ AWS - Certified Solution Architect Associate
+‘+ Hachicorp Certified Terraform Associate
+‘+ Professional Manager- NIM

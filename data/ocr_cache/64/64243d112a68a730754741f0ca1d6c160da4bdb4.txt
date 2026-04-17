@@ -1,0 +1,233 @@
+JESSICA
+CLAIRE
+
+(© resumesampleexample.com
+% (958) 422-1000
+
+‘Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+
+Informatica 10.1 & 9.1
+‘CA eroad Automation
+lk Sense tun 2019,
+
+1MSBI SRS 2006 R2
+
+Business Objects 6.5 & XIR3.1
+Oracle 188 10g
+
+Teradata 15.10)
+
+Unix Shel Serpting
+
+MKS integrity Client
+
+Data Quality Management
+Data Analysis
+
+‘ata validation, Reporting
+Data Mining
+
+20
+
+EDUCATION AND
+TRAINING
+
+‘Anna University
+‘Chennai, India» 0572010
+
+‘Bachelor of science: Electronics
+‘Ain Communications Engineering
+
+SUMMARY
+
++ Over 9 years of IT experience with expertise in analysis, design, development and implementation
+‘of Data warehousing applications using ETL and Bl tools with Oracle and Teradata databases on
+‘windows Unie platforms.
+
++7 professional with experience in all phases of software development if ce, with frte at
+successful project implementation - analyzing systems, understanding & defining requirments,
+evelopment, technical designs & reviews and project planing.
+
++ Sound knowedge of Data Warehouse concepts with primary competency in Orace, Teradata, SQL,
+Informatica Power Center, Unix Shell Scripting, lik Sense, Business objects, Microsoft SSRS and
+‘CA Werklgad Automation.
+
++ Strong informatica technical knowedge in the areas of informatica Designer Components - Source
+‘Analyzer, Warehouse Designer, Mapping Designer, Mapplet Designer, Transformation Developer,
+Werkfiw Manager and Workflow Menitor.
+
++ Expert in Teradata and Oracle SQL. Concepts with 9 years of strong working experince in writing
+large/complex SQL queries.
+
++ Expertise in creating tables, triggers, macros, views, stored procedures, functions, Packages,
+join and hash indexes in Teradata databace, And worked with Teradata utilities Uke BTEQ, Fast
+‘Export, Fast Load, Muti Load to export and load data to/from diferent source systems induding
+fat les.
+
++ Experience in Dimensional Data Modeling, Slowly Changing Dimensions Type II @ Il, 00S, Star/
+Snowflake Schema modeling, Fact & Dimension tables, OLAP & OLTP systems.
+
++ Technically proficient in dabugging and Performance tuning of exiting mappings and SQL queries
+‘by analyzing the data flow and evaluating the architecture
+
++ Extensive experiance with Serum and Waterfall software development methodologies
+
++ Involved in Data Anayss, Development and implementation of Data varehouse, Technical trouble
+shooting, usinessInteligence, Data Governance, Application Development and Ostabase
+Performance Tuning & Optimization.
+
++ Working Experience in UNIX Shel Scripting and knowledgeable on Python language
+
+‘+ Clear documentation skis with working knovedge on creating Project deliverable documents tke
+Functional Requirement Specifications, Detaled Design document, System Integration and Unit
+‘Test cases and Rest,
+
++ Proactive and resut-rlented Team Leader adept in mentoring and motivating dynamic teams.
+
++ problem solver with a passion for technology; skid in grasping the big picture, conceptualizing &
+‘implementing solutions & partnering closely with business leaders & Stakeholders for enabling,
+effective sclutons leading to high customer satisfaction and low operational costs
+
++ An effective communicator wth excellent relationship & interpersonal skils
+
+EXPERIENCE
+
+<i  maae sss ams once rercoe
+Paces
+
+Ce se pen
+
+me
+
+*Sevelped Advance SQL procedures, risers, fntons, Indexes to inplement business logic in
+2
+
+“Sueno tt ee gr yt mo ema
+cect a we
+
+Se a ce
+
+‘Two95 International Inc. - Sr ETL Developer
+Alamo, CA » 01/2016 0112018
+
++ Team ead for development, enhancement and support of abbvie US Commercial systems - Sales
+and Marketing Data Warehouse, Care Model Data Warehouse and Real-world Data Warehouse,
+
++ Creation and Maintenance of complex ETL process to generate Incentive compensation extracts
+‘sing the monthly prescription sales data as 2 source from IQV, Symphony and Specialy
+Pharmacies,
+
++ Developed complex Teradata SQL procedures, triggers and functions to implement Incentive
+‘compensation business logic in Teradata.
+
++ Development of several complex mappings in Informatica PowerCenter using a variety of
+‘wansformations, Mapping Parameters, Mapping Variables, Mapplets& Parameter les in Mapping
+Designer.
+
++ Used Teradata utilities such as TPT Update, TPT Stream, Mult Load, Fast Load and ODBC
+‘connection to oad the data ino Teradata Tables using informatica.
+
++ Development of Unix Shel Scripts for pe: processing of source files provided by data vendor.
+
+{Bult an automated dat validation tol with Teradata and Unix Server and saved cents in $10,000
+inman hours every month
+
++ Developed an elaborate ETL process to store sales, invent referral, claims and physician payor
+data of the Abbvie nee product brands in Care Modal Data Warehouse.
+
++ This provided insights on the activities and business behind new product launches.
+
+{SME for onboarding new datasets and vendor files into Care Model Data Warehouse and Real-Werld
+Data warehouse through Oata Quality Management.
+
++ Involved in Business and Technical Requirement Analysts, co-ordinates wit cents fr design
+aifeations.
+
++ igraton of ETL. code and Database objects from development to QA and production environments
+
+‘by maintaining the versions through MKS integrity cen.
+
+Ran the wekflows ona daily and weekly basis using CA Werkoad Automation tol
+
+‘Extensive Data analy to address the data questions by Business.
+
+“Troubleshooting of existing ETL process and implement process and performance improvements
+
+Implementation of ITIL Service management inthe managed services.
+
+Ipmorgan Chase & Co. » ETL Developer
+‘Newark, MI» 07/2012 - 01/2018
+
++ Team ead for Enhancement and Operational Support of Longitudinal Patient Data mart and
+Commercial Data Warehouse systems namely National Level Audits and Regional Sales Anas
+
++ SME for onboarding new data vendors into Data Quality Management (OQM) sytem.
+
+{Working with customer and technical rescurces to address business information and application
+needs,
+
++ Development of ETL. processes to onboard specialty pharmacy provider data files ito Abbie Data
+iarenouse.
+
++ Developed Untx Scripts to automate the pre: processing of multiple specialty pharmacy Fes
+
+{valving in Business and Technical Requirement Analysis by coordinating with Business Analysts
+and client.
+
++ Translating requirements into logical data models and physical data models
+
+{laying a major cele in Analysis, Design and implementation ofthe ETL architecture using
+Informatica 9.1
+
++ Responsible for estimates given to client for new requirements.
+
+{gration of ETL. code and Database objects from development to QA and production environments
+‘by maintaining the versions through MKS integrity cent.
+
++ Ran the workflows ona dally and wekly basis using CA Werkload Automation too.
+
+{Extensive Data analysis to adress various data questions by Business
+
+1 Trouble shooting of existing ETL process and Teradata stored procedure to implement process and
+performance improvements.
+
++ Automation of manual ETL process to reduce the operational cost.
+
++ Responsible for developing technical specifications from business requirements.
+
+1 Understandings ofthe business requirement of extemal source systems and perform cleaning,
+‘standardization and generate match case and duster.
+
++ Worked on system Integration Testing and User application Testing of ETL process changes.
+
+1 Project #4 Project ame: Transact Customization client Abbott Laboratories,
+
+Ips Corp - Programmer Analyst
+
+Princeton, MI»: 05/2010 - 08/2012
+
++ Involved in Business and Techical Requirement Analysis, Report development, Testing Migration
+and Version Maintenance.
+
++ Coordinated with Onsite Technical Lead for design carifcation.
+
+{Worked wit offshore team in understanding complex business requirements and communicated
+‘the technical aspects of business tothe team which helped the team to work ealctvely fora
+better outpt inal phases
+
++ Payed a major role in driving the testing phase of the B project which involved unit testing,
+‘system integration testing and User Acceptance Testing (UAT).
+
++ Payed a kay rele In deployment and intial production phases fr the aplication
+
+ACCOMPLISHMENTS
+
++ Informatica Certified Power center Data Integration 9.x: Developer Specialist.
+
+1 Certified Teradata V2RS = Practitioner Level
+
+{Certified - Domain exper in Life Sciences industry Innovation Title - Data integrity Framework
+(or,

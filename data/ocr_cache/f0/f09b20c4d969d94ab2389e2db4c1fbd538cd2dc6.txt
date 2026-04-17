@@ -1,0 +1,243 @@
+Jessica CLAIRE
+
+100 Montgomery St 10 Floor
+(65) 482-1000 -renmesample@example com
+
+Proresstovat SUMMARY
+
+Am a DevOps and Clo Pato Engineer with combined S yer experience in IT Services. have applied MY ails ia Lins, CUCD
+pels coatguration with Jenkins, Anite and SCM tool for end end Automation & Deployment of Software to dfleententronmeat,
+"have applied my silo mst  ihly secured environment wih et practice to provision and manage ecu, oer,
+
+sealable and highly avalable architects.
+Sens
+
++ Cloud Orchestraton/Automation: AWS CloudFomation, AWS
+Lambda, AWS Systems Manager, AWS SSM Parameter Store,
+Ansible, Docker, Terafom, ECS, Kubemetes
+
+‘+ AWS Security: AWS Security Hub, AWS Goad Duty AWS
+‘Shil, AWS Fiewall Manager, AWS lspetor
+
++ Monitoring & Event Management: AIVS Clotch (Events
+Lops), AWS SNS, AWS S3
+
++ Teatity & Access Management: AWS Organization, AWS.
+TAM, AWS Secrets Manager,
+
++ Governance & Compliance: AWS Config Rules, AWS
+Organization, AWS Coatol Tower, AWS Trusted Adis, AWS,
+‘Well Architected Tool, AWS Badges, AWS License Manage.
+
++ Programming Languages: Bas, ISON, YML, Python
+
+Worx History.
+
++ Application Delivery: Application Delivery! DesOps i,
+‘Colones, AWS CodePipeline, AWS CodeCommit, Codetil,
+CCodedeplo, Gia, Giab, Bitucke,Jekins, esate,
+‘Maven, Sonagubs, News, Tomcat, Docker, Docker, Ansible
+Kaberetes, BCS, Terao
+
++ Data Protection: AWS Ceniicte Manager, AWS KAS,
+Snaps Lifecyle Manager,
+
++ Self Service Sersice Catalog
+
++ Network: VPC, VOW, TGW, COW, IGW, NGW.
+
++ mage & Pate: AWS SSM Patch Manager, AWS Golden AMI
+Pipeline
+
+«AWS Platform: AWS CloulFomation, AWS Lambis, AWS
+‘System Manaze, 3, VPC, EC2, ELB, RDS, SNS, SQS, SES,
+Row, CloulFrom, Service Cato, AWS Auto Sealing,
+Trusted Advi, CloodWatch,
+
+092022 032025 DevOps Engineer
+
+Northstar Financial Services Group Lie—Botill, WA
+
++ Mirating ADO datato Gib space
+
++ Create fiesh project on Gitab ICD from etch
+
++ Merged request on Gitkab space
+
++ Tavolve ia Designing and implementing automate bid deployment, nd testing pipelines using Gib CUCD.
++ TManaged th Gia instance and ite asoited infarct, ntoding backs, wperides, and perfomance
+
++ Wing ADO teams wth the developent eam to ensure that code version conoled and tested befits
+
+deployed.
++ Makes changes on Giab CI Git.ab nner
+
+«+ Preparing document on every of process fer oabearding purpose
+Creating wer erp oer in GiLab paces given permission
+
+(0620180972022 AWS Cloud Engineer AWS DevOps Engineer, Linux Ad
+
+Associates ~ Peat Hatbor, Ht
+
++ Working with version contol system ike Git and Source Code Managemen tol like Gib
+
++ Weeking closely with development eam to ctete an atomated continvus iteration (CD and continuous
+<ekivery (CD) system sing Jeb and Maven fer build, News at antifrtoy,Toeat sd
+
++ SoaaQabe
+
++ Confguing a webook on Jeans to wiger at build when 2 pas event happen cn gillub
+
++ Weeking closely ith development eam to iete a automated continuous tegration (CD) and continuous
+<elivery (CD) system sing Jenkins and Maven
+
+«+ Apply DevOps best practices for ranching & merging strategy to maintain he source code in Git version contol
+
+systems
+
++ Using Maven as bil tol for building of deployable anifacts such as JAR, WAR and EAR aft fom source
+
+de
+
++ Using Dockerfile to bild images and pus othe docks
++ Pacing in ily activities neloed,dlvring dily/ihty bil for the scrum teams, spprtng teams with
+SCM requests, sisting code abit sing CT methodologies, deployments and tovblesooting ober ay40-
+
+day iases
+
++ Using AWS IAM to provision authentication and sthorization ito AWS account and resign acest ee
+
+and oer AWS services
+
++ Creation of golden AMIsto insti contos and enforcement ofthe coos leveraging AWS.
+
++ Guardits
+
++ Build servers using AWS, inpotng volumes, luochng RDS, creating SG ut-saling,ELBs in he defined VPC
+
++ Build and configure avira data center inthe AWS Cloud to support Enterrte Data Warehouse hosing Vial
+vate Cloud (VPC), Pblic and Privat Subnet, Security Groups, NACL, Route Tables,
+
++ Hla Load Balancers, VPC endpoint, Peering Connections, Transit Gateways, Route 53
+
++ Configuring ElantcIPaddes foe AWS instance, to ease consistency in ate of any server re
+
++ Ability to design, build, manage and operate coud infastucture and configuration envconmeat with focus oa
+auomation and infastrcrr as cove sing lod formation and teraform
+
++ Implementing version coutel services using pitt ceatrepostry, store, and wack changes ia source cde ding
+
+software development
+
++ Tool ke github it ab and bithacket ae handy
+
++ Using Terafrm and AWS CloudFommtion to provision and manage lod insite services
+
++ Using Githab Acton an erafoen to automate th deployment of various AWS escurces
+
++ Designed highly axalableifastuctue wing Elastic loud balancer and ato salng fr We servers which Sale
+fn and Seale out stomatal, aio elated envionment by having secuty groupe and
+
+|= NACL sto bots for EC? instances
+
++ Configured CloudWatch lam roles for operational and perfomance metic for or AWS resources and
+
+plications
+
++ Optinized cost ough reserved instances, selection and cansing of EC? instance pes based on este nee,
+‘SS storage clases and S3hfeyle policies, leveraging Auosaling
+
++ Leveraged EC2 Life Cycle Manage to creat raphots of EBS Volumes on scheduled intervals fer backup ant
+eine retention period 2 a cost saving measure
+
++ Developed and crested catom Service Control Policies and atcha them to approved OUs and AWS acount 3+
+
+requied
+
++ Deployed Guard Duty actos our Control Tower managed organization withthe Ani account being he delegate
+
+sinister
+
++ Designed secured, cow optimized highly avaiable and sl olrant architecture dsins and insite ia
+
+AWS
+
++ implemented security best practices in AWS inching mui factor authentication, aces ke rtatonrlebaed
+permissoes, enforced stong password policy, configured seer groups an NACL, $3 bucket policies and
+
+ACLs
+
++ Leading on designs development aspects of migration joumney- asses, mobilize and miprae phase inloding
+leveraging CART, ADS, Migration Beaute, DMS, Cloud Endure ete
+
++ Automatically remedistd Trusted Advisor Sadings wing Amazon CloedWatch events
+
++ Implementing version contol evies using Gitta create repository sore and tack changes in sourcecode ding
+
+software development
+
++ Experienced wi Interpreted Languages lie Bash and pyton
++ Automatically remediate Trot Advisor fodings using Amazon ClondWatch events and AWS Lambda
++ Condoctd deep dive ands on training estos to tanfer knowledge to customers considering o already rng
+
+AWS.
+
++ Wrked as echnical leader alongside customers and infrastructure team and combed to business development,
+
++ Paced in acter discussions to bold conidence and promot customer success when developing new
+snd migrating exiting aplication, software ad series on AWS plate
+
++ Reslsed wouble tickets to reduce backlog fom 20050.
+
++ Resoiedvlneabilties by making improvements to network ec
+
+057201710062018 Linux Administrator
+Standard Integrated Support Ci, STATE
+
+«Recommending rechstons to complet ters and coordinate the implementation ofthe approved course of ation
++ Server and storage management, configuration, troubleshooting, and performance tuning
+
++ Adainistering NFS ad other applications on Linux Severs
+
++ Training new uses tous standard applications equipment’ and business applications
+
++ Creating Liux/Ue Window Vial Machines wing VMware
+
++ RPM and YUM package iastallaions, patching and other sever managemest
+
++ Configuring, managing, monitoring and woublshooing ofall RedHat & CentOS LINUX seve
+
++ implementing and Maintaining Apache web server with HTTPS
+
++ Creating and Managing Uses Group accouts nd seop a user’ work exvroamest
+
+«Responsible for maintaining wer acount ad basi service acex peristons on nfs servers
+
++ Tasting and configuring VMware ESXi Hyperior ca the Physical Hardware
+
++ Configuring RedHat Kickstart server fr intling multiple production serves
+
++ Tasting and configuring monitoring tools Nagios for monitoring the network bandwidth nd the ard ives sans
++ Tasting and configuring SAMBA wily software for saving les with Widows hots
+
++ Responding to emergency calls lating to server performance, diagnos of problems, rpuing problems ocaling
+
+‘pon appropriate vendors to resolve the sue
+
++ Documenting various regular administrative acs and tackyp procedures
+
++ Providing software an hardare tech support
+aging waraties and soar cense foal departnent computes
+
++ Weeking closely with other TF stats to lp determine nd develop systems tat willbe inplemented
++ Responsible for oubleshootng network outages
+
+ownois Bachelor's degree: Computer Scence
+University of Bua - Cameroon
+
+Cexmmearions
+
+AWS Conifed Solutions Architect
+
+Cerf’ ScrmMaser (CSM)
+DEVOPS GENERALIST

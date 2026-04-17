@@ -1,0 +1,180 @@
+PROFESSIONAL
+SUMMARY & AREA OF
+INTEREST
+
+EDUCATION
+
+SKILL HIGHLIGHTS
+
+EXPERIENCE ¢
+
+ACCOMPLISHMENTS
+
+INFORMATION.
+
+Jessica Claire
+
+© 100 Montgomery St 1tn Floor \S (655) 432-1000 4 resumesarple@eramye com
+
+‘teaching assistant vith 7 yeas of experience asa sotvare developer Expertsen data anayss, dala
+mining, machine learing models, and data visualzaton, Create king, wh hands-on experence on
+Python, MLIDL PyTorch,Keras, Numpy, Pandas, Maplotib, ML models ke CNN, KAN, RF, and data
+structures. cme wih prior experience in leading a product devery in Product & Service based industy wth
+‘Age Adatonay, nave completed my Masters and bachelor's n computer scence, and curentypursuing
+master's in daa scence at uchigan Tecnologia Univers.
+
+‘aren of interest
+
+Machine learning modes, robots, dsirbuted alors, neural networks, computer graphics, graph theory,
+‘computer grapnis, computer vision, A, python seal, tableau, mathematics, ume sees problems
+
+Master of Science | Data Science os024
+Michigan Technological University, Houghton, Mi
+
+PASS
+
+‘Coursework: introduction to Data Science, Regression Anas, Aria intligence, Big Data, and
+‘avanced Data king
+
+IMé3ter of Science | Computer And iniomaton Sciences os2016
+Pune University Inala
+
+PA 601
+
+‘Coursework: Design and Anayss of lgornms, Database Management Systems, Computer Netwons,
+Systems Programming, Degree Project, Slence of Programming, Sofware Engineering. Advanced Computer
+‘Architecture, introduction o Programming, Logal Organza of Computers, Mathematical Foundations,
+‘Conerete Math and Graph Theory, Numerca Method, Data Structures an Alors. Computer
+‘Arentectre, and Operating Systems
+
+Bechelor of Science | Computer Science os2019
+Pune University, Inala
+
+‘oPA: 351
+
+‘Coursework: engineering matnemalis, ape scence, fundamentals of programming, basic eect
+‘engineering, basi electronics engineenng,basc cl and mechanical engineering, computer graphics,
+‘screte structures, data structures, programing and pretlem soln, microprocessors and
+
+intertacng ita signal processing, theory of computaon, RDBMS, computer networks, design and anatyss
+‘of algortns, obec oriented programming. advanced databases, and dstibuled operating stems.
+
++ Complex problem saver ‘+ Machine earning Mode bling ana
+‘+ Project management performance ealuaton
+
++ Expertin python ‘Model deployments
+
++ Expertin C+, and java + Embedded system: Python, C2C+sOperaing
++ Data aati reprocessing, and vsvalation stems: Lnux Ubuntu, Windows
+
+‘+ Sofware: Google nats, Tableau, Scala,
+Jupiter, PowerB, SPSS
+‘+ Backend: SOL. MySQL, ROBMS
+
+TEACHING ASSISTANT, COMPUTER SCIENCE 0172029 0 CURRENT
+Kansas state University Foundation | Manhattan, KS
+Foi Models of Computation
+
++ Responsible for grading the assignments for graduate students.
+
++ Explaining ne concept tote students
+
+TECCHING ASSISTANT owr20z2 to 1272022
+“Mantech international Corporation| Warrenton, VA
++ Prepared ana presented lectures for CS1111 regarding CiC++ programming,
+
++ Led alscussion sesions orth ntreducton for computer science couse and graded the homework
+assignments.
+
+‘SEXIOR CONFIGURATION DEVELOPER 1172019 0 0872022
+‘ibrent Digital Heaith Solutions | iy, STATE
++ Developed and optimized test cases to maximize the sucess of manual sofvare testing wth
+consstentnorough approacnes.
+‘+ Debugged code and located he oot causes of problems by evening contguraon tes and logs
++ Cotaborated wth developers and projet managers o assess program capabites, features, and
+testing demands.
++ Completes tests under tight deastines to meet lent demands and projet tenes,
+*Cotaborated with developers and product ouners to tay cuent on product features an intended
+functionality
++ Drove correcve and preventive actos at leadership eve fo accomplish he project
++ Closure and recurrence cont proving necessary resources, and clearing roadblocks.
+
+PROVECTLEAD 107201510 1072019
+‘inj Technologies | iy, STATE
++ Responsible for planning, executon, and conto of asigned projects, ensuing work performed
+comple wth contractual equremens
++ Developed and fotowes a basetne projet plan and milestones fr task completion
++ Led team of engineers in proving design and engineering soutons to various cents and market
+sectors,
++ Promote project completion for new and remodeled cations
++ Met win the manager week to provide a deta projectreport and mestone updates.
++ Defines responstites and oles of eam members. Analyzed Manca reporting systems and project
+schedules to proacvely adress potential problems
++ Montores progres and examined ne risks of varous projects, including Sting fern acontngency
+pian
+
++ Leasing ans teaching a class of undergraduate students for several projets in C+
+‘+ Designed macnin leaning modes
+‘Designed ane algo or the recovery ofarge number of agents.
++ Cotaboratedin a project to deny and interpret American american sign language
+Publications:
++ OPINON BASED WORD EXTRACTION OF SUPERVISED & UNSUPERVISED MODELS FOR
+‘ALIGNMENT
+Jessica Cae, Dr MU. Karat itp shares infsndex phparesiarteview?2601
+‘+ Opinion Based Word Extraction of Supervised & Unsupervised Models fr Agnment Pape 1D
+LUSRDVaGoe4, Publned in: Volume 4 sue § Pubicaton Date 01/08/2016, Pages) 1641-1644
++ Karat, MU; Cae, Jessica, Opinion sed Word Extraction of Supenisea & Unsupervised Models,
+International sonal of Advanced Research n Computer Science . NowDec2018, Vol. 6 sue 8
+pr0.r2. 3p.
+Research Projects
+‘American Sign Language Classification;
+‘The projet aimed to use SVK, CNN among other machine learning models o create an mage casscalon
+sjstem fr ASL. The ASL dataset was fs gathered, and te photos were en preprocessed using cana
+ormateaton, and data sampling, Models were then Waned ana tested using the preprocessed mages as
+Input, many PCA as a preprocessing technique, For model perfomance, we oked athe accuracy of
+teach model again! the execution tine taken by each of them According othe hangs, he CNN model
+wih wo layers had an accuracy of 73.76%, while the SVM model wih PCA had a mama accuracy of
+85.42%. n conparson toe other modes, the SvM mode wth PCA als nad the quckestexecuton ie
+‘Te computational complexty of ang an testing deep learring models on huge datasets was one of he
+rman aticutles encountered. ang nence we pertomed sampling,
+
+chest cancer classitietion
+‘The project aimed al classifying cnestxay mages to detect he type of chest cancer The mages were
+reprocesea trough augmentation and reguaaton Models imped were CNN and ResHetsOV?2
+"ransterlearing was pertomed to neease tne accuracy of model precitons
+
+Food image clasitcation
+Food recognten nas become an important tsk n computer
+lon aue toe Increasing interest in developing inesigent
+ster for meal planing, calorie tracking, and dietary anaiss
+sis. Accurately dentiving food tems in mages is cuca
+
+for tmese appcations. To adress ts, we proposed am
+
+chine learning mode! tat can precisely lass fod tems
+
+trom the mages. The dataset contans static mages of food
+tems ith 1 castes, and each ass as around 100 mages
+forthe same fod tem. The models we aened at was the cas-
+‘5 CAN mode! for mage processing and aso raster lem
+
+Ing by he EticientNet mode. To mprove the modes per-
+fomance, we applied preprocessing techniques such as San
+ng, esiang, and Principal Component Aras (PCA) fo
+feature envacion. The EfsenNel model th preprocessed
+data pertormed best n tems ot acuracy and computation
+
+cost. This etficent, mode has the potential to ai proper nu-
+trlon det to users
+
+‘+ Supersed team of stat members
+
++ Cotaborated vith team n the development of TeleHeatn Product. Resolved product sues through
+consumer testing
+
++ Received "Fulcrum Avard: Suppor in WOW (Wit One Wort) 2016.
+
++ Recelea “Best Team Auarain WOW (Win One Wd) 2018,
+
++ During COMO amis, devered COMIO surveys to end users o anae and lam about thei
+symptoms.

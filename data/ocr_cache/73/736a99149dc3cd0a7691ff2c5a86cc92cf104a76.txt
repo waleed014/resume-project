@@ -1,0 +1,104 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+© 100 Montgomery St. 10th Floor &2 (555) 432-1000 4 resumesample@example.com
+
+‘As a SQL Server DBA for 5+ years now, my experience spans the installation and configuration of different
+versions of SQL server following Microsoft best practices. I have carried out projects involving upgrading and
+patching lower to higher versions of Sql server. Monitoring and securing my environment has been my daily
+responsibilities. In a mission critical scenario i have managed High Availability and Disaster Recovery
+solutions such as Always-On Availability Group, Log shipping, Replication, Traditional Failover Clustering,
+database mirroring in both stand alone and cluster environments. Utilizing SQL Server integration Services
+(SSIS), SQL Server Reporting Services(SSRS) and SQL Server Analysis Services (SSAS),
+
+‘+ Capability to lead projects, maintains a + Engages with others and works with integrity and
+supportive and collaborative teamwork ethically: upholds organizational values,
+environment; encourages teamwork in others sensitive and responsive to internal and external
+
++ Communicate effectively across teams, functions _ needs; maintains a positive attitude, willing to
+and departments, communicate clearly and seek solutions
+concisely and adjust communication style to + Strong communication skills, written and verbal
+
+improve performance
+
+MS SQLSERVER DATABASE ADMINISTRATOR 09/2021 to CURRENT
+Kohls Distribution | City, STATE
+
+Ihave Solid knowledge and experience with database design, performance tuning, query optimization,
+indexes, data migration tools, data analysis, stored procedure programming, linked servers, SQL Server
+setup and installation.
+
+I have extensive experience in maintaining, monitoring, and managing MS SQL Server databases in all
+environments.
+
+Ihave handled projects whereby i Proactively and reactively resolve database performance and capacity
+issues, including managing indexes, SQL trace data, audits, and alerting. Research and develop new ways to
+improve existing functionality and increase uptime and performance.
+
+Ihave 5+ years experience managing Microsoft SQL Server 2008 to 2019 with extensive knowledge of new
+features.
+
+Ihave Working knowledge of Always On, SQL Replication, SQL Clustering, Active Directory management
+(users, groups, permission assignment), Extended Events, Storage Area Networks (SANs) as relates to SQL
+Server, disaster recovery concepts (RPO, RTO), SQL Service Broker.
+
+Ihave managed projects migrating on-premises databases to Azure PaaS (Managed Instance / Azure SQL
+Database)and also provide guidance and recommend architecture changes to ensure compatibility with Azure
+PaaS services
+
+I have working experience multitasking, ability to work well in a fast-paced environment, strong organizational
+skills and attention to details as well as verbal and written communication skills,
+
+Utilizing SQL Server integration Services (SSIS), SQL Server Reporting Services(SSRS) and SQL Server
+Analysis Services (SSAS)
+
+MOSQL SERVER DATABASE ADMINISTRATOR 08/2019 to 09/2021
+Rite Aid Distribution Center | City, STATE
+
+Ihave handled projects designing database schemas, building tables, writing store procedures and working
+with the application development team.
+
+I have worked on projects wherein i maintain and monitor all redundancy and disaster recovery configurations
+for SQL systems, tune performance, troubleshooting and resolving MS SQL server issues in production
+thereby ensuring availability and optimal performance of the SQL databases that support the business
+systems environment.
+
+| proactively and reactively resolve database performance and capacity issues, including managing indexes,
+SQL trace data, audits, and alerting
+
+| provide 24/7 support for critical Production systems by performing scheduled maintenance and support
+release deployment activities after hours
+
+I carried out projects managing SQL Server jobs and Windows scheduled tasks, upgrading SQL Server laaS
+(Virtual Machine) deployments and monitor SQL Database mail end-to-end
+
+Ihave experience managing systems in Microsoft Azure cloud platform, strong knowledge of SQL Server
+Fundamentals:migrating on-premises databases to Azure PaaS (Managed Instance / Azure SQL Database).
+
+QL SERVER DATABASE ADMINISTRATOR 05/2017 to 11/2018
+WAHEL GURU | City, STATE
+
+| perform and document the physical database design to comply with DBA standards and provide optimum
+performance for the application systems
+
+I handled projects wherein i was in charge of creating and/or modify reports to better serve the business
+workflows
+
+Help to establish best practices to standardize, document, and continuously improve workflows related to the
+Microsoft Dynamics GP system
+
+| perform and oversee regular backups of all databases and database servers
+
+Worked with software developers to design and implement new database schemas, stored procedures, user
+defined functions, data transformation service packages, scheduled jobs, etc.
+
+Bachelor of Science | Computer And Information Sciences 06/2012
+Pan African Institute For Development, Buea-Cameroon

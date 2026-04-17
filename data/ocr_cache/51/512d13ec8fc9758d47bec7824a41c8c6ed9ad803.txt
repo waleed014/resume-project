@@ -1,0 +1,109 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Summary
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of
+driving increased sales, improving buying experience and elevating company profile with target market
+
+Hicuuicats
+
+C++, Python, R, SQL, SSAS, QlikView, MatLab, Python, Hadoop,
+HIVE, Microsoft Office [Excel, Word, Powerpoint] Honors: MCPS -
+70
+
+ACCOMPLISHMENTS
+
+* Customer promotional sensitivity and valuation - Walmart (capstone) January 2016.
+
+«* Evaluated incremental revenue gain from customer initiated discounting options for Walmart.
+
+« Recommended promotional strategies and identified target cohorts based on statistical analysis (log regression using interactions, T-Tests
+in R) of significance and sensitivity of customers who use discounting options - coupons and ad match Classify operating condition of
+water pumps in Tanzania - University of Texas at Austin November 2015.
+
+* Developed a random forest based algorithm to predict faulty water pumps as a part of online challenge to help the Tanzanian Ministry of
+‘Water.
+
+« Pre-processed data by feature selection, imputation and adding open data; handled class imbalance by upsampling, downsampling, ROC
+curves and developed classification models in Python - SVM (70%), naive bayes (65%), logistic regression (69%) and random forest
+(82% overall accuracy) Understanding correlation between reviews and car sales using sentiment analysis and PageRank - University of
+‘Texas at Austin September 2015.
+
++ Analyzed sentiments of different car model reviews from Edmunds.com using textblob, NLTK in Python.
+
+« Identified preferences between car models using weighted PageRank algorithm to create a product network and found 70% correlation,
+with sales Analyzed economic inequality in the US based on societal characteristics by using k-means in Python - University of Texas at
+Austin August 2015.
+
+« Developed an unsupervised clustering model to identify the economic inequality among people in the US based on the General Social
+Survey data,
+
+« Demographic segmentation based on varying societal and demographic characteristics using k means algorithm in Python that could be
+used for marketing strategies and framing socio-economic government policies.
+
+EXPERIENCE
+
+08/2016 to Present Data Science Consultant
+Deloitte — Sacramento, CA, US
+‘* Developed a Python based text classification model using NLTK and scikit learn libraries that learns from the texts
+entered as input by case workers for a county to classify requests.
+* Developed data model using SQL and Python to retrieve benchmarks metrics for surveys to analyze culture of a
+company - A Deloitte Product.
+‘* Developed Python Sentiment Analysis of Twitter Data for Mergers and Acquisitions using.
+
+05/2014 to 05/2015 Coordinator
+Viacomebs Inc.
+« Strategized and led organization of campus recruitment events in Bangalore and Chennai for Thorogood
+Associates.
+‘* Analyzed historic recruitment data and implemented changes to the recruitment process to achieve 75% rise in
+college recruit targets.
+‘© Designed data flow diagrams and data models to streamline recruitment process in Bangalore.
+
+07/2012 to 05/2015 Project Lead
+General Dynamics — Key West, India
+
++ A specialist Business Intelligence and Analytics consultancy delivering intuitive, user-friendly information systems
+Project managed a team of three consultants from India and contributed to resource planning and allocation for
+optimum resource utilization.
+
+‘* Organized business user trainings in Munich, Germany and communicated technical use cases of applications with
+key business users.
+
+‘* Designed data models using star schema in QlikView; drafted visualizations to help business improve key calls and
+sales metrics Technical lead.
+
++ Expertise in full project life cycle management from development to implementation across all environments (Dev
+
+UAT / Production).
+
+‘* Led a team of two to build BI and Analytics system for Fortune 100 US mutual insurance company; enabled more
+than 50 senior business users to track loss incurred over different accident dates and development periods using
+Loss Triangles:,
+
+‘* Analyzed and tracked effectiveness of forecasts made during the demand planning and activity planning week of a
+Fortune 100 CPG company.
+
+01/2011 to 05/2012 President
+William Demant Holding A/S.
+‘* Headed the national department technical symposium Alchemy 2012 that saw more than 30% rise in participants.
+‘© Supervised and coordinated national and intemational workshops and guest lectures for ChEA, NIT Trichy.
+
+Epucation
+‘May 2016 Master of Science: Business Analytics
+The University of Texas at Austin
+Business Analytics 3.74 / 4.00
+‘May 2012 Bachelor of Technology: Chemical Engineering
+National Institute of Technology - Trichy
+Chemical Engineering 8.78 / 10.00
+(CERTIFICATIONS
+
+-461, MCPS - 70-463, Data Science - Duke University (Certificate of Distinction, Coursera); Thorogood Associates; Passion Award (2014),
+NITT; 2nd in Class, (2012)
+
+Semis
+
+streamline, BI, Business Intelligence, C++, information systems, insurance, MatLab, Mergers and Acquisitions, Excel, Microsoft Office,
+Powerpoint, Word, Python, recruitment, sales, SQL, surveys, symposium, workshops

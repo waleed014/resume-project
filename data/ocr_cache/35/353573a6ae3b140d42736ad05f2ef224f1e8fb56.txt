@@ -1,0 +1,154 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Systems administration
+
++ Relational Database
+‘Management, Development,
+Testing, Ops Support.
+
++ Research and analysis
+
++ Databases: Oracle, SQL Server,
+Teradata, Hadoop
+
++ Agile/Scrur Methodology
+
++ Software Deployment and
+Quality Assurance
+
++ Linux Environments
+
++ Teamwork and Collaboration
+
++ Excellent Communication
+
+EDUCATION
+
+JNTU
+
+Vijayawada , India + 07/2009
+Bachelor's: Electronics And
+‘Communications Engineering
+University of Northern Virginia
+‘Manassas, VA + 12/2011
+‘Master's: computer science
+
+PROFESSIONAL SUMMARY
+
+(Over 10+ years of proven success in Business Analysis, Design, Implementation and Testing of
+Applications using wide range of Technologies including Data Warehousing, Database and reporting
+systems for Media and Technology, banking, and Health Care Companies.
+
+WORK HISTORY
+
+‘Mckesson Corporation - Sr. Database Developer / Sr. DevOps Team Lead
+Longmont, CO + 08/2014 - Current
+
++ Worked in highly responsible role in development of Dashboard and Metrics for Comcast business
+experience Customer Journey.
+
++ Experience working in DX , EB! and Comcast Business services teams on various Projects Related to
+Customer Journey, Red Alert, Data Quality, CABS Billing, ELOC, Trouble Tickets, Upware and Carrier
+Ethernet.
+
++ Experience in data modeling, ETL (Extract-Transform-Load) concepts, query performance tuning
+and testing.
+
++ Involved with business and product development teams to get functional requirements and
+specking out Technical Requirement Documents for data conversion.
+
++ UNIX shell scripting - ability to write shell scripts that call TD utilities for processing as well as
+manipulating files.
+
++ Captured DQ metrics using Profiles and Created scorecards to review data quality using IDQ.
+
++ Experience in leading team of 8 people.
+
++ Extensive experience in Journaling data and capturing changes of customer on daily basis.
+
++ Assisted in troubleshooting Production support problems, which are related with Teradata database
+and Informatica Data Quality.
+
++ Work with ETL team to develop ETL flows and code for new integrations and maintain and enhance
+existing ETL.
+
++ Extensively worked with Teradata utilities like BTEQ, Fast Export, Fast Load, Multi Load to export
+and load data to/from different source systems including flat files.
+
++ Design, Development and implementation of Power center mappings for DQ Framework using SQL,
+Normalizer, Expression, Filter, Router, Lookup transformations.
+
++ Responsible for all aspects of EDW system, including but not limited to design, creation, tuning,
+validation, and troubleshooting.
+
++ Experience working in Agile Methodology.
+
++ Design and Development experience working with large scale data warehouses and reporting
+solutions.
+
++ Ability to analyze data and work independently and document whole process.
+
++ Ability to work under pressure with solid sense for setting priorities.
+
+Crowe Horwath - Sr. Database Developer
+Chicago, IL + 06/2013 - 07/2014
+
++ Orbit Healthcare Management System (“OHMS “) is interoperable, inexpensive and anywhere
+accessible innovative healthcare platform with integrated Practice Management, EMR and PHR.
+
++ Worked in highly responsible role in developing Health care management system.
+
++ Experience in data modeling, ETL (Extract-Transform-Load) concepts, query performance tuning
+and testing.
+
++ Experience working on Customer Fee Schedules and Service Invoice claims of patient.
+
++ Hands-On Experience writing stored procedures for handling EDI X12 Transactions.
+
++ Extensive experience on EDI 270 -271 Health care Eligibility Benefit and Response.
+
++ Extensive experience on Handing Typical EDI X12 835 - 837 Health Care Claim Payment and Advice.
+
++ Excellent hands-on experiences with UNIX shell scripting and experience working in SASPLEX Unix
+environment to FTP files from windows to UNIX and run KSH scripts in UNIX.
+
++ Design and Development experience working with large scale data warehouses and reporting
+solutions.
+
+Bank Of America - Database Developer
+City, STATE « 05/2012 - 05/2013
+
++ Experience data modeling, ETL (Extract-Transform-Load) concepts, query performance tuning and
+testing.
+
++ Utilized Teradata SQL assistant ODBC-based client utility used to access and manipulate data.
+
++ UNIX shell scripting - ability to write shell scripts that call TD utilities for processing as well as
+manipulating files.
+
++ Wrote many simple and complex ad-hoc reports using SQL Plus and TOAD for business users.
+
++ Transformed complex business rules to Oracle PL/SQL.
+
++ Created database objects like tables, views, procedures, packages using Oracle tools like SQL Plus,
+SQL Developer, PL/SQL Developer and TOAD.
+
++ Hands-On Experience writing, debugging SQL for TD load utilities.
+
++ Supported monthly process needed for project and performed data validation using various
+techniques
+
++ Coordinated with project management staff on database development timelines and project scope
+
++ Tested programs and databases to identify issues and make necessary modifications

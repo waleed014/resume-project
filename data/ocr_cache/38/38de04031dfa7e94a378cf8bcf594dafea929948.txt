@@ -1,0 +1,145 @@
+JESSICA
+CLAIRE
+
+© resumesample@example.com
+& (555) 432-1000
+
+4100 Montgomery St. 10th
+Floor
+
+9
+
+SKILLS
+
++ Infrastructure as Code (laC)
++ Kubernetes
+
++ GitHub
+
++ PaaS Applications
+
++ Azure Devops
+
++ CI/CD (Jenkins)
+
++ Docker
+
++ AWS Networking
+
++ Continuous Monitoring
+
+EDUCATION
+
+University of Maiduguri
+‘Maiduguri, Nigeria « 07/2009
+Post Graduate Diploma:
+Journalism
+
+Olabisi Onabanjo University
+Ogun State, Nigeria « 05/2006
+
+Bachelor of Arts: Mass
+‘Communication
+
+PROFESSIONAL SUMMARY
+
+Confident AWS DevOps Engineer with a 7+ years’ experience. Proven reputation for delivering elastic
+and secure cloud solutions that have helped solve critical problems for numerous organizations and
+corporations. A visionary professional with experience researching new technologies that aligns with
+strategic business needs. Meticulous, creative and can adapt to diverse work cultures while delivering
+prompt and sustainable cloud-based tasks. Collaborates with customers and teammates to develop
+and implement creative technical solutions to challenging problems. Well versed in numerous
+Networking skills, ensuring secure and seamless resource communications, combining financial and
+business goals with pragmatic end-user feedback to optimize post-production updates. Adept at
+working with technical and non-technical people to accomplish shared objectives and achieve business
+success with innovative technical solutions.
+
+WORK HISTORY
+
+‘Avantus - DevOps Engineer
+Zapata, TX + 04/2019 - 06/2022
+
++ Deployed containers on AWS ECS. Created ECS Clusters using a Serverless resource, Fargate,
+complying with PaaS logic. Added IAM Roles in Task Definition, allowing Fargate to pull images from
+AWS ECR and write logs to CloudWatch Logs.
+
++ Deployed Configuration management and provisioning to AWS using Packer-Docker and Terraform,
+involved in auto-rmated deployment of EBS on to the AWS EC2 instance server and automated the
+complete deployment environment on AWS
+
++ Created an Azure DevOps Continuous Integration, Continuous Deployment (CI/CD) Pipelines. Wrote
+k8s.Yml files for deployment, ingress and service for Cl Pipeline and Kubernetes Cluster creation
+deployment files for Cl pipeline.
+
++ Deployed containers on AWS ECS. Created ECS Clusters using a Serverless resource, Fargate,
+complying with PaaS logic. Added IAM Roles in Task Definition, allowing Fargate to pull images from
+AWS ECR and write logs to CloudWatch Logs.
+
++ Worked with diverse Amazon AWS tools and assisted in building infrastructure for various web
+applications using a serverless applications: Elastic Beanstalk, API Gateway, DynamoDB etc.
+
++ Built and deployed Docker containers hosted on Kubernetes to break up monolithic app into
+icroservices resulting in improved developer workflow and an increase in speed and scalability.
+Used the Jenkins automation server to deploy AWS CodeBuild artifacts with AWS CodeDeploy,
+created a functioning CI/CD pipeline
+
++ After implementation, CI/CD pipetine is triggered by code changes made on GitHub repo,
+automatically fed into CodeBuild, after which output is deployed on CodeDeploy.
+
+Transperfect - SOLUTIONS ARCHITECT
+‘Minneapolis, MN + 05/2017 - 02/2019
+
++ Used the Jenkins automation server to deploy AWS CodeBuild artifacts with AWS CodeDeploy,
+created a functioning CI/CD pipeline. After implementation, Cl/CD pipeline is triggered by code
+changes made on GitHub repo, automatically fed into CodeBuild, after which output is deployed on
+CodeDeploy
+
++ Leveraged AWS VPN for an internet-based migration project. Configured VPN tunnel and secured
+tunnel using IPsec (AES Encryption). Initiated a round of Internet Key Exchange (IKE), using IKEV2.
+IKE complimented IPsec and IKE protocol standard using cryptographic algorithms in various
+combinations
+
++ Deployed Containers on AWS ECS. Application was hosted on ECS clusters. Clusters were created
+using an laaS approach: AWS EC2, giving full control of clusters with tasks such as scaling, load
+balancing, security filtering ete
+
++ Used Github to store codes in repositories. Performed static code analysis using tools like
+Veracode, SonarQube etc. Built codes using build/dependency management tools such as Maven,
+Ant, Gradle
+
++ Migrated a monolithic application from an On-Prem environment to the AWS cloud using AWS VPN.
+Refactored application into a Java based microservices application. Hosted application on AWS ECS
+run on an AWS Fargate + AWS EC2 configured cluster.
+
++ Set up CI/CD pipelines for Microservices and integrated tools such as Maven, Bitbucket,
+SonarQube, Nexus, Docker, slack for providing immediate feedback to DEV teams after code check-
+in,
+
++ Migrated components of a monolithic application into the AWS cloud over AWS Direct Connect
+using over a private virtual interface. Configured cloud VPN Gateway to enable migration of data
+into the cloud, while using a complementary Customer Gateway to enable connection with the On-
+Prem.
+
+‘Addx Corporation - AWS SOLUTIONS ARCHITECT
+Washington, DC + 02/2015 - 03/2017
+
++ Managed users and permissions on AWS S3 bucket using IAM. Assigned S3FullAccess and
+‘s3ReadOnly policies respectively to different members of team, bearing in mind the principle of
+least privilege. Integrated $3 bucket with a web domain
+
++ Used CloudFront distribution to serve bucket content globally using AWS Edge locations. Configured
+AWS Certificate Manager SSL for encryption in transi
+
++ Migrated data from On-Prem locations to multiple AWS VPCs in the cloud. Configured AWS Direct
+Connect to migrate data over private network and then launched an AWS Transit Gateway in the
+loud to connect multiple VPCs. Linked Transit Gateway with a Direct Connect Gateway and then to
+Direct Connect to enable secure, seamless hybrid connections of multiple VPCs with the on-prem.
+
++ Managed VPC and subnets for a three-tier application, initiated connections between different
+Availability Zones, blocked suspicious IP ranges in subnets via NACL.
+
++ Configured CloudTrail to track user activities on EC2 based server applications Logged CloudTrail
+trail in .CloudWatch logs for further analysis.
+
++ Built a multiplayer, turn-based gaming application using Dynamo DB tables and items, AWS SNS,
+AWS Cognito, AWS Lambda and AWS Cloud9.

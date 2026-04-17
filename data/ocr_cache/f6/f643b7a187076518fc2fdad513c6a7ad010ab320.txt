@@ -1,0 +1,99 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor # (655) 432-1000 # resumesamplesexample.com
+
+Summary
+Highty experienced Database Administrator of various RDBMS softwares with 12 years of experience in database development and
+
+production environments. Proven skills in database maintenance, secusity management and establishing backup and recovery
+processes to safeguard data. Well-versed in vasious operating systems, including Unix, Red Hat Linux and Microsoft Windows.
+
+Skills
++ Oracle Database Server 10g, Ig, 2 + Windows SharePoint
++ Oracle SQL Developer + BMDB2
++ Oracle SQL Plus + Unix sripting
++ Oracle Enterprise Manager (OEM) + BIEQscxipting
++ Oracle Performance Tuning + Notepad++
++ Oracle Scheduler Job + Microsoft Office (Word, Excel, PowerPoint, Outlook)
++ Oracle Data Guasd Database + WebEx
++ Oracle Recovery Manager (RMAN) + Microsoft Teams
++ Oracle Datapump Export/import + Skype for Business
++ Teradata SQL Assistant + HIP Quality Center for defects management
++ Microsoft SQL Server + Service Now
++ Microsoft Powershell + Linwe
++ Microsoft Remote Desktop + Change Management
++ Windows Task Scheduling + Capacity and Performance Monitoring
+Experience
+
+‘System Database Administrator (DBA), 09/2020 to Current
+Accenture ~ City, STATE
++ Administer and maintain the client's Oracle and SQL Server infrastructure and databases in development, test, and production
++ Apply one-off patches to databases to address a bug or critical issue,
++ Troubleshoot and resolve database-related incidents reported by users or detected by database monitoring solution (ex. Oracle
+Enterprise Manager).
++ Perform routine change requests (e.g, create user, reset password, grant access to database object, update table statistics).
++ Perform regular databace maintenance activities to reclaim space (eg. rebuild indexes, re-organized tables, lean up and
+decommission databases).
++ Ensure that database availability, reliability, and security expectations are met andjor exceeded.
++ Develop and implement database utility programs using Unix and PL/SQL scripts (e.g. database monitoring tools, DBA utilities).
++ Collaboratively work with Oracle and other vendors to resolve critical database issues thru Service Requests (SR) and working
++ Restore, recover, clone and refresh database, user tables using Recovery Manager (RMAN) and Datapump export/import
+utilities.
++ ASM and database replatform and/or upgrades on Red Hat Enterprise Linux and HP-UX.
+
+Application Database Administrator (DBA), 04/2017 to 08/2020
+Accenture - City, STATE
++ KP Factory and Oracle AppDBA Lead of TD2EX Program for KP.
++ Provide consultancy and SME support for objects conversion from Teradata to Oracle Exadata.
++ Process design documentation and implementation of procedures related to long-running sessions, objects code change,
+management and reviews,
++ SQL query tuning and matviews code rewrite to ensure the performance is similar or at par with the performance in Teradata.
++ Change coordinator between KP regional support contacts (RSC), TD2EX Support, KP Factory and Oracle teams (RWP/Infolob)
+for user objects modifications, testing and implementation,
++ Build and manage client relationship by ensuring availability of software/ application for end-users and provide day-to-day
+support for software/applications.
+‘+ AppDBA Primary for SCAL Region for defects, incidents and service requests.
+
+‘System Database Administrator (DBA), 02/2015 to 04/2017
+Accenture - City, STATE
+‘+ Administer and maintain the client's Oracle, DB2 and SQL Server infrastructure and databases in development, test, and
+production environments.
++ Apply one-off patches to databases to address a bug or critical issue,
++ Troubleshoot and resolve database-related incidents reported by users or detected by database monitoring solution (ex. Oracle
+Enterprise Manager).
++ Perform routine change requests (e.g, create user, reset password, grant access to database object, update table statistics).
++ Perform regular database maintenance activities to reclaim space (eg. ebuild indexes, reorganized tables, lean up and
+decommission databases).
++ Ensure that database availability, reliability, and security expectations are met andjor exceeded.
++ Develop and implement database utility programs using Unix and PL/SQL scripts (e.g. database monitoring tools, DBA utilities).
++ Collaboratively work with Oracle and other vendors to resolve critical database issues thru Service Requests (SR) and working
++ Restore, recover, clone and refresh database, user tables using Recovery Manager (RMAN) and Datapump export/import
+utilities
++ ASM and database replatform and/or upgrades on Red Hat Enterprise Linux and HP-UX.
+
+‘System Database Administrator (DBA), 06/2009 to 02/2015
+Accenture ~ City, STATE
+‘+ Administer and maintain the client's Oracle, DB2 and SQL Server infrastructure and databases in development, test, and
+production environments.
++ Restore, recover, clone, refresh database and user tables using Recovery Manager (RMAN) and Datapump export/import
+utilities.
++ Database replatform and/or upgrades on Red Hat Enterprise Linux and HP-UX.
++ Apply one-off patches to databases to address a bug or critica issue,
++ Troubleshoot and resolve database-related incidents reported by users or detected by database monitoring solution (ex. Oracle
+Enterprise Manages).
++ Perform routine change requests (eg, create user, reset password, grant access to database object, update table statistics).
+«+ Perform regular database maintenance activities to eclaim space (eg. rebuild indexes, reorganized tables, lean up and
+decommission databases)
++ Ensure that database availability, reliability, and security expectations are met andjor exceeded.
++ Develop and implement database utility programs using Unix and PL/SQL scripts (e.g. database monitoring tools, DBA utilities).
++ Collaboratively work with Oracle and other vendors to resolve critical database issues thru Service Requests (SR) and working
+
+Education and Training
+
+Bachelor of Science: Computer Science, 04/2002
+‘Computronix College - Philippines
+
+Certifications
+
++ Oracle Certified Professional (OCP), Oracle Database 11g Administrator - Oracle -2013,
++ Oracle Certified Associate (OCA), Oracle Database 11g Administrator - Oracle - 2011

@@ -1,0 +1,116 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Reliable and energetic lead who is able to take on multiple tasks ranging from very technical to analytical and administrative. Able to
+collaborate with various people across the organization and communicate in a way that is both clear and concise. With fourteen years of
+healthcare, financial and regulatory data and analysis and 9 years as a developer in IT; has demonstrated to be a crucial asset within the
+
+organization.
+Sens
+Databases: © PowerBI
+© SAS SOFT SKILL:
+* Oracle * Leadership
+MS SQL Server # Teamwork and Collaboration
+* Greenplum/ Postgresql * Adaptability
+* MYSQL * Ability to work under pressure
+ETL Tools: © Detail oriented
+«SAS * Strong Communication skills
+«Informatica «Self Motivating
+© Alteryx, * Ability to teach and mentor
+BI Platforms: © Project planning
+* Tableau + Multi-tasking
+* Cognos
+Worx History
+
+12/2015 to Current
+
+12/2015 to 05/2019
+
+12/2014 to 12/2015
+
+01/2010 to 12/2014
+
+Epucation
+
+RAPS Data Engineer Lead
+Cox Communications Inc — Washington, DC
+‘* Engaged with team by providing technical assistance and guidance in the various technology platforms across
+entire team
++ Lead projects that employed the coordination of teams across the organization
++ Setup,employed, and enforced the use of Azure Dev Ops to backup and rollback code developed across the whole
+team
+‘© Created a unified configuration in SAS for the SAS developers to ensure all code that is written in a uniform
+standard and is transferrable to other team members
+‘© Moved team away from running SAS code on their local machines and to use the SAS Unix Server instead
+‘* Developed the dataset and process that feeds the executive dashboard. This process encompasses all the programs
+that are supported by our department
+‘* Updated and automated manual processes so that team can focus on other necessary tasks
+
+Lead Data Engineer
+Cgi Group Inc. — Denver, CO
+
+‘© Meeting with business partners and gathering requirements to best serve data warehouse needs.
+
+‘¢ Full support of programs through SDLC including development of SAS code, moving and supporting projects in QA,
+and ensuring successful deployments into production environment.
+
+© Subject matter expert for all membership and encounters related programs within data warehouse.
+
+Triage any production issues and provide solutions with IT operations team to ensure data integrity and timeliness
+
+© Successfully implementing three new products; two of which take advantage of the health insurance exchanges in
+‘New York.
+
+«© Part taking in projects that move the data warehouse from using SAS as an ETL tool and data storage system to
+leveraging the power of Informatica Power Center and loading into SQL Server and Netezza.
+
+Designed and implemented a SharePoint site for the Enterprise Information Management team and ensured adoption of
+tool by the department to effectively communicate across teams in various geographic locations, share and store
+reference documentation, and provide an outlet for the team
+
+ETL Developer
+Viasat — Tampa, FL
+
+‘© Meeting with business partners and gathering requirements to best serve data warehouse needs.
+
+¢ Full support of programs through SDLC including development of SAS code, moving and supporting projects in QA,
+and ensuring successful deployments into production environment.
+
+© Subject matter expert for all membership and encounters related programs within data warehouse.
+
+Triage any production issues and provide solutions with IT operations team to ensure data integrity and timeliness
+
+© Successfully implementing three new products; two of which take advantage of the health insurance exchanges in
+‘New York.
+
+«© Part taking in projects that move the data warehouse from using SAS as an ETL tool and data storage system to
+leveraging the power of Informatica Power Center and loading into SQL Server and Netezza.
+
+‘© Designed and implemented a Sharepoint site for the Enterprise Information Management team and ensured adoption
+of tool by the department to effectively communicate across teams in various geographic locations, share and store
+reference documentation, and provide an outlet for the team to manage projects.
+
+Senior Software Engineer
+WellCare Health Plans Inc. — City, STATE
+
+© Building an Encounters data mart to unify reporting standards across various state markets and automate report
+creation to our various users.
+
+© Working with Finance to provide data for various regulatory requests that support financial statements that were
+submitted. This included the annual Florida rate setting data which affects approximately 40% of Wellcare’s annual
+revenue.
+
+© Maintain SAS BI reporting for Capitation team. This includes development of Stored Processes, Web Report Studio,
+and SAS BI Portal.
+
+# Work on Adhoc requests from various State regulators, internal and external auditors and other internal requests for
+data that cannot go through SDLC due to very tight deadlines and constant changes in requirements.
+
+12/2006
+
+Bachelor of Arts: Finance
+University Of South Florida - Tampa, FL
