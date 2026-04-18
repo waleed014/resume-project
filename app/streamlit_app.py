@@ -25,6 +25,8 @@ from src.pipeline import (  # noqa: E402
     rank_for_jd,
     text_from_file,
 )
+from src.embeddings import encode_one  # noqa: E402
+from src.gap_analysis import gap_analysis  # noqa: E402
 
 st.set_page_config(
     page_title="HireFormer — AI Talent Matching",
@@ -338,6 +340,80 @@ footer {visibility: hidden;}
     overflow: hidden;
     border: 1px solid rgba(108,99,255,0.1);
 }
+
+/* ── Candidate card ── */
+.candidate-card {
+    background: linear-gradient(145deg, #1a1a2e, #16162a);
+    border: 1px solid rgba(108,99,255,0.15);
+    border-radius: 14px;
+    padding: 1.3rem 1.5rem;
+    margin-bottom: 0.9rem;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+}
+.candidate-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(108,99,255,0.4);
+}
+.candidate-card .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.7rem;
+}
+.candidate-card .card-rank {
+    font-size: 1.4rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, #6C63FF, #3B82F6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    min-width: 36px;
+}
+.candidate-card .card-file {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #e8e6f0;
+    flex: 1;
+    margin-left: 0.8rem;
+    word-break: break-all;
+}
+.candidate-card .card-category {
+    display: inline-block;
+    padding: 0.2rem 0.7rem;
+    border-radius: 20px;
+    font-size: 0.78rem;
+    font-weight: 500;
+    background: rgba(108,99,255,0.15);
+    color: #8B83FF;
+    border: 1px solid rgba(108,99,255,0.3);
+}
+.candidate-card .card-score-bar {
+    height: 6px;
+    border-radius: 3px;
+    background: rgba(108,99,255,0.1);
+    margin: 0.5rem 0;
+    overflow: hidden;
+}
+.candidate-card .card-score-fill {
+    height: 100%;
+    border-radius: 3px;
+    background: linear-gradient(90deg, #6C63FF, #3B82F6);
+}
+.candidate-card .card-score-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: rgba(232,230,240,0.7);
+}
+.candidate-card .card-snippet {
+    font-size: 0.82rem;
+    color: rgba(232,230,240,0.45);
+    line-height: 1.5;
+    margin-top: 0.5rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -484,115 +560,329 @@ tab_recruiter, tab_applicant, tab_jobs, tab_explore, tab_about = st.tabs(
 with tab_recruiter:
     _section_header("👔", "Recruiter", "Find the best candidates for any role")
 
-    if idx is None:
-        st.info("Build the resume index first to enable matching.")
-    else:
-        col_input, col_opts = st.columns([3, 1], gap="large")
-        with col_input:
-            jd_text = st.text_area(
-                "Job description",
-                height=240,
-                placeholder="Looking for a Python Developer with 3+ years experience in "
-                "Django, REST APIs, PostgreSQL, Docker, and AWS...",
+    mode = st.radio(
+        "Mode",
+        options=[
+            "Score uploaded CVs against a JD",
+            "Search the indexed resume database",
+        ],
+        horizontal=True,
+        label_visibility="collapsed",
+    )
+
+    # ── Mode A: upload many CVs + one JD ────────────────────────────────────
+    if mode == "Score uploaded CVs against a JD":
+        col_jd, col_cv = st.columns(2, gap="large")
+        with col_jd:
+            st.markdown("##### Job description")
+            jd_text_multi = st.text_area(
+                "Paste the job description",
+                height=220,
+                placeholder="Paste the JD here, or upload a file below ...",
+                key="multi_jd_text",
                 label_visibility="collapsed",
             )
-            jd_file = st.file_uploader(
+            jd_file_multi = st.file_uploader(
                 "Or upload a JD file",
                 type=UPLOAD_TYPES,
+                key="multi_jd_file",
                 help="Supports PDF, DOCX, TXT, and image files",
             )
-        with col_opts:
-            st.markdown("##### Options")
-            top_k = st.slider("Number of candidates", min_value=1, max_value=50, value=10)
-            cats = sorted(set(idx.categories))
-            cat_filter = st.selectbox("Category filter", options=["All categories"] + cats)
-            classify = st.toggle("Predict JD category", value=True)
-            st.markdown("")
-            run_recruiter = st.button("🚀  Rank candidates", type="primary", use_container_width=True)
+        with col_cv:
+            st.markdown("##### Candidate CVs")
+            cv_files = st.file_uploader(
+                "Upload one or more CVs",
+                type=UPLOAD_TYPES,
+                accept_multiple_files=True,
+                key="multi_cv_files",
+                help="Drop multiple resumes (PDF, DOCX, TXT, images) at once",
+            )
+            st.caption(
+                f"{len(cv_files)} CV(s) selected" if cv_files else "No CVs uploaded yet"
+            )
 
-        if run_recruiter:
-            text = jd_text.strip()
-            if jd_file and not text:
+        run_multi = st.button(
+            "📊  Score candidates", type="primary",
+            key="multi_run_btn", use_container_width=True,
+        )
+
+        if run_multi:
+            jd_text_resolved = (jd_text_multi or "").strip()
+            if not jd_text_resolved and jd_file_multi:
                 with st.spinner("Extracting text from JD ..."):
-                    p = _save_upload(jd_file)
+                    p = _save_upload(jd_file_multi)
                     try:
-                        text = text_from_file(p)
+                        jd_text_resolved = text_from_file(p)
                     finally:
                         try:
                             p.unlink()
                         except OSError:
                             pass
 
-            if not text or len(text) < 3:
-                st.error("Please provide a job description (text or file).")
+            if not jd_text_resolved or len(jd_text_resolved) < 10:
+                st.error("Please provide a job description (paste text or upload a file).")
+            elif not cv_files:
+                st.error("Please upload at least one CV.")
             else:
-                with st.spinner("Encoding JD and ranking candidates ..."):
-                    report = rank_for_jd(
-                        text,
-                        top_k=int(top_k),
-                        category_filter=None if cat_filter == "All categories" else cat_filter,
-                        index=idx,
-                        classify=classify,
-                    )
+                from src.preprocessing import clean_text, truncate_words
 
-                if report.predicted_categories:
-                    st.markdown("#### Predicted JD categories")
-                    cat_df = pd.DataFrame(report.predicted_categories)
-                    st.dataframe(
-                        cat_df,
-                        hide_index=True,
-                        width='stretch',
-                        column_config={
-                            "confidence": st.column_config.ProgressColumn(
-                                "Confidence", min_value=0, max_value=1, format="%.2f"
-                            ),
-                        },
-                    )
+                jd_clean = truncate_words(clean_text(jd_text_resolved), 1024)
 
-                if not report.candidates:
-                    st.warning("No matching candidates found.")
-                else:
-                    df = pd.DataFrame([c.to_dict() for c in report.candidates])
-                    df["score"] = df["score"].round(4)
-                    df["file"] = df["file"].apply(lambda p: Path(p).name)
+                with st.spinner("Encoding JD ..."):
+                    jd_vec = encode_one(jd_clean)
 
-                    _metric_cards([
-                        (str(len(df)), "Candidates"),
-                        (f"{df['score'].max():.3f}", "Best Score"),
-                        (f"{df['score'].mean():.3f}", "Avg Score"),
-                        (str(df["category"].nunique()), "Categories"),
-                    ])
-                    st.markdown("")
+                rows: list[dict] = []
+                details: list[dict] = []
 
-                    st.dataframe(
-                        df[["rank", "score", "category", "file", "snippet"]],
-                        hide_index=True,
-                        width='stretch',
-                        column_config={
-                            "rank": st.column_config.NumberColumn("Rank", width="small"),
-                            "score": st.column_config.ProgressColumn(
-                                "Score", min_value=0, max_value=1, format="%.4f"
-                            ),
-                        },
-                    )
+                progress = st.progress(0.0, text="Scoring CVs ...")
+                for i, up in enumerate(cv_files, start=1):
+                    fname = up.name
+                    raw_bytes = bytes(up.getbuffer())
+                    try:
+                        path = _save_upload(up)
+                        try:
+                            cv_text = text_from_file(path)
+                        finally:
+                            try:
+                                path.unlink()
+                            except OSError:
+                                pass
+                    except Exception as exc:  # noqa: BLE001
+                        rows.append({
+                            "file": fname,
+                            "relevance": 0.0,
+                            "skill_match_%": 0.0,
+                            "matched": 0,
+                            "missing": 0,
+                            "matched_skills": "",
+                            "missing_skills": f"⚠️ extraction failed: {exc}",
+                            "verdict": "Error",
+                        })
+                        progress.progress(i / len(cv_files), text=f"Scoring {fname} ...")
+                        continue
 
+                    if not cv_text or len(cv_text) < 30:
+                        rows.append({
+                            "file": fname,
+                            "relevance": 0.0,
+                            "skill_match_%": 0.0,
+                            "matched": 0,
+                            "missing": 0,
+                            "matched_skills": "",
+                            "missing_skills": "⚠️ no readable text found",
+                            "verdict": "Empty",
+                        })
+                        progress.progress(i / len(cv_files), text=f"Scoring {fname} ...")
+                        continue
+
+                    cv_clean = truncate_words(clean_text(cv_text), 1024)
+                    cv_vec = encode_one(cv_clean)
+                    relevance = float((jd_vec * cv_vec).sum())  # both normalized
+
+                    gap = gap_analysis(cv_clean, jd_clean)
+
+                    if relevance >= 0.65 and gap.match_percentage >= 60:
+                        verdict = "🟢 Strong fit"
+                    elif relevance >= 0.45 or gap.match_percentage >= 40:
+                        verdict = "🟡 Possible fit"
+                    else:
+                        verdict = "🔴 Weak fit"
+
+                    rows.append({
+                        "file": fname,
+                        "relevance": round(relevance, 4),
+                        "skill_match_%": round(gap.match_percentage, 1),
+                        "matched": len(gap.matched_skills),
+                        "missing": len(gap.missing_skills),
+                        "matched_skills": ", ".join(gap.matched_skills[:15]),
+                        "missing_skills": ", ".join(gap.missing_skills[:15]),
+                        "verdict": verdict,
+                    })
+                    details.append({
+                        "file": fname,
+                        "bytes": raw_bytes,
+                        "relevance": relevance,
+                        "gap": gap,
+                        "snippet": cv_clean[:600],
+                    })
+                    progress.progress(i / len(cv_files), text=f"Scoring {fname} ...")
+                progress.empty()
+
+                df = pd.DataFrame(rows).sort_values(
+                    ["relevance", "skill_match_%"], ascending=False,
+                ).reset_index(drop=True)
+                df.insert(0, "rank", df.index + 1)
+
+                _metric_cards([
+                    (str(len(df)), "CVs scored"),
+                    (f"{df['relevance'].max():.3f}" if len(df) else "—", "Best relevance"),
+                    (f"{df['relevance'].mean():.3f}" if len(df) else "—", "Avg relevance"),
+                    (
+                        str(int((df["verdict"] == "🟢 Strong fit").sum())),
+                        "Strong fits",
+                    ),
+                ])
+                st.markdown("")
+
+                st.markdown("#### Per-CV report")
+                st.dataframe(
+                    df,
+                    hide_index=True,
+                    width='stretch',
+                    column_config={
+                        "rank": st.column_config.NumberColumn("Rank", width="small"),
+                        "relevance": st.column_config.ProgressColumn(
+                            "Relevance", min_value=0, max_value=1, format="%.4f",
+                            help="Cosine similarity between JD and CV embeddings",
+                        ),
+                        "skill_match_%": st.column_config.ProgressColumn(
+                            "Skill match %", min_value=0, max_value=100, format="%.1f",
+                        ),
+                        "matched_skills": st.column_config.TextColumn(
+                            "Matched skills", width="large",
+                        ),
+                        "missing_skills": st.column_config.TextColumn(
+                            "Missing skills", width="large",
+                        ),
+                    },
+                )
+
+                st.download_button(
+                    "⬇️  Download report as CSV",
+                    data=df.to_csv(index=False).encode("utf-8"),
+                    file_name="recruiter_cv_report.csv",
+                    mime="text/csv",
+                )
+
+                if len(df):
                     fig = px.bar(
-                        df, x="file", y="score", color="category",
-                        title="Candidate similarity scores",
+                        df, x="file", y="relevance", color="verdict",
+                        title="CV relevance vs JD",
+                        hover_data=["skill_match_%", "matched", "missing"],
                     )
                     fig.update_layout(**PLOTLY_LAYOUT, xaxis_tickangle=-45, bargap=0.15)
                     st.plotly_chart(fig, width='stretch')
 
-                    with st.expander("🔍  Inspect a candidate"):
-                        choice = st.selectbox(
-                            "Pick a rank", options=[c.rank for c in report.candidates]
+                if details:
+                    st.markdown("#### Download CVs")
+                    dl_cols = st.columns(min(len(details), 4))
+                    for i, d in enumerate(details):
+                        with dl_cols[i % len(dl_cols)]:
+                            st.download_button(
+                                f"⬇️ {d['file']}",
+                                data=d["bytes"],
+                                file_name=d["file"],
+                                key=f"dl_multi_{i}",
+                            )
+
+    # ── Mode B: rank from prebuilt index (legacy behavior) ──────────────────
+    else:
+        if idx is None:
+            st.info("Build the resume index first to enable database search.")
+        else:
+            col_input, col_opts = st.columns([3, 1], gap="large")
+            with col_input:
+                jd_text = st.text_area(
+                    "Job description",
+                    height=240,
+                    placeholder="Looking for a Python Developer with 3+ years experience in "
+                    "Django, REST APIs, PostgreSQL, Docker, and AWS...",
+                    label_visibility="collapsed",
+                )
+                jd_file = st.file_uploader(
+                    "Or upload a JD file",
+                    type=UPLOAD_TYPES,
+                    help="Supports PDF, DOCX, TXT, and image files",
+                )
+            with col_opts:
+                st.markdown("##### Options")
+                top_k = st.slider("Number of candidates", min_value=1, max_value=50, value=10)
+                cats = sorted(set(idx.categories))
+                cat_filter = st.selectbox("Category filter", options=["All categories"] + cats)
+                classify = st.toggle("Predict JD category", value=True)
+                st.markdown("")
+                run_recruiter = st.button("🚀  Rank candidates", type="primary", use_container_width=True)
+
+            if run_recruiter:
+                text = jd_text.strip()
+                if jd_file and not text:
+                    with st.spinner("Extracting text from JD ..."):
+                        p = _save_upload(jd_file)
+                        try:
+                            text = text_from_file(p)
+                        finally:
+                            try:
+                                p.unlink()
+                            except OSError:
+                                pass
+
+                if not text or len(text) < 3:
+                    st.error("Please provide a job description (text or file).")
+                else:
+                    with st.spinner("Encoding JD and ranking candidates ..."):
+                        report = rank_for_jd(
+                            text,
+                            top_k=int(top_k),
+                            category_filter=None if cat_filter == "All categories" else cat_filter,
+                            index=idx,
+                            classify=classify,
                         )
-                        cand = report.candidates[int(choice) - 1]
-                        c1, c2, c3 = st.columns(3)
-                        c1.metric("File", Path(cand.file).name)
-                        c2.metric("Category", cand.category)
-                        c3.metric("Score", f"{cand.score:.4f}")
-                        st.text_area("Snippet", value=cand.snippet, height=180, disabled=True)
+
+                    if report.predicted_categories:
+                        st.markdown("#### Predicted JD categories")
+                        cat_df = pd.DataFrame(report.predicted_categories)
+                        st.dataframe(
+                            cat_df,
+                            hide_index=True,
+                            width='stretch',
+                            column_config={
+                                "confidence": st.column_config.ProgressColumn(
+                                    "Confidence", min_value=0, max_value=1, format="%.2f"
+                                ),
+                            },
+                        )
+
+                    if not report.candidates:
+                        st.warning("No matching candidates found.")
+                    else:
+                        raw_paths = [c.file for c in report.candidates]
+                        scores = [round(c.score, 4) for c in report.candidates]
+                        categories = [c.category for c in report.candidates]
+
+                        _metric_cards([
+                            (str(len(report.candidates)), "Candidates"),
+                            (f"{max(scores):.3f}", "Best Score"),
+                            (f"{sum(scores)/len(scores):.3f}", "Avg Score"),
+                            (str(len(set(categories))), "Categories"),
+                        ])
+                        st.markdown("")
+
+                        for cand, raw_p in zip(report.candidates, raw_paths):
+                            cv_path = Path(raw_p)
+                            fname = cv_path.name
+                            pct = int(cand.score * 100)
+                            snippet = cand.snippet[:200] if cand.snippet else ""
+
+                            st.markdown(
+                                f'<div class="candidate-card">'
+                                f'<div class="card-header">'
+                                f'<span class="card-rank">#{cand.rank}</span>'
+                                f'<span class="card-file">{fname}</span>'
+                                f'<span class="card-category">{cand.category}</span>'
+                                f'</div>'
+                                f'<div class="card-score-bar"><div class="card-score-fill" style="width:{pct}%"></div></div>'
+                                f'<span class="card-score-label">Score: {cand.score:.4f}</span>'
+                                f'<p class="card-snippet">{snippet}</p>'
+                                f'</div>',
+                                unsafe_allow_html=True,
+                            )
+                            if cv_path.exists():
+                                st.download_button(
+                                    f"⬇️  Download CV",
+                                    data=cv_path.read_bytes(),
+                                    file_name=fname,
+                                    key=f"dl_db_{cand.rank}",
+                                )
 
 
 # ── Applicant tab ───────────────────────────────────────────────────────────────
