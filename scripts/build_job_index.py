@@ -23,9 +23,30 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(mess
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Build JD embeddings")
-    parser.add_argument("--csv", type=str, default=None, help="Override path to JD CSV")
+    parser.add_argument("--csv", type=str, default=None, help="Override path to JD CSV or folder")
     parser.add_argument(
         "--limit", type=int, default=None, help="Only embed the first N rows"
+    )
+    parser.add_argument(
+        "--filter-by-resume-categories",
+        action="store_true",
+        help=(
+            "Keep only JD rows whose title (or source-CSV filename) matches a "
+            "canonical resume category. Greatly reduces the JD index size and "
+            "improves the relevance of recruiter / applicant matches."
+        ),
+    )
+    parser.add_argument(
+        "--per-category-limit",
+        type=int,
+        default=None,
+        help="When filtering by resume category, cap rows per category.",
+    )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=None,
+        help="Encoder batch size (default: SETTINGS.embedding_batch_size).",
     )
     args = parser.parse_args()
 
@@ -33,16 +54,25 @@ def main() -> int:
 
     if args.limit is not None:
         # Write a truncated CSV to a cache location and embed that.
-        import pandas as pd
-
-        df = load_jd_dataframe(csv_path).head(args.limit)
+        df = load_jd_dataframe(
+            csv_path,
+            filter_to_resume_categories=args.filter_by_resume_categories,
+            per_category_limit=args.per_category_limit,
+        ).head(args.limit)
         tmp_csv = SETTINGS.jd_embeddings_path.parent / "_limited_jd.csv"
         df.rename(columns={"title": "Job Title", "description": "Job Description"}).to_csv(
             tmp_csv, index=False
         )
         csv_path = tmp_csv
+        # The temp CSV no longer carries the category column, so re-derive
+        # categories during the actual build below.
 
-    count = build_job_index(csv_path)
+    count = build_job_index(
+        csv_path,
+        filter_to_resume_categories=args.filter_by_resume_categories,
+        per_category_limit=args.per_category_limit,
+        batch_size=args.batch_size,
+    )
     print(f"[OK] Indexed {count:,} job descriptions.")
     return 0
 

@@ -28,8 +28,9 @@ DEFAULT_RAW_SOURCES: List[Path] = [
     Path(r"C:\Users\devmu\Downloads\Resumes Datasets\Bing_images"),
 ]
 
-# Real-world job-description dataset (CSV with columns: Job Title, Job Description).
-DEFAULT_JD_CSV = Path(r"C:\Users\devmu\Downloads\Job Description Data sets\job_title_des.csv")
+# Real-world job-description dataset. Can be a single CSV file or a folder of
+# CSVs (all *.csv in the folder are merged at load time).
+DEFAULT_JD_CSV = Path(r"C:\Users\devmu\Downloads\Job Description Data sets")
 
 
 @dataclass
@@ -101,14 +102,14 @@ class Settings:
         "information technology": "Information Technology",
         "javadeveloper": "Java Developer",
         "java developer": "Java Developer",
-        "managment": "Management",
-        "management": "Management",
+        "managment": "Consultant",
+        "management": "Consultant",
+        "operationmanager": "Consultant",
+        "operations manager": "Consultant",
         "mechanicalengineer": "Mechanical Engineer",
         "mechanical engineer": "Mechanical Engineer",
         "nse": "Network Security Engineer",
         "network security engineer": "Network Security Engineer",
-        "operationmanager": "Operations Manager",
-        "operations manager": "Operations Manager",
         "pbo": "PMO",
         "pmo": "PMO",
         "public": "Public Relations",
@@ -126,7 +127,9 @@ class Settings:
         "webdesigning": "Web Designing",
         "web designing": "Web Designing",
         "building _construction": "Building/Construction",
-        "bpo": "BPO",
+        "bpo": "Information Technology",
+        "avian": "Aviation",
+        "building": "Building/Construction",
     })
 
 

@@ -50,6 +50,15 @@ def main() -> int:
         action="store_true",
         help="Skip image (OCR) files entirely — much faster.",
     )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=None,
+        help=(
+            "Encoder batch size. Lower this (e.g. 8 or 16) when the resume "
+            "corpus is large or memory is tight."
+        ),
+    )
     args = parser.parse_args()
 
     if args.skip_ocr:
@@ -119,7 +128,9 @@ def main() -> int:
         return 1
 
     logger.info("Encoding %d resumes with %s ...", len(texts), SETTINGS.embedding_model)
-    embeddings = encode_texts(texts, show_progress=True, normalize=True)
+    embeddings = encode_texts(
+        texts, show_progress=True, normalize=True, batch_size=args.batch_size
+    )
 
     SETTINGS.embeddings_path.parent.mkdir(parents=True, exist_ok=True)
     np.save(SETTINGS.embeddings_path, embeddings)
