@@ -602,26 +602,20 @@ with tab_applicant:
 
     col_resume, col_jd = st.columns(2, gap="large")
     with col_resume:
-        st.markdown("##### Your resume")
+        st.markdown("##### Upload your resume")
         resume_file = st.file_uploader(
             "Upload your resume",
             type=UPLOAD_TYPES,
             key="applicant_resume",
-            help="PDF, DOCX, TXT, or image",
-        )
-        resume_text_in = st.text_area(
-            "Or paste resume text", height=200, key="applicant_resume_text",
-            label_visibility="collapsed",
-            placeholder="Paste your resume text here...",
+            help="Supports PDF, DOCX, TXT, and image files",
         )
     with col_jd:
-        st.markdown("##### Target job description")
-        jd_text_in = st.text_area(
-            "Paste the job description for gap analysis",
-            height=280,
-            key="applicant_jd",
-            label_visibility="collapsed",
-            placeholder="Paste a target job description to enable skill gap analysis...",
+        st.markdown("##### Upload target job description")
+        jd_file_applicant = st.file_uploader(
+            "Upload a JD for gap analysis (optional)",
+            type=UPLOAD_TYPES,
+            key="applicant_jd_file",
+            help="Upload a JD to enable skill gap analysis",
         )
 
     col_opt, col_btn = st.columns([3, 1])
@@ -638,8 +632,8 @@ with tab_applicant:
         )
 
     if run_applicant:
-        text = resume_text_in.strip()
-        if resume_file and not text:
+        text = ""
+        if resume_file:
             with st.spinner("Extracting resume text ..."):
                 p = _save_upload(resume_file)
                 try:
@@ -650,13 +644,25 @@ with tab_applicant:
                     except OSError:
                         pass
 
+        jd_text_extracted = ""
+        if jd_file_applicant:
+            with st.spinner("Extracting JD text ..."):
+                p2 = _save_upload(jd_file_applicant)
+                try:
+                    jd_text_extracted = text_from_file(p2)
+                finally:
+                    try:
+                        p2.unlink()
+                    except OSError:
+                        pass
+
         if not text or len(text) < 30:
-            st.error("Please provide a resume (file or text).")
+            st.error("Please upload a resume file.")
         else:
             with st.spinner("Analyzing ..."):
                 report = analyze_applicant(
                     text,
-                    jd_text=jd_text_in.strip() or None,
+                    jd_text=jd_text_extracted.strip() or None,
                     classify=True,
                     suggest_jobs=bool(want_jobs and jobs is not None),
                     jobs_top_k=5,
@@ -732,13 +738,10 @@ with tab_jobs:
     else:
         col_input, col_opts = st.columns([3, 1], gap="large")
         with col_input:
+            st.markdown("##### Upload your resume")
             resume_file2 = st.file_uploader(
                 "Upload your resume", type=UPLOAD_TYPES, key="jobs_resume",
-            )
-            resume_text2 = st.text_area(
-                "Or paste resume text", height=200, key="jobs_resume_text",
-                label_visibility="collapsed",
-                placeholder="Paste your resume text here...",
+                help="Supports PDF, DOCX, TXT, and image files",
             )
         with col_opts:
             st.markdown("##### Options")
@@ -752,8 +755,8 @@ with tab_jobs:
             )
 
         if run_jobs:
-            text = resume_text2.strip()
-            if resume_file2 and not text:
+            text = ""
+            if resume_file2:
                 with st.spinner("Extracting resume text ..."):
                     p = _save_upload(resume_file2)
                     try:
@@ -765,7 +768,7 @@ with tab_jobs:
                             pass
 
             if not text or len(text) < 30:
-                st.error("Please provide a resume (file or text).")
+                st.error("Please upload a resume file.")
             else:
                 with st.spinner("Matching ..."):
                     matches = jobs.match(
