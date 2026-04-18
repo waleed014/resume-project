@@ -9,10 +9,14 @@ hireformer-env/
 
 
 # Data artifacts
-*.npy
 *.npz
 *.pkl
-*.joblib
+
+# Large data (allow specific tracked files via git-lfs)
+data/ocr_cache/
+data/extracted/
+data/cache/
+data/job_descriptions/
 
 # Logs
 *.log
