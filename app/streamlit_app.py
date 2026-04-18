@@ -713,67 +713,79 @@ with tab_recruiter:
                 ).reset_index(drop=True)
                 df.insert(0, "rank", df.index + 1)
 
-                _metric_cards([
-                    (str(len(df)), "CVs scored"),
-                    (f"{df['relevance'].max():.3f}" if len(df) else "—", "Best relevance"),
-                    (f"{df['relevance'].mean():.3f}" if len(df) else "—", "Avg relevance"),
-                    (
-                        str(int((df["verdict"] == "🟢 Strong fit").sum())),
-                        "Strong fits",
-                    ),
-                ])
-                st.markdown("")
+                # Persist so downloads don't wipe the results
+                st.session_state["multi_df"] = df
+                st.session_state["multi_details"] = details
 
-                st.markdown("#### Per-CV report")
-                st.dataframe(
-                    df,
-                    hide_index=True,
-                    width='stretch',
-                    column_config={
-                        "rank": st.column_config.NumberColumn("Rank", width="small"),
-                        "relevance": st.column_config.ProgressColumn(
-                            "Relevance", min_value=0, max_value=1, format="%.4f",
-                            help="Cosine similarity between JD and CV embeddings",
-                        ),
-                        "skill_match_%": st.column_config.ProgressColumn(
-                            "Skill match %", min_value=0, max_value=100, format="%.1f",
-                        ),
-                        "matched_skills": st.column_config.TextColumn(
-                            "Matched skills", width="large",
-                        ),
-                        "missing_skills": st.column_config.TextColumn(
-                            "Missing skills", width="large",
-                        ),
-                    },
+        # ── Display persisted Mode A results ────────────────────────────
+        if "multi_df" in st.session_state:
+            df = st.session_state["multi_df"]
+            details = st.session_state["multi_details"]
+
+            _metric_cards([
+                (str(len(df)), "CVs scored"),
+                (f"{df['relevance'].max():.3f}" if len(df) else "—", "Best relevance"),
+                (f"{df['relevance'].mean():.3f}" if len(df) else "—", "Avg relevance"),
+                (
+                    str(int((df["verdict"] == "🟢 Strong fit").sum())),
+                    "Strong fits",
+                ),
+            ])
+            st.markdown("")
+
+            st.markdown("#### Per-CV report")
+            for _, row in df.iterrows():
+                fname = row["file"]
+                pct = int(row["relevance"] * 100)
+                verdict = row["verdict"]
+                matched_skills = row["matched_skills"]
+                missing_skills = row["missing_skills"]
+
+                # Build skill tags HTML
+                skill_html = ""
+                if matched_skills:
+                    for s in matched_skills.split(", ")[:8]:
+                        skill_html += f'<span class="skill-tag skill-matched">{s}</span>'
+                if missing_skills and not missing_skills.startswith("⚠️"):
+                    for s in missing_skills.split(", ")[:8]:
+                        skill_html += f'<span class="skill-tag skill-missing">{s}</span>'
+
+                st.markdown(
+                    f'<div class="candidate-card">'
+                    f'<div class="card-header">'
+                    f'<span class="card-rank">#{int(row["rank"])}</span>'
+                    f'<span class="card-file">{fname}</span>'
+                    f'<span class="card-category">{verdict}</span>'
+                    f'</div>'
+                    f'<div class="card-score-bar">'
+                    f'<div class="card-score-fill" style="width:{pct}%"></div>'
+                    f'</div>'
+                    f'<span class="card-score-label">'
+                    f'Relevance: {row["relevance"]:.4f}  ·  '
+                    f'Skill match: {row["skill_match_%"]:.1f}%  ·  '
+                    f'Matched: {row["matched"]}  ·  Missing: {row["missing"]}'
+                    f'</span>'
+                    f'<div style="margin-top:0.5rem">{skill_html}</div>'
+                    f'</div>',
+                    unsafe_allow_html=True,
                 )
-
-                st.download_button(
-                    "⬇️  Download report as CSV",
-                    data=df.to_csv(index=False).encode("utf-8"),
-                    file_name="recruiter_cv_report.csv",
-                    mime="text/csv",
-                )
-
-                if len(df):
-                    fig = px.bar(
-                        df, x="file", y="relevance", color="verdict",
-                        title="CV relevance vs JD",
-                        hover_data=["skill_match_%", "matched", "missing"],
+                # Download button for this CV
+                detail = next((d for d in details if d["file"] == fname), None)
+                if detail:
+                    st.download_button(
+                        f"⬇️  Download {fname}",
+                        data=detail["bytes"],
+                        file_name=fname,
+                        key=f"dl_multi_{int(row['rank'])}",
                     )
-                    fig.update_layout(**PLOTLY_LAYOUT, xaxis_tickangle=-45, bargap=0.15)
-                    st.plotly_chart(fig, width='stretch')
 
-                if details:
-                    st.markdown("#### Download CVs")
-                    dl_cols = st.columns(min(len(details), 4))
-                    for i, d in enumerate(details):
-                        with dl_cols[i % len(dl_cols)]:
-                            st.download_button(
-                                f"⬇️ {d['file']}",
-                                data=d["bytes"],
-                                file_name=d["file"],
-                                key=f"dl_multi_{i}",
-                            )
+            st.download_button(
+                "📋  Download full report as CSV",
+                data=df.to_csv(index=False).encode("utf-8"),
+                file_name="recruiter_cv_report.csv",
+                mime="text/csv",
+                key="dl_multi_csv",
+            )
 
     # ── Mode B: rank from prebuilt index (legacy behavior) ──────────────────
     else:
@@ -828,61 +840,71 @@ with tab_recruiter:
                             classify=classify,
                         )
 
-                    if report.predicted_categories:
-                        st.markdown("#### Predicted JD categories")
-                        cat_df = pd.DataFrame(report.predicted_categories)
-                        st.dataframe(
-                            cat_df,
-                            hide_index=True,
-                            width='stretch',
-                            column_config={
-                                "confidence": st.column_config.ProgressColumn(
-                                    "Confidence", min_value=0, max_value=1, format="%.2f"
-                                ),
-                            },
+                    # Persist results so they survive download-button reruns
+                    st.session_state["db_report"] = report
+                    st.session_state["db_raw_paths"] = [c.file for c in report.candidates]
+
+            # ── Display persisted results ───────────────────────────────
+            if "db_report" in st.session_state:
+                report = st.session_state["db_report"]
+                raw_paths = st.session_state["db_raw_paths"]
+
+                if report.predicted_categories:
+                    st.markdown("#### Predicted JD categories")
+                    cat_df = pd.DataFrame(report.predicted_categories)
+                    st.dataframe(
+                        cat_df,
+                        hide_index=True,
+                        width='stretch',
+                        column_config={
+                            "confidence": st.column_config.ProgressColumn(
+                                "Confidence", min_value=0, max_value=1, format="%.2f"
+                            ),
+                        },
+                    )
+
+                if not report.candidates:
+                    st.warning("No matching candidates found.")
+                else:
+                    scores = [round(c.score, 4) for c in report.candidates]
+                    categories = [c.category for c in report.candidates]
+
+                    _metric_cards([
+                        (str(len(report.candidates)), "Candidates"),
+                        (f"{max(scores):.3f}", "Best Score"),
+                        (f"{sum(scores)/len(scores):.3f}", "Avg Score"),
+                        (str(len(set(categories))), "Categories"),
+                    ])
+                    st.markdown("")
+
+                    for cand, raw_p in zip(report.candidates, raw_paths):
+                        cv_path = Path(raw_p)
+                        fname = cv_path.name
+                        pct = int(cand.score * 100)
+                        snippet = cand.snippet[:200] if cand.snippet else ""
+
+                        st.markdown(
+                            f'<div class="candidate-card">'
+                            f'<div class="card-header">'
+                            f'<span class="card-rank">#{cand.rank}</span>'
+                            f'<span class="card-file">{fname}</span>'
+                            f'<span class="card-category">{cand.category}</span>'
+                            f'</div>'
+                            f'<div class="card-score-bar">'
+                            f'<div class="card-score-fill" style="width:{pct}%"></div>'
+                            f'</div>'
+                            f'<span class="card-score-label">Score: {cand.score:.4f}</span>'
+                            f'<p class="card-snippet">{snippet}</p>'
+                            f'</div>',
+                            unsafe_allow_html=True,
                         )
-
-                    if not report.candidates:
-                        st.warning("No matching candidates found.")
-                    else:
-                        raw_paths = [c.file for c in report.candidates]
-                        scores = [round(c.score, 4) for c in report.candidates]
-                        categories = [c.category for c in report.candidates]
-
-                        _metric_cards([
-                            (str(len(report.candidates)), "Candidates"),
-                            (f"{max(scores):.3f}", "Best Score"),
-                            (f"{sum(scores)/len(scores):.3f}", "Avg Score"),
-                            (str(len(set(categories))), "Categories"),
-                        ])
-                        st.markdown("")
-
-                        for cand, raw_p in zip(report.candidates, raw_paths):
-                            cv_path = Path(raw_p)
-                            fname = cv_path.name
-                            pct = int(cand.score * 100)
-                            snippet = cand.snippet[:200] if cand.snippet else ""
-
-                            st.markdown(
-                                f'<div class="candidate-card">'
-                                f'<div class="card-header">'
-                                f'<span class="card-rank">#{cand.rank}</span>'
-                                f'<span class="card-file">{fname}</span>'
-                                f'<span class="card-category">{cand.category}</span>'
-                                f'</div>'
-                                f'<div class="card-score-bar"><div class="card-score-fill" style="width:{pct}%"></div></div>'
-                                f'<span class="card-score-label">Score: {cand.score:.4f}</span>'
-                                f'<p class="card-snippet">{snippet}</p>'
-                                f'</div>',
-                                unsafe_allow_html=True,
+                        if cv_path.exists():
+                            st.download_button(
+                                f"⬇️  Download {fname}",
+                                data=cv_path.read_bytes(),
+                                file_name=fname,
+                                key=f"dl_db_{cand.rank}",
                             )
-                            if cv_path.exists():
-                                st.download_button(
-                                    f"⬇️  Download CV",
-                                    data=cv_path.read_bytes(),
-                                    file_name=fname,
-                                    key=f"dl_db_{cand.rank}",
-                                )
 
 
 # ── Applicant tab ───────────────────────────────────────────────────────────────
