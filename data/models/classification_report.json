@@ -1,0 +1,255 @@
+{
+  "Accountant": {
+    "precision": 0.7674418604651163,
+    "recall": 0.8918918918918919,
+    "f1-score": 0.825,
+    "support": 111.0
+  },
+  "Advocate": {
+    "precision": 0.7016129032258065,
+    "recall": 0.8055555555555556,
+    "f1-score": 0.75,
+    "support": 108.0
+  },
+  "Agriculture": {
+    "precision": 0.8173076923076923,
+    "recall": 0.6854838709677419,
+    "f1-score": 0.7456140350877193,
+    "support": 124.0
+  },
+  "Apparel": {
+    "precision": 0.9736842105263158,
+    "recall": 0.9487179487179487,
+    "f1-score": 0.961038961038961,
+    "support": 39.0
+  },
+  "Architect": {
+    "precision": 0.9761904761904762,
+    "recall": 0.9111111111111111,
+    "f1-score": 0.9425287356321839,
+    "support": 45.0
+  },
+  "Arts": {
+    "precision": 0.7913043478260869,
+    "recall": 0.8425925925925926,
+    "f1-score": 0.8161434977578476,
+    "support": 108.0
+  },
+  "Automobile": {
+    "precision": 0.9024390243902439,
+    "recall": 0.9487179487179487,
+    "f1-score": 0.925,
+    "support": 39.0
+  },
+  "Aviation": {
+    "precision": 0.9090909090909091,
+    "recall": 0.9459459459459459,
+    "f1-score": 0.9271523178807947,
+    "support": 74.0
+  },
+  "Banking": {
+    "precision": 0.8285714285714286,
+    "recall": 0.8405797101449275,
+    "f1-score": 0.8345323741007195,
+    "support": 69.0
+  },
+  "Blockchain": {
+    "precision": 0.9,
+    "recall": 0.8181818181818182,
+    "f1-score": 0.8571428571428571,
+    "support": 11.0
+  },
+  "Building/Construction": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 12.0
+  },
+  "Business Analyst": {
+    "precision": 0.8260869565217391,
+    "recall": 0.6551724137931034,
+    "f1-score": 0.7307692307692307,
+    "support": 29.0
+  },
+  "Civil Engineer": {
+    "precision": 0.8918918918918919,
+    "recall": 0.9705882352941176,
+    "f1-score": 0.9295774647887324,
+    "support": 34.0
+  },
+  "Consultant": {
+    "precision": 0.635593220338983,
+    "recall": 0.7575757575757576,
+    "f1-score": 0.6912442396313364,
+    "support": 198.0
+  },
+  "Data Science": {
+    "precision": 0.7889908256880734,
+    "recall": 0.7610619469026548,
+    "f1-score": 0.7747747747747747,
+    "support": 113.0
+  },
+  "Database": {
+    "precision": 0.925,
+    "recall": 0.6981132075471698,
+    "f1-score": 0.7956989247311828,
+    "support": 53.0
+  },
+  "Designer": {
+    "precision": 0.7619047619047619,
+    "recall": 0.8347826086956521,
+    "f1-score": 0.7966804979253111,
+    "support": 115.0
+  },
+  "DevOps Engineer": {
+    "precision": 0.9464285714285714,
+    "recall": 0.8983050847457628,
+    "f1-score": 0.9217391304347826,
+    "support": 59.0
+  },
+  "Digital Media": {
+    "precision": 0.855072463768116,
+    "recall": 0.7866666666666666,
+    "f1-score": 0.8194444444444444,
+    "support": 75.0
+  },
+  "DotNet Developer": {
+    "precision": 0.9743589743589743,
+    "recall": 0.95,
+    "f1-score": 0.9620253164556962,
+    "support": 40.0
+  },
+  "ETL Developer": {
+    "precision": 0.6774193548387096,
+    "recall": 0.75,
+    "f1-score": 0.711864406779661,
+    "support": 56.0
+  },
+  "Education": {
+    "precision": 0.7586206896551724,
+    "recall": 0.8148148148148148,
+    "f1-score": 0.7857142857142857,
+    "support": 54.0
+  },
+  "Electrical Engineer": {
+    "precision": 0.925,
+    "recall": 0.9736842105263158,
+    "f1-score": 0.9487179487179487,
+    "support": 38.0
+  },
+  "Finance": {
+    "precision": 0.875,
+    "recall": 0.7446808510638298,
+    "f1-score": 0.8045977011494253,
+    "support": 47.0
+  },
+  "Food/Beverages": {
+    "precision": 0.9166666666666666,
+    "recall": 0.9777777777777777,
+    "f1-score": 0.946236559139785,
+    "support": 45.0
+  },
+  "HR": {
+    "precision": 0.8983050847457628,
+    "recall": 0.9380530973451328,
+    "f1-score": 0.9177489177489178,
+    "support": 113.0
+  },
+  "Health/Fitness": {
+    "precision": 0.9285714285714286,
+    "recall": 0.9285714285714286,
+    "f1-score": 0.9285714285714286,
+    "support": 28.0
+  },
+  "Information Technology": {
+    "precision": 0.7837837837837838,
+    "recall": 0.7435897435897436,
+    "f1-score": 0.7631578947368421,
+    "support": 78.0
+  },
+  "Java Developer": {
+    "precision": 0.9,
+    "recall": 0.8709677419354839,
+    "f1-score": 0.8852459016393442,
+    "support": 31.0
+  },
+  "Mechanical Engineer": {
+    "precision": 0.8780487804878049,
+    "recall": 0.9473684210526315,
+    "f1-score": 0.9113924050632911,
+    "support": 38.0
+  },
+  "Network Security Engineer": {
+    "precision": 0.8666666666666667,
+    "recall": 0.9285714285714286,
+    "f1-score": 0.896551724137931,
+    "support": 28.0
+  },
+  "PMO": {
+    "precision": 0.9056603773584906,
+    "recall": 0.9056603773584906,
+    "f1-score": 0.9056603773584906,
+    "support": 53.0
+  },
+  "Public Relations": {
+    "precision": 1.0,
+    "recall": 0.9523809523809523,
+    "f1-score": 0.975609756097561,
+    "support": 42.0
+  },
+  "Python Developer": {
+    "precision": 0.8571428571428571,
+    "recall": 0.6122448979591837,
+    "f1-score": 0.7142857142857143,
+    "support": 49.0
+  },
+  "React Developer": {
+    "precision": 0.8354430379746836,
+    "recall": 0.7415730337078652,
+    "f1-score": 0.7857142857142857,
+    "support": 89.0
+  },
+  "SAP Developer": {
+    "precision": 0.8723404255319149,
+    "recall": 0.82,
+    "f1-score": 0.845360824742268,
+    "support": 50.0
+  },
+  "SQL Developer": {
+    "precision": 0.95,
+    "recall": 0.95,
+    "f1-score": 0.95,
+    "support": 40.0
+  },
+  "Sales": {
+    "precision": 0.6923076923076923,
+    "recall": 0.5294117647058824,
+    "f1-score": 0.6,
+    "support": 34.0
+  },
+  "Testing": {
+    "precision": 0.8241758241758241,
+    "recall": 0.7425742574257426,
+    "f1-score": 0.78125,
+    "support": 101.0
+  },
+  "Web Designing": {
+    "precision": 0.9473684210526315,
+    "recall": 0.8181818181818182,
+    "f1-score": 0.8780487804878049,
+    "support": 22.0
+  },
+  "accuracy": 0.8218298555377207,
+  "macro avg": {
+    "precision": 0.8616372902363818,
+    "recall": 0.832695439967089,
+    "f1-score": 0.843545892867039,
+    "support": 2492.0
+  },
+  "weighted avg": {
+    "precision": 0.8275590284262292,
+    "recall": 0.8218298555377207,
+    "f1-score": 0.8216846316171662,
+    "support": 2492.0
+  }
+}

@@ -9,10 +9,6 @@ hireformer-env/
 
 
 # Data artifacts
-data/cache/
-data/embeddings/
-data/models/
-data/extracted/
 *.npy
 *.npz
 *.pkl
