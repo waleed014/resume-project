@@ -523,7 +523,7 @@ with tab_recruiter:
                         except OSError:
                             pass
 
-            if not text or len(text) < 20:
+            if not text or len(text) < 3:
                 st.error("Please provide a job description (text or file).")
             else:
                 with st.spinner("Encoding JD and ranking candidates ..."):
@@ -610,9 +610,16 @@ with tab_applicant:
             help="Supports PDF, DOCX, TXT, and image files",
         )
     with col_jd:
-        st.markdown("##### Upload target job description")
+        st.markdown("##### Target job description")
+        jd_text_in = st.text_area(
+            "Paste job description",
+            height=160,
+            placeholder="Paste the job description here for gap analysis (optional) ...",
+            key="applicant_jd_text",
+            label_visibility="collapsed",
+        )
         jd_file_applicant = st.file_uploader(
-            "Upload a JD for gap analysis (optional)",
+            "Or upload a JD file (optional)",
             type=UPLOAD_TYPES,
             key="applicant_jd_file",
             help="Upload a JD to enable skill gap analysis",
@@ -644,8 +651,8 @@ with tab_applicant:
                     except OSError:
                         pass
 
-        jd_text_extracted = ""
-        if jd_file_applicant:
+        jd_text_extracted = jd_text_in.strip() if jd_text_in else ""
+        if not jd_text_extracted and jd_file_applicant:
             with st.spinner("Extracting JD text ..."):
                 p2 = _save_upload(jd_file_applicant)
                 try:
